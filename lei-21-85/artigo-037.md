@@ -8,4 +8,6 @@
 
 3 - O magistrado é obrigatoriamente ouvido sobre o relatório da inspecção e pode fornecer os elementos que entender convenientes.
 
-4 - As considerações que o inspector eventualmente produzir sobre a resposta do inspeccionado não podem referir factos novos que o desfavoreçam e delas dar-se-á conhecimento ao inspeccionado.
+4 - Em caso de ausência nos termos dos números anteriores, os magistrados judiciais devem informar o local em que podem ser encontrados.
+
+5 - A ausência ilegítima implica, além de responsabilidade disciplinar, a perda de vencimento durante o período em que se tenha verificado.

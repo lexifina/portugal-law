@@ -4,7 +4,7 @@
 
 1 - Com a antecedência mínima de noventa dias relativamente à data previsível de abertura de vagas ou nos oito dias posteriores à ocorrência destas, o Conselho Superior da Magistratura, por aviso publicado no Diário da República, declara aberto concurso curricular de acesso ao Supremo Tribunal de Justiça.
 
-2 - São concorrentes necessários os juízes da Relação que se encontrem no terço superior da lista de antiguidade e não declarem renunciar ao acesso.
+2 - São concorrentes necessários os juízes da Relação que se encontrem no quadro superior da lista de antiguidade e não declarem renunciar ao acesso.
 
 3 - São concorrentes voluntários:
 

@@ -8,4 +8,6 @@
 
 3 - São equiparadas às ausências referidas no número anterior, até ao limite de quatro por mês, as que ocorram em virtude do exercício de funções de direcção em organizações sindicais da magistratura judicial.
 
-4 - Em caso de ausência, os magistrados judiciais devem informar o local em que podem ser encontrados.
+4 - Em caso de ausência nos termos dos números anteriores, os magistrados judiciais devem informar o local em que podem ser encontrados.
+
+5 - A ausência ilegítima implica, além de responsabilidade disciplinar, a perda de vencimento durante o período em que se tenha verificado.

@@ -6,4 +6,4 @@
 
 2 - Os magistrados jubilados continuam vinculados aos deveres estatutários e ligados ao tribunal de que faziam parte, gozam dos títulos, honras, regalias e imunidades correspondentes à sua categoria e podem assistir de traje profissional às cerimónias solenes que se realizem no referido tribunal, tomando lugar à direita dos magistrados em serviço activo.
 
-3 - O magistrado nas condições previstas no n.º 1 pode fazer declaração de renúncia à condição de jubilado, ficando sujeito, em tal caso, ao regime geral de aposentação pública.
+3 - Os magistrados judiciais podem fazer declaração de renúncia à condição de jubilados ou pode ser-lhes concedida, a seu pedido, suspensão temporária dessa condição, ficando sujeitos em tais casos ao regime geral da aposentação pública.

@@ -4,8 +4,6 @@
 
 1 - Não existindo inconveniente para o serviço, aos magistrados judiciais podem ser concedidas pelo Conselho Superior da Magistratura dispensas de serviço para participação em congressos, simpósios, cursos, seminários ou outras realizações, que tenham lugar no País ou no estrangeiro, conexas com a sua actividade profissional.
 
-2 - Podem ainda ser autorizadas dispensas de serviço, independentemente da finalidade e verificada a inexistência de inconveniente para o serviço, até ao limite de seis dias por ano, por períodos não superiores a dois dias consecutivos, não acumuláveis entre si ou com o período ou períodos de gozo de férias.
+2 - É ainda aplicável aos magistrados judiciais, com as devidas adaptações, o disposto no Decreto-Lei n.º 272/88, de 3 de Agosto, quando se proponham realizar programas de trabalho e estudo, bem como frequentar cursos ou estágios de reconhecido interesse público.
 
-3 - É ainda aplicável aos magistrados judiciais, com as devidas adaptações, o disposto na lei geral sobre o regime de bolseiro, dentro e fora do País, quando se proponham realizar programas de trabalho e estudo, bem como frequentar cursos ou estágios de reconhecido interesse público.
-
-4 - A atribuição do estatuto de bolseiro é objeto de deliberação do Conselho Superior da Magistratura, que fixa os respetivos termos, condições e duração.
+3 - O referido no número anterior será objecto de despacho do Ministro da Justiça, sob proposta do Conselho Superior da Magistratura, no qual se fixará a respectiva duração, condições e termos.

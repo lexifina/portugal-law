@@ -1,7 +1,7 @@
 # Artigo 15.º
 
-### (Prisão preventiva)
+### Foro próprio
 
-1 - Os magistrados judiciais não podem ser presos ou detidos sem culpa formada, salvo em flagrante delito por crime punível com pena de prisão superior a três anos.
+1 - Os magistrados judiciais gozam de foro próprio, nos termos do número seguinte.
 
-2 - Em caso de prisão, o magistrado judicial é imediatamente apresentado ao juiz competente.
+2 - O foro competente para o inquérito, a instrução e o julgamento dos magistrados judiciais por infracção penal ou contravencional, bem como para os recursos em matéria contra-ordenacional, é o tribunal de categoria imediatamente superior àquele em que se encontra colocado o magistrado, sendo para os juízes do Supremo Tribunal de Justiça este último Tribunal.

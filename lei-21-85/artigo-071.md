@@ -4,7 +4,7 @@
 
 Os magistrados judiciais suspendem as respectivas funções:
 
-a) No dia em que forem notificados de despacho de pronúncia por crime doloso;
+a) No dia em que forem notificados do despacho de pronúncia ou do despacho que designa dia para julgamento por crime doloso.
 
 b) No dia em que lhes for notificada suspensão preventiva por motivo de procedimento disciplinar ou aplicação de pena que importe afastamento do serviço;
 

@@ -2,9 +2,9 @@
 
 ### (Competência do presidente)
 
-Compete ao presidente do Conselho Superior da Magistratura:
+Compete ao Presidente do Conselho Superior da Magistratura:
 
-a) Exercer as funções que lhe forem delegadas pelo Conselho;
+a) Exercer as funções que lhe forem delegadas pelo Conselho, com a faculdade de subdelegar no vice-presidente;
 
 b) Dar posse ao vice-presidente, aos inspectores judiciais e ao secretário;
 

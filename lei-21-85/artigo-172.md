@@ -6,7 +6,7 @@
 
 2 - O requerimento deve ser instruído com o Diário da República em que tiver sido publicado o acto recorrido ou, na falta de publicação, com documento comprovativo do referido acto e demais documentos probatórios.
 
-3 - Quando o recurso for interposto de actos de indeferimento tácito, o requerimento é instruído com cópia da pretensão e certidão comprovativa de a mesma não ter sido objecto de deliberação ou decisão.
+3 - Quando o recurso for interposto de actos de indeferimento tácito, o requerimento é instruído com cópia da pretensão.
 
 4 - Se, por motivo justificado, não tiver sido possível obter os documentos dentro do prazo legal, pode ser requerido prazo para a sua ulterior apresentação.
 

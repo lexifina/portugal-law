@@ -6,4 +6,6 @@
 
 2 - Os requerimentos são registados na secretaria do Conselho e caducam com a apresentação de novo requerimento.
 
-3 - São considerados em cada movimento os requerimentos entrados até aos dias 15 de Fevereiro, 15 de Junho e 15 de Novembro, ou até vinte dias antes da reunião do Conselho, conforme se trate dos movimentos referidos no n.º 1 ou no n.º 2 do artigo 38.º
+3 - São considerados em cada movimento os requerimentos entrados até ao dia 15 de Junho, ou até 20 dias antes da reunião do Conselho, conforme se trate do movimento referido no n.º 1 ou no n.º 2 do artigo 38.º
+
+4 - Os requerimentos de desistência são atendidos desde que dêem entrada na secretaria do Conselho Superior da Magistratura até 15 dias antes da reunião do Conselho.

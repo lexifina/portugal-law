@@ -1,5 +1,5 @@
 # Artigo 23.º-A
 
-### Suplemento remuneratório pela execução de serviço urgente
+### Compensação por serviço de turno
 
-O suplemento remuneratório diário devido aos magistrados pelo serviço urgente que deva ser executado aos sábados, nos feriados que recaiam em segunda-feira e no segundo dia feriado, em caso de feriados consecutivos, é pago nos termos da lei geral, calculando-se o valor da hora normal de trabalho com referência ao índice 100 da escala salarial.
+A compensação devida pelo serviço urgente como tal previsto no Código de Processo Penal e Organização Tutelar de Menores efectuado aos sábados, domingos e feriados é fixada em diploma próprio.

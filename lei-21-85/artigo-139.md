@@ -4,7 +4,7 @@
 
 1 - Os vogais referidos na alínea b) do n.º 1 do artigo 137.º são designados nos termos da Constituição e do Regimento da Assembleia da República.
 
-2 - Os vogais referidos na alínea c) do n.º 1 e no n.º 2 do artigo 137.º são eleitos por sufrágio secreto e universal, segundo o princípio da representação proporcional e o método da média mais alta, com obediência às seguintes regras:
+2 - Os vogais referidos na alínea c) do n.º 1 do artigo 137.º são eleitos por sufrágio secreto e universal, segundo o princípio da representação proporcional e o método da média mais alta, com obediência às seguintes regras:
 
 a) Apura-se em separado o número de votos obtido por cada lista;
 

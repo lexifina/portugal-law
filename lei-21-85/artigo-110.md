@@ -12,6 +12,4 @@
 
 1 - O processo disciplinar é o meio de efectivar a responsabilidade disciplinar.
 
-2 - O processo disciplinar é sumário e não depende de formalidades especiais, salvo a audiência com possibilidade de defesa do arguido.
-
-3 - O instrutor deve rejeitar as diligências manifestamente inúteis ou dilatórias, fundamentando a recusa.
+2 - Sem prejuízo do disposto no n.º 4 do artigo 85.º, o processo disciplinar é sempre escrito e não depende de formalidades, salvo a audiência com possibilidade de defesa do arguido.

@@ -10,6 +10,6 @@
 
 ### (Movimentos judiciais)
 
-1 - Os movimentos judiciais são efectuados nos meses de Março, Julho e Dezembro.
+1 - O movimento judicial é efectuado no mês de Julho, sendo publicitadas as vagas previsíveis.
 
-2 - Fora das épocas referidas no número anterior apenas podem fazer-se movimentos quando o exijam razões de disciplina ou de urgência no preenchimento de vagas, sendo esses movimentos anunciados com antecedência não inferior a trinta dias.
+2 - Para além do mencionado no número anterior, apenas podem fazer-se movimentos quando o exijam razões de disciplina ou de necessidade no preenchimento de vagas, sendo os movimentos anunciados com antecedência não inferior a 30 dias e publicitadas as vagas previsíveis.

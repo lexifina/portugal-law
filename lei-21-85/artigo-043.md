@@ -2,7 +2,7 @@
 
 ### (Condições de transferência)
 
-1 - Os juízes de direito podem ser transferidos a seu pedido quando decorridos dois anos ou um ano sobre a data da posse no cargo anterior, consoante a precedente colocação tenha ou não sido pedida.
+1 - Os juízes de direito podem ser transferidos a seu pedido quando decorridos dois anos ou um ano sobre a data da deliberação que os tenha nomeado para o cargo anterior, consoante a precedente colocação tenha ou não sido pedida.
 
 2 - A transferência a pedido de comarcas ou lugares de ingresso para comarcas ou lugares de primeiro acesso só pode fazer-se decorridos cinco anos sobre a data da primeira nomeação.
 

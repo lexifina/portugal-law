@@ -4,7 +4,7 @@
 
 1 - Na falta de disposição especial, o prazo para a reclamação é de trinta dias.
 
-2 - O prazo para a decisão da reclamação é de quatro meses, no qual não se contam as férias judiciais.
+2 - O prazo para a decisão da reclamação é de três meses, não se suspendendo durante as férias judiciais.
 
 3 - Se a decisão não for proferida no prazo do número anterior, presume-se indeferida para o efeito de o reclamante poder interpor o recurso facultado pelos artigos 168.º e seguintes.
 
