@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 1.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional, ouvido o Conselho Permanente da Acção Educativa, considerar como habilitação adequada, para efeitos de provimento nos lugares de contramestre de obras dos quadros dos correspondentes serviços municipais, o curso de construtor civil ou, na falta de candidatos com essa habilitação, a de qualquer dos seguintes cursos: topógrafo auxiliar de obras públicas, encarregado de obras, desenhador de construção civil e carpinteiro civil.
+Presidência do Conselho, 6 de Julho de 1968. - Pelo Presidente do Conselho, o Ministro de Estado, António Jorge Marfins da Mota Veiga.
