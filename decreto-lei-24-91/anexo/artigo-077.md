@@ -12,7 +12,7 @@
 
 5 - A nomeação do delegado bem como os respectivos poderes devem ser registados por averbamento à matrícula da caixa agrícola, sob pena de não produzirem efeitos relativamente a terceiros.
 
-6 - A designação do delegado da Caixa Central a que se refere o n.º 2 deste artigo só poderá ser feita pelo prazo máximo de 90 dias, salvo acordo da direcção da caixa agrícola na sua prorrogação.
+6 - A designação do delegado da Caixa Central a que se refere o n.º 2 só poderá ser feita pelo prazo máximo de um ano, o qual, havendo motivo fundado, poderá ser prorrogado por igual período.
 
 7 - A Caixa Central informará o Banco de Portugal, no prazo de cinco dias, das decisões que tomar, nos termos deste artigo, e da respectiva fundamentação.
 

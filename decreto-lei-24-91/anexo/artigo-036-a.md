@@ -25,3 +25,7 @@ g) Gestão e consultoria em gestão de outros patrimónios.
 4 - No caso de revogação da autorização, e se a urgência da situação o aconselhar, poderá ser dispensado o parecer prévio da Caixa Central previsto no número anterior.
 
 5 - O Banco de Portugal identificará, por aviso, as condições de que depende a autorização prevista no n.º 1 e a revogação da autorização prevista no n.º 2.
+
+6 - As caixas agrícolas que apresentem condições estruturais adequadas e meios suficientes poderão ser autorizadas pelo Banco de Portugal a efectuar operações de crédito com finalidades distintas das previstas no artigo 27.º
+
+7 - O Banco de Portugal fixará, por instruções, o limite do valor global das operações realizadas ao abrigo das autorizações concedidas nos termos do número anterior, em percentagem do valor do respectivo activo.

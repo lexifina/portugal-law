@@ -12,6 +12,22 @@ b) Convocar a assembleia geral;
 
 c) Elaborar, com a maior brevidade, um relatório sobre a situação patrimonial da instituição e as suas causas e submetê-lo à Caixa Central e ao Banco de Portugal.
 
-3 - Com a designação dos directores provisórios, pode a Caixa Central, obtido o acordo prévio do Banco de Portugal, suspender a direcção, no todo ou em parte.
+d) Alienar, após parecer favorável da Caixa Central, elementos do activo imobilizado que se mostrem desadequados à actividade desenvolvida pela caixa agrícola.
 
-4 - Os directores provisórios exercerão as suas funções pelo prazo que a Caixa Central determinar, no máximo de um ano, prorrogável uma vez por igual período.
+3 - Com a designação dos directores provisórios, pode a Caixa Central, obtido o acordo prévio do Banco de Portugal, suspender a direcção, no todo ou em parte, e o conselho fiscal.
+
+4 - Caso seja suspenso o conselho fiscal, a Caixa Central nomeará uma comissão de fiscalização composta por:
+
+a) Um elemento designado pela Caixa Central, que presidirá;
+
+b) Um elemento designado pela assembleia geral;
+
+c) Um revisor oficial de contas designado pela Federação Nacional.
+
+5 - A falta de designação do membro referido na alínea b) do número anterior não obsta ao exercício das funções da comissão de fiscalização.
+
+6 - A comissão de fiscalização terá os poderes e os deveres conferidos por lei ou pelos estatutos ao conselho fiscal.
+
+7 - Os directores provisórios e a comissão de fiscalização exercerão as suas funções pelo prazo que a Caixa Central determinar, no máximo de um ano.
+
+8 - O prazo máximo referido no número anterior poderá ser prorrogado uma ou mais vezes pelo Banco de Portugal, até ser atingida pela caixa agrícola uma situação de adequado equilíbrio financeiro.
