@@ -1,0 +1,5 @@
+Aviso n.º 140/2004
+Por ordem superior se torna público que, em 31 de Outubro de 2003, a Tailândia depositou o seu instrumento de ratificação à Convenção sobre Diversidade Biológica, adoptada em 20 de Maio de 1992 pelo Comité Intergovernamental de Negociação, instituído pela Assembleia Geral das Nações Unidas, e aberta à assinatura em 5 de Junho de 1992 na Conferência das Nações Unidas sobre Ambiente e Desenvolvimento.
+Portugal é Parte da mesma Convenção, aprovada para ratificação pelo Decreto n.º 21/93, de 21 de Junho, publicado no Diário da República, 1.ª série-A, n.º 143, de 21 de Junho de 1993, tendo depositado o seu instrumento de ratificação em 21 de Dezembro de 1993, conforme o aviso n.º 143/94, publicado no Diário da República, 1.ª série-A, n.º 106, de 7 de Maio de 1994, e tendo a Convenção entrado em vigor em 21 de Março de 1994 (Diário da República, 1.ª série-A, n.º 118, de 22 de Maio de 1998).
+A Convenção entrou em vigor para a Tailândia em 29 de Janeiro de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 7 de Julho de 2004. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
