@@ -1,0 +1,5 @@
+Aviso n.º 153/2004
+Por ordem superior, torna-se público que, em 7 de Março de 2003 e em 22 de Julho de 2004, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros espanhol e pelo Ministério dos Negócios Estrangeiros português, em que ambas as partes comunicam terem sido concluídas as respectivas formalidades internas de aprovação do Acordo, por troca de notas, entre a República Portuguesa e o Reino de Espanha para a Instituição de Uma Comissão Arbitral para a Avaliação das Pretensões de Indemnização pelos Prejuízos Decorrentes da Ocupação em Portugal de Prédios Urbanos na Década de 70, formuladas por espanhóis, assinado em Lisboa em 8 e 9 de Outubro de 2002.
+Por parte de Portugal, o Acordo foi aprovado pelo Decreto n.º 55/2003, publicado no Diário da República, 1.ª série-A, n.º 293, de 20 de Dezembro de 2003.
+Nos termos do n.º 9, 2º §, do Acordo, o mesmo entra em vigor na data de recepção da última notificação, ou seja, em 22 de Julho de 2004.
+Direcção-Geral das Relações Bilaterais, 26 de Julho de 2004. - O Director-Geral, Nuno Tavares de Sousa.
