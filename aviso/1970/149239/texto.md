@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação da Embaixada da Bélgica, os Governos da Tanzânia e de Israel depositaram, respectivamente em 23 de Junho e 10 de Julho de 1970, junto do Ministério dos Negócios Estrangeiros e do Comércio Exterior da Bélgica, os seus instrumentos de adesão à Convenção sobre a Nomenclatura para a Classificação das Mercadorias nas Pautas Aduaneiras, e Anexo, concluídos em Bruxelas a 15 de Dezembro de 1950, e ao Protocolo de rectificação da mesma Convenção, e Anexo, concluídos em 1 de Julho de 1955.
+De harmonia com o disposto no artigo 5.º, c), do Protocolo de rectificação, os referidos Actos entrarão em vigor em relação à Tanzânia e a Israel, respectivamente, em 23 de Setembro e 10 de Outubro de 1970.
+Direcção-Geral dos Negócios Económicos, 26 de Agosto de 1970. - O Adjunto do Director-Geral, Manuel Rodrigues de Almeida Coutinho.
