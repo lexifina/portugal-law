@@ -2,7 +2,7 @@
 
 ### Sociedades comerciais e sociedades civis sob forma comercial
 
-Estão sujeitos a registo os seguintes factos relativos às sociedades comerciais e sociedades civis sob forma comercial:
+1 - Estão sujeitos a registo os seguintes factos relativos às sociedades comerciais e sociedades civis sob forma comercial:
 
 a) O contrato de sociedade;
 
@@ -45,3 +45,7 @@ t) A deliberação de manutenção do domínio total de uma sociedade por outra,
 u) O contrato de subordinação, suas modificações e seu termo.
 
 v) A cessação da existência do conselho fiscal e a introdução do fiscal único.
+
+v) A emissão de warrants autónomos sobre valores mobiliários próprios colocada por subscrição particular, por entidade que não tenha valores mobiliários admitidos à negociação em mercado regulamentado nacional, bem como a emissão colocada por subscrição pública fora do mercado nacional.
+
+2 - Nos casos em que a emissão de warrants autónomos sobre valores mobiliários próprios esteja sujeita a registo na Comissão do Mercado de Valores Mobiliários, a declaração comprovativa do referido registo é objecto de simples depósito na pasta da sociedade, a realizar oficiosamente, aquando da sua recepção pelo conservador.
