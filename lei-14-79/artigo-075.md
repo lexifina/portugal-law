@@ -1,7 +1,3 @@
-## Capítulo III
-
-## Finanças eleitorais
-
 # Artigo 75.º
 
 ### Contabilização de receitas e despesas
