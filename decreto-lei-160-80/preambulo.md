@@ -1,3 +1,7 @@
+Decreto-Lei n.º 160/80
+
+de 27 de Maio
+
 1. A moderna evolução dos sistemas de protecção social não só aponta para o preenchimento das lacunas verificadas nos esquemas de prestações como também para a desejável generalização e universalidade do direito à segurança social.
 
 Estes objectivos não só impõem a adopção de medidas de alargamento de âmbito dos esquemas de prestações dos regimes do tipo contributivo como também exigem a criação de esquemas de protecção social especialmente destinados às populações que não são por aqueles abrangidas.
