@@ -1,0 +1,8 @@
+Portaria n.º 247/73
+de 9 de Abril
+Considerando conveniente que ao exercício do cargo de director do Instituto Técnico Militar dos Pupilos do Exército seja assegurada a maior continuidade possível;
+Verificando-se que tais funções, nos termos do artigo 8.º do Decreto-Lei n.º 42632, de 4 de Novembro de 1959, são exercidas por coronéis ou tenentes-coronéis, do activo ou da reserva, da arma de engenharia, ou da arma de artilharia, com o curso de engenheiro fabril, ou, ainda, do quadro de engenheiros do serviço de material, nomeados por escolha pelo Ministro do Exército, mediante proposta do chefe do Estado-Maior do Exército, pelo que tal escolha pode recair também em coronéis tirocinados;
+Atendendo ainda a que, após a sua passagem à situação de reserva, os coronéis tirocinados podem, nos termos do artigo 119.º do Estatuto do Oficial do Exército, posto em execução pelo Decreto-Lei n.º 176/71, de 30 de Abril, ser graduados no posto de brigadeiro:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Exército, nos termos do artigo único do Decreto-Lei n.º 527/70, de 7 de Novembro, o seguinte:
+O director do Instituto Técnico Militar dos Pupilos do Exército pode ter, além dos postos indicados no artigo 8.º do Decreto-Lei n.º 42632, de 4 de Novembro de 1959, o posto de brigadeiro graduado, na situação de reserva, quando tenha exercido o cargo em coronel tirocinado.
+Ministérios das Finanças e do Exército, 28 de Março de 1973. - Pelo Ministro das Finanças, Augusto Victor Coelho, Secretário de Estado do Orçamento. - O Ministro do Exército, Horácio José de Sá Viana Rebelo.
