@@ -1,0 +1,3 @@
+Portaria n.º 21056
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, de harmonia com o disposto no artigo 96.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo Decreto-Lei n.º 37754, de 18 de Fevereiro de 1950, manter em vigor as tarifas provisórias da Junta Autónoma dos Portos de Barlavento do Algarve, aprovadas pela Portaria n.º 15497, de 9 de Agosto de 1955, com as alterações introduzidas pelas Portarias n.º 15974, de 18 de Setembro de 1956, e n.º 18147, de 23 de Dezembro de 1960.
+Ministério das Comunicações, 21 de Janeiro de 1965. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.
