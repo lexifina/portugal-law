@@ -1,0 +1,29 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2001-06-19, processo 2976/99
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 2976/99
+
+**Secção:** Contencioso Tributário
+
+**Data do Acordão:** 06/19/2001
+
+**Relator:** Dulce Neto
+
+**Descritores:** MÉTODOS INDICIÁRIOS; ERRO NA QUANTIFICAÇÃO DA MATÉRIA COLECTÁVEL
+
+**Aditamento:** 1
+
+## Sumário
+
+1. Face às dificuldades objectivas encontradas pela A.F. na quantificação da matéria colectável por métodos indiciários, terá que haver um abaixamento do nível de exigência quanto à prova da realidade dos factos omitidos pelo contribuinte e que aquela procura determinar, aceitando-se um juízo de probabilidade em substituição do convencimento sobre a respectiva realidade. Isto é, em vez da certeza que corresponde à liquidação normal do imposto, haverá uma aproximação feita através de elementos possíveis e prováveis, adequados à situação do contribuinte, determinados pela actividade de investigação administrativa.
+
+2. Daí que a verdade que se procura apurar (no caso, o volume de negócios do contribuinte em determinado ano) tenha por suporte elementos de facto prováveis, extraídos de parâmetros gerais e comuns, adequados à situação e actividade do contribuinte.
+
+3. Caberá, então, àquele a quem o método é oposto (o impugnante) o ónus probandi de que a realidade é completamente distinta do resultado a que conduziu a utilização das mencionadas regras, que o critério utilizado é ostensivamente inadmissível, desacertado e/ou inaceitável, que houve erro ou manifesto excesso na matéria tributável quantificada.
+
+4. Não tendo o impugnante apresentado prova concludente e sem margem para dúvidas da desadequação do número recibos estimados pela A.F., não pode considerar-se como manifestamente errado tal pressuposto, o qual não pretende sequer traduzir um facto rigorosamente coincidente com a realidade, mas um dado aproximado, determinado pela A.F. em face da violação do dever de declaração e de cooperação do impugnante.
+
+5. Não tendo sido considerado para o apuramento da "média ponderada por recibo" as notas de despesas e honorários detectadas pela fiscalização, toma-se irrelevante para a aferição do acerto do método utilizado e respectivos pressupostos que o impugnante tenha ou não recebido todos os honorários.
+
+6. Estando em causa na impugnação da legalidade da liquidação do IVA relativo aos serviços prestados e omitidos, apenas cumpria aplicar a respectiva taxa de imposto ao valor dos proveitos apurados, por forma a obter a liquidação do IVA em falta, sendo irrelevante o valor dos custos suportados pelo impugnante, os quais apenas influenciam o rendimento colectável para efeitos de IRS.
