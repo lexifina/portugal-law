@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que a entrada em vigor do Acordo entre o Governo da República Portuguesa e o Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte Relativo ao Transporte Internacional Rodoviário, assinado em Lisboa em 3 de Julho de 1975 e publicado no Diário do Governo, 1.ª série, n.º 181, de 7 de Novembro de 1975, foi fixada para o dia 11 de Janeiro de 1976, por troca de notas entre o Ministério dos Negócios Estrangeiros de Portugal e a Embaixada do Reino Unido em Lisboa, de 12 de Dezembro de 1975, nos termos do n.º 1 do artigo 16 do referido Acordo.
+Direcção-Geral dos Negócios Económicos, 8 de Janeiro de 1976. - O Director-Geral, João Eduardo Nunes de Oliveira Pequito.
