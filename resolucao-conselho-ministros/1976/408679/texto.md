@@ -1,0 +1,3 @@
+Resolução do Conselho de Ministros
+Considerando que o Dr. Manuel Porfírio Varges foi nomeado para a direcção da UTIC por resolução do Conselho de Ministros de 2 de Maio de 1975, constante do Diário do Governo, 1.ª série, n.º 112, de 15 de Maio, para cujas funções foi requisitado à Companhia Portuguesa Rádio Marconi; considerando que, após os cento e oitenta dias da sua requisição à Companhia Portuguesa Rádio Marconi, aquele técnico regressou, efectivamente, à empresa de onde havia sido requisitado, em 7 de Novembro de 1975, deve, a partir desta data, ser considerado exonerado da direcção da empresa UTIC, para que havia sido nomeado.
+Presidência do Conselho de Ministros, 26 de Agosto de 1976. - O Primeiro-Ministro, Mário Soares.
