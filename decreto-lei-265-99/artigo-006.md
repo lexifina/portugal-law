@@ -6,16 +6,4 @@
 
 ### Condições de atribuição
 
-1 - Constituem condições de atribuição do complemento por dependência:
-
-a) A manifestação de vontade do interessado;
-
-b) A qualidade de pensionista ou de beneficiário, nos termos definidos no artigo 2.º;
-
-c) A certificação da situação de dependência e respetivo grau.
-
-2 - (Revogado).
-
-3 - (Revogado).
-
-4 - (Revogado).
+Constituem condições para atribuição do complemento por dependência a manifestação de vontade do interessado, a verificação da situação de pensionista e a certificação da situação de dependência e respectivo grau.

@@ -2,9 +2,9 @@
 
 ### Suspensão da prestação
 
-A concessão do complemento por dependência é suspensa quando:
+A concessão do complemento por dependências é suspensa quando:
 
-a) Ocorra uma das causas determinantes da suspensão da concessão das prestações previstas no artigo 2.º, nos termos dos respetivos regimes jurídicos;
+a) Ocorra uma das causas determinantes da suspensão da concessão das pensões previstas no artigo 2.º, nos termos dos respectivos regimes jurídicos;
 
 b) Se verifique que não está a ser prestada ao titular da prestação a assistência nos termos declarados;
 
