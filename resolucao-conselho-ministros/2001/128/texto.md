@@ -1,0 +1,10 @@
+Resolução do Conselho de Ministros n.º 128/2001
+A SOPORCEL - Sociedade Portuguesa de Celulose, S. A., celebrou com o Estado, em 31 de Julho de 1985, um contrato de investimento nos termos do sistema integrado de incentivos ao investimento (SIII) regulado pelo Decreto-Lei n.º 132/83, de 18 de Março.
+O contrato mediante o qual o Estado acordou conceder alguns benefícios fiscais previstos no regime do SIII tinha como contrapartida a construção de uma unidade papeleira integrada na fábrica de pasta celulósica e investimentos na criação de uma reserva de matéria-prima florestal dimensionada à escala da unidade papeleira.
+Em 1996, constatando que a unidade papeleira instalada permitiu a duplicação da capacidade contratualmente fixada e que o início da laboração comercial da unidade ocorreu em 1991, ou seja, cinco anos antes do limite contratual, entendeu a SOPORCEL requerer a antecipação do termo do contrato de 31 de Dezembro de 1999 para 31 de Dezembro de 1996.
+Entretanto, o Estado, a SOPORCEL e os seus accionistas celebraram, em 31 de Julho de 1998, um novo contrato de investimento ao abrigo do disposto no n.º 1 do artigo 49.º-A do Estatuto dos Benefícios Fiscais, nos termos do qual, para além das obrigações e objectivos relativos ao projecto, ficaram ainda salvaguardados os compromissos assumidos no âmbito do contrato celebrado em 31 de Julho de 1985, ainda em vigor, e que, pela sua natureza, perduram até ao termo deste, nomeadamente a manutenção do número de postos de trabalho actualmente existentes.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar a antecipação do termo de vigência do contrato celebrado em 31 de Julho de 1985 com a SOPORCEL de 31 de Dezembro de 1999 para 31 de Dezembro de 1996.
+2 - Antecipar a data constante da parte final do n.º 3 da cláusula 1.ª do contrato, passando a considerar-se que o termo do contrato se verificou em 31 de Dezembro de 1996.
+Presidência do Conselho de Ministros, 26 de Julho de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
