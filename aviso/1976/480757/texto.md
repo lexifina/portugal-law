@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo informação do Conselho de Cooperação Aduaneira, o Governo do Sudão, que depositou em 28 de Maio de 1974 o seu instrumento de adesão à Convenção Aduaneira Relativa às Facilidades Concedidas à importação de Mercadorias Destinadas a Serem Apresentadas ou Utilizadas Numa Exposição, Feira, Congresso ou Manifestação Similar, concluída em Bruxelas em 8 de Junho de 1961, formulou uma reserva, segundo a qual não se considera vinculado às disposições do artigo 6, parágrafo 1 alínea a), da referida Convenção.
+Direcção-Geral dos Negócios Económicos, 11 de Dezembro de 1975. - O Director-Geral, João Eduardo Nunes de Oliveira Pequito.
