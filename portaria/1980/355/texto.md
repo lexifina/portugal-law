@@ -1,0 +1,15 @@
+Portaria n.º 355/80
+de 27 de Junho
+Considerando que a Força Aérea tem necessidade de mandar proceder à revisão e transformação de diversos motores Turmo IVB para equiparem a frota de helicópteros SA-330;
+Considerando que essa modificação abrange os anos de 1980, 1981 e 1982;
+Tendo em vista as disposições do artigo 10.º do Decreto-Lei n.º 211/79, de 12 de Julho:
+Mandam o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, e o Governo, pelo Ministro das Finanças e do Plano, o seguinte:
+Artigo 1.º É autorizada a Direcção do Serviço de Material da Força Aérea a celebrar contratos para a revisão e transformação de motores Turmo IVB, até ao montante de 152400000$00, correspondentes a 12700000 francos franceses, ao câmbio de 12$00.
+Art. 2.º - 1 - O encargo resultante da modificação a realizar, a que se refere o artigo anterior, não poderá, em cada ano, exceder as seguintes importâncias:
+Em 1980 - 10668000$00, correspondentes a 889000 francos franceses;
+Em 1981 - 65532000$00, correspondentes a 5461000 francos franceses;
+Em 1982 - 76200000$00, correspondentes a 6350000 francos franceses.
+2 - As importâncias fixadas para os anos de 1981 e 1982 serão acrescidas dos saldos que se apurarem nos anos anteriores.
+3 - Os montantes referidos nos números anteriores serão acrescidos das quantias indispensáveis à cobertura dos encargos assumidos sempre que a oscilação cambial o justifique.
+Art. 3.º Os encargos resultantes da execução do disposto no artigo anterior serão satisfeitos por dotações das despesas gerais dos orçamentos da Defesa Nacional - Departamento da Força Aérea para os anos de 1980 a 1982, inscritos e a inscrever pelos montantes correspondentes.
+Conselho da Revolução e Ministério das Finanças e do Plano, 30 de Abril de 1980. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.
