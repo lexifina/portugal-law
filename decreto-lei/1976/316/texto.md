@@ -1,0 +1,17 @@
+Decreto-Lei n.º 316/76
+de 29 de Abril
+Encontra-se em estudo a remodelação geral do ensino agrícola, verificando-se a conveniência de, na seu âmbito, colocar as escolas de regentes agrícolas na dependência do departamento cuja competência respeita ao mais elevado grau de ensino que nelas poderá vir a ser ministrado - a Direcção-Geral do Ensino Superior.
+Confere-se, por outro lado, equiparação a bacharel aos habilitados com o curso das escolas de regentes agrícolas, no qual, aliás, não foram já consentidas novas admissões no corrente ano lectivo, atentos os objectivos da reestruturação em estudo.
+Nestes termos:
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º As escolas de regentes agrícolas e respectivas secções passam a depender da Direcção-Geral do Ensino Superior.
+Art. 2.º - 1. Os cursos a ministrar nas escolas referidas no artigo anterior serão definidos por portaria do Ministro da Educação e Investigação Científica, ouvidos os Ministérios e sectores profissionais implicados.
+2. Os planos e regime de estudos dos cursos mencionados no número precedente serão aprovados por despacho do Ministro da Educação e Investigação Científica.
+Art. 3.º - 1. O Ministro da Educação e Investigação Científica tomará, por meio de portarias ou despachos, as medidas necessárias a que o disposto no artigo 1.º se processe de maneira a vigorar no início do ano lectivo de 1976/1977.
+2. As portarias ou despachos referidos no número anterior serão conjuntos com os Ministros da Administração Interna e/ou das Finanças sempre que se tratar de matérias da respectiva competência.
+Art. 4.º - 1. É equiparado a bacharel, para todos os efeitos legais, excepto para prosseguimento de estudos, e sem prejuízo de direitos adquiridos, quem tenha completado ou venha a completar o curso previsto no n.º 1 do artigo 2.º do Decreto n.º 38026, de 2 de Novembro de 1950, independentemente da realização do tirocínio referido no n.º 2 do mesmo preceito.
+Art. 5.º Este decreto-lei entra em vigor na data da sua publicação.
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernandes Leote de Almeida e Costa - Francisco Salgado Zenha - António Poppe Lopes Cardoso - Vítor Manuel Rodrigues Alves.
+Promulgado em 15 de Abril de 1976.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
