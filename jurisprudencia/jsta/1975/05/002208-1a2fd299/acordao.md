@@ -1,0 +1,63 @@
+# Acórdão do Supremo Tribunal Administrativo de 1975-05-23, processo 002208
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 002208
+
+**Data do Acordão:** 05/23/1975
+
+**Tribunal:** PLENO
+
+**Relator:** GONÇALVES PEREIRA
+
+**Descritores:** OLEOS COMESTIVEIS; INSTITUTO DO AZEITE E PRODUTOS OLEAGINOSOS; CUF; JUNTA NACIONAL DO AZEITE; ORGANISMO DE COORDENAÇÃO ECONOMICA; IMPOSTO; TAXA; RECEITA PARAFISCAL; PRINCIPIO DA LEGALIDADE; RESERVA DE LEI; INCONSTITUCIONALIDADE MATERIAL
+
+**Nº Convencional:** JSTA00001416
+
+**Nº do Documento:** SAP19750523002208
+
+**Data de Entrada:** 02/14/1974
+
+**Recorrente:** IAPO
+
+**Recorrido 1:** COMP UNIÃO FABRIL SARL
+
+**Votação:** MAIORIA COM 1 DEC VOT E 1 VOT VENC
+
+**Ano da Publicação:** 0
+
+**Página:** 0
+
+**Apêndice:** DG
+
+**Data do Apêndice:** 12/16/1976
+
+**1ª Pág. de Publicação do Acordão:** 181
+
+**Referência Publicação 1:** AD N167 ANOXIV PAG1492
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC 1 SECÇÃO PROC8865.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR FISC - IMPOSTOS / RECEITA PARAFISCAL / TAXA.
+
+**Área Temática 2:** DIR CONST - DIR FUND / SISTEM FINANC FISC.
+
+**Recusa Aplicação:** DESP DE 1943/06/04.
+
+**Legislação Nacional:** CONST33 ART8 N16 ART63 ART69 ART70 N1 N2 N3 PAR1 ART91 N13 ART93 H ART131.; DL 26757 DE 1936/07/08 ART8.; DL 28153 DE 1937/11/12 ART17 D.; EJ62 ART110.; DL 45835 DE 1964/07/27 ART2 N2.; CCIV66 ART9.; DL 426/72 DE 1972/10/31 ART29 N1 A C ART40.; DL 427/72 DE 1972/10/31 ART28 N1 A C.; DL 428/72 DE 1972/10/31 ART29 N1 A C.; D 30021 DE 1939/11/03 ART15 N1 N2.; D 709/73 DE 1973/12/29 ART1 ART15 ART36.; PORT 21883 DE 1966/02/21.
+
+**Jurisprudência Nacional:** AC STA DE 1972/06/13 IN AD N133 PAG13.; AC STA DE 1969/10/18 IN AD N87 PAG339.
+
+**Referência a Doutrina:** AFONSO QUEIRO LIÇÕES DE DIREITO ADMINISTRATIVO 1956 VI PAG260.; CARDOSO DA COSTA CURSO DE DIREITO FISCAL 2ED PAG12 PAG47 PAG171 PAG178 PAG180 PAG187.; MARCELLO CAETANO MANUAL DE DIREITO ADMINISTRATIVO 10ED PAG393.; ARMINDO MONTEIRO INTRODUÇÃO AO ESTUDO DO DIREITO FISCAL IN RJ ANO VI PAG95.; ALEXANDRE AMARAL DIREITO FISCAL 1959-1960.; JORGE MIRANDA A REVOLUÇÃO DE 25 DE ABRIL E O DIREITO CONSTITUCIONAL IN BMJ N242 PAG85.; TEIXEIRA RIBEIRO IN BOLETIM DA FACULDADE DE DIREITO DE COIMBRA VXLII PAG231.; Texto Integral
+
+## Sumário
+
+I - A receita imposta pelo despacho ministerial de 25 de Maio de 1943 constitui um imposto e não uma taxa, estando, por isso, sujeita ao regime do paragrafo 1 do artigo 70 e do artigo 93 da Constituição.
+
+II - O referido despacho enferma de inconstitucionalidade material.
