@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que a Embaixada de Portugal na Haia em 9 de Dezembro de 1968 informou o Ministério dos Negócios Estrangeiros dos Países Baixos que, de harmonia com a alínea 2.ª do artigo 11.º da Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia em 5 de Outubro de 1961 e aprovada para ratificação pelo Decreto-Lei n.º 48494, de 22 de Julho de 1968, a autoridade portuguesa designada para dar e receber directamente as informações referidas na alínea 1.ª do citado artigo 11.º daquela Convenção é a Direcção-Geral dos Serviços Tutelares de Menores.
+Secretaria-Geral do Ministério, 4 de Fevereiro de 1969. - O Secretário-Geral, José Luís Archer.
