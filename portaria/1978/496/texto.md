@@ -1,0 +1,6 @@
+Portaria n.º 496/78
+de 30 de Agosto
+O artigo 135.º do Decreto-Lei n.º 633/76, de 28 de Julho, prevê que o disposto no artigo 91.º do mesmo diploma, incluindo o tempo de serviço prestado nas circunstâncias naquele enumeradas nos Serviços Meteorológicos do Ultramar, possa ter efeitos retroactivos, relativamente ao tempo de serviço já prestado até à data da publicação do referido Decreto-Lei n.º 633/76, pelo pessoal referido no citado artigo 91.º, nos termos que vierem a ser definidos por portaria conjunta dos Ministros dos Transportes e Comunicações e das Finanças e do Plano.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e dos Transportes e Comunicações, nos termos do artigo 135.º do Decreto-Lei n.º 633/76, de 28 de Julho, que o tempo de serviço prestado pelo pessoal dos extintos Serviço Meteorológico Nacional e Serviços Meteorológicos do Ultramar, anteriormente à publicação daquele diploma, seja acrescido, para efeitos de aposentação, das percentagens referidas no citado artigo 91.º
+Ministérios das Finanças e do Plano e dos Transportes e Comunicações, 16 de Agosto de 1978. - Pelo Ministro das Finanças e do Plano, Herlânder dos Santos Estrela, Secretário de Estado do Tesouro. - Pelo Ministro dos Transportes e Comunicações, José Manuel Consiglieri Pedroso, Secretário de Estado dos Transportes.
