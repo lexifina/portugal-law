@@ -1,0 +1,14 @@
+Decreto-Lei n.º 503-C/76
+de 30 de Junho
+Considerando-se necessário atender, no domínio da contribuição industrial, à situação decorrente do regime instituído pelo artigo 1.º do Decreto-Lei n.º 222-B/75, de 12 de Maio, para as empresas credoras, permite-se, pelo presente diploma, a elevação da taxa e limite da provisão para cobertura dos créditos de cobrança duvidosa, relativamente aos créditos sujeitos àquele regime, até ao seu valor total, com aplicação já na contribuição de 1975.
+Nestes termos:
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º As taxas e os limites da provisão a que se refere a alínea c) do artigo 33.º do Código da Contribuição Industrial poderão, excepcionalmente, atingir, na parte respeitante aos créditos sujeitos ao regime do artigo 1.º do Decreto-Lei n.º 222-B/75, de 12 de Maio, 100% do respectivo montante.
+Art. 2.º - 1. A parte da provisão correspondente aos créditos referidos no artigo anterior só poderá ser utilizada na anulação dos mesmos créditos, importando a sua utilização para fim diverso a aplicação do disposto no § 2.º do artigo 33.º do Código da Contribuição Industrial.
+2. No mapa das provisões, a apresentar nos termos do Código da Contribuição Industrial, serão indicados separadamente os créditos referidos no artigo 1.º e a parte da provisão destinada à sua cobertura.
+Art. 3.º - 1. As empresas que constituam ou reforcem em 1976, até à apresentação do requerimento referido no número seguinte, a provisão mencionada no artigo 1.º poderão beneficiar da aceitação como custo do exercício na contribuição industrial de 1975 da dotação correspondente aos créditos existentes em 31 de Dezembro deste ano e de que ainda sejam titulares, a qual, nesse caso, não será custo para efeitos fiscais no exercício de 1976.
+2. O requerimento a que se refere o número anterior, dirigido ao chefe da repartição de finanças competente para a liquidação da contribuição industrial, será apresentado com a declaração para a liquidação da mesma contribuição, ou, tendo sido já entregue, no prazo de vinte dias, a contar da publicação deste diploma.
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
+Promulgado em 25 de Junho de 1976.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES
