@@ -1,0 +1,13 @@
+Portaria n.º 1152/2000
+de 5 de Dezembro
+Pela Portaria n.º 160/2000, de 18 de Março, foi concessionada ao Clube de Caça da Herdade de Grafanes a zona de caça associativa da Herdade de Penilhos e Alpendres (processo n.º 2254-DGF).
+Para a concessão da referida zona de caça associativa o Clube concessionário apresentou acordo prévio respeitante ao prédio rústico a integrar na zona de caça, outorgado com a cabeça-de-casal por morte da titular em nome de quem se encontrava inscrito o referido prédio rústico, de acordo com a respectiva caderneta predial rústica.
+Sucede, contudo, que, após a publicação da referida Portaria n.º 160/2000, de 18 de Março, um co-proprietário veio requerer a exclusão do referido prédio rústico da zona de caça, uma vez que era proprietário de 1/15 do mesmo prédio desde 1986 e não dera o seu acordo para a concessão da zona de caça, tendo apresentado certidão da Conservatória do Registo Predial de Serpa, pela qual se comprova a sua qualidade de co-proprietário.
+Do teor da mesma certidão do registo predial resulta ainda que, para além do referido co-proprietário de 1/15 do prédio, existem ainda outros que também não subscreveram o acordo.
+Considerando que o estabelecimento da zona de caça carecia de acordo prévio a dar por todos os proprietários do prédio envolvido, nos termos do n.º 1 do artigo 21.º da Lei n.º 30/86, de 27 de Agosto, da alínea b) do n.º 2 do artigo 74.º e do n.º 1 do artigo 75.º, ambos do Decreto-Lei n.º 136/96, de 14 de Agosto, diplomas legais em vigor ao tempo da publicação da portaria de concessão, verifica-se que a zona de caça associativa da Herdade de Penilhos e Alpendres foi concessionada com violação do disposto nas referidas disposições legais.
+Importa pois proceder à revogação da concessão, com a consequente extinção da zona de caça, em virtude de não se encontrarem preenchidos os requisitos legais exigidos para a sua constituição.
+Assim:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, com fundamento no n.º 2 do artigo 16.º da Lei n.º 173/99, de 21 de Setembro, no n.º 1 do artigo 32.º, na alínea b) do n.º 1, e no n.º 3 do artigo 47.º, ambos do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, o seguinte:
+1.º É revogada a Portaria n.º 160/2000, de 18 de Março, que concessionou ao Clube de Caça da Herdade de Grafanes a zona de caça associativa da Herdade de Penilhos e Alpendres, processo n.º 2254-DGF.
+2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 15 de Novembro de 2000.
