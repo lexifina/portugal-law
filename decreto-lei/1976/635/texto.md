@@ -1,0 +1,20 @@
+Decreto-Lei n.º 635/76
+de 28 de Julho
+Considerando que os prazos legalmente fixados para a duração do subsídio de desemprego se têm mostrado insuficientes nas circunstâncias actuais;
+Considerando que os aspectos de conjuntura da relação emprego-desemprego não permitem uma visão prospectiva para fixação razoável de prazos;
+Considerando que o Executivo deve poder actuar de forma expedita, sem recurso à solenidade do decreto-lei, em domínios correntes da administração pública;
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O artigo 17.º do Decreto-Lei n.º 169-D/75, de 31 de Março, passa a ter a seguinte redacção:
+1. O subsídio, pago mensalmente será concedido, em regra, durante o prazo máximo de cento e oitenta dias.
+2. O prazo mencionado no número anterior será, porém, prolongado para trezentos e sessenta e cinco dias, quinhentos e quarenta dias e setecentos e vinte dias para os trabalhadores cuja idade à data da entrega do requerimento a que se refere o n.º 1 do artigo 8.º seja igual ou superior, respectivamente, a 50, 55 e 60 anos.
+3. Decorrido o prazo de setecentos e vinte dias previsto no número anterior e mantendo-se o trabalhador em situação de desemprego involuntário, poderá o mesmo requerer que lhe seja atribuída antecipadamente a pensão de reforma a que tiver direito.
+4. Os prazos referidos nos n.os 1 e 2 poderão ser alterados por despacho conjunto dos Ministros do Trabalho e dos Assuntos Sociais sempre que razões ponderosas de política de emprego e justiça social o justifiquem.
+Art. 2.º - 1. Os requisitos de emprego conveniente constantes do artigo 9.º do Decreto-Lei n.º 169-D/75 não podem aproveitar ao subsidiado que beneficie da prorrogação do subsídio de desemprego.
+2. O despacho de prorrogação indicará os requisitos mínimos do emprego obrigatoriamente aceitável, sob pena de extinção do subsídio.
+3. Não pode, todavia, estabelecer-se como obrigatório um emprego cuja remuneração seja inferior ao salário mínimo nacional.
+Art. 3.º Fica revogado o Decreto-Lei n.º 761/75, de 31 de Dezembro.
+Art. 4.º O presente decreto-lei produz efeitos desde 1 de Maio de 1976.
+Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João Pedro Tomás Rosa - Rui Manuel Parente Chancerelle de Machete.
+Promulgado em 13 de Julho de 1976.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
