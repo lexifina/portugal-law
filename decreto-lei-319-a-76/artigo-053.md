@@ -2,7 +2,7 @@
 
 ### (Distribuição dos tempos reservados)
 
-1. Os tempos de emissão reservados pela Radiotelevisão Portuguesa, ligada a todos os seus emissores, e pelas estações de rádio serão atribuídos em condições de igualdade às diversas candidaturas.
+1 - Os tempos de emissão referidos no n.º 2 do artigo anterior são atribuídos em condições de igualdade às diversas candidaturas.
 
 2. A Comissão Nacional das Eleições organizará, de acordo com o critério referido no número anterior, tantas séries de emissões quantas as candidaturas com direito a elas, procedendo-se a sorteio, tudo com a antecedência de, pelo menos, dois dias em relação ao dia de abertura da campanha eleitoral.
 
