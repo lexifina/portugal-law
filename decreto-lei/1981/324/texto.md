@@ -1,0 +1,16 @@
+Decreto-Lei n.º 324/81
+de 4 de Dezembro
+Verificando-se dificuldades, por parte de algumas empresas, na execução do disposto no artigo 29.º do Código do Imposto Profissional, na redacção dada pelo artigo 1.º do Decreto-Lei n.º 260-C/81, de 2 de Setembro, e tendo em vista os objectivos preconizados no mesmo diploma, impõe-se reformulá-lo por forma a atenuar as apontadas dificuldades.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. O artigo 29.º do Código do Imposto Profissional passa a ter a seguinte redacção:
+Art. 29.º As importâncias referidas nos artigos 26.º e 27.º serão entregues nos cofres do Estado, por meio de guia modelo n.º 6, nos prazos a seguir indicados:
+a) Durante o mês de Janeiro - as importâncias deduzidas no mês de Dezembro do ano anterior;
+b) Durante os meses de Abril, Julho e Outubro - as importâncias deduzidas nos trimestres imediatamente anteriores;
+c) Durante o mês de Dezembro - as importâncias deduzidas nos meses de Outubro e Novembro do próprio ano.
+§ 1.º ...
+§ 2.º ...
+Visto e aprovado em Conselho de Ministros de 10 de Novembro de 1981. - Francisco José Pereira Pinto Balsemão.
+Promulgado em 21 de Novembro de 1981.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
