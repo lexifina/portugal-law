@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público ter a Finlândia depositado junto do secretário-geral da Organização de Cooperação e Desenvolvimento Económicos (OCDE), em 22 de Dezembro último, o instrumento de ratificação do Protocolo de 16 de Novembro de 1982, que modifica a Convenção sobre a Responsabilidade Civil no Domínio da Energia Nuclear, assinada em Paris a 29 de Julho de 1960 e emendada pelo Protocolo Adicional de 28 de Janeiro de 1964.
+Direcção-Geral dos Negócios Político-Económicos, 19 de Janeiro de 1990. - O Director de Serviços dos Assuntos Multilaterais, José Tadeu da Costa Sousa Soares.
