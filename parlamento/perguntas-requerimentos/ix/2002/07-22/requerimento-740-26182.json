@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ktYqpeS%2ft%2bZbliS4sHhftatFgOONJZv%2b0jwNSKIew1t0xo7wpSD4Wuod7wOpHm6JnVumY%2fcLg1QEJ6QuXOoI0mCZg8Now%2fNFrlqr4xaPyukQAb7VOIDJycUu8LgcqeBWkrLalvQbJNVVjYrmyeKurhYgJ88b%2bTAHUhqae0PG2tWw6wd9S%2fB1oSkkszdy9OWFhN3wUjxq5HmVweG9RQH09rl4k2N5tPgs%2fzprZm2tzFHnHSctshbR2DfX7RwTBfcB1zHFUq7rfF1ywAQTHCnkTEnmy8XmgIMFNpTZggbLiolv7UH6aQ9wXzrJpNDVBZQItckByiVODO72lKf0LysofiwVHTL6an5RgmBfpD1TjRRanKSw%2fu9%2bMNyeFb2ozzbOeEiwgdJpFNYQkXLYkgJujw%3d%3d&fich=RequerimentosIX_json.txt&Inline=true",
+  "ficheiro_sha256": "234acc6bf0a22a14e4ad1370daea559258a1b7960a20d3feebcabf91a9366690",
+  "legislatura": "IX",
+  "id": "26182",
+  "tipo": "Requerimento",
+  "numero": "740",
+  "data_registo": "2002-07-22",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Obras das instalações provisórias da Esquadra da PSP das Caldas da Rainha estão suspensas, mantendo-se a situação de funcionamento em contentores:Paços do Concelho",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "1156",
+        "nome": "António Galamba"
+      }
+    ],
+    "DataEnvio": "2002-07-26",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2002-07-26",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA   ADMINISTRAÇÃO  INTERNA",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2002-09-04",
+            "docRemetida": null,
+            "entidade": "S.E.  ADJUNTO DO  MINISTRO DA  ADMINISTRAÇÃO  INTERNA",
+            "ficheiro": "",
+            "ficheiroComTipo": null,
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2002-07-22",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077765a5467314d6a42695a575574593251324d5330304e6a67774c5467324d5759744d6d566b4f446b335a57526b4d7a55774c6e426b5a673d3d&fich=e8520bee-cd61-4680-861f-2ed897edd350.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "26182",
+    "Legislatura": "IX",
+    "Nr": "740",
+    "Observacoes": "Obras de requalificação",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "272786",
+        "obs": "46-(132)",
+        "pag": [
+          "46-(132)-46-(132)"
+        ],
+        "pagFinalDiarioSupl": "3º Supl.",
+        "pubdt": "2002",
+        "pubLeg": "IX",
+        "pubNr": "10",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "3º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/010S3/2002-08-03/46-(132)?pgs=46-(132)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
