@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal Administrativo de 1996-05-02, processo 014212
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 014212
+
+**Data do Acordão:** 05/02/1996
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** BENJAMIM RODRIGUES
+
+**Descritores:** IMPOSTO DE CAPITAIS - SECÇÃO B; VENDA A PRESTAÇÕES; AUTOMÓVEIS; DESCONTO; PREÇO; INCIDÊNCIA REAL; NORMA DE INCIDÊNCIA; ANTECIPAÇÃO DE PAGAMENTO; POUPANÇA RENAULT; PAGAMENTO EM PRESTAÇÕES
+
+**Nº Convencional:** JSTA00044357
+
+**Nº do Documento:** SA219960502014212
+
+**Data de Entrada:** 02/19/1992
+
+**Recorrente:** RENAULT GEST-SOC DE COMERCIO DE AUTOMOVEIS SA
+
+**Recorrido 1:** FAZENDA PUBLICA
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 96
+
+**Privacidade:** 1
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC TT2INST DE 1991/04/23.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR FISC - CAPITAIS.
+
+**Legislação Nacional:** CICAP62 ART3 ART6 N11 N12.; CONST76 ART106 N2 ART168 N1 I.; CCIV66 ART9 ART238.
+
+**Jurisprudência Nacional:** AC TC 756/95 DE 1995/12/20 IN DR IIS 1996/03/27.; AC STA PROC16105 DE 1993/12/15.; AC STA PROC13611 DE 1991/11/07.
+
+**Referência a Doutrina:** ALBERTO XAVIER CONCEITO E NATUREZA DO ACTO TRIBUTÁRIO 1972 PAG325 MANUAL DE DIREITO FISCAL 1974 VI PAG172.; BAPTISTA MACHADO INTRODUÇÃO AO DIREITO E AO DISCURSO LEGITIMADOR 1990 PAG188.; CARDOSO DA COSTA CURSO DE DIREITO FISCAL 1972 PAG184.; SÁ GOMES CURSO DE DIREITO FISCAL 1980 PAG373.; BRAZ TEIXEIRA PRINCíPIOS DE DIREITO FISCAL 1980 PAG115.; SALDANHA SANCHES A SEGURANÇA JURÍDICA DO ESTADO SOCIAL DE DIREITO CONCEITOS INDETERMINADOS ANALOGIA RETROACTIVIDADE DO DIREITO TRIBUTÁRIO IN CTF N140 PAG2791.; BACELAR GOUVEIA A EVASÃO FISCAL NA INTERPRETAÇÃO E INTEGRAÇÃO DA LEI FISCAL IN CTF N373 PAG67.; MARIA FERNANDA TRIGO DE NEGREIROS A EVASÃO LEGÍTIMA E O ABUSO DE DIREITO NO SISTEMA JURÍDICO PORTUGUÊS IN CTF N151 PAG7.; DUARTE FAVEIRO NOÇÕES FUNDAMENTAIS DE DIREITO FISCAL PORTUGUÊS 1986 VII PAG243.; TEIXEIRA RIBEIRO LIÇÕES DE FINANÇAS PÚBLICAS 1969 PAG377 PAG378.; CARDOSO MOTA O IMPOSTO DE CAPITAIS 1982 PAG74.
+
+## Sumário
+
+I - O n. 12 do art. 6 do C.I.Capitais constitui uma norma remanescente de tributação, abrangendo todos os casos de aplicação de capitais não compreendidos nas normas anteriores.
+
+II - Os descontos efectuados no preço de venda de veículos automóveis, no âmbito do sistema denominado "Poupança Renault", mercê de montantes entregues em antecipação do pagamento daquele preço, caiem debaixo da incidência definida naquela norma.
