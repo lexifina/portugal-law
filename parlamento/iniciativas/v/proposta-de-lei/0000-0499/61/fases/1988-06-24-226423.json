@@ -1,0 +1,842 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "61",
+    "id": "29223",
+    "titulo": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1988-06-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5061",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1988-06-24",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-06-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213855",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4354-4354"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4354?pgs=4354&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213856",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4354-4354"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4354?pgs=4354&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213857",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4354-4354",
+                  "4355-4355"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4354?pgs=4354,4355&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213858",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4355-4355"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4355?pgs=4355&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213859",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4355-4355"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4355?pgs=4355&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213860",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4355-4357",
+                  "4358-4358"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4355?pgs=4355-4357,4358&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORÇAMENTO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Carp"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213861",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4357-4357"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4357?pgs=4357&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213862",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4358-4358"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4358?pgs=4358&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213863",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4359-4359"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4359?pgs=4359&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213864",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4359-4359",
+                  "4360-4361"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4359?pgs=4359,4360-4361&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213865",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4359-4359"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4359?pgs=4359&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213866",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4360-4360"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4360?pgs=4360&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213867",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4360-4360"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4360?pgs=4360&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213877",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4362-4632"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4362?pgs=4362-4632&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213878",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4362-4363",
+                  "4363-4363"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4362?pgs=4362-4363,4363&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  INDÚSTRIA E ENERGIA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Mira Amaral"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213879",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4363-4363"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4363?pgs=4363&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213880",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4363-4363"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4363?pgs=4363&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "11:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213881",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4363-4363"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-25",
+                "pubLeg": "V",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25/4363?pgs=4363&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a emitir empréstimos até ao limite de 170 milhões de contos, para assumpção de passivos das empresas públicas.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "226423",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5061",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-06-25",
+        "pubLeg": "V",
+        "pubNr": "106",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/106/1988-06-25?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
