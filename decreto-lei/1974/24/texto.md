@@ -1,0 +1,26 @@
+Decreto-Lei n.º 24/74
+de 31 de Janeiro
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Os soldos a abonar mensalmente aos oficiais da Guarda Nacional Republicana e da Guarda Fiscal serão dos quantitativos fixados nos n.os 1 e 2 do artigo 1.º do Decreto-Lei n.º 710/73, de 31 de Dezembro, para os oficiais das forças armadas.
+Art. 2.º Os vencimentos mensais a abonar aos sargentos e praças da Guarda Nacional Republicana e da Guarda Fiscal serão dos seguintes quantitativos:
+Sargento-ajudante ... 4600$00
+Primeiro-sargento ... 4200$00
+Segundo-sargento ... 3700$00
+Primeiro-cabo ... 3400$00
+Segundo-cabo ... 3300$00
+Soldado ... 3200$00
+Soldado provisório ... 2700$00
+Art. 3.º - 1. Os oficiais da Guarda Nacional Republicana e da Guarda Fiscal terão direito ao abono de diuturnidades nos quantitativos e no regime que forem estabelecidos para os oficiais dos três ramos das forças armadas.
+2. Os oficiais das duas corporações não abrangidos pelo disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 49411, de 24 de Novembro de 1969, vencerão diuturnidades a fixar por despacho dos Ministros do Interior e das Finanças, ou só deste, no caso da Guarda Fiscal.
+Art. 4.º Os quantitativos e o regime das diuturnidades do pessoal da Guarda Nacional Republicana e da Guarda Fiscal poderão ser alterados por despacho conjunto dos Ministros do Interior e das Finanças, ou só deste, no caso da Guarda Fiscal, por forma a equipará-los, com as necessárias adaptações, aos que forem fixados para as forças armadas.
+Art. 5.º As diuturnidades do pessoal da Guarda Nacional Republicana e da Guarda Fiscal são contadas para o cálculo das pensões de reserva e reforma.
+Art. 6.º As gratificações e subsídios a abonar ao pessoal da Guarda Nacional Republicana e da Guarda Fiscal serão fixados e poderão ser revistos por despacho conjunto dos Ministros do Interior e das Finanças, ou só deste, no caso da Guarda Fiscal.
+Art. 7.º As dúvidas que se suscitem na execução deste diploma serão resolvidas por despacho conjunto dos Ministros do Interior e das Finanças.
+Art. 8.º As disposições do presente diploma produzem efeitos a partir de 1 de Janeiro de 1974.
+Art. 9.º É revogado o Decreto n.º 37/71, de 17 de Fevereiro.
+Visto e aprovado em Conselho de Ministros. - Marcelo Caetano - César Henrique Moreira Baptista - Manuel Artur Cotta Agostinho Dias.
+Promulgado em 26 de Janeiro de 1974.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser presente à Assembleia Nacional.
