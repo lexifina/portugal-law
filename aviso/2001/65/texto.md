@@ -1,0 +1,6 @@
+Aviso n.º 65/2001
+Por ordem superior se torna público que, por nota de 7 de Maio de 2001 e nos termos do artigo 42.º da Convenção sobre Obtenção de Provas no Estrangeiro em Matéria Civil ou Comercial de 18 de Março de 1970, o Ministério dos Negócios Estrangeiros dos Países Baixos notificou ter a Embaixada da Suíça na Haia, por nota de 30 de Outubro de 2000, e com referência às disposições da mencionada Convenção, informado o depositário da designação das seguintes autoridades centrais:
+(ver quadro no documento original)
+Nos termos do artigo 38.º, § 2.º, a Convenção entrou em vigor para a Suíça em 1 de Janeiro de 1995, de acordo com o Aviso n.º 24/95, publicado no Diário da República, 1.ª série-A, n.º 12, de 14 de Janeiro de 1995.
+Portugal é Parte na Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 764/74, de 30 de Dezembro, tendo depositado o seu instrumento de ratificação em 12 de Março de 1975, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 82, de 8 de Abril de 1975. A autoridade central em Portugal, conforme aviso publicado no Diário da República, 1.ª série, n.º 122, de 26 de Maio de 1984, é a Direcção-Geral dos Serviços Judiciários.
+Departamento de Assuntos Jurídicos, 19 de Junho de 2001. - A Directora, Maria Margarida Aleixo Antunes Rei.
