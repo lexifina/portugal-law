@@ -1,0 +1,5 @@
+Aviso n.º 70/93
+Por ordem superior se torna público que, por nota de 22 de Janeiro de 1993 e nos termos do artigo 31.º da Convenção sobre o Reconhecimento dos Divórcios e das Separações de Pessoas, concluída na Haia, em 1 de Junho de 1970, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter o Chipre declarado, por nota recebida em 26 de Novembro de 1992, aceitar a adesão da Austrália à mencionada Convenção.
+Nos termos do artigo 28.º, parágrafo 5.º, a Convenção entrou em vigor entre o Chipre e a Austrália em 25 de Janeiro de 1993.
+Portugal é Parte na mesma Convenção, que foi aprovada para ratificação pela Resolução da Assembleia da República n.º 23/84, de 27 de Novembro, tendo depositado o seu instrumento de ratificação em 10 de Maio de 1985, conforme aviso publicado no Diário da República, 1.ª série, n.º 164, de 19 de Julho de 1985. A Convenção vigora para Portugal desde 9 de Julho de 1985.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 11 de Fevereiro de 1993. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
