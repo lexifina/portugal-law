@@ -1,0 +1,6 @@
+Resolução n.º 222/82
+Nos termos do Decreto-Lei n.º 74/80, de 15 de Abril, o Banco Português do Atlântico solicitou ao Governo autorização para a aquisição de um imóvel, sito na Rua de S. Nicolau, 120, tornejando para a Rua do Crucifixo, 49, em Lisboa, propriedade do Banco Espírito Santo e Comercial de Lisboa.
+Considerando que esta aquisição se torna necessária e indispensável para melhor funcionalidade dos serviços, tendo em vista a reestruturação em curso, que tem por objectivo criar novas direcções, as quais deverão estar, tanto quanto possível, concentradas num único local, e permitirá, de imediato, o desenvolvimento das obras em curso em outras dependências do Banco e, de futuro, dispensar algumas delas, que são ocupadas a título de arrendamento;
+Considerando que se encontram reunidas as condições exigidas pelas disposições legais:
+O Conselho de Ministros para os Assuntos Económicos, reunido em 16 de Novembro de 1982, resolveu, ao abrigo do artigo 1.º do Decreto-Lei n.º 74/80, de 15 de Abril, autorizar o Banco Português do Atlântico a adquirir, pelo preço de 125000000$00, o edifício sito na Rua de S. Nicolau, 120, tornejando para a Rua do Crucifixo, 49, em Lisboa, para a expansão dos seus serviços.
+Presidência do Conselho de Ministros. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
