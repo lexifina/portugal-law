@@ -1,0 +1,3 @@
+Portaria n.º 18770
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § 1.º do artigo 4.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, reforçar com a quantia de 17000$00 a verba do artigo 9.º «Diversos encargos - Abono de família» da tabela de despesa do orçamento privativo do Jardim e Museu Agrícola do Ultramar para o corrente ano, tomando como contrapartida as disponibilidades existentes na verba do artigo 11.º «Despesas com publicações» do referido orçamento.
+Ministério do Ultramar, 11 de Outubro de 1961. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
