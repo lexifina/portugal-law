@@ -1,0 +1,6 @@
+Despacho
+Considerando que, tal como prescreve o despacho conjunto regulamentar do Primeiro-Ministro e do Ministério da Administração Interna, de 11 de Março de 1975, o País deve ser informado com a máxima brevidade do resultado provisório da eleição, pelo que há que proceder da forma mais segura e expedita possível;
+Considerando que os governos civis se encontram assoberbados pelas relevantes funções que lhes competem nesta fase do processo eleitoral;
+Tendo em conta o exposto, o Conselho da Revolução, pelo Chefe do Estado-Maior-General das Forças Armadas, e o Governo Provisório, pelo Ministro da Administração Interna, determinam que os delegados militares da Comissão Nacional de Eleições nos Círculos Eleitorais Distritais respectivos devem superintender, em estreito contacto e colaboração com os governadores civis, na organização do processo de apuramento provisório dos resultados da eleição.
+Para esse efeito, os referidos militares serão oportunamente contactados pelos serviços respectivos do Secretariado Técnico dos Assuntos Políticos do Ministério da Administração Interna.
+Estado-Maior-General das Forças Armadas e Ministério da Administração Interna, 3 de Abril de 1975. - O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes. - O Ministro da Administração Interna, António Carlos M. Arnão Metelo.
