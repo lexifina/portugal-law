@@ -1,0 +1,13 @@
+Declaração
+Declara-se, para os devidos efeitos, que entre o original, arquivado nesta Secretaria-Geral, e o texto do Decreto n.º 48800, publicado pelo Ministério das Finanças, Direcção-Geral da Contabilidade Pública, no Diário do Governo n.º 304, 1.ª série, de 27 de Dezembro findo, existe a seguinte divergência, que assim se rectifica:
+No artigo 3.º, onde se lê:
+...
+Ministério das Finanças
+...
+Capítulo 8.º, artigo 89.º, n.º 1) ... 16260$50
+deve ler-se:
+...
+Ministério das Finanças
+...
+Capítulo 8.º, artigo 62.º, n.º 1) ... 16260$50
+Secretaria-Geral da Presidência do Conselho, 22 de Janeiro de 1969. - O Secretário-Geral, Diogo de Paiva Brandão.
