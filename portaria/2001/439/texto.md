@@ -1,0 +1,9 @@
+Portaria n.º 439/2001
+de 28 de Abril
+A Portaria n.º 1103/2000, de 23 de Novembro, define os modelos e as condições de colocação das tabuletas e sinais a utilizar na delimitação de zonas, nos locais de proibição do exercício da caça e ainda nos locais onde a permissão de caçar é condicionada à autorização de quem de direito.
+Verificando-se que a substituição da sinalização das zonas de caça pode acarretar prejuízos económicos às respectivas entidades concessionárias;
+Torna-se, assim, necessário criar condições para que as entidades concessionárias disponham de prazos mais alargados para a necessária alteração da sinalização.
+Assim, com fundamento na alínea a) do artigo 19.º, na alínea a) do n.º 1 do artigo 38.º, no artigo 49.º, no n.º 5 do artigo 50.º, no n.º 2 do artigo 51.º, no artigo 52.º e no n.º 2 do artigo 58.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que o n.º 10.º da Portaria n.º 1103/2000, de 23 de Novembro, passe a ter a seguinte redacção:
+«10.º As tabuletas e sinais que balizem áreas regularmente sinalizadas ao abrigo das disposições legais revogadas pelo Decreto-Lei n.º 227-B/2000, de 15 de Setembro, devem ser substituídos pelos modelos aprovados nos anexos I e II ou adaptados às exigências da presente portaria no prazo máximo de seis meses, sem prejuízo da obtenção de prévia autorização da direcção regional de agricultura competente, sempre que for devida, com excepção das zonas de caça já constituídas, as quais poderão manter a sua sinalização até à data da sua renovação ou até que sejam alterados os seus limites.»
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 4 de Abril de 2001.
