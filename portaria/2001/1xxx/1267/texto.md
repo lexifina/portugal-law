@@ -1,0 +1,11 @@
+Portaria n.º 1267/2001
+de 6 de Novembro
+A Lei Quadro da Educação Pré-Escolar, Lei n.º 5/97, de 10 de Fevereiro, assumiu que este nível de educação constitui a primeira etapa da educação básica, tendo-se vindo a criar, expandir e consolidar uma rede nacional de educação pré-escolar que mobiliza e compromete o Estado, as instituições particulares de solidariedade social e os estabelecimentos de ensino particular e cooperativo e as instituições sem fins lucrativos.
+De acordo com o Decreto-Lei n.º 147/97, de 11 de Junho, que estabelece o regime jurídico do desenvolvimento da educação pré-escolar, a consolidação e expansão da rede nacional vem sendo sustentada desde 1997 através de sucessivos protocolos com a Associação Nacional de Municípios Portugueses, as uniões das misericórdias, as mutualidades e as instituições particulares de solidariedade social, e também através de acordos de colaboração/cooperação com os municípios e outras instituições, bem como por contratos de desenvolvimento, na modalidade de apoio à família, com os estabelecimentos de ensino particular e cooperativo.
+Assim, considerando a necessidade de tornar público o esforço conjunto e conjugado das múltiplas iniciativas, na prestação de um mesmo serviço de qualidade e prossecução sustentada do objectivo de expansão da educação pré-escolar:
+Manda o Governo, pelos Ministros das Finanças, da Educação, do Trabalho e da Solidariedade e do Ambiente e do Ordenamento do Território, ao abrigo do disposto no n.º 3 do artigo 18.º do Decreto-Lei n.º 147/97, de 11 de Junho, que os estabelecimentos que integram, no ano lectivo de 2000-2001, a rede nacional da educação pré-escolar sejam os constantes do mapa anexo à presente portaria, que dela faz parte integrante.
+Em 13 de Setembro de 2001. - O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro da Educação, Júlio Domingos Pedrosa da Luz de Jesus. - Pelo Ministro do Trabalho e da Solidariedade, António Maria Bustorff Dornelas Cysneiros, Secretário de Estado do Trabalho e Formação. - Pelo Ministro do Ambiente e do Ordenamento do Território, José Augusto Clemente de Carvalho, Secretário de Estado da Administração Local.
+
+ANEXO
+Rede nacional de educação pré-escolar
+(ver quadro no documento original)
