@@ -1,0 +1,6 @@
+Despacho
+Considerando que após a promulgação do Decreto-Lei n.º 22470, de 11 de Abril de 1933, que transferiu para a competência do Ministro das Finanças a aprovação de propostas para a substituição por garantia bancária de depósitos em caução de contratos a que se refere o artigo 1.º do Decreto n.º 13677, de 21 de Maio de 1927, e demais legislação aplicável, se operou toda uma acção tendente a disciplinar o funcionamento do sistema bancário;
+Considerando que com a nacionalização do banco central foram conferidos a esta instituição de crédito amplos poderes no que se refere a contrôle das instituições de crédito;
+Considerando, por último, que é da maior conveniência dispensar de formalismos desnecessários as entidades que se apresentam a concursos ou a contratos em que tal garantia é exigida:
+Determino que sejam dispensadas da prévia aprovação do Ministro das Finanças as propostas relativas à substituição por garantia bancária de depósitos provisórios e definitivos em caução de concursos e contratos, quando aquelas sejam prestadas por instituições de crédito legalmente autorizadas a exercer a actividade bancária em território nacional.
+Ministério das Finanças, 28 de Fevereiro de 1976. - Pelo Ministro das Finanças, José Dias dos Santos Pais, Subsecretário de Estado-Adjunto do Ministro das Finanças.
