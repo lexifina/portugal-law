@@ -1,0 +1,45 @@
+Portaria n.º 517/72
+de 2 de Setembro
+1. Na política de fomento agrário o Governo prossegue constitui factor importante a contenção dos preços de venda dos adubos em limites que favoreçam a expansão do seu consumo e permitam incrementar a produção agrícola.
+Em 1970 operaram-se, nos adubos elementares de produção nacional, reduções de preço da ordem dos 8,7 por cento, resultantes, nuns casos, do menor custo do amoníaco e obtidas, noutros, através da cobertura, pelo Fundo de Abastecimento, de uma fracção dos preços de fábrica.
+Também se verificaram, nessa oportunidade, reduções dos adubos compostos.
+Desde então os preços dos adubos nacionais têm podido manter-se e a lavoura dispõe agora de fertilizantes a custos que se situam entre os mais baixos praticados na Europa.
+Em Espanha os adubos azotados e os superfosfatos têm preços que excedem de 10 a 19 por cento os praticados em Portugal. Também os superfosfatos são mais caros em Itália, 17 a 24 por cento, e em França, 6 a 26 por cento.
+Tomando como referência dois dos adubos elementares de maior consumo, os preços de venda à lavoura em Portugal, Espanha e Itália são os seguintes, por 100 Kg, em igualdade de condições de embalagens:
+(ver documento original)
+2. Na campanha de 1972-1973 o regime de preços e comércio de adubos não vai afastar-se significativamente dos anteriores e obedecerá aos seguintes princípios:
+a) Os adubos elementares de produção nacional, excepção feita à ureia e à cianamida cálcica, e os adubos potássicos importados terão preços tabelados;
+b) Os restantes adubos, incluindo a ureia e a cianamida cálcica, terão preços fixados pela Comissão Reguladora dos Produtos Químicos e Farmacêuticos;
+c) Será obrigatória a venda dos adubos em sacos de plástico de 50 kg, com o preço fixado, e facultativo o uso dos restantes tipos de embalagem, com os preços fixados pela Comissão Reguladora dos Produtos Químicos e Farmacêuticos.
+Constitui inovação importante a extensão aos Açores e Madeira dos preços estabelecidos no presente regime, passando o Fundo de Abastecimento a suportar os maiores custos do transporte.
+Esta providência importa um encargo para o Fundo de Abastecimento da ordem dos 12000 contos por ano.
+3. Os preços dos adubos elementares de produção nacional permanecem nos níveis da campanha transacta, salvo no caso da cianamida cálcica, cujo preço terá de suportar o acréscimo correspondente aos maiores custos de produção, embora este adubo beneficie ainda de uma elevada participação do Fundo de Abastecimento.
+Uma produção já de si onerosa, agravada pelas condições adversas que frequentemente concorrem no seu fabrico, também desfavorecida por procura estacionária, implicou reconsiderar a sua necessidade e utilidade, cotejando-a com os pesados encargos resultantes do preço fortemente subsidiado pelo Fundo de Abastecimento.
+Assim, o preço de venda da cianamida cálcica terá de ser ajustado sucessivamente aos custos de produção, extinguindo-se, por forma degressiva, a participação do Fundo de Abastecimento nos custos deste adubo.
+4. Finalmente, importa referir que a participação do Estado, através do Fundo de Abastecimento, na cobertura de uma fracção dos custos dos adubos, representará, na campanha de 1972-1973, encargo superior a 60000 contos, quase duplicando em relação ao da campanha de 1971-1972. Espera-se que este elevado dispêndio se traduza para o País nos benefícios de uma maior produtividade, no crescimento da oferta de produtos agrícolas e, reflexamente, na moderação dos preços.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, ao abrigo do disposto no n.º 11.º do artigo 5.º do Decreto n.º 30270, de 12 de Janeiro de 1940, e no artigo 1.º do Decreto-Lei n.º 196/72, de 12 de Junho, observar o seguinte regime de preços e comércio de adubos, a vigorar no continente e ilhas adjacentes, no período compreendido entre 1 de Julho de 1972 e 30 de Junho de 1973.
+I) Preços
+Adubos a granel
+(ver documento original)
+Adubos ensacados
+(ver documento original)
+Notas
+É permitida a venda dos adubos em sacos de 100 Kg.
+É facultativo o emprego de sacos de papel, de juta e de ráfia sintética de 50 kg, devendo os preços dos adubos sofrer as correcções correspondentes com base nos preços dos sacos fixados pela Comissão Reguladora dos Produtos Químicos e Farmacêuticos.
+II) Disposições
+1.º Os preços da cianamida cálcica, ureia, nitrato de sódio, fosfato Thomas, adubos compostos, químicos mistos e químico-orgânicos são fixados pela Comissão Reguladora dos Produtos Químicos e Farmacêuticos, nos termos do disposto no n.º 11.º do artigo 5.º do citado Decreto n.º 30270.
+2.º A fixação dos preços deve ser requerida pelos fabricantes e importadores da forma seguinte:
+a) Para os adubos de produção nacional correntes no mercado, no prazo de trinta dias contados da publicação deste regime no Diário do Governo;
+b) Para os adubos de produção nacional a introduzir no mercado, com a antecipação de, pelo menos, trinta dias sobre o seu lançamento;
+c) Para os adubos importados, no prazo de trinta dias contados a partir do seu desalfandegamento.
+3.º Além dos adubos elementares com o preço de venda a granel fixado neste regime, podem ser vendidos a granel os adubos compostos com as formulações 10-10-10, 7-21-0, 14-14-0, 10-20-0, 14-36-0 e 18-36-0, nas condições previstas no artigo 26.º do Decreto-Lei n.º 46595, de 15 de Outubro de 1965.
+4.º O transporte a granel por meios rodoviários carece de autorização expressa da Comissão Reguladora dos Produtos Químicos e Farmacêuticos, beneficiando, nesse caso, o comprador da redução de 85$00 por tonelada de adubo correspondente à verba de manutenção e transporte em caminho de ferro.
+5.º Quando o transporte se efectuar em contentores, acresce o adicional, para o fabricante, de 5$00/t de adubo efectivamente carregado.
+6.º As expedições e reexpedições inferiores a 10 t (remessas de detalhe) são oneradas com o adicional de 10$00/t para transporte, a suportar pelo intermediário, não podendo, em qualquer caso, ser transferido para o consumidor.
+7.º Não são consideradas remessas de detalhe as expedições e reexpedições simultâneas de adubos diferentes totalizando 10 t, desde que tenham a mesma estação de destino.
+8.º Os encargos de transporte entre a estação de caminho de ferro de destino e o armazém do revendedor apenas podem ser debitados ao consumidor quando prèviamente tenham sido fixados pela Inspecção-Geral das Actividades Económicas, a requerimento do vendedor, caso em que deverão constar, de forma expressa, nas facturas.
+9.º Nas vendas a prazo os preços apenas podem ser onerados com a taxa de desconto bancário acrescida de 50 por cento, nos termos do disposto no n.º 4.º da Portaria n.º 18859, de 6 de Dezembro de 1961.
+10.º Nos estabelecimentos de venda e respectivos depósitos é obrigatória a afixação, de forma bem visível, de tabelas com o nome, natureza, percentagens e preços de todos os adubos aí existentes, nos termos do disposto no artigo 16.º do regulamento aprovado pelo Decreto n.º 21204, de 4 de Maio de 1932.
+11.º O consumo dos correctivos agrícolas que satisfaçam às características legais beneficiam do subsídio de 75$00/t, devendo as quantidades fornecidas aos produtores agrícolas ser confirmadas pelo respectivo grémio da lavoura.
+Secretaria de Estado do Comércio, 25 de Agosto de 1972. - O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto.
