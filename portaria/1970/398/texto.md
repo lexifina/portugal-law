@@ -1,0 +1,14 @@
+Portaria n.º 398/70
+O n.º 2 do artigo 7.º do Decreto-Lei n.º 32/70, de 17 de Janeiro de 1970, cria na Inspecção-Geral de Minas os Departamentos de Minas e Pedreiras, de Geologia e Hidrogeologia e de Petróleos e Seus Derivados e estabelece que o Ministro do Ultramar poderá alterar, por portaria, a todo o tempo, o número e atribuições destes Departamentos.
+O crescente volume de trabalho que corre pela Inspecção-Geral exige que desde já se definam as atribuições dos Departamentos já existentes e se criem outros a que fiquem adstritos os assuntos de carácter jurídico, contabilístico e financeiro da competência da Inspecção-Geral.
+Devendo a Inspecção-Geral de Minas funcionar por departamentos, grupos de trabalho, missões e brigadas, torna-se necessário que a definição de atribuições seja suficientemente flexível de forma a evitar interferências de competências e dúvidas na condução das respectivas matérias.
+Consideradas estas circunstâncias:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º 2 do artigo 7.º do Decreto-Lei n.º 32/70, de 17 de Janeiro de 1970, o seguinte:
+1.º Pertencem ao Departamento de Minas e Pedreiras do Gabinete de Estudos da Inspecção-Geral de Minas os assuntos respeitantes à formação e valorização de pessoal técnico, à pesquisa e exploração de substâncias minerais, incluindo a respectiva preparação, tratamento metalúrgico e os acessórios da produção mineira, excluindo as instalações industriais relativas a combustíveis líquidos adstritas ao Departamento de Petróleos e Seus Derivados.
+2.º Pertencem ao Departamento de Geologia e Hidrogeologia os assuntos relativos a geologia ou geofísica aplicadas, e à hidrogeologia, bem como a respectiva cartografia geológica, geral e a especial com finalidades económicas.
+3.º Pertencem ao Departamento de Petróleos e Seus Derivados os assuntos respeitantes ao comércio destes combustíveis, líquidos ou gasosos, assim como à sua refinação e transformação, estatística da sua produção, armazenagem e transporte, excluindo a pesquisa e exploração mineira, adstrita ao Departamento de Minas e Pedreiras.
+4.º São criados no Gabinete de Estudos da Inspecção-Geral de Minas os Departamentos Jurídico e de Finanças e Contabilidade, pertencendo ao primeiro os assuntos de natureza jurídica e ao segundo os de índole contabilística e financeira relacionados com as atribuições da Inspecção-Geral de Minas.
+5.º Cabe ao inspector-geral de Minas distribuir, como entender, os assuntos da competência da Inspecção-Geral pelos seus departamentos, grupos de trabalho, missões e brigadas e pelos agentes colocados no Gabinete de Estudos.
+Ministério do Ultramar, 13 de Agosto de 1970. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
