@@ -1,0 +1,19 @@
+Declaração
+Segundo comunicação do Ministério da Marinha, Repartição do Gabinete, a portaria que aprova a lotação normal provisória das fragatas da classe Comandante João Belo, publicada sob o n.º 23002 no Diário do Governo n.º 260, 1.ª série, de 8 do corrente, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Onde se lê:
+Sargentos e praças
+...
+Manobra:
+...
+Primeiros-grumetes ... 3
+... 13
+...
+deve ler-se:
+Sargentos e praças
+...
+Manobra:
+...
+Primeiros-grumetes ... 8
+... 13
+...
+Secretaria-Geral da Presidência do Conselho, 22 de Novembro de 1967. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
