@@ -1,0 +1,40 @@
+Lei n.º 1/85
+de 23 de Janeiro
+Lei quadro das leis de programação militar
+A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 2, da Constituição, o seguinte:
+ARTIGO 1.º
+(Finalidade)
+As leis de programação militar incorporam e programam a aplicação de planos de médio prazo de investimento público no reequipamento das Forças Armadas e nas infra-estruturas de defesa e são elaboradas e executadas de acordo com o regime definido na presente lei.
+ARTIGO 2.º
+(Âmbito e período de aplicação)
+1 - Nas leis de programação militar serão inscritos os programas de reequipamento e de infra-estruturas, por períodos de 5 anos, necessários à realização do plano de forças decorrente de um processo de planeamento a médio prazo fundamentado no conceito estratégico militar, bem como a programação dos encargos financeiros necessários à respectiva materialização.
+2 - Os programas cujo financiamento eventualmente exceda aquele período terão uma anotação em que será indicada a previsão dos anos e dos correspondentes encargos até ao seu completamento.
+3 - Para efeitos da presente lei, o plano de forças é o plano de médio prazo que engloba o sistema de forças e o dispositivo aprovados na sequência e em execução do conceito estratégico militar.
+ARTIGO 3.º
+(Preparação)
+1 - Os chefes de estado-maior, face à orientação do Governo e à directiva de planeamento do Ministro da Defesa Nacional, elaboram os anteprojectos de leis de programação militar do seu âmbito.
+2 - Os anteprojectos referidos no número anterior são presentes ao Conselho de Chefes de Estado-Maior, que sobre eles delibera, designadamente com vista à sua harmonização e consolidação.
+3 - Compete ao Conselho Superior Militar, sob a orientação do Governo, por intermédio do Ministro da Defesa Nacional, elaborar os projectos de propostas de lei de programação militar.
+4 - O Governo, por intermédio do Ministro da Defesa Nacional, submete os projectos de propostas de leis de programação militar a parecer do Conselho Superior da Defesa Nacional.
+5 - Recebido o parecer referido no número anterior, o Governo aprova em Conselho de Ministros as propostas de leis de programação militar, submetendo-as à Assembleia da República, para apreciação e aprovação.
+ARTIGO 4.º
+(Execução)
+1 - Publicada a lei de programação militar, o Governo promoverá a sua execução, cuja orientação e fiscalização são da responsabilidade do Ministro da Defesa Nacional, sem prejuízo da competência da Assembleia da República.
+2 - Em execução daquela lei poderão ser assumidos os compromissos necessários para os períodos abrangidos, mediante os procedimentos estabelecidos e respeitadas as competências próprias ou delegadas da entidade a quem a lei cometer aquela responsabilidade.
+3 - A proposta do orçamento anual do Ministério da Defesa Nacional, na parte relativa ao reequipamento das Forças Armadas e às infra-estruturas de defesa, incluirá o estabelecido para o ano em causa na lei de programação militar em vigor.
+4 - Os saldos verificados nos programas no fim de cada ano económico transitarão para o orçamento do ano seguinte, para reforço das dotações dos mesmos programas até à sua completa execução.
+ARTIGO 5.º
+(Detalhe dos programas)
+1 - Os programas a considerar em leis de programação militar serão apresentados separadamente por ramos e Estado-Maior-General das Forças Armadas e em correspondência com o plano de forças, contendo uma descrição e uma justificação adequadas.
+2 - Por cada programa serão indicados os encargos para cada um dos anos de vigência da lei de programação militar, determinados a preços do ano da respectiva aprovação, bem como as respectivas fontes de financiamento.
+3 - Por cada programa serão indicados os encargos financeiros a suportar com eventuais empréstimos, ainda que se projectem para além do período de vigência da respectiva lei de programação militar.
+ARTIGO 6.º
+(Normas supletivas)
+Aos programas de reequipamento e de infra-estruturas de defesa aplicam-se as regras orçamentais dos programas plurianuais em tudo o que não contrarie a presente lei.
+Aprovada em 14 de Dezembro de 1984.
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
+Promulgada em 8 de Janeiro de 1985.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendada em 10 de Janeiro de 1985.
+O Primeiro-Ministro, Mário Soares.
