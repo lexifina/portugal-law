@@ -1,0 +1,790 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "97",
+    "id": "18696",
+    "titulo": "Autoriza o Governo a legislar em matéria de Institutos Públicos integrantes da Administração do Estado"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-10-10",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2046",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-10-10",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-10-10",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA REFORMA  DO ESTADO E DA ADMINISTRAÇÃO PÚBLICA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Alberto Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139411",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "328-333",
+                  "347-347"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-11",
+                "pubLeg": "VIII",
+                "pubNr": "10",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/010/2001-10-11/328?pgs=328-333,347&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de Institutos Públicos integrantes da Administração do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139412",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "330-330"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-11",
+                "pubLeg": "VIII",
+                "pubNr": "10",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/010/2001-10-11/330?pgs=330&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de Institutos Públicos integrantes da Administração do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139413",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "331-331",
+                  "346-346"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-11",
+                "pubLeg": "VIII",
+                "pubNr": "10",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/010/2001-10-11/331?pgs=331,346&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de Institutos Públicos integrantes da Administração do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139414",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "332-332"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-11",
+                "pubLeg": "VIII",
+                "pubNr": "10",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/010/2001-10-11/332?pgs=332&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de Institutos Públicos integrantes da Administração do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139415",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "332-333"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-11",
+                "pubLeg": "VIII",
+                "pubNr": "10",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/010/2001-10-11/332?pgs=332-333&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de Institutos Públicos integrantes da Administração do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139416",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "333-334"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-11",
+                "pubLeg": "VIII",
+                "pubNr": "10",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/010/2001-10-11/333?pgs=333-334&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de Institutos Públicos integrantes da Administração do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139417",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "334-338"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-11",
+                "pubLeg": "VIII",
+                "pubNr": "10",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/010/2001-10-11/334?pgs=334-338&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de Institutos Públicos integrantes da Administração do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1671",
+                "nome": "Maria de Belém Roseira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139418",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "336-336"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-11",
+                "pubLeg": "VIII",
+                "pubNr": "10",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/010/2001-10-11/336?pgs=336&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de Institutos Públicos integrantes da Administração do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA REFORMA  DO ESTADO E DA ADMINISTRAÇÃO PÚBLICA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Alberto Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139419",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "337-337"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-11",
+                "pubLeg": "VIII",
+                "pubNr": "10",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/010/2001-10-11/337?pgs=337&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de Institutos Públicos integrantes da Administração do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139420",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "338-339"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-11",
+                "pubLeg": "VIII",
+                "pubNr": "10",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/010/2001-10-11/338?pgs=338-339&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de Institutos Públicos integrantes da Administração do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139421",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "339-342",
+                  "344-346"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-11",
+                "pubLeg": "VIII",
+                "pubNr": "10",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/010/2001-10-11/339?pgs=339-342,344-346&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de Institutos Públicos integrantes da Administração do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139422",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "342-344"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-11",
+                "pubLeg": "VIII",
+                "pubNr": "10",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/010/2001-10-11/342?pgs=342-344&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de Institutos Públicos integrantes da Administração do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139423",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "344-344"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-11",
+                "pubLeg": "VIII",
+                "pubNr": "10",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/010/2001-10-11/344?pgs=344&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de Institutos Públicos integrantes da Administração do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139424",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "345-345"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-11",
+                "pubLeg": "VIII",
+                "pubNr": "10",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/010/2001-10-11/345?pgs=345&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de Institutos Públicos integrantes da Administração do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139425",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "348-348"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-11",
+                "pubLeg": "VIII",
+                "pubNr": "10",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/010/2001-10-11/348?pgs=348&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de Institutos Públicos integrantes da Administração do Estado",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "149451",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2046",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-10-11",
+        "pubLeg": "VIII",
+        "pubNr": "10",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/010/2001-10-11?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
