@@ -1,0 +1,697 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "137",
+    "id": "20548",
+    "titulo": "Autoriza o Governo a proceder à Revisão do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2004-09-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3261",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2004-09-22",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-09-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN   DA   ADMINISTRAÇÃO INTERNA",
+              "governo": "XVI GOVERNO CONSTITUCIONAL",
+              "nome": "Daniel Sanches"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150677",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "202-204",
+                  "207-208",
+                  "219-220"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-23",
+                "pubLeg": "IX",
+                "pubNr": "4",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/004/2004-09-23/202?pgs=202-204,207-208,219-220&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a proceder à Revisão do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1485",
+                "nome": "Rodeia Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150678",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "204-204"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-23",
+                "pubLeg": "IX",
+                "pubNr": "4",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/004/2004-09-23/204?pgs=204&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a proceder à Revisão do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1864",
+                "nome": "Luís Miranda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150679",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "205-205"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-23",
+                "pubLeg": "IX",
+                "pubNr": "4",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/004/2004-09-23/205?pgs=205&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a proceder à Revisão do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150680",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "205-206"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-23",
+                "pubLeg": "IX",
+                "pubNr": "4",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/004/2004-09-23/205?pgs=205-206&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a proceder à Revisão do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150681",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "206-206"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-23",
+                "pubLeg": "IX",
+                "pubNr": "4",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/004/2004-09-23/206?pgs=206&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a proceder à Revisão do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1931",
+                "nome": "Rodrigo Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150682",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "206-207"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-23",
+                "pubLeg": "IX",
+                "pubNr": "4",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/004/2004-09-23/206?pgs=206-207&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a proceder à Revisão do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150683",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "209-209"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-23",
+                "pubLeg": "IX",
+                "pubNr": "4",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/004/2004-09-23/209?pgs=209&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a proceder à Revisão do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1485",
+                "nome": "Rodeia Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150684",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "209-211"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-23",
+                "pubLeg": "IX",
+                "pubNr": "4",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/004/2004-09-23/209?pgs=209-211&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a proceder à Revisão do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1407",
+                "nome": "Nelson Baltazar"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150685",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "211-213"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-23",
+                "pubLeg": "IX",
+                "pubNr": "4",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/004/2004-09-23/211?pgs=211-213&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a proceder à Revisão do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1698",
+                "nome": "Miguel Anacoreta Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150686",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "213-215"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-23",
+                "pubLeg": "IX",
+                "pubNr": "4",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/004/2004-09-23/213?pgs=213-215&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a proceder à Revisão do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "324",
+                "nome": "Fernando Pedro Moutinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150687",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "215-217"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-23",
+                "pubLeg": "IX",
+                "pubNr": "4",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/004/2004-09-23/215?pgs=215-217&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a proceder à Revisão do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150688",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "218-218"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-23",
+                "pubLeg": "IX",
+                "pubNr": "4",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/004/2004-09-23/218?pgs=218&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a proceder à Revisão do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1700",
+                "nome": "Vitalino Canas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150689",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "218-219"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-23",
+                "pubLeg": "IX",
+                "pubNr": "4",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/004/2004-09-23/218?pgs=218-219&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a proceder à Revisão do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "164723",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3261",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-09-23",
+        "pubLeg": "IX",
+        "pubNr": "4",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/004/2004-09-23?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
