@@ -1,0 +1,7 @@
+Portaria n.º 509/2002
+de 30 de Abril
+O Decreto-Lei n.º 61/99, de 2 de Março, estabelece no artigo 8.º que a capacidade económica e financeira dos empreiteiros de obras públicas e industriais de construção civil é avaliada, entre outros factores, pelo equilíbrio financeiro, tendo em conta, nomeadamente, o conjunto dos indicadores de liquidez geral, autonomia financeira e grau de cobertura do imobilizado, estipulando o n.º 4 do mesmo preceito que a sua definição e valores de referência são fixados por portaria do Ministro do Equipamento Social, o que, para o corrente ano de 2002, já sucedeu, através da publicação da Portaria n.º 1454/2001, de 28 de Dezembro. Para uma melhor compreensão do cálculo e aplicação desses valores vem a presente portaria alterar o respectivo n.º 2.º
+Assim, ao abrigo do disposto no n.º 4 do artigo 8.º do Decreto-Lei n.º 61/99, de 2 de Março:
+Manda o Governo, pelo Ministro do Ambiente e do Ordenamento do Território, que o n.º 2.º da Portaria n.º 1454/2001, de 28 de Dezembro, passe a ter a seguinte redacção:
+«2.º Os valores de referência dos indicadores enunciados no número anterior, para efeitos do disposto na alínea d) do n.º 1 do Decreto-Lei n.º 61/99, de 2 de Março, têm em conta a evolução dos três últimos exercícios (1998, 1999 e 2000) e são calculados através da média desses anos, sendo:»
+O Secretário de Estado das Obras Públicas, José António Fonseca Vieira da Silva, em 19 de Março de 2002.
