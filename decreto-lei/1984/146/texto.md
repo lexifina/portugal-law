@@ -1,0 +1,25 @@
+Decreto-Lei n.º 146/84
+de 9 de Maio
+Considerando que a produção de determinados tipos de queijo regional constitui uma riqueza de reconhecida importância que urge proteger e fomentar;
+Considerando que a perspectiva de entrada de Portugal para o Mercado Comum Europeu torna indispensável a existência de medidas legislativas que defendam e valorizem a tipicidade dos queijos produzidos nas diversas regiões do País, permitindo a atribuição da designação de origem, à semelhança de práticas seguidas nos países da Comunidade Europeia;
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Pelo presente diploma é permitida a criação de regiões demarcadas para queijos tradicionais, cuja regulamentação será objecto de decreto regulamentar, ouvidas as autarquias locais das áreas das respectivas regiões.
+Art. 2.º É autorizado o uso de marcas ou denominações de origem nos queijos produzidos nas regiões demarcadas cujas características satisfaçam as exigências de qualidade legalmente estabelecidas.
+Art. 3.º - 1 - A demarcação de uma região produtora de queijo a que seja atribuída marca au denominação de origem deve ser feita em termos de precisão de limites geográficos, tendo em consideração os elementos que concorram para a qualidade e características específicas definidoras do respectivo tipo de queijo, designadamente os factores humanos e edafoclimáticos da região e as espécies ou, eventualmente, as raças de animais produtores de leite.
+2 - No interior de cada região demarcada podem ser consideradas sub-regiões, tendo em conta as particularidades nelas existentes, sendo a respectiva denominação associada à de origem regional.
+Art. 4.º - 1 - A produção de queijo com marca ou denominação de origem só pode ter lugar dentro da região demarcada, ficando o seu fabrico sujeito ao controle da respectiva entidade certificadora.
+2 - O uso de marcas ou denominações de origem nos queijos carece de prévia autorização da respectiva entidade certificadora.
+Art. 5.º - 1 - São entidades certificadoras as associações e cooperativas de criadores de gado, de produtores de leite ou queijo e de industriais de queijo para o efeito credenciadas pelo Ministério da Agricultura, Florestas e Alimentação, por proposta do Instituto de Qualidade Alimentar.
+2 - Para efeitos do disposto no número anterior, as entidades que considerem reunir condições para obter o estatuto de entidade certificadora deverão dirigir o seu pedido ao Ministro da Agricultura, Florestas e Alimentação, fazendo-o acompanhar dos seguintes documentos:
+a) Regulamento técnico elaborado segundo um plano tipo estabelecido oficialmente, do qual constem a indicação das modalidades de controle a praticar e o modelo de etiqueta da marca de origem, bem como as penalidades previstas para o não cumprimento das regras estabelecidas;
+b) Os estatutos que a regem, a lista dos membros dos corpos administrativos e fotocópia do cartão de identificação de pessoa colectiva.
+3 - Para cada marca ou denominação de origem apenas poderá existir uma entidade certificadora, que é responsável pelo seu uso.
+Art. 6.º Cada marca ou denominação será registada pela entidade certificadora no Instituto Nacional da Propriedade Industrial e ainda, sempre que se justifique, no registo internacional e nos registos nacionais dos países que não aderiram ao acordo de Madrid de 14 de Abril de 1891.
+Art. 7.º As acções de controle e disciplina da actividade das entidades certificadoras de queijos são da competência do Ministério da Agricultura, Florestas e Alimentação, através dos serviços para o efeito designados.
+Visto e aprovado em Conselho de Ministros de 5 de Abril de 1984. - Mário Soares - Eduardo Ribeiro Pereira - Manuel José Dias Soares Costa - José Veiga Simão.
+Promulgado em 24 de Abril de 1984.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 26 de Abril de 1984.
+O Primeiro-Ministro, Mário Soares.
