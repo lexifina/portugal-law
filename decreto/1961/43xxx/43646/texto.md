@@ -1,0 +1,11 @@
+Decreto n.º 43646
+Em execução de programas estabelecidos ao abrigo do Decreto-Lei n.º 40246, de 6 de Julho de 1955, foi construído o Bairro das Casas Económicas de S. João da Madeira, composto ùnicamente por moradias da classe A, isto é, por moradias destinadas a famílias de recursos muito modestos.
+Outros agrupamentos de casas da mesma classe se encontram já em construção. Todavia, o bairro de S. João da Madeira é o primeiro que vai ser distribuído, tornando-se, pois, necessário dar cumprimento ao disposto no artigo 3.º do Decreto-Lei n.º 40552, de 12 de Março de 1956, em que se estabeleceu a obrigatoriedade de serem fixadas por decreto, antes da abertura dos respectivos concursos, as prestações a pagar pelos interessados para aquisição das moradias em regime de propriedade plena.
+Tal é o objectivo do presente diploma. E, de acordo com a orientação geral definida no citado Decreto-Lei n.º 40552, ao determinarem-se agora as prestações mensais respeitantes às moradias construídas naquela vila, atende-se ao custo global das habitações, à rentabilidade exigida pelos capitais investidos, à capacidade económica da generalidade dos pretendentes, ao nível das rendas praticadas na localidade e, ainda, ao encargo correspondente à realização dos seguros de vida, de invalidez, de doença e desemprego e de incêndio, que colocam os moradores-adquirentes ou suas famílias a coberto dos principais riscos.
+Nestes termos:
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo único. Ao abrigo do disposto no artigo 3.º do Decreto-Lei n.º 40552, de 12 de Março de 1956, as prestações mensais para a aquisição das casas económicas do agrupamento de S. João da Madeira, construído nos termos do Decreto-Lei n.º 40246, de 6 de Julho de 1955, são fixadas em harmonia com os quantitativos seguintes:
+(ver documento original)
+§ único. As prestações fixadas neste artigo destinam-se ao pagamento de juros, à amortização do capital e ainda aos prémios de seguro de vida, invalidez, doença, desemprego e incêndio.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 3 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Henrique Veiga de Macedo.
