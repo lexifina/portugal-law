@@ -1,0 +1,6 @@
+Resolução do Conselho de Ministros n.º 72/86
+Considerando que, conforme o artigo 10.º, n.º 3, do Regulamento Geral dos Hospitais, aprovado pelo Decreto n.º 48358, de 27 de Abril de 1968, a assistência religiosa é assegurada por capelães, designados nos termos da Concordata com a Santa Sé e legislação complementar;
+Considerando que, salvo as excepções previstas no artigo 10.º do Decreto Regulamentar n.º 58/80, de 10 de Outubro, os estabelecimentos hospitalares devem incluir nos seus quadros um lugar de capelão;
+Verificando-se a necessidade de preencher o lugar de capelão nos Hospitais Distritais de Viana do Castelo e de Tomar e nos Hospitais Civis de Lisboa e tendo em conta que o recrutamento dentro da Administração Pública é insuficiente e não é possível o recurso a instrumentos de mobilidade:
+Nestes termos, ao abrigo do artigo 12.º n.º 7, do Decreto-Lei n.º 41/84, de 3 de Fevereiro, o Conselho de Ministros, reunido em 18 de Setembro de 1986, resolveu descongelar a admissão de capelães para preenchimento dos lugares previstos nos quadros do pessoal dos Hospitais Distritais de Viana do Castelo e de Tomar e dos Hospitais Civis de Lisboa.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
