@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Ministério de Assuntos Exteriores de Espanha, os Governos de Quatar, Filipinas e Honduras denunciaram, em 1 de Fevereiro de 1985, 8 de Setembro de 1988 e 19 de Agosto de 1988, respectivamente, os estatutos da Organização Mundial de Turismo (OMT) feitos, no México, em 27 de Setembro de 1970.
+Conforme as disposições do artigo 35.1 dos estatutos daquela Organização, a denúncia produziu os seus efeitos, para o Quatar, a partir de 1 de Fevereiro de 1986. Para as Honduras e Filipinas a saída da OMT como membros efectivos verificar-se-á a partir de 19 de Agosto e 8 de Setembro de 1989, respectivamente.
+Direcção-Geral dos Negócios Político-Económicos, 20 de Fevereiro de 1989. - O Director de Serviços dos Assuntos Multilaterais, José Tadeu Soares.
