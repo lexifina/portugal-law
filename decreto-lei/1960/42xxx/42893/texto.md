@@ -1,0 +1,9 @@
+Decreto-Lei n.º 42893
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Nos termos do n.º 1 do artigo 69.º do Decreto n.º 38969, de 27 de Outubro de 1952, é autorizado o Governo, pelo Ministro da Educação Nacional, a aceitar do benemérito Joaquim Borges Artiaga a importância de 250.000$00 para fundo de manutenção de uma cantina escolar anexa às escolas do núcleo de Vila Nova de Tazem, concelho de Gouveia, a qual se designará «Cantina Escolar D. Maria Emília Pais Borges Artiaga».
+Art. 2.º A administração da cantina é autónoma e atribuída a uma comissão de, pelo menos, três membros, nomeada pelo Ministro da Educação Nacional, da qual farão parte dois agentes de ensino e, como presidente, o benemérito ou seu representante.
+Art. 3.º Ao disponente é reservado o privilégio de indicar dois professores para o preenchimento de vagas existentes nas escolas do núcleo beneficiado pela cantina ou que no mesmo núcleo venham a verificar-se durante o prazo de dez anos, após a publicação do presente diploma.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 30 de Março de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.
