@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal de Justiça de 1991-01-16, processo 041231
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 041231
+
+**Nº Convencional:** JSTJ00007528
+
+**Relator:** MANSO PRETO
+
+**Descritores:** LEI DE IMPRENSA; ABUSO DE LIBERDADE DE IMPRENSA; PRAZOS; REDUÇÃO; PRAZO DE DEFESA; NORMA ESPECIAL PENAL; PROCESSO ESPECIAL
+
+**Nº do Documento:** SJ199101160412313
+
+**Data do Acordão:** 01/16/1991
+
+**Votação:** UNANIMIDADE
+
+**Referência de Publicação:** BMJ N403 ANO1991 PAG284
+
+**Tribunal Recurso:** T REL LISBOA
+
+**Processo no Tribunal Recurso:** 25222/89
+
+**Data:** 11/15/1989
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REC PENAL.
+
+**Decisão:** NEGADO PROVIMENTO.
+
+**Área Temática:** DIR INFORMAC.; DIR CRIM - ABUSO LIBERDADE IMPRENSA.
+
+**Referências Internacionais:** DECUDH ART6 N3 B.
+
+## Sumário
+
+I - Segundo o n. 3 do artigo 49 da Lei de Imprensa, nos tribunais superiores os prazos serão reduzidos a metade dos estabelecidos na lei geral, mas nenhum sera inferior a 48 horas, quando naquela não estejam especialmente previstos prazos de menor duração.
+
+II - Assim, e por força daquela lei, o prazo para a apresentação, na Relação, da alegação de recurso para o Supremo Tribunal de Justiça, e de 4 dias.
+
+III - A norma em questão e uma disposição especial, aplicavel somente aos processos relativos a crime de abuso de liberdade de imprensa. Por isso não lhe e aplicavel a redução de prazo a que se reporta o artigo 2 do Decreto-Lei n. 457/80, uma vez que esta e uma disposição de caracter geral.
+
+IV - A lei quando refere tribunais superiores tem em vista os tribunais de recurso, ou seja, tribunais " ad quem" sendo, portanto, a Relação um tribunal superior.
+
+V - O n. 3 do artigo 49, não e inconstitucional, não violando o artigo 32 da Constituição, dado que não ofende o direito de defesa do arguido, nem ofende o artigo 13 daquele diploma fundamental dado que o crime de abuso de liberdade de imprensa integra um processo especial penal em que a necessidade de celeridade processual se impõe dada a natureza do bem juridico violado e o meio utilizado.
