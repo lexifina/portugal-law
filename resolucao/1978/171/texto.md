@@ -1,0 +1,6 @@
+Resolução n.º 171/78
+Considerando que, face aos recursos energénicos nacionais, há que implementar, dentro da melhor racionalidade técnico-financeira, todas as acções conducentes à investigação e exploração de eventuais recursos petrolíferos;
+Considerando que, para além das acções recentemente lançadas, se verifica a necessidade de a Administração Pública actuar de forma mais dinâmica no processo de diálogo com as empresas já interessadas e a interessar na prospecção, pesquisa e exploração de petróleo na área emersa e na plataforma continental:
+O Conselho de Ministros, reunido em 11 de Outubro de 1978, resolveu:
+Autorizar o Ministro da Indústria e Tecnologia, nos termos do artigo 3.º do Decreto-Lei n.º 543/74, de 16 de Outubro, artigo 3.º do Decreto n.º 47973, de 30 de Setembro de 1967, e Decreto-Lei n.º 96/74, de 13 de Março, a promover a abertura de concurso público ou a realização de negociações particulares, conforme achar mais conveniente, para a outorga de concessões para a prospecção, pesquisa, desenvolvimento e exploração de petróleo, a desenvolverem-se continuamente por períodos anuais, automaticamente renováveis, salvo resolução em contrário.
+Presidência do Conselho de Ministros, 11 de Outubro de 1978. - O Primeiro-Ministro, Alfredo Jorge Nobre da Costa.
