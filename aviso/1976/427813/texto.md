@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros enviou à Embaixada da República Popular da Bulgária uma nota verbal, datada de 26 de Novembro de 1975, informando que a Parte Portuguesa dera já cumprimento às formalidades constitucionais relativas à celebração e entrada em vigor do Acordo de Comércio a Longo Prazo entre os Governos de Portugal e da República Popular da Bulgária, assinado em Sófia em 11 de Fevereiro de 1975 e publicado no Diário do Governo, 1.ª série, n.º 270, de 21 de Novembro do mesmo ano, em resposta a uma nota verbal daquela Embaixada, de 18 de Outubro de 1975, que informava estarem cumpridas aquelas formalidades pela Parte Búlgara.
+Nesta conformidade, e segundo o disposto no seu artigo 15, o Acordo em apreço entrou em vigor à data da recepção da referida nota, 29 de Novembro de 1975.
+Direcção-Geral dos Negócios Económicos, 19 de Abril de 1976. - O Director-Geral-Adjunto, Fernando Manuel da Silva Marques.
