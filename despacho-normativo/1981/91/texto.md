@@ -1,0 +1,3 @@
+Despacho Normativo n.º 91/81
+Delego em cada um dos Ministros, no Secretário de Estado Adjunto do Primeiro-Ministro, no Secretário de Estado da Presidência do Conselho de Ministros e no Secretário de Estado da Cultura a competência que me é atribuída pelo n.º 2 do artigo 1.º do Decreto-Lei n.º 414/74, de 7 de Setembro, para conceder licença sem vencimento, pelo período de um ano, renovável, aos funcionários dos serviços e organismos do respectivo Ministério ou Secretaria de Estado.
+Presidência do Conselho de Ministros, 27 de Fevereiro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
