@@ -1,0 +1,56 @@
+Portaria n.º 459/78
+de 12 de Agosto
+O Decreto-Lei n.º 548/77, de 31 de Dezembro, que estabelece a nova orgânica do Ministério da Indústria e Tecnologia, prevê a criação de delegações regionais como serviços de representação e actuação desconcentrada do Ministério no âmbito regional, cujas áreas de jurisdição corresponderão, nos termos do n.º 2 do artigo 11.º, às regiões Plano a definir pela Assembleia da República.
+Dado que a indeterminação no tempo da definição das regiões Plano não se compadece com a necessidade de uma rápida implementação da nova estrutura do Ministério, estabeleceu o artigo 54.º daquele diploma a criação imediata de delegações regionais no Porto, Lisboa, Évora, Coimbra e Faro, cujas áreas de jurisdição seriam definidas por portaria.
+A definição dessas áreas é, pois, o objectivo do presente diploma.
+O critério seguido foi o de ajustar as áreas das delegações à actual estrutura regional do Ministério; considerando, no entanto, o facto de o número de serviços regionais de cada direcção-geral e respectivas áreas de jurisdição diferirem bastante entre si, entendeu-se que a forma mais adequada de definição das áreas de cada delegação seria a de tomar como base a actual estrutura das circunscrições industriais, com os ajustamentos que o menor número de delegações regionais e os interesses dos sectores mineiro e energético tornaram necessários.
+Assim, teve-se em alguns casos de proceder à junção de duas circunscrições industriais, bem como proceder à transferência de concelhos limítrofes de uma delegação para outra, de modo a respeitar interesses específicos de actuação regional nos sectores mineiros e energéticos.
+Nesta ocasião desde já se evidencia que se considera necessário providenciar para que venham a ser rapidamente criadas subdelegações com incidência nas zonas do interior do País que se impõe de imediato contemplar, concluída que foi esta primeira fase de desconcentração.
+A estrutura assim criada reveste, portanto, carácter transitório, o que aliás está expressamente determinado pelo n.º 3 do artigo 54.º do Decreto-Lei n.º 548/77, de 31 de Dezembro, ao estabelecer a revisão quer das sedes, quer das áreas das delegações regionais, uma vez aprovadas pela Assembleia da República as regiões Plano.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro da Indústria e Tecnologia, ao abrigo do n.º 2 do artigo 54.º do Decreto-Lei n.º 548/77, de 31 de Dezembro, definir as áreas de jurisdição das delegações regionais do Ministério pela forma seguinte:
+1 - A delegação do Porto compreende:
+Os distritos de Viana do Castelo, Braga, Porto, Vila Real e Bragança;
+Do distrito de Aveiro:
+Os concelhos de Espinho, Ovar, Feira, Oliveira de Azeméis, S. João da Madeira, Vale de Cambra, Arouca e Castelo de Paiva;
+Do distrito de Viseu:
+Os concelhos de Cinfães, Resende, Castro Daire, Lamego, Tarouca, Vila Nova de Paiva, Moimenta da Beira, Armamar, Tabuaço, S. João da Pesqueira, Sernancelhe e Penedono;
+Do distrito da Guarda:
+O concelho de Vila Nova de Foz Côa.
+2 - A delegação de Coimbra compreende:
+O distrito de Coimbra;
+Do distrito de Aveiro:
+Os concelhos de Murtosa, Estarreja, Albergaria-a-Velha, Aveiro, Ílhavo, Vagos, Oliveira do Bairro, Anadia, Mealhada, Águeda e Sever do Vouga;
+Do distrito de Viseu:
+Os concelhos de S. Pedro do Sul, Oliveira de Frades, Vouzela, Viseu, Penalva do Castelo, Mangualde, Nelas, Tondela, Carregal do Sal, Mortágua, Santa Comba Dão e Sátão;
+Do distrito da Guarda:
+Os concelhos de Fornos de Algodres, Celorico da Beira, Guarda, Almeida, Gouveia, Seia, Manteigas e Sabugal, Aguiar da Beira, Trancoso, Meda, Pinhel e Figueira de Castelo Rodrigo;
+Do distrito de Leiria:
+Os concelhos de Pombal, Ansião, Castanheira de Pêra, Figueiró dos Vinhos, Pedrógão Grande, Marinha Grande, Batalha, Leiria, Alvaiázere e Porto de Mós;
+Do distrito de Santarém:
+O concelho de Vila Nova de Ourém e Ferreira do Zêzere.
+3 - A delegação de Lisboa compreende:
+Os distritos de Lisboa e Castelo Branco;
+Do distrito de Leiria:
+Os concelhos de Peniche, Óbidos, Bombarral, Caldas da Rainha, Alcobaça e Nazaré;
+Do distrito de Santarém:
+Os concelhos de Benavente, Salvatera de Magos, Cartaxo, Almeirim, Santarém, Rio Maior, Alpiarça, Chamusca, Golegã, Alcanena, Torres Novas, Entroncamento, Vila Nova da Barquinha, Constância, Abrantes, Tomar, Sardoal e Mação;
+Do distrito de Portalegre:
+Os concelhos de Portalegre, Gavião, Nisa, Castelo de Vide, Marvão e Crato;
+Do distrito de Setúbal:
+Os concelhos de Alcochete, Montijo, Moita, Barreiro, Seixal, Almada, Sesimbra, Palmela e Setúbal.
+4 - A delegação de Évora compreende:
+O distrito de Évora;
+Do distrito de Setúbal:
+Os concelhos de Alcácer do Sal, Grândola, Santiago do Cacém e Sines;
+Do distrito de Portalegre:
+Os concelhos de Ponte de Sor, Alter do Chão, Monforte, Arronches, Campo Maior, Avis, Sousel, Fronteira e Elvas;
+Do distrito de Santarém:
+O concelho de Coruche;
+Do distrito de Beja:
+Os concelhos de Alvito, Cuba, Vidigueira, Moura, Barrancos, Ferreira do Alentejo, Aljustrel, Beja e Serpa.
+5 - A delegação de Faro compreende:
+O distrito de Faro;
+Do distrito de Beja:
+Os concelhos de Odemira, Ourique, Castro Verde, Mértola e Almodôvar.
+Ministério da Indústria e Tecnologia, 23 de Junho de 1978. - O Ministro da Indústria e Tecnologia, Carlos Montês Melancia.
