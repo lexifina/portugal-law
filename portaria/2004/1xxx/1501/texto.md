@@ -1,0 +1,9 @@
+Portaria n.º 1501/2004
+de 30 de Dezembro
+Pela Portaria n.º 150/2004, de 13 de Fevereiro, rectificada pela Declaração de Rectificação n.º 31/2004, publicada no Diário da República, 1.ª série-B, n.º 70, de 23 de Março de 2004, foram definidos, em aplicação do disposto na parte final do n.º 1 e no n.º 2 do artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, os países, territórios e regiões cujos residentes não podem beneficiar da isenção de IRS e de IRC estabelecida no mesmo diploma para os rendimentos de valores mobiliários representativos de dívida pública, obtidos por entidades que em território português não tenham residência, sede, direcção efectiva ou estabelecimento estável ao qual tais rendimentos possam ser imputáveis.
+Sucede, porém, que à semelhança do estabelecido nesta matéria desde a entrada em vigor do Decreto-Lei n.º 88/94, através, nomeadamente, das Portarias n.os 377-B/94, de 15 de Junho, e 1272/2001, de 9 de Novembro, cumpre excluir de tal restrição os bancos centrais e as agências de natureza governamental dos indicados países, territórios e regiões, possibilitando assim que os respectivos investimentos em títulos de dívida pública portuguesa continuem a beneficiar da isenção fiscal prevista no Decreto-Lei n.º 88/94.
+Assim:
+Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, o seguinte:
+1.º A excepção estabelecida na parte final do n.º 1 do artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, não é aplicável quando as entidades residentes nos países, territórios ou regiões indicadas na Portaria n.º 150/2004, de 13 de Fevereiro, forem bancos centrais ou agências de natureza governamental.
+2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Secretário de Estado dos Assuntos Fiscais, Orlando Pinguinha Caliço, em 13 de Dezembro de 2004.
