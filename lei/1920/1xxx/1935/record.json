@@ -17,9 +17,23 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1935/05/12200/07860788.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1935-05-29",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "d6be1b4272940792af07a8b6d6f1dc859326820db453f657928a40533f16da5a",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.3,
+    "pages": 3,
+    "columns": [
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "310dd0043598b4d0a65a896e8b73dcc5cd00a41930ed0fff5b3544b274d0ec5c",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 1677
 }
