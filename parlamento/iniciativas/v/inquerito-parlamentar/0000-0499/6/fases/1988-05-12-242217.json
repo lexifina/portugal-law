@@ -1,0 +1,1886 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Inquérito Parlamentar",
+    "numero": "6",
+    "id": "32901",
+    "titulo": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1988-05-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5257",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1988-05-12",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-05-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209374",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3529-3531",
+                  "3532-3532"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3529?pgs=3529-3531,3532&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209377",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3531-3532"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3531?pgs=3531-3532&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.   DA  SAÚDE",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Leonor Beleza"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209378",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3532-3533",
+                  "3534-3535"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3532?pgs=3532-3533,3534-3535&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209379",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3533-3534"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3533?pgs=3533-3534&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209380",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3534-3534"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3534?pgs=3534&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209381",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3535-3537",
+                  "3538-3538"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3535?pgs=3535-3537,3538&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209382",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3537-3537"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3537?pgs=3537&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209383",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3538-3538"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3538?pgs=3538&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209384",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3538-3538"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3538?pgs=3538&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209385",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3538-3538"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3538?pgs=3538&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209386",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3539-3539"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3539?pgs=3539&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209387",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3539-3539"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3539?pgs=3539&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209388",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3539-3539"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3539?pgs=3539&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209389",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3539-3539"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3539?pgs=3539&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209390",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3539-3540",
+                  "3541-3541"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3539?pgs=3539-3540,3541&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209391",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3540-3540"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3540?pgs=3540&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209392",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3540-3540"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3540?pgs=3540&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209393",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3540-3540"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3540?pgs=3540&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209394",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13?org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209395",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3540-3541"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3540?pgs=3540-3541&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209396",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3541-3541"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3541?pgs=3541&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209397",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3541-3541"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3541?pgs=3541&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209398",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3541-3541"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3541?pgs=3541&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209399",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3542-3542"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3542?pgs=3542&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209400",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3542-3542",
+                  "3542-3542",
+                  "3542-3542"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3542?pgs=3542,3542,3542&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209401",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3542-3542",
+                  "3542-3542",
+                  "3542-3542"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3542?pgs=3542,3542,3542&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209402",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3542-3542",
+                  "3549-3550",
+                  "3550-3550",
+                  "3550-3551"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3542?pgs=3542,3549-3550,3550,3550-3551&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209403",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3542-3542",
+                  "3549-3550",
+                  "3550-3550",
+                  "3550-3551"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3542?pgs=3542,3549-3550,3550,3550-3551&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209404",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3542-3543",
+                  "3543-3543"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3542?pgs=3542-3543,3543&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209405",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3543-3543"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3543?pgs=3543&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209406",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3544-3544"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3544?pgs=3544&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209407",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3544-3544"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3544?pgs=3544&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.   DA  SAÚDE",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Leonor Beleza"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209408",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3544-3545",
+                  "3546-3547"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3544?pgs=3544-3545,3546-3547&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209409",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3545-3545"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3545?pgs=3545&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209410",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3545-3546"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3545?pgs=3545-3546&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209411",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3546-3546"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3546?pgs=3546&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209412",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3547-3548"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3547?pgs=3547-3548&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209413",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3548-3549"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3548?pgs=3548-3549&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209414",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3549-3549",
+                  "3549-3549"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3549?pgs=3549,3549&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209415",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3549-3549"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3549?pgs=3549&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209416",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3550-3550",
+                  "3551-3551"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3550?pgs=3550,3551&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209417",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3551-3551"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-05-13",
+                "pubLeg": "V",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13/3551?pgs=3551&org=PLC"
+              }
+            ],
+            "sumario": "Relações entre o Ministério da Saúde e empresas privadas com incidência específica sobre a instalação e funcionamento de um hospital de Lisboa.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "242217",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5257",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-05-13",
+        "pubLeg": "V",
+        "pubNr": "87",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/087/1988-05-13?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
