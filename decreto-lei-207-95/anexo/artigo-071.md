@@ -6,7 +6,7 @@
 
 2 - Determina também a nulidade do acto a incapacidade ou a inabilidade dos intervenientes acidentais.
 
-3 - O acto nulo por violação das regras de competência em razão do lugar, por falta do requisito previsto na alínea c) do n.º 1 do artigo anterior ou por incapacidade ou inabilidade de algum interveniente acidental pode ser sanado por resolução do conselho técnico da Direcção-Geral dos Registos e do Notariado, nas seguintes situações:
+3 - O acto nulo por violação das regras de competência em razão do lugar, por falta do requisito previsto na alínea c) do n.º 1 do artigo anterior ou por incapacidade ou inabilidade de algum interveniente acidental pode ser sanado por decisão do respectivo notário, nas seguintes situações:
 
 a) Quando for apresentada declaração, passada pelo notário competente, comprovativa da sua ausência na data em causa e as partes justificarem, por escrito, o carácter urgente da celebração do acto;
 

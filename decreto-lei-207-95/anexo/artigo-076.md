@@ -1,7 +1,9 @@
 # Artigo 76.º
 
-### Citação
+### Notificação e audição dos interessados
 
-1 - O juiz ordena a citação dos interessados para deduzirem oposição num prazo de 10 dias.
+1 - O notário ordena a notificação dos interessados para, no prazo de 10 dias, deduzirem oposição e oferecerem os meios de prova.
 
-2 - Se for deduzida oposição, seguem-se os termos do processo sumário, devendo o juiz ordenar, em caso contrário, as diligências que entender convenientes e decidir sobre o mérito do pedido.
+2 - O notário decide de imediato, caso considere suficientes os meios de prova apresentados.
+
+3 - Se considerar que a prova apresentada não é suficiente e for indicada prova testemunhal, o notário procede à inquirição das testemunhas, cujo depoimento é reduzido a escrito, após a qual decide.

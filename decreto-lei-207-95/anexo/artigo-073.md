@@ -4,9 +4,9 @@
 
 # Artigo 73.º
 
-### Casos de revalidação
+### Casos de revalidação notarial
 
-O acto nulo, por violação das regras de competência territorial ou por falta de qualquer dos requisitos previstos nas alíneas b) a f) do n.º 1 do artigo 70.º, se não for susceptível de sanação, pode ser judicialmente revalidado, quando:
+O acto nulo, por violação das regras de competência territorial ou por falta de qualquer dos requisitos previstos nas alíneas b) a f) do n.º 1 do artigo 70.º, que não seja susceptível de sanação nos termos dos artigos precedentes, pode ser revalidado a pedido dos interessados, por decisão do notário que exerça funções no cartório notarial em que o acto foi lavrado, quando:
 
 a) Se prove a ausência do notário competente e a natureza urgente do acto;
 
