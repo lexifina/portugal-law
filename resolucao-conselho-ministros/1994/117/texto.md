@@ -1,0 +1,27 @@
+Resolução do Conselho de Ministros n.º 117/94
+O Programa do XII Governo define objectivos, em matéria de modernização administrativa, que pretendem, gradualmente, uma Administração Pública cada vez mais desburocratizada, próxima dos cidadãos e participada, visando estabelecer um modelo de Administração que incentive e dinamize a capacidade realizadora da sociedade e o talento empreendedor dos Portugueses, tendo como quadro de referência a economia de mercado.
+A modernização da Administração Pública tem-se pautado nos últimos anos por melhorias significativas na relação com o cidadão e em particular com os agentes económicos, tendo-se privilegiado medidas concretas no âmbito da melhoria da qualidade dos serviços públicos, da receptividade e desburocratização e da informação.
+A Comissão Empresas-Administração (CEA) no plano de actividades para o biénio de 1994-1995 inscreveu a área «informação» como parte fundamental para atingir os objectivos de:
+Aprofundar e enriquecer a interacção entre os sectores privado e público; e
+Privilegiar as acções que visem desburocratizar, agilizar e dar transparência às decisões da Administração, com preocupação para os sistemas de incentivos integrantes do Quadro Comunitário de Apoio a realizar até 1999.
+O sucesso alcançado em particular no domínio da informação integrada com o sistema INFOCID - Informação Administrativa ao Cidadão reitera a valorização da informação como recurso estratégico e como instrumento de aproximação da Administração aos cidadãos, salientando a importância da cooperação interdepartamental em sistemas de informação que se pretendem cada vez mais simples, claros, transparentes, acessíveis e fáceis de utilizar, capazes de ultrapassar a complexidade própria das inúmeras comunidades isoladas de informação existentes na Administração Pública.
+O Governo tem a perspectiva de que a informação constitui valor essencial para a diminuição das distâncias geográficas e sociais e de que é um instrumento fulcral para o crescimento económico e aumento da competitividade do tecido empresarial. Esta óptica é partilhada e reiterada pelos agentes económicos em diferentes instâncias, de que o plano de actividades da CEA é exemplo. Justifica-se, pois, a criação, progressiva, de um sistema de informação administrativa aos agentes económicos que permita de forma integrada, com base na experiência do INFOCID, um conhecimento das oportunidades criadas pelo Quadro Comunitário de Apoio e, bem assim, proceda à clarificação dos procedimentos e formalidades decorrentes da criação e alteração da constituição de sociedades.
+Assim:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - Criar o Sistema de Informação de Apoio ao Empresário, denominado SIAE, recorrendo às tecnologias de informação, com o objectivo geral de disponibilizar informação administrativa aos agentes económicos que dela carecem para iniciar ou modernizar a sua actividade empresarial.
+2 - O SIAE deverá orientar-se no sentido de uma resposta integrada, rigorosa, clara e personalizada aos agentes económicos, através da concepção e divulgação, gradual e dinâmica, de uma base de dados pública, constituída a partir de atributos empresariais relevantes e tendo em vista a selecção de formalidades, de incentivos comunitários e fiscais, de entidades responsáveis pela informação, de locais e de custos, previstos em legislação, regulamentação e orientações publicadas sobre as matérias.
+3 - O SIAE disporá de informação nas seguintes áreas temáticas:
+a) Estrutura orgânica relativa à gestão, acompanhamento, avaliação e controlo de execução do Quadro Comunitário de Apoio (QCA);
+b) Intervenções operacionais incluídas no QCA e respectivos sistemas de incentivos;
+c) Sistemas de incentivos fiscais de base geográfica e outros.
+4 - O SIAE será suportado em tecnologia adequada a instalar em locais que permitam uma informação acessível, rápida e eficaz mediante consulta directa.
+5 - O SIAE fica integrada no INFOCID, designadamente para efeitos de financiamento e de postos de consulta.
+6 - São produtores de informação:
+a) Todos os organismos responsáveis por conceber, aplicar e controlar a informação relativa às áreas temáticas constantes do n.º 3;
+b) Outras entidades não referidas nas alíneas anteriores mas que pela natureza das matérias a tratar venham a revelar-se de utilidade.
+7 - Ao Secretariado para a Modernização Administrativa (SMA) compete, no âmbito do SIAE:
+a) Em articulação com a Direcção-Geral do Desenvolvimento Regional, assegurar a dinamização e a coordenação;
+b) Assegurar o suporte tecnológico, financeiro e administrativo, designadamente mediante o recurso a formas de contratação de serviços;
+c) Estudar as formas de difusão que se mostrem mais adequadas aos objectivos, designadamente promovendo formas de cooperação com entidades privadas que tenham meios e vocação de expansão de informação aos empresários.
+8 - A Direcção-Geral do Desenvolvimento Regional validará a informação sistematizada previamente à sua introdução no SIAE, no que se refere às matérias da sua competência.
+Presidência do Conselho de Ministros, 27 de Outubro de 1994. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
