@@ -1,0 +1,13 @@
+Decreto-Lei n.º 355/77
+de 31 de Agosto
+Com vista a assegurar da melhor forma a conservação e valorização do espólio literário e artístico do escritor Manuel Mendes, considerado de grande valor cultural e histórico, foram efectuadas as necessárias diligências junto da viúva do escritor, D. Berta Júlia das Neves Mendes.
+Conduziram estas diligências a um acordo, nos termos do qual o Estado adquirirá o referido espólio e aceitará a doação do prédio onde viveu o escritor, que se destina à instalação da Casa-Museu de Manuel Mendes, mediante o pagamento de uma pensão vitalícia à viúva e também a reserva a favor desta do usufruto vitalício do prédio.
+Nestes termos, tornando-se necessário providenciar no sentido de dar efectivação ao acordo relativo à doação do prédio:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1. É autorizado o Ministério das Finanças a aceitar, para o Estado, a doação do prédio onde viveu o escritor Manuel Mendes, sito em Lisboa, na Rua de S. Francisco Xavier, 52, de que é actualmente proprietária a viúva do escritor, D. Berta Júlia das Neves Mendes.
+2. A doação do prédio, que se destina a nele ser instalada a Casa-Museu de Manuel Mendes, é feita com reserva do usufruto vitalício do mesmo a favor da viúva do escritor e com o encargo, para o Estado, do pagamento a esta de uma pensão vitalícia mensal de 20000$00.
+Art. 2.º A pensão atribuída no artigo anterior fica isenta de qualquer encargo fiscal, com excepção do imposto do selo relativo ao seu recebimento.
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
+Promulgado em 18 de Agosto de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
