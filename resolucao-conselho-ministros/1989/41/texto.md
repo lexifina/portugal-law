@@ -1,0 +1,7 @@
+Resolução do Conselho de Ministros n.º 41/89
+Considerando que a redacção do n.º 8 da Resolução do Conselho de Ministros n.º 38/89, de 28 de Outubro, é susceptível de gerar situações de duvidosa interpretação, mormente quando admite à subscrição os trabalhadores da sociedade anónima, sem exigência de passado na empresa, e exclui da operação os que, tendo sido empregados antes da nacionalização, não hajam cumprido três anos de serviço por conta da empresa pública:
+Nos termos das alíneas d) e g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - O n.º 8 da Resolução do Conselho de Ministros n.º 38/89, de 28 de Outubro, passa a ter a seguinte redacção:
+Para efeitos da presente resolução, consideram-se trabalhadores da Companhia de Seguros Tranquilidade, S. A., todas as pessoas que, à data da publicação deste diploma, mantenham com aquela sociedade um vínculo laboral, bem como as que hajam mantido vínculo laborar com a Tranquilidade Seguros, E. P., ou com as empresas privadas que por via de nacionalização ou qualquer outra se integraram nesta empresa pública, desde que o tempo de serviço prestado em qualquer dessas empresas, isolada ou cumulativamente, seja superior a três anos.
+2 - O disposto no número anterior produz efeitos desde 1 de Novembro de 1989.
+Presidência do Conselho de Ministros, 23 de Novembro de 1989. - Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Vice-Primeiro-Ministro.
