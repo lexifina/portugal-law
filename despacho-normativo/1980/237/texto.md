@@ -1,0 +1,11 @@
+Despacho Normativo n.º 237/80
+Pelo disposto na alínea b) do artigo 14.º do Decreto-Lei n.º 204-A/79, de 3 de Julho, os benefícios da Assistência na Doença aos Servidores do Estado (ADSE) foram alargados aos ascendentes do funcionário ou agente, desde que estejam a seu cargo, situação que importa definir por forma a serem resolvidas as dúvidas que entretanto têm surgido.
+Nestes termos, determina-se o seguinte:
+1 - Consideram-se a cargo dos trabalhadores da Administração Pública os ascendentes ou equiparados que não tenham rendimentos próprios mensais iguais ou superiores a 60% da remuneração mínima mensal garantida à generalidade dos trabalhadores por conta de outrem, ou àquela remuneração, tratando-se de um casal de ascendentes.
+2 - Incluem-se no conceito de rendimentos próprios os proventos de qualquer espécie, nomeadamente retribuições, rendas, pensões e equivalentes, que concorram na economia individual do ascendente ou na economia do casal.
+3 - São equiparados a ascendentes do trabalhador do cônjuge:
+a) Os adoptantes de um e do outro, bem assim os dos seus ascendentes;
+b) Os afins compreendidos na linha recta ascendente.
+4 - Para efeitos de aplicação do presente despacho, a ADSE poderá exigir os meios de prova que considere necessários.
+5 - As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Secretários de Estado da Reforma Administrativa, do Orçamento e da Segurança Social.
+Secretarias de Estado da Reforma Administrativa, do Orçamento e da Segurança Social, 21 de Julho de 1980. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo. - O Secretário de Estado do Orçamento, António Jorge de Figueiredo Lopes. - O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.
