@@ -1,0 +1,6 @@
+Despacho Normativo n.º 417/94
+Considerando que o licenciado Duarte Paulo de Abreu Ladeira exerce, em regime de comissão de serviço, o cargo de chefe de divisão no quadro de pessoal do Gabinete de Coordenação dos Investimentos do Ministério das Obras Públicas, Transportes e Comunicações, reúne os requisitos necessários para acesso à categoria de assessor principal e requereu a criação do respectivo lugar;
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6, 7 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção conferida pelo artigo 1.º daquele diploma:
+Determina-se o seguinte:
+É criado no quadro de pessoal do Gabinete de Coordenação dos Investimentos do Ministério das Obras Públicas, Transportes e Comunicações, aprovado pelo Decreto Regulamentar n.º 16/92, de 22 de Julho (anexo mapa I), um lugar de assessor principal, a extinguir quando vagar.
+Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações, 27 de Abril de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, José António da Ponte Zeferino, Secretário de Estado Adjunto do Ministro das Obras Públicas, Transportes e Comunicações.
