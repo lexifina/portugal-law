@@ -1,0 +1,5 @@
+Resolução n.º 399/80
+A Resolução n.º 166/80, de 2 de Maio, publicada no Diário da República, 1.ª série, n.º 111, de 14 de Maio de 1980, prorrogou até 31 de Outubro de 1980 o prazo de intervenção do Estado na empresa Lacticínios Luso-Serra, Lda. Por outro lado, a Comissão Interministerial criada pelo despacho conjunto de 27 de Agosto de 1980, publicado no Diário da República, 2.ª série, n.º 216, de 18 de Setembro de 1980, para o estudo e apreciação da situação de Lacticínios Luso-Serra, Lda., com vista à cessação da intervenção estatal nesta empresa, ainda não deu por concluídos os seus trabalhos.
+Nestes termos:
+O Conselho de Ministros, reunido em 25 de Novembro de 1980, nos termos do disposto no n.º 3 do artigo 6.º do Decreto-Lei n.º 422/76, de 29 de Maio, com a redacção que lhe foi dada pelo artigo 2.º do Decreto-Lei n.º 370/77, de 5 de Setembro, resolveu prorrogar, até 31 de Janeiro de 1981, o prazo de intervenção do Estado na empresa Lacticínios Luso-Serra, Lda.
+Presidência do Conselho de Ministros, 25 de Novembro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
