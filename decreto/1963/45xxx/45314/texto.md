@@ -1,0 +1,9 @@
+Decreto n.º 45314
+Considerando que foi adjudicada parcelarmente à Sociedade Técnica de Fomento, Lda., Sociedade de Fornecimentos Técnicos e Industriais, Sotecna, Lda., Azevedo & Pessi, Lda., Wright & C.ª, Lda., e Sitel - Sociedade Instaladores Técnicos Reunidos, Lda., a empreitada de «Sanatório D. Manuel II - Unidade satélite - Fases 1.ª e 2.ª (equipamento da cozinha)»;
+Considerando que, conforme consta do respectivo caderno de encargos, a referida empreitada deverá ficar concluída até 31 de Dezembro de 1964;
+Tendo em vista o disposto no artigo 22.º e seu § 1.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
+Artigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a contratar com a Sociedade Técnica de Fomento, Lda., Sociedade de Fornecimentos Técnicos e Industriais, Sotecna, Lda., Azevedo & Pessi, Lda., Wright & C.ª, Lda., e Sitel - Sociedade Instaladores Técnicos Reunidos, Lda., a execução da empreitada de «Sanatório D. Manuel II - Unidade satélite - Fases 1.ª e 2.ª (equipamento da cozinha)», pelas importâncias de 1079479$70, 480000$00, 86870$00, 133800$00 e 143700$00, respectivamente, no total de 1923849$70.
+Art. 2.º Seja qual for o valor dos trabalhos a realizar, não poderá a Direcção-Geral dos Edifícios e Monumentos Nacionais despender com pagamentos relativos ao corrente ano, por virtude dos respectivos contratos, mais de 485000$00, correspondentes aos trabalhos a executar pelas primeira e segunda das mencionadas firmas, e 1438849$70, ou o que se apurar como saldo, no ano de 1964.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 18 de Outubro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira.
