@@ -1,0 +1,558 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "213",
+    "id": "5358",
+    "titulo": "Candidaturas de cidadãos independentes a eleição dos órgãos das autarquias locais."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1996-11-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "6740",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1996-11-07",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1996-11-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50753",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "308-309"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-08",
+                "pubLeg": "VII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/009/1996-11-08/308?pgs=308-309&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES AUTARQUICAS: CANDIDATURAS DE CIDADAOS INDEPENDENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50754",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "308-308"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-08",
+                "pubLeg": "VII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/009/1996-11-08/308?pgs=308&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES AUTARQUICAS: CANDIDATURAS DE CIDADAOS INDEPENDENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50755",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "306-307"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-08",
+                "pubLeg": "VII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/009/1996-11-08/306?pgs=306-307&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES AUTARQUICAS: CANDIDATURAS DE CIDADAOS INDEPENDENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50756",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "305-306",
+                  "307-307"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-08",
+                "pubLeg": "VII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/009/1996-11-08/305?pgs=305-306,307&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES AUTARQUICAS: CANDIDATURAS DE CIDADAOS INDEPENDENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50757",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "303-304",
+                  "503-503"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-08",
+                "pubLeg": "VII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/009/1996-11-08/303?pgs=303-304,503&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES AUTARQUICAS: CANDIDATURAS DE CIDADAOS INDEPENDENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1039",
+                "nome": "Manuel Monteiro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50758",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "301-302"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-08",
+                "pubLeg": "VII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/009/1996-11-08/301?pgs=301-302&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES AUTARQUICAS: CANDIDATURAS DE CIDADAOS INDEPENDENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50759",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "300-300"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-08",
+                "pubLeg": "VII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/009/1996-11-08/300?pgs=300&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES AUTARQUICAS: CANDIDATURAS DE CIDADAOS INDEPENDENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50760",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "299-299"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-08",
+                "pubLeg": "VII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/009/1996-11-08/299?pgs=299&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES AUTARQUICAS: CANDIDATURAS DE CIDADAOS INDEPENDENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50761",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "298-304"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-08",
+                "pubLeg": "VII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/009/1996-11-08/298?pgs=298-304&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES AUTARQUICAS: CANDIDATURAS DE CIDADAOS INDEPENDENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50762",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "296-298",
+                  "298-302",
+                  "309-310"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-11-08",
+                "pubLeg": "VII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/009/1996-11-08/296?pgs=296-298,298-302,309-310&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES AUTARQUICAS: CANDIDATURAS DE CIDADAOS INDEPENDENTES",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "258902",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "6740",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-11-08",
+        "pubLeg": "VII",
+        "pubNr": "9",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/009/1996-11-08?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
