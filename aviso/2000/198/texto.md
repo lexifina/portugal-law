@@ -1,0 +1,14 @@
+Aviso n.º 198/2000
+Por ordem superior se torna público que, por nota de 30 de Novembro de 1999 e nos termos do artigo 42.º da Convenção sobre a Obtenção de Provas no Estrangeiro em Matéria Civil ou Comercial, concluída na Haia em 18 de Março de 1970, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter Portugal, em 15 de Outubro de 1999, nos termos do artigo 40.º, parágrafo 2.º, estendido a Convenção a Macau, com as seguintes declarações:
+«a) In conformity with the provisions of article 4 of the Convention, only letters of request in Portuguese, Chinese and English shall be accepted in Macau.
+b) With the exception of article 15, chapter II of the Convention shall not be applicable in the territory of Macau.
+c) In conformity with the provisions of article 15 of the Convention, the Republic of Portugal declares that evidence referred to in that same article may not be taken in Macau if permission to that effect has not been given by an appropriate authority, to be designated by the appropriate bodies of the territory, upon application made by a diplomatic officer or consular agent.
+d) In conformity with the provisions of article 23 of the Convention, the Republic of Portugal declares that the letters of request issued for the purposes of obtaining pre-trial discovery of documents as known in common law countries will not be executed in Macau.»
+Tradução
+a) Nos termos das disposições do artigo 4.º da Convenção, apenas as cartas rogatórias em português, chinês ou inglês serão aceites em Macau.
+b) Com excepção do artigo 15.º, o capítulo II da Convenção não será aplicável ao território de Macau.
+c) Nos termos das disposições do artigo 15.º da Convenção, a República de Portugal declara que as provas mencionadas no mesmo artigo não podem ser obtidas sem a devida autorização de uma autoridade competente, a ser designada pelos órgãos competentes do território, a pedido de um agente diplomático ou consular.
+d) Nos termos das disposições do artigo 23.º da Convenção, a República de Portugal declara que as cartas rogatórias emitidas com o propósito de obter pre-trial discovery of documents, tal como é conhecida nos países de common law, não serão executadas em Macau.
+Nos termos do artigo 40.º, último parágrafo, a Convenção entrou em vigor para Macau em 14 de Dezembro de 1999.
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 764/74, de 30 de Dezembro, tendo depositado o seu instrumento de ratificação em 12 de Março de 1975, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 82, de 8 de Abril de 1975. A autoridade central em Portugal é a Direcção-Geral dos Serviços Judiciários, do Ministério da Justiça.
+Departamento de Assuntos Jurídicos, 3 de Agosto de 2000. - A Directora, Maria Margarida Aleixo Antunes Rei.
