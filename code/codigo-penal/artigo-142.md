@@ -8,9 +8,9 @@ a) Constituir o único meio de remover perigo de morte ou de grave e irreversív
 
 b) Se mostrar indicada para evitar perigo de morte ou de grave e duradoura lesão para o corpo ou para a saúde física ou psíquica da mulher grávida e for realizada nas primeiras 12 semanas de gravidez;
 
-c) Houver seguros motivos para prever que o nascituro virá a sofrer, de forma incurável, de grave doença ou malformação, e for realizada nas primeiras 16 semanas de gravidez; ou
+c) Houver seguros motivos para prever que o nascituro virá a sofrer, de forma incurável, de doença grave ou malformação congénita, e for realizada nas primeiras 24 semanas de gravidez, comprovadas ecograficamente ou por outro meio adequado de acordo com as leges artis, excepcionando-se as situações de fetos inviáveis, caso em que a interrupção poderá ser praticada a todo o tempo;
 
-d) Houver sérios indícios de que a gravidez resultou de crime contra a liberdade e autodeterminação sexual, e for realizada nas primeiras 12 semanas de gravidez.
+d) A gravidez tenha resultado de crime contra a liberdade e autodeterminação sexual e a interrupção for realizada nas primeiras 16 semanas.
 
 2 - A verificação das circunstâncias que tornam não punível a interrupção da gravidez é certificada em atestado médico, escrito e assinado antes da intervenção por médico diferente daquele por quem, ou sob cuja direcção, a interrupção é realizada.
 
