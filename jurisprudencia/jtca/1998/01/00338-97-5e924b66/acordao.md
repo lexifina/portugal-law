@@ -1,0 +1,57 @@
+# Acórdão do Tribunal Central Administrativo Sul de 1998-01-15, processo 00338/97
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 00338/97
+
+**Secção:** Secção do Contencioso Administrativo - Tribunal Central Administrativo
+
+**Data do Acordão:** 01/15/1998
+
+**Relator:** São Pedro
+
+**Descritores:** RECLASSIFICAÇÃO DE FUNCIONÁRIOS; REQUISITOS LEGALMENTE EXIGIDOS PARA A NOVA CATEGORIA; RECLASSIFICAÇÃO NÃO CAUSADA POR RESTRUTURAÇÃO OU ORGANIZAÇÃO DOS SERVIÇOS (SUA NULIDADE)
+
+**Aditamento:** 1
+
+## Sumário
+
+I - A reclassificação a que alude o artigo 51º do Dec.Lei nº 247/87, de 17 de Junho, é uma
+
+medida de "gestão de pessoal complexa, com as seguintes características:
+
+a) é da iniciativa da Administração;
+
+b) consiste na atribuição de categoria diferente da que o funcionário é titular;
+
+c) impõe que o reclassificado reúna os requisitos legalmente exigidos para a nova carreira;
+
+d)só pode ocorrer quando se verifiquem situações de organização total ou parcial dos serviços, ou
+
+restruturação dos mesmos; e) tem como finalidade a redistribuição dos efectivos;
+
+f) deve respeitar a adequação entre o conteúdo funcional dos postos de trabalho e aptidões dos funcionários;
+
+g) deve fundamentar-se na descrição das funções correspondentes aos novos postos de trabalho;
+
+h) a lei comina com nulidade e não com a mera anulabilidade o acto que proceda à reclassificação
+
+com violação do seu regime legal (arts. 51º e 64º do Dec.Lei nº 247/87, de 17 de Julho).
+
+II - A categoria de mestre está incluída na carreira de pessoal operário qualificado, pelo que são
+
+requisitos exigidos para o respectivo ingresso: a categoria de operário principal; a prestação de prova
+
+prática e a habilitação profissional adequada (artigo 29º, nº 3, do Dec.Lei nº 248/85, de 15 de Julho).
+
+Não pode, assim, ser reclassificado na categoria de mestre o funcionário que seja motorista, e que não prestou a prova prática acima referida.
+
+III - Não pode proceder-se à reclassificação de um funcionário com o único objectivo de adequar a
+
+categoria do funcionário às suas aptidões e responsabilidades, uma vez que a reclassificação há-de
+
+decorrer sempre de uma organização ou restruturação dos serviços.
+
+IV - Está ferido de nulidade, portanto, o acto administrativo que procede à reclassificação de um
+
+motorista na categoria de mestre, sem que este tenha efectuado a prova prática, referida no Dec.Lei nº 248/85, de 15 de Julho, e sem que a reclassificação seja determinada ou causada por uma prévia restruturação dos serviços.
