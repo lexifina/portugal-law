@@ -12,6 +12,6 @@ c) Colher amostras para análise num laboratório de competência reconhecida, s
 
 d) Garantir que, ao longo da produção, os lotes de material de propagação se mantenham separados e identificáveis.
 
-2 - Se, nos materiais de propagação de um fornecedor, surgir um organismo nocivo abrangido pelo Regulamento (UE) n.º 2016/2031, o fornecedor deve comunicar esse facto à DGAV e aplicar todas as medidas prescritas pela mesma.
+2 - Se nos materiais de propagação de um fornecedor surgir um organismo nocivo abrangido pelo Decreto-Lei n.º 14/99, de 12 de Janeiro, ou outros definidos ao abrigo da alínea d) do artigo 25.º, o fornecedor deverá comunicar esse facto à DGPC e aplicar todas as medidas prescritas pela mesma.
 
 3 - Dos materiais de propagação comercializados, os fornecedores deverão conservar durante 12 meses os registos relativos às operações de compra ou produção ou importação e de venda, entendidas nos termos deste diploma.

@@ -6,6 +6,6 @@
 
 ### Taxas
 
-1 - Pelo licenciamento dos fornecedores e pelo controlo oficial dos materiais de propagação de plantas ornamentais são devidas taxas por serviços prestados, nos termos previstos na Portaria n.º 298/2017, de 12 de outubro.
+1 - Pelo licenciamento dos fornecedores e pelo controlo oficial dos materiais de propagação são devidas taxas de montante a fixar por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-2 - A portaria referida no número anterior, estabelece o regime de atualização, liquidação e cobrança de taxas, bem como o modo de repartição das mesmas pelos serviços oficiais competentes, quando aplicável.
+2 - A cobrança das taxas é realizada por cada DRA para os fornecedores instalados na sua área geográfica, sendo os montantes pagos repartidos com a DGPC, de acordo com o estabelecido na portaria referida no n.º 1 do presente artigo.

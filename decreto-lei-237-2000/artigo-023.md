@@ -1,15 +1,17 @@
 # Artigo 23.º
 
-### Fiscalização, instrução, aplicação e destino da receita das coimas
+### Instrução, aplicação e destino da receita das coimas
 
-1 - Sem prejuízo das competências atribuídas a outras entidades, a fiscalização ao disposto no presente decreto-lei compete à DGAV, às DRAP e à Autoridade de Segurança Alimentar e Económica (ASAE).
+1 - A aplicação das coimas e sanções acessórias compete ao director-geral de Protecção das Culturas.
 
-2 - A fiscalização dos materiais de propagação em comercialização é da competência da ASAE.
+2 - A entidade que levantar o auto de notícia remeterá o mesmo à DRA respectiva para instrução do respectivo processo.
 
-3 - A instrução dos processos de contraordenação pelas infrações referidas no n.º 1 do artigo 21.º é da competência da ASAE e da DRAP da área da prática da contraordenação, em razão da matéria, devendo-lhes ser remetidos quaisquer autos de notícia que sejam da sua competência instrutória.
+3 - A afectação do produto das coimas cobradas em aplicação do presente diploma legal far-se-á da seguinte forma:
 
-4 - A aplicação das coimas e sanções acessórias a que se refere o número anterior compete, respetivamente, ao inspetor-geral da ASAE e ao diretor-geral de Alimentação e Veterinária.
+a) 10% para a entidade que levantou o auto;
 
-5 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
+b) 10% para a entidade que instruiu o processo;
 
-6 - (Revogado.)
+c) 20% para a entidade que aplicou a coima;
+
+d) 60% para os cofres do Estado.

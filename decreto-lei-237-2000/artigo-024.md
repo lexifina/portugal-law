@@ -2,6 +2,4 @@
 
 ### Regiões Autónomas
 
-1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências legislativas próprias, cabendo a sua execução administrativa e suas disposições regulamentares aos serviços competentes das respetivas administrações regionais.
-
-2 - O produto das coimas aplicadas nas Regiões Autónomas constitui receita própria destas.
+Nas Regiões Autónomas dos Açores e da Madeira, a execução administrativa do presente diploma e suas disposições regulamentares cabe aos serviços competentes das respectivas administrações regionais, para as quais revertem as receitas das taxas e coimas, sem prejuízo das competências atribuídas à DGPC.
