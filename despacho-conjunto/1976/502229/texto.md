@@ -1,0 +1,4 @@
+Despacho conjunto
+Pelo despacho conjunto de 10 de Outubro de 1975 subscrito pelo Primeiro-Ministro e pelo Ministro das Finanças foi genericamente autorizada ao Secretário de Estado dos Investimentos Públicos a contratação de pessoal indispensável para realizar tarefas urgentes, referida no artigo 4.º do Decreto-Lei n.º 656/74, de 23 de Novembro.
+Entretanto, o volume atingido pelo desenvolvimento dos trabalhos em curso sob responsabilidade do Gabinete da Área de Sines aconselha a que agora seja autorizado o Secretário de Estado dos Investimentos Públicos a delegar a competência que lhe está atribuída no director do Gabinete da Área de Sines para a contratação de pessoal indispensável à realização de tarefas urgentes.
+Presidência do Conselho de Ministros e Ministério das Finanças, 23 de Março de 1976. - O Primeiro-Ministro, José Baptista Pinheiro de Azevedo. - O Ministro das Finanças, Francisco Salgado Zenha.
