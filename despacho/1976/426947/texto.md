@@ -1,0 +1,5 @@
+Despacho
+Considerando o disposto na alínea d) do artigo 2.º do Decreto-Lei n.º 763/75, de 31 de Dezembro, e no n.º 2 dos artigos 2.º e 6.º do Decreto-Lei n.º 107/76, de 7 de Fevereiro, determina-se que:
+1.º Os encargos com o pessoal na situação de adido que se encontrava ao serviço da Procuradoria dos Estudantes Ultramarinos e do Círculo de Estudos Ultramarinos sejam suportados pela verba do capítulo XVI artigo 132.º, n.º 1, do orçamento do Ministério da Cooperação para o corrente ano económico, a partir de 7 de Fevereiro do mesmo ano.
+2.º As rendas dos edifícios ocupados pela Procuradoria e Círculo de Estudos Ultramarinos sejam igualmente suportadas pela mesma dotação e pela rubrica n.º 9, b), do plano da sua aplicação, até à definitiva determinação do destino dos bens dos organismos extintos.
+Ministérios da Cooperação e das Finanças, 5 de Abril de 1976. - O Ministro da Cooperação, Vítor Manuel Trigueiros Crespo. - Pelo Ministro das Finanças, José Dias dos Santos Pais, Subsecretário de Estado adjunto do Ministro das Finanças.
