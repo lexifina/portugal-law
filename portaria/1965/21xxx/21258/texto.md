@@ -1,0 +1,53 @@
+Portaria n.º 21258
+Só no ano de 1962 o pescado desembarcado no continente e ilhas adjacentes atingiu o total de 377377 t. Este montante constitui, só por si, apreciável indicativo da importância e incremento das pescas industriais metropolitanas, para o que decididamente concorreu o aumento da capacidade das frotas de arrasto, como medida compensadora do alargamento dos pesqueiros onde as mesmas operam para a obtenção de um importante produto alimentar destinado quer directamente ao abastecimento público, quer, como matéria-prima, à indústria de conservas.
+Os diferentes produtos englobados sob a designação genérica do pescado são, porém, fàcilmente alteráveis, pelo que, na sua manipulação, preparação, embalagem, transporte e venda, se torna indispensável a observância de determinados cuidados higiotécnicos, sem o que os referidos produtos podem vir a ser causa de graves processos toxi-infecciosos e, como tal, constituir sério risco para a saúde pública. Por isso, há que observar e pôr em prática as medidas adequadas conducentes à conservação integral dos referidos produtos, por forma a obstar, tanto quanto possível, a rejeições totais ou parciais de repercussão considerável no campo económico.
+Foi o conhecimento destes factos, e bem assim da impossibilidade de a inspecção sanitária do pescado continuar a ser efectuada com regularidade, dada a deficiência de meios ao dispor dos inspectores veterinários, quer do Estado, quer das câmaras municipais, que determinou, no espírito do legislador, a necessidade de criar os serviços veterinários dos portos de pesca, quando da publicação do Decreto-Lei n.º 41380, de 20 de Novembro de 1957, nos termos dos seus artigos 26.º e 27.º, com a seguinte finalidade:
+a) Proceder à inspecção sanitária do pescado, suas partes ou produtos;
+b) Exercer a vigilância hígio-sanitária sobre os locais de descarga, manipulação, preparação, conservação, armazenagem ou venda do pescado e respectivos meios de transporte nos portos de pesca ou nas lotas.
+Com efeito, tratando-se de matéria-prima sobremaneira preciosa, urge tomar as providências hígio-sanitárias necessárias, com vista a resguardá-la convenientemente e a assegurar a sua genuinidade e salubridade.
+Todavia, quando se previu naquele diploma a oportunidade de criar os referidos serviços, não se dotaram estes com os meios necessários a uma conveniente actuação, razão por que só agora, quase ultimadas as instalações que para os mesmos estão previstas no novo porto de pesca de Lisboa, se reconhece ser chegado o momento de lhes dar efectivação.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, ao abrigo do disposto nos artigos 9.º e 12.º, na parte aplicável, e 26.º, 27.º e 115.º do supracitado Decreto-Lei n.º 41380, o seguinte:
+1.º Os serviços veterinários dos portos de pesca, referidos nos artigos supracitados do Decreto-Lei n.º 41380, ocuparão, em Lisboa, as instalações privativas da doca de pesca de Pedrouços reservadas para a Direcção-Geral dos Serviços Pecuários, pela mesma aprovadas e previstas na alínea d) do n.º 2 da base VII das bases anexas ao Decreto-Lei n.º 40764, de 7 de Setembro de 1956.
+§ único. Os serviços veterinários dos portos de pesca compreendem duas secções: a de inspecção e vigilância hígio-sanitária e a de apoio laboratorial.
+2.º Estes serviços têm delegações noutros portos de pesca do continente e das ilhas adjacentes, onde se julgar necessária a sua instalação.
+3.º Além do pessoal privativo procedente dos seus quadros, ou provido por contrato ou assalariamento, poderá a Direcção-Geral, com o acordo das respectivas câmaras municipais, utilizar o pessoal técnico ou auxiliar dos concelhos onde instalar serviços de inspecção de pescado.
+§ único. O pessoal camarário referido neste número actuará sob a superintendência da Direcção-Geral em tudo o que respeita à inspecção do pescado.
+4.º Aos inspectores médicos veterinários incumbe:
+§ 1.º Proceder à inspecção sanitária do pescado antes do acto da descarga para verificação de:
+a) Estado de limpeza dos locais em que é transportado;
+b) Modo como se apresenta nos aspectos seguintes:
+I) Acondicionamento;
+II) Higiene;
+III) Conservação pelo frio ou outros meios.
+§ 2.º Decidir no que respeita a:
+a) Autorização de descarga para o local de inspecção;
+b) Beneficiação;
+c) Rejeição total ou parcial da carga sob inspecção.
+§ 3.º Exercer vigilância sobre as condições de descarga do pescado e seu transporte para os locais de inspecção ou beneficiação, pelo que respeita a:
+a) Higiene das operações;
+b) Integridade e apresentação do pescado.
+§ 4.º Proceder à inspecção e aprovação das condições de armazenagem, acondicionamento, carga e expedição, pelo que respeita a:
+a) Higiene do pescado;
+b) Higiene dos locais;
+c) Higiene e natureza dos recipientes, utensílios, embalagens e veículos;
+d) Eficácia do processo de conservação.
+§ 5.º Assegurar a eficiência das operações de beneficiação, desnaturação e inutilização do pescado.
+5.º No exercício das suas atribuições podem os inspectores médicos veterinários:
+§ 1.º Suspender as operações em qualquer momento do circuito, desde a descarga à expedição.
+§ 2.º Diferir a inspecção nos casos em que:
+a) Seja necessário proceder a exame especial;
+b) A decisão dependa de apreciação laboratorial;
+c) Ter sido determinada ou autorizada qualquer beneficiação.
+§ 3.º Determinar as condições de execução e o modo de apresentação do pescado para o acto de inspecção, pelo que respeita a:
+a) Área e modo de distribuição;
+b) Exposição por espécies e dimensões;
+c) Iluminação da área de inspecção;
+d) Higiene dos utensílios e dos locais utilizados na inspecção - quanto à natureza dos materiais, processos de lavagem, desinfecção e desinfestação;
+e) Higiene do pessoal.
+§ 4.º Colher amostras para exame laboratorial e proceder aos cortes estritamente necessários.
+§ 5.º Emitir guias sanitárias de trânsito para o pescado a expedir, quando exigíveis ou solicitadas.
+§ 6.º Impedir a utilização do pessoal empregado na preparação do pescado e nas operações de armazenamento e acondicionamento do mesmo que não seja portador do boletim de sanidade e suspender, até decisão das competentes autoridades sanitárias, o pessoal suspeito de enfermidade ou portador de lesões aparentes.
+6.º A secção de apoio laboratorial, organizada com carácter privativo e especializado, é tecnicamente dependente do Laboratório Nacional de Investigação Veterinária.
+7.º Nos termos do artigo 98.º do Decreto-Lei n.º 41380, atrás referido, o apetrechamento dos serviços veterinários dos portos de pesca será realizado pela Direcção-Geral dos Serviços Pecuários, gradualmente e na medida em que o permitirem as respectivas verbas orçamentais.
+Secretaria de Estado da Agricultura, 30 de Abril de 1965. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.
