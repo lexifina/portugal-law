@@ -1,0 +1,3 @@
+Aviso n.º 53/92
+Por ordem superior se torna público que, em 3 de Fevereiro de 1992, o Governo do Canadá depositou junto do director-geral da Organização das Nações Unidas para a Alimentação e a Agricultura (FAO) o instrumento de ratificação do Protocolo Apenso à Acta Final da Conferência de Plenipotenciários dos Estados membros da Convenção Internacional para a Conservação dos Tunídeos do Atlântico (ICCAT), assinado em Paris em 10 de Julho de 1984.
+Direcção-Geral dos Negócios Político-Económicos, 26 de Março de 1992. - O Director dos Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santa Carlos.
