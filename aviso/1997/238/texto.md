@@ -1,0 +1,3 @@
+Aviso n.º 238/97
+Por ordem superior se torna público que a Dinamarca renovou declarações, em 5 de Abril de 1997, à Convenção de Salvaguarda dos Direitos do Homem e das Liberdades Fundamentais, aberta à assinatura em Roma em 4 de Novembro de 1950, bem como ao Protocolo n.º 4, aberto à assinatura em Estrasburgo em 16 de Setembro de 1963, e ao Protocolo n.º 7, aberto à assinatura em Estrasburgo em 22 de Novembro de 1984, produzindo efeitos a partir de 5 de Abril de 1997 e por período indeterminado.
+Direcção de Serviços das Organizações Políticas Multilaterais, 9 de Julho de 1997. - O Director de Serviços, João José Gomes Caetano da Silva.
