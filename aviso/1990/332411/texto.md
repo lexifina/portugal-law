@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que, nos termos do artigo 13.º, parágrafo 4.º, da Convenção para Regular os Conflitos de Leis e de Jurisdições em Matéria de Divórcio e de Separação de Pessoas, celebrada na Haia, aos 12 de Junho de 1902, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, por nota de 9 de Janeiro de 1990, comunicou ter a Itália notificado, por nota de 2 de Janeiro de 1990, que denuncia a mencionada Convenção, nos termos do artigo 13.
+Nos termos do mesmo artigo 13.º, a denúncia produzirá efeito em relação à Itália em 1 de Junho de 1994.
+Portugal é Parte nesta Convenção, a qual foi confirmada e ratificada por Carta Régia de 7 de Fevereiro de 1907, tendo o instrumento de ratificação por parte de Portugal sido depositado em 2 de Março de 1907, conforme Diário do Governo, n.º 62, de 18 de Março de 1907.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 12 de Fevereiro de 1990. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
