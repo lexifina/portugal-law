@@ -1,0 +1,10 @@
+Despacho Normativo n.º 36/97
+Na sequência da publicação do Decreto-Lei n.º 195/94, de 19 de Julho, que criou o Programa Energia, e, ulteriormente, do Despacho Normativo n.º 682/94, publicado em 26 de Setembro, o qual regulamentou o regime de apoio à reconversão de consumos para gás natural, constata-se que algumas situações em matéria de elegibilidade não foram cabalmente acauteladas, nomeadamente na sua articulação com as normas do Decreto-Lei n.º 262/89, de 17 de Agosto.
+Acresce que, ao tempo da publicação do Decreto-Lei n.º 262/89, não existiam, de facto e de direito, concessionárias de distribuição que pudessem cumprir as formalidades previstas - designadamente nos n.os 1 e 2 daquele normativo - nem, paralelamente, efectuar a necessária pedagogia tendente à implantação do gás natural.
+Nestes termos, faz sentido considerar normativamente a possibilidade de o Programa Energia ter como elegíveis as despesas de reconversão de consumos para gás natural em edificações licenciadas até à data da outorga dos contratos de concessão das empresas concessionárias de transporte e distribuição de gás natural que operam nas áreas geográficas onde se localizam as edificações, com o que se alargará a um significativo número de cidadãos a possibilidade de escolha, face às diversas fontes energéticas.
+Fica assim clarificado o âmbito da elegibilidade das despesas previstas no artigo 9.º do Despacho Normativo n.º 682/94, de 26 de Setembro.
+Assim, determina-se o seguinte:
+Artigo único
+É aditado um n.º 7 ao artigo 9.º do Despacho Normativo n.º 682/94, de 26 de Setembro, com a seguinte redacção:
+«7 - As despesas de investimento referidas no n.º 2 do presente artigo para reconversão das instalações licenciadas até à data da outorga dos contratos de concessão das empresas concessionárias de transporte e distribuição de gás natural são elegíveis, sem prejuízo do disposto no artigo 1.º do Decreto-Lei n.º 262/89, de 17 de Agosto, quanto ao respectivo processo de licenciamento.»
+Ministério da Economia, 29 de Junho de 1997. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.
