@@ -1,0 +1,3 @@
+Despacho Normativo n.º 211/77
+Ao abrigo do disposto do n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 1 dos produtos fitofarmacêuticos, para efeitos de aplicação do regime de comercialização estabelecido por aquele diploma, é autorizada a substituição da embalagem com a capacidade de 15 kg do produto fitofarmacêutico com base em clortolorão por outra embalagem com a capacidade de 20 kg.
+Secretarias de Estado do Fomento Agrário e do Comércio Interno, 13 de Outubro de 1977. - O Secretário de Estado do Fomento Agrário, António Carlos Ribeiro Campos. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
