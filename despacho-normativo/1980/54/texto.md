@@ -1,0 +1,4 @@
+Despacho Normativo n.º 54/80
+1 - Delego no Secretário de Estado da Integração Europeia, Dr. Rui Manuel de Sousa Almeida Mendes, a competência para despachar os assuntos relativos ao Secretariado para a Cooperação Económica e Técnica Externa e à acção governativa a empreender nas matérias que lhe estão incumbidas, nos termos do artigo 3.º, n.º 2, do Decreto-Lei n.º 3/80, de 7 de Fevereiro.
+2 - A delegação a que se refere o presente despacho entende-se feita sem prejuízo dos poderes de avocação, superintendência e revogação e, bem assim, no pressuposto de que será objecto de acerto prévio com o Ministro a orientação a dar aos casos tecnicamente controversos ou politicamente melindrosos.
+Presidência do Conselho de Ministros, 7 de Fevereiro de 1980. - O Vice-Primeiro-Ministro, Diogo Pinto de Freitas do Amaral.
