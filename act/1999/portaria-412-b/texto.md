@@ -1,0 +1,61 @@
+Portaria n.º 412-B/99
+de 7 de Junho
+Manda o Governo, pelo Ministro da Justiça, em conformidade com o n.º 1 do artigo 72.º do Decreto-Lei n.º 186-A/99, de 31 de Maio, que sejam declarados instalados, a partir de 15 de Setembro de 1999, os seguintes tribunais, varas e juízos:
+Tribunal de Família e Menores do Barreiro;
+Tribunal de Família e Menores de Cascais;
+Tribunal de Família e Menores de Loures;
+Tribunal de Família e Menores de Ponta Delgada;
+Tribunal de Família e Menores de Portimão;
+Tribunal de Família e Menores do Seixal - 1.º Juízo;
+Tribunal de Família e Menores de Sintra - 1.º e 2.º Juízos;
+Tribunal de Família e Menores de Vila Franca de Xira;
+3.º Juízo do Tribunal da Comarca de Abrantes;
+3.º Juízo do Tribunal da Comarca de Alcobaça;
+2.º Juízo do Tribunal da Comarca de Alenquer;
+3.º Juízo do Tribunal da Comarca de Amarante;
+2.º Juízo do Tribunal da Comarca de Lousada;
+2.º Juízo do Tribunal da Comarca de Mangualde;
+3.º Juízo do Tribunal da Comarca da Marinha Grande;
+2.º Juízo do Tribunal da Comarca de Mirandela;
+3.º Juízo do Tribunal da Comarca da Moita;
+3.º Juízo do Tribunal da Comarca de Olhão;
+4.º Juízo do Tribunal da Comarca de Penafiel;
+2.º Juízo do Tribunal da Comarca de Peniche;
+3.º Juízo do Tribunal da Comarca de Pombal;
+2.º Juízo do Tribunal da Comarca de Portalegre;
+3.º e 4.º Juízos do Tribunal da Comarca da Póvoa de Varzim;
+2.º Juízo do Tribunal da Comarca da Ribeira Grande;
+2.º Juízo do Tribunal da Comarca de Santa Comba Dão;
+2.º Juízo do Tribunal da Comarca de Santa Cruz;
+2.º Juízo do Tribunal da Comarca de Silves;
+2.º Juízo do Tribunal da Comarca de Tondela;
+2.º Juízo do Tribunal da Comarca de Vale de Cambra;
+3.º Juízo do Tribunal da Comarca de Vila Real;
+3.º Juízo do Tribunal de Instrução Criminal do Porto;
+2.º Juízo do Tribunal de Família e Menores de Faro;
+2.º Juízo do Tribunal do Trabalho de Loures;
+3.º Juízo do Tribunal do Trabalho de Penafiel;
+2.º Juízo do Tribunal do Trabalho de Viseu;
+3.º Juízo do Tribunal de Comércio de Lisboa;
+2.º Juízo do Tribunal de Comércio de Vila Nova de Gaia;
+4.º Juízo de Competência Especializada Cível do Tribunal da Comarca de Barcelos;
+5.º Juízo de Competência Especializada Cível do Tribunal da Comarca de Leiria;
+4.º e 5.º Juízos de Competência Especializada Cível do Tribunal da Comarca de Oeiras;
+3.º Juízo de Competência Especializada Cível do Tribunal da Comarca de Oliveira de Azeméis;
+3.º Juízo de Competência Especializada Cível do Tribunal da Comarca de Paredes;
+4.º Juízo de Competência Especializada Cível do Tribunal da Comarca de Santa Maria da Feira;
+4.º Juízo de Competência Especializada Cível do Tribunal da Comarca de Santo Tirso;
+4.º Juízo de Competência Especializada Cível do Tribunal da Comarca de Viana do Castelo;
+3.º Juízo de Competência Especializada Cível do Tribunal da Comarca de Vila Franca de Xira;
+4.º Juízo de Competência Especializada Cível do Tribunal da Comarca de Vila Nova de Famalicão;
+4.º Juízo de Competência Especializada Cível do Tribunal da Comarca de Viseu;
+2.ª Vara com Competência Mista do Tribunal da Comarca de Guimarães;
+2.ª Vara com Competência Mista do Tribunal da Comarca de Loures;
+2.ª Vara com Competência Mista do Tribunal da Comarca de Sintra;
+2.ª Vara com Competência Mista do Tribunal da Comarca de Vila Nova de Gaia;
+4.º Juízo Cível do Tribunal da Comarca do Funchal;
+5.º Juízo Cível do Tribunal da Comarca de Guimarães;
+5.º e 6.º Juízos Cíveis do Tribunal da Comarca de Loures;
+3.º e 4.º Juízos Criminais do Tribunal da Comarca de Loures;
+4.º Juízo Criminal do Tribunal da Comarca de Vila Nova de Gaia.
+Pelo Ministro da Justiça, José Manuel de Matos Fernandes, Secretário de Estado Adjunto, em 4 de Junho de 1999.
