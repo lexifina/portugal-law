@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, mediante proposta do Ministério da Educação Nacional, ouvido o Conselho Permanente da Acção Educativa, a habilitação dos cursos secundários técnicos que nos seus planos de estudos compreendam a disciplina de Electricidade é declarada suficiente, em paralelo com o curso geral dos liceus, para efeito de provimento nos lugares de encarregado de centrais, subestações e postos de transformação dos serviços das autarquias locais.
+Presidência do Conselho, 18 de Dezembro de 1972. - Pelo Presidente do Conselho, João Mota Pereira de Campos, Ministro de Estado.
