@@ -1,0 +1,168 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "tipo": "Projeto de Resolução",
+  "numero": "15",
+  "id": "4148",
+  "fases": 11,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1992-03-30",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1992-10-14",
+    "DataInicioleg": "1991-11-04",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "40",
+        "nome": "Duarte Lima"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "49",
+        "nome": "Fernando Amaral"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "50",
+        "nome": "Fernando Condesso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "88",
+        "nome": "Macário Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "74",
+        "nome": "Joaquim Vilela Araújo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "81",
+        "nome": "Silva Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "54",
+        "nome": "Antunes da Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "32",
+        "nome": "Carlos Duarte"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "30",
+        "nome": "Carlos Almeida Figueiredo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "61",
+        "nome": "João Granja"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "108",
+        "nome": "Manuel Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5",
+        "nome": "Adriano Pinto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "126",
+        "nome": "Olinto Ravara"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "115",
+        "nome": "Maria Luisa Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "612",
+        "nome": "Helena Falcão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "75",
+        "nome": "Jorge Roque Cunha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "11",
+        "nome": "Branco Malveiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "138",
+        "nome": "Virgílio Carneiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "35",
+        "nome": "Carlos Coelho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8",
+        "nome": "Álvaro Viegas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "63",
+        "nome": "João Salgado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "97",
+        "nome": "Luís Martins"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "66",
+        "nome": "João Matos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "85",
+        "nome": "José Júlio Ribeiro"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "4148",
+    "IniLeg": "VI",
+    "IniLinkTexto": "",
+    "IniNr": "15",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Alterações ao Regimento da Assembleia da República.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
