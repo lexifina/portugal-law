@@ -39,23 +39,3 @@ Ministério da Educação.
 Assinada em 12 de Janeiro de 1989.
 
 Pelo Ministro da Educação, José Augusto Perestrello de Alarcão Troni, Secretário de Estado Adjunto do Ministro da Educação.
-
-## Capítulo I
-
-## Concessão de autorização de utilização
-
-## Capítulo II
-
-## Utilização das instalações
-
-## Capítulo III
-
-## Cobrança de taxas
-
-## Capítulo IV
-
-## Protocolos com autarquias
-
-## Capítulo V
-
-## Disposições finais
