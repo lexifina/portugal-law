@@ -1,0 +1,4 @@
+Aviso n.º 210/98
+Por ordem superior se faz público que, segundo comunicação do Secretário-Geral das Nações Unidas de 10 de Agosto de 1998, o Governo de Tongo depositou, em 29 de Julho de 1998, o instrumento de acessão ao Protocolo de Montreal sobre Substâncias Que Esgotam a Camada de Ozono, concluído em 16 de Setembro de 1987.
+O referido Protocolo foi aprovado, para ratificação, por Portugal, nos termos do Decreto n.º 20/88, publicado no Diário da República, 1.ª série-A, n.º 200, de 30 de Agosto de 1988, tendo sido depositado o correspondente instrumento em 17 de Outubro de 1988, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 283, de 9 de Dezembro de 1988. O Protocolo entrou em vigor para Portugal em 15 de Janeiro de 1989.
+Direcção-Geral dos Assuntos Multilaterais, 6 de Outubro de 1998. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
