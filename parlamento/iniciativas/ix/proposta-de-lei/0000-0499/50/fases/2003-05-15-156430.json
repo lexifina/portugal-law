@@ -1,0 +1,1127 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "50",
+    "id": "19606",
+    "titulo": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2003-05-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2562",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2003-05-15",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "19625",
+        "leg": "IX",
+        "nr": "273",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "698",
+            "obs": null,
+            "pag": [
+              "5092-5119"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-05-16",
+            "pubLeg": "IX",
+            "pubNr": "121",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5092?pgs=5092-5119&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Adopta medidas dissuasoras do recurso as falências fraudulentas e desenvolve medidas de protecção dos trabalhadores."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-05-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145553",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5092-5092"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5092?pgs=5092&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5092-5092",
+                  "5112-5114"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5092?pgs=5092,5112-5114&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145555",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5093-5093"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5093?pgs=5093&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145556",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5093-5093"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5093?pgs=5093&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO DO  MINISTRO DA  JUSTICA",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Joao Mota De Campos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145557",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5093-5097",
+                  "5117-5119"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5093?pgs=5093-5097,5117-5119&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1726",
+                "nome": "Vítor Ramalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145558",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5095-5095"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5095?pgs=5095&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145559",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5096-5096"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5096?pgs=5096&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145560",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5097-5098"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5097?pgs=5097-5098&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1600",
+                "nome": "Jamila Madeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145561",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5098-5098"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5098?pgs=5098&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1928",
+                "nome": "Isilda Pegado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145562",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5099-5101"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5099?pgs=5099-5101&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145563",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5100-5101"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5100?pgs=5100-5101&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1373",
+                "nome": "Osvaldo de Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145564",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5101-5102"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5101?pgs=5101-5102&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145565",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5102-5104"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5102?pgs=5102-5104&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145566",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5112-5113"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5112?pgs=5112-5113&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145567",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5113-5113"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5113?pgs=5113&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145568",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5114-5114",
+                  "5116-5117"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5114?pgs=5114,5116-5117&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145569",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5114-5114"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5114?pgs=5114&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145570",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5114-5116"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5114?pgs=5114-5116&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145571",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5116-5116"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5116?pgs=5116&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145572",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5117-5117"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5117?pgs=5117&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145573",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5118-5119"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5118?pgs=5118-5119&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre a insolvência de pessoas singulares e colectivas; adopta medidas dissuasoras do recurso às falências fraudulentas e desenvolve medidas de protecção dos trabalhadores",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "156430",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "277471",
+        "obs": null,
+        "pag": [
+          "5092-5104",
+          "5114-5119"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-05-16",
+        "pubLeg": "IX",
+        "pubNr": "121",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5092?pgs=5092-5104,5114-5119&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
