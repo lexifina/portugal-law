@@ -1,0 +1,19 @@
+Decreto Regulamentar n.º 37/79
+de 29 de Junho
+1. O Decreto-Lei n.º 43453 e o Decreto n.º 43454, de 30 de Dezembro de 1960, permitiram a criação de certificados de aforro destinados a estimular o espírito de previdência e a conceder uma aplicação remunerada e segura aos pequenos capitais.
+2. O Decreto n.º 43575, de 30 de Março de 1961, com o objectivo de facilitar a todas as pessoas, mesmo as residentes em localidades mais afastadas das sedes dos concelhos, a aplicação das suas economias em certificados de aforro, veio permitir que a requisição e a futura amortização dos mesmos se possa efectuar nas então designadas estações dos correios, telégrafos e telefones, mediante o pagamento de taxas postais adequadas.
+3. Decorreram, entretanto, dezoito anos, lapso de tempo durante o qual a Administração-Geral dos Correios, Telégrafos e Telefones passou a empresa pública do Estado, os Correios e Telecomunicações de Portugal, com manutenção da abreviatura tradicional «CTT», e se operaram naturais alterações de estrutura no sector. Daí que o Decreto n.º 43575 se mostre totalmente desfasado em relação aos CTT de hoje.
+Por outro lado, impõe-se que o regime vigente na requisição e amortização dos certificados de aforro através das estações de correios abranja não só as do continente, mas também as das regiões autónomas.
+Nesta conformidade, impõe-se a reformulação do citado Decreto n.º 43575.
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+Artigo 1.º Poderão as estações de correios da empresa pública Correios e Telecomunicações de Portugal aceitar requisições e as quantias necessárias para a criação de certificados de aforro e proceder à entrega destes, depois de emitidos pela Junta do Crédito Público, ao abrigo do disposto no artigo 14.º do Decreto-Lei n.º 43453, de 30 de Dezembro de 1960, e nos artigos 10.º a 22.º do Decreto n.º 43454, da mesma data. Por intermédio das mesmas estações poderá efectuar-se o pagamento das importâncias relativas às amortizações requeridas pelos aforristas.
+Art. 2.º Para efeito do disposto na parte final do artigo anterior, deverá a Junta do Crédito Público enviar às estações de correios avisos da emissão de ordens de pagamento. As importâncias necessárias para as amortizações sairão, provisoriamente, das quantias destinadas à emissão de novos certificados de aforro ou do produto de emissão de vales.
+Art. 3.º As quantias recebidas nas estações de correios para a criação de certificados de aforro serão entregues no Banco de Portugal ou nas tesourarias da Fazenda Pública e serão creditadas na conta da Junta do Crédito Público naquele Banco. Serão debitadas na mesma conta as quantias pagas pelas estações de correios para amortização de certificados de aforro, desde que essas amortizações tenham sido autorizadas pela Junta.
+Art. 4.º Os serviços requeridos nas estações de correios ficam sujeitos às taxas postais fixadas nos termos do Decreto-Lei n.º 37129, de 3 de Novembro de 1948.
+Art. 5.º A Junta do Crédito Público pode corresponder-se directamente com os directores regionais das direcções regionais de correios, os chefes dos departamentos postais e os chefes das estações de correios acerca dos assuntos relacionados com a execução deste decreto, mas deverá enviar sempre por intermédio do conselho de administração dos CTT quaisquer circulares ou instruções de carácter geral relativas ao serviço de certificados de aforro.
+Art. 6.º Entre a Junta do Crédito Público e a empresa pública Correios e Telecomunicações de Portugal será acordada a forma como se efectuará, em pormenor, a colaboração prevista neste decreto para a execução do serviço relativo aos certificados de aforro.
+Art. 7.º Fica revogado o Decreto n.º 43575, de 30 de Março de 1961.
+Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - José Ricardo Marques da Costa.
+Promulgado em 11 de Junho de 1979.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
