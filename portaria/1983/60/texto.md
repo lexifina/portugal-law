@@ -1,0 +1,12 @@
+Portaria n.º 60/83
+de 25 de Janeiro
+Considerando a existência, na estrutura da Direcção-Geral de Emprego e Formação da Administração Pública, de uma Divisão de Psicologia do Trabalho, que tem por objectivo a realização de acções de selecção e de orientação profissional, mediante a utilização de técnicas de psicologia aplicada;
+Considerando que o exercício da chefia daquela Divisão impõe para além de um perfil adequado, uma formação básica e uma experiência profissional consentânea com o tipo de actividades que lhe compete desenvolver, as quais não têm correspondência em qualquer outro serviço ou organismo da Administração Pública;
+Considerando que pelos motivos invocados e pelo menos de momento não existem noutros serviços ou organismos do Estado funcionários com os requisitos indispensáveis;
+Considerando, de igual forma, que na Direcção-Geral de Emprego e Formação da Administração Pública, embora existam funcionários com as qualificações e a experiência apontadas, estes não possuem as categorias previstas na área de recrutamento definida pela alínea b) do n.º 2 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho;
+Considerando a afluência crescente de pedidos de acções no domínio do recrutamento e selecção de pessoal, decorrente da institucionalização do concurso como forma de recrutamento, por força do Decreto-Lei n.º 171/82, de 10 de Maio;
+Considerando, por esse motivo, a urgente necessidade de prover o lugar de chefe de divisão da Divisão de Psicologia do Trabalho;
+Inviabilizado, assim, o recrutamento pelo recurso ao disposto nos n.os 2 e 3 do artigo 4.º do Decreto-Lei n.º 191-F/79, de 26 de Junho;
+Considerando o disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho:
+Manda o Governo da República Portuguesa, pelo Ministro da Reforma Administrativa, alargar a área de recrutamento para o lugar de chefe de divisão correspondente à Divisão de Psicologia Aplicada da Direcção-Geral de Emprego e Formação da Administração Pública aos técnicos superiores de 1.ª classe do respectivo quadro de pessoal que possuam licenciatura em Psicologia ou em Filosofia, formação em psicologia e psicossociologia do trabalho e experiência profissional de, pelo menos, 5 anos no mesmo domínio.
+Ministério da Reforma Administrativa, 11 de Janeiro de 1983. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
