@@ -1,0 +1,7 @@
+Portaria n.º 22598
+Tendo-se verificado que não foram incluídas na Portaria n.º 21873, de 14 de Fevereiro de 1966, as massas hídricas existentes nos concelhos da Feira e de S. João da Madeira, do distrito de Aveiro;
+Atendendo a que os repovoamentos trutícolas levados a efeito têm demonstrado a boa aptidão receptiva das massas hídricas daqueles concelhos para estas espécies piscícolas;
+Considerando que os cursos de água existentes nas áreas dos referidos concelhos da Feira e de S. João da Madeira possuem as características de rios salmonídeos;
+Usando da faculdade conferida pelo artigo 84.º do regulamento aprovado pelo Decreto n.º 44623, de 10 de Outubro de 1962, e por força da base XXXIII da Lei n.º 2097, de 6 de Junho de 1959:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, que também sejam abrangidos pelo disposto na primeira parte do § 2.º do artigo 29.º do Decreto n.º 44623 as massas hídricas situadas nos concelhos da Feira e de S. João da Madeira, do distrito de Aveiro, ficando, portanto, proibida a utilização de quaisquer tipos de redes, bem como a captura de todas as espécies piscícolas durante a época de defeso dos salmonídeos; consequentemente, só poderá proceder-se ao exercício da pesca, nestes cursos de água, apenas desportivamente e durante a época em que é livre a pesca dos salmonídeos, o que se verifica de 1 de Março a 30 de Julho de cada ano.
+Secretaria de Estado da Agricultura, 27 de Março de 1967. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.
