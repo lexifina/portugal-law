@@ -1,0 +1,52 @@
+Portaria n.º 543/88
+de 11 de Agosto
+Sob proposta da Universidade de Coimbra;
+Ao abrigo do disposto no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+1.º
+Criação
+A Universidade de Coimbra, através da Faculdade de Economia, confere o grau de licenciado em Sociologia, ministrando, em consequência, o respectivo curso.
+2.º
+Duração do curso
+O curso, incluindo a avaliação do trabalho realizado no seminário de investigação, tem a duração de nove semestres lectivos.
+3.º
+Plano de estudos
+É aprovado o plano de estudos do curso de licenciatura em Sociologia da Faculdade de Economia da Universidade de Coimbra, publicado em anexo à presente portaria.
+4.º
+Disciplinas semestrais
+A distribuição das disciplinas semestrais pelos dois semestres de cada ano será feita pelo conselho científico.
+5.º
+Disciplinas de opção
+1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de dez.
+2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas de serviço de aulas a que é obrigado por lei.
+3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de uma delas.
+6.º
+Língua viva estrangeira
+1 - Para além das disciplinas a que se refere o n.º 3.º, os alunos do curso deverão inscrever-se, frequentar e obter aprovação, obrigatoriamente, numa disciplina de língua estrangeira, nos termos a regulamentar por despacho do reitor, sob proposta do conselho científico.
+2 - A disciplina a que se refere o n.º 1 não é considerada para o cálculo da classificação final da licenciatura.
+7.º
+Classificação final
+1 - A classificação final do curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas e seminário de investigação que integram o plano de estudos do curso.
+2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico.
+8.º
+Aplicação
+O curso entrará em funcionamento progressivamente, um ano curricular em cada ano lectivo, a partir do ano lectivo de 1988-1989, inclusive.
+9.º
+Entrada em vigor
+A presente portaria entra em vigor na data da sua publicação.
+10.º
+Disposição transitória
+Aos estudantes que já hajam apresentado a candidatura no decurso do prazo a que se refere o n.º 1 do anexo XII do regulamento aprovado pela Portaria n.º 264/88, de 30 de Abril, alterado pela Portaria n.º 417/88, de 1 de Julho, é autorizada a sua alteração no prazo a que se refere o n.º 6 do mesmo anexo, desde que tal alteração tenha por objectivo incluir o curso agora criado.
+11.º
+Aditamentos
+1 - Aos anexos I.1 e II do regulamento anexo à Portaria n.º 264/88, de 30 de Abril, alterado pela Portaria n.º 417/88, de 1 de Julho, é acrescentado o curso agora criado, sendo as habilitações de acesso as fixadas para o curso de licenciatura em Sociologia da Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa.
+2 - Às vagas aprovadas pela Portaria n.º 415/88, de 1 de Julho, é introduzido o seguinte aditamento:
+Estabelecimento: Universidade de Coimbra, Faculdade de Economia.
+Curso: Sociologia.
+Vagas: 30.
+Código: 0503 759.
+Ministério da Educação.
+Assinada em 13 de Julho de 1988.
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
+
+(ver documento original)
