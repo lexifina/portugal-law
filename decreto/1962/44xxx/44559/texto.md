@@ -1,0 +1,8 @@
+Decreto n.º 44559
+Convindo, nas presentes circunstâncias, aproveitar ao máximo os oferecimentos dos militares para prestarem serviço nas províncias ultramarinas;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º A requerimento dos interessados, poderão ser reinspeccionados todos os indivíduos que, tendo prestado serviço militar, foram julgados incapazes do mesmo serviço pelas juntas hospitalares há mais de um ano, desde que se encontrem em qualquer situação que não seja a de reforma e julguem ter cessado as causas que deram origem à decisão das referidas juntas, e que se ofereçam para prestar serviço no ultramar.
+Art. 2.º Nos casos considerados no artigo anterior, as juntas decidirão se aqueles indivíduos estão prontos para todo o serviço militar ou incapazes de todo o serviço militar, não sendo de admitir decisões intermédias, podendo contudo as referidas juntas mandar baixar os mesmos indivíduos aos hospitais militares, para observação, quando sobre eles não possam tomar imediatamente resolução definitiva, por carência de elementos de natureza clínica.
+Art. 3.º Os indivíduos que forem julgados prontos para todo o serviço militar, por efeito de aplicação do artigo anterior, reingressarão na arma ou serviço a que pertenciam e no posto que possuíam na altura em que foram julgados incapazes pelas juntas hospitalares de inspecção, sendo colocados à esquerda do militar do mesmo posto que ocupe o último lugar na escala de antiguidades na data da reinspecção.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 8 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Mário José Pereira da Silva.
