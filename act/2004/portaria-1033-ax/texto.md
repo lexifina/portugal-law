@@ -1,0 +1,8 @@
+Portaria n.º 1033-AX/2004
+de 10 de Agosto
+Pela Portaria n.º 146/2004, de 12 de Fevereiro, foi concessionada ao Clube de Caçadores de S. Bento do Castelo a zona de caça associativa de São Bento do Castelo (processo n.º 3339-DGF), situada no município de Vila Real.
+Verificou-se entretanto que, apesar de na proposta de portaria assinada pelo Secretário de Estado das Florestas ser referido correctamente o número do processo «3339-DGF», na portaria acima referida é mencionado o número «339-DGF», pelo que se torna necessário proceder à sua correcção.
+Assim:
+Manda o Governo, pelos Ministros da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente, que o n.º 1.º da Portaria n.º 146/2004, de 12 de Fevereiro, passe a ter a seguinte redacção:
+«1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, ao Clube de Caçadores de S. Bento do Castelo, com o número de pessoa colectiva 505507498 e sede no lugar de Linhares, São Tomé do Castelo, 5000 Vila Real, a zona de caça associativa de São Bento do Castelo (processo n.º 3339-DGF), englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de São Tomé do Castelo, município de Vila Real, com a área de 2995 ha.»
+Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 21 de Maio de 2004. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Arlindo Marques da Cunha, em 25 de Junho de 2004.
