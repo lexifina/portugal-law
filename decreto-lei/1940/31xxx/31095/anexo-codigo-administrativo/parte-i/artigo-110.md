@@ -1,3 +1,11 @@
+## Capítulo VI
+
+## Dos órgãos municipais consultivos
+
+## Secção I
+
+## Disposições gerais
+
 # Artigo 110.º
 
 São órgãos consultivos da administração municipal:

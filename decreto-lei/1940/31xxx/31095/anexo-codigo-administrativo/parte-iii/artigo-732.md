@@ -1,3 +1,7 @@
+## Subsecção II
+
+## Reclamações contenciosas
+
 # Artigo 732.º
 
 As reclamações contra a liquidação e cobrança de impostos, taxas ou outras receitas municipais serão apresentadas na secretaria da câmara no prazo de sessenta dias, contados do início da cobrança, se se tratar de receitas virtuais, ou da liquidação, se se tratar de receitas eventuais.

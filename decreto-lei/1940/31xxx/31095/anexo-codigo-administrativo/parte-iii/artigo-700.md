@@ -1,3 +1,7 @@
+## Capítulo VI
+
+## Da contabilidade e contas de gerência
+
 # Artigo 700.º
 
 As contas serão prestadas por anos económicos.

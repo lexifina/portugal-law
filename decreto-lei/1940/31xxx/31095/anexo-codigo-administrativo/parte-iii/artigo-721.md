@@ -1,3 +1,7 @@
+## Secção II
+
+## Rendimentos de bens próprios
+
 # Artigo 721.º
 
 Constituem rendimentos de bens próprios:

@@ -1,3 +1,7 @@
+## Secção VI
+
+## Antiguidade e informações
+
 # Artigo 548.º
 
 A antiguidade dos funcionários administrativos conta-se:

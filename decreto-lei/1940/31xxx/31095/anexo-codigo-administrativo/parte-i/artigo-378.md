@@ -1,3 +1,7 @@
+## Secção II
+
+## Dissolução
+
 # Artigo 378.º
 
 Os corpos administrativos podem ser dissolvidos pelo Govêrno:

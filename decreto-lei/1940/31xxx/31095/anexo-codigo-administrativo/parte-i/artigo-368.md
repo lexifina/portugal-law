@@ -1,3 +1,7 @@
+## Secção V
+
+## Acções em que os corpos administrativos tenham interêsse
+
 # Artigo 368.º
 
 O Ministério. Público junto dos tribunais judicais é competente para propor ou seguir, como parte principal, as acções que tenham por fim:

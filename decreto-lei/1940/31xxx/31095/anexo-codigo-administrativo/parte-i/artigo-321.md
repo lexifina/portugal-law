@@ -1,3 +1,7 @@
+## Secção III
+
+## Constituïção, reüniões e deliberações
+
 # Artigo 321.º
 
 A junta distrital constitui-se no dia 2 de Janeiro e, verificados os poderes dos seus membros, entra imediatamente em exercício.

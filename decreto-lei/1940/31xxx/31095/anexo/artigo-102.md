@@ -1,3 +1,15 @@
+## Título V
+
+## Dos concelhos e freguesias
+
+## Capítulo I
+
+## Dos concelhos
+
+## Secção I
+
+## Disposições gerais
+
 # Artigo 102.º
 
 Os presidentes das câmaras municipais com sede em ilhas que não sejam sede do distrito tomam posse na própria câmara pela apresentação do alvará de nomeação.

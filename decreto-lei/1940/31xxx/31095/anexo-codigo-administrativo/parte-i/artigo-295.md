@@ -1,3 +1,7 @@
+## Secção II
+
+## Competência
+
 # Artigo 295.º
 
 Compete ao conselho do distrito:

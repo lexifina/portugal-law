@@ -1,3 +1,7 @@
+## Secção IV
+
+## Dissolução e extinção
+
 # Artigo 429.º
 
 Compete ao Governo, pelo Ministro do Interior, ou pelo Ministro da Saúde e Assistência tratando-se de associações ou institutos beneficentes, dissolver, depois de ouvidas, as mesas, direcções ou administrações das pessoas colectivas de utilidade pública administrativa, quando se prove, em inquérito ou sindicância, algum dos seguintes factos:

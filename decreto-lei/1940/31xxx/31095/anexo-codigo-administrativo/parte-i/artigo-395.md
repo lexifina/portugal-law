@@ -1,3 +1,11 @@
+## Secção III
+
+## Baldios dispensáveis do logradouro comum
+
+## Subsecção I
+
+## Disposições comuns
+
 # Artigo 395.º
 
 1.º Os baldios que, por deliberação da câmara municipal ou junta de freguesia que os administrem, e precedendo parecer do organismo oficial competente, assim forem classificados e como tal inscritos no respectivo inventário;

@@ -1,3 +1,7 @@
+## Subsecção II
+
+## Baldios próprios para cultura
+
 # Artigo 397.º
 
 Os baldios dispensáveis do logradouro comum e próprios para cultura, não reservados para o organismo oficial competente, serão divididos em glebas com o mínimo de 1 hectare e estas aforadas ou vendidas em hasta pública a chefes de família que tenham sido compartes, por mais de um ano, na fruïção dêles.

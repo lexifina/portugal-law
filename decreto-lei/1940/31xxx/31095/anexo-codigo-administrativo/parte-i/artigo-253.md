@@ -1,3 +1,7 @@
+## Secção II
+
+## Atribuïções e competência
+
 # Artigo 253.º
 
 É das atribuïções das juntas de freguesia deliberar:

@@ -1,3 +1,7 @@
+## Secção II
+
+## Federações voluntárias
+
 # Artigo 187.º
 
 A federação voluntária de municípios dissolve-se pelo preenchimento do fim a que se destinava, pela expiração do respectivo prazo e por deliberação da maioria das câmaras federadas.

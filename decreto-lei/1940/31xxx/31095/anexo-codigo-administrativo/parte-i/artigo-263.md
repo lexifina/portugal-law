@@ -1,3 +1,7 @@
+## Secção V
+
+## Serviços paroquiais
+
 # Artigo 263.º
 
 As juntas de freguesia têm secretaria privativa, a cargo do vogal secretário ou de um escrivão, com os demais empregados que forem necessários. Quando as suas receitas anuais forem superiores a 250 contos poderão contratar um fiel de tesoureiro, sob proposta e responsabilidade dêste.

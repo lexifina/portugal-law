@@ -1,3 +1,7 @@
+## Secção II
+
+## Pessoal
+
 # Artigo 425.º
 
 Os empregados das pessoas colectivas de utilidade pública administrativa serão contratados ou assalariados.

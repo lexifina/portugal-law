@@ -1,3 +1,7 @@
+## Secção II
+
+## Atribuïções e competência
+
 # Artigo 15.º
 
 As juntas gerais podem ter atribuïções:

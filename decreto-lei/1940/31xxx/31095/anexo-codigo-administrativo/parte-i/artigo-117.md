@@ -1,3 +1,11 @@
+## Capítulo VII
+
+## Das zonas do turismo
+
+## Secção I
+
+## Disposições gerais
+
 # Artigo 117.º
 
 Nos concelhos em que existam praias, estâncias hidrológicas ou climáticas, de altitude, de repouso ou de recreio, ou monumentos e lugares de nomeada poderão ser criadas zonas de turismo.

@@ -1,3 +1,7 @@
+## Subsecção II
+
+## Empreitadas e fornecimentos
+
 # Artigo 359.º
 
 As deliberações definitivas sôbre contratos de empreitada ou de fornecimento só podem ser tomadas após concurso público, precedendo edital de, pelo menos, vinte dias.

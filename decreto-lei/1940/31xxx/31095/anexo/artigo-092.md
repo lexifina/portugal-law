@@ -1,3 +1,7 @@
+## Capítulo II
+
+## Da comissão distrital de contas
+
 # Artigo 92.º
 
 Em cada distrito autónomo haverá uma comissão distrital de contas, composta pelo director de finanças, pelo delegado do Procurador da República na comarca da sede do distrito e por um vogal designado pelo governador.

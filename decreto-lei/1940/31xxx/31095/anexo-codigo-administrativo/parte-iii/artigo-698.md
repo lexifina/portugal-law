@@ -1,3 +1,7 @@
+## Capítulo V
+
+## Do pagamento das despesas
+
 # Artigo 698.º
 
 Até 15 de Janeiro de cada ano poderão ser pagas, por conta do ano económico anterior, as despesas autorizadas à data de 31 de Dezembro.

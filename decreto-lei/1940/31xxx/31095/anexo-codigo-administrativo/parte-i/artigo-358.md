@@ -1,3 +1,11 @@
+## Secção III
+
+## Especialidades de algumas deliberações
+
+## Subsecção I
+
+## Alienação dos bens próprios
+
 # Artigo 358.º
 
 As deliberações que envolvam alienação de bens próprios imobiliários dos corpos administrativos só serão válidas quando tomadas por maioria absoluta do número legal dos seus membros.

@@ -1,3 +1,7 @@
+## Secção IV
+
+## Multas
+
 # Artigo 725.º
 
 De todas as multas cobradas para as câmaras municipais pertencerá metade ao autuante, salvo se por lei especial fôr determinada outra forma de distribuïção.

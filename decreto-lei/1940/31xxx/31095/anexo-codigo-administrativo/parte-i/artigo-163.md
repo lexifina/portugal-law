@@ -1,3 +1,7 @@
+## Subsecção VI
+
+## Outros serviços
+
 # Artigo 163.º
 
 Para assegurar o exercício de atribuïções que, por exigirem conhecimentos especiais de qualquer ciência ou arte, não possam ser exercidas por intermédio das secretarias ou tesourarias poderão as câmaras municipais instituir serviços dirigidos por diplomados com o correspondente curso superior ou especial.

@@ -1,3 +1,7 @@
+## Secção II
+
+## Penas disciplinares e seus efeitos
+
 # Artigo 564.º
 
 As penalidades aplicáveis aos funcionários administrativos pelas faltas disciplinares que cometerem são:

@@ -1,3 +1,7 @@
+## Secção II
+
+## Comissão municipal de higiene
+
 # Artigo 111.º
 
 Em cada concelho funciona uma comissão de higiene, constituída por um vereador, que será o presidente, pelo delegado ou subdelegado de saúde, pelo veterinário e pelo engenheiro municipal, onde os houver, ou, havendo mais de um, por aquele que o presidente da câmara designar, e por um vogal do conselho municipal, eleito por este.

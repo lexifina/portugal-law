@@ -1,3 +1,7 @@
+## Subsecção II
+
+## Partidos médicos
+
 # Artigo 144.º
 
 Em todos os concelhos, com excepção dos de Lisboa e Pôrto, existirá pelo menos um partido médico municipal.

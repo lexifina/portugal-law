@@ -1,3 +1,11 @@
+## Título II
+
+## Da competência contenciosa
+
+## Capítulo I
+
+## Disposições gerais
+
 # Artigo 815.º
 
 O contencioso administrativo abrange as deliberações e decisões definitivas e executórias da administração pública, quando argüidas, perante os tribunais, de incompetência, excesso de poder ou violação de lei, regulamento ou contrato administrativo.

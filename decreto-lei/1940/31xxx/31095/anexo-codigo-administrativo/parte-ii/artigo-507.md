@@ -1,3 +1,11 @@
+## Secção II
+
+## Faltas e licenças
+
+## Subsecção I
+
+## Faltas ao serviço
+
 # Artigo 507.º
 
 Os funcionários administrativos podem faltar ao serviço dois dias em cada mês, seguidos ou intervalados, desde que no próprio dia da falta o participem aos respectivos chefes, declarando por escrito o motivo que a justifica.

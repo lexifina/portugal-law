@@ -1,3 +1,7 @@
+## Secção IV
+
+## Apresentação de listas
+
 # Artigo 228.º
 
 Os vogais das juntas de freguesia são eleitos em lista completa.

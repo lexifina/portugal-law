@@ -1,3 +1,7 @@
+## Secção V
+
+## Incompatibilidades e acumulações
+
 # Artigo 543.º
 
 Os funcionários de carteira não podem:

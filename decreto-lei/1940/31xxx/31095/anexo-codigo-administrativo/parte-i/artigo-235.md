@@ -1,3 +1,7 @@
+## Secção VI
+
+## Votação e apuramento
+
 # Artigo 235.º
 
 A mesa da assemblea eleitoral ou secção de voto constitue-se pelas nove horas do domingo marcado para a eleição.

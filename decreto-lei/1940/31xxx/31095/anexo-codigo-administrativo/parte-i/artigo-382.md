@@ -1,3 +1,7 @@
+## Secção III
+
+## Regime de tutela
+
 # Artigo 382.º
 
 O Govêrno declarará sempre o regime de tutela se as irregularidades que derem causa à dissolução dos corpos administrativos forem de molde a comprometer gravemente os interêsses locais a seu cargo, e em especial:

@@ -1,3 +1,7 @@
+## Subsecção II
+
+## Promoção
+
 # Artigo 471.º
 
 A promoção de uma para outra classe dentro dos quadros privativos faz-se mediante concurso realizado entre os funcionários com provimento definitivo no mesmo quadro e na classe inferior.

@@ -1,3 +1,7 @@
+## Secção III
+
+## Zonas de turismo administradas pelas juntas de turismo
+
 # Artigo 126.º
 
 As juntas de turismo terão a seguinte composição:

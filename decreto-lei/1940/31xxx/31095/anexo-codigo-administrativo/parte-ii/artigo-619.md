@@ -1,3 +1,11 @@
+## Título II
+
+## Dos funcionários dos serviços especiais
+
+## Capítulo I
+
+## Disposições gerais
+
 # Artigo 619.º
 
 Os funcionários do pessoal maior dos serviços especiais constituirão em cada corpo administrativo um quadro próprio.

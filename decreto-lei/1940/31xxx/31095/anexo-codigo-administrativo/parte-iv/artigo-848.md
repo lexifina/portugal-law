@@ -1,3 +1,7 @@
+## Secção III
+
+## Discussão e julgamento
+
 # Artigo 848.º
 
 Concluída a produção de prova, será o processo continuado com vista aos advogados do recorrente e do recorrido e ao Ministério Público, para alegarem por escrito.

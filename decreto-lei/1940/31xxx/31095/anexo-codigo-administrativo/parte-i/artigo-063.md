@@ -1,3 +1,7 @@
+## Subsecção III
+
+## Concelhos rurais
+
 # Artigo 63.º
 
 Nos concelhos rurais de qualquer ordem incumbe às câmaras o exercício obrigatório das atribuïções:

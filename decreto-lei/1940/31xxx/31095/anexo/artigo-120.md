@@ -1,3 +1,11 @@
+## Capítulo II
+
+## Das freguesias
+
+## Secção I
+
+## Freguesias do Arquipélago dos Açôres
+
 # Artigo 120.º
 
 Em cada freguesia do Arquipélago dos Açôres haverá uma junta de freguesia e um regedor, com as atribuïções e competência que lhes são conferidas pelo Código Administrativo.

@@ -1,3 +1,7 @@
+## Subsecção IV
+
+## Decisão disciplinar e sua execução
+
 # Artigo 601.º
 
 Apresentada a defesa do argüido e inquiridas as testemunhas por êle indicadas, o instrutor, se não fôr a própria autoridade com competência para decidir o processo, relatá-lo á, propondo a pena que entender justa, e entregará os autos à autoridade ou corpo administrativo quo o tiver nomeado.

@@ -1,3 +1,11 @@
+## Capítulo II
+
+## Da junta geral
+
+## Secção I
+
+## Composição, constituïção, sessões e reüniões
+
 # Artigo 8.º
 
 A junta geral do distrito é composta por sete procuradores, dos quais três natos e quatro eleitos quadrienalmente.

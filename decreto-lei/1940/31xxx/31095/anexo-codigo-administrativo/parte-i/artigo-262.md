@@ -1,3 +1,7 @@
+## Secção IV
+
+## Presidente da junta
+
 # Artigo 262.º
 
 Compete ao presidente da junta de freguesia:

@@ -1,3 +1,7 @@
+## Secção II
+
+## Competência
+
 # Artigo 27.º
 
 Compete ao conselho municipal:

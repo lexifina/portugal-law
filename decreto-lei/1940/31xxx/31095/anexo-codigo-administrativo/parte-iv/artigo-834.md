@@ -1,3 +1,15 @@
+## Título III
+
+## Do processo nas auditorias
+
+## Capítulo I
+
+## Dos recursos da competência dos auditores
+
+## Secção I
+
+## Articulados
+
 # Artigo 834.º
 
 Os recursos contenciosos da competência dos auditores serão sempre interpostos por petição.

@@ -1,3 +1,7 @@
+## Secção III
+
+## Federações obrigatórias
+
 # Artigo 188.º
 
 É obrigatória:

@@ -1,3 +1,7 @@
+## Capítulo III
+
+## Da competência contenciosa do Supremo Tribunal Administrativo
+
 # Artigo 833.º
 
 Compete ao Supremo Tribunal Administrativo, como tribunal do contencioso da administração local, julgar:

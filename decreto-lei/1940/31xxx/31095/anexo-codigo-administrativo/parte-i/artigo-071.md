@@ -1,3 +1,7 @@
+## Capítulo IV
+
+## Do presidente da câmara
+
 # Artigo 71.º
 
 O presidente da câmara e o vice-presidente serão nomeados de entre os respectivos munícipes, de preferência vogais do conselho municipal, antigos vereadores ou membros das comissões administrativas municipais ou diplomados com um curso superior.

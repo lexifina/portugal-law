@@ -1,3 +1,7 @@
+## Secção IV
+
+## Sanção das deliberações ilegais
+
 # Artigo 363.º
 
 São nulas e de nenhum efeito, independentemente de declaração pelos tribunais, ùnicamente as seguintes deliberações dos corpos administrativos:

@@ -1,3 +1,11 @@
+## Título III
+
+## Das finanças paroquiais
+
+## Capítulo ÚNICO
+
+## Das receitas, das despesas, do orçamento e das contas paroquiais
+
 # Artigo 777.º
 
 Constituem receita ordinária das freguesias:

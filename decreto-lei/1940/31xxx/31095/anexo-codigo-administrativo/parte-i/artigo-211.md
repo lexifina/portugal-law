@@ -1,3 +1,7 @@
+## Secção III
+
+## Operações de recenseamento
+
 # Artigo 211.º
 
 As operações do recenseamento terão início em 1 de Fevereiro de cada ano e serão assistidas e fiscalizadas pelo presidente da câmara municipal do concelho, ou delegado seu, a quem cumpre promover o pontual cumprimento das disposições legais e o esclarecimento das dúvidas que se suscitem.

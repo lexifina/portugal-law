@@ -1,3 +1,11 @@
+## Capítulo IX
+
+## Dos serviços municipalizados
+
+## Secção I
+
+## Instituïção, objecto e fim
+
 # Artigo 164.º
 
 É permitido às câmaras, com a aprovação dos respectivos conselhos municipais e do Govêrno, explorar, sob forma industrial, por sua conta e risco, serviços públicos de interêsse local que tenham por objecto:

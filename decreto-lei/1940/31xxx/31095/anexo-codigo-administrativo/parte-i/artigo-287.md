@@ -2,6 +2,10 @@
 
 ## Do conselho do distrito
 
+## Secção I
+
+## Composição
+
 # Artigo 287.º
 
 O conselho do distrito é composto pelos procuradores dos concelhos da circunscrição distrital.

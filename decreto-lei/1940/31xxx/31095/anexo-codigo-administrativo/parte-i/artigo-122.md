@@ -1,3 +1,7 @@
+## Secção II
+
+## Zonas de turismo administradas pelas câmaras municipais
+
 # Artigo 122.º
 
 Nas zonas de turismo directamente administradas pela câmara municipal, e para o efeito de colaborar com esta no estudo dos problemas turísticos, haverá uma comissão municipal de turismo, presidida por um vereador designado pelo presidente da câmara e com a seguinte composição:

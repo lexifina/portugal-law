@@ -1,3 +1,7 @@
+## Subsecção III
+
+## Transgressões fiscais
+
 # Artigo 742.º
 
 Quando, por motivos imputáveis aos contribuintes, a liquidação dos impostos directos e a cobrança dos impostos indirectos, que seja independente de prévio processo de liquidação, se não fizer nos prazos fixados nos regulamentos fiscais, ou quando, tendo-se feito nesses prazos, a liquidação venha a ser considerada, pelos mesmos motivos, inexacta, será levantado auto de transgressão, que fará fé até prova em contrário.

@@ -1,3 +1,7 @@
+## Secção II
+
+## Presidente da câmara e serviços municipais
+
 # Artigo 102.º
 
 Os presidentes das Câmaras de Lisboa e Pôrto decidem, por despacho, todos os negócios da competência das câmaras municipais, salvo os indicados no artigo 99.º

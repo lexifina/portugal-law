@@ -1,3 +1,11 @@
+## Secção II
+
+## Atribuïções e competência
+
+## Subsecção I
+
+## Disposições gerais
+
 # Artigo 44.º
 
 As câmaras municipais têm atribuïções:

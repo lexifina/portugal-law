@@ -1,3 +1,11 @@
+## Secção V
+
+## Contencioso dos impostos e outros rendimentos municipais
+
+## Subsecção I
+
+## Tribunais
+
 # Artigo 727.º
 
 A instrução e julgamento das reclamações dos interessados contra a liquidação e cobrança dos impostos, taxas e outras receitas municipais, bem como das transgressões cometidas pelos contribuintes aos regulamentos da liquidação e cobrança dos mesmos impostos e taxas, pertence, em 1.ª instância, ao chefe da secretaria da câmara municipal, com recurso para o juiz de direito da comarca e dêste para a Relação do respectivo distrito judicial.

@@ -1,3 +1,7 @@
+## Secção II
+
+## Competência
+
 # Artigo 36.º
 
 Compete às comissões executivas das juntas gerais:

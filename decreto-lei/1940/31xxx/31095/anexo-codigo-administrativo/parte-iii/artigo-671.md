@@ -1,3 +1,7 @@
+## Capítulo II
+
+## Da receita e despesa e sua classificação
+
 # Artigo 671.º
 
 A receita dos corpos administrativos é ordinária e extraordinária.

@@ -1,3 +1,7 @@
+## Subsecção III
+
+## Partidos veterinários
+
 # Artigo 151.º
 
 Nos concelhos cuja população e riqueza pecuária o justifiquem poderão ser criados partidos veterinários.

@@ -1,3 +1,11 @@
+## Título III
+
+## Das finanças distritais
+
+## Capítulo I
+
+## Da receita e despesa, orçamento e contabilidade
+
 # Artigo 83.º
 
 Constituem receita ordinária dos distritos autónomos:

@@ -1,3 +1,7 @@
+## Secção III
+
+## Constituïção, reüniões e deliberações
+
 # Artigo 258.º
 
 Nos anos em que deva proceder-se à constituição de nova junta de freguesia reunir-se-á esta no dia 15 de Novembro, para o efeito da verificação dos poderes dos seus membros, da eleição do presidente, secretário e tesoureiro e do representante da junta ao conselho municipal, nos casos indicados na primeira parte do § 1.º do artigo 16.º, continuando, porém, a antiga junta para tudo o mais em exercício de funções até 31 de Dezembro.

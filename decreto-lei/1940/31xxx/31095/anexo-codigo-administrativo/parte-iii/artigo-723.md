@@ -1,3 +1,7 @@
+## Secção III
+
+## Taxas
+
 # Artigo 723.º
 
 As câmaras municipais podem cobrar taxas:

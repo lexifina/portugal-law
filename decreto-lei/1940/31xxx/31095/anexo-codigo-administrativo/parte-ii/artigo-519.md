@@ -1,3 +1,11 @@
+## Secção III
+
+## Situações dos funcionários
+
+## Subsecção I
+
+## Quadro geral
+
 # Artigo 519.º
 
 Os funcionários do quadro geral administrativo podem encontrar-se, em relação à função pública que exercem, nas seguintes situações:

@@ -1,3 +1,7 @@
+## Subsecção III
+
+## Defesa do argüido
+
 # Artigo 598.º
 
 Os artigos de acusação serão remetidos ou entregues ao argüido, marcando-se-lhe um prazo, não inferior a cinco dias nem superior a vinte, para responder por escrito.

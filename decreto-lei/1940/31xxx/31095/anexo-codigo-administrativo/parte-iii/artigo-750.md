@@ -1,3 +1,7 @@
+## Capítulo II
+
+## Das despesas
+
 # Artigo 750.º
 
 Constituem despesas obrigatórias da administração municipal:

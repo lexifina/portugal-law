@@ -1,0 +1,1 @@
+Paços do Govêrno da República, 31 de Dezembro de 1940. - António Óscar de Fragoso Carmona - António de Oliveira Salazar - Mário Pais de Sousa - Adriano Pais da Silva Vaz Serra - João Pinto da Costa Leite - Manuel Ortins de Bettencourt - Duarte Pacheco - Francisco José Vieira Machado - Mário de Figueiredo - Rafael da Silva Neves Duque.

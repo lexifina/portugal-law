@@ -1,3 +1,7 @@
+## Secção II
+
+## Atribuïções e competência
+
 # Artigo 311.º
 
 As juntas de província têm atribuïções:

@@ -1,3 +1,11 @@
+## Capítulo III
+
+## Da comissão executiva
+
+## Secção I
+
+## Composição, atribuïções e funcionamento
+
 # Artigo 29.º
 
 No início de cada quadriénio a junta geral do distrito elegerá dois dos seus procuradores para, juntamente com o presidente da junta geral, constituírem a comissão executiva.

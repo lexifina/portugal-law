@@ -1,3 +1,7 @@
+## Secção V
+
+## Eleição e assembleas ou secções de voto
+
 # Artigo 230.º
 
 Os vogais das juntas de freguesia são eleitos por escrutínio secreto.

@@ -1,3 +1,11 @@
+## Título IV
+
+## Dos governadores dos distritos autónomos
+
+## Capítulo ÚNICO
+
+## Designação e competência
+
 # Artigo 98.º
 
 Nos distritos autónomos o governador civil tem a designação de «governador do distrito autónomo» e goza em todo o território da circunscrição das honras que competem aos Ministros de Estado, com precedência sôbre todas as autoridades civis, judiciais e militares que nêle sirvam, estacionem ou transitem, exceptuados o Presidente da República, o Presidente do Conselho, os Ministros, os Sub-Secretários de Estado e os presidentes do Supremo Tribunal de Justiça, da Assemblea Nacional e da Câmara Corporativa.

@@ -1,3 +1,7 @@
+## Subsecção II
+
+## Instrução do processo
+
 # Artigo 590.º
 
 Sempre que chegue ao conhecimento de qualquer autoridade ou corpo administrativo que um funcionário seu subordinado praticou infracção disciplinar punível, será pela mesma autoridade ou corpo administrativo instaurado o competente processo.

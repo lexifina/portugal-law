@@ -1,3 +1,7 @@
+## Subsecção II
+
+## Quadros privativos
+
 # Artigo 523.º
 
 Os funcionários dos quadros privativos podem encontrar-se, em relação à função pública que exercem, nas seguintes situações:

@@ -1,3 +1,11 @@
+## Título VII
+
+## Do distrito
+
+## Capítulo I
+
+## Do governador civil
+
 # Artigo 404.º
 
 Em cada distrito haverá um magistrado administrativo, imediato representante do Govêrno, com a designação de governador civil, e um substituto dêste, ambos nomeados pelo Ministro do Interior, ao qual ficam imediatamente subordinados, podendo ser por êle livremente exonerados ou demitidos.

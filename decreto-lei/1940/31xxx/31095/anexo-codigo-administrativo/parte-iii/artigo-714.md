@@ -1,3 +1,7 @@
+## Subsecção II
+
+## Impostos indirectos
+
 # Artigo 714.º
 
 Os impostos indirectos consistem em determinadas taxas lançadas sôbre os gados, géneros e artigos vendidos no concelho para consumo e devem constar de uma pauta estabelecida pela câmara.

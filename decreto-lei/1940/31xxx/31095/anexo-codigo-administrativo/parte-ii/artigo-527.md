@@ -1,3 +1,7 @@
+## Secção IV
+
+## Vencimentos
+
 # Artigo 527.º
 
 Os funcionários de secretaria e tesouraria têm os ordenados fixados no mapa anexo a êste Código.

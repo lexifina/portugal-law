@@ -1,3 +1,7 @@
+## Subsecção II
+
+## Concelhos urbanos
+
 # Artigo 59.º
 
 Nos concelhos urbanos de qualquer ordem incumbe às câmaras o exercício obrigatório das atribuïções:
