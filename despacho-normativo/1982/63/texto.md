@@ -1,0 +1,10 @@
+Despacho Normativo n.º 63/82
+Considerando a importância de que se reveste a próxima visita a Portugal de Sua Santidade o Papa João Paulo II;
+Considerando o espírito da recente decisão do Conselho de Ministros decretando feriado nacional o próximo dia 13 de Maio;
+Tendo em conta que, tradicionalmente, diversos funcionários do Estado e estudantes se ocupam, em regime de voluntariado, em tarefas de assistência aos peregrinos em Fátima;
+Considerando o procedimento já adoptado aquando da visita a Fátima de Sua Santidade o Papa Paulo VI:
+O Ministro da Reforma Administrativa, ao abrigo da delegação conferida pelo Primeiro-Ministro, e os Ministros da Educação e das Universidades e dos Assuntos Sociais determinam:
+1 - Gozam de dispensa de comparência ao serviço os funcionários públicos que, ocupados em tarefas de assistência aos peregrinos em Fátima, faltem aos respectivos locais de trabalho nos dias 8 a 15 de Maio do corrente ano, nos termos do n.º 3.
+2 - O disposto no número anterior é extensivo aos estudantes, relativamente aos estabelecimentos de ensino que frequentam, e, no âmbito dos estabelecimentos ou serviços adstritos ao Ministério dos Assuntos Sociais, especificamente a médicos, enfermeiros ou auxiliares de enfermagem e assistentes sociais.
+3 - As faltas dadas nas circunstâncias referidas nos números anteriores consideram-se justificados, e não são tomadas em conta para qualquer efeito, mediante a apresentação, até 7 de Maio ou nos 8 dias posteriores a 15 de Maio, no local de trabalho ou no estabelecimento de ensino respectivo, de declaração bastante, em nome do interessado, autenticada, e passada pela Pia União dos Servitas de Nossa Senhora de Fátima, com sede no Santuário de Fátima.
+Ministérios da Educação e das Universidades, dos Assuntos Sociais e da Reforma Administrativa, 5 de Abril de 1982. - O Ministro da Educação e das Universidades, Vítor Pereira Crespo. - O Ministro dos Assuntos Sociais, Luís Eduardo da Silva Barbosa. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
