@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que foram trocados, em Lisboa, em 22 de Março de 1972, entre o Ministro dos Negócios Estrangeiros de Portugal e o Embaixador do Brasil em Lisboa os instrumentos de ratificação da Convenção sobre Igualdade de Direitos e Deveres entre Brasileiros e Portugueses, assinada em Brasília em 7 de Setembro de 1971 e aprovada para ratificação por resolução da Assembleia Nacional, publicada no Diário do Governo, 1.ª série, n.º 302, de 29 de Dezembro de 1971.
+Direcção-Geral dos Negócios Políticos, 23 de Março de 1972. - O Director-Geral, Gonçalo Luís Maravilhas Correia Caldeira Coelho.
