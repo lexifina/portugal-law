@@ -1,0 +1,12 @@
+Portaria n.º 562/84
+de 4 de Agosto
+Considerando que a Lei Orgânica da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos confere às direcções de serviços regionais atribuições muito específicas;
+Considerando que daí decorre a necessidade de no perfil dos funcionários a prover nos respectivos cargos de director de serviços se incluir experiência de execução de obras hidráulicas, conservação e melhoramento de rede hidrográfica a nível regional e de supervisão das actividades de fiscalização e polícia das águas;
+Considerando que tal necessidade reduz acentuadamente a possibilidade de recrutamento entre técnicos com as categorias exigidas no n.º 2 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho;
+Considerando que neste caso se justifica o recurso, a título excepcional, ao disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho:
+Manda o Governo da República Portuguesa, pelo Ministro do Equipamento Social e pelo Secretário de Estado da Administração Pública, o seguinte:
+1.º É alargada a área de recrutamento para o provimento do cargo de director de serviços regionais de hidráulica a engenheiros civis principais.
+2.º O despacho de nomeação para provimento do cargo referido na presente portaria será acompanhado, para publicação, do currículo do nomeado.
+Presidência do Conselho de Ministros e Ministério do Equipamento Social.
+Assinada em 17 de Julho de 1984.
+O Ministro do Equipamento Social, João Rosado Correia. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
