@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=qUAFp27CBkIttcOxiLgk0FIFM%2benj3agWAdWp9f2uUE7DM89Hf79g0s6kJ1OpP%2b%2bV8tF1iVoXzUjf9MdNSMm4nwgUSw8wSK%2f8IWQGg3htMY3c5Ya6BFuH2nCggW0h1GujT%2bIUdPmA8SvTT3HpzcWjwY1Ytx02d%2b7d2kHzuJsMkIxOLhUMfluBDICsI431jugsRtyLdTkTs3iZNjh0bZeiTsuFJxPyR5N7XOGoIkmGpdUelnuD9Uv%2bK5tX%2fCtB3SYc9FZA1mlNR599B92fTx%2bndvsVfZla0grGGcMC1Ygbf5wdyt%2fcERRcbU8v%2fdkvPhkc3PKeJXfSzhOHsiR3Kxg%2fadV%2fCqpiI%2bSBylGrc6dYzg%3d&fich=IntervencoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "63246bfd185a5eb6b3d6f557ea72ee60968af9ce7c1a76c63b16943a173ed13f",
+  "legislatura": "VII",
+  "id": "55163",
+  "tipo": "Declaração de voto",
+  "orador": "Luís Marques Mendes (PSD)",
+  "data_registo": "1999-02-25",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "99633",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "4520",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Define princípios de referência para negociação pela parte portuguesa da Agenda 2000 e documentos conexos"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1999-02-25",
+    "Debate": "PJR 122-PCP",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "370",
+      "nome": "Luís Marques Mendes"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "55163",
+    "IdDebate": "747",
+    "Iniciativas": [
+      {
+        "fase": "Votação Deliberação",
+        "id": "4520",
+        "tipo": "Projeto de Resolução"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "55163",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1955-1955"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1999-02-26",
+        "pubLeg": "VII",
+        "pubNr": "52",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/052/1999-02-26/1955?pgs=1955&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "AGENDA 2000 ",
+    "Sessao": "4",
+    "Sumario": "AGENDA 2000: REFERENCIA PARA A NEGOCIACAO",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Declaração de voto"
+  }
+}
