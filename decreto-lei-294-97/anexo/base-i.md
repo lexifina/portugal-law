@@ -32,6 +32,8 @@ m) A 14/IP 3 - auto-estrada entre Santa Eulália e Coimbra (Norte), com a extens
 
 n) Ligação ao novo aeroporto, cuja extensão dependerá da respectiva localização.
 
+o) A 9/IC 18 - CREL - Circular Exterior de Lisboa, desde o Estádio Nacional (A 5) até Alverca, com a extensão de 34,4 km.
+
 2 - Integram também o objecto da concessão para efeitos de conservação e exploração, as seguintes auto-estradas:
 
 a) Construídas pelo Estado e ficando sujeitas ao regime de portagem, que reverterá para a concessionária:
@@ -52,13 +54,11 @@ Auto-estrada Figueira da Foz-Coimbra (Norte): lanço Figueira da Foz-Santa Eulá
 
 Auto-estrada Marateca-Caia: lanço Elvas-Caia, com a extensão de 19,1 km;
 
-c) Construídas pela concessionária e sem ficarem sujeitas ao pagamento de taxas de portagens:
+c) Construídas pela concessionária e sem ficarem sujeitas ao pagamento de taxas de portagem:
 
-Auto-estrada Porto-Valença: sublanço Porto-Maia, na extensão de 8,3 km;
+Auto-Estrada Porto-Valença: sublanço Porto-Maia, com a extensão de 8,3 km;
 
-Auto-estrada Porto (Águas Santas)-Amarante: entre Águas Santas e o nó de Ermesinde, com a extensão de 3 km;
-
-A 9 - CREL - Circular Regional Exterior de Lisboa - desde o Estádio Nacional (A 5) até Alverca, com a extensão de 34,4 km;
+Auto-Estrada Porto (Águas Santas)-Amarante: entre Águas Santas e o nó de Ermesinde, com a extensão de 3 km.
 
 d) Construídas pela concessionária e ficando sujeitas ao regime de portagem previsto nos n.os 10-A a 10-C da base XI:
 
@@ -81,3 +81,7 @@ a) Se uma das extremidades entroncar de nível com uma estrada da rede nacional,
 b) Enquanto não estiver prevista a construção do lanço ou sublanço que lhe fique contíguo, a sua extensão será provisoriamente determinada pela distância que medeia entre o último perfil transversal de auto-estrada construído e a entrar em serviço e o eixo da obra de arte da outra extremidade.
 
 7 - Os traçados de cada um dos lanços ou sublanços, bem como os respectivos nós e ramais de ligação, serão os que figurarem nos projectos aprovados.
+
+8 - O valor das taxas de portagem aplicado na A 7 - Auto-Estrada Famalicão-Guimarães, que respeitem a percursos que incluam a utilização do sublanço Porto-Maia, será deduzido do valor correspondente a este.
+
+9 - (Eliminado.)

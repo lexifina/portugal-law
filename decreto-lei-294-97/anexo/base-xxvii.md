@@ -16,6 +16,8 @@ b) Na A 2, Fogueteiro-Coina, Coina-Palmela e Palmela-nó de Setúbal até à ent
 
 c) Na A 5, Estádio Nacional-Oeiras e Oeiras-Carcavelos, até à entrada em serviço da totalidade do IC 17-CRIL.
 
+d) Na A 9 (CREL), Estádio Nacional (A 5) até Alverca (A 1), até à entrada em serviço da totalidade do IC 17-CRIL.
+
 3 - Sem prejuízo do disposto no n.º 1 desta base, a concessionária obriga-se a aumentar o número de vias nas auto-estradas existentes de acordo com a seguinte programação:
 
 (ver documento original)
@@ -32,9 +34,9 @@ d) A 4 - Águas Santas-Ermesinde;
 
 e) A 6 - Elvas-Caia;
 
-f) A 9 - CREL;
+f) A 4 - Figueira da Foz-Santa Eulália;
 
-g) A 14 - Figueira da Foz-Santa Eulália.
+g) (Alínea eliminada.)
 
 5 - Sempre que razões de ordem técnica e económica desaconselhem a aplicação da alínea b) do n.º 1 da presente base a algum dos lanços ou sublanços das auto-estradas concessionadas, poderá o Governo, mediante proposta da concessionária, devidamente fundamentada, autorizar, por decreto-lei, que em substituição das quartas vias sejam construídas, no âmbito da concessão, novas auto-estradas com portagem que constituam alternativas de escoamento de tráfego para aqueles sublanços.
 
