@@ -1,0 +1,22 @@
+Decreto-Lei n.º 563/70
+de 19 de Novembro
+O Decreto-Lei n.º 42454, de 18 de Agosto de 1959, que procurou facilitar a resolução do problema da habitação económica na cidade de Lisboa, já no seu artigo 25.º previa a desactualização de certos valores fixados no articulado, admitindo a revisão dos mesmos, decorridos que fossem três anos.
+Passaram dez anos sobre a publicação daquele diploma, mas não se procedeu ainda à prevista revisão.
+Entretanto, a experiência resultante da aplicação do mencionado decreto-lei, na execução de diversos planos, aconselha a que se proceda a uma criteriosa revisão do respectivo regime, de forma a ajuizar da possível conveniência de nele introduzir modificações tendentes ao seu aperfeiçoamento.
+Essa revisão, no entanto, pressupõe cuidadoso estudo, com audiência dos principais sectores interessados na execução do diploma, o que não poderá ser feito em muito curto prazo.
+Aliás, é natural que à revisão do diploma interessem as orientações gerais que o Governo venha a adoptar nas relevantes questões ligadas à chamada política dos solos, que estão dentro das suas preocupações.
+Sucede, porém, que a conhecida subida dos preços da construção civil, além de outros factores, tornou de impossível observância, em alguns casos, os valores-limites das rendas mensais estabelecidos no quadro constante do artigo 3.º do Decreto-Lei n.º 42454, o que acarreta a inexequibilidade de certos empreendimentos dentro daquele condicionalismo.
+Por isso, é imprescindível adoptar providência que evitem a paralisação da execução dos planos elaborados, até à ulterior revisão do regime do referido diploma.
+Nestas condições, como medida de carácter transitório confere-se ao Conselho de Ministros para os Assuntos Económicos o poder de fixar os mencionados valores-limites das rendas mensais.
+Paralelamente, no intuito de evitar possíveis prejuízos, quer para a Câmara Municipal de Lisboa, quer para as entidades que adquiram terrenos nos termos do artigo 3.º do Decreto-Lei n.º 42454, pela possível desactualização ou desajustamento dos critérios nele fixados para o efeito, atribui-se carácter provisório aos preços por que forem ajustadas as alienações de terrenos para aquele fim, até á revisão do respectivo regime legal, tendo em vista a sua eventual correcção, de harmonia com os critérios que vierem a ser adoptados nessa revisão.
+Assim se conciliará o imediato prosseguimento da execução dos empreendimentos, a que se reconhece a maior urgência, com a justa e equilibrada salvaguarda dos interesses das diversas entidades empenhadas nos planos.
+Considerando a natureza das atribuições conferidas por lei ao Fundo de Fomento da Habitação, aproveita-se a oportunidade para extinguir a comissão de habitação criada pelo artigo 7.º do Decreto-Lei n.º 42454, transferindo as suas funções para o conselho directivo do mencionado Fundo.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Até à revisão do Decreto-Lei n.º 42454, de 18 de Agosto de 1959, os valores-limites das rendas mensais a observar nas habitações a construir nos termos do artigo 3.º daquele diploma serão fixados pelo Conselho de Ministros para os Assuntos Económicos, mediante proposta do Fundo de Fomento da Habitação, em função dos valores das adjudicações das construções e dos demais encargos a que deva atender-se.
+Art. 2.º Se a revisão a que se refere o artigo anterior conduzir à alteração dos critérios legais sobre os preços de alienação de terrenos pela Câmara Municipal de Lisboa, nos termos do artigo 3.º do citado diploma, serão corrigidos, de harmonia com os critérios que vierem a ser adoptados, os preços por que forem ajustadas as alienações na pendência da situação prevista no artigo 1.º do presente decreto-lei.
+Art. 3.º A comissão de habitação a que se refere o artigo 7.º do Decreto-Lei n.º 42454 será extinta, passando as suas funções a ser desempenhadas pelo conselho directivo de Fundo de Fomento da Habitação.
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
+Promulgado em 2 de Novembro de 1970.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
