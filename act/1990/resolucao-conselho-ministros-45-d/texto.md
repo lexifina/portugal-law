@@ -1,0 +1,15 @@
+Resolução do Conselho de Ministros n.º 45-D/90
+Considerando o disposto na Lei n.º 11/90, de 5 de Abril, e no Decreto-Lei n.º 170-B/90, de 26 de Maio, que permitiu a alienação faseada das acções do Banco Totta & Açores, S. A.;
+Considerando que o conselho de administração do Banco Totta & Açores, S. A., nos termos da autorização conferida pelos estatutos da sociedade, pretende aumentar o capital social, de 25000000000$00 para 30000000000$00, com reserva de preferência para os actuais accionistas;
+Considerando o determinado no n.º 4 do artigo 1.º do Decreto-Lei n.º 170-B/90, de 26 de Maio, e a competência atribuída ao Conselho de Ministros pelo disposto no seu artigo 10.º;
+Assim:
+Nos termos das alíneas d) e g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1.º Proceder à alienação dos direitos de preferência no aumento de capital social do Banco Totta & Açores, S. A., de 25000000000$00 para 30000000000$00, relativos à totalidade das acções detidas pelo Estado.
+2.º Reservar para os trabalhadores do Banco Totta & Açores, S. A., bem como para aqueles que hajam mantido vínculo laboral, durante mais de três anos, com o Banco Totta & Açores, E. P., ou com as empresas privadas de cuja nacionalização ele resultou, para os pequenos subscritores e para os emigrantes, 20% dos referidos direitos de subscrição, podendo individualmente ser adquirido um número de direitos que corresponda à subscrição de 20 acções, no máximo.
+3.º Para efeitos do previsto no número anterior, consideram-se também abrangidos os titulares dos órgãos sociais e os trabalhadores com contratos a prazo.
+4.º Para os actuais accionistas do Banco Totta & Açores, S. A., são reservados 40% dos direitos de subscrição, devendo o número máximo de direitos a adquirir ser proporcional ao número de acções de que cada um seja titular, com arredondamento por defeito.
+5.º Os restantes direitos e aqueles que não forem adquiridos ao abrigo do disposto nos n.os 2.º, 3.º e 4.º serão oferecidos para aquisição pelos depositantes e residentes detentores de títulos de participação e de obrigações, e ao público em geral, de acordo com os pedidos formulados, sujeitos a rateio, se disso for caso.
+6.º A alienação dos direitos de subscrição para os trabalhadores, como referido no n.º 2.º, será feita sem encargos para estes, mas implica um período de três meses para a intransmissibilidade das acções assim adquiridas.
+7.º A alienação dos direitos de subscrição para todas as outras categorias de subscritores será feita ao preço fixo de 100$00 pelo conjunto de direitos necessários à subscrição de uma acção, a liquidar conjuntamente com o preço de emissão, sendo as ordens de compra dos direitos de subscrição das acções correspondentes dadas em simultâneo.
+8.º Para a realização da operação de alienação de direitos de subscrição de acções são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para a venda e determinação das demais condições que se afigurarem convenientes.
+Presidência do Conselho de Ministros, 13 de Dezembro de 1990. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
