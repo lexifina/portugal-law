@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que o Governo da Islândia depositou junto do Governo Francês o instrumento de adesão ao Protocolo Relativo à Proibição do Emprego na Guerra de Gases Asfixiantes, Tóxicos ou Similares e de Meios Bacteriológicos, assinado em Genebra em 17 de Junho de 1925. Conforme as disposições do referido Protocolo, aquela adesão produz efeito a partir de 2 de Novembro de 1967, dia da respectiva notificação feita pelo Governo da República Francesa.
+Direcção-Geral dos Negócios Políticos, 11 de Março de 1968. - O Director-Geral, Gonçalo Luís Maravilhas Correia Caldeira Coelho.
