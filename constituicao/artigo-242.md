@@ -2,4 +2,4 @@
 
 ### (Poder regulamentar)
 
-A assembleia das autarquias locais terá competência regulamentar própria nos limites da Constituição, das leis e dos regulamentos emanados das autarquias de grau superior ou das autoridades com poder tutelar.
+As autarquias locais dispõem de poder regulamentar próprio nos limites da Constituição, das leis e dos regulamentos emanados das autarquias de grau superior ou das autoridades com poder tutelar.

@@ -2,9 +2,9 @@
 
 ### (Ensino)
 
-1. O Estado reconhece e garante a todos os cidadãos o direito ao ensino e à igualdade de oportunidades na formação escolar.
+1. Todos têm o direito ao ensino com garantia do direito à igualdade de oportunidades de acesso e êxito escolar.
 
-2. O Estado deve modificar o ensino de modo a superar a sua função conservadora da divisão social do trabalho.
+2. O ensino deve ser modificado de modo a superar qualquer função conservadora de desigualdades económicas, sociais e culturais.
 
 3. Na realização da política de ensino incumbe ao Estado:
 
@@ -18,6 +18,8 @@ d) Garantir a todos os cidadãos, segundo as suas capacidades, o acesso aos grau
 
 e) Estabelecer progressivamente a gratuitidade de todos os graus de ensino;
 
-f) Estabelecer a ligação do ensino com as actividades produtivas e sociais;
+f) Inserir as escolas nas comunidades que servem e estabelecer a interligação do ensino e das actividades económicas, sociais e culturais;
 
-g) Estimular a formação de quadros científicos e técnicos originários das classes trabalhadoras.
+g) Promover e apoiar o ensino especial para deficientes;
+
+h) Assegurar aos filhos dos emigrantes o ensino da língua portuguesa e o acesso à cultura portuguesa.

@@ -17,3 +17,5 @@ c) Orientar a sua acção para a socialização da medicina e dos sectores médi
 d) Disciplinar e controlar as formas empresariais e privadas da medicina, articulando-as com o serviço nacional de saúde;
 
 e) Disciplinar e controlar a produção, a comercialização e o uso dos produtos químicos, biológicos e farmacêuticos e outros meios de tratamento e diagnóstico.
+
+4. O serviço nacional de saúde tem gestão descentralizada e participada.

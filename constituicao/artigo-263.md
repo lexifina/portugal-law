@@ -4,10 +4,8 @@
 
 # Artigo 263.º
 
-### (Distritos)
+### (Constituição e área)
 
-1. Enquanto as regiões não estiverem instituídas, subsistirá a divisão distrital.
+1. A fim de intensificar a participação das populações na vida administrativa local podem ser constituídas organizações populares de base territorial correspondentes a áreas inferiores à da freguesia.
 
-2. Haverá em cada distrito, em termos a definir por lei, uma assembleia deliberativa, composta por representantes dos municípios e presidida pelo governador civil.
-
-3. Compete ao governador civil, assistido por um conselho, representar o Governo e exercer os poderes de tutela na área do distrito.
+2. A assembleia de freguesia, por sua iniciativa, ou a requerimento de comissões de moradores ou de um número significativo de moradores, demarcará as áreas territoriais das organizações referidas no número anterior, solucionando os eventuais conflitos daí resultantes.

@@ -1,11 +1,11 @@
 # Artigo 265.º
 
-### (Estrutura)
+### (Funções)
 
-1. A estrutura das organizações populares de base territorial será a fixada na lei e compreende a assembleia de moradores e a comissão de moradores.
+1. As organizações populares de base territorial têm direito:
 
-2. A assembleia dos moradores é composta pelos residentes inscritos no recenseamento da freguesia e pelos não inscritos maiores de 16 anos que comprovem, documentalmente, a sua qualidade de residentes.
+a) De petição perante as autarquias locais relativamente a assuntos administrativos de interesse dos moradores;
 
-3. A assembleia reúne quando convocada publicamente, com a devida antecedência, pelo menos, por vinte dos seus membros ou pela comissão de moradores.
+b) De participação, sem voto, através de representantes seus, na assembleia de freguesia.
 
-4. A comissão de moradores é eleita, por escrutínio secreto, pela assembleia dos moradores e por ela livremente destituída.
+2. Às organizações populares de base territorial compete realizar as tarefas que a lei lhes confiar ou os órgãos de freguesia nelas delegarem.

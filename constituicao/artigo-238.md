@@ -6,6 +6,6 @@
 
 2. As regiões autónomas dos Açores e da Madeira compreendem freguesias e municípios.
 
-3. Nas grandes áreas metropolitanas a lei poderá estabelecer, de acordo com as suas condições específicas, outras formas de organização territorial autárquica.
+3. Nas grandes áreas urbanas e nas ilhas, a lei poderá estabelecer, de acordo com as suas condições específicas, outras formas de organização territorial autárquica.
 
 4. A divisão administrativa do território será estabelecida por lei.

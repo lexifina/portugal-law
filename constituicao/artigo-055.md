@@ -1,13 +1,17 @@
 # Artigo 55.º
 
-### (Comissões de trabalhadores)
+### (Direitos das comissões de trabalhadores)
 
-1. É direito dos trabalhadores criarem comissões de trabalhadores para defesa dos seus interesses e intervenção democrática na vida da empresa, visando o reforço da unidade das classes trabalhadoras e a sua mobilização para o processo revolucionário de construção do poder democrático dos trabalhadores.
+Constituem direitos das comissões de trabalhadores:
 
-2. As comissões são eleitas em plenários de trabalhadores por voto directo e secreto.
+a) Receber todas as informações necessárias ao exercício da sua actividade;
 
-3. O estatuto das comissões deve ser aprovado em plenário de trabalhadores.
+b) Exercer o controlo de gestão nas empresas;
 
-4. Os membros das comissões gozam da protecção legal reconhecida aos delegados sindicais.
+c) Intervir na reorganização das unidades produtivas;
 
-5. Podem ser criadas comissões coordenadoras para melhor intervenção na reestruturação económica e por forma a garantir os interesses dos trabalhadores.
+d) Participar na elaboração da legislação do trabalho e dos planos económico-sociais que contemplem o respectivo sector;
+
+e) Gerir ou participar na gestão das obras sociais da empresa;
+
+f) Promover a eleição de representantes dos trabalhadores para os órgãos sociais de empresas pertencentes ao Estado ou a outras entidades públicas, nos termos da lei.

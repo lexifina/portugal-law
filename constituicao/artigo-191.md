@@ -2,4 +2,4 @@
 
 ### (Programa do Governo)
 
-Do programa do Governo constarão as principais medidas políticas e legislativas a adoptar ou a propor ao Presidente da República ou à Assembleia da República para execução da Constituição.
+Do programa do Governo constarão as principais orientações políticas e medidas a adoptar ou a propor nos diversos domínios da actividade governamental.

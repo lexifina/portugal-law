@@ -1,6 +1,6 @@
 # Artigo 16.º
 
-### (Extensão dos direitos)
+### (Âmbito e sentido dos direitos fundamentais)
 
 1. Os direitos fundamentais consagrados na Constituição não excluem quaisquer outros constantes das leis e das regras aplicáveis de direito internacional.
 

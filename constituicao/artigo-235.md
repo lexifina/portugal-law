@@ -1,19 +1,13 @@
-## Título VIII
-
-## Poder local
-
-## Capítulo I
-
-## Princípios gerais
-
 # Artigo 235.º
 
-### (Decretos regionais)
+### (Assinatura e veto do Ministro da República)
 
-1. Os decretos regionais, bem como os regulamentos das leis gerais da República, são enviados ao Ministro da República para serem assinados e publicados.
+1. Compete ao Ministro da República assinar e mandar publicar os decretos legislativos regionais e os decretos regulamentares regionais.
 
-2. No prazo de quinze dias, contados da recepção de qualquer dos diplomas previstos no número anterior, o Ministro da República pode, em mensagem fundamentada, exercer o direito de veto, solicitando nova apreciação do diploma.
+2. No prazo de quinze dias, contados da recepção de qualquer decreto da assembleia regional que lhe haja sido enviado para assinatura, ou da publicação da decisão do Tribunal Constitucional que não se pronuncie pela inconstitucionalidade de norma dele constante, deve o Ministro da República assiná-lo ou exercer o direito de veto, solicitando nova apreciação do diploma em mensagem fundamentada.
 
-3. Se a assembleia regional confirmar o voto por maioria absoluta dos seus membros em efectividade de funções, a assinatura não poderá ser recusada.
+3. Se a assembleia regional confirmar o voto por maioria absoluta dos seus membros em efectividade de funções, o Ministro da República deverá assinar o diploma no prazo de oito dias, a contar da sua recepção.
 
-4. Se, porém, entender que o diploma é inconstitucional, o Ministro da República poderá suscitar a questão da inconstitucionalidade perante o Conselho da Revolução, nos termos e para os efeitos dos artigos 277.º e 278.º, com as devidas adaptações.
+4. No prazo de vinte dias, contados da recepção de qualquer decreto do governo regional que lhe tenha sido enviado para assinatura, deve o Ministro da República assiná-lo ou recusar a assinatura, comunicando por escrito o sentido dessa recusa ao governo regional, o qual poderá converter o decreto em proposta a apresentar à assembleia regional.
+
+5. O Ministro da República exerce ainda o direito de veto, nos termos dos artigos 278.º e 279.º

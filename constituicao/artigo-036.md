@@ -13,3 +13,5 @@
 5. Os pais têm o direito e o dever de educação dos filhos.
 
 6. Os filhos não podem ser separados dos pais, salvo quando estes não cumpram os seus deveres fundamentais para com eles e sempre mediante decisão judicial.
+
+7. A adopção é regulada e protegida nos termos da lei.

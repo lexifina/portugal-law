@@ -1,5 +1,5 @@
 # Artigo 193.º
 
-### (Responsabilidade política do Governo)
+### (Responsabilidade do Governo)
 
-O Governo é politicamente responsável perante o Presidente da República e a Assembleia da República.
+O Governo é responsável perante o Presidente da República e a Assembleia da República.

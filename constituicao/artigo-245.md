@@ -1,3 +1,7 @@
+## Capítulo II
+
+## Freguesia
+
 # Artigo 245.º
 
 ### (Órgãos da freguesia)

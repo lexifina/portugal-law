@@ -4,16 +4,20 @@
 
 1. Compete ao Presidente da República, na prática de actos próprios:
 
-a) Exercer o cargo de Comandante Supremo das Forças Armadas;
+a) Exercer as funções de Comandante Supremo das Forças Armadas;
 
-b) Promulgar e mandar publicar as leis da Assembleia da República e os decretos-leis e decretos regulamentares do Conselho da Revolução e do Governo, bem como assinar os restantes decretos;
+b) Promulgar e mandar publicar as leis, os decretos-leis e os decretos regulamentares, bem como assinar os restantes decretos do Governo;
 
-c) Declarar o estado de sítio ou o estado de emergência, mediante autorização do Conselho da Revolução, em todo ou em parte do território nacional, nos casos de agressão efectiva ou iminente por forças estrangeiras, de grave ameaça ou perturbação da ordem democrática ou de calamidade pública;
+c) Declarar o estado de sítio ou o estado de emergência, observado o disposto nos artigos 19.º e 141.º;
 
-d) Pronunciar-se sobre todas as emergências graves para a vida da República, ouvido o Conselho da Revolução;
+d) Pronunciar-se sobre todas as emergências graves para a vida da República;
 
-e) Indultar e comutar penas.
+e) Indultar e comutar penas ouvido o Governo;
 
-2. A falta de promulgação ou de assinatura determina a inexistência jurídica do acto.
+f) Requerer ao Tribunal Constitucional a apreciação preventiva da constitucionalidade de normas constantes de leis, decretos-leis e convenções internacionais;
 
-3. O estado de sítio ou o estado de emergência não podem prolongar-se para além de trinta dias sem ratificação pela Assembleia da República.
+g) Requerer ao Tribunal Constitucional a declaração da inconstitucionalidade de normas jurídicas, bem como a verificação da existência de inconstitucionalidade por omissão;
+
+h) Praticar os actos relativos ao território de Macau previstos no respectivo estatuto;
+
+i) Conferir condecorações, nos termos da lei, e exercer a função de grão-mestre das ordens honoríficas portuguesas.

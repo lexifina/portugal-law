@@ -1,15 +1,15 @@
-## Título II
+## Capítulo II
 
-## Revisão constitucional
+## Tribunal Constitucional
 
 # Artigo 284.º
 
-### (Competência)
+### (Composição)
 
-Compete à Comissão Constitucional:
+1. O Tribunal Constitucional é composto por treze juízes, sendo dez designados pela Assembleia da República e três cooptados por estes.
 
-a) Dar obrigatoriamente parecer sobre a constitucionalidade dos diplomas que hajam de ser apreciados pelo Conselho da Revolução, nos termos do artigo 277.º e n.º 1 do artigo 281.º;
+2. Três dos juízes designados pela Assembleia da República e os três juízes cooptados são obrigatoriamente escolhidos de entre juízes dos restantes tribunais, e os demais de entre juristas.
 
-b) Dar obrigatoriamente parecer sobre a existência de violação das normas constitucionais por omissão, nos termos e para os efeitos do artigo 279.º;
+3. Os juízes do Tribunal Constitucional são designados por seis anos.
 
-c) Julgar as questões de inconstitucionalidade que lhe sejam submetidas, nos termos do artigo 282.º
+4. O presidente do Tribunal Constitucional é eleito pelos respectivos juízes.

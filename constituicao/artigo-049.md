@@ -1,7 +1,7 @@
 # Artigo 49.º
 
-### (Direito de petição e acção popular)
+### (Direito de sufrágio)
 
-1. Todos os cidadãos podem apresentar, individual ou colectivamente, aos órgãos de soberania ou a quaisquer autoridades petições, representações, reclamações ou queixas para defesa dos seus direitos, da Constituição e das leis ou do interesse geral.
+1. Têm direito de sufrágio todos os cidadãos maiores de dezoito anos, ressalvadas as incapacidades previstas na lei geral.
 
-2. É reconhecido o direito de acção popular, nos casos e nos termos previstos na lei.
+2. O exercício do direito de sufrágio é pessoal e constitui um dever cívico.

@@ -1,5 +1,7 @@
 # Artigo 142.º
 
-### (Definição)
+### (Actos do Presidente da República interino)
 
-O Conselho da Revolução tem funções de Conselho do Presidente da República e de garante do regular funcionamento das instituições democráticas, de garante do cumprimento da Constituição e da fidelidade ao espírito da Revolução Portuguesa de 25 de Abril de 1974 e de órgão político e legislativo em matéria militar.
+1. O Presidente da República interino não pode praticar qualquer dos actos previstos nas alíneas e) e n) do artigo 136.º
+
+2. O Presidente da República interino só pode praticar qualquer dos actos previstos nas alíneas b), c), f), m) e p) do artigo 136.º, na alínea a) do artigo 137.º e na alínea a) do artigo 138.º, após audição do Conselho de Estado.

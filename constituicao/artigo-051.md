@@ -1,9 +1,9 @@
 # Artigo 51.º
 
-### (Direito ao trabalho)
+### (Associações e partidos políticos)
 
-1. Todos têm direito ao trabalho.
+1. A liberdade de associação compreende o direito de constituir ou participar em associações e partidos políticos e de através deles concorrer democraticamente para a formação da vontade popular e a organização do poder político.
 
-2. O dever de trabalhar é inseparável do direito ao trabalho, excepto para aqueles que sofram diminuição de capacidade por razões de idade, doença ou invalidez.
+2. Ninguém pode estar inscrito simultaneamente em mais de um partido político nem ser privado do exercício de qualquer direito por estar ou deixar de estar inscrito em algum partido legalmente constituído.
 
-3. Todos têm o direito de escolher livremente a profissão ou o género de trabalho, salvas as restrições legais impostas pelo interesse colectivo ou inerentes à sua própria capacidade.
+3. Os partidos políticos não podem, sem prejuízo da filosofia ou ideologia inspiradora do seu programa, usar denominação que contenha expressões directamente relacionadas com quaisquer religiões ou igrejas, bem como emblemas confundíveis com símbolos nacionais ou religiosos.

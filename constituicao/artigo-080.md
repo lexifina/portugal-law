@@ -8,6 +8,18 @@
 
 # Artigo 80.º
 
-### (Fundamento da organização económico-social)
+### (Princípios fundamentais)
 
-A organização económico-social da República Portuguesa assenta no desenvolvimento das relações de produção socialistas, mediante a apropriação colectiva dos principais meios de produção e solos, bem como dos recursos naturais, e o exercício do poder democrático das classes trabalhadoras.
+A organização económico-social assenta nos seguintes princípios:
+
+a) Subordinação do poder económico ao poder político democrático;
+
+b) Coexistência dos diversos sectores de propriedade, público, privado e cooperativo;
+
+c) Apropriação colectiva dos principais meios de produção e solos, bem como dos recursos naturais;
+
+d) Planificação democrática da economia;
+
+e) Desenvolvimento da propriedade social;
+
+f) Intervenção democrática dos trabalhadores.

@@ -1,13 +1,11 @@
 # Artigo 54.º
 
-### (Obrigações do Estado quanto aos direitos dos trabalhadores)
+### (Comissões de trabalhadores)
 
-Incumbe ao Estado assegurar as condições de trabalho, retribuição e repouso a que os trabalhadores têm direito, nomeadamente:
+1. É direito dos trabalhadores criarem comissões de trabalhadores para defesa dos seus interesses e intervenção democrática na vida da empresa.
 
-a) O estabelecimento e a actualização do salário mínimo nacional, bem como do salário máximo, tendo em conta, entre outros factores, as necessidades dos trabalhadores, o aumento do custo de vida, o nível de desenvolvimento das forças produtivas, as exigências da estabilidade económica e financeira e a acumulação para o desenvolvimento;
+2. Os plenários de trabalhadores deliberam a constituição, aprovam os estatutos e elegem, por voto directo e secreto, os membros das comissões de trabalhadores.
 
-b) A fixação de um horário nacional de trabalho;
+3. Podem ser criadas comissões coordenadoras para melhor intervenção na reestruturação económica e por forma a garantir os interesses dos trabalhadores.
 
-c) A especial protecção do trabalho das mulheres durante a gravidez e após o parto, bem como do trabalho dos menores, dos diminuídos e dos que desempenhem actividades particularmente violentas ou em condições insalubres, tóxicas ou perigosas;
-
-d) O desenvolvimento sistemático de uma rede de centros de repouso e de férias, em cooperação com organizações sociais.
+4. Os membros das comissões gozam da protecção legal reconhecida aos delegados sindicais.

@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Competência
-
 # Artigo 161.º
 
 ### (Direitos e regalias)

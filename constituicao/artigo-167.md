@@ -1,45 +1,31 @@
 # Artigo 167.º
 
-### (Reserva de competência legislativa)
+### (Reserva absoluta de competência legislativa)
 
 É da exclusiva competência da Assembleia da República legislar sobre as seguintes matérias:
 
 a) Aquisição, perda e reaquisição da cidadania portuguesa;
 
-b) Estado e capacidade das pessoas;
+b) Definição dos limites das águas territoriais, da zona económica exclusiva e dos direitos de Portugal aos fundos marinhos contíguos;
 
-c) Direitos, liberdades e garantias;
+c) Regimes do estado de sítio e do estado de emergência;
 
-d) Regimes do estado de sítio e do estado de emergência;
+d) Associações e partidos políticos;
 
-e) Definição dos crimes, penas e medidas de segurança e processo criminal, salvo o disposto na alínea a) do n.º 1 do artigo 148.º;
+e) Bases do sistema de ensino;
 
-f) Eleições dos titulares dos órgãos de soberania, das regiões autónomas e do poder local;
+f) Eleições dos titulares dos órgãos de soberania, das regiões autónomas e do poder local, bem como dos restantes órgãos constitucionais;
 
-g) Associações e partidos políticos;
+g) Estatuto dos titulares dos órgãos de soberania e do poder local, do Conselho de Estado e do Provedor de Justiça, incluindo o regime das respectivas remunerações;
 
-h) Organização das autarquias locais;
+h) Organização, funcionamento e processo do Tribunal Constitucional;
 
-i) Participação das organizações populares de base no exercício do poder local;
+i) Inclusão na jurisdição dos tribunais militares de crimes dolosos equiparáveis aos crimes essencialmente militares, nos termos do n.º 2 do artigo 218.º;
 
-j) Organização e competência dos tribunais e do Ministério Público e estatuto dos respectivos magistrados, salvo quanto aos tribunais militares, sem prejuízo do disposto no n.º 2 do artigo 218.º;
+j) Regime de criação, extinção e modificação territorial das autarquias locais;
 
-l) Organização da defesa nacional e definição dos deveres desta decorrentes;
+l) Consultas directas aos eleitores a nível local;
 
-m) Regime e âmbito da função pública e responsabilidade civil da Administração;
+m) Restrições ao exercício de direitos por militares e agentes militarizados dos quadros permanentes em serviço efectivo;
 
-n) Bases do sistema de ensino;
-
-o) Criação de impostos e sistema fiscal;
-
-p) Definição dos sectores de propriedade dos meios de produção, incluindo a dos sectores básicos nos quais é vedada a actividade às empresas privadas e a outras entidades da mesma natureza;
-
-q) Meios e formas de intervenção e de nacionalização e socialização dos meios de produção, bem como critérios de fixação de indemnizações;
-
-r) Bases da reforma agrária, incluindo os critérios de fixação dos limites máximos das unidades de exploração agrícola privada;
-
-s) Sistema monetário e padrão de pesos e medidas;
-
-t) Sistema de planeamento, composição do Conselho Nacional do Plano, determinação das regiões-plano e definição do esquema dos órgãos de planificação regional;
-
-u) Remuneração do Presidente da República, dos Deputados, dos membros do Governo e dos juízes dos tribunais superiores.
+n) Organização da defesa nacional, definição dos deveres dela decorrentes e bases gerais da organização, do funcionamento e da disciplina das Forças Armadas.

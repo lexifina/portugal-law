@@ -1,11 +1,9 @@
 # Artigo 23.º
 
-### (Extradição e expulsão)
+### (Provedor de Justiça)
 
-1. Não são admitidas a extradição e a expulsão de cidadãos portugueses do território nacional.
+1. Os cidadãos podem apresentar queixas por acções ou omissões dos poderes públicos ao Provedor de Justiça, que as apreciará sem poder decisório, dirigindo aos órgãos competentes as recomendações necessárias para prevenir e reparar injustiças.
 
-2. Não é admitida a extradição por motivos políticos.
+2. A actividade do Provedor de Justiça é independente dos meios graciosos e contenciosos previstos na Constituição e nas leis.
 
-3. Não há extradição por crimes a que corresponda pena de morte segundo o direito do Estado requisitante.
-
-4. A extradição e a expulsão só podem ser decididas por autoridade judicial.
+3. O Provedor de Justiça é designado pela Assembleia da República.

@@ -4,6 +4,6 @@
 
 # Artigo 249.º
 
-### (Concelhos e municípios)
+### (Modificação dos municípios)
 
-Os concelhos existentes são os municípios previstos na Constituição, podendo a lei criar outros ou extinguir os que forem manifestamente inviáveis.
+A criação ou a extinção de municípios, bem como a alteração da respectiva área, é efectuada por lei, precedendo consulta dos órgãos das autarquias abrangidas.

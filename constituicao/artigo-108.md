@@ -1,25 +1,23 @@
-## Parte III
-
-## Organização do poder político
-
-## Título I
-
-## Princípios gerais
-
 # Artigo 108.º
 
 ### (Orçamento)
 
-1. A lei do orçamento, a votar anualmente pela Assembleia da República, conterá:
+1. O Orçamento do Estado contém:
 
-a) A discriminação das receitas e a das despesas na parte respeitante às dotações globais correspondentes às funções e aos Ministérios e Secretarias de Estado;
+a) A discriminação das receitas e despesas do Estado;
 
-b) As linhas fundamentais de organização do orçamento da segurança social.
+b) O orçamento da segurança social.
 
-2. O Orçamento Geral do Estado será elaborado pelo Governo, de harmonia com a lei do orçamento e o Plano e tendo em conta as obrigações decorrentes de lei ou de contrato.
+2. O Orçamento é elaborado de harmonia com as opções do Plano e tendo em conta as obrigações decorrentes de lei ou de contrato.
 
-3. O Orçamento será unitário e especificará as despesas, de modo a evitar a existência de dotações ou fundos secretos.
+3. A proposta de Orçamento é apresentada pelo Governo e votada na Assembleia da República, nos termos da lei.
 
-4. O Orçamento deverá prever as receitas necessárias para cobrir as despesas, definindo a lei as regras de elaboração e execução e o período de vigência do Orçamento, bem como as condições de recurso ao crédito público.
+4. A proposta de Orçamento é acompanhada de relatório justificativo das variações das previsões das receitas e despesas relativamente ao Orçamento anterior e ainda de relatórios sobre a dívida pública e as contas do Tesouro, bem como da situação dos fundos e serviços autónomos.
 
-5. A execução do Orçamento será fiscalizada pelo Tribunal de Contas e pela Assembleia da República, que, precedendo parecer daquele tribunal, apreciará e aprovará a Conta Geral do Estado, incluindo a da segurança social.
+5. O Orçamento é unitário e especifica as despesas segundo a respectiva classificação orgânica e funcional, de modo a impedir a existência de dotações e fundos secretos.
+
+6. O Orçamento deve prever as receitas necessárias para cobrir as despesas, definindo a lei as regras da sua execução, bem como as condições de recurso ao crédito público.
+
+7. A proposta de Orçamento é apresentada e votada nos prazos fixados na lei, a qual prevê os procedimentos a adoptar quando aqueles não puderem ser cumpridos.
+
+8. A execução do Orçamento será fiscalizada pelo Tribunal de Contas e pela Assembleia da República, que, precedendo parecer daquele tribunal, apreciará e aprovará a Conta Geral do Estado, incluindo a da segurança social.

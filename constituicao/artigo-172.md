@@ -2,10 +2,8 @@
 
 ### (Ratificação de decretos-leis)
 
-1. No caso de decretos-leis publicados pelo Governo durante o funcionamento da Assembleia da República, considerar-se-á concedida a ratificação se, nas primeiras quinze reuniões posteriores à publicação do diploma, cinco Deputados, pelo menos, não requererem a sua sujeição a ratificação.
+1. Os decretos-leis, salvo os aprovados no exercício da competência legislativa exclusiva do Governo, podem ser submetidos a apreciação da Assembleia da República, para efeitos de alteração ou de recusa de ratificação, a requerimento de dez Deputados, nas primeiras dez reuniões plenárias subsequentes à publicação.
 
-2. No caso de decretos-leis publicados pelo Governo fora do funcionamento da Assembleia da República ou no uso de autorizações legislativas, considerar-se-á concedida a ratificação se, nas primeiras cinco reuniões posteriores à publicação do diploma, vinte Deputados, pelo menos, não requererem a sua sujeição a ratificação.
+2. Requerida a apreciação, e no caso de serem apresentadas propostas de alteração, a Assembleia poderá suspender, no todo ou em parte, a vigência do decreto-lei até à publicação da lei que o vier a alterar ou até à rejeição de todas aquelas propostas.
 
-3. A ratificação pode ser concedida com emendas e, neste caso, o decreto-lei ficará alterado nos termos da lei que a Assembleia votar.
-
-4. Se a ratificação for recusada, o decreto-lei deixará de vigorar desde o dia em que a resolução for publicada no Diário da República.
+3. Se a ratificação for recusada, o decreto-lei deixará de vigorar desde o dia em que a resolução for publicada no Diário da República e não poderá voltar a ser publicado no decurso da mesma sessão legislativa.

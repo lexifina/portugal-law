@@ -1,9 +1,7 @@
 # Artigo 141.º
 
-### (Referenda ministerial)
+### (Declaração do estado de sítio ou do estado de emergência)
 
-1. Carecem de referenda do Governo os actos do Presidente da República praticados ao abrigo das alíneas g), i) e l) do artigo 136.º, b), c) e e) do n.º 1 do artigo 137.º e a), b) e c) do artigo 138.º
+1. A declaração do estado de sítio ou do estado de emergência depende de audição do Governo e de autorização da Assembleia da República ou, quando esta não estiver reunida nem for possível a sua reunião imediata, da respectiva Comissão Permanente.
 
-2. A promulgação dos actos do Conselho da Revolução previstos na alínea b) do n.º 1 do artigo 137.º só carece de referenda quando envolvam aumento de despesa ou diminuição de receita.
-
-3. A falta de referenda determina a inexistência jurídica do acto.
+2. A declaração do estado de sítio ou do estado de emergência, quando autorizada pela Comissão Permanente da Assembleia da República, terá de ser ratificada pelo Plenário logo que seja possível reuni-lo.

@@ -7,3 +7,5 @@
 2. O Estado não pode atribuir-se o direito de programar a educação e a cultura segundo quaisquer directrizes filosóficas, estéticas, políticas, ideológicas ou religiosas.
 
 3. O ensino público não será confessional.
+
+4. É garantido o direito de criação de escolas particulares e cooperativas.

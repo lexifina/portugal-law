@@ -2,4 +2,6 @@
 
 ### (Conselho municipal)
 
-O conselho municipal é o órgão consultivo do município, sendo a sua composição definida por lei, de modo a garantir adequada representação às organizações económicas, sociais, culturais e profissionais existentes na respectiva área.
+1. A assembleia municipal pode instituir, como órgão consultivo, um conselho municipal.
+
+2. A lei define as regras de composição do conselho municipal, de modo a garantir adequada representação às organizações económicas, sociais, culturais e profissionais existentes na área do município.

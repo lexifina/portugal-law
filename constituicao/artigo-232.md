@@ -2,7 +2,7 @@
 
 ### (Representação da soberania da República)
 
-1. A soberania da República é especialmente representada, em cada uma das regiões autónomas, por um Ministro da República, nomeado pelo Presidente da República, sob proposta do Primeiro-Ministro, ouvido o Conselho da Revolução.
+1. A soberania da República é especialmente representada, em cada uma das regiões autónomas, por um Ministro da República, nomeado e exonerado pelo Presidente da República, sob proposta do Governo, ouvido o Conselho de Estado.
 
 2. Compete ao Ministro da República a coordenação da actividade dos serviços centrais do Estado no tocante aos interesses da região, dispondo para isso de competência ministerial e tendo assento em Conselho de Ministros nas reuniões que tratem de assuntos de interesse para a respectiva região.
 

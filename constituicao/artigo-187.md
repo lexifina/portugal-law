@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Formação e responsabilidade
-
 # Artigo 187.º
 
 ### (Conselho de Ministros)

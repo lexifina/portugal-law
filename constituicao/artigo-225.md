@@ -1,7 +1,3 @@
-## Título VII
-
-## Regiões autónomas
-
 # Artigo 225.º
 
 ### (Agentes do Ministério Público)

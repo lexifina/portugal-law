@@ -8,4 +8,4 @@
 
 3. Ninguém pode ser obrigado a fazer parte de uma associação nem coagido por qualquer meio a permanecer nela.
 
-4. Não são consentidas associações armadas nem de tipo militar, militarizadas ou paramilitares fora do Estado ou das Forças Armadas, nem organizações que perfilhem a ideologia fascista.
+4. Não são consentidas associações armadas nem de tipo militar, militarizadas ou paramilitares, nem organizações que perfilhem a ideologia fascista.

@@ -10,9 +10,9 @@ b) Deliberar sobre o pedido de confiança à Assembleia da República;
 
 c) Aprovar as propostas de lei e de resolução;
 
-d) Aprovar os decretos-leis que se traduzam em execução directa do programa do Governo;
+d) Aprovar os decretos-leis, bem como as convenções internacionais não submetidas à Assembleia da República;
 
-e) Aprovar o Plano e o Orçamento;
+e) Aprovar o Plano;
 
 f) Aprovar os actos do Governo que envolvam aumento ou diminuição das receitas ou despesas públicas;
 

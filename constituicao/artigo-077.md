@@ -1,7 +1,7 @@
 # Artigo 77.º
 
-### (Criação e investigação científicas)
+### (Participação democrática no ensino)
 
-1. A criação e a investigação científicas são incentivadas e protegidas pelo Estado.
+1. Os professores e alunos têm o direito de participar na gestão democrática das escolas, nos termos da lei.
 
-2. A política científica e tecnológica tem por finalidade o fomento da investigação fundamental e da investigação aplicada, com preferência pelos domínios que interessem ao desenvolvimento do país, tendo em vista a progressiva libertação de dependências externas, no âmbito da cooperação e do intercâmbio com todos os povos.
+2. A lei regula as formas de participação das associações de professores, de alunos, de pais, das comunidades e das instituições de carácter científico na definição da política de ensino.

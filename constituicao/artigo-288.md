@@ -1,9 +1,9 @@
 # Artigo 288.º
 
-### (Processo de revisão)
+### (Aprovação e promulgação)
 
-1. A iniciativa da revisão compete aos Deputados.
+1. As alterações da Constituição são aprovadas por maioria de dois terços dos Deputados em efectividade de funções.
 
-2. Apresentado um projecto de revisão constitucional, quaisquer outros terão de ser apresentados no prazo de trinta dias.
+2. As alterações da Constituição que forem aprovadas são reunidas numa única lei de revisão.
 
-3. As alterações da Constituição que forem aprovadas serão reunidas numa única lei de revisão.
+3. O Presidente da República não pode recusar a promulgação da lei de revisão.

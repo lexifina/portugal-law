@@ -1,11 +1,9 @@
-## Capítulo II
-
-## Freguesia
-
 # Artigo 244.º
 
-### (Quadro geral de funcionários)
+### (Pessoal das autarquias locais)
 
-1. A fim de coadjuvar as autarquias locais e garantir a eficiência da sua acção, será organizado, na dependência do ministério competente, um quadro geral de funcionários, incluindo técnicos das especialidades de interesse para a administração local.
+1. As autarquias locais possuem quadros de pessoal próprio, nos termos da lei.
 
-2. A nomeação dos funcionários administrativos integrados no quadro geral para os lugares das autarquias locais dependerá da audiência destas.
+2. É aplicável aos funcionários e agentes da administração local o regime dos funcionários e agentes do Estado.
+
+3. A lei define as formas de apoio técnico e em meios humanos do Estado às autarquias locais, sem prejuízo da sua autonomia.

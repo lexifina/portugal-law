@@ -1,5 +1,5 @@
 # Artigo 140.º
 
-### (Actos do Presidente interino)
+### (Falta de promulgação ou de assinatura)
 
-O Presidente da República interino não pode praticar qualquer dos actos previstos nas alíneas b), c), f) e i) do artigo 136.º, a) do n.º 1 do artigo 137.º e a) do artigo 138.º sem deliberação favorável do Conselho da Revolução.
+A falta de promulgação ou de assinatura pelo Presidente da República de qualquer dos actos previstos na alínea b) do artigo 137.º implica a sua inexistência jurídica.

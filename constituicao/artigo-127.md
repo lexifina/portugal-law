@@ -4,6 +4,6 @@
 
 1. As candidaturas para Presidente da República são propostas por um mínimo de 7500 e um máximo de 15000 cidadãos eleitores.
 
-2. As candidaturas devem ser apresentadas até trinta dias antes da data marcada para a eleição, perante o Supremo Tribunal de Justiça.
+2. As candidaturas devem ser apresentadas até trinta dias antes da data marcada para a eleição, perante o Tribunal Constitucional.
 
-3. Em caso de morte de qualquer candidato, será reaberto o processo eleitoral, nos termos a definir por lei.
+3. Em caso de morte de qualquer candidato ou de qualquer outro facto que o incapacite para o exercício da função presidencial, será reaberto o processo eleitoral, nos termos a definir por lei.

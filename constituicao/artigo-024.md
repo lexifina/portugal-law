@@ -2,12 +2,14 @@
 
 ## Direitos, liberdades e garantias
 
+## Capítulo I
+
+## Direitos, liberdades e garantias pessoais
+
 # Artigo 24.º
 
-### (Provedor de Justiça)
+### (Direito à vida)
 
-1. Os cidadãos podem apresentar queixas por acções ou omissões dos poderes públicos ao Provedor de Justiça, que as apreciará sem poder decisório, dirigindo aos órgãos competentes as recomendações necessárias para prevenir e reparar injustiças.
+1. A vida humana é inviolával.
 
-2. A actividade do Provedor de Justiça é independente dos meios graciosos e contenciosos previstos na Constituição e nas leis.
-
-3. O Provedor de Justiça é designado pela Assembleia da República.
+2. Em caso algum haverá pena de morte.

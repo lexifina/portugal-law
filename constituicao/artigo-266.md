@@ -1,15 +1,11 @@
-## Título IX
+## Título VIII
 
 ## Administração Pública
 
 # Artigo 266.º
 
-### (Funções)
+### (Princípios fundamentais)
 
-1. As organizações populares de base territorial têm direito:
+1. A Administração Pública visa a prossecução do interesse público, no respeito pelos direitos e interesses legalmente protegidos dos cidadãos.
 
-a) De petição perante as autarquias locais relativamente a assuntos administrativos de interesse dos moradores;
-
-b) De participação, sem voto, através de representantes seus, na assembleia de freguesia.
-
-2. Às organizações populares de base territorial compete realizar as tarefas que a lei lhes confiar ou os órgãos de freguesia nelas delegarem.
+2. Os órgãos e agentes administrativos estão subordinados à Constituição e à lei e devem actuar com justiça e imparcialidade no exercício das suas funções.

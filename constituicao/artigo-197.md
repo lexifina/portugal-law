@@ -1,7 +1,3 @@
-## Capítulo III
-
-## Competência
-
 # Artigo 197.º
 
 ### (Moções de censura)

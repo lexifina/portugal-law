@@ -1,7 +1,7 @@
 # Artigo 216.º
 
-### (Júri)
+### (Especialização)
 
-1. O júri é composto pelos juízes do tribunal colectivo e por jurados.
+1. Na primeira instância pode haver tribunais com competência específica e tribunais especializados para o julgamento de matérias determinadas.
 
-2. O júri intervém no julgamento dos crimes graves e funciona quando a acusação ou a defesa o requeiram.
+2. Os tribunais da Relação e o Supremo Tribunal de Justiça podem funcionar em secções especializadas.

@@ -1,3 +1,11 @@
+## Título VII
+
+## Poder local
+
+## Capítulo I
+
+## Princípios gerais
+
 # Artigo 237.º
 
 ### (Autarquias locais)

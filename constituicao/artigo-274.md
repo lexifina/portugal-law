@@ -1,9 +1,7 @@
 # Artigo 274.º
 
-### (Estrutura)
+### (Conselho Superior de Defesa Nacional)
 
-1. As Forças Armadas Portuguesas constituem uma instituição nacional e a sua organização, bem como a das forças militarizadas, é única para todo o território.
+1. O Conselho Superior de Defesa Nacional é presidido pelo Presidente da República e tem a composição que a lei determinar.
 
-2. As Forças Armadas Portuguesas são compostas exclusivamente por cidadãos portugueses.
-
-3. As Forças Armadas Portuguesas obedecem aos órgãos de soberania competentes, nos termos da Constituição.
+2. O Conselho Superior de Defesa Nacional é o órgão específico de consulta para os assuntos relativos à defesa nacional e à organização, funcionamento e disciplina das Forças Armadas, podendo dispor da competência administrativa que lhe for atribuída por lei.

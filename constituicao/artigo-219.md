@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Ministério Público
-
 # Artigo 219.º
 
 ### (Competência do Tribunal de Contas)

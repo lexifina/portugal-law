@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Organização dos tribunais
-
 # Artigo 209.º
 
 ### (Coadjuvação de outras autoridades)

@@ -1,11 +1,9 @@
 # Artigo 146.º
 
-### (Competência como garante do cumprimento da Constituição)
+### (Posse e mandato)
 
-Na qualidade de garante do cumprimento da Constituição, compete ao Conselho da Revolução:
+1. Os membros do Conselho de Estado são empossados pelo Presidente da República.
 
-a) Pronunciar-se, por iniciativa própria ou a solicitação do Presidente da República, sobre a constitucionalidade de quaisquer diplomas, antes de serem promulgados ou assinados;
+2. Os membros do Conselho de Estado previstos nas alíneas a) a e) do artigo 145.º mantêm-se em funções enquanto exercerem os respectivos cargos.
 
-b) Velar pela emissão das medidas necessárias ao cumprimento das normas constitucionais, podendo para o efeito formular recomendações;
-
-c) Apreciar a constitucionalidade de quaisquer diplomas publicados e declarar a inconstitucionalidade com força obrigatória geral, nos termos do artigo 281.º
+3. Os membros do Conselho de Estado previstos nas alíneas g) e h) do artigo 145.º mantêm-se em funções até à posse dos que os substituírem no exercício dos respectivos cargos.

@@ -1,9 +1,11 @@
 # Artigo 282.º
 
-### (Fiscalização judicial da constitucionalidade)
+### (Efeitos da declaração de inconstitucionalidade ou de ilegalidade)
 
-1. Sempre que os tribunais se recusem a aplicar uma norma constante de lei, decreto-lei, decreto regulamentar, decreto regional ou diploma equiparável, com fundamento em inconstitucionalidade, e uma vez esgotados os recursos ordinários que caibam, haverá recurso gratuito, obrigatório quanto ao Ministério Público, e restrito à questão da inconstitucionalidade, para julgamento definitivo do caso concreto pela Comissão Constitucional.
+1. A declaração de inconstitucionalidade ou de ilegalidade com força obrigatória geral produz efeitos desde a entrada em vigor da norma declarada inconstitucional ou ilegal e determina a repristinação das normas que ela, eventualmente, haja revogado.
 
-2. Haverá também recurso gratuito para a Comissão Constitucional, obrigatório quanto ao Ministério Público, das decisões que apliquem uma norma anteriormente julgada inconstitucional por aquela Comissão.
+2. Tratando-se, porém, de inconstitucionalidade ou de ilegalidade por infracção de norma constitucional ou legal posterior, a declaração só produz efeitos desde a entrada em vigor desta última.
 
-3. Tratando-se de norma constante de diploma não previsto no n.º 1, os tribunais julgam definitivamente acerca da inconstitucionalidade.
+3. Ficam ressalvados os casos julgados, salvo decisão em contrário do Tribunal Constitucional quando a norma respeitar a matéria penal, disciplinar ou de ilícito de mera ordenação social e for de conteúdo menos favorável ao arguido.
+
+4. Quando a segurança jurídica, razões de equidade ou interesse público de excepcional relevo, que deverá ser fundamentado, o exigirem, poderá o Tribunal Constitucional fixar os efeitos da inconstitucionalidade ou da ilegalidade com alcance mais restritivo do que o previsto nos n.os 1 e 2.

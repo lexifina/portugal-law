@@ -1,3 +1,11 @@
+## Parte III
+
+## Organização do poder político
+
+## Título I
+
+## Princípios gerais
+
 # Artigo 111.º
 
 ### (Titularidade e exercício do poder)

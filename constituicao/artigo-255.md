@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Região administrativa
-
 # Artigo 255.º
 
 ### (Participação nas receitas dos impostos directos)

@@ -1,13 +1,7 @@
 # Artigo 52.º
 
-### (Obrigações do Estado quanto ao direito ao trabalho)
+### (Direito de petição e de acção popular)
 
-Incumbe ao Estado, através da aplicação de planos de política económica e social, garantir o direito ao trabalho, assegurando:
+1. Todos os cidadãos têm o direito de apresentar, individual ou colectivamente, aos órgãos de soberania ou a quaisquer autoridades petições, representações, reclamações ou queixas para defesa dos seus direitos, da Constituição, das leis ou do interesse geral.
 
-a) A execução de políticas de pleno emprego e o direito a assistência material dos que involuntariamente se encontrem em situação de desemprego;
-
-b) A segurança no emprego, sendo proibidos os despedimentos sem justa causa ou por motivos políticos ou ideológicos;
-
-c) A igualdade de oportunidades na escolha da profissão ou género de trabalho e condições para que não seja vedado ou limitado, em função do sexo, o acesso a quaisquer cargos, trabalho ou categorias profissionais;
-
-d) A formação cultural, técnica e profissional dos trabalhadores, conjugando o trabalho manual e o trabalho intelectual.
+2. É reconhecido o direito de acção popular, nos casos e nos termos previstos na lei.

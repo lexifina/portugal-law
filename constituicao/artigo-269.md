@@ -1,7 +1,13 @@
 # Artigo 269.º
 
-### (Direitos e garantias dos administrados)
+### (Regime da função pública)
 
-1. Os cidadãos têm o direito de ser informados pela Administração, sempre que o requeiram, sobre o andamento dos processos em que sejam directamente interessados, bem como o de conhecer as resoluções definitivas que sobre eles forem tomadas.
+1. No exercício das suas funções, os trabalhadores da Administração Pública e demais agentes do Estado e outras entidades públicas estão exclusivamente ao serviço do interesse público, tal como é definido, nos termos da lei, pelos órgãos competentes da Administração.
 
-2. É garantido aos interessados recurso contencioso, com fundamento em ilegalidade, contra quaisquer actos administrativos definitivos e executórios.
+2. Os trabalhadores da Administração Pública e demais agentes do Estado e outras entidades públicas não podem ser prejudicados ou beneficiados em virtude do exercício de quaisquer direitos políticos previstos na Constituição, nomeadamente por opção partidária.
+
+3. Em processo disciplinar são garantidas ao arguido a sua audiência e defesa.
+
+4. Não é permitida a acumulação de empregos ou cargos públicos, salvo nos casos expressamente admitidos por lei.
+
+5. A lei determina as incompatibilidades entre o exercício de empregos ou cargos públicos e o de outras actividades.

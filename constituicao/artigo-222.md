@@ -1,7 +1,7 @@
 # Artigo 222.º
 
-### (Incompatibilidades)
+### (Nomeação, colocação, transferência e promoção de juízes)
 
-1. Os juízes em exercício não podem desempenhar qualquer outra função pública ou privada remunerada.
+1. A nomeação, a colocação, a transferência e a promoção dos juízes dos tribunais judiciais e o exercício da acção disciplinar competem ao Conselho Superior da Magistratura, nos termos da lei.
 
-2. Os juízes em exercício não podem ser nomeados para comissões de serviço estranhas à actividade judicial sem autorização do Conselho Superior da Magistratura.
+2. A lei define as regras e determina a competência para a colocação, transferência e promoção, bem como para o exercício da acção disciplinar em relação aos juízes dos restantes tribunais, com salvaguarda das garantias previstas na Constituição.

@@ -2,8 +2,8 @@
 
 ### (Dissolução)
 
-1. O decreto de dissolução da Assembleia da República terá de marcar a data de novas eleições que se realizarão no prazo de noventa dias, de harmonia com a lei eleitoral vigente ao tempo da dissolução.
+1. A Assembleia da República não pode ser dissolvida nos seis meses posteriores à sua eleição, no último semestre do mandato do Presidente da República ou durante a vigência do estado de sítio ou do estado de emergência.
 
-2. A Assembleia da República não pode ser dissolvida durante a vigência do estado de sítio ou do estado de emergência.
+2. A inobservância do disposto no número anterior determina a inexistência jurídica do decreto de dissolução.
 
-3. A inobservância do disposto neste artigo determina a inexistência jurídica do decreto de dissolução.
+3. A dissolução da Assembleia não prejudica a subsistência do mandato dos Deputados, nem da competência da Comissão Permanente, até à primeira reunião da Assembleia após as subsequentes eleições.

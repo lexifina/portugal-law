@@ -1,11 +1,11 @@
 # Artigo 39.º
 
-### (Meios de comunicação social do Estado)
+### (Órgãos de comunicação social pertencentes a entidades públicas ou delas dependentes)
 
-1. Os meios de comunicação social pertencentes ao Estado, ou a entidades directa ou indirectamente sujeitas ao seu controlo económico, serão utilizados de modo a salvaguardar a sua independência perante o Governo e a Administração Pública.
+1. Os órgãos de comunicação social pertencentes ao Estado e a outras entidades públicas, ou a entidades directa ou indirectamente sujeitas ao seu controlo económico, são utilizados de modo a salvaguardar a sua independência perante o Governo, a Administração e os demais poderes públicos, e a assegurar a possibilidade de expressão e confronto das diversas correntes de opinião.
 
-2. Será assegurada a possibilidade de expressão e confronto das diversas correntes de opinião nos meios de comunicação social referidos no número anterior.
+2. Para garantir o cumprimento do disposto no n.º 1, existe um Conselho de Comunicação Social composto por onze membros eleitos pela Assembleia da República, o qual tem poderes para assegurar uma orientação geral que respeite o pluralismo ideológico.
 
-3. Nos meios de comunicação social previstos neste artigo serão criados conselhos de informação, a integrar, proporcionalmente, por representantes indicados pelos partidos políticos com assento na Assembleia da República.
+3. O Conselho de Comunicação Social emite, no prazo definido pela lei, parecer prévio, público e fundamentado sobre a nomeação e a exoneração dos directores dos órgãos de comunicação social referidos no n.º 1.
 
-4. Aos conselhos de informação serão conferidos poderes para assegurar uma orientação geral que respeite o pluralismo ideológico.
+4. A lei regula o funcionamento do Conselho de Comunicação Social.

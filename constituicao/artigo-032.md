@@ -4,13 +4,13 @@
 
 1. O processo criminal assegurará todas as garantias de defesa.
 
-2. Todo o arguido se presume inocente até ao trânsito em julgado da sentença de condenação.
+2. Todo o arguido se presume inocente até ao trânsito em julgado da sentença de condenação, devendo ser julgado no mais curto prazo compatível com as garantias de defesa.
 
-3. O arguido tem direito à assistência de defensor em todos os actos do processo, especificando a lei os casos e as fases em que ela é obrigatória.
+3. O arguido tem direito a escolher defensor e a ser por ele assistido em todos os actos do processo, especificando a lei os casos e as fases em que essa assistência é obrigatória.
 
-4. Toda a instrução será da competência de um juiz, indicando a lei os casos em que ela deve assumir forma contraditória.
+4. Toda a instrução é da competência de um juiz, o qual pode, nos termos da lei, delegar noutras entidades a prática dos actos instrutórios que se não prendam directamente com os direitos fundamentais.
 
-5. O processo criminal terá estrutura acusatória, ficando a audiência de julgamento subordinada ao princípio do contraditório.
+5. O processo criminal tem estrutura acusatória, estando a audiência de julgamento e os actos instrutórios que a lei determinar subordinados ao princípio do contraditório.
 
 6. São nulas todas as provas obtidas mediante tortura, coacção, ofensa da integridade física ou moral da pessoa, abusiva intromissão na vida privada, no domicílio, na correspondência ou nas telecomunicações.
 

@@ -1,11 +1,17 @@
 # Artigo 148.º
 
-### (Competência em matéria militar)
+### (Competência)
 
-1. Na qualidade de órgão político e legislativo em matéria militar, compete ao Conselho da Revolução:
+Compete ao Conselho de Estado:
 
-a) Fazer leis e regulamentos sobre a organização, o funcionamento e a disciplina das Forças Armadas;
+a) Pronunciar-se sobre a dissolução da Assembleia da República e dos órgãos das regiões autónomas;
 
-b) Aprovar os tratados ou acordos internacionais que respeitem a assuntos militares.
+b) Pronunciar-se sobre a demissão do Governo, no caso previsto no n.º 2 do artigo 198.º;
 
-2. A competência a que se refere a alínea a) do número anterior é exclusiva do Conselho da Revolução.
+c) Pronunciar-se sobre a nomeação e a exoneração dos Ministros da República para as regiões autónomas;
+
+d) Pronunciar-se sobre a declaração da guerra e a feitura da paz;
+
+e) Pronunciar-se sobre os actos do Presidente da República interino referidos no artigo 142.º;
+
+f) Pronunciar-se nos demais casos previstos na Constituição e, em geral, aconselhar o Presidente da República no exercício das suas funções, quando este lho solicitar.

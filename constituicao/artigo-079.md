@@ -2,4 +2,6 @@
 
 ### (Cultura física e desporto)
 
-O Estado reconhece o direito dos cidadãos à cultura física e ao desporto, como meios de valorização humana, incumbindo-lhe promover, estimular e orientar a sua prática e difusão.
+1. Todos têm direito à cultura física e ao desporto.
+
+2. Incumbe ao Estado, em colaboração com as escolas e as associações e colectividades desportivas, promover, estimular, orientar e apoiar a prática e a difusão da cultura física e do desporto.

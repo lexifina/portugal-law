@@ -1,5 +1,11 @@
 # Artigo 279.º
 
-### (Inconstitucionalidade por omissão)
+### (Efeitos da decisão)
 
-Quando a Constituição não estiver a ser cumprida por omissão das medidas legislativas necessárias para tornar exequíveis as normas constitucionais, o Conselho da Revolução poderá recomendar aos órgãos Legislativos competentes que as emitam em tempo razoável.
+1. Se o Tribunal Constitucional se pronunciar pela inconstitucionalidade de norma constante de qualquer decreto ou acordo internacional, deverá o diploma ser vetado pelo Presidente da República ou pelo Ministro da República, conforme os casos, e devolvido ao órgão que o tiver aprovado.
+
+2. No caso previsto no n.º 1, o decreto não poderá ser promulgado ou assinado sem que o órgão que o tiver aprovado expurgue a norma julgada inconstitucional ou, quando for caso disso, o confirme por maioria de dois terços dos Deputados presentes.
+
+3. Se o diploma vier a ser reformulado, poderá o Presidente da República ou o Ministro da República, conforme os casos, requerer a apreciação preventiva da constitucionalidade de qualquer das suas normas.
+
+4. Se o Tribunal Constitucional se pronunciar pela inconstitucionalidade de norma constante de tratado, este só poderá ser ratificado se a Assembleia da República o vier a aprovar por maioria de dois terços dos Deputados presentes.

@@ -1,15 +1,21 @@
 # Artigo 145.º
 
-### (Competência como Conselho do Presidente da República e como garante do regular funcionamento das instituições democráticas)
+### (Composição)
 
-Na qualidade de Conselho do Presidente da República e de garante do regular funcionamento das instituições democráticas, compete ao Conselho da Revolução:
+O Conselho de Estado é presidido pelo Presidente da República e composto pelos seguintes membros:
 
-a) Aconselhar o Presidente da República no exercício das suas funções;
+a) O Presidente da Assembleia da República;
 
-b) Autorizar o Presidente da República a declarar a guerra e a fazer a paz;
+b) O Primeiro-Ministro;
 
-c) Autorizar o Presidente da República a declarar o estado de sítio ou o estado de emergência em todo ou em parte do território nacional;
+c) O Presidente do Tribunal Constitucional;
 
-d) Autorizar o Presidente da República a ausentar-se do território nacional;
+d) O Provedor de Justiça;
 
-e) Declarar a impossibilidade física permanente do Presidente da República e verificar os impedimentos temporários do exercício das suas funções.
+e) Os presidentes dos governos regionais;
+
+f) Os antigos presidentes da República eleitos na vigência da Constituição que não hajam sido destituídos do cargo;
+
+g) Cinco cidadãos designados pelo Presidente da República pelo período correspondente à duração do seu mandato;
+
+h) Cinco cidadãos eleitos pela Assembleia da República, de harmonia com o princípio da representação proporcional, pelo período correspondente à duração da legislatura.

@@ -2,4 +2,4 @@
 
 ### (Regime dos direitos, liberdades e garantias)
 
-O regime dos direitos, liberdades e garantias aplica-se aos direitos enunciados no título II, aos direitos fundamentais dos trabalhadores, às demais liberdades e ainda a direitos de natureza análoga, previstos na Constituição e na lei.
+O regime dos direitos, liberdades e garantias aplica-se aos enunciados no título II e aos direitos fundamentais de natureza análoga.

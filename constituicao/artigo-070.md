@@ -8,8 +8,10 @@ a) Acesso ao ensino, à cultura e ao trabalho;
 
 b) Formação e promoção profissional;
 
-c) Educação física, desporto e aproveitamento dos tempos livres.
+c) Educação física e desporto;
 
-2. A política de juventude devera ter como objectivos prioritários o desenvolvimento da personalidade dos jovens, o gosto pela criação livre e o sentido de serviço à comunidade.
+d) Aproveitamento dos tempos livres.
 
-3. O Estado, em colaboração com as escolas, as empresas, as organizações populares de base e as colectividades de cultura e recreio, fomentará e auxiliará as organizações juvenis na prossecução daqueles objectivos, bem como todas as formas de intercâmbio internacional da juventude.
+2. A política de juventude deverá ter como objectivos prioritários o desenvolvimento da personalidade dos jovens, o gosto pela criação livre e o sentido de serviço à comunidade.
+
+3. O Estado, em colaboração com as famílias, as escolas, as empresas, as organizações populares de base e as colectividades de cultura e recreio, fomenta e apoia as organizações juvenis na prossecução daqueles objectivos, bem como todas as formas de intercâmbio internacional da juventude.

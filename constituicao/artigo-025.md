@@ -1,7 +1,7 @@
 # Artigo 25.º
 
-### (Direito à vida)
+### (Direito à integridade pessoal)
 
-1. A vida humana é inviolával.
+1. A integridade moral e física dos cidadãos é inviolável.
 
-2. Em caso algum haverá pena de morte.
+2. Ninguém pode ser submetido a tortura, nem a tratos ou penas cruéis, degradantes ou desumanos.

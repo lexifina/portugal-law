@@ -1,15 +1,19 @@
 # Artigo 198.º
 
-### (Efeitos)
+### (Demissão do Governo)
 
 1. Implicam a demissão do Governo:
 
-a) A rejeição do programa do Governo;
+a) O início de nova legislatura;
 
-b) A não aprovação de uma moção de confiança;
+b) A aceitação pelo Presidente da República do pedido de demissão apresentado pelo Primeiro-Ministro;
 
-c) A aprovação de duas moções de censura com, pelo menos, trinta dias de intervalo, por maioria absoluta dos Deputados em efectividade. de funções.
+c) A morte ou a impossibilidade física duradoura do Primeiro-Ministro;
 
-2. O Presidente da República não pode dissolver a Assembleia por efeito de rejeição do programa do Governo, salvo no caso de três rejeições consecutivas.
+d) A rejeição do programa do Governo;
 
-3. O Presidente da República dissolverá obrigatoriamente a Assembleia da República quando esta haja recusado a confiança ou votado a censura ao Governo, determinando por qualquer destes motivos a terceira substituição do Governo.
+e) A não aprovação de uma moção de confiança;
+
+f) A aprovação de uma moção de censura por maioria absoluta dos Deputados em efectividade de funções.
+
+2. O Presidente da República só pode demitir o Governo quando tal se torne necessário para assegurar o regular funcionamento das instituições democráticas, ouvido o Conselho de Estado.
