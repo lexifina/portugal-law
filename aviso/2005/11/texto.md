@@ -1,0 +1,5 @@
+Aviso n.º 11/2005
+Por ordem superior se torna público que a República da Turquia depositou junto do Secretário-Geral do Conselho da Europa, em 2 de Julho de 2004, o seu instrumento de ratificação à Convenção sobre os Direitos Humanos e Biomedicina, aberta para assinatura, em Oviedo, em 4 de Abril de 1997.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 1/2001, publicada no Diário da República, 1.ª série-A, n.º 2, de 3 de Janeiro de 2001, e ratificada pelo Decreto do Presidente da República n.º 1/2001, publicado no Diário da República, 1.ª série-A, n.º 2, de 3 de Janeiro de 2001, tendo depositado o seu instrumento de ratificação em 13 de Agosto de 2001, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 228, de 1 de Outubro de 2001.
+A Convenção entrou em vigor para a República da Turquia em 1 de Novembro de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 21 de Dezembro de 2004. - O Director de Serviços das Organizações Políticas Internacionais, Jorge Ayres Roza de Oliveira.
