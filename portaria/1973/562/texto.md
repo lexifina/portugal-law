@@ -1,0 +1,31 @@
+Portaria n.º 562/73
+de 16 de Agosto
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, o seguinte:
+I) Elevar para as importâncias que se indicam as seguintes verbas dos orçamentos de receita para o corrente ano económico dos organismos dependentes do Ministério do Ultramar a seguir referidos:
+1 - Conselho Ultramarino
+CAPÍTULO ÚNICO
+Artigo 2.º «Quotização das províncias ultramarinas»:
+a) Angola ... 2814650$20
+b) Moçambique ... 2098731$80
+c) Macau ... 98994$60
+2 - Hospital do Ultramar
+CAPÍTULO 2.º
+Artigo 6.º «Quotização das províncias ultramarinas»:
+a) ... -$00-
+b) Angola ... 37564473$80
+c) Moçambique ... 28009796$20
+d) Macau ... 1321184$80
+3 - Agência-Geral do Ultramar
+Artigo 2.º «Quotas-partes com que concorrem as províncias ultramarinas para as despesas com a Agência-Geral do Ultramar»:
+a) Angola ... 7804881$70
+b) Moçambique ... 5819678$10
+c) Macau ... 274507$20
+II) Abrir um crédito especial da importância de 308550$00, destinado a reforçar a verba do capítulo I, artigo 1.º, n.º 1 «Representação das províncias ultramarinas no Conselho Ultramarino - Pagamento de serviços - Despesas de comunicações - Transporte aos onze vogais eleitos pelos conselhos legislativos das províncias ultramarinas», do orçamento da despesa do Conselho Ultramarino para o corrente ano económico, tomando como contrapartida igual importância proveniente da elevação das verbas das alíneas a), b) e c) do artigo 2.º do orçamento da receita, nos termos do n.º 1-I) do presente diploma;
+III) Abrir um crédito especial da importância de 946504$00, a inscrever em adicional ao orçamento da despesa do Hospital do Ultramar para o corrente ano económico, destinado a acorrer ao aumento dos vencimentos, nos termos do Decreto-Lei n.º 76/73, de 1 de Março, ao seu pessoal, relativamente aos meses de Setembro a Dezembro do ano em curso, tomando como contrapartida igual importância proveniente da elevação das verbas das alíneas b), c) e d) do artigo 6.º do orçamento da receita, nos termos do n.º 2-I) do presente diploma;
+IV) Abrir um crédito especial da importância de 582875$00, a inscrever em adicional ao orçamento da despesa da Agência-Geral do Ultramar para o corrente ano económico, destinado a acorrer ao aumento dos vencimentos, nos termos do Decreto-Lei n.º 76/73, de 1 de Março, ao seu pessoal, relativamente aos meses de Agosto a Dezembro do ano em curso, tomando como contrapartida igual importância proveniente da elevação das verbas das alíneas a), b) e c) do artigo 2.º do orçamento da receita, nos termos do n.º 3-I) do presente diploma;
+V) Abrir mm crédito especial da importância de 346050$00, a inscrever em adicional ao orçamento da despesa do Jardim e Museu Agrícola do Ultramar para o corrente ano económico, destinado a acorrer ao encargo resultante do aumento das remunerações a que se refere o Decreto-Lei n.º 76/73, de 1 de Março, ao respectivo pessoal, relativamente aos meses de Março a Dezembro do corrente ano, tomando como contrapartida o seguinte:
+Do capítulo único, artigo 13.º «Diversos encargos - Visitas de estudo ao ultramar e ao estrangeiro», do orçamento da despesa para o corrente ano económico ... 25000$00
+Do saldo do ano económico findo ... 321050$00
+... 346050$00
+VI) Fica revogada a Portaria n.º 251/73, de 9 de Abril, publicada no Diário do Governo, 1.ª série, n.º 84.
+Ministério do Ultramar, 2 de Agosto de 1973. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
