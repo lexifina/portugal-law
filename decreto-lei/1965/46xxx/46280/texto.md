@@ -1,0 +1,11 @@
+Decreto-Lei n.º 46280
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É a Emissora Nacional de Radiodifusão autorizada a contrair na Caixa Geral de Depósitos, Crédito e Previdência um empréstimo, até à importância de 40000000$00, para prestação do apoio financeiro necessário ao serviço público de televisão em território português, iniciado com a publicação do Decreto-Lei n.º 43775, de 3 de Julho de 1961.
+§ 1.º O empréstimo vencerá juro à taxa de 4 por cento ao ano e será concedido em regime de conta corrente, durante um período de três anos, findo o qual o saldo devedor será amortizado em dez prestações anuais, iguais, de capital e juro.
+§ 2.º Por simples acordo entre a Caixa Geral de Depósitos, Crédito e Previdência e a concessionária do serviço público de televisão em território português, ouvida a Emissora Nacional de Radiodifusão, poderá no entanto este empréstimo, findo o período de utilização em conta corrente, ser amortizado em conjunto com o concedido ao abrigo do Decreto-Lei n.º 43775, de 3 de Julho de 1961, em vinte prestações anuais, iguais, de capital e juros.
+Art. 2.º No orçamento de despesa da Emissora Nacional de Radiodifusão serão inscritas anual e obrigatòriamente as importâncias necessárias ao pagamento do juro e amortização dos empréstimos.
+Art. 3.º Ficam consignadas ao serviço da operação, até ao montante necessário, as participações estabelecidas nos artigos 4.º e 5.º do Decreto-Lei n.º 40341, de 18 de Outubro de 1955.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 19 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Ar ante s e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
