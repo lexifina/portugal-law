@@ -17,9 +17,24 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1948/12/29900/17051708.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1948-12-27",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "d0b8c319e8b36e802d9bd5f9bae65dcfac1a70856e550401a65590e4c1bcd5a7",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.5,
+    "pages": 4,
+    "columns": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "a5fb77daeb58afda5c7a14280d081571a9922eb705f3432eb961dbd8b561f012",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 2462
 }
