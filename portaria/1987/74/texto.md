@@ -1,0 +1,13 @@
+Portaria n.º 74/87
+de 3 de Fevereiro
+Ao abrigo do disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 371/78, de 30 de Novembro, observado o estabelecido no n.º 1 do artigo 8.º do mesmo diploma:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, o seguinte:
+1.º Autorizar o Instituto Nacional de Habitação a emitir uma ou mais notas promissórias no valor total de 12,5 milhões de dólares dos Estados Unidos.
+2.º A taxa de juro será correspondente a 70 pontos percentuais acima da média ponderada da taxa anual de desconto das obrigações directas dos EUA, com um prazo de vencimento de treze semanas.
+3.º Nos termos da alínea c) do artigo 22.º do Código do Imposto de Capitais, com a redacção que lhe foi dada pelo Decreto-Lei n.º 139/81, de 30 de Maio, é concedida a redução à taxa zero do imposto de capitais que incide sobre esta operação.
+4.º O reembolso do empréstimo será efectuado em 40 semestralidades iguais e consecutivas de capital, vencendo-se a primeira em 1 de Junho de 1997 e a última em 1 de Dezembro de 2016.
+5.º O preço da emissão a que se refere o n.º 1.º da presente portaria é de 100%, sendo devidas comissões à Agency for International Development (1% do valor da emissão flat e 1/2% sobre os montantes em dívida, pagável semestralmente), ao Riggs National Bank (até USD 25000 para as primeiras cinco notas promissórias, USD 50 para cada nota adicional e até USD 3000 por cada ano de vida do empréstimo) e a J. P. Morgan Securities (underwriter fee de 1% do capital e legal fee de USD 10000, a pagar na data limite de utilização do empréstimo).
+6.º A lei aplicável é a americana do estado de Nova Iorque.
+Ministério das Finanças.
+Assinada em 23 de Janeiro de 1987.
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
