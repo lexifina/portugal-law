@@ -1,0 +1,3 @@
+Despacho Normativo n.º 93/77
+Dados os inconvenientes que resultariam para o funcionamento dos serviços da Secretaria de Estado da População e Emprego, enquanto os mesmos não forem reorganizados e aprovados os respectivos quadros, determina-se que durante o ano de 1977 o processamento das despesas da mesma Secretaria de Estado, a cargo do Orçamento Geral do Estado, continue a ser efectuado pela Secretaria-Geral do Ministério do Trabalho.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Trabalho, 23 de Março de 1977. - O Primeiro-Ministro, Mário Soares. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro do Trabalho, Francisco Manuel Marcelo Monteiro Curto. - O Secretário de Estado da População e Emprego, Manuel Alfredo Tito de Morais.
