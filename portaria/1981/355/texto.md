@@ -1,0 +1,13 @@
+Portaria n.º 355/81
+de 27 de Abril
+A Portaria n.º 26-F2/80, de 9 de Janeiro, autorizava a Setenave - Estaleiros Navais de Setúbal a emitir um empréstimo por obrigações para saneamento financeiro, nos termos do Decreto-Lei n.º 146/78, de 19 de Junho, até ao montante global de 3300000 contos. Em execução desta autorização, foi emitido um empréstimo no montante de 3227623 contos.
+O n.º 1.º, 3, da referida portaria concedia ainda à Setenave a faculdade de, nos termos do n.º 2 do artigo 2.º do citado Decreto-Lei n.º 146/78, pagar por meio de obrigações para saneamento financeiro, a emitir nas mesmas condições das que se destinam à liquidação do montante referido no número anterior, os juros vencidos do empréstimo obrigacionista inicial nos anos de 1980, 1981 e 1982.
+Esta faculdade era concedida em consideração da situação financeira em que a empresa se encontrava à data da publicação da Portaria n.º 26-F2/80.
+Mantendo-se as condições que motivaram a concessão da faculdade referida:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Indústria e Energia, o seguinte:
+1.º É autorizada a Setenave - Estaleiros Navais de Setúbal, usando da faculdade constante do n.º 1.º, 3, da Portaria n.º 26-F2/80, de 9 de Janeiro, a emitir um empréstimo por obrigações para saneamento financeiro no montante de 401198 contos, valor dos juros vencidos em 15 de Dezembro de 1980, já deduzidos da bonificação de 5% prevista no n.º 3.º, 3, daquela portaria, do empréstimo obrigacionista emitido no âmbito da autorização global constante da portaria atrás referida.
+2.º As obrigações cuja emissão é autorizada pela presente portaria serão entregues às instituições de crédito subscritoras do empréstimo autorizado pela Portaria n.º 26-F2/80, de 9 de Janeiro, em pagamento dos juros deste empréstimo vencidos em 15 de Dezembro de 1980.
+3.º As obrigações cuja emissão é agora autorizada vencem juros desde 15 de Dezembro de 1980, sendo os primeiros juros pagos em 15 de Dezembro de 1981, correspondendo ao período que decorre desde 15 de Dezembro de 1980 até 14 de Dezembro de 1981.
+4.º O empréstimo autorizado pela presente portaria será amortizado em sete anuidades iguais, vencendo-se a primeira em 15 de Dezembro de 1983 e a última em 15 de Dezembro de 1989.
+5.º Mantêm-se em vigor, em relação ao empréstimo obrigacionista de 401198 contos autorizado pela presente portaria, as disposições constantes dos n.os 3.º, 1 e 3, e 5.º da Portaria n.º 26-F2/80, de 9 de Janeiro.
+Ministérios das Finanças e do Plano e da Indústria e Energia, 6 de Abril de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro da Indústria e Energia, Ricardo Manuel Simões Bayão Horta.
