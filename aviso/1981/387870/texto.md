@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 12 de Dezembro de 1980, o Governo dos Países Baixos depositou junto do seu Ministério dos Negócios Estrangeiros o instrumento de aceitação da Convenção sobre o Reconhecimento e a Execução de Decisões Relativas a Obrigações Alimentares, concluída na Haia em 2 de Outubro de 1973, com a reserva constante do seu artigo 26.º e a declaração prevista no artigo 25.º Da referida Convenção Portugal já é parte. Aquele instrumento diplomático entrará em vigor, com referencia àquele país e às Antilhas Holandesas, em 1 de Março de 1981.
+Secretaria-Geral do Ministério, 5 de Fevereiro de 1981. - O Secretário-Geral, João Manuel Hall Themido.
