@@ -1,0 +1,38 @@
+Portaria n.º 991/89
+de 16 de Novembro
+Sob proposta do Instituto Politécnico de Santarém e da sua Escola Superior de Educação;
+Tendo em vista o disposto na Portaria n.º 795/89, de 9 de Setembro;
+Ao abrigo do disposto no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+1.º
+Vagas para o ano lectivo de 1989-1990
+Para o ano lectivo de 1989-1990 o número de vagas para cada um dos cursos conducentes à obtenção dos diplomas de estudos superiores especializados ministrados pelo Instituto Politécnico de Santarém, através da sua Escola Superior de Educação, é o seguinte:
+a) Apoio Educativo a Populações Especiais - 20;
+b) Comunicação Educacional Multimédia - 20;
+c) Estudos Africanos e Ensino da Língua Portuguesa em África - 20.
+2.º
+Alteração
+1 - No n.º 18.º da Portaria n.º 795/89, de 9 de Setembro, onde se lê «anexo III» deve ler-se anexo IV».
+2 - O anexo IV à Portaria n.º 795/89, de 9 de Setembro, é o constante em anexo a esta portaria.
+Ministério da Educação.
+Assinada em 20 de Outubro de 1989.
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
+
+Anexo IV à Portaria n.º 795/89, de 9 de Setembro
+Diploma
+R (ver nota a) P
+... (ver nota b), presidente da comissão instaladora do Instituto Politécnico de Santarém, faz saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver nota e), concluiu em ... (ver nota f), na Escola Superior de Educação deste Instituto, o curso de estudos superiores especializados em ... (ver nota g), com a classificação final de ... (ver nota h), pelo que, em conformidade com as disposições legais em vigor, lhe mandei passar o presente diploma de estudos superiores especializados em ... (ver nota g).
+Instituto Politécnico de Santarém, ... (ver nota i).
+O Presidente da Comissão Instaladora do Instituto Politécnico de Santarém, ...
+O Presidente da Comissão Instaladora da Escola Superior de Educação, ...
+O Administrador, ...
+O Secretário da Escola Superior de Educação, ...
+(nota a) Símbolo do Instituto Politécnico de Santarém.
+(nota b) Nome do presidente da comissão instaladora do Instituto Politécnico de Santarém.
+(nota c) Nome do titular do diploma.
+(nota d) Nome do pai e da mãe do titular do diploma.
+(nota e) Freguesia, conselho e distrito da naturalidade do titular do diploma.
+(nota f) Data da conclusão do curso.
+(nota g) Conforme o caso: Apoio Educativo a Populações Especiais; Comunicação Educacional Multimédia; Estudos Africanos e Ensino da Língua Portuguesa em África.
+(nota h) Classificação final calculada nos termos do n.º 17.º
+(nota i) Data da emissão do diploma.
