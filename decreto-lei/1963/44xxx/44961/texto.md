@@ -1,0 +1,15 @@
+Decreto-Lei n.º 44961
+Considerando que, enquanto permanecerem em Angola os efectivos actualmente presentes naquela província ultramarina, a existência de um único tribunal militar territorial não se coaduna com o movimento processual resultante de tal circunstância;
+Considerando a urgente necessidade de atender à situação assim criada;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º A título temporário, é criado o 2.º Tribunal Militar Territorial de Angola, com sede em Luanda.
+§ único. Enquanto existir o órgão judicial criado pelo corpo deste artigo, o actual Tribunal Militar Territorial de Angola é designado por 1.º Tribunal Militar Territorial de Angola.
+Art. 2.º O 1.º e o 2.º Tribunais Militares Territoriais de Angola têm a mesma jurisdição.
+Art. 3.º O provimento do cargo de juiz auditor privativo do 2.º Tribunal Militar Territorial de Angola é feito nos termos do artigo 2.º do Decreto-Lei n.º 39319, de 17 de Agosto de 1953, com a redacção que lhe foi dada pelo artigo único do Decreto-Lei n.º 44369, de 28 de Maio de 1962.
+Art. 4.º Os encargos emergentes da criação e funcionamento do 2.º Tribunal Militar Territorial de Angola são suportados pela verba consignada em encargos gerais da Nação a forças militares extraordinárias no ultramar.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 6 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
+
+Para ser publicado no Boletim Oficial de Angola. - Peixoto Correia.
+
+Para ser presente à Assembleia Nacional.
