@@ -1,0 +1,5 @@
+Portaria n.º 681/79
+de 14 de Dezembro
+Com vista ao cumprimento do disposto na alínea i) do artigo 14.º do Decreto-Lei n.º 35846, de 2 de Setembro de 1946, e conforme está previsto na Portaria n.º 691/71, de 11 de Dezembro, com as alterações introduzidas pela Portaria n.º 610/72, de 14 de Outubro:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno, ouvidas as entidades competentes, que na campanha vinícola de 1979-1980 se mantenha o disposto na Portaria n.º 706/78, de 5 de Dezembro, relativamente ao grau alcoólico volumétrico mínimo dos vinhos comuns a granel, em trânsito, para e na venda directa ao público e que não esteja regulado por disposições especiais.
+Secretarias de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno, 27 de Novembro de 1979. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Mário Francisco Barreira da Ponte. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.
