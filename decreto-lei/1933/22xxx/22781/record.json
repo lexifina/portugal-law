@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1933/06/14401/12051206.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1933-06-29",
-  "in_force_basis": "publication day in the Diário da República (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário da República",
+  "text_status": "ocr",
   "source_sha256": "75e21e60f0ea4c6a61a32eec23a60e1cff76172c1985fdf62af91400d5ad5d90",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.6,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "0ea0a3c45362f07e129fcab70f5bcdc269edab23f2edae7e73ab75a185456239",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 384
 }
