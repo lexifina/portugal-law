@@ -1,0 +1,132 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=P0Fiu%2fOxm2B6i1Qb1v6Kl8P9Ddn6RTIUCktgva%2fyOaH7lWGUnkkysYTUSoIwHSs4BsNkQvxZU1Jn26l834KO7HtuiuTauD6UP2bFLXGt1tGFPrfPngnS3CSTBHYbjc71uc6LAaWwWMNPEAhBQhLTogdfX0k86zYaSRdtMb5VxaaW%2bmRVLZ1kFuUjHoiU3DnKr1hwTFH2RjyVH0%2bkvoh5J2473p4WEAcwEGu0cbkopo0uGKBdgu45lweS1xncByHsc5RkSTt5XtJ4jYpzMHGU0JCobwocVoDRrWDIaByf6THsN8d28CiCvqU0mvdSGeyt9pZrFNIo3KeVbLuYHnmRx0uPU1z9aF2A03pcO1L5Ivg%3d&fich=AtividadesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "158feac9a195837800498c997c5f15d982e196bc878ba5194b23e12459159b60",
+  "legislatura": "IX",
+  "tipo": "Voto",
+  "numero": "34",
+  "data_registo": "2003-01-15",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de Pesar pelo falecimento do antigo Deputado e Vice-Presidente Dr.  João Amaral",
+    "AutoresGP": [
+      "PSD",
+      "PS",
+      "CDS-PP",
+      "PCP",
+      "BE",
+      "PEV",
+      "Guilherme Silva (PSD)",
+      "Telmo Correia (CDS-PP)",
+      "Rodeia Machado (PCP)",
+      "Lino de Carvalho (PCP)",
+      "Carlos Carvalhas (PCP)",
+      "Bernardino Soares (PCP)",
+      "António Filipe (PCP)",
+      "Isabel Castro (PEV)",
+      "Honório Novo (PCP)",
+      "Luísa Mesquita (PCP)",
+      "Jerónimo de Sousa (PCP)",
+      "Odete Santos (PCP)",
+      "Bruno Dias (PCP)",
+      "Francisco Louçã (BE)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2003-01-15",
+    "DataAnuncio": null,
+    "DataEntrada": "2003-01-15",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "IX",
+    "Numero": "34",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "275667",
+        "obs": null,
+        "pag": [
+          "210-210"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-01-18",
+        "pubLeg": "IX",
+        "pubNr": "29",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/029/2003-01-18/210?pgs=210&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "20238",
+        "obs": null,
+        "pag": [
+          "3098-3103"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-01-16",
+        "pubLeg": "IX",
+        "pubNr": "74",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3098?pgs=3098-3103&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2003-01-15",
+        "descricao": null,
+        "detalhe": null,
+        "id": "29611",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "275767",
+            "obs": null,
+            "pag": [
+              "3103-3103"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-01-16",
+            "pubLeg": "IX",
+            "pubNr": "74",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3103?pgs=3103&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "72",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
