@@ -1,0 +1,13 @@
+Declaração
+Tendo sido publicado com inexactidão o texto do artigo único do Decreto-Lei n.º 146/80 no Diário da República, 1.ª série, n.º 118, de 22 de Maio de 1980, de novo se procede à sua publicação:
+Artigo único. O n.º 3 do artigo 31.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 39672, de 20 de Maio de 1954, passa a ter a seguinte redacção:
+ARTIGO 31.º
+Instrumentos acústicos e capacetes de protecção
+1 - ...
+2 - ...
+3 - Os condutores e passageiros de motociclos com ou sem carro lateral devem obrigatoriamente proteger a cabeça com um capacete.
+Nos triciclos providos de cabina rígida é dispensável o uso deste acessório.
+A infracção ao disposto na primeira parte do presente número será punida com multa de 600$00 a 3000$00.
+4 - ...
+5 - ...
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Maio de 1980. - O Secretário-Geral, França Martins.
