@@ -1,0 +1,4 @@
+Portaria n.º 22551
+Atendendo à proposta que me foi feita pelo comandante-geral da Polícia de Segurança Pública no sentido de ser actualizada a verba de 350$00 destinada ao fundo de fardamento do pessoal da Polícia de Segurança Pública, e que se refere a Portaria n.º 12394, de 20 de Maio de 1948, em virtude de tal verba ser insuficiente para fazer face ao pagamento dos artigos de fardamento distribuídos ao referido pessoal:
+Manda o Governo da República Portuguesa, pelo Ministro do Interior, que a verba destinada ao Fundo de fardamento do pessoal da Polícia de Segurança Pública, a que se referem a citada portaria e o artigo 83.º do regulamento aprovado pelo Decreto de 21 de Dezembro de 1876, seja actualizada para 500$00.
+Ministério do Interior, 3 de Março de 1967. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.
