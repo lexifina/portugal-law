@@ -1,0 +1,1145 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "83",
+    "id": "29246",
+    "titulo": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1989-02-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5046",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1989-02-16",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-02-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218490",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1422-1424",
+                  "1428-1430"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1422?pgs=1422-1424,1428-1430&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218491",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1424-1425"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1424?pgs=1424-1425&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218492",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1425-1425"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1425?pgs=1425&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218493",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1425-1426"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1425?pgs=1425-1426&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218494",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1426-1426"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1426?pgs=1426&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218495",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1426-1427"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1426?pgs=1426-1427&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218496",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1427-1427",
+                  "1427-1427"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1427?pgs=1427,1427&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218497",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1427-1427",
+                  "1427-1427"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1427?pgs=1427,1427&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218498",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1427-1427"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1427?pgs=1427&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218499",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1428-1428"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1428?pgs=1428&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218500",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1428-1428"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1428?pgs=1428&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218501",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1430-1432",
+                  "1432-1432"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1430?pgs=1430-1432,1432&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218502",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1432-1432"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1432?pgs=1432&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218503",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1432-1434"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1432?pgs=1432-1434&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218504",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1434-1436",
+                  "1437-1437"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1434?pgs=1434-1436,1437&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Oliveira Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218505",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1436-1436"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1436?pgs=1436&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218506",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1436-1436"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1436?pgs=1436&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218507",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1436-1437"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1436?pgs=1436-1437&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218508",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1438-1438"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1438?pgs=1438&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218509",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1438-1438"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1438?pgs=1438&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218510",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1438-1438"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1438?pgs=1438&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218511",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1438-1438"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1438?pgs=1438&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218512",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1438-1439",
+                  "1440-1440"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1438?pgs=1438-1439,1440&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218514",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1439-1440"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1439?pgs=1439-1440&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218515",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1440-1441"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-17",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17/1440?pgs=1440-1441&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o governo a aprovar benefícios fiscais em sede de IRS, IRC e Contribuição Autárquica.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "226292",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5046",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-02-17",
+        "pubLeg": "V",
+        "pubNr": "40",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/040/1989-02-17?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
