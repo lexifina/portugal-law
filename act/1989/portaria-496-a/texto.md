@@ -1,0 +1,18 @@
+Portaria n.º 496-A/89
+de 3 de Julho
+Considerando a criação, pelo despacho conjunto de 30 de Junho de 1989, da Delegação Permanente de Portugal junto da Conferência de Segurança e Cooperação na Europa e dada a necessidade de dotá-la com o pessoal indispensável ao seu funcionamento:
+Manda o Governo, pelos Ministros da Defesa Nacional, das Finanças e dos Negócios Estrangeiros, nos termos do n.º 6 do despacho conjunto de 30 de Junho de 1989, do § 1.º do artigo 19.º e do artigo 21.º do Decreto-Lei n.º 47331, de 23 de Novembro de 1966, e do § 1.º do artigo 158.º do Decreto n.º 47478, de 31 de Dezembro de 1966, na redacção do Decreto n.º 433/72, de 3 de Novembro, o seguinte:
+1.º É aprovado o quadro do pessoal da Delegação Permanente de Portugal junto das Negociações Militares (CSBM e CFE), em Viena, no quadro da Conferência sobre Segurança e Cooperação na Europa, com a seguinte composição:
+a) Um chefe de missão, a designar nos termos do § 1.º do artigo 19.º do Decreto-Lei n.º 47331, de 2 de Novembro de 1966;
+b) Pessoal diplomático - três funcionários do quadro do pessoal do serviço diplomático;
+c) Pessoal militar - um conselheiro militar de patente não inferior a tenente-coronel ou capitão-de-fragata, a prover em comissão de serviço por despacho conjunto dos Ministros da Defesa Nacional e dos Negócios Estrangeiros;
+d) Pessoal administrativo - dois funcionários do quadro do pessoal administrativo do Ministério dos Negócios Estrangeiros;
+e) Pessoal assalariado:
+Um motorista;
+Um contínuo;
+Dois auxiliares de serviço.
+2.º O lugar de conselheiro militar que pela Portaria n.º 113/87, de 20 de Fevereiro, foi criado na Embaixada de Portugal em Viena transita, com o seu titular, sem quaisquer formalidades, para a Delegação Permanente, passando a integrar o quadro do pessoal militar previsto na alínea c) do n.º 1.º
+3.º Os lugares que pela Portaria n.º 458/88, de 12 de Julho, foram criados na Embaixada em Viena para a Conferência de Segurança e Cooperação na Europa transitam, com os seus titulares, para a Delegação Permanente, passando a integrar o quadro do pessoal assalariado previsto na alínea e) do n.º 1.º do presente diploma.
+Ministérios da Defesa Nacional, das Finanças e dos Negócios Estrangeiros.
+Assinada em 3 de Julho de 1989.
+Pelo Ministro da Defesa Nacional, Eugénio Manuel dos Santos Ramos, Secretário de Estado Adjunto do Ministro da Defesa Nacional. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro.
