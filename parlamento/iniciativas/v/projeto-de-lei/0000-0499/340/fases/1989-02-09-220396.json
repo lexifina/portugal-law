@@ -1,0 +1,725 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "340",
+    "id": "28711",
+    "titulo": "Lei quadro do ensino superior politécnico"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1989-02-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4425",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1989-02-09",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28775",
+        "leg": "V",
+        "nr": "287",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Estatuto e autonomia dos estabelecimentos de ensino superior politécnico"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-02-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217569",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1287-1290",
+                  "1291-1292",
+                  "1306-1307"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-10",
+                "pubLeg": "V",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/036/1989-02-10/1287?pgs=1287-1290,1291-1292,1306-1307&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto e autonomia dos estabelecimentos de ensino superior politécnico; Lei quadro do ensino superior politécnico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217570",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1290-1291"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-10",
+                "pubLeg": "V",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/036/1989-02-10/1290?pgs=1290-1291&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto e autonomia dos estabelecimentos de ensino superior politécnico; Lei quadro do ensino superior politécnico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217571",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1291-1291"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-10",
+                "pubLeg": "V",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/036/1989-02-10/1291?pgs=1291&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto e autonomia dos estabelecimentos de ensino superior politécnico; Lei quadro do ensino superior politécnico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217572",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1292-1295",
+                  "1296-1296"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-10",
+                "pubLeg": "V",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/036/1989-02-10/1292?pgs=1292-1295,1296&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto e autonomia dos estabelecimentos de ensino superior politécnico; Lei quadro do ensino superior politécnico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217573",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1295-1295"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-10",
+                "pubLeg": "V",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/036/1989-02-10/1295?pgs=1295&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto e autonomia dos estabelecimentos de ensino superior politécnico; Lei quadro do ensino superior politécnico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217574",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1295-1295"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-10",
+                "pubLeg": "V",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/036/1989-02-10/1295?pgs=1295&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto e autonomia dos estabelecimentos de ensino superior politécnico; Lei quadro do ensino superior politécnico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1296-1297",
+                  "1298-1298"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-10",
+                "pubLeg": "V",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/036/1989-02-10/1296?pgs=1296-1297,1298&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto e autonomia dos estabelecimentos de ensino superior politécnico; Lei quadro do ensino superior politécnico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1298-1298"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-10",
+                "pubLeg": "V",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/036/1989-02-10/1298?pgs=1298&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto e autonomia dos estabelecimentos de ensino superior politécnico; Lei quadro do ensino superior politécnico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1298-1300",
+                  "1302-1303"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-10",
+                "pubLeg": "V",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/036/1989-02-10/1298?pgs=1298-1300,1302-1303&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto e autonomia dos estabelecimentos de ensino superior politécnico; Lei quadro do ensino superior politécnico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217578",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1300-1301"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-10",
+                "pubLeg": "V",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/036/1989-02-10/1300?pgs=1300-1301&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto e autonomia dos estabelecimentos de ensino superior politécnico; Lei quadro do ensino superior politécnico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217579",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1301-1301"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-10",
+                "pubLeg": "V",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/036/1989-02-10/1301?pgs=1301&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto e autonomia dos estabelecimentos de ensino superior politécnico; Lei quadro do ensino superior politécnico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217580",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1302-1302"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-10",
+                "pubLeg": "V",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/036/1989-02-10/1302?pgs=1302&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto e autonomia dos estabelecimentos de ensino superior politécnico; Lei quadro do ensino superior politécnico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217581",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1302-1302"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-10",
+                "pubLeg": "V",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/036/1989-02-10/1302?pgs=1302&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto e autonomia dos estabelecimentos de ensino superior politécnico; Lei quadro do ensino superior politécnico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217582",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1303-1304"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-10",
+                "pubLeg": "V",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/036/1989-02-10/1303?pgs=1303-1304&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto e autonomia dos estabelecimentos de ensino superior politécnico; Lei quadro do ensino superior politécnico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217583",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1304-1306"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-02-10",
+                "pubLeg": "V",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/036/1989-02-10/1304?pgs=1304-1306&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto e autonomia dos estabelecimentos de ensino superior politécnico; Lei quadro do ensino superior politécnico.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "220396",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "332400",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-02-10",
+        "pubLeg": "V",
+        "pubNr": "36",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/036/1989-02-10?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
