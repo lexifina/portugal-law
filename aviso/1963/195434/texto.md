@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação do Ministério dos Negócios Estrangeiros e do Comércio Externo da Bélgica, a Irlanda depositou, no dia 22 de Janeiro de 1963, os instrumentos de adesão à Convenção sobre nomenclatura para a classificação de mercadorias nas tarifas aduaneiras, concluída em Bruxelas em 15 de Dezembro de 1950, e ao Protocolo de rectificação daquela mesma Convenção, concluído em Bruxelas em 1 de Julho de 1955, os quais entrarão a vigorar, em relação à Irlanda, em 22 de Abril de 1963, de harmonia com o artigo 5.º do Protocolo de rectificação.
+Direcção-Geral dos Negócios Económicos e Consulares, 18 de Março de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
