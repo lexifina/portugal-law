@@ -1,0 +1,96 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQVilCIEdFoP5Ww%2f%2fqsRuB90OA%2bwK5d8H3YAFk7qtc4xmEKIJT1IA86ryrlhndqpa90UsiBJlDaUwkc%2fgPQ8uKllf7%2f5%2bfn1Yxs73kEoa4Gpt1%2f6LpDYNz7QpIHvUcep2AtaEdIlQZhXmTP3f0y0ELe2sUfveir3uopnpvKUpNIOuYy2ie26m9F2EQf2OTip426QNtpGL4SOACElIiEJb7Tw9rDUzyA29O6B4HaGg8PppZVqp85kXMTyb%2bwXPY7OPHemElZOidaqakpTHxT3J5JiS24YPwCs3SCFA%2bDcSfxUE6Ixm5FKlXpDjo9lsaz3biVaVuUTUZxx8lIxLHSZvRWzzUdfIhpcMZ2PxdZLl3zoz3QZhTWj6SC%2fFCUO2%2f4d&fich=RequerimentosX_json.txt&Inline=true",
+  "ficheiro_sha256": "b0f140aa9cb4c8dc7872107c40ea2e63bb08206553d06f9e980797dbe72bd5a3",
+  "legislatura": "X",
+  "id": "33277",
+  "tipo": "Requerimento",
+  "numero": "26",
+  "data_registo": "2005-03-29",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Medidas de Fiscalização sobre a importação de espécimes de espécies protegidas",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "2184",
+        "nome": "Miguel Tiago"
+      }
+    ],
+    "DataEnvio": "2005-03-31",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2005-03-31",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Governo",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2005-06-23",
+            "docRemetida": null,
+            "entidade": "MIN.  DO  AMBIENTE E DO ORDENAMENTO DO TERRITÓRIO",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a46545443396d4e54557a5a47593359693035596a41794c54517a596a6b74596d55784d4330314e446c6d596a566b4e7a5268597a4d756347526d&fich=f553df7b-9b02-43b9-be10-549fb5d74ac3.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          },
+          {
+            "dataResposta": "2005-06-23",
+            "docRemetida": null,
+            "entidade": "MIN.  DE ESTADO  E DA  ADMINISTRAÇÃO INTERNA",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338314d325a694d7a41794d5330324d5468684c54526b5a5455744f574a6a4e6931695a544530597a63304d4467784e444d756347526d&fich=53fb3021-618a-4de5-9bc6-be14c7408143.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2005-03-29",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a46545443396c4f4449334f544a6a4d4330784d5451324c545269595755745954526d4d7930355a44526d4e57466d4e7a51774f4455756347526d&fich=e82792c0-1146-4bae-a4f3-9d4f5af74085.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "33277",
+    "Legislatura": "X",
+    "Nr": "26",
+    "Observacoes": "Amazónia",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "302003",
+        "obs": null,
+        "pag": [
+          "53-54"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2005",
+        "pubLeg": "X",
+        "pubNr": "3",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/01/003S1/2005-04-09/53?pgs=53-54&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
