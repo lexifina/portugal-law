@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 116/2001
+A SAI - Automotive Portugal, S. A., empresa do Grupo Faurecia, que se dedica à produção de peças plásticas e revestimentos para a indústria automóvel, está a implementar na sua unidade de Palmela um projecto de investimento com um custo total de cerca de 10 milhões de euros.
+O projecto, que teve início em Julho de 1999 e termina a Julho de 2001, destina-se a iniciar o novo ciclo de vida dos produtos a fornecer, incorporando todas as tecnologias desenvolvidas pelo Grupo, em colaboração com a Volkswagen.
+Para atingir tais objectivos, a empresa aplicará, do montante do investimento total, cerca de 989000 euros em investigação e desenvolvimento.
+Deste investimento, resultará a criação, em 2001, de 74 postos de trabalho, prevendo-se também para esse ano a obtenção de um valor de vendas que supera os 104 milhões de euros.
+Deste modo, a SAI assegurará os fornecimentos à Autoeuropa em sistema de just-in-time para a linha de montagem do novo modelo do seu monovolume.
+Pelo que, dado o seu impacto macroeconómico, se considera que o projecto é de grande interesse para a economia nacional e reúne as condições necessárias à admissão ao regime contratual de investimento estrangeiro e à concessão de incentivos financeiros e fiscais previstos para grandes projectos de investimento.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar as minutas do contrato de investimento e respectivos anexos, a celebrar entre o Estado Português, representado pelo ICEP Portugal - Investimento, Comércio e Turismo e a SAI - Automotive Portugal, sociedade anónima, com sede no Parque Industrial, Quinta da Marquesa, I, 2950-000 Palmela, com o número de pessoa colectiva 502815370, para realização do projecto de investimento de expansão e modernização da sua actual unidade industrial.
+2 - Atento o disposto nos n.os 1 a 3 do artigo 39.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, na redacção que lhe foi dada pelo Decreto-Lei n.º 198/2001, de 3 de Julho, e por força do artigo 14.º do Decreto-Lei n.º 409/99, de 15 de Outubro, sob proposta do Ministro das Finanças, conceder os benefícios fiscais em sede de IRC, contribuição autárquica e imposto do selo, que constam do contrato de investimento, cuja minuta, rubricada pelo Ministro das Finanças, ficará arquivada no ICEP.
+Presidência de Conselho de Ministros, 19 de Julho de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
