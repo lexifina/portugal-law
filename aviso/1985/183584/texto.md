@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que a Embaixada da Turquia em Berna notificou o Ministério dos Negócios Estrangeiros da Suíça estarem cumpridas as formalidades constitucionais para tornar aplicável ao território turco a Convenção Relativa à Emissão de Extractos Plurilingues de Actos de Estado Civil, concluída em Viena em 8 de Setembro de 1976, de que Portugal já é parte. Aquele Instrumento diplomático entra em vigor, com referência àquele país, em 30 de Junho de 1985.
+Secretaria-Geral do Ministério, 8 de Junho de 1985. - O Director dos Serviços Jurídicos e de Tratados, Francisco Manuel dos Reis Caldeira.
