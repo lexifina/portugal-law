@@ -1,13 +1,13 @@
 # Artigo 105.º
 
-### (Obras futuras)
+### (Reedições e edições sucessivas)
 
-1 - Ao contrato de edição que tenha em vista obras futuras aplica-se o disposto no artigo 52.º
+1 - Se o editor tiver sido autorizado a fazer várias edições, as condições estipuladas para a edição originária deverão, em caso de dúvida, aplicar-se às edições subsequentes.
 
-2 - Se a edição de obra futura tiver sido convencionada sem que no contrato se haja fixado prazo para a sua entrega ao editor, terá este o direito de requerer a fixação judicial de prazo para essa entrega.
+2 - Antes de empreender nova edição, o editor deve facultar ao autor a possibilidade de intervir no texto, para pequenas correcções ou apuramentos que não impliquem modificação substancial da obra.
 
-3 - O prazo fixado em contrato poderá ser judicialmente prorrogado, com motivos suficientes, a requerimento do autor.
+3 - Mesmo que o preço tenha sido globalmente fixado, o autor tem ainda direito a remuneração suplementar se acordar com o editor modificação substancial da obra, tal como refundição ou ampliação.
 
-4 - Se a obra objecto do contrato dever ser escrita à medida que for sendo publicada, em volumes ou fascículos, deverão fixar-se no contrato o número e a extensão, ao menos aproximados, dos volumes ou fascículos, adoptando-se, quanto à extensão, uma tolerância de 10%, salvo convenção que disponha diversamente.
+4 - O editor que se tiver obrigado a efectuar edições sucessivas de certa obra deve, sob pena de responder por perdas e danos, executá-las sem interrupção, de forma que nunca venham a faltar exemplares no mercado.
 
-5 - Se o autor exceder, sem prévio acordo do editor, as referidas proporções, não terá direito a qualquer remuneração suplementar e o editor poderá recusar-se a publicar os volumes, fascículos ou páginas em excesso, assistindo todavia ao autor o direito de rescindir o contrato, indemnizando o editor das despesas feitas e dos lucros esperados da edição. Se tiver começado a venda de parte da obra, atender-se-á aos resultados já obtidos para o cálculo da indemnização.
+5 - Exceptua-se, em relação ao princípio estabelecido no número anterior, o caso de força maior, não se considerando, porém, como tal a falta de meios financeiros para custear a nova edição nem o agravamento dos respectivos custos.

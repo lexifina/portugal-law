@@ -1,5 +1,5 @@
 # Artigo 207.º
 
-### (Regime das contra-ordenações)
+### (Efeito do recurso)
 
-Às contra-ordenações, em tudo quanto não se encontre especialmente regulado, são aplicáveis as disposições do Decreto-Lei n.º 433/82, de 27 de Outubro.
+Não tem efeito suspensivo o recurso da decisão que aplicar coima de montante inferior a 80000$00.

@@ -1,13 +1,9 @@
-## Secção VIII
-
-## Da obra fotográfica
-
 # Artigo 165.º
 
-### (Condições de protecção)
+### (Direitos do autor)
 
-1 - Para que a fotografia seja protegida é necessário que pela escolha do seu objecto ou pelas condições da sua execução possa considerar-se como criação artística pessoal do seu autor.
+1 - O autor da obra fotográfica tem o direito exclusivo de a reproduzir, difundir e pôr à venda com as restrições referentes à exposição, reprodução e venda de retratos e sem prejuízo dos direitos de autor sobre a obra reproduzida, no que respeita às fotografias de obras de artes figurativas.
 
-2 - Não se aplica o disposto nesta secção às fotografias de escritos, de documentos, de papéis de negócios, de desenhos técnicos e de coisas semelhantes.
+2 - Se a fotografia for efectuada em execução de um contrato de trabalho ou por encomenda, o direito previsto neste artigo pertence à entidade patronal ou à pessoa que fez a encomenda.
 
-3 - Consideram-se fotografias os fotogramas das películas cinematográficas.
+3 - Aquele que utilizar para fins comerciais a reprodução fotográfica deve pagar ao autor uma remuneração equitativa.

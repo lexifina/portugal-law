@@ -1,5 +1,11 @@
 # Artigo 187.º
 
-### (Casos excepcionais)
+### (Direitos dos organismos de radiodifusão)
 
-O disposto nos artigos 183.º, 184.º e 185.º não se aplica se o artista tiver consentido na inclusão da sua execução numa fixação de sons ou de imagens e de sons.
+Os organismos de radiodifusão gozam do direito de autorizar ou proibir:
+
+a) A retransmissão das suas emissões;
+
+b) A fixação em suporte material das suas emissões;
+
+c) A reprodução de fixações das suas emissões, quando estas não tiverem sido autorizadas ou se tratar de fixação efémera e a reprodução visar fins diversos daqueles com que foi feita.

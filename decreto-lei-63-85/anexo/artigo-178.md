@@ -1,7 +1,11 @@
 # Artigo 178.º
 
-### (Artigos de actualidade)
+### (Poder de impedir)
 
-1 - Os artigos de actualidade, de discussão económica, política ou religiosa, podem ser reproduzidos se a reprodução não tiver sido reservada.
+Os artistas intérpretes ou executantes podem impedir:
 
-2 - Nos casos previstos pelo número anterior, a origem deve sempre indicar-se claramente e mencionar-se o nome do autor, se o artigo estiver assinado.
+a) A radiodifusão ou a comunicação ao público, por qualquer meio, sem o seu consentimento, das prestações que tenham realizado, salvo quando se utilizem prestações já radiodifundidas ou já fixadas;
+
+b) A fixação, sem o seu consentimento, das prestações que não tenham sido fixadas;
+
+c) A reprodução, sem o seu consentimento, de fixação das suas prestações quando esta não tenha sido autorizada, quando a reprodução seja feita para fins diversos daqueles para os quais foi dado o consentimento ou quando a primeira fixação tenha sido feita ao abrigo do artigo 189.º e a respectiva reprodução vise fins diferentes dos previstos nesse artigo.

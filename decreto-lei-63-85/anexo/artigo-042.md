@@ -1,5 +1,5 @@
 # Artigo 42.º
 
-### (Protecção de obra estrangeira)
+### (Limites da transmissão e da oneração)
 
-A duração da protecção dispensada a obra com origem noutro país é a fixada nos preceitos anteriores, se não exceder a fixada na lei do país de origem.
+Não podem ser objecto de transmissão nem oneração, voluntárias ou forçadas, os poderes concedidos para tutela dos direitos morais, nem quaisquer outros excluídos por lei.

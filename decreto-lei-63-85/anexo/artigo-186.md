@@ -1,7 +1,5 @@
 # Artigo 186.º
 
-### (Representação dos artistas)
+### (Duração)
 
-1 - Quando na execução participem vários artistas, os seus direitos serão exercidos, na falta de acordo, pelo director do conjunto.
-
-2 - Não havendo director do conjunto, os actores serão representados pelo encenador e os membros da orquestra ou os membros do coro pelo maestro ou director respectivo.
+A protecção do produtor subsiste pelo período de vinte e cinco anos, contados do primeiro dia do ano subsequente àquele em que ocorreu a fixação.

@@ -1,13 +1,9 @@
-## Título IV
-
-## Da violação e defesa do direito de autor e dos direitos conexos
-
 # Artigo 201.º
 
-### (Violação do direito moral)
+### (Apreensão e perda de coisas relacionadas com a prática de crime)
 
-1 - Quem se arrogar fraudulentamente a paternidade de uma obra ou de prestação de um artista que sabe não lhe pertencer será punido com prisão até 1 ano e multa de 100 a 200 dias.
+1 - Serão sempre apreendidos os exemplares ou cópias das obras usurpadas ou contrafeitas, quaisquer que sejam a natureza da obra e a forma de violação, bem como os respectivos invólucros materiais, máquinas ou demais instrumentos ou documentos de que haja suspeita de terem sido utilizados ou destinarem-se à prática da infracção.
 
-2 - Na mesma pena incorre quem fraudulentamente atentar contra a genuinidade ou integridade da obra ou prestação de artista, praticando acto que a desvirtue e possa afectar a honra e reputação do autor ou do artista.
+2 - O destino de todos os objectos apreendidos será fixado na sentença final, independentemente de requerimento, e, quando se provar que se destinavam ou foram utilizados na infracção, consideram-se perdidos a favor do Estado, sendo as cópias ou exemplares obrigatoriamente destruídos, sem direito a qualquer indemnização.
 
-3 - O procedimento criminal depende de queixa.
+3 - Nos casos de flagrante delito, têm competência para proceder à apreensão as autoridades policiais e administrativas, designadamente a Polícia judiciária, a Polícia de Segurança Pública, a Guarda Nacional Republicana, a Guarda Fiscal e a Direcção-Geral da Inspecção Económica.

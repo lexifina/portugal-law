@@ -1,11 +1,13 @@
 # Artigo 91.º
 
-### (Obrigações do editor)
+### (Retribuição)
 
-1 - O editor é obrigado a consagrar à execução da edição os cuidados necessários à reprodução da obra nas condições convencionadas e a fomentar, com zelo e diligência, a sua promoção e a colocação no mercado dos exemplares produzidos, devendo, em caso de incumprimento, indemnização ao autor por perdas e danos.
+1 - O contrato de edição presume-se oneroso.
 
-2 - Não havendo convenção em contrário, o editor deverá iniciar a reprodução da obra no prazo de 4 meses a contar da entrega do original e concluí-la no prazo de 9 meses a contar da mesma data, salvo caso de força maior devidamente comprovado, em que o editor deverá concluir a obra no semestre seguinte à expiração deste último prazo.
+2 - A retribuição do autor é a estipulada no contrato de edição e pode consistir numa quantia fixa, a pagar pela totalidade da edição, numa percentagem sobre o preço, de capa de cada exemplar, na atribuição ele certo número de exemplares, ou em prestação estabelecida em qualquer outra base, segundo a natureza da obra podendo sempre recorrer-se à combinação das modalidades.
 
-3 - Não se consideram casos de força maior a falta de meios financeiros para custear a edição nem o agravamento dos respectivos custos.
+3 - Na falta de estipulação quanto à retribuição do autor, tem este direito a um terço do preço de venda ao público de cada exemplar vendido.
 
-4 - Se a obra versar assunto de grande actualidade ou de natureza tal que perca o interesse literário ou artístico ou a oportunidade em caso de demora na publicação, o editor será obrigado a dar início imediato à reprodução e a tê-la concluída em prazo susceptível de evitar os prejuízos da perda referida.
+4 - Se a retribuição consistir numa percentagem sobre o preço de capa, incidirão no seu cálculo os aumentos ou reduções do respectivo preço.
+
+5 - Exceptuado o caso do artigo 99.º, o editor só pode determinar reduções do preço com o acordo do autor, a menos que lhe pague a retribuição correspondente ao preço anterior.

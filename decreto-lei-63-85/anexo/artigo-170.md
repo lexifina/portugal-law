@@ -1,5 +1,5 @@
 # Artigo 170.º
 
-### (Reprodução livre)
+### (Compensação suplementar)
 
-É livre a reprodução e comunicação pela imprensa, pelo cinema, pela radiodifusão ou por qualquer outro meio de obras literárias ou artísticas, quando a sua inclusão em relato de acontecimentos de actualidade for justificada pelo fim de informação prosseguido.
+O tradutor tem direito a uma compensação suplementar sempre que o editor, o empresário, o produtor ou qualquer outra entidade utilizar a tradução para além dos limites convencionados ou estabelecidos neste Código.

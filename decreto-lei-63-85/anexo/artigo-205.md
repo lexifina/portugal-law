@@ -1,7 +1,13 @@
 # Artigo 205.º
 
-### (Apreensão e perda de coisas relacionadas com a prática de crime)
+### (Das contra-ordenações)
 
-1 - Serão sempre apreendidos e declarados perdidos a favor do Estado os exemplares de cópias das obras que serviram ou estavam destinadas a servir para a prática dos crimes atrás referidos ou que por eles foram produzidos, bem como os respectivos invólucros materiais.
+1 - Constitui contra-ordenação punível com coima de 50000$00 a 500000$00:
 
-2 - Sem prejuízo do disposto no artigo seguinte, o tribunal ordenará que os objectos referidos no número anterior sejam destruídos total ou parcialmente ou postos fora de comércio.
+a) A falta de comunicação pelos importadores, fabricantes e vendedores de suportes materiais para obras fonográficas e videográficas das quantidades importadas, fabricadas e vendidas, de harmonia com o estatuído no n.º 2 do artigo 143.º;
+
+b) A falta de comunicação pelos fabricantes e duplicadores de fonogramas e videogramas das quantidades que prensarem ou duplicarem, conforme o estipulado no n.º 3 do artigo 143.º
+
+2 - Constitui contra-ordenação punível com coima de 20000$00 a 200000$00 a inobservância do disposto nos artigos 97.º, 115.º, n.º 4, 126.º, n.º 2, 134.º, 142.º, 154.º, 160.º, n.º 3, 171.º e 185.º e, não se dispensando indicação do nome ou pseudónimo do artista, também no artigo 180.º, n.º 1.
+
+3 - A negligência é punível.

@@ -1,5 +1,5 @@
 # Artigo 192.º
 
-### (Duração)
+### (Modos de exercício)
 
-A protecção do produtor subsistirá pelo período de 10 anos, contados do primeiro dia do ano subsequente àquele em que ocorreu a fixação.
+As disposições sobre os modos de exercício dos direitos de autor aplicam-se no que couber aos modos de exercício dos direitos conexos.

@@ -9,5 +9,3 @@ a) O realizador;
 b) O autor do argumento, dos diálogos, se for pessoa diferente, e o da banda musical.
 
 2 - Quando se trate de adaptação de obra não composta expressamente para o cinema, consideram-se também co-autores os autores da adaptação e dos diálogos.
-
-3 - Os direitos dos criadores não co-autores são regulados nos termos do artigo 20.º

@@ -4,7 +4,7 @@
 
 1 - São obras equiparadas a originais:
 
-a) As traduções, arranjos, instrumentações, dramatizações e outras transformações de qualquer obra literária ou artística, ainda que esta não esteja protegida;
+a) As traduções, arranjos, instrumentações, dramatizações, cinematizações, e outras transformações de qualquer obra, ainda que esta não seja objecto de protecção;
 
 b) Os sumários e as compilações de obras protegidas ou não, tais como selectas, enciclopédias e antologias que, pela escolha ou disposição das matérias, constituam criações intelectuais;
 

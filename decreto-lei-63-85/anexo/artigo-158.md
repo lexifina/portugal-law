@@ -1,11 +1,5 @@
-## Secção VII
-
-## Da criação de artes plásticas, gráficas a aplicadas
-
 # Artigo 158.º
 
-### (Da exposição)
+### (Responsabilidade pelas obras expostas)
 
-1 - Só o autor pode expor ou autorizar outrem a expor publicamente as suas obras de arte.
-
-2 - A alienação de obra de arte envolve, salvo convenção expressa em contrário, a atribuição do direito de a expor.
+A entidade promotora de exposição de obras de arte responde pela integridade das obras expostas, sendo obrigada a fazer o seguro das mesmas contra incêndio, roubo e quaisquer outros riscos de destruição ou deterioração, bem como a conservá-las no respectivo recinto enquanto durar a exposição.

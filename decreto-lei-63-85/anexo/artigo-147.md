@@ -1,5 +1,5 @@
 # Artigo 147.º
 
-### (Cessão dos direitos do produtor)
+### (Regime aplicável)
 
-Aquele com quem tiver sido contratada a fixação não pode, salvo no caso de trespasse do estabelecimento, nomeadamente por cisão, transferir para terceiro os direitos emergentes do contrato de autorização sem consentimento dos autores.
+Ao contrato de autorização para fixação fonográfica ou videográfica são aplicáveis, com as necessárias adaptações, as disposições relativas ao contrato de edição.

@@ -1,5 +1,9 @@
 # Artigo 32.º
 
-### (Reciprocidade)
+### (Obra feita em colaboração e obra colectiva)
 
-As criações literárias ou artísticas de estrangeiros ou que tiverem como país de origem um país estrangeiro beneficiam da protecção conferida pela lei portuguesa, sob reserva de reciprocidade.
+1 - O direito de autor sobre a obra feita em colaboração, como tal, caduca 50 anos após a morte do colaborador que falecer em último lugar.
+
+2 - O direito de autor sobre obra colectiva ou originariamente atribuída a pessoa colectiva caduca, salvo disposição especial, 50 anos após a primeira divulgação ou publicação.
+
+3 - A duração do direito de autor atribuído individualmente ao colaborador de obra feita em colaboração e de obra colectiva, em relação às respectivas contribuições pessoais que possam discriminar-se é a que se estabelece no artigo 31.º

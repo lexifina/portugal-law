@@ -1,5 +1,5 @@
 # Artigo 211.º
 
-### (Destino do produto das coimas)
+### (Indemnização)
 
-O montante das coimas aplicadas pelas contra-ordenações reverte para o Fundo de Fomento Cultural.
+Para o cálculo da indemnização devida ao autor lesado, atender-se-á sempre à importância da receita resultante do espectáculo ou espectáculos ilicitamente realizados.

@@ -1,11 +1,19 @@
 # Artigo 179.º
 
-### (Trabalhos jornalísticos por conta de outrem)
+### (Autorização para radiodifundir)
 
-1 - O direito de autor sobre trabalho jornalístico produzido em cumprimento de um contrato de trabalho que comporte identificação de autoria, por assinatura ou outro meio, pertence ao autor.
+1 - Na falta de acordo em contrário, a autorização para radiodifundir uma prestação implica autorização para a sua fixação e posterior radiodifusão e reprodução dessa fixação, bem como para a radiodifusão de fixações licitamente autorizadas por outro organismo de radiodifusão.
 
-2 - Salvo autorização de empresa proprietária do jornal ou publicação congénere, o autor não poderá publicar em separado o trabalho referido no número anterior antes de decorridos 3 meses sobre a data em que tiver sido posta a circular a publicação em que haja sido inserto.
+2 - O artista tem, todavia, direito a remuneração suplementar sempre que, sem estarem previstas no contrato inicial, forem realizadas as seguintes operações:
 
-3 - Tratando-se de trabalho publicado em série, o prazo referido no número anterior tem início à data da distribuição do número da publicação em que tiver sido inserto o último trabalho da série.
+a) Uma nova transmissão;
 
-4 - Se os trabalhos referidos não estiverem assinados ou não contiverem identificação do autor, o direito de autor sobre os mesmos será imputado à empresa a que pertencer o jornal ou a publicação em que tiverem sido insertos, e só com autorização desta poderão ser publicados em separado por aqueles que os escreverem.
+b) A retransmissão por outro organismo de radiodifusão;
+
+c) A comercialização de fixações obtidas para fins de radiodifusão.
+
+3 - A retransmissão e a nova transmissão não autorizadas dão ao artista o direito de receber 20% da remuneração primitivamente fixada.
+
+4 - A comercialização dá ao artista o direito de receber 20% da quantia que o organismo de radiodifusão que fixou a prestação receber do adquirente.
+
+5 - O artista pode estipular com os organismos de radiodifusão condições diversas das referidas nos números anteriores.

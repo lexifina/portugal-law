@@ -1,19 +1,19 @@
+## Título IV
+
+## Da violação e defesa do direito de autor e dos direitos conexos
+
 # Artigo 195.º
 
-### (Utilizações livres)
+### (Usurpação)
 
-1 - A protecção concedida neste título não abrange:
+1 - Comete o crime de usurpação quem, sem autorização do autor ou do artista, do produtor de fonograma e videograma ou do organismo de radiodifusão, utilizar uma obra ou prestação por qualquer das formas previstas neste Código.
 
-a) O uso privado;
+2 - Comete também o crime de usurpação:
 
-b) Os excertos de uma execução, um fonograma, um videograma ou uma emissão de radiodifusão, contanto que o recurso a esses excertos se justifique por propósito de informação ou crítica ou qualquer outro dos que autorizam as citações ou resumos referidos na alínea f) do artigo 76.º;
+a) Quem divulgar ou publicar abusivamente uma obra ainda não divulgada nem publicada pelo seu autor ou não destinada a divulgação ou publicação, mesmo que a apresente como sendo do respectivo autor, quer se proponha ou não obter qualquer vantagem económica;
 
-c) A utilização destinada a fins exclusivamente científicos ou pedagógicos;
+b) Quem coligir ou compilar obras publicadas ou inéditas sem a autorização do autor;
 
-d) Os casos em que os actos de que se trata constituam utilização lícita de obras objecto de direito de autor;
+c) Quem, estando autorizado a utilizar uma obra, prestação de artista, fonograma, videograma ou emissão radiodifundida, exceder os limites da autorização concedida, salvo nos casos expressamente previstos neste Código.
 
-e) A fixação efémera feita por organismo de radiodifusão;
-
-f) As fixações ou reproduções realizadas por entes públicos ou concessionários de serviços públicos por algum interesse excepcional de documentação ou para arquivo.
-
-2 - A protecção outorgada neste capítulo ao artista não abrange a execução decorrente do exercício de dever funcional ou de contrato de trabalho.
+3 - Será punido com as penas previstas no artigo 197.º o autor que, tendo transmitido, total ou parcialmente, os respectivos direitos ou tendo autorizado a utilização da sua obra por qualquer dos modos previstos neste Código, a utilizar directa ou indirectamente com ofensa dos direitos atribuídos a outrem.

@@ -1,9 +1,9 @@
 # Artigo 160.º
 
-### (Forma e conteúdo do contrato de reprodução)
+### (Identificação da obra)
 
-1 - A reprodução das criações de artes plásticas, gráficas e aplicadas, design, projectos de arquitectura e planos de urbanização só pode ser feita pelo autor ou por outrem com a sua autorização.
+1 - O contrato deverá conter indicações que permitam identificar a obra, tais como a sua descrição sumária, debuxo, desenho ou fotografia, com a assinatura do autor.
 
-2 - A autorização referida no artigo anterior deve ser dada por escrito, presume-se onerosa e pode ser condicionada.
+2 - As reproduções não podem ser postas à venda sem que o autor tenha aprovado o exemplar submetido a seu exame.
 
-3 - São aplicáveis ao contrato as disposições do artigo 89.º, devendo, porém, fixar-se nele o número mínimo de exemplares a vender anualmente, abaixo do qual a entidade que explora a reprodução poderá usar das faculdades nesse artigo reconhecidas.
+3 - Em todos os exemplares reproduzidos deve figurar o nome, pseudónimo ou outro sinal que identifique o autor.

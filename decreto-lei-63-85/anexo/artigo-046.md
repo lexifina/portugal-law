@@ -1,5 +1,9 @@
 # Artigo 46.º
 
-### (Limites da cessão e da oneração)
+### (Penhor)
 
-Não podem ser objecto de cessão nem oneração, voluntárias ou forçadas, os poderes concedidos para tutela exclusiva do criador intelectual, nem quaisquer outros excluídos por lei.
+1 - O conteúdo patrimonial do direito de autor pode ser dado em penhor.
+
+2 - Em caso de execução, recairá especificamente sobre o direito ou direitos que o devedor tiver oferecido em garantia relativamente à obra ou obras indicadas.
+
+3 - O credor pignoratício não adquire quaisquer direitos quanto aos suportes materiais da obra.

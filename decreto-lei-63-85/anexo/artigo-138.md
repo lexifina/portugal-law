@@ -1,5 +1,5 @@
 # Artigo 138.º
 
-### (Prazo de cumprimento do contrato)
+### (Falência do produtor)
 
-Se o produtor não concluir a produção da obra cinematográfica no prazo de 3 anos a contar da data da entrega da parte literária e da parte musical ou não fizer projectar a película concluída no prazo de 3 anos a contar da conclusão, o autor ou co-autores terão o direito de rescindir o contrato.
+Em caso de falência do produtor, se houver de proceder-se à venda por baixo preço, na totalidade ou por lotes, de cópias da obra cinematográfica, deverá o administrador da massa falida prevenir do facto o autor ou co-autores desta com a antecedência mínima de vinte dias, a fim de os habilitar a tomar as providências que julgarem convenientes para defesa dos seus interesses materiais e morais e, bem assim, para exercerem o direito de preferência na aquisição das cópias em arrematação.

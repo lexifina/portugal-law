@@ -1,13 +1,15 @@
 # Artigo 106.º
 
-### (Reedições e edições sucessivas)
+### (Resolução do contrato)
 
-1 - Se o editor tiver sido autorizado a fazer várias edições, as condições estipuladas para a edição originária deverão, em caso de dúvida, aplicar-se às edições subsequentes.
+1 - O contrato de edição pode ser resolvido:
 
-2 - Antes de empreender nova edição, o editor deverá facultar ao autor a possibilidade de intervir no texto, para pequenas correcções ou apuramentos que não impliquem modificação substancial da obra.
+a) Se for declarada a interdição do editor;
 
-3 - Para além disto, mesmo que o preço tenha sido globalmente fixado, o autor terá direito a remuneração suplementar se convencionar com o editor modificação substancial da obra, como refundição ou ampliação.
+b) Por morte do editor em nome individual, se o seu estabelecimento não continuar com algum ou alguns dos seus sucessores;
 
-4 - O editor que se tiver obrigado a edições sucessivas de certa obra deverá. sob pena de responder por perdas e danos, executá-las sem interrupção, de forma que nunca venham a faltar exemplares no mercado.
+c) Se o autor não entregar o original dentro do prazo convencionado ou se o editor não concluir a edição no prazo estabelecido no n.º 2 do artigo 90.º, salvo caso de força maior devidamente comprovado;
 
-5 - Exceptua-se, em relação ao princípio estabelecido no número anterior, o caso de força maior, não se considerando, porém, como tal a falta de meios financeiros para custear a nova edição nem o agravamento dos respectivos custos.
+d) Em todos os demais casos especialmente previstos e, de um modo geral, sempre que se verificar o incumprimento de qualquer das cláusulas contratuais ou das disposições legais directa ou supletivamente aplicáveis.
+
+2 - A resolução do contrato entende-se sempre sem prejuízo da responsabilidade por perdas e danos da parte a quem for imputável.

@@ -1,5 +1,5 @@
 # Artigo 119.º
 
-### (Proibição da cesão dos direitos do empresário)
+### (Representação de obra não divulgada)
 
-O empresário não pode alienar os direitos emergentes do contrato de representação sem o consentimento da outra parte.
+O autor que tiver contratado a representação de obra ainda não divulgada poderá publicá-la, impressa ou reproduzida por qualquer outro processo, salvo se outra coisa tiver sido convencionada com o empresário.
