@@ -1,0 +1,5 @@
+Despacho conjunto
+A comissão administrativa da firma F. A. Caiado - Indústrias de Produtos Alimentares, S. A. R. L., nomeada por despacho conjunto dos Ministros das Finanças, da Indústria e Tecnologia e da Agricultura e Pescas, publicado no Diário do Governo, 1.ª série, n.º 273, de 25 de Novembro de 1975, e cujo prazo de mandato foi prorrogado por despacho publicado no Diário do Governo, 2.ª série, n.º 42, de 19 de Fevereiro de 1976, apresentou nesta data o relatório a que se refere o ponto 5 do primeiro despacho.
+Verificando-se a necessidade de que se mantenham em funções até que seja concluída a análise daquele relatório e que sejam postas em execução as medidas de base propostas que se julguem indispensáveis:
+Determina-se que o prazo de mandato da comissão administrativa nomeada para a firma F. A. Caiado seja prolongado até 30 de Julho próximo futuro.
+Ministérios das Finanças, da Indústria e Tecnologia e da Agricultura e Pescas, 8 de Junho de 1976. - O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa. - O Ministro da Agricultura e Pescas, António Poppe Lopes Cardoso.
