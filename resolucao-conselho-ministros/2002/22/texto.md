@@ -1,0 +1,13 @@
+Resolução do Conselho de Ministros n.º 22/2002
+A Internet assume nos nossos dias um papel de enorme relevo como veículo de acesso à informação e de transmissão de conhecimento, como o atesta o seu sempre crescente número de utilizadores e o constante aumento de sítios e da informação neles disponibilizada.
+O Estado não pode ignorar esta situação. Importante é, naturalmente, a disponibilização na Internet da informação que produza ou de que seja detentor, bem como o incremento dos contactos com os cidadãos por via electrónica. É um esforço que tem vindo a ser feito e que deve prosseguir.
+A constituição, pelo Estado, de sítios próprios na Internet, onde seja divulgada informação de interesse para os cidadãos, é essencial. Há, contudo, que assegurar que essa informação chega a um número tão grande quanto possível dos seus potenciais destinatários. Não basta, portanto, colocar informação na Internet. Tão ou mais importante é assegurar que essa informação chega aos seus destinatários e que estes lhe têm um efectivo acesso.
+Importa, por isso, estimular a publicitação de informação do Estado e a referenciação dos sítios na Internet de que seja titular em outros sítios, quer de conteúdo especializado, quer de conteúdo generalista, por forma a que o público alvo da informação que se pretende divulgar seja efectivamente atingido.
+Dessa forma se contribui igualmente para a dinamização do mercado publicitário na Internet, objectivo assumido pelo Governo no plano de acção da Iniciativa Internet, aprovado pela Resolução do Conselho de Ministros n.º 110/2000, de 22 de Agosto.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Os serviços e organismos públicos integrados na administração directa e indirecta do Estado devem, sempre que apropriado, promover a referenciação dos sítios da Internet que operam.
+2 - A referenciação a que alude o número anterior visa a divulgação dos sítios da Internet nele referidos e a sensibilização para o seu conteúdo devendo, designadamente, ser feita em sítios da Internet operados por terceiros.
+3 - Os serviços e organismos referidos no número anterior devem, ainda, actuar no sentido de toda a publicidade que coloquem em órgãos de comunicação social ser também publicada ou referenciada em sítios da Internet operados por terceiros.
+4 - Os sítios referidos nos números anteriores podem revestir teor generalista ou especializado, devendo ser escolhidos em função da respectiva adequação ao fim de divulgação visado, tendo nomeadamente em conta a respectiva qualidade e o perfil dos seus utilizadores.
+Presidência do Conselho de Ministros, 10 de Janeiro de 2002. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
