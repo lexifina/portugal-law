@@ -1,0 +1,6 @@
+Aviso n.º 26/2001
+Por ordem superior se torna público que, agindo na sua qualidade de depositário dos Protocolos Adicionais I e II às Convenções para a protecção das vítimas da guerra, adoptados em Genebra em 8 de Junho de 1977, o Conselho Federal Suíço notificou ter a República do Panamá depositado, em 26 de Outubro de 1999, a seguinte declaração:
+Tradução
+O Governo da República do Panamá declara reconhecer em pleno direito e sem acordo especial, perante qualquer alta Parte Contratante que aceite a mesma obrigação, a competência da Comissão Internacional de Investigação para levar a cabo investigações sobre as alegações de tal outra Parte, como o autoriza o artigo 90.º do Protocolo I Adicional às Convenções de Genebra de 12 de Agosto de 1949.
+Portugal é Parte nos mesmos Protocolos, os quais foram aprovados, para ratificação, pela Resolução da Assembleia da República n.º 10/92, de 1 de Abril, tendo depositado o seu instrumento de ratificação em 27 de Maio de 1992, conforme os Avisos n.os 100/92, de 17 de Julho, e 277/94, de 28 de Outubro, tornando pública a declaração facultativa referente ao artigo 90.º do I Protocolo.
+Departamento de Assuntos Jurídicos, 29 de Janeiro de 2001. - A Directora, Maria Margarida Aleixo Antunes Rei.
