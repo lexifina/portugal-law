@@ -1,0 +1,3093 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=sHIRRaZSClvqs2fgPou4a23MGhhl3X0gpgbp%2btNARhGZicYLOXPZWkruq4vVo2sWGLeVuvGAgqbFJbJwQRW44CI9tfmX%2bbWTsyeHmJUtTMccM5o%2bccvn1sCfcA%2fpd%2bu%2fwKJ%2bFD1ev4cnIw3pVnfMa%2bhzSz6cuwzZblBv5LWM36SEbL%2bBs5zO8uiZpaydxrwOvnbXHxO20Qolz2olAmCgsT1gDBlsVm7WmD5xQWyQKm1VSK31nRXYjP8b8P%2feFXtP5tOSkcyuffzIm3hAkBaoFGuUyO4s%2fkJ5BzS9ISNRC1O2ZlNJZ6At2vSnnzEc478srqvpEWstyCICdzJ0iIVMlkL18DFe0lclA2tQQF6038g%3d&fich=IniciativasIV_json.txt&Inline=true",
+  "ficheiro_sha256": "66d499906f5f48d8fdeb07035c408bad3bf810ad88e2ed743ec1b74baa57e0d7",
+  "legislatura": "IV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "15",
+    "id": "28138",
+    "titulo": "Grandes Opções do Plano para 1986"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1986-03-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13461",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1986-03-19",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "28119",
+        "leg": "IV",
+        "nr": "16",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1124",
+            "obs": null,
+            "pag": [
+              "1613-1671"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1986-03-20",
+            "pubLeg": "IV",
+            "pubNr": "47",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1613?pgs=1613-1671&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Orçamento de Estado para 1986"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1986-03-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "56",
+                "nome": "Guido Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230050",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1613-1614"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1613?pgs=1613-1614&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "1341",
+                "nome": "José Gama"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230051",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1614-1615"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1614?pgs=1614-1615&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO PLAN. ADM. TERRITORIO",
+              "governo": "X GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Valente De Oliveira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230052",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1615-1621",
+                  "1626-1628"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1615?pgs=1615-1621,1626-1628&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "164",
+                "nome": "Eduardo Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230053",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1621-1621"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1621?pgs=1621&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "2953",
+                "nome": "Carlos Corrêa Gago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230054",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1621-1622"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1621?pgs=1621-1622&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "3098",
+                "nome": "Horácio Marçal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230055",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1622-1622"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1622?pgs=1622&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2967",
+                "nome": "Daniel Bastos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230056",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1622-1622"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1622?pgs=1622&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "21",
+                "nome": "Roleira Marinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230057",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1622-1623"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1622?pgs=1622-1623&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3068",
+                "nome": "Raul Junqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230058",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1623-1623"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1623?pgs=1623&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "2944",
+                "nome": "Barbosa da Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230059",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1623-1623"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1623?pgs=1623&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "1627",
+                "nome": "Maria Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230060",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1623-1624"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1623?pgs=1623-1624&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230061",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1624-1624"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1624?pgs=1624&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "2956",
+                "nome": "Carlos Lilaia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230062",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1624-1625"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1624?pgs=1624-1625&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "MDP/CDE",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230063",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1625-1625"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1625?pgs=1625&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "569",
+                "nome": "Ilda Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230064",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1625-1625"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1625?pgs=1625&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "3149",
+                "nome": "Andrade Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230065",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1625-1626"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1625?pgs=1625-1626&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "119",
+                "nome": "Mário Maciel"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230066",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1626-1626"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1626?pgs=1626&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230067",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1628-1630"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1628?pgs=1628-1630&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "3243",
+                "nome": "Francisco Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230068",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1630-1631"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1630?pgs=1630-1631&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "3081",
+                "nome": "Victor Ávila da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230069",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1631-1634",
+                  "1634-1634"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1631?pgs=1631-1634,1634&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3162",
+                "nome": "Próspero Luís"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230070",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1634-1634"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1634?pgs=1634&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2126",
+                "nome": "Zita Seabra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230071",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1634-1635"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1634?pgs=1634-1635&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  AGRICULTURA, PESCAS E ALIMENTAÇÃO",
+              "governo": "X GOVERNO CONSTITUCIONAL",
+              "nome": "Álvaro Barreto"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230072",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1635-1638",
+                  "1641-1644"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1635?pgs=1635-1638,1641-1644&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "217",
+                "nome": "Rogério Brito"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230073",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1638-1638"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1638?pgs=1638&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "4788",
+                "nome": "Magalhães Mota"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230074",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1638-1639"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1638?pgs=1638-1639&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "MDP/CDE",
+                "idCadastro": "568",
+                "nome": "Raul Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230075",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1639-1639"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1639?pgs=1639&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "2927",
+                "nome": "António Barreto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1639-1640"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1639?pgs=1639-1640&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "3189",
+                "nome": "António Neiva Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1640-1640"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1640?pgs=1640&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "3149",
+                "nome": "Andrade Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1640-1640"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1640?pgs=1640&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "1627",
+                "nome": "Maria Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230079",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1640-1641"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1640?pgs=1640-1641&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "2984",
+                "nome": "Francisco Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230080",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1644-1645",
+                  "1645-1646"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1644?pgs=1644-1645,1645-1646&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3105",
+                "nome": "Joaquim Domingues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230081",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1645-1645"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1645?pgs=1645&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1646-1647"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1646?pgs=1646-1647&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  JUVENTUDE",
+              "governo": "X GOVERNO CONSTITUCIONAL",
+              "nome": "Couto dos Santos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230083",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1647-1648",
+                  "1651-1652"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1647?pgs=1647-1648,1651-1652&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "3227",
+                "nome": "Ana Crugeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230084",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1648-1649"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1648?pgs=1648-1649&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2940",
+                "nome": "António Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230085",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1649-1649"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1649?pgs=1649&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3225",
+                "nome": "Jorge Patrício"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230086",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1649-1649"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1649?pgs=1649&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "124",
+                "nome": "Miguel Relvas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230087",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1650-1650"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1650?pgs=1650&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "183",
+                "nome": "José Apolinário"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230088",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1650-1650"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1650?pgs=1650&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "35",
+                "nome": "Carlos Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230089",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1650-1651"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1650?pgs=1650-1651&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "62",
+                "nome": "João Poças Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230090",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1652-1653"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1652?pgs=1652-1653&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "202",
+                "nome": "Raul Brito"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230091",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1653-1654",
+                  "1655-1656"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1653?pgs=1653-1654,1655-1656&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "3169",
+                "nome": "Cristina Albuquerque"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230092",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1654-1655"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1654?pgs=1654-1655&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3019",
+                "nome": "José Manuel Casqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230093",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1655-1655"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1655?pgs=1655&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "273",
+                "nome": "Carlos Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230094",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1655-1655"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1655?pgs=1655&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  EDUCAÇÃO E CULTURA",
+              "governo": "X GOVERNO CONSTITUCIONAL",
+              "nome": "Joao De Deus Pinheiro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230095",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1656-1658",
+                  "1661-1662"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1656?pgs=1656-1658,1661-1662&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3007",
+                "nome": "Jorge Lemos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230096",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1658-1659"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1658?pgs=1658-1659&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "3248",
+                "nome": "Gomes de Pinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230097",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1659-1659"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1659?pgs=1659&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2967",
+                "nome": "Daniel Bastos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230098",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1660-1660"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1660?pgs=1660&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3242",
+                "nome": "José Fillol"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230099",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1660-1660"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1660?pgs=1660&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "1627",
+                "nome": "Maria Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230100",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1660-1660"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1660?pgs=1660&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3107",
+                "nome": "Agostinho Domingues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230101",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1660-1661"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1660?pgs=1660-1661&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "183",
+                "nome": "José Apolinário"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230102",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1661-1661"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1661?pgs=1661&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "MDP/CDE",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230103",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1661-1661"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1661?pgs=1661&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2976",
+                "nome": "Fernando Conceição"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230104",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1661-1661"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1661?pgs=1661&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.   DA  CULTURA",
+              "governo": "X GOVERNO CONSTITUCIONAL",
+              "nome": "Teresa Patricio Gouveia"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230105",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1662-1663"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1662?pgs=1662-1663&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "MDP/CDE",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230106",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1664-1666",
+                  "1666-1666"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1664?pgs=1664-1666,1666&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "3248",
+                "nome": "Gomes de Pinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230107",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1666-1666"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1666?pgs=1666&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "3097",
+                "nome": "César de Menezes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230108",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20?org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3265",
+                "nome": "António Osório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230109",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1668-1669"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1668?pgs=1668-1669&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "3229",
+                "nome": "Carlos Ganopa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230110",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1669-1670"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1669?pgs=1669-1670&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "137",
+                "nome": "Vasco Miguel"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230111",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1670-1671"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-20",
+                "pubLeg": "IV",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/047/1986-03-20/1670?pgs=1670-1671&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "344045",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
