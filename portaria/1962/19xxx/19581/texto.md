@@ -1,0 +1,5 @@
+Portaria n.º 19581
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § único do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933. conjugado com o artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, e com a alínea e) do artigo 3.º do mesmo diploma, na redacção que lhe foi dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir em Moçambique um crédito especial de 400000$00 para reforço da verba do capítulo 10.º, artigo 2499.º, n.º 2), alínea a) «Encargos gerais - Deslocações de pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província para o corrente ano económico, tomando como contrapartida o excesso de cobrança sobre a previsão da verba do capítulo 1.º, artigo 11.º «Impostos directos extintos», do orçamento de receita ordinária em vigor.
+Ministério do Ultramar, 26 de Dezembro de 1962. - O Ministro do Ultramar, António Augusto Peixoto Correia.
+
+Para ser publicada no Boletim Oficial de Moçambique. - Peixoto Correia.
