@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 29 de Outubro de 1976, o Governo do Suriname depositou, junto do Governo dos Países Baixos, o instrumento de declaração de sucessão à Convenção Relativa ao Reconhecimento e Execução de Decisões em Matéria de Obrigações Alimentares para com os Menores, concluída na Haia em 15 de Abril de 1958, de que Portugal já é parte. Aquele instrumento diplomático entrou em vigor, com referência àquele país, em conformidade com os princípios referentes à sucessão dos Estados quanto aos tratados, incluindo a reserva feita pelos Países Baixos, relativamente ao seu artigo 18.º
+Secretaria-Geral do Ministério, 24 de Junho de 1980. - O Chefe dos Serviços Jurídicos e de Tratados, Rui Eduardo Barbosa de Medina.
