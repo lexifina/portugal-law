@@ -1,0 +1,6 @@
+Despacho Normativo n.º 72/83
+1 - O quadro de pessoal do Gabinete de Estudos e Planeamento do Ministério da justiça, aprovado pelo Decreto-Lei n.º 238/80, de 18 de Julho, dispõe de lugares vagos e nunca providos. Torna-se, no entanto, necessário proceder ao provimento de alguns deles e dispor atempadamente de autorização para poder preencher outros, de forma a assegurar ao serviço condições de funcionamento mínimas.
+2 - Nestes termos, tendo presente o disposto no artigo 7.º do Decreto-Lei n.º 165/82, de 10 de Maio, é aprovada a seguinte programação para preenchimento de lugares vagos e nunca providos do quadro de pessoal do Gabinete de Estudos e Planeamento do Ministério da Justiça:
+(ver documento original)
+3 - O preenchimento dos lugares cujos encargos não tenham cabimento nas dotações do Orçamento Geral do Estado só poderá ser efectuado desde que os correspondentes encargos sejam suportados pelo Gabinete de Gestão Financeira do Ministério da Justiça.
+Ministérios das Finanças e do Plano, da Justiça e da Reforma Administrativa, 30 de Dezembro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Justiça e Ministro da Reforma Administrativa, José Manuel Meneres Sampaio Pimentel.
