@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal de Justiça de 1988-04-20, processo 039499
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 039499
+
+**Nº Convencional:** JSTJ00001114
+
+**Relator:** VASCO TINOCO
+
+**Descritores:** VIOLAÇÃO; ATENTADO AO PUDOR; CONCURSO DE INFRACÇÕES; CONCURSO REAL DE INFRACÇÕES; MEDIDA DA PENA; BEM JURIDICO PROTEGIDO
+
+**Nº do Documento:** SJ198804200394993
+
+**Data do Acordão:** 04/20/1988
+
+**Votação:** UNANIMIDADE
+
+**Referência de Publicação:** BMJ N376 ANO1988 PAG379
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REC PENAL.
+
+**Decisão:** ALTERADA A INCRIMINAÇÃO.
+
+**Área Temática:** DIR CRIM - CRIM C/SOCIEDADE.
+
+## Sumário
+
+I - O crime de violação e o crime de atentado ao pudor protegem interesses juridicos diferentes.
+
+II - As disposições legais que punem a violação protegem a honra e a inviolabilidade sexual contra a copula violenta, com a mulher inconsciente ou mediante fraude: as disposições legais que punem o atentado ao pudor protegem o pudor das pessoas contra actos que, praticados sobre elas, ofendem esse sentimento, não constituindo copula ou tentativa dela.
+
+III - A violação consome o atentado ao pudor se os actos constitutivos deste servirem para preparar a copula vaginal ou vulvar ou forem meios de as atingir; o que não se verifica em relação a copula anal ou bucal, actos verdadeiramente aberrantes.
+
+IV - E adequada a pena unica de 10 anos de prisão aplicada a um agente que pratica factos constitutivos de 3 crimes de violação, previstos e punidos pelas disposições combinadas dos artigos 201, n. 1, e 208, n. 1, alinea a); 2 crimes de atentado ao pudor, previstos e punidos pelas disposições combinadas dos artigos 205, ns. 1 e 2, e 208, n. 1, alinea a); e de um crime de dano, previsto e punido pelo artigo 308, todos do Codigo Penal, correspondendo as penas parcelares de 4 anos de prisão a cada um dos crimes de violação, de 20 meses de prisão a cada um dos crimes de atentado ao pudor 1 mes de prisão ao crime de dano quando: a) o grau de ilicitude dos factos e muito elevado, mostrando-se agravado pela perda de virgindade das ofendidas, por ele sexualmente acossadas desde tenra idade, ate com praticas aberrantes; b) o mesmo agente e casado, com um relacionamento normal dentro do casamento; c) agiu com forte intensidade de dolo directo, ao longo de anos e, ate, com requintes na execução; d) tem passado criminal; e) tem a seu favor a confissão parcial dos factos, não acompanhada de arrependimento e ligeira debilidade mental, muito proxima da marginalidade intelectual; f) e pobre, tal como as ofendidas, não constando que tenha procurado emprego.
