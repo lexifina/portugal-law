@@ -1,0 +1,739 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "140",
+    "id": "19263",
+    "titulo": "Cria uma base de dados em que constam as informações a prestar pelas instituições de crédito mutuantes em relação a cada um dos contratos de empréstimo bonificado à habitação."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2002-10-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2285",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2002-10-16",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "19262",
+        "leg": "IX",
+        "nr": "139",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "650",
+            "obs": null,
+            "pag": [
+              "1985-1997"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-10-17",
+            "pubLeg": "IX",
+            "pubNr": "49",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/049/2002-10-17/1985?pgs=1985-1997&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Revoga o Artigo 5.º da Lei n.º 16-A/2002, de 31 de Maio (Primeira alteração à Lei n.º 109-B/2001, de 27 de Dezembro, que aprova o Orçamento do Estado para 2002)."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-10-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1600",
+                "nome": "Jamila Madeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142381",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1985-1986",
+                  "1990-1990",
+                  "1995-1997"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-17",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/049/2002-10-17/1985?pgs=1985-1986,1990,1995-1997&org=PLC"
+              }
+            ],
+            "sumario": "Cria uma base de dados em que constam as informações a prestar pelas instituições de crédito mutuantes em relação a cada um dos contratos de empréstimo bonificado à habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142382",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1986-1986"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-17",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/049/2002-10-17/1986?pgs=1986&org=PLC"
+              }
+            ],
+            "sumario": "Cria uma base de dados em que constam as informações a prestar pelas instituições de crédito mutuantes em relação a cada um dos contratos de empréstimo bonificado à habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1600",
+                "nome": "Jamila Madeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142383",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1988-1988"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-17",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/049/2002-10-17/1988?pgs=1988&org=PLC"
+              }
+            ],
+            "sumario": "Cria uma base de dados em que constam as informações a prestar pelas instituições de crédito mutuantes em relação a cada um dos contratos de empréstimo bonificado à habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142384",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1988-1988"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-17",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/049/2002-10-17/1988?pgs=1988&org=PLC"
+              }
+            ],
+            "sumario": "Cria uma base de dados em que constam as informações a prestar pelas instituições de crédito mutuantes em relação a cada um dos contratos de empréstimo bonificado à habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142385",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1988-1989"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-17",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/049/2002-10-17/1988?pgs=1988-1989&org=PLC"
+              }
+            ],
+            "sumario": "Cria uma base de dados em que constam as informações a prestar pelas instituições de crédito mutuantes em relação a cada um dos contratos de empréstimo bonificado à habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1999",
+                "nome": "Jorge Nuno Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142386",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1989-1989"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-17",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/049/2002-10-17/1989?pgs=1989&org=PLC"
+              }
+            ],
+            "sumario": "Cria uma base de dados em que constam as informações a prestar pelas instituições de crédito mutuantes em relação a cada um dos contratos de empréstimo bonificado à habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142387",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1990-1991"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-17",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/049/2002-10-17/1990?pgs=1990-1991&org=PLC"
+              }
+            ],
+            "sumario": "Cria uma base de dados em que constam as informações a prestar pelas instituições de crédito mutuantes em relação a cada um dos contratos de empréstimo bonificado à habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142388",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1991-1992"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-17",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/049/2002-10-17/1991?pgs=1991-1992&org=PLC"
+              }
+            ],
+            "sumario": "Cria uma base de dados em que constam as informações a prestar pelas instituições de crédito mutuantes em relação a cada um dos contratos de empréstimo bonificado à habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142389",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1992-1992"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-17",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/049/2002-10-17/1992?pgs=1992&org=PLC"
+              }
+            ],
+            "sumario": "Cria uma base de dados em que constam as informações a prestar pelas instituições de crédito mutuantes em relação a cada um dos contratos de empréstimo bonificado à habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142390",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1992-1993"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-17",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/049/2002-10-17/1992?pgs=1992-1993&org=PLC"
+              }
+            ],
+            "sumario": "Cria uma base de dados em que constam as informações a prestar pelas instituições de crédito mutuantes em relação a cada um dos contratos de empréstimo bonificado à habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142391",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1994-1995"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-17",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/049/2002-10-17/1994?pgs=1994-1995&org=PLC"
+              }
+            ],
+            "sumario": "Cria uma base de dados em que constam as informações a prestar pelas instituições de crédito mutuantes em relação a cada um dos contratos de empréstimo bonificado à habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142392",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1994-1995"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-17",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/049/2002-10-17/1994?pgs=1994-1995&org=PLC"
+              }
+            ],
+            "sumario": "Cria uma base de dados em que constam as informações a prestar pelas instituições de crédito mutuantes em relação a cada um dos contratos de empréstimo bonificado à habitação",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142393",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1996-1997"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-17",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/049/2002-10-17/1996?pgs=1996-1997&org=PLC"
+              }
+            ],
+            "sumario": "Cria uma base de dados em que constam as informações a prestar pelas instituições de crédito mutuantes em relação a cada um dos contratos de empréstimo bonificado à habitação",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "153640",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "272947",
+        "obs": null,
+        "pag": [
+          "1984-1997"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-10-17",
+        "pubLeg": "IX",
+        "pubNr": "49",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/049/2002-10-17/1984?pgs=1984-1997&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
