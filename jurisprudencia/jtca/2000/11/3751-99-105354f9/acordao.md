@@ -1,0 +1,57 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2000-11-09, processo 3751/99
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 3751/99
+
+**Secção:** Secção do Contencioso Administrativo - Tribunal Central Administrativo
+
+**Data do Acordão:** 11/09/2000
+
+**Relator:** Cândido de Pinho
+
+**Descritores:** ORDEM DE CONHECIMENTO DOS VÍCIOS DO ACTO; PRINCÍPIO CONSTITUCIONAL DA IGUALDADE; SARGENTO DA MARINHA
+
+**Aditamento:** 1
+
+## Sumário
+
+I- O art 57º, nº l, da LPTA , ao estabelecer a ordem pela qual os vícios apontados ao acto
+
+impugnado devem ser apreciados, tem um duplo objectivo:
+
+1º-garantir uma tutela judicial efectiva, traduzida por uma sentença eficaz e efluente, que não seja o
+
+resultado de um mero exercício formal;
+
+2º- acudir a preocupações de celeridade e de respeito pelo princípio da economia processual.
+
+II- A violação do princípio constitucional da igualdade só se verifica quando alguém é privilegiado,
+
+prejudicado, privado de qualquer direito ou isento de qualquer dever num quadro de facto igual que
+
+devesse justificar uma mesma solução normativa( igualdade na criação do direito) ou administrativa( na
+
+aplicação do direito). O que quer dizer que só situações iguais merecem soluções iguais.
+
+III- Não se pode dizer que os arts. 7º e 8º do DL nº 299/97 de 31/10 sejam inconstitucionais e que não
+
+tratam da mesma maneira os 1ºs sargentos do Exército e das F.A. relativamente aos da Marinha. Antes
+
+pelo contrário, podendo mesmo dizer-se que é a partir deste diploma que para futuro( a partir de 1/7/97)
+
+todos eles ficam em igualdade de tratamento remuneratório.
+
+IV- Tal diploma deixou válidas as situações de igualdade criadas à sombra do DL nº 80/95, de 22/04
+
+porque não tinha que lhes tocar, uma vez que esse diploma tinha um alcance subjectivo específico(
+
+destinava-se aos sargentos da Marinha), estabelecia um regime próprio e era motivado por
+
+especificidades de alimentação desses militares e pela natureza do desempenho da carreira respectiva.
+
+Ou seja, assentava em pressupostos de facto diferentes e por isso, mais ainda pelo disposto no art 12º,
+
+nºl, do C. Civil, não tinha que reportar os seus afeitos à data da vigência do mencionado DL nº
+
+80/95.
