@@ -1,0 +1,11 @@
+Resolução n.º 341/80
+As circunstâncias que podem determinar desequilíbrio, ainda que temporário, na situação económica das famílias interessam à segurança social, na medida em que devem ser objecto de actuação preventiva ou de medidas susceptíveis de atenuar ou eliminar os efeitos gravosos desses factores na vida familiar e social.
+Estão neste caso os acréscimos de encargos que resultam das despesas inerentes ao início ou reinício da vida escolar dos filhos, nomeadamente os relativos aos custos da aquisição de livros de escolaridade obrigatória.
+Por outro lado, tem sido uma preocupação constante e reafirmada do Governo a eliminação ou redução dos subsídios aos preços e a sua substituição por uma política social que beneficie prioritariamente os estratos sociais mais desfavorecidos, em vez da situação que se veio encontrar de benefícios indiscriminados a todos os consumidores, independentemente da sua situação social, económica e familiar.
+Daí que, em face do aumento dos preços oportunamente requerido para os citados livros da escolaridade obrigatória e sem prejuízo de uma próxima revisão do sistema da edição e de distribuição de tais livros, o Governo entenda necessário recusar a facilidade de um subsídio universal a tais preços e optar pela estatuição de um sistema transitório que permita rapidamente uma resposta social ao acréscimo de encargos para as famílias mais carecidas.
+Nestes termos:
+O Conselho de Ministros, reunido em 10 de Setembro de 1980, resolveu:
+1 - Criar, para entrada em vigor no ano escolar de 1980-1981, um subsídio de compensação de encargos com manuais escolares, a atribuir às famílias com menores recursos económicos e com filhos sujeitos ao regime de escolaridade obrigatória.
+2 - Encarregar o Ministério dos Assuntos Sociais, através da Secretaria de Estado da Segurança Social, de atribuir aos competentes serviços do Ministério da Educação e Ciência as verbas e o apoio técnico indispensável à prossecução do objectivo definido no n.º 1.
+3 - Incumbir os Ministros dos Assuntos Sociais e da Educação e Ciência de fixar, por despacho normativo, as regras indispensáveis à boa execução da presente resolução.
+Presidência do Conselho de Ministros, 10 de Setembro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
