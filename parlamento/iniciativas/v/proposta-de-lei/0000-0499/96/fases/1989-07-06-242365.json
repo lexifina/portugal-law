@@ -1,0 +1,1081 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "96",
+    "id": "32929",
+    "titulo": "Define o Estatuto Jurídico da Polícia de Segurança Pública"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1989-07-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5268",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1989-07-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28650",
+        "leg": "V",
+        "nr": "394",
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28660",
+        "leg": "V",
+        "nr": "405",
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-07-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN  DA   ADMINISTRAÇÃO INTERNA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Silveira Godinho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230824",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4976-4980",
+                  "4986-4988",
+                  "4988-4988",
+                  "4998-4998"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4976?pgs=4976-4980,4986-4988,4988,4998&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230826",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4980-4981"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4980?pgs=4980-4981&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230827",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4981-4981"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4981?pgs=4981&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230828",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4981-4982"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4981?pgs=4981-4982&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230829",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4982-4982"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4982?pgs=4982&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230830",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4982-4983"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4982?pgs=4982-4983&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230831",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4983-4984"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4983?pgs=4983-4984&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230832",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4984-4984"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4984?pgs=4984&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230833",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4984-4985"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4984?pgs=4984-4985&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230834",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4985-4985"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4985?pgs=4985&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230835",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4985-4986",
+                  "4988-4988"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4985?pgs=4985-4986,4988&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230836",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4989-4991",
+                  "4992-4993"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4989?pgs=4989-4991,4992-4993&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230840",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4991-4991"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4991?pgs=4991&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230841",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4991-4992"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4991?pgs=4991-4992&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230842",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4992-4992"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4992?pgs=4992&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230843",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4992-4992"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4992?pgs=4992&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230844",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4993-4995",
+                  "4996-4997"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4993?pgs=4993-4995,4996-4997&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230845",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4995-4996"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4995?pgs=4995-4996&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230846",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4996-4996"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4996?pgs=4996&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230847",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4997-4998",
+                  "4998-4998"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4997?pgs=4997-4998,4998&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230848",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4998-4999"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4998?pgs=4998-4999&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230850",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4999-4901"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/4999?pgs=4999-4901&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5001-5002"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-07",
+                "pubLeg": "V",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07/5001?pgs=5001-5002&org=PLC"
+              }
+            ],
+            "sumario": "Define o Estatuto Jurídico da Polícia de Segurança Pública; Regime de exercício de direito dos agentes civis e policiais no âmbito da PSP; Sobre a garantia do direito de constituição de associações sindicais pelos profissionais da PSP.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "242365",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "348817",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-07-07",
+        "pubLeg": "V",
+        "pubNr": "102",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/102/1989-07-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
