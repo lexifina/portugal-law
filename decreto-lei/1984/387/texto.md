@@ -1,0 +1,18 @@
+Decreto-Lei n.º 387/84
+de 6 de Dezembro
+O Decreto-Lei n.º 282-B/84, de 20 de Agosto, no seu artigo 8.º, determinou, tal como antes o tinha feito o Decreto-Lei n.º 46/83, de 27 de Janeiro, por aquele revogado, que as operações portuárias estão sujeitas a regime de tarifas máximas. E determinou que seriam fixadas anualmente, para o ano seguinte, por despacho do Ministro do Mar, até 30 de Setembro de cada ano, após estudo, apreciação e parecer, por parte das comissões de tarifas, das propostas de tarifas máximas a apresentar anualmente pelos representantes dos operadores portuários até 31 de Julho do ano anterior àquele a que as tarifas respeitam (artigo 10.º).
+O facto de aquele diploma legal só ter sido publicado em finais de Agosto não permite cumprir os prazos nele fixados relativamente à fixação de tarifas para o ano de 1985, mas apenas para os anos que se lhe seguirem. Há, pois, que prever, apenas para o ano de 1985, prazos diferentes dos previstos no Decreto-Lei n.º 282-B/84.
+Por outro lado, sendo as tarifas máximas fixadas por anos civis, mas com antecedência mínima de 3 meses relativamente ao início da sua validade, torna-se necessário ajustar o prazo previsto no n.º 3 do artigo 10.º com o previsto no artigo 8.º
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º O prazo previsto no artigo 8.º do Decreto-Lei n.º 282-B/84, de 20 de Agosto, não se aplica à fixação das tarifas máximas para o ano de 1985.
+Art. 2.º Para as propostas referidas no n.º 1 do artigo 10.º do Decreto-Lei n.º 282-B/84, de 20 de Agosto, a apresentar pelos operadores portuários para o ano de 1985, é fixado o prazo de 15 dias contados desde a entrada em vigor do presente diploma, o qual substitui, relativamente às tarifas aplicáveis no ano de 1985, o prazo fixado naquela disposição legal.
+Art. 3.º O n.º 3 do artigo 10.º do Decreto-Lei n.º 282-B/84, de 20 de Agosto, passa a ter a seguinte redacção:
+3 - No caso de não serem apresentadas as propostas referidas no n.º 1, competirá às autoridades portuárias suprir a falta, apresentando elas as respectivas propostas até 30 dias antes do termo do prazo previsto no artigo 8.º
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 8 de Novembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Carlos Montez Melancia.
+Promulgado em 23 de Novembro de 1984.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 26 de Novembro de 1984.
+O Primeiro-Ministro, Mário Soares.
