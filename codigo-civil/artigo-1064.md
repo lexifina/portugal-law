@@ -1,7 +1,3 @@
-## Secção VII
-
-## Arrendamento rural
-
 ## Subsecção I
 
 ## Disposições gerais
