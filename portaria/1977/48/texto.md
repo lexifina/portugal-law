@@ -1,0 +1,4 @@
+Portaria n.º 48/77
+de 29 de Janeiro
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Transportes e Comunicações, nos termos do n.º 3 do artigo 23.º do estatuto da empresa pública Telefones de Lisboa e Porto, anexo ao Decreto-Lei n.º 48007, de 10 de Novembro de 1969, atendendo ao que por ela foi solicitado, autorizar a referida empresa a contrair na Caixa Geral de Depósitos um empréstimo no montante de 160000 contos, à taxa de juro de 11,25% ao ano, elevável dentro dos limites legais prevalecentes na data da alteração, a liquidar em vinte semestralidades, iguais de capital e juros, a primeira das quais terá lugar seis meses após a celebração do contrato.
+Ministérios das Finanças e dos Transportes e Comunicações, 20 de Janeiro de 1977. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.
