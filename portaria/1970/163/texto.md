@@ -1,0 +1,7 @@
+Portaria n.º 163/70
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+1.º Nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 200000$00 a verba do capítulo 10.º, artigo 313.º, n.º 2). alínea a) «Encargos gerais - Deslocação de pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Cabo Verde para o ano em curso, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 10.º, artigo 317.º «Encargos gerais - Saldo orçamental», da referida tabela de despesa.
+2.º Nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com o artigo 5.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir um crédito especial da importância de 3000000$00, a inscrever em adicional à tabela de despesa extraordinária do orçamento geral da província de S. Tomé e Príncipe para o ano em curso, destinado às despesas com as comemorações de meio milénio do descobrimento das ilhas de S. Tomé e Príncipe, tomando como contrapartida o saldo das contas de exercícios findos.
+Ministério do Ultramar, 31 de Março de 1970. - Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada nos Boletins Oficiais de Cabo Verde e S. Tomé e Príncipe. - Sacramento Monteiro.
