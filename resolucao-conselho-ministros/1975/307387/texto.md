@@ -1,0 +1,84 @@
+Resolução do Conselho de Ministros
+O Conselho de Ministros, considerando dever dar satisfação à sugestão contida no n.º 2 do artigo 84.º do Regimento da Assembleia Constituinte, resolveu na sua reunião de 23 de Agosto de 1975 ordenar a publicação na 1.ª série do Diário do Governo das normas daquele Regimento a seguir indicadas a fim de que as mesmas possam adquirir plena eficácia:
+Do exercício da função de Deputado
+ARTIGO 7.º
+(Incompatibilidade com o exercício de funções públicas)
+1. Os funcionários do Estado e de outras pessoas colectivas públicas não podem exercer as respectivas funções durante o mandato de Deputado.
+2. O Deputado que for nomeado membro do Governo perde o mandato e será substituído nos termos do presente Regimento.
+ARTIGO 8.º
+(Exercício da função de Deputado e direito a emprego permanente)
+Os Deputados não podem ser prejudicados na sua colocação, benefícios sociais ou emprego permanente por virtude do desempenho do mandato.
+ARTIGO 9.º
+(Imunidades dos Deputados)
+1. Os Deputados à Assembleia Constituinte não respondem civil, criminal ou disciplinarmente pelos votos e opiniões que emitirem no exercício das suas funções ou por causa delas.
+2. Nenhum Deputado poderá ser sujeito a prisão preventiva, a não ser em virtude de crime punível com pena maior e mediante autorização da Assembleia Constituinte.
+3. Movido procedimento criminal contra algum Deputado e indiciado este por despacho de pronúncia ou equivalente, fora do caso previsto no número anterior, a Assembleia decidirá se o Deputado deve ou não ser suspenso, para efeito do seguimento do processo.
+ARTIGO 10.º
+(Regalias e direitos)
+Os Deputados à Assembleia Constituinte:
+a) Não podem ser jurados, peritos ou testemunhas sem autorização da Assembleia, que será ou não concedida após audiência do Deputado;
+b) Ficam adiados do cumprimento do serviço militar ou da mobilização civil;
+c) Têm direito de livre trânsito e direito a passaporte especial nas suas deslocações oficiais ao estrangeiro;
+d) Têm direito a cartão especial de identificação;
+e) Têm direito aos subsídios que a lei prescrever.
+ARTIGO 11.º
+(Deveres dos Deputados)
+...
+2. A falta dos Deputados, por causa das sessões, a actos ou diligências oficiais estranhos à Assembleia e a que devessem comparecer constitui fundamento de adiamento sem qualquer encargo.
+...
+Da cessação do mandato
+ARTIGO 12.º
+(Perda do mandato)
+1. Perdem o mandato os Deputados à Assembleia Constituinte que:
+c) Se inscrevam em partido diverso daquele em que se encontravam filiados aquando das eleições;
+d) Sejam judicialmente condenados por participação em actividades ou golpes contra-revolucionários;
+...
+ARTIGO 18.º
+(Competência da Mesa)
+Compete à Mesa da Assembleia Constituinte:
+...
+6.º Estabelecer o regulamento de entrada e frequência das galerias destinadas ao público;
+...
+ARTIGO 19.º
+(Autoridade e honras do Presidente)
+1. O Presidente, no exercício das suas funções, goza de autoridade sobre todos os funcionários e forças de segurança ao serviço da Assembleia.
+2. O Presidente da Assembleia Constituinte tem honras idênticas às do Primeiro-Ministro.
+ARTIGO 20.º
+(Competência do Presidente)
+1. Compete ao Presidente da Assembleia Constituinte:
+...
+f) Manter a ordem e a disciplina, bem como a segurança da Assembleia, podendo para isso requisitar e usar os meios necessários, tomando as medidas que entender convenientes, incluindo a expulsão da Sala, em caso de desrespeito à dignidade da Assembleia Constituinte ou perturbação ao bom andamento dos trabalhos;
+...
+ARTIGO 40.º
+(Coadjuvação por funcionários e técnicos contratados)
+Os trabalhos da Assembleia Constituinte e os das suas comissões poderão ser coadjuvados por funcionários requisitados e por técnicos contratados, no número que for considerado indispensável.
+ARTIGO 41.º
+(Proibição de presença de pessoas estranhas à Assembleia)
+Durante o funcionamento de cada sessão não será permitida a presença ou a circulação no hemiciclo de pessoas que não sejam Deputados ou funcionários ao serviço da Assembleia, salvo em situações excepcionais.
+...
+Da publicidade das reuniões
+ARTIGO 47.º
+(Carácter público das reuniões plenárias)
+1. As reuniões plenárias da Assembleia Constituinte serão públicas.
+2. Não haverá lugares reservados, salvo os destinados a autoridades, ao corpo diplomático e aos representantes dos meios de comunicação social.
+3. Cada grupo parlamentar poderá requisitar para cada sessão, na véspera, até quinze senhas de entrada nas galerias destinadas ao público.
+ARTIGO 48.º
+(Reuniões das comissões)
+As reuniões das comissões serão públicas se estas assim o deliberarem.
+...
+ARTIGO 51.º
+(Elaboração e distribuição)
+1. Incumbe à Imprensa Nacional-Casa da Moeda, com a colaboração do secretariado da Assembleia Constituinte, proceder à impressão e à distribuição do Diário da Assembleia Constituinte.
+2. Todos os assinantes da 1.ª série do Diário do Governo terão o direito de receber gratuitamente o Diário da Assembleia Constituinte.
+ARTIGO 52.º
+(Colaboração dos meios de comunicação social)
+1. Para o exercício da sua função, serão reservados aos representantes dos meios de comunicação social, portugueses ou estrangeiros, devidamente credenciados, lugares na Sala das Sessões.
+2. Achando-se esgotada a lotação dos lugares reservados aos representantes dos meios de comunicação social, será, em todo o caso, assegurada pelos serviços da Assembleia a sua assistência às reuniões plenárias noutro local disponível.
+...
+Disposições finais
+ARTIGO 83.º
+(Relações com os Órgãos de Soberania e com o Movimento das Forças Armadas)
+1. As relações da Assembleia Constituinte com os demais Órgãos de Soberania serão estabelecidas por intermédio do seu Presidente e de deputações designadas para o efeito.
+2. A Mesa providenciará no sentido de facilitar o acompanhamento dos trabalhos da Assembleia Constituinte pela comissão nomeada pelo Movimento das Forças Armadas.
+3. O Presidente da Assembleia Constituinte providenciará no sentido de serem entregues imediatamente à Comissão do MFA que acompanha os trabalhos da Assembleia cópias dos projectos de Constituição ou de normas constitucionais apresentados, bem como das actas das comissões que deles se ocuparem.
+Presidência do Conselho de Ministros, 23 de Agosto de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
