@@ -1,0 +1,4 @@
+Aviso n.º 99/2002
+Por ordem superior se torna público que, agindo na sua qualidade de depositário da Convenção Relativa à Protecção do Património Mundial, Cultural e Natural, adoptada em Paris, a 16 de Novembro de 1972, o Director-Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO) comunicou terem o Koweit e o Vanuatu depositado os seus instrumentos de ratificação à citada Convenção em 6 e 13 de Junho de 2002, respectivamente. Tendo entrado em vigor, para o primeiro, em 6 de Setembro de 2002, e, para o segundo, em 13 de Setembro de 2002.
+Portugal é Parte na mesma, tendo depositado o respectivo instrumento de ratificação a 2 de Outubro de 1980, conforme publicado no Diário da República, 1.ª série, n.º 264, de 14 de Novembro de 1980.
+Direcção de Serviços das Organizações Políticas Internacionais, 28 de Outubro de 2002. - O Director de Serviços, Bernardo de Lucena.
