@@ -1,0 +1,28 @@
+Resolução do Conselho de Ministros n.º 86/94
+A Zona dos Mármores, sub-região que agrupa os municípios de Alandroal, Borba, Estremoz e Vila Viçosa, é responsável por um sector importante das nossas exportações.
+Contudo, as actividades de exploração e transformação dos mármores desenvolveram-se, durante longo período de tempo, de forma não planeada.
+As consequências da actividade de exploração afectam, actualmente, uma área de cerca de 1000 ha, determinando uma paisagem desordenada, comprometendo áreas potenciais de exploração e dificultando a recuperação de outras, inutilizando extensões apreciáveis da Reserva Agrícola Nacional e provocando o empobrecimento ecológico da zona.
+A esta actividade industrial estão associados difíceis problemas de recuperação paisagística e de recolha, armazenagem e utilização de estéreis e subprodutos, verificando-se também que a transformação da paisagem agrícola gerou desequilíbrios na rede hidrológica e de infra-estruturas.
+A exploração do mármore, recurso valioso e não renovável, requer cuidados especiais e representa uma ocupação temporária do espaço, pelo que se reveste da maior importância a visão global desta zona e o estudo de outros usos adequados ao território onde tal actividade cesse.
+A deliberação de promover a elaboração de um plano regional de ordenamento do território foi tomada após a audição dos municípios envolvidos, de acordo com o disposto no n.º 1 do artigo 4.º do Decreto-Lei n.º 176-A/88, de 18 de Maio.
+Assim:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - Incumbir a Comissão de Coordenação da Região do Alentejo de promover a elaboração do Plano Regional de Ordenamento do Território da Zona dos Mármores (PROZOM), no prazo máximo de 12 meses.
+2 - A área a abranger pelo Plano Regional de Ordenamento do Território inclui os municípios de Alandroal, Borba, Estremoz e Vila Viçosa.
+3 - O PROZOM atenderá aos seguintes objectivos:
+a) Garantir a exploração racional do mármore;
+b) Proteger e valorizar outros recursos naturais, com especial relevância para os recursos hídricos, solo agrícola e estruturas ecológicas;
+c) Reorganizar as redes internas de infra-estruturas e acessibilidade e respectiva articulação;
+d) Garantir o adequado aproveitamento de desperdícios e subprodutos resultantes da exploração;
+e) Fomentar a recuperação progressiva da zona afectada;
+f) Definir usos e actividades alternativas mediante um adequado zonamento e estabelecimento de normas de utilização do espaço, em articulação com as propostas municipais de ordenamento do território, conjugando a importância da actividade extractiva com as demais actividades económicas e a valorização ambiental da Zona.
+4 - A comissão consultiva do PROZOM é constituída pelas entidades previstas no n.º 2 do artigo 4.º do Decreto-Lei n.º 176-A/88, de 18 de Maio, e ainda por:
+a) Um representante do Ministério da Agricultura;
+b) Dois representantes do Ministério da Indústria e Energia;
+c) Um representante do Ministério das Obras Públicas, Transportes e Comunicações;
+d) Um representante do Ministério do Comércio e Turismo;
+e) Um representante do Ministério do Ambiente e Recursos Naturais;
+f) Um representante do Instituto Português do Património Arquitectónico e Arqueológico;
+g) Um representante da Universidade de Évora;
+h) Um representante do Centro Tecnológico para o Aproveitamento e Valorização das Rochas Ornamentais e Industriais (CEVALOR).
+Presidência do Conselho de Ministros, 1 de Setembro de 1994. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
