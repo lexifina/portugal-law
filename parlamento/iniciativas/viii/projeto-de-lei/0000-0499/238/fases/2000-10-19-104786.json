@@ -1,0 +1,745 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "238",
+    "id": "5998",
+    "titulo": "Reciclagem e regeneração de óleos usados e de solventes"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-10-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1619",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-10-19",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-10-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1176",
+                "nome": "Casimiro Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30217",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "504-504"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-20",
+                "pubLeg": "VIII",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/013/2000-10-20/504?pgs=504&org=PLC"
+              }
+            ],
+            "sumario": "RECICLAGEM E REGENERACAO DE OLEOS E SOLVENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1290",
+                "nome": "Álvaro Castello-branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30218",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "504-504"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-20",
+                "pubLeg": "VIII",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/013/2000-10-20/504?pgs=504&org=PLC"
+              }
+            ],
+            "sumario": "RECICLAGEM E REGENERACAO DE OLEOS E SOLVENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1639",
+                "nome": "José Eduardo Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30219",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "502-503"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-20",
+                "pubLeg": "VIII",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/013/2000-10-20/502?pgs=502-503&org=PLC"
+              }
+            ],
+            "sumario": "RECICLAGEM E REGENERACAO DE OLEOS E SOLVENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1176",
+                "nome": "Casimiro Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30220",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "502-503"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-20",
+                "pubLeg": "VIII",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/013/2000-10-20/502?pgs=502-503&org=PLC"
+              }
+            ],
+            "sumario": "RECICLAGEM E REGENERACAO DE OLEOS E SOLVENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1639",
+                "nome": "José Eduardo Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30221",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "501-501"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-20",
+                "pubLeg": "VIII",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/013/2000-10-20/501?pgs=501&org=PLC"
+              }
+            ],
+            "sumario": "RECICLAGEM E REGENERACAO DE OLEOS E SOLVENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30242",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "484-484"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-20",
+                "pubLeg": "VIII",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/013/2000-10-20/484?pgs=484&org=PLC"
+              }
+            ],
+            "sumario": "RECICLAGEM E REGENERACAO DE OLEOS USADOS E DE SOLVENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30243",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "483-484"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-20",
+                "pubLeg": "VIII",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/013/2000-10-20/483?pgs=483-484&org=PLC"
+              }
+            ],
+            "sumario": "RECICLAGEM E REGENERACAO DE OLEOS USADOS E DE SOLVENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1184",
+                "nome": "Joaquim Matias"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30244",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "482-483"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-20",
+                "pubLeg": "VIII",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/013/2000-10-20/482?pgs=482-483&org=PLC"
+              }
+            ],
+            "sumario": "RECICLAGEM E REGENERACAO DE OLEOS USADOS E DE SOLVENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1290",
+                "nome": "Álvaro Castello-branco"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30245",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "481-482"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-20",
+                "pubLeg": "VIII",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/013/2000-10-20/481?pgs=481-482&org=PLC"
+              }
+            ],
+            "sumario": "RECICLAGEM E REGENERACAO DE OLEOS USADOS E DE SOLVENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1167",
+                "nome": "Natalina Tavares de Moura"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30246",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "479-481"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-20",
+                "pubLeg": "VIII",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/013/2000-10-20/479?pgs=479-481&org=PLC"
+              }
+            ],
+            "sumario": "RECICLAGEM E REGENERACAO DE OLEOS USADOS E DE SOLVENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1176",
+                "nome": "Casimiro Ramos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30247",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "478-478"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-20",
+                "pubLeg": "VIII",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/013/2000-10-20/478?pgs=478&org=PLC"
+              }
+            ],
+            "sumario": "RECICLAGEM E REGENERACAO DE OLEOS USADOS E DE SOLVENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1679",
+                "nome": "Renato Sampaio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30248",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "478-478"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-20",
+                "pubLeg": "VIII",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/013/2000-10-20/478?pgs=478&org=PLC"
+              }
+            ],
+            "sumario": "RECICLAGEM E REGENERACAO DE OLEOS USADOS E DE SOLVENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1639",
+                "nome": "José Eduardo Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30249",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "476-479"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-20",
+                "pubLeg": "VIII",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/013/2000-10-20/476?pgs=476-479&org=PLC"
+              }
+            ],
+            "sumario": "RECICLAGEM E REGENERACAO DE OLEOS USADOS E DE SOLVENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  AMBIENTE",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Goncalves"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107151",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "500-501",
+                  "503-504"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-20",
+                "pubLeg": "VIII",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/013/2000-10-20/500?pgs=500-501,503-504&org=PLC"
+              }
+            ],
+            "sumario": "RECICLAGEM E REGENERACAO DE OLEOS E SOLVENTES",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104786",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1619",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-10-20",
+        "pubLeg": "VIII",
+        "pubNr": "13",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/013/2000-10-20?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
