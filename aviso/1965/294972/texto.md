@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação da Embaixada da Bélgica em Lisboa, os Governos da República Central Africana e da República Federal dos Camarões depositaram junto do Governo Belga em 8 e 9 de Abril de 1965, respectivamente, os instrumentos de adesão dos seus países à Convenção relativa à criação de um conselho de cooperação aduaneira, concluída em Bruxelas em 15 de Dezembro de 1950 e aprovada para ratificação pelo Decreto-Lei n.º 39006, publicado no Diário ao Governo n.º 264, 1.ª série, de 24 de Novembro de 1952.
+Em conformidade com o artigo XVIII (c) da Convenção, a mesma entrou em vigor, relativamente àqueles Estados, no próprio dia em que cada um deles procedeu ao depósito do respectivo instrumento de adesão.
+Direcção-Geral dos Negócios Económicos e Consulares, 19 de Maio de 1965. - O Director-Geral, José Calvet de Magalhães.
