@@ -1,0 +1,31 @@
+Aviso
+Por ordem superior se torna público que foi assinado em Lisboa, em 13 de Dezembro de 1983, o Acordo, por troca de notas, entre os Governos de Portugal e dos Estados Unidos da América Relativo à Extensão, até 4 de Fevereiro de 1991, de Facilidades Concedidas nos Açores a Forças dos Estados Unidos da América ao Abrigo do Acordo de Defesa de 6 de Setembro de 1951, cujos textos em português e inglês acompanham o presente aviso.
+Direcção-Geral dos Negócios Políticos, 16 de Abril de 1984. - O Director-Geral-Adjunto, João de Matos Proença.
+
+Lisboa, 13 de Dezembro de 1983.
+A S. Ex.ª o Secretário de Estado dos Estados Unidos da América, Sr. George P. Shültz:
+Excelência:
+Tenho a honra de me referir a recentes conversações entre altos funcionários dos Governos de Portugal e dos Estados Unidos da América acerca do Acordo de Defesa de 6 de Setembro de 1951, emendado, entre os nossos 2 Governos, da crescente importância estratégica de Portugal e sobre assuntos económicos e de defesa com eles relacionados.
+Como resultado dessas discussões, tenho a honra de propor que a continuação da utilização de facilidades nos Açores pelas forças dos Estados Unidos seja autorizada até 4 de Fevereiro de 1991. A utilização das mencionadas facilidades nos Açores será regulada por novos arranjos técnicos entre os nossos 2 Governos. Tais arranjos poderão ser modificados em qualquer altura mediante comum acordo dos 2 Governos e vigorarão enquanto durar a autorização referida nesta nota. O Acordo Técnico de 15 de Novembro de 1957 e o Acordo Laboral de 20 de Maio de 1976 caducarão na data em que entrarem em vigor os novos arranjos técnicos sobre a utilização das facilidades nos Açores e sobre assuntos laborais.
+Na eventualidade de surgir um desacordo quanto à interpretação, implementação ou cumprimento das disposições destes Acordos, os nossos 2 Governos iniciarão imediatamente consultas. Se o assunto não ficar resolvido durante um período de 18 meses, qualquer dos Governos poderá denunciar este Acordo, tendo essa denúncia efeito ao expirar o prazo de 6 meses sobre a data da sua comunicação por escrito. Fica ainda acordado que uma revisão conjunta do Acordo poderá ter início a pedido de qualquer dos Governos a partir de 4 de Fevereiro de 1988.
+Qualquer dos Governos poderá propor, 6 meses antes de terminado o período no segundo parágrafo desta nota, o começo de conversações relativas à utilização das facilidades autorizadas nos Açores para além daquele período. Uma vez iniciadas as conversações, não deverá qualquer dos Governos concluir ter-se chegado a um resultado negativo em tais conversações pelo menos durante os 12 meses que se seguirem ao termo do período deste Acordo. No caso de nenhum dos Governos propor o começo de ulteriores conversações, concluir-se-á ter-se chegado a um resultado negativo relativamente à prorrogação do Acordo.
+Desejaria ainda propor, caso o Governo de V. Ex.ª concorde, que esta nota, juntamente com a resposta confirmativa de V. Ex.ª, constitua um acordo entre os nossos 2 Governos que entrará em vigor no dia 4 de Fevereiro de 1984.
+Queira aceitar, Excelência, os protestos da minha mais elevada consideração.
+Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.
+
+Embassy of the United States of America.
+Lisbon, December 13, 1983.
+His Excellency Jaime Jose Matos da Gama, Minister of Foreign Affairs of Portugal:
+Excellency:
+I have the honor to refer to your Excellency's note of this date, which provides as follows:
+Excellency:
+I have the honour to refer to recent conversations between senior officials of the Governments of Portugal and the United States of America regarding the Defense Agreement of September 6, 1951, as amended, between our two Governments, the growing strategic importance of Portugal, and related economic and defense matters.
+As a result of these discussions, I have the honor to propose that the United States Armed Forces be authorized the continued use of facilities in the Azores until February 4, 1991. The use of designated facilities in the Azores shall be regulated in new technical arrangements between our two Governments. Such arrangements may be modified at any time by further agreement of the two Governments and shall remain in force so long as the authorization described in this note remains in force. The Technical Agreement of November 15, 1957, and the Labor Agreement of May 20, 1976, shall be terminated on the date that the new technical arrangements on the use of facilities in the Azores and labor matters enter into force.
+Should disagreement arise concerning the interpretation, implementation or compliance with the provisions of this agreement, our two Governments shall begin consultation immediately.
+Should the matter not be resolved within a period of eighteen months, either Government may terminate this agreement effective six months from the date of written notice of such termination. It is further understood that a joint review of the agreement may be undertaken at the request of either Government on February 4, 1988.
+Either Government may propose the commencement of conversations regarding the extension of the use of the authorized facilities in the Azores beyond the period described in the second paragraph above six months before the expiration of such period. Once the conversations have started, no determination that a negative result has arisen in them shall be made by either Government for at least twelve months following the expiration of the period of this agreement. In the event that neither Government proposes the commencement of further conversations, a negative result shall be deemed to have arisen regarding the extension of the agreement.
+I have the further honor to propose that, if acceptable to your Excellency's Government, this note, together with your Excellency's confirming reply, shall constitute an agreement between our two Governments which stall enter into force on February 4, 1984.
+Accept, Excellency, the assurances of my highest consideration.
+I am pleased on behalf of my Government to accept your proposal, and to confirm that your Excellency's note, together with this reply, shall constitute an agreement between our two Governments which shall enter into force on February 4, 1984.
+Accept, Excellency, the assurances of my highest consideration.
+George P. Shültz.
