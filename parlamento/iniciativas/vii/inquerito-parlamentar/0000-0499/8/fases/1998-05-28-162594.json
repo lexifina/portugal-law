@@ -1,0 +1,847 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Inquérito Parlamentar",
+    "numero": "8",
+    "id": "20372",
+    "titulo": "Apreciação de actos dos Governos do PS e do PSD envolvendo o Estado e Grupos Económicos."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1998-05-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3101",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1998-05-28",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1998-05-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1447",
+                "nome": "Francisco Peixoto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51184",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2577-2577"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-05-29",
+                "pubLeg": "VII",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/074/1998-05-29/2577?pgs=2577&org=PLC"
+              }
+            ],
+            "sumario": "GOVERNOS PS E PSD: APRECIACAO ACTOS ESTADO/GRUPOS ECONOMICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "370",
+                "nome": "Luís Marques Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51185",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2576-2577"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-05-29",
+                "pubLeg": "VII",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/074/1998-05-29/2576?pgs=2576-2577&org=PLC"
+              }
+            ],
+            "sumario": "GOVERNOS PS E PSD: APRECIACAO ACTOS ESTADO/GRUPOS ECONOMICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51186",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2576-2576"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-05-29",
+                "pubLeg": "VII",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/074/1998-05-29/2576?pgs=2576&org=PLC"
+              }
+            ],
+            "sumario": "GOVERNOS PS E PSD: APRECIACAO ACTOS ESTADO/GRUPOS ECONOMICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51187",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2575-2575"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-05-29",
+                "pubLeg": "VII",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/074/1998-05-29/2575?pgs=2575&org=PLC"
+              }
+            ],
+            "sumario": "GOVERNOS PS E PSD: APRECIACAO ACTOS ESTADO/GRUPOS ECONOMICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "590",
+                "nome": "Luís Queiró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51188",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2574-2575"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-05-29",
+                "pubLeg": "VII",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/074/1998-05-29/2574?pgs=2574-2575&org=PLC"
+              }
+            ],
+            "sumario": "GOVERNOS PS E PSD: APRECIACAO ACTOS ESTADO/GRUPOS ECONOMICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "590",
+                "nome": "Luís Queiró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51189",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2573-2573"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-05-29",
+                "pubLeg": "VII",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/074/1998-05-29/2573?pgs=2573&org=PLC"
+              }
+            ],
+            "sumario": "GOVERNOS PS E PSD: APRECIACAO ACTOS ESTADO/GRUPOS ECONOMICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51190",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2572-2574"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-05-29",
+                "pubLeg": "VII",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/074/1998-05-29/2572?pgs=2572-2574&org=PLC"
+              }
+            ],
+            "sumario": "GOVERNOS PS E PSD: APRECIACAO ACTOS ESTADO/GRUPOS ECONOMICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "370",
+                "nome": "Luís Marques Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51191",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-05-29",
+                "pubLeg": "VII",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/074/1998-05-29?org=PLC"
+              }
+            ],
+            "sumario": "GOVERNOS PS E PSD: APRECIACAO ACTOS ESTADO/GRUPOS ECONOMICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1447",
+                "nome": "Francisco Peixoto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51192",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2571-2571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-05-29",
+                "pubLeg": "VII",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/074/1998-05-29/2571?pgs=2571&org=PLC"
+              }
+            ],
+            "sumario": "GOVERNOS PS E PSD: APRECIACAO ACTOS ESTADO/GRUPOS ECONOMICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51193",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2571-2571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-05-29",
+                "pubLeg": "VII",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/074/1998-05-29/2571?pgs=2571&org=PLC"
+              }
+            ],
+            "sumario": "GOVERNOS PS E PSD: APRECIACAO ACTOS ESTADO/GRUPOS ECONOMICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51194",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2571-2571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-05-29",
+                "pubLeg": "VII",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/074/1998-05-29/2571?pgs=2571&org=PLC"
+              }
+            ],
+            "sumario": "GOVERNOS PS E PSD: APRECIACAO ACTOS ESTADO/GRUPOS ECONOMICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51195",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2568-2571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-05-29",
+                "pubLeg": "VII",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/074/1998-05-29/2568?pgs=2568-2571&org=PLC"
+              }
+            ],
+            "sumario": "GOVERNOS PS E PSD: APRECIACAO ACTOS ESTADO/GRUPOS ECONOMICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51196",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2567-2568"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-05-29",
+                "pubLeg": "VII",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/074/1998-05-29/2567?pgs=2567-2568&org=PLC"
+              }
+            ],
+            "sumario": "GOVERNOS PS E PSD: APRECIACAO ACTOS ESTADO/GRUPOS ECONOMICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51197",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2566-2566"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-05-29",
+                "pubLeg": "VII",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/074/1998-05-29/2566?pgs=2566&org=PLC"
+              }
+            ],
+            "sumario": "GOVERNOS PS E PSD: APRECIACAO ACTOS ESTADO/GRUPOS ECONOMICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51198",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2566-2568"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-05-29",
+                "pubLeg": "VII",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/074/1998-05-29/2566?pgs=2566-2568&org=PLC"
+              }
+            ],
+            "sumario": "GOVERNOS PS E PSD: APRECIACAO ACTOS ESTADO/GRUPOS ECONOMICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51199",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2565-2566",
+                  "2575-2575"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-05-29",
+                "pubLeg": "VII",
+                "pubNr": "74",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/074/1998-05-29/2565?pgs=2565-2566,2575&org=PLC"
+              }
+            ],
+            "sumario": "GOVERNOS PS E PSD: APRECIACAO ACTOS ESTADO/GRUPOS ECONOMICOS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "162594",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3101",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1998-05-29",
+        "pubLeg": "VII",
+        "pubNr": "74",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/074/1998-05-29?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
