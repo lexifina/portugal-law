@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que a Austrália e as Filipinas depositaram junto do Secretário-Geral da Organização Marítima Internacional, respectivamente a 24 de Março de 1987 e 17 de Agosto de 1987, os instrumentos de aceitação das emendas à Convenção Relativa à Organização Internacional de Satélites Marítimos, aprovadas pela Assembleia Geral das Partes da Organização de 14 a 16 de Outubro de 1985.
+Os mesmos países depositaram junto do Secretário-Geral da Organização Marítima Internacional, respectivamente a 10 de Julho de 1987 e 17 de Agosto de 1987, as notificações de aprovação das emendas ao Acordo de Exploração da Organização Internacional de Satélites Marítimos, aprovadas pela Assembleia Geral das Partes da Organização acima referida.
+Direcção-Geral dos Negócios Político-Económicos, 2 de Outubro de 1987. - O Director de Serviços dos Assuntos Multilaterais, Marcello de Zaffiri Duarte Mathias.
