@@ -1,0 +1,42 @@
+Decreto-Lei n.º 75-C/77
+de 28 de Fevereiro
+Para completar o quadro de legislação adequada à tradição dos emigrantes quanto à forma de aplicar a sua poupança faltava definir em que condições e como podem ser abertas e movimentadas as contas de depósito a prazo em escudos, sem o recurso sistemático à autorização das autoridades monetárias.
+Para efeitos deste diploma, consideram-se também emigrantes os que tenham adquirido a nacionalidade estrangeira e seus descendentes directos em 1.º grau.
+A mobilização antecipada dos fundos depositados a prazo, expressos em escudos ou em moeda estrangeira, era outro dos pontos da legislação até agora vigente que convinha facilitar e reduzir a uma forma clara e uniforme.
+Nestas circunstâncias, e considerando a inconveniente dispersão de diplomas sobre esta matéria, resolveu-se proceder à sua integração num único decreto-lei, com o que se prossegue o cumprimento do Programa do Governo que prevê a progressiva codificação da legislação cambial, aplicável às diferentes categorias de operações.
+Nestes termos:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1. As instituições de crédito podem abrir contas de depósito expressas em escudos em nome de emigrantes ou equiparados, sob a forma de:
+a) Contas à ordem;
+b) Contas com pré-aviso;
+c) Contas a prazo não superior a um ano.
+2. Tratando-se de bancos comerciais, as contas de depósito a prazo podem ser constituídas por prazo até dois anos.
+3. A Caixa Geral de Depósitos e os estabelecimentos especiais de crédito, no quadro da legislação especial que lhes é aplicável, podem aceitar contas de depósito a prazo em nome de emigrantes ou equiparados por prazo superior a dois anos.
+4. As contas a que se refere o n.º 1 serão adiante designadas simplesmente por «contas de depósito».
+Art. 2.º - 1. Só podem ser titulares de contas de depósito emigrantes portugueses ou equiparados que residam no estrangeiro há mais de seis meses.
+2. Consideram-se também emigrantes para efeitos deste diploma aqueles que tenham adquirido a nacionalidade estrangeira, bem como os seus descendentes directos em 1.º grau.
+3. Constitui prova da qualidade de emigrante ou equiparado a apresentação da carteira de residente no estrangeiro, da carteira de trabalho ou de qualquer outro documento pelo qual a instituição de crédito depositária se possa assegurar de que o interessado é efectivamente emigrante ou equiparado e reside no estrangeiro há mais de seis meses.
+4. A documentação exibida, que poderá ser substituída por fotocópia efectuada pela instituição de crédito depositária, reproduzindo pelo menos os seus elementos fundamentais, ficará arquivada nessa mesma instituição.
+5. A prova de qualidade de emigrante ou equiparado a que se refere o anterior n.º 3 deve ser apresentada dentro do prazo de cento e oitenta dias, a contar da data da constituição do depósito.
+Art. 3.º - 1. As contas de depósito podem ter co-titulares residentes em Portugal, desde que esses co-titulares sejam ou cônjuge, ascendentes ou descendentes em 1.º grau do emigrante ou equiparado.
+2. Os titulares das contas de depósito podem autorizar que residentes em território nacional movimentem tais contas nas condições e dentro dos montantes que estabeleçam sem prejuízo das condicionantes que estiverem legalmente determinadas.
+3. Constitui documento adequado para os efeitos previstos no número anterior uma procuração passada pelo titular da conta em que este especifique os poderes que pretende conferir ou qualquer outro documento que a instituição depositária considere suficiente e que traduza uma inequívoca manifestação de vontade do titular da conta.
+Art. 4.º - 1. As contas de depósito só podem ser creditadas:
+a) Com transferências do estrangeiro efectuadas através do sistema bancário ou pelos serviços dos correios por meio de vales internacionais;
+b) Pelo contravalor em escudos de meios de pagamento sob o exterior vendidos às instituições de crédito pelo emigrante ou equiparado ou seu representante;
+c) Pelos juros vencidos a pagar pelo depositário.
+2. Fora dos casos previstos no número anterior, o crédito nestas contas só pode realizar-se com autorização especial e prévia do Banco de Portugal.
+Art. 5.º 1. - As contas de depósito, quando à ordem, bem como com pré-aviso e a prazo, nos respectivos vencimentos, podem ser movimentadas a débito sem qualquer restrição.
+2. A movimentação que tenha por objecto a aquisição de bens imóveis não carece de qualquer especial autorização do Banco de Portugal para formalização do correspondente acto aquisitivo.
+Art. 6.º No caso de mobilização antecipada de fundos depositados a prazo, quer em escudos, quer em moeda estrangeira, aplica-se o disposto no Decreto-Lei n.º 75-B/77, de 28 de Fevereiro.
+Art. 7.º - 1. Sempre que na renovação de um depósito o titular tenha deixado de residir no estrangeiro há mais de um ano, o correspondente depósito deixa de beneficiar do regime de depósitos instituídos para os emigrantes portugueses ou equiparados, ficando, automaticamente, sujeito ao regime dos depósitos abertos em nome de residentes.
+2. A instituição de crédito depositária, sempre que tenha dúvidas quanto à manutenção da qualidade de emigrante ou equiparado por parte do titular de uma conta, pode exigir que o mesmo faça prova dessa qualidade, sob pena de se lhe aplicar o disposto no anterior n.º 1.
+Art. 8.º As instruções de natureza técnica que se venham a mostrar necessárias para a boa execução do presente diploma serão transmitidas às instituições de crédito por circular do Banco de Portugal.
+Art. 9.º São revogados:
+a) O Decreto-Lei n.º 545/76, de 10 de Julho;
+b) O Decreto-Lei n.º 746/76, de 18 de Outubro;
+c) As alíneas b) e c) do artigo 7.º do Decreto-Lei n.º 729-H/75, de 22 de Dezembro, com a redacção que lhe foi dada pelo artigo 3.º do Decreto-Lei n.º 13/77, de 7 de Janeiro.
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
+Promulgado em 27 de Fevereiro de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
