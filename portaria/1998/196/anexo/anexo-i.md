@@ -20,23 +20,23 @@ Concelhos de Belmonte, Castelo Branco, Covilhã (Aldeia do Carvalho, Aldeia do S
 
 2.ª prioridade
 
-Concelhos da Covilhã (Conceição, Santa Maria, São Jorge da Beira, São Martinho, São Pedro, Sarzedo, Unhais da Serra, Verdelhos, Cantar Galo), Oleiros (Álvaro, Amieira, Cambas, Madeira, Mosteiro, Orvalho, Sobral), Sertã, Vila de Rei, Almeida, Celorico da Beira, Fornos de Algodres, Gouveia, Guarda (à excepção das três freguesias que figuram em 1.ª prioridade), Gouveia, Pinhel (Alverca da Beira, Atalaia, Bouca Cova, Cerejo, Ervas Tenras, Freixedas, Gouveia, Lamegal, Lameiras, Manigoto, Pala, Pereira, Pinzio, Pomares, Safurdão, Souro Pires, Valbom, Vascoveiro), Sabugal (à excepção das quatro freguesias que figuram na 1.ª prioridade), Seia, Trancoso (à excepção das três freguesias que figuram na 1.ª prioridade).
+Concelhos da Covilhã (Conceição, Santa Maria, São Jorge da Beira, São Martinho, São Pedro, Sarzedo, Unhais da Serra, Verdelhos, Cantar-Galo), Manteigas, Oleiros (Álvaro, Ameeira, Cambas, Madeira, Monteiro, Orvalho, Sobral), Sertã, Vila de Rei, Almeida, Celorico da Beira, Fornos de Algodres, Gouveia, Guarda (à excepção das três freguesias que figuram em 1.ª prioridade), Pinhel (Alverca da Beira, Atalaia, Bouça Cova, Cerejo, Ervas Tenras, Freixedas, Gouveia, Lamegal, Lameiras, Manigoto, Pala, Pereira, Pínzio, Pomares, Safurdão, Souro Pires, Valbom, Vascoveiro), Sabugal (à excepção das quatro freguesias que figuram na 1.ª prioridade), Seia, Trancoso (à excepção das três freguesias que figuram na 1.ª prioridade).
 
 Direcção Regional de Agricultura da Beira Litoral
 
 1.ª prioridade
 
-Concelhos de Coimbra (Almelaguês, Assafarge, Botão, Brasfemes, Castelo Viegas, Ceira, Cernache, Eiras, Souselas, Torres do Mondego e Trouxemil), Condeixa (Bendefé, Condeixa-a-Nova, Condeixa-a-Velha, Furadouro, Vila Seca e Zambujal), Soure (Degracias, Pombalinho, Soure e Tapeus), Oliveira do Hospital, Ansião, Alvaiázere, Batalha, Pombal (Abiul, Albergaria dos Doze, Almagreira, Meirinhas, Pelariga, Pombal, Radinha, Santiago de Litém, São Simão de Litém, Vermoil e Vila Cã), Porto de Mós, Carregal do Sal, Mangualde, Nelas, Penalva do Castelo e Viseu.
+Concelhos de Aguiar da Beira, Arganil, Coimbra (Almalaguês, Assafarge, Botão, Brasfemes, Castelo Viegas, Ceira, Cernache, Eiras, Souselas, Torres do Mondego, Trouxemil), Condeixa (Bem da Fé, Condeixa-a-Nova, Condeixa-a-Velha, Furadouro, Vila Seca, Zambujal), Sátão, Soure (Degracias, Pombalinho, Soure, Tápeus), Oliveira do Hospital, Ancião, Alvaiázere, Batalha, Pombal (Abiul, Albergaria dos Doze, Almagreira, Meirinhas, Pelariga, Pombal, Redinha, Santiago de Litém, São Simão de Litém, Vermoil, Vila Cã), Porto de Mós, Carregal do Sal, Mangualde, Nelas, Penalva do Castelo, Viseu, Figueiró dos Vinhos, Pedrógão Grande, Pampilhosa da Serra, Tábua, Penela.
 
 2.ª prioridade
 
-Concelhos de Arganil, Penacova, Penela, Miranda do Corvo, Tábua, Leiria (Santa Catarina da Serra, Arrabal, Colmeias, Santa Eufémia e Carregueira), Santa Comba Dão e Tondela.
+Concelhos de Mortágua, Lousã, Vila Nova de Poiares, Góis, Penacova, Miranda do Corvo, Leiria (Santa Catarina da Serra, Arrabal, Colmeias, Santa Eufémia, Carregueira), Santa Comba Dão, Tondela.
 
 Direcção Regional de Agricultura do Ribatejo e Oeste
 
 1.ª prioridade
 
-Concelhos de Abrantes, Alcanena, Alcobaça (São Vicente de Aljubarrota e Turquel), Alvaiázere, Azambuja (Vila Nova de São Pedro), Cartaxo (Cartaxo, Ereira, Pontével e Vale da Pinta), Constância, Entroncamento, Ferreira do Zêzere, Gavião, Golegã, Porto de Mós (Alcaria, Alvados, Arrimal, Juncal, Mendiga, Pedreiras, São Bento, Serro Ventoso), Rio Maior (Alcobertas, Arruda dos Pisões, Assentiz, Azambujeira, Fráguas, Malaqueijo, Marmeleira, Outeiro da Cortiçada, Ribeira de São João, Rio Maior, São João da Ribeira, São Sebastião), Santarém, Sardoal, Tomar, Torres Novas, Vila Nova da Barquinha, Vila Nova de Ourém (Alburitel, Atouguia, Caxarias, Cercal, Espite, Fátima, Formigais, Freixianda, Gondemaria, Matas, Nossa Senhora da Misericórdia, Nossa Senhora da Piedade, Olival, Rio de Couros e Seiça)
+Concelhos de Abrantes, Alcanena, Alcobaça (São Vicente de Aljubarrota, Turquel), Azambuja (Vila Nova de São Pedro), Cartaxo (Cartaxo, Ereira, Pontével, Vale da Pinta), Constância, Entroncamento, Ferreira do Zêzere, Gavião, Golegã, Rio Maior (Alcobertas, Arruda dos Pisões, Assentiz, Azambujeira, Fráguas, Malaqueijo, Marmeleira, Outeiro da Cortiçada, Ribeira de São João, Rio Maior, São João da Ribeira, São Sebastião), Santarém, Sardoal, Tomar, Torres Novas, Vila Nova da Barquinha, Ourém (Alburitel, Atouguia, Caxarias, Cercal, Espite, Fátima, Formigais, Freixianda, Gondemaria, Matas, Nossa Senhora das Misericórdias, Nossa Senhora da Piedade, Olival, Rio de Couros, Seiça).
 
 2.ª prioridade
 
@@ -50,7 +50,9 @@ Concelhos de Castelo de Vide, Marvão, Portalegre, Alter do Chão, Avis, Frontei
 
 2.ª prioridade
 
-Concelhos de Nisa, Ponte de Sor, Mora, Arraiolos, Montemor-o-Novo, Ourique, Castro Verde, Mértola, Almodôvar, Évora (à excepção das três freguesias constantes da 1.ª prioridade), Viana do Alentejo (Alcáçovas), Santiago do Cacém (Alvalade).
+2.ª prioridade
+
+Concelhos de Crato, Nisa, Ponte de Sor, Mora, Arraiolos, Montemor-o-Novo, Ourique, Castro Verde, Mértola, Almodôvar, Évora (à excepção das três freguesias constantes da 1.ª prioridade), Viana do Alentejo (Alcáçovas), Santiago do Cacém e Odemira.
 
 Direcção Regional de Agricultura do Algarve
 

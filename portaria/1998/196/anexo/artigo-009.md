@@ -2,11 +2,7 @@
 
 Para efeitos de concessão das ajudas, devem ainda ser satisfeitas as seguintes condições:
 
-a) No caso de plantação de novos olivais têm de ser utilizadas as variedades recomendadas para a respectiva região, sendo as áreas mínimas a plantar as seguintes:
-
-i) Para as candidaturas individuais a área mínima por projecto é de 1 ha, devendo ainda, caso o olival não se destine à produção de azeitona de mesa, a área total da cultura na exploração atingir, pelo menos, 3 ha na situação com projecto;
-
-ii) Para as candidaturas conjuntas, apresentadas por dois ou mais agricultores com explorações contíguas, a área mínima por projecto é de 3 ha;
+a) No caso de plantação de novos olivais, devem ser utilizadas as variedades recomendadas para a respectiva região, sendo a área mínima a plantar de 1 ha, por projecto;
 
 b) No caso de reconversão por enxertia, a área mínima a enxertar é de 1 ha;
 
