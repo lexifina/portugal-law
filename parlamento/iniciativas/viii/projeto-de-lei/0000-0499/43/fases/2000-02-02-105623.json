@@ -1,0 +1,591 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "43",
+    "id": "6310",
+    "titulo": "Proíbe a comercialização e importação e produção com fins comerciais de organismos geneticamente modificados"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-02-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1779",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-02-02",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6288",
+        "leg": "VIII",
+        "nr": "30",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "411",
+            "obs": null,
+            "pag": [
+              "1290-1304"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-02-03",
+            "pubLeg": "VIII",
+            "pubNr": "34",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1290?pgs=1290-1304&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Organismos geneticamente modificados: submissão da lei ao princípio da precaução"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-02-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1719",
+                "nome": "Rosado Fernandes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29071",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1302-1302"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-03",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1302?pgs=1302&org=PLC"
+              }
+            ],
+            "sumario": "ORGANISMOS GENETICAMENTE MODIFICADOS: PROIBICAO DE COMERCIALIZACAO, PRODUCAO E IMPORTACAO COM FINS COMERCIAIS; SUBMISSAODA LEI AO PRINCIPIO DA PRECAUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1194",
+                "nome": "Lucília Ferra"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29072",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1300-1301"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-03",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1300?pgs=1300-1301&org=PLC"
+              }
+            ],
+            "sumario": "ORGANISMOS GENETICAMENTE MODIFICADOS: PROIBICAO DE COMERCIALIZACAO, PRODUCAO E IMPORTACAO COM FINS COMERCIAIS; SUBMISSAODA LEI AO PRINCIPIO DA PRECAUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1627",
+                "nome": "Maria Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29073",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1298-1303"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-03",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1298?pgs=1298-1303&org=PLC"
+              }
+            ],
+            "sumario": "ORGANISMOS GENETICAMENTE MODIFICADOS: PROIBICAO DE COMERCIALIZACAO, PRODUCAO E IMPORTACAO COM FINS COMERCIAIS; SUBMISSAODA LEI AO PRINCIPIO DA PRECAUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1719",
+                "nome": "Rosado Fernandes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29074",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1298-1298"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-03",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1298?pgs=1298&org=PLC"
+              }
+            ],
+            "sumario": "ORGANISMOS GENETICAMENTE MODIFICADOS: PROIBICAO DE COMERCIALIZACAO, PRODUCAO E IMPORTACAO COM FINS COMERCIAIS; SUBMISSAODA LEI AO PRINCIPIO DA PRECAUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29075",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1296-1298"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-03",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1296?pgs=1296-1298&org=PLC"
+              }
+            ],
+            "sumario": "ORGANISMOS GENETICAMENTE MODIFICADOS: PROIBICAO DE COMERCIALIZACAO, PRODUCAO E IMPORTACAO COM FINS COMERCIAIS; SUBMISSAODA LEI AO PRINCIPIO DA PRECAUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1131",
+                "nome": "Francisco Torres"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1295-1296"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-03",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1295?pgs=1295-1296&org=PLC"
+              }
+            ],
+            "sumario": "ORGANISMOS GENETICAMENTE MODIFICADOS: PROIBICAO DE COMERCIALIZACAO, PRODUCAO E IMPORTACAO COM FINS COMERCIAIS; SUBMISSAODA LEI AO PRINCIPIO DA PRECAUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1194",
+                "nome": "Lucília Ferra"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1294-1296"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-03",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1294?pgs=1294-1296&org=PLC"
+              }
+            ],
+            "sumario": "ORGANISMOS GENETICAMENTE MODIFICADOS: PROIBICAO DE COMERCIALIZACAO, PRODUCAO E IMPORTACAO COM FINS COMERCIAIS; SUBMISSAODA LEI AO PRINCIPIO DA PRECAUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1294-1300"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-03",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1294?pgs=1294-1300&org=PLC"
+              }
+            ],
+            "sumario": "ORGANISMOS GENETICAMENTE MODIFICADOS: PROIBICAO DE COMERCIALIZACAO, PRODUCAO E IMPORTACAO COM FINS COMERCIAIS; SUBMISSAODA LEI AO PRINCIPIO DA PRECAUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29079",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1292-1294",
+                  "1303-1304"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-03",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1292?pgs=1292-1294,1303-1304&org=PLC"
+              }
+            ],
+            "sumario": "ORGANISMOS GENETICAMENTE MODIFICADOS: PROIBICAO DE COMERCIALIZACAO, PRODUCAO E IMPORTACAO COM FINS COMERCIAIS; SUBMISSAODA LEI AO PRINCIPIO DA PRECAUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29080",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1290-1292"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-03",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1290?pgs=1290-1292&org=PLC"
+              }
+            ],
+            "sumario": "ORGANISMOS GENETICAMENTE MODIFICADOS: PROIBICAO DE COMERCIALIZACAO, PRODUCAO E IMPORTACAO COM FINS COMERCIAIS; SUBMISSAODA LEI AO PRINCIPIO DA PRECAUCAO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105623",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "111338",
+        "obs": null,
+        "pag": [
+          "1290-1304"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-02-03",
+        "pubLeg": "VIII",
+        "pubNr": "34",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1290?pgs=1290-1304&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
