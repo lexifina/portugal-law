@@ -1,0 +1,6 @@
+Decreto-Lei n.º 44003
+Tendo em vista o que foi proposto pela Junta Nacional da Educação;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. As disciplinas de Anatomia Descritiva (1.ª parte), Anatomia Descritiva (2.ª parte) e Anatomia Topográfica, Patologia Médica e Anatomia Patológica Especial e Patologia Cirúrgica e Anatomia Patológica Especial, do quadro das Faculdades de Medicina, passam a designar-se, respectivamente, Anatomia Descritiva, Anatomia Topográfica, Patologia Médica e Patologia Cirúrgica.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 28 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
