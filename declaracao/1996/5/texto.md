@@ -1,0 +1,3 @@
+Declaração n.º 5/96
+Para os devidos efeitos, torna-se público que o Tribunal Constitucional, pelo seu Acórdão n.º 976/96, tirado em sessão plenária de hoje, verificou e declarou, nos termos dos artigos 135.º, n.º 1, e 225.º, n.º 2, alínea a), da Constituição da República, o impedimento temporário do Presidente da República, Dr. Jorge Fernando Branco de Sampaio, a partir de 27 de Julho de 1996, assumindo as suas funções, como Presidente da República da Assembleia da República, Dr. António de Almeida Santos.
+Lisboa, 25 de Julho de 1996. - O Presidente do Tribunal Constitucional, José Manuel Moreira Cardoso da Costa.
