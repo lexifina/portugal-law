@@ -1,7 +1,5 @@
 # Artigo 166.º
 
-Quando o proprietário não começar as obras de reparação, beneficiação ou demolição a que aludem os artigos 9.º, 10.º e seu § 1.º e 12.º, ou as não concluir dentro dos prazos que lhe forem marcados pela câmara municipal, poderá esta entrar na posse do prédio e mandar proceder à sua execução.
+Quando o proprietário não começar as obras de reparação, de beneficiação ou de demolição, aludidas nos artigos 9.º, 10.º, 12.º e 165.º, ou as não concluir dentro dos prazos que lhe forem fixados, poderá a câmara municipal ocupar o prédio para o efeito de mandar proceder à sua execução imediata.
 
-§ único. A câmara fará extrair uma conta, que terá força executiva, para obter do proprietário o reembolso das despesas feitas com a realização dos trabalhos.
-
-## Regulamento Geral das Edificações Urbanas
+§ único. Na falta de pagamento voluntário das despesas, proceder-se-á à cobrança coerciva, servindo de título executivo certidão passada pelos serviços municipais donde conste o quantitativo global das despesas.
