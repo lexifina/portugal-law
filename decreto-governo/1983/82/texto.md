@@ -1,0 +1,49 @@
+Decreto do Governo n.º 82/83
+de 24 de Novembro
+Com fundamento no n.º 3 do artigo 5.º do Decreto-Lei n.º 93/78, de 13 de Maio, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
+Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais no montante de 557896 contos, destinados a reforças verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento do Estado em vigor:
+(ver documento original)
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento do Estado, representativas de aumento de previsão de receitas:
+Orçamento das receitas do Estado
+Receitas correntes: ... Em contos
+Capítulo 05 - Transferências:
+Grupo 01 - Sector público:
+Artigo 02 - Fundos autónomos ... 89700
+Capítulo 07 - Venda de serviços e bens não duradouros:
+Grupo 10 - Diversos - Outros sectores:
+Artigo 01 - Emolumentos pessoais:
+Serviços adunaneiros e da Guarda Fiscal ... 116000
+Serviços aduaneiros - Tráfego ... 33600
+Serviços aduaneiros - Casas de despacho das encomendas postais ... 200
+Serviços aduaneiros - Peritos veterinários ... 200
+Receitas de capital: ... Em contos
+Capítulo 10 - Transferências:
+Grupo 03 - Empresas privadas:
+Artigo 03 - Transferências diversas ... 195996
+Capítulo 11 - Activos financeiros:
+Grupo 12 - Empréstimos a médio e longo prazo - Sector público:
+Artigo 05 - Autarquias locais - Por aval ou responsabilidade do Estado ... 200
+Contas de ordem: ... Em contos
+Capítulo 15 - Contas de ordem:
+Grupo 08 - Indústria, Energia e Exportação:
+Artigo 10 - Instituto do Comércio Externo de Portugal ... 22000
+Grupo 10 - Educação:
+Artigo 04 - Instituto de Investigação Científica Tropical ... 15000
+Grupo 13 - Qualidade de Vida:
+Artigo 01 - Fundo de Fomento do Desporto ... 50000
+Grupo 14 - Cultura e Coordenação Científica:
+Artigo 02 - Instituto Português do Cinema ... 35000
+... 557896
+Art. 3.º São apostas às rubricas descritas sob o cap. 13, div. 01, do Ministério da Habitação, Obras Públicas e Transportes - Departamento dos Transportes as seguintes observações:
+À C. E. 14.00:
+(23) Inclui 5000 contos com compensação em receita do FETT.
+À C. E. 26.00:
+(24) Inclui 2000 contos com compensação em receita do FETT.
+À C. E. 31.00:
+(25) Inclui 2700 contos com compensação em receita do FETT.
+Mário Soares - Ernâni Rodrigues Lopes - Joaquim Leitão da Rocha Cabral - António Almeida Costa - João Rosado Correia - António d'Orey Capucho - António Antero Coimbra Martins.
+Assinado em 14 de Novembro de 1983.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 17 de Novembro de 1983.
+O Primeiro-Ministro, Mário Soares.
