@@ -1,0 +1,19 @@
+Portaria n.º 18739
+1. A indústria vem, de alguns anos para cá, manifestando um interesse, sempre crescente, pela refinação do óleo de bagaço de azeitona. Pareceu, assim, à Secretaria de Estado da Indústria não dever protelar por mais tempo a concessão a algumas empresas idóneas da autorização necessária ao exercício de uma actividade que tem, do ponto de vista industrial, inegáveis vantagens. Através dela, com efeito, será possível aproveitar integralmente e, por conseguinte, valorizar o bagaço de azeitona, fechar o ciclo fabril da indústria de extracção do respectivo óleo (em crise, dadas as dificuldades de colocação do produto bruto) e obter o pleno rendimento dos capitais investidos num conjunto de instalações que assim se completa.
+2. Sucede, porém, que a legislação portuguesa não permite a aplicação, na alimentação, do óleo obtido pela refinação de óleo de bagaço. Resulta daqui, enquanto se mantiver esta proibição, uma limitação para os titulares das autorizações concedidas, os quais não poderão colocar o produto no mercado interno, o que representa um aproveitamento apenas parcial das vantagens acima referidas.
+No entanto, o Acordo internacional do azeite de 1956, com as modificações do Protocolo de 3 de Abril de 1959, que o nosso país ratificou (Decreto-Lei n.º 42198, de 3 de Março de 1959), classifica como azeite refinado de 2.ª qualidade o obtido pela refinação de óleos extraídos com dissolventes e como azeite de mistura o constituído pela mistura de azeite virgem com aquele azeite. Há assim clara oposição entre a nossa lei interna e a lei internacional a que aderimos.
+Note-se, ainda, que a aplicação do azeite obtido pela refinação do óleo de bagaço a fins alimentares está de há muito permitida noutros países olivícolas.
+Põe-se, pois, a questão de saber se o regime vigente terá justificação razoável quando se ponderem objectivamente as vantagens e inconvenientes que advêm da utilização para fins alimentares do azeite de 2.ª qualidade refinado e do azeite de mistura a que se refere o Acordo internacional de 1956.
+3. Do ponto de vista higiénico, será, contudo, necessário assegurar que os processos de refinação sejam os mais apropriados, tendo em vista a utilização daquele azeite para fins alimentares. O assunto, por muito discutido, parece estar hoje inteiramente posto a claro.
+4. Também se não deve esquecer que, numa conjuntura económica em que devemos fomentar as exportações, o óleo de bagaço refinado pode desempenhar um papel muito importante, a exemplo do que aconteceu noutros países, em que as exportações foram mantidas à custa da mistura do azeite com diversos óleos vegetais.
+E espera-se que o incremento desta indústria venha a ter uma influência benéfica na produção olivícola, uma vez que as técnicas modernas exigem os bagaços frescos e que isso poderá concorrer, em certa medida, para a elevação dos respectivos preços.
+5. Tudo o que antecede aconselha, por conseguinte, a rever a nossa legislação sobre a matéria e a estudar e definir, através dos diversos departamentos deste Ministério interessados no assunto, as condições em que o óleo de bagaço de azeitona refinado poderá ser aplicado no mercado interno a fins alimentares.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro da Economia, que o problema seja estudado por uma comissão constituída como segae:
+Um representante do Ministério da Saúde e Assistência.
+Um representante da Secretaria de Estado da Agricultura.
+Um representante da Secretaria de Estado do Comércio.
+Um representante da Secretaria de Estado da Indústria (presidente).
+Dois representantes dos industriais titulares de licença para a refinação do óleo de bagaço de azeitona.
+Esta comissão deverá apresentar, no prazo de 90 dias após a nomeação dos seus membros, um relatório do estudo realizado.
+Ministério da Economia, 23 de Setembro de 1961. - O Ministro da Economia, José do Nascimento Ferreira Dias Júnior.
