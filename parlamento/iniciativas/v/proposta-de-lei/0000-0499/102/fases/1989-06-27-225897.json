@@ -1,0 +1,758 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "102",
+    "id": "29274",
+    "titulo": "Faculta ao Governo os meios necessários à reestruturação de diversos sectores estratégicos da economia portuguesa"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1989-06-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4991",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1989-06-27",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-06-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TESOURO E FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Faria de Oliveira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221065",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4774-4775",
+                  "4775-4775"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4774?pgs=4774-4775,4775&org=PLC"
+              }
+            ],
+            "sumario": "Faculta ao Governo os meios necessários à reestruturação de diversos sectores estratégicos da economia portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221066",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4775-4775"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4775?pgs=4775&org=PLC"
+              }
+            ],
+            "sumario": "Faculta ao Governo os meios necessários à reestruturação de diversos sectores estratégicos da economia portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221067",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4775-4776"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4775?pgs=4775-4776&org=PLC"
+              }
+            ],
+            "sumario": "Faculta ao Governo os meios necessários à reestruturação de diversos sectores estratégicos da economia portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  INDÚSTRIA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio de Sousa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221068",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4776-4777"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4776?pgs=4776-4777&org=PLC"
+              }
+            ],
+            "sumario": "Faculta ao Governo os meios necessários à reestruturação de diversos sectores estratégicos da economia portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221069",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4776-4776"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4776?pgs=4776&org=PLC"
+              }
+            ],
+            "sumario": "Faculta ao Governo os meios necessários à reestruturação de diversos sectores estratégicos da economia portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221070",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4777-4777",
+                  "4777-4777",
+                  "4777-4777"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4777?pgs=4777,4777,4777&org=PLC"
+              }
+            ],
+            "sumario": "Faculta ao Governo os meios necessários à reestruturação de diversos sectores estratégicos da economia portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221071",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4777-4777"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4777?pgs=4777&org=PLC"
+              }
+            ],
+            "sumario": "Faculta ao Governo os meios necessários à reestruturação de diversos sectores estratégicos da economia portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221072",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4777-4777"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4777?pgs=4777&org=PLC"
+              }
+            ],
+            "sumario": "Faculta ao Governo os meios necessários à reestruturação de diversos sectores estratégicos da economia portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221073",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4777-4777"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4777?pgs=4777&org=PLC"
+              }
+            ],
+            "sumario": "Faculta ao Governo os meios necessários à reestruturação de diversos sectores estratégicos da economia portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221074",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4777-4779",
+                  "4779-4780"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4777?pgs=4777-4779,4779-4780&org=PLC"
+              }
+            ],
+            "sumario": "Faculta ao Governo os meios necessários à reestruturação de diversos sectores estratégicos da economia portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221075",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4779-4779"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4779?pgs=4779&org=PLC"
+              }
+            ],
+            "sumario": "Faculta ao Governo os meios necessários à reestruturação de diversos sectores estratégicos da economia portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4780-4781",
+                  "4781-4782"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4780?pgs=4780-4781,4781-4782&org=PLC"
+              }
+            ],
+            "sumario": "Faculta ao Governo os meios necessários à reestruturação de diversos sectores estratégicos da economia portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4781-4781"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4781?pgs=4781&org=PLC"
+              }
+            ],
+            "sumario": "Faculta ao Governo os meios necessários à reestruturação de diversos sectores estratégicos da economia portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4782-4782"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4782?pgs=4782&org=PLC"
+              }
+            ],
+            "sumario": "Faculta ao Governo os meios necessários à reestruturação de diversos sectores estratégicos da economia portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221079",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4782-4783",
+                  "4783-4783"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4782?pgs=4782-4783,4783&org=PLC"
+              }
+            ],
+            "sumario": "Faculta ao Governo os meios necessários à reestruturação de diversos sectores estratégicos da economia portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221080",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4783-4783"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4783?pgs=4783&org=PLC"
+              }
+            ],
+            "sumario": "Faculta ao Governo os meios necessários à reestruturação de diversos sectores estratégicos da economia portuguesa",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "225897",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4991",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-06-28",
+        "pubLeg": "V",
+        "pubNr": "97",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
