@@ -1,0 +1,5 @@
+Aviso n.º 49/2001
+Por ordem superior se torna público que, em 31 de Outubro de 2000 e 9 de Janeiro de 2001, foram remetidas notas verbais, respectivamente pela Embaixada dos Estados Unidos Mexicanos em Lisboa e pelo Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridas as formalidades requeridas pelos ordenamentos jurídicos de ambos os países para a aprovação da Convenção entre a República Portuguesa e os Estados Unidos Mexicanos para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento e Protocolo anexo, assinados na cidade do México em 11 de Novembro de 1999.
+A presente Convenção foi aprovada pelo Decreto do Presidente da República n.º 80/2000, publicado no Diário da República, 1.ª série-A, n.º 288, de 15 de Dezembro de 2000.
+Em conformidade com o disposto no seu artigo 28.º, a Convenção entrou em vigor em 9 de Janeiro de 2001.
+Direcção-Geral das Relações Bilaterais, 27 de Abril de 2001. - O Director-Geral, José Caetano de Campos Andrada da Costa Pereira.
