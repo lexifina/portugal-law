@@ -1,0 +1,996 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "38",
+    "id": "19047",
+    "titulo": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2002-06-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2165",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2002-06-05",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-06-05",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140966",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "658-663",
+                  "676-676"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/658?pgs=658-663,676&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140967",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "660-661"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/660?pgs=660-661&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1153",
+                "nome": "José Augusto Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140968",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "661-661"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/661?pgs=661&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140969",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "662-662"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/662?pgs=662&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140970",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "662-662"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/662?pgs=662&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "459",
+                "nome": "João Cravinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140971",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "662-663"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/662?pgs=662-663&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140972",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "663-663"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/663?pgs=663&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1147",
+                "nome": "António da Silva Preto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140973",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "664-667"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/664?pgs=664-667&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140974",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "666-666"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/666?pgs=666&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1147",
+                "nome": "António da Silva Preto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140975",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "666-667"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/666?pgs=666-667&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1592",
+                "nome": "Victor Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140976",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "667-667"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/667?pgs=667&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140977",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "667-671"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/667?pgs=667-671&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140978",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "669-670"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/669?pgs=669-670&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1958",
+                "nome": "Pinho Cardão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140979",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "670-670"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/670?pgs=670&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140980",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "671-674"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/671?pgs=671-674&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140981",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "672-673"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/672?pgs=672-673&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140982",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "673-673"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/673?pgs=673&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140983",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "674-675"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/674?pgs=674-675&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "195",
+                "nome": "Leonor Coutinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140984",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "675-676"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-06",
+                "pubLeg": "IX",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06/675?pgs=675-676&org=PLC"
+              }
+            ],
+            "sumario": "Reforma a tributação do património, aprovando o Código do Imposto Municipal sobre imóveis, alterando o Código do Imposto de Selo, o Estatuto dos Benefícios Fiscais e diversa legislação avulsa, extinguindo o Imposto Municipal de Sisa e o Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "152172",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2165",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-06-06",
+        "pubLeg": "IX",
+        "pubNr": "17",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/017/2002-06-06?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
