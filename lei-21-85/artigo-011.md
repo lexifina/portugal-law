@@ -1,5 +1,7 @@
 # Artigo 11.º
 
-### Licença sem remuneração
+### (Proibição de actividade política)
 
-A licença sem remuneração consiste na ausência prolongada do serviço por parte do magistrado judicial com perda total de remuneração, mediante autorização do Conselho Superior da Magistratura, sob requerimento fundamentado do interessado.
+1 - É vedada aos magistrados judiciais em exercício a prática de actividades político-partidárias de carácter público.
+
+2 - Os magistrados judiciais na efectividade não podem ocupar cargos políticos, excepto o de Presidente da República e de membro do Governo ou do Conselho de Estado.

@@ -2,16 +2,10 @@
 
 ### (Estatuto dos membros do Conselho Superior da Magistratura)
 
-1 - Aos vogais do Conselho Superior da Magistratura que não sejam magistrados judiciais é aplicável, com as devidas adaptações, o regime de deveres, direitos e garantias dos magistrados judiciais.
+1 - Aos membros do Conselho Superior da Magistratura é aplicável, com as devidas adaptações, o regime de garantias e de incompatibilidades dos magistrados judiciais.
 
-2 - São extensíveis a todos os membros do Conselho Superior da Magistratura, na referida qualidade, os direitos previstos nas alíneas d), e), g) e h) do n.º 1, no n.º 3, na modalidade de passaporte especial, e no n.º 4 do artigo 17.º
+2 - O Conselho Superior da Magistratura determina os casos em que o cargo de vogal deve ser exercido em tempo integral ou com redução do serviço correspondente ao cargo de origem.
 
-3 - Os vogais do Conselho Superior da Magistratura desempenham as suas funções em regime de tempo integral, excepto se a tal renunciarem, aplicando-se, neste caso, redução do serviço correspondente ao cargo de origem.
+3 - Os vogais do Conselho Superior da Magistratura que exerçam funções em regime de tempo integral auferem as remunerações, respeitantes ao cargo de origem, se público, ou o vencimento e demais direitos correspondentes à letra A do funcionalismo público.
 
-4 - Os vogais do Conselho Superior da Magistratura que exerçam funções em regime de tempo integral auferem vencimento correspondente ao do vogal magistrado de categoria mais elevada.
-
-5 - Os membros do Conselho Superior da Magistratura têm direito a senhas de presença nas sessões do plenário e do conselho permanente, no valor correspondente a três quartos da Unidade de Conta (UC), e, se domiciliados fora da área metropolitana de Lisboa, a ajudas de custo e despesas de transporte, nos termos da lei.
-
-6 - Os vogais do Conselho Superior da Magistratura gozam das prerrogativas legalmente estatuídas para os magistrados dos tribunais superiores quando indicados como testemunhas em qualquer processo.
-
-7 - Os vogais do Conselho Superior da Magistratura demandados judicialmente em razão do exercício das suas funções como vogal têm direito a patrocínio judiciário suportado pelo Conselho Superior da Magistratura.
+4 - Os vogais têm direito a senhas de presença ou subsídios, nos termos e de montante a fixar por despacho do Ministro da justiça, e, se domiciliados fora de Lisboa, a ajudas de custo, nos termos da lei.

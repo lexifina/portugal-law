@@ -1,11 +1,17 @@
+## Secção IV
+
+## Revisão de decisões disciplinares
+
 # Artigo 109.º
 
-### Procedimento disciplinar
+### (Prescrição das penas)
 
-1 - O procedimento disciplinar é o meio de efetivar a responsabilidade disciplinar.
+As penas disciplinares prescrevem nos prazos seguintes, contados da data em que a decisão se tomou inimpugnável:
 
-2 - O procedimento disciplinar é sempre escrito, garantindo a audiência com possibilidade de defesa do arguido.
+a) Seis meses, para as penas de advertência e multa;
 
-3 - Sempre que possível, o procedimento disciplinar pode ser tramitado eletronicamente, desde que salvaguardada a confidencialidade e a qualidade dos dados.
+b) Um ano, para a pena de transferência;
 
-4 - A sanção de advertência não sujeita a registo pode ser aplicada independentemente de processo, desde que com audiência e possibilidade de defesa do arguido.
+c) Três anos, para as penas de suspensão de exercício e inactividade;
+
+d) Cinco anos, para as penas de aposentação compulsiva e demissão.

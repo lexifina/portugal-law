@@ -16,4 +16,4 @@ c) Possuir licenciatura em Direito, obtida em universidade portuguesa ou validad
 
 d) Ter frequentado com aproveitamento os cursos e estágios de formação;
 
-e) Satisfazer os demais requisitos gerais estabelecidos na lei para o provimento de lugares em funções públicas.
+e) Satisfazer os demais requisitos estabelecidos na lei para a nomeação de funcionários do Estado.

@@ -2,18 +2,32 @@
 
 ### (Distribuição de lugares)
 
-A distribuição de lugares é feita segundo a ordem de conversão dos votos em mandatos pela seguinte forma:
+1 - A distribuição de lugares é feita segundo a ordem de conversão dos votos em mandatos, pela seguinte forma:
 
-a) Primeiro mandato para o juiz conselheiro do Supremo Tribunal de Justiça;
+a) Na eleição relativa a magistrados judiciais:
 
-b) Segundo mandato para um juiz desembargador do tribunal da Relação;
+1.º mandato - juiz do Supremo Tribunal de justiça;
 
-c) Terceiro mandato para um juiz desembargador do tribunal da Relação;
+2.º mandato - juiz da relação;
 
-d) Quarto mandato para o juiz de direito proposto pela área de competência territorial do Tribunal da Relação de Lisboa;
+3.º mandato - juiz da relação;
 
-e) Quinto mandato para o juiz de direito proposto pela área de competência territorial dos Tribunais da Relação do Porto e de Guimarães;
+4.º mandato - juiz de direito proposto pelo distrito judicial de Lisboa;
 
-f) Sexto mandato para o juiz de direito proposto pela área de competência territorial do Tribunal da Relação de Coimbra;
+5.º mandato - juiz de direito proposto pelo distrito judicial do Porto;
 
-g) Sétimo mandato para o juiz de direito proposto pela área de competência territorial do Tribunal da Relação de Évora.
+6.º mandato - juiz de direito proposto pelo distrito judicial de Coimbra;
+
+7.º mandato - juiz de direito proposto pelo distrito judicial de Évora;
+
+b) Na eleição relativa a funcionários de justiça:
+
+1.º mandato - o funcionário de justiça proposto pelo distrito judicial de Lisboa, ou o primeiro proposto, se forem dois;
+
+2.º mandato - o funcionário de justiça proposto pelo distrito judicial do Porto, ou o primeiro proposto, se forem dois;
+
+3.º mandato - o funcionário de justiça proposto pelo distrito judicial de Coimbra, ou o primeiro proposto, se forem dois;
+
+4.º mandato - o funcionário de justiça proposto pelo distrito judicial de Évora, ou o primeiro proposto, se forem dois;
+
+5.º e 6.º mandatos - os dois restantes funcionários, de acordo com os mandatos obtidos e a ordem por que foram propostos em cada lista.

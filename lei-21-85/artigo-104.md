@@ -1,15 +1,15 @@
 # Artigo 104.º
 
-### Efeitos da suspensão de exercício
+### (Pena de suspensão de exercício)
 
-1 - A sanção de suspensão de exercício implica a perda do tempo correspondente à sua duração para efeitos de remuneração, antiguidade e aposentação ou reforma.
+1 - A peno de suspensão de exercício implica a perda do tempo correspondente à sua duração para efeitos de remuneração, antiguidade e aposentação.
 
-2 - Se a suspensão aplicada for igual ou inferior a 120 dias pode implicar ainda, além dos efeitos previstos no número anterior, o previsto na alínea b) do número seguinte, quando o magistrado judicial sancionado não possa manter-se no meio em que exerce as funções sem quebra do prestígio que lhe é exigível, o que deve constar da decisão disciplinar.
+2 - Se a pena de suspensão aplicada for igual ou inferior a cento e vinte dias, implica ainda, além dos efeitos previstos no número anterior, o previsto na alínea b) do n.º 3, quando o magistrado punido não possa manter-se no meio em que exerce as funções sem quebra do prestígio que lhe é exigível, o que constara da decisão disciplinar.
 
-3 - Se a suspensão aplicada for superior a 120 dias pode implicar ainda, além dos efeitos previstos no n.º 1:
+3 - Se a pena de suspensão aplicada for superior a cento e vinte dias, pode implicar ainda, além dos efeitos previstos no n.º 1:
 
-a) A impossibilidade de promoção ou acesso durante dois anos, contados do termo do cumprimento da sanção;
+a) A impossibilidade de promoção ou acesso durante um ano, contado do termo do cumprimento da pena;
 
-b) A transferência para cargo idêntico em tribunal ou serviço diferente daquele em que o magistrado judicial exercia funções na data da prática da infração.
+b) A transferência para cargo idêntico em tribunal ou serviço diferente daquele em que o magistrado exercia funções na data da prática da infracção.
 
-4 - A aplicação da sanção de suspensão de exercício não prejudica o direito do magistrado judicial à assistência a que tenha direito e à perceção de prestações complementares que não dependam do exercício efetivo de funções.
+4 - A aplicação da pena de suspensão não prejudica o direito do magistrado à assistência a que tenha direito e à percepção do abono de família e prestações complementares.

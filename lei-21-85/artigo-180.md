@@ -1,6 +1,6 @@
 ## Capítulo XI
 
-## Disposições complementares e finais
+## RECLAMAÇÕES E RECURSOS
 
 # Artigo 180.º
 

@@ -1,13 +1,15 @@
 # Artigo 162.º
 
-### Nomeação
+### (Inspectores e secretários de inspecção)
 
-1 - Os inspetores judiciais são nomeados pelo Conselho Superior da Magistratura, mediante prévio procedimento de seleção, nos termos de regulamento a aprovar por este órgão.
+1 - Os inspectores judiciais são nomeados em comissão de serviço de entre juízes de relação ou juízes de direito com antiguidade não inferior a 15 anos e classificação de serviço de Muito bom.
 
-2 - Para o cargo de inspetores podem candidatar-se juízes desembargadores ou juízes de direito com mais de 15 anos de serviço e notação de Muito Bom.
+2 - Os inspectores judiciais têm vencimento correspondente a juiz da relação.
 
-3 - Os inspetores judiciais têm vencimento correspondente ao de juiz desembargador.
+3 - Quando deva proceder-se a inspecção, inquérito ou processo disciplinar a juízes do Supremo Tribunal de Justiça ou das relações, é designado como inspector extraordinário um juiz do Supremo Tribunal de Justiça.
 
-4 - A inspeção destinada a colher informações sobre o serviço e o mérito dos magistrados judiciais não pode ser feita por inspetores de categoria ou antiguidade inferiores às dos inspecionados.
+4 - Os inspectores contadores são nomeados, em comissão de serviço, de entre secretários judiciais com classificação de Muito bom e auferem o vencimento correspondente ao de secretário de tribunal superior.
 
-5 - Quando deva proceder-se a inspeção, inquérito ou processo disciplinar a magistrados judiciais em exercício nos tribunais da Relação ou no Supremo Tribunal de Justiça, é designado um inspetor judicial extraordinário de entre os juízes conselheiros do Supremo Tribunal de Justiça, podendo a escolha recair num juiz conselheiro jubilado.
+5 - As funções de secretário de inspecção são exercidas, em comissão de serviço, por funcionários de justiça.
+
+6 - Os secretários de inspecção, quando secretários judiciais com classificação de Muito bom, auferem o vencimento referido no n.º 4.

@@ -2,12 +2,14 @@
 
 ### (Condições de transferência)
 
-1 - Os juízes de direito podem ser transferidos a seu pedido quando decorridos dois anos sobre a data da deliberação que os tenha nomeado para o cargo anterior.
+1 - Os juízes de direito podem ser transferidos a seu pedido quando decorridos dois anos ou um ano sobre a data da posse no cargo anterior, consoante a precedente colocação tenha ou não sido pedida.
 
-2 - Após o exercício de funções em juízos locais de competência genérica, os juízes de direito não podem recusar a primeira colocação em juízo diverso daquele.
+2 - A transferência a pedido de comarcas ou lugares de ingresso para comarcas ou lugares de primeiro acesso só pode fazer-se decorridos cinco anos sobre a data da primeira nomeação.
 
-3 - Os juízes de direito com mais de três anos de serviço efetivo não podem requerer a sua colocação em lugares de juízo local de competência genérica, identificados pelo Conselho Superior da Magistratura como juízos de primeira nomeação, se já colocados em lugares de instância local de competência especializada ou em lugares de juízo central.
+3 - A transferência a pedido de comarcas ou lugares de primeiro acesso para comarcas ou lugares de acesso final só pode fazer-se decorridos oito anos sobre a data da primeira nomeação.
 
-4 - Sem prejuízo do disposto nos números anteriores, podem ser autorizadas, a título excepcional, permutas que não prejudiquem o serviço e direitos de terceiros, em igualdade de condições e de encargos, assegurando o Conselho Superior da Magistratura a enunciação dos critérios aplicáveis.
+4 - Os juízes de direito não podem recusar a primeira colocação após o exercício de funções em comarcas ou lugares de ingresso ou de primeiro acesso.
 
-5 - Não se aplica o prazo referido no n.º 1 nos casos de provimento em novos lugares criados.
+5 - Os juízes de direito com mais de cinco anos de serviço efectivo não podem requerer a sua colocação em comarcas ou lugares de ingresso, se já colocados em comarcas ou lugares de primeiro acesso, nem numas ou noutras, se colocados em comarcas ou lugares de acesso final.
+
+6 - Sem prejuízo do disposto nos números anteriores e de direitos de terceiros, são autorizadas permutas.

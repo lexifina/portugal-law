@@ -1,7 +1,5 @@
 # Artigo 123.º
 
-### Nulidades e irregularidades
+### (Notificação de decisão)
 
-1 - Constitui nulidade insuprível a falta de audiência do arguido com possibilidade de defesa e a omissão de diligências essenciais para a descoberta da verdade que ainda possam utilmente realizar-se ou cuja realização fosse obrigatória.
-
-2 - As restantes nulidades e irregularidades consideram-se sanadas se não forem arguidas na defesa ou, a ocorrerem posteriormente, no prazo de cinco dias contados da data do seu conhecimento.
+A decisão final, acompanhada de cópia do relatório a que se refere o artigo anterior, é notificada ao arguido com observância do disposto no artigo 118.º

@@ -1,21 +1,15 @@
 ## Capítulo III
 
-## Avaliação
+## CLASSIFICAÇÕES
 
 # Artigo 31.º
 
-### Princípios orientadores da avaliação
+### (Responsabilidade pelo mobiliário)
 
-1 - Os juízes de direito são avaliados complementarmente à inspeção do respetivo tribunal.
+1 - O magistrado que vá habitar a casa recebe por inventário, que deverá assinar, o mobiliário e demais equipamento existente, registando-se no acto as anomalias verificadas.
 
-2 - A avaliação dos juízes de direito respeita os seguintes princípios:
+2 - Procede-se por forma semelhante à referida no número anterior quando o magistrado deixe a casa.
 
-a) Legalidade, igualdade, justiça, razoabilidade e imparcialidade;
+3 - O magistrado é responsável pela boa conservação do mobiliário e equipamento recebido, devendo comunicar qualquer ocorrência, de forma a manter-se actualizado o inventário.
 
-b) Independência, nos termos do qual os serviços de inspeção não podem, em qualquer caso, interferir com a independência dos juízes, nomeadamente pronunciando-se quanto ao mérito substancial das decisões;
-
-c) Continuidade, que impõe um permanente acompanhamento dos tribunais e do serviço dos juízes.
-
-3 - As inspeções são realizadas, preferencialmente, por inspetores que desempenharam funções efetivas na mesma jurisdição do inspecionado, sendo inspecionados no mesmo ano civil todos os juízes de direito de igual antiguidade.
-
-4 - Caso o período inspetivo abranja várias jurisdições, a inspeção deve ser realizada preferencialmente por inspetor que tenha desempenhado funções efetivas na jurisdição em que o inspecionado trabalhou durante mais tempo ou na que prestou serviço mais relevante para efeitos inspetivos.
+4 - O magistrado poderá pedir a substituição ou reparação do mobiliário ou equipamento que se torne incapaz para seu uso normal, nos termos de regulamento a elaborar pelo Ministério da Justiça, ouvido o Conselho Superior da Magistratura.

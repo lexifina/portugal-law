@@ -1,7 +1,5 @@
 # Artigo 106.º
 
-### Efeitos da demissão
+### (Pena de aposentação compulsiva)
 
-1 - A sanção de demissão implica o imediato desligamento do serviço e a perda dos direitos conferidos pelo presente Estatuto.
-
-2 - A demissão não implica a perda do direito à aposentação ou reforma, nos termos e condições estabelecidos na lei, nem impede o magistrado de ser nomeado para cargos públicos ou outros que possam ser exercidos sem as particulares condições de dignidade e confiança exigidas pela função judicial.
+A pena de aposentação compulsiva implica a imediata desligação do serviço e a perda dos direitos e regalias conferidos por este Estatuto, sem prejuízo do direito à pensão fixada na lei.

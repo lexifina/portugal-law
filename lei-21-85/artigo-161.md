@@ -2,18 +2,10 @@
 
 ### (Competência)
 
-Compete ao serviço de inspeção:
+1 - Compete aos serviços de inspecção facultar ao Conselho Superior da Magistratura o conhecimento do estado, necessidades e deficiências dos serviços judiciais, a fim de o habilitar a tomar as providências convenientes.
 
-a) Inspecionar os tribunais e o serviço dos magistrados judiciais;
+2 - Complementarmente, os serviços de inspecção destinam-se a colher informações sobre o serviço e o mérito dos magistrados e funcionários de justiça.
 
-b) Facultar ao Conselho Superior da Magistratura o perfeito conhecimento do estado, necessidades e deficiências dos serviços nos tribunais, a fim de o habilitar a tomar as providências que dele dependam ou a propor ao membro do Governo responsável pela área da justiça as medidas que requeiram a intervenção do Governo, bem como o conhecimento sobre a prestação efetuada pelos magistrados judiciais e o seu mérito;
+3 - Aos inspectores contadores compete a fiscalização dos serviços de contabilidade e tesouraria.
 
-c) Dirigir e instruir os procedimentos disciplinares, bem como as averiguações, inquéritos e demais procedimentos destinados a apurar a situação dos serviços;
-
-d) Propor a aplicação da suspensão preventiva, formular acusação nos procedimentos disciplinares e propor a instauração de procedimentos nas demais formas procedimentais;
-
-e) Averiguar da necessidade de introdução de medidas que conduzam a uma melhoria dos serviços;
-
-f) Comunicar ao Conselho Superior da Magistratura todas as situações de inadaptação ao serviço por parte de magistrados judiciais, nomeadamente quando estejam em causa atrasos processuais de relevo;
-
-g) Facultar aos magistrados judiciais elementos para o aperfeiçoamento e a uniformização dos serviços judiciais, pondo-os ao corrente das boas práticas de gestão processual adequadas à obtenção de uma mais eficiente administração da justiça.
+4 - A inspecção destinada a colher informações sobre o serviço e o mérito dos magistrados não pode ser feita por inspectores de categoria ou antiguidade inferiores às dos magistrados inspeccionados.

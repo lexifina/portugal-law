@@ -1,13 +1,5 @@
 # Artigo 102.º
 
-### Sanção de aposentação ou reforma compulsiva e de demissão
+### (Pena de multa)
 
-1 - A aposentação ou reforma compulsiva e a demissão são aplicáveis a infrações muito graves quando se verifique alguma das seguintes circunstâncias:
-
-a) Definitiva ou manifesta e reiterada incapacidade de adaptação às exigências da função;
-
-b) Conduta desonrosa ou manifestamente violadora da integridade, isenção, prudência e correção pessoal que lhe é exigida;
-
-c) Condenação por crime praticado com evidente e grave abuso da função ou com manifesta e grave violação dos deveres a ela inerentes.
-
-2 - Ao abandono de lugar corresponde sempre a sanção de demissão.
+A pena de multa implica o desconto, no vencimento do magistrado, da importância correspondente ao número de dias aplicado.

@@ -1,13 +1,25 @@
 # Artigo 85.º
 
-### Atenuação especial da sanção disciplinar
+### (Escala de penas)
 
-A sanção disciplinar pode ser especialmente atenuada, aplicando-se a sanção de escalão inferior, quando existam circunstâncias anteriores ou posteriores à infração, ou contemporâneas dela, que diminuam acentuadamente a gravidade do facto ou a culpa do arguido, nomeadamente:
+1 - Os magistrados judiciais estão sujeitos às seguintes penas:
 
-a) O exercício de funções, por mais de 10 anos, sem que haja sido cometida qualquer outra infração grave ou muito grave;
+a) Advertência;
 
-b) A confissão espontânea e relevante da infração;
+b) Multa;
 
-c) A provocação injusta, a atuação sob ameaça grave ou a prática da infração ter sido determinada por motivo honroso;
+c) Transferência;
 
-d) A verificação de atos demonstrativos de arrependimento ativo.
+d) Suspensão de exercício;
+
+e) Inactividade;
+
+f) Aposentação compulsiva;
+
+g) Demissão.
+
+2 - Sem prejuízo do disposto no n.º 4, as penas aplicadas são sempre registadas.
+
+3 - As amnistias não destroem os efeitos produzidos pela aplicação das penas, devendo ser averbadas no competente processo individual.
+
+4 - A pena prevista na alínea a) do n.º 1 pode ser aplicada independentemente de processo, desde que com audiência e possibilidade de defesa do arguido, e não ser sujeita a registo.

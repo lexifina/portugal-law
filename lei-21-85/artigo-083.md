@@ -1,9 +1,7 @@
 # Artigo 83.º
 
-### Autonomia
+### (Autonomia da jurisdição disciplinar)
 
-1 - O procedimento disciplinar é autónomo relativamente ao procedimento criminal e contraordenacional instaurado pelos mesmos factos.
+1 - O procedimento disciplinar é independente do procedimento criminal.
 
-2 - Quando, em procedimento disciplinar, se apure a existência de infração criminal, o inspetor dá imediato conhecimento deste facto ao Conselho Superior da Magistratura e ao Ministério Público.
-
-3 - Proferido despacho de validação da constituição de magistrado judicial como arguido, a autoridade judiciária competente dá imediato conhecimento desse facto ao Conselho Superior da Magistratura.
+2 - Quando em processo disciplinar se apure a existência de infracção criminal, dá-se imediato conhecimento ao Conselho Superior da Magistratura.

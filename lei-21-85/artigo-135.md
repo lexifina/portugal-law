@@ -1,13 +1,7 @@
 # Artigo 135.º
 
-### Cancelamento do registo
+### (Conversão em processo disciplinar)
 
-As decisões inscritas no registo são canceladas, decorridos os seguintes prazos sobre a sua execução, ou extinção no caso da alínea b), e desde que, entretanto, o magistrado não tenha incorrido em nova infração disciplinar:
+1 - Se apurar a existência de infracção, o Conselho Superior da Magistratura pode deliberar que o processo de inquérito ou de sindicância em que o arguido tenha sido ouvido constitua a parte instrutória do processo disciplinar.
 
-a) Dois anos, nos casos de advertência registada;
-
-b) Cinco anos, nos casos de multa;
-
-c) Oito anos, nos casos de transferência;
-
-d) Dez anos, nos casos de suspensão do exercício de funções.
+2 - No caso previsto no número anterior, a data da instauração do inquérito ou da sindicância fixa o início do procedimento disciplinar.

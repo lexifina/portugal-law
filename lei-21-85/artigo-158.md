@@ -8,18 +8,14 @@ a) Ordenar inspecções extraordinárias;
 
 b) Instaurar inquéritos e sindicâncias;
 
-c) Autorizar que magistrados se ausentem do serviço;
+c) Autorizar que magistrados ou funcionários se ausentem do serviço;
 
-d) Conceder a autorização para residir em local diferente do domicílio necessário a que se refere o n.º 1 do artigo 8.º;
+d) Conceder a autorização a que se refere o n.º 3 do artigo 8.º;
 
-e) Prorrogar o prazo para a posse e autorizar ou determinar que esta seja tomada em lugar ou perante entidade diferente;
+e) Prorrogar o prazo para a posse e autorizar que esta seja tomada em lugar ou perante entidade diferente;
 
-f) Indicar magistrados para participarem em grupos de trabalho;
+f) Indicar magistrados e funcionários de justiça para participarem em grupos de trabalho;
 
-g) Exercer as competências em matéria administrativa e financeira, relativamente ao seu orçamento;
+g) Resolver outros assuntos, nomeadamente de carácter urgente.
 
-h) Resolver outros assuntos da sua competência, nomeadamente de caráter urgente.
-
-2 - Pode ainda o Conselho Superior da Magistratura delegar nos presidentes dos tribunais a prática dos atos a que aludem as alíneas c), d) e e) do n.º 1.
-
-3 - No que respeita ao tribunal de comarca, as competências referidas nas alíneas c) e d) do n.º 1 consideram-se tacitamente delegadas no respetivo presidente.
+2 - Pode ainda o Conselho Superior da Magistratura delegar nos presidentes do Supremo Tribunal de justiça e das relações a prática de actos próprios da sua competência, designadamente os relativos a licenças, faltas e férias, e bem assim a competência a que se refere a alínea l) do artigo 149.º

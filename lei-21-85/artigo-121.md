@@ -1,5 +1,7 @@
 # Artigo 121.º
 
-### Notificação de decisão
+### (Defesa do arguido)
 
-A decisão final, acompanhada de cópia do relatório a que se refere o artigo 120.º, é notificada ao arguido com observância do disposto nos n.os 1 e 2 do artigo 118.º
+1 - Com a defesa, o arguido pode indicar testemunhas, juntar documentos ou requerer diligências.
+
+2 - Não podem ser oferecidas mais de três testemunhas a cada facto.

@@ -2,8 +2,8 @@
 
 ### (Lista de antiguidade)
 
-1 - A lista de antiguidade dos magistrados judiciais é anualmente publicada pelo Conselho Superior da Magistratura no Diário da República e divulgada no respetivo sítio na Internet.
+1 - A lista de antiguidade dos magistrados judiciais é publicada anualmente pelo Ministério da Justiça, no respectivo Boletim ou em separata deste.
 
-2 - Os magistrados judiciais são graduados em cada categoria de acordo com o tempo de serviço, mencionando-se, a respeito de cada um, o cargo ou função que desempenha e a data da colocação.
+2 - Os magistrados são graduados em cada categoria de acordo com o tempo de serviço, mencionando-se, a respeito de cada um, a data de nascimento, o cargo ou função que desempenha, a data da colocação e a comarca da naturalidade.
 
-3 - (Revogado.)
+3 - A data da distribuição do Boletim ou da separata referidos no n.º 1 é anunciada no Diário da República.

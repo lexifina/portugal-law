@@ -4,7 +4,7 @@
 
 Não conta para efeitos de antiguidade:
 
-a) O tempo decorrido na situação das licenças previstas nas alíneas a), d) e e) do artigo 12.º, sem prejuízo do disposto no artigo 14.º;
+a) O tempo decorrido na situação de inactividade ou de licença ilimitada;
 
 b) O tempo que, de acordo com as disposições sobre procedimento disciplinar, for considerado perdido;
 

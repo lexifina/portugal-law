@@ -1,5 +1,7 @@
 # Artigo 105.º
 
-### Efeitos da aposentação ou reforma compulsiva
+### (Pena de inactividade)
 
-A sanção de aposentação ou reforma compulsiva implica o imediato desligamento do serviço e a perda dos direitos conferidos pelo presente Estatuto, sem prejuízo do direito à pensão fixada na lei.
+1 - A pena de inactividade produz os efeitos referidos nos n.os 1 e 3 do artigo anterior, sendo elevado para dois anos o período de impossibilidade e promoção ou de acesso.
+
+2 - É aplicável à pena de inactividade o disposto no n.º 4 do artigo anterior.

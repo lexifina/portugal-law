@@ -2,6 +2,4 @@
 
 ### (Contencioso eleitoral)
 
-1 - A impugnação contenciosa das decisões da comissão de eleições deve ser interposta, no prazo de 48 horas, para o Supremo Tribunal de Justiça, e decidida pela secção prevista no n.º 1 do artigo 170.º, nas 48 horas seguintes à sua admissão.
-
-2 - As irregularidades na votação ou no apuramento só são suscetíveis de anular a eleição se influírem no seu resultado.
+O recurso contencioso dos actos eleitorais é interposto, no prazo de quarenta e oito horas, para o Supremo Tribunal de justiça e decidido, pela secção prevista no artigo 168.º, nas quarenta e oito horas seguintes à sua admissão.

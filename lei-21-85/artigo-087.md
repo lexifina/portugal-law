@@ -1,7 +1,5 @@
 # Artigo 87.º
 
-### Concurso de infrações
+### (Pena de multa)
 
-1 - Verifica-se o concurso de infrações quando o magistrado judicial comete duas ou mais infrações antes de se tornar inimpugnável a condenação por qualquer delas.
-
-2 - No concurso de infrações aplica-se uma única sanção disciplinar e, quando lhes correspondam diferentes sanções disciplinares, aplica-se a de maior gravidade, agravada em função do concurso, se a sua moldura for variável.
+A pena de multa é fixada em dias, no mínimo de cinco e no máximo de trinta.

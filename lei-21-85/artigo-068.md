@@ -1,17 +1,13 @@
 # Artigo 68.º
 
-### Aposentação ou reforma
+### (Direitos e obrigações)
 
-1 - A pensão de aposentação ou reforma dos magistrados aposentados ou reformados é calculada com base na seguinte fórmula:
+1 - Aos magistrados judiciais jubilados é aplicável o disposto nos n.os 1 e 3 do artigo 17.º, nos n.os 1 e 2 do artigo 23.º e no n.º 2 do artigo 29.º, correspondendo-lhes a participação emolumentar fixada para os magistrados do activo de categoria idêntica àquela em que se verificou a jubilação.
 
-R x T1/C
+2 - A pensão de aposentação será calculada, sem qualquer dedução no quantitativo apurado, em função de todas as remunerações sobre as quais incidiu o desconto respectivo.
 
-em que:
+3 - Até à liquidação definitiva, os magistrados judiciais jubilados têm direito ao abono de pensão provisória, calculada e abonada nos termos legais pela repartição processadora.
 
-R é a remuneração mensal relevante nos termos do Estatuto da Aposentação, deduzida da percentagem da quota para aposentação e pensão de sobrevivência no âmbito do regime da Caixa Geral de Aposentações;
+4 - Os magistrados judiciais jubilados encontram-se obrigados à reserva exigida pela sua condição.
 
-T1 é a expressão em anos do número de meses de serviço, com o limite máximo de C; e
-
-C é o número constante do anexo iii.
-
-2 - O subsídio previsto nos n.os 2 e 3 do artigo 26.º-A integra a remuneração mensal relevante, pelo número de meses correspondente à quotização realizada para a Caixa Geral de Aposentações ou para a segurança social.
+5 - O estatuto de jubilado pode ser retirado por via de procedimento disciplinar.

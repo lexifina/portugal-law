@@ -1,13 +1,11 @@
 ## Capítulo IX
 
-## Conselho Superior da Magistratura
-
-## Secção I
-
-## Estrutura
+## INQUÉRITOS E SINDICÂNCIAS
 
 # Artigo 136.º
 
 ### (Definição)
 
-O Conselho Superior da Magistratura é o órgão superior de gestão e disciplina da magistratura judicial.
+1 - O Conselho Superior da Magistratura é o órgão superior de gestão e disciplina da magistratura judicial.
+
+2 - O Conselho exerce também jurisdição sobre os funcionários de justiça nos termos desta lei.

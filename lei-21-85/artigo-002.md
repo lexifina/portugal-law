@@ -2,4 +2,4 @@
 
 ### (Composição da magistratura judicial)
 
-A magistratura judicial é composta por juízes do Supremo Tribunal de Justiça, juízes dos tribunais da Relação e juízes dos tribunais de primeira instância.
+A magistratura judicial é constituída por juízes do Supremo Tribunal de Justiça, juízes das relações e juízes de direito.

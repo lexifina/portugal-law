@@ -1,15 +1,13 @@
 # Artigo 168.º
 
-### Prazo
+### (Recursos)
 
-1 - O prazo para deduzir meio impugnatório administrativo de natureza facultativa ou necessária é de 30 dias úteis, mesmo quando seja apresentado contra a omissão ilegal de norma ou ato administrativo.
+1 - Das deliberações do Conselho Superior da Magistratura recorre-se para o Supremo Tribunal de justiça.
 
-2 - O prazo para a decisão é de 90 dias úteis, podendo, em circunstâncias excecionais, ser prorrogado por período máximo de 30 dias úteis.
+2 - Para efeitos de apreciação do recurso referido no número anterior, o Supremo Tribunal de justiça funciona através de uma secção constituída pelo seu presidente e quatro juízes, um de cada secção, anual e sucessivamente designados, tendo em conta a respectiva antiguidade.
 
-3 - É atribuída natureza urgente aos meios impugnatórios de natureza administrativa que se destinem a tutelar direitos, liberdades e garantias que de outro modo não possam ser assegurados em tempo útil.
+3 - Os recursos são distribuídos pelos juízes da secção, cabendo ao presidente voto de qualidade.
 
-4 - Nos casos referidos no número anterior, os prazos legais são reduzidos a metade e os atos da secretaria são praticados no próprio dia, com precedência sobre quaisquer outros.
+4 - A competência da secção mantém-se até ao julgamento dos recursos que lhe hajam sido distribuídos.
 
-5 - A falta, no prazo legal, de decisão final sobre a pretensão dirigida ao órgão administrativo competente confere ao interessado a possibilidade de utilizar os meios de tutela administrativa e jurisdicional adequados.
-
-6 - Não sendo utilizados ou admitidos os meios de tutela administrativa e jurisdicional referidos no número anterior, o Conselho Superior da Magistratura não fica dispensado de proferir decisão, a qual é suscetível de impugnação jurisdicional.
+5 - Constituem fundamentos do recurso os previstos na lei para os recursos a interpor dos actos do Governo.

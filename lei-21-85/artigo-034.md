@@ -1,11 +1,11 @@
 # Artigo 34.º
 
-### Primeira classificação
+### (Critérios e efeitos das classificações)
 
-1 - Os juízes de direito são obrigatoriamente sujeitos, no final do primeiro ano de exercício efetivo de funções, a uma ação inspetiva que, tendo em consideração os critérios de classificação contidos no n.º 1 do artigo anterior, culmina com uma avaliação positiva ou negativa, propondo, no caso de avaliação negativa, medidas de correção.
+1 - A classificação deve atender ao modo como os juízes de direito desempenham a função, ao volume e dificuldades do serviço a seu cargo, às condições do trabalho prestado, à sua preparação técnica, categoria intelectual, trabalhos jurídicos publicados e idoneidade cívica.
 
-2 - No caso de avaliação negativa com proposta de adoção de medidas corretivas, o Conselho Superior da Magistratura, decorrido que seja um ano sobre a notificação do relatório, ordena a realização de uma inspeção extraordinária.
+2 - A classificação de Medíocre implica a suspensão do exercício de funções do magistrado e a instauração de inquérito por inaptidão para esse exercício.
 
-3 - Sem prejuízo do disposto nos números anteriores, a primeira notação a atribuir aos juízes de direito efetiva-se ao fim de três anos de exercício de funções.
+3 - Se, em processo disciplinar instaurado com base no inquérito, se concluir pela inaptidão do magistrado, mas pela possibilidade da sua permanência na função pública, pode, a requerimento do interessado, substituir-se as penas de aposentação compulsiva ou de demissão pela de exoneração.
 
-4 - No caso de falta de classificação não imputável ao juiz de direito, presume-se a de Bom.
+4 - No caso previsto no número anterior, o processo, acompanhado de parecer fundamentado, é enviado ao Ministério da Justiça para efeito de homologação e colocação do interessado em lugar adequado às suas aptidões; a homologação do parecer pelo Ministro da Justiça habilita o interessado para ingresso em lugar compatível dos serviços dependentes do Ministério.

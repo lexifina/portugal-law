@@ -1,9 +1,5 @@
-## Secção VI
-
-## Reabilitação
-
 # Artigo 131.º
 
-### Reabilitação
+### (Direito subsidiário)
 
-É concedida a reabilitação a quem a demonstre merecer, pela boa conduta posterior à aplicação da sanção.
+São aplicáveis subsidiariamente em matéria disciplinar as normas do Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local, do Código Penal, bem como do Código de Processo Penal, e diplomas complementares.

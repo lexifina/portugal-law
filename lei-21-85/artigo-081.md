@@ -1,6 +1,6 @@
 ## Capítulo VIII
 
-## Regime disciplinar
+## PROCEDIMENTO DISCIPLINAR
 
 ## Secção I
 
@@ -10,4 +10,4 @@
 
 ### (Responsabilidade disciplinar)
 
-Os magistrados judiciais estão sujeitos a responsabilidade disciplinar nos casos previstos e com as garantias estabelecidas no presente Estatuto.
+Os magistrados judiciais são disciplinarmente responsáveis nos termos dos artigos seguintes.

@@ -1,9 +1,9 @@
 # Artigo 89.º
 
-### Sujeição à responsabilidade disciplinar
+### (Penas de suspensão de exercício a de inactividade)
 
-1 - A exoneração ou mudança de situação não impedem a punição por infrações cometidas no exercício da função.
+1 - As penas de suspensão de exercício e de inactividade consistem no afastamento completo do serviço durante o período da pena.
 
-2 - Em caso de suspensão do vínculo, ou ausência ao serviço, o magistrado judicial cumpre sanção disciplinar quando regressar à atividade.
+2 - A pena de suspensão pode ser de vinte a duzentos e quarenta dias.
 
-3 - Em caso de cessação do vínculo, o magistrado judicial cumpre a sanção disciplinar se regressar à atividade.
+3 - A pena de inactividade não pode ser inferior a um ano nem superior a dois.

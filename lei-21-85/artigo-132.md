@@ -1,7 +1,7 @@
 # Artigo 132.º
 
-### Procedimento de reabilitação
+### (Inquéritos e sindicâncias)
 
-1 - É competente para o procedimento de reabilitação o Conselho Superior da Magistratura.
+1 - Os inquéritos têm por finalidade a averiguação de factos determinados.
 
-2 - Os magistrados judiciais condenados nas sanções disciplinares previstas nas alíneas a) a d) do n.º 1 do artigo 91.º podem ser reabilitados independentemente de revisão do processo disciplinar.
+2 - As sindicâncias têm lugar quando haja notícia de factos que exijam uma averiguação geral acerca do funcionamento dos serviços.

@@ -1,5 +1,5 @@
 # Artigo 92.º
 
-### Advertência
+### (Pena de multa)
 
-A advertência consiste num reparo pela irregularidade praticada ou numa repreensão destinada a prevenir o magistrado judicial de que a ação ou omissão é suscetível de causar perturbação no exercício das funções ou de nele se repercutir de forma incompatível com a dignidade que lhe é exigível.
+A pena de multa é aplicável a casos de negligência ou desinteresse pelo cumprimento dos deveres do cargo.

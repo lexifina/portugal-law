@@ -1,9 +1,7 @@
 # Artigo 35.º
 
-### Procedimento
+### (Juízes de direito em comissão de serviço)
 
-1 - O magistrado judicial é obrigatoriamente ouvido sobre os relatórios informativo e inspetivo, podendo fornecer os elementos que tenha por convenientes.
+1 - Os juízes de direito em comissão de serviço em tribunais não judiciais são classificados periodicamente nos mesmos termos dos que exercem funções em tribunais judiciais.
 
-2 - A resposta do inspetor, que deve ser comunicada ao inspecionado, não pode aduzir factos ou meios de prova novos que o desfavoreçam.
-
-3 - O disposto no número anterior é aplicável quando, no exercício do seu direito de audiência, o interessado se pronuncie sobre a matéria de facto sustentada no relatório inspetivo.
+2 - Os juízes de direito em comissão de serviço diferente da referida no número anterior são classificados se o Conselho Superior da Magistratura dispuser de elementos bastantes ou os puder obter através das inspecções necessárias, considerando-se actualizada, em caso contrário, a última classificação.

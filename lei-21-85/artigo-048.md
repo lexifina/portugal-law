@@ -1,11 +1,15 @@
 # Artigo 48.º
 
-### Preenchimento de vagas
+### (Distribuição de vagas)
 
-1 - A graduação é válida pelo período definido pelo Conselho Superior da Magistratura, de um a três anos, para as vagas que vierem a ocorrer nesse período.
+1 - As vagas são preenchidas na proporção de duas por mérito e uma por antiguidade.
 
-2 - A colocação é efetuada mediante concurso, nos movimentos judiciais subsequentes à graduação, com o limite temporal decorrente do estabelecido no n.º 3 do artigo 46.º, e sempre que, por ocasião destes, se verifique a existência e a necessidade de provimento de vagas de juízes desembargadores.
+2 - No provimento das vagas procede-se sucessivamente pela seguinte forma:
 
-3 - O requerimento de admissão ao concurso a que se refere o número anterior pode ser feito para todas as secções jurisdicionais ou discriminadamente para qualquer das secções de especialização existentes nos tribunais da Relação.
+a) As duas primeiras vagas são preenchidas por mérito pelos juízes de direito mais antigos classificados com Muito bom ou Bom com distinção;
 
-4 - A colocação nas secções de especialização tem preferencialmente em atenção o efetivo exercício de funções enquanto juiz de direito na jurisdição correspondente à secção de especialização para que concorre.
+b) A terceira vaga é preenchida por antiguidade, pelo juiz de direito mais antigo.
+
+3 - Quando recaia sobre o magistrado a quem a nomeação competisse simultaneamente por antiguidade e por mérito, a imputação da vaga faz-se a este último título.
+
+4 - Não havendo entre os concorrentes magistrados nas condições referidas na alínea a) do n.º 2, as vagas são preenchidas nos termos da alínea b) do mesmo número.

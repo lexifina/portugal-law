@@ -1,7 +1,7 @@
 # Artigo 21.º
 
-### Exercício da advocacia
+### (Distribuição de publicações oficiais)
 
-1 - Os magistrados judiciais podem advogar em causa própria, do seu cônjuge ou descendente.
+1 - Os juízes do Supremo Tribunal de Justiça e das relações, os inspectores judiciais e os juízes de direito têm direito à distribuição gratuita da 1.ª e 2.ª séries do Diário da República, do Boletim do Ministério da Justiça e do Boletim do Ministério do Trabalho.
 
-2 - Nos casos previstos no número anterior os magistrados podem praticar os atos processuais por qualquer meio, não estando vinculados à transmissão eletrónica de dados.
+2 - Aos magistrados judiciais de cada tribunal é ainda distribuído um exemplar da 1.ª e 2.ª séries do Diário da Assembleia da República e da 3.ª série do Diário da República.

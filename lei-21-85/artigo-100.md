@@ -1,7 +1,5 @@
 # Artigo 100.º
 
-### Sanção de transferência
+### (Substituição de penas aplicadas a aposentados)
 
-1 - A transferência é aplicável a infrações graves ou muito graves que afetem o prestígio exigível ao magistrado judicial e ponham em causa a sua manutenção no meio social em que desempenha o cargo ou no juízo ou tribunal onde exerce funções.
-
-2 - O magistrado judicial transferido não pode regressar à comarca ou ao tribunal de competência territorial alargada em que anteriormente desempenhava o cargo nos três anos subsequentes à aplicação da sanção.
+Para os magistrados aposentados ou que, por qualquer outra razão, se encontrem fora da actividade, as penas de multa, suspensão ou inactividade são substituídas pela perda de pensão ou vencimento de qualquer natureza pelo tempo correspondente.

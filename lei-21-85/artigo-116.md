@@ -1,9 +1,9 @@
 # Artigo 116.º
 
-### Instrução do procedimento
+### (Suspensão preventiva do arguido)
 
-1 - O instrutor ouve obrigatoriamente o arguido, a requerimento deste ou quando o entenda conveniente, até se ultimar a instrução.
+1 - O magistrado arguido em processo disciplinar pode ser preventivamente suspenso das funções, sob proposta do instrutor, desde que haja fortes indícios de que à infracção caberá, pelo menos, a pena de transferência e a continuação na efectividade de serviço seja prejudicial à instrução do processo, ou ao serviço, ou ao prestígio e dignidade da função.
 
-2 - Sem prejuízo do disposto no número anterior, o arguido pode requerer ao instrutor que promova as diligências de prova que considere essenciais ao apuramento da verdade, as quais podem ser indeferidas, por despacho fundamentado, quando este julgue suficiente a prova produzida.
+2 - A suspensão preventiva é executada por forma a assegurar-se o resguardo da dignidade pessoal e profissional do magistrado.
 
-3 - Na fase de instrução, as testemunhas podem ser inquiridas através de equipamento tecnológico que permita a comunicação, por meio visual e sonoro, em tempo real.
+3 - A suspensão preventiva não pode exceder noventa dias, prorrogáveis mediante justificação por mais trinta dias, e não tem os efeitos consignados no artigo 104.º

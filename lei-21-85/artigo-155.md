@@ -1,18 +1,18 @@
 # Artigo 155.º
 
-### Competência do juiz secretário
+### (Competência do secretário)
 
-Compete ao juiz secretário do Conselho Superior da Magistratura:
+Compete ao secretário do Conselho Superior da Magistratura:
 
-a) Orientar e dirigir os serviços da secretaria, sob a direção e supervisão do presidente, ou do vice-presidente, por delegação daquele, e em conformidade com o regulamento interno, dispondo das competências dos titulares de cargos de direção superior de 1.º grau da Administração Pública relativamente às instalações, ao equipamento e ao pessoal;
+a) Orientar e dirigir os serviços da secretaria, sob a superintendência do presidente e em conformidade com o regulamento interno;
 
 b) Submeter a despacho do presidente e do vice-presidente os assuntos da competência destes e os que, pela sua natureza, justifiquem a convocação do Conselho;
 
 c) Promover a execução das deliberações do Conselho;
 
-d) Coordenar a preparação da proposta de orçamento do Conselho;
+d) Elaborar e propor ao presidente ordens de execução permanente;
 
-e) Coordenar a elaboração de propostas de movimento judicial;
+e) Preparar a proposta de orçamento do Conselho;
 
 f) Elaborar propostas de movimento judicial;
 

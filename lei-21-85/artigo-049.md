@@ -1,9 +1,7 @@
 # Artigo 49.º
 
-### Condições de transferência
+### (Regime subsidiário)
 
-1 - (Revogado.)
+1 - Aplica-se subsidiariamente aos juízes da relação o disposto nos artigos 43.º, n.º 6, e 44.º, n.os 1, 2 e 3, com as necessárias adaptações.
 
-2 - A transferência a pedido dos juízes desembargadores não está sujeita ao prazo previsto no n.º 1 do artigo 43.º, exceto no caso de atrasos no serviço que lhes sejam imputáveis.
-
-3 - A transferência dos juízes da Relação não prejudica a sua intervenção nos processos já inscritos em tabela.
+2 - A transferência a pedido dos juízes da relação não está sujeita ao prazo do n.º 1, do artigo 43.º

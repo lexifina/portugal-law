@@ -1,5 +1,7 @@
 # Artigo 90.º
 
-### Substituição de sanções disciplinares
+### (Penas de aposentação compulsiva e de demissão)
 
-Para os magistrados aposentados ou reformados, jubilados ou que, por qualquer outra razão, se encontrem fora da atividade, a multa e a suspensão de exercício são substituídas pela perda de pensão ou remuneração pelo tempo correspondente.
+1 - A pena de aposentação compulsiva consiste na imposição da aposentação.
+
+2 - A pena de demissão consiste no afastamento definitivo do magistrado, com cessação de todos os vínculos com a função.

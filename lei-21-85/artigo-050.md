@@ -1,9 +1,9 @@
 ## Secção V
 
-## Nomeação de Juízes conselheiros para o Supremo Tribunal de Justiça
+## Comissões de serviço
 
 # Artigo 50.º
 
 ### (Modo de provimento)
 
-O acesso ao Supremo Tribunal de Justiça faz-se mediante concurso curricular aberto a juízes desembargadores e a procuradores-gerais adjuntos e a outros juristas de mérito, nos termos dos artigos seguintes.
+O acesso ao Supremo Tribunal de Justiça faz-se mediante concurso curricular aberto a magistrados judiciais e do Ministério Público e outros juristas de mérito, nos termos dos artigos seguintes.

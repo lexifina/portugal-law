@@ -1,5 +1,11 @@
 # Artigo 26.º
 
-### Subsídio de refeição
+### (Despesas de deslocação)
 
-Os magistrados judiciais têm direito a subsídio de refeição por cada dia de trabalho efetivamente prestado, correspondente ao valor do subsídio de refeição previsto para os trabalhadores em funções públicas.
+1 - Os magistrados judiciais têm direito ao reembolso, se não optarem pelo recebimento adiantado, das despesas resultantes da sua deslocação e do agregado familiar e transporte de bagagem, qualquer que seja o meio de transporte utilizado, quando promovidos, transferidos ou colocados por motivos de natureza não disciplinar.
+
+2 - Não é devido reembolso quando a mudança de situação se verifique a pedido do magistrado, excepto:
+
+a) Quando se trate de deslocação entre o continente, as regiões autónomas e Macau;
+
+b) Quando, no caso de transferência a pedido, se verifique a situação prevista no artigo 43.º, n.º 4, ou a transferência tiver lugar após dois anos de exercício efectivo na comarca anterior.

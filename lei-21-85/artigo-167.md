@@ -1,21 +1,11 @@
-## Secção II
-
-## Impugnações administrativas
-
 # Artigo 167.º
 
-### Natureza
+### (Prazo)
 
-1 - As impugnações administrativas são necessárias quando a possibilidade de acesso aos meios de impugnação jurisdicional ou de condenação à prática do ato devido depende da sua prévia utilização.
+1 - Na falta de disposição especial, o prazo para a reclamação é de trinta dias.
 
-2 - Cabe impugnação administrativa necessária para o plenário do Conselho Superior da Magistratura de todos os atos ou omissões dos seguintes órgãos:
+2 - O prazo para a decisão da reclamação é de quatro meses, no qual não se contam as férias judiciais.
 
-a) Conselho permanente, com exceção das deliberações da secção disciplinar que apliquem as sanções de advertência e multa, que admitem impugnação jurisdicional direta;
+3 - Se a decisão não for proferida no prazo do número anterior, presume-se indeferida para o efeito de o reclamante poder interpor o recurso facultado pelos artigos 168.º e seguintes.
 
-b) Órgão deliberativo em matéria de gestão financeira e patrimonial do Conselho Superior da Magistratura;
-
-c) Presidente, vice-presidente e vogais do Conselho Superior da Magistratura;
-
-d) Presidentes dos tribunais da Relação e dos tribunais de 1.ª instância.
-
-3 - Cabe impugnação administrativa necessária para o presidente do Conselho Superior da Magistratura dos atos ou omissões do juiz secretário deste Conselho.
+4 - A não ser interposto ou admitido o recurso previsto no número anterior, o Conselho Superior da Magistratura não fica dispensado de proferir decisão, da qual pode ser levado recurso nos termos dos artigos 168.º e seguintes.

@@ -1,5 +1,5 @@
 # Artigo 122.º
 
-### Início da produção de efeitos das sanções
+### (Relatório)
 
-A decisão que aplicar a sanção disciplinar não carece de publicação, começando a sanção a produzir os seus efeitos no dia seguinte ao da notificação do arguido nos termos do artigo 121.º, ou 15 dias após a afixação do edital, no caso de desconhecimento do paradeiro daquele.
+Terminada a produção da prova, o instrutor elabora, no prazo de quinze dias, um relatório, do qual devem constar os factos cuja existência considere provada, a sua qualificação e a pena aplicável.

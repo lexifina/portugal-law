@@ -1,19 +1,19 @@
+## Secção II
+
+## Das penas
+
 ## Secção III
 
-## Sanções
+## Processo disciplinar
 
 ## Subsecção I
 
-## Escolha e medida da sanção disciplinar
+## Normas processuais
 
 # Artigo 84.º
 
-### Escolha e medida da sanção disciplinar
+### (Sujeição à jurisdição disciplinar)
 
-Na escolha e medida da sanção disciplinar a aplicar, o órgão decisor tem em conta todas as circunstâncias que, não estando contempladas no tipo de infração cometida, deponham a favor ou contra o arguido, nomeadamente:
+1 - A exoneração ou mudança de situação não impedem a punição por infracções cometidas no exercício da função.
 
-a) O grau de ilicitude dos factos, o modo de execução, a gravidade das suas consequências e o grau de violação dos deveres impostos;
-
-b) A intensidade e o grau de culpa e os fins que determinaram a prática da infração;
-
-c) As condições pessoais do arguido, a sua situação económica e a conduta anterior e posterior à prática da infração.
+2 - Em caso de exoneração, o magistrado cumpre a pena se voltar à actividade.

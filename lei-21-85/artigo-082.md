@@ -2,4 +2,4 @@
 
 ### (Infracção disciplinar)
 
-Constituem infração disciplinar os atos, ainda que meramente culposos, praticados pelos magistrados judiciais com violação dos princípios e deveres consagrados no presente Estatuto e os demais atos por si praticados que, pela sua natureza e repercussão, se mostrem incompatíveis com os requisitos de independência, imparcialidade e dignidade indispensáveis ao exercício das suas funções.
+Constituem infracção disciplinar os factos, ainda que meramente culposos, praticados pelos magistrados judiciais com violação dos deveres profissionais e os actos ou omissões da sua vida pública ou que nela se repercutam incompatíveis com a dignidade indispensável ao exercício das suas funções.

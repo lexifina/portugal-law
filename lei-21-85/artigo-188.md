@@ -1,5 +1,5 @@
 # Artigo 188.º
 
-### Disposições subsidiárias
+### (Integração definitiva na magistratura)
 
-Em tudo o que não esteja expressamente previsto no presente Estatuto é subsidiariamente aplicável aos magistrados judiciais o regime previsto para os trabalhadores em funções públicas.
+Aos substitutos dos juízes de direito dos tribunais de instrução criminal em exercício à data da entrada em vigor da presente lei é assegurada a admissão no Centro de Estudos Judiciários, com dispensa de testes de aptidão se obtiverem a classificação mínima de Bom em inspecção para o efeito realizada.

@@ -1,21 +1,21 @@
 # Artigo 73.º
 
-### Tempo de serviço para a antiguidade
+### (Tempo de serviço para a antiguidade e aposentação)
 
-Para efeitos de antiguidade não é descontado:
+1 - Para efeitos de antiguidade não é descontado:
 
-a) O tempo de exercício de funções como Presidente da República, de Representante da República para as regiões autónomas e de membro do Governo;
+a) O tempo de exercício de funções como Presidente da República e membro do Governo;
 
-b) O tempo de suspensão preventiva ordenada em procedimento disciplinar ou determinada por despacho de pronúncia ou por despacho que designar dia para julgamento por crime doloso quando os processos terminarem por arquivamento ou absolvição;
+b) O tempo de suspensão preventiva ordenada em processo disciplinar ou determinada por despacho de pronúncia em processo criminal quando os processos terminarem por arquivamento ou absolvição;
 
-c) O tempo de suspensão de exercício ordenada nos termos do n.º 6 do artigo 66.º;
+c) O tempo de suspensão de exercício ordenada nos termos do n.º 3 do artigo 65.º;
 
-d) O tempo de suspensão de funções nos termos da alínea d) do n.º 1 do artigo 71.º, se a deliberação não vier a ser confirmada;
+d) O tempo de prisão preventiva sofrida em processo de natureza criminal que termine por arquivamento ou absolvição;
 
-e) O tempo de prisão preventiva sofrida em processo de natureza criminal que termine por arquivamento ou absolvição;
+e) O tempo correspondente à prestação de serviço militar obrigatório;
 
-f) As faltas por motivo de doença que não excedam 180 dias em cada ano;
+f) As faltas por motivo de doença que não excedam noventa dias em cada ano;
 
-g) As ausências, nos termos e limites definidos pelo artigo 10.º;
+g) As ausências a que se refere o artigo 9.º
 
-h) O prazo das licenças previstas nas alíneas b) e c) do artigo 12.º
+2 - Para efeitos de aposentação, o tempo de serviço prestado nas regiões autónomas e em Macau é bonificado de um quarto.

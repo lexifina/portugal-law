@@ -1,5 +1,7 @@
 # Artigo 29.º
 
-### Exercício de funções em acumulação e substituição
+### (Casa de habitação)
 
-Pelo exercício de funções em regime de acumulação ou de substituição que se prolongue por período superior a 30 dias seguidos ou 90 dias interpolados no mesmo ano judicial, é devida remuneração, em montante a fixar pelo Conselho Superior da Magistratura, em função do grau de concretização dos objetivos estabelecidos para cada acumulação, tendo como limites um quinto e a totalidade da remuneração devida a magistrado judicial colocado no juízo ou tribunal em causa.
+1 - Nas localidades onde se mostre necessário, o Ministério da Justiça, pelo Gabinete de Gestão Financeira, põe à disposição dos magistrados judiciais, durante o exercício da sua função, casa de habitação mobilada, mediante o pagamento de uma contraprestação mensal, a fixar pelo Ministro da Justiça, de montante não superior a um décimo do total das respectivas remunerações.
+
+2 - Os magistrados que não disponham de casa de habitação nos termos referidos no número anterior ou não a habitem conforme o disposto no n.º 3 do artigo 8.º têm direito a um subsídio de compensação fixado pelo Ministro da Justiça, ouvidos o Conselho Superior da Magistratura e as organizações representativas dos magistrados, tendo em conta os preços correntes no mercado local de habitação.
