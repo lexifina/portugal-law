@@ -1,0 +1,20 @@
+Portaria n.º 520/82
+de 26 de Maio
+A dispersão geográfica do património imobiliário da segurança social, nomeadamente no que se refere aos bairros localizados na Região Autónoma dos Açores, não permite que a gestão das habitações de renda económica se processe por forma a poder corresponder aos anseios da população e simultaneamente salvaguardar os interesses da segurança social.
+Ora, a autonomia político-administrativa daquela Região Autónoma, constitucionalmente consagrada, abre novas perspectivas à superação do problema.
+Nestes termos, ouvido o Governo Regional:
+Manda o Governo da República Portuguesa, pelo Ministro da República para a Região Autónoma dos Açores e pelo Ministro dos Assuntos Sociais, o seguinte:
+1.º É transferida para o Centro de Gestão Financeira da Segurança Social dos Açores a propriedade dos bairros integrados no património imobiliário do Instituto de Gestão Financeira da Segurança Social sitos naquela Região Autónoma e que se discriminam:
+Ilha Terceira:
+Bairro de Casas de Renda Económica (Angra do Heroísmo);
+Bairro de Casas de Renda Económica (Praia da Vitória);
+Bairro dos Pescadores (S. Mateus).
+Ilha de S. Miguel:
+Bairro de Casas de Renda Económica (Ponta Delgada);
+Bairro dos Pescadores (Lagoa);
+Bairro dos Pescadores (Rabo de Peixe).
+2.º O Centro de Gestão Financeira da Segurança Social sucede nas posições contratuais derivadas de contratos outorgados pelo Instituto de Gestão Financeira da Segurança Social referentes aos imóveis cuja propriedade se transfere.
+3.º Este diploma constitui título suficiente para a realização do respectivo registo predial a favor do Centro de Gestão Financeira da Segurança Social.
+4.º É revogada a Portaria n.º 446/79, de 22 de Agosto.
+5.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Gabinete do Ministro da República para a Região Autónoma dos Açores e Ministério dos Assuntos Sociais, 30 de Abril de 1982. - O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva. - O Ministro dos Assuntos Sociais, Luís Eduardo da Silva Barbosa.
