@@ -1,0 +1,5 @@
+Aviso n.º 183/91
+Por ordem superior se torna público que, por nota de 3 de Setembro de 1991 e na sua qualidade de depositário, o Secretário-Geral das Nações Unidas comunicou ter o Governo das Ilhas Marshall depositado o seu instrumento de adesão à Convenção de Viena sobre Relações Diplomáticas, feita em Viena em 18 de Abril de 1961.
+Nos termos do parágrafo 2.º do seu artigo 51.º, a Convenção entrou em vigor para as ilhas Marshall no 30.º dia posterior ao depósito do instrumento, isto é, em 8 de Setembro de 1991.
+Portugal é parte na mesma Convenção, a qual foi aprovada, para adesão, pelo Decreto-Lei n.º 48295, de 27 de Março de 1968, tendo depositado o seu instrumento de adesão em 11 de Setembro de 1968, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 253, de 26 de Outubro de 1968. A Convenção vigora para Portugal desde 11 de Outubro de 1968.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 12 de Novembro de 1991. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
