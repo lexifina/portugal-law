@@ -1,0 +1,45 @@
+Despacho Normativo n.º 197/80
+Neste momento os instrumentos normativos existentes na área da criação e manutenção de postos de trabalho repartem-se, com certa rigidez, por cada uma daquelas subáreas. Entretanto, a experiência vem demonstrando que se torna necessário não só proceder a algumas adaptações - já previsíveis, desde o início, ao atribuir-se carácter experimental a alguns instrumentos normativos -, mas também preencher as lacunas mais significativas.
+De entre estas lacunas destacam-se as situações de reconversão e reorganização de empresas, bem como de transferências colectivas de trabalhadores para outras empresas. Nalguns casos estas situações integram-se em processos mistos de manutenção e criação de empregos: manutenção, porque não se eleva, em geral, o nível de emprego; criação, porque só através do aparecimento de empregos de substituição se consegue manter ou reduzir a diminuição daquele nível.
+Com vista a apoiar as iniciativas que visem a defesa do emprego nas situações acabadas de referir, determina-se o seguinte:
+ARTIGO 1.º
+(Projecto de reemprego)
+1 - Para efeitos deste despacho normativo, considera-se projecto de reemprego o projecto de investimento, de reorganização, de utilização de capacidade produtiva, ou outros, de que resulte a possibilidade de reemprego de trabalhadores, cujos postos de trabalho se achem em vias de extinção ou mesmo extintos, sem prejuízo dos direitos decorrentes da antiguidade do trabalhador na empresa onde se encontrava, nem de outros direitos ajustados às condições vigentes na empresa que proporcione o reemprego.
+2 - Os apoios previstos neste despacho são concedidos ao abrigo do artigo 11.º, alínea c), do Decreto-Lei n.º 762/74, de 30 de Dezembro, do artigo 7.º, n.º 2, alínea f), do Decreto-Lei n.º 759/75, da mesma data (com a redacção dada pelo artigo 1.º do Decreto-Lei n.º 423/77, de 7 de Outubro), e do Decreto-Lei n.º 437/78, de 28 de Dezembro.
+ARTIGO 2.º
+(Campo de aplicação)
+1 - Este regime destina-se, especialmente, aos casos em que uma empresa, diferente da que extingue os postos de trabalho, se dispõe a proporcionar emprego ao conjunto ou a uma parte dos trabalhadores atingidos.
+2 - Poderá, no entanto, ser aplicado à empresa onde ocorra a extinção, desde que se verifiquem os requisitos constantes do n.º 3, e, se for caso disso, no n.º 4 do artigo 3.º
+ARTIGO 3.º
+(Condições de acesso)
+1 - A concessão do apoio previsto neste despacho encontra-se dependente da verificação das seguintes condições prévias:
+a) Extinção efectiva ou perspectivas de extinção imediata dos postos de trabalho correspondentes aos trabalhadores a abranger;
+b) Inexistência de soluções alternativas para reemprego da generalidade daqueles trabalhadores, provada pelos centros do Instituto do Emprego e Formação Profissional (IEFP);
+c) Apresentação de um projecto de reemprego viável que proporcione aos trabalhadores postos de trabalho permanentes, adequados e livremente aceites;
+d) Garantia dos direitos decorrentes da antiguidade do trabalhador na empresa onde se encontrava e de outros direitos ajustados às condições vigentes na empresa que proporcione o reemprego;
+e) Indispensabilidade do apoio aqui previsto e verificação da impossibilidade de qualquer outra ajuda em alternativa, nomeadamente através do IEFP, mais adequada e menos onerosa;
+f) Audiência das organizações representativas dos trabalhadores da empresa (ORTs) e respectivos sindicatos, bem como da associação empresarial do sector de actividade em causa.
+2 - Para a verificação da extinção efectiva ou perspectivas de extinção imediata dos postos de trabalho, a que se refere a alínea a) do número anterior, adoptar-se-ão critérios análogos aos que se adoptam na apreciação de processos de despedimentos colectivos.
+3 - No caso previsto no n.º 2 do artigo anterior, serão exigidos, para além dos requisitos constantes do n.º 1 deste artigo, os seguintes:
+a) Pareceres favoráveis do Ministério do sector a que a empresa pertence, das ORTs e respectivos sindicatos, bem como da associação empresarial do sector;
+b) Existência de um programa de viabilização da empresa, com parecer favorável do Ministério do sector e ou da banca.
+4 - As empresas que já tenham beneficiado do apoio, através do IEFP, configurável como de manutenção de postos de trabalho, só a título muito excepcional poderão beneficiar da ajuda prevista neste despacho, após verificadas as condições referidas nos n.os 1 e 3 deste artigo e ainda as seguintes:
+a) Consenso favorável das entidades consultadas;
+b) Cumprimento, ou incumprimento justificado, das condições incluídas no despacho de concessão do apoio anterior.
+5 - A cumulação de apoios à manutenção de postos de trabalho obedece aos condicionalismos referidos no número anterior.
+ARTIGO 4.º
+(Montantes e aplicações)
+1 - O apoio selectivo previsto neste despacho normativo será concedido a fundo perdido e o seu montante será função das necessidades avaliadas pelos serviços do IEFP, não podendo, no entanto, ultrapassar, por trabalhador, o equivalente ao montante máximo do subsídio de desemprego multiplicado por doze nem, por empresa, a importância de dezoito milhões de escudos.
+2 - Em princípio, o montante da ajuda destinar-se-á a contribuir para o pagamento de salários, correspondentes sobretudo a períodos de desocupação e ou subocupação, e para acções de formação profissional.
+ARTIGO 5.º
+(Processo administrativo)
+1 - Os pedidos de apoio são apresentados nos serviços de promoção do emprego do IEFP, que instruem e submetem a despacho o respectivo processo.
+2 - Os próprios serviços do IEFP, ao conhecerem situações em que, só por esta via, se assegure a manutenção dos trabalhadores no emprego, desencadearão diligências junto da empresa, respectivas ORTs e sindicatos, bem como junto de outras empresas e ou associações empresariais, tendo em vista a conveniente solução dos problemas em causa.
+3 - Aplica-se a este regime, com as necessárias adaptações, o que se encontra previsto no Despacho Normativo n.º 316/78, de 30 de Novembro, relativo à manutenção de postos de trabalho, designadamente no que se refere ao processo administrativo, aos compromissos assumidos pela empresa e ao acompanhamento do processo.
+ARTIGO 6.º
+(Disposições finais)
+1 - Os pareceres e consensos referidos neste despacho normativo serão dispensáveis, sem prejuízo das comunicações às entidades e serviços visados, nas situações de particular urgência em que o atraso na tomada de decisões se reflicta gravemente na evolução dos problemas a resolver.
+2 - A interpretação de dúvidas e a integração de lacunas do presente diploma serão feitas por despacho do Ministro do Trabalho.
+3 - A competência conferida neste diploma ao Ministro do Trabalho poderá ser delegada com a faculdade de subdelegar.
+4 - O presente despacho normativo entra em vigor a partir desta data.
+Ministério do Trabalho, 27 de Maio de 1980. - O Ministro do Trabalho, Eusébio Marques de Carvalho. - O Secretário de Estado do Emprego, Luís Alberto Garcia Ferrero Morales.
