@@ -1,0 +1,9 @@
+Portaria n.º 624/76
+de 20 de Outubro
+A Empresa Pública das Águas de Lisboa (EPAL) solicitou autorização para contrair um empréstimo intercalar de 800000000$00 destinado a assegurar o financiamento dos investimentos em curso, bem como dos projectados para o 1.º semestre de 1977: execução das obras de abastecimento de água da cidade de Lisboa e zonas suburbanas e de trajecto dos canais adutores.
+Verificada a utilidade pública destes investimentos, de acordo com os planos previamente aprovados, e a imperativa necessidade de assegurar a sua continuidade, o Governo autoriza, por este diploma, a realização do solicitado empréstimo.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Obras Públicas, nos termos do artigo 11.º do Decreto-Lei n.º 553-A/74, de 30 de Outubro, atendendo ao que foi solicitado pela Empresa Pública das Águas de Lisboa (EPAL), autorizar a referida empresa a contrair na Caixa Geral de Depósitos um empréstimo intercalar de 800000000$00 destinado ao financiamento das obras de abastecimento de água da cidade de Lisboa e concelhos vizinhos, à taxa anual de 10,5%, elevável até aos limites legais, pelo prazo de um ano e igual período de utilização, amortizável através de operação a longo prazo a contratar até ao final do período.
+No decurso do período de utilização, o empréstimo é passível de uma comissão de imobilização de 1% ao ano sobre as verbas postas à disposição e não utilizadas, liquidada cumulativamente com os juros, sendo estes cobrados atrasadamente ao semestre.
+A Empresa Pública das Águas de Lisboa (EPAL) fica ainda autorizada a consignar as suas receitas da venda de água como garantia do pagamento do capital e dos juros do empréstimo.
+Ministérios das Finanças e das Obras Públicas, 7 de Outubro de 1976. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro das Obras Públicas, João Orlindo de Almeida Pina.
