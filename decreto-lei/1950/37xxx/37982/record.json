@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1950/09/19100/07930794.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1950-09-25",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "d7268f3c7d3abf692b9b590915214f1232e654a6bbc66a9dfd45d56842989160",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 96.9,
+    "pages": 2,
+    "columns": [
+      3,
+      4
+    ],
+    "pdf_sha256": "5b1ea1bc17f172f81c825f5b8258b00645a923e181d97806134a7ebbcee42887",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 259
 }
