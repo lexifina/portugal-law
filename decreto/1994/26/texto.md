@@ -1,0 +1,48 @@
+Decreto n.º 26/94
+de 5 de Setembro
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+Artigo único. É aprovado o acordo por troca de notas que precisa o âmbito de aplicação territorial do Acordo entre o Governo da República Portuguesa e o Governo da República Francesa em Matéria de Impostos sobre as Sucessões e Doações, concluído em Paris a 30 de Junho de 1994, cujo texto autêntico em língua francesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Visto e aprovado em Conselho de Ministros de 7 de Julho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Durão Barroso.
+Assinado em 5 de Agosto de 1994.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 12 de Agosto de 1994.
+Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
+
+Ministère des Affaires Étrangères.
+Paris, le 29 juin 1994.
+Monsieur José Manuel Durão Barroso, Ministre des Affaires Étrangères de la République du Portugal:
+Monsieur le Ministre,
+Me référant à l'Accord entre le Gouvernement de la République Française et le Gouvernement de la République Portugaise en matière d'impôts sur les successions et les donations, signé à Lisbonne le 3 juin 1994, j'ai l'honneur de vous proposer, d'ordre de mon Gouvernement, de préciser qu'aux fins d'application de cet Accord la législation d'un État contractant s'entend, en ce qui concerne la République Française, de la législation applicable dans les départements européens de la République ainsi que dans ses départements d'Outre-Mer.
+Je vous serais obligé de bien vouloir me faire savoir si cette précision recueille l'agrément de votre Gouvernement. Dans ce cas, la présente lettre et votre réponse constitueront, sur ce point, un accord entre nos deux Gouvernements, accord qui entrera en vigueur à la même date que l'Accord signé le 3 juin 1994.
+Je vous prie, Monsieur le Ministre, d'agréer l'expression de ma haute considération.
+P. O.: B. Dufourcq.
+Ambassade du Portugal.
+Paris, le 30 juin 1994.
+Monsieur Alain Juppé, Ministre des Affaires Étrangères:
+Monsieur le Ministre,
+Par lettre en date du 29 juin 1994, vous m'avez fait savoir le suivant:
+Me référant à l'Accord entre le Gouvernement de la République Française et le Gouvernement de la République Portugaise en matière d'impôts sur les successions et les donations, signé à Lisbonne le 3 juin 1994, j'ai l'honneur de vous proposer, d'ordre de mon Gouvernement, de préciser qu'aux fins d'application de cet Accord la législation d'un État contractant s'entend, en ce qui concerne la République Française, de la législation applicable dans les départements européens de la République ainsi que dans ses départements d'Outre-Mer.
+Je vous serais obligé de bien vouloir me faire savoir si cette précision recueille l'agrément de votre Gouvernement. Dans ce cas, la présente lettre et votre réponse constitueront, sur ce point, un accord entre nos deux Gouvernements, accord qui entrera en vigueur à la même date que l'Accord signé le 3 juin.
+J'ai l'honneur de vous faire savoir que cette lettre recueille l'accord de mon Gouvernement.
+Je vous prie d'agréer, Monsieur le Ministre, les assurances de ma très haute considération.
+José Maria de Macedo, ambassadeur.
+
+Ministério dos Negócios Estrangeiros.
+Paris, 29 de Junho de 1994
+Sr. José Manuel Durão Barroso, Ministro dos Negócios Estrangeiros da República Portuguesa:
+Senhor Ministro,
+Com referência ao Acordo entre o Governo da República Francesa e o Governo da República Portuguesa em Matéria de Impostos sobre as Sucessões e Doações, assinado em Lisboa em 3 de Junho de 1994, tenho a honra de propor, da parte do Governo da República Francesa, que seja objecto de precisão que, para efeitos de aplicação daquele Acordo, a legislação de um Estado contratante é entendida, no que diz respeito à República Francesa, como sendo a legislação aplicável nos departamentos europeus da República, bem como nos departamentos do ultramar.
+Ficar-lhe-ia muito grato se me pudesse transmitir se esta precisão merece a concordância do Governo da República Portuguesa. Nesse caso, a presente carta e a resposta de V. Ex.ª constituirão, neste ponto, um acordo entre os dois Governos, acordo que entrará em vigor na mesma data que o Acordo assinado em 3 de Junho de 1994.
+Peço-lhe, Sr. Ministro, que receba a expressão da minha elevada consideração.
+Por ordem: B. Dufourcq, Secretário-Geral do Ministério dos Negócios Estrangeiros.
+Embaixada de Portugal.
+Paris, 30 de Junho de 1994.
+Sr. Alain Juppé, Ministro dos Negócios Estrangeiros:
+Senhor Ministro,
+Por carta datada de 29 de Junho de 1994, transmitiu-me V. Ex.ª o seguinte:
+Com referência ao Acordo entre o Governo da República Francesa e o Governo da República Portuguesa em Matéria de Impostos sobre as Sucessões e Doações, assinado em Lisboa em 3 de Junho de 1994, tenho a honra de propor, da parte do Governo da República Francesa, que seja objecto de precisão que, para efeitos de aplicação daquele Acordo, a legislação de um Estado contratante é entendida, no que diz respeito à República Francesa, como sendo a legislação aplicável nos departamentos europeus da República, bem como nos departamentos do ultramar.
+Ficar-lhe-ia muito grato se me pudesse transmitir se esta precisão merece a concordância do Governo da República Portuguesa. Nesse caso, a presente carta e a resposta de V. Ex.ª constituirão, neste ponto, um acordo entre os dois Governos, acordo que entrará em vigor na mesma data que o Acordo assinado em 3 de Junho de 1994.
+Tenho a honra de transmitir a V. Ex.ª que essa carta merece a concordância do Governo Português.
+Peço-lhe, Sr. Ministro, que receba a expressão da minha elevada consideração.
+José Maria de Macedo, embaixador.
