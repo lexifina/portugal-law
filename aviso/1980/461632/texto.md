@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 29 de Fevereiro de 1980, o Governo do Surinam depositou junto do Governo dos Países Baixos o instrumento de retirada da reserva feita ao abrigo do artigo 18 da Convenção sobre o Reconhecimento e Execução de Decisões em Matéria de Obrigações Alimentares para com os Menores, concluída na Haia em 15 de Abril de 1958, de que Portugal já é parte. Aquele instrumento diplomático entrou em vigor com referência àquele país em 29 de Fevereiro de 1980.
+Secretaria-Geral do Ministério, 12 de Setembro de 1980. - O Chefe dos Serviços Jurídicos e de Tratados, Rui Eduardo Barbosa de Medina.
