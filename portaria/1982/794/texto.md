@@ -1,0 +1,25 @@
+Portaria n.º 794/82
+de 21 de Agosto
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamento, nos termos do disposto no § único do artigo 4.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, o seguinte:
+1.º É autorizada a empresa SPC - Serviço Português de Contentores, S. A. R. L., a estabelecer um terminal de carga para mercadorias transportadas por via marítima em contentores nas suas instalações na região do Porto, situadas ao quilómetro 4,280/600 da Via Norte, funcionando como depósito especial de regime aduaneiro.
+2.º As instalações referidas no n.º 1.º serão exteriormente resguardadas por uma vedação de altura não inferior a 3 m, sendo todo o movimento de entrada e de saída feito por um único portão, devidamente fiscalizado, e observando-se as demais disposições que forem superiormente determinadas, de modo a tornar fácil e sempre eficaz a fiscalização.
+3.º Junto ao portão deste depósito especial aduaneiro deverá existir uma pequena instalação para as praças da Guarda Fiscal encarregadas dessa fiscalização, a exercer permanentemente.
+4.º Todas as despesas com a criação e manutenção daquela instalação são de conta da empresa.
+5.º No recinto do terminal haverá também instalações para os serviços aduaneiros, situadas tanto quanto possível em local próximo do referido portão, instalações essas que deverão estar providas de gabinetes para os serviços de verificação e de reverificação, devidamente mobilados e dotados do material necessário para a execução daqueles serviços.
+6.º As despesas de instalação e manutenção destas instalações serão suportadas pela mesma empresa.
+7.º Quando se reconhecer necessária a criação de uma estância aduaneira junto do terminal, constituirá encargo da respectiva empresa a sua instalação e manutenção, nos termos que lhe forem indicados pela Direcção-Geral das Alfândegas.
+8.º Sempre que o entenda necessário, a Alfândega mandará visitar as instalações do terminal a fim de averiguar das condições de segurança fiscal, podendo visitar todas as dependências, examinar livros e pedir os esclarecimentos que julgue necessários.
+9.º A Alfândega dará ao serviço da Guarda Fiscal junto do terminal as instruções que julgue convenientes para a defesa dos superiores interesses do Estado e providenciará a resolução das dúvidas que pelos mesmos serviços forem postas.
+10.º Permite-se receber, em regime de armazenagem, as mercadorias chegadas ao terminal em contentores por via marítima.
+11.º O prazo máximo de armazenamento neste depósito é de 4 meses, a contar da data da entrada do respectivo contentor.
+12.º Os contentores vindos por via marítima serão acompanhados de folhas de descarga e de fiscalização, excepto nos casos em que esta seja de dispensar.
+13.º Os contentores vindos por via marítima são abertos e proceder-se-á à conferência das mercadorias ali contidas, sob o controle directo da Alfândega, pelas respectivas folhas de descarga.
+14.º A movimentação dos contentores, propriamente ditos, far-se-á nos termos do Decreto n.º 45814, de 14 de Julho de 1964, alterado pelo Decreto n.º 285/71, de 26 de Junho, e pelo Decreto-Lei n.º 500/72, de 9 de Dezembro, e das instruções em vigor.
+15.º O expediente de despacho das mercadorias depositadas no terminal poderá correr em qualquer estância aduaneira dependente da Alfândega do Porto, para isso autorizada pela sua direcção.
+16.º Os bilhetes de despacho serão processados nos termos do Regulamento das Alfândegas e sujeitos ao cumprimento de todas as formalidades legais.
+17.º Os serviços aduaneiros procederão no terminal à conferência da descarga, à verificação e à reverificação das mercadorias ali depositadas.
+18.º A empresa ficará responsável pelo recebimento e entrega das mercadorias movimentadas através do terminal.
+19.º A empresa será subsidiariamente responsável pelas infracções que sejam praticadas pelos seus empregados.
+20.º Carece de aprovação da Direcção-Geral das Alfândegas o regulamento de exploração, assim como as taxas de armazenagem a vigorar, que deverão ser elaborados e apresentados, para os devidos efeitos, pela empresa.
+21.º O terminal só poderá entrar em funcionamento após a aprovação definitiva dada pela Direcção-Geral das Alfândegas, depois de constatar terem sido observadas todas as condições indispensáveis à defesa dos interesses da Fazenda Nacional.
+Secretaria de Estado do Orçamento, 30 de Julho de 1982. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias.
