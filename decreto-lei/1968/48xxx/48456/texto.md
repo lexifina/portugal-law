@@ -1,0 +1,9 @@
+Decreto-Lei n.º 48456
+O Decreto-Lei n.º 47702, de 15 de Maio de 1967, amnistiou várias infracções e declarou perdoadas certas penas, resultando do seu texto que era aplicável às forças militarizadas.
+Em algumas províncias ultramarinas, porém, surgiram dúvidas sobre a aplicação dos artigos 8.º e 9.º daquele diploma ao pessoal da Polícia de Segurança Pública.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O disposto no artigo 8.º do Decreto-Lei n.º 47702, de 15 de Maio de 1967, é aplicável às penas previstas nos n.os 1.º a 3.º das alíneas c) e d), nos n.os 1.º a 5.º das alíneas e) e f), nos n.os 1.º a 4.º das alíneas g) e h), todas do artigo 13.º do Regulamento Disciplinar dos Corpos de Polícia de Segurança Pública do Ultramar, aprovado pelo Decreto n.º 45524, de 3 de Janeiro de 1964.
+Art. 2.º Para efeitos do disposto no artigo 9.º do referido decreto-lei, as penas de prisão disciplinar e de prisão disciplinar agravada, previstas no Regulamento de Disciplina Militar, correspondem às penas de prisão até 60 dias, previstas no regulamento citado no artigo anterior.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 26 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
