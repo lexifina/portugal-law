@@ -1,0 +1,10 @@
+Portaria n.º 314/2004
+de 26 de Março
+O Decreto-Lei n.º 268/2003, de 28 de Outubro, que cria as Autoridades Metropolitanas de Transportes de Lisboa e do Porto, no uso da autorização legislativa concedida pela Lei n.º 26/2002, de 2 de Novembro, prevê que com a sua publicação estas entrem em regime de instalação pelo período de seis meses, que poderá ser prorrogado por igual prazo.
+Durante este período, as Autoridades serão dirigidas por comissões instaladoras, constituídas por um presidente e dois vogais, designados por despacho conjunto dos Ministros das Finanças, das Obras Públicas, Transportes e Habitação e das Cidades, Ordenamento do Território e Ambiente, um vogal designado pela Câmara Municipal de Lisboa ou do Porto, consoante os casos, e um vogal designado pela Junta Metropolitana de Lisboa ou do Porto, consoante os casos.
+A estas comissões instaladoras cabem todos os poderes de direcção, organização e gestão corrente, em especial a preparação dos estatutos e dos instrumentos técnicos e jurídicos necessários ao início da actividade. De entre estes, assume especial delicadeza a preparação do projecto de decreto-lei, a apresentar ao Governo, com os critérios de contribuição financeira das autarquias ou a preparação da entrada em funcionamento do novo sistema integrado de bilhética em Março de 2004.
+Assim:
+Ao abrigo do disposto no n.º 5 do artigo 15.º do Decreto-Lei n.º 268/2003, de 28 de Outubro, e do n.º 18 da Resolução do Conselho de Ministros n.º 29/89, de 26 de Agosto:
+Manda o Governo, pelos Ministros de Estado e das Finanças e das Obras Públicas, Transportes e Habitação, que o nível remuneratório dos membros da comissão instaladora da Autoridade Metropolitana de Transportes de Lisboa e da Autoridade Metropolitana de Transportes do Porto seja equiparado ao das entidades públicas empresariais do grupo B, com o nível de complexidade 1.
+Em 2 de Março de 2004.
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues.
