@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, tendo sido publicado com inexactidão um aviso no Diário do Governo n.º 29, 1.ª série, de 4 de Fevereiro de 1963, comunicando que Portugal ratificara em 19 de Dezembro de 1962 a Convenção sobre o mar territorial e zona contígua, a Convenção sobre o alto mar, a Convenção sobre pesca e conservação de reservas biológicas do alto mar, a Convenção sobre a plataforma continental e o Protocolo de assinatura facultativa relativa à regularização obrigatória dos diferendos, foi posteriormente publicado no Diário do Governo n.º 50, 1.ª série, de 28 de Fevereiro de 1963 um outro aviso rectificando aquela data para 8 de Janeiro de 1963.
+Deve entender-se que daqueles dois avisos o posterior anula o anterior.
+Direcção-Geral dos Negócios Económicos e Consulares, 31 de Julho de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
