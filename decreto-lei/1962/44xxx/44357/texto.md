@@ -1,0 +1,9 @@
+Decreto-Lei n.º 44357
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Sem prejuízo da competência atribuída por lei a outras entidades, o Ministro da Educação Nacional poderá sempre ordenar procedimento disciplinar contra alunos das escolas dependentes do Ministério, nomear livremente os instrutores e aplicar, mediante parecer do Conselho Permanente da Acção Educativa, qualquer das penas previstas pela legislação respectiva, podendo ser temporária a pena prevista no n.º 6.º do artigo 3.º do Decreto n.º 21160, de 1 de Abril de 1932.
+Art. 2.º - 1. Os alunos arguidos em qualquer processo disciplinar poderão ser, sob proposta do instrutor e mediante despacho da entidade que mande instaurar o processo, suspensos imediatamente da frequência das aulas.
+2. A suspensão preventiva das aulas implica a imediata suspensão de quaisquer direitos ou regalias que o arguido possua na sua qualidade de aluno.
+3. A suspensão será imposta por prazo não superior a 90 dias, mas prorrogável por períodos de igual duração.
+Art. 3.º Este decreto-lei entra imediatamente em vigor.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 21 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
