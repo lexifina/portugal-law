@@ -1,0 +1,3 @@
+Portaria n.º 18055
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial da quantia de 88000$00 para reforçar a verba do capítulo único, artigo 4.º, n.º 2), alínea a) «Despesas com o material - Aquisições de utilização permanente - Aquisição de semoventes - Viaturas com motor», do orçamento da despesa privativo da Agência-Geral do Ultramar, tomando como contrapartida o saldo dos anos económicos findos do mesmo organismo.
+Ministério do Ultramar, 11 de Novembro de 1960. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
