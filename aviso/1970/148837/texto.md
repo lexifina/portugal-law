@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo uma comunicação da Organização da Aviação Civil Internacional, os Governos da República dos Camarões e da Bulgária depositaram, respectivamente em 2 de Julho e 16 de Dezembro de 1969, junto do secretário-geral daquela Organização internacional, os seus instrumentos de ratificação do Protocolo referente à emenda do artigo 48.º, a), da Convenção Relativa à Aviação Civil Internacional, assinado em Roma a 15 de Setembro de 1962.
+Direcção-Geral dos Negócios Económicos, 17 de Agosto de 1970. - O Adjunto do Director-Geral, Manuel Rodrigues de Almeida Coutinho.
