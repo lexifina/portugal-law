@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 8.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Agricultura, Pescas e Alimentação, a declaração de transferências de verbas publicada no Diário da República, 1.ª série, n.º 45, de 24 de Fevereiro de 1988, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê «Cap. 06, div. 03, C. E. 31.00, al. A - Prestação de serviços em regime de tarefa outro;» deve ler-se «Cap. 06, div. 03, C. E. 31.00, al. A - Prestações de serviços em regime de tarefa ou outro;» e onde se lê «Cap. 18, div. 01, C. F. 8.02.0» deve ler-se «Cap. 18, div. 01, C. F. 8.02.2».
+Secretaria-Geral da Presidência do Conselho de Ministros, 9 de Março de 1988. - O Secretário-Geral, França Martins.
