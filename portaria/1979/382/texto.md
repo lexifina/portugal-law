@@ -1,0 +1,16 @@
+Portaria n.º 382/79
+de 31 de Julho
+Considerando que o Gabinete de Organização e Recursos Humanos, de acordo com o estabelecido na primeira parte do n.º 3 do artigo 7.º do Decreto-Lei n.º 548/77, de 31 de Dezembro, se encontra integrado na Secretaria-Geral deste Ministério;
+Considerando que, não obstante uma especificidade própria da actividade que lhe é definida nas alíneas a), b) e c) do n.º 3 do artigo 25.º do Decreto-Lei n.º 548/77, de 31 de Dezembro, na prática se tem vindo a verificar uma forte interdependência e interligação entre as actividades da Secretaria-Geral e as daquele Gabinete;
+Considerando que a quase totalidade do pessoal afecto ao Gabinete de Organização e Recursos Humanos se encontra provido no quadro do pessoal dirigente e técnico da Secretaria-Geral e que quase esgota a respectiva capacidade, havendo compromissos assumidos com pessoal ao serviço da Secretaria-Geral que, devido àquele facto, não podem ser cumpridos;
+Considerando que se deseja salvaguardar a efectiva existência do Gabinete de Organização e Recursos Humanos promovendo o estudo final da respectiva lei orgânica e a sua publicação, bem como potenciando as respectivas actividades;
+Considerando que estão em fase de preparação final as leis orgânicas dos organismos do Ministério da Indústria e Tecnologia (nomeadamente a do GORH); e que se não procedeu ainda à revisão do Decreto Regulamentar n.º 86/77, de 16 de Dezembro, da Secretaria-Geral, elaborado no âmbito do Decreto-Lei n.º 358/76, já ultrapassado em vista da publicação do referido Decreto-Lei n.º 548/77, conforme se preconiza no preâmbulo daquele decreto regulamentar;
+Considerando ainda que um quadro comum GORH/Secretaria-Geral não afecta a existência do primeiro e constitui apenas uma forma expedita de racionalizar, articular e tirar o maior e mais adequado rendimento do potencial humano afecto aos dois organismos:
+Manda o Governo da República Portuguesa, pelos Ministros da Indústria e Tecnologia e das Finanças e do Plano e Secretário de Estado da Administração Pública:
+1 - Proceder à fusão do quadro de pessoal dirigente e técnico do Gabinete de Organização e Recursos Humanos constante da Portaria n.º 469/73, de 18 de Agosto, com o quadro I anexo ao Decreto Regulamentar n.º 86/77, de 16 de Dezembro, a que alude o artigo 14.º da mesma disposição de lei, com subsequentes alterações na respectiva constituição face às disponibilidades existentes.
+2 - As importâncias correspondentes aos lugares do quadro do referido Gabinete de Organização e Recursos Humanos transitam para a Secretaria-Geral deste Ministério, cobrindo os encargos resultantes do aumento de três unidades na dotação em pessoal no novo quadro anexo à presente portaria.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Indústria e Tecnologia, 23 de Julho de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.
+
+Quadro de pessoal da Secretaria-Geral
+(ver documento original)
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.
