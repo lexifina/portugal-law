@@ -12,7 +12,7 @@ d) Promover e orientar a elaboração da regulamentação necessária à aplica�
 
 e) Submeter à aprovação superior propostas relativas à nomeação, suspensão ou demissão do pessoal dos órgãos e serviços deles dependentes;
 
-f) Elaborar ou promover a elaboração dos orçamentos, relatórios e contas de gerência, submetendo-os à aprovação superior;
+Elaborar ou promover a elaboração, pelo conselho administrativo dos Serviços Sociais e pelos conselhos administrativos dos órgãos dependentes, dos orçamentos e contas de gerência, sendo estas apresentadas por cada conselho administrativo directamente ao Tribunal de Contas;
 
 g) Fornecer normas de orientação das actividades que, embora não directamente dos Serviços Sociais, respeitem ou possam ser aproveitadas para fins sociais;
 
