@@ -1,0 +1,4 @@
+Aviso n.º 258/94
+Por ordem superior se torna público que, por notificação de 14 de Junho de 1994, o Secretário-Geral das Nações Unidas informou, relativamente à Convenção sobre Cobrança de Alimentos no Estrangeiro, concluída em Nova Iorque em 20 de Junho de 1956, que o Governo da República da Bósnia e Herzegovina designou o Ministro para os Refugiados, Emprego e Protecção Social como a autoridade competente para os fins previstos no artigo 2.º da mencionada Convenção.
+Relativamente a Portugal, a Convenção foi aprovada para adesão pelo Decreto-Lei n.º 45942, de 28 de Setembro de 1964, conforme Diário do Governo, n.º 228, de 28 de Setembro de 1964. O instrumento de adesão foi depositado em 25 de Janeiro de 1965, publicado no Diário do Governo, n.º 34, de 10 de Fevereiro de 1965, e a Convenção entrou em vigor para o nosso país em 24 de Fevereiro de 1965.
+Departamento de Assuntos Jurídicos, 12 de Setembro de 1994. - O Director, José Maria Teixeira Leite Martins.
