@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Governo da República do Chile, em 22 de Abril de 1980, e o Governo da Papua-Nova Guiné, em 27 de Outubro de 1980, depositaram junto dos Governos da Grã-Bretanha e da Irlanda do Norte, o primeiro, o instrumento de ratificação, e o segundo, o instrumento de adesão à Convenção sobre a Proibição do Desenvolvimento, da Produção e do Armazenamento de Armas Bacteriológicas (Biológicas) ou Tóxicas e sobre a Sua Destruição, aberta para assinatura em 10 de Abril de 1972.
+Direcção-Geral dos Negócios Políticos, 12 de Janeiro de 1981. - O Director-Geral-Adjunto, José Gregório Faria.
