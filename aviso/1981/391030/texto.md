@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 28 de Outubro de 1980, o Governo da Papuásia-Nova Guiné depositou junto do Secretário-Geral das Nações Unidas, em Nova Iorque, a notificação de sucessão ao protocolo assinado em Lake Success, Nova Iorque, em 11 de Dezembro de 1946, que emenda os acordos, convenções e protocolos sobre estupefacientes, concluídos na Haia, em 23 de Janeiro de 1912, em Genebra, em 11 e 19 de Fevereiro de 1925 e 13 de Julho de 1931, em Banguecoque, em 27 de Novembro de 1931, e em Genebra, em 26 de Junho de 1936.
+Direcção-Geral dos Negócios Políticos, 23 de Janeiro de 1981. - O Director-Geral Adjunto dos Negócios Políticos, José Gregório Faria.
