@@ -1,0 +1,5 @@
+Aviso n.º 282/99
+Por ordem superior se torna público que, por nota de 8 de Dezembro de 1999, o secretário-geral da União Internacional de Telecomunicações, na sua qualidade de depositário do Regulamento das Radiocomunicações da União Internacional de Telecomunicações, assinado em Genebra em 16 de Dezembro de 1979, comunicou ter o Governo de Portugal notificado, em 22 de Novembro de 1999, que o referido Regulamento foi estendido ao território de Macau nos mesmos termos em que a ele se encontra vinculado o Estado Português.
+Portugal é Parte do Regulamento, que foi aprovado pelo Decreto n.º 39-A/92, de 1 de Outubro, publicado no Diário da República, 1.ª série-A, n.º 227, de 1 de Outubro de 1992, e estendido ao território de Macau pelo Decreto do Presidente da República n.º 206/99, de 9 de Novembro, publicado no Diário da República, 1.ª série-A, n.º 261, de 9 de Novembro de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 10 de Dezembro de 1999. - António Nunes de Carvalho Santana Carlos.
