@@ -2,7 +2,7 @@
 
 ### Cálculo da pensão
 
-1 - A pensão de aposentação é igual à trigésima sexta parte da remuneração mensal relevante, deduzida da percentagem da quota para efeitos de aposentação e de pensão de sobrevivência, multiplicada pela expressão em anos do número de meses de serviço contados para a aposentação, com o limite máximo de 36 anos.
+1 - A pensão de aposentação é igual à 36.ª parte da remuneração mensal relevante, deduzida da percentagem da quota para efeitos de aposentação e de pensão de sobrevivência, multiplicada pela expressão em anos do número de meses de serviço contados para a aposentação, com o limite máximo de 36 anos.
 
 2 - A pensão não pode, em caso algum, exceder o montante da remuneração líquida a que se refere o n.º 1.
 
