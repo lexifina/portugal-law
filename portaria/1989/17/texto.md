@@ -1,0 +1,13 @@
+Portaria n.º 17/89
+de 11 de Janeiro
+Considerando que o Parque Natural da Serra da Estrela confronta-se com problemas provocados pelo grande impacte turístico, atendendo ainda a que há que preservar, renovar e valorizar o património arquitectónico, bem como promover uma arquitectura actual e integrada na paisagem;
+Considerando a singularidade do Parque, como área de montanha única em Portugal, e a forte componente de preservação e recuperação do património construído, inserido no plano de actividades para os próximos anos, torna-se necessário que o lugar de director do Parque Natural seja ocupado por funcionário munido de habilitação na área de arquitectura e dotado de qualidades, capacidades, conhecimentos e experiência específicos e singulares na área de gestão do Parque, designadamente na área de gestão do património construído, ordenamento e gestão dos recursos naturais e culturais;
+Considerando que dentro da área de recrutamento legalmente estabelecida na alínea a) do n.º 2 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, não é viável encontrar a curto prazo candidatos possuidores de formação, conhecimentos e experiência específica na área atrás descrita e adequada aos objectivos em vista;
+Considerando ainda que, em tais circunstâncias, se justifica que a área de recrutamento seja alargada a candidatos que reúnam os requisitos específicos, em detrimento dos candidatos que reúnam os requisitos formais:
+Usando da faculdade conferida pelo n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho:
+Manda o Governo, pelos Ministros das Finanças e do Planeamento e da Administração do Território, o seguinte:
+1.º É excepcionalmente alargada a área de recrutamento, de forma a considerarem-se outros níveis da estrutura da carreira técnica superior, nomeadamente a técnicos superiores de 2.ª classe licenciados em Arquitectura com competência e experiência profissional devidamente comprovadas, para provimento do lugar de director (cargo equiparado a director de serviços) do Parque Natural da Serra da Estrela, lugar criado pelo artigo 16.º do Decreto Regulamentar n.º 3/86, de 8 de Janeiro, e constante do anexo II do Decreto-Lei n.º 130/86, de 7 de Junho.
+2.º O despacho de nomeação será companhado, para publicação, do currículo do nomeado.
+Ministérios das Finanças e do Planeamento e da Administração do Território.
+Assinada em 23 de Dezembro de 1988.
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro do Planeamento e da Administração do Território, José Macário Correia, Secretário de Estado do Ambiente e dos Recursos Naturais.
