@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal de Justiça de 1986-10-29, processo 038550
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 038550
+
+**Nº Convencional:** JSTJ00026829
+
+**Relator:** PINTO GOMES
+
+**Descritores:** MEDIDA DA PENA; SUSPENSÃO DA EXECUÇÃO DA PENA; PRESSUPOSTOS; ATENTADO AO PUDOR; DANOS MORAIS; INDEMNIZAÇÃO
+
+**Nº do Documento:** SJ198610290385503
+
+**Data do Acordão:** 10/29/1986
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REC PENAL.
+
+**Decisão:** NEGADO PROVIMENTO.
+
+**Área Temática:** DIR CRIM - TEORIA GERAL / CRIM C/SOCIEDADE.
+
+## Sumário
+
+I - A individualização da pena, dentro da correspondente moldura legal abstracta, faz-se, predominantemente, em função da culpa do agente, tendo-se em conta ainda as exigências da prevenção de futuros crimes, para o que deverá atender-se a todas as circunstâncias que, não fazendo parte do tipo de crime, deponham a favor ou contra o mesmo agente (artigo 72 do Código Penal).
+
+II - Nos termos do artigo 48, n. 2 do Código Penal, a suspensão só deverá ser decretada se o tribunal concluir, da personalidade do réu, das condições da sua vida, da sua conduta anterior e posterior ao facto punível e das circunstâncias desta, que a simples censura do facto e a ameaça da pena, bastarão para afastar o delinquente da criminalidade e satisfazer as necessidades da reprovação e prevenção do crime.
+
+III - Os danos resultantes para a ofendida de um crime de atentado ao pudor, embora fundamentalmente de natureza não patrimonial, são indemnizáveis dado que, pela sua gravidade, merecem, sem dúvida, a tutela do direito.
