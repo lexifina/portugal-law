@@ -4,7 +4,7 @@
 
 Estão sujeitos a registo os seguintes factos relativos às sociedades comerciais e sociedades civis sob forma comercial:
 
-a) O contrato da sociedade;
+a) O contrato de sociedade;
 
 b) A deliberação da assembleia geral, nos casos em que a lei a exige, para aquisição de bens pela sociedade;
 

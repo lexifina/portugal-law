@@ -16,7 +16,7 @@ e) As acções de declaração de nulidade ou anulação de deliberações socia
 
 f) As acções de reforma, declaração de nulidade ou anulação de um registo ou do seu cancelamento;
 
-g) As decisões finais, com trânsito em jugado, proferidas nas acções e procedimentos cautelares referidos nas alíneas anteriores;
+g) As decisões finais, com trânsito em julgado, proferidas nas acções e procedimentos cautelares referidos nas alíneas anteriores;
 
 h) As acções especiais de recuperação da empresa e protecção dos credores;
 

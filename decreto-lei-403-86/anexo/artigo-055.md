@@ -6,7 +6,7 @@
 
 a) O depósito de documentos;
 
-b) A matrícula, inscrições e averbamentos respeitantes a comeciantes individuais, sociedades, cooperativas, empresas públicas, agrupamentos complementares de empresas, agrupamentos europeus de interesse económico e estabelecimentos individuais de responsabilidade limitada;
+b) A matrícula, inscrições e averbamentos rrespeitantes a comerciantes individuais, sociedades, cooperativas, empresas públicas, agrupamentos complementares de empresas, agrupamentos europeus de interesse económico e estabelecimentos individuais de responsabilidade limitada;
 
 c) As publicações legais.
 
