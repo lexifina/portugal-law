@@ -1,0 +1,109 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=t47I50EdweAH1wR9E5zPK4uWcg6LRi23JJwtDMQi4%2ba20eZdUqOsFNHubbkcy6rwOoOx5UMMvCZzcIfNTyac8kyG7aDmQTldf%2faEHnZ%2f3nbeyckw62ufvl1iwdS4cjXF5YdBt%2bxZeP8AvQFSp1LgRtjMftOZst7dpzaeL4fGb0IhmgNsYBYRmAhSIoxoAYYK5FfbpB2LiyITFNHqkid8crLEz1DZACwtWLudU5Sd4ksngzq2noppehg6WE1jcmg5RvAGVjyirUoVA44N%2fcgj0fpmzIV%2b3feg%2bLhjLOSieGMQ64FF4YpNQWONz1hhuHUxNfMp3yEH6RydWJQogHSDoZnsr0m4SuX153atdq2gwg5iA%2fDpdpuKl52Wvh2sdh5q&fich=AtividadesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "183699218ace7045e2441a52f2318f6b782a40a1263d8f2db574f2d855753dd7",
+  "legislatura": "VI",
+  "tipo": "Voto",
+  "numero": "129",
+  "data_registo": "1995-01-19",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Pesar pela morte do jornalista Ricardo de Melo.",
+    "AutoresGP": [
+      "PS"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "1995-01-19",
+    "DataAnuncio": null,
+    "DataEntrada": "1995-01-19",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "VI",
+    "Numero": "129",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "287175",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-01-21",
+        "pubLeg": "VI",
+        "pubNr": "14",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/06/04/014/1995-01-21?org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "4216",
+        "obs": null,
+        "pag": [
+          "1203-1203"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-01-20",
+        "pubLeg": "VI",
+        "pubNr": "33",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/033/1995-01-20/1203?pgs=1203&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "4",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "1995-01-19",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>",
+        "id": "31878",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "287176",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1995-01-20",
+            "pubLeg": "VI",
+            "pubNr": "33",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/033/1995-01-20?org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "33",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
