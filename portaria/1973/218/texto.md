@@ -1,0 +1,4 @@
+Portaria n.º 218/73
+de 29 de Março
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Tesouro e das Comunicações e Transportes, nos termos do n.º 3 do artigo 23.º do estatuto da empresa pública Telefones de Lisboa e Porto, anexo ao Decreto-Lei n.º 48007, de 26 de Outubro de 1967, atendendo ao que por ela foi solicitado, autorizar a referida empresa a contrair um empréstimo no Banco de Fomento Nacional, até ao montante de 210000000$00, pelo prazo de sete anos, amortizável em, no máximo, doze prestações semestrais e sucessivas e vencendo juros à taxa anual de 7,75 por cento elevável até ao limite legal, com consignação de rendimentos da exploração dos Telefones de Lisboa e Porto.
+Ministérios das Finanças e das Comunicações, 19 de Março de 1973. - O Secretário de Estado do Tesouro, José Luís Sapateiro. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
