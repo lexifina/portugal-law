@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que a República Federal da Alemanha ratificou em 19 de Julho de 1971 a Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia em 5 de Outubro de 1961, tendo a Convenção entrado em vigor para aquele país em 17 de Setembro de 1971. As autoridades competentes para aplicar, em território da República Federal da Alemanha, a referida Convenção são, de acordo com notificação do Governo Alemão ao Ministério dos Negócios Estrangeiros dos Países Baixos de 2 de Novembro de 1984, as seguintes:
+Vormundschaftsgericht (juiz da tutela) e Familiengericht (juiz da família).
+Portugal aprovou, para ratificação, aquele instrumento diplomático pelo Decreto-Lei n.º 48494, de 22 de Julho de 1968, publicado no Diário do Governo, 1.ª série, n.º 172, de 22 de Julho de 1968, tendo o mesmo entrado em vigor para o nosso país em 4 de Fevereiro de 1969.
+Secretaria-Geral do Ministério, 3 de Janeiro de 1985. - O Director dos Serviços Jurídicos e de Tratados, Carlos Augusto Fernandes.
