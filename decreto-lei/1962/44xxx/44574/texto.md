@@ -1,0 +1,12 @@
+Decreto-Lei n.º 44574
+A União Eléctrica Portuguesa, S. A. R. L., representou ao Governo no sentido de lhe ser cedida uma parcela de terreno sita na freguesia da Cova da Piedade, concelho de Almada, no sítio denominado Mutela, destinada à construção de uma subestação para a distribuição de energia eléctrica em alta tensão no distrito de Setúbal;
+Considerando o interesse público da obra, que assegurará o fornecimento, em boas condições, a diversos estabelecimentos industriais do Estado e particulares;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo, à União Eléctrica Portuguesa, S. A. R. L., mediante a compensação de 240000$00, uma parcela de terreno com a área de 2400 m2, demarcada na planta anexa a este diploma e que dele faz parte integrante, destinada à construção da subestação da Mutela, para a distribuição de energia eléctrica em alta tensão no distrito de Setúbal.
+§ 1.º A cessão efectivar-se-á por meio de auto a lavrar na Secção de Finanças do concelho de Almada e nele se dará quitação da importância referida.
+§ 2.º O terreno cedido poderá reverter para o domínio e posse do Estado, por simples despacho ministerial, se não for aplicado ao fim a que se destina, sem que isso implique a restituição da importância paga.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 14 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+(ver documento original)
+Ministério das Finanças, 14 de Setembro de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa.
