@@ -1,0 +1,6 @@
+Portaria n.º 301/2003
+de 11 de Abril
+O estatuto das entidades competentes para adaptação dos veículos automóveis à utilização de gases de petróleo liquefeitos (GPL), aprovado pela Portaria n.º 982/91, de 26 de Setembro, remeteu expressamente, no n.º 2 do seu artigo 5.º, para regulamentação autónoma a matéria da fixação do valor mínimo anual do seguro de responsabilidade civil, a celebrar obrigatoriamente pelas entidades montadoras ou reparadoras dos diversos componentes inerentes à utilização do GPL em veículos automóveis.
+Assim:
+Manda o Governo, pelo Ministro da Economia, que o valor mínimo do seguro obrigatório de responsabilidade civil, a celebrar pelas entidades montadoras ou reparadoras dos diversos componentes inerentes à utilização de gases de petróleo liquefeitos (GPL) em veículos automóveis, a que se refere o n.º 2 do artigo 5.º do estatuto das entidades competentes para adaptação dos veículos automóveis à utilização de GPL, aprovado pela Portaria n.º 982/91, de 26 de Setembro, seja fixado em (euro) 538454,83 para o ano civil de 2003.
+Pelo Ministro da Economia, Maria Dulce Farinha Franco Vilhena de Carvalho, Secretária de Estado Adjunta do Ministro da Economia, em 21 de Março de 2003.
