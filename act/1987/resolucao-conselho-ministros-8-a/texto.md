@@ -1,0 +1,7 @@
+Resolução do Conselho de Ministros n.º 8-A/87
+Pela Resolução do Conselho de Ministros n.º 47/84, de 16 de Outubro, foi a LISNAVE declarada, nos termos dos Decretos-Leis n.os 353-H/77 e 353-I/77, de 29 de Agosto, em situação económica difícil, com a duração máxima prevista na lei, sem prejuízo da renovação do respectivo prazo nos termos legais aplicáveis.
+Dificuldades de vária ordem têm impedido a recuperação da empresa, suscitando sucessivas prorrogações daquela situação, consagradas, nomeadamente, pela Resolução do Conselho de Ministros n.º 40/85, de 13 de Agosto, pelo Despacho conjunto A-132/85-IX, de 18 de Novembro, e pela Resolução do Conselho de Ministros n.º 49/86, de 26 de Junho.
+Considerando que persistem ainda dificuldades na completa recuperação da LISNAVE, adentro dos prazos fixados e prorrogados nos termos supramencionados;
+Considerando que existe ainda a necessidade de uma nova e última prorrogação:
+Ao abrigo do Decreto-Lei n.º 353-H/77, de 29 de Agosto, o Conselho de Ministros, reunido em 12 de Fevereiro de 1987, resolveu que seja mantida até 30 de Junho de 1987 a declaração de situação económica difícil da LISNAVE, ao abrigo do Decreto-Lei n.º 353-H/77, de 29 de Agosto, para todos os efeitos legais previstos na Resolução do Conselho de Ministros n.º 47/84, de 16 de Outubro, e os demais decorrentes das leis aplicáveis.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
