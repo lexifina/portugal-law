@@ -1,0 +1,32 @@
+Despacho Normativo n.º 134/83
+Ao abrigo do disposto no artigo 6.º, n.º 5, do Decreto-Lei n.º 365/82, de 8 de Setembro, é aprovado o seguinte:
+Regulamento do Grupo de Planeamento do Gabinete de Planeamento e de Coordenação do Combate à Droga.
+1.º
+(Natureza e atribuições)
+O Grupo de Planeamento do Gabinete de Planeamento e de Coordenação do Combate à Droga é o órgão do GPCCD a quem compete planear as actividades preventivas e repressivas dirigidas contra o tráfico ilícito de drogas e colaborar na definição dos objectivos da luta contra a droga.
+2.º
+(Composição)
+1 - O Grupo de Planeamento é integrado:
+a) Pelo director-geral do GPCCD, que presidirá;
+b) Pelo subdirector-geral do GPCCD, que assumirá a presidência em caso de falta ou impedimento do director-geral;
+c) Por representantes permanentes da Polícia Judiciária, da Guarda Fiscal, da Polícia de Segurança Pública, da Guarda Nacional Republicana e da Direcção-Geral das Alfândegas;
+d) Por um representante permanente do Estado-Maior-General das Forças Armadas.
+2 - Os representantes referidos nas alíneas c) e d) do número anterior são nomeados, por tempo indeterminado, por despacho dos respectivos Ministros ou do Chefe do Estado-Maior-General das Forças Armadas, em que será igualmente designado um substituto permanente para cada um dos representantes.
+3 - Poderão ser convocados para participar nas reuniões técnicos cuja intervenção seja considerada oportuna em razão da matéria a tratar.
+4 - As reuniões são secretariadas pelo chefe da Divisão de Estudos, Informação e Divulgação do GPCCD.
+3.º
+(Senhas de presença)
+A participação nas reuniões será remunerada por senhas de presença, nos termos da lei geral.
+4.º
+(Reuniões)
+O Grupo de Planeamento reunirá ordinariamente uma vez por quinzena e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a pedido de qualquer dos vogais.
+5.º
+(Funcionamento)
+1 - Até 30 de Novembro de cada ano, o Grupo de Planeamento aprovará e apresentará a homologação do Ministro da Justiça o seu plano de acção para o ano seguinte.
+2 - Até 31 de Janeiro de cada ano, o Grupo de Planeamento aprovará e apresentará ao mesmo membro do Governo o seu relatório de actividades referente ao ano anterior.
+6.º
+(Apoio)
+1 - O apoio do Grupo de Planeamento será assegurado pelos funcionários do GPCCD para tanto designados pelo director-geral.
+2 - A solicitação do director-geral, poderão igualmente ser designados, para o exercício das funções referidas no número anterior, funcionários das entidades representadas no Grupo.
+Ministério da justiça, 20 de Maio de 1983.
+O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel.
