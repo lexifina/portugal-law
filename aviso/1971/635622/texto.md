@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Departamento Político Federal da Suíça, o Governo de Fidji depositou, em 28 de Abril de 1971, o seu instrumento de adesão à União Postal Universal e aos restantes Actos obrigatórios desta União, concluídos em Viena em 10 de Julho de 1964.
+O Governo de Fidji declarou também querer beneficiar das reservas previstas nos artigos I, parágrafo 1, e XI do Protocolo final da Convenção Postal, bem como das contempladas nos artigos II; V, quadro 2, número de ordem 29, e quadro 2, número de ordem 15-a; VI; VII, parágrafo 6; XI, letra b); XII, parágrafo 2; XIII; XIV; XV e XVII do Protocolo final do Acordo Relativo às Encomendas Postais e no artigo único do Protocolo final do Regulamento de Execução do Acordo Relativo às Encomendas Postais.
+Direcção-Geral dos Negócios Económicos, 26 de Julho de 1971. - O Adjunto do Director-Geral, Manuel Rodrigues de Almeida Coutinho.
