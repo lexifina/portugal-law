@@ -1,0 +1,3 @@
+Aviso n.º 37/94
+Por ordem superior se torna público que Marrocos e as Maldivas depositaram, junto do Secretário-Geral das Nações Unidas, a 21 de Junho e 1 de Julho de 1993, respectivamente, o instrumento de adesão e a Índia depositou, a 9 de Julho de 1993, o instrumento de ratificação da Convenção sobre a Eliminação de Todas as Formas de Discriminação contra as Mulheres, adoptada pela Assembleia Geral das Nações Unidas a 18 de Dezembro de 1979.
+Direcção-Geral dos Negócios Político-Económicos, 5 de Janeiro de 1994. - O Director de Serviços dos Assuntos Multilaterais, António Raul Freitas Monteiro Portugal.
