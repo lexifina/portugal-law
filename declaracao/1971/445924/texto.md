@@ -1,0 +1,13 @@
+Declaração
+Declara-se para os devidos efeitos que, entre o original arquivado nesta Secretaria-Geral e o texto do Decreto n.º 678/70, publicado pelo Ministério das Finanças, Direcção-Geral da Contabilidade Pública, no 1.º suplemento ao Diário do Governo, 1.ª série, n.º 301, de 31 de Dezembro, existe a seguinte divergência, que assim se rectifica:
+No artigo 2.º, onde se lê:
+...
+Secretaria de Estado da Indústria
+...
+Artigo 268.º-J, n.º 1) «Missões de estudo ...».
+deve ler-se:
+...
+Secretaria de Estado da Indústria
+...
+Artigo 268.º-I, n.º 1) «Missões de estudo ...».
+Secretaria-Geral da Presidência do Conselho, 19 de Janeiro de 1971. - O Secretário-Geral, Diogo de Paiva Brandão.
