@@ -1,0 +1,41 @@
+Decreto-Lei n.º 524-I/76
+de 5 de Julho
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
+Artigo único. É aprovado o Acordo entre a República Portuguesa e a República de Cabo Verde Respeitante a Obras e Investimentos Iniciados na Vigência do Plano de Fomento em Cabo Verde assinado em 15 de Abril de 1976, cujo texto vai anexo ao presente decreto.
+Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Trigueiros Crespo - Ernesto Augusto de Melo Antunes - Vítor Manuel Ribeiro Constâncio.
+Assinado em 5 de Julho de 1976.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
+
+ACORDO ENTRE A REPÚBLICA PORTUGUESA E REPÚBLICA DE CABO VERDE RESPEITANTE A OBRAS E INVSTIMENTOS INICIADOS NA VIGÊNCIA DO PLANO DE FOMENTO EM CABO VERDE.
+Considerando que o Governo de Cabo Verde solicitou a execução até final das obras e investimentos mencionados;
+Considerando que as referidas obras e investimentos estão em curso e se encontravam inscritos nos antigos planos de fomento;
+Considerando que, satisfazendo a solicitação do Governo de Cabo Verde, o Governo Português contribuirá, na actual conjuntura, de modo significativo para o desenvolvimento sócio-económico de Cabo Verde;
+Considerando a necessidade de fortalecer e impulsionar as relações de boa amizade existentes entre ambos os países;
+Considerando o espírito informador dos Acordos já estabelecidos sobre cooperação e na intenção de os concretizar:
+Acordam as Partes contratantes no seguinte:
+ARTIGO 1.º
+O Governo Português declara assumir as responsabilidades com os encargos financeiros decorrentes das obras e investimentos em causa.
+ARTIGO 2.º
+O Governo Português compromete-se a proceder à liquidação dos encargos referidos, nos seguintes termos:
+1 - Tendo por base o estatuído nos contratos de adjudicação, Portugal pagará até aos seguintes valores máximos, que incluem já previsão para revisão de preços:
+... Milhões de escudos
+Porto da Praia ... 58
+Hospital de S. Vicente ... 10
+Dessalinização de S. Vicente ... 30
+Aviões ... 73
+Aeroporto de Amílcar Cabral (resgate daconcessão do hotel e obras) ... 20
+Sistema «Troppo» de telecomunicações ... 1
+Total ... 192
+2 - A liquidação das contas de empreiteiros e fornecedores será feita directamente pelo Governo Português.
+3 - Relativamente às obras do porto da Praia, o Governo Português assumirá as responsabilidades correspondentes às situações da empreitada a partir de 1 de Janeiro de 1976.
+4 - Relativamente às obras do Hospital de S. Vicente, considerando que são executadas por empreiteiro cabo-verdiano, um terço do respectivo montante global será adiantado mediante solicitação do Governo de Cabo Verde; os restantes dois terços serão liquidados mediante solicitação fundamentada do Governo de Cabo Verde.
+ARTIGO 3.º
+Quanto à solicitação relativa ao sistema de telecomunicações, o Governo Português aceita assumir um encargo suplementar até ao montante de 16000 contos se a obra a que se destina vier a ser executada por empresa portuguesa, precedendo acordo do Governo Português nos termos do respectivo contrato.
+ARTIGO 4.º
+O presente Acordo entra em vigor na data da sua assinatura.
+Feito na cidade da Praia, aos 15 de Abril de 1976, em dois exemplares, fazendo ambos os textos igualmente fé.
+Pelo Governo da República Portuguesa:
+Vítor Manuel Trigueiros Crespo.
+Pelo Governo da República de Cabo Verde:
+Osvaldo Lopes da Silva.
