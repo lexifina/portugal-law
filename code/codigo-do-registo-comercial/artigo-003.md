@@ -2,7 +2,7 @@
 
 ### Sociedades comerciais e sociedades civis sob forma comercial
 
-1 - Estão sujeitos a registo os seguintes factos relativos às sociedades comerciais e sociedades civis sob forma comercial:
+Estão sujeitos a registo os seguintes factos relativos às sociedades comerciais e sociedades civis sob forma comercial:
 
 a) O contrato de sociedade;
 
@@ -24,7 +24,7 @@ i) A amortização de quotas e a exclusão e exoneração de sócios de sociedad
 
 j) A deliberação de amortização, conversão e remissão de acções;
 
-l) A emissão de obrigações e a respectiva autorização;
+l) A emissão de obrigações realizada através de oferta particular;
 
 m) A designação e cessação de funções, por qualquer causa que não seja o decurso do tempo, dos membros dos órgãos de administração e de fiscalização das sociedades, bem como do secretário da sociedade;
 

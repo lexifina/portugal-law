@@ -32,7 +32,7 @@ m) A deliberação de aprovação do projecto de fusão e de cisão;
 
 n) O termo da situação de domínio total superveniente de grupo;
 
-o) A emissão de cada série de obrigações.
+o) A emissão, mediante oferta particular, de cada série de obrigações;
 
 p) O despacho de prosseguimento da acção de recuperação da empresa e a decisão de homologação ou não homologação da deliberação da assembleia de credores proferidos no correspondente processo.
 
