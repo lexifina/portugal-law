@@ -1,0 +1,4 @@
+Despacho Normativo n.º 101/80
+Devido às alterações introduzidas no Regulamento do Livro Genealógico Português da Raça Bovina Holandesa pela Portaria n.º 748/78, de 18 de Dezembro, necessário se torna esclarecer o disposto no n.º 9 do despacho conjunto dos Ministros da Agricultura e Pescas e do Comércio e Turismo de 17 de Dezembro de 1976 e publicado no Diário da República, 1.ª série, de 31 de Dezembro de 1976, de forma a permitir que os criadores aderentes àquele livro possam receber o prémio instituído, no valor de 1000$00.
+Assim, e ao abrigo do disposto no n.º 11 do citado despacho, o seu n.º 9 entende-se como referido ao disposto no n.º 1 do artigo 14.º da Portaria n.º 748/78, de 18 de Dezembro.
+Secretaria de Estado do Fomento Agrário, 29 de Fevereiro de 1980. - O Secretário de Estado do Fomento Agrário, José Vicente de Jesus de Carvalho Cardoso.
