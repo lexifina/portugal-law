@@ -1,0 +1,17 @@
+Decreto-Lei n.º 46/71
+de 20 de Fevereiro
+O crescimento, nos últimos nos, dos efectivos da Armada provocou, necessàriamente, um considerável aumento do número de assistidos pelo Hospital da Marinha.
+Por outro lado, as actuais condições de utilização dos oficiais médicos navais não permitem assegurar-lhes naquele Hospital uma permanência suficiente para se alcançar, em determinados sectores, a estabilidade requerida pelo seu eficiente funcionamento.
+Torna-se, assim, necessário, à semelhança do que vem já sendo feito em outros hospitais militares, recorrer-se à utilização no Hospital da Marinha de especialistas civis que, simultâneamente e na qualidade de consultores técnicos, apoiem a direcção daquele Hospital no cumprimento da sua missão.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O Ministro da Marinha, por proposta do director do Hospital da Marinha e ouvida a Superintendência dos Serviços do Pessoal pela sua Direcção do Serviço de Saúde Naval, pode autorizar que médicos civis de reconhecida competência, com a designação de especialistas consultores técnicos, exerçam, em regime de tempo parcial, serviço naquele Hospital, quer no tratamento de doentes e feridos, quer na prestação de apoio técnico ao respectivo director através das clínicas onde desempenham as suas funções.
+Art. 2.º - 1. Os médicos civis consultores técnicos são admitidos por contrato e terão direito às remunerações que percebem como médicos civis contratados, acrescidas de uma gratificação até perfazer 5400$00 mensais.
+2. O pagamento desta gratificação será suportado pelo orçamento privativo do Hospital da Marinha de que trata o artigo 5.º do Decreto n.º 15661, de 1 de Julho de 1928.
+3. Além da referida gratificação, poderão também as remunerações decorrentes dos contratos ser suportadas por aquele orçamento quando seja necessário contratar médicos civis consultores técnicos para além das disponibilidades da verba para o efeito inscrita no Orçamento Geral do Estado.
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
+Promulgado em 10 de Fevereiro de 1971.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser presente à Assembleia Nacional.
