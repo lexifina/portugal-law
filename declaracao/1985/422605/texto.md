@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério da Defesa Nacional, a Portaria n.º 171/85, publicada no Diário da República, 1.ª série, n.º 75, de 30 de Março de 1985, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No terceiro parágrafo, onde se lê «Nos termos dos artigos 18.º, n.º 1, do Decreto-Lei n.º 271/81, de 26 de Setembro, 117.º do Decreto-Lei n.º 271/81, de 26 de Setembro, e 22.º do Decreto-Lei n.º 133/84, de 2 de Maio» deve ler-se «Nos termos dos artigos 18.º, n.º 1, do Decreto-Lei n.º 271/81, de 26 de Setembro, 117.º do Decreto-Lei n.º 380/82, de 15 de Setembro, e 22.º do Decreto-Lei n.º 133/84, de 21 de Maio».
+Secretaria-Geral da Presidência do Conselho de Ministros, 12 de Abril de 1985. - O Secretário-Geral, França Martins.
