@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/10/24500/13141314.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-10-19",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "b1b0c0589c64a00adcf37fcbe6f25003330a9529f6f9892b8fa37270b11ee24f",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 97.2,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "0b10567f4daaf0a736999b008c46d482733b040d8d35129761c4b4d7caf2388c",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 291
 }
