@@ -1,0 +1,348 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=tKfXsA%2fENKNnp0LKqSGHXsjkrRl7S077Q3%2bDShtNlJSfDEIxb29heS60fekSU9Mh%2bOaOxN93u5lJXhXrF20O3GwJrwgX%2b0YU%2bhQwCIVqWOtg4qLdCOsovw17HpQ%2b61GwzRT0xyKc0H%2fa9DQdlP4PkB2kdgun9cM%2f%2fx7V2KVgyAwbUtpLdjftXVCgqJHGFNGYlFDP1m8Jzr0rp%2bkkIm21JfRb4lD2mU2lj506V%2fnSNSb2tR3%2bEDlK3FCGtu7ykpvS5%2bJJC%2frUbEM2mltYb1VfVOgZIDgJPPhSuZN2zIxPp9%2f2OdtvhAO8Vt2qGCJv%2bMWDKcdwAI%2fMSsLsMJfNmLa7xtfsjI6y%2ft3q%2btijdCCXBQfnO9%2b8PHRu402cRBtkKANn&fich=PeticoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "6041edea08a28f8315a7bbbffd2127aaa9493aac12482c88a108bc6b12f7d746",
+  "legislatura": "VII",
+  "id": "6280",
+  "numero": "65",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1996-12-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "1997-06-04",
+            "dataResposta": "1997-10-08",
+            "entidades": [
+              "M. Finanças"
+            ],
+            "nrOficio": "OF 1007/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "1997-06-04",
+            "dataResposta": "1997-07-01",
+            "entidades": [
+              "M. Qual.Emp."
+            ],
+            "nrOficio": "OF1007/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "1997-08-29",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1997-02-25",
+        "DataArquivo": "1997-08-29",
+        "DataBaixaComissao": "1997-03-13",
+        "DataEnvioPAR": "1997-10-09",
+        "DataReaberta": "1997-02-25",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "23",
+        "Legislatura": "VII",
+        "Nome": "COMISSÃO DE TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1997-03-13",
+            "gp": "PS",
+            "id": "1158",
+            "motivoCessacao": null,
+            "nome": "Barbosa de Oliveira"
+          }
+        ],
+        "RelatorioFinal": [
+          "13853"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "1998-03-27",
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "1998-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50968",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1835-1836"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-28",
+                "pubLeg": "VII",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/054/1998-03-28/1835?pgs=1835-1836&org=PLC"
+              }
+            ],
+            "Sumario": "INCENDIO DO CHIADO: SOLUCAO LEGAL PARA OS TRABALHADORES DESEMPREGADOS",
+            "Teor": "INCENDIO DO CHIADO , GABINETE DE ATENDIMENTO AOS TRABALHADORES DO CHIADO "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1998-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50969",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1834-1836"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-28",
+                "pubLeg": "VII",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/054/1998-03-28/1834?pgs=1834-1836&org=PLC"
+              }
+            ],
+            "Sumario": "INCENDIO DO CHIADO: SOLUCAO LEGAL PARA OS TRABALHADORES DESEMPREGADOS",
+            "Teor": "INCENDIO DO CHIADO "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1998-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50970",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1834-1834"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-28",
+                "pubLeg": "VII",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/054/1998-03-28/1834?pgs=1834&org=PLC"
+              }
+            ],
+            "Sumario": "INCENDIO DO CHIADO: SOLUCAO LEGAL PARA OS TRABALHADORES DESEMPREGADOS",
+            "Teor": "INCENDIO DO CHIADO , FEARC "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1998-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50971",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1833-1834"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-28",
+                "pubLeg": "VII",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/054/1998-03-28/1833?pgs=1833-1834&org=PLC"
+              }
+            ],
+            "Sumario": "INCENDIO DO CHIADO: SOLUCAO LEGAL PARA OS TRABALHADORES DESEMPREGADOS",
+            "Teor": "INCENDIO DO CHIADO , FEARC "
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "6280",
+    "PetAssunto": "Pretendem que seja criado um quadro legal específico para os trabalhadores que ficaram sem emprego na sequência do incêndio do Chiado.",
+    "PetDataEntrada": "1996-12-19",
+    "PeticoesAssociadas": null,
+    "PetId": "6280",
+    "PetLeg": "VII",
+    "PetNr": "65",
+    "PetNrAssinaturas": "4294",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "36",
+        "obs": null,
+        "pag": [
+          "1833-1836"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1998-03-28",
+        "pubLeg": "VII",
+        "pubNr": "54",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/054/1998-03-28/1833?pgs=1833-1836&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "121559",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1998-03-28",
+        "pubLeg": "VII",
+        "pubNr": "15",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/03/015/1998-03-28?org=PLC"
+      }
+    ]
+  }
+}
