@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo uma comunicação dirigida pela Embaixada da República Popular da Polónia em Londres â Embaixada de Portugal na mesma cidade, o Governo da República da Zâmbia declarou, em 25 de Março de 1970, que se considerava vinculado pelas disposições da Convenção para a Unificação de Certas Normas Relativas ao Transporte Aéreo Internacional, assinada em Varsóvia a 12 de Outubro de 1929, cuja aplicação foi tornada extensiva ao território do Protectorado Britânico da Rodésia do Norte, em 3 de Dezembro de 1934, pelo Reino Unido da Grã-Bretanha e da Irlanda do Norte.
+2. Na mesma data, o Governo da República da Zâmbia depositou o seu instrumento de adesão ao Protocolo de modificação da acima mencionada Convenção, assinado na Haia a 28 de Setembro de 1955.
+Direcção-Geral dos Negócios Económicos, 27 de Julho de 1970. - O Adjunto do Director-Geral, Manuel Rodrigues de Almeida Coutinho.
