@@ -1,0 +1,48 @@
+Decreto n.º 104/78
+de 28 de Setembro
+A utilização de alimentos compostos na nutrição e alimentação animal exige permanente integração nos objectivos do sector produtivo, regularização e fiscalização, a fim de possibilitar o indispensável desenvolvimento agro-pecuário, com exacta valorização de todos os factores condicionantes.
+Tendo em vista as acções a desenvolver para a concretização desses objectivos, apresenta-se coerente e necessária a integração das atribuições da Comissão Técnica Permanente de Nutrição Animal no Ministério da Agricultura e Pescas, regulamentando agora a sua actividade de um modo mais concreto e dinâmico, estabelecendo as colaborações interministeriais necessárias.
+Porque não convém protelar por mais tempo a decisão que se impõe, concordaram os Ministros da Agricultura e Pescas e da Indústria e Tecnologia em extinguir a Comissão Técnica Permanente de Nutrição Animal e criar em sua substituição a Comissão de Alimentação Animal (CAA), que ficará na directa dependência da Direcção-Geral dos Serviços Veterinários para cumprir as atribuições que lhe são cometidas, nomeadamente as estabelecidas na alínea e) do artigo 31.º do Decreto-Lei n.º 221/77, de 28 de Maio.
+Nestes termos:
+O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
+Artigo 1.º É extinta a Comissão Técnica Permanente de Nutrição Animal, criada pelo Decreto n.º 47776, de 5 de Julho de 1967.
+Art. 2.º É criada a Comissão de Alimentação Animal.
+Art. 3.º Os artigos 7.º, 8.º, 9.º e 10.º do Regulamento de Preparação e Comércio de Alimentos para Animais passarão a ter a seguinte redacção:
+B) Comissão de Alimentação Animal
+ARTIGO 7.º
+É criada a Comissão de Alimentação Animal, a qual funcionará na dependência directa da Direcção-Geral dos Serviços Veterinários.
+ARTIGO 8.º
+A Comissão de Alimentação Animal é presidida pelo director-geral dos Serviços Veterinários, ou por um seu delegado, e constituída por grupos permanentes representantes dos sectores dos suplementos e aditivos alimentares e dos alimentos simples e compostos.
+1 - O grupo permanente dos suplementos e dos aditivos alimentares é constituído por vogais representantes das seguintes entidades:
+a) Direcção-Geral de Saúde;
+b) Instituto de Qualidade Alimentar;
+c) Direcção-Geral dos Serviços Veterinários;
+d) Instituto Nacional de Investigação Agrária.
+2 - O grupo permanente dos alimentos simples e compostos é constituído por vogais representantes das seguintes entidades:
+a) Instituto Nacional de Investigação Agrária;
+b) Direcção-Geral das Indústrias Agrícolas Alimentares;
+c) Direcção-Geral dos Serviços Veterinários;
+d) Associação Portuguesa dos Industriais de Alimentos Compostos para Animais;
+e) Instituto de Qualidade Alimentar;
+f) Direcção-Geral das Indústrias Transformadoras Ligeiras;
+g) Direcção-Geral de Qualidade;
+h) Laboratório Nacional de Engenharia e Tecnologia Industrial.
+3 - Em qualquer dos grupos poderão ser incluídos representantes de estabelecimentos de ensino universitário e investigação que se dediquem aos ramos de ciência relacionados com as actividades da Comissão, bem como representantes de outros organismos cuja colaboração venha a ser reconhecida superiormente de interesse.
+§ único. A Comissão ou cada um dos grupos permanentes reunião por convocação do presidente ou a pedido de um terço, pelo menos, dos seus vogais.
+ARTIGO 9.º
+Os serviços de secretaria e expediente da Comissão de Alimentação Animal serão assegurados pela Direcção-Geral dos Serviços Veterinários, desempenhando as funções de secretário um funcionário desta Direcção-Geral, por ela designado.
+ARTIGO 10.º
+São atribuições da Comissão de Nutrição Animal as seguintes:
+a) Propor as alterações que se julgue conveniente introduzir na legislação em vigor sobre a matéria, designadamente a referente a fraudes na preparação e comercialização de alimentos, suplementos e aditivos alimentares;
+b) Coordenar as acções cometidas aos organismos ou instituições intervenientes nos diversos campos em que se subdivide o vasto sector da nutrição animal;
+c) Sugerir aos departamentos competentes o estudo de novas matérias-primas susceptíveis de poderem ser utilizadas na alimentação dos animais;
+d) Estabelecer as características a que devem obedecer os alimentos simples e compostos destinados à alimentação dos animais;
+e) Indicar as substâncias que podem ser usadas em nutrição animal como suplementos ou aditivos alimentares, fixar as suas características e regulamentar a sua utilização;
+f) Solicitar à comissão de normalização respectiva a elaboração de métodos de análise adequados ao contrôle de qualidade dos alimentos para animais;
+g) Estabelecer, no âmbito das suas atribuições, intercâmbio com organismos ou instituições nacionais ou estrangeiros ligados aos problemas de nutrição animal;
+h) Emitir parecer acerca de assuntos relacionados com a alimentação dos animais que lhe sejam apresentados por entidades ligadas a este campo de actividade;
+i) Pronunciar-se, a pedido da Direcção-Geral das Indústrias Transformadoras Ligeiras, sobre a instalação de novas unidades fabris no País.
+Mário Soares - Luís Silvério Gonçalves Saias - Carlos Montês Melancia.
+Promulgado em 30 de Agosto de 1978.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
