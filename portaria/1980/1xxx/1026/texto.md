@@ -1,0 +1,11 @@
+Portaria n.º 1026/80
+de 3 de Dezembro
+Considerando o disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho;
+Considerando que na Direcção-Geral dos Serviços Tutelares de Menores não é viável, de imediato, dar cumprimento integral ao disposto nas alíneas a) e b) do n.º 2 do artigo 2.º do Decreto-Lei n.º 191-F/79, porquanto, como é natural, dado o curto lapso de tempo decorrido após a publicação da respectiva lei orgânica, os quadros não se encontram ainda preenchidos de modo a possibilitar esse cumprimento;
+Considerando que aos titulares dos cargos abrangidos por esta portaria se exigirá, para o exercício das respectivas funções, antes de mais e necessariamente, formação profissional e experiência específicas que não se compadecem exclusivamente com os requisitos exigidos pelo Decreto-Lei n.º 191-F/79:
+Manda o Governo da República Portuguesa, pelo Ministro da Justiça e pelo Secretário de Estado da Reforma Administrativa, o seguinte:
+1.º A área de recrutamento para o lugar de director de serviços da Direcção de Serviços de Administração Geral é alargada, ao abrigo do disposto no artigo 9.º do Decreto-Lei n.º 180/80, de 3 de Junho, ao técnico superior de 1.ª classe habilitado com licenciatura que, à data da entrada em vigor do Decreto-Lei n.º 506/80, de 21 de Outubro, desempenhava o cargo de chefe de repartição.
+2.º A área de recrutamento para os lugares de director de serviços de tratamento de menores em instituição, de colocação, acompanhamento e apoio social e médico-psicológico e de estudo, documentação e informação técnica é alargada aos técnicos superiores principais e de 1.ª classe.
+3.º A área de recrutamento para os lugares de chefe de divisão de orientação pedagógica, de animação de tempos livres, de processos, acolhimento e colocação, de serviços sociais e médico-psicológicos e de serviços económicos é alargada aos técnicos superiores de 1.ª classe.
+4.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Presidência do Conselho de Ministros e Ministério da Justiça, 00 de Novembro de 1980. - O Ministro da Justiça, Mário Ferreira Bastos Raposo. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
