@@ -1,0 +1,8 @@
+Portaria n.º 3/79
+de 3 de Janeiro
+Tornando-se necessário um contrôle mais efectivo da cortiça produzida nos prédios rústicos a que se refere o n.º 1 do artigo 1.º do Decreto-Lei n.º 260/77, de 21 de Junho, e tendo presente o disposto no n.º 3 do artigo 2.º e no artigo 19.º do mesmo diploma:
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura e Pescas, o seguinte:
+1 - Seguir-se-á o disposto no n.º 2 relativamente à cortiça produzida nos prédios rústicos referidos no n.º 1 do artigo 1.º do Decreto-Lei n.º 260/77, de 21 de Junho, quando não seja comercializada, nos termos legais, no prazo de quinze dias a contar da publicação da presente portaria.
+2 - A cortiça será comercializada pelo Instituto de Gestão e Estruturação Fundiária, mediante concurso a realizar nos termos gerais.
+3 - Até que a comercialização se efectue nos termos de qualquer dos números anteriores, ficam depositários da respectiva cortiça os gestores dos estabelecimentos agrícolas onde ela foi produzida.
+Ministério da Agricultura e Pescas, 20 de Dezembro de 1978. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.
