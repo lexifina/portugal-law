@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, de acordo com informação da Conferência da Haia de Direito Internacional Privado, a Convenção para o Reconhecimento e Execução de Decisões Relativas a Obrigações Alimentares, concluída na Haia em 2 de Outubro de 1973, entrou em vigor entre os Estados membros e a ilha de Man no dia 1 de Abril de 1985.Actualmente, os Estados partes da Convenção são a Tailândia, a França, a Itália, o Luxemburgo, a Noruega, o Reino dos Países Baixos, Portugal, o Reino Unido, a Suécia, a Suíça, a Checoslováquia e a Turquia.
+Secretaria-Geral do Ministério, 6 de Maio de 1985. - O Director dos Serviços Jurídicos e de Tratados, Francisco Manuel dos Reis Caldeira.
