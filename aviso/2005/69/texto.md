@@ -1,0 +1,5 @@
+Aviso n.º 69/2005
+Por ordem superior se torna público que, em 16 de Novembro de 2004, a Dinamarca depositou o seu instrumento de ratificação ao Acordo Relativo à Aplicação da Parte XI da Convenção das Nações Unidas sobre o Direito do Mar, assinado em Nova Iorque em 28 de Julho de 1994.
+Portugal é Parte do mesmo Acordo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 60-B/97, ratificado pelo Decreto do Presidente da República n.º 67-A/97, publicados no suplemento ao Diário da República, 1.ª série-A, n.º 238, de 14 de Outubro de 1997, tendo depositado o seu instrumento de ratificação em 3 de Novembro de 1997, e tendo entrado em vigor para Portugal em 3 de Dezembro de 1997, conforme o Aviso n.º 81/98, publicado no Diário da República, 1.ª série-A, n.º 93, de 21 de Abril de 1998.
+Nos termos do disposto no seu artigo 6.º, parágrafo 2, o Acordo entrou em vigor para a Dinamarca a 16 de Dezembro de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 23 de Fevereiro de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
