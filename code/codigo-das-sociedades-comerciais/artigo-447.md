@@ -26,7 +26,7 @@ a) Relativamente a acções e obrigações possuídas à data da designação ou
 
 b) Nos 30 dias seguintes a algum dos factos referidos nos n.os 1 e 3 deste artigo, mas sempre a tempo de ser dado cumprimento ao disposto no n.º 5.
 
-5 - Em anexo ao relatório anual do órgão de administração, será apresentada, relativamente a cada uma das pessoas referidas no n.º 1, a lista das suas acções e obrigações abrangidas pelos n.os 1 e 2, com menção dos factos enumerados nesse mesmo número e no n.º 3, ocorridos durante o exercício a que o relatório respeita, especificando montante das acções ou obrigações negociadas ou oneradas, a data do facto e a contrapartida paga ou recebida.
+5 - Em anexo ao relatório anual do órgão de administração, será apresentada, relativamente a cada uma das pessoas referidas no n.º 1, a lista das suas acções e obrigações abrangidas pelos n.os 1 e 2, com menção dos factos enumerados nesses mesmos números e no n.º 3, ocorridos durante o exercício a que o relatório respeita, especificando montante das acções ou obrigações negociadas ou oneradas, a data do facto e a contrapartida paga ou recebida.
 
 6 - São abrangidas pelo disposto neste artigo as aquisições e alienações em bolsa e as que porventura estejam sujeitas a termo ou condição suspensiva.
 

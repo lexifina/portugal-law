@@ -1,6 +1,6 @@
 # Artigo 66.º
 
-### (Relatório de gestão)
+### Relatório da gestão
 
 1 - O relatório de gestão deve conter, pelo menos, uma exposição fiel e clara sobre a evolução dos negócios e a situação da sociedade.
 
@@ -12,7 +12,7 @@ b) Os factos relevantes ocorridos após o termo do exercício;
 
 c) A evolução previsível da sociedade;
 
-d) As aquisições de acções próprias, referindo os motivos de cada aquisição, o número e valor nominal das acções e o preço de aquisição, bem como o número e valor nominal de todas as acções próprias em carteira e a fracção do capital subscrito que representam;
+d) O número e o valor nominal de quotas ou acções próprias adquiridas ou alienadas durante o exercício, os motivos desses actos e o respectivo preço, bem como o número e valor nominal de todas as quotas e acções próprias detidas no fim do exercício;
 
 e) As autorizações concedidas a negócios entre a sociedade e os seus administradores, nos termos do artigo 397.º;
 

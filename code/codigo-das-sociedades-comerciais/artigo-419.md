@@ -10,4 +10,4 @@
 
 4 - Os membros do conselho fiscal e os fiscais destituídos são obrigados a apresentar ao presidente da mesa da assembleia geral, no prazo de 30 dias, um relatório sobre a fiscalização exercida até ao termo das respectivas funções.
 
-5 - Apresentado o relatório, deve o presidente da mesa da assembleia geral facultar desde logo cópias à administração e ao conselho fiscal e submetê-lo oportunamente à apreciação da assembleia.
+5 - Apresentado o relatório, deve o presidente da mesa da assembleia geral facultar, desde logo, cópias à administração e ao conselho fiscal e submetê-lo oportunamente à apreciação da assembleia.

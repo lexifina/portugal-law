@@ -6,4 +6,4 @@
 
 2 - Havendo várias acções de invalidade da mesma deliberação, devem elas ser apensadas, observando-se a regra do n.º 2 do artigo 275.º do Código de Processo Civil.
 
-3 - A sociedade suportará todos os encargos das acções propostas pelo órgão de fiscalização ou, na sua falta, por qualquer gerente ou administrador, ainda que sejam julgadas improcedentes.
+3 - A sociedade suportará todos os encargos das acções propostas pelo órgão de fiscalização ou, na sua falta, por qualquer gerente, ainda que sejam julgadas improcedentes.

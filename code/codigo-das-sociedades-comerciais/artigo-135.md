@@ -8,7 +8,7 @@
 
 3 - Os outorgantes da escritura declararão sob sua responsabilidade que:
 
-a) Os direitos dos sócios exonerados podem ser satisfeitos sem afectação do capital, nos termos do artigo 34.º;
+a) Os direitos dos sócios exonerados podem ser satisfeitos sem afectação do capital, nos termos do artigo 32.º;
 
 b) Não houve oposição nos prazos estabelecidos nos n.os 2 e 3 do artigo 131.º
 

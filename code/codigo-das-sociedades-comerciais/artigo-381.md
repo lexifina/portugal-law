@@ -1,6 +1,6 @@
 # Artigo 381.º
 
-### (Período de representação)
+### (Pedido de representação)
 
 1 - Se alguém solicitar representação de mais de cinco accionistas para votar em assembleia geral, deve observar-se o disposto nas alíneas e números seguintes:
 

@@ -2,7 +2,7 @@
 
 ### (Atribuições e responsabilidade do representante comum)
 
-1 - O representante comum deve praticar, em nome de todos os obrigacionistas, os actos de gestão destinados à defesa dos interesses comuns destes, competindo-lhes nomeadamente:
+1 - O representante comum deve praticar, em nome de todos os obrigacionistas, os actos de gestão destinados à defesa dos interesses comuns destes, competindo-lhe nomeadamente:
 
 a) Representar o conjunto dos obrigacionistas nas suas relações com a sociedade;
 

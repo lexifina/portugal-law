@@ -12,4 +12,4 @@
 
 5 - O sócio que utilize as informações obtidas de modo a prejudicar injustamente a sociedade ou outros sócios é responsável, nos termos gerais, pelos prejuízos que lhes causar e fica sujeito a exclusão.
 
-6 - No caso de ao sócio ser recusado o exercício dos direitos atribuídos nos número anteriores, pode requerer inquérito judicial nos termos previstos no artigo 450.º
+6 - No caso de ao sócio ser recusado o exercício dos direitos atribuídos nos números anteriores, pode requerer inquérito judicial nos termos previstos no artigo 450.º

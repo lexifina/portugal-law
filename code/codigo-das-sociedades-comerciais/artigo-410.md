@@ -8,7 +8,7 @@
 
 3 - Os administradores devem ser convocados por escrito, com a antecedência adequada, salvo quando o contrato de sociedade preveja a reunião em datas prefixadas ou outra forma de convocação.
 
-4 - O conselho não pode deliberar sem que esteja presente a maioria dos seus membros.
+4 - O conselho não pode deliberar sem que esteja presente ou representada a maioria dos seus membros.
 
 5 - O contrato de sociedade pode permitir que qualquer administrador se faça representar numa reunião por outro administrador, mediante carta dirigida ao presidente, mas cada instrumento de representação não pode ser utilizado mais do que uma vez.
 

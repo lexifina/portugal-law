@@ -30,7 +30,7 @@ g) A indicação de que a constituição definitiva da sociedade ficará depende
 
 h) O montante da entrada a efectuar na altura da subscrição, o prazo e o modo da restituição dessa importância, no caso de não chegar a constituir-se a sociedade.
 
-7 - As entradas em dinheiro efectuadas por todos os subscritores serão directamente depositadas por estes na conta aberta pelos promotores e referida no n.º 3.
+7 - As entradas em dinheiro efectuadas por todos os subscritores serão directamente depositadas por estes na conta aberta pelos promotores e referida no n.º 3 do artigo 277.º.
 
 8 - Aos promotores não pode ser atribuída outra vantagem além da reserva de uma percentagem não superior a um décimo dos lucros líquidos da sociedade, por tempo não excedente a um terço da duração desta e nunca superior a cinco anos, a qual não poderá ser paga sem se acharem aprovadas as contas anuais.
 

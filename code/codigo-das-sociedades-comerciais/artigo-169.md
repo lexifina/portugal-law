@@ -6,4 +6,4 @@
 
 2 - As pessoas que têm o dever de requerer o registo e de proceder às publicações devem igualmente tomar as providências necessárias para que sejam sanadas, no mais breve prazo, as discordâncias entre o acto praticado, o registo e as publicações.
 
-3 - No caso de discordância entre o teor do acto constante das publicações e o constante do registo, a sociedade não pode opor a terceiros o texto publicado, mas estes podem prevalecer-se dele, salvo se a sociedade provar que o parceiro tinha conhecimento do texto constante do registo.
+3 - No caso de discordância entre o teor do acto constante das publicações e o constante do registo, a sociedade não pode opor a terceiros o texto publicado, mas estes podem prevalecer-se dele, salvo se a sociedade provar que o terceiro tinha conhecimento do texto constante do registo.

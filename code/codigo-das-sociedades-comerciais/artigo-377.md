@@ -2,7 +2,7 @@
 
 ### (Convocação da assembleia)
 
-1 - As assembleias gerais são convocadas pelo presidente da mesa ou, nos casos especiais previsto na lei, pelo tribunal, pelo conselho fiscal ou pelo conselho geral.
+1 - As assembleias gerais são convocadas pelo presidente da mesa ou, nos casos especiais previsto na lei, pelo tribunal, pelo conselho geral, pelo conselho fiscal ou pelo tribunal.
 
 2 - A convocatória deve ser publicada.
 

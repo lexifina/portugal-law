@@ -10,6 +10,6 @@
 
 2 - A designação é feita por tempo não superior a três anos.
 
-3 - Aplica-se a este revisor oficial de contas e à sociedade de revisores oficiais de contas o disposto no artigo 414.º
+3 - Aplica-se a este revisor oficial de contas e à sociedade de revisores oficiais de contas o disposto nos artigos 414.º, 416.º e 419.º
 
-4 - O revisor ficial de contas designado tem os poderes e deveres atribuídos por esta lei ao conselho fiscal e aos seus membros.
+4 - O revisor oficial de contas designado tem os poderes e deveres atribuídos por esta lei ao conselho fiscal e aos seus membros.

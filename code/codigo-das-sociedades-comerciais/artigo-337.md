@@ -4,7 +4,7 @@
 
 1 - A transmissão entre vivos, a título gratuito ou oneroso, de acções ao portador sujeitas obrigatória ou facultativamente ao regime de registo ou de depósito deve constar de declaração que revestirá algumas das formas prescritas nos números seguintes.
 
-2 - Para as acções ao portador em regime de registo, a declaração deverá ser feita em impresso de modelo aprovado por portaria dos Ministros das Finanças e da Justiça, preenchido em quadruplicado e com a assinaturas do transmitente e do adquirente reconhecidas por notário no original.
+2 - Para as acções ao portador em regime de registo, a declaração deverá ser feita em impresso de modelo aprovado por portaria dos Ministros das Finanças e da Justiça, preenchido em quadruplicado e com as assinaturas do transmitente e do adquirente reconhecidas por notário no original.
 
 3 - O notário que proceder ao último reconhecimento arquivará o duplicado e enviará o original e os demais exemplares, no prazo de oito dias, à sociedade, que efectuará imediatamente o registo em nome dos adquirentes e, assim que o registo for efectuado, anotá-lo-á em dois dos exemplares da declaração, remetendo um ao transmitente e outro ao adquirente.
 

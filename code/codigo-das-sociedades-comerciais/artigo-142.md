@@ -1,10 +1,10 @@
 # Artigo 142.º
 
-### (Casos de dissolução por sentença ou deliberação)
+### Causas de dissolução por sentença ou deliberação
 
 1 - Pode ser requerida a dissolução judicial da sociedade com fundamento em facto previsto na lei ou no contrato e ainda:
 
-a) Quando o número de sócios for inferior ao mínimo exigido por lei, excepto se um dos sócios restantes for o Estado ou entidade a ele equiparada por lei para esse feito;
+a) Quando, por período superior a um ano, o número de sócios for inferior ao mínimo exigido por lei, excepto se um dos sócios for o Estado ou entidade a ele equiparada por lei para esse efeito;
 
 b) Quando a actividade que constitui o objecto contratual se torne de facto impossível;
 

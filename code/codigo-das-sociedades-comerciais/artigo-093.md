@@ -1,9 +1,9 @@
 # Artigo 93.º
 
-### (Fiscalização)
+### Fiscalização
 
-1 - A escritura pública de aumento de capital deve ser instruída com o balanço que serviu de base à deliberação e com uma declaração do órgão de administração e do órgão de fiscalização da sociedade em que se refira não haver conhecimento de que, desde o dia a que se reporta o balanço tomado para base da deliberação até ao dia da escritura, hajam ocorrido diminuições patrimoniais que obstem ao aumento do capital.
+1 - A escritura pública de aumento de capital por incorporação de reservas deve ser instruída com o balanço que serviu de base à deliberação, devendo o órgão de administração e, quando deva existir, o órgão de fiscalização da sociedade declarar, na própria escritura ou em documento a ela anexo, não ter conhecimento de que, desde o dia a que se reporta tal balanço até ao dia da escritura, hajam ocorrido diminuições patrimoniais que obstem ao aumento de capital.
 
-2 - Havendo novo balanço, devidamente aprovado antes da escritura do requerimento, deve ele ser também apresentado.
+2 - Havendo novo balanço, devidamente aprovado antes da escritura ou do requerimento do registo do aumento de capital, deve ele ser apresentado.
 
-3 - O requerimento de registo do aumento do capital deve ser também instruído com uma declaração semelhante à referida no n.º 1, com referência à data da apresentação do requerimento.
+3 - O órgão de administração e, quando deva existir, o órgão de fiscalização devem fazer, no requerimento de registo do aumento de capital ou em documento com ele apresentado, declaração semelhante à referida no n.º 1, com referência à data da apresentação do requerimento.

@@ -16,8 +16,8 @@ c) Avaliar os bens, indicando os critérios utilizados para a avaliação;
 
 d) Declarar se os valores encontrados atingem ou não o valor nominal da parte, quota ou acções atribuídas aos sócios que efectuaram tais entradas, acrescido dos prémios de emissão, se for caso disso, ou à contrapartida a pagar pela sociedade.
 
-4 - O relatório deve reportar-se a uma data não anterior em 90 dias à do contrato de sociedade, mas o seu autor deve informar os fundadores da sociedade de alterações relevantes de valores, ocorridos durante aquele período, de que tenha conhecimento.
+4 - O relatório deve reportar-se a uma data não anterior em 90 dias à do contrato de sociedade, mas o seu autor deve informar os fundadores da sociedade de alterações relevantes de valores, ocorridas durante aquele período, de que tenha conhecimento.
 
-5 - O relatório do revisor deve ser posto à disposição dos fundadores da sociedade pelo menos quinze dias antes da celebração do contrato; o mesmo se fará quanto à informação referida no n.º 4 até essa celebração.
+5 - O relatório tio revisor deve ser posto à disposição dos fundadores da sociedade pelo menos quinze dias antes da celebração do contrato; o mesmo se fará quanto à informação referida no n.º 4 até essa celebração.
 
 6 - O relatório do revisor, incluindo a informação referida no n.º 4, faz parte integrante da documentação sujeita às formalidades de publicidade prescritas nesta lei. Pode, todavia, publicar-se apenas menção do depósito do relatório no registo comercial, acompanhada de extracto donde constem as indicações referidas nas alíneas c) e d) do n.º 3.

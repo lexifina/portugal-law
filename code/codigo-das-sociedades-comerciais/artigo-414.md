@@ -1,6 +1,6 @@
 # Artigo 414.º
 
-### (Requisitos e incompatibilidades)
+### Requisitos e incompatibilidades
 
 1 - Os membros do conselho fiscal e os fiscais únicos podem não ser accionistas, mas devem ser pessoas singulares com capacidade jurídica plena, excepto se forem sociedades de advogados ou sociedades de revisores oficiais de contas.
 
@@ -22,7 +22,7 @@ f) Os que exerçam funções em empresa concorrente;
 
 g) Os cônjuges, parentes e afins na linha recta e até ao terceiro grau, inclusive, na linha colateral, de pessoas impedidas por força do disposto nas alíneas a), b), c), d) e f), bem como os cônjuges das pessoas abrangidas pelo disposto na alínea e);
 
-h) Os que exerçam funções de administração ou fiscalização em cinco sociedades, exceptuando as sociedades de advogados e as sociedades de revisores oficiais de contas;
+h) Os que exerçam funções de administração ou de fiscalização em cinco sociedades, exceptuando as sociedades de advogados, as sociedades de revisores oficiais de contas e os revisores oficiais de contas, aplicando-se a estes o regime do artigo 9.º do Decreto-Lei n.º 519-L2/79, de 29 de Dezembro;
 
 i) Os revisores oficiais de contas em relação aos quais se verifiquem outras incompatibilidades previstas na respectiva legislação;
 

@@ -16,4 +16,4 @@ d) A identificação dos subscritores e o número de obrigações a subscrever p
 
 3 - A deliberação de emissão de obrigações convertíveis em acções implica de a aprovação do aumento do capital da sociedade no montante e nas condições que vierem a ser necessários para satisfazer os pedidos de conversão.
 
-4 - As condições fixadas pela deliberação da assembleia geral dos accionistas para a emissão de obrigações convertíveis só podem ser alterados, sem o consentimento dos obrigacionistas desde que da alteração não resulte para estes qualquer redução das respectivas vantagens ou direitos ou aumento dos seus encargos.
+4 - As condições fixadas pela deliberação da assembleia geral dos accionistas para a emissão de obrigações convertíveis só podem ser alteradas, sem o consentimento dos obrigacionistas desde que da alteração não resulte para estes qualquer redução das respectivas vantagens ou direitos ou aumento dos seus encargos.

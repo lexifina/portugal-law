@@ -1,14 +1,14 @@
 # Artigo 384.º
 
-### (Votos)
+### Votos
 
 1 - Na falta de diferente cláusula contratual, a cada acção corresponde um voto.
 
 2 - O contrato de sociedade pode:
 
-a) Fazer corresponder um só voto a um certo número de acções, contanto que sejam abrangidas todas as acções emitidas pela sociedade e fique cabendo um voto, pelo menos, a cada 20000$00 de capital;
+a) Fazer corresponder um só voto a um certo número de acções, contanto que sejam abrangidas todas as acções emitidas pela sociedade e fique cabendo um voto, pelo menos, a cada 100000$00 de capital;
 
-b) Estabelecer que não sejam contados votos acima de certo número, quando emitidos por um só accionista, em nome próprio ou também como correspondente de outro.
+b) Estabelecer que não sejam contados votos acima de certo número, quando emitidos por um só accionista, em nome próprio ou também como representante de outro.
 
 3 - A limitação de votos permitida pelo n.º 2, alínea b), pode ser estabelecida para todas as acções ou apenas para acções de uma ou mais categorias, mas não para accionistas determinados, e não vale em relação aos votos que pertençam ao Estado ou a entidades a ele equiparadas por lei para este efeito.
 
