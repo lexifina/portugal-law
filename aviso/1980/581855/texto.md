@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 12 de Outubro de 1979, o Governo do Surinão depositou, junto do Secretário-Geral das Nações Unidas, o instrumento de sucessão com referência à Convenção Suplementar Relativa à Abolição da Escravatura, ao Tráfico de Escravos e Instituições e Práticas Semelhantes, concluída em Genebra em 7 de Setembro de 1956, de que Portugal já é parte. Aquele instrumento diplomático entrou em vigor, com referência àquele país, em conformidade com os princípios da sucessão de Estados em matéria de tratados.
+Secretaria-Geral do Ministério, 8 de Dezembro de 1979. - O Chefe dos Serviços Jurídicos e de Tratados, Rui Eduardo Barbosa de Medina.
