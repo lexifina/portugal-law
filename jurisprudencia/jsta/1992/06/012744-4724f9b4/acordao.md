@@ -1,0 +1,51 @@
+# Acórdão do Supremo Tribunal Administrativo de 1992-06-17, processo 012744
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 012744
+
+**Data do Acordão:** 06/17/1992
+
+**Tribunal:** PLENO DA SECÇÃO DO CT
+
+**Relator:** RODRIGUES PARDAL
+
+**Descritores:** IMPUGNAÇÃO JUDICIAL; PRAZO DE IMPUGNAÇÃO JUDICIAL; PRAZO SUBSTANTIVO; CONTAGEM DE PRAZO; OPOSIÇÃO DE JULGADOS
+
+**Nº Convencional:** JSTA00035529
+
+**Nº do Documento:** SAP19920617012744
+
+**Data de Entrada:** 03/06/1991
+
+**Recorrente:** SOLVAY-PORTUGAL-PRODUTOS QUIMICOS SA
+
+**Recorrido 1:** FAZENDA PUBLICA
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 92
+
+**Referência Publicação 1:** AD N377 ANOXXXII PAG564
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC 2 SECÇÃO.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - IMPUGN JUDICIAL / REC JURISDICIONAL.
+
+**Legislação Nacional:** ETAF84 ART30 B C ART62 N1 A.; CPC67 ART144 N3 ART763 N2 ART766 N3.; CCIV66 ART279.; CPCI63 ART84 ART89.; LPTA85 ART28 N2 ART102.; CPTRIB91 ART49 N2 ART100 N2 ART118 N2 A F ART123 N3 ART151-ART153 ART155.; CIRS88 ART89 ART131 N2.; CIRC88 ART111 N2.
+
+**Jurisprudência Nacional:** AC STA DE 1988/10/12 IN AP DR 1990/02/26 PAG1096.; AC STA PROC10475 DE 1992/03/04.; AC STA PROC13865 DE 1992/03/11.
+
+**Referência a Doutrina:** ALBERTO XAVIER IN CTF N157-158 PAG67.; RODRIGUES PARDAL IN CTF N112 PAG38.; RUBEN CARVALHO E OUTRO CÓDIGO DE PROCESSO DAS CONTRIBUIÇÕES E IMPOSTOS ANOTADO 1959 VI PAG434.; CARDOSO DA COSTA CURSO DE DIREITO FISCAL PAG446.; ALFREDO SOUSA E OUTRO CÓDIGO DE PROCESSO DAS CONTRIBUIÇÕES E IMPOSTOSANOTADO 2ED PAG280.; MARCELLO CAETANO MANUAL DE DIREITO ADMINISTRATIVO 8ED TII PAG1254.; AFONSO QUEIRÓ IN RLJ N113 PAG90.; AFONSO QUEIRÓ IN RLJ N115 PAG180.; AFONSO QUEIRÓ IN RLJ N116 PAG311.; SALDANHA SANCHES O NOVO PROCESSO TRIBUTÁRIO IN CTF N361 PAG173 SALDANHA SANCHES IN FISCO N6 PAG21.; Texto Integral
+
+## Sumário
+
+I - A impugnação judicial é um recurso, mas, em certos casos, pode ser qualificada como uma acção destinada à tutela efectiva de interesses ou direitos em matéria fiscal.
+
+II - O prazo da impugnação judicial é um prazo de natureza substantivo e, por isso, a sua contagem efectua-se nos termos do art. 279 do Código Civil.
