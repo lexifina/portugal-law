@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 195-A/2003
+O ESCOLHAS - Programa de Prevenção da Criminalidade e Inserção dos Jovens dos Bairros mais Vulneráveis dos Distritos de Lisboa, Porto e Setúbal foi aprovado, em Janeiro de 2001, através da Resolução do Conselho de Ministros n.º 4/2001, de 9 de Janeiro, tendo como objectivo o desenvolvimento de iniciativas e acções que contribuíssem para a diminuição da criminalidade juvenil na faixa etária dos 12 aos 18 anos.
+O Programa ESCOLHAS tornou possível desenvolver projectos de intervenção destinados a crianças e jovens, os quais permitiram prevenir comportamentos de risco, inverter percursos claramente desviantes e iniciar processos de socialização e de integração que se traduziram na aquisição de competências pessoais e sociais, no aumento dos níveis de formação escolar e na qualificação profissional face ao mercado de trabalho.
+A Resolução do Conselho de Ministros n.º 4/2001, de 9 de Janeiro, que criou o Programa em referência, prevê que o mesmo tenha duração até 31 de Dezembro de 2003.
+O Governo, consciente da importância da existência de condições que permitam continuar a intervir, articulando iniciativas das diversas entidades e agentes locais, junto dos jovens provindos de contextos sócio-económicos mais desfavoráveis e problemáticos, entende dever dar continuidade às acções que têm vindo a ser desenvolvidas no âmbito do Programa ESCOLHAS, dando-lhe claramente um novo impulso e dinâmica, designadamente através de uma diferente inserção orgânica.
+Neste sentido, e tendo em vista permitir a implementação do novo modelo sem pôr em causa o regular funcionamento das acções e projectos que devam ter continuidade, é prorrogado o período de duração do Programa ESCOLHAS até 31 de Março de 2004.
+Os encargos decorrentes da prorrogação do presente Programa são assegurados pelas verbas correspondentes, até 25% do valor orçamentado para o ano 2004.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Prorrogar até 31 de Março de 2004 o período de duração do ESCOLHAS - Programa de Prevenção da Criminalidade e Inserção dos Jovens dos Bairros mais Vulneráveis dos Distritos de Lisboa, Porto e Setúbal, criado pela Resolução do Conselho de Ministros n.º 4/2001, de 9 de Janeiro.
+2 - Determinar que a presente resolução produz efeitos a partir do dia 1 de Janeiro de 2004.
+Presidência do Conselho de Ministros, 23 de Dezembro de 2003. - O Primeiro-Ministro, José Manuel Durão Barroso.
