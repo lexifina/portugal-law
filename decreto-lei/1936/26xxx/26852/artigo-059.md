@@ -1,7 +1,3 @@
-## Capítulo VI
-
-## Penalidades
-
 # Artigo 59.º
 
 Se os trabalhos de estabelecimento de uma instalação eléctrica de serviço público que necessite de licença prévia de estabelecimento começarem antes de cumprido o disposto no artigo 24.º, o concessionário incorrerá numa pena de multa, que será graduada conforme a importância da instalação e o adiantamento dos trabalhos, não sendo nunca inferior a 200$00 nem superior a 2.000$00.
@@ -10,7 +6,7 @@ Se os trabalhos de estabelecimento de uma instalação eléctrica de serviço p�
 
 § 2.º Se a instalação, além de estabelecida sem licença, fôr encontrada já em exploração, será elevada ao dôbro a multa que lhe competir;
 
-§ 3.º O quantitativo da multa a aplicar será afixado pelo Ministro das Obras Públicas e Comunicações, sob proposta do chefe da secção de licenças da Repartição dos Serviços Eléctricos e parecer do presidente da Junta de Electrificação Nacional.
+§ 3.º O quantitativo da multa a aplicar será fixado pelo Ministro das Obras Públicas e Comunicações, sob proposta do chefe da secção de licenças da Repartição dos Serviços Eléctricos e parecer do presidente da Junta de Electrificação Nacional.
 
 § 4.º A Repartição dos Serviços Eléctricos intimará o infractor a desmontar a instalação ou a proceder à sua legalização fixando-lhe para êsse fim um prazo suficiente.
 
