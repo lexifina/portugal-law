@@ -1,0 +1,19 @@
+Decreto-Lei n.º 447/83
+de 26 de Dezembro
+A renovação industrial que se impõe para o País tem entre as suas componentes principais a melhoria da qualidade, a inovação e o fabrico de novos equipamentos e produtos.
+Sem menosprezar o papel do Estado nessas áreas, através das suas estruturas próprias, entende-se que ele deve ser complementar da actividade das empresas e fomentador dela.
+Considera-se também que, face à dimensão média das unidades industriais do País, aquele desiderato se atinge em melhores termos pela via do associativismo, apoiado e estimulado pelo Estado.
+Dentro desta linha de orientação, o Governo propôs e obteve da Assembleia da República autorização legislativa para concessão de benefícios fiscais às participações de capitais nesta área, o que ora se faz.
+Assim:
+No uso da autorização concedida pela alínea c) do artigo 1.º da Lei n.º 16/83, de 6 de Setembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º As participações de capital em empresas científicas, institutos ou centros tecnológicos a que sejam conferidas atribuições de comprovado interesse nacional no âmbito do controle ou promoção da qualidade industrial, da inovação industrial ou do fabrico de novos equipamentos e produtos, quer sejam prestadas directamente quer através de associações empresariais que sejam sócias daquelas entidades, são consideradas custos para efeitos de contribuição industrial em montante igual ao valor despendido no exercício a que respeitam e, nos casos abrangidos pela alínea b) do artigo 2.º, os respectivos rendimentos são isentos de imposto de capitais e de imposto complementar.
+Art. 2.º Consideram-se incluídas nas participações de capital referidas no artigo anterior:
+a) As acções, quotas ou qualquer outra forma de participação no capital das entidades ali referidas, designadamente as quotizações destinadas a assegurar o seu funcionamento;
+b) Os empréstimos, suprimentos ou outros abonos feitos às mesmas entidades, bem como os lucros não levantados, no caso de associações ou sociedades com intuitos lucrativos.
+Art. 3.º O reconhecimento do comprovado interesse nacional das entidades referidas no artigo 1.º é feito por despacho dos Ministros das Finanças e do Plano e da Indústria e Energia.
+Visto e aprovado em Conselho de Ministros de 27 de Outubro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - José Veiga Simão.
+Promulgado em 13 de Dezembro de 1983.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 14 de Dezembro de 1983,
+O Primeiro-Ministro, Mário Soares.
