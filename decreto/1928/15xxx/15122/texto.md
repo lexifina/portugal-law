@@ -1,0 +1,13 @@
+Decreto n.º 15122
+Considerando que, pelo artigo 16.º da organização da Escola Militar, de 25 de Outubro de 1926, os professores adjuntos são divididos por cadeiras ou agrupamentos de cadeiras e de forma tal que às 17.ª e 24.ª cadeiras compete um adjunto oficial de engenharia e à 26.ª cadeira um adjunto oficial de engenharia ou de qualquer arma habilitado com o curso de engenharia;
+Considerando que o conselho de instrução da Escola Militar, em sua consulta de 7 de Dezembro findo, é de parecer que o trabalho dos dois professores adjuntos fica muito desigualmente distribuído, pois que exactamente as duas cadeiras grupadas exigem um maior número de sessões para trabalhos de gabinete, de campo, de salas e aulas práticas, ao passo que à 26.ª cadeira apenas é atribuído um reduzido número de sessões para trabalhos de salas;
+Considerando que adoptando a proposta do conselho de instrução da Escola Militar de grupar as cadeiras 17.ª e 26.ª e isolar a 24.ª cadeira se torna mais equivalente o serviço a desempenhar pelos dois adjuntos;
+Considerando a conveniência de os dois adjuntos serem oficiais de engenharia a fim de poderem prestar serviço em trabalhos de aplicação da índole militar técnica das várias cadeiras de engenharia;
+Considerando que tal modificação não destrói o princípio de poderem concorrer e ser providos como professores da 26.ª cadeira oficiais de qualquer arma com o curso de engenharia civil, visto ao professor adjunto de uma cadeira não caber o direito, sem novo concurso e escolha, de ser nomeado professor da referida cadeira;
+Usando da faculdade que me confere o n.º 2.º do artigo 2.º do decreto n.º 12740, de 26 de Novembro de 1926, sob proposta dos Ministros de todas as Repartições:
+Hei por bem decretar:
+Artigo 1.º A distribuição de professores adjuntos pelas várias cadeiras e grupos de cadeiras, a que se refere o artigo 16.º da organização da Escola Militar, aprovada pelo decreto n.º 12704, de 25 de Outubro de 1926, com as rectificações do decreto n.º 13657, de 23 de Maio de 1927, sofrerá a seguinte alteração:
+17.ª e 26.ª cadeiras — um oficial de engenharia.
+24.ª cadeira — um oficial de engenharia.
+Art. 2.º Fica revogada a legislação em contrário.
+Os Ministros de todas as Repartições o façam imprimir, publicar e correr. Dado nos Paços do Govêrno da República, em 7 de Março de 1928. — ANTÓNIO ÓSCAR DE FRAGOSO CARMONA — José Vicente de Freitas — Manuel Rodrigues Júnior — Abílio. Augusto Valdês de Passos e Sousa — Agnelo Portela — António Maria de Bettencourt Rodrigues — Alfredo Augusto de Oliveira Machado e Costa — José Alfredo Mendes de Magalhães — Felisberto Alves Pedrosa.
