@@ -1,0 +1,25 @@
+Despacho Normativo n.º 50-H/77
+Ao abrigo do disposto no artigo 9.º do Decreto-Lei n.º 75-P/77, de 28 de Fevereiro, determina-se o seguinte:
+1.º É fixado em $92 o subsídio a pagar pelo Instituto dos Cereais às moagens de ramas por cada quilograma de farinha em rama de trigo com incorporação que estas entreguem à indústria de panificação.
+2.º O valor global do subsídio a atribuir a cada moagem não poderá exceder anualmente o correspondente à média das distribuições de trigo efectuadas nos três anos cerealíferos anteriores.
+3.º Para efeitos da determinação da média das distribuições de trigo, o período de tempo a que se refere o número anterior será substituído pelo dos anos de efectiva laboração nos seguintes casos:
+a) Ter o industrial iniciado a sua produção de farinhas em rama de trigo com incorporação há menos de três anos;
+b) Ter o industrial, no decurso dos três anos anteriores suspendido temporariamente aquela produção por motivos não decorrentes da violação dos preceitos reguladores da actividade, desde que tenha participado, em tempo, aquela suspensão ao Instituto dos Cereais nos termos regulamentares.
+4.º A concessão do subsídio às moagens de ramas depende do preenchimento das condições fixadas relativamente aos seguintes aspectos:
+a) Requisitos mínimos de higiene;
+b) Utilização de um sistema eficaz de limpeza do cereal;
+c) Existência de escrituração devidamente organizada e em dia.
+5.º As farinhas em rama de trigo com incorporação serão fornecidas às padarias por meio de guias de distribuição passadas em duplicado pelo Instituto dos Cereais.
+6.º O original das guias de distribuição manter-se-á em poder da moagem fornecedora e o duplicado ficará arquivado nas padarias para efeitos de fiscalização.
+7.º Os originais das guias de distribuição, depois de inteiramente satisfeitas e executadas ou extinto o seu período de validade, deverão ser enviados ao Instituto dos Cereais no prazo por este fixado.
+8.º Entende-se que o prazo de validade das guias referido no número anterior respeita ao período de tempo durante o qual devem as mesmas guias ser satisfeitas pelas moagens.
+9.º O Instituto dos Cereais liquidará o subsídio em face dos originais das guias referidas no número anterior, sem prejuízo de se poder servir de todos os elementos justificativos da saída e destino das farinhas.
+10.º As infracções ao disposto no presente despacho, se outra punição mais grave lhes não couber nos termos da legislação em vigor, constituem infracções disciplinares e, independentemente das sanções respectivas, serão punidas nos seguintes termos:
+a) Com a perda do subsídio, se a guia a que o mesmo respeita não se mostrar comprovadamente executada no prazo da sua validade;
+b) Com a perda do subsídio a que a guia respeita, se a farinha fornecida não tiver a incorporação legalmente estabelecida;
+c) Com a perda do subsídio correspondente ao mês em que se verificar a falta de cumprimento do estabelecido na alínea c) do n.º 4.º deste despacho;
+d) Com a perda do subsídio correspondente ao mês em que se verificar o fornecimento de farinha de trigo em rama sem incorporação e sem a respectiva guia de distribuição;
+e) Com a exclusão total e definitiva do subsídio, quando se verificarem três casos de infracção.
+11.º Este despacho revoga o despacho publicado no Diário do Governo, 1.ª série, n.º 192, de 19 de Agosto de 1974.
+12.º O presente despacho entra em vigor na data da sua publicação.
+Secretarias de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno, 28 de Fevereiro de 1977. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Carlos Alberto Antunes Filipe. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
