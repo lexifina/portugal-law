@@ -1,0 +1,7 @@
+Aviso
+Por ordem superior se faz público que, dando cumprimento ao disposto no artigo 9.º do Regulamento para a Constituição de Servidões, Expropriações e Ocupações Temporárias, aprovado pelo Decreto-Lei n.º 200/71, de 13 de Maio, a Comissão Luso-Espanhola para Regular o Uso e Aproveitamento Hidráulico dos Rios Internacionais nas Suas Zonas Fronteiriças, tendo em consideração o carácter de especial urgência da ocupação dos terrenos necessários à construção do viaduto rodoviário e estabelecimento do respectivo estaleiro, a que é obrigada a sociedade Fuerzas Eléctricas del Noroeste, S. A. (Fenosa), concessionária do aproveitamento hidroeléctrico do rio Salas, pelo Decreto-Lei n.º 48896, de 6 de Março de 1969, decidiu autorizar, mediante depósito prévio na Caixa Geral de Depósitos, Crédito e Previdência, no montante que lhe foi fixado, depósito que já foi efectuado, a ocupação imediata das parcelas de terreno sitas na freguesia de Tourém, concelho de Montalegre, constantes da relação anexa e devidamente identificadas na planta parcelar junta ao processo de inquérito público aberto conforme aviso publicado no Diário do Governo, 3.ª série, de 16 de Agosto de 1969.
+Direcção-Geral dos Negócios Económicos, 7 de Julho de 1971. - O Director-Geral, José Calvet de Magalhães.
+
+Terrenos necessários para a construção da ponte e seu estaleiro
+(ver documento original)
+Direcção-Geral dos Negócios Económicos, 7 de Julho de 1971. - O Director-Geral, José Calvet de Magalhães.
