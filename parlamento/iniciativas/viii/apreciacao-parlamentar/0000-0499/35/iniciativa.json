@@ -1,0 +1,216 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "tipo": "Apreciação Parlamentar",
+  "numero": "35",
+  "id": "5739",
+  "fases": 12,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2001-02-15",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2001-09-14",
+    "DataInicioleg": "2000-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "314",
+        "nome": "António Capucho"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Apreciação Parlamentar",
+    "IniEpigrafe": null,
+    "IniId": "5739",
+    "IniLeg": "VIII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a41304d4451784d546b354c544a684e5441744e4755785a4331684d7a6c6c4c545933597a686c5a6d5533595759775a69356b62324d3d&fich=04041199-2a50-4e1d-a39e-67c8efe7af0f.doc&Inline=true",
+    "IniNr": "35",
+    "IniObs": "DL10/2001",
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "A",
+    "IniTitulo": "Decreto-lei nº 10/2001 de 23 de Janeiro que \"estabelece as disposições aplicáveis à constituição e a manutenção das reservas de segurança em território nacional de produtos de petróleo transpondo para o direito interno a directiva da Comissão nº 98/93/CE de 14 de Dezembro\".",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": [
+      {
+        "autor": "Deputados",
+        "id": "18814",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "266447",
+            "obs": null,
+            "pag": [
+              "155-155"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "23",
+            "pubSL": "2",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/023/2001-03-31/155?pgs=155&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      },
+      {
+        "autor": "PS",
+        "id": "18815",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "266448",
+            "obs": null,
+            "pag": [
+              "155-155"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "23",
+            "pubSL": "2",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/023/2001-03-31/155?pgs=155&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      },
+      {
+        "autor": "CDS-PP",
+        "id": "18816",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "266449",
+            "obs": null,
+            "pag": [
+              "155-155"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "23",
+            "pubSL": "2",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/023/2001-03-31/155?pgs=155&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      },
+      {
+        "autor": "Deputados",
+        "id": "18823",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "266456",
+            "obs": null,
+            "pag": [
+              "182-182"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-05-19",
+            "pubLeg": "VIII",
+            "pubNr": "29",
+            "pubSL": "2",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/029/2001-05-19/182?pgs=182&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      },
+      {
+        "autor": "Deputados",
+        "id": "18824",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "266457",
+            "obs": null,
+            "pag": [
+              "182-182"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-05-19",
+            "pubLeg": "VIII",
+            "pubNr": "29",
+            "pubSL": "2",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/029/2001-05-19/182?pgs=182&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      },
+      {
+        "autor": "CDS-PP",
+        "id": "18828",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "266458",
+            "obs": null,
+            "pag": [
+              "182-182"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-05-19",
+            "pubLeg": "VIII",
+            "pubNr": "29",
+            "pubSL": "2",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/029/2001-05-19/182?pgs=182&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      }
+    ]
+  }
+}
