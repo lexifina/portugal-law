@@ -32,6 +32,8 @@ m) O apoio técnico aos profissionais de saúde, serviços ou departamentos;
 
 n) A participação em júris de concursos e de avaliação.
 
+o) A realização de acções de inspecção, quando integrados em estabelecimentos ou serviços que detenham competências fiscalizadoras.
+
 2 - Ao técnico superior de saúde farmacêutico assessor são atribuídas, além de todas as funções do assistente e do assistente principal:
 
 a) A emissão de pareceres técnico-científicos;
