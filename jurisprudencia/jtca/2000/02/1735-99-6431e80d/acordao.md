@@ -1,0 +1,79 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2000-02-15, processo 1735/99
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 1735/99
+
+**Secção:** Secção do Contencioso Tributário - Tribunal Central Administrativo
+
+**Data do Acordão:** 02/15/2000
+
+**Relator:** J. Correia
+
+**Descritores:** CONTRIBUIÇÃO AUTÁRQUICA; CADUCIDADE DO DIREITO À LIQUIDAÇÃO
+
+**Aditamento:** 1
+
+## Sumário
+
+I- A liquidação da contribuição autárquica, ainda que adicional, só pode ser efectuada dentro
+
+dos cinco anos seguintes àquele a que a contribuição respeita sob pena de caducidade do direito à
+
+liquidação (artº21ºdo CCA).
+
+II- Ainda sob pena de caducidade, tal liquidação tem de ser notificada ao sujeito passivo, no mesmo
+
+prazo (artº 84º, nº l, do CIRS, aplicável " ex vi " do artº 34º, al. a), daquele código.
+
+III- Para obstar à caducidade do direito à liquidação, esta deveria ter sido notificada ao impugnante,
+
+visto tratar-se de um imposto periódico liquidado fora do prazo legalmente previsto, por meio de carta
+
+registada (artº 65º, do CPT).
+
+IV- Provando-se que os serviços da administração fiscal não respeitaram o meio próprio para a
+
+notificação, visto que expediram a nota de cobrança por simples via postal, de posse da mesma que
+
+lhes foi devolvida pelos C.T.T., com indicação de "desconhecido", deveriam procederam à notificação
+
+edital (artº 139º, nº4,doC.I.R.S).
+
+V- O âmbito da presunção prevista no artº 139º e, também, como regra geral, no artº 66º, do CPT , para
+
+as notificações expedidas por meio de carta registada dirigidas ao domicílio fiscal conhecido aos
+
+sujeitos passivos é tão só que a notificação se presume feita no 3º dia útil posterior ao do registo.
+
+VI- Tal presunção só pode ser ilidida pelo notificado quando não lhe seja imputável o facto de a
+
+notificação decorrer em data posterior à presumida, pois que o registo funciona aqui não como uma
+
+garantia para o destinatário da correspondência mas fundamentalmente como prova de que o remetente
+
+a enviou e a mesma foi entregue aos seu destinatário, na data presumida.
+
+VII- E a mesma presunção dirige-se ao dia em que a notificação se deve considerar feita - 3º dia útil
+
+posterior ao do registo -, mas pressupõe que ela seja, efectivamente, feita, por isso dando ao contribuinte
+
+a possibilidade de a ilidir, provando que a notificação ocorreu em data posterior à presumida, ficando de
+
+fora do âmbito deste preceito, as notificações não conseguidas e devolvidas aos respectivos serviços,
+
+VIII- Aquela disposição arranca do princípio de que o contribuinte tem estabelecida a sua residência
+
+para onde foi expedida a notificação, sendo que quanto à obrigatoriedade de comunicação à AF da
+
+residência do contribuinte e respectivas alterações na vigência do CPT , haverá que concluir que em
+
+face da devolução da notificação esta não chegou a efectivar-se.
+
+IX- Tendo o recorrente requerido a alteração do seu domicílio fiscal e, apesar disso, sido extraída
+
+certidão de relaxe que deu origem a execução fiscal onde aquele foi citado por aviso de citação, deve
+
+considerar-se omitida a notificação e que o contribuinte só teve conhecimento da liquidação através da
+
+citação na execução fiscal equivalendo essa citação à notificação da liquidação.
