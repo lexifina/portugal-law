@@ -1,0 +1,15 @@
+Portaria n.º 55/90
+de 23 de Janeiro
+O Decreto-Lei n.º 138/89, de 28 de Abril, consignou a favor das entidades que tem a seu cargo a fiscalização rodoviária uma percentagem das multas e coimas cobradas por infracções ao Código da Estrada e demais legislação complementar sobre trânsito e actividade transportadora.
+Por sua vez, a Portaria n.º 425/89, de 12 de Junho, fixou para as referidas entidades uma percentagem de 60% da importância de tais multas e coimas.
+Ante o preceituado nos diplomas enunciados, urge proceder à distribuição das verbas respectivas, decorrentes dessa percentagem atribuída, pelas diversas entidades fiscalizadoras.
+Nestes termos:
+Manda o Governo, pelos Ministros da Administração Interna e das Obras Públicas, Transportes e Comunicações, ao abrigo do disposto no artigo 2.º do Decreto-Lei n.º 138/89, de 28 de Abril, o seguinte:
+1.º As verbas destinadas às entidades fiscalizadoras serão distribuídas da forma seguinte:
+a) 80% para a força de segurança interveniente;
+b) 20% para as Direcções-Gerais de Viação ou de Transportes Terrestres, consoante a respectiva competência em razão da matéria;
+c) Em caso de contra-ordenação, as percentagens enunciadas nas alíneas a) e b) do presente número serão, respectivamente, de 60% e 40%, sempre que a instrução do respectivo processo seja efectuada pelas Direcções-Gerais referidas na alínea anterior.
+2.º A presente portaria produz efeitos desde a data da entrada em vigor da Portaria n.º 425/89, de 12 de Junho.
+Ministérios da Administração Interna e das Obras Públicas, Transportes e Comunicações.
+Assinada em 28 de Dezembro de 1989.
+O Ministro da Administração Interna, José António da Silveira Godinho. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
