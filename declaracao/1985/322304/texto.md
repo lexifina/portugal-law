@@ -1,0 +1,6 @@
+Declaração
+Segundo comunicação da 2.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério das Finanças e do Plano, a declaração de transferências de verbas publicada no Diário da República, 1.ª série, n.º 213, de 16 de Setembro de 1985, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê «De harmonia com o disposto no n.º 4 do artigo 6.º do Decreto-Lei n.º 93/78, de 13 de Maio, se publicam as seguintes transferências de verbas, autorizadas nos termos do n.º 4 do artigo 5.º do mesmo diploma» deve ler-se «De harmonia com o disposto no n.º 2 do artigo 6.º do Decreto-Lei n.º 46/84, de 4 de Fevereiro, se publicam as seguintes transferências de verbas, autorizadas nos termos dos n.os 2 e 3 do artigo 5.º do mesmo diploma».
+Onde se lê «Cap. 01, div. 03, C. E. 01.00 - Contribuições para instituições - Previdência Social» deve ler-se «Cap. 01, div. 03, C. E. 11.00 - Contribuições para instituições - Previdência Social».
+Onde se lê «Cap. 05 - Gabinete para a Cooperação Económica Externa» deve ler-se «Cap. 03 - Gabinete para a Cooperação Económica Externa».
+Secretaria-Geral da Presidência do Conselho de Ministros, 16 de Outubro de 1985. - O Secretário-Geral, França Martins.
