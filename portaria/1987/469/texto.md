@@ -1,0 +1,7 @@
+Portaria n.º 469/87
+de 4 de Junho
+Tendo em consideração que, por interesse na salvaguarda do património natural, está em estudo a criação de uma área de paisagem protegida da costa vicentina e respectivo plano de ordenamento, abrangendo a zona do cabo de São Vicente e ponta de Sagres, e tendo em consideração o novo programa do Instituto Português do Património Cultural de valorização cultural da zona de Sagres, suscitado pelo seu significado no âmbito das celebrações dos Descobrimentos há pouco iniciadas:
+Manda o Governo da República Portuguesa, pelos Ministros do Plano e da Administração do Território e da Educação e Cultura, que seja revogada a Portaria n.º 550/86, de 25 de Setembro, e mantidos os anteriores perímetros de protecção e de zonas non aedificandi da Torre e Muralhas de Sagres, Fortaleza de Belixe e Fortaleza do Cabo de São Vicente, classificadas, respectivamente, pelo Decreto de 16 de Julho de 1910 e pelos Decretos n.os 41191, de 18 de Junho de 1957, e 44075, de 5 de Dezembro de 1961, e fixados na planta anexa à portaria publicada no Diário do Governo, 2.ª série, n.º 128, de 30 de Maio de 1962.
+Ministérios do Plano e da Administração do Território e da Educação e Cultura.
+Assinada em 16 de Abril de 1987.
+O Ministro do Plano e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.
