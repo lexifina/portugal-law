@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal de Justiça de 1997-12-04, processo 97B228
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 97B228
+
+**Nº Convencional:** JSTJ00037485
+
+**Relator:** MARIO CANCELA
+
+**Descritores:** EXPROPRIAÇÃO; ADMISSÃO DO RECURSO; PROVA PERICIAL; RECLAMAÇÃO
+
+**Nº do Documento:** SJ199712040002282
+
+**Data do Acordão:** 12/04/1997
+
+**Votação:** UNANIMIDADE
+
+**Tribunal Recurso:** T REL PORTO
+
+**Processo no Tribunal Recurso:** 688
+
+**Data:** 10/14/1996
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** AGRAVO.
+
+**Decisão:** NEGADO PROVIMENTO.
+
+**Área Temática:** DIR PROC CIV - RECURSOS.
+
+## Sumário
+
+I - Por assento do STJ proferido no processo n. 85860 e publicado na primeira série do DR de 15 de Maio de 1997, foi decidido que "O C. Exp. aprovado pelo DL 438/91, de 9 de Novembro, consagra a não admissibilidade de recurso para o STJ que tenha por objecto decisão sobe a fixação do valor da indemnização devida".
+
+II - A doutrina por este assento fixada não tem hoje força vinculativa geral e está sujeita em princípio à contradita das partes e à modificação pelo tribunal emitente.
+
+III - Para que a modificação se opere é necessário que haja razões que a justifique.
+
+IV - Se as partes entenderem que no relatório pericial há deficiências, obscuridades ou contradições ou que as conclusões não se mostrem devidamente fundamentadas, podem formular as suas reclamações (artigos 596 n. 2, do CPC, na sua anterior redacção, e 587 n. 2, na actual redacção).
+
+V - Só quando as reclamações das partes sejam atendidas pelo juiz é que os peritos têm de complementar, esclarecer ou harmonizar o seu laudo; e o juiz deve atendê-las quando sejam fundadas, isto é, quando no laudo existam os vícios referidos.
