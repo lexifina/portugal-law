@@ -1,0 +1,5 @@
+Declaração
+Segundo comunicação da 9.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Indústria e Energia, a declaração de transferências de verbas publicada no Diário da República, 1.ª série, n.º 301 (10.º suplemento), de 31 de Dezembro de 1983, e a rectificação à mesma declaração publicada no Diário da República, 1.ª série, n.º 51 (2.º suplemento), de 29 de Fevereiro de 1984, cujos originais se encontram arquivados nesta Secretaria-Geral, saíram com as seguintes inexactidões, que assim se rectificam:
+Na publicação inicial, no título do sumário, onde se lê «Ex-Ministério do Comércio, Energia e Exportação» deve ler-se «Ex-Ministério da Indústria, Energia e Exportação».
+Na publicação da rectificação posterior, no sumário, onde se lê «De ter sido rectificada a declaração de transferências de verbas do ex-Ministério do Comércio, Energia e Exportação» deve ler-se «De ter sido rectificada a declaração de transferências de verbas do ex-Ministério da Indústria, Energia e Exportação».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Março de 1984. - O Secretário-Geral, França Martins.
