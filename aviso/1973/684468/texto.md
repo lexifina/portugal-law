@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo informação do secretário-geral do Conselho de Cooperação Aduaneira, o Governo de Chipre depositou, em 15 de Dezembro de 1972, o instrumento de adesão à Convenção Aduaneira Relativa às Facilidades Concedidas para a Importação de Mercadorias Destinadas a Ser Apresentadas ou Utilizadas em Exposições, Feiras, Congressos ou Manifestações Similares, concluída em Bruxelas em 8 de Junho de 1961, e que entrará em vigor, em relação àquele país, em 15 de Março de 1973.
+Direcção-Geral dos Negócios Económicos, 15 de Fevereiro de 1973. - O Adjunto do Director-Geral, José Joaquim de Mena e Mendonça.
