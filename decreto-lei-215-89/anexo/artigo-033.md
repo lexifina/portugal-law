@@ -16,7 +16,9 @@ c) As instituições de crédito e as sociedades financeiras, relativamente aos 
 
 1) Não realizem quaisquer operações com residentes em território português ou com estabelecimento estável de um não residente aí situado, exceptuadas as entidades instaladas nas zonas francas que não sejam instituições de crédito, sociedades financeiras ou sucursais financeiras que realizem operações próprias da sua actividade com residentes ou estabelecimentos estáveis de não residentes;
 
-2) Não realizem quaisquer operações com não residentes que se encontrem em relação de domínio, tal como este é definido no artigo 13.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, com instituições de crédito ou sociedades financeiras residentes em território português, fora das zonas francas, ou com entidades financeiras não residentes que sejam maioritariamente detidas, directa ou indirectamente, por entidades residentes em território português, fora das zonas francas;
+2) Não realizem quaisquer operações com não residentes relativas a instrumentos financeiros derivados, excepto quando essas operações tenham como objectivo a cobertura de operações activas e passivas afectas à estrutura instalada nas zonas francas;
+
+3) Excluem-se da subalínea 1) as operações relativas a transferência de fundos para a sede das instituições de crédito, desde que sejam transferidos na mesma moeda em que foram tomados e remunerados ao preço médio verificado no mês anterior, na tomada de fundos da mesma natureza e ainda na condição de, para as operações em que tenham sido tomados aqueles fundos, não tenham sido realizadas quaisquer operações com instrumentos financeiros derivados, devendo as instituições de crédito identificar para cada operação de transferência as operações de tomada que lhe deram origem;
 
 d) As entidades que prossigam a actividade de gestão de fundos de investimento, relativamente aos rendimentos derivados da gestão de fundos, cujas unidades de participação sejam exclusivamente adquiridas, na emissão, por não residentes em território português, com excepção dos respectivos estabelecimentos estáveis aí situados, cujas aplicações sejam realizadas exclusivamente em activos financeiros emitidos por não residentes ou em outros activos situados fora do território português, sem prejuízo de o valor líquido global do fundo poder ser constituído, até um máximo de 10%, por numerário, depósitos bancários, certificados de depósito ou aplicações em mercados interbancários;
 
@@ -90,7 +92,7 @@ c) Nos restantes casos, de acordo com as seguintes regras:
 
 1) A comprovação deve ser realizada mediante a apresentação de certificado de residência ou documento equivalente emitido pelas autoridades fiscais, de documento emitido por consulado português, comprovativo da residência no estrangeiro, ou de documento especificamente emitido com o objectivo de certificar a residência por entidade oficial do respectivo Estado, que integre a sua administração pública central, regional ou a demais administração periférica, estadual indirecta ou autónoma do mesmo, não sendo designadamente admissível para o efeito documento de identificação como passaporte ou bilhete de identidade, ou documento de que apenas indirectamente se possa presumir uma eventual residência fiscalmente relevante, como uma autorização de trabalho ou permanência;
 
-2) O documento referido na subalínea anterior é necessariamente o original ou cópia devidamente autenticada e tem de possuir data de emissão não anterior a três anos nem posterior a três meses em relação à data de realização das operações e da percepção dos rendimentos, salvo o disposto nas subalíneas seguintes;
+2) O documento referido na subalínea anterior é o original ou cópia devidamente autenticada e tem de possuir data de emissão não anterior a três anos nem posterior a três meses em relação à data de realização das operações, salvo o disposto nas subalíneas seguintes;
 
 3) Se o prazo de validade do documento for inferior ou se este indicar um ano de referência, o mesmo é válido para o ano referido e para o ano subsequente, quando este último coincida com o da emissão do documento;
 
@@ -100,11 +102,11 @@ c) Nos restantes casos, de acordo com as seguintes regras:
 
 16 - Compete às entidades a que se refere o n.º 1 a prova, nos termos dos n.os 14 e 15, da qualidade de não residente das entidades com as quais estabeleçam relações, a qual é extensível, nas situações de contitularidade, nomeadamente aquando da constituição de contas de depósito de numerário ou de valores mobiliários com mais de um titular, a todos os titulares, devendo os meios de prova ser conservados durante um período não inferior a cinco anos e exibidos ou facultados à administração tributária sempre que solicitados.
 
-17 - Para efeitos do disposto no n.º 1, alínea c), subalínea 2), compete às instituições de crédito ou sociedades financeiras instaladas nas zonas francas a prova das condições aí previstas, a qual, quando não estejam em relação de grupo, tal como esta é definida no artigo 13.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, com as entidades não residentes ali referidas, é constituída por declaração destas, confirmando a inexistência das mencionadas condições, excepto quanto àquelas que as instituições de crédito ou sociedades financeiras instaladas nas zonas francas não pudessem razoavelmente desconhecer, caso em que prevalece o facto notório.
+17 - (Eliminado).
 
-18 - A prova prevista no número anterior não dispensa as instituições de crédito ou sociedades financeiras instaladas nas zonas francas da aplicação do n.º 14.
+18 - (Eliminado).
 
-19 - A falta de apresentação das provas de não residente e de inexistência das condições previstas no n.º 1, alínea c), subalínea 2), ou o desconhecimento doloso ou negligente destas últimas, pelas entidades instaladas nas zonas francas que a tal estejam respectivamente obrigadas nos termos dos n.os 14 e 15, tem, no período de tributação a que respeita, as consequências seguintes:
+19 - A falta de apresentação das provas de não residente pelas entidades instaladas nas zonas francas que a tal estejam respectivamente obrigadas, nos termos dos n.os 14 e 15, tem, no período de tributação a que respeita, as consequências seguintes:
 
 a) Ficam sem efeito os benefícios concedidos às entidades beneficiárias que pressuponham a referida qualidade ou a ausência daquelas condições;
 

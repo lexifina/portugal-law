@@ -4,7 +4,7 @@
 
 1 - Ficam isentos de IRC os rendimentos dos fundos poupança-reforma (FPR), poupança-educação (FPE) e poupança-reforma/educação (FPR/E) que se constituam e operem nos termos da legislação nacional.
 
-2 - São dedutíveis à colecta do IRS, nos termos e condições previstos no artigo 78.º do respectivo Código, 25% do valor aplicado no respectivo ano em planos individuais de poupança-reforma (PPR), poupança-educação (PPE) e poupança-reforma/educação (PPR/E), com o limite máximo do menor dos seguintes valores: 5% do rendimento total bruto englobado e (euro) 648,44 por sujeito passivo não casado ou por cada um dos cônjuges não separados judicialmente de pessoas e bens, desde que, excepto em caso de morte do subscritor, não haja lugar a reembolso do montante em causa no prazo mínimo de um ano a contar da data dessas entregas.
+2 - São dedutíveis à colecta do IRS, nos termos e condições previstos no artigo 78.º do respectivo Código, 25% do valor aplicado no respectivo ano em planos individuais de poupança-reforma (PPR), poupança-educação (PPE) e poupança-reforma/educação (PPR/E), com o limite máximo do menor dos seguintes valores: 5% do rendimento total bruto englobado e (euro) 661,41 por sujeito passivo não casado ou por cada um dos cônjuges não separados judicialmente de pessoas e bens, desde que, excepto em caso de morte do subscritor, não haja lugar a reembolso do montante em causa no prazo mínimo de cinco anos a contar da data dessas entregas.
 
 3 - As importâncias pagas pelos fundos de poupança-reforma, poupança-educação e poupança-reforma/educação, mesmo nos casos de reembolso por morte do participante, ficam sujeitas a tributação nos seguintes termos:
 

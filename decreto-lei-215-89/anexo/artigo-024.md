@@ -2,9 +2,9 @@
 
 ### Planos de poupança em acções
 
-1 - Ficam isentos de IRC os rendimentos de fundos de poupança em acções (FPA).
+1 - Ficam isentos de IRC os rendimentos de fundos de poupança em acções (FPA) que se constituam e operem de acordo com a legislação nacional.
 
-2 - Para efeitos de IRS é dedutível à colecta, nos termos e condições previstos no artigo 78.º do respectivo Código, o valor aplicado em plano poupança-acções (PPA), até 7,5% das entregas efectuadas anualmente, com o limite máximo de 39300$00 ((euro) 196,03) por sujeito passivo não casado ou por cada um dos cônjuges não separados judicialmente de pessoas e bens, desde que, excepto em caso de morte do subscritor, não haja lugar a reembolso no prazo mínimo de seis meses a contar da data dessas entregas.
+2 - Para efeitos de IRS, é dedutível à colecta, nos termos e condições previstos no artigo 78.º do respectivo Código, o valor aplicado em plano poupança-acções (PPA), até 7,5% das entregas efectuadas anualmente, com o limite máximo de (euro) 199,95 por sujeito passivo não casado ou por cada um dos cônjuges não separados judicialmente de pessoas e bens, desde que, excepto em caso de morte do subscritor, não haja lugar a reembolso no prazo mínimo de seis meses a contar da data dessas entregas.
 
 3 - A diferença, quando positiva, entre o valor devido aquando do encerramento dos PPA e as importâncias entregues pelo subscritor está sujeita a IRS de acordo com as regras aplicáveis aos rendimentos da categoria E deste imposto, mas com observância, com as necessárias adaptações, das regras previstas no n.º 3 do artigo 5.º do respectivo Código, designadamente quanto ao montante a tributar por retenção na fonte e à taxa de tributação.
 

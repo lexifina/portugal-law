@@ -10,7 +10,7 @@ a) A entidades não residentes e sem estabelecimento estável em território por
 
 b) A entidades não residentes e sem estabelecimento estável em território português que sejam domiciliadas em país, território ou região, sujeitas a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças;
 
-c) Às mais-valias realizadas por entidades não residentes com a transmissão onerosa de participações qualificadas;
+c) (Eliminada);
 
 d) Às mais valias realizadas por entidades não residentes com a transmissão onerosa de partes sociais em sociedades residentes em território português cujo activo seja constituído, em mais de 50%, por bens imobiliários aí situados ou que, sendo sociedades gestoras ou detentora de participações sociais, se encontrem em relação de domínio, tal como esta é definida no artigo 13.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, a título de dominantes, com sociedades dominadas, igualmente residentes em território português, cujo activo seja constituído, em mais de 50%, por bens imobiliários aí situados.
 
@@ -18,10 +18,6 @@ d) Às mais valias realizadas por entidades não residentes com a transmissão o
 
 a) A pessoas singulares não residentes e sem estabelecimento estável em território português que sejam residentes em país, território ou região, sujeitas a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças;
 
-b) Às mais-valias realizadas por pessoas singulares com a transmissão onerosa de participações qualificadas;
+b) (Eliminada);
 
 c) Às mais-valias realizadas por pessoas singulares com a transmissão onerosa de partes sociais em sociedades residentes em território português cujo activo seja constituído, em mais de 50%, por bens imobiliários aí situados ou que, sendo sociedades gestoras ou detentora de participações sociais, se encontrem em relação de domínio, tal como esta é definida no artigo 13.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, a título de dominantes, com sociedades dominadas, igualmente residentes em território português, cujo activo seja constituído, em mais de 50%, por bens imobiliários aí situados.
-
-4 - Para efeitos deste artigo, considera-se alienação de participação qualificada a de 2% dos direitos de voto correspondentes ao capital social de uma sociedade emitente de acções ou outros valores mobiliários admitidos à negociação em mercado regulamentado ou de 10% dos direitos de voto correspondentes ao capital social de qualquer outra sociedade.
-
-5 - Considera-se que há alienação de participação qualificada quando o conjunto das transmissões para a mesma entidade ou pessoa singular, ou outras que com estas se encontrem em relação de domínio ou de grupo, tal como esta é definida no artigo 13.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, realizadas em qualquer momento num período de 12 meses, a contar da data da primeira transmissão, ultrapasse os limites previstos no número anterior.

@@ -1,6 +1,6 @@
 # Artigo 42.º
 
-### Prédios urbanos construídos, ampliados, melhorados ou adquiridos a título oneroso, destinados a habitação
+### Prédios urbanos construídos, ampliados, melhorados ou adquiridos a título oneroso destinados a habitação
 
 1 - Ficam isentos de contribuição autárquica, nos termos da tabela a que se refere o n.º 5, os prédios ou parte de prédios urbanos habitacionais construídos, ampliados, melhorados ou adquiridos a título oneroso destinados à habitação própria e permanente do sujeito passivo ou do seu agregado familiar e sejam efectivamente afectos a tal fim no prazo de seis meses após a aquisição ou a conclusão da construção, da ampliação ou dos melhoramentos, salvo por motivo não imputável ao beneficiário, devendo o pedido de isenção ser apresentado pelos sujeitos passivos até ao termo dos 90 dias subsequentes àquele prazo.
 
@@ -10,7 +10,7 @@
 
 4 - Tratando-se de prédios ampliados ou melhorados nos casos previstos nos n.os 1 e 3, a isenção aproveita apenas ao valor tributável correspondente ao acréscimo resultante das ampliações ou melhoramentos efectuados, tendo em conta para a determinação dos respectivos limite e período de isenção a totalidade do valor tributável do prédio, após o aumento derivado de tais ampliações ou melhoramentos.
 
-5 - Para efeitos do disposto nos n.os 1 e 3, o período de isenção a conceder será o determinado em conformidade com a seguinte tabela:
+5 - Para efeitos do disposto nos n.os 1 e 3, o período de isenção a conceder será determinado em conformidade com a seguinte tabela:
 
 (ver tabela no documento original)
 

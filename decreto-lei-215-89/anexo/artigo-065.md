@@ -1,15 +1,15 @@
 # Artigo 65.º
 
-### Mecenato para a sociedade de informação
+### Prédios situados nas áreas de localização empresarial (ALE)
 
-1 - São considerados custos ou perdas do exercício, até ao limite de 8/1000 do volume de vendas ou de serviços prestados, em valor correspondente a 130 % do respectivo total, para efeitos de IRC, os donativos de equipamento informático, programas de computadores, formação e consultadoria na área da informática, concedidos às entidades referidas nos n.os 1 e 3 e nas alíneas b), d), e), f) e g) do n.º 6 do artigo 61.º
+1 - São isentas de imposto municipal de sisa as aquisições de imóveis situados nas áreas de localização empresarial (ALE) efectuadas pelas sociedades gestoras das ALE e pelas empresas que nelas se instalarem.
 
-2 - Os donativos previstos no número anterior são levados a custos em valor correspondente a 140 % do respectivo quantitativo, quando atribuídos ao abrigo de contratos plurianuais, que fixem objectivos a atingir pelas entidades beneficiárias e os bens e serviços a atribuir pelos sujeitos passivos.
+2 - São isentos de contribuição autárquica, pelo período de 10 anos, os prédios situados nas áreas de localização empresarial (ALE) adquiridos ou construídos pelas respectivas sociedades gestoras e pelas empresas que neles se instalem.
 
-3 - O período de amortização de equipamento informático pelos sujeitos passivos referidos no n.º 1 é de dois anos, ou pelo valor residual se ocorrer após dois anos, no caso de doação do mesmo às entidades referidas naquele número.
+3 - As isenções previstas nos n.os 1 e 2 ficam dependentes de reconhecimento prévio do interesse municipal pelo órgão competente do município.
 
-4 - Não relevam para os efeitos do número anterior as doações feitas a entidades em que os doadores sejam associados ou em que participem nos respectivos órgãos sociais.
+4 - A isenção referida no n.º 2 é reconhecida pelo chefe do serviço de finanças da área da situação dos prédios, mediante requerimento devidamente fundamentado e instruído com o documento comprovativo do interesse municipal, a apresentar pelo sujeito passivo no prazo de 90 dias contados da data da aquisição ou conclusão das obras.
 
-5 - Os sujeitos passivos que utilizem o regime de amortização previsto no n.º 3 comunicam ao Ministério da Ciência, Tecnologia e Ensino Superior as doações que o justificaram.
+5 - Se o pedido de isenção for apresentado para além do prazo referido, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação, cessando no ano em que findaria caso o pedido tivesse sido apresentado em tempo.
 
-6 - Para os efeitos do disposto no presente artigo, consideram-se equipamentos informáticos os computadores, modems, placas RDIS e aparelhos de terminal, incluindo impressoras, digitalizadores e set-top-boxes.
+6 - O regime referido nos n.os 1 e 2 vigora para os imóveis adquiridos ou construídos até 31 de Dezembro de 2007.

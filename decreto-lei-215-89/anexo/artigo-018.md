@@ -6,9 +6,13 @@
 
 ### Conta poupança-habitação
 
-1 - Para efeitos de IRS, é dedutível à colecta, nos termos e condições previstos no artigo 78.º do respectivo Código, 25% das entregas feitas em cada ano para depósito em contas poupança-habitação, com o limite de (euro) 564,28, desde que o saldo seja mobilizado para os fins previstos no n.º 1 do artigo 5.º do Decreto-Lei n.º 27/2001, de 3 de Fevereiro, e se mostrem decorridos os prazos ali estabelecidos.
+1 - Para efeitos de IRS, são dedutíveis à colecta, nos termos e condições previstos no artigo 78.º do respectivo Código, 25% das entregas feitas em cada ano para depósito em contas poupança-habitação, com o limite de (euro) 575,57, desde que o saldo seja mobilizado para os fins previstos no n.º 1 do artigo 5.º do Decreto-Lei n.º 27/2001, de 3 de Fevereiro, e se mostrem decorridos os prazos ali estabelecidos.
 
-2 - No caso de o saldo da conta poupança-habitação vir a ser utilizado para outros fins que não os referidos no número anterior, ou antes de decorrido o prazo estabelecido, a soma dos montantes anuais deduzidos, agravados de uma importância correspondente à aplicação a cada um deles do produto de 10% por cada ano ou fracção decorrido desde aquele em que foi exercido o direito à dedução, é acrescida, consoante os casos, ao rendimento ou à colecta do ano em que ocorrer a mobilização.
+2 - A utilização para outros fins que não os referidos no número anterior, ou antes de decorrido o prazo estabelecido, do saldo da conta poupança-habitação determina o seguinte:
+
+a) A soma dos montantes anuais deduzidos, na proporção do saldo utilizado, agravados de uma importância correspondente à aplicação a cada um deles do produto de 10% por cada ano ou fracção decorrido desde aquele em que foi exercido o direito à dedução, é acrescida, consoante os casos, ao rendimento ou à colecta do ano em que ocorrer a imobilização;
+
+b) Exceptuam-se da alínea anterior os montantes anuais deduzidos correspondentes ao saldo da conta poupança-habitação anteriormente utilizado para os fins previstos no n.º 1 do artigo 5.º do Decreto-Lei n.º 27/2001, de 3 de Fevereiro, e desde que decorrido o prazo ali estabelecido.
 
 3 - Ficam isentas de imposto sobre as sucessões e doações as transmissões por morte a favor do cônjuge sobrevivo e dos filhos ou dos adoptados, no caso de adopção plena, do saldo das contas poupança-habitação, desde que o mesmo venha a ser mobilizado para os fins referidos no artigo 5.º do Decreto-Lei n.º 27/2001.
 
