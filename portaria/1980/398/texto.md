@@ -1,0 +1,17 @@
+Portaria n.º 398/80
+de 11 de Julho
+Considerando que a Força Aérea tem necessidade urgente de construir infra-estruturas no continente e ilhas adjacentes para apoio das unidades;
+Considerando que o prazo de execução de parte dessas obras abrange os anos de 1980, 1981 e 1982;
+Considerando ainda que em vários locais, pela impossibilidade de interessar empreiteiros idóneos, os trabalhos terão de ser executados por administração directa;
+Tendo em vista as disposições do artigo 10.º do Decreto-Lei n.º 211/79, de 12 de Julho:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, e o Governo, pelo Ministro das Finanças e do Plano, o seguinte:
+Artigo 1.º É autorizada a Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contratos para a execução de obras ou a executar obras por administração directa no continente e ilhas adjacentes até à importância de 760000000$00.
+Art. 2.º - 1 - Os encargos resultantes dos contratos e das obras de administração directa não poderão, em cada ano, exceder as seguintes importâncias:
+Em 1980 - 300000000$00;
+Em 1981 - 400000000$00;
+Em 1982 - 60000000$00.
+2 - As importâncias fixadas para 1981 e 1982 serão acrescidas dos saldos que se apurarem nos anos anteriores.
+Art. 3.º - 1 - Os encargos resultantes da execução deste diploma serão satisfeitos por verba adequada do orçamento da Defesa Nacional - Departamento da Força Aérea.
+2 - A orçamentação das despesas de cada ano será precedida da apresentação de programas anuais de execução, elaborados de acordo com as normas definidas pelo Ministro das Finanças e do Plano, através do Departamento Central de Planeamento.
+3 - O disposto no número anterior não se aplica aos empreendimentos que tenham classificação de segurança de grau reservado ou superior.
+Conselho da Revolução e Ministério das Finanças e do Plano, 24 de Junho de 1980. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.
