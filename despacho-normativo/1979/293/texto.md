@@ -1,0 +1,6 @@
+Despacho Normativo n.º 293/79
+Para efeitos da aplicação da alínea e) do n.º 1 do artigo 52.º do Decreto-Lei n.º 221/77, de 28 de Maio, com a nova redacção que lhe foi dada pelo Decreto-Lei n.º 320/78, de 4 de Novembro, e considerando o disposto no n.º 2 da mesma disposição legal, determino:
+1 - O ingresso de um funcionário em carreira cuja área funcional integre as funções que efectivamente exerce, ainda que não possuindo as habilitações literárias necessárias, é condicionado à exigência de que o funcionário esteja a desempenhar em plenitude as funções próprias de toda a área funcional dessa carreira.
+2 - A integração na nova carreira, em obediência ao contexto do n.º 2 do artigo 52.º, far-se-á, como regra, pela categoria do ingresso ou, quando muito, por uma categoria intermédia, se o número de anos de serviço no desempenho das funções actuais na anterior carreira for igual ou superior ao mínimo exigido para ultrapassar a categoria de ingresso fixado no despacho regulador dos critérios de primeiro provimento na carreira em que será integrado.
+3 - O reconhecimento de que o funcionário satisfaz as condições para usufruir da alínea c) pertence à Secretaria-Geral do Ministério da Agricultura e Pescas.
+Ministério da Agricultura e Pescas, 7 de Setembro de 1979. - O Ministro da Agricultura e Pescas, Joaquim da Silva Lourenço.
