@@ -1,0 +1,6 @@
+Declaração
+Em conformidade com o disposto no artigo 2.º do Decreto-Lei n.º 37313, de 21 de Fevereiro de 1949, que aprova o Regulamento sobre Importação, Comércio, Detenção, Uso e Porte de Armas, se publica, por extracto, o despacho de S. Ex.ª o Ministro do Interior, exarado em 30 de Maio de 1962, sobre informação deste Comando-Geral, pelo qual são estabelecidas as seguintes instruções complementares para execução das disposições do § 2.º do artigo 31.º e alínea a) do § 1.º do artigo 33.º do mesmo regulamento:
+1.º Os limites máximos das existências de cartuchos de caça carregados nos estabelecimentos legalmente autorizados ao seu comércio e as condições de segurança dos respectivos depósitos ou paióis serão fixados pelo comandante-geral da Polícia de Segurança Pública, ouvida, quanto à segurança técnica, a Comissão dos Explosivos.
+2.º Das decisões do comandante-geral podem os interessados recorrer para o Ministro do Interior.
+3.º A inobservância dos limites fixados ou do condicionamento estabelecido é punível com a multa prevista no § 2.º do artigo 74.º e apreensão e perda a favor do Estado das munições encontradas em contravenção, de harmonia com o disposto no artigo 77.º
+Comando-Geral da Polícia de Segurança Pública, 15 de Junho de 1962. - O Comandante-Geral, Fernando Oliveira, brigadeiro.
