@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que a declaração de rectificação ao Decreto Legislativo Regional n.º 24/89/A, publicada no Diário da República, 1.ª série, n.º 26, 2.º suplemento, de 31 de Janeiro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 14.º, n.º 1, alínea b), onde se lê «Até 50% do custo de aquisição do equipamento, para projectos que envolvam a concentração do parque gráfico de jornais diários e para projectos apresentados por empresas proprietárias de mais do que um jornal» deve ler-se «Até 50% do custo de aquisição do equipamento, para projectos que envolvam a concentração do parque gráfico de jornais diários e não diários».
+Secretaria-Geral da Presidência do Conselho de Ministros, 1 de Março de 1990. - O Secretário-Geral, França Martins.
