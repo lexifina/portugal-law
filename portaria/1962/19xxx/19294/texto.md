@@ -1,0 +1,5 @@
+Portaria n.º 19294
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, que, nos termos do § 1.º do artigo 22.º do Decreto-Lei n.º 39749, de 9 de Agosto de 1954, com a nova redacção que lhe foi dada pelo artigo 2.º do Decreto-Lei n.º 43582, de 4 de Abril de 1961, seja elevado a subdelegação da Polícia Internacional e de Defesa do Estado o subposto do mesmo organismo instalado em Benguela, na província de Angola, dependente da delegação da mesma Polícia em Luanda, cabendo ao Governo-Geral da província, mediante proposta da referida corporação, a faculdade de promover a fixação e distribuição do pessoal efectivo e eventual, consoante as necessidades do serviço, de harmonia com o mapa anexo ao citado Decreto-Lei n.º 43582 e nos termos do § 4.º do artigo 46.º do já referido Decreto-Lei n.º 39749, com a nova redacção do Decreto-Lei n.º 43582.
+Ministério do Ultramar, 20 de Julho de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira.
+
+Para ser publicada no Boletim Oficial de Angola. - A. Moreira.
