@@ -1,0 +1,3 @@
+Aviso n.º 282/93
+Por ordem superior se faz público que, segundo comunicação do Governo da Federação Russa de 1 de Setembro de 1993, na qualidade de país depositário dos instrumentos de ratificação do Acordo sobre os Princípios Reguladores das Actividades dos Estados na Exploração e Uso do Espaço Exterior, Incluindo a Lua e Outros Corpos Celestiais, assinada em Londres em 1967, a República Eslovaca se tornou, a partir de 1 de Janeiro de 1993, no Estado sucessor da antiga República Federativa da Checoslováquia no Acordo acima mencionado.
+Direcção-Geral dos Negócios Político-Económicos, 3 de Dezembro de 1993. - O Director de Serviços dos Assuntos Multilaterais, António Raul Freitas Monteiro Portugal.
