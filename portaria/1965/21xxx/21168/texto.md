@@ -1,0 +1,5 @@
+Portaria n.º 21168
+Pelo Decreto-Lei n.º 40520, de 2 de Fevereiro de 1956, foram estabelecidas as condições de utilização de antioxidantes ou antioxigénios em gorduras de origem animal, margarinas e outras gorduras plásticas e ainda em alimentos que contenham qualquer dos produtos, tendo em vista aumentar o seu período de estabilidade, retardando o desenvolvimento do ranço por auto-oxidação.
+Nestes termos, depois de obtidos os pareceres favoráveis da Direcção-Geral de Saúde e da Comissão Técnica dos Métodos Químico-Analíticos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Indústria, autorizar a Fima - Fábrica Imperial de Margarina, Lda., de harmonia com o § 2.º do artigo 4.º do Decreto-Lei n.º 40520, a utilizar na gordura plástica de marca Rexo, quando destinada a exportação, o antioxidante butil-hidroxianisole, com o teor máximo de 0,02 g por 100 g de gordura.
+Secretaria de Estado da Indústria, 16 de Março de 1965. - O Secretário de Estado da Indústria, José Luís Esteves da Fonseca.
