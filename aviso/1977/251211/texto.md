@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que a Embaixada de Portugal em Berlim enviou ao Ministério dos Negócios Estrangeiros da República Democrática Alemã uma nota verbal, datada de 13 de Junho de 1977, informando que a parte portuguesa dera cumprimento às formalidades constitucionais relativas à entrada em vigor do Acordo de Cooperação Económica, Científica e Técnica entre o Governo da República Portuguesa e o Governo da República Democrática Alemã, assinado em Berlim, em 29 de Junho de 1976, e publicado no Diário da República, 1.ª série, n.º 128, de 2 de Junho de 1977, em resposta a uma nota verbal daquele Ministério, datada de 4 de Agosto de 1976, que informava estarem cumpridas aquelas formalidades pela parte alemã.
+Nesta conformidade, e segundo o disposto no seu artigo 10.º, o Acordo em apreço entrou em vigor no dia 13 de Junho de 1977.
+Direcção-Geral dos Negócios Económicos, 6 de Julho de 1977. - O Director-Geral Adjunto, Paulo Manuel Lage David Ennes.
