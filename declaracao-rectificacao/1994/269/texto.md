@@ -1,0 +1,4 @@
+Declaração de rectificação n.º 269/94
+Segundo comunicação do Ministério das Finanças, a Resolução do Conselho de Ministros n.º 125/94, publicada no Diário da República, 1.ª série, n.º 295 (suplemento), de 23 de Dezembro de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No carderno de encargos, no n.º 4, 2.º parágrafo, onde se lê «poderão adquirir à IPE: até 98000 acções [...] pelo preço, por acção, de 80% da média das cotações das primeiras 10 sessões em que ocorram transacções,» deve ler-se «poderão adquirir, mediante subscrição pública, até 98000 acções [...] pelo preço, por acção, de 80% da média das cotações das últimas 10 sessões anteriores à realização da oferta pública de subscrição,».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Dezembro de 1994. - O Secretário-Geral, França Martins.
