@@ -17,9 +17,25 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1952/03/07100/04630467.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1952-03-28",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "e4746683f7b5afe73a119899d585de86a3ed42d48e92df50651ff75e0e197c6a",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.7,
+    "pages": 5,
+    "columns": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "c82fccc3c34e521e88f4ab8e513c0155c0fd780d9bbfc7ddad4b00d5647d2abf",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 4981
 }
