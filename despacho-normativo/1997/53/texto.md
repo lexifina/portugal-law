@@ -1,0 +1,128 @@
+Despacho Normativo n.º 53/97
+Considerando o Decreto Regulamentar n.º 15/96, de 23 de Novembro, que regula os apoios à formação, à inserção no mercado de trabalho, a estudos e a recursos didácticos a conceder no âmbito da vertente Fundo Social Europeu (FSE) do Quadro Comunitário de Apoio (QCA);
+Considerando que a componente agrária do QCA integra uma medida «Formação e educação» relativa à formação profissional agrária da responsabilidade do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas;
+Considerando que importa adaptar o regime de aplicação da medida «Formação e educação» ao novo regime jurídico definido no referido decreto regulamentar:
+Determina-se o seguinte:
+Artigo 1.º
+O presente diploma estabelece o regime de aplicação da medida «Formação e educação» do Subprograma Agricultura, co-financiada no âmbito do Fundo Social Europeu (FSE).
+Artigo 2.º
+A medida referida no número anterior integra as seguintes componentes:
+a) Componente n.º 1 - Formação profissional de agricultores e agentes do sector;
+b) Componente n.º 2 - Formação profissional de formadores e quadros técnicos.
+Artigo 3.º
+No âmbito da componente n.º 1 podem ser concedidas ajudas às seguintes acções:
+a) Formação inicial de agricultores, visando a qualificação profissional agrícola, pecuária, florestal, agro-alimentar, agro-industrial e outras actividades do mundo rural;
+b) Formação inicial de trabalhadores agrícolas, técnico-profissionais e outros agentes do sector, visando a qualificação profissional agrícola, pecuária, florestal, agro-alimentar, agro-industrial e outras actividades do mundo rural;
+c) Formação contínua de agricultores, trabalhadores agrícolas e outros agentes do sector, visando a pré-formação, qualificação, especialização, aperfeiçoamento, reconversão e sensibilização;
+d) Formação contínua de dirigentes de organizações de agricultores, visando a pré-formação, qualificação, especialização e aperfeiçoamento;
+e) Produção de suportes e metodologias didáctico-pedagógicos destinados às acções de formação.
+Artigo 4.º
+No âmbito da componente n.º 2 podem ser concedidas ajudas às seguintes acções:
+a) Formação contínua de formadores e vulgarizadores, visando a qualificação, especialização, aperfeiçoamento, sensibilização e informação;
+b) Formação contínua de quadros técnicos, técnico-profissionais e outros agentes de desenvolvimento, visando a qualificação, especialização, aperfeiçoamento, sensibilização e informação;
+c) Produção de suportes e metodologias didáctico-pedagógicos destinados às acções de formação.
+Artigo 5.º
+Os destinatários das acções previstas nos artigos 3.º e 4.º devem ser os seguintes:
+a) Activos agrícolas: empresários agrícolas, mão-de-obra familiar e trabalhadores rurais;
+b) Activos de empresas, de organizações de agricultores, de organismos do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas e de entidades públicas ligadas ao sector;
+c) Activos inseridos em actividades de desenvolvimento rural, nomeadamente em projectos e iniciativas de dinamização e revitalização sócio-económica do mundo rural;
+d) Jovens que pretendem vir a exercer a sua actividade no sector, candidatos ao primeiro emprego ou não;
+e) Desempregados que tenham perspectivas de emprego na agricultura, na agro-indústria ou em actividades ligadas ao mundo rural.
+Artigo 6.º
+As candidaturas às diversas acções podem revestir a forma de:
+a) Planos integrados de formação;
+b) Planos de formação;
+c) Pedidos de financiamento;
+d) Pedidos de financiamento para aquisição de participações individuais de formação;
+e) Pedidos de financiamento para acesso individual à formação;
+f) Pedidos de financiamento para projectos de produção de suportes e metodologias didáctico-pedagógicos destinados às acções de formação.
+Artigo 7.º
+Os planos integrados de formação e os pedidos de financiamento para projectos de produção de suportes e metodologias didáctico-pedagógicos destinados às acções de formação podem ser apresentados pelos parceiros sociais ligados ao sector agrícola com assento na Comissão Permanente de Concertação Social.
+Artigo 8.º
+1 - Podem apresentar planos de formação, pedidos de financiamento ou pedidos de financiamento para projectos de produção de suportes e metodologias didáctico-pedagógicos destinados às acções de formação as seguintes entidades:
+a) Na qualidade de entidades equiparadas a formadoras:
+i) Organizações de agricultores dos diferentes níveis;
+ii) Sindicatos de trabalhadores do sector agrícola e suas organizações de vários níveis e âmbitos;
+iii) Associações profissionais, interprofissionais ou de desenvolvimento ligadas ao sector agrário ou ao mundo rural;
+iv) Organismos ou serviços do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas;
+v) Instituições de ensino de ciências agrárias;
+vi) Outras entidades, a reconhecer, caso a caso, por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas;
+b) Na qualidade de entidades formadoras:
+i) Centros de formação;
+ii) Empresas de formação;
+iii) Outras entidades, a reconhecer, caso a caso, por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+2 - As entidades referidas na alínea b) do número anterior devem reunir as condições estabelecidas no Decreto Regulamentar n.º 15/96, de 23 de Novembro, e estar acreditadas nos termos do artigo 14.º do mesmo diploma.
+3 - Podem apresentar planos de formação ou pedidos de financiamento, na qualidade de entidades beneficiárias, desde que reúnam as condições estabelecidas no Decreto Regulamentar n.º 15/96, as seguintes entidades:
+a) Organizações de agricultores dos diferentes níveis;
+b) Sindicatos de trabalhadores do sector agrícola e suas organizações de vários níveis e âmbitos;
+c) Associações profissionais, interprofissionais e de desenvolvimento ligadas ao sector agrário ou ao mundo rural;
+d) Organismos ou serviços do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas;
+e) Empresas do sector.
+4 - As entidades referidas no número anterior podem ainda apresentar pedidos de financiamento para a aquisição de participações individuais de formação não apoiadas por fundos públicos.
+Artigo 9.º
+Podem apresentar pedidos de financiamento para acesso individual à formação os activos por conta própria e os trabalhadores por conta das entidades referidas no n.º 3 do artigo 8.º
+Artigo 10.º
+1 - As candidaturas são apresentadas:
+a) No caso de planos integrados e de pedidos de financiamento para acesso individual à formação, na Direcção-Geral de Desenvolvimento Rural (DGDR);
+b) No caso de planos de formação, de pedidos de financiamento, de pedidos de financiamento para aquisições individuais de formação e de projectos de produção de suportes e metodologias didáctico-pedagógicos destinados às acções de formação, junto da direcção regional de agricultura competente ou da DGDR, consoante se trate de acções de âmbito regional ou de acções de âmbito nacional.
+2 - A apresentação de candidaturas a planos de formação e pedidos de financiamento pode ainda ser efectuada junto de outras entidades a definir por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+Artigo 11.º
+1 - As candidaturas devem ser instruídas com os seguintes elementos:
+a) Formulário de identificação e caracterização da entidade beneficiária, formadora ou pessoa singular;
+b) Formulário de pedido de contribuição e respectivos anexos;
+c) Declaração de que têm a situação regularizada perante a Fazenda Pública, segurança social e o sistema de financiamento à formação profissional.
+2 - Para além dos documentos enumerados no número anterior, devem ainda as candidaturas ser instruídas com os documentos indicados no regulamento específico.
+Artigo 12.º
+1 - As candidaturas devem ser apresentadas nos seguintes períodos:
+a) Os planos integrados e os planos de formação e os respectivos pedidos de financiamento, de 1 a 31 de Outubro;
+b) Os pedidos de financiamento e os pedidos de financiamento para projectos de produção de suportes e metodologias didáctico-pedagógicos destinados às acções de formação, de 1 a 31 de Outubro para o semestre ou ano seguintes, e de 1 a 30 de Abril, para o 2.º semestre do ano;
+c) Os pedidos de financiamento de aquisição de participações individuais de formação, os pedidos de financiamento para acesso individual à formação e os pedidos de financiamento para acções isoladas de formação devem ser apresentados com a antecedência mínima de 90 dias e máxima de 180 em relação à data prevista para o início da acção de formação, salvo situações excepcionais e desde que o gestor tenha capacidade de decidir antes do início da mesma.
+2 - Podem, por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ser fixados outros prazos para apresentação de candidaturas.
+Artigo 13.º
+Os pedidos apresentados são objecto de análise e parecer das entidades referidas no artigo 10.º, com base nos critérios definidos no n.º 2 do artigo 12.º do Decreto Regulamentar n.º 15/96 e nos termos a determinar no regulamento específico da medida.
+Artigo 14.º
+1 - Compete ao gestor deliberar sobre todas as candidaturas apresentadas.
+2 - As deliberações relativas a planos integrados de formação são homologadas pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+Artigo 15.º
+1 - Para efeitos do número anterior, consideram-se as seguintes prioridades gerais:
+a) Componente n.º 1 - Formação profissional de agricultores e agentes do sector:
+Candidaturas respeitantes a acções de formação destinadas a empresas com projectos de investimento a iniciar ou em curso no âmbito das medidas de apoio do QCA II e iniciativas comunitárias, nomeadamente as pequenas empresas;
+Candidaturas respeitantes a acções de formação inicial e contínua articuladas com o sistema de certificação de competências;
+Candidaturas respeitantes a acções de formação qualificante de agricultores e trabalhadores homologadas pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas;
+Candidaturas respeitantes a acções de formação de carácter inovador e geradoras ou estabilizadoras de emprego;
+Candidaturas respeitantes a acções de formação que prossigam os objectivos da política para a igualdade de oportunidades, nomeadamente a promoção das mulheres ao acesso a novas áreas profissionais;
+Candidaturas respeitantes a acções de formação sobre segurança, higiene e saúde no trabalho;
+b) Componente n.º 2 - Formação profissional de formadores e quadros técnicos:
+Candidaturas respeitantes a acções de formação destinadas a formadores, visando a formação pedagógica e a formação técnica e tecnológica;
+Candidaturas respeitantes a acções de formação destinadas a técnicos de vulgarização, de desenvolvimento regional e local e de aconselhamento aos agentes económicos;
+Candidaturas respeitantes a acções de formação em áreas técnicas e tecnológicas e em áreas inovadoras, nomeadamente desenvolvimento rural, ambiente, serviços em meio rural, tecnologia de produtos tradicionais, comercialização e marketing e utilização de novas tecnologias de informação;
+Candidaturas respeitantes a acções de formação que possibilitem o acesso à promoção na carreira;
+Candidaturas respeitantes a acções de formação que prossigam os objectivos da política para a igualdade de oportunidades, nomeadamente a promoção das mulheres ao acesso a novas áreas profissionais;
+Candidaturas respeitantes a acções de formação sobre segurança, higiene e saúde no trabalho;
+c) Produção de suportes e metodologias didáctico-pedagógicos:
+Candidaturas articuladas e decorrentes de planos de formação e que, sendo coerentes com o levantamento de necessidades, concorram para os objectivos do plano e para a melhoria da qualidade da formação, possibilitando um efeito multiplicador para outras intervenções formativas.
+2 - Os critérios de prioridade especiais relativos a cada uma das componentes serão definidos por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+Artigo 16.º
+1 - A gestão da medida é assegurada por um gestor, a designar mediante resolução do Conselho de Ministros, ao qual são atribuídos os direitos e deveres previstos no Decreto Regulamentar n.º 15/96, de 23 de Novembro, e na Portaria n.º 745-A/96, de 16 de Dezembro.
+2 - Para além das competências previstas no número anterior, compete ao gestor assegurar a articulação funcional com a Comissão de Coordenação do Fundo Social Europeu (CC/FSE) e com o Departamento para os Assuntos do Fundo Social Europeu (DAFSE).
+3 - O gestor é apoiado, no exercício das suas funções, por uma unidade de gestão, cuja composição e competências serão definidas por despacho conjunto dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e para a Qualificação e o Emprego.
+4 - O gestor e a unidade de gestão serão assistidos, no exercício das suas funções, por estruturas de apoio técnico, ao nível da DGDR e de cada direcção regional de agricultura, ou por outras entidades referidas no n.º 3 do artigo 5.º do Decreto Regulamentar n.º 15/96, nos termos a definir por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+Artigo 17.º
+1 - Ao Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) compete efectuar os pagamentos aos titulares dos pedidos de financiamento, bem como aos organismos que participam na gestão da medida.
+2 - Mediante os pedidos de pagamento do gestor, nos termos do artigo 21.º do Decreto Regulamentar n.º 15/96, o DAFSE procederá à transferência do montante devido para o IFADAP.
+3 - Para efeitos do número anterior, o IFADAP deverá dispor de uma conta bancária específica e exclusiva para os movimentos relativos a esta medida.
+4 - Mediante as ordens de pagamento emitidas pelo gestor, o IFADAP efectuará os pagamentos, dando conhecimento prévio ao titular do pedido de financiamento.
+5 - O IFADAP apresentará ao gestor o relatório anual de contas, tendo em conta as regras definidas para o FSE.
+Artigo 18.º
+O regulamento específico de aplicação desta medida será objecto de despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+Artigo 19.º
+Os pedidos entrados entre 16 de Dezembro de 1996 e 15 de Março de 1997 devem ser deliberados no prazo máximo de 15 dias a contar da publicação do presente diploma, de acordo com o regime legal anterior.
+Artigo 20.º
+Para o ano de 1997, os períodos de candidaturas referidos nas alíneas a) e b) do artigo 12.º decorrem nos 40 dias subsequentes à entrada em vigor do presente diploma.
+Artigo 21.º
+Em tudo o que não estiver especialmente previsto neste diploma aplicam-se o Decreto Regulamentar n.º 15/96, de 23 de Novembro, e a Portaria n.º 745-A/96, de 16 de Dezembro.
+Artigo 22.º
+É revogado o Despacho Normativo n.º 744/94, de 7 de Outubro, publicado no Diário da República, 1.ª série-B, n.º 253, de 2 de Novembro de 1994.
+Artigo 23.º
+O presente diploma entra em vigor na data da sua publicação.
+Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e para a Qualificação e o Emprego, 6 de Agosto de 1997. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.
