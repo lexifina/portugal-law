@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que no dia 7 de Dezembro de 1976 foram trocados em Belgrado, entre o embaixador de Portugal naquela capital e o Secretário Federal-Adjunto dos Negócios Estrangeiros, Marko Vrhunec, os instrumentos de ratificação do Acordo entre o Governo da República Portuguesa e o Governo da República Socialista Federativa da Jugoslávia sobre Cooperação no Domínio do Turismo, assinado em Lisboa em 9 de Maio de 1975 e publicado para ratificação no Diário do Governo, 1.ª série, n.º 274, de 26 de Novembro de 1975.
+Direcção-Geral dos Negócios Económicos, 31 de Janeiro de 1977. - O Director-Geral-Adjunto, Paulo Manuel Lage David Ennes.
