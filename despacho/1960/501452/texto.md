@@ -1,0 +1,3 @@
+Despacho
+Fica a Federação Nacional dos Produtores de Trigo autorizada a adquirir milho da colheita de 1960, nas condições estabelecidas pelo despacho de 19 de Junho de 1954, publicado no Diário do Governo n.º 137, 1.ª série, de 25 de Junho de 1954, mantendo-se porém, até ao fim da campanha, os preços de 2$20 para o milho grado e 2$05 para o milho com mais de 15 por cento de grão miúdo.
+Secretarias de Estado da Agricultura e do Comércio, 15 de Julho de 1960. - O Secretário de Estado da Agricultura, Luís Quartin Graça. - Pelo Secretário de Estado do Comércio, João Augusto Dias Rosas, Subsecretário de Estado do Comércio.
