@@ -1,0 +1,4 @@
+Despacho Normativo n.º 140/81
+Considerando que a PGP - Petroquímica e Gás de Portugal, E. P., só foi autorizada a alterar o preço da venda do amoníaco a partir de 21 de Setembro de 1978, enquanto a Petrogal - Petróleos de Portugal, E. P., começou a debitar a nafta química ao novo preço a partir de 1 de Julho de 1978, determina-se o seguinte:
+Pela aquisição de nafta química destinada à produção de amoníaco efectuada à Petrogal - Petróleos de Portugal, E. P., no período de 1 de Julho a 20 de Setembro de 1978, inclusive, o Fundo de Abastecimento pagará à PGP - Petroquímica e Gás de Portugal, E. P., o subsídio de 971$80/t.
+Ministérios das Finanças e do Plano e da Indústria e Energia, 28 de Janeiro de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - Pelo Ministro da Indústria e Energia, João Nuno Boulain de Carvalho Carreira, Secretário de Estado da Energia.
