@@ -198,7 +198,7 @@
 
 23.3 - Ordens e escritos de qualquer natureza, com exclusão dos cheques, nos quais se determine pagamento ou entrega de dinheiro com cláusula à ordem ou à disposição, ainda que sob a forma de correspondência - sobre o respectivo valor, com o mínimo de (euro) 1 ... 0,5%
 
-23.4 - Extractos de facturas e facturas conferidas - sobre o respectivo valor, com o mínimo de (euro) 0,5 ... 5%
+23.4 - Extractos de facturas e facturas conferidas - sobre o respectivo valor, com um mínimo de (euro) 0,5 - 0,5%
 
 24 - Títulos de dívida pública emitidos por governos estrangeiros, com exclusão dos títulos de dívida pública emitidos por Estados membros da União Europeia, quando existentes ou postos à venda no território nacional - sobre o valor nominal ... 0,9%
 
