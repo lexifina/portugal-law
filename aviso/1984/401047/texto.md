@@ -1,0 +1,22 @@
+Aviso
+Por ordem superior se torna público que foi assinado em Madrid, em 11 de Julho de 1984, o Acordo sobre Reembolso de Despesas por Prestações Farmacêuticas, nos casos previstos nas alíneas a), c) e d) do n.º 1 do artigo 9.º e nos n.os 2 e 3 do artigo 10.º, n.º 1, da Convenção Geral entre a Espanha e Portugal sobre Segurança Social, de 11 de Junho de 1969.
+O referido Acordo substitui o celebrado em 6 de Maio de 1971 e publicado no Diário do Governo, 3.ª série, n.º 282, de 2 de Dezembro de 1971.
+Acompanha o presente aviso o texto, em português e espanhol, do citado Acordo.
+Departamento de Relações Internacionais e Convenções de Segurança Social, 4 de Setembro de 1984. - O Presidente da Comissão Administrativa, José Luís de C. Henriques de Jesus.
+
+Acordo sobre Reembolso de Despesas por Prestações Farmacêuticas, nos casos previstos nas alíneas a), c) e d) do n.º 1 do artigo 9.º e nos n.os 2 e 3 do artigo 10.º, n.º 1, da Convenção Geral entre a Espanha e Portugal sobre Segurança Social, de 11 de Junho de 1969.
+O Ministro do Trabalho e Segurança Social e os Ministros do Trabalho e Segurança Social e da Saúde, designados na alínea d) do artigo 1.º da Convenção Geral entre a Espanha e Portugal sobre Segurança Social, de 11 de Junho de 1969, como autoridades competentes espanhola e portuguesas, respectivamente, considerando que nos casos de concessão de prestações em espécie a que se referem as alíneas a), c) e d) do n.º 1 do artigo 9.º e os n.os 2 e 3 do artigo 10.º, n.º 1, da mesma Convenção as despesas reais no que se refere especificamente às despesas com medicamentos, provocadas pela concessão das mencionadas prestações, não são facilmente verificadas pelo Instituto Nacional de Saúde espanhol nem pelas administrações regionais de saúde portuguesas, acordam, baseando-se na segunda parte do artigo 20.º do Acordo Administrativo de 22 de Maio de 1970, em conjugação com o artigo 10.º da Convenção Geral, que o reembolso das mencionadas despesas se efectue da forma seguinte:
+1) As direcções provinciais do Instituto Nacional de Segurança Social e as administrações regionais de saúde, respectivamente em Espanha e Portugal, consignarão em conta as despesas realmente efectuadas nos casos previstos nas alíneas a), c) e d) do n.º 1 do artigo 9.º e nos n.os 2 e 3 do artigo 10.º, n.º 1, da Convenção Geral com a concessão das prestações em espécie, com excepção dos medicamentos. Pelos medicamentos concedidos debitar-se-á ao organismo competente do outro país uma quota global por cada processo de doença de um segurado ou de um familiar.
+2) A quota global a que se refere o número anterior será igual à calculada anualmente em Espanha pelo Instituto Nacional de Segurança Social e em Portugal pelo Departamento de Gestão Financeira dos Serviços de Saúde, com base nos dados estatísticos e contabilísticos, conforme resulte dos seus balanços e estatísticas oficiais. No referido cálculo tomar-se-á em consideração a dedução que, em média, corresponda à comparticipação do segurado no custo dos medicamentos, na forma e com as excepções que estabeleça a legislação aplicável.
+3) A quota estabelecida para cada ano aplicar-se-á a cada um dos processos de doença finalizados no decurso do ano em causa.
+4) Os organismos de ligação dos dois países, designados no artigo 50.º do Acordo Administrativo de 22 de Maio de 1970, notificar-se-ão reciprocamente da quota global que se calcule para cada ano.
+5) Para efeitos de liquidação, inscrever-se-á a quota global, aplicável em cada ano, na parte relativa a «Produtos farmacêuticos» do Formulário PE - 10 «Liquidação individual de despesas com assistência médica e medicamentosa».
+6) o presente Acordo, que substitui o Acordo celebrado em 6 de Maio de 1971, produzirá efeitos desde 1 de Janeiro de 1984.
+Este Acordo considerar-se-á tacitamente prorrogado de ano a ano, enquanto não for denunciado por qualquer das autoridades atrás mencionadas, com uma antecedência mínima de 3 meses relativamente à data da expiração dos prazos anuais.
+Feito em 11 de Julho de 1984, em 4 exemplares, 2 em língua espanhola e 2 em língua portuguesa, fazendo fé igualmente ambos os textos.
+Pelos Ministros do Trabalho e Segurança Social e da Saúde:
+José L. de C. Henriques de Jesus, Presidente da Comissão Administrativa do Departamento de Relações Internacionais e Convenções de Segurança Social.
+Pelo Ministro do Trabalho e Segurança Social:
+Javier Alonso Martin, Jefe del Servicio de Asuntos Internacionales de Seguridad Social del Ministério del Trabajo y Seguridad Social.
+
+(ver documento original)
