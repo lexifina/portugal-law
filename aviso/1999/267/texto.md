@@ -1,0 +1,5 @@
+Aviso n.º 267/99
+Por ordem superior se torna público que, por nota de 30 de Novembro de 1999, o Ministério dos Negócios Estrangeiros da República Francesa, na sua qualidade de depositário da Emenda de 31 de Maio de 1988 à Convenção Internacional Relativa a Exposições Internacionais, assinada em Paris, em 22 de Novembro de 1928, comunicou ter o Governo de Portugal notificado, em 23 de Novembro de 1999, que a referida Emenda foi estendida ao território de Macau, nos mesmos termos em que a ela se encontra vinculado o Estado Português.
+Portugal é Parte na Emenda, que foi aprovada, para ratificação, pelo Decreto n.º 10/92, de 11 de Fevereiro, publicado no Diário da República, 1.ª série-A, n.º 35, de 11 de Fevereiro de 1992, e foi estendida ao território de Macau pelo Decreto do Presidente da República n.º 219/99, de 16 de Novembro, publicado no Diário da República, 1.ª série-A, n.º 267, de 16 de Novembro de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 9 de Dezembro de 1999. - António Nunes de Carvalho Santana Carlos.
