@@ -1,0 +1,34 @@
+Despacho
+No âmbito da execução do Programa Nacional de Emprego (PNE), a criação de comissões regionais e locais de emprego (CRE e CLE) deve corresponder à necessidade de identificar e resolver iniciativas, projectos e problemas de emprego. Por isso, a sua criação se fará progressivamente tendo em conta as características das áreas mais afectadas por problemas de emprego e considerando que as atribuições a prosseguir exigem um contacto directo com as populações e seus problemas. De igual modo se pretende que estas comissões possam servir de primeiro teste à implantação de uma nova orgânica de planeamento regional, cuja estruturação formal neste momento se apresenta como inoportuna, por inconsequente e não adequada.
+As peculiares características do mercado de trabalho do Algarve, até há meses essencialmente dinamizado pelo turismo - construção e exploração de empreendimentos turísticos e hoteleiros -, determinaram uma maior incidência da actual crise de emprego no distrito de Faro, a par de uma também maior dificuldade de recuperação. Na verdade, a grande maioria dos empreendimentos - construção de unidades hoteleiras de luxo e de grande luxo e de aldeamentos também luxuosos e segregados do meio humano autóctone -, visando quer o chamado «turismo de qualidade» quer uma especulação desenfreada na venda de imóveis, não tem mais viabilidade no caminho para o socialismo que prosseguimos.
+As actividades tradicionais da região foram arrastadas para a órbita do turismo ou simplesmente marginalizadas, tendo-se dispensado a procura de soluções alternativas para o desenvolvimento da região. Importa, por isso, acelerar a recuperação desta situação.
+O estabelecimento das soluções alternativas para os problemas do emprego desta região, incluindo uma certa diversificação das actividades e a definição de novos caminhos para o turismo, passa por uma articulação, a conseguir urgentemente, das iniciativas e projectos dos próprios trabalhadores com os grandes projectos e programas nacionais.
+A especificidade dos problemas de emprego do distrito de Faro, no turismo, na construção civil e até nas pescas, na agricultura, na indústria conserveira ou na da cortiça, impõem seguir vias adequadas de solução. Daqui a necessidade de fazer uma primeira tentativa para adaptar a composição, as regras de funcionamento e atribuições da Comissão Regional de Emprego para o Algarve às características dos problemas concretos e mais urgentes a resolver nesta região.
+Considera-se, ainda, existirem condições que possibilitam à Comissão Regional de Emprego para o Algarve o desempenho das atribuições definidas no PNE e no despacho do Sr. Primeiro-Ministro de 5 do corrente.
+A CRE criada por este despacho não será uma estrutura estável, imutável e definitiva. A sua criação obedece a imperativos essencialmente pragmáticos e decorre da necessidade de se montar uma instância flexível e adaptável, com capacidade de resposta face a problemas concretos cuja solução se não compadece com atrasos e burocracias inoperantes.
+Assim, ao abrigo do estabelecido no Programa Nacional de Emprego (bases gerais), aprovado pelo Decreto-Lei n.º 203-C/75, de 15 de Abril, e de harmonia com o despacho do Primeiro-Ministro de 5 de Maio corrente, manda o Governo, pelo Ministro para o Planeamento e Coordenação Económica, o seguinte:
+1. É criada uma Comissão Regional de Emprego para o Algarve com o fim de, nos termos definidos nas bases gerais do PNE, acompanhar, controlar e dinamizar a execução e desenvolvimento deste Programa a nível regional, nomeadamente nos aspectos contemplados no n.º 9 do despacho do Primeiro-Ministro de 5 de Maio corrente. Em especial, a Comissão procurará:
+a) Efectuar a inventariação das necessidades, em termos de emprego, da região com vista ao aproveitamento possível dos recursos humanos existentes;
+b) Articular estreitamente o seu funcionamento com a comissão administrativa para as empresas turísticas do Algarve, em ordem à definição de soluções alternativas para os problemas de emprego;
+c) Acompanhar a inventariação de necessidades em equipamento social, assim como a execução dos projectos a realizar neste domínio;
+d) Inventariar as necessidades da reconversão e formação profissionais, face a projectos de emprego concretos.
+2. A CRE para o Algarve terá, para já, a seguinte composição:
+Governador civil de Faro, que presidirá;
+Um delegado do MFA, a designar pela 5.ª Divisão do Estado-Maior-General das Forças Armadas;
+Director do Gabinete de Planeamento do Algarve (transitoriamente este lugar será desempenhado pelo comissário do Governo para o Planeamento);
+Dois representantes do Ministério do Trabalho (um da Secretaria de Estado do Trabalho e o delegado regional da Direcção-Geral do Emprego);
+Coordenador agrícola do Algarve;
+Um representante da Secretaria de Estado das Pescas;
+Um representante da Secretaria de Estado do Turismo;
+Um representante da União dos Sindicatos de Faro (Intersindical).
+3. A fim de assegurar a participação das autarquias locais, a CRE para o Algarve reunirá regularmente com assembleias de municípios plenas ou restritas, consoante a natureza dos assuntos a tratar.
+4. Enquanto não existir uma estrutura associativa consistente, a Comissão consultará periodicamente os representantes dos pequenos e médios empresários.
+5. A Comissão poderá, eventualmente, alargar a sua composição integrando no seu seio elementos representativos dos interesses da região.
+6. A Comissão poderá, quando os assuntos a tratar o exijam, fazer participar dos seus trabalhos os responsáveis pelos serviços regionais dependentes da Administração Central, nomeadamente no que se refere ao equipamento social e infra-estruturas para o abastecimento.
+7. A Comissão deve estabelecer uma articulação permanente com o Gabinete de Planeamento do Algarve.
+8. De harmonia com o estabelecido no PNE, o Governo Civil e os departamentos públicos com implantação regional, consoante as matérias em causa, darão à CRE todo o apoio administrativo necessário ao desempenho das suas atribuições.
+9. As despesas referentes à participação dos membros da Comissão nos seus trabalhos, transportes e ajudas de custo incluídas serão suportadas pelos serviços a que pertencem.
+10. A União dos Sindicatos de Faro poderá ser indemnizada das despesas feitas com a sua representação, nos termos que vierem a ser definidos em despacho conjunto com o Ministro das Finanças.
+11. A CRE poderá corresponder-se, através do Governo Civil, com quaisquer entidades públicas ou privadas.
+12. A CRE para o Algarve manterá uma ligação constante com a Comissão Executiva Permanente do PNE, a funcionar no Ministério para o Planeamento e Coordenação Económica, directamente ou através da equipa de apoio técnico regional.
+Ministério para o Planeamento e Coordenação Económica, 9 de Maio de 1975. - O Ministro para o Planeamento e Coordenação Económica, Mário Luís da Silva Murteira.
