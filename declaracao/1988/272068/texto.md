@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério das Finanças, o Despacho Normativo n.º 72/88, publicado no Diário da República, 1.ª série, n.º 190, de 18 de Agosto de 1988, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No mapa anexo, no total, onde se lê «4270» deve ler-se «4290», e nas observações, onde se lê «(e) Sendo um mordono» deve ler-se «(e) Sendo um mordomo» e onde se lê «(f) Sendo um para a Missão Permanente junto da OCDE» deve ler-se «(f) Incluindo pessoal especializado do Ministério dos Negócios Estrangeiros nas condições definidas pelo Decreto-Lei n.º 133/85, de 2 de Maio».
+Secretaria-Geral da Presidência do Conselho de Ministros, 5 de Setembro de 1988. - Pelo Secretário-Geral, o Director dos Serviços Administrativos, José Serra.
