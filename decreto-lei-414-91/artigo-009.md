@@ -18,7 +18,7 @@ Licenciaturas em Ciências Farmacêuticas e antigas licenciaturas em Farmácia e
 
 Ramo de física hospitalar:
 
-Licenciaturas em Física, Físico-Químicas e Engenharia Física;
+Licenciaturas em Física, Físico-Químicas e Engenharia Física, Física Aplicada, Física Tecnológica e Engenharia Física Tecnológica;
 
 Ramo de genética:
 
