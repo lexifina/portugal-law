@@ -1,0 +1,13 @@
+Declaração
+Segundo comunicação do Departamento da Defesa Nacional, Gabinete do Ministro, a Portaria n.º 24449, publicada no Diário do Governo, 1.ª série, 282, de 3 de Dezembro de 1969, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê:
+... ...
+Despesas com o pessoal:
+... ...
+Artigo 2.º, n.º 2) «Remunerações acidentais - Subvenção de campanha» - 1000000$00
+deve ler-se:
+... ...
+Despesas com o pessoal:
+... ...
+Artigo 2.º, n.º 1) «Remunerações acidentais - Gratificações» ... - 1000000$00
+Secretaria-Geral da Presidência do Conselho, 6 de Fevereiro de 1970. - O Secretário-Geral, Diogo de Paiva Brandão.
