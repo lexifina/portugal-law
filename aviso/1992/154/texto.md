@@ -1,0 +1,5 @@
+Aviso n.º 154/92
+Por ordem superior se torna público que, por nota de 13 de Agosto de 1992, o Bureau Permanente da Conferência da Haia de Direito Internacional Privado informou que, nos termos do artigo 38.º, parágrafo 4.º, da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980, o Reino Unido da Grã-Bretanha e Irlanda do Norte declarou, em 3 de Agosto de 1992, aceitar a adesão do Burkina Faso à mencionada Convenção.
+Nos termos do artigo 38.º, parágrafo 5.º, a Convenção entrará em vigor entre o Burkina Faso e o Reino Unido em 1 de Novembro de 1992.
+Portugal é Parte na mesma Convenção, aprovada, para ratificação, pelo Decreto do Governo n.º 33/83, de 11 de Agosto, tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 3 de Maio de 1984.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 27 de Agosto de 1992. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
