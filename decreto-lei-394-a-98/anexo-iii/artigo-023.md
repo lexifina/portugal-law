@@ -6,7 +6,7 @@
 
 a) Pela assinatura de dois membros do conselho de administração;
 
-b) Pela assinatura do administrador-delegado, dentro dos limites delegados pelo conselho;
+b) Pela assinatura do presidente da comissão executiva, dentro dos limites delegados pelo conselho;
 
 c) Pela assinatura de um dos administradores e de um director ou mandatário, no âmbito dos poderes que lhe tenham sido conferidos.
 

@@ -2,7 +2,7 @@
 
 ### Acções
 
-1 - O capital social é representado por acções ordinárias de 1000$00 cada uma.
+1 - O capital social é representado por 1000000 de acções ordinárias de (euro) 5 cada.
 
 2 - As acções são escriturais, ficando sujeitas ao regime das acções nominativas.
 

@@ -6,7 +6,7 @@
 
 2 - As indemnizações compensatórias consistirão em dotações pecuniárias ou em outras medidas com vista a equilibrar financeiramente a exploração do sistema e serão objecto dos seguintes contratos-programa a celebrar entre o Estado e a concessionária:
 
-a) O primeiro, a ser celebrado no prazo de 18 meses a contar da publicação do diploma que aprova as presentes bases, respeitante ao período inicial de operação do sistema;
+a) O primeiro, a ser celebrado até um ano antes da entrada em serviço do primeiro troço do sistema;
 
 b) O segundo, a ser celebrado no prazo de 18 meses após a entrada em funcionamento de todo o sistema, respeitante aos 5 anos seguintes ao termo do período inicial de operação do sistema.
 

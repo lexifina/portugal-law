@@ -6,10 +6,8 @@
 
 ### Capital
 
-O capital social é de 1 milhão de contos, e é realizado da seguinte forma:
+O capital social é de (euro) 5000000 e é realizado da seguinte forma:
 
-a) 410000 contos, já realizados, em dinheiro;
+a) (euro) 4300000, já realizados, em dinheiro;
 
-b) 290000 contos, a realizar em dinheiro, até decorridos três anos sobre a presente data;
-
-c) 300000 contos, já realizados por entrada em espécie, consistente na conversão dos suprimentos da accionista CP - Caminhos de Ferro Portugueses, E. P. (CP).
+b) (euro) 700000, a realizar em dinheiro pelo accionista área metropolitana do Porto, até 16 de Dezembro de 2001.

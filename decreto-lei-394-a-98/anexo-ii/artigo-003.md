@@ -16,20 +16,22 @@ d) A estimativa e avaliação dos imóveis a expropriar a terceiros, assim como 
 
 2 - A assembleia geral da MP deverá aprovar o aludido estudo económico até 31 de Maio de 1999 com pelo menos 80% de votos representativos do capital social, pelo que os accionistas AMP, CP e ML ou aqueles que entretanto lhes sucederem na titularidade de acções se comprometem a assegurar este quórum constitutivo e deliberativo.
 
-3 - A AMP assegura perante os restantes sócios da Metro do Porto, S. A., atendendo ao disposto no artigo 11.º, que os municípios abrangidos pelo sistema realizarão prestações acessórias de capital, constituídas pelos bens e valores correspondentes aos direitos referidos na alínea c) do n.º 1 e também pelos imóveis necessários à construção dos acessos e dos interfaces, nos termos e condições seguintes:
+3 - A AMP assegura perante os restantes sócios da Metro do Porto, S. A., atendendo ao disposto no artigo 11.º, que os municípios abrangidos pelo sistema realizarão prestações acessórias de capital, constituídas pelos bens e valores correspondentes aos direitos referidos nas alínea c) do n.º 1 e também pelos imóveis necessários à construção dos acessos ao sistema, dos interfaces e das obras de requalificação urbana decorrentes nos termos e condições seguintes:
 
-a) O valor das prestações acessórias de capital de cada município corresponderá aos valores dos imóveis e direitos a que se referem as alíneas ci) e cii) do n.º 1 e aos valores dos imóveis necessários à construção dos acessos e dos interfaces, a que se refere o corpo deste n.º 3, que cada um tenha transferido para o MP;
+a) O valor das prestações acessórias de capital de cada município corresponderá aos valores dos imóveis e direitos a que se referem as alíneas ci) e cii) do n.º 1 e aos valores dos imóveis necessários à construção dos acessos ao sistema, dos interfaces e das obras de requalificação urbana, a que se refere o corpo deste n.º 3, que cada um tenha transferido para a MP;
 
 b) A entrada será feita antes do início dos trabalhos a que a utilização directa respeita;
 
 c) A atribuição do valor aos bens deverá corresponder ao seu valor de mercado, fixado o mais objectivamente possível, mas com atenção ao fim público a que se destina e será confirmada por parecer conjunto realizado por dois revisores oficiais de contas de reconhecida idoneidade, independentes tanto da MP como dos seus sócios, inclusive de qualquer dos municípios da área metropolitana do Porto.
 
-4 - A STCP, o Estado e a CP serão obrigados a realizar prestações acessórias de capital, por entradas em espécie, através da transferência de imóveis ou outros bens ou direitos dominiais, designadamente o direito de uso de bens do domínio público, no valor correspondente aos custos referidos na alínea d) no n.º 1.º Ao valor das expropriações, porém, corresponderão sempre prestações acessórias em dinheiro a realizar pelo Estado, que a tal se obriga.
+4 - O Estado poderá, todavia, e em substituição da obrigação dos municípios referida no n.º 3, realizar segundo o seu critério prestações acessórias de capital, em dinheiro ou em espécie, independentemente de chamada ou do consentimento dos outros accionistas, para cobertura dos custos de construção dos acessos, dos interfaces e das obras de requalificação urbana.
 
-5 - Se o valor efectivo dos custos estimados e previstos nas alíneas a) e b) do n.º 1 ultrapassar comprovadamente o valor constante do estudo económico, para além das prestações acessórias reguladas nos dois números anteriores, os accionistas da MP poderão ser chamados a realizar outras prestações acessórias por entradas em dinheiro, no montante proporcional à sua participação no capital social.
+5 - A STCP, o Estado e a CP serão obrigados a realizar prestações acessórias de capital, por entradas em espécie, através da transferência de imóveis ou outros bens ou direitos dominiais, designadamente o direito de uso de bens do domínio público, no valor correspondente aos custos referidos na alínea d) no n.º 1.º Ao valor das expropriações, porém, corresponderão sempre prestações acessórias em dinheiro a realizar pelo Estado, que a tal se obriga.
 
-6 - A chamada para a realização das prestações acessórias de capital, quer em dinheiro, quer em espécie, dependerá de deliberação da assembleia geral, sem prejuízo do disposto no número seguinte.
+6 - Se o valor efectivo dos custos estimados e previstos nas alíneas a) e b) do n.º 1 ultrapassar comprovadamente o valor constante do estudo económico, para além das prestações acessórias reguladas nos três números anteriores, os accionistas da MP poderão ser chamados a realizar outras prestações acessórias por entradas em dinheiro, no montante proporcional à sua participação no capital social.
 
-7 - Qualquer accionista poderá, independentemente de chamada pelos outros sócios, ou autorização dos órgãos sociais, realizar prestações acessórias de capital até ao quádruplo do valor da sua participação social.
+7 - A chamada para a realização das prestações acessórias de capital, quer em dinheiro quer em espécie, dependerá de deliberação da assembleia geral, sem prejuízo do disposto no n.º 4 e no número seguinte.
 
-8 - As prestações acessórias, qualquer que seja a natureza da entrada ou o seu regime, serão sempre feitas a título gratuito.
+8 - Qualquer accionista poderá, independentemente de chamada pelos outros sócios, ou autorização dos órgãos sociais, realizar prestações acessórias de capital até ao quádruplo do valor da sua participação social.
+
+9 - As prestações acessórias, qualquer que seja a natureza da entrada ou o seu regime, serão sempre feitas a título gratuito.

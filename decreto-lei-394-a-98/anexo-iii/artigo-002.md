@@ -2,4 +2,4 @@
 
 ### Sede
 
-A sede da sociedade é na Avenida dos Aliados, 133, 3.º, Porto.
+A sede da sociedade é na Avenida de Fernão de Magalhães, 1862, 7.º, Porto.
