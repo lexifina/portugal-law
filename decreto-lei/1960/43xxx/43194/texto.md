@@ -1,0 +1,7 @@
+Decreto-Lei n.º 43194
+Considerando as possibilidades de exportação da nossa indústria de lanifícios e as dificuldades de colocação dos produtos fabricados por essa mesma indústria nos mercados externos;
+Considerando que para facilitar a colocação desses produtos de torna conveniente estender à indústria de lanifícios o benefício de isenção de direitos de exportação que tem sido concedido à indústria do algodão pelo Decreto-Lei n.º 42374, de 9 de Julho de 1959;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É isenta do pagamento dos direitos da respectiva pauta a exportação para o estrangeiro de fios, tecidos e respctivas obras de lã ou de mistos de lã e fibras artificiais ou sintéticas.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 24 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
