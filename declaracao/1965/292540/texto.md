@@ -1,0 +1,13 @@
+Declaração
+Segundo comunicação da 4.ª Repartição da Direcção-Geral da Contabilidade Pública, a declaração de transferência de verba publicada no Diário do Governo n.º 150, 1.ª série, de 8 do corrente, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a inexactidão seguinte, que assim se rectifica:
+Onde se lê:
+CAPÍTULO 5.º
+...
+Artigo 320.º «Remunerações certas ao pessoal em exercício»:
+...
+deve ler-se:
+CAPÍTULO 5.º
+...
+Artigo 370.º «Remunerações certas ao pessoal em exercício»:
+...
+Secretaria-Geral da Presidência do Conselho, 20 de Julho de 1965. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
