@@ -1,0 +1,3 @@
+Resolução n.º 53/80
+Considerando o disposto no n.º 2 do artigo 23.º do Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 831/76, de 25 de Novembro, na redacção dada pelo artigo 2.º do Decreto-Lei n.º 387/77, de 14 de Setembro, o Conselho de Ministros, reunido em 26 de Janeiro de 1980, resolveu autorizar o engenheiro Pedro José Rodrigues Pires de Miranda a acumular as funções de membro do conselho de gerência da empresa pública Petróleos de Portugal, E. P., com as de embaixador dos serviços externos, para que foi nomeado pelo Decreto-Lei n.º 8/80, de 26 de Janeiro.
+Presidência do Conselho de Ministros, 26 de Janeiro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
