@@ -1,0 +1,5 @@
+Portaria n.º 19395
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com a alínea e) do artigo 3.º do mesmo decreto, com a nova redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir um crédito especial de 1000000$00, destinado a reforçar a verba do capítulo 4.º, artigo 38.º, n.º 1), alínea a) «Administração geral e fiscalização - Serviços de administração civil - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da tabela de despesa ordinária do orçamento geral da Guiné para o corrente ano, tomando como contrapartida o excesso de cobrança sobre a previsão da verba do capítulo 8.º, artigo 73-A, do orçamento da receita ordinária.
+Ministério do Ultramar, 17 de Setembro de 1962. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial da Guiné. - J. da Costa Freitas.
