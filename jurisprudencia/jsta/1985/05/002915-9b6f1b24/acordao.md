@@ -1,0 +1,59 @@
+# Acórdão do Supremo Tribunal Administrativo de 1985-05-22, processo 002915
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 002915
+
+**Data do Acordão:** 05/22/1985
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** MANUEL SALVADOR
+
+**Descritores:** CONTRIBUIÇÃO INDUSTRIAL; MATERIA COLECTAVEL; ERRO NOS PRESSUPOSTOS DE FACTO; IMPUGNAÇÃO JUDICIAL; VENDA ABAIXO DO CUSTO; PREJUIZO PARA A FAZENDA NACIONAL; CONCEITO VAGO OU INDETERMINADO; LIVRE CONVICÇÃO DO JULGADOR
+
+**Nº Convencional:** JSTA00003570
+
+**Nº do Documento:** SA219850522002915
+
+**Data de Entrada:** 07/13/1984
+
+**Recorrente:** FAZENDA NACIONAL
+
+**Recorrido 1:** FLORES & QUADRADO LDA
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 0
+
+**Página:** 0
+
+**Apêndice:** DR
+
+**Data do Apêndice:** 11/27/1985
+
+**1ª Pág. de Publicação do Acordão:** 257
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC T2INSTCI.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR FISC - CONTRIB INDUSTRIAL. DIR PROC TRIBUT CONT.
+
+**Legislação Nacional:** CCI63 ART51 A ART138.; DL 503-B/76 DE 1976/06/30.; DL 41204 DE 1957/07/24 ART24 N1 C.
+
+**Jurisprudência Nacional:** AC STA 2 SECÇÃO DE 1983/06/23 IN AD N262 PAG1165.; AC STA 2 SECÇÃO DE 1983/10/13 IN AD N265 PAG21.
+
+**Referência a Doutrina:** PIRES DE LIMA IN RLJ ANO102 PAG137.; BMJ N110 PAG42.; ANTUNES VARELA IN RDES N4 PAG82.; MANUEL DE ANDRADE IN BOLETIM DA FACULDADE DE DIREITO DE COIMBRA 1946 PAG288-289.; BARBOSA DE MAGALHÃES ESTUDOS DE DIREITO PRIVADO VI PAG348.; COELHO DA ROCHA INSTITUIÇÕES DE DIREITO CIVIL PORTUGUES 4ED VI.; ROGERIO FERNANDES FERREIRA A TRIBUTAÇÃO DO LUCRO REAL PAG305-306.; CUNHA GONÇALVES TRATADO DE DIREITO CIVIL EM COMENTARIO AO CODIGO CIVIL PORTUGUES VI PAG478.; BMJ N74 PAG203.; BMJ N85 PAG296.; DIAS MARQUES INTRODUÇÃO AO ESTUDO DO DIREITO PAG286.; LOBÃO CASOS 1915 PAG62.; TEIXEIRA RIBEIRO A CONTRA-REFORMA FISCAL.; VIRGILIO RIBEIRO O ESTADO DE DIREITO PAG89.; CASTANHEIRA NEVES QUESTÃO DE FACTO PAG357-416.; ALBERTO XAVIER MANUALDE DIREITO FISCAL VI PAG124-128.; LAREZ METODOLOGIA DA CIENCIA DO DIREITO PAG327.; Texto Integral
+
+## Sumário
+
+O poder de corrigir o lucro tributavel e contenciosamente impugnavel quanto aos pressupostos.
+
+A correcção para determinar o lucro tributavel não e legal se a venda de mercadorias abaixo do custo não foi feita para prejudicar a Fazenda Nacional.
+
+Os conceitos indeterminados permitem uma margem de apreciação ao julgador.
