@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1937/01/01200/00350035.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1937-01-15",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "ffa5100132e47373274a4c0844c87f32566f60996c6afe01be4446e990438b66",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.7,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "3a97ca73b2d39b0c900f5c6d49892d637d7cd0c6a9a88af3c6fb155012104eaa",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 143
 }
