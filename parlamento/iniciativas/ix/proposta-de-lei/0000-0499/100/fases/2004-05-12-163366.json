@@ -1,0 +1,599 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "100",
+    "id": "19895",
+    "titulo": "Aprova o Regime Jurídico do Contrato Individual de Trabalho na Administração Pública."
+  },
+  "fase": "Discussão generalidade decreto",
+  "codigo_fase": "440",
+  "data_registo": "2004-05-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3175",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "440",
+    "Comissao": null,
+    "DataFase": "2004-05-12",
+    "EvtId": "20",
+    "Fase": "Discussão generalidade decreto",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-05-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149559",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4757-4757"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-13",
+                "pubLeg": "IX",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/087/2004-05-13/4757?pgs=4757&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Regime Jurídico do Contrato Individual de Trabalho na Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "114",
+                "nome": "Maria Leonor Beleza"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149560",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4757-4758",
+                  "4768-4769"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-13",
+                "pubLeg": "IX",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/087/2004-05-13/4757?pgs=4757-4758,4768-4769&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Regime Jurídico do Contrato Individual de Trabalho na Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1992",
+                "nome": "Pedro Roque"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149561",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4758-4759"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-13",
+                "pubLeg": "IX",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/087/2004-05-13/4758?pgs=4758-4759&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Regime Jurídico do Contrato Individual de Trabalho na Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "159",
+                "nome": "Artur Penedos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149562",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4759-4761",
+                  "4769-4770"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-13",
+                "pubLeg": "IX",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/087/2004-05-13/4759?pgs=4759-4761,4769-4770&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Regime Jurídico do Contrato Individual de Trabalho na Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149563",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4761-4764"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-13",
+                "pubLeg": "IX",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/087/2004-05-13/4761?pgs=4761-4764&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Regime Jurídico do Contrato Individual de Trabalho na Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "159",
+                "nome": "Artur Penedos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149564",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4762-4763"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-13",
+                "pubLeg": "IX",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/087/2004-05-13/4762?pgs=4762-4763&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Regime Jurídico do Contrato Individual de Trabalho na Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "210",
+                "nome": "Jerónimo de Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149565",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4764-4765"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-13",
+                "pubLeg": "IX",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/087/2004-05-13/4764?pgs=4764-4765&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Regime Jurídico do Contrato Individual de Trabalho na Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149566",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4765-4766"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-13",
+                "pubLeg": "IX",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/087/2004-05-13/4765?pgs=4765-4766&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Regime Jurídico do Contrato Individual de Trabalho na Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "840",
+                "nome": "Álvaro Saraiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149567",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4766-4766"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-13",
+                "pubLeg": "IX",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/087/2004-05-13/4766?pgs=4766&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Regime Jurídico do Contrato Individual de Trabalho na Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADMINISTRAÇÃO  PÚBLICA",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Suzana Toscano"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149568",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4767-4768"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-13",
+                "pubLeg": "IX",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/087/2004-05-13/4767?pgs=4767-4768&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Regime Jurídico do Contrato Individual de Trabalho na Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149569",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4769-4769"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-13",
+                "pubLeg": "IX",
+                "pubNr": "87",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/087/2004-05-13/4769?pgs=4769&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Regime Jurídico do Contrato Individual de Trabalho na Administração Pública.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "163366",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3175",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-05-13",
+        "pubLeg": "IX",
+        "pubNr": "87",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/087/2004-05-13?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
