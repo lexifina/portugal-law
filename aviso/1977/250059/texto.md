@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em conformidade com o n.º 4 do Acordo, por troca de notas, entre os Governos de Portugal e da Noruega, sobre a pesca por navios portugueses na zona económica norueguesa das 200 milhas, publicado no Diário da República, 1.ª série, n.º 120, de 24 de Maio de 1977 (Decreto-Lei n.º 77/77), o referido Acordo entrou efectivamente em vigor no dia 26 de Maio de 1977, data em que foram preenchidas as formalidades constitucionais referentes à aprovação do mesmo por parte dos Governos de ambos os países signatários.
+Direcção-Geral dos Negócios Económicos, 16 de Junho de 1977. - O Director-Geral Adjunto, Paulo Manuel Lage David Ennes.
