@@ -1,0 +1,21 @@
+Decreto Regulamentar n.º 16/96
+de 28 de Novembro
+No desenvolvimento da aplicação do novo sistema retributivo da função pública, em execução do disposto no artigo 27.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, foi pelo Decreto Regulamentar n.º 24/91, de 27 de Abril, fixado o desenvolvimento indiciário das carreiras e cargos não abrangidos por aquele diploma existentes nos serviços e organismos dependentes do Ministério da Defesa Nacional.
+Verifica-se, porém, que a grelha salarial fixada para a categoria de coordenador administrativo, privativa da Marinha, não levou em consideração e não corresponde às funções exercidas por aquele pessoal, o que importa corrigir através do reajustamento da respectiva estrutura indiciária.
+Corrige-se assim uma situação de injustiça relativa, ocorrida por força da integração da categoria no novo sistema retributivo e que consistiu na inversão remuneratória com a categoria de chefe de secção, anteriormente com uma posição hierárquica e remuneratória inferior.
+Assim:
+Ao abrigo do disposto no artigo 27.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+A escala indiciária da categoria de coordenador administrativo, fixada no mapa II anexo ao Decreto Regulamentar n.º 24/91, de 27 de Abril, é alterada de acordo com o mapa anexo ao presente diploma.
+Artigo 2.º
+O presente diploma produz efeitos a partir do dia 1 do mês seguinte ao da sua publicação.
+Presidência do Conselho de Ministros, 10 de Outubro de 1996.
+António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
+Promulgado em 31 de Outubro de 1996.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 11 de Novembro de 1996.
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
+
+ANEXO
+(ver documento original)
