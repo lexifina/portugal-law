@@ -1,0 +1,13 @@
+## Secção I
+
+## Autorizações
+
+# Artigo 5.º
+
+### Regras gerais
+
+1 - Compete ao presidente do conselho de administração do Instituto Nacional da Farmácia e do Medicamento (INFARMED), com faculdade de delegação nos restantes membros do conselho e em todo o pessoal dirigente do Instituto, proferir os despachos de autorização, revogação ou suspensão das actividades previstas no n.º 1 do artigo 2.º
+
+2 - As autorizações só são concedidas se fundamentadas nas necessidades do País e desde que o uso das substâncias ou preparações seja limitado a fins médicos, médico-veterinários, científicos, analíticos ou didácticos, ressalvadas as excepções previstas nas convenções referidas no artigo 3.º
+
+3 - Para efeito do disposto no n.º 1 do artigo 4.º do Decreto-Lei n.º 15/93, o que se dispõe nos n.os 4 e 5 daquele preceito observa-se quanto aos pedidos apresentados pela primeira vez por entidades ainda não autorizadas para o exercício das actividades previstas neste diploma.
