@@ -1,0 +1,6 @@
+Portaria n.º 831/2003
+de 13 de Agosto
+Tendo sido extintas as cadeias das comarcas de Sintra, Mafra, Vila Franca de Xira, Vila da Feira, Oliveira de Azeméis, Arouca, Baião, Marco de Canaveses, Penafiel, Paredes, Paços de Ferreira, Santo Tirso, Vila do Conde, Póvoa de Varzim, Vila Nova de Famalicão, Montemor-o-Velho, Figueira da Foz, Cantanhede, Oliveira do Hospital, Arganil, Lousã, Figueiró dos Vinhos, Ansião, Soure, Vinhais, Mirandela, Macedo de Cavaleiros, Vila Flor, Mogadouro, Miranda do Douro, Vimioso, Amares, Lousada, Barcelos, Esposende, Vila Verde e Póvoa de Lanhoso, Vieira do Minho, Fafe, Celorico de Basto, Cabeceiras de Basto, Amarante, Mértola, Ourique, Serpa, Moura, Cuba, Lagos e Tavira pela Portaria n.º 374/72, de 7 de Julho, e obtida a concordância da Direcção-Geral dos Serviços Prisionais, verifica-se não haver razões para manter as respectivas zonas de protecção e correspondentes ónus.
+Assim:
+Manda o Governo da República Portuguesa, pelo Ministro das Obras Públicas, Transportes e Habitação, nos termos da alínea g) do artigo 199.º da Constituição, que se proceda à anulação das referidas zonas de protecção e ónus.
+O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues, em 22 de Julho de 2003.
