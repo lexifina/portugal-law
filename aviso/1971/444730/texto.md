@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Conselho de Cooperação Aduaneira, os Governos da Islândia e do Grão-Ducado do Luxemburgo depositaram, em 8 de Dezembro de 1970 e em 16 de Fevereiro de 1971, respectivamente, os seus instrumentos de adesão à Convenção Aduaneira Relativa às Facilidades Concedidas para a Importação de Mercadorias Destinadas a Serem Apresentadas ou Utilizadas Numa Exposição, Feira, Congresso ou Manifestação Similar, concluída em Bruxelas em 8 de Junho de 1961.
+De harmonia com os artigos 16 e 19 da referida Convenção, esta entrou em vigor em 8 de Março de 1971, em relação à Islândia, e entrará em vigor em 16 de Maio de 1971, em relação ao Grão-Ducado do Luxemburgo.
+Direcção-Geral dos Negócios Económicos, 13 de Abril de 1971. - O Adjunto do Director-Geral, Manuel Rodrigues de Almeida Coutinho.
