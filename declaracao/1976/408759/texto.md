@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 643/76, publicado no Diário da República, 1.ª série, n.º 177, de 30 de Julho, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 8.º, onde se lê: «São elevados para 1000000$00 e 1600000$00, respectivamente, os limites fixados no n.º 21.º do artigo 11.º e no artigo 39.º-A do Código da Sisa e do Imposto sobre as Sucessões e Doações», deve ler-se: «São elevados para 1000000$00 e 1600000$00, respectivamente, os limites fixados na alínea c) do n.º 12.º e no n.º 21.º do artigo 11.º, bem como no artigo 39.º-A, do Código da Sisa e do Imposto sobre as Sucessões e Doações.»
+Secretaria-Geral da Presidência do Conselho de Ministros, 13 de Agosto de 1976. - O Secretário-Geral, Alfredo Barroso.
