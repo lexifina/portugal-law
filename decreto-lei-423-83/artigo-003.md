@@ -2,20 +2,24 @@
 
 1 - A utilidade turística só poderá ser atribuída aos seguintes empreendimentos:
 
-a) Estabelecimentos hoteleiros, à excepção das pensões que não sejam albergarias;
+a) Estabelecimentos hoteleiros de interesse para o turismo;
 
 b) Estabelecimentos similares dos hoteleiros classificados como restaurantes;
 
 c) Conjuntos turísticos;
 
-d) Equipamentos de animação, culturais e desportivos, que não constituam ou integrem conjuntos turísticos;
+d) Parques de campismo;
 
-e) Instalações termais;
+e) Equipamentos de animação, culturais e desportivos, que não constituam ou integrem conjuntos turísticos;
 
-f) Casas afectas a turismo de habitação.
+f) Instalações termais;
 
-2 - Os empreendimentos referidos nas alíneas d) e e) do número anterior poderão beneficiar da utilidade turística se forem considerados de interesse para o turismo pela Direcção-Geral do Turismo.
+g) Casas afectas a turismo de habitação.
 
-3 - Dos empreendimentos referidos na alínea e) do n.º 1 são excluídas as instalações destinadas à exploração comercial de águas minerais ou similares.
+2 - Os empreendimentos referidos nas alíneas e) e f) do número anterior poderão beneficiar da utilidade turística, se forem considerados de interesse para o turismo pela Direcção-Geral do Turismo.
 
-4 - A utilidade turística abrange a totalidade dos elementos componentes ou integrantes dos empreendimentos, sem prejuízo do disposto no n.º 3.
+3 - Dos empreendimentos referidos na alínea f) do n.º 1 deste artigo estão excluídas as instalações destinadas à exploração comercial das águas minerais ou similares.
+
+4 - As casas referidas na alínea g) do n.º 1 só poderão beneficiar da utilidade turística quando prevejam a instalação, no máximo, de 3 hóspedes.
+
+5 - A utilidade turística abrange a totalidade dos elementos componentes ou integrantes dos empreendimentos, sem prejuízo do estabelecido no n.º 3.
