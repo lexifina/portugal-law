@@ -4,6 +4,6 @@ Os concursos para as vagas que ocorrerem nos quadros privativos dos governos civ
 
 § 1.º Os concursos serão anunciados no Diário do Govêrno com trinta dias de antecedência, pelo menos, declarando-se sempre o motivo da vacatura.
 
-§ 2.º Cada concurso será válido ùnicamente para o provimento das vagas existentes à data da respectiva abertura.
+§ 2.º O período de validade dos concursos é de três anos, contados da data da publicação dos resultados no Diário do Governo.
 
 § 3.º Os concursos para provimento de lugares dos quadros privativos dos governos civis dos distritos autónomos serão abertos por despacho dos respectivos governadores civis e realizar-se-ão nos governos civis onde a vaga ocorrer, sendo as provas prestadas perante um júri constituído pelo governador civil, o secretário do govêrno civil e o chefe da secretaria da junta geral do distrito, sob a presidência do primeiro.
