@@ -1,0 +1,3 @@
+Portaria n.º 23561
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, com fundamento no disposto nos artigos 6.º, n.º 1.º, e 7.º do Decreto n.º 38909, de 12 de Setembro de 1952, que seja a Comissão Reguladora dos Produtos Químicos e Farmacêuticos autorizada a restituir a importância da taxa cobrada na importação de substâncias activas que tenham por base 2 - cloro - 4 - etilamino - G - isopropilamino - S - triazina, destinadas ao fabrico do herbicida Gesaprime 80, exclusivamente em relação às quantidades exportadas.
+Secretaria de Estado do Comércio, 26 de Agosto de 1968. - O Secretário de Estado do Comércio, Fernando Manuel Alves Machado.
