@@ -1,0 +1,3 @@
+Aviso n.º 31/94
+Por ordem superior se torna público que a Venezuela e o Equador depositaram, junto do Secretário-Geral das Nações Unidas, a 22 e 23 de Fevereiro de 1993, o instrumento de ratificação e de adesão, respectivamente, ao Segundo Protocolo Facultativo ao Pacto Internacional Relativo aos Direitos Civis e Políticos, Visando a Abolição da Pena de Morte, adoptado pela Assembleia Geral das Nações Unidas a 15 de Dezembro de 1989.
+Direcção-Geral dos Negócios Político-Económicos, 30 de Dezembro de 1993. - O Director de Serviços dos Assuntos Multilaterais, António Raul Freitas Monteiro Portugal.
