@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1935/05/11200/06810681.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1935-05-17",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "0061e0571b705a82e017e945d8a40d1eae3dbb6b019a8fc2e8ff5b27ca34202e",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 90.7,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "7ea65e2d44c4d2dce6a2ff215c7620958815887d66aba2922666ccb0b3e88b5e",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 116
 }
