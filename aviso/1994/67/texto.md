@@ -1,0 +1,5 @@
+Aviso n.º 67/94
+Por ordem superior se torna público que o Secretariado Permanente da Conferência da Haia de Direito Internacional Privado informa que em 21 de Outubro de 1993 a Austrália declarou aceitar a adesão de Maurício, do Mónaco, da Polónia e da Roménia à Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980.
+Em conformidade com o artigo 38, alínea 5, a Convenção entra em vigor entre a Austrália e aqueles Estados em 1 de Janeiro de 1994.
+Relativamente a Portugal, a Convenção foi aprovada para ratificação pelo Decreto do Governo n.º 33/83, conforme o Diário da República, n.º 108, de 11 de Agosto de 1983, e o depósito do instrumento de ratificação foi feito em 29 de Setembro de 1983, segundo o Diário da República, n.º 126, de 31 de Maio de 1984. Entrou em vigor para o nosso país em 1 de Dezembro de 1983.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 18 de Janeiro de 1994. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
