@@ -1,0 +1,5 @@
+Declaração
+Para os devidos efeitos se declara que a declaração de rectificação do Decreto-Lei n.º 376/84, do Ministério da Administração Interna, publicada no 2.º suplemento ao Diário da República, 1.ª série, n.º 26, de 31 de Janeiro de 1985, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No Regulamento sobre o Fabrico, Armazenagem, Comércio e Emprego de Produtos Explosivos, onde se lê «No artigo 10.º, onde» deve ler-se «No artigo 10.º, alínea e), onde» e onde se lê «No artigo 34.º, n.º 4, alínea C),» deve ler-se «No artigo 34.º, n.º 4, alínea a),».
+No Regulamento sobre a Fiscalização de Produtos Explosivos, onde se lê «No artigo 9.º, alínea c),» deve ler-se «No artigo 9.º, alínea g),» e onde se lê «No modelo B, onde se lê 'PES. AL: Dirigente': 'nos trabalhos ou nas inutilizações'» deve ler-se «No modelo B, 'Pessoal: Dirigente:' e na nota 6 'nos trabalhos ou nas utilizações'».
+Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Março de 1985. - O Secretário-Geral, França Martins.
