@@ -1,0 +1,4 @@
+Declaração de rectificação n.º 134/91
+Para os devidos efeitos se declara que o Decreto-Lei n.º 184/91, publicado no Diário da República, n.º 113, de 17 de Maio de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No sumário, onde se lê «Admite a acumulação dos subsídios de férias e de Natal nos casos de acumulação de funções públicas ou públicas e privadas ou de pensões de reforma extraordinárias ou de invalidez dos deficientes das Forças Armadas. Revoga diversas normas do Decreto-Lei n.º 496/80, de 20 de Outubro.» deve ler-se «Admite a acumulação dos subsídios de férias e de Natal nos casos de acumulação de funções públicas ou públicas e privadas. Revoga diversas normas do Decreto-Lei n.º 496/80, de 20 de Outubro.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 6 de Junho de 1991. - O Secretário-Geral, França Martins.
