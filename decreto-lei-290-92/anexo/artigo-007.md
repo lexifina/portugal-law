@@ -1,12 +1,8 @@
 # Artigo 7.º
 
-1 - Considera-se transmissão de bens efectuada a título oneroso, para além das previstas no artigo 3.º do Código do IVA, a entrega por um sujeito passivo de um bem móvel corpóreo produzido ou montado sob encomenda no território nacional, desde que se verifiquem simultaneamente as seguintes condições:
+1 - (Eliminado.)
 
-a) Os materiais utilizados tenham sido expedidos ou transportados pelo dono da obra ou por sua conta, a partir do Estado membro em que este se encontre registado para efeitos do IVA;
-
-b) O bem seja expedido ou transportado com destino ao dono da obra, para o Estado membro em que este se encontre registado para efeitos do IVA.
-
-2 - É ainda considerada transmissão de bens efectuada a título oneroso a transferência de bens móveis corpóreos expedidos ou transportados pelo sujeito passivo ou por sua conta, com destino a outro Estado membro, para as necessidades da sua empresa.
+2 - Considera-se transmissão de bens efectuada a título oneroso, para além das previstas no artigo 3.º do Código do IVA, a transferência de bens móveis corpóreos expedidos ou transportados pelo sujeito passivo ou por sua conta, com destino a outro Estado membro, para as necessidades da sua empresa.
 
 3 - Não são, no entanto, consideradas transmissões de bens nos termos do número anterior as seguintes operações:
 
@@ -16,9 +12,9 @@ b) Transferência de bens para serem objecto de transmissão a bordo de um navio
 
 c) Transferência de bens que consista em operações de exportação e operações assimiladas previstas no artigo 14.º do Código do IVA ou em transmissões isentas nos termos do artigo 14.º;
 
-d) Transferência de materiais para serem incorporados em bens móveis corpóreos montados ou produzidos sob encomenda noutro Estado membro cuja entrega ao sujeito passivo se considera uma aquisição intracomunitária de bens nos termos da alínea b) do n.º 1 do artigo 4.º;
+d) (Eliminada.)
 
-e) Transferência de bens para que sobre os mesmos sejam executados quaisquer trabalhos que consistam em prestações de serviços a efectuar ao sujeito passivo no Estado membro de chegada da expedição ou transporte dos bens;
+e) Transferência de bens para serem objecto de peritagens ou quaisquer trabalhos que consistam em prestações de serviços a efectuar ao sujeito passivo, materialmente executadas no Estado membro de chegada da expedição ou transporte dos bens, desde que, após a execução dos referidos trabalhos, os bens sejam reexpedidos para o território nacional com destino ao sujeito passivo;
 
 f) Transferência de bens para serem temporariamente utilizados em prestações de serviços a efectuar pelo sujeito passivo no Estado membro de chegada da expedição ou transporte dos bens;
 

@@ -4,7 +4,7 @@
 
 a) A afectação por um sujeito passivo às necessidades da sua empresa, no território nacional, de um bem expedido ou transportado, por si ou por sua conta, a partir de outro Estado membro no qual o bem tenha sido produzido, extraído, transformado, adquirido ou importado pelo sujeito passivo, no âmbito da sua actividade;
 
-b) A entrega ao sujeito passivo, dono da obra, de um bem móvel corpóreo produzido ou montado sob encomenda noutro Estado membro por um sujeito passivo aí estabelecido ou domiciliado, quando a expedição ou transporte do bem tenha tido início nesse outro Estado membro;
+b) (Eliminada.)
 
 c) A aquisição de bens expedidos ou transportados a partir de um país terceiro e importados noutro Estado membro, quando ambas as operações forem efectuadas por uma pessoa colectiva das referidas na alínea c) do n.º 1 do artigo 2.º
 

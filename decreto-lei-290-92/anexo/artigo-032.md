@@ -8,9 +8,9 @@ b) As transferências de bens expedidos ou transportados pelo sujeito passivo ou
 
 c) A afectação dos bens que não se consideram aquisições intracomunitárias nos termos do n.º 3 do artigo 4.º;
 
-d) Os materiais recebidos pelo sujeito passivo para a execução de um bem móvel corpóreo montado ou produzido sob encomenda que tenham sido expedidos ou transportados pelo dono da obra ou por sua conta, a partir de outro Estado membro no qual este se encontre registado para efeitos do IVA;
+d) Os bens recebidos pelo sujeito passivo que tenham sido expedidos ou transportados, a partir de outro Estado membro para o território nacional, por sujeitos passivos registados para efeitos de IVA em outro Estado membro, ou por sua conta, para que sobre os mesmos sejam executadas peritagens ou quaisquer trabalhos que consistam em prestações de serviços;
 
-e) Os materiais enviados pelo sujeito passivo dono da obra, expedidos ou transportados por este ou por sua conta, a partir do território nacional com destino a outro Estado membro para aí serem incorporados num bem móvel corpóreo montado ou produzido sob encomenda por um sujeito passivo registado para efeitos do IVA nesse outro Estado membro.
+e) Os bens enviados pelo sujeito passivo ou por sua conta, a partir do território nacional, com destino a outro Estado membro, para que sobre os mesmos sejam executadas peritagens ou quaisquer trabalhos que consistam em prestações de serviços.
 
 2 - Para efeitos do disposto na alínea a) do n.º 2 do artigo 44.º do Código do IVA, os sujeitos passivos deverão proceder ao registo das operações de forma a evidenciar:
 
