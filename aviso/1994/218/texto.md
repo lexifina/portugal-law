@@ -1,0 +1,4 @@
+Aviso n.º 218/94
+Por ordem superior se torna público que foram trocados em Lisboa, a 11 de Julho de 1994, os instrumentos de ratificação da Convenção entre a República Portuguesa e a Irlanda para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento e respectivo Protocolo, assinados em Dublim em 1 de Junho de 1993 e aprovados, para ratificação, pela Resolução da Assembleia da Repúbilca n.º 29/94, de 9 de Fevereiro, e ratificados pelo Decreto do Presidente da República n.º 47/94, de 18 de Maio, publicados no Diário da República, n.º 144, de 24 de Junho de 1994.
+Nesta conformidade, e segundo o disposto no seu artigo 28.º, a Convenção e o respectivo Protocolo entraram em vigor em 11 de Julho de 1994.
+Direcção-Geral dos Assuntos Comunitários, 19 de Julho de 1994. - O Subdirector-Geral, Carlos Manuel Durrant Pais.
