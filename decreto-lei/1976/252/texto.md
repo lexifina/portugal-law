@@ -1,0 +1,13 @@
+Decreto-Lei n.º 252/76
+de 7 de Abril
+Tendo em conta que, por força do disposto no artigo 4.º do Decreto-Lei n.º 414/73, de 21 de Agosto, os ajudantes de escrivão dos tribunais comuns foram equiparados, para efeitos de participação emolumentar, aos oficiais de diligências do respectivo tribunal;
+Considerando que se impõe que para os tribunais de trabalho se estabeleça medida legislativa idêntica, já consagrada relativamente aos secretários, chefes de secretaria e escrivães dos tribunais do trabalho através do Decreto-Lei n.º 274-A/75, de 2 de Junho;
+Nestes termos:
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Os ajudantes de escrivão dos tribunais do trabalho são equiparados, para efeitos de participação emolumentar, aos funcionários de idênticas categorias dos tribunais judiciais.
+Art. 2.º Os encargos a que der lugar a execução do presente diploma serão suportados pela receita prevista no artigo 152.º do Decreto-Lei n.º 45698, de 30 de Abril de 1964.
+Art. 3.º A participação emolumentar concedida pelo presente diploma será devida nos termos fixados no Decreto-Lei n.º 274-A/75, de 2 de Junho, e a partir de 1 de Março de 1976.
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João Pedro Tomás Rosa - António Francisco Barroso de Sousa Gomes.
+Promulgado em 26 de Março de 1976.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
