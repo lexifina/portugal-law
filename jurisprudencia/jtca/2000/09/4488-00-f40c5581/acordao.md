@@ -1,0 +1,35 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2000-09-28, processo 4488/00
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 4488/00
+
+**Secção:** Secção do Contencioso Administrativo - Tribunal Central Administrativo
+
+**Data do Acordão:** 09/28/2000
+
+**Relator:** Carlos Maia Rodrigues
+
+**Descritores:** SUSPENSÃO DE EFICÁCIA; COMPETÊNCIA DO TCA
+
+**Aditamento:** 1
+
+## Sumário
+
+I. O Tribunal Central Adminbistrativo é competente para julgar os recursos das decisões dos Tribunais
+
+Administrativos de Círculo, proferidas nos meios processuais acessórios, incluindo a suspensão de
+
+eficácia - qualquer que seja a matéria a que o acto diga respeito - e ainda para julgar (em 1a instância) os
+
+pedidos de suspensão de eficácia dos actos proferidos pelos membros do Governo, mas apenas os
+
+respeitantes ao funcionalismo público - cfr. art. 40º, al. a) e b) do ETAF.
+
+II. Assim, o Tribunal Central Administrativo é incompetente para julgar um pedido de suspensão de
+
+eficácia de um acto proferido pela Ex.ma Senhora Ministra do Planeamento, que indefiriu uma
+
+reclamação de um despacho que "rescindiu" um contrato de incentivos financeiros (Dec. Lei 34/95, de
+
+11 de Fevereiro), uma vez que o mesmo não é um acto relativo ao funcionalismo público.
