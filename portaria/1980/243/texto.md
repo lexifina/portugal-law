@@ -1,0 +1,24 @@
+Portaria n.º 243/80
+de 13 de Maio
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Habitação e Obras Públicas, nos termos e em execução do disposto no Decreto-Lei n.º 515/77, de 14 de Dezembro, o seguinte:
+1.º Os escalões de rendimento a que se refere o n.º 2 do artigo 3.º do Decreto-Lei n.º 515/77, de 14 de Dezembro, serão os seguintes:
+Escalão I - Até 80000$00;
+Escalão II - De 80001$00 a 110000$00;
+Escalão III - De 110001$00 a 130000$00;
+Escalão IV - De 130001$00 a 150000$00;
+Escalão V - De 150001$00 a 170000$00.
+2.º Às classes de construção previstas no n.º 3 do artigo 3.º do decreto-lei referido no n.º 1 correspondem os seguintes valores por metro quadrado:
+Classe A - Até 12000$00;
+Classe B - De 12001$00 a 13000$00;
+Classe C - De 13001$00 a 14000$00;
+Classe D - De 14001$00 a 15000$00.
+3.º O montante máximo dos empréstimos a conceder nos termos do n.º 1 do artigo 4.º do decreto-lei referido no n.º 1 é de 1650000$00.
+4.º O valor máximo dos fogos nos termos do n.º 1 do artigo 4.º do decreto-lei referido no n.º 1 é de 1800000$00.
+5.º As taxas de juro a cargo do mutuário, referidas na alínea a) do n.º 2 do artigo 7.º do Decreto-Lei n.º 515/77, de 14 de Dezembro, serão as fixadas no quadro anexo a esta portaria.
+6.º Fica revogada a Portaria n.º 46/80, de 21 de Fevereiro.
+Ministérios das Finanças e do Plano e da Habitação e Obras Públicas, 30 de Abril de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro da Habitação e Obras Públicas, João Lopes Porto.
+
+Quadro anexo à Portaria n.º 243/80, de 13 de Maio
+Empréstimos para habitação própria, com juros bonificados pelo Estado
+(ver documento original)
+O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro da Habitação e Obras Públicas, João Lopes Porto.
