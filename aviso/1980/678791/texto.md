@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que os Governos da República Popular de Cabo Verde e da República Democrática de S. Tomé e Príncipe depositaram em 24 de Outubro de 1979, junto do Governo da União das Repúblicas Socialistas Soviéticas, o instrumento de adesão ao Tratado Proibindo a Instalação de Armas Nucleares e de Outras Armas de Destruição Maciça no Fundo dos Mares e dos Oceanos, assim como no Seu Subsolo, aberto para assinatura em 11 de Fevereiro de 1971.
+Direcção-Geral dos Negócios Políticos, 12 de Fevereiro de 1980. - O Director-Geral-Adjunto dos Negócios Políticos, António Leal da Costa Lobo.
