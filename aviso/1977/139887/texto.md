@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros enviou à Embaixada da República Popular da Hungria em Lisboa uma nota verbal, datada de 15 de Março de 1977, informando que a parte portuguesa dera já cumprimento às formalidades constitucionais relativas à elaboração e entrada em vigor do Acordo entre o Governo da República Portuguesa e o Governo da República Popular da Hungria sobre a Cooperação no Domínio do Turismo, assinado em Lisboa em 19 de Março de 1976 e publicado no Diário da República, 1.ª série, n.º 59, de 11 de Março de 1977, em resposta a uma nota verbal daquela Embaixada, datada de 30 de Novembro de 1976, que informava estarem cumpridas aquelas formalidades pela parte húngara.
+Nesta conformidade, e segundo o disposto no seu artigo 12.º, o Acordo em apreço entrou em vigor em 15 de Março de 1977.
+Direcção-Geral dos Negócios Económicos, 22 de Março de 1977. - O Director-Geral Adjunto, Paulo Manuel Laje David Ennes.
