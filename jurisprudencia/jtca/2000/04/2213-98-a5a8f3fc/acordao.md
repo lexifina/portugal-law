@@ -1,0 +1,27 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2000-04-06, processo 2213/98
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 2213/98
+
+**Secção:** Contencioso Administrativo- 1.ª subsecção
+
+**Data do Acordão:** 04/06/2000
+
+**Relator:** José Francisco Fonseca da Paz
+
+**Descritores:** ÂMBITO DO RECURSO CONTENCIOSO; ACTO QUE REJEITA RECURSO HIERÁRQUICO; ART24, Nº 3 DL498/88; RECURSO HIERÁRQUICO ÚNICO; RECURSO TUTELAR
+
+**Aditamento:** 1
+
+## Sumário
+
+I - No recurso contencioso interposto de acto que rejeita um recurso gracioso, o recorrente apenas pode impugnar o fundamento concreto da rejeição, sendo irrelevante a alegação de vícios completamente estranhos a tal fundamento.
+
+II - O art. 24º, nº 3, do D.L. nº 498/88, de 30/12, na redacção resultante do D.L. nº 215/95, de 22/8, estabeleceu um regime de recurso hierárquico único do acto de não admissão de um candidato a um concurso, o qual será interposto para o dirigente máximo do serviço se este não for membro do júri ou para o membro do Governo competente se aquele integrar o júri do concurso.
+
+III - Entre o Presidente da Direcção do IDICT e o Ministro do Trabalho e da Solidariedade não existe uma relação de hierarquia mas de tutela.
+
+IV - O acto do Presidente da Direcção do IDICT que decide recurso hierárquico interposto do acto de exclusão de um concurso, praticado pelo júri de que ele não fazia parte, é contenciosamente recorrível, não cabendo dele a interposição de qualquer recurso gracioso, ainda que meramente facultativo.
+
+V - Assim, interposto, para o membro do Governo competente, recurso hierárquico do aludido acto do Presidente da Direcção do IDICT deve o mesmo ser rejeitado, nos termos do art. 173º, al. b), do C.P. Administrativo.
