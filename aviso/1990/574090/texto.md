@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que, por nota de 23 de Maio de 1990, o Departamento Federal dos Negócios Estrangeiros da Suíça notificou que o Reino dos Países Baixos, por nota de 16 de Maio de 1990, tinha informado aquele Departamento que a Convenção Relativa à Emissão de Um Certificado de Capacidade Matrimonial, assinada em Munique em 5 de Setembro de 1980, é aplicável, no que respeita ao Reino dos Países Baixos, igualmente às Antilhas Holandesas e, a partir de 1 de Janeiro de 1986, a Aruba.
+Portugal é parte na presente Convenção, a qual foi aprovada, para ratificação, pelo Decreto do Governo n.º 40/84, de 24 de Julho, tendo depositado o seu instrumento de aprovação em 20 de Novembro de 1984, conforme aviso publicado no Diário da República, 1.ª série, n.º 13, de 16 de Janeiro de 1985.
+A Convenção entrou em vigor para Portugal em 1 de Fevereiro de 1985.
+Secretaria-Geral do Ministério, 19 de Julho de 1990. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
