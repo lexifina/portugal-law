@@ -1,0 +1,4 @@
+Declaração
+Declara-se, para os devidos efeitos, que o Decreto-Lei n.º 288/76, publicado no Diário da República, 1.ª série, n.º 95, de 22 de Abril de 1976, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 7.º, alínea e), onde se lê: «Benefícios fiscais, traduzidos pela possibilidade de isenção o redução da taxa da contribuição industrial, imposto de comércio e indústria adicionais, deduções à matéria colectável ...», deve ler-se: «Benefícios fiscais, traduzidos pela possibilidade de isenção ou redução da taxa da contribuição industrial, imposto de comércio e indústria e adicionais, deduções à matéria colectável ...»
+Secretaria-Geral da Presidência do Conselho de Ministros, 3 de Maio de 1976. - O Secretário-Geral, Manuel Roque.
