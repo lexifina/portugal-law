@@ -1,0 +1,7 @@
+Despacho Normativo n.º 373/80
+O Decreto-Lei n.º 445/80, de 4 de Outubro, constitui o quadro jurídico referencial das medidas relativas à promoção do emprego, sendo complementado, de acordo com o n.º 3 do artigo 11.º do mesmo diploma, com os instrumentos legais actualmente em vigor, embora, e se necessário, revistos se nele não se enquadrarem.
+É de premente conveniência delegar a competência prevista no n.º 5 do citado artigo 11.º no que se refere, sem prejuízo de outras, ao indeferimento liminar dos requerimentos que não preencham, entre outros, os requisitos normativos referentes aos princípios fundamentais da concessão e às condições de acesso e de concessão incluídos em quaisquer dos diplomas acima mencionados.
+Nestes termos, e ao abrigo do n.º 5 do artigo 11.º do Decreto-Lei n.º 445/80, de 4 de Outubro, determino o seguinte:
+1 - É delegada no Secretário de Estado do Emprego a competência para indeferir os requerimentos que não preencham, entre outros, os requisitos normativos referentes aos princípios fundamentais da concessão e às condições de acesso e de concessão incluídos, uns e outros, em quaisquer dos diplomas legais referidos no Decreto-Lei n.º 445/80, de 4 de Outubro.
+2 - O Secretário de Estado do Emprego poderá subdelegar, mediante simples despacho, até aos directores dos serviços centrais e directores regionais, no âmbito do Instituto do Emprego e Formação Profissional, a competência que lhe é conferida pelo presente despacho.
+Ministério do Trabalho, 7 de Novembro de 1980. - O Ministro do Trabalho, Eusébio Marques de Carvalho.
