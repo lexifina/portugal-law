@@ -1,0 +1,3 @@
+Portaria n.º 21523
+Manda o Governo da República Portuguesa, pelo Ministro da Justiça, que, nos termos do n.º 3 do artigo 1.º do Decreto-Lei n.º 46459, de 28 de Julho de 1965, o quadro da secção central de informações e arquivo da secretaria-geral dos tribunais da comarca do Porto seja formado por um lugar de catalogador (escriturário de 1.ª classe) e um de escriturário de 1.ª classe, criados por esta portaria, e pelos lugares de fiel de arquivo (escriturário de 1.ª classe), um de escriturário de 2.ª classe e o de oficial-porteiro, que transitam do quadro actual da referida secretaria-geral.
+Ministério da Justiça, 11 de Setembro de 1965. - O Ministro da Justiça, João de Matos Antunes Varela.
