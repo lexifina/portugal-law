@@ -1,0 +1,10 @@
+Resolução n.º 130/78
+Pela Resolução do Conselho de Ministros n.º 256/77, de 7 de Outubro, foi desintervencionado o grupo de empresas Touring Club de Portugal.
+Da Resolução do Conselho de Ministros n.º 294/77, de 26 de Outubro, onde foram concedidos avales a empresas intervencionadas do sector do turismo, foi excluído o grupo Touring por, entretanto, ter cessado a intervenção do Estado, o qual deveria também ter beneficiado de um aval no montante de 40500 contos.
+O estudo que fundamentou a desintervenção previu, para além deste montante, necessidades de tesouraria adicionais no valor de 19136 contos.
+A não consideração do grupo Touring na resolução já referida baseou-se no pressuposto de que o mesmo conseguiria obter junto do sistema bancário, com a necessária prontidão, o financiamento necessário à continuidade da actividade da empresa até à celebração do contrato de viabilização que a mesma se propunha apresentar ao banco maior credor.
+Considerando que a urgência da concessão do financiamento intercalar, sob risco de irreversível desagregação das sociedades do grupo, é incompatível com o prazo previsto para a conclusão do dossier de propositura do contrato de viabilização, o qual se encontra em fase de reformulação recomendada pelo Crédito Predial Português:
+O Conselho de Ministros, reunido em 19 de Julho de 1978, resolveu:
+Autorizar a concessão do aval do Estado ao financiamento intercalar, até ao montante de 50000 contos, a conceder ao Touring Club de Portugal - Indústria Turística, S. A. R. L., pelo Crédito Predial Português, instituição com a qual a empresa se propõe celebrar contrato de viabilização, ficando a cargo daquela a fiscalização da sua efectiva aplicação.
+O aval será libertado automaticamente com a inclusão do financiamento no contrato de viabilização ou logo que uma garantia hipotecária adicional facultada pelo acréscimo do valor do património da empresa permita substituí-lo por garantia hipotecária.
+Presidência do Conselho de Ministros, 19 de Julho de 1978. - O Primeiro-Ministro, Mário Soares.
