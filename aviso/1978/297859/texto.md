@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em 18 de Janeiro de 1978 o Governo da Mongólia depositou junto do Secretário-Geral das Nações Unidas o instrumento de impugnação das reservas feitas pela República Popular da China aos parágrafos 2, 3 e 4 do artigo 37 da Convenção sobre Relações Diplomáticas, concluída em Viena em 18 de Abril de 1961 (concessão de privilégios aos membros do pessoal não diplomático das missões diplomáticas), de que Portugal é parte sem reservas.
+Secretaria-Geral do Ministério, 20 de Junho de 1978. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
