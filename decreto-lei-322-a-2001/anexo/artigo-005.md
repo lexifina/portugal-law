@@ -1,7 +1,7 @@
 # Artigo 5.º
 
-### Normas de interpretação
+### Interpretação e integração de lacunas
 
-1 - As disposições tabelares não admitem interpretação analógica.
+1 - As disposições tabelares não admitem interpretação extensiva nem integração analógica.
 
 2 - Em caso de dúvida sobre o emolumento devido, cobrar-se-á sempre o menor.

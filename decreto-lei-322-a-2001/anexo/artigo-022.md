@@ -6,138 +6,70 @@
 
 ### Emolumentos do registo comercial
 
-1 - Os emolumentos previstos neste artigo são devidos pelo pedido de registo e têm um valor único, incluindo os montantes relativos aos actos subsequentes de inscrição no ficheiro central de pessoas colectivas e de publicação obrigatória, bem como os montantes a pagar a título de emolumentos pessoais, quando estes sejam devidos.
+... Em euros
 
-2 - Inscrições e averbamentos previstos no n.º 1 do artigo 69.º do Código do Registo Comercial:
+1 - Inscrições e subinscrições:
 
-2.1 - Constituição de pessoas coletivas - (euro) 360;
+1.1 - Constituição de pessoas colectivas ... 56
 
-2.2 - (Revogado pelo Decreto-Lei n.º 116/2008, de 4 de Julho.)
+1 2 - Aumento do capital social ... 63
 
-2.3 - (Revogado pelo Decreto-Lei n.º 116/2008, de 4 de Julho.)
+1.3 - Redução do capital social para cobertura de prejuízos ... 89
 
-2.4 - Alterações ao contrato de sociedade (euro) 200;
+1.4 - Outras alterações do contrato social, com ou sem aumento ou redução de capital social ... 112
 
-2.4.1 - Alterações com aumento ou redução de capital - (euro) 225;
+1.5 - Fusão, cisão ou transformação ... 113
 
-2.5 - Fusão ou cisão:
+1.6 - Dissolução ... 58
 
-2.5.1 - Pelo depósito do projeto de fusão ou cisão - (euro) 120;
+1.7 - Nomeação de órgãos sociais ... 77
 
-2.5.2 - Pela inscrição da fusão ou da cisão - (euro) 200;
+1.8 - Inscrições de penhor, consignação de rendimentos, penhora, arresto, arrolamento e providências cautelares não especificadas ... 75
 
-2.6 - Dissolução - (euro) 200;
+1.9 - Registo de acções ... 112
 
-2.7 - Designação ou recondução dos órgãos sociais, de liquidatários, de administradores de insolvência, revisor oficial de contas, nos termos do n.º 2 do artigo 262.º do Código das Sociedades Comerciais, e de gestores judiciais - (euro) 175;
+1.10 - Outras inscrições ... 112
 
-2.8 - Registo de acções - (euro) 130;
+1.11 - Abrangendo a inscrição mais de um facto, ao emolumento especialmente previsto para o registo do facto principal ou de âmbito mais genérico acresce, por cada facto a mais ... 28
 
-2.9 - Criação de representação permanente, incluindo a simultânea nomeação dos respectivos representantes - (euro) 200;
+1.12 - Pelas subinscrições, designadamente as previstas nas alíneas a) a g) do n.º 1 do artigo 69.º do Código do Registo Comercial ... 36
 
-2.10 - Outras inscrições e averbamentos previstos no n.º 1 do artigo 69.º do Código do Registo Comercial - (euro) 200;
+2 - Registo efectuado por simples depósito ... 49
 
-2.11 - Abrangendo a inscrição mais de um facto, é devido o emolumento mais elevado de entre os previstos para os diversos factos a registar, acrescido de 50% do emolumento correspondente a cada um dos restantes factos.
+3 - Averbamentos às inscrições:
 
-2.12 - Transformação - (euro) 225.
+3.1 - Averbamento de cancelamento ... 72
 
-3 - Registo efectuado por simples depósito, com excepção do registo de prestação de contas (euro) 100.
+3.2 - Averbamento à inscrição não especialmente previsto ... 48
 
-4 - Averbamento a inscrição - (euro) 80;
+4 - Processo de justificação ... 203
 
-4.1 - Pelo registo da cessação de funções de membros de órgãos sociais, de liquidatários, de administradores de insolvência, revisor oficial de contas, bem como de cessação de funções de administrador judicial e de administrador judicial provisório da insolvência - (euro) 100;
+5 - Pela instrução e decisão de processo especial de rectificação, tributadas nos termos do artigo 89.º do Código do Registo Comercial ... 254
 
-4.2 - (Revogado.)
+6 - Pela urgência na feitura de cada registo é devido 50% do emolumento correspondente ao acto.
 
-4.3 - (Revogado.)
+7 - Desistência do pedido de registo ... 20
 
-5 - Justificação:
+8 - Recusa de registo ... 30
 
-5.1 - Processo de justificação - (euro) 200;
+9 - Certidões, fotocópias, informações escritas e certificados:
 
-5.2 - Processo simplificado de justificação - (euro) 150.
+9.1 - Requisição e emissão de certidão negativa ... 26
 
-6 - Pela rectificação efectuada ao abrigo dos artigos 85.º e 86.º do Código do Registo Comercial são devidos os emolumentos correspondentes aos actos de registo realizados em consequência do mesmo, até ao limite de (euro) 250.
+9.2 - Requisição e emissão de certidão ou fotocópia de actos de registo ... 16
 
-6.1 - Pela rectificação efectuada fora dos casos previstos no número anterior, incluindo todos os actos de registo realizados em consequência da mesma - (euro) 250;
+9.3 - Pela requisição e emissão de certidão ou fotocópia de documentos, até nove páginas ... 16
 
-6.2 - No caso de indeferimento liminar do pedido é devolvida a quantia cobrada, com excepção de valor igual ao da recusa;
+9.3.1 - A partir da 10.ª página, cada página a mais ... 1
 
-6.3 - Pela dedução de oposição - (euro) 100.
+9.4 - Pela confirmação do conteúdo da certidão ou fotocópia é devido o emolumento da respectiva emissão, reduzido a metade.
 
-7 - Procedimento administrativo de dissolução de entidades comerciais:
+9.5 - Informação dada por escrito ... 11
 
-7.1 - Pela tramitação e decisão do procedimento, incluindo todos os registos - (euro) 350;
+9.6 - Fotocópia não certificada, por cada página ... 0,50
 
-7.2 - Se o procedimento for de instauração oficiosa, o emolumento previsto no número anterior é agravado em 50%.
+9.7 - O emolumento devido pelas certidões e fotocópias, quando cobrado no acto do pedido, é restituído no caso da recusa da sua emissão.
 
-8 - Procedimento administrativo de liquidação de entidades comerciais:
+10 - Legalização de livros, por cada livro ... 14
 
-8.1 - Pela tramitação e decisão do procedimento, incluindo todos os registos - (euro) 350;
-
-8.2 - Se o procedimento for de instauração oficiosa, o emolumento previsto no número anterior é agravado em 50%.
-
-9 - Procedimento especial de extinção imediata de entidades comerciais:
-
-Pela decisão do procedimento, incluindo o registo - (euro) 300.
-
-10 - Pela urgência na feitura de cada registo é devido o valor do emolumento correspondente ao acto.
-
-11 - Pela desistência - (euro) 20.
-
-12 - Pela recusa, excepto no caso abrangido pelo n.º 6 do artigo 52.º do Código do Registo Comercial - (euro) 50.
-
-13 - Certidões, fotocópias, informações escritas e certificados:
-
-13.1 - Requisição e emissão de certidão negativa - (euro) 20;
-
-13.2 - Requisição e emissão de certidão ou fotocópia de actos de registo - (euro) 30;
-
-13.3 - Pela confirmação do conteúdo da certidão ou fotocópia - (euro) 10;
-
-13.4 - Pela assinatura do serviço previsto no n.º 5 do artigo 75.º do Código do Registo Comercial:
-
-13.4.1 - Assinatura por um ano - (euro) 25;
-
-13.4.2 - Assinatura por dois anos - (euro) 40;
-
-13.4.3 - Assinatura por três anos - (euro) 60;
-
-13.4.4 - Assinatura por quatro anos - (euro) 70;
-
-13.5 - Requisição e emissão de certidão ou fotocópia de documentos, até 10 páginas - (euro) 30;
-
-13.5.1 - Por cada página a mais, (euro) 1, até ao limite de (euro) 150.
-
-13.6 - Requisição e emissão de certidão ou fotocópia do acto constitutivo e dos estatutos de associação constituída ao abrigo do regime de constituição imediata de associações - (euro) 15;
-
-13.7 - Informação dada por escrito ... 11
-
-13.8 - Fotocópia não certificada, por cada página - (euro) 1;
-
-13.9 - O emolumento devido pelas certidões e fotocópias, quando cobrado no acto do pedido, é restituído no caso da recusa da sua emissão.
-
-14 - Nomeação de auditores e de revisores oficiais de contas, por cada nomeação ... 120
-
-15 - (Revogado pelo Decreto-Lei n.º 116/2008, de 4 de Julho.)
-
-16 - Procedimentos de destituição e de nomeação de liquidatários, requeridos ao abrigo dos n.os 3 e 4 do artigo 151.º do Código das Sociedades Comerciais - (euro) 150.
-
-17 - Pela emissão dos certificados previstos no artigo 36.º-A ou no artigo 74.º-A do Código do Registo Comercial - (euro) 250.
-
-18 - Procedimento de notificação a que se refere o artigo 36.º-B do Código do Registo Comercial - (euro) 150.
-
-19 - Pela solicitação do registo por depósito junto da conservatória, nos termos do artigo 29.º-A do Código do Registo Comercial - (euro) 150.
-
-20 - Pela oposição da sociedade ao registo por depósito a promover pela conservatória, nos termos do artigo 29.º-A do Código do Registo Comercial - (euro) 150.
-
-21 - Pelo suprimento oficioso de deficiências que ocorra no âmbito do artigo 52.º, n.os 2, 3, 5 ou 6, do Código do Registo Comercial - (euro) 30.
-
-22 - Os emolumentos pessoais eventualmente devidos pela prática de actos previstos neste artigo são pagos pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.).
-
-23 - Constitui receita do IRN, I. P., o montante de (euro) 75 por inscrição e (euro) 25 por averbamento ou depósito, a deduzir por cada acto aos emolumentos previstos neste artigo.
-
-24 - O facto de a taxa das publicações obrigatórias se encontrar incluída no valor dos emolumentos previstos neste artigo não prejudica o seu tratamento autónomo, designadamente no que respeita ao facto de constituírem receita do IRN, I. P.
-
-25 -(Revogado.)
-
-26 - As taxas previstas no n.º 13 constituem receita do IRN, I. P.
+11 - Nomeação de auditores e de revisores oficiais de contas, por cada nomeação ... 120

@@ -32,23 +32,33 @@ l) Assento de transcrição de declaração de maternidade, de perfilhação ou 
 
 m) Assento de transcrição ou integração de actos de registo lavrados pelos órgãos especiais do registo civil;
 
-n) Assento reformado nos termos dos artigos 25.º e seguintes do Código do Registo Civil;
+n) Registo previsto no n.º 1 do artigo 1.º de Decreto-Lei n.º 249/77, de 14 de Junho, bem como os documentos e processos a ele respeitantes;
 
-o) Processo de impedimento do casamento;
+o) Assentos de factos obrigatoriamente sujeitos a registo requeridos pelas autoridades judiciais, quando os respectivos encargos não puderem ser cobrados em regra de custas;
 
-p) Processo de sanação da anulabilidade do casamento por falta de testemunhas;
+p) Assento reformado nos termos dos artigos 25.º e seguintes do Código do Registo Civil;
 
-q) Processo de autorização para inscrição tardia de nascimento;
+q) Processo de impedimento do casamento;
 
-r) Emissão de boletim original de nascimento, casamento, óbito ou morte fetal.
+r) Processo de sanação da anulabilidade do casamento por falta de testemunhas;
 
-2 - São igualmente gratuitos:
+s) Processo de autorização para inscrição tardia de nascimento;
 
-a) Os assentos, certidões ou quaisquer outros actos ou documentos que tenham de ser renovados, substituídos ou rectificados em consequência de os anteriores se mostrarem afectados de vício, irregularidade ou deficiência imputáveis aos serviços, bem como os assentos de factos obrigatoriamente sujeitos a registo requeridos pelas autoridades judiciais, quando os respectivos encargos não puderem ser cobrados em regra de custas;
+t) Certidões, fotocópias e comunicações que decorram do cumprimento de obrigações previstas no Código do Registo Civil e que não devam entrar em regra de custas, incluindo a emissão do boletim original de nascimento, casamento, óbito ou morte fetal;
 
-b) As certidões requeridas com as finalidades previstas no artigo 301.º do Código do Registo Civil;
+u) Certidões requeridas para fins de assistência ou beneficência, incluindo a obtenção de pensões do Estado ou das autarquias locais;
 
-c) O registo previsto no n.º 1 do artigo 1.º do Decreto-Lei n.º 249/77, de 14 de Junho, bem como os documentos e processos a ele respeitantes.
+v) Exames de registos e de documentos a que se referem os n.os 4 e 5 do artigo 34.º do Código do Registo Civil;
+
+x) Certidões requeridas para instrução de processo de adopção;
+
+z) Certidões requeridas pelos tribunais, sinistrados ou seus familiares para instrução de processo emergente de acidente de trabalho;
+
+aa) Assentos, certidões ou quaisquer outros actos ou documentos que tenham de ser renovados, substituídos ou rectificados, em consequência de os anteriores se mostrarem afectados de vício, irregularidade ou deficiência imputáveis aos serviços;
+
+ab) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de Março.
+
+2 - São, ainda, gratuitos os actos de registo e os documentos necessários à instrução dos processos de atribuição do estatuto de igualdade luso-brasileiro contido no Tratado de Amizade, Cooperação e Consulta, de 22 de Abril de 2000.
 
 3 - Beneficiam ainda de gratuitidade dos actos de registo civil ou de nacionalidade, dos processos e declarações que lhes respeitem, dos documentos necessários e processos relativos ao suprimento destes, bem como das certidões requeridas para quaisquer fins, os indivíduos que provem a sua insuficiência económica pelos seguintes meios:
 

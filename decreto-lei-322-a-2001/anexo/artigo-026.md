@@ -6,16 +6,14 @@
 
 ### Emolumentos da identificação civil
 
-1 - Bilhete de identidade:
+... Em euros
 
-1.1 - Pela emissão de cada bilhete de identidade ... 2,50
+1 - Pela emissão de cada bilhete de identidade ... 3
 
 2 - Certidões e informações:
 
-2.1 - Por cada reunião ... 15
+2.1 - Por cada certidão ... 15
 
 2.2 - Por cada informação ... 8
 
-3 - Serviço externo:
-
-3.1 - Pela realização de serviço externo ... 25
+3 - Pela realização de serviço externo, para além das despesas de transporte.

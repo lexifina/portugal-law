@@ -8,7 +8,7 @@
 
 1 - Quando uma escritura contiver mais de um acto, cobram-se por inteiro os emolumentos devidos por cada um deles.
 
-2 - Há pluralidade de actos se a denominação correspondente a cada um dos negócios jurídicos cumulados for diferente ou se os respectivos sujeitos activos e passivos não forem os mesmos.
+2 - Há pluralidade de actos sempre que a denominação correspondente a cada um dos negócios jurídicos cumulados for diferente, ou quando os respectivos sujeitos activos e passivos não forem os mesmos.
 
 3 - Não são considerados novos actos:
 
@@ -16,7 +16,7 @@ a) As intervenções, aquiescências e renúncias de terceiro, necessárias à p
 
 b) As garantias entre os mesmos sujeitos;
 
-c) As garantias e obrigações constituídas por sociedades, agrupamentos complementares de empresas e agrupamentos europeus de interesse económico prestadas pelos sócios e pelos membros dos agrupamentos no mesmo instrumento em que a dívida tenha sido contraída.
+c) As garantias a obrigações constituídas por sociedades, agrupamentos complementares de empresas e agrupamentos europeus de interesse económico prestadas pelos sócios e pelos membros dos agrupamentos no mesmo instrumento em que a dívida tenha sido contraída.
 
 4 - Contar-se-ão como um só acto:
 
@@ -33,5 +33,9 @@ e) A outorga de poderes de representação ou o seu substabelecimento por marido
 f) As diversas garantias de terceiros a obrigações entre os mesmos sujeitos prestadas no título em que estas são constituídas, sem prejuízo do disposto na alínea c) do número anterior;
 
 g) As diversas garantias a obrigações entre os mesmos sujeitos em título posterior àquele em que estas foram constituídas.
+
+h) As partilhas de heranças em que sejam autores marido e mulher;
+
+i) As diversas notificações para efeitos do artigo 99.º do Código do Notariado, quando efectuadas no mesmo local.
 
 5 - O disposto nos números anteriores é igualmente aplicável aos instrumentos avulsos que contenham mais de um acto.
