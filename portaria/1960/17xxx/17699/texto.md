@@ -1,0 +1,10 @@
+Portaria n.º 17699
+Considerando o que foi requerido em tempo pela Sociedade Mineira do Melela, Lda., com sede em Quelimane;
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 19.º do Decreto de 20 de Setembro de 1906 e em harmonia com o disposto na base XI da Lei Orgânica do Ultramar Português, alterar as disposições da Portaria n.º 16439, de 17 de Outubro de 1957, ampliando o prazo do exclusivo de pesquisas e reduzindo a área respectiva, nos termos e condições das alíneas seguintes:
+a) O prazo estabelecido no n.º 4.º da citada Portaria n.º 16439 é ampliado por um ano, com possibilidade de prorrogação por mais dois anos consecutivos se a concessionária fizer pesquisas intensivas, com despesas anuais não inferiores a 500000$00;
+b) A porção de território definida no n.º 1.º da mesma Portaria n.º 16439 (onde a indicação «W. G.», para os meridianos, deve ler-se, «E. G.») é reduzida de uma parcela, limitada ao norte pelo rio Napire, entre a confluência com o rio Lisse e a estrada Alto Molócuè-Gilé e esta estrada, para leste, até ao meridiano 38º 00' E. G., a leste por este meridiano até ao paralelo 16º 06' S., continuando por este paralelo até ao meridiano 37º 57' E. G. e por este meridiano até ao paralelo 16º 14' 40" S., ao sul por este paralelo até ao rio Melela e a oeste por este rio, para montante, até ao paralelo 16º 07' S., continuando por este paralelo, para leste, até ao rio Lisse e por este rio, para montante, até à confluência com o rio Napire;
+c) A concessionária fica em tudo sujeita à lei geral, e em especial às disposições do Decreto de 20 de Setembro de 1906 e da Portaria n.º 16267, de 23 de Abril de 1957;
+d) Serão ainda aplicáveis à concessionária as disposições das alíneas a) e b) do n.º 1.º e o n.º 5.º da anterior Portaria n.º 16439, de 17 de Outubro de 1957.
+Ministério do Ultramar, 28 de Abril de 1960. - Pelo Ministro do Ultramar, Carlos Krus Abecasis, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial de Moçambique. - Carlos Abecasis.
