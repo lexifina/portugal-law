@@ -1,0 +1,5 @@
+Aviso n.º 45/98
+Por ordem superior se torna público que, em 9 e 18 de Dezembro de 1997, foram remetidas notas, respectivamente pelo Ministério das Relações Exteriores chileno e pelo Ministério dos Negócios Estrangeiros português, em que se comunica terem sido cumpridas as formalidades requeridas pelos ordenamentos jurídicos de ambos os países para a aprovação do Acordo, por troca de notas, entre a República Portuguesa e a República do Chile para que os Familiares Dependentes dos Funcionários Diplomáticos, Consulares, Administrativos e Técnicos das Missões Diplomáticas e Consulares Portuguesas e Chilenas Possam Desenvolver Trabalhos Remunerados no Regime de Reciprocidade, concluído em Lisboa, em 21 de Junho de 1995.
+O presente Acordo foi aprovado pelo Decreto n.º 22/97, publicado no Diário da República, 1.ª série-A, n.º 111, de 14 de Maio de 1997.
+Em conformidade com o disposto no seu artigo 10.º, o Acordo entrou em vigor em 18 de Dezembro de 1997.
+Direcção-Geral das Relações Bilaterais, 26 de Janeiro de 1998. - O Director-Geral, João Manuel Guerra Salgueiro.
