@@ -1,0 +1,7 @@
+Despacho
+Mostrando-se conveniente estabelecer normas genéricas sobre a concessão de licença sem vencimento, bem como sobre a situação dos funcionários que completem o período de noventa dias de ausência do serviço, imputáveis a esse tipo de licença;
+Ao abrigo do artigo 36.º do Decreto n.º 19478, de 18 de Março de 1931, e do artigo 3.º, n.º 1, do Decreto-Lei n.º 48620, de 10 de Outubro de 1968, determino o seguinte:
+1. A licença sem vencimento prevista no artigo 14.º do Decreto n.º 19478, de 18 de Março de 1931, não deverá ser concedida por tempo superior a noventa dias, sem prejuízo de, quando o haja sido por período menor, poder ser renovada até àquele limite, se houver razões ponderosas que o aconselhem.
+2. Sempre que à licença sem vencimento não suceda a apresentação ao serviço, por motivo de doença, as faltas justificadas serão tidas como prorrogação daquela licença, desde que não seja ultrapassado o período de noventa dias referido no número anterior; se este limite for atingido, a ausência do serviço deverá ser justificada nos termos previstos na lei para passagem do funcionário à situação de licença por doença.
+3. Fica revogado o despacho do Conselho de Ministros de 23 de Outubro de 1934, publicado no Diário do Governo, n.º 268, de 14 de Novembro do mesmo ano.
+Presidência do Conselho, 26 de Outubro de 1973. - Pelo Presidente do Conselho, João Mota Pereira de Campos, Ministro de Estado.
