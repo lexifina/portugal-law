@@ -1,0 +1,4 @@
+Resolução n.º 297/77
+Nos termos do artigo 5.º do Decreto-Lei n.º 503-F/76, de 30 de Junho, o Conselho da Revolução, reunido em 2 de Novembro de 1977, designou o major Vítor Manuel Rodrigues Alves para substituir, no exercício das suas funções, nos dias 15, 16, 17 e 18 de Novembro de 1977, o presidente da Comissão Constitucional, major Ernesto Augusto Melo Antunes, que naquele período estará ausente no estrangeiro.
+Aprovada em Conselho da Revolução em 2 de Novembro de 1977.
+O Presidente do Conselho da Revolução, António Ramalho Eanes, general.
