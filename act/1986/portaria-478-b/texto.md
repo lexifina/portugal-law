@@ -1,0 +1,18 @@
+Portaria n.º 478-B/86
+de 29 de Agosto
+Considerando que foram já fixados no passado dia 12 de Junho os preços de intervenção dos cereais para a campanha do presente ano agrícola;
+Tendo em atenção a vantagem de, tanto quanto possível, conseguir que no início de cada campanha de comercialização dos cereais sejam conhecidos quer os preços a receber pela lavoura quer os preços a pagar pelos utilizadores industriais;
+Procurando progressivamente fazer coincidir a fixação e publicação dos preços de intervenção e revenda dos cereais, entendeu-se ser possível, desde já, proceder à fixação dos preços de revenda dos cereais forrageiros a vigorar durante a campanha de comercialização de 1986-1987:
+Nestes termos, ao abrigo do disposto no n.º 1 do artigo 6.º do Decreto-Lei n.º 61/86, de 25 de Março:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio, o seguinte:
+1.º Os preços de revenda para o milho, sorgo, cevada e aveia, a vigorar na campanha de comercialização de 1986-1987, são os seguintes:
+(ver documento original)
+2.º Os preços de revenda fixados nesta portaria respeitam a cereal a granel sobre vagão na estação da CP mais próxima do silo ou celeiro da Empresa Pública de Abastecimento de Cereais (EPAC), quando transportado por caminho de ferro, ou sobre outro meio de transporte à porta do silo ou celeiro da EPAC.
+3.º Sempre que a EPAC utilize a armazenagem própria dos sectores industriais utilizadores em quantidades que excedam 30 dias, em conformidade com a laboração de cada industrial, sobre essa mesma quantidade pagará uma taxa de 90$00 por tonelada e por mês.
+4.º Os diferenciais entre os preços fixados nesta portaria para os cereais a fornecer pela EPAC e os preços de aquisição por esta Empresa Pública constituirão encargo ou receita do Instituto Nacional de Garantia Agrícola (INGA), de harmonia com o preceituado no Decreto-Lei n.º 19/83, de 21 de Janeiro.
+5.º A taxa de prestação de serviços da EPAC a que se refere o n.º 10.º do Despacho Normativo n.º 112/85, de 23 de Novembro, é substituída, com efeitos a partir de 1 de Janeiro de 1986, pelo pagamento pelo INGA de uma verba anual global, atribuída por duodécimos, a acordar entre este organismo e aquela Empresa Pública, destinada à cobertura dos encargos a que a referida taxa se destinava.
+6.º São revogados os n.os 6.º, 7.º, 8.º, 9.º e 10.º do Despacho Normativo n.º 112/85, de 23 de Novembro.
+7.º Esta portaria entra em vigor no continente no dia imediato ao da sua publicação e nas Regiões Autónomas dos Açores e da Madeira nos 30 dias após a mesma data.
+Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
+Assinada em 29 de Agosto de 1986.
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.
