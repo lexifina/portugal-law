@@ -1,0 +1,53 @@
+Decreto n.º 659/75
+de 21 de Novembro
+Com fundamento no artigo 2.º do Decreto-Lei n.º 54/72, de 15 de Fevereiro;
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 48857774$70, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado:
+Defesa Nacional
+Estado-Maior-General das Forças Armadas e Departamento da Força Aérea
+Capítulo 14.º «Despesas comuns»:
+Despesas militares em harmonia com compromissos tomados internacionalmente
+Artigo 345.º «Bens duradouros» ... 390000$00
+Forças militares extraordinárias no ultramar
+Artigo 353.º «Remunerações em espécie» ... 5800000$00
+Artigo 354.º «Previdência social»:
+N.º 5 «Outras despesas» ... 400000$00
+Artigo 357.º «Bens não duradouros» ... 1700000$00
+Artigo 358.º «Aquisição de serviços» ... 1400000$00
+... 9690000$00
+Ministério da Justiça
+Capítulo 13.º «Contas de ordem»:
+Artigo 594.º «Serviços prisionais» ... 6000000$00
+Ministério dos Assuntos Sociais
+Secretaria de Estado da Saúde
+Capítulo 6.º «Direcção-Geral de Saúde»:
+Direcção-Geral
+Artigo 88.º «Transferências - Sector público»:
+N.º 1 «Centros de saúde» ... 14405198$40
+N.º 3 «Serviços de Higiene Rural e Defesa Anti-Sezonática» ... 26944$90
+N.º 4 «Dispensário Central de Higiene Social de Lisboa» ... 2311000$00
+N.º 5 «Dispensário Central de Higiene Social do Porto» ... 2441601$30
+N.º 6 «Outros serviços e estabelecimentos oficiais de saúde e assistência» ... 2879386$70
+N.º 7 «Assistência médico-social na gravidez, no puerpéreo e na primeira infância»:
+Alínea 1 «Comparticipação nos encargos de sustentação do Instituto Maternal e estabelecimentos oficiais» ... 370257$50
+N.º 8 «Luta contra a tuberculose»:
+Alínea 1 «Comparticipação nos encargos de sustentação do Instituto de Assistência Nacional aos Tuberculosos» ... 4123585$00
+N.º 9 «Assistência a alienados»:
+Alínea 1 «Comparticipação nos encargos de sustentação do Instituto de Assistência Psiquiátrica» ... 6505641$20
+N.º 10 «Assistência a leprosos»:
+Alínea 1 «Comparticipação nos encargos de sustentação do Instituto de Assistência aos Leprosos» ... 104159$70
+... 33167774$70
+... 48857774$70
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumentos de previsão das seguintes receitas:
+Orçamento das receitas do Estado
+Receita ordinária:
+Capítulo 5.º, grupo 1, artigo 88.º «Serviços autónomos e empresas públicas» ... 33167774$70
+Capítulo 14.º, artigo 162.º «Reposições não abatidas nos pagamentos» ... 390000$00
+Capítulo 15.º, artigo 167.º «Serviços prisionais» ... 6000000$00
+Receita extraordinária:
+Capítulo 12.º, grupo 9, artigo 199.º «Crédito interno» ... 9300000$00
+... 48857774$70
+José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - Jorge de Carvalho Sá Borges.
+Promulgado em 7 de Novembro de 1975.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
