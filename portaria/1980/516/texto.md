@@ -1,0 +1,7 @@
+Portaria n.º 516/80
+de 13 de Agosto
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Habitação e Obras Públicas e pelo Secretário de Estado da Reforma Administrativa, ao abrigo dos n.os 2 e 3 do artigo 1.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, e de acordo com os critérios gerais definidos na Resolução n.º 354-B/79, de 14 de Dezembro, confirmada pela Resolução n.º 40/80, de 5 de Fevereiro, o seguinte:
+1 - Atribuir a equiparação a director-geral aos cargos de presidente da Junta Autónoma de Estradas e de presidente do Fundo de Fomento da Habitação, por preencherem as condições previstas no n.º 2 da referida resolução.
+2 - Atribuir a equiparação a subdirector-geral aos cargos de vice-presidente da Junta Autónoma de Estradas e de vice-presidente do Fundo de Fomento da Habitação, por preencherem as condições previstas no n.º 4 da referida resolução.
+3 - Atribuir a equiparação a chefe de divisão ao cargo de director de estradas da Junta Autónoma de Estradas, por preencher as condições previstas no n.º 9 da referida resolução.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Habitação e Obras Públicas, 24 de Julho de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro da Habitação e Obras Públicas, João Lopes Porto. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
