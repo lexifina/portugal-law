@@ -1,0 +1,144 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11236",
+  "numero": "42",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2003-04-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2003-11-12",
+            "dataResposta": "2003-11-26",
+            "entidades": [
+              "Secretário Regional da Economia do Governo Regional dos Açores"
+            ],
+            "nrOficio": "3512/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2003-11-12",
+            "dataResposta": "2004-02-04",
+            "entidades": [
+              "Administração da Electricidade dos Açores - EDA, SA"
+            ],
+            "nrOficio": "3512/COM",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2004-01-14",
+                "dataResposta": null,
+                "nrOficio": "3896/COM",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2004-03-09",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2003-05-13",
+        "DataArquivo": "2004-04-23",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2004-04-22",
+        "DataReaberta": "2003-05-13",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2003-04-04",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764f4652425579394562324e31625756756447397a5547563061574e6862793879596a55314d6a68685a4330795a474d784c54517a595441744f44526b5979307a4d574e68595749335954526b5a6d4d756347526d&fich=2b5528ad-2dc1-43a0-84dc-31caab7a4dfc.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "109",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE TRABALHO E DOS ASSUNTOS SOCIAIS",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2003-05-13",
+            "gp": "PS",
+            "id": "1359",
+            "motivoCessacao": null,
+            "nome": "Maria do Carmo Romão"
+          }
+        ],
+        "RelatorioFinal": [
+          "21829"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2003-04-04",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d764f4759354d7a6b355a5755744d6a51334d5330304d6a4e694c546c6b4d7a51744d6a5532597a59304e6d5a6c4d5755354c6e426b5a673d3d&fich=8f9399ee-2471-423b-9d34-256c646fe1e9.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11236",
+    "PetAssunto": "Solicitam a substituição do Decreto-Lei nº.427/99, de 21 de Outubro (que integrou no regime geral de segurança social os trabalhadores do quadro da \"Electricidade dos Açores - EDA, S.A.\", oriundos das autarquias locais, serviços municipalizados e federações de municípios), de modo a poderem permanecer inscritos na Caixa Geral de Aposentações e a beneficiarem da assistência médica e medicamentosa da ADSE.",
+    "PetDataEntrada": "2003-04-04",
+    "PeticoesAssociadas": null,
+    "PetId": "11236",
+    "PetLeg": "IX",
+    "PetNr": "42",
+    "PetNrAssinaturas": "75",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
