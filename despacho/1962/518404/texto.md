@@ -1,0 +1,3 @@
+Despacho
+A faculdade de opção estabelecida na alínea d) do n.º 13.º do despacho do Conselho de Ministros para o Comércio Externo de 20 de Julho de 1949, aditada por despacho de 5 de Dezembro de 1955, com a rectificação feita em despacho de 20 do mesmo mês e ano, é igualmente aplicada aos funcionários públicos que exerçam os cargos de presidente ou de vogais encarregados da chefia de sub-serviços especializados da Comissão Técnica de Cooperação Económica Externa, em regime de comissão de serviço.
+Presidência do Conselho, 31 de Janeiro de 1962. - O Ministro de Estado Adjunto do Presidente do Conselho, José Gonçalo da Cunha Sottomayor Correia de Oliveira.
