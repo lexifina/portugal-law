@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, e considerando o disposto na Portaria n.º 21680, de 17 de Novembro de 1965, o Conselho de Ministros resolve, mediante proposta do Ministro do Ultramar, ouvido o Conselho Permanente da Acção Educativa, declarar a habilitação do curso de comércio regulado pelo Decreto n.º 20420, de 20 de Outubro de 1931, como suficiente, em paralelo com o curso geral dos liceus, para efeito de provimento nos lugares de aspirante dos serviços de Fazenda e contabilidade das províncias ultramarinas.
+Presidência do Conselho, 18 de Agosto de 1967. - Pelo Presidente do Conselho, o Ministro de Estado adjunto do Presidente do Conselho, António Jorge Martins da Mota Veiga.
