@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério das Finanças e do Plano, o Aviso n.º 2/81, publicado no Diário da República, 1.ª série, n.º 71, de 26 de Março de 1981, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguintes inexactidão, que assim se rectifica;
+No 1.º período, onde se lê «de 27 de Março pelas empresas através das instituições de crédito bonificado, definido em termos de uma percentagem do contravalor em escudos das exportações cobradas pelas empresas através das instituições de crédito no período» deve ler-se «de 27 de Março de 1979, que estabelece um limite para o crédito bonificado, definido em termos de uma percentagem do contravalor em escudos das exportações cobrado pelas empresas, através das instituições de crédito, no no período».
+Secretaria-Geral da Presidência do Conselho de Ministros, 21 de Abril de 1981. - O Secretário-Geral, França Martins.
