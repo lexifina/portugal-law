@@ -1,7 +1,15 @@
 # Artigo 29.º
 
-### Entrega da declaração periódica no regime de derrogação
+1 - As pessoas singulares ou colectivas que efectuem aquisições intracomunitárias de meios de transporte novos deverão exigir que a factura ou documento equivalente, emitidos pelo vendedor, contenham os seguintes elementos:
 
-1 - Os sujeitos passivos mencionados nas alíneas b) e c) do n.º 1 do artigo 2.º que efectuem aquisições intracomunitárias de bens sujeitas a imposto devem enviar a declaração por transmissão electrónica de dados até ao final do mês seguinte àquele em que o imposto se torne exigível.
+a) Os nomes, firmas ou denominações sociais e a sede ou domicílio do vendedor e do adquirente, bem como os correspondentes números de identificação fiscal, precedidos do prefixo que permite identificar o Estado membro que os atribuiu, se for caso disso;
 
-2 - A obrigação a que se refere o número anterior só se verifica relativamente aos períodos em que haja operações tributáveis.
+b) A data em que ocorreu a transmissão;
+
+c) O preço de venda;
+
+d) A identificação do meio de transporte, nomeadamente a matrícula ou número de registo e a especificação das respectivas características;
+
+e) A indicação dos quilómetros percorridos, se se tratar de um veículo terrestre, das horas de navegação, se se tratar de uma embarcação, ou das horas de voo, se se tratar de uma aeronave, reportados à data em que ocorreu a transmissão.
+
+2 - As pessoas singulares ou colectivas que efectuem transmissões de meios de transporte novos para outros Estados membros são obrigadas a emitir uma factura ou documento equivalente, que deverá conter todos os elementos referidos no número anterior.
