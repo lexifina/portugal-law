@@ -1,0 +1,3 @@
+Aviso n.º 105/2001
+Por ordem superior se torna público que, contrariamente ao referido no Aviso n.º 367/95, publicado no Diário da República, 1.ª série-A, de 29 de Dezembro de 1995, o Acordo entre os Estados Membros da Comunidade Europeia Relativo à Transmissão de Processos Penais, aberto à assinatura em Roma, em 6 de Novembro de 1990, não se encontra ainda em vigor, dado não terem sido, até ao momento, depositados os instrumentos de ratificação, aceitação ou aprovação por todos os Estados que à data de abertura à assinatura eram membros das Comunidades Europeias, conforme exige o artigo 16.º, n.º 2, daquele Acordo.
+Departamento de Assuntos Jurídicos, 7 de Setembro de 2001. - A Directora, Maria Margarida Aleixo Antunes Rei.
