@@ -1,0 +1,6 @@
+Rectificação
+Por haver saído com inexactidão no Diário do Governo n.º 74, 1.ª série, de 30 de Março findo, o artigo 1.º do Decreto-Lei n.º 43574, na parte que dá nova redacção ao n.º 8.º do artigo 12.º do Decreto-Lei n.º 41969, de 24 de Novembro de 1958, determino que se proceda à rectificação daquela disposição legal, que é assim redigida:
+Art. 12.º ...
+...
+8.º As importâncias abonadas a título de subsídio por morte, ao abrigo do artigo 1.º do Decreto-Lei n.º 42947, de 27 de Abril de 1960, e do artigo 1.º do Decreto-Lei n.º 43003, de 3 de Junho de 1960, bem como as pensões de aposentação, reforma e invalidez que fiquem em dívida por morte dos pensionistas da Caixa Geral de Aposentações.
+Presidência do Conselho, 14 de Abril de 1961. - O Presidente do Conselho, António de Oliveira Salazar.
