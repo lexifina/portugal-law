@@ -1,0 +1,3 @@
+Declaração de Rectificação n.º 21/2001
+Por ter sido publicado com inexactidão no Diário da República, 1.ª série-A, n.º 265, de 15 de Novembro de 2001, o Decreto do Presidente da República n.º 58/2001, rectifica-se que onde se lê «Os factos cometidos forem puníveis também pela legislação do lugar em que tiverem sido praticados, salvo se nesse lugar não se exceder poder unitivo» deve ler-se «Os factos cometidos forem puníveis também pela legislação do lugar em que tiverem sido praticados, salvo se nesse lugar não se exercer poder punitivo».
+Secretaria-Geral da Presidência da República, 10 de Dezembro de 2001. - O Secretário-Geral, José Vicente de Bragança.
