@@ -1,0 +1,7 @@
+Decreto-Lei n.º 47683
+Sendo conveniente harmonizar a competência das juntas médicas a que podem ser submetidos os indivíduos reclassificados pela junta especial prevista no artigo 2.º do Decreto-Lei n.º 46545, de 23 de Setembro de 1965;
+Usando da faculdade conferida pelo 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Ao Decreto-Lei n.º 46545, de 23 de Setembro de 1965, é aditado o seguinte artigo:
+Art. 6.º As reclassificações atribuídas pela junta especial prevista no artigo 2.º, nas categorias de apurado para todo o serviço militar e de apto para serviços auxiliares, só poderão ser alteradas por uma junta especial com a constituição prevista no artigo 3.º
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 8 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
