@@ -2,7 +2,7 @@
 
 ### (Usufruto e penhor de participações)
 
-1 - A constituição de usufruto sobre participações sociais está sujeita à forma exigida e às limitações estabelecidas para a transmissão destas.
+1 - A constituição de usufruto sobre participações sociais, após o contrato de sociedade, está sujeita à forma exigida e às limitações estabelecidas para a transmissão destas.
 
 2 - Os direitos do usufrutuário são os indicados nos artigos 1466.º e 1467.º do Código Civil, com as modificações previstas na presente lei, e os mais direitos que nesta lhe são atribuídos.
 

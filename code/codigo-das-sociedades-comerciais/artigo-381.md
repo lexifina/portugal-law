@@ -10,7 +10,7 @@ b) A concessão de representação é revogável, importando revogação a prese
 
 c) O pedido de representação deve conter, pelo menos: a especificação da assembleia, pela indicação do lugar, dia, hora da reunião e ordem do dia; as indicações sobre consultas de documentos por accionistas; a indicação precisa da pessoa ou pessoas que são oferecidas como representantes; o sentido em que o representante exercerá o voto na falta de instruções do representado; a menção de que, caso surjam circunstâncias imprevistas, o representante votará no sentido que julgue satisfazer melhor os interesses do representado.
 
-2 - A sociedade não pode, nem por si nem por pessoa interposta, solicitar representações a favor de quem quer que seja; os membros do conselho fiscal ou do conselho geral não podem solicitá-las nem ser indicados como representantes.
+2 - A sociedade não pode, nem por si nem por si, nem por pessoa interposta, solicitar representações a favor de quem quer que seja; os membros do conselho fiscal ou do conselho geral não podem solicitá-las nem ser indicados como representantes.
 
 3 - Só podem ser indicadas como representantes pessoas que, por si ou como representantes de accionistas, possam exercer o direito de voto ou sejam administradores ou directores da sociedade.
 

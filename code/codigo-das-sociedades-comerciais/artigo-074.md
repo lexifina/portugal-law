@@ -2,7 +2,7 @@
 
 ### (Cláusulas nulas. Renúncia e transacção)
 
-1 - É nula a cláusula, inserta ou não em contrato de sociedade, que exclua ou limite a responsabilidade dos fundadores, gerentes, administradores ou directores, ou que subordine o exercício da acção social de responsabilidade, quando intentada nos termos do artigo 72.º, a prévio parecer ou deliberação dos sócios, ou que torne o exercício da acção social dependente de prévia decisão judicial sobre a existência de causa de responsabilidade ou de destituição do responsável.
+1 - É nula a cláusula, inserta ou não em contrato de sociedade, que exclua ou limite a responsabilidade dos fundadores, gerentes, administradores ou directores, ou que subordine o exercício da acção social de responsabilidade, quando intentada nos termos do artigo 77.º, a prévio parecer ou deliberação dos sócios, ou que torne o exercício da acção social dependente de prévia decisão judicial sobre a existência de causa de responsabilidade ou de destituição do responsável.
 
 2 - A sociedade só pode renunciar ao seu direito de indemnização ou transigir sobre ele mediante deliberação expressa dos sócios, sem voto contrário de uma minoria que represente pelo menos 10% do capital social; os possíveis responsáveis não podem votar nessa deliberação.
 

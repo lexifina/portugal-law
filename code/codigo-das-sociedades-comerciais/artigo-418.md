@@ -6,7 +6,7 @@
 
 2 - Havendo várias minorias que exerçam o direito conferido no número anterior, o tribunal pode designar até dois membros efectivos e os respectivos suplentes, apensando-se as acções que correrem simultaneamente; no caso de fiscal único, só pode designar outro e o respectivo suplente.
 
-3 - Os membros judicialmente nomeados cessam as suas funções com o termo do mandato dos membros eleitos; podem cessá-las em data anterior, se o tribunal deferir o requerimento que com esse fim lhe seja apresentado pelos accionistas que requereram a nomeação.
+3 - Os membros judicialmente nomeados cessam as suas funções com o termo normal das funções dos membros eleitos; podem cessá-las em data anterior, se o tribunal deferir o requerimento que com esse fim lhe seja apresentado pelos accionistas que requereram a nomeação.
 
 4 - O conselho fiscal pode, com fundamento em justa causa, requerer ao tribunal a substituição do membro judicialmente nomeado; a mesma faculdade têm os accionistas que requereram a nomeação e o conselho de administração da sociedade, se esta não tiver conselho fiscal.
 

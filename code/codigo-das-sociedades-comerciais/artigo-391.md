@@ -8,7 +8,7 @@
 
 3 - Os administradores são designados por um período fixado no contrato de sociedade, não excedente a quatro anos civis, contando-se como completo o ano civil em que os administradores forem designados; na falta de indicação do contrato, entende-se que a designação é feita por quatro anos civis, sendo permitida a reeleição.
 
-4 - Embora designados por prazo certo, os administradores mantêm-se em funções até nova eleição, sem prejuízo do disposto no artigo 394.º
+4 - Embora designados por prazo certo, os administradores mantêm-se em funções até nova designação, sem prejuízo do disposto nos artigos 394.º, 403.º e 404.º.
 
 5 - A aceitação do cargo pela pessoa designada pode ser manifestada expressa ou tacitamente.
 

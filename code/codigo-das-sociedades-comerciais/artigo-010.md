@@ -10,11 +10,11 @@ a) Entrem na composição de firmas ou denominações já registadas;
 
 b) Correspondam a vocábulos comuns sem tradução adequada na língua portuguesa ou de uso generalizado;
 
-c) Correspondam, total ou parcialmente, a nomes, firmas ou denominações de associados, patronos ou instituidores;
+c) Correspondam, total ou parcialmente, a nomes, firmas ou denominações de associados;
 
 d) Constituam marca comercial ou industrial de uso legítimo, nos termos da lei respectiva;
 
-e) Resultem da fusão de palavras ou parte de palavras portuguesas ou estrangeiras admissíveis nos termos do presente número, directamente relacionadas com o objecto específico ou retiradas dos restantes elementos da firma ou dos nomes dos associados, patronos ou instituidores;
+e) Resultem da fusão de palavras ou parte de palavras portuguesas ou estrangeiras admissíveis nos termos do presente número, directamente relacionadas com o objecto específico ou retiradas dos restantes elementos da firma ou dos nomes dos associados;
 
 f) Visem maior facilidade de penetração no marcado estrangeiro a que se dirija a actividade que constitui o objecto social;
 

@@ -6,7 +6,7 @@
 
 a) O conselho de administração ou a direcção, com o consentimento do conselho fiscal ou do conselho geral, resolva a distribuição;
 
-b) A resolução do conselho de administração ou da direcção seja precedida de um balanço intercalar, elaborado com a antecedência máxima de 30 dias e certificado pelo revisor de contas, que demonstre a existência nessa ocasião de importâncias disponíveis para distribuição aos accionistas, de harmonia com os artigos 32.º e 33.º, tendo em conta os resultados verificados durante a parte já decorrida desse exercício em que a distribuição é efectuada;
+b) A resolução do conselho de administração ou da direcção seja precedida de um balanço intercalar, elaborado com a antecedência máxima de 30 dias e certificado pelo revisor oficial de contas, que demonstre a existência nessa ocasião de importâncias disponíveis para distribuição aos accionistas, de harmonia com os artigos 32.º e 33.º, tendo em conta os resultados verificados durante a parte já decorrida desse exercício em que a distribuição é efectuada;
 
 c) Seja efectuada uma só distribuição no decurso de cada exercício e sempre na segunda metade deste;
 

@@ -10,4 +10,4 @@
 
 4 - A nova acção fica a pertencer em propriedade plena àquele que tiver exercido o direito de participar no aumento do capital, salvo se os interessados tiverem acordado em que ela fique também sujeita a usufruto.
 
-5 - Se nem o titular da raiz nem o usufrutuário quiserem exercer a preferência no aumento, pode qualquer deles vender os respectivos direitos, devendo ser repartida entre eles a quantia obtida, na proporção do valor que nesse momento tiver o direito de cada um.
+5 - Se nem o titular da raiz, nem o usufrutuário quiserem exercer a preferência no aumento, pode qualquer deles vender os respectivos direitos, devendo ser repartida entre eles a quantia obtida, na proporção do valor que nesse momento tiver o direito de cada um.

@@ -10,8 +10,10 @@
 
 a) No projecto de fusão seja indicado que a escritura será outorgada, sem prévia deliberação de assembleias gerais, caso a respectiva convocação não seja requerida nos termos previstos na alínea d) deste número;
 
-b) Tenha sido efectuada a publicidade exigida pelo artigo 114.º com a antecedência mínima de dois meses relativamente à data da escritura;
+b) Tenha sido efectuada a publicidade exigida pelo artigo 100.º
 
-c) Os sócios tenham podido tomar conhecimento, na sede social, da documentação referida no artigo 115.º, a partir, pelo menos, do 8.º dia seguinte à publicação do projecto de fusão e disso tenham sido avisados no mesmo projecto ou simultaneamente com a comunicação deste;
+com a antecedência mínima de dois meses relativamente à data da escritura;
+
+c) Os sócios tenham podido tomar conhecimento, na sede social, da documentação referida no artigo 101.º, a partir, pelo menos, do 8.º dia seguinte à publicação do projecto de fusão e disso tenham sido avisados no mesmo projecto ou simultaneamente com a comunicação deste;
 
 d) Até quinze dias antes da data marcada para a escritura não tenha sido requerida, por sócios detentores de 5% do capital social, a convocação da assembleia geral para se pronunciar sobre a fusão.

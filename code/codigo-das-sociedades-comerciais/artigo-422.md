@@ -16,6 +16,6 @@ e) Informar, na primeira assembleia que se realize, de todas as irregularidades 
 
 2 - Os membros do conselho fiscal não podem aproveitar-se, salvo autorização expressa e por escrito, de segredos comerciais ou industriais de que tenham tomado conhecimento no desempenho das suas funções.
 
-3 - Os membros do conselho fiscal devem participar ao Ministério Público os factos delituosos de que tenham tomado conhecimento e que constituam crimes públicos; desta participação não pode resultar responsabilidade para os mesmos, salvo se for caluniosa.
+3 - Os membros do conselho fiscal devem participar ao Ministério Público os factos delituosos de que tenham tomado conhecimento e que constituam crimes públicos; desta participação não pode resultar responsabilidade para os participantes, salvo se for caluniosa.
 
 4 - Perdem o seu cargo os membros do conselho fiscal que, sem motivo justificado, não assistam, durante o exercício social, a duas reuniões do conselho ou não compareçam a uma assembleia geral ou a duas reuniões da administração previstas na alínea a) do n.º 1 deste artigo.

@@ -8,7 +8,7 @@
 
 3 - Os títulos definitivos devem ser entregues aos accionistas nos seis meses seguintes ao registo definitivo do contrato de sociedade ou do aumento de capital.
 
-4 - Os títulos de acções, quer definitivos quer provisórios, podem incorporar mais de uma acção, conforme o estabelecido no contrato de sociedade; neste caso, o accionista pode exigir a divisão ou a concentração de títulos, suportando os respectivos encargos.
+4 - Os títulos de acções, quer definitivos, quer provisórios, podem incorporar mais de uma acção, conforme o estabelecido no contrato de sociedade; neste caso, o accionista pode exigir a divisão ou a concentração de títulos, suportando os respectivos encargos.
 
 5 - Os títulos definitivos e provisórios são assinados por um ou mais administradores ou directores, não podendo ser de chancela todas as assinaturas, e contêm:
 
@@ -18,7 +18,7 @@ b) A data e o cartório notarial da escritura de constituição, a data da publi
 
 c) O montante do capital social;
 
-d) O valor nominal de cada acção e o montante da deliberação;
+d) O valor nominal de cada acção e o montante da liberação;;
 
 e) O número de acções incorporadas no título e o seu valor nominal global.
 

@@ -18,4 +18,4 @@
 
 a) Se forem amortizadas acções inteiramente liberadas, postas à disposição da sociedade, a título gratuito;
 
-b) Se para a amortização de acções inteiramente liberadas forem unicamente utilizados fundos que, nos termos dos artigos 34.º e 35.º, possam ser distribuídos aos accionistas; neste caso, deve ser criada uma reserva sujeita ao regime de reserva legal, de montante equivalente à soma do valor nominal das acções amortizadas.
+b) Se para a amortização de acções inteiramente liberadas forem unicamente utilizados fundos que, nos termos dos artigos n.º 32.º e 33.º, possam ser distribuídos aos accionistas; neste caso, deve ser criada uma reserva sujeita ao regime de reserva legal, de montante equivalente à soma do valor nominal das acções amortizadas.

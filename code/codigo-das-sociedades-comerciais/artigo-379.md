@@ -8,7 +8,7 @@
 
 3 - Podem ainda estar presentes nas assembleias gerais de accionistas os representantes comuns de titulares de acções preferenciais sem voto e de obrigacionistas.
 
-4 - Devem estar presentes nas assembleias gerais de accionistas os administradores ou directores, os membros do conselho fiscal ou do conselho geral e, na assembleia anual, os revisores que tenham examinado as contas.
+4 - Devem estar presentes nas assembleias gerais de accionistas os administradores ou directores, os membros do conselho fiscal ou do conselho geral e, na assembleia anual, os revisores oficiais de contas.
 
 5 - Sempre que o contrato de sociedade exija a posse de um certo número de acções para conferir voto, poderão os accionistas possuidores de menor número de acções agrupar-se de forma a completarem o número exigido ou um número superior e fazer-se representar por um dos agrupados.
 
