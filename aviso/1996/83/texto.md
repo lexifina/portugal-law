@@ -1,0 +1,4 @@
+Aviso n.º 83/96
+Por ordem superior se faz público que, segundo comunicação da Embaixada de Portugal em Bruxelas, os Governos da Polónia, de Cuba e da Letónia depositaram, junto da Organização Mundial das Alfândegas, respectivamente em 12 de Setembro de 1995, 3 de Novembro de 1995 e 4 de Janeiro de 1996, os instrumentos de adesão à Convenção Internacional sobre o Sistema Harmonizado de Designação e Codificação de Mercadorias, concluída em Quioto em 18 de Maio de 1973 e revista pelo Protocolo de emenda à mesma Convenção.
+A referida Convenção entrou em vigor para a Polónia em 1 de Janeiro de 1996, para Cuba entrará em vigor em 1 de Janeiro de 1997 e para a Letónia em 1998, a não ser que uma data mais próxima seja entretanto especificada.
+Direcção-Geral dos Assuntos Multilaterais, 20 de Março de 1996. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
