@@ -1,0 +1,9 @@
+# Artigo 103.º
+
+### Posição a ocupar na via
+
+1 - Os peões devem transitar pela direita dos locais que lhes são destinados, salvo nos casos previstos na alínea d) do n.º 2 do artigo anterior.
+
+2 - Nos casos previstos nas alíneas b) e c) do n.º 2 do artigo anterior, os peões devem transitar pelo lado esquerdo da faixa de rodagem, a não ser que tal comprometa a sua segurança.
+
+3 - Nos casos previstos nas alíneas b), c) e e) do n.º 2 do artigo anterior, os peões devem transitar o mais próximo possível da margem da faixa de rodagem.

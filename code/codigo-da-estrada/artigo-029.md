@@ -1,0 +1,17 @@
+## SECÇÃO IV
+
+## Prioridade de passagem
+
+## SUBSECÇÃO I
+
+## Princípio geral
+
+# Artigo 29.º
+
+### Princípio geral
+
+1 - O condutor sobre o qual recaia o dever de ceder a passagem deve abrandar a marcha, se necessário parar e, em caso de cruzamento de veículos, recuar, por forma a permitir a passagem de outro condutor sem alteração da velocidade ou direcção deste.
+
+2 - O condutor com prioridade de passagem deve observar as cautelas necessárias à segurança do trânsito.
+
+3 - Quem infringir o disposto neste artigo será punido com coima de 20000$00 a 100000$00.
