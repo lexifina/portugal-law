@@ -1,0 +1,380 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=tKfXsA%2fENKNnp0LKqSGHXsjkrRl7S077Q3%2bDShtNlJSfDEIxb29heS60fekSU9Mh%2bOaOxN93u5lJXhXrF20O3GwJrwgX%2b0YU%2bhQwCIVqWOtg4qLdCOsovw17HpQ%2b61GwzRT0xyKc0H%2fa9DQdlP4PkB2kdgun9cM%2f%2fx7V2KVgyAwbUtpLdjftXVCgqJHGFNGYlFDP1m8Jzr0rp%2bkkIm21JfRb4lD2mU2lj506V%2fnSNSb2tR3%2bEDlK3FCGtu7ykpvS5%2bJJC%2frUbEM2mltYb1VfVOgZIDgJPPhSuZN2zIxPp9%2f2OdtvhAO8Vt2qGCJv%2bMWDKcdwAI%2fMSsLsMJfNmLa7xtfsjI6y%2ft3q%2btijdCCXBQfnO9%2b8PHRu402cRBtkKANn&fich=PeticoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "6041edea08a28f8315a7bbbffd2127aaa9493aac12482c88a108bc6b12f7d746",
+  "legislatura": "VII",
+  "id": "6200",
+  "numero": "141",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1998-12-03",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "1999-06-30",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "1999-06-30",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2000-06-26",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "24",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE SAUDE E TOXICODEPENDENCIA",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1999-06-30",
+            "gp": "PCP",
+            "id": "1058",
+            "motivoCessacao": null,
+            "nome": "Bernardino Soares"
+          }
+        ],
+        "RelatorioFinal": [
+          "21640"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "1999-06-30",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "20",
+        "Legislatura": "VII",
+        "Nome": "COMISSÃO DE SAÚDE",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1999-03-04",
+            "gp": "PCP",
+            "id": "1058",
+            "motivoCessacao": null,
+            "nome": "Bernardino Soares"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2000-05-05",
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2000-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27967",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2468-2468"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-06",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/062/2000-05-06/2468?pgs=2468&org=PLC"
+              }
+            ],
+            "Sumario": "COMPARTICIP MEDICAMENT: NAO DISCRIMINACAO DE DOENCAS MENTAIS",
+            "Teor": "PORT743/93 DE 16 DE AGOSTO PORT706/95 DE PORT982/99 DE "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2000-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27968",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2467-2468"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-06",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/062/2000-05-06/2467?pgs=2467-2468&org=PLC"
+              }
+            ],
+            "Sumario": "COMPARTICIP MEDICAMENT: NAO DISCRIMINACAO DE DOENCAS MENTAIS",
+            "Teor": "PORT743/93 DE 16 DE AGOSTO PORT706/95 DE PORT982/99 DE "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2000-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27969",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2467-2467"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-06",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/062/2000-05-06/2467?pgs=2467&org=PLC"
+              }
+            ],
+            "Sumario": "COMPARTICIP MEDICAMENT: NAO DISCRIMINACAO DE DOENCAS MENTAIS",
+            "Teor": "PORT743/93 DE 16 DE AGOSTO PORT706/95 DE PORT982/99 DE "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2000-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27970",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2466-2467"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-06",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/062/2000-05-06/2466?pgs=2466-2467&org=PLC"
+              }
+            ],
+            "Sumario": "COMPARTICIP MEDICAMENT: NAO DISCRIMINACAO DE DOENCAS MENTAIS",
+            "Teor": "PORT743/93 DE 16 DE AGOSTO PORT706/95 DE PORT982/99 DE "
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "6200",
+    "PetAssunto": "Pelo fim da discriminação dos doentes mentais na comparticipação estatal dos medicamentos.",
+    "PetDataEntrada": "1998-12-03",
+    "PeticoesAssociadas": null,
+    "PetId": "6200",
+    "PetLeg": "VII",
+    "PetNr": "141",
+    "PetNrAssinaturas": "19000",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56",
+        "obs": null,
+        "pag": [
+          "2466-2468"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-05-06",
+        "pubLeg": "VIII",
+        "pubNr": "62",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/062/2000-05-06/2466?pgs=2466-2468&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "121544",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1999-03-06",
+        "pubLeg": "VII",
+        "pubNr": "20",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/04/020/1999-03-06?org=PLC"
+      }
+    ]
+  }
+}
