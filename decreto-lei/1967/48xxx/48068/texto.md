@@ -1,0 +1,9 @@
+Decreto-Lei n.º 48068
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Nos termos do n.º 1 do artigo 69.º do Decreto n.º 38969, de 27 de Outubro de 1952, é autorizado o Governo, pelo Ministro da Educação Nacional, a aceitar da Sr.ª D. Maria Fernanda da Fonseca de Sousa Lima e do Sr. Salvador Fernandes Lima a importância de 250000$00 para fundo de manutenção da Cantina Escolar de João Nuno de Sousa Fernandes Lima, anexa à escola do núcleo de Montedor, freguesia de Carreço, concelho de Viana do Castelo.
+Art. 2.º A administração da Cantina é autónoma e será confiada a uma comissão de, pelo menos, três membros, nomeada pelo Ministro da Educação Nacional. Farão parte da comissão um dos beneméritos ou um seu representante, como presidente, e dois agentes de ensino, como vogais.
+Art. 3.º É concedido aos doadores o privilégio de indicarem dois professores para o preenchimento de duas vagas existentes no núcleo beneficiado pela Cantina ou que nele venham a verificar-se no prazo de dez anos após a publicação do presente diploma.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 23 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
