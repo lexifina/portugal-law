@@ -1,0 +1,13 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto Regulamentar n.º 81/82, publicado no Diário da República, 1.ª série, n.º 254, de 3 de Novembro de 1982, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 21.º, onde se lê:
+...
+2 - Os lugares a efectuar à Direcção-Geral da Administração ...
+deve ler-se:
+...
+2 - Os lugares a afectar à Direcção-Geral da Administração ...
+No mapa a que se refere o n.º 1 do artigo 18.º, onde se lê:
+(ver documento original)
+deve ler-se:
+(ver documento original)
+Secretaria-Geral da Presidência do Conselho de Ministros, 15 de Dezembro de 1982. - O Secretário-Geral, França Martins.
