@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, de harmonia com comunicação da Embaixada da Bélgica em Lisboa, o Governo da Itália depositou, em 30 de Outubro de 1980, o instrumento de ratificação da Convenção Internacional para a Unificação de Certas Regras em Matéria de Conhecimento e Protocolo de assinatura, assinados em Bruxelas em 25 de Agosto de 1924, bem como do Protocolo que introduziu alterações àquela Convenção, assinado em Bruxelas em 23 de Fevereiro de 1968.
+Direcção-Geral dos Negócios Económicos, 20 de Janeiro de 1981. - O Adjunto do Director-Geral, Carlos Alberto Soares Simões Coelho.
