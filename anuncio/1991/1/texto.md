@@ -1,0 +1,4 @@
+Anúncio n.º 1/91
+Faz-se saber que no dia 23 de Novembro de 1990 foi instaurado na 1.ª Secção do Supremo Tribunal Administrativo, pelo magistrado do Ministério Público em exercício junto deste Tribunal, correndo termos pela 2.ª subsecção de processos, sob o n.º 28953, um processo de declaração de ilegalidade, com base na alínea i) do n.º 1 do artigo 26.º do Estatuto dos Tribunais Administrativos e Fiscais, dos artigos 14.º a 19.º do Decreto-Lei n.º 483/76, de 19 de Junho, publicado no Diário da República, 1.ª série, n.º 142, relativo à aprovação do Regulamento do Estágio para Solicitadores, e que os eventuais interessados podem intervir no processo, nos termos e nos prazos fixados na lei.
+A Escrivã-Adjunta, Maria José Santos Nunes Antunes.
+Supremo Tribunal Administrativo, 17 de Dezembro de 1990. - O Juiz Conselheiro Relator, António Fernando Samagaio.
