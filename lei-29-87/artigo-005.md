@@ -36,8 +36,10 @@ p) À protecção conferida pela lei penal aos titulares de cargos públicos;
 
 q) A apoio nos processos judiciais que tenham como causa o exercício das respectivas funções;
 
-r) A uso e porte de arma de defesa.
+r) A uso e porte de arma de defesa;
 
-2 - Os direitos referidos nas alíneas a), b), e), f), m), n) e r) do número anterior apenas são concedidos aos eleitos locais em regime de permanência.
+s) Ao exercício de todos os direitos previstos na legislação sobre protecção à maternidade e à paternidade.
+
+2 - Os direitos referidos nas alíneas a), b), e), f), m), n), r) e s) do número anterior apenas são concedidos aos eleitos locais em regime de permanência.
 
 3 - O direito referido na alínea h) do n.º 1 é exclusivo dos presidentes das câmaras municipais e dos seus substitutos legais.
