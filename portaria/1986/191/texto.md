@@ -1,0 +1,15 @@
+Portaria n.º 191/86
+de 8 de Maio
+Considerando que o mapa de pessoal do Centro Regional de Segurança Social de Viseu, publicado no Diário da República, 2.ª série, n.º 87, de 12 de Abril de 1984, contém um lugar de enfermeiro-supervisor, resultante da aplicação ao respectivo titular do Decreto-Lei n.º 305/81, de 12 de Novembro [artigo 6.º, n.º 1, alínea h)];
+Considerando que, pelo disposto na alínea a) do n.º 3 daquela disposição legal, o respectivo titular deve considerar-se simultaneamente provido em comissão de serviço por tempo indeterminado no lugar de enfermeiro-director com vencimento correspondente à letra D, segundo a tabela anexa ao referido diploma;
+Considerando que o quadro de pessoal, aprovado por portaria conjunta dos Secretários de Estado da Administração Pública, da Segurança Social e do Orçamento de 28 de Junho de 1985, publicado no Diário da República, 1.ª série, de 9 de Agosto de 1985, não contém igualmente o lugar em causa:
+Nestes termos, ao abrigo do disposto no artigo 1.º, n.º 2, do Decreto-Lei n.º 59/76, de 23 de Janeiro:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Trabalho e Segurança Social, o seguinte:
+1.º O mapa e o quadro de pessoal do Centro Regional de Segurança Social de Viseu, aprovados, respectivamente, por despacho e portaria conjuntos dos Secretários de Estado da Administração Pública, da Segurança Social e do Orçamento de 21 de Fevereiro de 1984 e de 28 de Junho de 1985 (Diário da República, 2.ª série, de 12 de Abril de 1984, e de 9 de Agosto de 1985), são aumentados do lugar constante do mapa anexo ao presente diploma.
+2.º Esta portaria produz efeitos a partir de 30 de Janeiro de 1984.
+Ministérios das Finanças e do Trabalho e Segurança Social.
+Assinada em 17 de Abril de 1986.
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro do Trabalho e Segurança Social, José Nobre Pinto Sancho, Secretário de Estado da Segurança Social.
+
+Mapa a que se refere o n.º 1.º da Portaria n.º 191/86
+(ver documento original)
