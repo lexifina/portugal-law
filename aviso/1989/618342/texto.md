@@ -1,0 +1,7 @@
+Aviso
+Por ordem superior se faz público que o embaixador de Portugal junto das Nações Unidas em Nova Iorque depositou, em 17 de Julho de 1989, o instrumento de ratificação do Acordo Internacional do Trigo, 1986 constituído pela Convenção sobre o Comércio do Trigo de 1986, concluída em Londres em 14 de Março de 1986, e pela Convenção Relativa à Ajuda Alimentar de 1986, concluída em Londres em 13 de Março de 1986.
+Naquela data tinham ratificado, aderido, aceitado ou aprovado a Convenção sobre o Comércio do Trigo de 1986 os seguintes Estados:
+África do Sul, Argélia, Austrália, Áustria, Barbados, Bélgica, Bolívia, Canadá, Cuba, Dinamarca, Equador, Espanha, Egipto, Estados Unidos da América, Finlândia, França, República Federal da Alemanha, Hungria, Índia, Iraque, Irlanda, Israel, Japão, Luxemburgo, Malta, Maurícias, Noruega, Paquistão, Reino Unido, República da Coreia, Santa Sé, Suécia, Suíça, Tunísia, Turquia e União das Repúblicas Socialistas Soviéticas.
+Na mesma data tinham ratificado, aderido, aceitado ou aprovado a Convenção Relativa à Ajuda Alimentar de 1986 os seguintes Estados:
+Austrália, Áustria, Bélgica, Canadá, Dinamarca, Espanha, Estados Unidos da América, Finlândia, França, Irlanda, Japão, Luxemburgo, Noruega, Reino Unido, República Federal da Alemanha, Suécia e Suíça.
+Direcção-Geral dos Negócios Político-Económicos, 31 de Julho de 1989. - O Director de Serviços dos Assuntos Multilaterais, José Tadeu Soares.
