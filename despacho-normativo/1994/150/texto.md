@@ -1,0 +1,10 @@
+Despacho Normativo n.º 150/94
+Considerando que em 7 de Junho de 1991 cessou a comissão de serviço a licenciada Maria Teresa de Jesus Campos, à data directora de serviços do Gabinete para as Comunidades Europeias do Ministério das Obras Públicas, Transportes e Comunicações;
+Considerando o disposto na alínea a) do n.º 2 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, e nos n.os 4 e 5 do mesmo artigo e diploma;
+Considerando que, pela aceitação em 15 de Julho de 1991 do lugar de assessor de aviação civil do quadro de pessoal da Direcção-Geral da Aviação Civil, aquela funcionária ficou exonerada do quadro do serviço de origem, sem que neste lhe tivesse sido aplicado o regime previsto no Decreto-Lei n.º 323/89;
+Considerando que, ao abrigo do artigo 7.º do Decreto-Lei n.º 373/91, de 8 de Outubro, e através da lista nominativa publicada no Diário da República, 2.ª série, n.º 24, de 29 de Janeiro de 1992, a mesma transitou para a categoria de inspector superior, área de análise económico-financeira e estatística, da carreira de inspecção superior de aviação civil, criada por aquele diploma legal;
+Considerando que, de outra forma, não seria assegurado àquela dirigente o direito à carreira consagrado pela alínea a) do n.º 2 do citado artigo 18.º;
+Determina-se o seguinte:
+1 - É criado no quadro de pessoal da Direcção-Geral da Aviação Civil, aprovado pela Portaria n.º 222/88, de 13 de Abril, e alterado pela Portaria n.º 1226/91, de 31 de Dezembro, e legislação complementar, um lugar de inspector superior principal, na área de análise económico-financeira e estatística, da carreira de inspecção superior de aviação civil, a extinguir quando vagar.
+2 - A criação do lugar referido no número anterior produz efeitos desde 7 de Junho de 1991.
+Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações, 23 de Fevereiro de 1994. - O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa. - O Secretário de Estado dos Transportes, Jorge Manuel Mendes Antas.
