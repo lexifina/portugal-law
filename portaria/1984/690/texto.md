@@ -1,0 +1,21 @@
+Portaria n.º 690/84
+de 6 de Setembro
+Tendo em vista o disposto na Portaria n.º 826/82, de 30 de Agosto:
+Ao abrigo do disposto no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:
+1.º À Portaria n.º 826/82, de 30 de Agosto, é aditado o n.º 8.º-A, com a seguinte redacção:
+8.º-A
+(Casos especiais)
+É igualmente facultada a utilização do regime de reingresso nos seguintes casos:
+a) Estudantes que hajam estado inscritos no curso de professores de Educação Física do Instituto Nacional de Educação Física, sem o terem concluído, quando pretendam prosseguir estudos no actual curso de licenciatura em Educação Física ministrado num instituto superior de educação física:
+b) Estudantes que hajam estado inscritos num dos cursos de bacharelato para formação de professores a que se refere o Decreto-Lei n.º 183/78, de 16 de Julho, quando pretendam prosseguir estudos no curso de licenciatura em ensino que lhe sucedeu, sem prejuízo de solicitarem o reingresso para estabelecimento diverso.
+2.º À Portaria n.º 826/82 é aditado o n.º 9.º-A, com a seguinte redacção:
+9.º-A
+(Familiares de funcionários públicos em missão oficial no estrangeiro)
+1 - Não estará igualmente sujeito a limitações quantitativas o reingresso do estudante que, sendo cônjuge ou filho de funcionário público português, haja interrompido os respectivos estudos para acompanhar o familiar, quando este se haja deslocado em missão oficial para o estrangeiro por um período não inferior a 2 anos.
+2 - Para beneficiarem do disposto no n.º 1 aqueles estudantes deverão requerer o reingresso no estabelecimento de ensino em que se encontravam inscritos à data da interrupção dos estudos.
+3.º No quadro do anexo I à Portaria n.º 826/82, que estabelece o calendário para 1983-1984 e anos subsequentes, o n.º 5 passa a ter a seguinte redacção:
+5 - Entrega do requerimento: de 15 de Agosto a 7 de Setembro.
+Ministério da Educação.
+Assinada em 23 de Agosto de 1984.
+Pelo Ministro da Educação, Joaquim Germano Pinto Machado Correia da Silva, Secretário de Estado do Ensino Superior.
