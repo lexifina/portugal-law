@@ -1,0 +1,73 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "tipo": "Projeto de Lei",
+  "numero": "93",
+  "id": "19166",
+  "fases": 19,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2002-07-02",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2003-09-14",
+    "DataInicioleg": "2002-04-05",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PCP",
+        "idCadastro": "1485",
+        "nome": "Rodeia Machado"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1058",
+        "nome": "Bernardino Soares"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "215",
+        "nome": "Lino de Carvalho"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1423",
+        "nome": "Luísa Mesquita"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1715",
+        "nome": "Bruno Dias"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PCP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "19166",
+    "IniLeg": "IX",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a5357357059326c6864476c32595338344f57557a4d324d794d6930305a6a49354c54526d4d6d4d74596d4e695a53307a4e544268596d55304d7a4d324d4755755a47396a&fich=89e33c22-4f29-4f2c-bcbe-350abe43360e.doc&Inline=true",
+    "IniNr": "93",
+    "IniObs": "touros de morte",
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Altera a Lei n.º 12-B/2000, de 8 de Julho, que proíbe como contraordenação os espectáculos tauromáquicos em que seja infligida a morte às reses neles lidadas.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
