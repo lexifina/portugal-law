@@ -1,0 +1,3 @@
+Resolução do Conselho de Ministros
+O Conselho de Ministros, na sua sessão de 5 de Dezembro de 1975, deliberou, sob proposta do Ministro dos Transportes e Comunicações, nos termos da alínea a) do n.º 1 do artigo 25.º do Decreto-Lei n.º 49368, de 10 de Novembro de 1969, conceder a exoneração, a seu pedido, ao coronel engenheiro de transmissões Francisco José Pinto Correia do cargo de presidente do conselho de administração das empresas públicas Correios e Telecomunicações de Portugal e Telefones de Lisboa e Porto, para que fora nomeado por portaria de 21 de Novembro de 1974, publicada no Diário do Governo, 2.ª série, de 4 de Dezembro de 1974.
+Presidência do Conselho de Ministros, 5 de Dezembro de 1975. - O Primeiro-Ministro, José Baptista Pinheiro de Azevedo.
