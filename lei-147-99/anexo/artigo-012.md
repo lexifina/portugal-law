@@ -14,4 +14,4 @@
 
 2 - As comissões de protecção exercem as suas atribuições em conformidade com a lei e deliberam com imparcialidade e independência.
 
-3 - As comissões de proteção são declaradas instaladas por portaria dos membros do Governo responsáveis pelas áreas da justiça, da solidariedade e da segurança social.
+3 - As comissões de protecção são declaradas instaladas por portaria conjunta do Ministro da Justiça e do Ministro do Trabalho e da Solidariedade.

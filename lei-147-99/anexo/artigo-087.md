@@ -6,7 +6,7 @@
 
 2 - Os exames médicos referidos no número anterior são realizados por pessoal médico devidamente qualificado, sendo garantido à criança ou ao jovem o necessário apoio psicológico.
 
-3 - Aos exames médicos é correspondentemente aplicável o disposto nos artigos 9.º e 10.º, salvo nas situações de emergência previstas no artigo 91.º
+3 - Aos exames médicos é correspondentemente aplicável o disposto nos artigos 9.º e 10.º
 
 4 - Os exames têm carácter de urgência e, salvo quando outro prazo for exigido pela sua natureza, os respectivos relatórios são apresentados no prazo máximo de 30 dias.
 

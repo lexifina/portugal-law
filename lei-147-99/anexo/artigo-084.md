@@ -2,4 +2,6 @@
 
 ### Audição da criança e do jovem
 
-As crianças e os jovens são ouvidos pela comissão de proteção ou pelo juiz sobre as situações que deram origem à intervenção e relativamente à aplicação, revisão ou cessação de medidas de promoção e proteção, nos termos previstos nos artigos 4.º e 5.º do Regime Geral do Processo Tutelar Cível, aprovado pela Lei n.º 141/2015, de 8 de setembro.
+1 - As crianças e os jovens com mais de 12 anos, ou com idade inferior quando a sua capacidade para compreender o sentido da intervenção o aconselhe, são ouvidos pela comissão de protecção ou pelo juiz sobre as situações que deram origem à intervenção e relativamente à aplicação, revisão ou cessação de medidas de promoção e protecção.
+
+2 - A criança ou o jovem tem direito a ser ouvido individualmente ou acompanhado pelos pais, pelo representante legal, por advogado da sua escolha ou oficioso ou por pessoa da sua confiança.

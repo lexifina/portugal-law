@@ -10,7 +10,7 @@ b) Presidir às reuniões da comissão alargada e da comissão restrita e orient
 
 c) Promover a execução das deliberações da comissão de protecção;
 
-d) Coordenar os trabalhos de elaboração do plano anual de atividades, elaborar o relatório anual de atividades e avaliação e submetê-los à aprovação da comissão alargada;
+d) Elaborar o relatório anual de actividades e avaliação e submetê-lo à aprovação da comissão alargada;
 
 e) Autorizar a consulta dos processos de promoção dos direitos e de protecção;
 
