@@ -1,9 +1,11 @@
 # Artigo 452.º
 
-### (Exame das contas nas sociedades com conselho fiscal)
+### Apreciação pelo conselho fiscal
 
-1 - Nas sociedades que tenham conselho fiscal, o membro que for revisor oficial de contas deve proceder ao exame do relatório e das contas apresentados pelo conselho de administração e elaborar relatório anual sobre a fiscalização efectuada, distinto do relatório ou do parecer exigido por lei ao órgão de fiscalização em que se integra, nos mesmos prazos legais que vinculam este último, a apresentar ao conselho de administração e, se o entender, à assembleia geral.
+1 - O conselho fiscal deve apreciar o relatório de gestão, as contas do exercício, o relatório anual do revisor oficial de contas e a certificação legal das contas ou a declaração de impossibilidade de certificação.
 
-2 - O relatório deve ter o conteúdo exigido pela lei respectiva.
+2 - Se o conselho concordar com a certificação legal das contas ou com a declaração de impossibilidade de certificação, deve declará-lo expressamente no seu relatório.
 
-3 - Em consequência do exame das contas a que procedeu, o revisor oficial de contas deve emitir documento de certificação legal das contas, com ou sem reservas, ou declaração de recusa de certificação legal ou declaração de impossibilidade de certificação, nos termos da lei.
+3 - Se discordar do documento referido no número anterior, o conselho deve consignar no relatório as razões da sua discordância; se esta for no sentido de recusar a aprovação ou de a conceder com reservas, deve lançar essa menção; se a discordância for no sentido de aprovar plenamente as contas ou de as aprovar com reservas diferentes das propostas, não pode tal menção ser lançada e, em vez dela, deve ser declarado que, pelas razões especificadas, o conselho não chegou a acordo sobre a aprovação das contas.
+
+4 - O relatório e parecer do conselho fiscal devem ser remetidos ao conselho de administração, no prazo de 15 dias a contar da data em que tiver recebido os referidos documentos de prestação de contas.

@@ -1,9 +1,9 @@
 # Artigo 455.º
 
-### (Deliberação do conselho geral)
+### Apreciação geral da administração e da fiscalização
 
-1 - A deliberação do conselho geral que aprove sem reservas as contas da sociedade pode ser declarada nula pelo tribunal a requerimento de qualquer accionista ou, verificando-se ofensa de normas destinadas a proteger interesses de credores, também a requerimento destes, no prazo de três anos.
+1 - A assembleia geral referida no artigo 376.º deve proceder à apreciação geral da administração e fiscalização da sociedade.
 
-2 - Se o conselho geral, de acordo com a certificação legal das contas ou com a declaração de impossibilidade de certificação legal das contas do revisor oficial de contas, não aprovar as contas ou as aprovar com reservas, a sua deliberação é definitiva.
+2 - Essa apreciação deve concluir por uma deliberação de confiança em todos ou alguns dos órgãos de administração e de fiscalização e respectivos membros ou por destituição de algum ou alguns destes, podendo, nas sociedades com conselho geral ou com administradores nomeados pelo Governo, a assembleia votar a desconfiança em directores ou nesses administradores.
 
-3 - Se o conselho geral, em desacordo com tal certificação ou declaração do revisor oficial de contas, não aprovar as contas ou as aprovar como reservas diversas, a divergência deve ser submetida à assembleia geral, que delibera sobre os pontos de discordância entre as contas apresentadas pela direcção, a certificação ou declaração do revisor oficial de contas e a deliberação do conselho geral.
+3 - As destituições e votos de confiança previstos no número anterior podem ser deliberados independentemente de menção na convocatória da assembleia.

@@ -2,4 +2,4 @@
 
 ### (Depósitos)
 
-Salvo quanto a sociedades em nome colectivo, o relatório de gestão e os documentos de prestação de contas devidamente aprovados devem ser depositados na conservatória do registo comercial, nos termos da lei respectiva.
+O relatório de gestão, as contas do exercício e demais documentos de prestação de contas devidamente aprovados devem ser depositados na conservatória do registo comercial, nos termos da lei respectiva.

@@ -6,6 +6,8 @@
 
 ### Obrigação de consolidação de contas
 
-1 - Os gerentes, administradores ou directores de uma sociedade obrigada por lei à consolidação de contas (sociedade consolidante) devem elaborar e submeter aos órgãos competentes, em conjunto com os documentos de prestação de contas do exercício, o relatório consolidado de gestão, o balanço consolidado, a demonstração consolidada de resultados e o anexo ao balanço e demonstração de resultados consolidados, nos termos do presente capítulo e da lei.
+1 - Os gerentes, administradores ou directores de uma sociedade obrigada por lei à consolidação de contas devem elaborar e submeter aos órgãos competentes o relatório consolidado de gestão, as contas consolidadas do exercício e os demais documentos de prestação de contas consolidadas.
 
-2 - Os gerentes, administradores ou directores de sociedades a consolidar que sejam empresas filiais devem prestar em tempo útil à sociedade ou empresa consolidante todas as informações necessárias à consolidação de contas.
+2 - Os documentos de prestações de contas referidos no número anterior devem ser apresentados e apreciados pelos órgãos competentes no prazo de cinco meses a contar da data de encerramento do exercício.
+
+3 - Os gerentes, administradores ou directores de cada sociedade a incluir na consolidação que seja empresa filial ou associada devem, em tempo útil, enviar à sociedade consolidante o seu relatório e contas e a respectiva certificação legal ou declaração de impossibilidade de certificação a submeter à respectiva assembleia geral, bem como prestar as demais informações necessárias à consolidação de contas.

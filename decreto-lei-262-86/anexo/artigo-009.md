@@ -14,11 +14,13 @@ d) O objecto da sociedade;
 
 e) A sede da sociedade;
 
-j) O capital social, salvo nas sociedades em nome colectivo em que todos os sócios contribuam apenas com a sua indústria;
+f) O capital social, salvo nas sociedades em nome colectivo em que todos os sócios contribuam apenas com a sua indústria;
 
 g) A quota de capital e a natureza da entrada de cada sócio, bem como os pagamentos efectuados por conta de cada quota;
 
 h) Consistindo a entrada em bens diferentes de dinheiro, a descrição destes e a especificação dos respectivos valores.
+
+i) Quando o exercício anual for diferente do ano civil, a data do respectivo encerramento, a qual deve coincidir com o último dia de um mês de calendário, sem prejuízo do previsto no artigo 7.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas.
 
 2 - São ineficazes as estipulações do contrato de sociedade relativas a entradas em espécie que não satisfaçam os requisitos exigidos nas alíneas g) e h) do n.º 1.
 

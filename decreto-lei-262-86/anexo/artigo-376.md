@@ -2,7 +2,7 @@
 
 ### (Assembleia geral anual)
 
-1 - A assembleia geral dos accionistas deve reunir nos três primeiros meses de cada ano para:
+1 - A assembleia geral dos accionistas deve reunir no prazo de três meses a contar da data do encerramento do exercício ou no prazo de cinco meses a contar da mesma data quando se tratar de sociedades que devam apresentar contas consolidadas ou apliquem o método da equivalência patrimonial para:
 
 a) Deliberar sobre o relatório de gestão e as contas do exercício, quando a assembleia seja o órgão competente para isso;
 

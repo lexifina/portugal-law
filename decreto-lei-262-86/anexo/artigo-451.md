@@ -4,10 +4,12 @@
 
 # Artigo 451.º
 
-### (Apreciação geral da administração e da fiscalização)
+### Exame das contas nas sociedades com conselho fiscal
 
-1 - A assembleia geral referida no artigo 376.º deve proceder à apreciação geral da administração e fiscalização da sociedade.
+1 - Até 30 dias antes da data da assembleia geral convocada para apreciar os documentos de prestação de contas, o conselho de administração deve apresentar ao conselho fiscal o relatório da gestão e as contas do exercício.
 
-2 - Essa apreciação deve concluir ou por uma deliberação de confiança em todos ou alguns dos órgão de administração e de fiscalização e respectivos membros ou por destituição de algum ou de alguns destes; nas sociedades com conselho geral ou tratando-se de administradores nomeados pelo Governo, pode a assembleia votar a desconfiança em directores ou nesses administradores.
+2 - O membro do conselho fiscal que for revisor oficial de contas deve apreciar o relatório de gestão, completar o exame das contas com vista à sua certificação legal e elaborar relatório anual sobre a fiscalização efectuada.
 
-3 - As destituições e votos de confiança previstos no número anterior podem ser deliberados independentemente de menção na convocatória da assembleia.
+3 - Em consequência do exame das contas, o revisor oficial de contas deve emitir documento de certificação legal das contas, com ou sem reservas, certificação adversa, ou declaração de impossibilidade de certificação legal, nos termos da lei.
+
+4 - O relatório anual do revisor oficial de contas sobre a fiscalização efectuada deve ter o conteúdo exigido pela lei respectiva.

@@ -2,7 +2,7 @@
 
 ### Fiscalização das contas consolidadas
 
-1 - A entidade que elabora as contas consolidadas deve submetê-las a exame pelo seu órgão de fiscalização, nos termos dos artigos 452.º a 455.º, com as necessárias adaptações.
+1 - A entidade que elabora as contas consolidadas deve submetê-las a exame pelo revisor oficial de contas e pelo seu órgão de fiscalização, nos termos dos artigos 451.º a 454.º, com as necessárias adaptações.
 
 2 - Caso tal entidade não tenha órgão de fiscalização, deve mandar fiscalizar as contas consolidadas, nos termos do número anterior, por um revisor oficial de contas.
 
