@@ -10,7 +10,7 @@ b) Direito de audição antes do indeferimento total ou parcial dos pedidos, rec
 
 c) Direito de audição antes da revogação de qualquer benefício ou acto administrativo em matéria fiscal;
 
-d) Direito de audição antes da decisão de aplicação de métodos indirectos;
+d) Direito de audição antes da decisão de aplicação de métodos indirectos, quando não haja lugar a relatório de inspecção;
 
 e) Direito de audição antes da conclusão do relatório da inspecção tributária.
 

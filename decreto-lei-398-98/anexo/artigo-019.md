@@ -12,7 +12,7 @@ b) Para as pessoas colectivas, o local da sede ou direcção efectiva ou, na fal
 
 3 - É ineficaz a mudança de domicílio enquanto não for comunicada à administração tributária.
 
-4 - Os sujeitos passivos residentes no estrangeiro, bem como os que, embora residentes no território nacional, se ausentem deste por período superior a seis meses, devem, para efeitos tributários, designar um representante com residência em território nacional.
+4 - Os sujeitos passivos residentes no estrangeiro, bem como os que, embora residentes no território nacional, se ausentem deste por período superior a seis meses, bem como as pessoas colectivas e outras entidades legalmente equiparadas que cessem a actividade, devem, para efeitos tributários, designar um representante com residência em território nacional.
 
 5 - Independentemente das sanções aplicáveis, depende da designação de representante nos termos do número anterior o exercício dos direitos dos sujeitos passivos nele referidos perante a administração tributária, incluindo os de reclamação, recurso ou impugnação.
 
