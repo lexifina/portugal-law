@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo uma comunicação do Ministério dos Negócios Estrangeiros dos Países Baixos, o Governo da Ilha Maurícia declarou que, nos termos do artigo 3.º da Convenção Destinada a Suprimir a Exigência de Legalização dos Actos Públicos Estrangeiros, assinada na Haia em 5 de Outubro de 1961, a autoridade competente para, naquele país, efectuar a aposição da denominada «apostilha» é o Secretário Permanente («The Permanent Secretary») ou, na sua ausência, um Secretário Principal Substituto («A Principal Assistant Secretary») da Repartição do Primeiro-Ministro.
+Secretaria-Geral do Ministério, 18 de Março de 1974. - O Secretário-Geral, José Calvet de Magalhães.
