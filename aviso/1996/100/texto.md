@@ -1,0 +1,8 @@
+Aviso n.º 100/96
+Por ordem superior se torna público que, por nota de 7 de Dezembro de 1995 e nos termos do artigo 37.º da Convenção sobre o Reconhecimento e a Execução de Decisões Relativas às Obrigações de Alimentos, concluída na Haia em 2 de Outubro de 1973, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos informou que o instrumento de adesão depositado pela Polónia em 14 de Fevereiro de 1995 continha a seguinte reserva:
+Tradução não oficial
+«Reserva referida no artigo 26(3) da Convenção sobre o Reconhecimento e a Execução de Decisões Relativas às Obrigações de Alimentos, concluída em 2 de Outubro de 1973:
+A República da Polónia, nos termos do artigo 34, reserva-se o direito de não reconhecer ou executar uma decisão ou transacção que não preveja prestações periódicas.»
+Nos termos do artigo 31.º, parágrafo 3.º, a adesão só produzirá efeitos no tocante às relações entre a Polónia e os Estados contratantes que não tiverem levantado objecção a esta adesão no prazo de 12 meses a contar da data da recepção da presente notificação. Neste caso, o prazo de 12 meses decorre de 15 de Abril de 1995 a 15 de Abril de 1996.
+Portugal é Parte na mesma Convenção, que foi aprovada para ratificação pelo Decreto n.º 338/75, de 2 de Julho, tendo depositado o seu instrumento de ratificação em 4 de Dezembro de 1975. Conforme aviso publicado no Diário da República, 1.ª série, n.º 107, de 9 de Maio de 1977, a Convenção vigora para Portugal desde 1 de Agosto de 1976. A autoridade central em Portugal é a Direcção-Geral dos Serviços Judiciários, do Ministério da Justiça.
+Departamento de Assuntos Jurídicos, 29 de Março de 1996. - O Director, José Maria Teixeira Leite Martins.
