@@ -1,0 +1,5 @@
+Portaria n.º 19028
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com 100000$00 a verba do capítulo 10.º, artigo 1683.º, n.º 4), alínea b) «Encargos gerais - Deslocações de pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Moçambique para o ano de 1961, tomando como contrapartida igual quantia a sair das disponibilidades existentes na verba do mesmo capítulo, artigo 1684.º, n.º 4), alínea b) «Diversas despesas - Despesas eventuais (artigo 1.º e § 2.º do artigo 6.º do Decreto n.º 22545, de 18 de Maio de 1933) - Não especificadas - Na metrópole», do referido orçamento.
+Ministério do Ultramar, 13 de Fevereiro de 1962. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - J. da Costa Freitas.
