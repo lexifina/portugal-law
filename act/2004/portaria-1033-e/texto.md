@@ -1,0 +1,9 @@
+Portaria n.º 1033-E/2004
+de 10 de Agosto
+Pela Portaria n.º 521/2003, de 2 de Julho, foi suspenso o exercício da caça e de actividades de carácter venatório na zona de caça turística da Herdade das Noitinhas (processo n.º 1099-DGF), situada no município de Ponte de Sor, com a área de 580,6125 ha, concessionada à RIQUITESO - Caça e Pesca, Lda., com base na falta de pagamento da taxa anual que é devida às zonas de caça associativas e turísticas, tendo sido determinado o prazo de 90 dias para a entidade concessionária suprir a falta que determinou a suspensão.
+Considerando que se encontra ultrapassado o prazo determinado no n.º 2 do n.º 12.º da Portaria n.º 1391/2002, de 25 de Outubro, sem que para tanto tenha sido suprida a falta origem da suspensão;
+Considerando que, nos termos da alínea b) do n.º 1 do artigo 47.º e da alínea b) do n.º 1 do artigo 38.º, ambos do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, a falta que determinar a suspensão, senão suprida, igualmente pode constituir causa de revogação:
+Assim:
+Com fundamento no disposto na alínea b) do n.º 1 do artigo 47.º e na alínea b) do n.º 1 e no n.º 3 do artigo 38.º, todos do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro:
+Manda o Governo, pelos Ministros da Economia e da Agricultura, Desenvolvimento Rural e Pescas, que seja revogada a concessão da zona de caça turística da Herdade das Noitinhas (processo n.º 1099-DGF), atribuída pela Portaria n.º 722-S8/92, de 15 de Julho, à RIQUITESO - Caça e Pesca, Lda.
+Pelo Ministro da Economia, Luís Manuel Miguel Correia da Silva, Secretário de Estado do Turismo, em 13 de Julho de 2004. - Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 5 de Julho de 2004.
