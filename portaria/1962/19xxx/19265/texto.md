@@ -1,0 +1,3 @@
+Portaria n.º 19265
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial da quantia de 22060$00 para reforçar a verba do artigo 12.º «Diversos encargos - Deslocação, subsídio de viagem e de marcha», da tabela de despesa do orçamento privativo do Instituto de Medicina Tropical para o ano de 1962, tomando como contrapartida disponibilidades existentes na verba do artigo 2.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da mesma tabela de despesa.
+Ministério do Ultramar, 7 de Julho de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira.
