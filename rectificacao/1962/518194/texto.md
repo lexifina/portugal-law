@@ -1,0 +1,5 @@
+Rectificações
+Tendo sido publicado com inexactidão no Diário do Governo n.º 35, 1.ª série, de 16 de Fevereiro findo, pelo Ministério do Exército, Repartição do Gabinete, o Decreto-Lei n.º 44190, determino que se façam as seguintes rectificações:
+No § 1.º do artigo 2.º, no Governo Militar de Lisboa, onde se lê: «... os concelhos de Almada, Barreiro, Seixal, Montijo, Palmela, Sesimbra e Setúbal, ...», deve ler-se: «... os concelhos de Almada, Barreiro, Seixal, Montijo, Palmela, Sesimbra, Alcochete, Moita e Setúbal, ...».
+No mesmo parágrafo, na 1.ª região militar, onde se lê: «... os concelhos de Espinho, Cinfães, Resende, Lamego, Armamar, Tabuaço e S. João da Pesqueira, do distrito de Viseu; ...», deve ler-se: «... os concelhos de Espinho, Feira e Castelo de Paiva, do distrito de Aveiro; os concelhos de Cinfães, Resende, Lamego, Armamar, Tabuaço e S. João da Pesqueira, do distrito de Viseu; ...».
+Presidência do Conselho, 8 de Março de 1962. - O Presidente do Conselho, António de Oliveira Salazar.
