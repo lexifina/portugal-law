@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1937/07/16100/06740674.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1937-07-13",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "02a1a139c0b531512b73fbcfb4b93fb004bd36d94a7ec702ff4d208d73a61cf4",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.2,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "a6175e6c31eedaccac5b5d140ca717fcc35372ce55ae48b74fd8e878a4e3887a",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 232
 }
