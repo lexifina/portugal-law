@@ -1,0 +1,5 @@
+Declaração de Rectificação n.º 23-D/2002
+Para os devidos efeitos se declara que o Decreto-Lei n.º 11/2002, publicado no Diário da República, 1.ª série, n.º 87, de 13 de Abril de 2002, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 11.º, onde se lê «Relações diplomáticas a consulares» deve ler-se «Relações diplomáticas e consulares».
+No artigo 25.º, n.º 4, alínea a), onde se lê «Essa Parte deve, a pedido da outra Parte, pagar o montante da dívida mencionada no n.º 3 à outra Parte a qualquer excedente à pessoa, em conformidade com o disposto em acordos administrativos adoptados nos termos do artigo 28.º; e» deve ler-se «Essa parte deve, a pedido da outra Parte, pagar o montante da dívida mencionada no n.º 3 à outra Parte e qualquer excedente à pessoa, em conformidade com o disposto em acordos administrativos adoptados nos termos do artigo 28.º; e».
+Secretaria-Geral da Presidência do Conselho de Ministros, 21 de Junho de 2002. - O Secretário-Geral, José M. Sousa Rego.
