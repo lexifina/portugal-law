@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ktYqpeS%2ft%2bZbliS4sHhftatFgOONJZv%2b0jwNSKIew1t0xo7wpSD4Wuod7wOpHm6JnVumY%2fcLg1QEJ6QuXOoI0mCZg8Now%2fNFrlqr4xaPyukQAb7VOIDJycUu8LgcqeBWkrLalvQbJNVVjYrmyeKurhYgJ88b%2bTAHUhqae0PG2tWw6wd9S%2fB1oSkkszdy9OWFhN3wUjxq5HmVweG9RQH09rl4k2N5tPgs%2fzprZm2tzFHnHSctshbR2DfX7RwTBfcB1zHFUq7rfF1ywAQTHCnkTEnmy8XmgIMFNpTZggbLiolv7UH6aQ9wXzrJpNDVBZQItckByiVODO72lKf0LysofiwVHTL6an5RgmBfpD1TjRRanKSw%2fu9%2bMNyeFb2ozzbOeEiwgdJpFNYQkXLYkgJujw%3d%3d&fich=RequerimentosIX_json.txt&Inline=true",
+  "ficheiro_sha256": "234acc6bf0a22a14e4ad1370daea559258a1b7960a20d3feebcabf91a9366690",
+  "legislatura": "IX",
+  "id": "26543",
+  "tipo": "Requerimento",
+  "numero": "1023",
+  "data_registo": "2002-10-03",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Porta-aviões \"USS George Washington\" ancorado no rio Tejo",
+    "Autores": [
+      {
+        "GP": "PEV",
+        "idCadastro": "231",
+        "nome": "Isabel Castro"
+      }
+    ],
+    "DataEnvio": "2002-10-09",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2002-10-09",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DAS CIDADES,  ORDENAMENTO DO TERRITÓRIO E  AMBIENTE",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": null,
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2002-10-03",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077765a6a6b35596a5935596a67744e6a5a694d433030595759324c5745344e474d744d6a55334d6a45325a4756694d6a5a6c4c6e426b5a673d3d&fich=f99b69b8-66b0-4af6-a84c-257216deb26e.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "26543",
+    "Legislatura": "IX",
+    "Nr": "1023",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "273916",
+        "obs": "88-(19)",
+        "pag": [
+          "88-(19)-88-(19)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2002",
+        "pubLeg": "IX",
+        "pubNr": "16",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/016S1/2002-10-12/88-(19)?pgs=88-(19)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": [
+      {
+        "dataResposta": "2003-04-16",
+        "docRemetida": null,
+        "entidade": null,
+        "ficheiro": "",
+        "ficheiroComTipo": null,
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "279215",
+            "obs": "282-(28)",
+            "pag": [
+              "282-(28)-282-(28)"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2003",
+            "pubLeg": "IX",
+            "pubNr": "41",
+            "pubSL": "1",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/041S1/2003-05-03/282-(28)?pgs=282-(28)&org=PLC"
+          }
+        ]
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
