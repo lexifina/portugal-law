@@ -1,0 +1,8 @@
+Portaria n.º 1235/93
+de 2 de Dezembro
+Em aditamento à lista de entidades autorizadas a realizar arbitragens voluntárias institucionalizadas contida na Portaria n.º 761/92, de 7 de Agosto:
+Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no n.º 1 do artigo 4.º do Decreto-Lei n.º 425/86, de 27 de Dezembro, fazer constar que se encontram autorizadas a realizar arbitragens voluntárias institucionalizadas as seguintes entidades:
+14) Instituto do Consumidor, Associação de Municípios do Vale do Ave, União das Associações Empresariais do Vale de Ave, Associação Regional de Consumidores do Vale do Ave (ARCO) e Delegação de Guimarães da Ordem dos Advogados, com sede, respectivamente, na Praça do Duque de Saldanha, 31, em Lisboa, na Rua do Capitão Alfredo Guimarães, 1, em Guimarães, na Rua da Rainha D. Maria II, 58, em Guimarães, na Rua do Capitão Alfredo Guimarães, 1, em Guimarães, e no Palácio da Justiça, em Guimarães, autorizadas pelo despacho Ministerial n.º 53/93, de 30 de Outubro, a criar um centro de arbitragem. O centro, de carácter especializado, tem como objectivo a resolução de pequenos litígios de consumo, cobrirá as áreas concelhias que integram a Associação de Municípios do Vale do Ave (Vila do Conde, Póvoa de Varzim, Vila Nova de Famalicão, Santo Tirso, Guimarães, Póvoa de Lanhoso, Fafe e Vieira do Minho), podendo vir a alargar a sua actuação a outras áreas municipais convizinhas, e tem a sua sede na Rua do Capitão Alfredo Guimarães, 1, em Guimarães.
+Ministério da Justiça.
+Assinada em 30 de Outubro de 1993.
+Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.
