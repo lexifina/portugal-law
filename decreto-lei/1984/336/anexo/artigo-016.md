@@ -1,0 +1,9 @@
+## Secção II
+
+## Conselho de administração
+
+# Artigo 16.º
+
+1 - O conselho de administração é composto por 3, 5 ou 7 membros, um dos quais será o presidente, eleitos em assembleia geral por períodos de 3 anos renováveis.
+
+2 - Os administradores eleitos nos termos do n.º 1 manter-se-ão em funções até à data da sua efectiva substituição.
