@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/07/16100/08080809.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-07-11",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "7088a6a5e982aacc30351c05ae4378b83cbb8bc338b925de0701ea9c397fb5db",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.3,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "d12d0bd59cfeba42f86620b25770cd2475fe60422b5fd82ab21c2cb29e580cfd",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 1715
 }
