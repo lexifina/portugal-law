@@ -1,0 +1,11 @@
+Despacho
+Ouvida a comissão liquidatária;
+Ao abrigo do disposto no artigo 1.º, n.º 2, do Decreto-Lei n.º 443/74, de 12 de Setembro, determino o seguinte:
+1.º A extinção dos Grémios dos Retalhistas de Mercearia do Norte, Centro e Sul efectivar-se-á em 31 de Dezembro de 1974.
+2.º Para a Administração-Geral do Açúcar e do Álcool são transferidos o activo e passivo dos Grémios, bem como todos os valores e direitos, incluindo os emergentes de contratos de arrendamento, podendo estes últimos ser desafectados a favor da associação ou associações representativas da classe que vierem a constituir-se, tal como se prevê no artigo 3.º do Decreto-Lei n.º 433/74.
+3.º No disposto no número anterior exceptuam-se os direitos emergentes do contrato de arrendamento do Grémio dos Retalhistas de Mercearia do Centro, respectivos móveis e arquivos, que serão integrados no património do Estado, com destino aos serviços da Direcção-Geral da Fiscalização Económica.
+4.º Em despacho do Secretário de Estado do Abastecimento e Preços, será decidido o destino a dar aos arquivos dos Grémios, que ficam, entretanto, à disposição da Direcção-Geral do Comércio Interno.
+5.º O pessoal dos Grémios, com excepção do que transitar para a Direcção-Geral de Fiscalização Económica, ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 329-D/74, de 10 de Julho, e daquele que, pertencendo ao Grémio dos Retalhistas de Mercearia do Centro, for necessário para os serviços daquela Direcção-Geral, ficará na situação de adido aos quadros da Administração-Geral do Açúcar e do Álcool, até que seja resolvida a sua situação, nos termos previstos no artigo 5.º do Decreto-Lei n.º 443/74.
+6.º Enquanto não houver uma solução definitiva sobre a situação do pessoal, cabe à Administração-Geral do Açúcar e do Álcool o pagamento das remunerações ao pessoal a que se refere a parte final do número anterior, bem como de outros encargos e os complementos das pensões de reforma que lhe vierem a ser atribuídos.
+7.º A comissão liquidatária deverá continuar em exercício pelo tempo indispensável até estar efectuado o balanço do exercício de 1974 e feita a transferência do património.
+Ministério da Economia, 28 de Dezembro de 1974. - O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.
