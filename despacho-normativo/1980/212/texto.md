@@ -1,0 +1,8 @@
+Despacho Normativo n.º 212/80
+O Despacho Normativo n.º 9-T/80, publicado no Diário da República, 1.ª série, de 9 de Janeiro, concedeu à Companhia Portuguesa de Resseguros, E. P., ao abrigo do disposto no artigo único da Lei n.º 32/79, de 7 de Setembro, a isenção de contribuições, impostos, taxas, emolumentos e quaisquer outros encargos legais inerentes à fusão das resseguradoras nacionalizadas.
+No mesmo sentido, com referência à designação inicial de Portugal Re - Companhia Portuguesa de Resseguros, E. P., foi publicado idêntico despacho do Ministro das Finanças no Diário da República, 3.ª série, de 23 de Janeiro de 1980.
+Após a publicação do Decreto-Lei n.º 403/79, de 22 de Setembro, que operou a fusão das cinco empresas de resseguros nacionalizadas pelo Decreto-Lei n.º 135-A/75, de 15 de Março, houve que alterar algumas disposições daquele diploma de fusão, o que se verificou por força do Decreto-Lei n.º 517/79, de 28 de Dezembro, que modificou os respectivos artigos 1.º e 6.º
+Tais alterações foram impostas por via legislativa e não podem deixar de considerar-se inerentes e directamente conexas com a fusão das resseguradoras nacionalizadas, como decorre dos despachos acima referidos.
+E, em consequência, ao abrigo do disposto no artigo único da Lei n.º 32/79, de 7 de Setembro, determino o seguinte:
+A isenção de contribuições, impostos, taxas, emolumentos e quaisquer outros encargos legais inerentes à fusão das resseguradoras nacionalizadas abrange as alterações estatutárias impostas pelo Decreto-Lei n.º 517/79, de 28 de Dezembro.
+Ministério das Finanças e do Plano, 3 de Julho de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.
