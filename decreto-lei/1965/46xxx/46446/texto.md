@@ -1,0 +1,7 @@
+Decreto-Lei n.º 46446
+Considerando que a obtenção dos meios materiais da Força Aérea tem de processar-se com regularidade e dentro das melhores normas de economia;
+Considerando que é plenamente justificável colocar a Força Aérea ao abrigo do regime especial já vigente para o Exército, a Armada e outros serviços públicos;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. As direcções dos serviços da Força Aérea e os seus órgãos de execução e as cantinas da Força Aérea ficam equiparados a armazenistas, para o efeito da aquisição de géneros alimentares e outros de cujo fornecimento estejam encarregados ou que sejam objecto da sua laboração normal.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 20 de Julho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.
