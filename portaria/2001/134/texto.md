@@ -1,0 +1,17 @@
+Portaria n.º 134/2001
+de 28 de Fevereiro
+A entrada em vigor do Decreto Regulamentar n.º 7/2000, de 30 de Maio, estabelecendo a possibilidade de, a título excepcional, autorizar a captura de meixão na safra 2000-2001, levou à publicação das Portarias n.os 36/2001 e 38-C/2001, de 17 de Janeiro, que estabeleceram o regime aplicável à pesca do meixão.
+No quadro de uma gestão sustentada dos recursos, com ponderação dos impactes sociais envolvidos, o Governo tem vindo gradualmente a reduzir todos os anos o número de licenças atribuídas, que foi de 432 em 1999-2000, orientação que presidiu ao regime definido para 2000-2001.
+Sucede, porém, que o número máximo de licenças fixado na Portaria n.º 36/2001 excluiu alguns inscritos marítimos cujos pedidos deram atempadamente entrada nos diversos serviços da administração, bem como de alguns profissionais da pesca que operam a bordo de embarcações da pesca, cuja actividade foi particularmente afectada pelas condições climatéricas adversas que se têm verificado no corrente ano, pelo que importa não só alterar aquele número de licenças bem como os critérios para a sua atribuição, aproveitando-se para revogar as citadas portarias, evitando-se deste modo a sempre indesejável proliferação legislativa.
+Assim, ao abrigo do disposto na alínea b) do n.º 2 do artigo 4.º e do artigo 13.º do Decreto-Lei n.º 278/87, de 7 de Julho, com a nova redacção que lhe foi dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro, e do n.º 2 do artigo 54.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, com a redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º O número máximo de licenças a atribuir na safra de 2000-2001 da pesca do meixão é fixado em 260.
+2.º No preenchimento do contingente referido no número anterior serão licenciados os inscritos marítimos na área da capitania respectiva, licenciados na safra de 1999-2000, que tenham remetido à Direcção-Geral das Pescas e Aquicultura o mapa referido no n.º 3.º da Portaria n.º 1102/99, de 21 de Dezembro.
+3.º Poderá igualmente ser concedida uma licença por embarcação a outros inscritos marítimos, desde que os mesmos façam parte do rol de matrícula de embarcações licenciadas para a pesca, com actividade comprovada e cujo pedido de licenciamento tenha sido formulado até 30 de Novembro de 2000.
+4.º A captura do meixão apenas é autorizada com a arte da rapeta, também designada por «peneira», «peneiro» ou «capinete», a qual é constituída por um cabo de madeira de comprimento variável, tendo preso numa das extremidades um aro metálico, de forma e tamanho variáveis, ao qual está cosido um saco de rede mosquiteira de profundidade não superior a 30 cm.
+5.º No exercício da pesca é proibido ter a bordo outras artes de pesca que não a referida no número anterior, bem como manter a bordo, transportar, transbordar e desembarcar outras espécies além do meixão.
+6.º A safra de 2000-2001 da pesca de meixão termina em 15 de Março, sendo obrigatório, até ao dia 15 de cada mês a entrega, na capitania ou delegação marítima respectiva, do mapa cujo modelo constitui anexo à presente portaria.
+7.º São revogadas as Portarias n.os 36/2001 e 38-C/2001, ambas de 17 de Janeiro.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, José Apolinário Nunes Portada, Secretário de Estado das Pescas, em 12 de Fevereiro de 2001.
+
+(ver modelo no documento original)
