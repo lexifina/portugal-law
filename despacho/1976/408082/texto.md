@@ -1,0 +1,3 @@
+Despacho
+Tendo presente as conclusões do relatório apresentado, em 11 de Outubro de 1976, pela comissão administrativa da Efico - Empresa de Iniciativas Financeiras e Promoção Económica, S. A. R. L., e verificando-se, à face delas, o condicionalismo previsto na alínea a) do n.º 1 do artigo 2.º do Decreto-Lei n.º 313/76, de 29 de Abril, determina-se, ao abrigo do n.º 1 do artigo 1.º do referido diploma legal, o congelamento dos bens pessoais de Vasco João Scazzola Taborda Ferreira, Helena Maria Correa de Sã Taborda Ferreira e António Macieira Coelho.
+Ministério das Finanças, 8 de Novembro de 1976. - O Secretário de Estado do Tesouro, António Carlos Feio Palmeiro Ribeiro.
