@@ -1,0 +1,5 @@
+Aviso n.º 147/2004
+Por ordem superior se torna público que, em 18 de Maio de 2004 e em 28 de Julho de 2003, foram emitidas notas, respectivamente, pelo Ministério dos Negócios Estrangeiros português e pelo Ministério dos Negócios Estrangeiros eslovaco em que ambas as Partes comunicam terem sido concluídas as respectivas formalidades internas de aprovação do Acordo entre a República Portuguesa e a República Eslovaca sobre Cooperação nos Domínios da Educação, da Cultura, da Ciência e Tecnologia, da Juventude e Desporto e da Comunicação Social, assinado em Bratislava em 1 de Julho de 2003.
+Por parte de Portugal, o Acordo foi aprovado pelo Decreto n.º 11/2004, publicado no Diário da República, 1.ª série-A, n.º 107, de 7 de Maio de 2004.
+Nos termos do artigo 18.º do Acordo, o mesmo entra em vigor em 19 de Junho de 2004, ou seja, 30 dias após a data de recepção da última notificação.
+Direcção-Geral das Relações Bilaterais, 26 de Julho de 2004. - A Directora dos Serviços da Europa, Helena de Almeida Coutinho.
