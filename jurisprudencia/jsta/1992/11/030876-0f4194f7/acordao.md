@@ -1,0 +1,47 @@
+# Acórdão do Supremo Tribunal Administrativo de 1992-11-26, processo 030876
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 030876
+
+**Data do Acordão:** 11/26/1992
+
+**Tribunal:** 1 SUBSECÇÃO DO CA
+
+**Relator:** CORREIA DE LIMA
+
+**Descritores:** ACTO CONSTITUTIVO DE DIREITOS; REVOGAÇÃO; INTERESSE LEGALMENTE PROTEGIDO; ACTO INTERNO; DIREITO SUBJECTIVO
+
+**Nº Convencional:** JSTA00035908
+
+**Nº do Documento:** SA119921126030876
+
+**Data de Entrada:** 06/09/1992
+
+**Recorrente:** BARBOSA , JOSE
+
+**Recorrido 1:** CM DE BARCELOS E OUTRA
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 92
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAC PORTO.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM CONT - ACTO.
+
+**Legislação Nacional:** DL 100/84 DE 1984/03/29 ART77 A B.; LOSTA56 ART18.; CONST89 ART205 N2 ART206 N1 ART268.; DL 248/85 DE 1985/06/15 ART4 N2.; DRGU 68/80 DE 1980/11/04 ART49.; DL 52/91 DE 1991/01/25.; DL 247/87 DE 1987/06/17 ART3 N4 ART58.; CADM40 ART137 N2.; DL 406/82 DE 1982/09/27.; DL 116/81 DE 1981/04/06 NA REDACÇÃO DA L 44/85 DE 1985/09/13 ART13 N5N7 N9 N11.; DL 353-A/89 DE 1989/10/16 ART43 N2.
+
+**Jurisprudência Nacional:** AC STA DE 1988/12/15 IN AD N330 PAG784.; AC STA PROC24566 DE 1990/12/20.; AC STA DE 1988/11/25 IN AD N331 PAG964.
+
+**Referência a Doutrina:** MARCELLO CAETANO MANUAL DE DIREITO ADMINISTRATIVO VI PAG443 PAG540.; MARCELLO CAETANO MANUAL DE DIREITO ADMINISTRATIVO 9ED VII PAG649 PAG650 PAG756 PAG759.; ESTEVES DE OLIVEIRA DIREITO ADMINISTRATIVO PAG631.; ROBIN DE ANDRADE REVOGAÇÃO DOS ACTOS ADMINISTRATIVOS 2ED PAG117.; JOÃO ALFAIA CONCEITOS FUNDAMENTAIS DO REGIME JURÍDICO DO FUNCIONALISMO PÚBLICO VI PAG32 PAG40 PAG44 PAG54 PAG373 PAG376 PAG383 PAG387 PAG432 PAG449 PAG479.; JOÃO ALFAIA CONCEITOS FUNDAMENTAIS DO REGIME JURÍDICO DO FUNCIONALISMO PÚBLICO VII PAG1242.; ANTÓNIO MONTALVO O NOVO REGIME DAS AUTARQUIAS LOCAIS 1985 PAG209.; ROGÉRIO SOARES LIÇÕES DE DIREITO ADMINISTRATIVO 1978 PAG95.; Texto Integral
+
+## Sumário
+
+A Noção de "actos constitutivos de direitos", para efeitos do disposto na alínea b) do art. 77 do DL n. 100/84, de 29/3, deve ser entendida em consonância com o disposto nos arts. 205, n. 2, 206, n. 1 e 208, todas da C.R.P., nela abrangendo os direitos subjectivos dos administrados, bem como os seus interesses legalmente protegidos, resultantes de actos administrativos, mas não os actos internos.
