@@ -16,7 +16,7 @@ e) 60% das aplicações relevantes referidas na alínea b) do n.º 4 do artigo 8
 
 f) 60% das aplicações relevantes referidas na alínea c) do n.º 4 do artigo 8.º, até ao limite de 12000 contos.
 
-2 - As taxas de incentivo a que se referem as alíneas a), e) e f) do número anterior poderão ser majoradas em 5% sempre que as empresas provem possuir sistema de garantia de qualidade certificado pelo IPQ e ou recorram aos Serviços de Infra-Estruturas Tecnológicas apoiáveis no âmbito do SINFRAPEDIP para a realização das análises laboratoriais e ensaios.
+2 - As taxas de incentivo a que se referem as alíneas d), e) e f) do número anterior poderão ser majoradas em 5% sempre que as empresas provem possuir sistema de garantia de qualidade certificado pelo IPQ e ou recorram aos Serviços de Infra-Estruturas Tecnológicas apoiáveis no âmbito do SINFRAPEDIP para a realização das análises laboratoriais e ensaios.
 
 3 - O limite máximo de incentivo por promotor durante o período de vigência do Programa, no que se refere às alíneas d), e) e f) do n.º 1, é de 70000 contos.
 
