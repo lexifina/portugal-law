@@ -1,7 +1,5 @@
 # Artigo 49.º
 
-### Fundos de investimento imobiliário, fundos de pensões e fundos de poupança-reforma
+### Partidos políticos
 
-1 - São reduzidas para metade as taxas de imposto municipal sobre imóveis e de imposto municipal sobre as transmissões onerosas de imóveis aplicáveis aos prédios integrados em fundos de investimento imobiliário abertos ou fechados de subscrição pública, em fundos de pensões e em fundos de poupança-reforma que se constituam e operem de acordo com a legislação nacional.
-
-2 - (Revogado.)
+Os partidos políticos, não estão sujeitos ao IRC, sem prejuízo do disposto no n.º 1 do artigo 22.º do Decreto-Lei n.º 595/74, de 7 de Novembro.

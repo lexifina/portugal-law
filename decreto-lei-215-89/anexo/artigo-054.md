@@ -1,7 +1,7 @@
 # Artigo 54.º
 
-### Colectividades desportivas, de cultura e recreio
+### Prédios adquiridos através do sistema «poupança-emigrante»
 
-1 - Ficam isentos de IRC os rendimentos das colectividades desportivas, de cultura e recreio, abrangidas pelo artigo 11.º do Código do IRC, desde que a totalidade dos seus rendimentos brutos sujeitos a tributação, e não isentos nos termos do mesmo Código, não exceda o montante de (euro) 7500.
+1 - Ficam isentos de contribuição autárquica os imóveis adquiridos no todo ou em parte, através do sistema «poupança-emigrante», por um período de cinco anos contados do ano da aquisição, inclusive.
 
-2 - As importâncias investidas pelos clubes desportivos em novas infra-estruturas, não provenientes de subsídios, podem ser deduzidas à matéria colectável até ao limite de 50 % da mesma, sendo o eventual excesso deduzido até ao final do segundo exercício seguinte ao do investimento.
+2 - A isenção prevista no número anterior será reconhecida pelo chefe de repartição de finanças com base nos elementos recebidos ao abrigo da alínea a) do artigo 144.º do Código da Sisa e do Imposto sobre as Sucessões e Doações.

@@ -1,7 +1,11 @@
 # Artigo 26.º
 
-### Planos de poupança em acções
+### Sociedades de gestão e investimento imobiliário
 
-1 - Ficam isentos de IRC os rendimentos de fundos de poupança em acções, que se constituam e operem de acordo com a legislação nacional.
+1 - Às sociedades de gestão e investimento imobiliário que venham a constituir-se até 31 de Dezembro de 1990 e, bem assim, aos respectivos sócios aplica-se o seguinte regime fiscal:
 
-2 - A diferença, quando positiva, entre o valor devido aquando do encerramento dos planos de poupança em acções e as importâncias entregues pelo subscritor está sujeita a retenção na fonte à taxa liberatória de 21,5 %, sem prejuízo da possibilidade de englobamento, por opção do sujeito passivo, caso em que o imposto retido tem a natureza de pagamento por conta.
+a) Tributação em IRC à taxa de 25%;
+
+b) Elevação ao dobro da dedução prevista no n.º 3 do artigo 80.º do Código do IRS e no artigo 72.º do Código do IRC, relativa à dupla tributação económica de lucros distribuídos por aquelas entidades aos respectivos sócios.
+
+2 - O regime fiscal estabelecido no número anterior manter-se-á por um período de dez ou sete anos, consoante as sociedades venham a constituir-se até 31 de Dezembro de 1989 ou 31 de Dezembro de 1990, respectivamente.

@@ -1,11 +1,9 @@
 # Artigo 13.º
 
-### Impedimento de reconhecimento do direito a benefícios fiscais
+### Transmissão dos benefícios fiscais
 
-1 - Os benefícios fiscais dependentes de reconhecimento não podem ser concedidos quando:
+1 - O direito aos benefícios fiscais, sem prejuízo do disposto nos números seguintes, é intransmissível inter vivos, sendo, porém, transmissível mortis causa se se verificarem no transmissário os pressupostos do benefício, salvo se este for de natureza estritamente pessoal.
 
-a) No final do ano civil anterior ao pedido, o sujeito passivo tenha deixado de efetuar o pagamento de qualquer imposto sobre o rendimento, a despesa ou o património, e a situação se mantenha no termo do prazo para o exercício do direito de audição no âmbito do procedimento de concessão do benefício;
+2 - É transmissível inter vivos o direito aos benefícios fiscais objectivos que sejam indissociáveis do regime jurídico aplicável a certos bens, designadamente os que beneficiem os rendimentos de obrigações, títulos de dívida pública e os prédios sujeitos ao regime de renda limitada.
 
-b) O sujeito passivo tenha deixado de efetuar o pagamento de contribuições relativas ao sistema da segurança social, se, no momento em que ocorre a consulta, a situação contributiva não se encontrar regularizada.
-
-2 - Para efeitos do disposto no número anterior, tal situação só é impeditiva do reconhecimento dos benefícios fiscais se a dívida tributária em causa, sendo exigível, não tenha sido objeto de reclamação, impugnação ou oposição e prestada garantia idónea, quando devida.
+3 - É igualmente transmissível inter vivos, mediante autorização do Ministro das Finanças, o direito aos benefícios fiscais concedidos, por acto ou contrato fiscal, a pessoas singulares ou colectivas, desde que no transmissário se verifiquem os pressupostos do benefício e fique assegurada a tutela dos interesses públicos com ele prosseguidos.

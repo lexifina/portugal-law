@@ -1,9 +1,5 @@
 # Artigo 15.º
 
-### Transmissão dos benefícios fiscais
+### Reconhecimento dos benefícios não controlados pela Administração
 
-1 - O direito aos benefícios fiscais, sem prejuízo do disposto nos números seguintes, é intransmissível inter vivos, sendo, porém, transmissível mortis causa se se verificarem no transmissário os pressupostos do benefício, salvo se este for de natureza estritamente pessoal.
-
-2 - É transmissível inter vivos o direito aos benefícios fiscais objectivos que sejam indissociáveis do regime jurídico aplicável a certos bens, designadamente os que beneficiem os rendimentos de obrigações, títulos de dívida pública e os prédios sujeitos ao regime de renda limitada.
-
-3 - É igualmente transmissível inter vivos, mediante autorização do Ministro das Finanças, o direito aos benefícios fiscais concedidos, por acto ou contrato fiscal, a pessoas singulares ou colectivas, desde que no transmissário se verifiquem os pressupostos do benefício e fique assegurada a tutela dos interesses públicos com ele prosseguidos.
+O reconhecimento dos benefícios fiscais relativamente a situações de que a administração fiscal não disponha de elementos para a respectiva tributação depende sempre de requerimento do interessado, acompanhado das declarações de rendimento ou de outras informações a que esteja obrigado e sem prejuízo das sanções em que eventualmente tenha incorrido por ter mantido a Administração na ignorância do facto tributário.

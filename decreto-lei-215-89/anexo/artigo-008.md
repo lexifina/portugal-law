@@ -1,5 +1,5 @@
 # Artigo 8.º
 
-### Medidas impeditivas, suspensivas ou extintivas de benefícios fiscais
+### Declaração pelos interessados da cessação dos pressupostos dos benefícios fiscais
 
-As sanções impeditivas, suspensivas ou extintivas de benefícios fiscais podem ser aplicadas sempre que seja cometida uma infracção fiscal relacionada com os impostos sobre o rendimento, a despesa ou o património ou, às normas do sistema de segurança social, independentemente da sua relação com o benefício concedido.
+As pessoas titulares do direito aos benefícios fiscais são obrigadas a declarar, no prazo de 30 dias, que cessou a situação de facto ou de direito em que se baseava o benefício, salvo quando essa cessação for de conhecimento oficioso.

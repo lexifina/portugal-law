@@ -1,15 +1,31 @@
+## Parte II
+
+## Dos benefícios fiscais nos impostos sobre o rendimento
+
+## Capítulo I
+
+## Do sistema financeiro e mercado de capitais
+
 # Artigo 18.º
 
-### Contribuições das entidades patronais para regimes de segurança social
+### Mais-valias e menos-valias - reinvestimento dos valores de realização
 
-1 - São isentos de IRS, no ano em que as correspondentes importâncias são despendidas, os rendimentos a que se refere a subalínea i) do n.º 3) da alínea b) do n.º 3 do artigo 2.º do Código do IRS, quando respeitem a contratos que garantam exclusivamente o benefício de reforma, complemento de reforma, invalidez ou sobrevivência, desde que sejam observadas, cumulativamente, as condições previstas nas alíneas a), b), d), e) e f) do n.º 4 do artigo 43.º do Código do IRC, na parte em que não excedam os limites previstos nos n.os 2 e 3 do mesmo artigo, e sem prejuízo do disposto nos seus n.os 5 e 6.
+1 - O disposto no artigo 44.º do Código do IRC é aplicável, com as limitações indicadas nos números seguintes, não só às mais-valias e menos-valias no mesmo mencionadas, mas também às realizadas mediante transmissão onerosa de imobilizações financeiras, sempre que o respectivo valor de realização seja reinvestido, total ou parcialmente, no prazo mencionado naquele artigo, na aquisição, fabricação ou construção de elementos do activo imobilizado corpóreo, na aquisição de quotas ou acções de sociedades comerciais ou civis sob forma comercial com sede ou direcção efectiva em território português ou ainda em títulos do Estado Português.
 
-2 - A inobservância de qualquer das condições previstas no número anterior determina:
+2 - Nos casos de entradas de imobilizações corpóreas ou de imobilizações financeiras para a realização de capital social, o reinvestimento considerar-se-á totalmente efectuado quando o valor das quotas ou acções assim realizadas não for inferior ao valor daquelas entradas.
 
-a) Para o trabalhador ou trabalhadores beneficiados pelo incumprimento, a perda da isenção e o englobamento como rendimento da categoria A de IRS, no ano em que ocorrer o facto extintivo, da totalidade das importâncias que beneficiaram da isenção, acrescidas de 10 %, por cada ano ou fracção, decorrido desde a data em que as respectivas contribuições tiverem sido efectuadas;
+3 - O disposto no n.º 1 não é aplicável:
 
-b) Para a empresa, a tributação autónoma, à taxa de 40 %, no exercício do incumprimento das contribuições que nesse exercício, bem como nos dois exercícios anteriores, beneficiaram do regime de isenção previsto no n.º 1.
+a) Às mais-valias e menos-valias realizadas relativas a imobilizações financeiras que tenham sido detidas por período inferior a doze meses, excepto quanto às que faziam parte do activo da alienante em 31 de Dezembro de 1988;
 
-3 - Verificando-se o disposto na subalínea ii) do n.º 3) da alínea b) do n.º 3 do artigo 2.º do Código do IRS, beneficia de isenção o montante correspondente a um terço das importâncias pagas ou colocadas à disposição com o limite de (euro) 11 704,70.
+b) À aquisição de quotas ou acções próprias;
 
-4 - A isenção a que se refere o número anterior não prejudica o englobamento dos rendimentos isentos, para efeitos do disposto no n.º 4 do artigo 22.º do Código do IRS, bem como a determinação da taxa aplicável ao restante rendimento colectável.
+c) Sem prejuízo do disposto no n.º 2, às transmissões onerosas de quotas, acções ou outros valores mobiliários efectuadas entre uma sociedade e qualquer dos seus sócios.
+
+4 - Para beneficiarem do disposto no n.º 1, as quotas, acções ou títulos do Estado Português objecto do reinvestimento deverão permanecer na titularidade do adquirente até ao fim do segundo período de tributação posterior ao da sua aquisição, aplicando-se, com as necessárias adaptações, o disposto no n.º 5 do artigo 44.º do Código do IRC sempre que se verifique a sua transmissão antes dessa data, salvo em consequência de fusão ou cisão da sociedade participada.
+
+5 - No caso de se ter verificado transformação de sociedades por quotas em sociedades anónimas:
+
+a) Considera-se data de aquisição das acções para efeitos do disposto na alínea a) do n.º 3 a data de aquisição das quotas que lhes deram origem;
+
+b) Considera-se que as quotas objecto de reinvestimento permaneceram na titularidade do adquirente pelo prazo referido no n.º 4 quando o prazo de detenção daquelas, adicionado ao das acções a que deram origem, satisfaça o aludido período.

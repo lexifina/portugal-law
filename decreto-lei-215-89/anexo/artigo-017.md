@@ -1,13 +1,15 @@
+## Secção II
+
+## Do processo de consulta prévia
+
 # Artigo 17.º
 
-### Regime público de capitalização
+### Definição e efeitos da consulta prévia
 
-1 - São dedutíveis à coleta de IRS, nos termos e condições previstos no artigo 78.º do respetivo Código, 20 % dos valores aplicados, por sujeito passivo não casado, ou por cada um dos cônjuges não separados judicialmente de pessoas e bens, em contas individuais geridas em regime público de capitalização, tendo como limite máximo:
+1 - Antes de verificados os pressupostos dos benefícios fiscais previstos na lei, podem os interessados requerer ao Ministro das Finanças ou ao director-geral das Contribuições e Impostos, conforme o caso, que se pronunciem sobre uma dada situação tributária ainda não concretizada.
 
-a) (euro) 400 por sujeito passivo com idade inferior a 35 anos;
+2 - O despacho que recair sobre o requerimento formulado nos termos do número anterior será notificado ao interessado, vinculando os serviços, que, verificados os factos previstos na lei, não poderão proceder por forma diversa, salvo em cumprimento de decisão judicial.
 
-b) (euro) 350 por sujeito passivo com idade superior a 35 anos.
+3 - O despacho a que se refere o número anterior não é susceptível de reclamação ou recurso e não exime os interessados de requerer o reconhecimento do benefício fiscal respectivo, nos termos da lei.
 
-2 - Às importâncias pagas, sob a forma de renda vitalícia ou resgate de capital acumulado, no âmbito do regime público de capitalização é aplicável o regime previsto nos n.os 3 a 5 do artigo 21.º
-
-3 - Os benefícios previstos no presente artigo são aplicáveis às entregas efetuadas pelas entidades empregadoras em nome e a favor dos seus trabalhadores.
+4 - Apresentado o pedido de reconhecimento que tenha sido precedido de processo de consulta prévia, este será apensado, a requerimento do interessado, devendo a entidade com competência para o reconhecimento conformar-se com o anterior despacho, na medida em que a situação hipotética objecto da consulta prévia coincida com a situação de facto objecto do pedido de reconhecimento, sem prejuízo das medidas de controlo do benefício fiscal exigidas por lei.

@@ -1,41 +1,19 @@
 # Artigo 21.º
 
-### Produtos individuais de reforma
+### Fundos de poupança-reforma
 
-1 - Ficam isentos de IRC os rendimentos dos fundos de poupança-reforma, poupança-educação e poupança-reforma/educação, que se constituam e operem nos termos da legislação nacional.
+1 - Ficam isentos de IRC os rendimentos dos fundos de poupança-reforma (FPR), constituídos num mínimo de 50% por títulos de dívida pública emitidos por prazo superior a um ano, sob a forma de fundos de investimento, fundos de pensões ou outros equiparados.
 
-2 - São dedutíveis à colecta do IRS, nos termos e condições previstos no artigo 78.º do respectivo Código, 20 % dos valores aplicados no respectivo ano por sujeito passivo não casado, ou por cada um dos cônjuges não separados judicialmente de pessoas e bens, em planos de poupança-reforma, tendo como limite máximo:
+2 - A disciplina do n.º 2 do artigo 38.º do Código do IRC é também aplicável quando os beneficiários forem fundos de poupança-reforma, a que se refere o número anterior.
 
-a) (euro) 400 por sujeito passivo com idade inferior a 35 anos;
+3 - Para efeitos de IRS é dedutível ao rendimento colectável, e até à concorrência deste, o valor aplicado, no respectivo ano, em planos individuais de poupança-reforma (PPR), com o limite máximo do menor dos valores seguintes: 20% do rendimento total bruto englobado e 500 contos.
 
-b) (euro) 350 por sujeito passivo com idade compreendida entre os 35 e os 50 anos;
+4 - A usufruição dos benefícios previstos nos números anteriores ficará sem efeito, sendo devidas as prestações tributárias correspondentes aos benefícios, acrescidas dos respectivos juros compensatórios, se aos participantes for atribuído qualquer rendimento ou for concedido o reembolso dos certificados, salvo, neste último caso, ocorrendo situações de reforma, desemprego de longa duração, invalidez ou doença grave, conforme definido na lei, ou, atingidos os 60 anos de idade, a subscrição se tiver iniciado há pelo menos cinco anos.
 
-c) (euro) 300 por sujeito passivo com idade superior a 50 anos.
+5 - O reembolso dos certificados de FPR está sujeito a IRS nos seguintes termos:
 
-3 - As importâncias pagas pelos fundos de poupança-reforma, mesmo nos casos de reembolso por morte do participante, ficam sujeitas a tributação nos seguintes termos:
+a) De acordo com as regras aplicáveis aos rendimentos da categoria H, quando a sua percepção ocorra sob a forma de rendas;
 
-a) De acordo com as regras aplicáveis aos rendimentos da categoria H de IRS, incluindo as relativas a retenções na fonte, quando a sua perceção ocorra sob a forma de prestações regulares e periódicas não referidas na alínea b);
+b) Pela taxa correspondente a um quinto do seu valor, em caso de resgate pela totalidade;
 
-b) De acordo com as regras aplicáveis aos rendimentos da categoria E de IRS, incluindo as relativas a retenções na fonte, em caso de reembolso total ou parcial, incluindo os que sejam efetuados com natureza prestacional, durante um período não superior a dez anos, devendo, todavia, observar-se o seguinte:
-
-1) A matéria colectável é constituída por dois quintos do rendimento;
-
-2) A tributação é autónoma, sendo efectuada à taxa de 20 %;
-
-c) De acordo com as regras estabelecidas nas alíneas anteriores, nos casos em que se verifiquem, simultaneamente, as modalidades nelas referidas.
-
-4 - A fruição do benefício previsto no n.º 2 fica sem efeito, devendo as importâncias deduzidas, majoradas em 10 %, por cada ano ou fracção, decorrido desde aquele em que foi exercido o direito à dedução, ser acrescidas à colecta do IRS do ano da verificação dos factos, se aos participantes for atribuído qualquer rendimento ou for concedido o reembolso dos certificados, salvo em caso de morte do subscritor ou quando tenham decorrido, pelo menos, cinco anos a contar da respectiva entrega e ocorra qualquer uma das situações definidas na lei.
-
-5 - A fruição do benefício previsto no n.º 3 fica sem efeito quando o reembolso dos certificados ocorrer fora de qualquer uma das situações definidas na lei, devendo o rendimento ser tributado, autonomamente, à taxa de 21,5 %, de acordo com as regras aplicáveis aos rendimentos da categoria E de IRS, incluindo as relativas a retenções na fonte, sem prejuízo da eventual aplicação das alíneas a) e b) do n.º 3 do artigo 5.º do Código do IRS, quando o montante das entregas pagas na primeira metade de vigência do plano representar, pelo menos, 35 % da totalidade daquelas.
-
-6 - Em caso de inobservância do estabelecido no n.º 1, a fruição do benefício fica, no respectivo exercício, sem efeito, devendo a sociedade gestora pagar o imposto em dívida no prazo previsto no n.º 1 do artigo 112.º do Código do IRC.
-
-7 - As sociedades gestoras dos fundos de poupança-reforma são solidariamente responsáveis pelas dívidas de imposto dos fundos cuja gestão lhes caiba.
-
-8 - Os benefícios previstos nos n.os 2 e 3 são aplicáveis às entregas efectuadas pelas entidades empregadoras em nome e a favor dos seus trabalhadores.
-
-9 - Para efeitos do n.º 2, considera-se a idade do sujeito passivo à data de 1 de Janeiro do ano em que efectue a aplicação.
-
-10 - Não são dedutíveis à colecta do IRS, nos termos do n.º 2, os valores aplicados pelos sujeitos passivos após a data da passagem à reforma.
-
-11 - O regime previsto nos números anteriores é igualmente aplicável aos produtos individuais de reforma pan-europeus, que se constituam e operem nos termos da legislação nacional ou que, não estando estabelecidos em território português, sejam domiciliados noutro Estado membro da União Europeia ou do Espaço Económico Europeu.
+c) De acordo com as regras estabelecidas nas alíneas anteriores quanto à respectiva parte dos rendimentos, nos casos em que se verifiquem, simultaneamente, as modalidades nelas referidas.

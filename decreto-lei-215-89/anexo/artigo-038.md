@@ -1,9 +1,7 @@
 # Artigo 38.º
 
-### Isenção do pessoal em missões de salvaguarda de paz
+### «Conta poupança-habitação»
 
-1 - Ficam isentos de IRS os militares e elementos das forças de segurança quanto às remunerações auferidas no desempenho de funções integradas em missões de carácter militar, efectuadas no estrangeiro, com objectivos humanitários ou destinadas ao estabelecimento, consolidação ou manutenção da paz, ao serviço das Nações Unidas ou de outras organizações internacionais, independentemente da entidade que suporta as respectivas importâncias.
+1 - Beneficiam de isenção de IRS os juros das «contas poupança-habitação» constituídas nos termos legais e que se destinem a financiar a compra, construção ou obras em habitação própria permanente.
 
-2 - O disposto no número anterior não prejudica o englobamento dos rendimentos isentos, para efeitos do disposto no n.º 4 do artigo 22.º do Código do IRS e determinação da taxa aplicável ao restante rendimento colectável.
-
-3 - O reconhecimento relativo ao preenchimento dos requisitos de isenção, quando necessário, é da competência do Ministro das Finanças.
+2 - Nos casos em que o saldo da conta a que se refere o número anterior seja utilizado para outros fins que não os ali referidos serão devidas as prestações tributarias correspondentes ao benefício, acrescidas dos juros compensatórios relativos ao retardamento da respectiva liquidação, observando-se para o efeito o que se prescreve no Código do IRS para a liquidação e cobrança.

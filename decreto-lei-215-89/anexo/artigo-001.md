@@ -4,7 +4,11 @@
 
 ## Parte I
 
-## Princípios gerais
+## Das disposições gerais
+
+## Capítulo I
+
+## Princípios fundamentais
 
 # Artigo 1.º
 

@@ -1,21 +1,5 @@
 # Artigo 32.º
 
-### Sociedades gestoras de participações sociais (SGPS)
+### Acções adquiridas no âmbito de privatizações
 
-1 - (Revogado.)
-
-2 - As mais-valias e as menos-valias realizadas pelas SGPS de partes de capital de que sejam titulares, desde que detidas por período não inferior a um ano, e, bem assim, os encargos financeiros suportados com a sua aquisição não concorrem para a formação do lucro tributável destas sociedades.
-
-3 - O disposto no número anterior não é aplicável relativamente às mais-valias realizadas e aos encargos financeiros suportados quando as partes de capital tenham sido adquiridas a entidades com as quais existam relações especiais, nos termos do n.º 4 do artigo 63.º do Código do IRC, ou a entidades com domicílio, sede ou direcção efectiva em território sujeito a um regime fiscal mais favorável, constante de lista aprovada por portaria do Ministro das Finanças, ou residentes em território português sujeitas a um regime especial de tributação, e desde que tenham sido detidas, pela alienante, por período inferior a três anos e, bem assim, quando a alienante tenha resultado de transformação de sociedade à qual não fosse aplicável o regime previsto naquele número, relativamente às mais-valias das partes de capital objecto de transmissão, desde que, neste último caso, tenham decorrido menos de três anos entre a data da transformação e a data da transmissão.
-
-4 - (Revogado.)
-
-5 - (Revogado.)
-
-6 - (Revogado.)
-
-7 - (Revogado.)
-
-8 - (Revogado.)
-
-9 - O disposto nos n.os 2 e 3 é igualmente aplicável a sociedades cuja sede ou direcção efectiva esteja situada em território português, constituídas segundo o direito de outro Estado membro da União Europeia, que tenham por único objecto contratual a gestão de participações sociais de outras sociedades, desde que preencham os demais requisitos a que se encontram sujeitas as sociedades regidas pelo Decreto-Lei n.º 495/88, de 30 de Dezembro.
+Os dividendos de acções adquiridas na sequência de processo de privatização contam, relativamente aos cinco exercícios encerrados após a data da aquisição, apenas por 60% para fins de IRS ou de IRC.

@@ -1,11 +1,9 @@
-## Capítulo II
-
-## Benefícios fiscais à poupança
-
 # Artigo 20.º
 
-### Conta poupança-reformados
+### Fundos de pensões e equiparáveis
 
-1 - Beneficiam de isenção de IRS os juros das contas poupança-reformados, constituídas nos termos legais, na parte cujo saldo não ultrapasse (euro) 10 500.
+1 - São isentos de IRC os rendimentos dos fundos de pensões e equiparáveis, constituídos de acordo com a legislação nacional.
 
-2 - O benefício fiscal previsto no número anterior apenas pode ser utilizado por sujeito passivo relativamente a uma única conta de que seja titular.
+2 - A disciplina do n.º 2 do artigo 38.º do Código do IRC é também aplicável quando os beneficiários forem fundos de pensões e equiparáveis, constituídos de acordo com a legislação nacional.
+
+3 - Ficam isentos de derrama os fundos de pensões e equiparáveis.

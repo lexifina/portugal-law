@@ -1,9 +1,7 @@
 # Artigo 5.º
 
-### Benefícios fiscais automáticos e dependentes de reconhecimento
+### Carácter genérico dos benefícios fiscais; respeito pela livre concorrência
 
-1 - Os benefícios fiscais são automáticos ou dependentes de reconhecimento; os primeiros resultam directa e imediatamente da lei, os segundos pressupõem um ou mais actos posteriores de reconhecimento.
+1 - A definição dos pressupostos objectivos e subjectivos dos benefícios fiscais deverá ser feita em termos genéricos e tendo em vista a tutela de interesses públicos relevantes, só se admitindo benefícios de natureza individual por razões excepcionais devidamente justificadas no diploma que os instituir.
 
-2 - O reconhecimento dos benefícios fiscais pode ter lugar por acto administrativo ou por acordo entre a Administração e os interessados, tendo, em ambos os casos, efeito meramente declarativo, salvo quando a lei dispuser em contrário.
-
-3 - O procedimento de reconhecimento dos benefícios fiscais regula-se pelo disposto na lei geral tributária e no Código de Procedimento e de Processo Tributário.
+2 - A formulação genérica dos benefícios fiscais deve obedecer ao princípio da igualdade, de modo a não falsear ou ameaçar falsear a concorrência.

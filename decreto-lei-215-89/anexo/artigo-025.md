@@ -1,9 +1,5 @@
 # Artigo 25.º
 
-### Aplicações a prazo
+### Sociedades de fomento empresarial
 
-Os rendimentos de certificados de depósito e de depósitos bancários a prazo, emitidos ou constituídos por prazos superiores a cinco anos, que não sejam negociáveis, contam para efeitos de IRS pelos seguintes valores:
-
-a) 80 % do seu valor, se a data de vencimento dos rendimentos ocorrer após cinco anos e antes de oito anos a contar da data da emissão ou da constituição;
-
-b) 40 % do seu valor, se a data de vencimento dos rendimentos ocorrer após oito anos a contar da emissão ou da constituição.
+Às sociedades de fomento empresarial que venham a constituir-se até 31 de Dezembro de 1990 aplica-se, nos mesmos termos, o regime de benefícios fiscais estabelecido para as sociedades de capital de risco, mas valendo a isenção do IRC no ano da constituição e nos sete anos seguintes.

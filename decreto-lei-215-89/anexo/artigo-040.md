@@ -1,7 +1,5 @@
 # Artigo 40.º
 
-### Empreiteiros e arrematantes de obras e trabalhos das infra-estruturas comuns NATO
+### «Contas poupança-emigrantes» e outras
 
-1 - Ficam isentos de IRS os empreiteiros ou arrematantes, nacionais ou estrangeiros, relativamente aos lucros derivados de obras ou trabalhos das infra-estruturas comuns NATO, a realizar em território português, nos termos do Decreto-Lei n.º 41 561, de 17 de Março de 1958.
-
-2 - O disposto no número anterior não prejudica o englobamento dos rendimentos isentos, para efeitos do disposto no n.º 4 do artigo 22.º do Código do IRS, e determinação da taxa aplicável ao restante rendimento colectável.
+A taxa do IRS incidente sobre os juros de depósitos a prazo produzidos por «conta poupança-emigrantes», «conta de emigrante em moeda estrangeira» e «contas acessíveis a residentes», neste último caso desde que tenham sido ou venham a ser alimentadas com fluxos monetários provenientes do exterior, devidamente comprovados, é de 37,5% da taxa a que se refere a alínea a) do n.º 1 do artigo 74.º do Código do IRS.

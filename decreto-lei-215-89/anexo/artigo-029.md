@@ -1,9 +1,9 @@
 # Artigo 29.º
 
-### Serviços financeiros de entidades públicas
+### Clubes de investidores
 
-1 - As entidades referidas no artigo 9.º do Código do IRC que realizem operações de financiamento a empresas, com recurso a fundos obtidos de empréstimo, com essa finalidade específica, junto de instituições de crédito, são sujeitas a tributação, nos termos gerais do IRC, relativamente a estes rendimentos, pela diferença, verificada em cada exercício, entre os juros e outros rendimentos de capitais de que sejam titulares relativamente a essas operações e os juros devidos a essas instituições, com dispensa de retenção na fonte de IRC, sendo o imposto liquidado na declaração periódica de rendimentos.
+1 - Aos participantes dos clubes de investidores aplica-se a disciplina prevista no artigo 18.º do Código do IRS.
 
-2 - O Estado, atuando através da Direção-Geral do Tesouro e Finanças, é sujeito a tributação, nos termos gerais do IRC, relativamente aos rendimentos de capitais provenientes das aplicações financeiras que realize, pela diferença, verificada em cada exercício, entre aqueles rendimentos de capitais e os juros devidos pela remuneração de contas, no âmbito da prestação de serviços equiparados aos da atividade bancária, ao abrigo do artigo 2.º do regime da tesouraria do Estado, aprovado pelo Decreto-Lei n.º 191/99, de 5 de junho, na sua redação atual.
+2 - Incumbe ao clube de investidores a entrega ao Estado, até 20 de Janeiro de cada ano, do montante do imposto devido correspondente às mais-valias líquidas de menos-valias realizadas com a transmissão onerosa de valores mobiliários, no exercício anterior, sendo, para o efeito, de aplicar a taxa prevista no artigo 75.º do Código do IRS.
 
-3 - No caso do número anterior, a tributação faz-se autonomamente, com dispensa de retenção na fonte de IRC, sendo o imposto entregue até 15 de Janeiro do ano seguinte, sem prejuízo da tributação dos juros devidos pela remuneração das contas referidas na parte final do número anterior, por retenção na fonte, nos termos gerais.
+3 - O disposto no número anterior libera os participantes da obrigação de imposto relativamente àqueles rendimentos, sendo aplicável, com as necessárias adaptações, o disposto nos n.os 1, alínea b), e 2 a 4 do artigo 114.º do Código do IRS, sempre que o participante opte pelo englobamento.
