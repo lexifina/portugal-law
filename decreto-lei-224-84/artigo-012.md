@@ -8,4 +8,6 @@
 
 3 - O registo de renúncia à indemnização por aumento do valor e o do ónus de eventual redução das doações sujeitas a colação caducam decorridos 20 anos, contados, respectivamente, a partir da data do registo e da morte do doador.
 
-4 - Os registos referidos nos números anteriores podem ser renovados por um único período de igual duração a pedido dos interessados.
+4 - Os registos de servidão, de usufruto, uso e habitação e de hipoteca para garantia de pensões periódicas caducam decorridos 50 anos, contados a partir da data do registo.
+
+5 - Os registos referidos nos números anteriores podem ser renovados por períodos de igual duração, a pedido dos interessados.

@@ -10,6 +10,4 @@
 
 a) Se a requisição não obedecer ao modelo legal ou não contiver os elementos previstos no artigo 111.º;
 
-b) Se o prédio não estiver sujeito a registo ou não se situar na área da conservatória;
-
-c) Se não for feito o preparo exigido.
+b) Se o prédio não estiver sujeito a registo ou não se situar na área da conservatória.
