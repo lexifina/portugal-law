@@ -1,0 +1,5 @@
+Despacho Normativo n.º 16/94
+Considerando que os licenciados José António Campos Correia, vice-presidente da Comissão de Coordenação da Região do Algarve, e Luciana Maria Pires Valente Santos Rijo, chefe de divisão do Centro de Documentação e Informação da mesma Comissão de Coordenação, requereram que lhes fossem criados lugares de assessor principal;
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6, 7 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhes foi conferida pelo artigo 1.º daquele diploma:
+Determina-se que sejam criados no quadro de pessoal da Comissão de Coordenação da Região do Algarve, constante do mapa anexo XXI ao Decreto-Lei n.º 272/91, de 7 de Agosto, dois lugares de assessor principal, a extinguir quando vagarem.
+Ministérios das Finanças e do Planeamento e da Administração do Território, 30 de Dezembro de 1993. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
