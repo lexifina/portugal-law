@@ -1,0 +1,8 @@
+Despacho Normativo n.º 88/94
+O assessor do quadro permanente da Direcção-Geral de Viação engenheiro Claudino Martins Marques, chefe de divisão, em comissão de serviço, na mesma Direcção-Geral, requereu que fosse criado no quadro de pessoal do referido organismo um lugar de assessor principal, ao abrigo do n.º 7 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 34/93, de 13 de Fevereiro;
+Considerando que o referido assessor tem vindo a desempenhar, sem interrupção, cargos dirigentes desde 25 de Julho de 1984 e que, naquela data, era titular da categoria de técnico superior principal, categoria que já possuía no quadro permanente do mesmo serviço desde 24 de Novembro de 1981;
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6, 7 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma:
+Determina-se o seguinte:
+1 - É criado, no quadro de pessoal da Direcção-Geral de Viação, aprovado pela Portaria n.º 46/89, de 24 de Janeiro, e posteriormente alterado pelo Decreto-Lei n.º 212/90, de 27 de Junho, e pela Portaria n.º 1040/91, de 11 de Outubro, um lugar de assessor principal na carreira de engenharia.
+2 - O lugar criado nos termos do número anterior será extinto quando vagar.
+Ministérios da Administração Interna e das Finanças, 17 de Janeiro de 1994. - Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento.
