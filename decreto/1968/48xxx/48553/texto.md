@@ -1,0 +1,8 @@
+Decreto n.º 48553
+Considerando que na obtenção de oficiais do quadro permanente para a Guarda Fiscal se tem acentuado a dificuldade motivada pelas necessidades de mobilização, verificando-se, assim, carência notória nos quadros da corporação;
+Considerando, por outro lado, que não é justo que os oficiais subalternos do quadro de complemento contratados para servir na Guarda Fiscal, quando mobilizados no posto de capitão, não possam regressar, após o termo do seu serviço no ultramar, à corporação onde serviam, quando nisso houver conveniência:
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º O limite estabelecido no § 2.º do artigo 1.º do Decreto n.º 45925, de 16 de Setembro de 1964, alterado pelo artigo único do Decreto n.º 46145, de 5 de Janeiro de 1965, passa a ser de 75 por cento do número de subalternos do quadro orgânico da corporação. Mantém-se a percentagem de 50 por cento do número de capitães do quadro orgânico, para preenchimento de vagas nesse posto por oficiais do quadro de complemento.
+Art. 2.º Os subalternos do quadro de complemento que sejam nomeados para frequentar o curso de promoção a capitão continuarão a pertencer à Guarda Fiscal. Quando mobilizados no posto de capitão, para servir no ultramar, contarão nesta situação o tempo de serviço, para efeitos do § 1.º do artigo 1.º e do artigo 6.º do Decreto n.º 45925, como se continuassem na corporação.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 29 de Agosto de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha.
