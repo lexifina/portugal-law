@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros entregou à Embaixada da Checoslováquia, em 4 de Dezembro de 1975, uma nota verbal, com data do mesmo dia, informando que a Parte Portuguesa dera já igualmente cumprimento às formalidades constitucionais relativas à elaboração e entrada em vigor do Acordo Comercial a Longo Prazo entre a República Portuguesa e a República Socialista da Checoslováquia, assinado em Lisboa em 1 de Março de 1975, e publicado no Diário do Governo, 1.ª série, n.º 231, de 6 de Outubro de 1975, em resposta a uma nota verbal daquela Embaixada, datada de 3 de Julho de 1975, que informava estarem cumpridas aquelas formalidades pela Parte Checoslovaca.
+Nesta conformidade, e segundo o disposto no seu artigo XII, o Acordo em apreço entrou em vigor no dia 4 de Dezembro de 1975.
+Direcção-Geral dos Negócios Económicos, 5 de Dezembro de 1975. - O Director-Geral-Adjunto, Fernando Manuel da Silva Marques.
