@@ -1,0 +1,19 @@
+Declaração
+Segundo comunicação do Ministério das Obras Públicas, Transportes e Comunicações, a Resolução do Conselho de Ministros n.º 64/86, publicada no Diário da República, 1.ª série, n.º 205, de 6 de Setembro de 1986, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê:
+1 - ...
+...
+Ministério da Indústria e Comércio - um representante;
+Direcção-Geral do Turismo - representante;
+Administração-Geral do Porto de Lisboa - um representante;
+...
+Secretariado do Turismo - um representante;
+deve ler-se:
+1 - ...
+...
+Ministério da Indústria e Comércio - um representante;
+Direcção-Geral do Turismo - um representante;
+Administração-Geral do Porto de Lisboa - um representante;
+...
+Associação Industrial Portuguesa - um representante.
+Secretaria-Geral da Presidência do Conselho de Ministros, 16 de Dezembro de 1986. - O Secretário-Geral, França Martins.
