@@ -1,0 +1,5 @@
+Aviso n.º 138/2003
+Por ordem superior se torna público que, em 10 de Dezembro de 2001 e em 7 de Março de 2003, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros da Letónia e pelo Ministério dos Negócios Estrangeiros português, em que se informa terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação da Convenção entre a República Portuguesa e a República da Letónia para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Riga em 19 de Junho de 2001.
+Por parte de Portugal, a Convenção foi aprovada pela Resolução da Assembleia da República n.º 12/2003 e ratificada pelo Decreto do Presidente da República n.º 10/2003, publicados no Diário da República, 2.ª série, n.º 50, de 28 de Fevereiro de 2003.
+Nos termos do artigo 30.º da Convenção, esta entrou em vigor em 7 de Março de 2003.
+Direcção-Geral das Relações Bilaterais, 4 de Abril de 2003. - O Director dos Serviços da Europa, José Fernando da Costa Pereira.
