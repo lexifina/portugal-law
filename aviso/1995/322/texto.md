@@ -1,0 +1,5 @@
+Aviso n.º 322/95
+Por ordem superior se torna público que, por nota de 6 de Outubro de 1995 e agindo na sua qualidade de depositário dos Protocolos I e II Adicionais às Convenções para a Protecção das Vítimas da Guerra, adoptados em Genebra em 8 de Junho de 1977, o Conselho Federal Suíço notificou ter o Panamá, em 18 de Setembro de 1995, depositado o seu instrumento de ratificação dos referidos Protocolos.
+Nos termos das suas disposições finais, os Protocolos entrarão em vigor para a República do Panamá seis meses após o depósito do instrumento de ratificação, isto é, em 18 de Março de 1996.
+Portugal é Parte nos mesmos Protocolos, os quais foram aprovados para ratificação pela Resolução da Assembleia da República n.º 10/92, de 1 de Abril, tendo depositado o seu instrumento de ratificação em 27 de Maio de 1992, conforme os avisos n.os 100/92, de 17 de Julho, e 277/94, de 28 de Outubro, tornando pública a declaração facultativa referente ao artigo 90.º do Protocolo I.
+Departamento de Assuntos Jurídicos, 25 de Outubro de 1995. - O Director, José Maria Teixeira Leite Martins.
