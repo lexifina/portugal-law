@@ -1,0 +1,16 @@
+Resolução do Conselho de Ministros n.º 133/2004
+Sob proposta da Câmara Municipal de Benavente, a Assembleia Municipal de Benavente aprovou, em 30 de Setembro de 2003, a suspensão parcial do respectivo Plano Director Municipal, pelo prazo de dois anos, e o estabelecimento de medidas preventivas para a mesma área e pelo mesmo prazo.
+O Plano Director Municipal de Benavente foi ratificado pela Resolução do Conselho de Ministros n.º 164/95, de 7 de Dezembro, e alterado pelas deliberações da Assembleia Municipal de Benavente de 26 de Setembro de 1997, de 25 de Fevereiro de 2000 e de 17 de Maio de 2001, publicadas, respectivamente, no Diário da República, 2.ª série, de 18 de Junho de 1998, de 10 de Maio de 2000 e de 25 de Setembro de 2001.
+O município fundamenta a suspensão do Plano Director Municipal na verificação de circunstâncias excepcionais resultantes de alteração significativa das perspectivas de desenvolvimento económico e social local, incompatíveis com a concretização das opções estabelecidas naquele Plano, mais especificamente com a necessidade de viabilizar a ampliação das instalações de uma unidade industrial, que se dedica à produção de radiadores e intercoolers para a indústria automóvel, essencialmente para exportação, empregando cerca de 385 trabalhadores altamente qualificados, a qual, na sequência da indispensabilidade de se adaptar às novas regras da concorrência do mercado comunitário e internacional, necessita de construir uma linha de fabrico específica cujo interesse económico para o País foi reconhecido por despacho de 2 de Abril de 2003 do Ministro da Economia.
+O estabelecimento das medidas preventivas tem por objectivo evitar a alteração das circunstâncias e das condições de facto existentes que possa limitar a liberdade de planeamento ou comprometer a revisão do Plano Director Municipal de Benavente em curso.
+Nos últimos quatro anos não foram estabelecidas medidas preventivas para a área.
+De salientar que a área objecto da presente suspensão do Plano Director Municipal de Benavente e do estabelecimento de medidas preventivas encontra-se abrangida pela Zona de Protecção Especial do Estuário do Tejo, regendo-se pela legislação à mesma aplicável.
+A Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo emitiu parecer favorável.
+Considerando o disposto na alínea b) do n.º 2 e no n.º 3 do artigo 100.º e no n.º 3 do artigo 109.º, conjugado com o n.º 8 do artigo 80.º e o n.º 2 do artigo 96.º, do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção conferida pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro:
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Ratificar a suspensão parcial do Plano Director Municipal de Benavente na área delimitada na planta anexa à presente resolução e que dela faz parte integrante, pelo prazo de dois anos.
+2 - Ratificar o estabelecimento de medidas preventivas para a mesma área, por igual prazo, cujo texto se publica em anexo à presente resolução e dela faz parte integrante.
+Presidência do Conselho de Ministros, 27 de Agosto de 2004. - O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
+
+(ver planta no documento original)
