@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1947/06/13100/05200520.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1947-06-09",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "ff0589b69b20c42bf72001b250c490a6ae8341c699a600f6a972ca4883a993ee",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.4,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "014f4ca0691b788b88b38e53549675a1897fb7dec2490c25ee846e1500e38c36",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 274
 }
