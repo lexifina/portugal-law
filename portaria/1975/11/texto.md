@@ -1,0 +1,7 @@
+Portaria n.º 11/75
+de 4 de Janeiro
+Os cursos de preparadores de análises clínicas, de técnicos de radiologia e de técnicos de fisioterapia ministrados nos Hospitais Militares de Luanda e Lourenço Marques são idênticos aos que se processam na Escola de Serviços de Saúde Militar, cujos diplomas de habilitação foram, pela Portaria n.º 457/70, de 15 de Setembro, equiparados aos concedidos nos Centros de Preparação de Técnicos e Auxiliares de Serviços Clínicos do Ministério dos Assuntos Sociais.
+Assim, nos termos do artigo 4.º do Decreto-Lei n.º 45759, de 12 de Junho de 1964:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Saúde, o seguinte:
+Para efeito de provimento nos lugares dos estabelecimentos e serviços dependentes do Ministério dos Assuntos Sociais, os diplomas conferidos pelos Hospitais Militares de Luanda e Lourenço Marques nos cursos de preparadores de análises clínicas, técnicos de radiologia e técnicos de fisioterapia constituem habilitação equivalente aos conferidos a idênticos cursos que funcionam nos Centros de Preparação de Técnicos e Auxiliares dos Serviços Clínicos do actual Ministério dos Assuntos Sociais, e que se regem pelo disposto nas Portarias n.º 18523, de 12 de Junho de 1961, e n.º 19397, de 20 de Setembro de 1962.
+Secretaria de Estado da Saúde, 19 de Dezembro de 1974. - O Secretário de Estado da Saúde, Carlos Octávio Torres Cruz e Oliveira.
