@@ -1,7 +1,3 @@
-## Título V
-
-## Do registo
-
 # Artigo 216.º
 
 ### (Regra geral)
