@@ -1,0 +1,9 @@
+Decreto-Lei n.º 43814
+O Sport Club Português de Newark, estado de Nova Jérsia; Estados Unidos da América, fundou e mantém em funcionamento, na sua sede, uma escola primária portuguesa mista, destinada à habilitação dos filhos de portugueses nos programas de ensino primário elementar, aprovados pelo Decreto n.º 42994, de 28 de Maio de 1960.
+Às provas prestadas pelos respectivos alunos não tem correspondido, porém, qualquer validade, por faltar à referida escola o carácter oficial, embora já solicitado por intermédio do Ministério dos Negócios Estrangeiros e do Instituto de Alta Cultura.
+Nestes termos:
+Considerando as vantagens resultantes do funcionamento daquela escola no fortalecimento das laços que devem prender a Portugal as crianças portuguesas que a frequentam, pelo cultivo da língua e conhecimento da nossa história e corografia;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É considerada oficial, para todos os efeitos, a escola portuguesa mista de Newark, estado de Nova Jérsia, dos Estados Unidos da América.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 22 de Julho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
