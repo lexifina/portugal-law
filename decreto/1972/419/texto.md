@@ -1,0 +1,82 @@
+Decreto n.º 419/72
+de 28 de Outubro
+Atendendo ao que representou o Governo-Geral do Estado de Angola;
+Por motivo de urgência, ao abrigo do § 3.º do artigo 136.º da Constituição;
+Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
+Artigo 1.º O quadro docente do ensino liceal do uItramar é acrescido com os seguintes lugares de professor destinados aos liceus do Estado de Angola, de acordo com a distribuição que se faz:
+Liceu Normal de Salvador Correia:
+1.º grupo - 1.
+2.º grupo - 2.
+3.º grupo - 2.
+4.º grupo - 2.
+5.º grupo - 1.
+6.º grupo - 2.
+7.º grupo - 3.
+8.º grupo - 2.
+9.º grupo - 1.
+Educação Física - 1.
+Liceu de D. Guiomar de Lencastre:
+1.º grupo - 1.
+2.º grupo - 2.
+3.º grupo - 2.
+4.º grupo - 3.
+5.º grupo - 1.
+6.º grupo - 2.
+7.º grupo - 1.
+8.º grupo - 2.
+9.º grupo - 1.
+Educação Física - 1.
+Liceu de Paulo Dias de Novais:
+2.º grupo - 2.
+3.º grupo - 3
+4.º grupo - 3.
+5.º grupo - 1.
+6.º grupo - 2.
+7.º grupo - 1.
+8.º grupo - 1.
+9.º grupo - 1.
+Educação Física - 1.
+Liceu de Diogo Cão:
+3.º grupo - 2.
+4.º grupo - 2.
+6.º grupo - 1.
+7.º grupo - 1.
+8.º grupo - 1.
+9.º grupo - 1.
+Liceu de Norton de Matos:
+2.º grupo - 2.
+3.º grupo - 2.
+4.º grupo - 2.
+5.º grupo - 1.
+6.º grupo - 1.
+7.º grupo - 1.
+8.º grupo - 1.
+Educação Física - 1.
+Liceu do Almirante Lopes Alves:
+2.º grupo - 1.
+3.º grupo - 1.
+4.º grupo - 1.
+Liceu do Comandante Peixoto Correia:
+2.º grupo - 1.
+3.º grupo - 1.
+4.º grupo - 1.
+5.º grupo - 1.
+6.º grupo - 1.
+7.º grupo - 1.
+8.º grupo - 1.
+Liceu de Silva Cunha:
+3.º grupo - 1.
+4.º grupo - 1.
+Liceu do Almirante Américo Tomás:
+4.º grupo - 1.
+Liceu de Inocêncio de Sousa:
+6.º grupo - 1.
+Liceu de Adriano Moreira:
+7.º grupo - 1.
+Art. 2.º A execução deste decreto fica condicionada pela existência de disponibilidades financeiras.
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+Promulgado em 18 de Outubro de 1972.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
