@@ -1,0 +1,501 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "18",
+    "id": "6209",
+    "titulo": "Autoriza o Governo a legislar em matéria de formação de contratos de arrendamento urbano para comercio industria e exercício de profissão liberal e de contratos de trespasse"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-03-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5920",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-03-23",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-03-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28431",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1901-1902"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "46",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/046/2000-03-24/1901?pgs=1901-1902&org=PLC"
+              }
+            ],
+            "sumario": "ARRENDAMENTO URBANO: COMERC, INDUSTR, PROFIS LIB E TRESPASSE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28432",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1900-1900"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "46",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/046/2000-03-24/1900?pgs=1900&org=PLC"
+              }
+            ],
+            "sumario": "ARRENDAMENTO URBANO: COMERC, INDUSTR, PROFIS LIB E TRESPASSE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28433",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1899-1899"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "46",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/046/2000-03-24/1899?pgs=1899&org=PLC"
+              }
+            ],
+            "sumario": "ARRENDAMENTO URBANO: COMERC, INDUSTR, PROFIS LIB E TRESPASSE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1245",
+                "nome": "António Montalvão Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28434",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1896-1900"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "46",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/046/2000-03-24/1896?pgs=1896-1900&org=PLC"
+              }
+            ],
+            "sumario": "ARRENDAMENTO URBANO: COMERC, INDUSTR, PROFIS LIB E TRESPASSE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "691",
+                "nome": "Nuno Baltazar Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28435",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1895-1896",
+                  "1902-1902"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "46",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/046/2000-03-24/1895?pgs=1895-1896,1902&org=PLC"
+              }
+            ],
+            "sumario": "ARRENDAMENTO URBANO: COMERC, INDUSTR, PROFIS LIB E TRESPASSE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28436",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1894-1895"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "46",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/046/2000-03-24/1894?pgs=1894-1895&org=PLC"
+              }
+            ],
+            "sumario": "ARRENDAMENTO URBANO: COMERC, INDUSTR, PROFIS LIB E TRESPASSE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1245",
+                "nome": "António Montalvão Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28437",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1893-1893"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "46",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/046/2000-03-24/1893?pgs=1893&org=PLC"
+              }
+            ],
+            "sumario": "ARRENDAMENTO URBANO: COMERC, INDUSTR, PROFIS LIB E TRESPASSE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28438",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1892-1892"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "46",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/046/2000-03-24/1892?pgs=1892&org=PLC"
+              }
+            ],
+            "sumario": "ARRENDAMENTO URBANO: COMERC, INDUSTR, PROFIS LIB E TRESPASSE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28439",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1891-1894",
+                  "1903-1905"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "46",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/046/2000-03-24/1891?pgs=1891-1894,1903-1905&org=PLC"
+              }
+            ],
+            "sumario": "ARRENDAMENTO URBANO: COMERC, INDUSTR, PROFIS LIB E TRESPASSE",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "249923",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5920",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-03-24",
+        "pubLeg": "VIII",
+        "pubNr": "46",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/046/2000-03-24?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
