@@ -1,5 +1,5 @@
 # Artigo 37.º
 
-### (Contagem do prazo de caducidade)
+### Obra estrangeira
 
-A caducidade prevista nos artigos anteriores só opera a partir do primeiro dia do ano seguinte àquele em que o prazo se tiver completado.
+As obras que tiverem como país de origem um país estrangeiro não pertencente à União Europeia e cujo autor não seja nacional de um país da União gozam da duração de protecção prevista na lei do país de origem, se não exceder a fixada nos artigos precedentes.

@@ -1,7 +1,7 @@
 # Artigo 36.º
 
-### (Protecção de partes ou volumes de obra)
+### Programa de computador
 
-1 - Se as diferentes partes ou volumes de uma obra não forem publicados simultaneamente, os prazos de protecção legal referidos nos artigos 31.º e 32.º contam-se separadamente para cada parte ou volume.
+1 - O direito atribuído ao criador intelectual sobre a criação do programa extingue-se 70 anos após a sua morte.
 
-2 - O mesmo princípio se aplica aos números ou fascículos de obra colectiva de publicação periódica, tal como jornal ou revista.
+2 - Se o direito for atribuído originariamente a pessoa diferente do criador intelectual, o direito extingue-se 70 anos após a data em que o programa foi pela primeira vez licitamente publicado ou divulgado.

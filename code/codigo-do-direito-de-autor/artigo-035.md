@@ -1,7 +1,7 @@
 # Artigo 35.º
 
-### (Obra cinematográfica)
+### Obra publicada ou divulgada em partes
 
-1 - O direito de autor sobre obra cinematográfica ou obtida por qualquer processo análogo ao da cinematografia caduca 50 anos após a divulgação da obra.
+1 - Se as diferentes partes, volumes ou episódios de uma obra não forem publicados ou divulgados simultaneamente, os prazos de protecção legal contam-se separadamente para cada parte, volume ou episódio.
 
-2 - O direito caduca igualmente se, no prazo de 50 anos após a realização da obra, esta não tiver sido divulgada.
+2 - Aplica-se o mesmo princípio aos números ou fascículos de obras colectivas de publicação periódica, tais como jornais ou publicações similares.

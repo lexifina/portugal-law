@@ -1,5 +1,7 @@
 # Artigo 38.º
 
-### (Protecção de obra estrangeira)
+### Domínio público
 
-A duração da protecção dispensada a obra com origem noutro país é a fixada nos preceitos anteriores, se não exceder a fixada na lei do país de origem.
+1 - A obra cai no domínio público quando tiverem decorrido os prazos de protecção estabelecidos neste diploma.
+
+2 - Cai igualmente no domínio público a obra que não for licitamente publicada ou divulgada no prazo de 70 anos a contar da sua criação, quando esse prazo não seja calculado a partir da morte do autor.
