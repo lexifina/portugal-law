@@ -6,7 +6,7 @@
 
 2 - É aplicável à isenção prevista no número anterior o disposto no n.º 2 do artigo 51.º
 
-3 - Ficam igualmente isentos, nos termos da tabela a que se refere o n.º 5, os prédios ou parte de prédios construídos de novo, ampliados, melhorados ou adquiridos a título oneroso na parte destinada a arrendamento para habitação, desde que reunidas as condições referidas na parte final do n.º 1.
+3 - Ficam igualmente isentos, nos termos da tabela a que se refere o n.º 5, os prédios ou parte de prédios construídos de novo, ampliados, melhorados ou adquiridos a título oneroso, quando se trate da primeira transmissão, na parte destinada a arrendamento para habitação, desde que reunidas as condições referidas na parte final do n.º 1, iniciando-se o período de isenção a partir da data da celebração do primeiro contrato de arrendamento.
 
 4 - Tratando-se de prédios ampliados ou melhorados nos casos previstos nos n.os 1 e 3, a isenção aproveitará apenas ao valor tributável correspondente ao acréscimo resultante das ampliações ou melhoramentos efectuados, tendo em conta para a determinação dos respectivos limites e período de isenção a totalidade do valor tributável do prédio, após o aumento derivado de tais ampliações ou melhoramentos.
 

@@ -1,3 +1,7 @@
+## Secção II
+
+## Do processo de consulta prévia
+
 ## Parte II
 
 ## Dos benefícios fiscais
@@ -14,7 +18,7 @@
 
 a) Tratando-se de rendimentos, que não sejam mais-valias, obtidos em território português, há lugar a tributação, autonomamente, por retenção na fonte como se de pessoas singulares residentes em território português se tratasse ou, relativamente a rendimentos não sujeitos a retenção na fonte, autonomamente à taxa de 25% incidente sobre o respectivo valor líquido obtido em cada ano, sendo o imposto entregue ao Estado pela respectiva entidade gestora até ao fim do mês de Abril do ano seguinte àquele a que respeitar.
 
-b) Tratando-se de rendimentos obtidos fora do território português, que não sejam mais-valias, há lugar a tributação, autonomamente, por retenção na fonte, nas mesmas condições em que se verificaria se desses rendimentos fossem titulares pessoas singulares residentes em território português ou, não havendo lugar a retenção na fonte, autonomamente, à taxa de 25%, por cuja entrega é responsável a entidade gestora, observando-se, quanto a prazos, o disposto no n.º 3 do artigo 91.º do Código do IRS;
+b) Tratando-se de rendimentos obtidos fora do território português que não sejam mais-valias, há lugar a tributação, autonomamente, por retenção na fonte, nas mesmas condições em que se verificaria se desses rendimentos fossem titulares pessoas singulares residentes em território português ou, não havendo lugar a retenção na fonte, autonomamente à taxa de 20%, tratando-se de rendimentos de títulos de dívida, e à taxa de 25%, nos restantes casos, por cuja entrega é responsável a entidade gestora, observando-se, quanto a prazos, o disposto no n.º 3 do artigo 91.º do Código do IRS;
 
 c) Tratando-se de mais-valias, obtidas em território português ou fora dele, há lugar a tributação, autonomamente, nas mesmas condições em que se verificaria se desses rendimentos fossem titulares pessoas singulares residentes em território português, fazendo-se a tributação à taxa de 10% sobre a diferença positiva entre as mais-valias e as menos-valias obtidas em cada ano e sendo o imposto entregue ao Estado pela respectiva entidade gestora, até ao fim do mês de Abril do ano seguinte àquele a que respeitar.
 

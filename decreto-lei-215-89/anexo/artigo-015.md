@@ -1,3 +1,11 @@
+## Capítulo II
+
+## Do processo
+
+## Secção I
+
+## Do reconhecimento dos benefícios fiscais
+
 # Artigo 15.º
 
 ### Reconhecimento dos benefícios não controlados pela Administração

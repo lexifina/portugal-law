@@ -30,6 +30,8 @@ j) As associações de bolsa, as associações prestadoras de serviços especial
 
 l) Os prédios ou parte de prédios cedidos gratuitamente pelos respectivos proprietários ou usufrutuários a entidades públicas não sujeitas a contribuição autárquica enumeradas no artigo 9.º do respectivo Código, ou a entidades referidas nas alíneas anteriores, para o prosseguimento directo dos respectivos fins.
 
+m) Sociedades de capitais exclusivamente públicos relativamente aos prédios cedidos a qualquer título ao Estado ou a outras entidades públicas, no exercício de uma actividade de interesse público.
+
 2 - As isenções a que se refere o número anterior iniciam-se:
 
 a) Relativamente às situações previstas nas alíneas a) a d) e g) a j), no ano, inclusive, em que o prédio ou parte do prédio for destinado aos fins nelas referidos;
