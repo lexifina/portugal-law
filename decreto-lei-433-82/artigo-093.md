@@ -8,4 +8,4 @@
 
 3 - Dão lugar ao pagamento de taxa de justiça todas as decisões judiciais desfavoráveis ao arguido.
 
-4 - A taxa de justiça não será inferior a 150$00 nem superior a 75000$00, devendo o seu montante ser fixado em razão da situação económica do infractor, bem como da complexidade do processo.
+4 - A taxa de justiça não será inferior a (euro) 0,75 nem superior a (euro) 374,10, devendo o seu montante ser fixado em razão da situação económica do infractor, bem como da complexidade do processo.
