@@ -2,4 +2,4 @@
 
 ### (Remissão)
 
-É aplicável ao divórcio litigioso, com as necessárias adaptações, o disposto nos artigos 1779.º a 1785.º
+É aplicável ao divórcio por mútuo consentimento, com as necessárias adaptações, o disposto nos artigos 1786.º e 1788.º

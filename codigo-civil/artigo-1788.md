@@ -2,4 +2,4 @@
 
 ### (Separação provisória)
 
-A separação por mútuo consentimento não será homologada definitivamente sem que decorra um ano de separação provisória.
+A separação por mútuo consentimento não será homologada definitivamente sem que decorram três meses de separação provisória.
