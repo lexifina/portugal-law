@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1951/11/24600/10401040.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1951-11-24",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "8e7b0b395eb84ba41d84811bffc64f1e08b08578f5ef535afcc7724f159a0343",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.9,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "81394546bd528fb1790ef517f608e7def45c798e5cb335d32a5202b3fa346fbb",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 189
 }
