@@ -1,0 +1,5 @@
+Portaria n.º 18340
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com 20000$00 a verba do capítulo 10.º, artigo 239.º, n.º 2), alínea a) «Encargos gerais - Deslocações do pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral de Cabo Verde para o corrente ano, tomando como contrapartida as disponibilidades existentes na verba do capítulo 4.º, artigo 128.º, n.º 1), alínea a) «Polícia Internacional e de Defesa do Estado - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+Ministério do Ultramar, 18 de Março de 1961. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Cabo Verde. - A. Moreira.
