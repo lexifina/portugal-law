@@ -1,0 +1,92 @@
+Decreto n.º 43454
+1. O artigo 30.º do Decreto-Lei n.º 42900, de 5 de Abril de 1960, previu nova modalidade de renda vitalícia e autorizou o Ministro das Finanças a tomar as medidas julgadas oportunas para permitir ao Fundo de amortização assumir todos os encargos com a constituição das rendas vitalícias.
+O Decreto-Lei n.º 43453, desta data, autorizou a emissão dos chamados certificados de aforro e, tendo extinguido o Fundo de amortização da dívida pública, criou em sua substituição o Fundo de regularização da dívida pública e o Fundo de renda vitalícia.
+2. O presente decreto permite a criação de certificados de renda vitalícia mediante a aceitação de numerário, contém determinadas disposições que contribuirão para que o Fundo de renda vitalícia possa voltar a assumir todos os encargos com a constituição destas rendas, regulamenta a disposição legal que estabeleceu os certificados de aforro e contém normas relativas à escrituração e funcionamento dos Fundos de regularização da dívida pública e de renda vitalícia.
+3. Até agora só se aceitavam títulos consolidados para a constituição de rendas vitalícias. Desde que se passa a admitir a entrega de títulos amortizáveis e de numerário para a constituição de tais rendas, abrem-se largas perspectivas nesta forma de previdência, com grandes benefícios para o público, e alivia-se o Tesouro do encargo de amortizar dívida consolidada num volume que se vinha tornando cada vez maior.
+4. Os certificados de aforro constituem uma forma de representação da dívida pública que permite uma fácil e segura aplicação de capital pelo razoável rendimento produzido no fim de dez anos, dado que não estão sujeitos às possíveis oscilações do mercado de títulos e porque, não havendo juros a cobrar periòdicamente, evitam aos seus possuidores os correspondentes incómodos e preocupações.
+5. Pretende-se assim beneficiar as pequenas economias e por isso não se permite por ora que sejam emitidos a favor de uma mesma pessoa certificados de aforro cujo valor facial, na sua totalidade, exceda 50000$00.
+6. Os certificados de aforro serão nominativos, amortizáveis, só transmissíveis por morte e assentados apenas a pessoas singulares, mas a amortização só poderá ser feita pelo valor facial passados dez anos sobre a data da emissão.
+7. No caso de se pretender a amortização dos certificados de aforro antes de decorridos esses dez anos, o seu valor será calculado por uma tabela que será tanto mais vantajosa quanto mais tempo tiver passado sobre a data da emissão.
+8. Além dos objectivos atrás mencionados que se pretende alcançar com os certificados de aforro, tem-se ainda em vista permitir, através deles, a criação de rendas vitalícias de constituição diferida, visto permitir-se a sua conversão em renda vitalícia.
+Neste caso a amortização dos certificados de aforro far-se-á de harmonia com uma tabela mais vantajosa para os seus portadores do que a aplicada na hipótese em que as importâncias a amortizar se não destinam a renda vitalícia.
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, o seguinte:
+Artigo 1.º Além dos certificados de renda vitalícia emitidos em troca de títulos de dívida pública, poderá a Junta do Crédito Público criar certificados de renda vitalícia, em uma ou duas vidas, mediante a aceitação de numerário.
+Art. 2.º Os certificados de renda vitalícia criados ao abrigo da Lei n.º 1933, de 13 de Fevereiro de 1936, e do Decreto-Lei n.º 38811, de 2 de Julho de 1952, passam a constituir um tipo único de renda vitalícia, devendo por isso os certificados com o mesmo assentamento ser reunidos num só.
+Art. 3.º De harmonia com o previsto na parte final do artigo 35.º do Decreto-Lei n.º 42900, de 5 de Abril de 1960, reverterão para o Fundo de renda vitalícia, a partir de 1 de Janeiro de 1960, os juros correspondentes às obrigações recebidas para a constituição de rendas vitalícias ao abrigo do Decreto-Lei n.º 38811, deixando a Junta de os restituir ao Tesouro, conforme estava previsto no § 2.º do artigo 197.º do regulamento, introduzido pelo artigo 1.º do citado Decreto-Lei n.º 38811.
+Para o mesmo Fundo reverterão os reembolsos dos títulos de empréstimos amortizáveis que tenham sido aplicados em renda vitalícia ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 43453, desta data.
+Art. 4.º Tanto os juros a que se refere o artigo anterior, como os juros das obrigações que deram origem a rendas vitalícias criadas ao abrigo da Lei n.º 1933, continuarão a ser pagos ao Fundo de renda vitalícia, mesmo depois de extinta cada renda.
+Art. 5.º Também voltarão a ser pagos ao Fundo de renda vitalícia, a partir de 1 de Janeiro de 1961, os juros das obrigações que deram origem a rendas vitalícias constituídas ao abrigo da Lei n.º 1933 e já extintas e que haviam sido diminuídas ao encargo orçamental de remição diferida por força do disposto na alínea a) do artigo 98.º do Regulamento da Junta, aprovado pelo Decreto n.º 31090, de 30 de Dezembro de 1940.
+Art. 6.º O capital em numerário recebido pela Junta para a constituição de rendas vitalícias entrará como receita no Fundo de renda vitalícia e poderá ser aplicado na aquisição de títulos da dívida pública de qualquer espécie, de títulos de empréstimos com aval do Estado e de certificados de renda perpétua, ou aplicado em certificados especiais de dívida pública não negociáveis mas reembolsáveis pelo seu valor nominal.
+Art. 7.º O cálculo das rendas vitalícias constituídas mediante a aceitação de numerário será feito com base na tabela que vigorar e o limite máximo das rendas anuais, em uma ou duas vidas, que pode auferir qualquer rendista será o fixado no artigo 32.º do Decreto-Lei n.º 42900.
+Art. 8.º A constituição de rendas vitalícias sobre uma vida dará lugar à passagem de um só certificado a favor de cada rendista. Nas rendas sobre duas vidas pode um mesmo rendista figurar em mais de um certificado, desde que varie em cada um deles o outro rendista conjuntamente interessado.
+Art. 9.º São extensivas à constituição de rendas vitalícias emitidas em troca de numerário, na parte aplicável, as disposições dos artigos 136.º, 137.º, 138.º, 139.º e 140.º do Regulamento da Junta do Crédito Público, aprovado pelo Decreto n.º 3190.
+Art. 10.º Os certificados de aforro criados pelo artigo 14.º do Decreto-Lei n.º 43453, desta data, serão nominativos, amortizáveis, só transmissíveis por morte e assentados apenas a favor de pessoas singulares.
+Art. 11.º Haverá certificados de aforro com o valor facial de 100$00, 500$00, 1000$00 e 5000$00, os quais serão adquiridos, respectivamente, pelas seguintes quantias: 70$00, 350$00, 700$00 e 3500$00.
+Art. 12.º É permitida a conversão dos certificados de aforro em renda vitalícia, revertendo para o Fundo de renda vitalícia o valor da sua amortização.
+Art. 13.º Os certificados de aforro só poderão ser amortizados pelo seu valor facial passados dez anos sobre a data da emissão.
+§ único. Depois desse período de dez anos, o valor de cada certificado será calculado de harmonia com a tabela que oportunamente for aprovada por portaria do Ministro das Finanças.
+Art. 14.º Se for requerida a amortização antes de decorridos dez anos sobre a emissão, o valor de cada certificado será calculado de harmonia com a tabela A anexa a este decreto.
+Se se optar pela conversão dos certificados de aforro em renda vitalícia, nos termos do artigo 12.º, o seu valor será calculado de harmonia com a tabela B.
+§ único. As tabelas a que se refere o corpo deste artigo e o limite fixado no artigo 16.º poderão ser alterados por simples portaria do Ministro das Finanças, mas tais alterações não produzirão efeito em relação a certificados já emitidos.
+Art. 15.º A amortização antecipada a que se refere o artigo anterior só poderá ter lugar 60 dias depois da emissão.
+Art. 16.º A soma dos valores faciais dos certificados de aforro emitidos a favor de uma mesma pessoa não poderá exceder 50000$00.
+§ único. Não está sujeito a qualquer limite o valor dos certificados de aforro adquiridos por herança ou legado, mas não poderão ser emitidos novos certificados a favor de um titular já possuidor de uma soma de valores faciais que atinja ou ultrapasse o quantitativo fixado no corpo deste artigo.
+Art. 17.º O Ministro das Finanças fixará por portaria o limite máximo de certificados a emitir em cada ano, devendo as portarias obedecer, na parte aplicável, às normas estabelecidas nos §§ 1.º e 2.º do artigo 38.º do Decreto-Lei n.º 42900.
+Art. 18.º No caso de falecimento do titular de um certificado de aforro, poderá requerer-se, dentro do prazo de cinco anos, a transmissão deste a favor de um dos herdeiros ou a respectiva amortização pelo valor que o certificado tiver à data em que a mesma se efectuar.
+§ único. Em qualquer caso será pago pelo herdeiro ou herdeiros o imposto sobre as sucessões e doações da importância de 5 por cento sobre o valor do certificado à data do falecimento.
+Art. 19.º Findo o prazo de cinco anos a que se refere o artigo anterior, consideram-se prescritos a favor do Fundo de regularização da dívida pública os valores representados nos respectivos certificados, sendo, no entanto, aplicáveis ao caso as demais disposições em vigor relativas à prescrição.
+Art. 20.º Os certificados de aforro gozam dos direitos, isenções e garantias dos restantes títulos da dívida pública.
+Art. 21.º As quantias recebidas pela emissão dos certificados de aforro serão transferidas para o Tesouro durante o mês seguinte.
+Art. 22.º Dos certificados de aforro constarão: o seu número de ordem, o valor facial e a data da emissão. Serão assinados de chancela pelo Ministro das Finanças e pelo presidente da Junta.
+Art. 23.º O Fundo de regularização da dívida pública e o Fundo de renda vitalícia, criados pelo artigo 1.º do Decreto-Lei n.º 43453, desta data, terão escriturações próprias, que cumularão em balanços e contas de resultados independentes.
+Art. 24.º Constituem receitas do Fundo de regularização da dívida pública:
+1.º As quantias correspondentes aos juros e rendas dos títulos e certificados da sua carteira e daqueles a que se refere a primeira parte do artigo 29.º;
+2.º O produto da venda de títulos ou certificados na sua posse, bem como os reembolsos dos que sejam sorteados para amortização e dos certificados de dívida pública que lhe estejam assentados;
+3.º Os juros, rendas perpétuas e reembolsos prescritos;
+4.º Os títulos e certificados prescritos e os seus rendimentos vencidos em relação aos quais ainda não decorreu o prazo de prescrição;
+5.º Os valores pertencentes a terceiros ou incertos ou aguardando a conclusão de quaisquer operações, desde que tenham decorrido os prazos de expectativa de abandono;
+6.º As sobras verificadas nas amortizações contratuais efectuadas por compra;
+7.º Os juros creditados aos depósitos da Junta nas suas agências;
+8.º Os descontos nos pagamentos dos juros ou rendas por antecipação;
+9.º O produto da remição de foros e venda de bens nacionais;
+10.º Os reembolsos dos títulos da dívida externa a que se refere o artigo 4.º do Decreto-Lei n.º 30390, de 20 de Abril de 1940;
+11.º A parte utilizável da dotação orçamental correspondente ao produto de legados e doações convertidos em renda perpétua, de harmonia com o Decreto-Lei n.º 34549, de 28 de Abril de 1945;
+12.º Os valores transferidos do Fundo de renda vitalícia, nos termos do artigo 28.º;
+13.º Importâncias consignadas em lei ou doadas por particulares;
+14.º Quaisquer outras receitas, regularizações e ajustamentos não especificados.
+§ único. As importâncias a que se refere o n.º 9.º entrarão em receita do Estado, inscrevendo-se na despesa verba equivalente para entrega à Junta do Crédito Público.
+Art. 25.º Às receitas do Fundo de regularização da dívida pública serão dadas as seguintes aplicações:
+1.º Aquisição, no País ou no estrangeiro, de títulos e certificados da dívida pública de qualquer espécie;
+2.º Empréstimos ao Tesouro representados por certificados especiais da dívida pública reembolsáveis;
+3.º Transferências de valores para o Fundo de renda vitalícia, nos termos do artigo 28.º;
+4.º Restituição de valores de que a Junta julgue justificada a suspensão ou interrupção dos prazos da prescrição;
+5.º Regularizações diversas e ajustamentos não especificados.
+Art. 26.º Constituem receitas do Fundo de renda vitalícia:
+1.º Os valores, em moeda ou em títulos, recebidos e destinados à constituição de rendas vitalícias;
+2.º As quantias correspondentes aos juros e rendas perpétuas dos títulos e certificados na sua posse;
+3.º O produto da venda de títulos e certificados na sua posse, bem como os reembolsos dos que sejam sorteados para amortização e dos certificados especiais de dívida pública que lhe estejam assentados;
+4.º As dotações inscritas no Orçamento Geral do Estado para encargos de rendas vitalícias, de harmonia com o disposto no artigo 5.º do Decreto-Lei n.º 43453, desta data;
+5.º Os valores transferidos do Fundo de regularização da dívida pública, nos termos do artigo 28.º;
+6.º Importâncias consignadas em lei ou doadas por particulares;
+7.º Quaisquer outras receitas, regularizações e ajustamentos não especificados.
+§ único. Será também escriturada como receita do Fundo de renda vitalícia a parte das dotações destinadas ao pagamento de rendas vitalícias que se apure não ser de utilizar por virtude do falecimento dos respectivos rendistas, por as rendas não terem sido reclamadas dentro do prazo necessário para se verificar a sua prescrição ou, por se tratar de rendas de certificados anulados por prescrição.
+Art. 27.º Às receitas do Fundo de renda vitalícia serão dadas as seguintes aplicações:
+1.º Constituição das dotações necessárias ao pagamento de rendas vitalícias;
+2.º Aquisição, no País ou no estrangeiro, de títulos e certificados de dívida pública de qualquer espécie ou de empréstimos com aval do Estado;
+3.º Empréstimos ao Tesouro representados por certificados especiais de dívida pública reembolsáveis;
+4.º Transferências de valores para o Fundo de regularização da dívida pública, nos termos do artigo 28.º;
+5.º Regularizações diversas e ajustamentos não especificados.
+Art. 28.º Pode a Junta do Crédito Público, sempre que o entender necessário, transferir valores do Fundo de regularização da dívida pública para o Fundo de renda vitalícia e vice-versa, sendo tais transferências compensadas ou não com outros valores, conforme as circunstâncias o aconselharem.
+Art. 29.º A Junta poderá adquirir e manter em carteira títulos e certificados, com o fim de tornar produtivos valores que figurem em qualquer das rubricas referidas na parte final do artigo 2.º do Decreto-Lei n.º 43453, desta data. Da mesma carteira, mas em rubrica especial, deverão fazer parte os títulos ou os certificados pertencentes a terceiros ou incertos, aguardando a conclusão de quaisquer operações ou que decorram completamente os prazos de expectativa de abandono.
+Art. 30.º São revogados os artigos 68.º, 73.º e seus parágrafos, 85 º, 94.º, 96.º, 97.º, 98.º, 105.º, 159.º, 195.º, 196.º e seus parágrafos e 197.º e seus parágrafos do actual Regulamento da Junta do Crédito Público, aprovado pelo Decreto n.º 31090.
+Art. 31.º Além das disposições expressamente revogadas no artigo anterior, e enquanto não for publicado o novo regulamento da Junta do Crédito Público, previsto no artigo 44.º do Decreto-Lei n.º 42900, consideram-se alteradas as disposições do actual regulamento, de harmonia com o prescrito no Decreto-Lei n.º 42900, no Decreto-Lei n.º 43453, desta data, no presente decreto e nas instruções regulamentares já publicadas ou a publicar em ordem de serviço.
+Art. 32.º Este decreto entra em vigor em 1 de Janeiro de 1961.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 30 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.
+
+Tabela A
+(ver documento original)
+
+Tabela B
+(ver documento original)
+Ministério das Finanças, 30 de Dezembro de 1960. - O Ministro das Finanças, António Manuel Pinto Barbosa.
