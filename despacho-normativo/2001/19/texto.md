@@ -1,0 +1,7 @@
+Despacho Normativo n.º 19/2001
+Através do Despacho Normativo n.º 9/2001, de 23 de Janeiro, foram definidas as regras relativas à competência, metodologia, procedimentos e calendário de candidaturas no âmbito do Sistema Integrado de Gestão e Controlo de ajudas comunitárias (SIGC) para a campanha de 2001-2002.
+Face às condições climatéricas que se têm verificado no decorrer da presente campanha agrícola, as quais têm condicionado a sementeira de determinadas culturas arvenses, e reconhecendo-se vantagem para os agricultores em realizarem na mesma altura as diferentes candidaturas, torna-se necessário prorrogar os prazos de realização das candidaturas às ajudas previstas no SIGC.
+Assim, determino o seguinte:
+1 - O prazo previsto nas alíneas a), b) e d) do n.º 1 da parte II do Despacho Normativo n.º 9/2001, de 23 de Janeiro, é prorrogado até 27 de Abril de 2001.
+2 - As candidaturas respeitantes aos modelos abrangidos pelo número anterior deverão ser entregues no INGA pelas entidades credenciadas dentro dos prazos previstos nas alíneas a), b) e d) do n.º 1 da parte IV do Despacho Normativo n.º 9/2001, de 23 de Janeiro, tendo como data limite de entrega, incluindo o período suplementar previsto nos protocolos celebrados com as entidades credenciadas, para os modelos A e N, 25 de Maio de 2001 e, para o modelo AZ, 1 de Junho de 2001.
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 10 de Abril de 2001. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, José Apolinário Nunes Portada, Secretário de Estado das Pescas.
