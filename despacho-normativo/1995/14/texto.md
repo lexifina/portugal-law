@@ -1,0 +1,19 @@
+Despacho Normativo n.º 14/95
+Através do Despacho Normativo n.º 56-A/93, de 27 de Abril, foram definidos os critérios a observar na atribuição das quotas individuais do trigo-rijo, de acordo com o estabelecido pelos Regulamentos (CEE) n.os 1765/92, do Conselho, de 30 de Junho, e 364/93, do Conselho, de 10 de Fevereiro.
+Posteriormente, o Regulamento (CEE) n.º 3116/94, do Conselho, de 12 de Dezembro, veio consagrar o alargamento da quota nacional para 35000 ha, importando, por isso, definir critérios que orientem a atribuição da quota nacional ainda não distribuída que atendam à necessidade de afectar prioritariamente esta cultura às regiões com aptidão edafo-climática, com vista a uma produção com qualidade tecnológica adequada, e, simultaneamente, favoreçam a plena utilização da quota atribuída a Portugal.
+Assim, ao abrigo do disposto no Regulamento (CEE) n.º 1765/92, do Conselho, de 30 de Junho, modificado pelo Regulamento n.º 364/93, do Conselho, de 10 de Fevereiro, e do Regulamento (CE) n.º 3116/94, do Conselho, de 12 de Dezembro, determina-se o seguinte:
+1 - Podem-se candidatar à distribuição da quota individual para produção de trijo-rijo, prevista no Regulamento (CEE) n.º 1765/92, do Conselho, modificado pelo Regulamento (CEE) n.º  364/93, do Conselho, e pelo Regulamento (CE) n.º 3116/94, do Conselho, os agricultores que desenvolvem a sua actividade de produção agrícola nos distritos de Santarém, Lisboa, Setúbal, Portalegre, Évora, Beja e Faro que:
+a) Reúnam as condições do Despacho Normativo n.º 56-A/93, de 27 de Abril, e que não se tenham inscrito para efeitos de atribuição de quotas de trijo-rijo;
+b) Na campanha de produção de 1993-1994 tenham utilizado a sua quota em, pelo menos, 80% e façam prova da comercialização da respectiva produção;
+c) A exploração esteja localizada, ou seja classificada, com uma categoria de rendimento igual ou superior a 2,5 t/ha no sequeiro, ou 7 t/ha no regadio, não tendo quota atribuída ou, tendo-a, não preencham o requisito da alínea anterior;
+d) Não preencham os requisitos das alíneas anteriores e manifestem intenção de obter quota do trigo-rijo, nos termos previstos no n.º 4.
+2 - Os produtores que satisfaçam o requisito previsto na alínea b) do número anterior podem candidatar-se a um aumento de até 20% da sua quota na campanha de produção de 1993-1994, devendo possuir terra elegível para as culturas arvenses que justifique o aumento pedido, de acordo com a declaração referente à campanha de produção de 1993-1994.
+3 - Os produtores que satisfaçam o requisito previsto na alínea c) podem candidatar-se a uma quota máxima equivalente a 30% da área de culturas arvenses declarada na campanha de produção de 1993-1994.
+4 - Os produtores interessados deverão apresentar a sua candidatura ao Instituto Nacional de Intervenção e Garantia Agrícola (INGA) em formulário próprio deste Instituto, conjuntamente com o pedido de candidatura à ajuda para as culturas arvenses.
+5 - Em caso de necessidade de se proceder a rateio, serão adoptadas as seguintes prioridades:
+1.ª prioridade - os produtores abrangidos pelo critério referido na alínea a);
+2.ª prioridade - os produtores abrangidos pelo critério da alínea b), até ao limite de 40% da quota total a atribuir, após aplicação do critério da alínea a);
+3.ª prioridade - os produtores abrangidos pelo critério da alínea c) que tenham realizado a cultura de trigo-rijo na presente campanha de produção, numa área equivalente ao pedido efectuado, até ao limite de 40% da quota total a atribuir, acrescida da área não atribuída na prioridade anterior;
+4.ª prioridade - os outros produtores abrangidos pelo critério da alínea c), na parte restante;
+5.ª prioridade - os produtores abrangidos pelo critério da alínea d), na parte não atribuída pelas prioridades anteriores.
+Ministério da Agricultura, 15 de Fevereiro de 1995. - O Ministro da Agricultura, António Duarte Silva.
