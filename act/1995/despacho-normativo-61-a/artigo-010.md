@@ -2,7 +2,7 @@
 
 ### Concretização do projecto
 
-1 - Só deverão ser apoiados projectos cuja concretização se verifique até 30 de Setembro de 2000, sem prejuízo do que vier a ser estabelecido em regulamentação específica, na qual poderá ser fixada uma data anterior àquela.
+1 - Só deverão ser apoiados os projectos cuja concretização se verifique até 30 de Junho de 2001, sem prejuízo do que vier a ser estabelecido em regulamentação específica.
 
 2 - Quando a data prevista para a concretização do projecto ultrapassar a data indicada no número anterior, poderão ser aceites candidaturas desde que o projecto a que respeitam contemple partes autónomas cuja concretização se verifique até àquela data.
 
