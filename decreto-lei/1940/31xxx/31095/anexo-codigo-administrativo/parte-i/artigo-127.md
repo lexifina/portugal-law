@@ -24,4 +24,6 @@
 
 11.º Sôbre a iluminação pública das povoações sujeitas à sua jurisdição.
 
+12.º Sobre tudo o mais que possa contribuir para o melhoramento da zona e esteja compreendido nas atribuições das câmaras municipais.
+
 § único. As câmaras municipais poderão encarregar as juntas de turismo da execução de quaisquer deliberações municipais tomadas sôbre matérias de interêsse das respectivas zonas.
