@@ -1,0 +1,6 @@
+Aviso n.º 51/2002
+Por ordem superior se torna público que, por nota de 28 de Novembro de 2001 e nos termos do artigo 31.º da Convenção Relativa à Citação e à Notificação no Estrangeiro dos Actos Judiciais e Extrajudiciais em Matéria Civil ou Comercial, concluída na Haia, em 15 de Novembro de 1965, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, na sua qualidade de depositário daquela Convenção, notificou terem a República Argentina, a República da Ucrânia e a Federação da Rússia aderido àquela Convenção em 15 de Novembro de 2001.
+Mais se informa que, nos termos do artigo 28.º, parágrafo n.º 3, a Convenção entrou em vigor entre a República Portuguesa e aqueles três Estados em 1 de Dezembro de 2001.
+Portugal é Parte na Convenção, aprovada para ratificação pelo Decreto-Lei n.º 210/71, de 18 de Maio, tendo depositado o seu instrumento de ratificação em 27 de Dezembro de 1973, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 20, de 24 de Janeiro de 1974.
+Informações complementares sobre esta Convenção poderão ser obtidas no seguinte endereço electrónico: www.hcch.net/e/conventions/menu14e.html
+Departamento de Assuntos Jurídicos, 14 de Maio de 2002. - O Director de Serviços, António Vilhena de Carvalho.
