@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação da nossa missão permanente junto das Nações Unidas, foram, no dia 31 de Dezembro findo, depositados junto do secretário-geral os instrumentos de ratificação, por parte de Portugal, do Convénio Internacional do Café, aprovado em 28 de Setembro de 1962 pela Conferência das Nações Unidas sobre o Café, o qual, de harmonia com o disposto no seu artigo 64, entrou em vigor, em relação ao nosso país, a partir da referida data do depósito dos instrumentos de ratificação.
+Direcção-Geral dos Negócios Económicos e Consulares, 27 de Janeiro de 1964. - O Director-Geral, Albano Pires Fernandes Nogueira.
