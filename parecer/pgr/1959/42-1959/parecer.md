@@ -1,0 +1,38 @@
+# Informação-Parecer do Conselho Consultivo da Procuradoria-Geral da República n.º 42/1959, de 1959-04-22
+
+**Fonte:** https://www.ministeriopublico.pt/pareceres-pgr/4204
+
+**Número do Parecer:** 42/1959, de 22.04.1959
+
+**Data de Assinatura:** 22-04-1959
+
+**Tipo de Parecer:** Informação-Parecer
+
+**Iniciativa:** Governo
+
+**Entidade:** Ministério da Justiça
+
+**Relator:** SIMÕES DE OLIVEIRA
+
+## Descritores
+
+DIREITOS LIBERDADES E GARANTIAS
+DIREITOS FUNDAMENTAIS
+DIREITOS DE PERSONALIDADE
+DIREITOS POLITICOS
+HABEAS CORPUS
+###
+
+## Legislação
+
+CCIV867 ART33 ART359 ART360 ART361 ART365 ART366 ART367 ART368 ART2371 ART2383.
+CONST33 ART4 ART5 ART6 ART8 ART9 ART11 ART14 ART22 ART23 ART35
+ART42 ART43 ART44 ART45 ART46 ART58 ART123.
+CPP29 ART204 ART264 ART265 ART290 ART291 ART298.
+DL 35042 DE 1945/10/20 ART9.
+CP886 ART6 ART18 ART54 ART291 ART328 ART330.
+DL 22468 DE 1933/04/11 ART1 ART2.
+DL 39660 DE 1954/05/20.
+DL 35043 DE 1945/10/20.
+
+**Referências Complementares:** DIR CONST * DIR FUND.
