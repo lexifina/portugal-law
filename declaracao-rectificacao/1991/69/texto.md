@@ -1,0 +1,5 @@
+Declaração de rectificação n.º 69/91
+Para os devidos efeitos se declara que o Decreto-Lei n.º 82/91, publicado no Diário da República, n.º 41, de 19 de Fevereiro, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No sumário, onde se lê «Cria o Instituto dos Assuntos Sociais da Educação e extingue o Instituto de Apoio Sócio-Educativo, o Instituto do Presidente Sidónio Pais, a Obra Social do Ministério da Educação e a Caixa de Previdência do Ministério da Educação» deve ler-se «Cria o Instituto dos Assuntos Sociais da Educação, extingue o Instituto de Apoio Sócio-Educativo, o Instituto do Presidente Sidónio Pais e a Obra Social do Ministério da Educação e define a situação da Caixa de Previdência do Ministério da Educação».
+No n.º 4 do artigo 4.º, onde se lê «além dos seus presidente e vogais eleitos» deve ler-se «além do seu presidente e dos vogais eleitos».
+Secretaria-Geral da Presidência do Conselho de Ministros, 16 de Abril de 1991. - O Secretário-Geral, França Martins.
