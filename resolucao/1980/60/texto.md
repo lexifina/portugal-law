@@ -1,0 +1,10 @@
+Resolução n.º 60/80
+Está o Governo empenhado em combater a especulação dos bens de consumo, em contrariar a intervenção abusiva dos intermediários, em inverter a tendência altista dos preços e em proteger a saúde pública.
+Para levar a bom termo este desiderato, o Governo, para além de já ter solicitado autorização legislativa para revisão da matéria de delitos antieconómicos e contra a saúde pública, vai empreender um vasto conjunto de acções de fiscalização, por forma a identificar os infractores, promovendo a aplicação de sanções e levando-os à presença dos tribunais, quando for caso disso.
+Com o objectivo de complementar a actuação da fiscalização económica, e em articulação com ela, afigura-se conveniente reforçar a acção de fiscalização em matéria tributária desenvolvida pelo Ministério das Finanças e do Plano relativamente àqueles infractores.
+Nestas condições, o Conselho de Ministros, reunido em 7 de Fevereiro de 1980, resolveu:
+1 - O Ministério do Comércio e Turismo, através da Direcção-Geral de Fiscalização Económica e sem prejuízo da rápida conclusão dos respectivos processos, indicará com a maior urgência ao Ministério das Finanças e do Plano as entidades a quem for instaurado auto de notícia pela prática de crimes antieconómicos e contra a saúde pública.
+2 - O Ministério das Finanças e do Plano, através dos serviços competentes da Direcção-Geral das Contribuições e Impostos e da Inspecção-Geral de Finanças, procederá a exames detalhados ao cumprimento das obrigações fiscais por parte daquelas entidades e, no caso de sociedades, também dos seus administradores, gerentes e sócios maioritários.
+3 - As liquidações adicionais de impostos, bem como a instauração, instrução e julgamento dos processos resultantes das acções fiscalizadoras mencionadas no número anterior, terão carácter prioritário.
+4 - Os Ministros das Finanças e do Plano e do Comércio e Turismo adoptarão as providências necessárias à efectiva execução do disposto na presente resolução.
+Presidência do Conselho de Ministros, 7 de Fevereiro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
