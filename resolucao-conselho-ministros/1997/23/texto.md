@@ -1,0 +1,8 @@
+Resolução do Conselho de Ministros n.º 23/97
+Considerando a extensão dos estragos causados pelas tempestades que assolaram os Açores em Dezembro passado, a Região foi declarada em situação de calamidade pública pela Resolução do Conselho de Ministros de 27 de Dezembro, tendo o Governo da República disponibilizado uma transferência de 2 milhões de contos para aquela Região Autónoma, a cargo do Orçamento do Estado.
+Para além de medidas compensatórias de prejuízos sofridos pelos particulares, o Governo Regional considera necessário preparar e executar de imediato um programa de reparações de emergência em infra-estruturas públicas, nomeadamente infra-estruturas portuárias, estradas e caminhos.
+Sendo aquela verba já disponibilizada manifestamente insuficiente para ocorrer à gravidade dos danos causados, o Governo da República, dando adequada expressão à solidariedade nacional reclamada por esta situação, entende justificar-se o recurso a fundos comunitários para garantir a realização das despesas necessárias.
+Nestes termos, ao abrigo do disposto na alínea g) do artigo 202.º da Constituição, o Governo resolve:
+1 - Assegurar transferências a favor da Região Autónoma dos Açores, no montante máximo de 5 milhões de contos, provenientes de fundos comunitários.
+2 - Os fundos referidos no número anterior são afectos, exclusivamente, a despesas de investimento público, elegíveis nos termos dos regulamentos comunitários e a equacionar em parceria com a Comissão Europeia.
+Presidência do Conselho de Ministros, 16 de Janeiro de 1997. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
