@@ -1,0 +1,26 @@
+Portaria n.º 23315
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, que, nos termos do artigo 2.º do Decreto n.º 37050, de 8 de Setembro de 1948, sejam emitidos e postos em circulação nas províncias ultramarinas selos postais comemorativos do 5.º centenário do nascimento de Pedro Alvares Cabral, com as dimensões de 35 mm x 25 mm, nas quantidades, taxas, motivos e cores seguintes:
+Cabo Verde:
+2000000 da taxa de 1$00 - (Planisfério de Cantino, 1502) - Amarelo-claro, verde-salsa, castanho, azul-da-prússia-claro, vermelhão, rosa-velho, verde-esmeralda-claro, ouro, azul-da-prússia-claro, rasa-velho-claro e branco.
+1000000 da taxa de 1$50 - (Retrato de Pedro Álvares Cabral) - Ocre-claro, rosa-carne, castanho, azul-da-prússia, azul-ultramar, vermelhão, carmim, cinzento, ouro, preto, rosa-velho e branco.
+Guiné:
+2000000 da taxa de 2$50 - (Brasão de Pedro Álvares Cabral) - Salmão-claro, verde-salsa, azul-ultramar, púrpura-escuro, púrpura-claro, prata, ouro, preto e branco.
+S. Tomé e Príncipe:
+500000 da taxa de 1$50 - (Medalhão no claustro dos Jerónimos) - Azul-da-prússia-claro, azul-ultramar, cinzento-claro, castanho-escuro, castanho-claro, preto, carmim, ocre-claro e branco.
+Angola:
+10000000 da taxa de $50 - (Nossa Senhora da Esperança) - Amarelo, rosa-carne, castanho, carmim, preto, carmim-escuro, verde-salsa, verde-musgo-claro, ouro e branco.
+10000000 da taxa de 1$00 - (Castelo de Belmonte) - Cinzento-claro, ocre-claro, ocre-escuro, castanho, violeta, carmim-escuro, verde-salsa, verde-musgo, preto e branco.
+12000000 da taxa de 1$50 - (Ermida de S. Jerónimo) - Azul-da-prússia-claro, azul-da-prússia-escuro, azul-ultramar, rosa-acarminado, carmim, carmim-escuro, amarelo, preto, ocre-claro, verde-musgo-claro e branco.
+18000000 da taxa de 2$50 - (Armada de Pedro Álvares Cabral) - Ocre-claro, castanho-claro, castanho-escuro, azul-da-prússia-escuro, azul-da-prússia-claro, azul-ultramar, verde-salsa-escuro, vermelhão, preto e branco.
+Moçambique:
+14000000 da taxa de 1$00 - (Hastear da cruz em Porto Seguro) - Amarelo, verde-salsa-claro, verde-salsa-escuro, ocre-claro, castanho-escuro, castanho-claro, vermelhão, carmim-escuro, violeta, azul-da-prússia-claro, azul-da-prússia-escuro, verde-musgo, preto e branco.
+9000000 da taxa de 1$50 - (Primeira missa no Brasil) - Amarelo, verde-salsa-claro, verde-salsa-escuro, ocre-claro, castanho-escuro, castanho-claro, vermelhão, carmim-escuro, violeta, azul-da-prússia-claro, verde-musgo, preto e branco.
+4000000 da taxa de 3$00 - (Igreja da Graça, Santarém) - Azul-da-prússia-claro, azul-da-prússia-escuro, azul-ultramar, carmim, carmim-escuro, amarelo, preto, ocre-claro, verde-musgo-claro e branco.
+Macau:
+4000000 da taxa de 20 avos - (Monumento de Pedro Álvares Cabral, em Lisboa) - Azul-da-prússia-claro, castanho-escuro, castanho-claro, verde-salsa, verde-alface-claro, carmim-escuro, violeta, preto, ocre, ouro e branco.
+3000000 da taxa de 70 avos - (Estátua de Pedro Álvares Cabral, em Belmonte) - Salmão-claro, castanho-escuro, verde-salsa, verde-alface-claro, carmim-escuro, violeta, azul-da-prússia-claro, preto, ouro e branco.
+Timor:
+500000 da taxa de 4$50 - (Carta de Lopo Homem-Reinéis, 1519) - Amarelo-claro, verde-salsa, castanho, azul-da-prússia-escuro, vermelhão, violeta-acinzentado, verde-esmeralda-claro, ouro, azul-da-prússia-claro, rosa-velho-claro e branco.
+Ministério do Ultramar, 17 de Abril de 1968. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.
