@@ -17,9 +17,33 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1951/08/16600/07000712.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1951-08-07",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "41a98bb95b60cc4be9d51a130ac47dbbe24cf4d00ddc9f62fbbff32c284a618e",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.2,
+    "pages": 13,
+    "columns": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "3b4e88cc6199b6458da4441ec8d4553b448e413f3f7dfcbc07ff58868877b4b5",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 11761
 }
