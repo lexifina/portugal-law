@@ -1,0 +1,9 @@
+Decreto-Lei n.º 45435
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É criada a Estação de Cerealicultura de Beja, em cujas instalações funcionará uma estação agrária constituindo com aquela um só organismo.
+Art. 2.º A Estação de Cerealicultura executará os trabalhos que lhe sejam cometidos relativos à cultura de cereais que sejam de interesse para a respectiva região, dentro do plano geral de estudos da Secretaria de Estado da Agricultura e de harmonia com programas propostos prévia e conjuntamente pela Direcção-Geral dos Serviços Agrícolas e pela Federação Nacional dos Produtores de Trigo.
+Art. 3.º A Estação de Cerealicultura funcionará nas propriedades e respectivas instalações urbanas que a Federação Nacional dos Produtores de Trigo possui em Beja e que por ela são cedidas a título precário à Secretaria de Estado da Agricultura, nos termos do acordo firmado entre a Federação Nacional dos Produtores de Trigo e a Direcção-Geral dos Serviços Agrícolas e homologado pelos Secretários de Estado da Agricultura e do Comércio.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 14 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Luís Le Cocq de Albuquerque de Azevedo Coutinho - Armando Ramos de Paula Coelho.
+
+Para ser presente à Assembleia Nacional.
