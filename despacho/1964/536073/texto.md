@@ -1,0 +1,11 @@
+Despacho
+1. Não será autorizada a importação de batata de semente da classe C, ou de classes correspondentes e inferiores, nem de tubérculos que excedam 65 mm, mantendo-se, no que respeita a calibre, a tolerância até 2 por cento em peso por saco de 50 kg de batata, estabelecida no n.º 2.º da Portaria n.º 17905, de 17 de Agosto de 1960.
+2. Será aplicado o diferencial de 40$00/saco/50 kg à batata de semente a importar das variedades Arran-Banner, Arran-Consul, Voran, Kennebec, Katahdin e Olalla.
+2.1 O diferencial cobrado sobre a variedade Voran, que, mediante contrato aprovado prèviamente pela Junta Nacional das Frutas, se destine a fins industriais, revesterá para os produtores, segundo condições a fixar por aquele organismo com base nas quantidades efectivamente entregues à indústria.
+3. Beneficiarão da isenção da taxa de $10/kg, nos termos do n.º 4.º da Portaria n.º 20855, de 20 de Outubro de 1964, as seguintes variedades:
+Advira, Allerfruheste Gelbe ou Palogan, Ambra, Ari, Arran Pilot, Asoka, Augusta, Bintje, Carla, Concordia, Cora, Drossel, Eersteling ou Duke of York, Eigenheimer, Feldeslohn, Fina, Flava, Forelle, Franziska, Fruhbote, Fruhgold, Fruhmolle, Fruhperle, Grata, Heideniere, Home Guard, Isola, Jakobi ou Jacobi, Jara, Kardinal, King Edward, Konigsniere, Krasava, Kwinta, Laverta, Leona, Lori, Marktredwitzer Fruhe ou Nova, Mirka, Oberarnbacher Fruhe ou Santa Lucia, Pavo, Petra, Ponta, Primura, Record, Rheinhort, Risa, Royal Gold, Royal Kidney, Sieglind, Sientje e Ute.
+4. A caução a prestar pelos importadores de batata de semente será de 40$00/saco/50 kg.
+5. A batata-semente de produção nacional não poderá ser vendida pelas cooperativas a mais de 140$00/saco/50 kg (incluindo o bónus de revenda de 20$00/saco) posta sobre vagão na estação de caminho de ferro mais próxima da origem.
+5.1 Fica isenta desta determinação a batata de semente da classe A de calibre miúdo, a qual terá preço livre.
+5.2 A batata de semente da classe A calibre grado e classe B calibre misto não poderá ser vendida aos produtores de batata por preço superior a 140$00/saco/50 kg, acrescido do custo do transporte da estação de caminho de ferro mais próxima da origem até ao local de venda.
+Secretaria de Estado do Comércio, 28 de Outubro de 1964. - O Secretário de Estado do Comércio, Armando Ramos de Paula Coelho.
