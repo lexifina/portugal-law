@@ -1,0 +1,51 @@
+# Acórdão do Tribunal da Relação do Porto de 1997-07-09, processo 9740536
+
+**Acórdãos TRP:** Acórdão do Tribunal da Relação do Porto
+
+**Processo:** 9740536
+
+**Nº Convencional:** JTRP00018879
+
+**Relator:** NEVES MAGALHÃES
+
+**Descritores:** ACIDENTE DE VIAÇÃO; HOMICÍDIO POR NEGLIGÊNCIA; OFENSAS CORPORAIS POR NEGLIGÊNCIA; ESCOLHA DA PENA; PENA DE PRISÃO; MEDIDA DA PENA; PRISÃO EFECTIVA; SUSPENSÃO DA EXECUÇÃO DA PENA; DIREITO À VIDA; PERDA; INDEMNIZAÇÃO; MONTANTE DA INDEMNIZAÇÃO
+
+**Nº do Documento:** RP199707099740536
+
+**Data do Acordão:** 07/09/1997
+
+**Votação:** UNANIMIDADE
+
+**Tribunal Recorrido:** T J V N GAIA 2J
+
+**Processo no Tribunal Recorrido:** 228/95
+
+**Data Dec. Recorrida:** 03/13/1997
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REC PENAL.
+
+**Decisão:** NEGADO PROVIMENTO. PROVIDO PARCIALMENTE.
+
+**Área Temática:** DIR CRIM - TEORIA GERAL / CRIM C/PESSOAS.; DIR CIV - DIR RESP CIV.
+
+**Legislação Nacional:** CP82 ART48 ART72.; CP95 ART70.; CCIV66 ART494 ART496 N3.
+
+## Sumário
+
+I - Provado que: a) o arguido conduzia o seu automóvel a mais de 60 km/h, numa rua de Vilar do Paraíso, no sentido Porto-Espinho ( Norte/Sul ); b) pelo mesmo local, mas em sentido contrário circulava F... tripulando o seu velocípede com motor e transportando como passageiro um seu filho menor; c) antes deste seguia um auto ligeiro misto; d) o local é uma recta, com piso em paralelo e que, na altura, « chovia constantemente uma chuva míuda :; e) o arguido, a dada altura se atrapalhou e deixou fugir o carro para a berma direita, guinando-o então precipitadamente para a esquerda; f) por causa do piso molhado e da velocidade a que seguia, o seu automóvel entrou em derrapagem, invadindo a metade esquerda da faixa de rodagem, indo embater numa parede da berma desse lado ( considerando o sentido inicial da sua marcha ); g) o carro continuou em derrapagem e foi embater no velocípede por seguia « pela sua mão :, projectando
+
+F para o quintal de uma casa ali existente, tendo o filho ficado postrado no chão e o velocípede sido atirado contra o misto antes referido; h) o carro do arguido continuou em derrapagem, voltou à metade direita da faixa de rodagem e foi embater num outro veículo estacionado na berma desse lado e aí se imobilizou; i) F. morreu em consequência do acidente e o filho sofreu lesões corporais que causaram 30 dias de doença com igual período de incapacidade, justifica-se:
+
+1.1 que, se fosse aplicado o regime do artigo 137 do Código Penal revisto, se optasse como se optou pela pena detentiva, visto que são finalidades de prevenção geral e especial que impõe a opção referida no artigo 70 do mesmo diploma e, no nosso país, são prementes as necessidades de prevenção geral e especial relativamente aos crimes rodoviários.
+
+1.2 que, uma vez excluida a opção pela pena de multa ali cominada em alternativa à de prisão, se aplique o regime do artigo 136 do Código Penal de 1982 ( mais favorável quanto á pena de prisão ) e se fixe a pena em 1 ano de prisão, por termos do artigo 72.
+
+1.3 que, face àqueles factos, as prementes necessidades de prevenção geral e ao facto de, por o arguido estar preso preventivamente à ordem de outro processo, não se verificarem em relação a ele « os malefícios das penas curtas de prisão :, se não suspenda a execução dessa pena de prisão ( artigo 48 ).
+
+II - O montante da indemnização pela perda do direito á vida é fixado equitativamente pelo tribunal, devendo atender designadamente ao grau de culpa do lesante, ao valor intelectual da vítima, à sua idade, formação académica, qualidades de trabalho, idoneidade moral, padrões jurisprudenciais adoptados, flutuação da moeda - artigo 494 e 496 n.3 do Código Civil.
+
+Reclamações:
