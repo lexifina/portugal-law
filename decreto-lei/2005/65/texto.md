@@ -1,0 +1,41 @@
+Decreto-Lei n.º 65/2005
+de 15 de Março
+O Decreto-Lei n.º 44/2004, de 3 de Março, veio estabelecer um regime especial de registo da situação jurídica dos prédios situados no município do Corvo corporizado, no essencial, na instituição de um processo especial de suprimento da prova dos factos sujeitos a registo, obrigatoriamente organizado nos serviços de registo predial competentes, nos casos em que inexista título que permita estabelecer ou restabelecer o trato sucessivo ou estabelecer um novo trato.
+A especificidade do regime criado funda-se na insularidade agravada de que padece tal município, que se traduz, nomeadamente, na distância e na dificuldade de comunicações, a qual é tambem comum aos municípios de Lajes das Flores e de Santa Cruz das Flores.
+Com o presente diploma visa-se estender o âmbito de aplicação do regime especial previsto no Decreto-Lei n.º 44/2004 a todo o grupo ocidental do arquipélago dos Açores, aproveitando-se ainda para efectuar uma revisão de alguns aspectos do mesmo decreto-lei susceptíveis de um enquadramento mais adequado.
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Alteração ao Decreto-Lei n.º 44/2004, de 3 de Março
+São alterados os artigos 1.º, 3.º, 4.º, 7.º e 8.º do Decreto-Lei n.º 44/2004, de 3 de Março, que passam a ter a seguinte redacção:
+«Artigo 1.º
+[...]
+1 - O presente diploma estabelece um regime especial de registo de prédios situados nos municípios do Corvo, de Lajes das Flores e de Santa Cruz das Flores, bem como dos direitos e ónus ou encargos sobre estes incidentes.
+2 - ...
+Artigo 3.º
+[...]
+1 - ...
+2 - Juntamente com o requerimento deve o interessado apresentar:
+a) Declaração da junta de freguesia respectiva que certifique a veracidade das declarações do requente e da titularidade do direito cujo registo é pretendido, desde que não sejam apresentados documentos suficientemente comprobatórios dos factos declarados;
+b) ...
+3 - Os interessados dispõem do prazo de dois anos para apresentar o requerimento a que se refere o n.º 1.
+Artigo 4.º
+[...]
+1 - ...
+2 - Não sendo possível a citação referida no número anterior, o conservador promove a afixação de editais na conservatória, na junta de freguesia e na câmara municipal respectivas, pelo prazo de 30 dias, convidando os interessados incertos a deduzirem oposição no prazo de 10 dias a contar do termo do prazo de afixação dos editais.
+Artigo 7.º
+[...]
+Gozam de isenção emolumentar o processo de suprimento da prova do registo referente aos prédios situados nos municípios referidos no n.º 1 do artigo 1.º e os documentos necessários para instruir o mesmo processo.
+Artigo 8.º
+Aplicação no tempo
+O regime constante do presente diploma vigora pelo prazo de cinco anos a contar da data a sua entrada em vigor.»
+Artigo 2.º
+Entrada em vigor
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 27 de Janeiro de 2005. - Pedro Miguel de Santana Lopes - Nuno Albuquerque Morais Sarmento - António José de Castro Bagão Félix - José Pedro Aguiar Branco - José Luís Fazenda Arnaut Duarte.
+Promulgado em 28 de Fevereiro de 2005.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 3 de Março de 2005.
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
