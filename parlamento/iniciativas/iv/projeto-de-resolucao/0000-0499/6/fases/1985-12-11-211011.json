@@ -1,0 +1,817 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=sHIRRaZSClvqs2fgPou4a23MGhhl3X0gpgbp%2btNARhGZicYLOXPZWkruq4vVo2sWGLeVuvGAgqbFJbJwQRW44CI9tfmX%2bbWTsyeHmJUtTMccM5o%2bccvn1sCfcA%2fpd%2bu%2fwKJ%2bFD1ev4cnIw3pVnfMa%2bhzSz6cuwzZblBv5LWM36SEbL%2bBs5zO8uiZpaydxrwOvnbXHxO20Qolz2olAmCgsT1gDBlsVm7WmD5xQWyQKm1VSK31nRXYjP8b8P%2feFXtP5tOSkcyuffzIm3hAkBaoFGuUyO4s%2fkJ5BzS9ISNRC1O2ZlNJZ6At2vSnnzEc478srqvpEWstyCICdzJ0iIVMlkL18DFe0lclA2tQQF6038g%3d&fich=IniciativasIV_json.txt&Inline=true",
+  "ficheiro_sha256": "66d499906f5f48d8fdeb07035c408bad3bf810ad88e2ed743ec1b74baa57e0d7",
+  "legislatura": "IV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "6",
+    "id": "27517",
+    "titulo": "Comissão de inquérito parlamentar sobre a tragédia de Camarate"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "1985-12-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3872",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "1985-12-11",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1985-12-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "4788",
+                "nome": "Magalhães Mota"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:55",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227674",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "466-466"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-12",
+                "pubLeg": "IV",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/015/1985-12-12/466?pgs=466&org=PLC"
+              }
+            ],
+            "sumario": "Comissão de inquérito parlamentar sobre a tragédia de Camarate",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "49",
+                "nome": "Fernando Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:55",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227675",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "467-467"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-12",
+                "pubLeg": "IV",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/015/1985-12-12/467?pgs=467&org=PLC"
+              }
+            ],
+            "sumario": "Comissão de inquérito parlamentar sobre a tragédia de Camarate",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3007",
+                "nome": "Jorge Lemos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:55",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227676",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "467-467"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-12",
+                "pubLeg": "IV",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/015/1985-12-12/467?pgs=467&org=PLC"
+              }
+            ],
+            "sumario": "Comissão de inquérito parlamentar sobre a tragédia de CamarateProposta de substituição do n.º 3",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3017",
+                "nome": "José Luís Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:55",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227677",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "467-467",
+                  "468-468",
+                  "468-468"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-12",
+                "pubLeg": "IV",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/015/1985-12-12/467?pgs=467,468,468&org=PLC"
+              }
+            ],
+            "sumario": "Comissão de inquérito parlamentar sobre a tragédia de CamarateProposta de substituição do n.º 3",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3007",
+                "nome": "Jorge Lemos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:55",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227678",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "468-468",
+                  "468-468"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-12",
+                "pubLeg": "IV",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/015/1985-12-12/468?pgs=468,468&org=PLC"
+              }
+            ],
+            "sumario": "Comissão de inquérito parlamentar sobre a tragédia de CamarateProposta de substituição do n.º 3",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "314",
+                "nome": "António Capucho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:55",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227679",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "468-468",
+                  "468-468"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-12",
+                "pubLeg": "IV",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/015/1985-12-12/468?pgs=468,468&org=PLC"
+              }
+            ],
+            "sumario": "Comissão de inquérito parlamentar sobre a tragédia de CamarateProposta de substituição do n.º 3",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3017",
+                "nome": "José Luís Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:55",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227680",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "468-468",
+                  "468-468"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-12",
+                "pubLeg": "IV",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/015/1985-12-12/468?pgs=468,468&org=PLC"
+              }
+            ],
+            "sumario": "Comissão de inquérito parlamentar sobre a tragédia de CamarateProposta de substituição do n.º 3",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "MDP/CDE",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:55",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227681",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "468-469"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-12",
+                "pubLeg": "IV",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/015/1985-12-12/468?pgs=468-469&org=PLC"
+              }
+            ],
+            "sumario": "Comissão de inquérito parlamentar sobre a tragédia de CamarateProposta de substituição do n.º 3",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3017",
+                "nome": "José Luís Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:55",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227682",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "469-469"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-12",
+                "pubLeg": "IV",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/015/1985-12-12/469?pgs=469&org=PLC"
+              }
+            ],
+            "sumario": "Comissão de inquérito parlamentar sobre a tragédia de CamarateProposta de substituição do n.º 3",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:55",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227683",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "469-469"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-12",
+                "pubLeg": "IV",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/015/1985-12-12/469?pgs=469&org=PLC"
+              }
+            ],
+            "sumario": "Comissão de inquérito parlamentar sobre a tragédia de CamarateProposta de substituição do n.º 3",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "49",
+                "nome": "Fernando Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:55",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227684",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "469-469"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-12",
+                "pubLeg": "IV",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/015/1985-12-12/469?pgs=469&org=PLC"
+              }
+            ],
+            "sumario": "Comissão de inquérito parlamentar sobre a tragédia de CamarateProposta de substituição do n.º 3",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "49",
+                "nome": "Fernando Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:55",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227685",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "469-469"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-12",
+                "pubLeg": "IV",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/015/1985-12-12/469?pgs=469&org=PLC"
+              }
+            ],
+            "sumario": "Comissão de inquérito parlamentar sobre a tragédia de CamarateProposta de aditamento de um novo n.º",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "314",
+                "nome": "António Capucho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:55",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227686",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "469-469"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-12",
+                "pubLeg": "IV",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/015/1985-12-12/469?pgs=469&org=PLC"
+              }
+            ],
+            "sumario": "Comissão de inquérito parlamentar sobre a tragédia de CamarateProposta de aditamento de um novo n.º",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "21",
+                "nome": "Roleira Marinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:55",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227687",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "469-469"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-12",
+                "pubLeg": "IV",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/015/1985-12-12/469?pgs=469&org=PLC"
+              }
+            ],
+            "sumario": "Comissão de inquérito parlamentar sobre a tragédia de CamarateProposta de aditamento de um novo n.º",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "49",
+                "nome": "Fernando Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:55",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227688",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "469-469"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-12",
+                "pubLeg": "IV",
+                "pubNr": "15",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/015/1985-12-12/469?pgs=469&org=PLC"
+              }
+            ],
+            "sumario": "Comissão de inquérito parlamentar sobre a tragédia de CamarateProposta de aditamento de um novo n.º",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "211011",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3872",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1985-12-12",
+        "pubLeg": "IV",
+        "pubNr": "15",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/015/1985-12-12?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1985-12-11",
+        "descricao": "Votação artigo a artigo",
+        "detalhe": null,
+        "id": "43937",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "15",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
