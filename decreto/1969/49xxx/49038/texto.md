@@ -1,0 +1,16 @@
+Decreto n.º 49038
+Circunstâncias várias, na maior parte dos casos resultantes de factores anormais ou transitórios, têm contribuído para o reduzido número de candidatos aos concursos de provimento das vagas existentes nos quadros privativos de algumas províncias ultramarinas, especialmente no quadro administrativo dos serviços de administração civil.
+Considerando que urge tomar providências no sentido de remediar, na medida do possível, tal situação, onde ela se mostre mais prejudicial;
+Considerando ainda que para manter os quadros ao nível desejável deverão as medidas a adoptar ter carácter excepcional e de aplicação limitada no tempo;
+Tendo em vista o disposto no § 2.º do artigo 150.º da Constituição, por motivo de urgência;
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+Artigo 1.º Se o primeiro concurso aberto, depois da publicação deste diploma, para provimento dos lugares de ingresso nos quadros privativos dos serviços de administração civil ficar deserto, ou se os candidatos aprovados forem em número inferior ao das vagas, poderão os respectivos governadores-gerais ou de província, sem prejuízo do disposto no § 2.º do artigo 11.º do Decreto n.º 48792, de 24 de Dezembro de 1968, e sempre que as circunstâncias e o interesse público o imponham, nomear para os referidos lugares, sem dependência de concurso, funcionários dos quadros de secretaria dos mesmos serviços ou quaisquer outros funcionários, desde que o requeiram, possuam o 1.º ciclo liceal ou habilitação equiparada e mostrem satisfazer ao disposto nas alíneas c) e d) do corpo daquele mesmo artigo.
+§ único. Observadas as condições previstas neste artigo, podem ainda os governadores-gerais ou de província nomear para os mesmos lugares indivíduos com o 1.º ciclo liceal ou habilitação equiparada, que satisfaçam aos demais requisitos exigidos pela lei e tenham exercido na província actividade no sector público ou privado pelo menos durante três anos.
+Art. 2.º Enquanto se verificar a situação considerada no artigo anterior, os governadores-gerais ou de província poderão nomear, em regime de interinidade, para os lugares de ingresso no quadro administrativo privativo indivíduos que possuam pelo menos o 1.º ciclo liceal ou habilitação equiparada, reúnam as demais condições exigidas pela lei, excepto a idade, e tenham exercido na província actividades no sector público ou privado pelo menos durante três anos.
+Art. 3.º Sob proposta fundamentada dos governadores-gerais ou de província, pode o Ministro do Ultramar autorizar, por simples despacho, a aplicação do disposto no artigo 1.º e seu parágrafo aos três concursos que se realizarem a seguir aos previstos nessa mesma disposição.
+Art. 4.º Aplica-se aos furriéis milicianos o disposto para os sargentos milicianos ou dos quadros permanentes no n.º 4.º do § 2.º do artigo 11.º e no § único do artigo 12.º do Decreto n.º 48792, de 24 de Dezembro de 1968.
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+Promulgado em 21 de Maio de 1969.
+Presidência da República, 31 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas, com excepção do de Macau. - J. da Silva Cunha.
