@@ -1,0 +1,4 @@
+Declaração de rectificação n.º 254/93
+Segundo comunicação da 5.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Justiça, a Declaração n.º 98/93, publicada no Diário da República, n.º 177, de 30 de Julho de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No preâmbulo, onde se lê «autorizadas nos termos dos n.os 2 e 3 do artigo 5.º do mesmo diploma, conjugado com os n.os 3 e 4 do artigo 12.º do Decreto-Lei n.º 83/93, de 18 de Março,» deve ler-se «autorizadas nos termos dos n.os 2 e 3 do artigo 5.º do mesmo diploma e do n.º 1 do artigo 5.º da Lei n.º 30/C-92, de 28 de Dezembro, conjugado com os n.os 3 e 4 do artigo 12.º do Decreto-Lei n.º 83/93, de 18 de Março,».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Novembro de 1993. - O Secretário-Geral, França Martins.
