@@ -1,0 +1,6 @@
+Decreto-Lei n.º 45281
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
+Artigo único. Às entidades em quem o Chefe do Estado pode delegar a presidência do acto solene da investidura das insígnias das ordens designadas no artigo 38.º do Decreto-Lei n.º 44721, de 24 de Novembro de 1962, acrescem os embaixadores ou ministros plenipotenciários no país onde a cerimónia for levada a efeito e também os governadores dos distritos autónomos onde se realize.
+§ único. A solenidade da investidura pode ser simplificada quando as circunstâncias o aconselharem.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 1 de Outubro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
