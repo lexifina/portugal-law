@@ -1,0 +1,3 @@
+Despacho Normativo n.º 53/77
+Não se tendo alterado a situação relativamente ao diploma orgânico do INIA, que justificou a publicação do despacho de 20 de Dezembro de 1976, determina-se que seja prorrogado até 31 de Março de 1977 o prazo durante o qual será mantido o mesmo regime administrativo que tem permitido àquele organismo a realização das despesas em conta das dotações que lhe estão atribuídas no Orçamento Geral do Estado para o ano económico de 1977.
+Ministérios das Finanças e da Agricultura e Pescas, 31 de Dezembro de 1976. - O Ministro das Finanças, Henrique Medina Carreira. - O Secretário de Estado do Fomento Agrário, António Carlos Ribeiro Campos.
