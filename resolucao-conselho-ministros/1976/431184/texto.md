@@ -1,0 +1,9 @@
+Resolução do Conselho de Ministros
+Criada por resolução do Conselho de Ministros de 27 de Setembro de 1974 e estruturada a nível regional por resolução de 28 de Novembro do mesmo ano, a CIASC teve como justificação a necessidade de estimular a participação das populações locais no processo do seu próprio desenvolvimento, superando os inconvenientes da falta de coordenação de iniciativas desencadeadas por vários serviços e departamentos no âmbito da acção sócio-cultural.
+Todavia, os objectivos previstos não foram alcançados.
+Primeiro, porque se verificou que a estrutura e os meios de acção da CIASC apenas lhe permitiam intervir localmente através dos serviços distritais dos vários Ministérios, cujo imobilismo burocrático dificultava uma acção eficaz; depois, porque a articulação mútua das acções, quando necessária, tende a ser feita por iniciativa espontânea dos interessados, dispensando órgãos de coordenação institucionalizada a nível interministerial; por outro lado, as funções da CIASC podem ser assumidas e deverão sê-lo por serviços, como, por exemplo, a Direcção-Geral da Educação Permanente e a Direcção-Geral da Acção Cultural, apoiando programas sectoriais de animação desencadeados pelos vários Ministérios e procurando garantir que os novos órgãos de administração regional venham a fornecer o quadro necessário à articulação e coordenação intersectorial das acções em curso.
+Este condicionalismo levou a uma redução progressiva do âmbito de intervenção da CIASC, que tem como conclusão lógica a sua extinção.
+Assim, o Conselho de Ministros, reunido em de 1976, resolveu:
+1. Extinguir, a partir de hoje, a Comissão Interministerial para a Animação Sócio-Cultural (CIASC).
+2. Afectar o pessoal nomeado ao quadro de adidos, quando não esteja em regime de comissão ou requisição de serviço.
+Presidência do Conselho de Ministros, 2 de Junho de 1976. - O Primeiro-Ministro, José Baptista Pinheiro de Azevedo.
