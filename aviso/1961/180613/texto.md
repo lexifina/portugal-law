@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que o Governo da Nigéria informou o secretário-geral das Nações Unidas de que, na aplicação do Acordo relativo à herança dos direitos internacionais e obrigação pela Nigéria, concluído em 1 de Outubro de 1960, entre aquela Federação e o Reino Unido da Grã-Bretanha e da Irlanda do Norte, o Governo da Nigéria assumirá todas as responsabilidades do Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte resultantes da aplicação à aludida Federação da Convenção internacional para facilitar a importação de amostras comerciais e de material publicitário, celebrada em Genebra a 7 de Novembro de 1952.
+Direcção-Geral dos Negócios Económicos e Consulares, 31 de Agosto de 1961. - O Director-Geral, Albano Pires Fernandes Nogueira.
