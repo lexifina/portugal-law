@@ -1,0 +1,32 @@
+Lei n.º 41/86
+de 23 de Setembro
+Autorização legislativa ao Governo para definir no âmbito do Código das Sociedades Comerciais ilícitos criminais e determinar as respectivas sanções penais.
+A Assembleia da República decreta, nos termos dos artigos 164.º, alínea e), 168.º, n.º 1, alínea c), e 169.º, n.º 2, da Constituição, o seguinte:
+ARTIGO 1.º
+É concedida ao Governo autorização legislativa para, no Código das Sociedades Comerciais:
+a) Definir ilícitos criminais correspondentes à violação de normas legais constantes do mesmo Código;
+b) Definir as reacções criminais aplicáveis àqueles ilícitos, bem como os respectivos pressupostos.
+ARTIGO 2.º
+A autorização legislativa concedida pelo artigo anterior tem como sentido a criminalização das seguintes condutas e de outras com ela conexas que a execução do Código imponha e que não devam ser qualificadas como contra-ordenações:
+a) Falsas declarações para o efeito de constituição, alteração ou registo de sociedades;
+b) Falta de cobrança de entradas de capital, aquisição de acções próprias e participações recíprocas;
+c) Atribuição ilícita de bens de sociedades;
+d) Infracções às normas referentes à convocação, preparação, funcionamento e participação em assembleias sociais e à redacção das actas respectivas;
+e) Omissão do dever de propositura de dissolução de sociedades ou de redução do capital, verificando-se a perda deste em metade;
+f) Não revelação, alteração ou encobrimento de informações ou documentos que sirvam de base às contas de exercício;
+g) Oposição à fiscalização do funcionamento de sociedades;
+h) Revelação abusiva de informações sociais;
+i) Actividades fraudulentas tendo em vista alteração da cotação de títulos sociais;
+j) Emissão irregular de títulos sociais.
+ARTIGO 3.º
+1 - As penas previstas nas normas do Código das Sociedades Comerciais ao abrigo da presente lei não podem exceder três anos de prisão ou multa até 300 dias, devendo ser doseadas por referência às que, no Código Penal, correspondam a ilícitos de gravidade semelhante.
+2 - A prisão em alternativa da pena de multa não poderá ultrapassar os limites decorrentes do disposto no artigo 46.º do Código Penal.
+ARTIGO 4.º
+A autorização legislativa concedida pela presente lei caduca, caso não seja utilizada, no prazo de 180 dias.
+Aprovada em 22 de Julho de 1986.
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
+Promulgada em 5 de Setembro de 1986.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendada em 8 de Setembro de 1986.
+Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
