@@ -1,0 +1,30 @@
+# Parecer do Conselho Consultivo da Procuradoria-Geral da República n.º 219/1981, de 1982-03-04
+
+**Fonte:** https://www.ministeriopublico.pt/pareceres-pgr/7014
+
+**Número do Parecer:** 219/1981, de 04.03.1982
+
+**Data do Parecer:** 04-03-1982
+
+**Número de sessões:** 1
+
+**Tipo de Parecer:** Parecer
+
+**Votação:** Unanimidade
+
+**Iniciativa:** Governo
+
+**Entidade:** Ministério da Defesa Nacional
+
+**Relator:** VITOR DO CARMO
+
+**Descritores:** DEFICIENTE DAS FORÇAS ARMADAS
+
+**Legislação:** DL 43/76 DE 1976/01/20 ART1 N2 ART2 N2 N4.
+
+**Referências Complementares:** DIR ADM * DEFIC FFAA.
+
+## Conclusões
+
+1 - O exercício militar de salto em paraquedas de uma aeronave em voo corresponde a um tipo de actividade com risco agravado, enquadravel no nº 4 do artigo 2º do Decreto-Lei nº 43/76, de 20 de Janeiro;
+2 - O acidente sofrido pelo Sargento Ajudante páraquedista (...) integra uma situação de risco agravado subsumivel a descrição feita na conclusão anterior.
