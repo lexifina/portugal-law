@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que o Governo da Argentina apresentou uma objecção relativamente à extensão da aplicação às ilhas Falkland (Malvinas), ilhas Geórgia do Sul e Sanduíche do Sul da Convenção sobre a Eliminação de Todas as Formas de Discriminação contra as Mulheres, adoptada pela Assembleia Geral das Nações Unidas em 18 de Dezembro de 1979, efectuada pelo Reino Unido quando procedeu à ratificação desta Convenção, em 7 de Abril de 1986.
+Direcção-Geral dos Negócios Político-Económicos, 18 de Julho de 1989. - O Director de Serviços dos Assuntos Multilaterais, José Tadeu Soares.
