@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o representante de Portugal junto da UNESCO depositou junto do Secretário-Geral daquela organização, em 2 de Outubro de 1980, o instrumento de ratificação, por parte de Portugal, da Convenção Relativa à Protecção do Património Mundial, Cultural e Natural, concluída em Paris em 16 de Novembro de 1972 e aprovada para ratificação pelo Decreto n.º 49/79, de 6 de Julho de 1979.
+A 30 de Junho de 1980 eram parte na referida Convenção os seguintes países:
+Afeganistão, Argélia, República Federal da Alemanha, Arábia Saudita, Argentina, Austrália, Bolívia, Brasil, Bulgária, Canadá, Chile, Chipre, Costa Rica, Dinamarca, Egipto, Equador, Estados Unidos da América, Etiópia, França, Ghana, Guatemala, Guiné, Guiana, Haiti, Honduras, Índia, Iraque, Irão, Itália, Líbia, Jordânia, Jugoslávia, Mali, Malta, Marrocos, Mónaco, Nepal, Nicarágua, Níger, Nigéria, Noruega, Paquistão, Panamá, Polónia, Síria, Senegal, Seychelles, Sudão, Sri Lanka, Suíça, Tanzânia, Tunísia e Zaire.
+Direcção-Geral dos Negócios Políticos, 28 de Outubro de 1980. - O Director-Geral-Adjunto, Francisco Mendes da Luz.
