@@ -1,0 +1,32 @@
+Portaria n.º 250/2000
+de 11 de Maio
+A estrutura orgânica do Departamento de Prospectiva e Planeamento (DPP) foi aprovada pelo Decreto-Lei n.º 4/95, de 17 de Janeiro, e regulamentada pela Portaria n.º 154-B/95, de 22 de Fevereiro.
+Decorridos cinco anos sobre a sua aprovação, verifica-se a necessidade de proceder a alguns ajustamentos, ditados, nomeadamente, pela ênfase que se pretende dar à área de documentação e informação, no contexto da missão de divulgação junto do cidadão e de outras entidades.
+Realça-se que a presente alteração orgânica não comporta acréscimos de encargos, suprimindo-se, concomitantemente, uma unidade do mesmo nível na Direcção de Serviços de Prospectiva, cujo redimensionamento igualmente se realiza para maior operacionalidade.
+Assim:
+Ao abrigo do n.º 2 do artigo 4.º do Decreto-Lei n.º 4/95, de 17 de Janeiro:
+Manda o Governo, pelos Ministros das Finanças, do Planeamento e da Reforma do Estado e da Administração Pública, o seguinte:
+1.º É alterado o n.º 1.º da Portaria n.º 154-B/95, de 22 de Fevereiro, que passa a ter a seguinte redacção:
+«1.º A Direcção de Serviços de Prospectiva (DSP) compreende as Divisões de Metodologias e Aplicações de Prospectiva e Cenários e de Informação e Prospectiva Internacional.
+a) À Divisão de Metodologias e Aplicações de Prospectiva e Cenários compete:
+1) Actualizar e desenvolver as competências nas áreas das metodologias prospectivas e de cenarização;
+2) Manter uma rede permanente de contactos com instituições estrangeiras onde se desenvolvem investigações sobre metodologias e aplicações para construção de cenários;
+3) Desenvolver, no âmbito do DPP e ou em colaboração com outras entidades públicas ou privadas, exercícios prospectivos de âmbito nacional, sectorial e regional;
+4) Colaborar com outros serviços do DPP na construção de cenários de médio e longo prazos.
+b) À Divisão de Informação e Prospectiva Internacional compete:
+1) Acompanhar as tendências de longo prazo da evolução demográfica, da dinâmica das tecnologias com maior impacte nas transformações das economias, da geografia das actividades económicas, das grandes concentrações urbanas e dos fluxos de comércio e de capitais à escala mundial;
+2) Proceder periodicamente à caracterização da evolução económica, política e estratégica mundial e de países e macrorregiões com especial relevância para a economia mundial e para o relacionamento internacional da União Europeia e de Portugal;
+3) Manter uma rede de contactos com instituições que trabalhem regularmente com cenários para a economia mundial e desenvolver competências e reflexão próprias nesse domínio;
+4) Realizar análises periódicas sobre a evolução do processo de integração europeia em várias vertentes e sobre as relações da União Europeia com as regiões que lhe estão mais próximas;
+5) Realizar e ou participar em exercícios de prospectiva sobre o desenvolvimento do espaço europeu, tendo nomeadamente em vista a construção de cenários relativos à inserção de Portugal nesse espaço.»
+2.º É aditado o n.º 4.º à Portaria n.º 154-B/95, de 22 de Fevereiro, com a seguinte redacção:
+«4.º O Núcleo de Informação e Comunicação (NIC) compreende a Divisão de Documentação e Informação.
+a) À Divisão de Documentação e Informação compete:
+1) Identificar, seleccionar e adquirir, de forma sistemática e em todos os suportes físicos disponíveis, as fontes de informação retrospectiva, conjuntural e prospectiva, nacionais e internacionais, indispensáveis aos trabalhos a desenvolver no DPP;
+2) Recolher, organizar e analisar a documentação técnica necessária e gerir as bases de dados específicas e promover a troca de informação com unidades similares, públicas ou privadas, nacionais e internacionais;
+3) Promover a organização, actualização e conservação dos fundos documentais;
+4) Difundir interna e externamente a informação relevante, satisfazendo os pedidos de informação internos e externos;
+5) Organizar e gerir o arquivo histórico do DPP;
+6) Promover a execução de traduções necessárias aos trabalhos do DPP e colaborar em projectos de terminologia e compatibilização de linguagens documentais.»
+Em 31 de Março de 2000.
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública.
