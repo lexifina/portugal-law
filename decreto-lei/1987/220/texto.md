@@ -1,0 +1,20 @@
+Decreto-Lei n.º 220/87
+de 29 de Maio
+1. A actual situação que se vive nos institutos de medicina legal, no que toca a pessoal técnico auxiliar de medicina legal, é francamente preocupante.
+De facto, assistiu-se, por um lado, ao progressivo envelhecimento deste pessoal, com a subsequente desertificação dos lugares correspondentes à categoria de ingresso na carreira técnica auxiliar de medicina legal, situação que no Instituto de Medicina Legal de Lisboa faz que se encontrem por prover nove dos lugares de técnico auxiliar de medicina legal de 2.ª classe previstos no respectivo quadro de pessoal.
+A questão é particularmente grave nos serviços de tanatologia e toxicologia forense, em que o acréscimo do volume de serviço verificado nos últimos anos e o progressivo preenchimento dos lugares de técnico superior médico e não médico provocaram uma distorção manifesta na relação entre pessoal técnico superior e pessoal técnico auxiliar, que obriga ao empenhamento do primeiro na realização de tarefas, em princípio, cometidas ao segundo, com o natural prejuízo que daqui decorre para o normal funcionamento do serviço.
+2. Por outro lado, só no decurso de 1985 foi possível dar início ao curso técnico especializado de medicina legal previsto no Decreto-Lei n.º 169/83, de 30 de Abril. O que quer dizer que, na melhor das hipóteses e com os cinco semestres previstos na lei para este curso, dentro de dois anos e meio surgirão os primeiros indivíduos habilitados com esta formação específica, de entre os quais a lei prevê se recrutem os técnicos auxiliares de medicina legal de 2.ª classe.
+É óbvio que a resolução das carências já referidas não pode aguardar tanto tempo, sob pena da quase paralisia de alguns serviços essenciais dos institutos de medicina legal.
+3. A carreira de técnico de diagnóstico e terapêutica, recentemente criada pelo Decreto-Lei n.º 384-B/85, de 30 de Setembro, abrange profissionais de áreas como as de análises clínicas e saúde pública ou de anatomia patológica e tanatológica, cuja afinidade funcional é patente relativamente às áreas dos serviços de química e toxicologia forense, biologia forense e anatomia patológica dos institutos de medicina legal.
+Estes profissionais são recrutados de entre indivíduos habilitados com os cursos ministrados nas escolas técnicas dos serviços de saúde, criados pelo Decreto-Lei n.º 371/82, de 10 de Setembro, cujo excelente nível formativo é publicamente reconhecido.
+Assim, independentemente de medidas de fundo que proximamente serão adoptadas no âmbito da medicina legal portuguesa:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - Excepcionalmente, e durante dois anos, a contar da publicação do presente diploma, poderão ingressar na carreira técnica auxiliar de medicina legal, constante do Decreto-Lei n.º 169/83, de 30 de Abril, os indivíduos que possuam o curso de Análises Clínicas e de Saúde Pública ou o curso de Anatomia Patológica, Citológica e Tanatológica, ministrados nas escolas técnicas dos serviços de saúde, criadas pelo Decreto-Lei n.º 371/82, de 10 de Setembro.
+2 - O recrutamento dos indivíduos habilitados nos termos do número anterior efectuar-se-á mediante concurso de avaliação curricular, nos termos gerais previstos no Decreto-Lei n.º 44/84, de 3 de Fevereiro.
+Art. 2.º Os indivíduos que vierem a ser recrutados nos termos previstos no artigo anterior serão nomeados provisoriamente, ficando o seu provimento definitivo dependente do aproveitamento que obtiverem em estágio orientado nos serviços dos institutos de medicina legal, com a duração máxima de um ano escolar.
+Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo - João de Deus Rogado Salvador Pinheiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
+Promulgado em 13 de Maio de 1987.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 18 de Maio de 1987.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
