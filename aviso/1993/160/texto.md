@@ -1,0 +1,4 @@
+Aviso n.º 160/93
+Por ordem superior se torna público que, por nota de 31 de Janeiro de 1993, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, depositário do Estatuto da Conferência da Haia de Direito Internacional Privado, de 31 de Outubro de 1951, transmitiu uma notificação, nos termos do artigo 14 do Estatuto, segundo a qual a República da Eslovénia se tornou Parte da Conferência em 15 de Novembro de 1992, com efeito retroactivo a 18 de Junho de 1992, data em que foi recebida a nota pela qual a República da Eslovénia declarou considerar-se ligada pelo Estatuto.
+O texto do Estatuto foi aprovado pelo Decreto-Lei n.º 41378, publicado no Diário do Governo, n.º 262, de 19 de Novembro de 1957.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 21 de Maio de 1993. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
