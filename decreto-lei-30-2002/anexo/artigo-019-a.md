@@ -2,7 +2,7 @@
 
 ### Derrogação dos n.os 1 e 2 do artigo 18.º
 
-1 - Em derrogação dos n.os 1 e 2 do artigo 18.º, a Direcção-Geral de Viação pode, dentro dos limites referidos no anexo VI-A ao presente Regulamento e durante um período limitado, matricular e permitir a venda ou a entrada em circulação de veículos novos conformes com um modelo de veículo cuja homologação já não seja válida.
+1 - Em derrogação dos n.os 1 e 2 do artigo 18.º, a Direcção-Geral de Viação pode, dentro dos limites referidos no anexo VI-B do presente Regulamento e durante um período limitado, matricular e permitir a venda ou a entrada em circulação de veículos novos conformes com o modelo de veículo cuja homologação já não seja válida.
 
 2 - A possibilidade referida no número anterior limita-se a um período de 12 meses a contar da data em que a homologação tenha perdido a validade.
 
