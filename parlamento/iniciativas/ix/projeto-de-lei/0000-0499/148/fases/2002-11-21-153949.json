@@ -1,0 +1,554 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "148",
+    "id": "19271",
+    "titulo": "Lei da responsabilidade civil extracontratual do Estado (Revoga o Decreto-Lei n.º 48 051, de Novembro de 1967)."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2002-11-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2317",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2002-11-21",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-11-21",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142820",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2493-2496"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-22",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/058/2002-11-22/2493?pgs=2493-2496&org=PLC"
+              }
+            ],
+            "sumario": "Lei da responsabilidade civil extracontratual do Estado (Revoga o Decreto-Lei n.º 48 051, de Novembro de 1967).g",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2006",
+                "nome": "Assunção Esteves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142821",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2496-2498"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-22",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/058/2002-11-22/2496?pgs=2496-2498&org=PLC"
+              }
+            ],
+            "sumario": "Lei da responsabilidade civil extracontratual do Estado (Revoga o Decreto-Lei n.º 48 051, de Novembro de 1967).g",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142822",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2498-2499"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-22",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/058/2002-11-22/2498?pgs=2498-2499&org=PLC"
+              }
+            ],
+            "sumario": "Lei da responsabilidade civil extracontratual do Estado (Revoga o Decreto-Lei n.º 48 051, de Novembro de 1967).g",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142823",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2500-2500"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-22",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/058/2002-11-22/2500?pgs=2500&org=PLC"
+              }
+            ],
+            "sumario": "Lei da responsabilidade civil extracontratual do Estado (Revoga o Decreto-Lei n.º 48 051, de Novembro de 1967).g",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142824",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2500-2502"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-22",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/058/2002-11-22/2500?pgs=2500-2502&org=PLC"
+              }
+            ],
+            "sumario": "Lei da responsabilidade civil extracontratual do Estado (Revoga o Decreto-Lei n.º 48 051, de Novembro de 1967).g",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142825",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2502-2503"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-22",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/058/2002-11-22/2502?pgs=2502-2503&org=PLC"
+              }
+            ],
+            "sumario": "Lei da responsabilidade civil extracontratual do Estado (Revoga o Decreto-Lei n.º 48 051, de Novembro de 1967).g",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142826",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2503-2503"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-22",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/058/2002-11-22/2503?pgs=2503&org=PLC"
+              }
+            ],
+            "sumario": "Lei da responsabilidade civil extracontratual do Estado (Revoga o Decreto-Lei n.º 48 051, de Novembro de 1967).g",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142827",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2503-2505"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-22",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/058/2002-11-22/2503?pgs=2503-2505&org=PLC"
+              }
+            ],
+            "sumario": "Lei da responsabilidade civil extracontratual do Estado (Revoga o Decreto-Lei n.º 48 051, de Novembro de 1967).g",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142828",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2504-2504"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-22",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/058/2002-11-22/2504?pgs=2504&org=PLC"
+              }
+            ],
+            "sumario": "Lei da responsabilidade civil extracontratual do Estado (Revoga o Decreto-Lei n.º 48 051, de Novembro de 1967).g",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "390",
+                "nome": "Mota Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142829",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2505-2506"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-22",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/058/2002-11-22/2505?pgs=2505-2506&org=PLC"
+              }
+            ],
+            "sumario": "Lei da responsabilidade civil extracontratual do Estado (Revoga o Decreto-Lei n.º 48 051, de Novembro de 1967).g",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "153949",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2317",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-11-22",
+        "pubLeg": "IX",
+        "pubNr": "58",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/058/2002-11-22?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
