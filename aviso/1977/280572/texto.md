@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 25 de Agosto de 1977, o Governo do Congo depositou, junto do Secretário-Geral das Nações Unidas, o instrumento de adesão à Convenção suplementar Relativa à Abolição da Escravatura, do Tráfico de Escravos e das Instituições e Práticas Análogas à Escravatura, assinada em Genebra em 7 de Setembro de 1956, de que Portugal já é parte. Aquele instrumento diplomático entrou em vigor, com referência àquele país, em 25 de Agosto de 1977.
+Secretaria-Geral do Ministério, 7 de Novembro de 1977. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
