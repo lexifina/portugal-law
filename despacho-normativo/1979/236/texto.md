@@ -1,0 +1,9 @@
+Despacho Normativo n.º 236/79
+Tendo em conta os trabalhos desenvolvidos no âmbito da Comissão de Financiamento do Sector Empresarial do Estado, criada nos termos do n.º 1 do artigo 7.º do Decreto-Lei n.º 453/78, de 30 de Dezembro, com a nova redacção que lhe foi dada pelo n.º 2 do artigo único do Decreto-Lei n.º 65/79, de 30 de Março, e dando cumprimento ao disposto na Resolução do Conselho de Ministros n.º 241/79, de 8 de Agosto, os Ministros das Finanças e do Plano e da Indústria e Tecnologia determinam:
+1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1979 os projectos da Sociedade Mineira de Santiago, E. P., a seguir discriminados:
+(ver documento original)
+2 - No ano em curso, para além das operações financeiras necessárias à actividade corrente, fica vedado à empresa e às instituições de crédito lançar e financiar qualquer novo projecto de investimento não contemplado no número anterior.
+3 - Este conjunto de projectos representa um investimento total de 150 milhares de contos e será totalmente financiado com uma dotação para capital estatutário de igual montante, atentas a natureza da actividade exercida pela empresa (pesquisa e prospecção mineiras) e a não existência de quaisquer exploração.
+4 - A realização do capital estatutário prevista no número anterior concretizar-se-á através de despacho do Secretário de Estado do Tesouro, de acordo com a evolução demonstrada nas aplicações.
+5 - Os efeitos do presente despacho normativo transitarão integralmente para a Empresa Mineira e Metalúrgica do Alentejo, E. P., logo que ela esteja legalmente constituída.
+Ministérios das Finanças e do Plano e da Indústria e Tecnologia, 31 de Julho de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto.
