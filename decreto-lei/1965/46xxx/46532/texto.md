@@ -1,0 +1,9 @@
+Decreto-Lei n.º 46532
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Em conformidade com o disposto no artigo 3.º do Decreto-Lei n.º 41969, de 24 de Novembro de 1958, que aprovou o Código da Sisa e do Imposto sobre as Sucessões e Doações, o § 3.º do artigo 77.º deste código passa a ter a seguinte redacção:
+Art. 77.º ...
+§ 1.º ...
+§ 2.º ...
+§ 3.º Se até ao termo do prazo de 60 dias não for possível a indicação do valor do estabelecimento ou das quotas, a Inspecção, dentro dos 10 dias imediatos, indicará um valor provisório, o qual servirá de base à liquidação, sem prejuízo da sua correcção ulterior.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 9 de Setembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortes - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
