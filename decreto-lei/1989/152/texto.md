@@ -1,0 +1,51 @@
+Decreto-Lei n.º 152/89
+de 10 de Maio
+Com o imposto automóvel, criado pelo Decreto-Lei n.º 405/87, de 31 de Dezembro, procedeu-se à adaptação do regime de tributação dos veículos automóveis às condições de livre importação decorrentes da cessação do período transitório da adesão de Portugal às Comunidades, no que respeita à vigência dos Protocolos n.os 18 e 23.
+A experiência adquirida com a aplicação do referido diploma aconselha, todavia, a adopção de medidas que possibilitem uma melhor gestão do imposto e ainda a inclusão de mecanismos que se justificam pela necessidade de imprimir maior transparência, afastando os inconvenientes decorrentes da inexistência de uniformidade de critérios na classificação de alguns tipos de veículos.
+Importa ainda retirar, ao nível do imposto automóvel, as desejáveis consequências da criação da caução global no domínio da simplificação do processo de desalfândegamento e incluir na sede própria o regime fiscal aplicável às corporações de bombeiros, que, em termos profundamente ultrapassados, se encontra actualmente previsto no Decreto-Lei n.º 570/76, de 20 de Julho.
+Assim:
+No uso da autorização legislativa concebida pelo artigo 35.º da Lei n.º 114/88, de 30 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º - 1 - O imposto automóvel (IA) é um imposto interno incidente sobre os veículos automóveis ligeiros de passageiros - incluindo os de uso misto, os de corrida e outros principalmente concebidos para o transporte de pessoas, com exclusão das auto-caravanas -, importados, no estado de novos ou usados, ou montados ou fabricados em Portugal, e que sejam matriculados.
+2 - Estão ainda sujeitos ao IA os veículos automóveis ligeiros de mercadorias que, após a sua introdução no consumo, sejam transformados em veículos de passageiros ou em mistos de passageiros e carga de peso bruto inferior a 2500 kg.
+3 - O imposto é de natureza específica, monofásica e variável em função da cilindrada, conforme tabela anexa ao presente diploma, que dele faz parte integrante.
+4 - O montante do imposto liquidado sobre automóveis usados importados, com mais de dois anos contados desde a atribuição da primeira matrícula, será objecto de uma redução de 10% sobre os valores resultantes da aplicação da tabela referida no número anterior.
+Art. 2.º Para efeitos do presente diploma, consideram-se:
+1) Veículos automóveis ligeiros de uso misto - os automóveis com lotação até nove lugares, incluindo o do condutor, que reúnam as seguintes características:
+O interior pode utilizar-se, sem modificação da estrutura, tanto para o transporte de pessoas como de mercadorias;
+Bancos escamoteáveis ou amovíveis e vidros laterais, porta traseira e acabamentos interiores idênticos ou semelhantes aos dos veículos automóveis para o transporte de pessoas;
+2) Veículos automóveis ligeiros de mercadorias - veículos de cabina simples ou dupla de lotação até seis lugares, incluindo o do condutor, de caixa aberta ou châssis-cabina e os veículos de caixa fechada de lotação até três lugares, incluindo o do condutor, que não sejam considerados veículos automóveis ligeiros de uso misto, nos termos do número anterior e desde que dotados das seguintes características:
+Antepara inamovível que separe totalmente o espaço destinado ao condutor e passageiros do destinado às mercadorias, devendo a caixa de carga ter um estrado contínuo;
+Não poderão apresentar mais de uma porta do lado esquerdo;
+Os painéis laterais poderão ser providos de vidros fixos na zona imediatamente a seguir ao espaço destinado ao condutor e passageiros, em extensão que não ultrapasse metade do comprimento útil da caixa de carga.
+Art. 3.º - 1 - Nenhum veículo automóvel, quer no estado de novo, quer no de usado, poderá ser importado definitivamente sem que seja apresentada a homologação correspondente à respectiva marca e modelo, nos termos da Portaria n.º 427/87, de 22 de Maio.
+2 - Qualquer veículo automóvel sujeito ao IA só pode ser matriculado e registado quando se mostrem solvidos ou garantidos os inerentes compromissos perante o Estado, nos termos do Decreto-Lei n.º 289/88, de 24 de Agosto.
+3 - No caso de ser transformada a natureza dos veículos automóveis, nos termos do n.º 2 do artigo 1.º, estes só poderão ser legalizados pela Direcção-Geral de Viação após comprovação do pagamento do IA.
+Art. 4.º - 1 - A liquidação do imposto deverá ser efectuada pela Direcção-Geral das Alfândegas aquando da aceitação da declaração de introdução no consumo.
+2 - Relativamente aos veículos automóveis montados em Portugal, ou importados já completos, que se destinem ao consumo interno, o imposto deve ser pago nos termos das regras gerais respeitantes à dívida aduaneira e à prorrogação do pagamento dos direitos de importação.
+3 - Quando se trate de veículos automóveis fabricados no País com componentes nacionais e nacionalizados, ou transformados nos termos do n.º 2 do artigo 1.º, a liquidação e o pagamento do IA serão requeridos à direcção da alfândega respectiva e terão lugar através da guia do imposto automóvel.
+Art. 5.º - 1 - Os veículos automóveis de matrícula estrangeira destinados a importação definitiva, cujos proprietários residentes ou tenham a sua sede em território nacional, só poderão circular durante um período de 48 horas a partir da sua entrada em Portugal.
+2 - No prazo de 60 dias a contar da entrada em Portugal dos veículos a que se refere o número anterior deverá ser apresentado nas sedes das alfândegas o processo respeitante à sua importação definitiva.
+3 - Fica o Ministro das Finanças autorizado a criar ou a alterar, por despacho, os impressos e procedimentos que se tornem necessários à importação definitiva dos veículos que se encontrem nas condições previstas no n.º 1.
+Art. 6.º Os veículos automóveis usados, quando importados definitivamente, nos termos dos Decretos-Leis n.os 371/85, de 19 de Setembro, e 499/85, de 18 de Dezembro, beneficiam, no que concerne ao imposto automóvel, dos mesmos benefícios estabelecidos em relação ao imposto que este veio substituir.
+Art. 7.º - 1 - As ambulâncias e os veículos para serviço de incêndios importados pelas associações e corporações de bombeiros serão isentos do imposto automóvel.
+2 - Para efeitos do número anterior, os interessados deverão apresentar declaração emitida pelo Serviço Nacional de Bombeiros, em momento anterior ao da sua aquisição ou importação, da qual constará o reconhecimento da natureza da instituição e das características técnicas do veículo.
+Art. 8.º - 1 - Os veículos automóveis abrangidos pelo presente diploma, quando importados para o serviço de aluguer com condutor - táxis, letra A e letra T -, beneficiam de redução de 70% no montante do imposto.
+2 - Os veículos automóveis que beneficiem da redução prevista no número anterior só poderão ser substituídos decorridos que sejam cinco anos a contar da data da emissão da respectiva licença, salvo em casos de acidente de que resultem danos irreparáveis e o cancelamento da matrícula.
+Art. 9.º - 1 - Os veículos automóveis fabricados até ao ano de 1950 e classificados como antigos pela Fédération International des Voitures Anciennes (FIVA) ou pelo clube que a representa em Portugal ficam isentos do imposto automóvel aquando da sua importação definitiva, desde que sejam considerados com interesse para o património cultural nacional.
+2 - O disposto no número anterior apenas se aplica aos veículos automóveis para os quais seja apresentado certificado de automóvel antigo e ficha técnica aprovados pelas entidades competentes.
+3 - Para apreciação dos processos de importação definitiva de veículos automóveis que preencham os condicionalismos constantes das normas anteriores é criada uma comissão, a nomear por despacho do Ministro das Finanças, constituída por representantes da Direcção-Geral das Alfândegas, da Direcção-Geral de Viação e do clube representante em Portugal da Fédération International des Voitures Anciennes.
+4 - Os veículos automóveis que tenham beneficiado do disposto no n.º 1 não poderão sair do País sem que se mostre garantido o montante correspondente ao benefício concedido aquando da sua importação definitiva.
+Art. 10.º As referências feitas ao imposto sobre a venda de veículos automóveis nos diferentes diplomas em vigor devem entender-se como sendo feitas ao imposto automóvel.
+Art. 11.º O incumprimento dos prazos, a alteração das características determinantes da classificação fiscal dos veículos, bem como a utilização de veículos com desvio do destino ou aplicação em vista aos quais foram concedidos regimes de benefício, constantes do presente diploma, serão considerados como descaminho.
+Art. 12.º Até 31 de Dezembro de 1989, e sem prejuízo das demais características relativas à sua tipificação, serão considerados como veículos automóveis ligeiros de mercadorias aqueles que apresentem mais de uma porta do lado esquerdo, desde que uma delas seja do tipo corrediço, e sejam providos de vidros laterais fixos em toda a extensão da caixa de carga.
+Art. 13.º São revogados o artigo 2.º do Decreto-Lei n.º 570/76, de 20 de Julho, e o Decreto-Lei n.º 405/87, de 31 de Dezembro.
+Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
+Promulgado em 20 de Abril de 1989.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 25 de Abril de 1989.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+Tabela a que se refere o n.º 3 do artigo 1.º
+(ver documento original)
