@@ -1,0 +1,443 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "120",
+    "id": "5723",
+    "titulo": "Assunção de poderes de revisão constitucional extraordinária pela Assembleia da República"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2001-03-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1973",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2001-03-22",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "5710",
+        "leg": "VIII",
+        "nr": "122",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "499",
+            "obs": null,
+            "pag": [
+              "2486-2494"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-03-23",
+            "pubLeg": "VIII",
+            "pubNr": "63",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/063/2001-03-23/2486?pgs=2486-2494&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Assunção de poderes de revisão constitucional"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-03-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137072",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2486-2486"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-23",
+                "pubLeg": "VIII",
+                "pubNr": "63",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/063/2001-03-23/2486?pgs=2486&org=PLC"
+              }
+            ],
+            "sumario": "ASSUNCAO DE PODERES DE REVISAO CONSTITUCIONAL EXTRAORDINARIA PELA ASSEMBLEIA DA REPUBLICA; ASSUNCAO DE PODERES DE REVISAO CONSTITUCIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "143",
+                "nome": "Alberto Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137073",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2486-2488"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-23",
+                "pubLeg": "VIII",
+                "pubNr": "63",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/063/2001-03-23/2486?pgs=2486-2488&org=PLC"
+              }
+            ],
+            "sumario": "ASSUNCAO DE PODERES DE REVISAO CONSTITUCIONAL EXTRAORDINARIA PELA ASSEMBLEIA DA REPUBLICA; ASSUNCAO DE PODERES DE REVISAO CONSTITUCIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137074",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2488-2489"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-23",
+                "pubLeg": "VIII",
+                "pubNr": "63",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/063/2001-03-23/2488?pgs=2488-2489&org=PLC"
+              }
+            ],
+            "sumario": "ASSUNCAO DE PODERES DE REVISAO CONSTITUCIONAL EXTRAORDINARIA PELA ASSEMBLEIA DA REPUBLICA; ASSUNCAO DE PODERES DE REVISAO CONSTITUCIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137075",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2489-2490"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-23",
+                "pubLeg": "VIII",
+                "pubNr": "63",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/063/2001-03-23/2489?pgs=2489-2490&org=PLC"
+              }
+            ],
+            "sumario": "ASSUNCAO DE PODERES DE REVISAO CONSTITUCIONAL EXTRAORDINARIA PELA ASSEMBLEIA DA REPUBLICA; ASSUNCAO DE PODERES DE REVISAO CONSTITUCIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2490-2492"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-23",
+                "pubLeg": "VIII",
+                "pubNr": "63",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/063/2001-03-23/2490?pgs=2490-2492&org=PLC"
+              }
+            ],
+            "sumario": "ASSUNCAO DE PODERES DE REVISAO CONSTITUCIONAL EXTRAORDINARIA PELA ASSEMBLEIA DA REPUBLICA; ASSUNCAO DE PODERES DE REVISAO CONSTITUCIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2492-2494"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-23",
+                "pubLeg": "VIII",
+                "pubNr": "63",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/063/2001-03-23/2492?pgs=2492-2494&org=PLC"
+              }
+            ],
+            "sumario": "ASSUNCAO DE PODERES DE REVISAO CONSTITUCIONAL EXTRAORDINARIA PELA ASSEMBLEIA DA REPUBLICA; ASSUNCAO DE PODERES DE REVISAO CONSTITUCIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2494-2494"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-23",
+                "pubLeg": "VIII",
+                "pubNr": "63",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/063/2001-03-23/2494?pgs=2494&org=PLC"
+              }
+            ],
+            "sumario": "ASSUNCAO DE PODERES DE REVISAO CONSTITUCIONAL EXTRAORDINARIA PELA ASSEMBLEIA DA REPUBLICA; ASSUNCAO DE PODERES DE REVISAO CONSTITUCIONAL",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "146630",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "261324",
+        "obs": null,
+        "pag": [
+          "2485-2494"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-03-23",
+        "pubLeg": "VIII",
+        "pubNr": "63",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/063/2001-03-23/2485?pgs=2485-2494&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
