@@ -1,0 +1,3 @@
+Resolução n.º 55/82
+No uso da competência que lhe é atribuída pelo artigo 9.º do Decreto-Lei n.º 487/80, de 17 de Outubro, o Conselho de Ministros para os Assuntos Económicos, reunido em 16 de Março de 1982, resolveu exonerar do cargo de vice-presidente do conselho de gestão do Gabinete da Área de Sines o licenciado António dos Santos Labisa, com efeitos a partir da data da sua tomada de posse como presidente do conselho de gerência da Companhia Nacional de Navegação, E. P., que ocorreu a 22 de Janeiro de 1982.
+Presidência do Conselho de Ministros, 16 de Março de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
