@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ktYqpeS%2ft%2bZbliS4sHhftatFgOONJZv%2b0jwNSKIew1t0xo7wpSD4Wuod7wOpHm6JnVumY%2fcLg1QEJ6QuXOoI0mCZg8Now%2fNFrlqr4xaPyukQAb7VOIDJycUu8LgcqeBWkrLalvQbJNVVjYrmyeKurhYgJ88b%2bTAHUhqae0PG2tWw6wd9S%2fB1oSkkszdy9OWFhN3wUjxq5HmVweG9RQH09rl4k2N5tPgs%2fzprZm2tzFHnHSctshbR2DfX7RwTBfcB1zHFUq7rfF1ywAQTHCnkTEnmy8XmgIMFNpTZggbLiolv7UH6aQ9wXzrJpNDVBZQItckByiVODO72lKf0LysofiwVHTL6an5RgmBfpD1TjRRanKSw%2fu9%2bMNyeFb2ozzbOeEiwgdJpFNYQkXLYkgJujw%3d%3d&fich=RequerimentosIX_json.txt&Inline=true",
+  "ficheiro_sha256": "234acc6bf0a22a14e4ad1370daea559258a1b7960a20d3feebcabf91a9366690",
+  "legislatura": "IX",
+  "id": "27023",
+  "tipo": "Requerimento",
+  "numero": "1233",
+  "data_registo": "2002-11-08",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Rede consular na Argentina",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "1423",
+        "nome": "Luísa Mesquita"
+      }
+    ],
+    "DataEnvio": "2002-11-15",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2002-11-15",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN. DOS NEGÓCIOS ESTRANGEIROS E COMUNIDADES PORTUGUESAS",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2003-02-10",
+            "docRemetida": null,
+            "entidade": "MIN. DOS NEGÓCIOS ESTRANGEIROS E COMUNIDADES PORTUGUESAS",
+            "ficheiro": "",
+            "ficheiroComTipo": null,
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2002-11-08",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764e7a457759544d7a596d5974593251344d5330304d7a417a4c574669597a55744d6a4a69596a686b5a6a41784d444e6c4c6e426b5a673d3d&fich=710a33bf-cd81-4303-abc5-22bb8df0103e.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "27023",
+    "Legislatura": "IX",
+    "Nr": "1233",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "274882",
+        "obs": "104-(12)",
+        "pag": [
+          "104-(12)-104-(12)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2002",
+        "pubLeg": "IX",
+        "pubNr": "20",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/020S1/2002-11-16/104-(12)?pgs=104-(12)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
