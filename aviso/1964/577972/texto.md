@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público ter a Embaixada de Portugal em Madrid informado que, segundo comunicação recebida do Ministério de Assuntos Exteriores de Espanha, o Governo da República Árabe Unida depositou, em 21 de Maio findo, o instrumento de adesão do Acordo internacional do azeite, nos termos do § 9.º do artigo 36.º do referido Acordo, com a reserva de que a adesão a este Convénio nato significa de forma alguma o reconhecimento de Israel pelo Governo da República Árabe Unida, acrescentando que nenhuma relação de tratado surgirá entre a República Árabe Unida e Israel.
+Direcção-Geral dos Negócios Económicos e Consulares, 27 de Junho de 1964. - O Director dos Serviços dos Organismos Económicos Internacionais, Carlos Fernandes.
