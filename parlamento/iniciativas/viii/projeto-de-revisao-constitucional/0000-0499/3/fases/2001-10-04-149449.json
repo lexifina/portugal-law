@@ -1,0 +1,2219 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Revisão Constitucional",
+    "numero": "3",
+    "id": "18609",
+    "titulo": "Revisão Constitucional"
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "2001-10-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2045",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "2001-10-04",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Revisão Constitucional",
+        "id": "18607",
+        "leg": "VIII",
+        "nr": "1",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "606",
+            "obs": null,
+            "pag": [
+              "251-300"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-10-06",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/251?pgs=251-300&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "606",
+            "obs": null,
+            "pag": [
+              "251-300"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-10-06",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/251?pgs=251-300&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "C",
+        "titulo": "Revisão Constitucional"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Revisão Constitucional",
+        "id": "18608",
+        "leg": "VIII",
+        "nr": "2",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "606",
+            "obs": null,
+            "pag": [
+              "251-300"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-10-06",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/251?pgs=251-300&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "606",
+            "obs": null,
+            "pag": [
+              "251-300"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-10-06",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/251?pgs=251-300&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "C",
+        "titulo": "Revisão Constitucional"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-10-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "147",
+                "nome": "António de Almeida Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139322",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "251-251",
+                  "253-253",
+                  "273-273"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/251?pgs=251,253,273&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1373",
+                "nome": "Osvaldo de Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139323",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "251-251"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/251?pgs=251&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "185",
+                "nome": "José Vera Jardim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139324",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "251-252",
+                  "276-277"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/251?pgs=251-252,276-277&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139325",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "253-253"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/253?pgs=253&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139326",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "253-253",
+                  "261-261"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/253?pgs=253,261&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "383",
+                "nome": "Durão Barroso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139327",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "253-255"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/253?pgs=253-255&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139328",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "255-257"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/255?pgs=255-257&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139329",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "257-260",
+                  "279-280"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/257?pgs=257-260,279-280&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139330",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "261-262"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/261?pgs=261-262&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139331",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "262-263",
+                  "269-273",
+                  "278-278",
+                  "292-292",
+                  "294-295",
+                  "300-300"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/262?pgs=262-263,269-273,278,292,294-295,300&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139332",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "263-264",
+                  "268-269",
+                  "275-275",
+                  "281-281",
+                  "287-287",
+                  "292-293",
+                  "296-296",
+                  "299-300"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/263?pgs=263-264,268-269,275,281,287,292-293,296,299-300&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139333",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "264-265",
+                  "295-296"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/264?pgs=264-265,295-296&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139334",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "265-265"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/265?pgs=265&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139335",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "266-267",
+                  "271-273",
+                  "281-281",
+                  "284-287",
+                  "295-295",
+                  "298-299"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/266?pgs=266-267,271-273,281,284-287,295,298-299&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "128",
+                "nome": "Pedro Roseta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139336",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "267-268"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/267?pgs=267-268&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "133",
+                "nome": "Rui Gomes da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139337",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "270-270"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/270?pgs=270&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139338",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "270-270",
+                  "275-275",
+                  "282-282",
+                  "287-287",
+                  "290-291",
+                  "295-295",
+                  "300-300"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/270?pgs=270,275,282,287,290-291,295,300&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139339",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "273-273"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/273?pgs=273&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139340",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "273-273"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/273?pgs=273&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "185",
+                "nome": "José Vera Jardim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139341",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "273-274"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/273?pgs=273-274&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1643",
+                "nome": "José de Matos Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139342",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "274-274"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/274?pgs=274&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "152",
+                "nome": "António Braga"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139343",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "275-275"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/275?pgs=275&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139344",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "276-276",
+                  "282-283",
+                  "288-289",
+                  "293-293"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/276?pgs=276,282-283,288-289,293&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "117",
+                "nome": "Maria Manuela Aguiar"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139345",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "277-278"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/277?pgs=277-278&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "161",
+                "nome": "Carlos Luís"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139346",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "278-278"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/278?pgs=278&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "614",
+                "nome": "Celeste Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139347",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "278-279"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/278?pgs=278-279&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1166",
+                "nome": "Claudio Monteiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139348",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "280-281"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/280?pgs=280-281&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1736",
+                "nome": "Fernando Seara"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139349",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "281-282"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/281?pgs=281-282&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139350",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "283-285"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/283?pgs=283-285&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139351",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "284-284",
+                  "289-290",
+                  "296-297"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/284?pgs=284,289-290,296-297&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139352",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "286-286"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/286?pgs=286&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139353",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "287-288",
+                  "292-292",
+                  "297-297",
+                  "300-300"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/287?pgs=287-288,292,297,300&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1373",
+                "nome": "Osvaldo de Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139354",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "289-290"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/289?pgs=289-290&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1373",
+                "nome": "Osvaldo de Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139355",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "291-291"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/291?pgs=291&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139356",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "291-292"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/291?pgs=291-292&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139357",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "293-294"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/293?pgs=293-294&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139358",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "294-294"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/294?pgs=294&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139359",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "296-298"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/296?pgs=296-298&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139360",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "298-298"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/298?pgs=298&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139361",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "299-299"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/299?pgs=299&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139362",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "299-299"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-06",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/299?pgs=299&org=PLC"
+              }
+            ],
+            "sumario": "Revisão Constitucional",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "149449",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "265748",
+        "obs": null,
+        "pag": [
+          "251--300"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-10-06",
+        "pubLeg": "VIII",
+        "pubNr": "9",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/009/2001-10-06/251?pgs=251--300&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
