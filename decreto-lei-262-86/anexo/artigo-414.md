@@ -12,7 +12,7 @@ a) Os beneficiários de vantagens particulares da própria sociedade;
 
 b) Os que exercem funções de administração da própria sociedade ou as exerceram nos últimos três anos;
 
-c) Os membros dos órgãos de administração e de fiscalização de sociedade que se encontre em relação de domínio ou de grupo com a sociedade fiscalizada;
+c) Os membros do órgão de administração de sociedade que se encontre em relação de domínio ou de grupo com a sociedade fiscalizada;
 
 d) O sócio de sociedade em nome colectivo que se encontre em relação de domínio com a sociedade fiscalizada;
 
