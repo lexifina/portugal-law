@@ -1,0 +1,4 @@
+Despacho
+Tendo sido libertada, com mais de um mês de antecedência sobre a data normal, a circulação e venda dos vinhos verdes dentro da respectiva região demarcada, por motivo de esgotamento das suas existências, nos termos do n.º 3.º do meu despacho de 6 de Setembro de 1962, publicado no Diário do Governo de 15 de Setembro, determina-se que o n.º 2.º do referido despacho de 6 de Setembro seja substituído pelo seguinte:
+2.º É suspensa, a partir de 1 de Setembro, a obrigatoriedade de existências mínimas aos armazenistas que trabalham exclusivamente em vinhos verdes e que tenham os seus armazéns situados na respectiva região demarcada, ficando os mesmos obrigados à reposição total dessas exigências até 30 de Novembro corrente.
+Secretaria de estado do Comércio, 20 de Novembro de 1962. - O Secretário de Estado do Comércio, Samuel Rodrigues Sanches.
