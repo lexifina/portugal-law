@@ -1,0 +1,10 @@
+Portaria n.º 799/80
+de 7 de Outubro
+Considerando ser necessário compatibilizar o regime de acesso ao ensino superior em vigor até ao presente, em que a correspondente habilitação é constituída pela aprovação no Ano Propedêutico, com o futuro regime de acesso que decorrerá da substituição deste pelo 12.º ano de escolaridade;
+Sendo que a situação de transição entre os dois referidos regimes de acesso apenas necessita de clarificação no caso dos estudante que, não tendo obtido aprovação no Ano Propedêutico, têm, no entanto, condições homólogas às já especificadas para aprovação no futuro 12.º ano de escolaridade;
+Devendo, no entanto, ser minimamente salvaguardada a prioridade de colocação no ensino superior que devem ter, na candidatura de 1980, aqueles alunos que obtiveram condições completas de aprovação no Ano Propedêutico no regime até agora em vigor:
+Determino:
+1.º A título excepcional, serão considerados aprovados no Ano Propedêutico, para além dos estudantes que satisfazem às condições do artigo 23.º da Portaria n.º 71/79, de 8 de Fevereiro, os que tiverem obtido aquelas condições mínimas de aprovação apenas no que respeita às disciplinas nucleares e complementar do elenco com que se pretendem candidatar para acesso ao ensino superior.
+2.º Os estudantes nestas condições beneficiarão de todos os efeitos legais que decorram da situação de aprovação no Ano Propedêutico, em estrita igualdade de condições com os outros estudantes aprovados, salvo o disposto no n.º 3.º da presente portaria.
+3.º Para salvaguardar a prioridade que devem ter, apenas na candidatura de 1980 para acesso ao ensino superior, os estudantes que obtiveram aprovação no Ano Propedêutico no âmbito do regime geral, os alunos abrangidos pela presente portaria só terão acesso ao miniconcurso de colocações da presente candidatura, e neste cederão prioridade de colocação aos estudantes aprovados segundo o regime geral.
+Ministério da Educação e Ciência, 24 de Setembro de 1980. - O Ministro da Educação e Ciência, Vítor Pereira Crespo.
