@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Secretariado Permanente da Conferência da Haia de Direito Internacional Privado, o Governo do Reino dos Países Baixos, em conformidade com o artigo 11.º, parágrafo 2, da Convenção sobre a Competência das Autoridades e a Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia a 5 de Outubro de 1961 e entrada em vigor a 4 de Fevereiro de 1969, notificou que Aruba designou o Ministro da Justiça como autoridade competente para dar e receber directamente as informações referidas no parágrafo 1 do artigo 11.º da mencionada Convenção.
+Portugal é parte no instrumento diplomático em apreço.
+Secretaria-Geral do Ministério, 2 de Abril de 1987. - O Chefe do Serviço Jurídico e de Tratados, Fernão Manuel Homem de Gouveia Fávila Vieira.
