@@ -1,0 +1,3 @@
+Despacho Normativo n.º 257/80
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 1, «Produtos fitofarmacêuticos», é autorizada a substituição da embalagem com a capacidade de 100 g por outra de 200 g em produtos fitofarmacêuticos com base em monolinurão, cujo tipo de formulação é pó molhável, com o teor de 50% de substância activa.
+Ministérios da Agricultura e Pescas e do Comércio e Turismo, 27 de Maio de 1980. - O Secretário de Estado do Fomento Agrário, José Vicente de Jesus de Carvalho Cardoso. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
