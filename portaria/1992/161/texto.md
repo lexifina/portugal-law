@@ -1,0 +1,55 @@
+Portaria n.º 161/92
+de 12 de Março
+O Decreto-Lei n.º 291/90, de 20 de Setembro, regulamentado pela Portaria n.º 962/90, de 9 de Outubro, estabeleceu o regime jurídico do controlo metrológico dos métodos e instrumentos de medição.
+Considerando a necessidade de estabelecer a regulamentação específica a que deve obedecer o controlo metrológico dos instrumentos de medição de comprimentos;
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 291/90, de 20 de Setembro:
+Manda o Governo, pelo Ministro da Indústria e Energia, aprovar o Regulamento do Controlo Metrológico dos Instrumentos de Medição de Comprimentos, anexo à presente portaria e que dela faz parte integrante.
+Ministério da Indústria e Energia.
+Assinada em 14 de Fevereiro de 1992.
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
+
+Regulamento do Controlo Metrológico dos Instrumentos de Medição de Comprimentos
+1 - O presente Regulamento aplica-se a instrumentos de medição de comprimentos.
+2 - Entende-se por instrumentos de medição de comprimentos instrumentos que permitem medir manual ou automaticamente comprimentos, com exclusão dos montados em veículos, adiante referidos apenas como instrumentos.
+3 - Os instrumentos obedecerão às qualidades e características metrológicas estabelecidas na Recomendação Internacional n.º 66 da Organização Internacional de Metrologia Legal.
+4 - O disposto no número anterior não impede a comercialização nem a utilização posterior dos instrumentos acompanhados de certificados referentes às diferentes operações do controlo metrológico emitidos com base em especificações e procedimentos que assegurem uma qualidade metrológica equivalente à visada pelo presente diploma, passados por entidades oficiais dos Estados membros da CEE ou por organismo reconhecido segundo critérios equivalentes aos previstos nas normas NP EN 45 000, utilizados no âmbito do Sistema Nacional de Gestão da Qualidade, a que se refere o Decreto-Lei 165/83, de 27 de Abril.
+5 - O controlo metrológico dos instrumentos compreende as operações seguintes:
+Aprovação de modelo;
+Primeira verificação;
+Verificação periódica;
+Verificação extraordinária.
+6 - Aprovação de modelo.
+6.1 - O requerimento de aprovação é acompanhado de dois exemplares ou de partes constituintes, para estudo e ensaios.
+6.2 - Serão efectuados os ensaios previstos na Recomendação Internacional n.º 66, bem como a verificação das suas características metrológicas.
+6.3 - Na aprovação de modelo, os instrumentos são classificados conforme a sua classe de precisão.
+6.4 - A aprovação de modelo é válida por 10 anos, salvo disposição em contrário no despacho de aprovação de modelo.
+7 - Primeira verificação.
+7.1 - A primeira verificação compete ao Instituto Português da Qualidade e pode ser delegada na delegação regional da indústria e energia da área do fabricante, do importador ou do utilizador e em entidades de qualificação reconhecida.
+7.2 - Os ensaios são efectuados de acordo com as indicações da Recomendação Internacional n.º 66.
+7.3 - Os erros máximos admissíveis em correspondência com as classes de precisão dos instrumentos são os indicados no quadro seguinte:
+(ver documento original)
+7.4 - No ano em que se realizar a primeira verificação é dispensada a verificação periódica.
+8 - Verificação periódica.
+8.1 - A verificação periódica compete ao Instituto Português da Qualidade e poderá ser delegada na delegação regional da indústria e energia da área do utilizador e em entidades de qualificação reconhecida.
+8.2 - Os ensaios serão efectuados de acordo com as indicações da Recomendação Internacional n.º 66.
+8.3 - Os erros máximos admissíveis são o dobro dos indicados no n.º 7.3.
+8.4 - A verificação periódica é anual.
+9 - Verificação extraordinária.
+9.1 - A verificação extraordinária é da competência do Instituto Português da Qualidade e poderá ser delegada na delegação regional da indústria e energia da área do utilizador e em entidades de qualificação reconhecida.
+9.2 - Os erros máximos admissíveis são iguais aos estabelecidos para a verificação periódica.
+9.3 - A verificação extraordinária é válida por um ano.
+10 - Inscrições e marcações.
+10.1 - Os instrumentos devem conter, de maneira visível e legível, as indicações seguintes:
+Nome ou marca do fabricante ou do importador;
+Designação do modelo;
+Ano e número de fabrico;
+Símbolo de aprovação de modelo;
+Classe de precisão;
+Divisão;
+Comprimento mínimo medível;
+Velocidade máxima de medição;
+Natureza e características dos produtos a medir.
+10.2 - Os punçoamentos e as selagens, referentes aos diferentes controlos metrológicos, serão efectuados utilizando os símbolos respectivos de acordo com as indicações do despacho de aprovação de modelo.
+11 - Disposições finais e transitórias.
+11.1 - Os instrumentos em uso poderão permanecer em utilização enquanto estiverem em bom estado de conservação e nos ensaios de primeira verificação incorrerem em erros que não excedam os máximos admissíveis.
+11.2 - Para efeitos do número anterior, os utilizadores dos instrumentos devem requerer, no prazo de 90 dias, à delegação regional da indústria e energia a primeira verificação, fazendo acompanhar o requerimento da indicação das diferentes características metrológicas.
