@@ -1,0 +1,4 @@
+Aviso n.º 207/2004
+Por ordem superior se torna público que, em 29 de Julho de 2004, o Governo Belga depositou o seu instrumento de ratificação do Protocolo Que Consolida a Convenção Internacional de Cooperação para a Segurança da Navegação Aérea «EUROCONTROL», de 13 de Dezembro de 1960, na sequência de diversas modificações introduzidas, emitido em Bruxelas em 27 de Junho de 1997.
+Portugal é Parte do mesmo Protocolo, aprovado para ratificação pela Resolução da Assembleia da República n.º 35/2001, publicada no Diário da República, 1.ª série-A, n.º 103, de 4 de Maio de 2001, tendo depositado o seu instrumento de ratificação em 12 de Julho de 2001, conforme o aviso n.º 103/2001, e tendo entrado em vigor para Portugal em 13 de Julho de 2001.
+Direcção-Geral dos Assuntos Multilaterais, 24 de Novembro de 2004. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
