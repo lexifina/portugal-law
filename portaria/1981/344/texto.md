@@ -1,0 +1,8 @@
+Portaria n.º 344/81
+de 18 de Abril
+Os prazos de conservação em arquivo do receituário médico que acompanha a facturação elaborada mensalmente pelas farmácias foram estabelecidos pelo acordo para fornecimento de medicamentos existente entre os Serviços Médico-Sociais e a Associação Nacional de Farmácias.
+O Decreto-Lei n.º 29/72, de 24 de Janeiro, veio estabelecer normas tendentes à uniformização dos sistemas, revogando os preceitos especiais que providenciavam sobre a matéria, estabelecendo no seu artigo 1.º que serão fixados por portaria do Ministro competente os prazos mínimos de conservação em arquivo dos documentos na posse de várias entidades, referindo, entre outros, os serviços de Estado.
+O desenvolvimento verificado na prestação de assistência médica e o consequente acréscimo do volume do respectivo receituário, bem como a consequente necessidade de exagerados espaços de armazenagem, impõem como indispensável a reformulação da regulamentação ainda em vigor.
+Nestas circunstâncias, e porque a documentação não apresenta interesse que justifique microfilmagem, dado os seus elevados custos, considerando a conveniência e a urgência em descongestionar os arquivos estáticos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Saúde, nos termos do estabelecido no artigo 1.º do Decreto-Lei n.º 29/72, que os Serviços Médico-Sociais observem o prazo de um ano na conservação em arquivo do receituário médico que acompanha a facturação das farmácias, findo o qual deverão proceder à sua inutilização.
+Secretaria de Estado da Saúde, 2 de Abril de 1981. - O Secretário de Estado da Saúde, Adalberto Paulo da Fonseca Mendo.
