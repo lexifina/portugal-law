@@ -1,0 +1,5 @@
+Aviso n.º 325/95
+Por ordem superior se torna público que, por nota de 1 de Setembro de 1995 e nos termos do artigo 45.º da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos informou que o México modificou a sua autoridade central, previamente designada nos termos do artigo 6.º, parágrafo 1.º, para:
+Consultoría Jurídica, Secretaría de Relaciones Exteriores, Homero no. 213, piso 17, Colonia Chapultepec Morales, 11570 México, Distrito Federal. Telefones: (5) 3273218, 3273219 e 2547306. Fax: (5) 3273201 e 3273282. Telex: 1763479 (SREME).
+Portugal é Parte na mesma Convenção, que foi aprovada para ratificação pelo Decreto do Governo n.º 33/83, de 11 de Agosto, tendo depositado o seu instrumento de ratificação em 29 de Novembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Março de 1984. A autoridade central em Portugal é o Instituto de Reinserção Social.
+Departamento de Assuntos Jurídicos, 25 de Outubro de 1995. - O Director, José Maria Teixeira Leite Martins.
