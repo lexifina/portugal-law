@@ -1,0 +1,3 @@
+Resolução do Conselho de Ministros n.º 30/83
+Na sequência da Resolução do Conselho de Ministros n.º 197/82, de 2 de Novembro, considerando os resultados das negociações realizadas entre o Governo Português e o Banco Africano de Desenvolvimento, bem como o elevado interesse nacional na adesão portuguesa àquela instituição financeira de desenvolvimento, o Conselho de Ministros para os Assuntos Económicos, reunido em 19 de Abril de 1983, resolveu dar o seu acordo a que a subscrição inicial atinja o montante de 1008 acções do capital do BAD.
+Presidência do Conselho de Ministros. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
