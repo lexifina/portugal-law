@@ -1,0 +1,5 @@
+Aviso n.º 103/2001
+Por ordem superior se torna público que o Governo da República Portuguesa depositou, em 12 de Julho de 2001, junto do Governo Belga o seu instrumento de ratificação ao Protocolo Que Consolida a Convenção para a Segurança da Navegação Aérea - EUROCONTROL, de 13 de Dezembro de 1960, na sequência de diversas modificações introduzidas, adoptado em Conferência Diplomática reunida em Bruxelas em 27 de Junho de 1997, e o respectivo Protocolo Adicional, referente à substituição do Acordo Multilateral Relativo a Taxas de Rota, de 12 de Fevereiro de 1981.
+O referido Protocolo foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 35/2001, publicada no Diário da República, 1.ª série-A, n.º 103, de 4 de Maio de 2001.
+Nos termos do seu artigo 39.º, o referido Protocolo entrou em vigor relativamente a Portugal em 13 de Julho de 2001.
+Direcção de Serviços das Organizações Económicas Internacionais, 3 de Setembro de 2001. - A Directora de Serviços, Graça Gonçalves Pereira.
