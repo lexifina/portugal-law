@@ -1,0 +1,164 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "62",
+    "id": "18592",
+    "titulo": "Aprova, para ratificação, o Acordo Interno entre os Representantes dos Governos dos Estados Membros, reunidos no Conselho, relativo às Medidas a adoptr e aos Procedimentos a seguir para a Execução do Acordo de Parceria ACP-CE, assinados em 18 de Setembro de 2000, em Bruxelas"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2001-12-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "15247",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2001-12-18",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Resolução",
+        "id": "18591",
+        "leg": "VIII",
+        "nr": "63",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5606",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-12-19",
+            "pubLeg": "VIII",
+            "pubNr": "28",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/028/2001-12-19?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5606",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-12-19",
+            "pubLeg": "VIII",
+            "pubNr": "28",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/028/2001-12-19?org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "S",
+        "titulo": "Aprova, para ratificação, o Acordo de parceria entre os Estados de África, das Caraíbas e do Pacífico e a Comunidade Europeia e os seus Estados Membros, bem como os seus Anexos, Protocolo e Acta Final, assinados em Cotonou, em 23 de Junho de 2000"
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Resolução",
+        "id": "18695",
+        "leg": "VIII",
+        "nr": "72",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5606",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-12-19",
+            "pubLeg": "VIII",
+            "pubNr": "28",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/028/2001-12-19?org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5606",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-12-19",
+            "pubLeg": "VIII",
+            "pubNr": "28",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/028/2001-12-19?org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "S",
+        "titulo": "Aprova, para ratificação, o Convénio constitutivo da Corporação Interamericana de Investimentos"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-12-18",
+        "oradores": null
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "150173",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "267963",
+        "obs": "Por decisão da Conferencia de líderes não  foram atribuídos tempos para discussão",
+        "pag": [
+          "1132-1133"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-12-19",
+        "pubLeg": "VIII",
+        "pubNr": "28",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/028/2001-12-19/1132?pgs=1132-1133&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
