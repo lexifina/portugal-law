@@ -1,0 +1,34 @@
+Decreto-Lei n.º 704/74
+de 7 de DezembroTendo em linha de conta o desejo manifestado pelas mesas das Misericórdias que administram hospitais centrais e distritais de que tais estabelecimentos se integrem na rede nacional hospitalar e que, simultaneamente, os trabalhadores dos referidos hospitais têm manifestado, em diversas circunstâncias, idêntico desejo;
+Considerando que a normalização do funcionamento dos hospitais impõe a adopção de medidas cuja urgência não permite aguardar a publicação da nova lei orgânica hospitalar nem os resultados do trabalho que está a ser feito pelo grupo nomeado para estudar a integração dos estabelecimentos hospitalares das Misericórdias na Secretaria de Estado da Saúde;
+Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Os hospitais centrais e distritais pertencentes a pessoas colectivas de utilidade pública administrativa mantêm a autonomia administrativa e financeira que lhes foi conferida pelo Decreto-Lei n.º 162/74, de 20 de Abril, e passam a ser administrados por comissões, nomeadas pelo Secretário de Estado da Saúde e perante ele responsáveis.
+Art. 2.º Os estabelecimentos referidos no artigo anterior passam a reger-se pela legislação em vigor para os serviços hospitalares oficiais e ficam a funcionar no regime estabelecido nos artigos 79.º e seguintes do Decreto-Lei n.º 413/71, de 27 de Setembro.
+Art. 3.º - 1. Ao pessoal dos estabelecimentos abrangidos pelo presente diploma passa a ser aplicável o regime jurídico do pessoal dos estabelecimentos e serviços hospitalares oficiais, observando-se, pelo que respeita ao regime de previdência, o disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 35/73, de 6 de Fevereiro.
+2. Em relação ao pessoal religioso actualmente em serviço mantém-se o regime especial a que se referem os artigos 16.º e 33.º do Decreto-Lei n.º 48358, de 27 de Abril de 1968, enquanto não for definido o seu estatuto.
+3. Os acordos com ordens religiosas a que se refere o artigo 33.º do Decreto-Lei n.º 48358 deverão ser aprovados pelo Ministério dos Assuntos Sociais.
+Art. 4.º A integração em carreiras hospitalares do pessoal actualmente em serviço nos estabelecimentos a que se refere o presente diploma e que ainda não se encontra integrado terá lugar segundo normas a definir pelo Ministério dos Assuntos Sociais.
+Art. 5.º - 1. Quando proprietárias dos edifícios onde estão instalados os estabelecimentos hospitalares abrangidos pelo presente decreto-lei, as pessoas colectivas de utilidade pública administrativa referidas no artigo 1.º mantêm esse direito.
+2. A cedência dos edifícios referidos no número anterior é feita a título gratuito.
+3. Todas as obras necessárias à conservação e melhoramento dos edifícios referidos nos números anteriores serão suportadas pelo Estado.
+4. No caso de os edifícios deixarem de ser utilizados para fins de saúde pública, serão entregues às pessoas colectivas de utilidade pública administrativa suas proprietárias, com todas as benfeitorias que lhes tenham sido introduzidas.
+Art. 6.º - 1. As receitas próprias das pessoas colectivas de utilidade pública administrativa utilizadas até à data da publicação do presente decreto-lei na manutenção dos estabelecimentos hospitalares a que se reporta o artigo 1.º poderão passar a financiar outras actividades que se integrem na política social aprovada pelo Governo e que se dirijam em especial às populações de menores recursos.
+2. Os bens afectos aos hospitais, recebidos através de legados pios, que não constituam parte integrante daqueles, nem sejam indispensáveis ao seu adequado funcionamento, continuam a ser administrados pelas pessoas colectivas de utilidade pública administrativa suas proprietárias, a quem caberá a obrigação de assegurar o cumprimento dos encargos que os oneram.
+Art. 7.º - 1. Os estabelecimentos hospitalares abrangidos pelo presente decreto-lei terão como receitas:
+a) O rendimento dos serviços de saúde;
+b) As participações financeiras do Estado, através da Secretaria de Estado da Saúde;
+c) O rendimento dos bens que lhes estiverem afectos, nos termos do n.º 2 do artigo anterior;
+d) Quaisquer receitas que expressamente lhes forem consignadas.
+2. Os encargos da Secretaria de Estado da Saúde com a manutenção dos hospitais centrais e distritais, de acordo com o número anterior, serão suportados pelas dotações normalmente consignadas para o efeito no orçamento da Direcção-Geral dos Hospitais.
+Art. 8.º De modo a assegurar a adequada execução das disposições deste diploma é constituída uma Comissão Coordenadora dos Hospitais Distritais, que funcionará durante um período de cento e oitenta dias, prorrogáveis por igual período por despacho do Ministro dos Assuntos Sociais, com a seguinte composição:
+a) Um presidente designado pelo Secretário de Estado da Saúde;
+b) Dois representantes da Direcção-Geral dos Hospitais, designados pelo Secretário de Estado da Saúde;
+c) Dois representantes da Secretaria de Estado da Saúde, designados por eleição entre os médicos prestando serviço nos hospitais distritais;
+d) Dois representantes da Inspecção Superior da Tutela Administrativa, designados pelo Secretário de Estado da Segurança Social;
+e) Dois representantes das Misericórdias, eleitos entre as Misericórdias que possuem hospitais distritais;
+f) Dois representantes dos utentes, a indicar pelas autarquias locais dos distritos em que os referidos hospitais se encontram localizados.
+Art. 9.º O regime previsto neste diploma é aplicável a cada hospital a partir da data da posse da respectiva comissão instaladora.
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Maria de Lourdes Pintasilgo.
+Promulgado em 5 de Dezembro de 1974.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
