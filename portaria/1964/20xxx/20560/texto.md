@@ -1,0 +1,3 @@
+Portaria n.º 20560
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial da quantia de 150000$00, a inscrever em adicional à tabela de despesa do orçamento privativo em vigor da Comissão dos Serviços Provinciais de Planeamento e Integração Económica, sob a designação: «Despesas com o material - Despesas de conservação e aproveitamento do material - De imóveis - Prédios urbanos», tomando como contrapartida parte do saldo do ano económico findo.
+Ministério do Ultramar, 6 de Maio de 1964. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
