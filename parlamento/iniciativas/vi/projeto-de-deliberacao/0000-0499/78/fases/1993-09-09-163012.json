@@ -1,0 +1,923 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Projeto de Deliberação",
+    "numero": "78",
+    "id": "20324",
+    "titulo": "Autoriza as comissões especializadas permanentes a reunir nos dias e condiçoes que vierem a ser fixadas pelo Presidente da Assembleia da República com o objectivo de preparar a próxima sessão legislativa"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1993-09-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3138",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1993-09-09",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Deliberação",
+        "id": "20322",
+        "leg": "VI",
+        "nr": "76",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "542",
+            "obs": null,
+            "pag": [
+              "3257-3265"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1993-09-10",
+            "pubLeg": "VI",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3257?pgs=3257-3265&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "542",
+            "obs": null,
+            "pag": [
+              "3257-3265"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1993-09-10",
+            "pubLeg": "VI",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3257?pgs=3257-3265&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "542",
+            "obs": null,
+            "pag": [
+              "3257-3265"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1993-09-10",
+            "pubLeg": "VI",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3257?pgs=3257-3265&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "D",
+        "titulo": "Realização de uma reunião urgente da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, com vista à apreciação do relatório anual de segurança interna"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Deliberação",
+        "id": "20323",
+        "leg": "VI",
+        "nr": "77",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "542",
+            "obs": null,
+            "pag": [
+              "3257-3265"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1993-09-10",
+            "pubLeg": "VI",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3257?pgs=3257-3265&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "542",
+            "obs": null,
+            "pag": [
+              "3257-3265"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1993-09-10",
+            "pubLeg": "VI",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3257?pgs=3257-3265&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "542",
+            "obs": null,
+            "pag": [
+              "3257-3265"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1993-09-10",
+            "pubLeg": "VI",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3257?pgs=3257-3265&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "D",
+        "titulo": "Autoriza o funcionamento das Comissões Parlamentares tendo em vista a preparação do início da sessão legislativa"
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Deliberação",
+        "id": "20325",
+        "leg": "VI",
+        "nr": "79",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "542",
+            "obs": null,
+            "pag": [
+              "3257-3265"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1993-09-10",
+            "pubLeg": "VI",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3257?pgs=3257-3265&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "542",
+            "obs": null,
+            "pag": [
+              "3257-3265"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1993-09-10",
+            "pubLeg": "VI",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3257?pgs=3257-3265&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "542",
+            "obs": null,
+            "pag": [
+              "3257-3265"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1993-09-10",
+            "pubLeg": "VI",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3257?pgs=3257-3265&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "D",
+        "titulo": "Autoriza a Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, a reunir no mês de Setembro, para se debruçar sobre os problemas relacionados com a segurança interna, com a participação do Governo"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1993-09-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33873",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3265-3265"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-09-10",
+                "pubLeg": "VI",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3265?pgs=3265&org=PLC"
+              }
+            ],
+            "sumario": "REALIZACAO DE UMA REUNIAO URGENTE DA CACDLG, COM VISTA AAPRECIACAO DO RELATORIO ANUAL DE SEGURANCA INTERNAAUTORIZA O FUNCIONAMENTO DE COMISSOES PARLAMENTARES, TENDOEM VISTA A PREPARACAO DO INICIO DA SESSAO LEGISLATIVAAUTORIZA AS COMISSOES ESPECIALIZADAS (CONTINUA NO RESUMO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33874",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3264-3265"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-09-10",
+                "pubLeg": "VI",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3264?pgs=3264-3265&org=PLC"
+              }
+            ],
+            "sumario": "REALIZACAO DE UMA REUNIAO URGENTE DA CACDLG, COM VISTA AAPRECIACAO DO RELATORIO ANUAL DE SEGURANCA INTERNAAUTORIZA O FUNCIONAMENTO DE COMISSOES PARLAMENTARES, TENDOEM VISTA A PREPARACAO DO INICIO DA SESSAO LEGISLATIVAAUTORIZA AS COMISSOES ESPECIALIZADAS (CONTINUA NO RESUMO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "35",
+                "nome": "Carlos Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33875",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3264-3265"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-09-10",
+                "pubLeg": "VI",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3264?pgs=3264-3265&org=PLC"
+              }
+            ],
+            "sumario": "REALIZACAO DE UMA REUNIAO URGENTE DA CACDLG, COM VISTA AAPRECIACAO DO RELATORIO ANUAL DE SEGURANCA INTERNAAUTORIZA O FUNCIONAMENTO DE COMISSOES PARLAMENTARES, TENDOEM VISTA A PREPARACAO DO INICIO DA SESSAO LEGISLATIVAAUTORIZA AS COMISSOES ESPECIALIZADAS (CONTINUA NO RESUMO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33876",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3263-3264"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-09-10",
+                "pubLeg": "VI",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3263?pgs=3263-3264&org=PLC"
+              }
+            ],
+            "sumario": "REALIZACAO DE UMA REUNIAO URGENTE DA CACDLG, COM VISTA AAPRECIACAO DO RELATORIO ANUAL DE SEGURANCA INTERNAAUTORIZA O FUNCIONAMENTO DE COMISSOES PARLAMENTARES, TENDOEM VISTA A PREPARACAO DO INICIO DA SESSAO LEGISLATIVAAUTORIZA AS COMISSOES ESPECIALIZADAS (CONTINUA NO RESUMO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "35",
+                "nome": "Carlos Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33877",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3263-3264"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-09-10",
+                "pubLeg": "VI",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3263?pgs=3263-3264&org=PLC"
+              }
+            ],
+            "sumario": "REALIZACAO DE UMA REUNIAO URGENTE DA CACDLG, COM VISTA AAPRECIACAO DO RELATORIO ANUAL DE SEGURANCA INTERNAAUTORIZA O FUNCIONAMENTO DE COMISSOES PARLAMENTARES, TENDOEM VISTA A PREPARACAO DO INICIO DA SESSAO LEGISLATIVAAUTORIZA AS COMISSOES ESPECIALIZADAS (CONTINUA NO RESUMO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "230",
+                "nome": "André Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33878",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3263-3263"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-09-10",
+                "pubLeg": "VI",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3263?pgs=3263&org=PLC"
+              }
+            ],
+            "sumario": "REALIZACAO DE UMA REUNIAO URGENTE DA CACDLG, COM VISTA AAPRECIACAO DO RELATORIO ANUAL DE SEGURANCA INTERNAAUTORIZA O FUNCIONAMENTO DE COMISSOES PARLAMENTARES, TENDOEM VISTA A PREPARACAO DO INICIO DA SESSAO LEGISLATIVAAUTORIZA AS COMISSOES ESPECIALIZADAS (CONTINUA NO RESUMO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33879",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3261-3261"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-09-10",
+                "pubLeg": "VI",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3261?pgs=3261&org=PLC"
+              }
+            ],
+            "sumario": "REALIZACAO DE UMA REUNIAO URGENTE DA CACDLG, COM VISTA AAPRECIACAO DO RELATORIO ANUAL DE SEGURANCA INTERNAAUTORIZA O FUNCIONAMENTO DE COMISSOES PARLAMENTARES, TENDOEM VISTA A PREPARACAO DO INICIO DA SESSAO LEGISLATIVAAUTORIZA AS COMISSOES ESPECIALIZADAS (CONTINUA NO RESUMO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "35",
+                "nome": "Carlos Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33880",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3260-3261",
+                  "3264-3264"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-09-10",
+                "pubLeg": "VI",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3260?pgs=3260-3261,3264&org=PLC"
+              }
+            ],
+            "sumario": "REALIZACAO DE UMA REUNIAO URGENTE DA CACDLG, COM VISTA AAPRECIACAO DO RELATORIO ANUAL DE SEGURANCA INTERNAAUTORIZA O FUNCIONAMENTO DE COMISSOES PARLAMENTARES, TENDOEM VISTA A PREPARACAO DO INICIO DA SESSAO LEGISLATIVAAUTORIZA AS COMISSOES ESPECIALIZADAS (CONTINUA NO RESUMO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33881",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3260-3261"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-09-10",
+                "pubLeg": "VI",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3260?pgs=3260-3261&org=PLC"
+              }
+            ],
+            "sumario": "REALIZACAO DE UMA REUNIAO URGENTE DA CACDLG, COM VISTA AAPRECIACAO DO RELATORIO ANUAL DE SEGURANCA INTERNAAUTORIZA O FUNCIONAMENTO DE COMISSOES PARLAMENTARES, TENDOEM VISTA A PREPARACAO DO INICIO DA SESSAO LEGISLATIVAAUTORIZA AS COMISSOES ESPECIALIZADAS (CONTINUA NO RESUMO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33882",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3258-3259",
+                  "3261-3263"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-09-10",
+                "pubLeg": "VI",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3258?pgs=3258-3259,3261-3263&org=PLC"
+              }
+            ],
+            "sumario": "REALIZACAO DE UMA REUNIAO URGENTE DA CACDLG, COM VISTA AAPRECIACAO DO RELATORIO ANUAL DE SEGURANCA INTERNAAUTORIZA O FUNCIONAMENTO DE COMISSOES PARLAMENTARES, TENDOEM VISTA A PREPARACAO DO INICIO DA SESSAO LEGISLATIVAAUTORIZA AS COMISSOES ESPECIALIZADAS (CONTINUA NO RESUMO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33883",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3259-3260"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-09-10",
+                "pubLeg": "VI",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3259?pgs=3259-3260&org=PLC"
+              }
+            ],
+            "sumario": "REALIZACAO DE UMA REUNIAO URGENTE DA CACDLG, COM VISTA AAPRECIACAO DO RELATORIO ANUAL DE SEGURANCA INTERNAAUTORIZA O FUNCIONAMENTO DE COMISSOES PARLAMENTARES, TENDOEM VISTA A PREPARACAO DO INICIO DA SESSAO LEGISLATIVAAUTORIZA AS COMISSOES ESPECIALIZADAS (CONTINUA NO RESUMO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33884",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3258-3263"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-09-10",
+                "pubLeg": "VI",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3258?pgs=3258-3263&org=PLC"
+              }
+            ],
+            "sumario": "REALIZACAO DE UMA REUNIAO URGENTE DA CACDLG, COM VISTA AAPRECIACAO DO RELATORIO ANUAL DE SEGURANCA INTERNAAUTORIZA O FUNCIONAMENTO DE COMISSOES PARLAMENTARES, TENDOEM VISTA A PREPARACAO DO INICIO DA SESSAO LEGISLATIVAAUTORIZA AS COMISSOES ESPECIALIZADAS (CONTINUA NO RESUMO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "19",
+                "nome": "Barbosa de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "134426",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3257-3257"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-09-10",
+                "pubLeg": "VI",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10/3257?pgs=3257&org=PLC"
+              }
+            ],
+            "sumario": "REALIZACAO DE UMA REUNIAO URGENTE DA CACDLG, COM VISTA AAPRECIACAO DO RELATORIO ANUAL DE SEGURANCA INTERNAAUTORIZA O FUNCIONAMENTO DE COMISSOES PARLAMENTARES, TENDOEM VISTA A PREPARACAO DO INICIO DA SESSAO LEGISLATIVAAUTORIZA AS COMISSOES ESPECIALIZADAS (CONTINUA NO RESUMO)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "163012",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "289386",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-09-10",
+        "pubLeg": "VI",
+        "pubNr": "99",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/099/1993-09-10?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
