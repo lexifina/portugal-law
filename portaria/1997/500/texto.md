@@ -1,0 +1,42 @@
+Portaria n.º 500/97
+de 21 de Julho
+A Portaria n.º 828/88, de 29 de Dezembro, define os parâmetros de área e custos de construção, bem como os valores máximos de venda e os conceitos a que devem obedecer as habitações a custos controlados.
+Ao longo dos oito anos da sua aplicação tem vindo a verificar-se a necessidade de flexibilizar alguns daqueles parâmetros e valores no sentido da sua compatibilização com a realidade, tendo, nomeadamente, em consideração o leque de destinatários a abranger na oferta daquele tipo de habitação e o aumento do preço dos solos.
+Considerando tal necessidade, optou-se pela revogação na íntegra da referida portaria, reunindo no presente diploma disposições inovadoras e outras do mencionado normativo, cuja aplicação se mantém actual.
+Assim:
+Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administração do Território, nos termos e em execução do disposto no n.º 2 do artigo 6.º do Decreto-Lei n.º 794/76, de 5 de Novembro, o seguinte:
+1.º São consideradas habitações de custos controlados:
+a) As promovidas com o apoio do Estado que obedeçam aos parâmetros, limites e valores estabelecidos na presente portaria;
+b) As unidades residenciais para realojamento de populações, desde que justificados pelo promotor o seu dimensionamento e necessidade.
+2.º As habitações a custos controlados devem ter como referência, de acordo com a respectiva tipologia, as seguintes áreas brutas:
+(ver documento original)
+3.º A área bruta total dos programas e empreendimentos multifamiliares terá como limite máximo a que resultar da aplicação dos índices do número anterior às diversas tipologias que o constituem, podendo admitir-se uma margem adicional de 3%, que nunca pode resultar num acréscimo de área por fogo superior a 10%.
+4.º Para além da margem adicional prevista no número anterior, aos valores máximos de área bruta previstos no n.º 2 pode ainda ser aplicada uma margem adicional de 7%, não beneficiando, porém, neste último caso, de bonificação a parte do financiamento correspondente ao respectivo acréscimo.
+5.º O disposto nos números anteriores não é aplicável à parte do empreendimento destinado às unidades residenciais, cujo dimensionamento terá de ser justificado pelo promotor e cumprir as normas especiais aplicáveis àquelas unidades.
+6.º O projecto e qualidade construtiva das habitações a custos controlados têm como referência as recomendações técnicas para habitação social (RTHS).
+7.º Os limites máximos do custo de construção e do preço de venda por metro quadrado de área bruta são definidos com base e em relação ao custo directo de construção por metro quadrado de área bruta.
+8.º O custo de construção por metro quadrado de área bruta é determinado pela aplicação do coeficiente 1,14 ao custo directo de construção por metro quadrado de área bruta.
+9.º O custo directo de construção por metro quadrado de área bruta é avaliado e fixado pela instituição financiadora, caso a caso, em função do projecto, dimensão, nível de qualidade, localização e tipologias, a partir de um custo base dentro de uma margem de variação de 7,5%.
+10.º O custo base a que se refere o número anterior é fixado, para 1 de Janeiro de 1997, em 56200$00, data a partir da qual se aplicará trimestralmente, com as necessárias adaptações, a revisão de preços calculada nos termos do Decreto-Lei n.º 348-A/86, de 16 de Outubro.
+11.º O preço de venda das habitações a custos controlados por metro quadrado de área bruta é fixado como se segue:
+Zona I - 1,62 CDC/m2 Ab;
+Zona II - 1,60 CDC/m2 Ab;
+Zona III - 1,58 CDC/m2 Ab;
+em que CDC/m2 Ab é o custo directo de construção por metro quadrado de área bruta.
+12.º As zonas do País referidas no número anterior são as constantes do quadro anexo à presente portaria, que dela faz parte integrante.
+13.º Ao custo de construção e preço de venda por metro quadrado de área bruta definidos na presente portaria é aplicado um coeficiente de 1,35 quando se referem às Regiões Autónomas da Madeira e dos Açores.
+14.º Para efeitos do disposto nos n.os 5.º e 10.º, pode o INH recomendar as soluções técnicas, construtivas e arquitectónicas que maximizem a relação projecto-qualidade-preço e recorrer, tanto quanto possível, à análise e fixação do custo directo de construção por projectos tipo.
+15.º O INH pode ainda assegurar o desenvolvimento de um sistema de incentivos que estimule, por parte dos agentes económicos envolvidos, a investigação e o desenvolvimento de soluções que garantam os melhores preços finais.
+16.º Para efeitos do disposto no presente diploma entende-se por:
+Área bruta - a superfície total do fogo medida pelo perímetro exterior das paredes exteriores e eixos das paredes separadoras dos fogos, incluindo varandas privativas e a quota-parte que lhe corresponda nas circulações comuns do edifício e excluindo as salas de condomínio, as partes ou locais acessórios destinados a garagens e arrecadações e respectivos acessos;
+Custo directo de construção - compreende os encargos relativos aos recursos directamente utilizados durante a construção, ou seja, os meios que são incorporados na obra cujo valor se obtém pelo somatório dos diferentes trabalhos de construção;
+Custos de construção - compreende o custo directo de construção e os encargos relativos a estaleiro, estrutura e demais encargos relativos à obra;
+Preços de venda - compreende o custo de construção e os encargos relativos ao terreno, projecto, infra-estruturas e demais custos financeiros, administrativos, fiscais (incluindo IVA), de comercialização e margem.
+17.º O disposto na presente portaria aplica-se aos contratos e financiamentos a celebrar a partir da data da sua publicação.
+18.º É revogada a Portaria n.º 828/88, de 29 de Dezembro.
+Ministério do Equipamento, do Planeamento e da Administração do Território.
+Assinada em 18 de Junho de 1997.
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.
+
+Quadro anexo a que se refere o n.º 12.º
+(ver documento original)
