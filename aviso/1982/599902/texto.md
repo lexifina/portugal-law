@@ -1,0 +1,6 @@
+Aviso
+O Banco de Portugal, sob a superior orientação do Ministro de Estado e das Finanças e do Plano, no uso da competência que lhe é atribuída pelo artigo 26.º da sua Lei Orgânica e em aplicação do previsto no n.º 1 do artigo 8.º do Decreto-Lei n.º 135/79, de 18 de Maio, determina, tendo em vista o esclarecimento do campo de aplicação do artigo 2.º do Decreto-Lei n.º 171/79, de 6 de Junho:
+1.º Não podem ser objecto de locação financeira mobiliária os bens destinados a utilização em actividades produtivas ou em profissões liberais constantes do mapa anexo à Portaria n.º 602/79, de 21 de Novembro, com as alterações introduzidas pela Portaria n.º 571/80, de 5 de Setembro, com excepção do previsto nos números seguintes;
+2.º Os bens de equipamento constantes do referido mapa poderão ser objecto de locação financeira desde que, atentos os sectores em que operam as entidades utilizadoras, para eles estejam previstas modalidades especiais de financiamento;
+3.º Os bens a que se referem as alíneas g) e h) do n.º 2 do mesmo mapa poderão ser objecto de locação financeira, mas os prazos dos respectivos contratos não poderão, em qualquer caso, exceder os prazos máximos nele previstos para pagamento total dos seus preços.
+Ministério das Finanças e do Plano, 19 de Fevereiro de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
