@@ -1,0 +1,29 @@
+Portaria n.º 367/87
+de 4 de Maio
+Um dos objectivos fundamentais do Governo no âmbito da sua política de habitação é criar as melhores condições para que os diversos promotores envolvidos, sejam privados (cooperativas e empresas) ou públicos (autarquias locais), através das suas iniciativas, coloquem no mercado o maior número de fogos a custos controlados, como forma de melhor responder às necessidades de habitação dos agregados familiares de menores rendimentos. Inscreve-se neste objectivo um conjunto de medidas que têm vindo a ser tomadas pelo Governo.
+Os promotores privados, e em particular as cooperativas, desempenham um papel fundamental neste domínio, estando o Governo interessado na expansão da sua actividade, eliminando os factores limitativos à sua acção, pois possuem hoje uma notável capacidade e experiência.
+A aquisição de terrenos constitui um dos primeiros obstáculos a ultrapassar por aqueles promotores, pelo que, normalmente, procuram o apoio da administração central ou local, para a cedência dos seus recursos imobiliários.
+Na medida em que os terrenos públicos são escassos, salvo situações como as relativas aos denominados planos integrados de Almada, Setúbal, Zambujal e Aveiro, têm aqueles promotores sido cada vez mais colocados na necessidade de recorrer ao mercado livre, o que exige meios e condições suplementares.
+Sendo atribuições do Instituto Nacional da Habitação (INH) assegurar a administração habitacional e as intervenções de natureza financeira do sector da habitação da competência do Estado, no âmbito da alínea c) do artigo 2.º e da alínea a) do n.º 2 do artigo 3.º do Decreto-Lei n.º 202-13/86, de 22 de Julho, e tendo ainda presente o estabelecido no n.º 3.º da Portaria n.º 66/87, de 29 de Janeiro, no que respeita ao peso do terreno e infra-estruturas no preço final de construção:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Obras Públicas, transportes e Comunicações, o seguinte:
+1.º O INH poderá conceder financiamento intercalar à aquisição de terrenos para a concretização de programas de habitação a custos controlados (habitação social), promovidos quer por cooperativas quer por empresas privadas no âmbito de CDHs.
+2.º Os promotores deverão instruir o respectivo tido com os seguintes documentos:
+Planta de localização do terreno, com a área de implantação do projecto;
+Número e tipologia de fogos a construir;
+Declaração de que o empreendimento será desenvolvido tendo em conta as regulamentações técnicas da habitação social (RTHS);
+No caso de promoção cooperativa, declaração da câmara municipal quanto à viabilidade da execução do projecto;
+No caso de CDHs, declaração da câmara municipal da sua intenção de o concretizar conjuntamente com a empresa, nos tensos da legislação em vigor.
+3.º Os termos e condições do financiamento intercalar referido no n.º 1.º deverão estabelecer do seguinte modo:
+1) O valor do terreno será avaliado pelo INH, caso a caso, de acordo com a sua localização e características;
+2) O valor referido no número anterior não poderá ser superior a 7% do valor global do empreendimento a construir, avaliado segundo os preços máximos de construção em vigor e tendo presente as áreas máximas admitidas pelas RTHS;
+3) O montante máximo do financiamento será de 80% do valor do terreno;
+4) O prazo máximo do empréstimo será de dois anos, com possibilidade de prorrogação por mais um ano, desde que as razões apresentadas pelo promotor sejam tidas em consideração pelo INH;
+5) A taxa de juro a praticar será igual à taxa em vigor no mercado para operações de prazo idêntico.
+Os juros serão pagos trimestralmente, à taxa proporcional;
+6) O financiamento intercalar para a aquisição de terrenos será amortizado por contrapartida do financiamento a conceder no momento da celebração do contrato do empréstimo à construção;
+7) A garantia será constituída por hipoteca do terreno ou outras consideradas adequadas pelo INH.
+4.º Caso venha a verificar-se a não aplicação do terreno para os fins para que foi adquirido no prazo estabelecido, o promotor ficará obrigado a ceder o terreno ao INH, pelo valor de aquisição.
+5.º No caso do número anterior, o INH poderá assegurar, ao preço de custo, a utilização dos terrenos por outros promotores de habitação de custos controlados.
+Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
+Assinada em 7 de Abril de 1987.
+Pelo Ministro das Finanças, Manuel Carlos Carvalho Fernandes, Secretário de Estado do Tesouro. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, José Manuel Alves Elias da Costa, Secretário de Estado da Construção e Habitação.
