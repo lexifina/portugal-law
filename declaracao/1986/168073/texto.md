@@ -1,0 +1,8 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto Regulamentar n.º 70/85, publicado no Diário da República 1.ª série, n.º 250, de 30 de Outubro de 1985 cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 8.º, n.º 1, alínea c), onde se lê «a designar pelo Ministro da Educação sob proposto do presidente» deve ler-se «a designar pelo Ministro da Educação sob proposta do presidente».
+No artigo 46.º, n.º 1, onde se lê «com um mínimo de 2 anos de bom e efectivo serviço na categoria.» deve ler-se «com um mínimo de 3 anos de bom e efectivo serviço na categoria.»
+No artigo 54.º, onde se lê «entrada em vigor do presente diploma, opte pela não integração» deve ler-se «entrada em vigor do presente diploma, que opte pela não integração».
+No anexo I, onde se lê «Motorista de pesados» deve ler-se «Motorista de pesados de 1.ª classe ou de 2.ª classe».
+No anexo II, onde se lê «Serralheiro-chefe - Serralheiro-chefe» deve ler-se «Serralheiro-chefe - Serralheiro principal», onde se lê «Empregado de refeitório/pré-preparador de alimentação/copeiro/ajudante de cozinha até 5 anos - Auxiliar de alimentação de 2.ª classe» deve ler-se «Empregado de refeitório/pré-preparador de alimentação/copeiro/ajudante de cozinha de 5 a 10 anos - Auxiliar de alimentação de 2.ª classe» e onde se lê «Empregado de refeitório/pré-preparador de alimentação/copeiro/ajudante de cozinha de 5 a 10 anos - Auxiliar de alimentação de 3.ª classe» deve ler-se «Empregado de refeitório/pré-preparador de alimentação/copeiro/ajudante de cozinha até 5 anos - Auxiliar de alimentação de 3.ª classe».
+Secretaria-Geral da Presidência do Conselho de Ministros, 13 de Janeiro de 1986. - O Secretário-Geral, França Martins.
