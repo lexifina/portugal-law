@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que foram trocados em Lisboa, em 18 de Outubro de 1972, entre o Ministro dos Negócios Estrangeiros de Portugal e o Embaixador da República Francesa em Lisboa, os instrumentos de ratificação da Convenção entre Portugal e a França para Evitar a Dupla Tributação e Estabelecer Regras de Assistência Administrativa Recíproca em Matéria de Impostos sobre o Rendimento, assinado em Paris em 14 de Janeiro de 1971 e aprovado para ratificação pelo Decreto-Lei n.º 105/71, de 26 de Março.
+Direcção-Geral dos Negócios Económicos, 31 de Outubro de 1972. - O Director-Geral, interino, Tomás de Melo Breyner Andresen.
