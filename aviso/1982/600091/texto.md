@@ -1,0 +1,3 @@
+Aviso
+Torna-se público que em 29 de Janeiro de 1982 o Governo do Reino dos Países Baixos informou da retirada para o Reino dos Países Baixos e para as Antilhas neerlandesas das reservas feitas ao ratificar a Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia em 5 de Outubro de 1961, e publicadas em aviso no Diário do Governo, 1.ª série, n.º 218, de 15 de Setembro de 1971. O efeito das reservas cessará em 30 de Março de 1982.
+Secretaria-Geral do Ministério, 24 de Fevereiro de 1982. - O Director dos Serviços Jurídicos e de Tratados, Carlos Augusto Fernandes.
