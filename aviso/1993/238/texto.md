@@ -1,0 +1,3 @@
+Aviso n.º 238/93
+Por ordem superior se faz público que, segundo comunicação do Secretário-Geral das Nações Unidas, o Governo da Eslovénia notificou, em 6 de Agosto de 1993, a sua sucessão no Acordo sobre Transportes Internacionais de Géneros Perecíveis e Equipamento Especial a Ser Usado Nesse Transporte (ATP), concluído em Genebra a 1 de Setembro de 1970, com efeitos desde 25 de Junho de 1991, data em que a Eslovénia assumiu responsabilidades pelas suas relações internacionais.
+Direcção-Geral dos Negócios Político-Económicos, 9 de Novembro de 1993. - O Director de Serviços dos Assuntos Multilaterais, António Raul Freitas Monteiro Portugal.
