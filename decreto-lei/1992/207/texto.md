@@ -1,0 +1,42 @@
+Decreto-Lei n.º 207/92
+de 2 de Outubro
+O Decreto-Lei n.º 355/87, de 14 de Novembro, reviu o sistema de fixação de tarifas e preços do sector das comunicações, no sentido da sua flexibilização, atribuindo às empresas operadoras dos respectivos serviços uma maior autonomia na matéria, reservando para o Governo a fixação das taxas básicas e das regras orientadoras da determinação das restantes.
+Com a entrada em vigor da Lei n.º 88/89, de 11 de Setembro, e consequente reorganização do sector das telecomunicações, resultou, para este, um novo enquadramento, de progressiva liberalização, quer pela abertura ao mercado concorrencial de vários serviços antes reservados aos operadores do serviço público, quer pelo aparecimento de novos serviços.
+No sector postal, os factores de mercado ganham igualmente cada vez mais preponderância no que respeita às modalidades dos serviços a prestar e aos níveis de qualidade com que são prestados.
+Impõe-se, pois, que o modo de formação dos preços dos serviços de comunicações prestados em regime de exclusivo sofra a correspondente evolução, oferecendo às componentes de mercado maior influência, sem descurar, no entanto, a garantia do interesse público.
+Deste modo, adopta-se para os serviços prestados em exclusivo pelos operadores dos serviços públicos de correios e de telecomunicações um regime de preços convencionados entre aqueles, a administração central, representada pela Direcção-Geral de Concorrência e Preços, e o Instituto das Comunicações de Portugal.
+Assim:
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 88/89, de 11 de Setembro, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º O presente diploma define o regime de fixação de preços dos serviços prestados em exclusivo pelos operadores dos serviços públicos de correios e de telecomunicações.
+Art. 2.º - 1 - Os preços dos serviços prestados em exclusivo pelos operadores dos serviços públicos de correios e de telecomunicações são objecto de convenção, nos termos do artigo 3.º
+2 - A convenção referida no número anterior definirá os princípios gerais e as regras tendentes à fixação e à aplicação:
+a) No serviço postal, dos preços mínimos da carta normal e do bilhete-postal, bem como as regras que, atendendo, entre outras características, ao peso, permitam fixar os restantes preços da carta normal;
+b) No serviço telegráfico, dos preços de uma palavra ou bloco de palavras e do telegrama ordinário na zona nacional, bem como as regras que, atendendo, entre outras características, à zona de comunicações, permitam fixar os restantes preços de utilização do serviço para comunicações nacionais e internacionais;
+c) No serviço de telex, dos preços de um minuto de comunicação local, de instalação de uma linha de rede e da respectiva assinatura, bem como as regras que, atendendo, entre outras características, à zona de comunicações, permitam fixar os restantes preços de utilização do serviço para comunicações nacionais e internacionais;
+d) No serviço telefónico, dos preços do impulso telefónico, da instalação de uma linha de rede em acesso simples à rede, da instalação de cada linha de rede em acessos múltiplos à rede de duas ou mais linhas e da assinatura, bem como as regras que, atendendo, entre outras, às características do tempo e da zona de comunicações, permitam fixar os restantes preços de utilização do serviço para comunicações nacionais e internacionais;
+e) No aluguer de circuitos de telecomunicações, dos preços de instalação e assinatura;
+f) Na rede digital com integração de serviços, dos preços de instalação de um acesso básico e da assinatura, bem como as regras que permitam fixar os preços dos restantes acessos; dos preços correspondentes ao serviço de suporte em modo circuito, sem restrições a 64 kbit/s; as regras que, no caso de telesserviços correspondentes a serviços de telecomunicações cobertos pelo presente artigo, permitam, face aos preços destes, fixar os respectivos preços de utilização;
+g) No serviço móvel marítimo, do preço de um minuto de comunicação, bem como as regras que, atendendo, entre outras características, aos meios envolvidos, permitam fixar os restantes preços de utilização do serviço para comunicações nacionais e internacionais.
+3 - São igualmente objecto da convenção:
+a) As regras para o estabelecimento de quotas-partes dos operadores nos preços dos serviços internacionais que não constem de tratados, acordos ou normas de organismos internacionais pertinentes ou aí estejam especificadas;
+b) As regras que permitam aos operadores alterar as tarifas internacionais, na sequência de modificação da respectiva componente estrangeira ou de alteração do valor da moeda nacional, em relação à moeda tipo utilizada nas convenções e acordos;
+c) Os parâmetros dentro dos quais é permitido aos operadores estabelecer ou acordar com os utentes preços diferentes dos vigentes;
+d) Os preços de outras prestações acessórias dos serviços referidos no número anterior que se revistam de interesse para o público em geral, como tal reconhecido por portaria do membro do Governo responsável pela área das comunicações.
+Art. 3.º - 1 - O regime de preços referido no artigo anterior é estabelecido através de convenção a acordar entre a administração central, representada pela Direcção-Geral de Concorrência e Preços, o Instituto das Comunicações de Portugal e as empresas operadoras dos serviços públicos de correios e de telecomunicações.
+2 - A convenção entra em vigor no dia seguinte ao da sua ratificação pelos Ministros das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
+Art. 4.º - 1 - Cada convenção vigora pelo período de tempo que nela for acordado, sendo o mesmo prorrogado por idêntico período, salvo denúncia por qualquer das partes com a antecedência mínima de 60 dias sobre o termo da vigência.
+2 - Em caso de denúncia da convenção, continuam em vigor os preços dela resultantes até que os preços estabelecidos em nova convenção entrem em vigor.
+Art. 5.º Os operadores não podem estabelecer, para os serviços referidos no artigo 2.º, preços diferentes daqueles que sejam determinados pelos princípios e regras definidos na convenção.
+Art. 6.º Sem prejuízo do disposto na lei geral, deverá ser dado relevo especial à divulgação dos preços estabelecidos de acordo com a convenção, nos termos que a mesma determinar.
+Art. 7.º - 1 - São fixados pelos operadores, nos termos da legislação aplicável, os preços dos serviços por eles prestados que não estejam compreendidos no artigo 2.º
+2 - Os operadores devem publicitar adequadamente os preços a que se refere o número anterior.
+Art. 8.º Até à data da entrada em vigor dos preços estabelecidos por convenção, continuam a aplicar-se as taxas vigentes.
+Art. 9.º - 1 - Compete ao ministro da tutela a fixação, por portaria, das taxas aplicáveis ao licenciamento de sistemas de telecomunicações.
+2 - O valor das taxas respeitantes ao licenciamento de sistemas privativos de telecomunicações, abrangidos pelo exclusivo de exploração atribuído aos operadores de comunicações de uso público, será calculado tendo em conta o custo potencial de utilização de um sistema equivalente da rede pública.
+Art. 10.º É revogado o Decreto-Lei n.º 355/87, de 14 de Novembro.
+Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Jorge Manuel Mendes Antas - Fernando Manuel Barbosa Faria de Oliveira.
+Promulgado em 16 de Setembro de 1992.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 20 de Setembro de 1992.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
