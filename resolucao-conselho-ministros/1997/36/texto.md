@@ -1,0 +1,15 @@
+Resolução do Conselho de Ministros n.º 36/97
+A albufeira de Montargil, devido às suas condições naturais, é um local eleito para a prática de numerosas actividades recreativas e desportivas, alvo de procura para fins habitacionais e turísticos, o que se reflecte no grande número de solicitações para recuperação de edifícios ou construção de novas habitações em toda a sua área envolvente.
+Constatando-se que os instrumentos de ordenamento aplicáveis na área se têm revelado insuficientes para o adequado tratamento desta situação, foi decidido proceder à elaboração do Plano de Ordenamento da Albufeira de Montargil, no qual se definirão as regras para o zonamento da albufeira e a sua área envolvente, numa perspectiva integrada de salvaguarda e gestão dos vários recursos em presença.
+A fim de se evitar uma alteração das circunstâncias e condições actualmente existentes que possa vir a comprometer a execução deste plano especial de ordenamento do território, bem como garantir a segurança dos diversos utentes da albufeira, importa que desde já sejam adoptadas as medidas previstas no artigo 6.º do Decreto-Lei n.º 151/95, de 24 de Junho.
+Foi ouvida a Câmara Municipal de Ponte de Sor.
+Assim:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - A área envolvente da albufeira de Montargil, a sujeitar ao Plano de Ordenamento desta albufeira, fica sujeita às seguintes medidas preventivas:
+a) Na zona envolvente da albufeira, tal como definida no n.º 1 do artigo 7.º do Decreto Regulamentar n.º 2/88, de 20 de Janeiro, ficam interditas, fora do aglomerado urbano de Montargil e da zona de povoamento disperso de Foros do Mocho, identificados no âmbito do Plano Director Municipal de Ponte de Sor, a construção, reconstrução ou ampliação de edifícios ou outras instalações;
+b) A Câmara Municipal, conjuntamente com a Direcção Regional do Ambiente e Recursos Naturais do Alentejo, procederá à sinalização, na margem e no plano de água da albufeira, da área destinada exclusivamente a recreio balnear.
+2 - É interdita a navegação mediante a utilização de motores com potência superior a 75 c. v., salvo no braço da albufeira de Foros do Mocho.
+3 - Exceptuam-se do disposto na alínea a) do n.º 1 as intervenções consideradas de especial interesse local ou regional, desde que mereçam, cumulativamente, a concordância da Câmara Municipal de Ponte de Sor, da Comissão de Coordenação da Região do Alentejo, do Instituto da Água e da Direcção Regional do Ambiente e Recursos Naturais do Alentejo.
+4 - O prazo de vigência das medidas preventivas previstas no n.º 1 é de um ano, prorrogável por mais um, caducando as regras com a entrada em vigor do Plano de Ordenamento da Albufeira de Montargil.
+5 - Ao município de Ponte de Sor compete dar publicidade às medidas preventivas previstas na presente resolução, através da afixação de editais nos Paços dos Concelho e nas sedes das juntas de freguesia a que respeitem as áreas abrangidas e da publicação de aviso no jornal diário mais lido na região.
+Presidência do Conselho de Ministros, 20 de Fevereiro de 1997. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
