@@ -1,0 +1,2 @@
+Rectificação
+Rectificação - No suplemento ao Diário da República, 1.ª série, n.º 117, de R30 de Julho de 1976, o sumário do despacho da Presidência do Conselho de Ministros inserido em primeiro lugar deve ser: «De delegação do Primeiro-Ministro no Ministro de Estado da competência conferida pelo Decreto-Lei n.º 550/75, de 30 de Setembro, ao Ministro do Equipamento Social e do Ambiente», e não como foi publicado.
