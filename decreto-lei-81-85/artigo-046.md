@@ -6,4 +6,4 @@
 
 2 - A assinatura da entidade patronal responsabiliza-a pelas declarações do beneficiário a ela referentes que constem da folha-guia, na parte em que sejam coincidentes com as suas declarações emitidas nos termos do número anterior.
 
-3 - Sempre que por razões devidamente justificadas pelo beneficiário não esteja aposta a assinatura da entidade patronal e esta não tenho pago as respectivas contribuições, deverão os serviços proceder, de imediato, às necessárias averiguações.
+3 - Sempre que por razões devidamente justificadas pelo beneficiário não esteja aposta a assinatura da entidade patronal e esta não tenha pago as respectivas contribuições, deverão os serviços proceder, de imediato, às necessárias averiguações.

@@ -1,6 +1,6 @@
 ## Secção IV
 
-## Enquadramento no regime geral de segurança social das actividades agrícolas
+## Enquadramento no regime especial de segurança social das actividades agrícolas
 
 # Artigo 8.º
 
