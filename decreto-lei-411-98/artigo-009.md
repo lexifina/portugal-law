@@ -14,6 +14,6 @@
 
 6 - Nos casos previstos no n.º 2 deve ser dado cumprimento ao disposto no artigo 192.º do Código do Registo Civil.
 
-7 - A entidade responsável pela administração do cemitério ou do centro funerário procede ao arquivamento do boletim de óbito.
+7 - A entidade responsável pela administração do cemitério procede ao arquivamento do boletim de óbito.
 
 8 - Sempre que ocorrer morte fetal com tempo de gestação igual ou superior a 22 semanas completas, é aplicável, com as necessárias adaptações, o disposto nos números anteriores.

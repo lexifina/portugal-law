@@ -10,7 +10,7 @@
 
 ### Prazos
 
-1 - Nenhum cadáver pode ser inumado, cremado ou encerrado em caixão de zinco antes de decorridas vinte e quatro horas sobre o óbito.
+1 - Nenhum cadáver pode ser inumado, cremado ou encerrado antes de decorridas vinte e quatro horas sobre o óbito.
 
 2 - Nenhum cadáver pode ser encerrado em câmara frigorífica antes de decorridas seis horas após a constatação de sinais de certeza de morte.
 
@@ -26,6 +26,6 @@ d) Nos casos previstos no n.º 1 do artigo 5.º - em vinte e quatro horas a cont
 
 4 - Nos casos previstos no n.º 1 do artigo 5.º, se o cadáver não for entregue a uma das pessoas indicadas no artigo 3.º, não pode ser cremado, devendo a sua inumação ter lugar decorridos 30 dias sobre a data da verificação do óbito.
 
-5 - Quando não haja lugar à realização da autópsia médico-legal e houver perigo para a saúde pública, a autoridade de saúde pode ordenar, por escrito, que se proceda à inumação, cremação ou encerramento em caixão de zinco antes de decorrido o prazo previsto no n.º 1.
+5 - Quando haja lugar à realização da autópsia médico-legal e houver perigo para a saúde pública, a autoridade de saúde pode ordenar, por escrito, que se proceda à inumação, cremação ou encerramento em caixão de zinco antes de decorrido o prazo previsto no n.º 1.
 
 6 - O disposto nos números anteriores não se aplica aos fetos mortos.

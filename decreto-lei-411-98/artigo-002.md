@@ -28,6 +28,4 @@ k) Viatura e recipiente apropriados: aqueles em que seja possível proceder ao t
 
 l) Período neonatal precoce: as primeiras cento e sessenta e oito horas de vida;
 
-m) Entidade responsável pela administração de um cemitério: a câmara municipal ou a junta de freguesia, consoante o cemitério em causa pertença ao município ou à freguesia, ou as entidades a quem seja atribuída a administração do mesmo, por concessão de serviço público;
-
-n) Centro funerário: edifício destinado exclusivamente à prestação integrada de serviços fúnebres, podendo incluir, a conservação temporária e preparação de cadáveres, a celebração de exéquias fúnebres e a cremação de restos mortais não inumados ou provenientes de exumação.
+m) Entidade responsável pela administração de um cemitério: a câmara municipal ou a junta de freguesia, consoante o cemitério em causa pertença ao município ou à freguesia.
