@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério do Trabalho e Segurança Social, o Despacho Normativo n.º 131/84, publicado no Diário da República, 1.ª série, n.º 171, de 25 de Julho de 1984, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 1 da norma XI, onde se lê «As instalações dos infantários e jardins-de-infância devem ainda compreender áreas comuns, nos termos da norma seguinte, respectivamente para acolhimento, vestiário, isolamento, ocupação ao ar livre e instalações de pessoal» deve ler-se «As instalações dos infantários e jardins-de-infância devem ainda compreender áreas comuns, nos termos da norma seguinte, respectivamente para acolhimento, vestiário, alimentação, isolamento, ocupação ao ar livre e instalações de pessoal».
+Secretaria-Geral da Presidência do Conselho de Ministros, 8 de Outubro de 1984. - O Secretário-Geral, França Martins.
