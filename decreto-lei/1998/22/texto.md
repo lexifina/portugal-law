@@ -1,0 +1,48 @@
+Decreto-Lei n.º 22/98
+de 9 de Fevereiro
+O conteúdo funcional da carreira de oficial administrativo passou a integrar, a partir da entrada em vigor do Decreto-Lei n.º 248/85, de 15 de Julho, funções de dactilografia e de tratamento de texto.
+Aquele diploma aponta claramente para a gradual extinção da carreira de escriturário-dactilógrafo, prevendo, desde logo, maiores exigências habilitacionais nos casos em que se verificasse a necessidade de preencher os lugares vagos ainda existentes.
+Por sua vez, o n.º 4 do artigo 40.º do mesmo diploma legal determina a extinção dos lugares que vagarem por motivo de ingresso dos respectivos titulares na carreira de oficial administrativo.
+Numa óptica de optimização dos recursos humanos existentes e de progressiva melhoria dos serviços, afigura-se da maior importância promover de imediato a extinção da carreira de escriturário-dactilógrafo e consequente transição para a carreira de oficial administrativo, independentemente das habilitações.
+Ao pessoal que agora transita deverão ser dadas condições adequadas ao bom desempenho das tarefas inerentes à carreira, devendo os serviços assegurar a adequada formação profissional, por forma que, quando reunirem as condições para aceder à categoria de primeiro-oficial, aqueles funcionários tenham formação nas áreas de pessoal, contabilidade, economato, património, secretaria, arquivo, expediente e tratamento de texto, inerentes à carreira de oficial administrativo. Para o efeito, estabelece-se desde já uma duração mínima de formação.
+Com o presente diploma, o Governo dá cumprimento a uma das medidas previstas no acordo salarial para 1997.
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.
+Foram também ouvidas, nos termos da lei, a Associação Nacional de Municípios Portugueses e as organizações representativas dos trabalhadores.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Âmbito
+O disposto no presente diploma é aplicável aos organismos e serviços da administração central, local e regional, incluindo os institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos.
+Artigo 2.º
+Extinção e regime de transição
+1 - É extinta a carreira de escriturário-dactilógrafo.
+2 - Os funcionários e agentes detentores da categoria de escriturário-dactilógrafo transitam para a categoria de terceiro-oficial da carreira de oficial administrativo, independentemente da posse das habilitações legalmente exigidas.
+3 - A transição a que se refere o número anterior faz-se com observância do disposto nos n.os 2 e 3 do artigo 18.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro.
+Artigo 3.º
+Formalidades
+O pessoal abrangido por este diploma transita para a nova categoria independentemente de quaisquer formalidades, salvo publicação no Diário da República.
+Artigo 4.º
+Quadros de pessoal
+Para efeitos de aplicação do presente diploma, os quadros de pessoal consideram-se automaticamente alterados nos seguintes termos:
+1) Os lugares de escriturário-dactilógrafo convertem-se automaticamente em igual número de lugares da categoria de terceiro-oficial;
+2) Mantém-se, a extinguir quando vagarem, na categoria de terceiro-oficial o mesmo número de lugares que, na carreira de escriturário-dactilógrafo, tiverem aquela natureza.
+Artigo 5.º
+Concursos pendentes
+Os concursos para lugares da categoria de escriturário-dactilógrafo cujos avisos de abertura se encontrem publicados à data da entrada em vigor do presente diploma consideram-se válidos para o mesmo número de lugares da categoria de terceiro-oficial.
+Artigo 6.º
+Acesso na carreira
+1 - Sem prejuízo do disposto no número seguinte, é assegurado o acesso na carreira aos funcionários que transitam por força deste diploma e que não sejam detentores das habilitações legalmente exigidas para ingresso na carreira de oficial administrativo.
+2 - O acesso à categoria de primeiro-oficial dos funcionários referidos no número anterior que não tenham sido aprovados em concurso de habilitação para a categoria de terceiro-oficial está condicionado à frequência, por módulos, de cursos de formação profissional nas áreas relativas ao conteúdo funcional da carreira de oficial administrativo, nos termos do mapa anexo ao presente diploma.
+Artigo 7.º
+Produção de efeitos
+O presente diploma produz efeitos desde 1 de Junho de 1997.
+Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Jorge Paulo Sacadura Almeida Coelho.
+Promulgado em 26 de Janeiro de 1998.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 29 de Janeiro de 1998.
+Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.
+
+MAPA ANEXO
+Duração mínima das acções de formação a que se refere o artigo 6.º
+(ver tabela no documento original)
