@@ -1,0 +1,527 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11270",
+  "numero": "72",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2004-03-03",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          },
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2004-03-24",
+        "DataArquivo": "2008-04-02",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": "2004-03-24",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "243",
+        "Legislatura": "X",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2007-09-05",
+            "gp": "PCP",
+            "id": "2234",
+            "motivoCessacao": null,
+            "nome": "João Oliveira"
+          },
+          {
+            "dataCessacao": "2007-04-13",
+            "dataNomeacao": "2005-04-20",
+            "gp": "PCP",
+            "id": "219",
+            "motivoCessacao": "Renúncia ao Mandato",
+            "nome": "Odete Santos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da IX Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2008-03-19",
+            "entidades": null,
+            "id": "84077",
+            "tipo": null,
+            "titulo": "Audição em 2008-03-19 com \"Mais Vida Mais Família\" - Dr. António Pinheiro Torres, Dra. Isilda Pegado, Dra. Ana Cid Gonçalves e Dra. Ana Líbano Monteiro"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2008-04-02",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2008-04-02",
+        "DataBaixaComissao": "2007-10-23",
+        "DataEnvioPAR": "2008-04-08",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1903",
+        "Legislatura": "X",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2007-10-23",
+            "gp": "PCP",
+            "id": "2234",
+            "motivoCessacao": null,
+            "nome": "João Oliveira"
+          }
+        ],
+        "RelatorioFinal": [
+          "22427"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias (pré RAR) para esta comissão."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2005-04-13",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2004-03-03",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764d554644524578484c305276593356745a57353062334e515a585270593246764c3249334e6d5a6a593246694c545668595751744e474e6d4f4331684d6a517a4c574e6c4e6d5a6c4f446c6b596a46684d7935775a47593d&fich=b76fccab-5aad-4cf8-a243-ce6fe89db1a3.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "102",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE ASSUNTOS CONSTITUCIONAIS, DIREITOS, LIBERDADES E GARANTIAS",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2004-03-24",
+            "gp": "CDS-PP",
+            "id": "1863",
+            "motivoCessacao": null,
+            "nome": "Miguel Paiva"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias (pré RAR) da X Legislatura."
+      }
+    ],
+    "DataDebate": "2008-05-09",
+    "Documentos": [
+      {
+        "DataDocumento": "2004-03-03",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d764e4752684e5451324e7a6b7459325a6a4e4330305a5463314c574977597a5574597a6b354f5446684e6a6c6b4f574d784c6e426b5a673d3d&fich=4da54679-cfc4-4e75-b0c5-c9991a69d9c1.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2008-05-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "168708",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-05-10",
+                "pubLeg": "X",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/082/2008-05-10/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Isabel Margarida Carmo Pedro e outros, solicitam a adopção, pela Assembleia da República, de medidas de reforço da protecção e defesa da vida e dignidade de cada ser humano, bem como da sua protecção jurídica na fase embrionária e, ainda, de medidas de promoção da família e apoio à mãe grávida em dificuldades e ao recém-nascido",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-05-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "168709",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-05-10",
+                "pubLeg": "X",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/082/2008-05-10/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Isabel Margarida Carmo Pedro e outros, solicitam a adopção, pela Assembleia da República, de medidas de reforço da protecção e defesa da vida e dignidade de cada ser humano, bem como da sua protecção jurídica na fase embrionária e, ainda, de medidas de promoção da família e apoio à mãe grávida em dificuldades e ao recém-nascido",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-05-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "168710",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-05-10",
+                "pubLeg": "X",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/082/2008-05-10/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Isabel Margarida Carmo Pedro e outros, solicitam a adopção, pela Assembleia da República, de medidas de reforço da protecção e defesa da vida e dignidade de cada ser humano, bem como da sua protecção jurídica na fase embrionária e, ainda, de medidas de promoção da família e apoio à mãe grávida em dificuldades e ao recém-nascido",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-05-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "168711",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-05-10",
+                "pubLeg": "X",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/082/2008-05-10/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Isabel Margarida Carmo Pedro e outros, solicitam a adopção, pela Assembleia da República, de medidas de reforço da protecção e defesa da vida e dignidade de cada ser humano, bem como da sua protecção jurídica na fase embrionária e, ainda, de medidas de promoção da família e apoio à mãe grávida em dificuldades e ao recém-nascido",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2008-05-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "168712",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2008-05-10",
+                "pubLeg": "X",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/082/2008-05-10/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Isabel Margarida Carmo Pedro e outros, solicitam a adopção, pela Assembleia da República, de medidas de reforço da protecção e defesa da vida e dignidade de cada ser humano, bem como da sua protecção jurídica na fase embrionária e, ainda, de medidas de promoção da família e apoio à mãe grávida em dificuldades e ao recém-nascido",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11270",
+    "PetAssunto": "Pretendem a adopção de medidas de reforço da protecção e defesa da vida e dignidade de cada ser humano, bem como da sua protecção jurídica na fase embrionária, e ainda de promoção da família e apoio à mãe grávida em dificuldade e ao recém-nascido.",
+    "PetDataEntrada": "2004-03-03",
+    "PeticoesAssociadas": null,
+    "PetId": "11270",
+    "PetLeg": "IX",
+    "PetNr": "72",
+    "PetNrAssinaturas": "216855",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "252",
+        "obs": null,
+        "pag": [
+          "23-28"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2008-05-10",
+        "pubLeg": "X",
+        "pubNr": "82",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/03/082/2008-05-10/23?pgs=23-28&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "289950",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-03-27",
+        "pubLeg": "IX",
+        "pubNr": "24",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/02/024/2004-03-27?org=PLC"
+      }
+    ]
+  }
+}
