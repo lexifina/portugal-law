@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 1.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional, declarar a habilitação dos cursos de carpinteiro civil e desenhador de construção civil, regulados pelo Decreto n.º 37029, e a daqueles que em outras organizações de ensino técnico profissional lhes correspondam, como adequada para efeito de provimento nos lugares de fiscal de obras das câmaras municipais, na falta de candidatos habilitados com o curso de construtor civil.
+Presidência do Conselho, 19 de Junho de 1967. - Pelo Presidente do Conselho, o Ministro de Estado adjunto do Presidente do Conselho, António Jorge Martins da Mota Veiga.
