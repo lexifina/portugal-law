@@ -18,7 +18,7 @@ e) Possui o exemplar do C. I. S. e está provida dos meios necessários para a e
 
 a) De tráfego local;
 
-b) De pesca, com excepção das de pesca do alto e longínqua;
+b) De pesca, com excepção das de pesca do largo;
 
 c) Rebocadores e embarcações auxiliares locais ou costeiros.
 

@@ -14,7 +14,7 @@ b) Pesca:
 
 2) Costeira - C;
 
-3) Do alto - A;
+3) Do largo - N;
 
 4) Longínqua - N;
 

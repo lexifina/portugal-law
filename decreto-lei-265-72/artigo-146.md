@@ -10,6 +10,6 @@ a) De tráfego local;
 
 b) De pesca local e costeira;
 
-c) De pesca do alto e da pesca do atum longínqua;
+c) De pesca do largo;
 
 d) Rebocadores e embarcações auxiliares locais e costeiros.
