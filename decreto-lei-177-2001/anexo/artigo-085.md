@@ -1,0 +1,31 @@
+# Artigo 85.º
+
+### Execução das obras de urbanização por terceiro
+
+1 - Qualquer adquirente dos lotes, de edifícios construídos nos lotes ou de fracções autónomas dos mesmos tem legitimidade para requerer a autorização judicial para promover directamente a execução das obras de urbanização quando, verificando-se as situações previstas no n.º 1 do artigo anterior, a câmara municipal não tenha promovido a sua execução.
+
+2 - O requerimento é instruído com os seguintes elementos:
+
+a) Cópia do alvará;
+
+b) Orçamento, a preços correntes do mercado, relativo à execução das obras de urbanização em conformidade com os projectos aprovados e condições fixadas no licenciamento;
+
+c) Quaisquer outros elementos que o requerente entenda necessários para o conhecimento do pedido.
+
+3 - Antes de decidir, o tribunal notifica a câmara municipal e o titular do alvará para responderem no prazo de 30 dias e ordena a realização das diligências que entenda úteis para o conhecimento do pedido, nomeadamente a inspecção judicial do local.
+
+4 - Se deferir o pedido, o tribunal fixa especificadamente as obras a realizar e o respectivo orçamento e determina que a caução a que se refere o artigo 54.º fique à sua ordem, a fim de responder pelas despesas com as obras até ao limite do orçamento.
+
+5 - Na falta ou insuficiência da caução, o tribunal determina que os custos sejam suportados pelo município, sem prejuízo do direito de regresso deste sobre o titular do alvará.
+
+6 - O processo a que se referem os números anteriores é urgente e isento de custas.
+
+7 - Da sentença cabe recurso nos termos gerais.
+
+8 - Compete ao tribunal judicial da comarca onde se localiza o prédio no qual se devem realizar as obras de urbanização conhecer dos pedidos previstos no presente artigo.
+
+9 - A câmara municipal emite oficiosamente novo alvará, competindo ao seu presidente dar conhecimento das respectivas deliberações à direcção regional do ambiente e do ordenamento do território e ao conservador do registo predial, quando:
+
+a) Tenha havido recepção provisória das obras; ou
+
+b) Seja integralmente reembolsada das despesas efectuadas, caso se verifique a situação prevista no n.º 5.

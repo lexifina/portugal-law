@@ -1,0 +1,17 @@
+# Artigo 90.º
+
+### Vistoria prévia
+
+1 - As deliberações referidas nos n.os 2 e 3 do artigo anterior são precedidas de vistoria a realizar por três técnicos a nomear pela câmara municipal.
+
+2 - Do acto que determinar a realização da vistoria e respectivos fundamentos é notificado o proprietário do imóvel, mediante carta registada expedida com, pelo menos, sete dias de antecedência.
+
+3 - Até à véspera da vistoria, o proprietário pode indicar um perito para intervir na realização da vistoria e formular quesitos a que deverão responder os técnicos nomeados.
+
+4 - Da vistoria é imediatamente lavrado auto, do qual consta obrigatoriamente a identificação do imóvel, a descrição do estado do mesmo e as obras preconizadas e, bem assim, as respostas aos quesitos que sejam formuladas pelo proprietário.
+
+5 - O auto referido no número anterior é assinado por todos os técnicos e pelo perito que hajam participado na vistoria e, se algum deles não quiser ou não puder assiná-lo, faz-se menção desse facto.
+
+6 - Quando o proprietário não indique perito até à data referida no número anterior, a vistoria é realizada sem a presença deste, sem prejuízo de, em eventual impugnação administrativa ou contenciosa da deliberação em causa, o proprietário poder alegar factos não constantes do auto de vistoria, quando prove que não foi regularmente notificado nos termos do n.º 2.
+
+7 - As formalidades previstas no presente artigo podem ser preteridas quando exista risco iminente de desmoronamento ou grave perigo para a saúde pública, nos termos previstos na lei para o estado de necessidade.
