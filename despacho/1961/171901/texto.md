@@ -1,0 +1,18 @@
+Despacho
+Esta Secretaria de Estado tem vindo a acompanhar os clamores da lavoura, as queixas de alguns comerciantes e as reclamações dos consumidores contra a prática ilegal da mistura de óleo de amendoim no azeite, com que todos se sentem prejudicados, mas que a repressão, embora enérgica, não tem podido evitar.
+Ocorreu situação semelhante entre 1947 e 1954, quando foi aumentado o preço do azeite e o Governo entendeu não proceder à elevação do preço do óleo, pela preocupação constante de só consentir agravamentos de preços que se revelem absolutamente indispensáveis.
+Esta situação saneou-se quando, reconhecida a impossibilidade de eliminar a fraude por outro modo, se alinhou o preço do óleo pelo nível do do azeite fino.
+Quando, pela Portaria n.º 17393, de 14 de Outubro de 1959, o Governo decidiu rever o preço do azeite, não considerou conveniente actualizar o preço do óleo de amendoim, pela mesma preocupação de não agravar os preços enquanto for possível.
+Acontece, porém, que, desde então, não obstante a normalidade do abastecimento do azeite e os esforços da fiscalização, a mistura continua a ser prática inveterada.
+Esta situação vem confirmar que não é possível evitar esta fraude e garantir a genuinidade do azeite enquanto não se voltar a proporcionar um melhor acerto de preços destes dois produtos alimentares.
+Acresce que a procura do óleo de amendoim é mais intensa e constante entre as camadas de mais elevados rendimentos, sendo certo que os consumidores com menor poder de compra, por toda a província e mesmo nas grandes cidades, continuam a mostrar preferência pelo azeite.
+Torna-se, por isso, conveniente reconduzir aos seus limites naturais o consumo de óleo de amendoim, cuja anormal expansão já tem obrigado a importá-lo do estrangeiro, nesta altura em que a produção olivícola é prometedora e aconselha que se diligencie a expansão do seu consumo.
+Para mais, só tem sido possível manter os actuais preços do óleo de amendoim à custa de um avultado encargo, da ordem dos 25000 a 30000 contos, que o Fundo de Abastecimento tem vindo a suportar.
+Deste modo, estando a orientar-se já a política do azeite para a liberdade do comércio, não se justifica a manutenção desse subsídio do Fundo de Abastecimento, e antes convém tornar livre o mercado interno do óleo de amendoim, sem prejuízo do regime especial de aquisição de mancarra na Guiné, pelo que se refere à garantia do contingente e dos preços a que as fábricas da metrópole a têm de receber.
+Nestes termos, determino o seguinte:
+a) Sem prejuízo da execução do despacho de 16 de Dezembro de 1960, do Ministro do Ultramar e do Secretário de Estado do Comércio, publicado no Diário do Governo n.º 295, 1.ª série, de 26 de Dezembro de 1960, que regula o fornecimento de oleaginosas alimentares à metrópole, os preços do óleo de amendoim deixam de estar tabelados, ficando livre e sujeito à lei geral o respectivo comércio interno;
+b) Deixam igualmente de estar tabelados os preços do óleo de gergelim adicionado ao óleo de amendoim nos termos da lei;
+c) Cessam os subsídios que o Fundo de Abastecimento tem vindo a conceder relativamente às sementes de oleaginosas e aos óleos comestíveis;
+d) Até ulterior definição dos regimes da produção e do comércio das rações para gados, é mantido o preço actualmente estabelecido para os bagaços das oleaginosas alimentares;
+e) A Junta Nacional do Azeite e a Comissão Reguladora das Oleaginosas e óleos Vegetais tomarão as providências necessárias para a execução deste despacho, nomeadamente no que se refere à contabilização das actuais existências que tenham sido subsidiadas pelo Fundo de Abastecimento.
+Secretaria de Estado do Comércio, 8 de Junho de 1961. - O Secretário de Estado do Comércio, João Augusto Dias Rosas.
