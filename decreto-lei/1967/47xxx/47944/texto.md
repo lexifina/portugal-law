@@ -1,0 +1,8 @@
+Decreto-Lei n.º 47944
+A Lei n.º 2125, de 20 de Março de 1965, no propósito de regularizar o exercício da actividade de farmácia, tornou possível legalizar a propriedade das farmácias que não eram efectivamente pertença de farmacêuticos ou dos postos de medicamentos que não estavam patrimonialmente integrados em farmácias.
+Sucede, porém, que os herdeiros dos farmacêuticos nem sempre compreenderam bem a faculdade que lhes era concedida, pelo que alguns deles não requereram, em tempo oportuno, a regularização da sua situação, sem que se possa atribuir esse facto a negligência. Torna-se, por isso, razoável prorrogar, quanto a eles, o prazo anteriormente fixado.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, porá valer como lei, o seguinte:
+Artigo único. Os proprietários de farmácias, que as tenham recebido por herança antes da publicação da Lei n.º 2125, de 20 de Março de 1965, podem requerer a regularização da sua situação, nos termos da base XII da referida lei, até ao fim de Fevereiro de 1968.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 15 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
