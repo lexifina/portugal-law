@@ -1,0 +1,37 @@
+# Acórdão do Supremo Tribunal de Justiça de 2000-11-30, processo 00P2808
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 00P2808
+
+**Nº Convencional:** JSTJ000
+
+**Relator:** SIMAS SANTOS
+
+**Descritores:** MEDIDA DA PENA; MATÉRIA DE FACTO; MATÉRIA DE DIREITO; CONCLUSÕES DAS INSTÂNCIAS; RECURSO DE REVISTA; PODERES DO SUPREMO TRIBUNAL DE JUSTIÇA
+
+**Nº do Documento:** SJ
+
+**Data do Acordão:** 11/30/2000
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Área Temática:** DIR PROC PENAL * DIR PENAL
+
+## Sumário
+
+1 - O recurso respeitante à medida concreta da pena aplicada pelo Tribunal Colectivo visa exclusivamente o reexame da matéria de direito, podendo o Supremo Tribunal de Justiça dele conhecer.
+
+2 - Na verdade, deve ter-se por afastada a concepção da medida da pena concreta, como a "arte de julgar" tributária de plena discricionariedade judicial, em cujo processo de individualização interviriam, coeficientes de difícil ou impossível racionalização.
+
+3 - A escolha e a medida da pena é hoje levada a cabo pelo juiz conforme a sua natureza, gravidade e forma de execução, escolhendo uma das várias possibilidades legalmente previstas, o que se traduz numa autêntica aplicação do direito.
+
+4 - Como é jurisprudência pacífica do Supremo Tribunal de Justiça, as conclusões ou ilações que as instâncias extraem da matéria de facto são elas mesmo matéria de facto que escapam à censura do tribunal de revista.
+
+5 - O que acontece igualmente com a discordância quanto à maneira pela qual foi apreciada a prova produzida a audiência, mesma que, de algum modo, enquadrada pelo recorrente nos vícios das alíneas b) e c) do n.º 2 do art. 410.º do CPP, que se consubstancia antes na crítica quanto á forma pela qual o tribunal formou livremente a convicção e que é insindicável pelo Supremo Tribunal de Justiça.
+
+6 -São julgados conjuntamente os recursos da mesma decisão, mesmo se uns versam sobre matéria de facto e outros exclusivamente sobre matéria de direito. E são-no pelo Tribunal Superior cujos poderes de cognição abranjam quer a matéria de direito, quer a matéria de facto - o Tribunal de Relação (art. 428.º, n.º 1 do CPP).
