@@ -1,0 +1,16 @@
+Decreto-Lei n.º 45/82
+de 10 de Fevereiro
+Tendo em atenção o considerável atraso com que está a ser publicada a legislação complementar aplicável aos ramos do sector cooperativo, e que o prazo limite estabelecido no artigo 99.º, n.º 1, do Código Cooperativo, se revela insuficiente, dada a morosidade dos actos que a adaptação das cooperativas legalmente constituídas ao abrigo da legislação anterior implica, dilata-se o prazo, anteriormente fixado, alargando até 31 de Julho de 1982, com excepção dos ramos agrícola e crédito para os quais, atendendo à sua particular natureza, se estabelece como prazo limite 31 de Dezembro de 1982.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. O artigo 99.º do Código Cooperativo aprovado pelo Decreto-Lei n.º 454/80, de 9 de Outubro, com a redacção introduzida pelo Decreto-Lei n.º 238/81, de 10 de Agosto, passa a ter a seguinte redacção:
+Art. 99.º - 1 - As cooperativas de 1.º grau e de grau superior, legalmente constituídas ao abrigo da legislação anterior, terão de se adaptar às disposições deste Código até 31 de Julho de 1982, excepto as dos ramos agrícola e crédito que farão até 31 de Dezembro de 1982, nomeadamente no que respeita:
+a) ...
+b) ...
+c) ...
+d) ...
+2 - ...
+Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1981. - Francisco José Pereira Pinto Balsemão.
+Promulgado em 28 de Janeiro de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
