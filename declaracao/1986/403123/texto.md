@@ -1,0 +1,7 @@
+Declaração
+Segundo comunicação do Ministério da Educação e Cultura, o Despacho Normativo n.º 11-A/86, publicado no suplemento ao Diário da República, 1.ª série, n.º 35, de 12 de Fevereiro de 1986, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 1.1 do n.º 1, 4.º grupo - Matemática e Ciências da Natureza, onde se lê «Biologia Vegetal e Aplicada» deve ler-se «Biologia Vegetal Aplicada», onde se lê «Engenharia» deve ler-se «Engenharia (cursos ministrados nas escolas superiores agrárias e no IUTAD, designados por Engenharia Agrícola, Engenharia Zootécnica e Engenharia Florestal)» e onde se lê «Física» deve ler-se «Física (novas licenciaturas criadas pelo Decreto-Lei n.º 125/82, de 3 de Novembro).».
+No n.º 1.2 do n.º 1, 2.º grupo A - Mecanotecnia, onde se lê «Licenciatura em Engenharia dos Materiais.» deve ler-se «Licenciatura em Engenharia Física dos Materiais (ramo de Engenharia dos Materiais).».
+No n.º 1.2 do n.º 1, 4.º grupo B - Química-Física, onde se lê «Licenciatura em Químicas Aplicadas.» deve ler-se «Licenciatura em Química Aplicada.».
+Na disciplina de Música, 2.º escalão, onde se lê «Curso complementar do Instituto Gregoriano de Lisboa (Portaria n.º 725/84, de 17 de Setembro).» deve ler-se «Cursos complementares do Instituto Gregoriano de Lisboa (Portaria n.º 725/84, de 17 de Setembro).».
+Secretaria-Geral da Presidência do Conselho de Ministros, 14 de Abril de 1986. - O Secretário-Geral, França Martins.
