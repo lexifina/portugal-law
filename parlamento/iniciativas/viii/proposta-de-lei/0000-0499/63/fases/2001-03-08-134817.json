@@ -1,0 +1,402 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "63",
+    "id": "7088",
+    "titulo": "Simplifica os mecanismos de adjudicação e de fiscalização prévia dos actos e contratos relativos às obras de reparação, construção e reconstrução de rede viária, pontes, viadutos e aquedutos nacionais e municipais dos concelhos de Castelo de Paiva e de Penafiel"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-03-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1821",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-03-08",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-03-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA   PRESIDÊNCIA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Guilherme D'Oliveira Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137030",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2293-2293",
+                  "2296-2296"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2293?pgs=2293,2296&org=PLC"
+              }
+            ],
+            "sumario": "Simplifica os mecanismos de adjudicação e de fiscalização prévia dos actos e contratos relativos às obras de reparação, construção e reconstrução de rede viária, pontes, viadutos e aquedutos nacionais e municipais dos concelhos de Castelo de Paiva e de Penafiel",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137037",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2293-2294"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2293?pgs=2293-2294&org=PLC"
+              }
+            ],
+            "sumario": "Simplifica os mecanismos de adjudicação e de fiscalização prévia dos actos e contratos relativos às obras de reparação, construção e reconstrução de rede viária, pontes, viadutos e aquedutos nacionais e municipais dos concelhos de Castelo de Paiva e de Penafiel",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "104",
+                "nome": "Castro de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137038",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2294-2295"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2294?pgs=2294-2295&org=PLC"
+              }
+            ],
+            "sumario": "Simplifica os mecanismos de adjudicação e de fiscalização prévia dos actos e contratos relativos às obras de reparação, construção e reconstrução de rede viária, pontes, viadutos e aquedutos nacionais e municipais dos concelhos de Castelo de Paiva e de Penafiel",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137039",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2295-2295"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2295?pgs=2295&org=PLC"
+              }
+            ],
+            "sumario": "Simplifica os mecanismos de adjudicação e de fiscalização prévia dos actos e contratos relativos às obras de reparação, construção e reconstrução de rede viária, pontes, viadutos e aquedutos nacionais e municipais dos concelhos de Castelo de Paiva e de Penafiel",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1653",
+                "nome": "Helena Neves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137040",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2295-2295"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2295?pgs=2295&org=PLC"
+              }
+            ],
+            "sumario": "Simplifica os mecanismos de adjudicação e de fiscalização prévia dos actos e contratos relativos às obras de reparação, construção e reconstrução de rede viária, pontes, viadutos e aquedutos nacionais e municipais dos concelhos de Castelo de Paiva e de Penafiel",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137041",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2295-2295"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2295?pgs=2295&org=PLC"
+              }
+            ],
+            "sumario": "Simplifica os mecanismos de adjudicação e de fiscalização prévia dos actos e contratos relativos às obras de reparação, construção e reconstrução de rede viária, pontes, viadutos e aquedutos nacionais e municipais dos concelhos de Castelo de Paiva e de Penafiel",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1675",
+                "nome": "Agostinho Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137042",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2295-2296"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2295?pgs=2295-2296&org=PLC"
+              }
+            ],
+            "sumario": "Simplifica os mecanismos de adjudicação e de fiscalização prévia dos actos e contratos relativos às obras de reparação, construção e reconstrução de rede viária, pontes, viadutos e aquedutos nacionais e municipais dos concelhos de Castelo de Paiva e de Penafiel",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "134817",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1821",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-03-09",
+        "pubLeg": "VIII",
+        "pubNr": "57",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
