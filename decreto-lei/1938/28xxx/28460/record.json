@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1938/02/03600/04560456.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1938-02-14",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "9b28b567a9389632f5f761f7a6749080818955b03e003d2e0fb0e81cc6900ced",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.6,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "3502e17e8de4c9feeba2715083b74df73d726c6ecde8336dec7e55b07e976419",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 274
 }
