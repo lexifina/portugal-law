@@ -4,8 +4,6 @@
 
 1 - Sem prejuízo do disposto nos artigos 24.º e 25.º e de limites inferiores que lhes sejam impostos, os condutores não podem exceder as seguintes velocidades instantâneas (em quilómetros/hora):
 
-(ver quadro no documento original)
-
 2 - Quem exceder os limites máximos de velocidade é sancionado:
 
 a) Se conduzir motociclo ou automóvel ligeiro, com as seguintes coimas:

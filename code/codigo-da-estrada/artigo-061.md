@@ -6,7 +6,7 @@
 
 a) De presença, durante o estacionamento fora das localidades ou enquanto aguardam a abertura de passagem de nível;
 
-b) De cruzamento, em locais cuja iluminação permita ao condutor uma visibilidade não inferior a 10 m, no cruzamento com outros veículos, pessoas ou animais, quando o veículo transite a menos de 100 m daquele que o precede, na aproximação de passagem de nível fechada ou durante a paragem ou detenção da marcha do veículo;
+b) De cruzamento, em locais cuja iluminação permita ao condutor uma visibilidade não inferior a 100 m, no cruzamento com outros veículos, pessoas ou animais, quando o veículo transite a menos de 100 m daquele que o precede, na aproximação de passagem de nível fechada ou durante a paragem ou detenção da marcha do veículo;
 
 c) De estrada, nos restantes casos;
 
