@@ -1,0 +1,3 @@
+Despacho Normativo n.º 15/77
+Considerando o disposto na alínea b) do n.º 1 do artigo 204.º da Constituição da República, delego no Ministro sem pasta, Prof. Jorge Campinos, a competência para assegurar as relações de carácter geral entre o Governo e a Assembleia da República, ficando, outrossim, encarregado dessas mesmas relações junto dos diversos grupos parlamentares e dos partidos políticos com assento naquela Assembleia. Para esse efeito, e para assegurar uma melhor coordenação interministerial, deverão as relações entre os demais membros do Governo e a Assembleia da República processar-se sempre através do Gabinete do Ministro sem Pasta.
+Presidência do Conselho de Ministros, 21 de Janeiro de 1977. - O Primeiro-Ministro, Mário Soares.
