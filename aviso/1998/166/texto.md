@@ -1,0 +1,5 @@
+Aviso n.º 166/98
+Por ordem superior se torna público que Cuba depositou, em 10 de Junho de 1998, o instrumento de adesão à Convenção sobre Prevenção e Punição de Crimes contra Pessoas Internacionalmente Protegidas, Incluindo Agentes Diplomáticos, adoptada pela Assembleia Geral das Nações Unidas em 14 de Dezembro de 1973, formulando uma reserva ao n.º 1 do seu artigo 13.º
+Portugal é parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 20/94, publicada no Diário da República, 1.ª série-A, n.º 104, de 5 de Maio de 1994, tendo ratificado a Convenção pelo Decreto do Presidente da República n.º 22/94, de 5 de Maio, publicado no Diário da República, 1.ª série-A, n.º 104, de 5 de Maio de 1994.
+Nos termos do n.º 2 do seu artigo 17.º, a Convenção entrou em vigor para Cuba no 30.º dia após a data do depósito do respectivo instrumento, ou seja, a 10 de Julho de 1998.
+Direcção-Geral dos Assuntos Multilaterais, 2 de Setembro de 1998. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
