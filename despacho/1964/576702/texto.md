@@ -1,0 +1,4 @@
+Despacho
+Nos termos do artigo 18.º do Decreto-Lei n.º 42800, de 11 de Janeiro de 1960, o Conselho de Ministros esclarece que a situação de um funcionário do sexo feminino que, tendo atingido 90 dias de licença sem vencimento, não possa regressar ao serviço por se encontrar no estado de parturiente deve considerar-se abrangida pelo regime especial estabelecido no artigo 5.º e seu § único daquele diploma, não dando lugar, portanto, a perda de quaisquer direitos ou regalias do mesmo funcionário.
+Esta norma, todavia, sòmente deverá considerar-se aplicável nos casos em que o regresso do funcionário ao exercício do seu cargo se verifique, efectivamente, até ao termo do período de 30 dias de faltas justificáveis por motivo de maternidade, fixado no referido artigo 5.º
+Presidência do Conselho, 21 de Maio de 1964. - Pelo Presidente do Conselho, o Ministro de Estado adjunto do Presidente do Conselho, José Gonçalo da Cunha Sottomayor Correia de Oliveira.
