@@ -1,0 +1,3 @@
+Despacho Normativo n.º 310-K/78
+Considerando que aos organismos que integram a Secretaria de Estado da Administração Pública compete a coordenação e acompanhamento das actividades de reestruturação dos diferentes serviços públicos, quer no domínio da sua organização e funcionamento, quer no que respeita ao seu pessoal, delego no Secretário de Estado da Administração Pública, Dr. António Jorge de Figueiredo Lopes, a competência que me é conferida pelo artigo 2.º do Decreto-Lei n.º 178-A/77, de 3 de Maio, relativamente à aplicação dos Decretos-Leis n.os 362/75, de 10 de Julho, e 59/76, de 23 de Janeiro.
+Presidência do Conselho de Ministros, 22 de Novembro de 1978. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.
