@@ -1,0 +1,3 @@
+Portaria n.º 23427
+Manda o Governo da República Portuguesa, pelo Ministro da Justiça, que, nos termos do n.º 3 do artigo 8.º do Decreto n.º 44064, de 28 de Novembro de 1961, seja extinto o posto do registo civil de Gondifelos, concelho de Vila Nova de Famalicão.
+Ministério da Justiça, 11 de Junho de 1968. - O Ministro da Justiça, Mário Júlio de Almeida Costa.
