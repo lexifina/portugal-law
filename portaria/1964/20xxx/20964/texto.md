@@ -1,0 +1,27 @@
+Portaria n.º 20964
+Manda o Governo da República Portuguesa, pelo Ministro dos Negócios Estrangeiros, abonar à Embaixada de Portugal no Rio de Janeiro, com efeitos a partir de 1 do mês corrente, pela verba do n.º 4) do artigo 22.º, capítulo 3.º, do orçamento em vigor, as importâncias abaixo designadas, a fim de ocorrer ao pagamento de salários ao pessoal assalariado em serviço na Embaixada, ficando assim alterada a partir daquela data a Portaria n.º 20805, de 15 de Setembro de 1964, na parte respeitante àquela missão diplomática:
+... Escudos
+Escriturário ... 5500$00
+Secretário-arquivista ... 5500$00
+Dactilógrafo ... 4500$00
+Dactilógrafo ... 4500$00
+Dactilógrafa ... 3100$00
+Dactilógrafa ... 3100$00
+Dactilógrafo ... 3100$00
+Dactilógrafa ... 3100$00
+Zelador ... 2800$00
+Contínuo ... 2750$00
+Contínuo ... 2500$00
+Contínuo ... 2500$00
+Contínuo ... 2300$00
+Motorista ... 3500$00
+Porteiro da Embaixada ... 2300$00
+Porteiro da Chancelaria ... 3000$00
+Jardineiro ... 2000$00
+Guarda da noite ... 1100$00
+Guarda da noite ... 800$00
+... 57950$00
+(a) De harmonia com as leis locais, ao pessoal assalariado em serviço na Embaixada de Portugal no Rio de Janeiro serão abonados no mês de Dezembro dois meses de salários.
+Ministério dos Negócios Estrangeiros, 15 de Dezembro de 1964. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.
+
+(Não carece de visto ou anotação do Tribunal de Contas).
