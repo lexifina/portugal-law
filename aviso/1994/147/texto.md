@@ -1,0 +1,5 @@
+Aviso n.º 147/94
+Por ordem superior se torna público que os Países Baixos aceitaram, em 18 de Fevereiro de 1994, a Convenção para a Salvaguarda do Património Arquitectónica da Europa, aberta para assinatura em Granada em 3 de Outubro de 1985, já ratificada pela Bélgica, Bulgária, Chipre, Dinamarca, Finlândia, França, Alemanha, Grécia, Hungria, Itália, Listenstaina, Malta, Países Baixos, Portugal, Eslovénia, Espanha, Suécia, Turquia, Reino Unido, Croácia e Rússia e aceite pela Áustria, Irlanda, Luxemburgo e Noruega.
+Esta Convenção entrará em vigor no que respeita aos Países Baixos em 1 de Junho de 1994, que declararam que, conforme o artigo 25, parágrafo 1, da Convenção, o Reino dos Países Baixos se reserva o direito de não se conformar, na totalidade, às disposições do artigo 4, parágrafos 2c e 2d.
+Os Países Baixos declararam ainda que a referida Convenção é aceite para o Reino na Europa.
+Direcção-Geral dos Assuntos Multilaterais, 26 de Abril de 1994. - A Directora de Serviços das Organizações Políticas Internacionais, Ana Maria da Silva Marques Martinho.
