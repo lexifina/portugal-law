@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1934/11/27600/20352035.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1934-11-23",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "1c834c9093e7dcb9e0b12bb32dec01784af9168f9214525ba40e1b2ba53578d4",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.7,
+    "pages": 1,
+    "columns": [
+      8
+    ],
+    "pdf_sha256": "f10b269cd41cf109d8a5e74bd963361bba19bb5d676ee5a856043dbac15f7b8a",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 168
 }
