@@ -1,0 +1,533 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "277",
+    "id": "5929",
+    "titulo": "Confere a natureza de crime público ao crime contra a integridade física quando praticado contra agentes das forcas e dos serviços de segurança"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-12-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1597",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-12-13",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5831",
+        "leg": "VIII",
+        "nr": "335",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "483",
+            "obs": null,
+            "pag": [
+              "1168-1178"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-12-14",
+            "pubLeg": "VIII",
+            "pubNr": "29",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/029/2000-12-14/1168?pgs=1168-1178&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Ofensa a integridade física no âmbito da intervenção policial: crime público."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-12-13",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135036",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1168-1170"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-14",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/029/2000-12-14/1168?pgs=1168-1170&org=PLC"
+              }
+            ],
+            "sumario": "CONFERE A NATUREZA DE CRIME PUBLICO AO CRIME CONTRA A INTEGRIDADE FISICA QUANDO PRATICADO CONTRA AGENTES DAS FORCAS E DOS SERVICOS DE SEGURANCA; OFENSA A INTEGRIDADE FISICA NO AMBITO DA INTERVENCAO POLICIAL:CRIME PUBLICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1474",
+                "nome": "Ricardo Castanheira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135037",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1170-1170"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-14",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/029/2000-12-14/1170?pgs=1170&org=PLC"
+              }
+            ],
+            "sumario": "CONFERE A NATUREZA DE CRIME PUBLICO AO CRIME CONTRA A INTEGRIDADE FISICA QUANDO PRATICADO CONTRA AGENTES DAS FORCAS E DOS SERVICOS DE SEGURANCA; OFENSA A INTEGRIDADE FISICA NO AMBITO DA INTERVENCAO POLICIAL:CRIME PUBLICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135038",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1171-1173"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-14",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/029/2000-12-14/1171?pgs=1171-1173&org=PLC"
+              }
+            ],
+            "sumario": "CONFERE A NATUREZA DE CRIME PUBLICO AO CRIME CONTRA A INTEGRIDADE FISICA QUANDO PRATICADO CONTRA AGENTES DAS FORCAS E DOS SERVICOS DE SEGURANCA; OFENSA A INTEGRIDADE FISICA NO AMBITO DA INTERVENCAO POLICIAL:CRIME PUBLICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1245",
+                "nome": "António Montalvão Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135039",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1171-1172"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-14",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/029/2000-12-14/1171?pgs=1171-1172&org=PLC"
+              }
+            ],
+            "sumario": "CONFERE A NATUREZA DE CRIME PUBLICO AO CRIME CONTRA A INTEGRIDADE FISICA QUANDO PRATICADO CONTRA AGENTES DAS FORCAS E DOS SERVICOS DE SEGURANCA; OFENSA A INTEGRIDADE FISICA NO AMBITO DA INTERVENCAO POLICIAL:CRIME PUBLICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135040",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1172-1172"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-14",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/029/2000-12-14/1172?pgs=1172&org=PLC"
+              }
+            ],
+            "sumario": "CONFERE A NATUREZA DE CRIME PUBLICO AO CRIME CONTRA A INTEGRIDADE FISICA QUANDO PRATICADO CONTRA AGENTES DAS FORCAS E DOS SERVICOS DE SEGURANCA; OFENSA A INTEGRIDADE FISICA NO AMBITO DA INTERVENCAO POLICIAL:CRIME PUBLICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135041",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1173-1173"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-14",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/029/2000-12-14/1173?pgs=1173&org=PLC"
+              }
+            ],
+            "sumario": "CONFERE A NATUREZA DE CRIME PUBLICO AO CRIME CONTRA A INTEGRIDADE FISICA QUANDO PRATICADO CONTRA AGENTES DAS FORCAS E DOS SERVICOS DE SEGURANCA; OFENSA A INTEGRIDADE FISICA NO AMBITO DA INTERVENCAO POLICIAL:CRIME PUBLICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1474",
+                "nome": "Ricardo Castanheira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135042",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1173-1175"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-14",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/029/2000-12-14/1173?pgs=1173-1175&org=PLC"
+              }
+            ],
+            "sumario": "CONFERE A NATUREZA DE CRIME PUBLICO AO CRIME CONTRA A INTEGRIDADE FISICA QUANDO PRATICADO CONTRA AGENTES DAS FORCAS E DOS SERVICOS DE SEGURANCA; OFENSA A INTEGRIDADE FISICA NO AMBITO DA INTERVENCAO POLICIAL:CRIME PUBLICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1245",
+                "nome": "António Montalvão Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135043",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1175-1176"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-14",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/029/2000-12-14/1175?pgs=1175-1176&org=PLC"
+              }
+            ],
+            "sumario": "CONFERE A NATUREZA DE CRIME PUBLICO AO CRIME CONTRA A INTEGRIDADE FISICA QUANDO PRATICADO CONTRA AGENTES DAS FORCAS E DOS SERVICOS DE SEGURANCA; OFENSA A INTEGRIDADE FISICA NO AMBITO DA INTERVENCAO POLICIAL:CRIME PUBLICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "José Magalhães"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135044",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1176-1178"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-14",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/029/2000-12-14/1176?pgs=1176-1178&org=PLC"
+              }
+            ],
+            "sumario": "CONFERE A NATUREZA DE CRIME PUBLICO AO CRIME CONTRA A INTEGRIDADE FISICA QUANDO PRATICADO CONTRA AGENTES DAS FORCAS E DOS SERVICOS DE SEGURANCA; OFENSA A INTEGRIDADE FISICA NO AMBITO DA INTERVENCAO POLICIAL:CRIME PUBLICO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104669",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "110825",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-12-14",
+        "pubLeg": "VIII",
+        "pubNr": "29",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/029/2000-12-14?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
