@@ -1,0 +1,31 @@
+Portaria n.º 17645
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, que, nos termos do § 4.º do artigo 48.º do Decreto-Lei n.º 40949, de 28 de Dezembro de 1956, alterado para § 5.º pelo Decreto-Lei n.º 41758, de 25 de Julho de 1958, os conselhos administrativos das unidades e estabelecimentos da Força Aérea a seguir indicados sejam autorizados a sacar, em conta do capítulo 7.º do orçamento ordinário dos encargos gerais da Nação em vigor, as importâncias que lhes vão designadas:
+Artigo 147.º, n.º 3), alínea a):
+Base aérea n.º 3 ... 8.080$00
+Artigo 147.º, n.º 4, alínea c):
+Base aérea n.º 4 ... 90$00
+Artigo 148.º, n.º 1):
+Base aérea n.º 1 ... 30.000$00
+Grupo de detecção, alerta e conduta da intercepção n.º 1 ... 45.000$00
+Batalhão de caçadores pára-quedistas ... 120.368$00
+Artigo 150.º, n.º 1), alínea a):
+Comando da 1.ª região aérea ... 2.400$00
+Base aérea n.º 1 ... 7.290$00
+Base aérea n.º 6 ... 30.000$00
+Grupo de detecção, alerta e conduta da intercepção n.º 1 ... 48.868$00
+Artigo 150.º, n.º 3), alínea d):
+Comando da zona aérea dos Açores ... 50.000$00
+Artigo 153.º, n.º 2):
+Base aérea n.º 1 ... 17.882$70
+Base aérea n.º 2 ... 3.315$10
+Base aérea n.º 3 ... 5.676$90
+Depósito Geral de Material da Força Aérea ... 23.100$00
+Grupo de detecção, alerta e conduta da intercepção n.º 1 ... 12.312$00
+Artigo 153.º, n.º 3):
+Base aérea n.º 4 ... 16.245$00
+Artigo 154.º, n.º 1):
+Grupo de detecção, alerta e conduta da intercepção n.º 1 ... 93.000$00
+Artigo 156.º, n.º 3):
+Base aérea n.º 3 ... 275$00
+A importância de 93.000$00 que do artigo 154.º n.º 1), fica atribuída ao grupo de detecção alerta e conduta da intercepção n.º 1 deverá ser utilizada em regime de duodécimos.
+Presidência do Conselho, 26 de Março de 1960. - Pelo Ministro da Defesa Nacional, Kaulza Oliveira de Arriaga, Subsecretário de Estado da Aeronáutica.
