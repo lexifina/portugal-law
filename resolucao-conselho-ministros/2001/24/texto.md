@@ -1,0 +1,19 @@
+Resolução do Conselho de Ministros n.º 24/2001
+A generalização do acesso à Internet permite que a informação chegue mais depressa a um número muito mais alargado de destinatários. Daí as vantagens no recurso sistemático à Internet na disponibilização e divulgação de informação, nomeadamente da que é detida pela Administração Pública.
+Um dos pontos em que a utilidade de apresentação de informação em formato digital na Internet pela Administração é evidente é o da oferta de emprego público, nomeadamente daquele em que se verifique a realização de concursos ou que envolva anúncio público de oferta de emprego.
+Para além da maior divulgação da intenção de contratar por parte da Administração, há igualmente a considerar a acrescida transparência dos procedimentos e a possibilidade de se reunir num único sítio toda a oferta de emprego público, facilmente acessível e consultável por todos os interessados.
+Importa, por esse motivo, promover a constituição de um sítio na Internet no qual sejam obrigatoriamente divulgadas todas as ofertas de emprego público.
+Atendendo ao carácter específico do emprego científico e tecnológico e ao objectivo de captação a fixação em Portugal de recursos humanos qualificados nesta área, deve ser desenvolvido prioritariamente um sítio na Internet de contornos análogos para esta área laboral.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Mandatar o Ministro da Reforma do Estado e da Administração Pública para promover a constituição de um sítio na Internet para efeitos de alojamento da bolsa de emprego da Administração Pública, criada por resolução aprovada pelo Conselho de Ministros em 18 de Janeiro de 2001.
+2 - Mandatar o Ministro da Reforma do Estado e da Administração Pública para garantir, no âmbito de decreto-lei a publicar, que definirá as regras de gestão da bolsa de emprego da Administração Pública, a que se refere a alínea d) do n.º 2.1 da resolução acima referida, as condições para um eficaz funcionamento do sítio referido no número anterior, as quais deverão prever:
+a) Os termos em que deve tornar-se obrigatória a publicação de todos os anúncios de concursos de pessoal abertos por organismos públicos, bem como a oferta de emprego a concretizar pelos mecanismos de mobilidade previstos na lei;
+b) Os termos em que devem considerar-se inválidos os processos de recrutamento de pessoal que não cumprem o estabelecido na alínea anterior;
+c) A criação e manutenção de uma base de dados relativa aos processos de recrutamento previstos nas alíneas anteriores, incluindo, nomeadamente, informação sobre o número de candidatos admitidos e não admitidos, bem como, quando for caso disso, a composição dos júris dos concursos.
+3 - Tendo em vista a necessidade de promover a atracção e fixação em Portugal de recursos qualificados nas áreas científica a tecnológica, mandatar o Ministro da Ciência e da Tecnologia para promover a criação de um sítio específico na Internet destinado à promoção de emprego científico e tecnológico, no qual deverão ser fornecidas as informações relevantes sobre a natureza científica e técnica do emprego oferecido e ao qual se aplicarão os princípios referidos no n.º 2.
+4 - Será estimulada a divulgação no sítio da Internet referido no número anterior das ofertas de emprego científico e tecnológico de entidades privadas.
+5 - Será promovida a referenciação deste sítio da Internet em motores de busca internacionais.
+6 - O sítio da Internet referido no n.º 1 deve estar operacional no prazo máximo de um ano.
+7 - A criação do sítio da Internet referido no n.º 3 será imediatamente promovida, devendo estar operacional a título experimental no prazo máximo de três meses e plenamente operacional no prazo máximo de seis meses.
+Presidência do Conselho de Ministros, 7 de Fevereiro de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
