@@ -1,0 +1,4 @@
+Despacho
+Em algumas escolas de ensino superior, o processo de eleição dos órgãos de direcção, de acordo com o Decreto-Lei n.º 806/74, de 31 de Dezembro, tem esbarrado com alguns obstáculos decorrentes da dificuldade em executar o preceituado no n.º 2 do artigo 10.º daquele diploma legal.
+Assim sendo, perante a morosidade paralisante derivada da necessidade de reunir a assembleia de escola para fixar o número de membros do conselho directivo, determino, ao abrigo do disposto no artigo 34.º do mesmo decreto-lei, que, a título supletivo, e no respeito pela norma do n.º 3 do referido artigo 10.º, o conselho directivo seja constituído por cinco docentes, cinco estudantes e três trabalhadores não docentes.
+Ministério da Educação e Cultura, 8 de Março de 1975. - O Secretário de Estado do Ensino Superior e Investigação Científica, António José Avelãs Nunes.
