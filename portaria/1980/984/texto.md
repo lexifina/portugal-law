@@ -1,0 +1,19 @@
+Portaria n.º 984/80
+de 14 de Novembro
+Considerando a necessidade de promover a rápida integração dos funcionários adidos nos serviços e organismos onde exerçam actividade e satisfaçam necessidades permanentes de serviço;
+Considerando as orientações estabelecidas nesse sentido no n.º 3 do artigo 2.º do Decreto-Lei n.º 182/80, de 3 de Junho:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Habitação e Obras Públicas e pelo Secretário de Estado da Reforma Administrativa, o seguinte:
+1.º
+Alargamento de quadros de pessoal de serviços do Ministério da Habitação e Obras Públicas
+1.º O quadro de pessoal da Direcção-Geral do Planeamento Urbanístico, aprovado pelo artigo 45.º do Decreto-Lei n.º 188/79, de 22 de Junho, é aumentado dos lugares constantes do mapa I anexo ao presente diploma.
+2.º O quadro de pessoal do Gabinete de Informação Pública e Relações Externas do Ministério da Habitação e Obras Públicas, aprovado pelo n.º 2 do artigo 10.º do Decreto-Lei n.º 195/77, de 14 de Maio, é aumentado dos lugares mencionados no mapa II anexo a esta portaria.
+2.º
+Entrada em vigor
+Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Habitação e Obras Públicas, 5 de Novembro de 1980. - Pelo Ministro das Finanças e do Plano, José António da Silveira Godinho, Secretário de Estado Adjunto do Ministro das Finanças e do Plano. - O Ministro da Habitação e Obras Públicas, João Lopes Porto. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
+
+MAPA I
+(ver documento original)
+
+MAPA II
+(ver documento original)
