@@ -1,0 +1,43 @@
+# Informação-Parecer do Conselho Consultivo da Procuradoria-Geral da República n.º 93/1986, de 1987-01-06
+
+**Fonte:** https://www.ministeriopublico.pt/pareceres-pgr/7841
+
+**Número do Parecer:** 93/1986, de 06.01.1987
+
+**Data de Assinatura:** 06-01-1987
+
+**Tipo de Parecer:** Informação-Parecer
+
+**Iniciativa:** Governo
+
+**Entidade:** Ministério da Justiça
+
+**Relator:** PADRÃO GONÇALVES
+
+## Descritores
+
+ACTIVIDADE NAZI
+NAZISMO
+ACTIVIDADE FASCISTA
+FASCISMO
+ACTIVIDADE NEO-FASCISTA
+NEO-FASCISMO
+IDEOLOGIA TOTALITARIA
+INTOLERANCIA RACIAL
+ODIO
+TERROR
+
+## Legislação
+
+CONST76 ART7 N2 ART13 N1 N2 ART15 ART41 ART46 N1 N4.
+L 19/81 DE 1981/08/18.
+L 7/82 DE 1982/04/29.
+CP82 ART189 ART190 ART287 ART288 ART289.
+
+## Referências Complementares
+
+DIR CIV * DIR PERSON / DIR CONST * DIR FUND / * CONT REF/COMP*****
+RELATORIO SOBRE MEDIDAS CONTRA ACTIVIDADES NAZIS FACISTAS NEO FASCISTAS IDEOLOGIAS TOTALITARIAS INTOLERANCIA RACIAL ODIO TERROR A/41/317/ADD.1-E/1986/36/ADD.1 SG ONU 1986/09/12*****
+* CONT ANJUR
+DIR CRIM / DIR INT PUBL * DIR HOMEM.
+###
