@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Governo do Suriname informou, em 5 de Setembro de 1985, o Secretário-Geral das Nações Unidas, na sua qualidade de depositário da Convenção sobre a Cobrança de Alimentos no Estrangeiro, concluída em Nova Iorque em 20 de Junho de 1956, de uma mudança da autoridade expedidora e da instituição intermediária, conformemente ao artigo 2.º da referida Convenção, de que Portugal é parte, que passa a ser o Bureau for Family Law Affairs, em substituição do Voogdijraad te Paramaribo (Conselho de Tutela de Paramaribo).
+Secretaria-Geral do Ministério, 12 de Novembro de 1985. - O Director dos Serviços Jurídicos e de Tratados, Francisco Manuel dos Reis Caldeira.
