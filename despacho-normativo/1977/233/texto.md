@@ -1,0 +1,7 @@
+Despacho Normativo n.º 233/77
+Considerando as alterações introduzidas pelo Decreto-Lei n.º 515/77, de 14 de Dezembro, no regime de crédito para aquisição ou construção de habitação própria, criado pela resolução do Conselho de Ministros de 24 de Fevereiro de 1976;
+Considerando a existência de empréstimos negociados e aprovados nos termos da citada resolução sem que se tenha verificado a respectiva formalização, através da assinatura dos correspondentes contratos de financiamento;
+Considerando ainda a necessidade de as instituições de crédito intervenientes neste tipo de financiamentos seguirem critério uniforme relativamente às operações aprovadas e aguardando escritura, esclarece-se qual a interpretação a dar ao n.º 1 do artigo 10.º do decreto-lei acima referido:
+1 - Nos empréstimos para aquisição ou construção de habitação própria já aprovados nos termos da resolução do Conselho de Ministros de 24 de Fevereiro de 1976, cujos contratos se encontrem por assinar à data da entrada em vigor do Decreto-Lei n.º 515/77, de 14 de Dezembro, será aplicado o regime definido no mesmo decreto-lei.
+2 - Para efeitos da aplicação do novo regime, considerar-se-ão, nos mesmos empréstimos, os rendimentos anuais per capita superiores a 120000$00 incluídos no escalão V.
+Ministérios das Finanças e da Habitação, Urbanismo e Construção, 14 de Dezembro de 1977. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.
