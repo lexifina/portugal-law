@@ -1,0 +1,8 @@
+Despacho Normativo n.º 623/94
+Considerando o disposto na primitiva redacção do n.º 2 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, mantida transitoriamente em vigor pelo artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e o disposto nos n.os 6 e 8 do mesmo artigo 18.º, na redacção dada pelo artigo 1.º do citado Decreto-Lei n.º 34/93, de 13 de Fevereiro;
+Considerando que, com a entrada em vigor do Decreto-Lei n.º 208/93, de 16 de Junho, cessou automaticamente a comissão de serviço em que a licenciada Josefina da Encarnação Pinto Marvão vinha exercendo o cargo de directora-geral de Higiene e Segurança no Trabalho e que a mesma reúne os requisitos necessários para provimento na categoria de assessor principal da carreira técnica superior;
+Considerando ainda o disposto no artigo 29.º do Decreto-Lei n.º 83/91, de 20 de Fevereiro, e no artigo 15.º do Decreto-Lei n.º 210/93, de 16 de Junho:
+Determina-se o seguinte:
+1 - É criado no quadro de pessoal da Direcção-Geral de Apoio Técnico à Gestão, aprovado pela Portaria n.º 618/93, de 30 de Junho, um lugar de assessor principal da carreira técnica superior, a extinguir quando vagar.
+2 - A criação do lugar referido no número anterior produz efeitos a 21 de Junho de 1993 e considera-se reportada ao quadro de pessoal da extinta Direcção-Geral da Organização e Recursos Humanos, até à data da entrada em vigor da Portaria n.º 618/93, de 30 de Junho.
+Ministérios das Finanças e do Emprego e da Segurança Social, 19 de Julho de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.
