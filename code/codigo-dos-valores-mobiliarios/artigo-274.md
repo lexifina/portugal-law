@@ -1,6 +1,10 @@
-## Secção II
+## Capítulo II
 
-## Liquidação de operações de bolsa
+## Operações
+
+## Secção I
+
+## Disposições gerais
 
 # Artigo 274.º
 

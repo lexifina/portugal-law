@@ -1,7 +1,3 @@
-## Secção III
-
-## Gestão de carteira
-
 # Artigo 335.º
 
 ### Forma e padronização

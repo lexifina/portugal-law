@@ -1,11 +1,3 @@
-## Título V
-
-## Sistemas de liquidação
-
-## Capítulo I
-
-## Disposições gerais
-
 # Artigo 258.º
 
 ### Objecto

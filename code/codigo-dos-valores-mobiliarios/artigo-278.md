@@ -1,3 +1,7 @@
+## Secção II
+
+## Liquidação de operações de bolsa
+
 # Artigo 278.º
 
 ### Princípios

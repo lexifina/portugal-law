@@ -1,3 +1,7 @@
+## Secção II
+
+## Operações de bolsa
+
 # Artigo 220.º
 
 ### Sistemas de negociação

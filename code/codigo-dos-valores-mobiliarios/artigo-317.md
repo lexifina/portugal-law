@@ -1,7 +1,3 @@
-## Secção IV
-
-## Regulamentação
-
 # Artigo 317.º
 
 ### Dever de comunicação pelos auditores

@@ -1,11 +1,3 @@
-## Capítulo II
-
-## Bolsas
-
-## Secção I
-
-## Mercados de bolsa em geral
-
 # Artigo 202.º
 
 ### Informação ao público

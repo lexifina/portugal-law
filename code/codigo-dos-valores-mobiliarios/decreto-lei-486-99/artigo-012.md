@@ -2,19 +2,7 @@
 
 ### Alterações ao Código do IRS
 
-1 - O artigo 117.º do Código do Imposto sobre o Rendimento das Pessoas Singulares passa a ter a seguinte redacção:
-
-«Artigo 117.º
-
-Comunicação da alienação de valores mobiliários
-
-1 - As alienações de valores mobiliários cujas mais-valias estejam sujeitas a IRS, bem como o respectivo valor, devem ser comunicadas à Direcção-Geral das Contribuições e Impostos:
-
-a) Pelas instituições de crédito, sociedades financeiras de corretagem, sociedades corretoras e outros intermediários financeiros que intervieram na alienação, até ao final do mês de Fevereiro de cada ano;
-
-b) Pelas pessoas intervenientes na alienação, fora dos casos referidos na alínea anterior ou no artigo 116.º, até 10 dias após a alienação.
-
-2 - As comunicações a que se refere o número anterior devem ser feitas mediante impresso de modelo aprovado oficialmente ou por suporte informático.»
+1 - (Revogado).
 
 2 - O artigo 129.º do Código do Imposto sobre o Rendimento das Pessoas Singulares passa a ter a seguinte redacção:
 

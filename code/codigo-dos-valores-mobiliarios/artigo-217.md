@@ -1,7 +1,3 @@
-## Secção II
-
-## Operações de bolsa
-
 # Artigo 217.º
 
 ### Funções dos membros da bolsa

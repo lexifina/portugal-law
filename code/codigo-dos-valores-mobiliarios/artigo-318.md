@@ -1,3 +1,7 @@
+## Secção IV
+
+## Regulamentação
+
 # Artigo 318.º
 
 ### Organização dos intermediários financeiros
