@@ -20,7 +20,7 @@ g) Diligenciar para que sejam registados a favor do Estado os imóveis que venha
 
 h) Instruir processos de inquérito, disciplinares e de averiguação, sempre que tal lhe seja determinado.
 
-2 - O Gabinete Jurídico é dirigido por um chefe de divisão.
+2 - O Gabinete Jurídico é dirigido por um director de serviços, mantendo-se o actual titular em funções de gestão corrente até à posse do novo titular do cargo.
 
 3 - O Gabinete compreende uma Secção de Contratação, à qual compete:
 
