@@ -1,0 +1,464 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11268",
+  "numero": "70",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2004-02-28",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2004-03-15",
+            "dataResposta": "2004-04-22",
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "4367/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2004-06-18",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "783479",
+                "obs": null,
+                "pag": [
+                  "181-181"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-07-03",
+                "pubLeg": "IX",
+                "pubNr": "35",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/02/035/2004-07-03/181?pgs=181&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2004-03-10",
+        "DataArquivo": "2004-06-23",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2004-06-29",
+        "DataReaberta": "2004-03-10",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2004-02-28",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764f4652425579394562324e31625756756447397a5547563061574e686279396b4f4745334e7a4177595331695a4755774c54526b4f5459744f5756684f5330354d32466d4f4459354e6d466c4e5755756347526d&fich=d8a7700a-bde0-4d96-9ea9-93af8696ae5e.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "109",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE TRABALHO E DOS ASSUNTOS SOCIAIS",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2004-03-10",
+            "gp": "PSD",
+            "id": "1991",
+            "motivoCessacao": null,
+            "nome": "Clara Carneiro"
+          }
+        ],
+        "RelatorioFinal": [
+          "21871"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2004-07-08",
+    "Documentos": [
+      {
+        "DataDocumento": "2004-02-28",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d765a6d4a694f4442684e546b744e574534596930304f5445334c5467334d3251744e7a4a694e324e684d325a684e7a566a4c6e426b5a673d3d&fich=fbb80a59-5a8b-4917-873d-72b7ca3fa75c.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2004-07-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150353",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5659-5660"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-07-09",
+                "pubLeg": "IX",
+                "pubNr": "105",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/105/2004-07-09/5659?pgs=5659-5660&org=PLC"
+              }
+            ],
+            "Sumario": "O Movimento de Cidadãos pró-Cuidados Paleativos, reclama que o acesso aos cuidados paleativos seja considerado como um direito inquestionável de todos os cidadãos e incluído na Constituição da República Portuguesa",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-07-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150354",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5660-5660"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-07-09",
+                "pubLeg": "IX",
+                "pubNr": "105",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/105/2004-07-09/5660?pgs=5660&org=PLC"
+              }
+            ],
+            "Sumario": "O Movimento de Cidadãos pró-Cuidados Paleativos, reclama que o acesso aos cuidados paleativos seja considerado como um direito inquestionável de todos os cidadãos e incluído na Constituição da República Portuguesa",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-07-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150355",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5660-5661"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-07-09",
+                "pubLeg": "IX",
+                "pubNr": "105",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/105/2004-07-09/5660?pgs=5660-5661&org=PLC"
+              }
+            ],
+            "Sumario": "O Movimento de Cidadãos pró-Cuidados Paleativos, reclama que o acesso aos cuidados paleativos seja considerado como um direito inquestionável de todos os cidadãos e incluído na Constituição da República Portuguesa",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-07-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150356",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5661-5662"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-07-09",
+                "pubLeg": "IX",
+                "pubNr": "105",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/105/2004-07-09/5661?pgs=5661-5662&org=PLC"
+              }
+            ],
+            "Sumario": "O Movimento de Cidadãos pró-Cuidados Paleativos, reclama que o acesso aos cuidados paleativos seja considerado como um direito inquestionável de todos os cidadãos e incluído na Constituição da República Portuguesa",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-07-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150357",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5662-5662"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-07-09",
+                "pubLeg": "IX",
+                "pubNr": "105",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/105/2004-07-09/5662?pgs=5662&org=PLC"
+              }
+            ],
+            "Sumario": "O Movimento de Cidadãos pró-Cuidados Paleativos, reclama que o acesso aos cuidados paleativos seja considerado como um direito inquestionável de todos os cidadãos e incluído na Constituição da República Portuguesa",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-07-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150358",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5662-5662"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-07-09",
+                "pubLeg": "IX",
+                "pubNr": "105",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/105/2004-07-09/5662?pgs=5662&org=PLC"
+              }
+            ],
+            "Sumario": "O Movimento de Cidadãos pró-Cuidados Paleativos, reclama que o acesso aos cuidados paleativos seja considerado como um direito inquestionável de todos os cidadãos e incluído na Constituição da República Portuguesa",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11268",
+    "PetAssunto": "Pretendem que o acesso aos cuidados paliativos seja considerado como um direito inquestionável de todos os cidadãos e incluído na Constituição da República Portuguesa.",
+    "PetDataEntrada": "2004-02-28",
+    "PeticoesAssociadas": null,
+    "PetId": "11268",
+    "PetLeg": "IX",
+    "PetNr": "70",
+    "PetNrAssinaturas": "24000",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "175",
+        "obs": null,
+        "pag": [
+          "5659-5662"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-07-09",
+        "pubLeg": "IX",
+        "pubNr": "105",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/105/2004-07-09/5659?pgs=5659-5662&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "289948",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-03-13",
+        "pubLeg": "IX",
+        "pubNr": "22",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/02/022/2004-03-13?org=PLC"
+      }
+    ]
+  }
+}
