@@ -1,0 +1,668 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Ratificação",
+    "numero": "149",
+    "id": "27099",
+    "titulo": "Decreto-lei nº 336/90, de 30 de Outubro, que estabelece os regimes de endividamento e financiamento dos défices das Regiões Autónomas. Revoga o Decreto-lei nº 33/84, de 24 de Janeiro"
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "1991-02-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3761",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "1991-02-01",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1991-02-01",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158971",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1259-1260"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1259?pgs=1259-1260&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 336/90, de 30 de Outubro, que estabelece os regimes de endividamento e financiamento dos défices das Regiões Autónomas. Revoga o Decreto-lei nº 33/84, de 24 de Janeiro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158972",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1259-1259",
+                  "1262-1263",
+                  "1264-1264"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1259?pgs=1259,1262-1263,1264&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 336/90, de 30 de Outubro, que estabelece os regimes de endividamento e financiamento dos défices das Regiões Autónomas. Revoga o Decreto-lei nº 33/84, de 24 de Janeiro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158973",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1260-1260"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1260?pgs=1260&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 336/90, de 30 de Outubro, que estabelece os regimes de endividamento e financiamento dos défices das Regiões Autónomas. Revoga o Decreto-lei nº 33/84, de 24 de Janeiro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158974",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1260-1261"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1260?pgs=1260-1261&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 336/90, de 30 de Outubro, que estabelece os regimes de endividamento e financiamento dos défices das Regiões Autónomas. Revoga o Decreto-lei nº 33/84, de 24 de Janeiro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158975",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1261-1261"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1261?pgs=1261&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 336/90, de 30 de Outubro, que estabelece os regimes de endividamento e financiamento dos défices das Regiões Autónomas. Revoga o Decreto-lei nº 33/84, de 24 de Janeiro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158976",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1261-1262"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1261?pgs=1261-1262&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 336/90, de 30 de Outubro, que estabelece os regimes de endividamento e financiamento dos défices das Regiões Autónomas. Revoga o Decreto-lei nº 33/84, de 24 de Janeiro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158977",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1262-1263"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1262?pgs=1262-1263&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 336/90, de 30 de Outubro, que estabelece os regimes de endividamento e financiamento dos défices das Regiões Autónomas. Revoga o Decreto-lei nº 33/84, de 24 de Janeiro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158978",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1263-1265"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1263?pgs=1263-1265&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 336/90, de 30 de Outubro, que estabelece os regimes de endividamento e financiamento dos défices das Regiões Autónomas. Revoga o Decreto-lei nº 33/84, de 24 de Janeiro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158979",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1264-1265"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1264?pgs=1264-1265&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 336/90, de 30 de Outubro, que estabelece os regimes de endividamento e financiamento dos défices das Regiões Autónomas. Revoga o Decreto-lei nº 33/84, de 24 de Janeiro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158980",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1265-1266"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1265?pgs=1265-1266&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 336/90, de 30 de Outubro, que estabelece os regimes de endividamento e financiamento dos défices das Regiões Autónomas. Revoga o Decreto-lei nº 33/84, de 24 de Janeiro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158981",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1266-1267"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1266?pgs=1266-1267&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 336/90, de 30 de Outubro, que estabelece os regimes de endividamento e financiamento dos défices das Regiões Autónomas. Revoga o Decreto-lei nº 33/84, de 24 de Janeiro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TESOURO.",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Tavares"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158982",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1267-1269"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1267?pgs=1267-1269&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 336/90, de 30 de Outubro, que estabelece os regimes de endividamento e financiamento dos défices das Regiões Autónomas. Revoga o Decreto-lei nº 33/84, de 24 de Janeiro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158983",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1268-1269"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1268?pgs=1268-1269&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 336/90, de 30 de Outubro, que estabelece os regimes de endividamento e financiamento dos défices das Regiões Autónomas. Revoga o Decreto-lei nº 33/84, de 24 de Janeiro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158984",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1269-1269"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1269?pgs=1269&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 336/90, de 30 de Outubro, que estabelece os regimes de endividamento e financiamento dos défices das Regiões Autónomas. Revoga o Decreto-lei nº 33/84, de 24 de Janeiro",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "208321",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3761",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-02-02",
+        "pubLeg": "V",
+        "pubNr": "38",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
