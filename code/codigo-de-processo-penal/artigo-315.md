@@ -8,4 +8,4 @@
 
 3 - Juntamente com o rol de testemunhas, o arguido indica os peritos e consultores técnicos que devem ser notificados para a audiência.
 
-4 - Ao rol de testemunhas é aplicável o disposto no artigo 283.º, n.º 3, alínea d).
+4 - Ao rol de testemunhas é aplicável o disposto no artigo 283.º, n.º 3, alínea d), e n.º 7.
