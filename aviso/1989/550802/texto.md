@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que, por nota de 11 de Setembro de 1989, a Embaixada da Bélgica em Lisboa comunicou que a 7 de Agosto de 1989 foi recebida pelo Governo Belga uma nota verbal datada de 1 de Agosto de 1989, emanada da Embaixada Real da Dinamarca, declarando que, segundo instruções do Governo Dinamarquês e até nova ordem, a Convenção Internacional para a Unificação de Certas Regras sobre o Arresto de Navios de Mar, assinada em Bruxelas a 10 de Maio de 1952, não se aplicará nem às ilhas Féroe nem à Gronelândia.
+Nos termos do artigo 14.º, alínea b), da Convenção, esta entrou em vigor para a Dinamarca a 2 de Novembro de 1989.
+Portugal é parte na Convenção, a qual foi aprovada, para ratificação, pelo Decreto-Lei n.º 41007, de 16 de Fevereiro de 1957, em que se publica o texto autêntico em francês e a respectiva tradução oficial em português. Portugal depositou o seu instrumento de ratificação em 4 de Maio de 1957, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 122, de 27 de Maio de 1957.
+Secretaria-Geral do Ministério, 14 de Novembro de 1989. - O Chefe do Serviço Jurídico e de Tratados, Francisco Manuel dos Reis Caldeira.
