@@ -1,0 +1,3 @@
+Resolução n.º 43-A/81
+O Conselho de Ministros, reunido em 5 de Março de 1981, resolveu, ao abrigo do artigo 7.º do Decreto Regulamentar n.º 52/77, de 24 de Agosto, nomear o Dr. João Maurício Fernandes Salgueiro presidente do conselho directivo do Instituto de Investimento Estrangeiro, funções que exercerá a título transitório e em acumulação com as funções de presidente do conselho de gestão do Banco de Fomento Nacional, sem acumulação de remunerações, nos termos do n.º 2 do artigo 23.º do Decreto-Lei n.º 831/76, de 25 de Novembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 387/77, de 14 de Setembro.
+Presidência do Conselho de Ministros, 5 de Março de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
