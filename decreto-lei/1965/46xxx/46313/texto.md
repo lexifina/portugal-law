@@ -1,0 +1,9 @@
+Decreto-Lei n.º 46313
+Considerando que depois da publicação do Decreto-Lei n.º 33905, de 2 de Setembro de 1944 (decreto orgânico da Guarda Nacional Republicana), tem sido sucessivamente aumentado o número de secções e postos dos batanhões n.os 3 e 5 da Guarda Nacional Republicana;
+Considerando que este aumento de efectivos elevou os mesmos batalhões ao nível regimental;
+Considerando que, com os elementos de que actualmente dispõem, é de muito maior responsabilidade a administração das referidas unidades;
+Considerando, por tais razões, ser de toda a vantagem que os lugares de comandante e 2.º comandante destas unidades se confiem, respectivamente, a um coronel ou a um tenente-coronel e a um tenente-coronel ou major;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Os lugares de comandante e 2.º comandante dos batalhões n.os 3 e 5 da Guarda Nacional Republicana passam a competir, respectivamente, a um coronel ou tenente-coronel e a um tenente-coronel ou major, sendo no corrente ano económico suportados pelas disponibilidades da verba destinada ao pessoal dos quadros os encargos resultantes desta providência.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 28 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
