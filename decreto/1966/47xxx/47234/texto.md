@@ -1,0 +1,17 @@
+Decreto n.º 47234
+Tornando-se necessário regulamentar a saída de embarcações de pesca de Portugal europeu para as províncias do ultramar;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º A transferência de registo de embarcações de pesca nacionais dos portos do continente, Açores e Madeira para portos das províncias ultramarinas depende de autorização do Ministro da Marinha, baseada em processo, para o efeito organizado na Direcção das Pescarias, por onde se verifique que tal transferência não é inconveniente sob o ponto de vista do interesse nacional.
+Art. 2.º Os inconvenientes, sob o ponto de vista do interesse nacional, da transferência do registo deverão ser considerados, relativamente às prováveis consequências, quanto:
+a) À economia do ramo da indústria da pesca em que as embarcações estão registadas; e
+b) À economia do ramo da indústria da pesca em que, nas províncias ultramarinas, as embarcações pretendam ser registadas.
+Art. 3.º A Direcção das Pescarias organizará o processo, juntando-lhe as informações e os pareceres que julgue convenientes para os efeitos do artigo 2.º
+§ 1.º As informações previstas na alínea a) do artigo 2.º serão pedidas ao grémio onde a embarcação esteja inscrita ou à Junta Central das Casas dos Pescadores, conforme se trate de uma embarcação de pesca industrial ou de uma embarcação de pesca artesanal.
+§ 2.º A informação prevista na alínea b) do artigo 2.º será pedida ao Ministério do Ultramar, por intermédio da sua Secção de Marinha, que ouvirá o governo da província para onde se pretende transferir a embarcação.
+Art. 4.º Nenhuma embarcação poderá ser despachada, quer pelas capitanias dos portos, quer pelas repartições aduaneiras, sem a apresentação de certidão do despacho do Ministro da Marinha autorizando a transferência de registo.
+Art. 5.º Nenhuma embarcação de registo no continente, Açores e Madeira poderá ser registada em portos das províncias ultramarinas sem que ao processo fique apensa a certidão do despacho do Ministro da Marinha autorizando a transferência de registo.
+Art. 6.º À falta de cumprimento das disposições dos artigos 4.º e 5.º é aplicável pena de multa entre 10000$00 e 1000000$00.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 3 de Outubro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Fernando Quintanilha Mendonça Dias - Joaquim Moreira da Silva Cunha.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.
