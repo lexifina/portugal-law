@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal Administrativo de 1998-05-06, processo 021440
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 021440
+
+**Data do Acordão:** 05/06/1998
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** MENDES PIMENTEL
+
+**Descritores:** CRÉDITO FISCAL POR INVESTIMENTO.
+
+**Nº Convencional:** JSTA00053679
+
+**Nº do Documento:** SA219980506021440
+
+**Data de Entrada:** 01/29/1997
+
+**Recorrente:** FAZENDA PÚBLICA
+
+**Recorrido 1:** BARBOSA E COIMBRA & COMP LDA
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TT1INST COIMBRA PER SALTUM.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR FISC - BENEFÍCIOS FISCAIS.
+
+**Legislação Nacional:** DL 197-C/86 DE 1986/07/18 ART2 N1 A.
+
+## Sumário
+
+I - É irrelevante, para efeitos do direito ao CFI consagrado no DL nº 197-C/86, de 18/VII, que o investimento se tenha iniciado antes de 1986.
+
+II - Não questionada a imprescindibilidade de investimento para a exploração da empresa e assente que ele se conclui em 1986, é de considerar, para efeitos, do artigo 4°, 1, do sobredito diploma legal, o montante das despesas efectuadas em tal ano consubstanciando o investimento ("aplicação de capitais próprios... em activo fixo corpóreo afecto à exploração da empresa", imprescindível a ela - artigo 2°, 1, a), do DL n.º 197-C/86).
