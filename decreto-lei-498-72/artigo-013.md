@@ -8,4 +8,6 @@
 
 3 - Nos demais casos de contagem de tempo, as quotas que não hajam sido pagas ou que tenham sido restituídas pela Caixa serão liquidadas, sem juros, com base na remuneração do cargo do subscritor à data da entrada do seu requerimento e na taxa então vigente.
 
-4 - Para efeitos de contagem de tempo de reforma, os trabalhadores bancários no activo poderão proceder, a seu pedido, a descontos para a Caixa Geral de Aposentações respeitantes ao período em que prestaram serviço militar, aos quais será aplicada uma taxa de 2%, por motivo de tais deduções prestacionais não lhes conferirem a aquisição de quaisquer direitos em matéria de aposentação e sobrevivência no âmbito da Caixa Geral de Aposentações.
+4 - Para efeitos de reforma e de pensão de sobrevivência, os trabalhadores bancários no activo poderão requerer a contagem de todo o tempo de serviço militar obrigatório, aplicando-se, para efeito de liquidação da correspondente dívida de quotas, a taxa de 2% sobre a remuneração auferida à data do requerimento, quando esse tempo não confira direitos em matéria de aposentação e sobrevivência no âmbito da Caixa.
+
+5 - A Caixa poderá, por si ou a pedido das instituições de crédito onde os trabalhadores exercem a sua actividade profissional, transferir os referidos descontos para o fundo de pensões dos bancários, cobrando, a título de compensação pela prestação de serviços, a importância de 10% do montante a transferir, com o limite máximo de 5000$00.
