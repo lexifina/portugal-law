@@ -1,0 +1,3 @@
+Aviso n.º 29/93
+Por ordem superior se faz público que, segundo comunicação do Secretário-Geral das Nações Unidas, o Governo da Croácia notificou, em 3 de Agosto de 1992, a sua sucessão na Convenção Aduaneira Relativa ao Transporte Internacional de Mercadorias a Coberto de Cadernetas TIR (Convenção TIR), concluída em Genebra, em 14 de Novembro de 1975, com efeitos desde 8 de Outubro de 1991, data em que a Croácia assumiu responsabilidades pelas suas relações internacionais.
+Direcção-Geral dos Negócios Político-Económicos, 12 de Janeiro de 1993. - O Director de Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
