@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=rKtwshDyv1NBeu65K82ef9j6oFE3w%2fgAbqyUhooMpoSyQQ0pTyzibfD50gH%2baGhs1TrcG1r0l2bU1A0KAmFXPBoWqi6NY9nsxTw%2fxAs2r347ke8O86pD8UW0Vo24i8zPmfcPKM5y3XEB99eQAf1Ojm%2bemILgruHhJl9u7yVaplGsWPI0o%2bZUTUUBCanSa5007dUY7uakZ2EgL138SciEtNOWsIyqy66pG5Eu5crXojP8szj276fRrDhZdP6MEXFhdUelamzN3e1Rpwl8sPVmxdyANoDqpCtvpC0PXNmoyGF02wzb13ACPnwjTtn%2bPiN%2b1oG5E%2bkfl50yDwrf9Q4ck3XnT7zfIqh68Ee0O7Ap66U%3d&fich=IntervencoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "09dcb463dee20c5105fb36bc1a4e2274ee28613bb7bd19e9b953a0ed8eb5faf8",
+  "legislatura": "VI",
+  "id": "134399",
+  "tipo": "Explicações",
+  "orador": null,
+  "data_registo": "1993-08-10",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "274294",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "3774",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Autoriza o Governo a alterar o regime legal do direito de asilo e o estatuto de refugiado"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1993-08-10",
+    "Debate": "DECRETO 128",
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "134399",
+    "IdDebate": "8053",
+    "Iniciativas": [
+      {
+        "fase": "Veto (Leitura)",
+        "id": "3774",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "134399",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "3177-3178"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-08-11",
+        "pubLeg": "VI",
+        "pubNr": "95",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/095/1993-08-11/3177?pgs=3177-3178&org=PLC"
+      }
+    ],
+    "Qualidade": "Pres. Mesa",
+    "Resumo": "DA EXPLICACOES AO DEPUTADO JOAO AMARAL (PCP), APOS ESTE TER INTERPELADO A MESA.",
+    "Sessao": "2",
+    "Sumario": "ALTERACAO DO REGIME LEGAL DO DIREITO DE ASILO",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Explicações"
+  }
+}
