@@ -1,0 +1,4 @@
+Despacho Normativo n.º 287/78
+Nos termos do artigo 7.º do Decreto-Lei n.º 515/77, de 14 de Dezembro, e tendo em consideração os custos médios dos recursos das instituições de crédito intervenientes nos empréstimos a que se refere aquele diploma, determina-se o seguinte:
+A bonificação a suportar pelo Estado nos empréstimos concedidos corresponderá à diferença entre, por um lado, a taxa contratual de 20%, no caso da Caixa Geral de Depósitos e Crédito Predial Português, e de 22%, no caso do Montepio Geral - Caixa Económica de Lisboa, em qualquer dos casos deduzida dos 4,5% a que se refere o n.º 2.º, 1, do aviso de 27 de Julho de 1978, e, por outro lado, as taxas de juro constantes do quadro anexo às portarias regulamentares previstas no artigo 7.º do Decreto-Lei n.º 515/77.
+Ministério das Finanças e do Plano, 26 de Setembro de 1978. - Pelo Ministro das Finanças e do Plano, Maria Manuela Matos Morgado Santiago Baptista, Secretário de Estado do Tesouro.
