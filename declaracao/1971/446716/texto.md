@@ -1,0 +1,3 @@
+Declaração
+Para os devidos efeitos se declara que, não se encontrando ainda concluídos os estudos que estão a ser efectuados com vista à revisão do esquema de fomento da produção leiteira, perante os resultados da experiência obtida após a publicação do Decreto-Lei n.º 47710, de 18 de Maio de 1967, e legislação complementar, por seu despacho de 15 do corrente, o Secretário de Estado do Comércio determinou que se mantenha até 30 de Abril de 1971 a dotação a que se refere o n.º 3.º do despacho de 1 de Julho de 1967, publicado no Diário do Governo, 1.ª série, n.º 152, da mesma data.
+Comissão de Coordenação Económica, 19 de Dezembro de 1970. - O Presidente, Henrique de Carvalho Costa.
