@@ -1,4 +1,4 @@
-## Capítulo II
+## Secção II
 
 ## Articulados
 
@@ -6,7 +6,7 @@
 
 ### Despacho liminar
 
-1 - Recebida a petição, se o juiz nela verificar deficiências ou obscuridades, deve convidar o autor a completá-la ou esclarecê-la, sem prejuízo do seu indeferimento nos termos do disposto no n.º 1 do artigo 590.º do Código de Processo Civil.
+1 - Recebida a petição, se o juiz nela verificar deficiências ou obscuridades, deve convidar o autor a completá-la ou esclarecê-la, sem prejuízo do seu indeferimento nos termos do disposto no n.º 1 do artigo 234.º-A do Código de Processo Civil.
 
 2 - Estando a acção em condições de prosseguir, o juiz designa uma audiência de partes, a realizar no prazo de 15 dias.
 

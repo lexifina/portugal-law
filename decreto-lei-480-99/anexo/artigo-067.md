@@ -1,13 +1,11 @@
 # Artigo 67.º
 
-### Inquirição de testemunhas
+### Inquirição por carta
 
-1 - As testemunhas residentes na área de competência territorial do juízo da causa depõem presencialmente na audiência final, salvo o disposto no número seguinte.
+1 - A inquirição por carta precatória só é ordenada se a testemunha residir fora da área de jurisdição do tribunal da causa e o juiz considerar que o seu depoimento é necessário e a apresentação pela parte é economicamente incomportável.
 
-2 - São ouvidas por meio de equipamento tecnológico que permita a comunicação, por meio visual e sonoro, em tempo real, a partir de tribunal ou juízo da área da sua residência:
+2 - O prazo para cumprimento da carta é de 30 dias.
 
-a) As testemunhas residentes fora do município onde se encontra sediado o juízo da causa, caso o juiz, a requerimento da própria testemunha ou de alguma das partes, o determine por despacho irrecorrível;
+3 - Nas causas pendentes em tribunais sediados nas áreas metropolitanas de Lisboa e do Porto não se expedirá carta precatória quando a testemunha a inquirir resida na respectiva circunscrição, sendo aplicável o disposto no artigo anterior.
 
-b) As testemunhas residentes em município não abrangido pela área de competência territorial do juízo da causa, salvo quando a parte deva apresentá-las nos termos do artigo anterior.
-
-3 - Nos casos previstos no número anterior é aplicável, com as necessárias adaptações, o disposto nos n.os 2 a 4 do artigo 502.º do Código de Processo Civil.
+4 - Não havendo lugar a expedição de carta, as testemunhas são apresentadas pelas partes na audiência, sem necessidade de notificação; pode, porém, o juiz ordenar a notificação das testemunhas se estas se recusarem a comparecer ou se, pelo seu estado de dependência económica em relação a qualquer das partes, se revelar difícil a sua apresentação.

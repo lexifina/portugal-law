@@ -4,12 +4,12 @@
 
 # Artigo 105.º
 
-### Perícia médica
+### Exame médico
 
-1 - O local e a competência para a realização da perícia médica são definidos nos termos da lei que estabelece o regime jurídico da realização das perícias médico-legais e forenses.
+1 - O exame médico, quando efectuado no tribunal, é presidido pelo Ministério Público e realizado pelo respectivo perito médico.
 
-2 - (Revogado).
+2 - Nos tribunais situados na área de competência dos institutos de medicina legal ou dos gabinetes médico-legais, o exame deve ser-lhes de preferência requisitado directamente, dispensando-se, nesses casos, a presença do Ministério Público.
 
-3 - Sem prejuízo do disposto na lei que estabelece o regime jurídico da realização das perícias médico-legais e forenses, quando a perícia exigir elementos auxiliares de diagnóstico ou o conhecimento de alguma especialidade clínica não acessíveis a quem deva realizá-la, são requisitados tais elementos ou o parecer de especialistas aos serviços médico-sociais da respetiva área e, se estes não estiverem habilitados a fornecê-los em tempo oportuno, são requisitados a estabelecimentos ou serviços adequados ou a médicos especialistas; fora das áreas metropolitanas de Lisboa e do Porto, se os não houver na respetiva circunscrição, o Ministério Público pode solicitar a outro juízo com competência em matéria de trabalho a obtenção desses elementos ou pareceres, bem como a obtenção da perícia.
+3 - Sem prejuízo do disposto no Decreto-Lei n.º 11/98, de 24 de Janeiro, quando o exame exigir elementos auxiliares de diagnóstico ou conhecimento de alguma especialidade clínica não acessíveis a quem deva realizá-lo, são requisitados tais elementos ou o parecer de especialistas aos serviços médico-sociais da respectiva área e se estes não estiverem habilitados a fornecê-los em tempo oportuno são requisitados a estabelecimentos ou serviços adequados ou a médicos especialistas; fora das áreas metropolitanas de Lisboa e do Porto, se os não houver na respectiva circunscrição, o Ministério Público pode solicitar a outro tribunal com competência em matéria de trabalho a obtenção desses elementos ou pareceres, bem como a realização do próprio exame.
 
-4 - A perícia é secreta, podendo o Ministério Público, em qualquer caso, propor questões sempre que o seu resultado lhe ofereça dúvidas; o resultado da perícia é notificado, sem necessidade de despacho, ao sinistrado e às pessoas convocadas para a tentativa de conciliação.
+4 - O exame é secreto, podendo o Ministério Público, em qualquer caso, propor questões sempre que o seu resultado lhe ofereça dúvidas; o resultado do exame é logo notificado, sem necessidade de despacho, ao sinistrado e às pessoas convocadas para a tentativa de conciliação.

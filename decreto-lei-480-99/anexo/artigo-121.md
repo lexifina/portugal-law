@@ -10,7 +10,7 @@
 
 2 - Se o grau de incapacidade fixado tiver carácter provisório ou temporário, o juiz rectifica a pensão ou indemnização logo que seja conhecido o resultado final do exame médico que define a incapacidade ou lhe reconhece natureza permanente.
 
-3 - Se houver desacordo sobre a transferência da responsabilidade, a pensão ou indemnização fica a cargo do segurador cuja apólice abranja a data do acidente; se não tiver sido junta a apólice, a pensão ou indemnização é paga pela entidade empregadora, salvo se esta ainda não estiver determinada ou se encontrar em qualquer das situações previstas no n.º 1 do artigo 82.º da Lei n.º 98/2009, de 4 de setembro, caso em que se aplica o disposto nos n.os 2 e 3 do artigo seguinte.
+3 - Se houver desacordo sobre a transferência da responsabilidade, a pensão ou indemnização fica a cargo do segurador cuja apólice abranja a data do acidente; se não tiver sido junta a apólice, a pensão ou indemnização é paga pela entidade patronal, salvo se esta ainda não estiver determinada ou se encontrar em qualquer das situações previstas no n.º 1 do artigo 39.º da Lei n.º 100/97, de 13 de Setembro, caso em que se aplica o disposto nos n.os 2 e 3 do artigo seguinte.
 
 4 - Se não for possível determinar a última remuneração do sinistrado, o juiz toma por base uma remuneração que não ultrapasse o mínimo que presumivelmente deva ser reconhecido como base para o cálculo da pensão ou indemnização.
 

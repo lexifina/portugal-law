@@ -1,4 +1,4 @@
-## Capítulo IV
+## Secção IV
 
 ## Instrução
 

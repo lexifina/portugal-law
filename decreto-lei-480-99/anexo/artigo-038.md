@@ -1,7 +1,7 @@
 # Artigo 38.º
 
-### Falta de apresentação do procedimento disciplinar ou dos documentos comprovativos do cumprimento das formalidades exigidas
+### Falta de apresentação do processo disciplinar
 
-1 - Se o requerido não cumprir injustificadamente o disposto nos n.os 3 e 4 do artigo 34.º, a providência é decretada.
+1 - Se o requerido não apresentar injustificadamente o processo disciplinar no prazo fixado, a providência é decretada.
 
-2 - Se o não cumprimento for justificado até ao termo do prazo da oposição, o juiz decide com base nos elementos constantes dos autos e na prova que oficiosamente determinar.
+2 - Se a não apresentação for justificada até ao termo do prazo fixado, o juiz decide nos termos do n.º 2 do artigo anterior.

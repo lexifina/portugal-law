@@ -1,6 +1,6 @@
-## Capítulo IV
+## Capítulo III
 
-## Disposições finais
+## Disposição final
 
 # Artigo 98.º
 
@@ -14,6 +14,6 @@ a) Os créditos que gozem de direito de retenção sobre os bens penhorados, des
 
 b) Os créditos que sobre os mesmos bens gozem de garantia real, com registo anterior ou posterior ao registo da penhora.
 
-3 - Os credores com garantia real com registo anterior ao da penhora são citados para reclamar os seus créditos.
+3 - Os titulares dos créditos referidos na alínea b) do n.º 2 que tenham registo anterior ao da penhora são citados nos termos da alínea b) do n.º 1 do artigo 864.º do Código de Processo Civil.
 
-4 - Os titulares dos créditos referidos na alínea b) do n.º 2 que registem a garantia real depois do registo da penhora podem reclamá-los, independentemente de citação, no prazo de 15 dias, contado da junção aos autos da certidão dos direitos, ónus ou encargos inscritos.
+4 - Os titulares dos créditos referidos na alínea b) do n.º 2 que registem a garantia real depois do registo da penhora podem reclamá-los, independentemente de citação, no prazo de 15 dias contado da junção aos autos da certidão a que se refere o n.º 1 do artigo 864.º do Código de Processo Civil.

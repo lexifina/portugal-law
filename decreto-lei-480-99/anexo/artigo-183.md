@@ -1,7 +1,3 @@
-## Secção V
-
-## Liquidação e partilha dos bens de instituições de previdência, de associações sindicais, de associações de empregadores ou de comissões de trabalhadores
-
 ## Secção VI
 
 ## Acção de anulação e interpretação de cláusulas de convenções colectivas de trabalho

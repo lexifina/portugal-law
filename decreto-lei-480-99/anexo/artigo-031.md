@@ -2,7 +2,7 @@
 
 ### Apensação de acções
 
-1 - A apensação de ações nos termos do artigo 267.º do Código de Processo Civil pode também ser ordenada oficiosamente ou requerida pelo Ministério Público, ainda que este não represente ou patrocine qualquer das partes.
+1 - A apensação de acções nos termos do artigo 275.º do Código de Processo Civil pode também ser ordenada oficiosamente ou requerida pelo Ministério Público, ainda que este não represente ou patrocine qualquer das partes.
 
 2 - A apensação de acções emergentes de despedimento colectivo é obrigatória até ao despacho saneador, sendo ordenada oficiosamente logo que conhecida a sua existência.
 
