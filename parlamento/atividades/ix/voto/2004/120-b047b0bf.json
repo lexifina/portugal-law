@@ -1,0 +1,118 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=P0Fiu%2fOxm2B6i1Qb1v6Kl8P9Ddn6RTIUCktgva%2fyOaH7lWGUnkkysYTUSoIwHSs4BsNkQvxZU1Jn26l834KO7HtuiuTauD6UP2bFLXGt1tGFPrfPngnS3CSTBHYbjc71uc6LAaWwWMNPEAhBQhLTogdfX0k86zYaSRdtMb5VxaaW%2bmRVLZ1kFuUjHoiU3DnKr1hwTFH2RjyVH0%2bkvoh5J2473p4WEAcwEGu0cbkopo0uGKBdgu45lweS1xncByHsc5RkSTt5XtJ4jYpzMHGU0JCobwocVoDRrWDIaByf6THsN8d28CiCvqU0mvdSGeyt9pZrFNIo3KeVbLuYHnmRx0uPU1z9aF2A03pcO1L5Ivg%3d&fich=AtividadesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "158feac9a195837800498c997c5f15d982e196bc878ba5194b23e12459159b60",
+  "legislatura": "IX",
+  "tipo": "Voto",
+  "numero": "120",
+  "data_registo": "2004-01-07",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de Pesar em memória do Doutor Vítor de Sá",
+    "AutoresGP": [
+      "PCP",
+      "Lino de Carvalho (PCP)",
+      "Bernardino Soares (PCP)",
+      "António Filipe (PCP)",
+      "Honório Novo (PCP)",
+      "Luísa Mesquita (PCP)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2004-01-08",
+    "DataAnuncio": null,
+    "DataEntrada": "2004-01-07",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "IX",
+    "Numero": "120",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "284649",
+        "obs": null,
+        "pag": [
+          "64-64"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-01-10",
+        "pubLeg": "IX",
+        "pubNr": "13",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/02/013/2004-01-10/64?pgs=64&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "21010",
+        "obs": null,
+        "pag": [
+          "2095-2098"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-01-09",
+        "pubLeg": "IX",
+        "pubNr": "36",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/036/2004-01-09/2095?pgs=2095-2098&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2004-01-08",
+        "descricao": null,
+        "detalhe": null,
+        "id": "31225",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "284248",
+            "obs": null,
+            "pag": [
+              "2098-2098"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-01-09",
+            "pubLeg": "IX",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/036/2004-01-09/2098?pgs=2098&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "36",
+        "tipoReuniao": null,
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
