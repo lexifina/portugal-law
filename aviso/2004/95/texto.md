@@ -1,0 +1,5 @@
+Aviso n.º 95/2004
+Por ordem superior se torna público que a República Portuguesa depositou junto do Secretário-Geral do Conselho da Europa, em 7 de Maio de 2002, o seu instrumento de ratificação à Convenção Quadro para a Protecção das Minorias Nacionais, aberta para assinatura em Estrasburgo em 1 de Fevereiro de 1995.
+A referida Convenção foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 42/2001, publicada no Diário da República, 1.ª série-A, n.º 145, de 25 de Junho de 2001, e ratificada pelo Decreto do Presidente da República n.º 33/2001, publicado no Diário da República, 1.ª série-A, n.º 145, de 25 de Junho de 2001, tendo depositado o seu instrumento de ratificação em 7 de Maio de 2002, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 150, de 2 de Julho de 2002.
+Nos termos do n.º 2 do artigo 28.º, a referida Convenção entrou em vigor, relativamente a Portugal, em 1 de Setembro de 2002.
+Direcção-Geral dos Assuntos Multilaterais, 29 de Abril de 2004. - O Director de Serviços das Organizações Políticas Internacionais, Bernardo Fernandes Homem de Lucena.
