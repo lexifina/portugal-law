@@ -1,0 +1,5 @@
+Despacho Normativo n.º 38/84
+Considerando que alguns conteúdos líquidos das embalagens de produtos fitofarmacêuticos, actualmente no mercado, não se adaptam à sua utilização em hortas e jardins familiares:
+Nestes termos:
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 2 «Produtos fitofarmacêuticos», aprovada pelo Despacho Normativo n.º 346/80, publicado no Diário da República, 1.ª série, n.º 250, de 28 de Outubro de 1980, é autorizado o lançamento no mercado da embalagem com o conteúdo líquido (peso) de 50 g para os produtos fitofarmacêuticos destinados a hortas e jardim familiares, com base em oxicloreto de cobre + zinebe, formulado em pó molhável, com os teores respectivos de 37,5% (p/p) + 16% (p/p) de substâncias activas.
+Ministérios da Agricultura, Florestas e Alimentação e do Comércio e Turismo, 31 de Janeiro de 1984. - O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa. - Pelo Ministro do Comércio e Turismo, Carlos Alberto Antunes Filipe, Secretário de Estado do Comércio Interno.
