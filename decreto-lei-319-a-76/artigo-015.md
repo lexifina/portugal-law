@@ -8,7 +8,7 @@
 
 3. Deverá ainda constar do processo de candidatura uma declaração do candidato, ilidível a todo o tempo, da qual conste que não está abrangido pelas inelegibilidades fixadas pelo artigo 5.º e de que aceita a candidatura.
 
-4. Os proponentes deverão fazer prova de inscrição no recenseamento e as suas assinaturas serão notarialmente reconhecidas.
+4 - Os proponentes deverão fazer prova de inscrição no recenseamento, indicando, também, o número, data e entidade emitente do respectivo bilhete de identidade ou passaporte.
 
 5. Para efeitos do disposto no n.º 1, devem entender-se por mais elementos de identificação os seguintes:
 
