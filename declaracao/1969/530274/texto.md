@@ -1,0 +1,5 @@
+Declaração
+Para conhecimento dos serviços se publica o seguinte despacho de S. Ex.ª o Secretário de Estado do Orçamento de 16 de Abril corrente, sobre abono de ajudas de custo:
+Por se ter verificado, na execução das disposições do n.º 3.º do artigo 4.º do Decreto-Lei n.º 33834, de 4 de Agosto de 1944, com a nova redacção dada pelo artigo 3.º do Decreto-Lei n.º 48729, de 4 de Dezembro de 1968, que na fixação das percentagens não foi considerado o caso de haver dormida no dia do início da deslocação, quando esta se prolonga por dias sucessivos e sejam de contar mais de quatro até doze horas, determina, nos termos do artigo 14.º do referido Decreto-Lei n.º 33834, e ouvida a Direcção-Geral da Contabilidade Pública, que a ajuda de custo a abonar, nesta hipótese, seja de 70 por cento do quantitativo fixado para o local da deslocação.
+No dia de regresso não há que considerar a dormida em caso algum.
+Direcção-Geral da Contabilidade Pública, 17 de Abril de 1969. - O Director-Geral, Aureliano Felismino.
