@@ -6,7 +6,7 @@
 
 a) Expondo-a em lugar que a sujeite a uma situação de que ela, só por si, não possa defender-se; ou
 
-b) Abandonando-a sem defesa, em razão de idade, deficiência física ou doença, sempre que ao agente coubesse o dever de a guardar, vigiar ou assistir;
+b) Abandonando-a sem defesa, sempre que ao agente coubesse o dever de a guardar, vigiar ou assistir;
 
 é punido com pena de prisão de 1 a 5 anos.
 

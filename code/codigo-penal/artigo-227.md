@@ -23,3 +23,5 @@ d) Para retardar falência, comprar mercadorias a crédito, com o fim de as vend
 3 - O terceiro que praticar algum dos factos descritos no n.º 1 deste artigo, com o conhecimento do devedor ou em benefício deste, é punido com a pena prevista nos números anteriores, conforme os casos, especialmente atenuada.
 
 4 - O concordatado que não justificar a regular aplicação dada aos valores do activo existentes à data da providência, é punido com a pena prevista no n.º 1.
+
+5 - Sem prejuízo do disposto no artigo 12.º, é punível nos termos dos n.os 1 e 2 deste artigo, no caso de o devedor ser pessoa colectiva, sociedade ou mera associação de facto, quem tiver exercido de facto a respectiva gestão ou direcção efectiva e houver praticado algum dos factos previstos no n.º 1.

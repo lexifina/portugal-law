@@ -6,7 +6,11 @@
 
 a) Por meio de ameaça com a prática de crime punível com pena de prisão superior a 3 anos; ou
 
-b) Por funcionário com grave abuso de autoridade;
+b) Contra pessoa particularmente indefesa, em razão de idade, deficiência, doença ou gravidez;
+
+c) Contra uma das pessoas referidas na alínea j) do n.º 2 do artigo 132.º, no exercício das suas funções ou por causa delas;
+
+d) Por funcionário com grave abuso de autoridade;
 
 o agente é punido com pena de prisão de 1 a 5 anos.
 

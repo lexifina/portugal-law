@@ -6,9 +6,11 @@
 
 a) Com a constituição de arguido;
 
-b) Com a notificação da acusação ou, não tendo esta sido deduzida, com a notificação da decisão instrutória que pronunciar o arguido ou com a notificação para a audiência em processo sumaríssimo; ou
+b) Com a notificação da acusação ou, não tendo esta sido deduzida, com a notificação da decisão instrutória que pronunciar o arguido ou com a notificação do requerimento para aplicação da sanção em processo sumaríssimo;
 
 c) Com a declaração de contumácia.
+
+d) Com a notificação do despacho que designa dia para audiência na ausência do arguido.
 
 2 - Depois de cada interrupção começa a correr novo prazo de prescrição.
 

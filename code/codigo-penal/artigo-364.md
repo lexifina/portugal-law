@@ -2,7 +2,7 @@
 
 ### Atenuação especial e dispensa da pena
 
-As penas previstas nos artigos 359.º, 360.º e 361.º são especialmente atenuadas, podendo ter lugar a dispensa de pena, quando:
+As penas previstas nos artigos 359.º, 360.º e 363.º são especialmente atenuadas, podendo ter lugar a dispensa de pena quando:
 
 a) A falsidade disser respeito a circunstâncias que não tenham significado essencial para a prova a que o depoimento, relatório, informação ou tradução se destinar; ou
 
