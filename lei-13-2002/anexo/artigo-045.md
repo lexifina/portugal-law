@@ -6,7 +6,7 @@
 
 ### Sede, área de jurisdição e instalação
 
-1 - A lei determina os locais onde têm sede os tribunais tributários, bem como a área da respectiva jurisdição.
+1 - A sede dos tribunais tributários e as respectivas áreas de jurisdição são determinadas por decreto-lei.
 
 2 - O número de juízes em cada tribunal tributário é fixado por portaria do Ministro da Justiça.
 

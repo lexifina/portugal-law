@@ -6,7 +6,7 @@
 
 ### Competência da Secção de Contencioso Administrativo
 
-Compete à Secção de Contencioso Administrativo do Tribunal Central Administrativo conhecer:
+Compete à Secção de Contencioso Administrativo de cada tribunal central administrativo conhecer:
 
 a) Dos recursos das decisões dos tribunais administrativos de círculo para os quais não seja competente o Supremo Tribunal Administrativo, segundo o disposto na lei de processo;
 

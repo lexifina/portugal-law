@@ -6,7 +6,7 @@
 
 ### Competência da Secção de Contencioso Tributário
 
-Compete à Secção de Contencioso Tributário do Tribunal Central Administrativo conhecer:
+Compete à Secção de Contencioso Tributário de cada tribunal central administrativo conhecer:
 
 a) Dos recursos de decisões dos tribunais tributários, salvo o disposto na alínea b) do artigo 26.º;
 

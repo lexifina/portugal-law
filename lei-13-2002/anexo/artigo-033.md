@@ -1,10 +1,10 @@
 # Artigo 33.º
 
-### Presidência do Tribunal
+### Presidência dos tribunais centrais administrativos
 
-1 - O Tribunal Central Administrativo tem um presidente, coadjuvado por dois vice-presidentes, um por cada secção.
+1 - Cada tribunal central administrativo tem um presidente, coadjuvado por dois vice-presidentes, um por cada secção.
 
-2 - Salvo se não existirem juízes com essa categoria, o presidente do Tribunal Central Administrativo é eleito de entre os juízes com a categoria de conselheiro que exerçam funções no Tribunal
+2 - Salvo se não existirem juízes com essa categoria, os presidentes dos tribunais centrais administrativos são eleitos de entre os juízes com a categoria de conselheiro que exerçam funções no tribunal.
 
 3 - À eleição do Presidente e dos vice-presidentes são aplicáveis, com as necessárias adaptações, as disposições estabelecidas para idênticos cargos no Supremo Tribunal Administrativo.
 

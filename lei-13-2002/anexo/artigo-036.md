@@ -1,8 +1,8 @@
 # Artigo 36.º
 
-### Competência do Presidente
+### Competência dos presidentes dos tribunais centrais administrativos
 
-1 - Compete ao Presidente do Tribunal Central Administrativo:
+1 - Compete ao presidente de cada tribunal central administrativo:
 
 a) Representar o Tribunal e assegurar as relações deste com os demais órgãos de soberania e quaisquer autoridades;
 

@@ -4,7 +4,7 @@
 
 1 - O Presidente, os vice-presidentes e os juízes do Supremo Tribunal Administrativo têm as honras, precedências, categorias, direitos, vencimentos e abonos que competem, respectivamente, ao Presidente, aos vice-presidentes e aos juízes do Supremo Tribunal de Justiça.
 
-2 - O Presidente, os vice-presidentes e os juízes do Tribunal Central Administrativo têm as honras, precedências, categorias, direitos, vencimentos e abonos que competem, respectivamente, aos presidentes, aos vice-presidentes e aos juízes dos tribunais de relação.
+2 - Os presidentes, os vice-presidentes e os juízes dos tribunais centrais administrativos têm as honras, precedências, categorias, direitos, vencimentos e abonos que competem, respectivamente, aos presidentes, aos vice-presidentes e aos juízes dos tribunais da Relação.
 
 3 - Os juízes dos tribunais administrativos de círculo e dos tribunais tributários têm as honras, precedências, categorias, direitos, vencimentos e abonos que competem aos juízes de direito.
 

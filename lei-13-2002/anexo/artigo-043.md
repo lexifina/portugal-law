@@ -6,19 +6,19 @@
 
 2 - Os presidentes dos tribunais administrativos de círculo com mais de três juízes são nomeados de entre juízes com a categoria de conselheiro ou de desembargador e não têm processos distribuídos.
 
-3 - É da competência administrativa do presidente do tribunal administrativo de círculo:
+3 - É da competência do presidente do tribunal administrativo de círculo:
 
 a) Representar o tribunal e assegurar as relações deste com os demais órgãos de soberania e quaisquer autoridades;
 
-b) Dirigir o tribunal, superintender nos seus serviços e assegurar o seu funcionamento normal, emitindo as ordens de serviço que tenha por necessárias;
+b) Dirigir o tribunal, emitindo as ordens de serviço que tenha por necessárias;
 
 c) Propor ao Conselho Superior dos Tribunais Administrativos e Fiscais os critérios que devem presidir à distribuição, no respeito pelo princípio do juiz natural;
 
-d) Determinar os casos em que, para uniformização de jurisprudência, devem intervir no julgamento todos os juízes do tribunal;
+d) Determinar os casos em que, para uniformização de jurisprudência, devem intervir no julgamento todos os juízes do tribunal, presidindo às respectivas sessões e votando as decisões em caso de empate;
 
 e) Assegurar o andamento dos processos no respeito pelos prazos estabelecidos, podendo determinar a substituição provisória do relator, por redistribuição, em caso de impedimento prolongado;
 
-f) Planear e organizar os recursos humanos do tribunal, assegurando uma equitativa distribuição de processos pelos juízes e o acompanhamento do seu trabalho;
+f) Planear e organizar o quadro de juízes do tribunal, assegurando uma equitativa distribuição de processos pelos juízes, o acompanhamento do seu trabalho e a realização de reuniões periódicas, apresentando ao Conselho Superior dos Tribunais Administrativos e Fiscais relatórios sobre as mesmas;
 
 g) Solicitar o suprimento de necessidades de resposta adicional através do recurso à bolsa de juízes;
 

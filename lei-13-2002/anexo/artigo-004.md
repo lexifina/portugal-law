@@ -14,9 +14,9 @@ d) Fiscalização da legalidade das normas e demais actos jurídicos praticados 
 
 e) Questões relativas à validade de actos pré-contratuais e à interpretação, validade e execução de contratos a respeito dos quais haja lei específica que os submeta, ou que admita que sejam submetidos, a um procedimento pré-contratual regulado por normas de direito público;
 
-f) Questões relativas à interpretação, validade e execução de contratos de objecto passível de acto administrativo, de contratos especificamente a respeito dos quais existam normas de direito público que regulem aspectos do respectivo regime substantivo, ou de contratos que as partes tenham expressamente submetido a um regime substantivo de direito público;
+f) Questões relativas à interpretação, validade e execução de contratos de objecto passível de acto administrativo, de contratos especificamente a respeito dos quais existam normas de direito público que regulem aspectos específicos do respectivo regime substantivo, ou de contratos em que pelo menos uma das partes seja uma entidade pública ou um concessionário que actue no âmbito da concessão e que as partes tenham expressamente submetido a um regime substantivo de direito público;
 
-g) Responsabilidade civil extracontratual das pessoas colectivas de direito público, incluindo por danos resultantes do exercício da função política e legislativa, nos termos da lei, bem como a resultante do funcionamento da administração da justiça;
+g) Questões em que, nos termos da lei, haja lugar a responsabilidade civil extracontratual das pessoas colectivas de direito público, incluindo a resultante do exercício da função jurisdicional e da função legislativa;
 
 h) Responsabilidade civil extracontratual dos titulares de órgãos, funcionários, agentes e demais servidores públicos;
 
@@ -24,7 +24,7 @@ i) Responsabilidade civil extracontratual dos sujeitos privados, aos quais seja 
 
 j) Relações jurídicas entre pessoas colectivas de direito público ou entre órgãos públicos, no âmbito dos interesses que lhes cumpre prosseguir;
 
-l) Promoção da prevenção, da cessação ou da perseguição judicial de infracções cometidas por entidades públicas contra valores e bens constitucionalmente protegidos como a saúde pública, o ambiente, o urbanismo, o ordenamento do território, a qualidade de vida, o património cultural e os bens do Estado, das Regiões Autónomas e das autarquias locais;
+l) Promover a prevenção, cessação e reparação de violações a valores e bens constitucionalmente protegidos, em matéria de saúde pública, ambiente, urbanismo, ordenamento do território, qualidade de vida, património cultural e bens do Estado, quando cometidas por entidades públicas, e desde que não constituam ilícito penal ou contra-ordenacional;
 
 m) Contencioso eleitoral relativo a órgãos de pessoas colectivas de direito público para que não seja competente outro tribunal;
 

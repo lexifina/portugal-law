@@ -6,7 +6,7 @@
 
 ### Provimento
 
-O provimento de vagas no Tribunal Central Administrativo é feito:
+O provimento de vagas nos tribunais centrais administrativos é feito:
 
 a) Por transferência de juízes de outra secção do Tribunal;
 

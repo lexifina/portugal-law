@@ -6,11 +6,11 @@
 
 2 - Os presidentes dos tribunais tributários com mais de três juízes são nomeados de entre juízes com a categoria de conselheiro ou de desembargador e não têm processos distribuídos.
 
-3 - É da competência administrativa do presidente do tribunal tributário:
+3 - É da competência do presidente do tribunal tributário:
 
 a) Representar o tribunal e assegurar as suas relações com os demais órgãos de soberania e quaisquer autoridades;
 
-b) Dirigir o tribunal, superintender nos seus serviços e assegurar o seu funcionamento normal, emitindo as ordens de serviço que tenha por necessárias;
+b) Dirigir o tribunal, emitindo as ordens de serviço que tenha por necessárias;
 
 c) Assegurar o andamento dos processos no respeito pelos prazos estabelecidos, podendo determinar a substituição provisória do relator, por redistribuição, em caso de impedimento prolongado;
 
@@ -18,7 +18,7 @@ d) Planear e organizar os recursos humanos do tribunal, assegurando uma equitati
 
 e) Solicitar o suprimento de necessidades de resposta adicional através do recurso à bolsa de juízes;
 
-f) Estabelecer a forma mais equitativa de intervenção dos juízes-adjuntos;
+f) Planear e organizar o quadro de juízes do tribunal, assegurando uma equitativa distribuição de processos pelos juízes, o acompanhamento do seu trabalho e a realização de reuniões periódicas, apresentando ao Conselho Superior dos Tribunais Administrativos e Fiscais relatórios sobre as mesmas;
 
 g) Providenciar pela redistribuição equitativa dos processos no caso de alteração do número de juízes;
 

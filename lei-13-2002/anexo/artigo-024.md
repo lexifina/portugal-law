@@ -36,12 +36,12 @@ d) Dos pedidos relativos à execução das suas decisões;
 
 e) Dos pedidos cumulados nos processos referidos na alínea a);
 
-f) Das acções de regresso, fundadas em responsabilidade por danos resultantes do exercício das suas funções, propostas contra juízes do Supremo Tribunal Administrativo e do Tribunal Central Administrativo e magistrados do Ministério Público que exerçam funções junto destes tribunais, ou equiparados;
+f) Das acções de regresso, fundadas em responsabilidade por danos resultantes do exercício das suas funções, propostas contra juízes do Supremo Tribunal Administrativo e dos tribunais centrais administrativos e magistrados do Ministério Público que exerçam funções junto destes tribunais, ou equiparados;
 
-g) Dos recursos dos acórdãos que ao Tribunal Central Administrativo caiba proferir em primeiro grau de jurisdição;
+g) Dos recursos dos acórdãos que aos tribunais centrais administrativos caiba proferir em primeiro grau de jurisdição;
 
 h) Dos conflitos de competência entre tribunais administrativos;
 
 i) De outros processos cuja apreciação lhe seja deferida por lei.
 
-2 - Compete ainda à Secção de Contencioso Administrativo do Supremo Tribunal Administrativo conhecer dos recursos de revista sobre matéria de direito interpostos de acórdãos da Secção de Contencioso Administrativo do Tribunal Central Administrativo e de decisões dos tribunais administrativos de círculo, segundo o disposto na lei de processo.
+2 - Compete ainda à Secção de Contencioso Administrativo do Supremo Tribunal Administrativo conhecer dos recursos de revista sobre matéria de direito interpostos de acórdãos da Secção de Contencioso Administrativo dos tribunais centrais administrativos e de decisões dos tribunais administrativos de círculo, segundo o disposto na lei de processo.

@@ -1,6 +1,6 @@
 ## Capítulo IV
 
-## Tribunal Central Administrativo
+## Tribunais centrais administrativos
 
 ## Secção I
 
@@ -8,8 +8,12 @@
 
 # Artigo 31.º
 
-### Sede, jurisdição e poderes de cognição
+### Sede e poderes de cognição
 
-1 - O Tribunal Central Administrativo tem sede em Lisboa e jurisdição em todo o território nacional.
+1 - São tribunais centrais administrativos o Tribunal Central Administrativo Sul, com sede em Lisboa, e o Tribunal Central Administrativo Norte, com sede no Porto.
 
-2 - O Tribunal Central Administrativo conhece de matéria de facto e de direito.
+2 - As áreas de jurisdição dos tribunais centrais administrativos são determinadas por decreto-lei.
+
+3 - Os tribunais centrais administrativos conhecem de matéria de facto e de direito.
+
+4 - Os tribunais centrais administrativos são declarados instalados por portaria do Ministro da Justiça, que fixa os respectivos quadros.

@@ -24,7 +24,7 @@ i) Votar as decisões, em caso de empate;
 
 j) Assegurar o andamento dos processos no respeito pelos prazos estabelecidos, podendo determinar a substituição provisória do relator, por redistribuição, em caso de impedimento prolongado;
 
-l) Dar posse aos juízes do Supremo Tribunal Administrativo e ao presidente do Tribunal Central Administrativo;
+l) Dar posse aos juízes do Supremo Tribunal Administrativo e aos presidentes dos tribunais centrais administrativos;
 
 m) Solicitar o suprimento de necessidades de resposta adicional através do recurso à bolsa de juízes;
 

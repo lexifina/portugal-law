@@ -14,7 +14,7 @@ a) Nomear, colocar, transferir, promover, exonerar e apreciar o mérito profissi
 
 b) Apreciar, admitir, excluir e graduar os candidatos em concurso;
 
-c) Conhecer das impugnações administrativas interpostas de decisões materialmente administrativas proferidas, em matéria disciplinar, pelo Presidente do Tribunal Central Administrativo, pelos presidentes dos tribunais administrativos de círculo e pelos presidentes dos tribunais tributários, bem como de outras que a lei preveja;
+c) Conhecer das impugnações administrativas interpostas de decisões materialmente administrativas proferidas, em matéria disciplinar, pelos presidentes dos tribunais centrais administrativos, pelos presidentes dos tribunais administrativos de círculo e pelos presidentes dos tribunais tributários, bem como de outras que a lei preveja;
 
 d) Ordenar averiguações, inquéritos, sindicâncias e inspecções aos serviços dos tribunais da jurisdição administrativa e fiscal;
 
@@ -44,6 +44,6 @@ p) Exercer os demais poderes conferidos no presente Estatuto e na lei.
 
 a) Praticar actos de gestão corrente e aprovar inspecções;
 
-b) Nomear os juízes para uma das secções do Supremo Tribunal Administrativo e do Tribunal Central Administrativo;
+b) Nomear os juízes para uma das secções do Supremo Tribunal Administrativo e dos tribunais centrais administrativos;
 
 c) Ordenar inspecções extraordinárias, averiguações, inquéritos e sindicâncias.

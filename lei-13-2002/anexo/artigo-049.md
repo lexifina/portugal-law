@@ -4,7 +4,7 @@
 
 1 - Compete aos tribunais tributários conhecer:
 
-a) Dos seguintes recursos contenciosos de anulação:
+a) Das acções de impugnação:
 
 i) Dos actos de liquidação de receitas fiscais estaduais, regionais ou locais, e parafiscais, incluindo o indeferimento total ou parcial de reclamações desses actos;
 
@@ -12,7 +12,7 @@ ii) Dos actos de fixação dos valores patrimoniais e dos actos de determinaçã
 
 iii) Dos actos praticados pela entidade competente nos processos de execução fiscal;
 
-iv) Dos actos administrativos respeitantes a questões fiscais que não sejam da competência do Supremo Tribunal Administrativo ou do Tribunal Central Administrativo;
+iv) Dos actos administrativos respeitantes a questões fiscais que não sejam atribuídos à competência de outros tribunais;
 
 b) Da impugnação de decisões de aplicação de coimas e sanções acessórias em matéria fiscal;
 
@@ -28,7 +28,7 @@ ii) De produção antecipada de prova, formulados em processo neles pendente ou 
 
 iii) De providências cautelares para garantia de créditos fiscais;
 
-iv) De providências cautelares relativas aos actos administrativos recorridos ou recorríveis e às normas referidas na subalínea i) desta alínea;
+iv) De providências cautelares relativas aos actos administrativos impugnados ou impugnáveis e às normas referidas na subalínea i) desta alínea;
 
 v) De execução das suas decisões;
 
@@ -38,4 +38,6 @@ informações;
 
 f) Das demais matérias que lhes sejam deferidas por lei.
 
-2 - Compete ainda aos tribunais tributários cumprir os mandados emitidos pelo Supremo Tribunal Administrativo ou pelo Tribunal Central Administrativo e satisfazer as diligências pedidas por carta, ofício ou outros meios de comunicação que lhes sejam dirigidos por outros tribunais tributários.
+2 - Compete ainda aos tribunais tributários cumprir os mandatos emitidos pelo Supremo Tribunal Administrativo ou pelos tribunais centrais administrativos e satisfazer as diligências pedidas por carta, ofício ou outros meios de comunicação que lhe sejam dirigidos por outros tribunais tributários.
+
+3 - Sem prejuízo das competências próprias dos órgãos da administração tributária, nas execuções que sejam da competência dos tribunais tributários, as funções de agente de execução são desempenhadas por oficial de justiça.

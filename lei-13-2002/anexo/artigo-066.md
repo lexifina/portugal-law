@@ -4,7 +4,7 @@
 
 1 - Ao concurso para juiz do Supremo Tribunal Administrativo podem candidatar-se:
 
-a) Juízes do Tribunal Central Administrativo com cinco anos de serviço nesse Tribunal;
+a) Juízes dos tribunais centrais administrativos com cinco anos de serviço nesses tribunais;
 
 b) Juízes dos tribunais de relação que tenham exercido funções na jurisdição administrativa e fiscal durante cinco anos;
 

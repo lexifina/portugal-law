@@ -4,8 +4,8 @@
 
 1 - Os tribunais administrativos de círculo e os tribunais tributários podem ser desdobrados em juízos e estes podem funcionar, em local diferente da sede, dentro da respectiva área de jurisdição.
 
-2 - Quando o seu diminuto movimento o justifique, os tribunais administrativos de círculo e os tribunais tributários podem ser agregados.
+2 - O desdobramento previsto no número anterior é determinado por portaria do Ministro da Justiça, sob proposta do Conselho Superior dos Tribunais Administrativos e Fiscais.
 
-3 - O desdobramento e a agregação de tribunais previstos neste artigo são determinados por portaria do Ministro da Justiça, sob proposta do Conselho Superior dos Tribunais Administrativos e Fiscais.
+3 - Sempre que tal seja determinado por portaria do Ministro da Justiça, os tribunais administrativos de círculo e os tribunais tributários funcionam agregados, assumindo, cada um deles, a designação de tribunal administrativo e fiscal.
 
-4 - Mediante decreto-lei, o Tribunal Central Administrativo pode ser desdobrado em tribunais administrativos regionais e podem ser criados tribunais administrativos especializados e secções especializadas nos tribunais superiores.
+4 - Mediante decreto-lei podem ser criados tribunais administrativos especializados, bem como secções especializadas nos tribunais superiores.
