@@ -1,0 +1,6 @@
+Despacho Normativo n.º 18/82
+Ao abrigo do disposto no artigo 18.º do Decreto-Lei n.º 339/80, de 30 de Agosto, conjugado com o Decreto-Lei n.º 290/81, de 14 de Outubro, determina-se que:
+1 - Para efeitos do disposto no artigo 13.º do referido diploma, as garrafas de vidro são consideradas como material contundente, constituindo portanto contravenção a sua introdução ou venda nos recintos desportivos.
+2 - Consideram-se como não fazendo parte dos recintos desportivos as áreas para as quais o acesso se processa sem apresentação do bilhete de ingresso.
+3 - Os autos de notícia das contravenções previstas no Decreto-Lei n.º 339/80, de 30 de Agosto, aguardarão, de acordo com o disposto no artigo 167.º do Código de Processo Penal, 10 dias na Direcção-Geral dos Desportos pelo pagamento voluntário, após o que deverá aquela entidade enviar os referidos autos de notícia ao delegado do Ministério Público do tribunal da comarca onde a contravenção se verificou, seguindo-se os demais termos do Código de Processo Penal.
+Gabinete do Secretário de Estado Adjunto do Ministro de Estado e da Qualidade de Vida, 28 de Janeiro de 1982. - O Secretário de Estado Adjunto do Ministro de Estado e da Qualidade de Vida, João Carlos Vaz Serra de Moura.
