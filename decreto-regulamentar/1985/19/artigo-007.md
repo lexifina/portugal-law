@@ -6,4 +6,4 @@
 
 2 - O pagamento das contribuições pode ser efectuado nas casas do povo em que tenha havido delegação de competências.
 
-3 - Qualquer que seja o local de pagamento, as contribuições de montante igual ou superior a 5000$00 podem ser pagas em numerário.
+3 - Qualquer que seja o local de pagamento, as contribuições de montante igual ou inferior a 5000$00 podem ser pagas em numerário.
