@@ -1,0 +1,8 @@
+Portaria n.º 402/2002
+de 18 de Abril
+A Portaria n.º 27/2001, de 15 de Janeiro, estabeleceu tamanhos mínimos de desembarque para várias espécies de organismos marinhos, reproduzindo os tamanhos mínimos fixados na legislação comunitária sobre esta matéria, no Regulamento (CE) n.º 850/98, do Conselho, de 30 de Março.
+Considerando que este Regulamento foi entretanto alterado pelo Regulamento (CE) n.º 724/2001, de 4 de Abril, que fixou outros tamanhos mínimos para algumas espécies e alterou o método de medição das lagostas, é conveniente transpor essa norma para a legislação nacional;
+Considerando ainda a conveniência de ajustar o tamanho mínimo fixado para a corvina legítima, que transpôs o tamanho mínimo anteriormente existente apenas no rio Tejo, permitindo uma melhor adequação ao perfil da pescaria em águas oceânicas:
+Ao abrigo do disposto nos artigos 4.º, n.º 2, alínea i), do Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro, e no artigo 48.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que seja alterado o anexo à Portaria n.º 27/2001, de 15 de Janeiro, no que se refere aos tamanhos mínimos ali definidos para a solha avessa (Pleuronectes platessa), que passa de 220 mm para 270 mm, a corvina legítima (Argyrosomus regius), que passa de 600 mm para 420 mm, e a lagosta (Palinurus spp.), que passa a ser de 95 mm.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, José Apolinário Nunes Portada, Secretário de Estado das Pescas, em 11 de Março de 2002.
