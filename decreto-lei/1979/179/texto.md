@@ -1,0 +1,40 @@
+Decreto-Lei n.º 179/79
+de 8 de Junho
+O Decreto-Lei n.º 683-B/76, de 10 de Setembro, estabeleceu os princípios gerais da política de integração dos desalojados das ex-colónias, salientando que a mesma deverá ser concertada com a perspectiva conjuntural da política económica e social do País.
+O Comissariado para os Desalojados tem vindo a demonstrar que as acções por si desenvolvidas podem, com vantagem, ser sucessiva e harmonicamente integradas nos esquemas e estruturas normais, diminuindo progressivamente o conteúdo da sua actuação específica.
+O Decreto-Lei n.º 259/77, de 21 de Junho, iniciou a política assim definida, instituindo o regime de protecção social para desalojados, cuja execução ficou, desde logo, a competir às Secretarias de Estado da População e Emprego, da Saúde e da Segurança Social.
+O recente Decreto-Lei n.º 401/78, de 15 de Dezembro, veio promover a integração na segurança social de determinadas prestações sociais que se encontravam a cargo do Comissariado.
+A inserção dos desalojados tem vindo, assim, a ser conseguida através de acções diversificadas, destacando-se, como mais significativa, a que se tem desenvolvido no âmbito dos programas de crédito do Comissariado, geridos pela Comissão Interministerial de Financiamento a Retornados (Cifre).
+Criados cerca de 55000 postos de trabalho, processados financiamentos no montante global de 12 milhões de contos e estando já definidos, por força do disposto no despacho conjunto dos Ministros das Finanças e do Plano e da Administração Interna de 4 de Janeiro próximo passado, os projectos a financiar em 1979, os quais permitirão atingir, em princípio, os objectivos previamente fixados, torna-se conveniente e oportuno proceder à transferência da estrutura ao serviço desses programas de crédito.
+Esta estrutura é integrada no Ministério das Finanças e do Plano com as necessárias adaptações, considerando-se que para manter com solidez a sua operacionalidade e para definir com clareza as responsabilidades de cada um dos órgãos intervenientes se impõe a sua consolidação num departamento próprio, que se designa por Direcção do Crédito Cifre.
+A actual dimensão do quadro de pessoal foi possibilitada pelo recurso intensivo à informática para o contrôle das operações de crédito, e inclusivamente para obtenção de dados estatísticos e contabilísticos, e também pelo decisivo apoio da banca na análise dos projectos e na gestão dos créditos concedidos.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º É criada na Secretaria de Estado das Finanças e na directa dependência do Secretário de Estado a Direcção do Crédito Cifre, adiante designada por Direcção.
+Art. 2.º São atribuições da Direcção, fundamentalmente, as seguintes:
+a) Elaborar os estudos necessários ao planeamento e contrôle das operações de crédito;
+b) Efectuar a gestão dos fundos de financiamento;
+c) Estabelecer com outras entidades, designadamente com as instituições bancárias, as ligações necessárias à prossecução dos programas de crédito;
+d) Acompanhar, conjugadamente com as instituições bancárias, a evolução dos empreendimentos financiados;
+e) Adoptar todas as medidas que considerar adequadas à recuperação dos capitais mutuados.
+Art. 3.º A Direcção terá uma organização flexível, consoante a natureza das missões de que for incumbida.
+Art. 4.º A titularidade dos créditos concedidos e de outros actos praticados na prossecução dos programas de crédito, bem como a dos saldos das contas bancárias exclusivamente afectas aos mesmos, transfere-se para a Secretaria de Estado das Finanças.
+Art. 5.º A competência atribuída por lei ao Alto-Comissário, designadamente a do artigo 4.º do Decreto-Lei n.º 683-B/76, de 10 de Setembro, em matéria respeitante aos programas de crédito é transferida para o Secretário de Estado das Finanças, que a poderá delegar.
+Art. 6.º Os governadores civis e directores de finanças terão competência para outorgar, em nome e representação da Secretaria de Estado das Finanças, contratos de empréstimo decorrentes de processos de financiamento ainda em curso, no âmbito dos programas de crédito.
+Art. 7.º O quadro de pessoal da Direcção é o constante do mapa anexo ao presente diploma.
+Art. 8.º Ao provimento do pessoal da Direcção continuam aplicáveis os artigos 7.º a 14.º e 16.º do Decreto Regulamentar n.º 19/79, de 11 de Maio.
+Art. 9.º O pessoal pertencente ao quadro do Comissariado para os Desalojados e adstrito à Direcção dos Serviços de Crédito será colocado em lugares do quadro da Direcção, mediante lista ou listas nominativas aprovadas pelo Alto-Comissário e pelo Secretário de Estado das Finanças e publicadas no Diário da República, independentemente de outras formalidades e requisitos, salvo o visto do Tribunal de Contas e a posse das habilitações legais, considerando-se o pessoal investido nos respectivos lugares a partir da data da referida publicação.
+Art. 10.º O pessoal que já tiver provimento definitivo na função pública conserva essa situação no quadro da Direcção.
+Art. 11.º - 1 - A Direcção utilizará as instalações actualmente atribuídas à Direcção dos Serviços de Crédito.
+2 - O mobiliário, viaturas, equipamento e outro material existente na Direcção dos Serviços de Crédito são transferidos para a Direcção.
+Art. 12.º As despesas com o pessoal e outros encargos de funcionamento da Direcção serão satisfeitas pelas verbas do orçamento do Comissariado para os Desalojados até final de 1979.
+Art. 13.º As dúvidas e omissões que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano e, conjuntamente, do Secretário de Estado da Administração Pública, quando estiverem em causa matérias da respectiva competência.
+Art. 14.º É extinta a Comissão Interministerial de Financiamento a Retornados (Cifre) e a Direcção dos Serviços de Crédito do Comissariado para os Desalojados.
+Visto e aprovado em Conselho de Ministros em 18 de Abril de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro.
+Promulgado em 28 de Maio de 1979.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Mapa a que se refere o artigo 9.º do presente diploma
+(ver documento original)
+O Primeiro-Ministro, Carlos Alberto da Mota Pinto. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Administração Interna, António Gonçalves Ribeiro.
