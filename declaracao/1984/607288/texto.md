@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério da Administração Interna, o Despacho Normativo n.º 95/84, publicado no Diário da República, 1.ª série, n.º 107, de 9 de Maio de 1984, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No sumário, onde se lê «Atribui subsídios de emergência a alguns municípios a título de comparticipação nas despesas a realizar com o apoio às famílias desalojadas cujas habitações foram totalmente destruídas aquando dos temporais de Novembro de 1983. Revoga o Despacho Normativo n.º 81/84, de 18 de Abril» deve ler-se «Atribui subsídios de emergência a alguns municípios a título de comparticipação nas despesas a realizar com as obras de reconstrução. Revoga o Despacho Normativo n.º 81/84, de 18 de Abril».
+Secretaria-Geral da Presidência do Conselho de Ministros, 14 de Maio de 1984. - O Secretário-Geral, França Martins.
