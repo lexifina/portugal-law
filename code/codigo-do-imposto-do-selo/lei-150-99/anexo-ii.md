@@ -20,7 +20,7 @@
 
 9 - Exploração, pesquisa e prospecção de recursos geológicos integrados no domínio público do Estado - por cada contrato administrativo ... 5000$00
 
-10 - Garantias das obrigações, qualquer que seja a sua natureza ou forma, designadamente o aval, a caução, a garantia bancária autónoma, a fiança, a hipoteca, o penhor e o seguro-caução, salvo quando materialmente acessórias de contratos especialmente tributados na presente Tabela e sejam constituídas simultaneamente com a obrigação garantida, ainda que em instrumento ou título diferente - sobre o respectivo valor, em função do prazo, considerando-se sempre como nova operação a segunda prorrogação ou a prorrogação não automática efectuada após o 30.º dia anterior ao termo do prazo de contrato:
+10 - Garantias das obrigações, qualquer que seja a sua natureza ou forma, designadamente o aval, a caução, a garantia bancária autónoma, a fiança, a hipoteca, o penhor e o seguro-caução, salvo quando materialmente acessórias de contratos especialmente tributados na presente Tabela e sejam constituídas simultaneamente com a obrigação garantida, ainda que em instrumento ou título diferente - sobre o respectivo valor, em função do prazo, considerando-se sempre como nova operação a prorrogação do prazo do contrato:
 
 10.1 - Garantias de prazo inferior a um ano - por cada mês ou fracção ... 0,04%
 
@@ -132,7 +132,7 @@
 
 17 - Operações financeiras:
 
-17.1 - Pela utilização de crédito, sob a forma de fundos, mercadorias e outros valores, em virtude da concessão de crédito a qualquer título, incluindo a cessão de créditos, o factoring e as operações de tesouraria quando envolvam qualquer tipo de financiamento ao cessionário, aderente, ou devedor, considerando-se, sempre, como nova concessão de crédito a segunda prorrogação do prazo do contrato ou a prorrogação não automática do seu prazo efectuada após o 30.º dia anterior ao termo do seu prazo - sobre o respectivo valor, em função do prazo:
+17.1 - Pela utilização de crédito, sob a forma de fundos, mercadorias e outros valores, em virtude da concessão de crédito a qualquer título, incluindo a cessão de créditos, o factoring, e as operações de tesouraria quando envolvam qualquer tipo de financiamento ao cessionário, aderente, ou devedor, considerando-se, sempre, como nova concessão de crédito a prorrogação do prazo do contrato - sobre o respectivo valor, em função do prazo:
 
 17.1.1 - Crédito de prazo inferior a um ano - por cada mês ou fracção ... 0,04%
 
@@ -178,7 +178,7 @@
 
 22.1.5 - Seguros de quaisquer outros ramos ... 9%
 
-22.2 - Comissões cobradas pela actividade de mediação - sobre o respectivo valor ... 2%
+22.2 - Comissões cobradas pela actividade de mediação - sobre o respectivo valor líquido de imposto do selo - 2%.
 
 23 - Títulos de crédito:
 
