@@ -1,0 +1,686 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "26",
+    "id": "19226",
+    "titulo": "Altera a Lei n.º 91/97, de 1 de Agosto, que define as bases gerais a que obedece o estabelecimento, gestão e exploração de redes de telecomunicações e a prestação de serviços de telecomunicações"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2002-10-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2273",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2002-10-02",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-10-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E. DO ORÇAMENTO",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Norberto Rosa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142248",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1757-1760"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-03",
+                "pubLeg": "IX",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/043/2002-10-03/1757?pgs=1757-1760&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 91/97, de 1 de Agosto, que define as bases gerais a que obedece o estabelecimento, gestão e exploração de redes de telecomunicações e a prestação de serviços de telecomunicações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142249",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1758-1758"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-03",
+                "pubLeg": "IX",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/043/2002-10-03/1758?pgs=1758&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 91/97, de 1 de Agosto, que define as bases gerais a que obedece o estabelecimento, gestão e exploração de redes de telecomunicações e a prestação de serviços de telecomunicações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1943",
+                "nome": "Ramos Preto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142250",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1758-1758"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-03",
+                "pubLeg": "IX",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/043/2002-10-03/1758?pgs=1758&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 91/97, de 1 de Agosto, que define as bases gerais a que obedece o estabelecimento, gestão e exploração de redes de telecomunicações e a prestação de serviços de telecomunicações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142251",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1758-1759",
+                  "1768-1768"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-03",
+                "pubLeg": "IX",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/043/2002-10-03/1758?pgs=1758-1759,1768&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 91/97, de 1 de Agosto, que define as bases gerais a que obedece o estabelecimento, gestão e exploração de redes de telecomunicações e a prestação de serviços de telecomunicações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1958",
+                "nome": "Pinho Cardão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142252",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1760-1763"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-03",
+                "pubLeg": "IX",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/043/2002-10-03/1760?pgs=1760-1763&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 91/97, de 1 de Agosto, que define as bases gerais a que obedece o estabelecimento, gestão e exploração de redes de telecomunicações e a prestação de serviços de telecomunicações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2007",
+                "nome": "Bessa Guerra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142253",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1762-1762"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-03",
+                "pubLeg": "IX",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/043/2002-10-03/1762?pgs=1762&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 91/97, de 1 de Agosto, que define as bases gerais a que obedece o estabelecimento, gestão e exploração de redes de telecomunicações e a prestação de serviços de telecomunicações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142254",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1763-1764",
+                  "1771-1772"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-03",
+                "pubLeg": "IX",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/043/2002-10-03/1763?pgs=1763-1764,1771-1772&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 91/97, de 1 de Agosto, que define as bases gerais a que obedece o estabelecimento, gestão e exploração de redes de telecomunicações e a prestação de serviços de telecomunicações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1943",
+                "nome": "Ramos Preto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142255",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1764-1765"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-03",
+                "pubLeg": "IX",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/043/2002-10-03/1764?pgs=1764-1765&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 91/97, de 1 de Agosto, que define as bases gerais a que obedece o estabelecimento, gestão e exploração de redes de telecomunicações e a prestação de serviços de telecomunicações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142256",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1766-1766"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-03",
+                "pubLeg": "IX",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/043/2002-10-03/1766?pgs=1766&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 91/97, de 1 de Agosto, que define as bases gerais a que obedece o estabelecimento, gestão e exploração de redes de telecomunicações e a prestação de serviços de telecomunicações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Marques Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142257",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1766-1769",
+                  "1772-1772"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-03",
+                "pubLeg": "IX",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/043/2002-10-03/1766?pgs=1766-1769,1772&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 91/97, de 1 de Agosto, que define as bases gerais a que obedece o estabelecimento, gestão e exploração de redes de telecomunicações e a prestação de serviços de telecomunicações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1676",
+                "nome": "Elisa Guimarães Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142258",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1768-1769"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-03",
+                "pubLeg": "IX",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/043/2002-10-03/1768?pgs=1768-1769&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 91/97, de 1 de Agosto, que define as bases gerais a que obedece o estabelecimento, gestão e exploração de redes de telecomunicações e a prestação de serviços de telecomunicações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1676",
+                "nome": "Elisa Guimarães Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142259",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1770-1770"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-03",
+                "pubLeg": "IX",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/043/2002-10-03/1770?pgs=1770&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 91/97, de 1 de Agosto, que define as bases gerais a que obedece o estabelecimento, gestão e exploração de redes de telecomunicações e a prestação de serviços de telecomunicações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Marques Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142260",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1770-1771"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-03",
+                "pubLeg": "IX",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/043/2002-10-03/1770?pgs=1770-1771&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 91/97, de 1 de Agosto, que define as bases gerais a que obedece o estabelecimento, gestão e exploração de redes de telecomunicações e a prestação de serviços de telecomunicações",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "153464",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2273",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-10-03",
+        "pubLeg": "IX",
+        "pubNr": "43",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/043/2002-10-03?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
