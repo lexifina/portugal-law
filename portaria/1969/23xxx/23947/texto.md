@@ -1,0 +1,7 @@
+Portaria n.º 23947
+Considerando o que foi proposto pelo Governo-Geral da província de Moçambique no sentido de ser reforçada uma dotação do programa de financiamento do III Plano de Fomento para o ano de 1968, a fim de possibilitar a concessão de um subsídio à Caixa de Crédito Agrícola daquela província, para constituição do seu fundo inicial;
+Tendo em vista a autorização concedida pelo Conselho de Ministros para os Assuntos Económicos em 6 do corrente mês:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos dos artigos 11.º, alínea h), 13.º e 16.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com o disposto no artigo 5.º do Decreto n.º 40712, de 1 de Agosto de 1956, que o Governo-Geral da província de Moçambique, tomando como contrapartida igual quantia a sair do imposto das sobrevalorizações, abra um crédito especial de 5000000$00, destinado a reforçar a verba do capítulo 12.º, artigo 2781.º, n.º 1), alínea c) «Despesa extraordinária - III Plano de Fomento - Programa de execução de 1968 - Agricultura, silvicultura e pecuária - Crédito agrícola», da tabela de despesa extraordinária do orçamento geral da província para o ano económico de 1968.
+Ministério do Ultramar, 1 de Março de 1969. - Pelo Ministro do Ultramar, Rui Manuel de Medeiros d'Espinay Patrício, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial de Moçambique. - Rui Patrício.
