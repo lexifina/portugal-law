@@ -1,0 +1,113 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "34",
+    "id": "6319",
+    "titulo": "Regulamentação das medicinas não convencionais"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2000-06-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5941",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2000-06-01",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-06-01",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1596",
+                "nome": "Nuno Freitas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27614",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2898-2898"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "73",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/073/2000-06-02/2898?pgs=2898&org=PLC"
+              }
+            ],
+            "sumario": "REGULAMENTACAO DAS MEDICINAS NAO CONVENCIONAIS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "250068",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5941",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-06-02",
+        "pubLeg": "VIII",
+        "pubNr": "73",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/073/2000-06-02?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
