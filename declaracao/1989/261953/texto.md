@@ -1,0 +1,82 @@
+Declaração
+Segundo comunicação do Ministério das Obras Públicas, Transportes e Comunicações, a Portaria n.º 1110-L/89, publicada no Diário da República, 1.ª série, n.º 297 (suplemento), de 28 de Dezembro de 1989, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com várias inexactidões, pelo que se procede à sua publicação integral:
+MINISTÉRIO DAS OBRAS PÚBLICAS, TRANSPORTES E COMUNICAÇÕES
+Portaria n.º 1110-L/89
+de 28 de Dezembro
+A revisão dos preços dos serviços públicos deve enquadrar-se no âmbito da política de rendimentos e de preços adoptada pelo Governo e que, entre outros objectivos, visa diminuir o ritmo da inflação em Portugal.
+Nos termos do artigo 1.º do Decreto-Lei n.º 8/87, de 6 de Janeiro:
+Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, o seguinte:
+1.º Os artigos 57.º, 62.º, 64.º, 66.º e 83.º do Regulamento de Tarifas das Juntas Autónomas dos Portos, aprovado pelo Decreto-Lei n.º 291/79, de 16 de Agosto, com as alterações introduzidas pelas Portarias n.os 797/82, 925-F/87 e 805-I/88, de 21 de Agosto e de 4 e 15 de Dezembro, respectivamente, passam a ter a seguinte redacção:
+Artigo 57.º
+Taxas
+1 - Todas as embarcações que entrem ou estacionem nas águas dos portos sob jurisdição das administrações portuárias estão sujeitas ao pagamento das seguintes taxas de estacionamento, por tonelada de arqueação bruta:
+a) Embarcações de carga:
+Pelo período de 24 horas ... 1$90
+Por iguais períodos sucessivos ... $64
+b) Embarcações de pesca:
+Pelo período de 24 horas ... $53
+Por iguais períodos sucessivos ... $29
+c) Embarcações de passageiros e outras não especificadas:
+Pelo período de 24 horas ... 1$30
+Por iguais períodos sucessivos ... $53
+d) Embarcações de qualquer tipo aguardando ordens, com tripulação reduzida, amarradas ou fundeadas em local destinado a esse fim (lay-up):
+Por cada mês ... $64
+2 - ...
+Artigo 62.º
+Taxas
+1 - As embarcações que acostem aos cais, pontes-cais, estacadas, duques-de-alba e quaisquer outras instalações na área de jurisdição das administrações portuárias estão sujeitas ao pagamento das seguintes taxas por cada período, indivisível, de 24 horas:
+a) Embarcações de carga:
+t = 0,55 T + 2,2 L
+b) Embarcações de passageiros, de pesca do alto, de pesca longínqua e outras não especificadas:
+t = 0,44 T + 2,2 L
+em que:
+t = valor da taxa em escudos;
+T = tAB, como foi definida no artigo 9.º;
+L = comprimento de fora a fora das embarcações, em metros.
+Artigo 64.º
+Embarcações de pesca local e costeira, de tráfego local e de navegação costeira - Taxas
+1 - As embarcações de pesca local e costeira, de tráfego local e de navegação costeira nacional, nas obras especificamente destinadas à sua actividade e para realização de operações de carga, descarga ou abastecimento, pagarão, por acostagem, a seguinte taxa:
+Por cada 50 tAB ou fracção - 24$00.
+2 - ...
+Artigo 66.º
+Avenças
+1 - Às embarcações de pesca local e costeira, de tráfego local, de navegação costeira nacional e de cabotagem entre ilhas do mesmo arquipélago, de 10 tAB a 500 tAB, podem ser concedidas avenças, a requerimento dos interessados, para acostarem a obras destinadas às suas actividades específicas e para utilização de docas de marés, mediante o pagamento das seguintes taxas:
+a) Até 50 tAB:
+Anual ... 1837$00
+Semestral ... 980$00
+Trimestral ... 550$00
+b) De mais de 50 tAB a 100 tAB:
+Anual ... 3430$00
+Semestral ... 1840$00
+Trimestral ... 1040$00
+c) De mais de 100 tAB a 200 tAB:
+Anual ... 5510$00
+Semestral ... 2940$00
+Trimestral ... 1650$00
+d) Por cada tAB acima de 200 tAB, as taxas da alínea c), acrescidas de:
+Anual ... 18$00
+Semestral ... 10$00
+Trimestral ... 5$50
+2 - As avenças são ajustadas aos anos civis por períodos trimestrais, semestrais ou anuais, indivisíveis.
+3 - As embarcações avençadas não beneficiarão das regalias previstas no artigo 63.º
+4 - Pode ser concedida aos armadores de embarcações de tráfego local e de pesca local e costeira avença para lugar fixo nas protecções marginais mediante a taxa de 1840$00.
+Artigo 83.º
+Taxas
+1 - As taxas de porto a cobrar são as seguintes:
+a) Por cada passageiro, segundo a natureza da viagem:
+De longo curso e cabotagem ... 30$00
+De navegação costeira (só no embarque) ... 24$00
+De tráfego local em excursões e cruzeiros turísticos (só no embarque) ... 24$00
+Entre ilhas do mesmo arquipélago, em embarcações de qualquer classe (só no embarque) ... 3$00
+b) Por cada tonelada, para as mercadorias movimentadas, excepto as de tráfego no interior dos portos e o pescado transaccionado ou avaliado em lotas, conforme o quadro seguinte:
+(ver documento original)
+c) Para as mercadorias movimentadas em embarcações exclusivamente dentro da área de jurisdição de cada administração portuária, sem ultrapassar os limites das obras exteriores do respectivo porto - 6$20/t;
+d) Para o pescado transaccionado ou avaliado nas lotas - 1,5% do seu valor;
+e) Para os contentores vazios que transitam pelas instalações portuárias e nelas não sejam carregados com mercadorias - 24$00;
+f) ...
+2 - ...
+2.º A presente portaria produz efeitos desde 1 de Janeiro de 1990.
+Ministério das Obras Públicas, Transportes e Comunicações.
+Assinada em 28 de Dezembro de 1989.
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
+Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Dezembro de 1989. - O Secretário-Geral, França Martins.
