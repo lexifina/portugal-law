@@ -1,0 +1,37 @@
+Portaria n.º 1005-B/81
+de 23 de Novembro
+Considerando que a Força Aérea tem necessidade de assegurar a operacionalidade dos aviões T-33, T-37, T-38 e C-130H.
+Considerando ainda que o fornecimento de equipamentos de apoio e sobresselentes, a efectuar pelas entidades oficiais norte-americanas, abrange os anos de 1981, 1982, 1983, 1984 e 1985;
+Tendo em vista o disposto no artigo 10.º do Decreto-Lei n.º 211/79, de 12 de Julho:
+Mandam o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, e o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano, o seguinte:
+1.º É autorizada a Direcção do Serviço de Electricidade e Telecomunicações da Força Aérea a celebrar protocolos e adjudicações, por ajuste directo, para a aquisição de equipamentos de apoio e sobresselentes destinados aos aviões T-33, T-37, T-38 e C-130H e de outros sistemas standard ou subsistemas de origem norte-americana.
+2.º Os encargos decorrentes dos protocolos e ajustes directos não poderão em cada ano exceder as seguintes importâncias (dólares):
+1981 - 106318;
+1982 - 69230;
+1983 - 46976;
+1984 - 22253;
+1985 - 2473.
+3.º Para cumprimento do calendário previsto, os pagamentos deverão efectuar-se até às datas a seguir indicadas e não poderão exceder os seguintes quantitativos (dólares):
+1981:
+15 de Dezembro - 106318.
+1982:
+15 de Março - 22253;
+25 de Junho - 19780;
+15 de Setembro - 14835;
+15 de Dezembro - 12362.
+1983:
+15 de Março - 12362;
+15 de Junho - 12362;
+15 de Setembro - 12362;
+15 de Dezembro - 9890.
+1984:
+15 de Março - 9890;
+15 de Junho - 4945;
+15 de Setembro - 4945;
+15 de Dezembro - 2473.
+1985:
+15 de Março - 2473.
+4.º As importâncias fixadas para 1982, 1983, 1984 e 1985 serão acrescidas dos saldos que se apurarem nos anos anteriores.
+5.º Os encargos resultantes da execução do presente diploma serão satisfeitos por verba adequada do orçamento da Defesa Nacional - Departamento da Força Aérea.
+6.º A orçamentação das despesas de cada ano será precedida pela apresentação de programas anuais de execução elaborados de acordo com as normas definidas pelo Ministro de Estado e das Finanças e do Plano, através da Direcção-Geral da Contabilidade Pública.
+Conselho da Revolução e Ministério das Finanças e do Plano, 4 de Agosto de 1981. - O Chefe do Estado-Maior da Força Aérea, interino, J. Brochado de Miranda, general. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias Secretário de Estado do Orçamento.
