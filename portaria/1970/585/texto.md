@@ -1,0 +1,6 @@
+Portaria n.º 585/70
+de 20 de Novembro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § único do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, conjugado com o artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, e artigo 3.º do aludido Decreto n.º 35770 e sua alínea e), com a nova redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir um crédito especial da importância de 5000000$00, destinado a reforçar a verba do capítulo 10.º, artigo 1461.º, n.º 26), 2, alínea a) «Encargos gerais - Diversas despesas - Despesas eventuais - Não especificadas - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Angola para o ano em curso, tomando como contrapartida o excesso de cobrança sobre a previsão da receita da verba do capítulo 3.º, artigo 18.º, n.º 1) «Indústrias em regime tributário especial - Imposto de fabricação e consumo de cerveja - Fabricada na província», do orçamento da receita ordinária para o mesmo ano económico.
+Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Angola. - Sacramento Monteiro.
