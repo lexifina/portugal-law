@@ -1,0 +1,4 @@
+Portaria n.º 250/81
+de 7 de Março
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Energia, nos termos do artigo 12.º do Regulamento de 23 de Março de 1869, e para efeitos do Decreto n.º 30295, de 22 de Fevereiro de 1940, designar a letra A para servir, durante o período que decorre de 1 de Maio do corrente ano a 30 de Abril de 1982, no afilamento de todos os pesos, medidas e mais instrumentos de pesar ou medir, executado em todos os concelhos do País, à excepção do de Lisboa, onde a mesma letra principiará a ser empregada em 1 de Março, data em que no dito concelho tem início a época de aferição, conforme o que está estabelecido no § único do artigo 1 do citado Decreto n.º 30295, de 22 de Fevereiro de 1940.
+Secretaria de Estado da Energia, 20 de Fevereiro de 1981. - O Secretário de Estado da Energia, João Nuno Boulain de Carvalho Carreira.
