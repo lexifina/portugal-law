@@ -1,0 +1,45 @@
+Portaria n.º 16/2004
+de 10 de Janeiro
+O Decreto-Lei n.º 12/2004, de 9 de Janeiro, diploma que estabelece o regime jurídico do acesso e permanência na actividade da construção, determina que a capacidade técnica das empresas em termos de meios humanos é avaliada em função do seu quadro de pessoal, o qual deve integrar um número mínimo de elementos que disponham do conhecimento e da experiência adequados à execução dos trabalhos enquadráveis nas diversas habilitações, tendo em conta a sua natureza e classe.
+De acordo com o n.º 4 do artigo 9.º do mesmo diploma, esse número é fixado por portaria do Ministro das Obras Públicas, Transportes e Habitação.
+Com este diploma procura-se adaptar as exigências em termos de meios humanos à realidade actual do sector da construção, decorrente da fusão dos certificados de classificação de EOP e ICC num alvará único, para todas as empresas de construção, independentemente da natureza pública ou particular do cliente para quem executam as obras.
+A experiência veio a demonstrar que certos níveis de exigência, tanto no plano quantitativo como no qualitativo, se traduziram em dificuldades de cumprimento, em várias situações, e em soluções claramente lesivas da credibilidade que um sistema de qualificação deve possuir, em muitas outras.
+Uma das carências mais sentidas nos últimos anos no sector da construção tem sido a da escassez de quadros intermédios, cada vez mais necessários para que as empresas aumentem a sua produtividade e a qualidade do serviço prestado. Neste aspecto particular, o presente diploma assume que não apenas o sistema formal de ensino, mas também outras vias de certificação do conhecimento, nomeadamente no âmbito do Sistema Nacional de Aprendizagem e do Sistema Nacional de Certificação Profissional, devem ser postos ao serviço da construção, em especial no segmento de obras de valores mais reduzidos, sem que isso signifique, bem pelo contrário, qualquer diminuição da exigência do conhecimento que as empresas devem ter à sua disposição para um bom desempenho.
+Por outro lado, torna-se indispensável prever a inclusão de técnicos da área da segurança e higiene no trabalho nas empresas classificadas para a execução de trabalhos de maior envergadura, contribuindo assim para um maior apetrechamento em meios técnicos com vista à redução da sinistralidade laboral.
+Por fim, fica desde já programada a extinção de relações múltiplas entre os técnicos e as empresas de construção, por se constatar que, em elevado grau, não se traduziu na efectiva colaboração que terá sido pensada pelo legislador.
+Assim, ao abrigo do disposto no n.º 4 do artigo 9.º do Decreto-Lei n.º 12/2004, de 9 de Janeiro:
+Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Habitação, o seguinte:
+1.º - 1 - A presente portaria estabelece condições mínimas que devem ser respeitadas pelas empresas detentoras de alvará para a actividade da construção, no que se refere ao seu quadro de pessoal.
+2 - Considera-se que uma empresa de construção dispõe de capacidade técnica em termos de meios humanos quando demonstre ter ao seu serviço um número de técnicos, com conhecimento comprovado nas diversas áreas da classificação detida, bem como encarregados e operários em número e nível de qualificação, nos termos dos instrumentos de contratação colectiva aplicáveis ao sector da construção, que respeitem os mínimos estabelecidos nos quadros constantes do anexo a esta portaria e o disposto nos números seguintes.
+2.º - 1 - A classificação em subcategorias implica uma disponibilidade de meios humanos que satisfaça os mínimos estabelecidos no quadro I, sem prejuízo das soluções mais flexíveis previstas na presente portaria, no que se refere aos técnicos, quando o caso concreto assim o permitir.
+2 - A empresa classificada em subcategoria, ou subcategorias afins, de trabalhos que não envolvam especial complexidade ou risco pode ter como técnico, em alternativa ao engenheiro técnico:
+a) No caso de subcategorias de classe 1, um profissional com conhecimento na área dos trabalhos em causa, comprovado através de certificado de aptidão profissional (CAP) de nível 2 ou superior, e que tenha, no mínimo, 18 anos de idade;
+b) No caso de subcategorias das áreas de electricidade, gás ou comunicações, nas classes 1, 2 e 3, um técnico responsável por instalações eléctricas, um técnico de gás ou um técnico ITED instalador, respectivamente, desde que o mesmo esteja inscrito como tal na Direcção-Geral da Energia (DGE) ou na autoridade nacional de comunicações (ANACOM), conforme o caso.
+3.º A classificação em empreiteiro geral ou construtor geral implica uma disponibilidade de meios humanos, em termos de técnicos e encarregados, que satisfaça os mínimos estabelecidos no quadro I da presente portaria para a classe mais elevada, desde que da classificação detida em subcategorias não resulte maior exigência, sem prejuízo das soluções mais flexíveis previstas no número seguinte, no que se refere aos técnicos, quando o caso concreto assim o permitir.
+4.º - 1 - A empresa classificada em classes 1 e 2 pode ter como técnico, em alternativa ao engenheiro técnico, um profissional com conhecimento na área dos trabalhos em causa, comprovado através de CAP de nível 3 ou superior.
+2 - A empresa classificada em classes inferiores à 5 pode ter como técnico, em alternativa ao engenheiro técnico:
+a) Um agente técnico de arquitectura e engenharia;
+b) Um profissional que tenha concluído com aproveitamento um curso de especialização tecnológica (CET), comprovado através de CAP de nível 4, cuja valia para o efeito venha a ser reconhecida por despacho do Ministro das Obras Públicas, Transportes e Habitação.
+3 - A empresa classificada em classe 6 pode ter como técnico, em alternativa ao engenheiro, um engenheiro técnico com, pelo menos, cinco anos de experiência na empresa.
+5.º - 1 - Não obstante o disposto nos números anteriores, os mínimos estabelecidos no quadro I constante do anexo à presente portaria não dispensam a empresa de satisfazer, ainda, os seguintes requisitos:
+a) Ter ao seu serviço técnicos com disponibilidade e conhecimento adequados às diversas áreas da classificação detida;
+b) Comprovar a inscrição desses técnicos junto dos respectivos organismos profissionais, quando tal for obrigatório para o exercício da profissão.
+2 - Sempre que as habilitações detidas envolvam trabalhos cuja execução dependa, por força de legislação especial, de inscrição de técnico junto de qualquer entidade reguladora, deve ser feita a comprovação dessa inscrição.
+6.º - 1 - Para os efeitos estabelecidos no quadro I anexo a esta portaria, poderão também ser aceites como técnicos licenciados ou bacharéis de áreas científicas diversas da engenharia desde que verificadas, cumulativamente, as seguintes condições:
+a) Sejam essas áreas científicas adequadas à classificação detida;
+b) Detenham os técnicos experiência profissional relevante nos trabalhos em causa.
+2 - Os requisitos constantes do n.º 1 do presente número são verificáveis, respectivamente, pelo conteúdo curricular do curso e pelo currículo do técnico.
+7.º - 1 - A classificação em classe 6 ou superior depende ainda, para além do disposto nos n.os 2.º e 3.º da presente portaria, do reforço do quadro de pessoal com um número mínimo, estabelecido no quadro II do anexo à presente portaria, de técnicos superiores de segurança e higiene do trabalho (TSSHT) e de técnicos de segurança e higiene do trabalho (TSHT), certificados por CAP de nível 5 e CAP de nível 3, respectivamente, emitidos de acordo com o estabelecido no Decreto-Lei n.º 110/2000, de 30 de Junho, alterado pela Lei n.º 14/2001, de 4 de Junho.
+2 - Os técnicos a que se refere o número anterior devem ter formação em matéria de segurança do trabalho na construção, obtida no âmbito da formação complementar específica.
+3 - O estipulado no presente número só é exigido a partir de 1 de Fevereiro de 2006.
+8.º As empresas que, ao abrigo da legislação revogada, tenham consultores ou encarregados no desempenho de funções técnicas devem, até 31 de Dezembro de 2005, adaptar-se às exigências previstas na presente portaria.
+9.º A presente portaria produz efeitos à data da entrada em vigor do Decreto-Lei n.º 12/2004, de 9 de Janeiro, sem prejuízo do disposto no n.º 3 do n.º 7.º e no n.º 8.º
+O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues, em 9 de Janeiro de 2004.
+
+ANEXO
+QUADRO I
+Quadro mínimo de pessoal da área da produção
+(ver quadro no documento original)
+QUADRO II
+Quadro mínimo de técnicos da área da segurança e higiene do trabalho
+(ver quadro no documento original)
