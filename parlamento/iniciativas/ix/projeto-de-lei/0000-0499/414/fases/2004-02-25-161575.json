@@ -1,0 +1,637 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "414",
+    "id": "20146",
+    "titulo": "Procede à adaptação do Código do Direito de Autor e dos Direitos Conexos às novas realidades criadas pela Sociedade de Informação."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2004-02-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3004",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2004-02-25",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "20077",
+        "leg": "IX",
+        "nr": "108",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "773",
+            "obs": null,
+            "pag": [
+              "3080-3096"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-02-26",
+            "pubLeg": "IX",
+            "pubNr": "55",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/055/2004-02-26/3080?pgs=3080-3096&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Transpõe para a ordem jurídica nacional a Directiva 2001/29/CE do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, relativa à harmonização de certos aspectos do direito de autor e dos direitos conexos na Sociedade de Informação, altera o Código do Direito de Autor  e dos Direitos Conexos e a Lei n.º 62/98, de 1 de Setembro."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-02-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  CULTURA",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Pedro Roseta"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148476",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3080-3082",
+                  "3086-3088",
+                  "3095-3096"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-26",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/055/2004-02-26/3080?pgs=3080-3082,3086-3088,3095-3096&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a ordem jurídica nacional a Directiva 2001/29/CE do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, relativa à harmonização de certos aspectos do direito de autor e dos direitos conexos na Sociedade de Informação, altera o Código do Direito de Autor  e dos Direitos Conexos e a Lei n.º 62/98, de 1 de Setembro; Procede à adaptação do Código do Direito de Autor e dos Direitos Conexos às novas realidades criadas pela Sociedade de Informação.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148477",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3082-3083",
+                  "3096-3096"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-26",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/055/2004-02-26/3082?pgs=3082-3083,3096&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a ordem jurídica nacional a Directiva 2001/29/CE do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, relativa à harmonização de certos aspectos do direito de autor e dos direitos conexos na Sociedade de Informação, altera o Código do Direito de Autor  e dos Direitos Conexos e a Lei n.º 62/98, de 1 de Setembro; Procede à adaptação do Código do Direito de Autor e dos Direitos Conexos às novas realidades criadas pela Sociedade de Informação.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148478",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3083-3084",
+                  "3094-3095"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-26",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/055/2004-02-26/3083?pgs=3083-3084,3094-3095&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a ordem jurídica nacional a Directiva 2001/29/CE do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, relativa à harmonização de certos aspectos do direito de autor e dos direitos conexos na Sociedade de Informação, altera o Código do Direito de Autor  e dos Direitos Conexos e a Lei n.º 62/98, de 1 de Setembro; Procede à adaptação do Código do Direito de Autor e dos Direitos Conexos às novas realidades criadas pela Sociedade de Informação.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1478",
+                "nome": "Gonçalo Capitão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148479",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3084-3085"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-26",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/055/2004-02-26/3084?pgs=3084-3085&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a ordem jurídica nacional a Directiva 2001/29/CE do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, relativa à harmonização de certos aspectos do direito de autor e dos direitos conexos na Sociedade de Informação, altera o Código do Direito de Autor  e dos Direitos Conexos e a Lei n.º 62/98, de 1 de Setembro; Procede à adaptação do Código do Direito de Autor e dos Direitos Conexos às novas realidades criadas pela Sociedade de Informação.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148480",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3085-3086"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-26",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/055/2004-02-26/3085?pgs=3085-3086&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a ordem jurídica nacional a Directiva 2001/29/CE do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, relativa à harmonização de certos aspectos do direito de autor e dos direitos conexos na Sociedade de Informação, altera o Código do Direito de Autor  e dos Direitos Conexos e a Lei n.º 62/98, de 1 de Setembro; Procede à adaptação do Código do Direito de Autor e dos Direitos Conexos às novas realidades criadas pela Sociedade de Informação.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148481",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3086-3086"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-26",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/055/2004-02-26/3086?pgs=3086&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a ordem jurídica nacional a Directiva 2001/29/CE do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, relativa à harmonização de certos aspectos do direito de autor e dos direitos conexos na Sociedade de Informação, altera o Código do Direito de Autor  e dos Direitos Conexos e a Lei n.º 62/98, de 1 de Setembro; Procede à adaptação do Código do Direito de Autor e dos Direitos Conexos às novas realidades criadas pela Sociedade de Informação.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1863",
+                "nome": "Miguel Paiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148482",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3088-3089"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-26",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/055/2004-02-26/3088?pgs=3088-3089&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a ordem jurídica nacional a Directiva 2001/29/CE do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, relativa à harmonização de certos aspectos do direito de autor e dos direitos conexos na Sociedade de Informação, altera o Código do Direito de Autor  e dos Direitos Conexos e a Lei n.º 62/98, de 1 de Setembro; Procede à adaptação do Código do Direito de Autor e dos Direitos Conexos às novas realidades criadas pela Sociedade de Informação.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148483",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3089-3090"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-26",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/055/2004-02-26/3089?pgs=3089-3090&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a ordem jurídica nacional a Directiva 2001/29/CE do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, relativa à harmonização de certos aspectos do direito de autor e dos direitos conexos na Sociedade de Informação, altera o Código do Direito de Autor  e dos Direitos Conexos e a Lei n.º 62/98, de 1 de Setembro; Procede à adaptação do Código do Direito de Autor e dos Direitos Conexos às novas realidades criadas pela Sociedade de Informação.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148484",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3090-3091"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-26",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/055/2004-02-26/3090?pgs=3090-3091&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a ordem jurídica nacional a Directiva 2001/29/CE do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, relativa à harmonização de certos aspectos do direito de autor e dos direitos conexos na Sociedade de Informação, altera o Código do Direito de Autor  e dos Direitos Conexos e a Lei n.º 62/98, de 1 de Setembro; Procede à adaptação do Código do Direito de Autor e dos Direitos Conexos às novas realidades criadas pela Sociedade de Informação.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1998",
+                "nome": "Luís Campos Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148485",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3091-3093"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-26",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/055/2004-02-26/3091?pgs=3091-3093&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a ordem jurídica nacional a Directiva 2001/29/CE do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, relativa à harmonização de certos aspectos do direito de autor e dos direitos conexos na Sociedade de Informação, altera o Código do Direito de Autor  e dos Direitos Conexos e a Lei n.º 62/98, de 1 de Setembro; Procede à adaptação do Código do Direito de Autor e dos Direitos Conexos às novas realidades criadas pela Sociedade de Informação.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148486",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3093-3094"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-26",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/055/2004-02-26/3093?pgs=3093-3094&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a ordem jurídica nacional a Directiva 2001/29/CE do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, relativa à harmonização de certos aspectos do direito de autor e dos direitos conexos na Sociedade de Informação, altera o Código do Direito de Autor  e dos Direitos Conexos e a Lei n.º 62/98, de 1 de Setembro; Procede à adaptação do Código do Direito de Autor e dos Direitos Conexos às novas realidades criadas pela Sociedade de Informação.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "161575",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "285810",
+        "obs": null,
+        "pag": [
+          "3080-3097"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-02-26",
+        "pubLeg": "IX",
+        "pubNr": "55",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/055/2004-02-26/3080?pgs=3080-3097&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
