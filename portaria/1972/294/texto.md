@@ -1,0 +1,6 @@
+Portaria n.º 294/72
+de 24 de Maio
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro da 1937, abrir, em adicional ao orçamento da despesa da Agência-Geral do Ultramar para o corrente ano económico, os seguintes créditos especiais, tomando como contrapartida o saldo do ano económico findo:
+1.º Um, da importância de 105636$00, destinado ao pagamento das pensões de sangue relativas ao período decorrido de 2 de Novembro de 1964 a 31 de Dezembro de 1971, a favor da Maria Rosa Cruz Oliveira Busca e Silva a Maria Filomena Oliveira Silva, respectivamente viúva e filha do que foi contínuo da Agência-Geral do Ultramar Jorge Silva, falecido num acidente em serviço.
+2.º Um, da importância de 18324$00, destinado ao pagamento das pensões de sangue relativas ao corrente ano económico, a favor de Maria Rosa Cruz Oliveira Busca e Silva e Maria Filomena Oliveira Silva, respectivamente viúva e filha do que foi contínuo da Agência-Geral do Ultramar Jorge Silva, falecido num acidente em serviço.
+Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
