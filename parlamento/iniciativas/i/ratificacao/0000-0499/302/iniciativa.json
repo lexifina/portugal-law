@@ -1,0 +1,73 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=EeydxMxWDACnKIdafO1gLuckTcPUKEzq1%2bHH3DxRj1tc2AQfc7RGac%2b4XdUghgos4hwJbWU%2fEsqic91pJfSy558GPhXV9oA5uyvzrB1qFVhCGEknXlWuTT8uRAklugoPfYrUiIlzLHhtSLkmSiI4%2bdYzFtfLATYK8agC7LMNmzinpm7uNNpbroIMRf9ffPjD%2fHACkBGVzah3bssnNnwPFdEjeiiy%2bEyzrNHvpOuJpm4ezAfTJczAjgs4mgA8L35izjUTV1PadybFpEpUVN%2b8NcOO6c8ymJZXTt07TVuJC87qb6GzDk6zmf29WVzsGKDDbWRGOt9g%2brwMTLOTxaLPAw%3d%3d&fich=IniciativasIB_json.txt&Inline=true",
+  "ficheiro_sha256": "8ce94fbc287b7e9dc94a4b6d2a0a9325847ce701b2894595086453b04b7c2e75",
+  "legislatura": "I",
+  "tipo": "Ratificação",
+  "numero": "302",
+  "id": "32690",
+  "fases": 2,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1980-02-05",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1980-11-12",
+    "DataInicioleg": "1980-01-03",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "CDS",
+        "idCadastro": "3601",
+        "nome": "Rui Pena"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3114",
+        "nome": "Henrique de Moraes"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3570",
+        "nome": "Francisco Oliveira Dias"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "1217",
+        "nome": "Nuno Abecasis"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3598",
+        "nome": "José Sanches Osório"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "CDS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Ratificação",
+    "IniEpigrafe": null,
+    "IniId": "32690",
+    "IniLeg": "I",
+    "IniLinkTexto": "",
+    "IniNr": "302",
+    "IniObs": "Sem seguimento.",
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "F",
+    "IniTitulo": "Ratificação do Decreto-Lei nº 530/79, de 31 de Dezembro (cria o Departamento de Cuidados Primários da Administração Central de Saúde).",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
