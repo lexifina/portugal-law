@@ -1,0 +1,5 @@
+Aviso n.º 114/2004
+Por ordem superior se torna público que, a 1 de Março de 2004, a República Democrática Popular de Laos depositou o seu instrumento de ratificação da Convenção sobre o Comércio Internacional das Espécies de Fauna e Flora Selvagens Ameaçadas de Extinção (CITES), assinada em Washington no dia 3 de Março de 1973.
+Portugal é parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 50/80, publicado no Diário da República, 1.ª série-A, n.º 168, de 23 de Julho de 1980, tendo depositado o seu instrumento de ratificação em 11 de Dezembro de 1980 (Diário da República, 1.ª série, n.º 260, de 11 de Novembro de 1981) e tendo entrado em vigor em 11 de Março de 1981 (Diário da República, 1.ª série-A, n.º 157, de 10 de Julho de 2003).
+Nos termos do artigo XXII, § 2, a Convenção entrará em vigor para a República Democrática Popular de Laos a 30 de Maio de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 20 de Maio de 2004. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
