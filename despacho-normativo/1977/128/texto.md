@@ -1,0 +1,4 @@
+Despacho Normativo n.º 128/77
+1. Atendendo às necessidades de preencher as lotações das embarcações de pesca de cerco e artesanal, e até à fixação das normas previstas pela nova redacção do corpo do artigo 14.º do Regulamento de Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca, é permitida a inscrição marítima a pescadores, até quantitativos a fixar localmente, ouvidos os sindicatos e associações de armadores, interessados, quando existam.
+2. Fica revogado, para a categoria de pescador, o Despacho Normativo n.º 57/77, de 4 de Março.
+Ministérios da Agricultura e Pescas e dos Transportes e Comunicações, 20 de Abril de 1977. - O Secretário de Estado das Pescas, Pedro Amadeu de Albuquerque Santos Coelho. - o Secretário de Estado da Marinha Mercante, António José Borrani Crisóstomo Teixeira.
