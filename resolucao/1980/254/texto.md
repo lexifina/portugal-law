@@ -1,0 +1,3 @@
+Resolução n.º 254/80
+Ao abrigo do disposto na alínea c) do artigo 146.º e no n.º 1 do artigo 281.º da Constituição, o Conselho da Revolução, a solicitação do Primeiro-Ministro e do Provedor de Justiça e precedendo parecer da Comissão Constitucional, resolveu não se pronunciar pelas inconstitucionalidades - material e orgânica - alegadas contra o Decreto Regional n.º 11/79/A, de 8 de Maio, aprovado pela Assembleia Regional dos Açores, que cria, na dependência do Governo Regional, o Instituto de Apoio Comercial à Agricultura, Pecuária e Silvicultura.
+Aprovada em Conselho da Revolução em 1 de Julho de 1980. - O Presidente do Conselho da Revolução, António Ramalho Eanes.
