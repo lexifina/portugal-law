@@ -6,7 +6,7 @@
 
 ### (Publicidade de participações dos membros de órgãos de administração e fiscalização)
 
-1 - Os membros dos órgãos de administração e de fiscalização de uma sociedade anónima devem comunicar à sociedade o número de acções e de obrigações da sociedade de que são titulares, e bem assim todas as suas aquisições, onerações ou cessações de titularidade por qualquer causa, e de acções e de obrigações da mesma sociedade com as quais aquela esteja em relação de domínio ou de grupo.
+1 - Os membros dos órgãos de administração e de fiscalização de uma sociedade anónima devem comunicar à sociedade o número de acções e de obrigações da sociedade de que são titulares, e bem assim todas as suas aquisições, onerações ou cessações de titularidade, por qualquer causa, de acções e de obrigações da mesma sociedade e de sociedades com as quais aquela esteja em relação de domínio ou de grupo.
 
 2 - O disposto no número anterior é extensivo às acções e obrigações:
 

@@ -2,7 +2,7 @@
 
 ### Contrato do sócio com a sociedade unipessoal
 
-1 - Os negócios jurídicos celebrados entre o sócio único e a sociedade devem servir a prossecução do objecto da sociedade.
+1 - Os negócios jurídicos celebrados entre o sócio único e a sociedade devem servir a prossecução do objecto da sociedade e a respectiva autorização tem de constar da escritura de constituição da sociedade ou da escritura de alteração do contrato de sociedade ou da de aumento do capital social.
 
 2 - Os negócios jurídicos entre o sócio único e a sociedade obedecem à forma legalmente prescrita e, em todos os casos, devem observar a forma escrita.
 

@@ -6,7 +6,7 @@
 
 a) O conselho de administração ou a direcção, com o consentimento do conselho fiscal ou do conselho geral, resolva o adiantamento;
 
-b) A resolução do conselho de administração ou de direcção seja procedida de um balanço intercalar, elaborado com a antecedência máxima de 30 dias e certificado pelo revisor oficial de contas, que demonstre a existência nessa ocasião de importâncias disponíveis para os aludidos adiantamentos, que deverão observar, no que for aplicável, as regras dos artigos 32.º e 33.º, tendo em conta os resultados verificados durante a parte já decorrida do exercício em que o adiantamento é efectuado;
+b) A resolução do conselho de administração ou de direcção seja precedida de um balanço intercalar, elaborado com a antecedência máxima de 30 dias e certificado pelo revisor oficial de contas, que demonstre a existência nessa ocasião de importâncias disponíveis para os aludidos adiantamentos, que deverão observar, no que for aplicável, as regras dos artigos 32.º e 33.º, tendo em conta os resultados verificados durante a parte já decorrida do exercício em que o adiantamento é efectuado;
 
 c) Seja efectuado um só adiantamento no decurso de cada exercício e sempre na segunda metade deste;
 

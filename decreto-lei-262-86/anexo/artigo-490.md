@@ -10,6 +10,6 @@
 
 4 - A escritura só pode ser lavrada se a sociedade tiver consignado em depósito a contrapartida, em dinheiro, acções ou obrigações, das participações adquiridas, calculada de acordo com os valores mais altos constantes do relatório do revisor.
 
-5 - Se a sociedade dominante não fizer oportunamente a oferta permitida pelo n.º 1 deste artigo, cada sócio ou accionista livre pode, em qualquer altura, exigir por escrito que a sociedade dominante lhe faça, em prazo não inferior a 30 dias, oferta de aquisição das suas quotas ou acções, mediante contrapartida em dinheiro, quotas ou acções das sociedades dominantes.
+5 - Se a sociedade dominante não fizer oportunamente a oferta permitida pelo n.º 2 deste artigo, cada sócio ou accionista livre pode, em qualquer altura, exigir por escrito que a sociedade dominante lhe faça, em prazo não inferior a 30 dias, oferta de aquisição das suas quotas ou acções, mediante contrapartida em dinheiro, quotas ou acções das sociedades dominantes.
 
 6 - Na falta da oferta ou sendo esta considerada insatisfatória, o sócio livre pode requerer ao tribunal que declare as acções ou quotas como adquiridas pela sociedade dominante desde a proposição da acção, fixe o seu valor em dinheiro e condene a sociedade dominante a pagar-lho. A acção deve ser proposta nos 30 dias seguintes ao termo do prazo referido no número anterior ou à recepção da oferta, conforme for o caso.

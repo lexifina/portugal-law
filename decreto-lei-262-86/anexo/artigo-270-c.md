@@ -6,6 +6,6 @@
 
 2 - Uma sociedade por quotas não pode ter como sócio único uma sociedade unipessoal por quotas.
 
-3 - No caso de violação das disposições dos números anteriores, qualquer interessado pode requerer a dissolução das sociedades por via administrativa.
+3 - No caso de violação das disposições dos números anteriores qualquer interessado pode requerer a dissolução das sociedades.
 
-4 - O serviço de registo competente concede um prazo de 30 dias para a regularização da situação, o qual pode ser prorrogado até 90 dias a pedido dos interessados.
+4 - O tribunal pode conceder um prazo até seis meses para a regularização da situação.

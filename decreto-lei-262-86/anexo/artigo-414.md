@@ -2,9 +2,9 @@
 
 ### Requisitos e incompatibilidades
 
-1 - Os membros do conselho fiscal e os fiscais únicos podem não ser accionistas, mas devem ser pessoas singulares com capacidade jurídica plena, excepto se forem sociedades de advogados ou sociedades de revisores oficiais de contas.
+1 - O fiscal único e o suplente ou, no caso de existência de conselho fiscal, um membro efectivo e um dos suplentes, têm de ser revisores oficiais de contas ou sociedades de revisores oficiais de contas e não podem ser accionistas.
 
-2 - O fiscal único, um membro efectivo do conselho fiscal e um dos suplentes têm de ser revisores oficiais de contas ou sociedade de revisores de contas.
+2 - Os restantes membros do conselho fiscal podem não ser accionistas, mas devem ser pessoas singulares com capacidade jurídica plena, excepto se forem sociedades de advogados ou sociedades de revisores oficiais de contas.
 
 3 - Não podem ser eleitos ou designados membros do conselho fiscal ou fiscal único:
 
@@ -30,7 +30,7 @@ j) Os interditos, os inabilitados, os insolventes, os falidos e os condenados a 
 
 4 - A superveniência de algum dos motivos indicados no número anterior importa caducidade da designação.
 
-5 - É nula a designação de pessoa que não possua a capacidade exigida pelo n.º 1 ou relativamente à qual se verifique alguma das incompatibilidades estabelecidas no n.º 2.
+5 - É nula a designação de pessoa relativamente à qual se verifique alguma das incompatibilidades estabelecidas no n.º 3 ou que não possua a capacidade exigida pelo n.º 2.
 
 6 - A sociedade de revisores oficiais de contas que fizer parte do conselho fiscal deve designar até dois dos seus revisores para assistir às reuniões dos órgãos de fiscalização e de administração e da assembleia geral da sociedade fiscalizada.
 
