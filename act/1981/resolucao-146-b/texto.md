@@ -1,0 +1,3 @@
+Resolução n.º 146-B/81
+O Conselho de Ministros, reunido em 2 de Julho de 1981, resolveu, nos termos do artigo 2.º da Convenção Luso-Italiana de Extradição, de 18 de Março de 1978, autorizar o prosseguimento do processo de extradição do cidadão italiano Roberto Martelli, acusado dos crimes de roubo agravado, posse e porte ilegal de armas de guerra, sequestro de pessoa, constituição de associação subversiva e de um bando armado, puníveis pela legislação italiana com penas que poderão ir até doze anos de prisão.
+Presidência do Conselho de Ministros, 2 de Julho de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
