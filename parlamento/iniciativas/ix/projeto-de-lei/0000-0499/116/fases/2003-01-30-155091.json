@@ -1,0 +1,135 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "116",
+    "id": "19215",
+    "titulo": "Define as bases da estratégia de prevenção da toxicodependencia e de separação entre drogas duras e drogas leves"
+  },
+  "fase": "Requerimento Baixa Comissão sem Votação (Especialidade)",
+  "codigo_fase": "306",
+  "data_registo": "2003-01-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2440",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "306",
+    "Comissao": null,
+    "DataFase": "2003-01-30",
+    "EvtId": "79",
+    "Fase": "Requerimento Baixa Comissão sem Votação (Especialidade)",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-01-30",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143839",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3443-3443"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-31",
+                "pubLeg": "IX",
+                "pubNr": "81",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/081/2003-01-31/3443?pgs=3443&org=PLC"
+              }
+            ],
+            "sumario": "Define as bases da estratégia de prevenção da toxicodependencia e de separação entre drogas duras e drogas leves",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Baixa à Comissão de Trabalho e dos Assuntos Sociais, pelo prazo de 30 dias",
+    "OevId": "155091",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2440",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-01-31",
+        "pubLeg": "IX",
+        "pubNr": "81",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/081/2003-01-31?org=PLC"
+      }
+    ],
+    "RecursoDeputados": [
+      "Maria de Belém Roseira (PS)",
+      "António Costa (PS)",
+      "António José Seguro (PS)",
+      "Acácio Barreiros (PS)",
+      "José Magalhães (PS)",
+      "Vitalino Canas (PS)",
+      "Luís Fazenda (BE)",
+      "João Teixeira Lopes (BE)"
+    ],
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2003-01-30",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Abstenção:<I>CDS-PP</I>",
+        "id": "29694",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "79",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
