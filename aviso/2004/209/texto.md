@@ -1,0 +1,5 @@
+Aviso n.º 209/2004
+Por ordem superior se torna público que, em 30 de Setembro de 2004, o Níger depositou o seu instrumento de ratificação à Convenção das Nações Unidas contra a Criminalidade Organizada Transnacional, assim como o Protocolo Adicional contra o Tráfico de Migrantes por Via Terrestre, Aérea e Marítima, e o Protocolo Adicional Relativo à Luta contra o Tráfico de Pessoas, em Especial das Mulheres e das Crianças, concluídos em Nova Iorque em 15 de Novembro de 2000.
+Portugal é Parte da mesma Convenção e dos referidos Protocolos Adicionais, aprovados, para ratificação, pela Resolução da Assembleia da República n.º 32/2004 e ratificados pelo Decreto do Presidente da República n.º 19/2004, publicados no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004, e tendo a Convenção e os Protocolos Adicionais entrado em vigor para Portugal em 9 de Junho de 2004.
+A Convenção e os Protocolos Adicionais entraram em vigor para o Níger em 30 de Outubro de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 29 de Novembro de 2004. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
