@@ -1,0 +1,79 @@
+Portaria n.º 804/99
+de 20 de Setembro
+O exercício de qualquer dos serviços ou de modalidades de serviço de assistência em escala, tal como referidos no anexo ao Decreto-Lei n.º 275/99, de 23 de Julho, prosseguidos tanto por prestadores como por utilizadores com auto-assistência, nos aeródromos abertos ao tráfego comercial, deverá assentar numa adequada estrutura organizativa que considere os diversos meios necessários, humanos e materiais, à prossecução de todas as operações em causa, com elevados níveis de serviço, qualidade e segurança.
+Assim:
+Ao abrigo do disposto no n.º 2 do artigo 8.º do Decreto-Lei n.º 275/99, de 23 de Julho:
+Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administração do Território, o seguinte:
+1.º Os prestadores de serviços, de assistência em escala e os utilizadores que efectuem auto-assistência em escala devem estar dotados de uma estrutura orgânica e dispor de pessoal e demais meios necessários à prossecução das operações em causa de modo a garantir o exercício da actividade em moldes adequados e seguros.
+2.º Os requisitos de licenciamento relativos à aptidão técnica de cada serviço de assistência em escala referido no artigo 6.º do Decreto-Lei n.º 275/99, de 23 de Julho, são os estipulados no anexo à presente portaria, que dela faz parte integrante.
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 3 de Setembro de 1999.
+
+ANEXO
+1 - Assistência a passageiros:
+1.1 - Para o exercício destes serviços ou modalidades de serviço, a entidade licenciada deverá dispor de um serviço operacional que controle todas as operações a realizar, designadamente as relativas a:
+Admissão e registo de passageiros/check-in;
+Acolhimento;
+Perdidos e achados;
+Irregularidades operacionais relativas a assistência a passageiros.
+1.2 - O pessoal a afectar deve ter formação adequada, designadamente em operações de passageiros, check-in e acolhimento, e especificamente em assistências especiais, irregularidades, emissão de bilhetes, perdidos e achados.
+1.3 - Para o efeito previsto no n.º 1.2, o INAC poderá considerar adequada uma experiência profissional de, pelo menos, dois anos como técnico de tráfego ou equivalente.
+2 - Assistência a bagagem. - A entidade licenciada deverá dispor, no mínimo, de:
+a) Um serviço operacional responsável pelo controlo de todas as operações de assistência a bagagem;
+b) Pessoal com formação adequada para operar na área do terminal de bagagem ou com experiência profissional de, pelo menos, dois anos, no tratamento de bagagem, na zona de rampa ou áreas conexas;
+c) Equipamentos de reconciliação de bagagem, quando o exercício destes serviços não seja assegurado através de uma infra-estrutura centralizada, nos termos do n.º 1 do artigo 29.º do Decreto-Lei n.º 275/99, de 23 de Julho.
+3 - Assistência a carga e correio:
+3.1 - A entidade licenciada deverá dispor, no mínimo, de:
+a) Um serviço operacional responsável pelo desenvolvimento, coordenação e controlo de todas as actividades de assistência a carga e correio;
+b) Pessoal com formação adequada nas áreas de operação de assistência de carga, correio, cargas perigosas e aceitação de cargas ou com experiência de, pelo menos, dois anos como operadores de rampa ou equivalente.
+3.2 - Salvo quando, nos termos do n.º 1 do artigo 29.º do Decreto-Lei n.º 275/99, de 23 de Julho, o exercício dos serviços seja assegurado por uma infra-estrutura centralizada, a entidade licenciada deverá dispor de equipamentos necessários ao exercício das modalidades de serviço a prestar, segundo padrões de serviço ou tipologia de equipamentos fixados no âmbito do processo de licenciamento por utilização do domínio público aeroportuário ou outros que o INAC entenda especificar ao abrigo do artigo 8.º dos seus estatutos.
+3.3 - Os equipamentos a considerar no âmbito do número anterior devem incluir, em princípio:
+Carros de bagagem para carga e correio;
+Porta-contentores;
+Porta-contentores/paletes;
+Empilhadoras;
+Tractores de reboque;
+Câmaras frigoríficas;
+Básculas para aceitação de carga e pesagem de contentores/paletes.
+3.4 - A entidade licenciada deverá ainda dispor de áreas reservadas para armazenamento, incluindo cargas valiosas, e para manuseamento de contentores/paletes.
+4 - Assistência de operações em pista:
+4.1 - Para o exercício destes serviços ou de modalidades de serviço, a entidade licenciada deverá dispor de:
+a) Um serviço técnico, responsável pelo planeamento das necessidades de meios humanos, materiais, equipamentos e instalações, pela formação profissional e pela divulgação da regulamentação operacional;
+b) Um serviço operacional, responsável pelo desenvolvimento, coordenação e controlo de todas as actividades relacionadas com os serviços compreendidos nesta categoria;
+c) Um serviço oficinal de equipamento de terra, responsável pela manutenção dos níveis de fiabilidade estabelecidos para os equipamentos de terra.
+4.2 - Salvo quando, nos termos do n.º 1 do artigo 29.º do Decreto-Lei n.º 275/99, de 23 de Julho, o exercício dos serviços seja assegurado por uma infra-estrutura centralizada, a entidade licenciada deverá dispor de equipamentos necessários ao exercício das modalidades de serviço a prestar, segundo padrões de serviço ou tipologia de equipamentos fixados no âmbito do processo de licenciamento por utilização do domínio público aeroportuário ou outros que o INAC entenda especificar ao abrigo do artigo 8.º dos seus estatutos.
+4.3 - Os equipamentos a considerar no âmbito do número anterior devem incluir, em princípio:
+Veículos para transporte de passageiros, tripulações e passageiros deficientes;
+Carrinha de bagagens;
+Porta-contentores;
+Tractores de reboque do avião;
+Escadas de passageiros;
+Geradores de corrente alterna;
+Grupo de ar condicionado;
+Grupo de arranque pneumático;
+Lanças de reboque de avião;
+Empilhadoras;
+Loaders;
+Porta-contentores/paletes;
+Cintas transportadoras;
+Tractores;
+Transporters;
+Extintores de placa.
+4.4 - Sem prejuízo do disposto nos números antecedentes, a entidade licenciada deverá ainda dispor de pessoal com a formação ou experiência adequadas para desempenho de tarefas próprias desta actividade nas áreas de movimento, designadamente assistência de placa, controlo de carregamento de aeronaves, cargas perigosas e manuseamento dos equipamentos utilizados.
+4.5 - Para o efeito previsto no n.º 4.4, o INAC poderá considerar adequada uma experiência profissional de, pelo menos, dois anos como técnico de tráfego e ou operador de rampa ou equivalentes.
+5 - Actividade de limpeza e serviço do avião. - Para o exercício destes serviços, a entidade licenciada deverá dispor de equipamentos necessários e suficientes ao exercício desta actividade, designadamente:
+Carros de água;
+Carros de lavabos;
+Equipamentos de aspiração;
+Carros para limpeza exterior de aeronaves;
+Grupos de ar condicionado.
+6 - Assistência a combustível e óleo. - O exercício destes serviços ou de modalidades de serviço só poderá ser desenvolvido por entidades licenciadas pelo ministério que tutela a armazenagem e o abastecimento de combustíveis.
+7 - Assistência de manutenção em linha. - A prestação de serviços de assistência de manutenção em linha só poderá ser desenvolvida por entidades devidamente certificadas para o efeito.
+8 - Assistência de operações aéreas e gestão de tripulações. - Para o exercício destes serviços ou de modalidades de serviço, a entidade licenciada deverá dispor de pessoal habilitado com formação em operações de voo.
+9 - Assistência de restauração:
+9.1 - Para o exercício destes serviços ou de modalidades de serviço, a entidade licenciada deverá dispor das licenças exigidas para o exercício da actividade de restauração.
+9.2 - A entidade licenciada deverá dispor de um serviço que garanta o cumprimento das normas a que devem estar sujeitos os géneros alimentícios, nos termos do Decreto-Lei n.º 67/98, de 18 de Março.
+10 - Disposições gerais:
+10.1 - Podem ser homologados, pelo INAC, cursos de formação específica para o pessoal a afectar ao exercício de serviços de assistência em escala.
+10.2 - Os cursos da Associação de Transporte Aéreo Internacional (IATA) para os diversos serviços ou modalidades de serviço ministrados por entidade credenciada pela referida organização são considerados como formação adequada para os efeitos deste diploma.
+10.3 - Aos prestadores de serviços de assistência em escala e aos utilizadores que efectuem auto-assistência poderá ser exigida, pelo INAC, a comprovação da existência de um adequado sistema de controlo de qualidade, bem como a demonstração de currículo adequado por parte dos responsáveis por serviços técnicos e operacionais acima especificados.
+10.4 - Nos aeródromos não abertos ao tráfego internacional, o INAC pode dispensar o cumprimento de alguns dos requisitos previstos nos n.os 1 a 4, de acordo com as características específicas ou a natureza do tráfego a assistir e sem prejuízo da segurança.
