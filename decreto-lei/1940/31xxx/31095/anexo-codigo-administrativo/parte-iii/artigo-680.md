@@ -18,7 +18,7 @@ Os corpos administrativos podem elaborar, no decurso do ano económico, orçamen
 
 5.º O saldo em dinheiro apurado na conta de gerência anterior.
 
-§ 4.º As receitas a que se referem os n.os 2.º e 3.º do parágrafo anterior, quando se verifique que a cobrança das receitas, excluídas as provenientes de reembolsos e reposições, das consignadas e das extraordinárias, não atinge a importância da sua previsão no orçamento ordinário, só podem servir de base à elaboração de orçamentos suplementares na parte necessária para cobrir as diferenças previstas até ao fim do ano económico.
+§ 4.º As receitas a que se referem os n.os 2.º e 3.º do parágrafo anterior, quando se verifique que a cobrança das receitas, excluídas as provenientes de reembolsos e reposições, das consignadas e das extraordinárias, não atinge a importância da sua previsão no orçamento ordinário, não podem servir de base à elaboração de orçamentos suplementares na parte necessária para cobrir as diferenças previstas até ao fim do ano económico.
 
 § 5.º O saldo em dinheiro apurado na gerência anterior não pode ser utilizado para ocorrer a outras despesas emquanto não estiverem previstas as verbas necessárias para pagamento dos encargos, assumidos, vencidos e não pagos em conta do ano anterior.
 

@@ -1,6 +1,6 @@
 # Artigo 66.º
 
-Nos anos em que deva proceder-se à constituïção de nova câmara municipal reünir-se-á esta no dia 5 de Dezembro só para o efeito da verificação dos poderes dos seus vogais e da eleição do procurador ao conselho provincial, continuando porém a antiga câmara, para tudo o mais, em exercício de funções até 31 de Dezembro.
+Nos anos em que deva proceder-se à constituição da nova câmara municipal reunir-se-á esta no dia 10 de Dezembro só para o efeito da verificação dos poderes dos seus vogais e da eleição do procurador ao conselho do distrito, continuando, porém, a antiga câmara, para tudo o mais, em exercício de funções até 31 de Dezembro.
 
 § 1.º A convocação da reünião será feita pelo presidente da câmara, dentro do prazo e pela forma estabelecidos no § 1.º do artigo 28.º
 

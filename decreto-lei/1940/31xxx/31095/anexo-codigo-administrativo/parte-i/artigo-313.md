@@ -1,15 +1,15 @@
 # Artigo 313.º
 
-No uso das atribuïções de cultura, pertence às juntas de província deliberar:
+No uso das atribuições de cultura, pertence às juntas distritais deliberar:
 
-1.º Sôbre a criação e manutenção de museus de arte regional e arquivos provinciais;
+1.º Sobre a criação e manutenção de museus de etnografia, história e arte regional e de arquivos distritais;
 
-2.º Sôbre a recolha, inventariação e publicação das tradições populares regionais e mais folclore da província;
+2.º Sobre a recolha, inventariação e publicação das tradições populares regionais e mais folclore do distrito;
 
-3.º Sôbre o inventário das relíquias arqueológicas e históricas, dos monumentos artísticos e das belezas naturais existentes na província;
+3.º Sobre o inventário das relíquias arqueológicas e históricas, dos monumentos artísticos e das belezas naturais existentes no distrito;
 
-4.º Sôbre a conservação e divulgação dos trajes e costumes regionais;
+4.º Sobre a conservação e divulgação dos trajes e costumes regionais;
 
-5.º Sôbre o auxílio a conceder a associações ou institutos culturais da província;
+5.º Sobre o auxílio a conceder a associações ou institutos culturais do distrito;
 
-6.º Sôbre o estudo das formas dialectais existentes na província ou em parte dela.
+6.º Sobre a recolha e o estudo de vocábulos populares e das formas dialectais existentes no distrito.

@@ -1,5 +1,7 @@
 # Artigo 12.º
 
+### É da competência do Governo, ouvidos o governador civil e a junta distrital respectivos:
+
 É da competência do Govêrno, ouvidos o governador civil e a junta de província respectivos:
 
 1.º Mudar as sedes dos concelhos e freguesias, alterar os seus nomes e os das povoações;

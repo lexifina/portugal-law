@@ -14,9 +14,9 @@ Compete ao governador civil:
 
 6.º Mandar proceder às eleições dos corpos administrativos nos prazos legais;
 
-7.º Providenciar para que as sessões dos conselhos municipais e provinciais tenham lugar nas épocas próprias;
+7.º Providenciar para que as sessões dos conselhos municipais e dos distritos tenham lugar nas épocas próprias;
 
-8.º Aprovar os estatutos das pessoas colectivas de utilidade pública administrativa e das associações de instrução, de cultura, de recreio, de educação física e desporto constituídas nos respectivos distritos, que por lei não devam ser submetidos à aprovação doutra autoridade;
+8.º Aprovar os estatutos das pessoas colectivas de utilidade pública administrativa e das associações de instrução, de cultura e recreio constituídas nos respectivos distritos que por lei não devam ser submetidos à aprovação de outra autoridade;
 
 9.º Exercer tutela sôbre as pessoas colectivas de utilidade pública administrativa, nos termos da lei;
 
@@ -30,4 +30,4 @@ Compete ao governador civil:
 
 14.º Conceder licenças aos presidentes das câmaras municipais do distrito.
 
-§ único. Compete aos governadores civis dos distritos com sede em capital de província convocar a reünião constitutiva do conselho provincial e da junta de província.
+§ único. Compete aos governadores civis convocar a reunião constitutiva do conselho do distrito e da junta distrital.

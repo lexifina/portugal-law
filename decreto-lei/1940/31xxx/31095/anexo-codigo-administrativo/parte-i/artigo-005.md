@@ -1,5 +1,7 @@
 # Artigo 5.º
 
+### Os distritos podem ser de 1.ª, 2.ª e 3.ª ordem.
+
 Os distritos podem ser de 1.ª, 2.ª e 3.ª ordem.
 
 § 1.º São de 1.ª ordem os distritos de Lisboa e Pôrto.

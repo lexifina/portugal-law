@@ -1,3 +1,3 @@
 # Artigo 300.º
 
-Às reüniões do conselho provincial poderá assistir o governador civil do distrito com sede na capital da província, tomando lugar à direita do presidente.
+Às reuniões do conselho do distrito poderá assistir o governador civil, tomando lugar à direita do presidente.

@@ -6,7 +6,7 @@ Compete ao auditor julgar:
 
 2.º Os recursos das deliberações dos corpos administrativos, das comissões administrativas das federações de municípios e das comissões centrais das uniões de freguesias;
 
-3.º Os recursos das deliberações do conselho municipal e do conselho provincial;
+3.º Os recursos das deliberações do conselho municipal e do conselho do distrito.
 
 4.º Os recursos das deliberações das juntas de turismo, das juntas autónomas dos portos e das comissões venatórias, regionais e concelhias;
 
@@ -22,9 +22,9 @@ Compete ao auditor julgar:
 
 10.º Os recursos contra a inscrição ou omissão no recenseamento eleitoral;
 
-11.º Os recursos relativos às eleições dos órgãos da administração municipal, paroquial ou provincial e das mesas, direcções ou gerências das pessoas colectivas de utilidade pública administrativa;
+11.º Os recursos relativos às eleições dos órgãos da administração municipal, paroquial ou distrital e das mesas, direcções ou gerências das pessoas colectivas de utilidade pública administrativa;
 
-12.º Os recursos sôbre declarações de perda de mandato e inelegibilidades e escusas dos eleitos para os corpos administrativos e para os conselhos municipais e provinciais;
+12.º Os recursos sobre declarações de perda de mandato e inelegibilidades e escusas dos eleitos para os corpos administrativos e para os conselhos municipais e distritais;
 
 13.º Todos os demais recursos ou acções entregues por lei ao seu julgamento ou que, pertencendo ao contencioso administrativo, não estejam expressamente atribuídos a outro tribunal.
 

@@ -1,5 +1,7 @@
 # Artigo 2.º
 
+### Os concelhos classificam-se em urbanos e rurais.
+
 Os concelhos classificam-se em urbanos e rurais.
 
 § 1.º São concelhos urbanos:

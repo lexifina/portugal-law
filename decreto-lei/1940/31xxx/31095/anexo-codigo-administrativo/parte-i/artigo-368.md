@@ -6,7 +6,7 @@ O Ministério. Público junto dos tribunais judicais é competente para propor o
 
 2.º Fazer entrar no cofre dos corpos administrativos quaisquer quantias em que os seus membros tiverem sido condenados ou por que forem responsáveis;
 
-3.º Cobrar coercivamente as multas impostas aos membros dos corpos administrativos e dos conselhos provinciais e municipais.
+3.º Cobrar coercivamente as multas impostas aos membros dos corpos administrativos e dos conselhos dos distritos e municipais.
 
 § 1.º Sempre que na acção ou processo intervenha o Estado, será êste representado pelo Ministério Público, podendo o corpo administrativo constituir procurador, nos termos legais.
 

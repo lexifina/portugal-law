@@ -10,6 +10,6 @@ A criação de novas freguesias deverá ser requerida pela maioria absoluta dos 
 
 4.º Existirem na área da pretendida circunscrição pessoas aptas ao desempenho das funções administrativas em número bastante para assegurar a renovação da junta de freguesia.
 
-§ 1.º A petição dos chefes de família será remetida à junta de província, que, com o seu parecer, a remeterá ao respectivo governador civil, para êste, com a sua informação, a fazer chegar ao Govêrno.
+§ 1.º A petição dos chefes de família será remetida à junta distrital, que, com o seu parecer, a remeterá ao respectivo governador civil, para este, com a sua informação, a fazer chegar ao Governo.
 
 § 2.º Nenhuma proposta ou projecto do lei sôbre criação de novas freguesias terá seguimento na Assemblea Nacional sem que tenham sido observadas as disposições dêste artigo.

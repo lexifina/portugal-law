@@ -1,6 +1,6 @@
 # Artigo 339.º
 
-As câmaras municipais, as juntas de freguesia e as juntas de província celebram as suas reüniões ordinárias periòdicamente, nos termos dêste Código, em dias e horas fixados na primeira reünião realizada após a eleição.
+As câmaras municipais, as juntas de freguesia e as juntas distritais celebram as suas reuniões ordinárias periodicamente, nos termos deste código, em dias e horas fixados na primeira reunião realizada após a eleição.
 
 § 1.º Qualquer alteração que se faça posteriormente, quer do dia quer da hora das reüniões, será anunciada por editais afixados nos lugares do estilo com a antecipação de oito dias, pelo menos.
 

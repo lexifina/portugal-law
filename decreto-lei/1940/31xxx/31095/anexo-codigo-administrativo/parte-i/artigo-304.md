@@ -1,3 +1,7 @@
+## Capítulo III
+
+## Da junta distrital
+
 # Artigo 304.º
 
-A junta de província é o corpo administrativo da província e compõe-se de presidente e vice-presidente, que serão o presidente e o vice-presidente do conselho provincial, e de três vogais, eleitos por êste de entre os procuradores na sua reünião de constituïção.
+A junta distrital é o corpo administrativo do distrito e compõe-se de presidente e vice-presidente e de três vogais, eleitos pelo conselho do distrito na sua reunião de constituição.

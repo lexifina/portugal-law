@@ -10,4 +10,6 @@ Têm direito aos vencimentos de categoria e exercício:
 
 4.º Os funcionários reintegrados nos seus cargos por sentença que anule o acto que os puniu, em relação ao tempo em que estiveram ilegalmente afastados do cargo.
 
-§ único. Os funcionários providos em novo cargo por virtude do qual tenham de transferir-se de localidade consideram-se em exercício efectivo do antigo cargo no período, não excedente a cinco dias, que mediar entre a cessação das funções no lugar de que saem e a posse do lugar que vão ocupar.
+§ 1.º A gratificação de chefia pertence a quem efectivamente desempenhe as respectiva funções, salvo no caso de licença graciosa ou no de impedimento legal, até trinta dias em cada ano, do titular do cargo.
+
+§ 2.º Os funcionários providos em novo cargo por virtude do qual tenham de transferir-se de localidade consideram-se em exercício efectivo do antigo cargo no período, não excedente a cinco dias, que mediar entre a cessação das funções no lugar de que saem e a posse do lugar que vão ocupar.

@@ -10,7 +10,7 @@ As penalidades aplicáveis aos funcionários administrativos pelas faltas discip
 
 4.º Suspensão de exercício e vencimentos de dez até sessenta dias;
 
-5.º Suspensão de exercício e vencimentos de sessenta até cento e oitenta dias;
+5.º Suspensão de exercício e vencimentos de mais de sessenta até cento e oitenta dias.
 
 6.º Aposentação compulsiva;
 

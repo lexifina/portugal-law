@@ -20,7 +20,7 @@ O presidente da câmara, salvo o disposto nos §§ 1.º e 2.º, é também autor
 
 9.º Exercer a polícia relativa às prostitutas;
 
-10.ª Colaborar, no que lhe fôr requerido ou por sua iniciativa, com a polícia de vigilância e defesa do Estado;
+10.º Colaborar, no que lhe for requerido ou por sua iniciativa, com os organismos de polícia internacional e de defesa do Estado;
 
 11.º Exercer, por si ou seus agentes, as atribuïções da polícia judiciária relativa à investigação dos crimes públicos e à captura dos criminosos, sem prejuízo da competência dos tribunais ordinários e de outras autoridades da mesma polícia;
 

@@ -1,5 +1,7 @@
 # Artigo 373.º
 
+### À inspecção a exercer pelo Ministério do Interior competirá:
+
 À inspecção a exercer pelo Ministério do Interior competirá:
 
 1.º Averiguar as possibilidades económicas e financeiras das autarquias locais, a obra por elas realizada, o modo como são desempenhadas as atribuïções do exercício obrigatório, o sistema de colaboração e coordenação da actividade provincial com a municipal e desta com a paroquial e receber e procurar dar satisfação às queixas e reclamações dos povos;

@@ -10,4 +10,4 @@ Compete à comissão municipal de higiene:
 
 4.º Coadjuvar o presidente da câmara na execução das deliberações ou decisões tomadas em matéria sanitária, quando lhe seja determinado.
 
-§ único. Se a comissão der parecer desfavorável à aprovação de um projecto de regulamento ou postura sanitária, o presidente da câmara, o delegado de saúde e o veterinário municipal poderão recorrer para o Conselho Superior de Higiene ou para a Junta Sanitária de Águas, conforme os casos.
+§ único. Se a comissão der parecer desfavorável à aprovação de um projecto de regulamento ou postura sanitária, o presidente da câmara, o delegado ou subdelegado de saúde e o veterinário municipal poderão recorrer para o Conselho Superior de Higiene e Assistência Social ou para a Junta Sanitária de Águas, conforme os casos.

@@ -1,5 +1,7 @@
 # Artigo 41.º
 
+### Perdem o mandato os vereadores:
+
 Perdem o mandato os vereadores:
 
 1.º Que aceitem cargos ou adquiram situações que os tornem inelegíveis;

@@ -1,5 +1,7 @@
 # Artigo 375.º
 
+### Em matéria de inspecção administrativa, compete aos governadores civis:
+
 Em matéria de inspecção administrativa, compete aos governadores civis:
 
 1.º Pedir aos presidentes das câmaras informações e esclarecimentos sôbre os serviços municipais e paroquiais e, aos presidentes das juntas de província, sôbre os serviços da província, quando dêles careçam;

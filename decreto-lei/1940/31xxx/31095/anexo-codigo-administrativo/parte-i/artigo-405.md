@@ -12,6 +12,6 @@ Só pode ser nomeado governador civil o cidadão português originário, no gôz
 
 5.ª Antigos presidentes de câmara;
 
-6.ª Antigos vereadores ou vogais de junta de província, que tenham exercido o mandato durante quatro anos, pelo menos.
+6.º Antigos vereadores ou membros de juntas de província ou distritais que tenham exercido o mandato durante quatro anos, pelo menos.
 
 § único. O cargo de governador civil é incompatível com o exercício de qualquer outro cargo público ou da advocacia.

@@ -1,19 +1,15 @@
 # Artigo 288.º
 
-Podem ser eleitos procuradores ao conselho provincial os cidadãos no gôzo dos seus direitos civis e políticos, domiciliados na circunscrição provincial, que saibam ler e escrever e pertençam ao corpo, classe ou instituïção que representem.
+Salvo o disposto no § 2.º do artigo anterior, só podem ser eleitos procuradores ao conselho do distrito os cidadãos que pertençam ao corpo administrativo que representam.
 
 § 1.º Exceptuam-se:
 
-1.º Os funcionários e magistrados referidos nos n.os 2.º a 7.º do artigo 18.º;
+1.º Os membros das direcções, conselhos de administração ou fiscais de empresas, sociedades ou companhias que tenham contrato com o distrito;
 
-2.º Os membros das direcções, conselhos de administração ou fiscais de emprêsas, sociedades ou companhias que tenham contrato com a província;
+2.º Os directamente interessados em contrato com o distrito e os respectivos fiadores;
 
-3.º Os directamente interessados em contrato com a província e os respectivos fiadores;
+3.º Os vogais da junta distrital imediatamente anterior à eleição, se aquela tiver sido dissolvida por facto que lhes seja imputável;
 
-4.º Os vogais da junta de província imediatamente anterior à eleição, se aquela tiver sido dissolvida por facto que lhes seja imputável;
+4.º Os empregados das pessoas colectivas de utilidade pública administrativa com sede no distrito e sujeitas à prestação de contas à junta distrital.
 
-5.º Os empregados das pessoas colectivas de utilidade pública administrativa com sede na província e sujeitas à prestação de contas.
-
-§ 2.º Não são compreendidos no n.º 1.º do parágrafo anterior os funcionários públicos na situação de licença ilimitada, aposentados ou reformados, salvo os que dependam da junta de província ou sejam pagos pelos seus cofres.
-
-§ 3.º As funções de procurador ao conselho provincial são acumuláveis com as de presidente ou vogal de câmara municipal ou junta de freguesia, com as de qualquer cargo do Estado e com as legislativas.
+§ 2.º As funções de procurador ao conselho do distrito são acumuláveis com as de presidente ou vogal de câmara municipal, com as de qualquer cargo do Estado e com as legislativas.

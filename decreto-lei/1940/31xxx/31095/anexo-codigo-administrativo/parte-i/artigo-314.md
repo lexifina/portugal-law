@@ -1,6 +1,6 @@
 # Artigo 314.º
 
-No uso das atribuïções de assistência, pertence às juntas de província:
+No uso das atribuições de assistência, pertence às juntas distritais administrar os estabelecimentos a seu cargo.
 
 1.º Estudar e submeter à aprovação superior os planos de assistência social acomodados às circunstâncias e necessidades da província, e que devam executar-se pelas fôrças das autarquias locais em cooperação e coordenação com as iniciativas particulares ou com a comparticipação do Estado, quando fôr caso disso;
 

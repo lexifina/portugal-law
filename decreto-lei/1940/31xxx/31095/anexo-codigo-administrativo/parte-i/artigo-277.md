@@ -16,7 +16,7 @@ Incumbe ao regedor de freguesia:
 
 7.º Prestar às autoridades sanitárias todo o auxílio de que carecerem para o exercício das suas funções;
 
-8.º Participar imediatamente ao delegado de saúde e ao presidente da câmara os factos perturbadores da saúde pública de que tenha conhecimento, a aparição de moléstias epidémicas ou suspeitas e as transgressões das leis, regulamentos e posturas sanitárias;
+8.º Participar imediatamente ao delegado ou subdelegado de saúde e ao presidente da câmara os factos perturbadores da saúde pública de que tenha conhecimento, a aparição de moléstias epidémicas ou suspeitas e as transgressões das leis, regulamentos e posturas sanitárias.
 
 9.º Impedir que se enterrem cadáveres fora dos cemitérios públicos;
 

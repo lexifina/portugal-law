@@ -1,3 +1,3 @@
 # Artigo 317.º
 
-Não é permitido às juntas de província conceder subsídios permanentes ou especiais ou donativos a associações ou institutos humanitários ou de assistência que não estejam a seu cargo, salvo o disposto no n.º 2.º do artigo 314.º
+Para conveniente exercício das suas atribuições podem as juntas distritais criar comissões ou conselhos consultivos, com a composição e competência a estabelecer nos regulamentos respectivos.

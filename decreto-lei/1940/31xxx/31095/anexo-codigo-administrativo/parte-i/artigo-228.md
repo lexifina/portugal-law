@@ -12,7 +12,7 @@ Os vogais das juntas de freguesia são eleitos em lista completa.
 
 § 5.º As listas cuja apresentação não obedeça ao disposto nos §§ 1.º, 2.º e 3.º dêste artigo ter-se-ão como não apresentadas.
 
-§ 6.º As listas em que figurem candidatos cuja inelegibilidade fôr documentalmente comprovada por qualquer eleitor ter-se-ão igualmente por não apresentadas se, ouvido o respectivo mandatário, quando compareça no prazo que lhe fôr designado, não se demonstrar a falsidade da argüição e aquele não propuser outro candidato em substituïção do eliminado.
+§ 6.º As listas em que figurem candidatos cuja inelegibilidade for documentalmente comprovada por qualquer eleitor ou oficiosamente verificada pelo presidente da câmara ou administrador do bairro, em face de informações oficiais, ter-se-ão igualmente por não apresentadas, se o respectivo mandatário não demonstrar, no prazo que lhe for designado, a falta de fundamento da arguição e aquele não propuser um candidato elegível em substituição do eliminado.
 
 § 7.º Nas listas em que o número de candidatos fôr superior ao legal excluir-se-ão os últimos nomes excedentes.
 

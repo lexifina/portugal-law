@@ -20,4 +20,4 @@
 
 9.º Propor à câmara todas as medidas tendentes a melhorar a organização e o funcionamento do serviço.
 
-§ único. As deliberações a que se referem os n.os 2.º e 4.º serão, imediatamente depois de tomadas, comunicadas pelo presidente do conselho de administração ao presidente da câmara, o qual poderá suspender a sua execução e submetê-las à sanção da câmara municipal na primeira reünião ordinária, salvo se a deliberação tiver por objecto fixar tarifas de venda de energia eléctrica, pois nesse caso será sempre submetida pelo presidente da câmara à aprovação do Govêrno, pelo Ministério competente.
+§ único. As deliberações a que se referem os n.os 2.º e 4.º serão, imediatamente depois de tomadas, comunicadas pelo presidente do conselho de administração ao presidente da câmara, o qual poderá suspender a sua execução e submetê-las à sanção da câmara municipal na primeira reunião ordinária, salvo se a deliberação tiver por objecto fixar tarifas de venda de energia eléctrica, pois nesse caso será sempre submetida pelo presidente da câmara à aprovação do Governo, pelo Ministério da Economia.

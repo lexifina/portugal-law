@@ -1,6 +1,6 @@
 # Artigo 651.º
 
-Em cada província ou concelho haverá um quadro de pessoal menor, especializado e operário, compreendendo todas ou algumas das classes dos seguintes grupos:
+Em cada distrito ou concelho haverá um quadro de pessoal menor, especializado e operário, compreendendo todas on algumas das classes dos seguintes grupos:
 
 1.º Motoristas, telefonistas, contínuos e oficiais de diligências;
 
@@ -12,4 +12,6 @@ Em cada província ou concelho haverá um quadro de pessoal menor, especializado
 
 5.º Ajudantes dos motoristas, ajudantes dos coveiros, ajudantes dos fiéis, serventes.
 
-§ único. Nas províncias ou concelhos onde a complexidade de serviços e o número dos serventuários o justifique podará desdobrar se o quadro a que êste artigo se refere em dois ou três quadros distintos.
+§ 1.º Nos distritos ou concelhos onde a complexidade de serviços e o número de serventuários o justifique poderá desdobrar-se o quadro a que este artigo se refere em dois ou mais quadros distintos.
+
+§ 2.º Além das classes enumeradas neste artigo, poderão ser incluídas outras nos quadros distritais ou municipais, sob proposta dos respectivos corpos administrativos aprovada pelo Ministro do Interior. O despacho de aprovação designará sempre, para cada nova classe incluída nos quadros, o grupo em que deve ser incorporada, para o efeito de se determinar a forma do provimento.

@@ -4,7 +4,7 @@ As obras serão de preferência feitas por empreitada e, em todos os casos, prec
 
 § 1.º Poderão ser feitas por administração directa:
 
-1.º As obras municipais cujo valor não exceda 50 contos, as paroquiais cujo valor não exceda 10 contos e as provinciais de valor inferior a 25 contos;
+1.º As obras municipais cujo valor não exceda 100 contos, as paroquiais cujo valor não exceda 20 contos e as distritais de valor inferior a 50 contos;
 
 2.º As obras de construção e grande reparação, quando haja extrema urgência;
 

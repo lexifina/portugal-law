@@ -1,11 +1,11 @@
 # Artigo 465.º
 
-O júri das provas dos concursos será constituído:
+O júri dos concursos será constituído:
 
-1.º Para os governos civis e administrações de bairro, por dois funcionários superiores da Direcção Geral de Administração Política e Civil e um secretário de govêrno civil, todos designados pelo Ministro do Interior;
+1.º Para os governos civis e administrações de bairro, pelo director-geral de Administração Política e Civil, presidente, por um funcionário superior da Direcção-Geral e um secretário de governo civil, designados pelo director-geral;
 
 2.º Para as câmaras municipais, pelo presidente da câmara, um vereador por esta designado e o chefe da secretaria;
 
-3.º Para as juntas de província, pelo presidente da junta de província, um procurador por esta designado e o chefe da secretaria.
+3.º Para juntas distritais, pelo presidente da junta distrital, um procurador por esta designado e o chefe da secretaria.
 
-§ único. No caso de impedimento ou suspeição contra qualquer membro do júri, será êste substituído por quem o Ministro do Interior designar.
+§ único. No caso de impedimento ou suspeição contra qualquer membro do júri será este substituído por quem o Ministro do Interior designar.

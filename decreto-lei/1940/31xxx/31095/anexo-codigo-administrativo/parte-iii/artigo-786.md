@@ -1,6 +1,6 @@
 # Artigo 786.º
 
-A receita ordinária das províncias será classificada e distribuída no orçamento pelos seguintes capítulos:
+A receita ordinária dos distritos será classificada e distribuída no orçamento pelos seguintes capítulos:
 
 1.º Adicionais às contribuïções do Estado;
 

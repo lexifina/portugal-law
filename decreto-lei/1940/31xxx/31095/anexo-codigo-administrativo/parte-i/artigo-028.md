@@ -1,6 +1,6 @@
 # Artigo 28.º
 
-Nos anos em que deva proceder-se à constituïção de novo conselho municipal reünir-se-á êste no dia 25 de Novembro só para o efeito da verificação dos poderes dos seus vogais e da eleição dos secretários e da câmara municipal, continuando porém o antigo conselho, para tudo o mais, em exercício de funções até 31 de Dezembro.
+Nos anos em que deva proceder-se à constituição de novo conselho municipal reunir-se-á este no dia 2 de Dezembro só para o efeito da verificação dos poderes dos seus vogais e da eleição dos secretários e da câmara municipal, continuando porém o antigo conselho, para tudo o mais, em exercício de funções até 31 de Dezembro.
 
 § 1.º A convocação da reünião será feita pelo presidente da câmara com cinco dias do antecedência, pelo menos, por meio de avisos enviados pelo correio, sob registo e com aviso de recepção, e publicados em jornais locais, se os houver.
 

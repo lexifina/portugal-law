@@ -6,4 +6,4 @@ Dissolvida a mesa, direcção ou administração, o governador civil nomeará, n
 
 § 2.º São inelegíveis para a nova mesa, direcção ou administração os membros da que tiver sido dissolvida por facto que lhe seja imputável;
 
-§ 3.º Quando a gerência de um instituto não se constitua por processo eleitoral, o governador civil providenciará pela forma que em seu entender mais se harmonize com a vontade do instituïdor e o interêsse público.
+§ 3.º Inobservância das instruções e ordens legalmente dadas pelo Governo ou pelo governador civil ou oposição ao exercício das faculdades de fiscalização das entidades competentes;

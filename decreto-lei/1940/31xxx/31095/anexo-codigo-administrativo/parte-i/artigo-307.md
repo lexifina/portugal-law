@@ -1,6 +1,6 @@
 # Artigo 307.º
 
-As funções de vogal da junta de província são obrigatórias e gratuitas.
+As funções de vogal da junta distrital são obrigatórias e gratuitas.
 
 § 1.º Constituem motivo de escusa:
 
@@ -12,4 +12,4 @@ As funções de vogal da junta de província são obrigatórias e gratuitas.
 
 4.º Denegação de autorização do Ministro respectivo quando o eleito seja funcionário e por lei careça dessa autorização para o exercício de cargos alheios às suas funções.
 
-§ 2.º Aplica-se ao pedido de escusa das funções de vogal da junta de província o disposto quanto aos vogais do conselho municipal.
+§ 2.º Aplica-se ao pedido de escusa das funções de vogal da junta distrital o disposto quanto aos vogais do conselho municipal.

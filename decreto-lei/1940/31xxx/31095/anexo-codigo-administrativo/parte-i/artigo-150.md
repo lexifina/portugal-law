@@ -22,7 +22,7 @@ Incumbe obrigatòriamente aos médicos municipais:
 
 10.º Auxiliar gratuitamente as intervenções cirúrgicas operadas nos hospitais existentes na área dos seus partidos, quando os doentes sejam pobres e o operador solicite o auxílio;
 
-11.º Auxiliar o delegado de saúde, cooperando com êle para o cabal desempenho dos serviços sanitários;
+11.º Auxiliar o delegado ou subdelegado de saúde, cooperando com ele para o cabal desempenho dos serviços sanitários;
 
 12.º Auxiliarem-se e substituírem-se recìprocamente os do mesmo concelho;
 

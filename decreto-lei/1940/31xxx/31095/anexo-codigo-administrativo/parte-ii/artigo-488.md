@@ -10,6 +10,8 @@ c) Os funcionários na situação de inactividade no quadro;
 
 d) Os funcionários rehabilitados em revisão de processo.
 
+e) Os inspectores ou subinspectores administrativos com mais de cinco anos de serviço e que tenham sido aprovados no respectivo concurso de habilitação.
+
 § 1.º Os concorrentes terão apenas de requerer o provimento, indicando nos seus requerimentos os títulos que os habilitam a concorrer.
 
 § 2.º Se a vaga a prover pertencer aos governos civis ou administrações de bairro, o processo de concurso será apresentado ao Ministro do Interior, e se a vaga pertencer a um corpo administrativo será aquele remetido ao respectivo presidente pelo director geral.
