@@ -1,0 +1,13 @@
+Portaria n.º 439/2003
+de 27 de Maio
+Tornando-se necessário flexibilizar os limites máximos de idade para admissão ao concurso para ingresso de alunos na Escola Naval;
+Sob proposta do Chefe do Estado-Maior da Armada;
+Ao abrigo do disposto no artigo 28.º do Decreto Regulamentar n.º 22/86, de 11 de Julho:
+Manda o Governo, pelo Ministro da Defesa Nacional, que a alínea d) do n.º 1 e a alínea f) do n.º 2 do anexo D ao Regulamento da Escola Naval, aprovado pela Portaria n.º 471/86, de 28 de Agosto, na redacção que lhe foi dada pela Portaria n.º 655/94, de 19 de Julho, passem a ter a seguinte redacção:
+«1 - ...
+...
+d) Não ultrapassar o limite de idade a fixar por despacho do Chefe do Estado-Maior da Armada.
+2 - ...
+...
+f) Não ultrapassar o limite de idade a fixar por despacho do Chefe do Estado-Maior da Armada.»
+Pelo Ministro de Estado e da Defesa Nacional, Henrique José Praia da Rocha de Freitas, Secretário de Estado da Defesa e Antigos Combatentes, em 2 de Maio de 2003.
