@@ -2,10 +2,12 @@
 
 ### Afastamento da presunção de paternidade de filho de mulher casada
 
-1 - Se a mulher casada fizer a declaração do nascimento com a indicação de que o filho não é do marido, não é feita a menção da paternidade.
+1 - Se a mulher casada fizer a declaração do nascimento com a indicação de que o filho não é do marido, não é efectuada a menção da paternidade presumida, podendo, desde logo, ser aceite o reconhecimento voluntário da paternidade.
 
-2 - A indicação a que se refere o número anterior é reduzida a auto, nele devendo o marido da declarante ser devidamente identificado, com vista ao disposto no n.º 4.
+2 - A indicação a que se refere o número anterior é reduzida a auto, nele devendo o marido da declarante ser devidamente identificado.
 
-3 - Declarado, no competente processo de afastamento da presunção de paternidade, que, na ocasião do nascimento, o filho não beneficiou da posse de estado em relação a ambos os cônjuges, é este facto averbado ao assento.
+3 - Lavrado o assento, procede-se à notificação do marido da mãe para, querendo, impugnar a paternidade constante do registo ou efectuar a perfilhação, sendo aquela omissa.
 
-4 - Se a mãe, no prazo de 60 dias, não requerer a instauração do processo a que se refere o número anterior ou se o pedido for indeferido, é oficiosamente averbada ao assento de nascimento a paternidade do marido.
+4 - Com a notificação envia-se ou entrega-se ao notificado cópia ou fotocópia do assento de nascimento e do auto referido no n.º 2.
+
+5 - No auto mencionado no n.º 2 é lançada cota de referência da notificação.

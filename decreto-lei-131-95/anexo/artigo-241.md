@@ -6,4 +6,8 @@
 
 ### Domínio de aplicação
 
-Verificada a existência, no contexto do registo, de alguma das deficiências ou irregularidades previstas nas alíneas c) e d) do n.º 1 do artigo 91.º e no n.º 2 do artigo 93.º, deve ser instaurado processo de justificação administrativa, com base em auto de notícia lavrado pelo conservador ou em requerimento do interessado.
+1 - Ao suprimento da omissão de registo, bem como à declaração da sua inexistência jurídica ou da sua nulidade, é aplicável o processo de justificação administrativa.
+
+2 - O mesmo processo deve ser instaurado quando verificada a existência de alguma das irregularidades previstas no n.º 2 do artigo 93.º
+
+3 - O processo é instaurado com base em auto de notícia lavrado pelo conservador ou em requerimento do interessado.

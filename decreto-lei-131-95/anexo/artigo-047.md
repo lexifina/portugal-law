@@ -6,4 +6,4 @@
 
 2 - O impedimento a que se refere o número anterior é extensivo aos adjuntos e ajudantes da conservatória a que pertence o conservador impedido.
 
-3 - Ao conservador que exerça a advocacia é vedado o patrocínio nos processos previstos nos artigos 253.º, 255.º, 261.º, 266.º, 271.º e 275.º
+3 - Ao conservador que exerça a advocacia é vedado aceitar mandato nos processos previstos nos artigos 253.º, 255.º, 261.º, 266.º e 271.º

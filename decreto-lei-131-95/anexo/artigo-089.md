@@ -8,4 +8,4 @@ a) A assinatura das partes, procurador, testemunhas, intérprete ou funcionário
 
 b) Ter sido viciado nas condições previstas na alínea b) do artigo anterior;
 
-c) Respeitar a facto que nunca existiu ou decisão judicial que nunca foi proferida.
+c) Respeitar a facto que nunca existiu ou decisão que nunca foi proferida.
