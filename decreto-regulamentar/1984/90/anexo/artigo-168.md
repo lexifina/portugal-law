@@ -68,7 +68,7 @@ Nota. - Estes valores são válidos para a temperatura ambiente de 20ºC e foram
 
 QUADRO 3.6
 
-Intensidades máximas de corrente permanente admissíveis em cabos blindados, com isolamento e bainha de policloreto do vinilo, do tipo VHV, instalados ao ar.
+Intensidades máximas de corrente permanente admissíveis em cabos blindados, com isolamento e bainha, de policloreto de vinilo, do tipo VHV, instalados ao ar.
 
 (Artigo 11.º - Comentário 2)
 

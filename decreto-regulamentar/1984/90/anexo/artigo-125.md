@@ -12,7 +12,7 @@
 
 As redes de distribuição aéreas serão protegidas contra sobretensões de origem atmosférica ou provenientes de contactos acidentais com instalações de alta tensão por intermédio das ligações do neutro à terra previstas no artigo 134.º e da instalação de pára-raios ligados entre os condutores de fase e de neutro nas regiões em que a incidência de trovoadas o justifique.
 
-Comentários. - 1 - É conveniente instalar pára-raios para proteger as redes de distribuição aéreas contra sobretensões de origem atmosférica quando estas forem estabelecidas em regiões de elevado nível ceráunico (número de dias do ano durante os quais se ouve trovejar, ou com a finalidade de evitar a transmissão de alta tensão para as instalações de baixa tensão.
+Comentários. - 1 - É conveniente instalar pára-raios para proteger as redes de distribuição aéreas contra sobretensões de origem atmosférica quando estas forem estabelecidas em regiões de elevado nível ceráunico (número de dias do ano durante os quais se ouve trovejar), ou com a finalidade de evitar a transmissão de alta tensão para as instalações de baixa tensão.
 
 2 - Quanto mais próxima a rede de distribuição estiver de possíveis utilizadores e quanto menor for a condutibilidade dos terrenos numa zona onde seja frequente trovejar, tanto mais se deve aumentar a frequência da ligação do neutro à terra.
 

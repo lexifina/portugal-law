@@ -126,7 +126,7 @@ c) Em redes subterrâneas, o quadro (armário) ou o aparelho de ligação onde �
 
 Comentários. - 1 - A resistência de terra de um eléctrodo de terra X, que é constituído, praticamente, pela resistência de contacto e das camadas de terreno que ficam na proximidade do eléctrodo e nas quais a existência de uma densidade de corrente elevada provoca quedas de tensão sensíveis, pode medir-se (fig. 1) fazendo circular entre X e um eléctrodo de terra auxiliar A (eléctrodo auxiliar de corrente) uma corrente I(índice XA) e medindo a tensão U(índice XB) entre X e outro eléctrodo auxiliar B (eléctrodo auxiliar de tensão).
 
-Quando os eléctrodos estiverem suficientemente afastados uns dos outros, o quociente U(índice XB) I(índice XA) toma um valor limite que é a resistência de terra do eléctrodo X.
+Quando os eléctrodos estiverem suficientemente afastados uns dos outros, o quociente U(índice XB)/I(índice XA) toma um valor limite que é a resistência de terra do eléctrodo X.
 
 (ver documento original)
 

@@ -12,7 +12,7 @@
 
 3 - A protecção e o comando dos candeeiros poderão ser feitos individualmente ou por grupos.
 
-4 - Os aparelhos de protecção e de comando dos candeeiros deverão ficar instalados em quadros devidamente dimensionados, os quais deverão estar alojados, em regra, no interior do espaço protegido pela porta ou tampa referidos no n.º 2.
+4 - Os aparelhos de protecção e de comando dos candeeiros deverão ficar instalados em quadros devidamente dimensionados, os quais deverão estar alojados, em regra, no interior do espaço protegido pela porta ou tampa referida no n.º 2.
 
 5 - Quando, pela sua situação ou dimensões, não for possível instalar o quadro referido no número anterior no interior da coluna do candeeiro, ou quando esta não existir, o quadro será colocado em local apropriado junto do seu braço.
 
