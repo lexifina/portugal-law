@@ -1,0 +1,7 @@
+Portaria n.º 23630
+Considerando a necessidade de definir a política do transporte aéreo na região dos Açores e, com base nela, formular as correspondentes medidas concretas a incluir no programa de execução do III Plano de Fomento:
+Manda o Governo da República Portuguesa, pelos Ministros do Interior e das Comunicações, que um grupo de trabalho, presidido pelo director-geral da Aeronáutica Civil e composto por representantes das juntas gerais dos distritos autónomos dos Açores e dos transportadores nacionais interessados, Transportes Aéreos Portugueses, S. A. R. L., e Sociedade Açoriana de Transportes Aéreos, e pelos peritos da Direcção-Geral da Aeronáutica Civil que se reputar conveniente agregar-lhe, estude e proponha a rede de transportes aéreos para serviço da região dos Açores, definindo concretamente, com base no melhor rendimento dos investimentos já efectuados ou a efectuar durante a vigência do III Plano de Fomento (1968-1973), tanto no sector público como no privado:
+a) As ligações interilhas;
+b) As ligações com o continente e o arquipélago da Madeira;
+c) As ligações com o estrangeiro, nomeadamente as que se destinam a servir as correntes emigratórias para o Canadá e os Estados Unidos da América.
+Ministérios do Interior e das Comunicações, 28 de Setembro de 1968. - O Ministro do Interior, António Manuel Gonçalves Rapazote. - O Ministro das Comunicações, José Estêvão Abranches Couceiro do Canto Moniz.
