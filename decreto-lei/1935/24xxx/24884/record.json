@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1935/01/00700/00530053.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1935-01-09",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "07e6bdf1d4dc69104d8f5a7adf6364e0ac1cb9a3a3f9dd161b2450046f3ef66c",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 94.7,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "c8b9781036ad08653c0ad3ab20b5cd14b0f67dc1bf1d0f538f7a914ee8946a67",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 192
 }
