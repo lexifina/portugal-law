@@ -1,0 +1,16 @@
+Portaria n.º 708/86
+de 24 de Novembro
+Considerando o disposto no Decreto-Lei n.º 508/86, de 31 de Dezembro, torna-se necessário estabelecer anualmente os preços de garantia para a matéria-prima destinada à produção de álcool e a margem de laboração.
+Nesta campanha, situações climatéricas anormais conduziram à destruição efectiva de grande parte da colheita de figo, pelo que, sem prejuízo do sistema de cálculo dos preços que vem sendo adoptado, visando a sua estabilização, se tornou indispensável compensar a título excepcional os produtores nacionais, optando-se por um nível de preços superior aos que resultariam da aplicação restrita daquele sistema.
+Estes preços não poderão, porém, ser tidos em consideração como base em próxima revisão.
+Assim, ao abrigo do n.º 1 do artigo 5.º do Decreto-Lei n.º 508/85, de 31 de Dezembro:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio, o seguinte:
+1.º Para a campanha do figo de 1986-1987, o preço de garantia do figo industrial posto nas destilarias indicadas pela Administração-Geral do Açúcar e do Álcool, adiante designada por AGA, isento de impurezas e com grau de humidade normal, é fixado em 495$00 por arroba.
+2.º Sempre que o figo apresente teor de impurezas ou de humidade anormal, o preço fixado sofrerá descontos proporcionais à incidência desses factores.
+3.º O preço da aguardente de figo, na base de 50º x 20º, limpa de prova e cheiro, com um teor alcoólico mínimo de 40º x 20º e com valores analíticos considerados normais, colocada nas fábricas produtoras de álcool a indicar pela AGA, é de 75$44 por litro.
+4.º A taxa de laboração da aguardente, na base de 50º x 20º, é de 18$80 por litro.
+5.º Na aplicação da taxa de laboração referida no n.º 4.º poderá ser considerado, sempre que devidamente justificado, o rendimento mínimo que, caso a caso, venha a ser fixado pela AGA.
+6.º Esta portaria aplica-se apenas ao território do continente e produz efeitos desde 1 de Outubro de 1986.
+Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
+Assinada em 5 de Novembro de 1986.
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.
