@@ -1,0 +1,5 @@
+Aviso n.º 85/2000
+Por ordem superior se torna público que, em 15 de Setembro de 1999 e em 17 de Janeiro de 2000, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros português e pelo Ministério dos Negócios Estrangeiros espanhol, em que se comunica terem sido cumpridas as formalidades constitucionais exigidas pelos ordenamentos jurídicos de ambos os países para a aprovação da Convenção sobre a Cooperação para a Protecção e o Aproveitamento Sustentável das Águas das Bacias Hidrográficas Luso-Espanholas e o Protocolo Adicional.
+A citada Convenção foi aprovada pela Resolução da Assembleia da República n.º 66/99 e pelo Decreto do Presidente da República n.º 182/99, publicados no Diário da República, 1.ª série-A, n.º 191, de 17 de Agosto de 1999.
+Em conformidade com o artigo 35.º da Convenção, esta entrou em vigor em 17 de Janeiro de 2000.
+Direcção-Geral das Relações Bilaterais, 20 de Janeiro de 2000. - O Director-Geral, José Caetano de Campos Andrada da Costa Pereira.
