@@ -1,0 +1,29 @@
+Portaria n.º 582/73
+de 27 de Agosto
+Considerando que se torna necessário regular o artigo 2.º do Decreto-Lei n.º 345/73, de 7 de Julho, de harmonia com o seu n.º 5:
+Manda o Governo da República Portuguesa, pelo Ministro do Exército, o seguinte:
+1.º Têm direito ao subsídio mensal de deslocamento previsto no artigo 2.º do Decreto-Lei n.º 345/73, de 7 de Julho, os militares:
+a) Transferidos para uma guarnição que não conste da declaração como principal preferência por razão de residência familiar há mais de um ano, quando da promoção ao posto imediato;
+b) Transferidos por motivos de serviço, excepto motivo disciplinar, para uma guarnição diferente daquela onde se encontram colocados e que não seja a guarnição onde mantêm a sua residência familiar há mais de um ano;
+c) Que solicitem transferência para uma guarnição onde mantêm a sua residência familiar há mais de um ano, enquanto a mesma não se efectivar;
+d) Que, após a sua última comissão no ultramar, sejam colocados numa guarnição que não conste da declaração como principal preferência ou onde não tenham a sua residência familiar.
+2.º Os subsídios mensais são abonados proporcionalmente ao número de dias do mês que o militar estiver deslocado, tomando-se como seu início o dia da apresentação na guarnição onde foi colocado e, como último dia, o de saída dessa guarnição.
+3.º Apenas é considerada como guarnição onde o militar pode manter a sua residência familiar aquela em que haja lugar orgânico compatível com o seu posto, graduação, arma, serviço ou especialidade.
+4.º As guarnições militares de Lisboa, Porto e Elvas englobam os comandos, unidades e estabelecimentos compreendidos nas localidades constantes do artigo 2.º do Decreto-Lei n.º 34366, de 3 de Janeiro de 1945.
+5.º O subsídio de deslocamento cessa nos seguintes casos:
+a) Quando o militar desista da transferência para a guarnição que havia solicitado como sua primeira preferência;
+b) Quando o militar estabeleça a sua residência familiar na guarnição onde foi colocado e nesta coabite com a família;
+c) Quando o militar deixe de ter a sua residência familiar na guarnição para onde tem pendente o seu pedido de transferência;
+d) Quando deixe de ter encargos familiares;
+e) Quando seja transferido da guarnição por motivos disciplinares;
+f) Quando os militares considerados deslocados venham a ser transferidos para a guarnição indicada como principal preferência.
+6.º As Repartições de Oficiais e de Sargentos e Praças deverão enviar à Direcção do Serviço de Administração cópia da ordem de colocação ou de transferência dos militares dos quadros permanentes.
+7.º Para efeito do disposto nesta portaria, são considerados como família do militar:
+A mulher;
+Os filhos menores;
+As filhas solteiras;
+Outras pessoas que, estando a seu cargo, confira direito a abono de família.
+8.º Não terá direito ao subsídio de deslocamento o militar que na guarnição onde for colocado possa ter habitação para si e sua família de conta do Estado, desde que a ocupe.
+9.º Os oficiais, sargentos e cabos readmitidos, presentes na metrópole, com encargos de família, devem enviar, através dos respectivos comandos ou chefias, às competentes repartições da Direcção do Serviço de Pessoal, uma declaração com a indicação da guarnição onde têm a residência familiar. Qualquer alteração deve ser comunicada às mesmas entidades, mencionando a guarnição da nova residência familiar e a data da sua transferência.
+10.º Os militares que nesta data se considerem deslocados e se julguem com direito ao subsídio de deslocamento, deverão requerê-lo ao Ministro do Exército através da Direcção do Serviço de Administração, que solicitará o parecer da Direcção do Serviço de Pessoal.
+Ministério do Exército, 4 de Agosto de 1973. - O Ministro do Exército, Horácio José de Sá Viana Rebelo.
