@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1949/12/27800/09780978.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1949-12-30",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "ddbc1308212a0b5ae57bdb5ccb5e04266fe2c0db390173545baeb7092e1eeed6",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.6,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "c18cacc9c5657f6f4b385e9964193cd8d73de38c9eefe0e0a0eb345ac0919248",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 408
 }
