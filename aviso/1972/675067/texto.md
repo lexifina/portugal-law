@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação da Embaixada da Polónia em Londres, o Governo da República Dominicana depositou, em 25 de Fevereiro de 1972, o seu instrumento de adesão ao Protocolo da Haia de 28 de Setembro da 1955, modificando a Convenção sobre a Unificação de Certas Normas Relativas ao Transporte Aéreo Internacional, concluída em Varsóvia em 12 de Outubro de 1929.
+Também o Governo do Fidji manifestou, em 25 de Fevereiro de 1972, a sua vontade de continuar vinculado pelas disposições daquele Protocolo, que já lhe eram aplicadas, antes da acessão à independência, mediante declaração nesse sentido oportunamente formulada pelo Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte.
+Direcção-Geral dos Negócios Económicos, 23 de Junho de 1972. - O Adjunto do Director-Geral, José Joaquim de Mena e Mendonça.
