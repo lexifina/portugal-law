@@ -1,0 +1,23 @@
+Lei n.º 45/80
+de 4 de Dezembro
+(Aditamento ao Decreto-Lei n.º 319-A/76, de 3 de Maio, que regulamenta a eleição do Presidente da República)
+A Assembleia da República decreta, nos termos da alínea d) do artigo 164.º, da alínea f) do artigo 167.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:
+ARTIGO 1.º
+Com base nos resultados do escrutínio provisório, fornecidos pelo Secretariado Técnico para os Assuntos do Processo Eleitoral, o Presidente do Supremo Tribunal de Justiça, ouvida a Comissão Nacional de Eleições, indicará, até às vinte e quatro horas do dia seguinte ao da votação, os candidatos provisoriamente admitidos ao sufrágio, sem prejuízo do disposto no Decreto-Lei n.º 319-A/76, de 3 de Maio, quanto ao apuramento dos resultados definitivos e ao contencioso eleitoral.
+ARTIGO 2.º
+A desistência de qualquer candidato após a realização do primeiro sufrágio só pode ter lugar até às doze horas do segundo dia seguinte ao da votação.
+ARTIGO 3.º
+A campanha eleitoral para o segundo sufrágio terá início às vinte e quatro horas do segundo dia seguinte ao da votação e terminará às vinte e quatro horas da antevéspera do dia marcado para a eleição.
+ARTIGO 4.º
+1. A todos os aspectos relacionados com a realização do segundo sufrágio não abrangidos pelas remissões do artigo 113.º do Decreto-Lei n.º 319-A/76, aplicar-se-ão as disposições constantes dos artigos 24.º, 30.º, 32.º, 36.º, 39.º a 43.º, 45.º a 50.º e 120.º a 159.º daquele diploma.
+2. O sorteio das candidaturas admitidas ao segundo sufrágio efectuar-se-á no segundo dia seguinte ao da votação, cumprindo-se o preceituado no n.º 1 do artigo 21.º e no artigo 22.º do Decreto-Lei n.º 319-A/76.
+3. Para o segundo sufrágio manter-se-ão a constituição e local de reunião das assembleias de voto, bem como a composição das respectivas mesas.
+4. Até ao quinto dia anterior ao da realização do segundo sufrágio os candidatos ou os respectivos mandatários poderão designar delegados das candidaturas, entendendo-se, se o não fizerem, que confirmam os designados para o primeiro sufrágio, seguindo-se os termos previstos no artigo 37.º do Decreto-Lei n.º 319-A/76, nomeadamente no que se refere à assinatura e autenticação das credenciais.
+ARTIGO 5.º
+Esta lei entra em vigor no dia imediato ao da sua publicação.
+Aprovada em 26 de Novembro de 1980.
+O Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.
+Promulgada em 30 de Novembro de 1980.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 3 de Dezembro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro
