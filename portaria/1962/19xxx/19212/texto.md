@@ -1,0 +1,3 @@
+Portaria n.º 19212
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, que aos funcionários do quadro da Direcção-Geral das Contribuições e Impostos, colocados como subchefes de secções de finanças, a transferir para outras secções por força da elevação das respectivas subchefias à 2.ª classe pela Portaria n.º 19002, de 3 de Fevereiro último, seja permitido continuar nos mesmos lugares até ao limite de tempo fixado no artigo 1.º do Decreto-Lei n.º 35778, de 2 de Agosto de 1946.
+Ministério das Finanças, 31 de Maio de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa.
