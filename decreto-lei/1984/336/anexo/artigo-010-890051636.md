@@ -1,11 +1,3 @@
-## Capítulo III
-
-## Órgãos sociais
-
-## Secção I
-
-## Assembleia geral
-
 # Artigo 10.º
 
 1 - A assembleia geral é constituída pelos accionistas com direito a voto.
