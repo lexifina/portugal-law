@@ -1,0 +1,145 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "118",
+    "id": "4686",
+    "titulo": "Aprova, para ratificação, o Tratado de Amesterdão, que altera o Tratado da União Europeia, os Tratados que instituem as Comunidades Europeias e alguns actos relativos a esses tratados, incluindo o anexo e os protocolos, bem como a Acta Final com as declarações, assinado em Amesterdão em 2 de Outubro de 1997"
+  },
+  "fase": "Votação global",
+  "codigo_fase": "330",
+  "data_registo": "1999-01-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "788",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "330",
+    "Comissao": null,
+    "DataFase": "1999-01-06",
+    "EvtId": "56",
+    "Fase": "Votação global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1999-01-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1131",
+                "nome": "Francisco Torres"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56783",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1178-1180"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-01-07",
+                "pubLeg": "VII",
+                "pubNr": "31",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/031/1999-01-07/1178?pgs=1178-1180&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O TRATADO DE AMSTERDAO, QUE ALTERA OTRATADO DA UNIAO EUROPEIA, OS TRATADOS QUE INSTITUEM AS COMUNIDADES EUROPEIAS E ALGUNS ACTOS RELATIVOS A ESSES TRATADOSINCLUINDO O ANEXO E OS PROTOCOLOS BEM COMO A ACTA FINAL COMAS DELARACOES ASSINADAS EM 2 DE OUTUBRO DE 1997",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "99875",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "788",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1999-01-07",
+        "pubLeg": "VII",
+        "pubNr": "31",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/031/1999-01-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1999-01-06",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> PEV</I>, <I> Maria José Nogueira Pinto (CDS-PP)</I>, <I> Jorge Ferreira (CDS-PP)</I>, <I> Nuno Correia Da Silva (CDS-PP)</I>, <I> Manuel Monteiro (CDS-PP)</I>, <I> Gonçalo Ribeiro Da Costa (CDS-PP)</I>, <I> Augusto Boucinha (CDS-PP)</I>, <I> Helena Santo (CDS-PP)</I>, <I> Nuno Abecasis (CDS-PP)</I>, <I> Francisco Peixoto (CDS-PP)</I>",
+        "id": "23091",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "108268",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-01-07",
+            "pubLeg": "VII",
+            "pubNr": "31",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/031/1999-01-07?org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "31",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
