@@ -1,0 +1,5 @@
+Despacho
+Atendendo ao que me é proposto pela Direcção-Geral dos Serviços Pecuários, com base na situação actual da epizootia de peste suína africana que se mostra presentemente com carácter de recrudescência, tornando-se aconselhável suspender temporàriamente a campanha de vacinação contra a peste suína clássica e suas complicações, determino, usando da competência que me é conferida pelo artigo único do Decreto-Lei n.º 44594, de 24 de Setembro de 1962, o seguinte:
+O prazo de 1 de Outubro do ano corrente fixado no meu despacho de 8 de Maio e publicado no Diário do Governo n.º 120, 1.ª série, de 20 do mesmo mês, a partir do qual o direito a indemnização pela extinção compulsiva de focos de peste suína africana ficava condicionado à prévia vacinação dos animais contra a peste suína clássica o suas complicações, praticada segundo as normas estabelecidas pela Direcção-Geral dos Serviços Pecuários, é alterado para 1 de Janeiro de 1969.
+As restantes normas do citado despacho mantém-se em vigor.
+Secretaria de Estado da Agricultura, 17 de Setembro de 1968. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.
