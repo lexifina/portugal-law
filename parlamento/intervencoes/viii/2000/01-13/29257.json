@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2furkWvc0lKdq20ak2KlHOmirXJXFYm74sABWT32jiDLN0U8f%2fPEtMfn8RnKJ0uGruwmBNe3jwMO37t%2fiSCQ9aculmRkJeIKwr%2fOiOzMziHJAnUHHtOwdh287ngLEtCriB2WWEC7LYWi1fowW8ns7Xdb7ZeW1KZ%2fh4MoxhR77APfbIk6lGh2Xrj7umHYAgvxBKomL8r%2b7w%2bcVlag%2bST%2fprrlUOE0u%2b6qHwbnvIQKfKeygiUNrSNiI04zccBV4YEQPPfynibRRVQMmV0H0WPDuRcSm80sGGQgNyTsUcq3R2DGZQtkpt%2bs4PaWOTvEOy%2b0HxZFhxj0gLaLBKCcha3mTRy2bCNMZep%2b9wDXb88fyVXk%3d&fich=IntervencoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6a76c73abc08ffed4c44b15f3f36f3269364cf06e4b7f2d6259e2b14d6049817",
+  "legislatura": "VIII",
+  "id": "29257",
+  "tipo": "Interpelação à mesa",
+  "orador": "Luís Fazenda (BE)",
+  "data_registo": "2000-01-13",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "249794",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "6333",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Relocalização distrital dos serviços desconcentrados da administração central"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2000-01-13",
+    "Debate": "PJL 23-PSD",
+    "Deputados": {
+      "GP": "BE",
+      "idCadastro": "263",
+      "nome": "Luís Fazenda"
+    },
+    "FaseDebate": "GENERALIDADE",
+    "FaseSessao": "POD",
+    "Id": "29257",
+    "IdDebate": "5900",
+    "Iniciativas": [
+      {
+        "fase": "Votação na generalidade",
+        "id": "6333",
+        "tipo": "Projeto de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "29257",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1019-1019"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-01-14",
+        "pubLeg": "VIII",
+        "pubNr": "26",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1019?pgs=1019&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS ",
+    "Sessao": "1",
+    "Sumario": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS DA ADMINISTRACAO CENTRAL",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Interpelação à mesa"
+  }
+}
