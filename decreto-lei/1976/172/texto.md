@@ -1,0 +1,23 @@
+Decreto-Lei n.º 172/76
+de 3 de Março
+O Decreto-Lei n.º 443/74, de 12 de Setembro, no seu anexo I, determinou a integração dos Grémios de Vinicultores de Alijó, Carrazeda de Ansiães, Mesão Frio, Peso da Régua, Sabrosa, Santa Marta de Penaguião, S. João da Pesqueira, Vila Nova de Foz Côa e Vila Real no Instituto do Vinho do Porto.
+Dado que estes grémios cobriam não só a produção de vinho do Porto, mas também a de vinho de pasto, não se mostra adequada a solução consagrada no diploma acima mencionado, pelo que se altera parcialmente o seu anexo I.
+Embora seja intenção do Governo proceder, o mais brevemente possível, à reorganização da Casa do Douro, em moldes que permitam uma mais eficaz resposta às necessidades sentidas pelos vinicultores da região, reorganização esta que terá como base o relatório a apresentar pela Comissão de Reorganização do Sector dos Vinhos do Porto e do Douro, são desde já integrados na Casa do Douro as funções, o património e o pessoal dos referidos grémios, de molde a obviar imediatamente a uma situação que se apresenta extremamente nociva para a região do Douro e para o País.
+Nestes termos:
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É alterado o anexo I do Decreto-Lei n.º 443/74, de 12 de Setembro, que passa a ter a seguinte redacção:
+(ver documento original)
+Art. 2.º São extintos os Grémios dos Vinicultores de Alijó, Carrazeda de Ansiães, Lamego, Mesão Frio, Peso da Régua, Sabrosa, Santa Marta de Penaguião, S. João da Pesqueira, Vila Nova de Foz Côa e Vila Real.
+Art. 3.º - 1. A extinção efectiva dos organismos corporativos incluídos no artigo anterior será efectuada por despacho do Secretário de Estado do Comércio Externo e implicará a transferência para a Federação dos Vinicultores da Região do Douro (Casa do Douro):
+a) Das respectivas funções de coordenação, disciplina ou intervenção económica;
+b) Do seu activo e passivo, bem como de quaisquer valores e direitos, incluindo os emergentes do contrato de arrendamento;
+c) Das taxas que constituíam as suas receitas e outras contribuições especiais, salvo as que forem expressamente suprimidas;
+d) Dos saldos de fundos existentes.
+2. Poderão ser desafectados da transferência a que se refere o número anterior quaisquer bens imóveis e direitos dos organismos corporativos obrigatórios, incluindo os emergentes de contrato de arrendamento, e autorizada a sua integração no património de organismos já existentes ou a criar.
+Art. 4.º À extinção dos organismos corporativos referidos no artigo 2.º aplica-se o disposto no Decreto-Lei n.º 443/74, de 12 de Setembro, no que não contrariar este diploma.
+Art. 5.º As dúvidas suscitadas na execução deste diploma serão esclarecidas por despacho do Ministro do Comércio Externo.
+Art. 6.º Este diploma entra em vigor na data da sua publicação.
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Joaquim Jorge de Pinho Campinos.
+Promulgado em 18 de Fevereiro de 1976.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
