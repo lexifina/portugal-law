@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 16/86, publicado no Diário da República, 1.ª série, n.º 28, de 3 de Fevereiro de 1986, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No sumário, onde se lê «Dá nova redacção ao n.º 3 do artigo 4.º do Decreto-Lei n.º 182/85, de 27 de Maio, que estabeleceu novos incentivos fiscais com vista à denominação do mercado de valores mobiliários especialmente no tocante aos títulos de vencimento variável.» deve ler-se «Dá nova redacção ao n.º 3 do artigo 4.º do Decreto-Lei n.º 182/85, de 27 de Maio, que estabelece novos incentivos fiscais com vista à dinamização do mercado de valores mobiliários.»
+Secretaria-Geral da Presidência do Conselho de Ministros, 7 de Fevereiro de 1986. - O Secretário-Geral, França Martins.
