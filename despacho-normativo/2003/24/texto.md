@@ -1,0 +1,8 @@
+Despacho Normativo n.º 24/2003
+Através do Despacho Normativo n.º 12/2003, de 12 de Fevereiro, publicado no Diário da República, 1.ª série-B, n.º 58, de 10 de Março de 2003, foram definidas as regras relativas à competência, metodologia, procedimentos e calendário de candidaturas às ajudas comunitárias para a campanha de 2003-2004, nomeadamente no âmbito do Sistema Integrado de Gestão e Controlo (SIGC).
+Considerando que o prazo que se encontra fixado naquele despacho normativo, atendendo à alteração havida no que respeita à apresentação das candidaturas às Medidas Agro-Ambientais ao abrigo do Regulamento (CE) n.º 1257/99, do Conselho, cuja integração passou, a partir do ano de 2003, a ser feita no pedido de ajudas «Superfícies» e ou no pedido de ajudas «Animais», pode não ser suficiente para a apresentação de todos os pedidos, em particular em determinados postos receptores;
+Considerando que a regulamentação comunitária prevê o dia 15 de Maio como data limite para apresentação dos pedidos de ajudas «Superfícies»:
+Nestes termos, determino o seguint3e:
+1 - O prazo previsto na alínea a) e na subalínea b1) da alínea b) do n.º 1 da parte II do Despacho Normativo n.º 12/2003, de 12 de Fevereiro, publicado no Diário da República, 1.ª série-B, n.º 58, de 10 de Março de 2003, é prorrogado até 15 de Maio de 2003.
+2 - As candidaturas respeitantes aos modelos abrangidos deverão continuar a ser entregues no INGA, dentro dos prazos que se encontram previstos nos protocolos com as entidades credenciadas e, o mais tardar, até 30 de Maio.
+Ministério da Agricultura, Desenvolvimento Rural e Pescas, 5 de Maio de 2003. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto.
