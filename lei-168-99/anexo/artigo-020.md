@@ -16,16 +16,12 @@ c) Realizada vistoria ad perpetuam rei memoriam destinada a fixar os elementos d
 
 4 - Se o expropriado e os demais interessados, estando ou devendo considerar-se devidamente notificados, não comparecerem ao acto de transmissão de posse, esta não deixará de ser conferida.
 
-5 - O depósito a que se refere a alínea b) do n.º 1 pode ser substituído por caução prestada por qualquer das formas legalmente admissíveis.
+5 - O depósito prévio é dispensado:
 
-6 - O depósito prévio é dispensado:
-
-a) Se a expropriação for urgente, devendo o mesmo ser efectuado no prazo de 10 dias, contados nos termos do artigo 279.º do Código Civil, a partir da data da investidura administrativa na posse dos bens;
+a) Se a expropriação for urgente, devendo o mesmo ser efectuado no prazo de 90 dias contados nos termos do artigo 279.º do Código Civil, a partir da data de publicação da declaração de utilidade pública;
 
 b) Se os expropriados e demais interessados não forem conhecidos ou houver dúvidas sobre a titularidade dos direitos afectados, devendo o mesmo ser efectuado no prazo de 10 dias a contar do momento em que sejam conhecidos ou seja resolvido o incidente regulado no artigo 53.º
 
-7 - Na situação prevista na alínea a) do número anterior, caso o depósito da quantia mencionada no n.º 4 do artigo 10.º não seja efectuado no prazo fixado, são devidos juros moratórios ao expropriado, os quais incidem sobre o montante do depósito.
+6 - Atribuído carácter urgente à expropriação ou autorizada a posse administrativa, a entidade expropriante solicita directamente ao presidente do tribunal da Relação do distrito judicial do lugar da situação do bem ou da sua maior extensão a indicação de um perito da lista oficial para a realização da vistoria ad perpetuam rei memoriam.
 
-8 - Atribuído carácter urgente à expropriação ou autorizada a posse administrativa, a entidade expropriante solicita directamente ao presidente do tribunal da Relação do distrito judicial do lugar da situação do bem ou da sua maior extensão a indicação de um perito da lista oficial para a realização da vistoria ad perpetuam rei memoriam.
-
-9 - Pode ser solicitada a indicação de dois ou mais peritos sempre que tal se justifique pela extensão ou número de prédios a expropriar.
+7 - Pode ser solicitada a indicação de dois ou mais peritos sempre que tal se justifique pela extensão ou número de prédios a expropriar.
