@@ -4,7 +4,7 @@
 
 1. A assembleia de apuramento geral será composta por:
 
-a) O presidente do Supremo Tribunal de Justiça, que será o presidente;
+a) O presidente do Supremo Tribunal de Justiça, que será o presidente com voto de qualidade;
 
 b) Dois juristas, escolhidos pelo presidente;
 
