@@ -1,0 +1,6 @@
+Portaria n.º 21941
+Tendo em atenção o disposto no § 2.º do artigo 37.º do Regulamento da Medalha Militar, promulgado pelo Decreto n.º 35667, de 28 de Maio de 1946:
+Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional, do Exército e da Marinha e Secretário de Estado da Aeronáutica, para execução nas forças armadas:
+É concedida a medalha comemorativa das campanhas das forças armadas portuguesas a todos os militares ou equiparados e elementos das forças militarizadas, da metrópole ou do ultramar, que, a partir de 1 de Abril de 1965, tenham pertencido ou venham a pertencer às forças de terra, mar e ar em actuação na província de Moçambique, na zona definida com referência ao artigo 1.º do Decreto-Lei n.º 46451, de 26 de Julho de 1965.
+A concessão da medalha a que se refere a presente portaria rege-se pelas normas estabelecidas na Portaria n.º 20564, de 7 de Maio de 1964, para a província da Guiné.
+Presidência do Conselho e Ministérios do Exército e da Marinha, 6 de Abril de 1966. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo. - O Ministro do Exército, Joaquim da Luz Cunha. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias. - O Secretário de Estado da Aeronáutica, Francisco António das Chagas.
