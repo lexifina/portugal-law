@@ -1,0 +1,3 @@
+Aviso n.º 1/94
+Por ordem superior se torna público que a República Checa depositou junto do Secretário-Geral das Nações Unidas, a 22 de Fevereiro de 1993, notificação de sucessão e que a Nova Zelândia e a Argélia depositaram, a 6 e 16 de Abril de 1993, respectivamente, o instrumento de ratificação e que a Líbia e a Micronésia depositaram, a 15 de Abril e 5 de Maio de 1993, respectivamente, o instrumento de adesão à Convenção sobre os Direitos da Criança, adoptada pela Assembleia Geral das Nações Unidas, a 20 de Novembro de 1989.
+Direcção-Geral dos Negócios Político-Económicos, 3 de Dezembro de 1993. - O Director de Serviços dos Assuntos Multilaterais, António Raul Freitas Monteiro Portugal.
