@@ -1,0 +1,869 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "42",
+    "id": "19071",
+    "titulo": "Altera a Lei n.º 48/96, de 4 de Setembro, \"Conselho das Comunidades Portuguesas\"."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2002-06-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2190",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2002-06-26",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "18978",
+        "leg": "IX",
+        "nr": "8",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "633",
+            "obs": null,
+            "pag": [
+              "942-952"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-06-27",
+            "pubLeg": "IX",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/942?pgs=942-952&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "633",
+            "obs": null,
+            "pag": [
+              "942-952"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-06-27",
+            "pubLeg": "IX",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/942?pgs=942-952&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "633",
+            "obs": null,
+            "pag": [
+              "942-952"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-06-27",
+            "pubLeg": "IX",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/942?pgs=942-952&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera a Lei n.º 48/96, de 4 de Setembro - Conselho das Comunidades Portuguesas."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "19070",
+        "leg": "IX",
+        "nr": "41",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "633",
+            "obs": null,
+            "pag": [
+              "942-952"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-06-27",
+            "pubLeg": "IX",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/942?pgs=942-952&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "633",
+            "obs": null,
+            "pag": [
+              "942-952"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-06-27",
+            "pubLeg": "IX",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/942?pgs=942-952&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "633",
+            "obs": null,
+            "pag": [
+              "942-952"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-06-27",
+            "pubLeg": "IX",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/942?pgs=942-952&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Cria os órgãos representativos dos portugueses no estrangeiro."
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "19110",
+        "leg": "IX",
+        "nr": "11",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "633",
+            "obs": null,
+            "pag": [
+              "942-952"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-06-27",
+            "pubLeg": "IX",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/942?pgs=942-952&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "633",
+            "obs": null,
+            "pag": [
+              "942-952"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-06-27",
+            "pubLeg": "IX",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/942?pgs=942-952&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "633",
+            "obs": null,
+            "pag": [
+              "942-952"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-06-27",
+            "pubLeg": "IX",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/942?pgs=942-952&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Altera a Lei n.º 48/96, de 4 de Setembro, que estabelece a definição e atribuições do Conselho das Comunidades Portuguesas."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-06-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E. DAS  COMUNIDADES PORTUGUESAS",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "José Cesário"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141275",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "942-944",
+                  "951-952"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-27",
+                "pubLeg": "IX",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/942?pgs=942-944,951-952&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 48/96, de 4 de Setembro, que estabelece a definição e atribuições do Conselho das Comunidades Portuguesas; Altera a Lei n.º 48/96, de 4 de Setembro - Conselho das Comunidades Portuguesas; Cria os órgãos representativos dos portugueses no estrangeiro; Altera a Lei n.º 48/96, de 4 de Setembro, \"Conselho das Comunidades Portuguesas\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "161",
+                "nome": "Carlos Luís"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141276",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "943-943"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-27",
+                "pubLeg": "IX",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/943?pgs=943&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 48/96, de 4 de Setembro, que estabelece a definição e atribuições do Conselho das Comunidades Portuguesas; Altera a Lei n.º 48/96, de 4 de Setembro - Conselho das Comunidades Portuguesas; Cria os órgãos representativos dos portugueses no estrangeiro; Altera a Lei n.º 48/96, de 4 de Setembro, \"Conselho das Comunidades Portuguesas\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1423",
+                "nome": "Luísa Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141277",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "943-944"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-27",
+                "pubLeg": "IX",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/943?pgs=943-944&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 48/96, de 4 de Setembro, que estabelece a definição e atribuições do Conselho das Comunidades Portuguesas; Altera a Lei n.º 48/96, de 4 de Setembro - Conselho das Comunidades Portuguesas; Cria os órgãos representativos dos portugueses no estrangeiro; Altera a Lei n.º 48/96, de 4 de Setembro, \"Conselho das Comunidades Portuguesas\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "161",
+                "nome": "Carlos Luís"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141278",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "945-946"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-27",
+                "pubLeg": "IX",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/945?pgs=945-946&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 48/96, de 4 de Setembro, que estabelece a definição e atribuições do Conselho das Comunidades Portuguesas; Altera a Lei n.º 48/96, de 4 de Setembro - Conselho das Comunidades Portuguesas; Cria os órgãos representativos dos portugueses no estrangeiro; Altera a Lei n.º 48/96, de 4 de Setembro, \"Conselho das Comunidades Portuguesas\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1458",
+                "nome": "Carlos Alberto Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141279",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "945-946"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-27",
+                "pubLeg": "IX",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/945?pgs=945-946&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 48/96, de 4 de Setembro, que estabelece a definição e atribuições do Conselho das Comunidades Portuguesas; Altera a Lei n.º 48/96, de 4 de Setembro - Conselho das Comunidades Portuguesas; Cria os órgãos representativos dos portugueses no estrangeiro; Altera a Lei n.º 48/96, de 4 de Setembro, \"Conselho das Comunidades Portuguesas\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1423",
+                "nome": "Luísa Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141280",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "946-949"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-27",
+                "pubLeg": "IX",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/946?pgs=946-949&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 48/96, de 4 de Setembro, que estabelece a definição e atribuições do Conselho das Comunidades Portuguesas; Altera a Lei n.º 48/96, de 4 de Setembro - Conselho das Comunidades Portuguesas; Cria os órgãos representativos dos portugueses no estrangeiro; Altera a Lei n.º 48/96, de 4 de Setembro, \"Conselho das Comunidades Portuguesas\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1692",
+                "nome": "Natália Carrascalão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141281",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "948-948"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-27",
+                "pubLeg": "IX",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/948?pgs=948&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 48/96, de 4 de Setembro, que estabelece a definição e atribuições do Conselho das Comunidades Portuguesas; Altera a Lei n.º 48/96, de 4 de Setembro - Conselho das Comunidades Portuguesas; Cria os órgãos representativos dos portugueses no estrangeiro; Altera a Lei n.º 48/96, de 4 de Setembro, \"Conselho das Comunidades Portuguesas\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1698",
+                "nome": "Miguel Anacoreta Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141282",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "949-950"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-27",
+                "pubLeg": "IX",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/949?pgs=949-950&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 48/96, de 4 de Setembro, que estabelece a definição e atribuições do Conselho das Comunidades Portuguesas; Altera a Lei n.º 48/96, de 4 de Setembro - Conselho das Comunidades Portuguesas; Cria os órgãos representativos dos portugueses no estrangeiro; Altera a Lei n.º 48/96, de 4 de Setembro, \"Conselho das Comunidades Portuguesas\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1458",
+                "nome": "Carlos Alberto Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "950-951"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-27",
+                "pubLeg": "IX",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/950?pgs=950-951&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 48/96, de 4 de Setembro, que estabelece a definição e atribuições do Conselho das Comunidades Portuguesas; Altera a Lei n.º 48/96, de 4 de Setembro - Conselho das Comunidades Portuguesas; Cria os órgãos representativos dos portugueses no estrangeiro; Altera a Lei n.º 48/96, de 4 de Setembro, \"Conselho das Comunidades Portuguesas\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "161",
+                "nome": "Carlos Luís"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141284",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "951-951"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-27",
+                "pubLeg": "IX",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/951?pgs=951&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 48/96, de 4 de Setembro, que estabelece a definição e atribuições do Conselho das Comunidades Portuguesas; Altera a Lei n.º 48/96, de 4 de Setembro - Conselho das Comunidades Portuguesas; Cria os órgãos representativos dos portugueses no estrangeiro; Altera a Lei n.º 48/96, de 4 de Setembro, \"Conselho das Comunidades Portuguesas\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1458",
+                "nome": "Carlos Alberto Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141285",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "951-951"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-27",
+                "pubLeg": "IX",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/951?pgs=951&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 48/96, de 4 de Setembro, que estabelece a definição e atribuições do Conselho das Comunidades Portuguesas; Altera a Lei n.º 48/96, de 4 de Setembro - Conselho das Comunidades Portuguesas; Cria os órgãos representativos dos portugueses no estrangeiro; Altera a Lei n.º 48/96, de 4 de Setembro, \"Conselho das Comunidades Portuguesas\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141286",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "952-952"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-27",
+                "pubLeg": "IX",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/952?pgs=952&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 48/96, de 4 de Setembro, que estabelece a definição e atribuições do Conselho das Comunidades Portuguesas; Altera a Lei n.º 48/96, de 4 de Setembro - Conselho das Comunidades Portuguesas; Cria os órgãos representativos dos portugueses no estrangeiro; Altera a Lei n.º 48/96, de 4 de Setembro, \"Conselho das Comunidades Portuguesas\".",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "152499",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "271325",
+        "obs": null,
+        "pag": [
+          "941-952"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-06-27",
+        "pubLeg": "IX",
+        "pubNr": "24",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/024/2002-06-27/941?pgs=941-952&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
