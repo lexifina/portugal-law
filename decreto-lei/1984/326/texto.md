@@ -1,0 +1,21 @@
+Decreto-Lei n.º 326/84
+de 10 de Outubro
+A cultura da beterraba sacarina na Região Autónoma dos Açores é já tradicional e mostra-se de toda a conveniência a criação de condições que propiciem o incremento da mesma.
+Por outro lado, até agora não era permitida a colocação e venda no continente do açúcar proveniente de beterraba sacarina da Região Autónoma dos Açores, a não ser quando processada em termos de operação de importação.
+Reconhece-se, porém, actualmente - até pelos efeitos múltiplos que a montante a produção de beterraba tem na economia açoriana - a conveniência de se criarem condições para um melhor aproveitamento da capacidade disponível da indústria açucareira desta Região Autónoma, tornando obrigatória a refinação pela indústria açoriana do açúcar destinado ao consumo da Região Autónoma dos Açores e permitindo a colocação e venda daquele açúcar no continente, sem que, no entanto, sejam postos em causa os interesses da indústria refinadora continental.
+Deste modo, o objectivo último é promover a produção local de beterraba sacarina, pelo que parece aconselhável admitir já a entrada no continente do açúcar regionalmente produzido.
+Para o efeito, atribui-se desde já à indústria de refinação açoriana uma quota para abastecimento do continente em 1984 e em 1985 tal que o excesso de capacidade nominal instalada em qualquer das empresas refinadoras fique igualmente repartido.
+Nestes termos, ouvido o Governo Regional dos Açores:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - É autorizada a colocação e venda no continente de açúcar da Região Autónoma dos Açores, proveniente de beterraba sacarina produzida na mesma Região, até ao limite de 7200 t em 1984 e em 1985.
+2 - A referida quota será revista após 1985 em função da produção local de beterraba sacarina face ao consumo de açúcar da Região Autónoma.
+Art. 2.º A colocação e venda no continente do açúcar referido no artigo anterior será efectuada pela indústria açucareira regional.
+Art. 3.º A colocação no continente do açúcar a que o presente diploma se refere não é, para todos os efeitos, considerada importação.
+Art. 4.º É obrigatório, salvo em situações devidamente justificadas e sancionadas pelo Serviço Regional do Açúcar e do Álcool, que o açúcar destinado ao consumo na Região Autónoma dos Açores seja totalmente refinado pela indústria açoriana de refinação.
+Art. 5.º É revogado o artigo 4.º do Decreto n.º 15830, de 11 de Agosto de 1928.
+Visto e aprovado em Conselho de Ministros de 28 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - José Veiga Simão - Álvaro Roque de Pinho Bissaia Barreto.
+Promulgado em 27 de Setembro de 1984.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 28 de Setembro de 1984.
+O Primeiro-Ministro, Mário Soares.
