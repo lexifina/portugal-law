@@ -1,0 +1,5 @@
+Despacho Normativo n.º 87/77
+Embora o disposto nos artigos 5.º, n.º 1, alínea c), e 48.º, n.º 1, do estatuto aprovado pelo Decreto-Lei n.º 496/76, de 26 de Junho, que confia ao Instituto das Participações do Estado o exercício dos direitos sociais inerentes às participações do sector público no capital de sociedades, com a única excepção do direito aos respectivos rendimentos, pressuponha necessariamente que não sejam aplicáveis ao IPE os limites ao exercício do direito de voto previstos no artigo 183.º, §§ 3.º e 4.º, do Código Comercial, convém afastar possíveis dúvidas que a este respeito se possam suscitar.
+Assim:
+Determina-se, ao abrigo do artigo 56.º do estatuto anexo ao Decreto-Lei n.º 496/76, de 26 de Junho, que o Instituto das Participações do Estado é de considerar como equiparado ao Estado para o efeito do preceituado no § 3.º do artigo 183.º do Código Comercial.
+Ministério do Plano e Coordenação Económica, 31 de Março de 1977. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.
