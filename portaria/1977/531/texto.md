@@ -1,0 +1,10 @@
+Portaria n.º 531/77
+de 20 de Agosto
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Negócios Estrangeiros, nos termos do artigo 3.º do Decreto-Lei n.º 38728, de 24 de Abril de 1952, que a delegação portuguesa junto da Organização do Tratado do Atlântico Norte (DELNATO) tenha a seguinte composição:
+1) Presidente - o representante permanente de Portugal no Conselho do Atlântico;
+2) Suplente do representante permanente - um funcionário do serviço diplomático com qualquer das categorias necessárias para a chefia das missões diplomáticas, nos termos do artigo 15.º do Decreto-Lei n.º 47331, de 23 de Novembro de 1966, com a redacção dada pelo Decreto-Lei n.º 308/74, de 6 de Julho;
+3) Membros da delegação prestando nela serviço privativo - três funcionários do serviço diplomático de qualquer categoria, dois secretários privativos e um técnico de contas, ou dois funcionários do serviço diplomático de qualquer categoria, três secretários privativos e um técnico de contas;
+4) Membros da representação militar - dois oficiais das forças armadas, um dos quais será o representante militar nacional junto do SHAPE;
+5) Pessoal assalariado - cinco funcionários do quadro administrativo da Secretaria de Estado, ou um arquivista do Exército e quatro funcionários do quadro administrativo da Secretaria de Estado, um secretário de 1.ª classe, um secretário de 2.ª classe, um telefonista, um motorista, um porteiro e dois auxiliares de serviço.
+Fica revogada a Portaria n.º 276/73, de 14 de Abril, alterada pela Portaria n.º 379/77, de 23 de Junho.
+Ministérios das Finanças e dos Negócios Estrangeiros, 9 de Agosto de 1977. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro dos Negócios Estrangeiros, José Manuel de Medeiros Ferreira.
