@@ -1,0 +1,5 @@
+Aviso n.º 73/93
+Por ordem superior se torna público que, por nota de 22 de Dezembro de 1992 e na sua qualidade de depositário, o Secretário-Geral das Nações Unidas comunicou ter o Suriname, em 28 de Outubro de 1992, depositado o seu instrumento de adesão à Convenção de Viena sobre Relações Diplomáticas, concluída em 18 de Abril de 1961.
+Nos termos do parágrafo 2.º do artigo 51.º, a Convenção entrou em vigor para o Suriname em 27 de Novembro de 1992.
+Portugal é Parte na mesma Convenção, que foi aprovada para adesão pelo Decreto-Lei n.º 48295, de 27 de Março de 1968, tendo depositado o seu instrumento de adesão em 11 de Setembro de 1968, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 253, de 26 de Outubro de 1968, vindo a levantar, em 1 de Junho de 1972, uma reserva então formulada, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 300, de 28 de Dezembro de 1972.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 9 de Fevereiro de 1993. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
