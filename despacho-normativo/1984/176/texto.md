@@ -1,0 +1,3 @@
+Despacho Normativo n.º 176/84
+Ao abrigo do disposto no n.º 1 do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 2 - Produtos fitofarmacêuticos, aprovada pelo Despacho Normativo n.º 346/80, publicado no Diário da República, 1.ª série, n.º 250, de 28 de Outubro de 1980, é autorizado o lançamento no mercado de nova embalagem com o conteúdo líquido (peso) de 4 kg para os produtos fitofarmacêuticos com base em metabenztiazurão, sob a forma de pó molhável, com o teor de substância activa.
+Ministérios da Agricultura e do Comércio e Turismo, 29 de Novembro de 1984. - O Ministro da Agricultura, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.
