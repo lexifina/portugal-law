@@ -1,0 +1,16 @@
+Decreto-Lei n.º 303/84
+de 18 de Setembro
+O Gabinete Coordenador do Ingresso no Ensino Superior surgiu como sucessor do Serviço Cívico Estudantil, por razões puramente conjunturais, com uma orgânica adequada à solução dos problemas imediatos, relegando-se para depois - artigo 15.º do Decreto-Lei n.º 385/78 - a adopção de medidas que permitissem ao Gabinete ser efectivamente o órgão coordenador do ingresso no ensino superior.
+O Gabinete, apesar do que dispõe aquele decreto-lei, nunca foi dotado do quadro que aquele diploma previa e o Decreto-Lei n.º 81/83 também não lhe afectou pessoal técnico e administrativo. Por força da natureza das suas atribuições todos os anos é necessário admitir pessoal em regime de aquisição de serviços para tarefas de curta duração.
+Neste momento está em preparação mais um processo de candidatura ao ensino superior, tornando-se, por isso, indispensável dotá-lo dos meios humanos necessários à realização dos trabalhos que consistem na aceitação dos documentos, organização e classificação de mais de 30000 processos de onde serão extraídos os dados que vão ser objecto de tratamento informático.
+Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - O Gabinete Coordenador do Ingresso no Ensino Superior fica autorizado a celebrar contratos de prestação de serviços ao abrigo do disposto no artigo 17.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, com pessoal que no referido Gabinete se encontrava, em 31 de Dezembro de 1983, contratado ao abrigo do artigo 19.º, n.º 1, do Decreto-Lei n.º 385/78, de 6 de Dezembro, conjugado com o artigo 4.º do Decreto-Lei n.º 166/82, de 10 de Maio.
+2 - Os contratos produzem efeitos desde 1 de Abril de 1984 e caducam, impreterivelmente, em 31 de Dezembro de 1984.
+Art. 2.º O Gabinete pode, ainda, nos meses de Julho a Novembro de 1984, para recolha de dados e tratamento informático dos processos de candidatura ao ensino superior, ajustar a execução de tarefas sazonais com indivíduos não vinculados à Administração nos termos e condições previstos no artigo 17.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro.
+Art. 3.º Os contratos referidos nos artigos anteriores não conferem ao particular outorgante a qualidade de agente.
+Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - José Augusto Seabra.
+Promulgado em 5 de Setembro de 1984.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 10 de Setembro de 1984.
+O Primeiro-Ministro, Mário Soares.
