@@ -1,0 +1,26 @@
+Decreto-Lei n.º 301/80
+de 16 de Agosto
+O sistema de cobrança do imposto sobre a venda de veículos automóveis, criado pelo Decreto-Lei n.º 697/73, de 27 de Dezembro, e posteriormente modificado pelo Decreto-Lei n.º 23/77, de 18 de Janeiro, e pelo Decreto-Lei n.º 399/78, de 15 de Dezembro, que revogou o atrás citado, não tem correspondido aos bons intuitos do legislador.
+Na verdade, estabelecendo-se nele um prazo para o pagamento daquele imposto, não poucas empresas importadoras vêm protelando esse pagamento, conservando indevidamente na sua posse as somas cobradas dos compradores dos veículos, com as quais constituem um ilegítimo fundo de maneio.
+Impõe-se, por isso, fazer cessar tal prática, geradora de um evidente prejuízo para o Estado e até para os próprios particulares, compradores dos veículos, que assim se vêem impossibilitados de registar em seu nome a propriedade dos mesmos.
+Nestes termos:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Os artigos 2.º e 8.º do Decreto-Lei n.º 697/73, de 27 de Dezembro, passam a ter a seguinte redacção:
+Art. 2.º - 1 - Nenhum veículo automóvel poderá ser desembaraçado aduaneiramente sem que se mostre pago ou garantido o respectivo imposto.
+2 - A liquidação e o pagamento do imposto ou a prestação de garantia a ele relativa são processados nas alfândegas por onde correr o despacho de importação do veículo.
+3 - A liquidação do imposto é feita no bilhete de despacho de importação.
+4 - O pagamento ou a prestação de garantia são efectuados através de guia a preencher pelo importador, conferida pela verificação aduaneira e averbada no bilhete referido no número anterior.
+5 - Quando o importador opte, nos termos do n.º 1, pelo pagamento do imposto no momento do desembaraço aduaneiro do veículo, beneficiará de uma dedução no respectivo montante correspondente a 2/12 da taxa básica de desconto do Banco de Portugal.
+6 - Quando o importador opte pela prestação de garantia, o pagamento do imposto, que não sofrerá qualquer redução no seu quantitativo, deverá ser efectuado dentro de dois meses, contados da data do desembaraço aduaneiro do veículo.
+7 - A garantia somente poderá ser prestada através de depósito ou de fiança bancária.
+Art. 8.º As conservatórias do registo automóvel não poderão em caso algum efectuar o registo de propriedade dos automóveis abrangidos por este diploma sem que:
+a) Se mostre pago o imposto devido;
+b) Seja produzida prova, através de documento emitido pelas alfândegas, de que o pagamento do imposto está assegurado, nos termos do n.º 7 do artigo 2.º, ou de que o mesmo foi objecto de isenção;
+c) Se demnstre que foi iniciado o processo de cobrança coerciva do imposto em dívida.
+Art. 2.º São revogados os artigos 6.º e 7.º do Decreto-Lei n.º 697/73, de 27 de Dezembro, passando os seus artigos 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º e 17.º a, respectivamente, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º e 15.º
+Art. 3.º Aos veículos desembaraçados aduaneiramente antes da entrada em vigor do presente diploma continuará a ser aplicável a legislação que através dele é modificada.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 16 de Julho de 1980. - Francisco Sá Carneiro.
+Promulgado em 1 de Agosto de 1980.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
