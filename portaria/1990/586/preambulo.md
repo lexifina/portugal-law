@@ -12,11 +12,11 @@ Manda o Governo, pelos Ministros da República para as Regiões Autónomas dos A
 
 3.º (Revogado.)
 
-4.º (Revogado.)
+4.º As margens máximas de comercialização da banana são as seguintes, por quilograma de peso líquido:
 
-a) (Revogado.)
+a) Para o grossista - 25$00;
 
-b) (Revogado.)
+b) Para o retalhista - 45$00.
 
 5.º Esta portaria entra em vigor em 1 de Julho de 1990.
 
