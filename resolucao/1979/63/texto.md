@@ -1,0 +1,4 @@
+Resolução n.º 63/79
+Nos termos da alínea c) do artigo 146.º e do n.º 1 do artigo 281.º da Constituição, o Conselho da Revolução, a solicitação do Presidente da República e precedendo parecer da Comissão Constitucional, declara, com força obrigatória geral, a inconstitucionalidade das normas contidas nos n.os 1, 2 e 5 da Resolução n.º 37/78, do Governo Regional dos Açores, publicada no jornal oficial respectivo, de 8 de Agosto de 1978, por violação dos artigos 167.º, alíneas c) e e), e 230.º, alínea b), da Constituição, e ainda, relativamente às normas contidas nos referidos n.os 1 e 2, por igualmente violarem o disposto no artigo 44.º, n.º 1, conjugado com o artigo 18.º, n.os 2 e 3, da Constituição.
+Aprovada em Conselho da Revolução em 31 de Janeiro de 1979.
+O Presidente do Conselho da Revolução, António Ramalho Eanes.
