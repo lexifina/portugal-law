@@ -1,0 +1,10 @@
+Despacho Normativo n.º 33/98
+Pelo Despacho Normativo n.º 145/80, de 29 de Abril, foi fixado o valor provisório de 473224$80 para 1% do capital social da Casa Bancária Manuel Mendes Godinho & Filhos.
+O valor de avaliação, apurado pelos avaliadores Moore Stephens & Co., em conformidade com o caderno de encargos publicado no Diário da República, 2.ª série, n.º 192, de 22 de Agosto de 1985, foi de 168830$00, verificando-se um desvio negativo de 304394$80 relativamente ao valor provisório publicado.
+Nesta avaliação foram abatidas ao património da Casa Bancária as acções, as participações financeiras e ainda os imóveis «não afectos à actividade bancária» constantes do balanço da Manuel Mendes Godinho & Filhos.
+Pelo Despacho Normativo n.º 71/88, de 18 de Agosto, foi fixado, por lapso, o valor de indemnização definitivo para 1% do capital social da Casa Bancária Manuel Mendes Godinho & Filhos em 437224$80, que viria a ser rectificado pelo Despacho Normativo n.º 80/92, de 1 de Junho, para 473224$80.
+Solucionado o diferendo judicial existente sobre o universo do património da Casa Bancária Manuel Mendes Godinho & Filhos, importa fixar o valor definitivo da indemnização referente a esta sociedade, atentos os critérios fixados pelo Decreto-Lei n.º 332/91, de 6 de Setembro.
+Tendo vindo o Decreto-Lei n.º 332/91, de 6 de Setembro, a estabelecer nova fórmula de cálculo de indemnização, da sua aplicação aos respectivos valores de avaliação resulta o valor definitivo de 287002$34, o que representa ainda um desvio negativo de 186222$46 relativamente ao valor anteriormente fixado.
+Assim:
+Nos termos do disposto no artigo 8.º do Decreto-Lei n.º 332/91, de 6 de Setembro, e ao abrigo do despacho do Ministro das Finanças n.º 460/96-XIII, de 15 de Outubro, publicado no Diário da República, 2.ª série, de 31 de Outubro de 1996, determino que o valor definitivo relativo a 1% do capital social da Casa Bancária Manuel Mendes Godinho & Filhos corresponderá a 473224$80.
+Ministério das Finanças, 9 de Fevereiro de 1998. - O Secretário de Estado do Tesouro e das Finanças, Fernando Teixeira dos Santos.
