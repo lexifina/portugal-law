@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal de Justiça de 1986-02-28, processo 001217
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 001217
+
+**Nº Convencional:** JSTJ00012675
+
+**Relator:** MIGUEL CAEIRO
+
+**Descritores:** CONTRATO DE TRABALHO; DESPEDIMENTO COM JUSTA CAUSA; QUESTÃO NOVA; RECURSO; PROCESSO DE TRABALHO; PROCESSO SUMÁRIO DE TRABALHO; COMPARÊNCIA PESSOAL A JULGAMENTO; COMINAÇÃO; NULIDADE ABSOLUTA; PROCESSO DISCIPLINAR; AUDIÊNCIA DO ARGUIDO; FALTA; INTERVENÇÃO PRINCIPAL; LOCAL DE TRABALHO; MUDANÇA; ORDEM LEGÍTIMA; DESOBEDIÊNCIA
+
+**Nº do Documento:** SJ198602280012174
+
+**Data do Acordão:** 02/28/1986
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** NEGADA A REVISTA.
+
+**Área Temática:** DIR PROC CIV - RECURSOS. DIR PROC TRAB.; DIR TRAB - CONTRAT INDIV TRAB.
+
+## Sumário
+
+I - A comparência pessoal das partes em julgamento, imposta pelo artigo 89, n. 1, do Código de Processo de Trabalho, com a cominação do seu n. 3, só é aplicável no processo sumário.
+
+II - O tribunal de recurso não pode pronunciar-se sobre matéria nova.
+
+III - A falta do arguido na audiência em processo disciplinar, não constitui nulidade insuprivel do processo, se nem directa nem indirectamente afectar a defesa do autor arguido, não revestindo a sua intervenção a qualidade de intervenção principal mas apenas acessória.
+
+IV - Tendo o trabalhador sido contratado para, como delegado de propaganda médica da entidade patronal, prestar serviço em qualquer parte do país, a circunstância de, decorridos pouco mais de cinco anos lhe ter sido distribuído serviço em outra zona, compreende-se nas suas funções, não podendo falar-se em mudança do local de trabalho.
+
+V - Ao recusar-se a cumprir o plano de serviço naquela zona, o trabalhador desobedeceu a uma ordem legítima da sua entidade patronal, com o que infringiu o determinado no artigo 20, n. 1, alínea c), do R.J.C.I.T.
+
+VI - Trata-se de comportamento previsto no artigo 10, n. 2, alínea a), do Decreto-Lei n. 372-A/75, com justa causa de despedimento.
