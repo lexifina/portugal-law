@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal Administrativo de 2003-04-03, processo 050/03
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 050/03
+
+**Data do Acordão:** 04/03/2003
+
+**Tribunal:** 1 SUBSECÇÃO DO CA
+
+**Relator:** JOÃO CORDEIRO
+
+**Descritores:** ACÇÃO DE INDEMNIZAÇÃO.; RESPONSABILIDADE CIVIL EXTRACONTRATUAL.; PERSONALIDADE JUDICIÁRIA.; MINISTÉRIO DO TRABALHO.
+
+**Nº Convencional:** JSTA00059195
+
+**Nº do Documento:** SA120030403050
+
+**Data de Entrada:** 01/10/2003
+
+**Recorrente:** A...
+
+**Recorrido 1:** MINTRAB E DA SOLIDARIEDADE
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAC LISBOA.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM CONT - RESPONSABILIDADE EXTRA.
+
+**Área Temática 2:** DIR PROC CIV.
+
+**Legislação Nacional:** CPC96 ART5 ART6 ART7 ART8 ART20 ART23.; LPTA85 ART72 N1.; DL 100/84 DE 1984/03/29 ART53 N1 A.
+
+**Jurisprudência Nacional:** AC STA PROC1677/02 DE 2003/01/29.; AC STA PROC47402 DE 2001/06/21.; AC STA PROC47096 DE 2001/03/07.
+
+**Referência a Doutrina:** FREITAS DO AMARAL CURSO DE DIREITO ADMINISTRATIVO 2ED PAG213.; CASTRO MENDES DIREITO PROCESSUAL CIVIL VII PAG13-14.; ALBERTO DOS REIS COMENTÁRIO AO CÓDIGO DE PROCESSO CIVIL VIII PAG394.; MANUEL DE ANDRADE NOÇÕES ELEMENTARES DE PROCESSO CIVIL PAG86.; ANSELMO DE CASTRO DIREITO PROCESSUAL CIVIL DECLARATÓRIO PAG110.; MIGUEL TEIXEIRA DE SOUSA ESTUDOS SOBRE O NOVO PROCESSO CIVIL 2ED PAG140.
+
+## Sumário
+
+O Ministério do Trabalho e Solidariedade não tem personalidade judiciária em acção de responsabilidade civil extracontratual.
