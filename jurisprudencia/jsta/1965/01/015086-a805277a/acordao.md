@@ -1,0 +1,51 @@
+# Acórdão do Supremo Tribunal Administrativo de 1965-01-13, processo 015086
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 015086
+
+**Data do Acordão:** 01/13/1965
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** SIMÕES CORREIA
+
+**Descritores:** IMPOSTO DE SELO; HOTEL; CONTRATO DE EXPLORAÇÃO
+
+**Nº Convencional:** JSTA00020864
+
+**Nº do Documento:** SA219650113015086
+
+**Data de Entrada:** 06/17/1964
+
+**Recorrente:** FAZENDA NACIONAL
+
+**Recorrido 1:** FRAGA , ANTERO E OUTRO - COMP PORTUGUESA DE AGUAS (SALUS) VIDAGO SARL
+
+**Votação:** UNANIMIDADE
+
+**Nº do Volume:** VIII
+
+**Ano da Publicação:** 1968
+
+**Página:** 3
+
+**Referência Publicação 1:** AD N40 ANOIV PAG505
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC T2INSTCI.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR FISC - SELO.
+
+**Área Temática 2:** DIR CIV - DIR CONTRAT.
+
+**Legislação Nacional:** DL 27235 DE 1936/11/23.; RIS26 ART236.; Texto Integral
+
+## Sumário
+
+Não esta sujeito ao selo do Decreto-Lei n. 27235, de 23 de Novembro de 1936, o contrato pelo qual e concedida a exploração de um hotel durante uma epoca termal e mediante o pagamento de uma percentagem sobre a receita bruta como compensação da utilização de moveis, roupas e louças.
