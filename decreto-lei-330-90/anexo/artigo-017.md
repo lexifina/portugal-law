@@ -23,3 +23,5 @@ f) Não associe o consumo dessas bebidas ao exercício físico ou à condução 
 g) Não sublinhe o teor de álcool das bebidas como qualidade positiva.
 
 2 - É proibida a publicidade de bebidas alcoólicas, na televisão e na rádio, entre as 7 e as 21 horas e 30 minutos.
+
+3 - Para efeitos do disposto no número anterior é considerada a hora oficial do local de origem da emissão.
