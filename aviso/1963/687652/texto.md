@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação da Embaixada da Polónia em Londres, transmitida pelo Ministério dos Negócios Estrangeiros da Inglaterra, o Governo da República do Chipre declarou, por nota datada de 23 de Abril de 1963, que a Convenção para a unificação de certas regras relativas ao transporte internacional por ar, assinada em Varsóvia em 12 de Outubro de 1929, continua a vincular a República do Chipre desde que esta atingiu a independência.
+Direcção-Geral dos Negócios Económicos e Consulares, 8 de Outubro de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
