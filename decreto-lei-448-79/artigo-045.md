@@ -2,7 +2,7 @@
 
 ### (Júri do concurso para professor catedrático)
 
-1 - Obtido o despacho de admissão dos candidatos a concurso para professor catedrático, a Universidade proporá à Direcção-Geral do Ensino Superior, no prazo de trinta dias, o júri do concurso, de que farão parte:
+1 - Obtido o despacho de admissão dos candidatos a concurso para professor catedrático, o conselho científico submeterá à aprovação do reitor da universidade, no prazo de 30 dias, uma proposta de júri do concurso, do qual farão parte:
 
 a) Professores catedráticos da disciplina ou grupo de disciplinas a que se refere o concurso afectos à Universidade em causa;
 

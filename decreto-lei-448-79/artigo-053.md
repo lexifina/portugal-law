@@ -6,4 +6,4 @@
 
 ### (Finalidade das provas)
 
-A frequência e aprovação num curso de mestrado adequado à área científica da disciplina ou grupo de disciplinas em que os assistentes estagiários prestam serviço podem, para efeitos de acesso à categoria de assistente, ser substituídas pela aprovação em provas aptidão pedagógica e capacidade científica destinadas a averiguar a competência pedagógica e a profundidade dos conhecimentos científicos dos assistentes estagiários.
+O grau de mestre ou o grau ou diploma de objectivos similares previstos nos n.os I) e II) da alínea a) do n.º 1 do artigo 12.º podem, para efeitos de acesso à categoria de assistente, ser substituídos pela aprovação em provas de aptidão pedagógica e capacidade científica destinadas a averiguar a competência pedagógica e a profundidade dos conhecimentos científicos dos assistentes estagiários.

@@ -23,3 +23,5 @@ II) Titulares de um grau ou diploma conferido por universidade portuguesa ou est
 3 - O recrutamento como assistente das individualidades referidas na alínea b) do n.º 1 é feito mediante deliberação do conselho científico ou, havendo-a, da respectiva comissão coordenadora, sob proposta da comissão do conselho científico do grupo ou departamento interessado.
 
 4 - Cabe ao conselho científico do estabelecimento de ensino superior que pretenda recrutar o assistente deliberar, sobre requerimento fundamentado do interessado, quanto à satisfação das condições a que se referem o n.º II) da alínea a) do n.º 1 e o n.º II) da alínea b) do n.º 1.
+
+5 - Os graus e diplomas referidos no n.º 1 devem incidir sobre especialidade adequada à área científica da disciplina ou do grupo de disciplinas em que prestem ou vão prestar serviço.

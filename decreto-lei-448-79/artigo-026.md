@@ -9,3 +9,7 @@
 3 - Requeridas as provas de doutoramento, o contrato será prorrogado até à sua realização.
 
 4 - Uma vez aprovado nessas provas, ou logo que declarada, nos termos legais, a equivalência ao grau de doutor da habilitação que possuam, os assistentes, desde que optem pelo regime de tempo integral, são imediatamente contratados como professores auxiliares.
+
+5 - Por despacho do reitor, sob proposta do conselho científico da escola, poderão ser prorrogados até ao termo do ano escolar os contratos de assistente cujo termo ocorra no decurso do ano escolar.
+
+6 - Para efeitos do disposto no n.º 5 considera-se o termo do ano escolar coincidente com o fim da época de exames de recurso.
