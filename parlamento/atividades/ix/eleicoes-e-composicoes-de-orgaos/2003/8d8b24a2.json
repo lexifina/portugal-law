@@ -1,0 +1,125 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=P0Fiu%2fOxm2B6i1Qb1v6Kl8P9Ddn6RTIUCktgva%2fyOaH7lWGUnkkysYTUSoIwHSs4BsNkQvxZU1Jn26l834KO7HtuiuTauD6UP2bFLXGt1tGFPrfPngnS3CSTBHYbjc71uc6LAaWwWMNPEAhBQhLTogdfX0k86zYaSRdtMb5VxaaW%2bmRVLZ1kFuUjHoiU3DnKr1hwTFH2RjyVH0%2bkvoh5J2473p4WEAcwEGu0cbkopo0uGKBdgu45lweS1xncByHsc5RkSTt5XtJ4jYpzMHGU0JCobwocVoDRrWDIaByf6THsN8d28CiCvqU0mvdSGeyt9pZrFNIo3KeVbLuYHnmRx0uPU1z9aF2A03pcO1L5Ivg%3d&fich=AtividadesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "158feac9a195837800498c997c5f15d982e196bc878ba5194b23e12459159b60",
+  "legislatura": "IX",
+  "tipo": "Eleições e composições de órgãos",
+  "numero": null,
+  "data_registo": "2003-03-26",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Eleição de Membros do Conselho Superior dos Tribunais Administrativos e Fiscais",
+    "AutoresGP": null,
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "2003-03-26",
+    "DescTipo": "Eleições e composições de órgãos",
+    "Eleitos": [
+      {
+        "cargo": "Efectivo",
+        "nome": "José Luís de Rezende Moreira da Silva"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "Armindo José Girão Leitão Cardoso"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "José Maria Gonçalves Pereira"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "António Paulo Duarte de Almeida"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "Pedro Gramacho de Carvalho Siza Vieira"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Carlos Manuel de Andrade Miranda"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Joaquim Miguel Parelho Pimenta Raimundo"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "José Manuel dos Santos Alves"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Legislatura": "IX",
+    "Numero": null,
+    "Observacoes": null,
+    "OrgaoExterior": "Conselho Superior dos Tribunais Administrativos e Fiscais",
+    "OutrosSubscritores": null,
+    "Publicacao": null,
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": [
+      "4582",
+      "4600"
+    ],
+    "Tipo": "OEX",
+    "TipoAutor": null,
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2003-04-10",
+        "descricao": null,
+        "detalhe": null,
+        "id": "30095",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "277184",
+            "obs": null,
+            "pag": [
+              "4618-4619"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-04-11",
+            "pubLeg": "IX",
+            "pubNr": "110",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/110/2003-04-11/4618?pgs=4618-4619&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "277185",
+            "obs": "Anúncio do resultado",
+            "pag": [
+              "4694-4694"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1997-05-14",
+            "pubLeg": "VII",
+            "pubNr": "111",
+            "pubSL": "2",
+            "pubTipo": "DR I série A",
+            "pubTp": "R",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1a/111/1997/0/pt/html"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "108",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
