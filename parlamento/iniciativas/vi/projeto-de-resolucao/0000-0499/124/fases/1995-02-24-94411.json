@@ -1,0 +1,859 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "124",
+    "id": "3464",
+    "titulo": "Apreciação parlamentar da participação de Portugal no processo de construção da União Europeia durante o ano de 1993."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1995-02-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "126",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1995-02-24",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Deputados",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "3414",
+        "leg": "VI",
+        "nr": "131",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "123",
+            "obs": null,
+            "pag": [
+              "1594-1602"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1995-02-25",
+            "pubLeg": "VI",
+            "pubNr": "46",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1594?pgs=1594-1602&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "123",
+            "obs": null,
+            "pag": [
+              "1594-1602"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1995-02-25",
+            "pubLeg": "VI",
+            "pubNr": "46",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1594?pgs=1594-1602&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "R",
+        "titulo": "Apreciação da actividade parlamentar na XI Conferencia de Órgãos Especializados em Assuntos Comunitários - COSAC."
+      },
+      {
+        "autor": "Deputados",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "3340",
+        "leg": "VI",
+        "nr": "140",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "123",
+            "obs": null,
+            "pag": [
+              "1594-1602"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1995-02-25",
+            "pubLeg": "VI",
+            "pubNr": "46",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1594?pgs=1594-1602&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "123",
+            "obs": null,
+            "pag": [
+              "1594-1602"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1995-02-25",
+            "pubLeg": "VI",
+            "pubNr": "46",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1594?pgs=1594-1602&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "R",
+        "titulo": "Acompanhamento parlamentar da revisão do Tratado da União Europeia na Conferencia Inter-Governamental de 1996."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1995-02-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "131",
+                "nome": "Rui Carp"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40753",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1603-1603"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-25",
+                "pubLeg": "VI",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1603?pgs=1603&org=PLC"
+              }
+            ],
+            "sumario": "UNIAO EUROPEIA: PARTICIPACAO DE PORTUGAL NA SUA CONSTRUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40754",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1603-1603"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-25",
+                "pubLeg": "VI",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1603?pgs=1603&org=PLC"
+              }
+            ],
+            "sumario": "UNIAO EUROPEIA: PARTICIPACAO DE PORTUGAL NA SUA CONSTRUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40755",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1602-1602"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-25",
+                "pubLeg": "VI",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1602?pgs=1602&org=PLC"
+              }
+            ],
+            "sumario": "UNIAO EUROPEIA: PARTICIPACAO DE PORTUGAL NA SUA CONSTRUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40756",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1600-1601"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-25",
+                "pubLeg": "VI",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1600?pgs=1600-1601&org=PLC"
+              }
+            ],
+            "sumario": "UNIAO EUROPEIA: PARTICIPACAO DE PORTUGAL NA SUA CONSTRUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "131",
+                "nome": "Rui Carp"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40757",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1600-1600"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-25",
+                "pubLeg": "VI",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1600?pgs=1600&org=PLC"
+              }
+            ],
+            "sumario": "UNIAO EUROPEIA: PARTICIPACAO DE PORTUGAL NA SUA CONSTRUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40758",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1599-1600"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-25",
+                "pubLeg": "VI",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1599?pgs=1599-1600&org=PLC"
+              }
+            ],
+            "sumario": "UNIAO EUROPEIA: PARTICIPACAO DE PORTUGAL NA SUA CONSTRUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "62",
+                "nome": "João Poças Santos"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40759",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1598-1599"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-25",
+                "pubLeg": "VI",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1598?pgs=1598-1599&org=PLC"
+              }
+            ],
+            "sumario": "UNIAO EUROPEIA: PARTICIPACAO DE PORTUGAL NA SUA CONSTRUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40760",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1597-1598",
+                  "1601-1602"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-25",
+                "pubLeg": "VI",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1597?pgs=1597-1598,1601-1602&org=PLC"
+              }
+            ],
+            "sumario": "UNIAO EUROPEIA: PARTICIPACAO DE PORTUGAL NA SUA CONSTRUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "546",
+                "nome": "António Murteira"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40761",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1596-1597"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-25",
+                "pubLeg": "VI",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1596?pgs=1596-1597&org=PLC"
+              }
+            ],
+            "sumario": "UNIAO EUROPEIA: PARTICIPACAO DE PORTUGAL NA SUA CONSTRUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "546",
+                "nome": "António Murteira"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40762",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1596-1596"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-25",
+                "pubLeg": "VI",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1596?pgs=1596&org=PLC"
+              }
+            ],
+            "sumario": "UNIAO EUROPEIA: PARTICIPACAO DE PORTUGAL NA SUA CONSTRUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40763",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1595-1595"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-25",
+                "pubLeg": "VI",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1595?pgs=1595&org=PLC"
+              }
+            ],
+            "sumario": "UNIAO EUROPEIA: PARTICIPACAO DE PORTUGAL NA SUA CONSTRUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "220",
+                "nome": "Mário Tomé"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40764",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1595-1595"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-25",
+                "pubLeg": "VI",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1595?pgs=1595&org=PLC"
+              }
+            ],
+            "sumario": "UNIAO EUROPEIA: PARTICIPACAO DE PORTUGAL NA SUA CONSTRUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40765",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1594-1595"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-25",
+                "pubLeg": "VI",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1594?pgs=1594-1595&org=PLC"
+              }
+            ],
+            "sumario": "UNIAO EUROPEIA: PARTICIPACAO DE PORTUGAL NA SUA CONSTRUCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "339",
+                "nome": "Braga de Macedo"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40766",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1593-1596",
+                  "1602-1602"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-25",
+                "pubLeg": "VI",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25/1593?pgs=1593-1596,1602&org=PLC"
+              }
+            ],
+            "sumario": "UNIAO EUROPEIA: PARTICIPACAO DE PORTUGAL NA SUA CONSTRUCAO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "94411",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "105384",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-02-25",
+        "pubLeg": "VI",
+        "pubNr": "46",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/046/1995-02-25?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
