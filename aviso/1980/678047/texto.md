@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Governo da República Democrática de S. Tomé e Príncipe, em 24 de Outubro de 1979, e o Governo da República da Argentina, em 27 de Novembro de 1979, depositaram, respectivamente, junto do Governo da União das Repúblicas Socialistas Soviéticas e do Governo dos Estados Unidos da América os instrumentos de ratificação da Convenção sobre a Proibição do Desenvolvimento, da Produção e do Armazenamento de Armas Bacteriológicas (Biológicas) ou Tóxicas e sobre a Sua Destruição, aberta para assinatura em 10 de Abril de 1972.
+Direcção-Geral dos Negócios Políticos, 18 de Fevereiro de 1980. - O Director-Geral-Adjunto, António Leal da Costa Lobo.
