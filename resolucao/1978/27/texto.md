@@ -1,0 +1,8 @@
+Resolução n.º 27/78
+Considerando que, através da Resolução do Conselho de Minitsros n.º 212/77, de 7 de Setembro, foi determinada a transformação da Fundição e Construção Mecânicas, S. A. R. L., de Oeiras, em empresa de economia mista, precedendo a cessação da intervenção do Estado na mesma;
+Considerando que a mencionada resolução fixou o prazo de noventa dias para a comissão administrativa proceder, com a assistência de um representante dos actuais sócios, às operações necessárias à referida transformação em empresa de economia mista, entre as quais se destaca a reavaliação do activo da Fundição e Construção Mecânicas, S. A. R. L.;
+Considerando que, a pedido dos actuais accionistas da empresa que encarregaram elementos da sua confiança de realizarem estudos que lhes permitam dispor de um termo de comparação em relação às propostas entretanto já elaboradas pela comissão administrativa, foi o correspondente prazo inicialmente fixado prorrogado, entretanto, por quarenta e cinco dias, através da Resolução do Conselho de Ministros n.º 320/77, de 26 de Dezembro;
+Considerando que, não tendo esta prorrogação sido suficiente para a conclusão dos seus estudos, os actuais titulares da Fundição e Construção Mecânicas, S. A. R. L., solicitam agora nova prorrogação, igualmente por quarenta e cinco dias:
+O Conselho de Ministros, reunido em 15 de Fevereiro de 1978, resolveu:
+Prorrogar, a pedido dos actuais titulares da Fundição e Construção Mecânicas, S. A. R. L., por quarenta e cinco dias improrrogáveis, o prazo fixado pela Resolução do Conselho de Ministros n.º 320/77, de 26 de Dezembro.
+Presidência do Conselho de Ministros, 15 de Fevereiro de 1978. - O Primeiro-Ministro, Mário Soares.
