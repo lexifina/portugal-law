@@ -1,0 +1,3 @@
+Portaria n.º 18299
+Manda o Governo da República Portuguesa, pelo Ministro da Economia, sob parecer do Conselho de Normalização, aprovar como definitivas, com os n.os NP-228, NP-229, NP-230, NP-231 e NP-232, nos termos do artigo 8.º do Decreto-Lei n.º 38801, de 25 de Junho de 1952, as normas provisórias P-228, P-229, P-230, P-231 e P-232, relativas a «Ágar-ágar. Humidade», «Ágar-ágar. Teor em cinza», «Ágar-ágar. Teor em matéria insolúvel estranha», «Ágar-ágar. Pesquisa de amido» e «Ágar-ágar. Pesquisa de gelatina», com as alterações propostas nos referidos pareceres.
+Ministério da Economia, 4 de Março de 1961. - Pelo Ministro da Economia, Rogério Vargas Moniz, Subsecretário de Estado da Indústria.
