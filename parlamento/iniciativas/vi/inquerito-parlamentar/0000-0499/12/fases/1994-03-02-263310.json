@@ -1,0 +1,554 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Inquérito Parlamentar",
+    "numero": "12",
+    "id": "20342",
+    "titulo": "Sobre a natureza e extensão de alegadas irregularidades na gestão de subsídios provenientes de fundos comunitários destinados à agricultura portuguesa, no que se refere à cooperativa agrícola de Torres Vedras."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1994-03-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7151",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1994-03-02",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1994-03-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "150",
+                "nome": "António Campos"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "37856",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1461-1461"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-03-03",
+                "pubLeg": "VI",
+                "pubNr": "43",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/043/1994-03-03/1461?pgs=1461&org=PLC"
+              }
+            ],
+            "sumario": "TORRES VEDRAS: EVENTUAIS IRREGULARID NA UTILIZ DEFUNDOS COMUNITARIOS POR PARTE DA COOPERATIVA AGRICOLA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "615",
+                "nome": "Raul Rêgo"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "37857",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1461-1461"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-03-03",
+                "pubLeg": "VI",
+                "pubNr": "43",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/043/1994-03-03/1461?pgs=1461&org=PLC"
+              }
+            ],
+            "sumario": "TORRES VEDRAS: EVENTUAIS IRREGULARID NA UTILIZ DEFUNDOS COMUNITARIOS POR PARTE DA COOPERATIVA AGRICOLA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "32",
+                "nome": "Carlos Duarte"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "37858",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1461-1461"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-03-03",
+                "pubLeg": "VI",
+                "pubNr": "43",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/043/1994-03-03/1461?pgs=1461&org=PLC"
+              }
+            ],
+            "sumario": "TORRES VEDRAS: EVENTUAIS IRREGULARID NA UTILIZ DEFUNDOS COMUNITARIOS POR PARTE DA COOPERATIVA AGRICOLA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "197",
+                "nome": "Capoulas Santos"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "37859",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1460-1461"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-03-03",
+                "pubLeg": "VI",
+                "pubNr": "43",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/043/1994-03-03/1460?pgs=1460-1461&org=PLC"
+              }
+            ],
+            "sumario": "TORRES VEDRAS: EVENTUAIS IRREGULARID NA UTILIZ DEFUNDOS COMUNITARIOS POR PARTE DA COOPERATIVA AGRICOLA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "32",
+                "nome": "Carlos Duarte"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "37860",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1460-1460"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-03-03",
+                "pubLeg": "VI",
+                "pubNr": "43",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/043/1994-03-03/1460?pgs=1460&org=PLC"
+              }
+            ],
+            "sumario": "TORRES VEDRAS: EVENTUAIS IRREGULARID NA UTILIZ DEFUNDOS COMUNITARIOS POR PARTE DA COOPERATIVA AGRICOLA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "150",
+                "nome": "António Campos"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "37861",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1459-1459"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-03-03",
+                "pubLeg": "VI",
+                "pubNr": "43",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/043/1994-03-03/1459?pgs=1459&org=PLC"
+              }
+            ],
+            "sumario": "TORRES VEDRAS: EVENTUAIS IRREGULARID NA UTILIZ DEFUNDOS COMUNITARIOS POR PARTE DA COOPERATIVA AGRICOLA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "32",
+                "nome": "Carlos Duarte"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "37862",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1457-1458"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-03-03",
+                "pubLeg": "VI",
+                "pubNr": "43",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/043/1994-03-03/1457?pgs=1457-1458&org=PLC"
+              }
+            ],
+            "sumario": "TORRES VEDRAS: EVENTUAIS IRREGULARID NA UTILIZ DEFUNDOS COMUNITARIOS POR PARTE DA COOPERATIVA AGRICOLA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "37863",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1457-1457"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-03-03",
+                "pubLeg": "VI",
+                "pubNr": "43",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/043/1994-03-03/1457?pgs=1457&org=PLC"
+              }
+            ],
+            "sumario": "TORRES VEDRAS: EVENTUAIS IRREGULARID NA UTILIZ DEFUNDOS COMUNITARIOS POR PARTE DA COOPERATIVA AGRICOLA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "178",
+                "nome": "Fialho Anastácio"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "37864",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1456-1456"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-03-03",
+                "pubLeg": "VI",
+                "pubNr": "43",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/043/1994-03-03/1456?pgs=1456&org=PLC"
+              }
+            ],
+            "sumario": "TORRES VEDRAS: EVENTUAIS IRREGULARID NA UTILIZ DEFUNDOS COMUNITARIOS POR PARTE DA COOPERATIVA AGRICOLA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "197",
+                "nome": "Capoulas Santos"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "37866",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1455-1456"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-03-03",
+                "pubLeg": "VI",
+                "pubNr": "43",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/043/1994-03-03/1455?pgs=1455-1456&org=PLC"
+              }
+            ],
+            "sumario": "TORRES VEDRAS: EVENTUAIS IRREGULARID NA UTILIZ DEFUNDOS COMUNITARIOS POR PARTE DA COOPERATIVA AGRICOLA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "263310",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "7151",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1994-03-03",
+        "pubLeg": "VI",
+        "pubNr": "43",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/043/1994-03-03?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
