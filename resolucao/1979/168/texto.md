@@ -1,0 +1,21 @@
+Resolução n.º 168/79
+As disposições contidas no Decreto-Lei n.º 221/77, de 28 de Maio (artigo 6.º, n.º 2, artigo 36.º e artigo 62.º), determinam a criação de organismos especializados na regularização do mercado em substituição dos actuais organismos de coordenação económica.
+Estando, portanto, já legalmente estabelecidas as linhas programáticas a que há-de obedecer a extinção dos organismos de coordenação económica, urge accionar os adequados mecanismos que desencadeiem o processo de criação de novos organismos adequados aos sistemas da CEE.
+O Conselho de Ministros, reunido em 26 de Abril de 1979, resolveu:
+1 - Criar, na dependência do Ministro da Agricultura e Pescas, a comissão instaladora do Instituto Nacional da Carne.
+2 - Incumbir esta comissão para, no prazo de noventa dias a contar da publicação desta resolução, elaborar o projecto de estatutos do referido Instituto, organismo especializado na regulamentação e regularização do mercado que coordenará toda a problemática do respectivo sector, devendo ter, nomeadamente, em consideração, para além do disposto nas alíneas a), b), c) e d) do artigo 36.º do Decreto-Lei n.º 221/77, de 28 de Maio:
+a) A política nacional dos produtos pecuários definida pelo Ministério da Agricultura e Pescas e fundamentada na defesa da qualidade, na economia de produção, na harmonização dos circuitos de distribuição e, simultaneamente, a adequação à complexa regulamentação da CEE;
+b) A reestruturação da produção em moldes de melhor adaptação a uma agricultura dinâmica e concorrencial e de uma eficaz inserção no ordenamento agrícola, mais conforme às características edafo-climáticas e interesses sócio-económicos do País;
+c) A reestruturação da organização do sector, de modo a conseguir-se uma eficiente articulação e o necessário equilíbrio entre a produção e o escoamento, em ordem a uma mais justa defesa dos interesses das diversas regiões e dos diferentes intervenientes no circuito comercial;
+d) As relações e âmbito da competência dos departamentos governamentais de tutela do sector e das respectivas direcções-gerais;
+e) A inventariação dos recursos de que o sector dispõe, designadamente instalações, pessoal técnico e administrativo, meios financeiros, e determinação da sua especialidade e qualidade, como base de estudo para a sua integração na estrutura a conceber;
+f) A recolha e análise da legislação vigente, bem como de outra documentação e estudos, para efeito da sua codificação e actualização, no sentido de os globalizar, articular e unificar, dentro dos princípios fundamentais da política nacional do sector;
+g) A regulamentação da Lei das Finanças Locais e a ligação às regiões autónomas;
+h) A correcta gestão do pessoal, tendo em atenção as normas sobre excedentes de pessoal e atendendo sempre à necessária gestão por objectivos.
+3 - Após a sua constituição a comissão deverá apresentar ao Ministro da Agricultura e Pescas um plano de trabalho detalhado e faseado donde constarão as actividades a desenvolver, os meios e os prazos necessários à sua efectivação.
+4 - Para o desempenho das funções que lhe são cometidas, poderá a comissão corresponder-se e solicitar informações de quaisquer entidades públicas ou privadas.
+5 - Os departamentos e serviços directa ou indirectamente ligados ao sector, bem como os respectivos organismos de superintendência económica, a nível nacional ou regional, prestarão à comissão todos os apoios necessários, podendo, por despacho conjunto dos Ministros das Finanças e do Plano, da Agricultura e Pescas e do Secretário de Estado da Administração Pública, determinar-se a afectação provisória de meios humanos e materiais.
+6 - Sob proposta da comissão, e por despacho do Ministro da Agricultura e Pescas, podem ser criados grupos de trabalho de especialidade para tratamento ou estudo de assuntos específicos dentro do sector.
+7 - A comissão será constituída por cinco elementos, a designar por despacho do Ministro da Agricultura e Pescas, que nomeará também o presidente; um dos membros será indicado pelo Ministro do Comércio e Turismo.
+8 - A comissão considerar-se-á extinta findo o prazo referido no n.º 2.
+Presidência do Conselho de Ministros, 26 de Abril de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.
