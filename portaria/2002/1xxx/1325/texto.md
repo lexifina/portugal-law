@@ -1,0 +1,12 @@
+Portaria n.º 1325/2002
+de 7 de Outubro
+Pela Portaria n.º 615-H5/91, de 8 de Julho, corrigida pela Portaria n.º 64/96, de 1 de Março, foi concessionada à Defesa e Fornilhos - Caça e Turismo, Lda., a zona de caça turística da Herdade de Fornilhos e outras (processo n.º 475-DGF), situada nos municípios de Mourão, Barrancos e Moura, com uma área de 3170,2436 ha, válida até 31 de Maio de 2002.
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+Cumpridos os preceitos legais, com fundamento no disposto no n.º 8 do artigo 44.º, em articulação com o disposto na alínea a) do n.º 2 do artigo 36.º e com o n.º 2 do artigo 114.º, do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, e ouvidos os conselhos cinegéticos municipais:
+Manda o Governo, pelos Ministros da Economia, da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente, o seguinte:
+1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística da Herdade de Fornilhos e outras (processo n.º 475-DGF), abrangendo vários prédios rústicos, sitos nas freguesias de Barrancos, município de Barrancos, Granja, município de Mourão, e Amareleja, município de Moura, com uma área de 3170,2436 ha.
+2.º A presente renovação mereceu, por parte da Direcção-Geral do Turismo, parecer favorável.
+3.º A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização por criação de zonas de interdição à caça (ao abrigo do artigo 115.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro), ou ser sujeito a condicionantes adicionais, sempre que sejam introduzidas alterações de condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade com a actividade cinegética, até um máximo de 10% da área total da zona de caça.
+4.º É revogada a Portaria n.º 596/2002, de 6 de Junho.
+5.º A presente portaria produz efeitos a partir do dia 1 de Junho de 2002.
+Pelo Ministro da Economia, Pedro Antunes de Almeida, Secretário de Estado do Turismo, em 27 de Agosto de 2002. - Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 20 de Agosto de 2002. - Pelo Ministro das Cidades, Ordenamento do Território e Ambiente, José Mário Ferreira de Almeida, Secretário de Estado Adjunto e do Ordenamento do Território, em 20 de Setembro de 2002.
