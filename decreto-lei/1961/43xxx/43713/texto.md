@@ -1,0 +1,8 @@
+Decreto-Lei n.º 43713
+Depois da fixação do quadro do pessoal de secretaria das direcções dos distritos escolares pelo Decreto-Lei n.º 40964, de 31 de Dezembro de 1956, verificou-se o aumento superior a uma centena de agentes de ensino no distrito escolar de Ponta Delgada.
+Considerando que, nesta circunstância, o director do distrito escolar se transforma em funcionário de secretaria, com grave prejuízo da sua função orientadora junto dos agentes de ensino, o que, necessàriamente, se reflecte na disciplina e no rendimento escolar;
+Considerando que a Junta Geral do Distrito Autónomo de Ponta Delgada se declarou disposta a assumir os encargos indispensáveis para resolver esta situação;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. O quadro do pessoal da secretaria do distrito escolar de Ponta Delgada é aumentado com mais um lugar de escriturário de 1.ª classe.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 26 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
