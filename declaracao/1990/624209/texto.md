@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério da Educação, o Despacho Normativo n.º 102/90, publicado no Diário da República, 1.ª série, n.º 211, de 12 de Setembro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No anexo, no título do n.º 6.º, onde se lê «Organização dos quadros regionais» deve ler-se «Organização dos quadros regionais de valor e de excelência», no título do n.º 9.º, onde se lê «Prémios dos quadros de valor e de excelência» deve ler-se «Prémios dos quadros de valor e de excelência da escola», e no título do n.º 10.º, onde se lê «Prémios dos quadros de valor e de excelência» deve ler-se «Prémios dos quadros regionais de valor e de excelência».
+Secretaria-Geral da Presidência do Conselho de Ministros, 23 de Outubro de 1990. - O Secretário-Geral, França Martins.
