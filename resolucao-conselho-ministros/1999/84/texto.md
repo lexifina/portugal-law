@@ -1,0 +1,15 @@
+Resolução do Conselho de Ministros n.º 84/99
+O Decreto-Lei n.º 10/99, de 11 de Janeiro, aprovou, nos termos da Lei n.º 11/90, de 5 de Abril, o processo de reprivatização da totalidade do capital social da CARBOLIS - Gases Industriais, S. A., integralmente detido pela GDP - Gás de Portugal, SGPS, S. A. Estabeleceu o mencionado decreto-lei que a alienação, em bloco indivisível, das acções representativas da totalidade do capital se concretizasse por concurso público cujos termos e condições foram fixados pelo caderno de encargos aprovado pelo próprio decreto-lei.
+Apresentaram-se ao concurso quatro concorrentes, tendo o júri admitido todas as propostas apresentadas, o qual considerou verificados, em relação a cada um dos concorrentes, todos os requisitos exigidos pelo n.º 4 do artigo 1.º do caderno de encargos - idoneidade e capacidade técnica e financeira adequada à concretização da operação de reprivatização, bem como experiência de gestão no sector da produção, comercialização e distribuição de gases industriais.
+Todos os concorrentes foram, assim, nos termos dos artigos 18.º a 23.º do caderno de encargos, admitidos à fase de abertura e admissão das ofertas, avaliação dos concorrentes e das propostas e determinação do adquirente. Nesta fase, foram abertas e admitidas as ofertas apresentadas por todos os concorrentes. De seguida, o júri procedeu à avaliação dos concorrentes e das propostas à luz dos critérios estabelecidos pelo n.º 3 do artigo 21.º do caderno de encargos, tendo elaborado relatório circunstanciado de acordo com o artigo 22.º do caderno de encargos.
+Concluída a aludida avaliação, o júri ordenou os concorrentes em função do seu mérito relativo. Entendeu, na avaliação efectuada, que «o factor preço é determinante na hierarquização das propostas, visto que a análise conjugada dos restantes factores de apreciação não permite valorizar, de forma clara, qualquer dos concorrentes, nem alterar a hierarquização que resulta do preço». Os concorrentes foram, assim, ordenados do modo seguinte:
+1.º Linde Sogás, Lda. - 600000000$00;
+2.º ADP - Adubos de Portugal, S. A. - 260000000$00;
+3.º Sociedade Portuguesa do Ar Líquido «Arlíquido», Lda. - 230000000$00;
+4.º Gases Medicinales e Industriales, S. A. - 183750000$00.
+O relatório do júri foi remetido a Conselho de Ministros, para efeitos do disposto no artigo 23.º do caderno de encargos, tendo antes um dos concorrentes obtido a necessária autorização em matéria de concorrência, nos termos da lei aplicável.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolveu:
+1 - Ao abrigo da alínea a) do n.º 1 do artigo 23.º do caderno de encargos, aprovado pelo Decreto-Lei n.º 10/99, de 11 de Janeiro, homologar a ordenação proposta pelo júri do concurso público de reprivatização da CARBOLIS - Gases Industriais, S. A., determinando, em consequência, a Linde Sogás, Lda., concorrente vencedor do concurso.
+2 - A presente resolução entra em vigor no dia imediato ao da sua publicação.
+Presidência do Conselho de Ministros, 15 de Julho de 1999. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
