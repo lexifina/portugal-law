@@ -1,5 +1,7 @@
 # Artigo 23.º-A
 
-### Compensação por serviço de turno
+### Suplemento remuneratório pela execução de serviço urgente
 
-A compensação devida pelo serviço urgente como tal previsto no Código de Processo Penal e Organização Tutelar de Menores efectuado aos sábados, domingos e feriados é fixada em diploma próprio.
+1 - O suplemento remuneratório diário devido aos magistrados pela prestação de serviço nos tribunais de turno é equivalente a 42% do índice 100 da escala salarial do regime geral do funcionalismo público.
+
+2 - A remuneração devida pela execução de serviço urgente aos sábados, domingos e feriados em tribunais com sede em comarcas não abrangidas por tribunais de turno é a fixada no número anterior.
