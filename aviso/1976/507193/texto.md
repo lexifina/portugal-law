@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, de harmonia com informação do Secretário-Geral do Conselho de Cooperação Aduaneira, o Governo Português depositou, em 3 de Junho de 1975, o instrumento de adesão à Convenção Aduaneira Relativa à Importação Temporária de Material Pedagógico, concluída em Bruxelas em 8 de Junho de 1970, aprovado para adesão pelo Decreto n.º 157/75, de 26 de Março.
+Até àquela data, eram partes da Convenção Aduaneira Relativa à Importação Temporária de Material Pedagógico os seguintes países: Argélia, República Federal da Alemanha, Argentina, Austrália, Áustria, Barbados, Camarões, Chipre, Daomé, Espanha, França, Grécia, Índia, Iraque, Irão, Israel, Jordânia, Líbano, Marrocos, Níger, Polónia, Ruanda, Somália, Suíça, Togo e Tunísia.
+Direcção-Geral dos Negócios Económicos, 14 de Janeiro de 1976. - O Adjunto do Director-Geral, Alexandre Eduardo Lencastre da Veiga.
