@@ -8,7 +8,7 @@
 
 1. As repartições marítimas da metrópole - capitanias dos portos e delegações marítimas - são órgãos externos da Direcção-Geral dos Serviços de Fomento Marítimo (D. G. S. F. M.) destinados a desempenhar nas respectivas áreas as funções que lhes estejam ou forem atribuídas por lei e a fiscalizar o cumprimento das decisões, e consequentes procedimentos, da competência da mesma Direcção-Geral.
 
-2. As delegações marítimas são subdivisões territoriais das capitanias dos portos.
+2. (Revogado.)
 
 3. No continente e ilhas adjacentes existem as repartições marítimas constantes do quadro n.º 1 anexo a este diploma.
 
