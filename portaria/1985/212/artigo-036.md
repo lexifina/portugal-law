@@ -2,7 +2,7 @@
 
 ### Subsídio de refeição
 
-1 - Os trabalhadores abrangidos pelo presente Estatuto terão direito, por cada dia de trabalho efectivamente prestado, a um subsídio de refeição no valor de 150$00.
+1 - Os trabalhadores abrangidos pelo presente Estatuto terão direito, por cada dia de trabalho efectivamente prestado, a um subsídio de refeição no valor de 200$00.
 
 2 - Não haverá lugar à atribuição do subsídio de refeição designadamente nas seguintes situações de faltas e licenças:
 
