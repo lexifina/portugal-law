@@ -1,0 +1,689 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "59",
+    "id": "18562",
+    "titulo": "Aprova, para ratificação, o Tratado de Nice que altera o Tratado da União Europeia, os Tratados que instituem as Comunidades Europeias e alguns actos relativos a esses Tratados, assinado em Nice, em 26 de Fevereiro de 2001."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2001-10-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2060",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2001-10-24",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-10-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS NEGÓCIOS ESTRANGEIROS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Jaime Gama"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140032",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "554-557"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-25",
+                "pubLeg": "VIII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/016/2001-10-25/554?pgs=554-557&org=PLC"
+              }
+            ],
+            "sumario": "Aprova, para ratificação, o Tratado de Nice que altera o Tratado da União Europeia, os Tratados que instituem as Comunidades Europeias e alguns actos relativos a esses Tratados, assinado em Nice, a 26 de Fevereiro de 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140033",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "555-556"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-25",
+                "pubLeg": "VIII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/016/2001-10-25/555?pgs=555-556&org=PLC"
+              }
+            ],
+            "sumario": "Aprova, para ratificação, o Tratado de Nice que altera o Tratado da União Europeia, os Tratados que instituem as Comunidades Europeias e alguns actos relativos a esses Tratados, assinado em Nice, a 26 de Fevereiro de 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140034",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "557-559"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-25",
+                "pubLeg": "VIII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/016/2001-10-25/557?pgs=557-559&org=PLC"
+              }
+            ],
+            "sumario": "Aprova, para ratificação, o Tratado de Nice que altera o Tratado da União Europeia, os Tratados que instituem as Comunidades Europeias e alguns actos relativos a esses Tratados, assinado em Nice, a 26 de Fevereiro de 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140035",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "559-559"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-25",
+                "pubLeg": "VIII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/016/2001-10-25/559?pgs=559&org=PLC"
+              }
+            ],
+            "sumario": "Aprova, para ratificação, o Tratado de Nice que altera o Tratado da União Europeia, os Tratados que instituem as Comunidades Europeias e alguns actos relativos a esses Tratados, assinado em Nice, a 26 de Fevereiro de 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1128",
+                "nome": "Maria Eduarda Azevedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140036",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "560-563"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-25",
+                "pubLeg": "VIII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/016/2001-10-25/560?pgs=560-563&org=PLC"
+              }
+            ],
+            "sumario": "Aprova, para ratificação, o Tratado de Nice que altera o Tratado da União Europeia, os Tratados que instituem as Comunidades Europeias e alguns actos relativos a esses Tratados, assinado em Nice, a 26 de Fevereiro de 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1131",
+                "nome": "Francisco Torres"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140037",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "562-562"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-25",
+                "pubLeg": "VIII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/016/2001-10-25/562?pgs=562&org=PLC"
+              }
+            ],
+            "sumario": "Aprova, para ratificação, o Tratado de Nice que altera o Tratado da União Europeia, os Tratados que instituem as Comunidades Europeias e alguns actos relativos a esses Tratados, assinado em Nice, a 26 de Fevereiro de 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1287",
+                "nome": "Sílvio Rui Cervan"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140038",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "563-564"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-25",
+                "pubLeg": "VIII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/016/2001-10-25/563?pgs=563-564&org=PLC"
+              }
+            ],
+            "sumario": "Aprova, para ratificação, o Tratado de Nice que altera o Tratado da União Europeia, os Tratados que instituem as Comunidades Europeias e alguns actos relativos a esses Tratados, assinado em Nice, a 26 de Fevereiro de 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140039",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "564-565"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-25",
+                "pubLeg": "VIII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/016/2001-10-25/564?pgs=564-565&org=PLC"
+              }
+            ],
+            "sumario": "Aprova, para ratificação, o Tratado de Nice que altera o Tratado da União Europeia, os Tratados que instituem as Comunidades Europeias e alguns actos relativos a esses Tratados, assinado em Nice, a 26 de Fevereiro de 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140040",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "565-566"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-25",
+                "pubLeg": "VIII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/016/2001-10-25/565?pgs=565-566&org=PLC"
+              }
+            ],
+            "sumario": "Aprova, para ratificação, o Tratado de Nice que altera o Tratado da União Europeia, os Tratados que instituem as Comunidades Europeias e alguns actos relativos a esses Tratados, assinado em Nice, a 26 de Fevereiro de 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140041",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "567-567"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-25",
+                "pubLeg": "VIII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/016/2001-10-25/567?pgs=567&org=PLC"
+              }
+            ],
+            "sumario": "Aprova, para ratificação, o Tratado de Nice que altera o Tratado da União Europeia, os Tratados que instituem as Comunidades Europeias e alguns actos relativos a esses Tratados, assinado em Nice, a 26 de Fevereiro de 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "143",
+                "nome": "Alberto Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140042",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "567-569"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-25",
+                "pubLeg": "VIII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/016/2001-10-25/567?pgs=567-569&org=PLC"
+              }
+            ],
+            "sumario": "Aprova, para ratificação, o Tratado de Nice que altera o Tratado da União Europeia, os Tratados que instituem as Comunidades Europeias e alguns actos relativos a esses Tratados, assinado em Nice, a 26 de Fevereiro de 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1731",
+                "nome": "António Nazaré Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140043",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "569-570"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-25",
+                "pubLeg": "VIII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/016/2001-10-25/569?pgs=569-570&org=PLC"
+              }
+            ],
+            "sumario": "Aprova, para ratificação, o Tratado de Nice que altera o Tratado da União Europeia, os Tratados que instituem as Comunidades Europeias e alguns actos relativos a esses Tratados, assinado em Nice, a 26 de Fevereiro de 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS   EUROPEUS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Teresa Pereira Moura"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140044",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "570-570"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-25",
+                "pubLeg": "VIII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/016/2001-10-25/570?pgs=570&org=PLC"
+              }
+            ],
+            "sumario": "Aprova, para ratificação, o Tratado de Nice que altera o Tratado da União Europeia, os Tratados que instituem as Comunidades Europeias e alguns actos relativos a esses Tratados, assinado em Nice, a 26 de Fevereiro de 2001.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "149557",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2060",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-10-25",
+        "pubLeg": "VIII",
+        "pubNr": "16",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/016/2001-10-25?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
