@@ -1,0 +1,6 @@
+Portaria n.º 758/71
+de 31 de Dezembro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 13000$00 a verba do capítulo 4.º, artigo 94.º, n.º 2, alínea a) «Administração geral e fiscalização - Serviços de educação - Mocidade Portuguesa - Diversos encargos - Subsídio especial nos termos do artigo 15.º do Decreto-Lei n.º 39837, de 2 de Outubro de 1954, e artigo 9.º do Decreto-Lei n.º 43271, de 26 de Outubro de 1960 - Para a Mocidade Portuguesa masculina», da tabela de despesa ordinária do orçamento geral em vigor da província de Macau, tomando como contrapartida igual importância a sair da verba do capítulo 4.º, artigo 65.º, n.º 1 «Administração geral e fiscalização - Serviços de educação - Repartição Provincial dos Serviços de Educação - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei», da mesma tabela de despesa.
+Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Macau. - Sacramento Monteiro.
