@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros n.º 80/2004
+A Mitsubishi Trucks Europe, S. A., instalada no Tramagal desde 1996, foi a primeira fábrica do grupo Mitsubishi na Europa e é responsável pela produção e venda do modelo Canter.
+Com o objectivo de dotar a empresa portuguesa das estruturas e equipamentos necessários à renovação da sua estrutura produtiva, a Mitsubishi decidiu agora realizar em Portugal um novo investimento, com particular incidência nas áreas de produção, qualidade e ambiente.
+O investimento em causa, que deverá estar concluído em Setembro de 2006, ascende a cerca de 33 milhões de euros, deverá proporcionar a criação de 41 postos de trabalho e permitir a obtenção, nesse ano, de um valor de vendas na ordem de 246 milhões de euros, das quais 72% se destinam ao mercado externo.
+Com este projecto e em resultado da responsabilidade agora conferida à empresa portuguesa do grupo, fica assim reforçada a presença da Mitsubishi neste país.
+Deste modo, considera-se que este projecto, pelo seu mérito, demonstra relevância excepcional para a economia nacional e reúne as condições necessárias à admissão ao regime contratual e à concessão de incentivos fiscais previstos para grandes projectos de investimento.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar a minuta do contrato de investimento e respectivos anexos a celebrar entre o Estado Português, representado pela Agência Portuguesa para o Investimento, E. P. E. (API), e a Mitsubishi Trucks Europe, S. A., para a realização do projecto de investimento que tem por objecto a modernização da unidade fabril desta sociedade no Tramagal, ficando o original do contrato arquivado na API.
+2 - Atento o disposto no n.º 1 do artigo 39.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, na redacção que lhe foi dada pelo Decreto-Lei n.º 198/2001, de 3 de Julho, ao abrigo da Lei n.º 109-B/2001, de 27 de Dezembro, e no Decreto-Lei n.º 409/99, de 15 de Outubro, sob proposta da Ministra de Estado e das Finanças, conceder os benefícios fiscais em sede de IRC e imposto do selo que constam do contrato de investimento e do contrato de concessão de benefícios fiscais.
+Presidência do Conselho de Ministros, 3 de Junho de 2004. - O Primeiro-Ministro, José Manuel Durão Barroso.
