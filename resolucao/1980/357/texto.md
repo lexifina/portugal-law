@@ -1,0 +1,6 @@
+Resolução n.º 357/80
+Considerando que os planos de actividade da ENU - Empresa Nacional de Urânio, E. P., apontam para a triplicação da produção anual de urânio através dos projectos de alargamento da capacidade das instalações da Urgeiriça, intensificação da produção e tratamento na zona da Guarda e arranque da produção em Nisa;
+Considerando, por outro lado, que tais planos de actividade englobam programas de pesquisa e prospecção, de molde a assegurar a permanente reposição das reservas identificadas;
+Tornando-se indispensável, para conseguir tais objectivos, utilizar avultados meios financeiros, que a disponibilização de parte da produção de concentrado poderá assegurar:
+O Conselho de Ministros, reunido em 10 de Setembro de 1980, resolveu, sob proposta do Ministro da Indústria e Energia, autorizar a ENU - Empresa Nacional de Urânio, E. P., devidamente acompanhada pelo Ministério da Indústria e Energia através dos seus órgãos tecnicamente competentes para o efeito, a desenvolver as necessárias acções com vista a apresentar ao Governo propostas concretas quanto à efectivação em 1980 de operações de comercialização de concentrado de urânio até ao limite de 130 t.
+Presidência do Conselho de Ministros, 10 de Setembro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
