@@ -1,0 +1,3 @@
+# Artigo 92.º
+
+Serão tomadas todas as disposições necessárias para rigorosa defesa da habitação contra emanações dos esgotos susceptíveis de prejudicar a saúde ou a comodidade dos ocupantes. Qualquer aparelho ou orifício de escoamento, sem excepção, desde que possa estabelecer comunicação entre canalizações ou reservatórios de águas servidas ou de dejectos e a habitação, incluindo os escoadouros colocados nos logradouros ou em outro qualquer local do prédio, será ligado ao ramal da evacuação por intermédio de um sifão acessível e de fácil limpeza e em condições de garantir urna vedação hidráulica efectiva e permanente.
