@@ -10,6 +10,8 @@ a) Os bens adquiridos no ano em causa ou nos três anos anteriores pelo sujeito 
 
 b) Os bens de que frua no ano em causa o sujeito passivo ou qualquer elemento do respectivo agregado familiar, adquiridos, nesse ano ou nos três anos anteriores, por sociedade na qual detenham, directa ou indirectamente, participação maioritária, ou por entidade sediada em território de fiscalidade privilegiada ou cujo regime não permita identificar o titular respectivo.
 
+c) Os suprimentos e empréstimos efectuados pelo sócio à sociedade, no ano em causa, ou por qualquer elemento do seu agregado familiar.
+
 3 - Verificadas as situações previstas no n.º 1, cabe ao sujeito passivo a prova de que correspondem à realidade os rendimentos declarados e de que é outra a fonte das manifestações de fortuna evidenciadas, nomeadamente herança ou doação, rendimentos que não esteja obrigado a declarar, utilização do seu capital ou recurso ao crédito.
 
 4 - Quando o sujeito passivo não faça a prova referida no número anterior, considera-se como rendimento tributável em sede de IRS, a enquadrar na categoria G, quando não existam indícios fundados, de acordo com os critérios previstos no artigo 90.º, que permitam à administração tributária fixar rendimento superior, o rendimento padrão apurado nos termos da tabela seguinte:
