@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público haver o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte notificado, em conformidade com o artigo 40.º, alínea 2, da Convenção sobre a Obtenção de Provas no Estrangeiro em Matéria Civil ou Comercial, concluída na Haia em 18 de Março de 1970, a sua extensão às Bases Soberanas de Akrotiri e Dhekélia, na ilha de Chipre. Em conformidade com o artigo 40.º, alínea 3, da Convenção, esta entrará em vigor para aquelas Bases Soberanas em 24 de Agosto de 1979.
+Secretaria-Geral do Ministério, 12 de Setembro de 1979. - O Chefe dos Serviços Jurídicos e de Tratados, Rui Eduardo Barbosa de Medina.
