@@ -16,7 +16,7 @@ O imposto para o serviço de incêndios destina-se a manter o serviço de preven
 
 § 7.º O Conselho Nacional dos Serviços de Incêndios, tendo em atenção a receita obtida em cada concelho e os respectivos encargos com o serviço de prevenção e extinção de incêndios, elaborará e sujeitará à aprovação dos Ministros do Interior e das Finanças a proposta de distribuição da colecta pelos vários concelhos.
 
-§ 8.º As Câmaras Municipais de Lisboa e do Porto nunca receberão menos de 30 e 15 por cento do total, respectivamente.
+§ 8.º As Câmaras Municipais de Lisboa e do Porto nunca receberão menos de 25 e 12,5 por cento do total, respectivamente.
 
 § 9.º As câmaras que não mantenham nem subsidiem serviço de incêndios poderão ser abrangidas na distribuição da colecta desde que tomem o compromisso, perante o Ministério do Interior, de vir a manter ou subsidiar tal serviço no prazo máximo de três anos.
 
