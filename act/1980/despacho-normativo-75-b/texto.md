@@ -1,0 +1,5 @@
+Despacho Normativo n.º 75-B/80
+Considerando que o pessoal contratado além do quadro depois de 29 de Maio de 1977 foi autorizado a ingressar nos quadros únicos do MAP, ao abrigo dos n.os 1 e 12 do artigo 52.º do Decreto-Lei n.º 320/78, de 4 de Novembro, determino:
+1 - O pessoal do Ministério da Agricultura e Pescas contratado além do quadro, depois de 29 de Maio de 1977 e que tenha tomado posse até 20 de Fevereiro último, ingressa nos quadros únicos para categoria igual ou equivalente à que possui.
+2 - Quando da aplicação do presente despacho resultarem excedentes de pessoal relativamente ao número de lugares, em cada categoria, que consta do mapa anexo ao Decreto Regulamentar n.º 79/77, de 26 de Novembro, será feito recurso ao previsto nos n.os 4 e 5 do artigo 52.º do Decreto-Lei n.º 221/77, de 28 de Maio, com a redacção que lhe foi dada pelo Decreto-Lei n.º 320/78, de 4 de Novembro.
+Ministério da Agricultura e Pescas, 5 de Março de 1980. - Pelo Ministro da Agricultura e Pescas, João de Albuquerque, Secretário de Estado das Pescas.
