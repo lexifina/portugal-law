@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, conforme comunicação recebida pela Embaixada de Portugal na Haia, do Ministério dos Negócios Estrangeiros dos Países Baixos, os Estados contratantes da Convenção Relativa à Lei Aplicável em Matéria de Prestação de Alimentos a Menores, concluída na Haia em 24 de Outubro de 1956 (República Federal da Alemanha, Áustria, Itália, Luxemburgo, Países Baixos e Suíça), não levantam qualquer objecção a que ela seja extensiva a todos os territórios ultramarinos portugueses, nos termos do seu artigo 9.º
+Aquela Convenção, aprovada para ratificação pelo Decreto-Lei n.º 48495, de 22 de Julho de 1968 (em vigor relativamente à metrópole desde 3 de Fevereiro de 1969), entrou, por isso, em vigor, quanto ao ultramar português, em 3 de Setembro de 1969, ao abrigo do § 3.º do seu artigo 9.º
+Secretaria-Geral do Ministério, 8 de Outubro de 1969. - O Secretário-Geral, José Luís Archer.
