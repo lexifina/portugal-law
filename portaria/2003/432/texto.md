@@ -1,0 +1,6 @@
+Portaria n.º 432/2003
+de 24 de Maio
+Considerando o disposto na alínea a) do n.º 2 e nos n.os 3, 6, 7 e 8 do artigo 32.º da Lei n.º 49/99, de 22 de Junho;
+Considerando que o licenciado Fernando Monteiro Girão, assistente graduado da carreira médica de clínica geral, a exercer, em gestão corrente, o cargo de coordenador sub-regional da Sub-Região de Saúde da Guarda, reúne os requisitos necessários para acesso à categoria de chefe de serviço da carreira médica de clínica geral e requereu, ao abrigo do n.º 7 do artigo 32.º da Lei n.º 49/99, de 22 de Junho, a criação do respectivo lugar:
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Saúde, que seja criado no quadro de pessoal da Administração Regional de Saúde do Centro, Sub-Região de Saúde da Guarda, Centro de Saúde de Vila Nova de Foz Côa, constante do anexo III à Portaria n.º 772-B/96, de 31 de Dezembro, um lugar de chefe de serviço da carreira médica de clínica geral, a extinguir quando vagar.
+Pela Ministra de Estado e das Finanças, Suzana Maria de Moura Alves da Silva Toscano, em 11 de Abril de 2003. - Pelo Ministro da Saúde, Adão José Fonseca Silva, Secretário de Estado Adjunto do Ministro da Saúde, em 13 de Fevereiro de 2003.
