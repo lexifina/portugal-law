@@ -1,0 +1,10 @@
+Aviso n.º 45/93
+Por ordem superior se torna público que, por nota de 20 de Novembro de 1992 e nos termos do artigo 45.º da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter o Mónaco, nos termos do artigo 38.º, parágrafo 2.º, da Convenção, depositado o seu instrumento de adesão, em 12 de Novembro de 1992.
+O instrumento contém a seguinte reserva:
+Conformément à l'article 26, alinea 3, de la Convention, la Principauté du Monaco déclare n'être tenue au paiement des frais visés à l'article 26, alinea 2, liés à la participation d'un avocat ou d'un conseiller juridique, ou aux frais de justice, que dans la mesure ou ces coûtes peuvent être couverts par son système d'assistance judiciaire et juridique.
+Tradução:
+Nos termos do artigo 26.º, parágrafo 3.ª, da Convenção, o Principado do Mónaco declara não ficar vinculado aos pagamentos das despesas visadas no artigo 26.º, parágrafo 2.º, ligadas à participação de advogado ou consultor jurídico ou a custas judiciais, senão na medida em que tais despesas possam encontrar-se cobertas pelo seu sistema de apoio judiciário.
+A Convenção entra em vigor para o Mónaco em 1 de Fevereiro de 1993, nos termos do artigo 38.º, parágrado 3.º
+A adesão apenas produz efeitos nas relações entre o Mónaco e os Estados Contratantes que tenham declardo aceitar esta adesão.
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pelo Decreto do Governo n.º 33/83, de 11 de Agosto, tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984. A autoridade central em Portugal é a Direcção-Geral dos Serviços Tutelares de Menores, do Ministério da Justiça, conforme aviso publicado no Diário da República, 1.ª série, n.º 165, de 20 de Julho de 1985.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 20 de Janeiro de 1993. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
