@@ -2,6 +2,6 @@
 
 ### (Composição do tribunal em audiência)
 
-1 - O tribunal é constituído, na audiência, pelo presidente da secção, pelo relator e pelo primeiro dos juízes-adjuntos.
+1 - Na audiência intervêm o presidente da secção, o relator e dois juízes-adjuntos.
 
 2 - Sempre que possível, mantêm-se para a audiência juízes que tiverem intervindo na conferência.

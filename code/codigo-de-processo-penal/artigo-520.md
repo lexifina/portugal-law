@@ -2,7 +2,7 @@
 
 ### (Responsabilidade de outras pessoas)
 
-Pagam também imposto de justiça e custas:
+Pagam também custas:
 
 a) As partes civis, quando não forem assistentes ou arguido e se dever entender que deram causa às custas, segundo as normas do processo civil;
 

@@ -1,7 +1,9 @@
 # Artigo 397.º
 
-### (Comparência do arguido)
+### Decisão
 
-1 - Em processo sumaríssimo o arguido pode fazer-se representar, para todos os efeitos, por defensor constituído.
+1 - Quando o arguido não se opuser ao requerimento, o juiz, por despacho, procede à aplicação da sanção, acrescentando condenação em custas, sendo a taxa de justiça reduzida a um terço.
 
-2 - Se o arguido não comparecer nem se fizer representar por defensor constituído, o juiz condena aquele nos termos do artigo 116.º, n.º 1, e reenvia o processo para a forma comum.
+2 - O despacho a que se refere o número anterior vale como sentença condenatória e transita imediatamente em julgado.
+
+3 - É nulo o despacho que aplique pena diferente da proposta ou fixada nos termos do disposto nos artigos 394.º, n.º 2, e 395.º, n.º 2.

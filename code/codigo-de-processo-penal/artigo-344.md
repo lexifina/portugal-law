@@ -18,6 +18,6 @@ a) Houver co-arguidos e não se verificar a confissão integral, sem reservas e 
 
 b) O tribunal, em sua convicção, suspeitar do carácter livre da confissão, nomeadamente por dúvidas sobre a imputabilidade plena do arguido ou da veracidade dos factos confessados; ou
 
-c) O crime for punível com pena de prisão superior a três anos.
+c) O crime for punível com pena de prisão superior a cinco anos.
 
 4 - Verificando-se a confissão integral e sem reservas nos casos do número anterior ou a confissão parcial ou com reservas, o tribunal decide, em sua livre convicção, se deve ter lugar e em que medida, quanto aos factos confessados, a produção da prova.

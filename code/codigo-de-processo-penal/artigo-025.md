@@ -1,5 +1,5 @@
 # Artigo 25.º
 
-### (Conexão de processos da competência de tribunal de competência genérica e de tribunal de competência especializada)
+### Conexão de processos da competência de tribunais com sede na mesma comarca
 
-Se algum ou alguns dos processos conexos forem da competência de tribunal de competência genérica e outro ou outros da competência de tribunal de competência especializada, é este último competente para de todos conhecer.
+Para além dos casos previstos no artigo anterior, há ainda conexão de processos quando o mesmo agente tiver cometido vários crimes cujo conhecimento seja da competência de tribunais com sede na mesma comarca, nos termos dos artigos 19.º e seguintes.

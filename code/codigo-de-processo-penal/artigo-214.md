@@ -17,3 +17,5 @@ e) Com o trânsito em julgado da sentença condenatória.
 2 - A medida de prisão preventiva extingue-se igualmente de imediato quando tiver lugar sentença condenatória, ainda que dela tenha sido interposto recurso, se a pena aplicada não for superior à prisão já sofrida.
 
 3 - Se, no caso da alínea d) do n.º 1, o arguido vier a ser posteriormente condenado no mesmo processo pode, enquanto a sentença condenatória não transitar em julgado, ser sujeito a medidas de coacção previstas neste Código e admissíveis no caso.
+
+4 - Se a medida de coacção for a de caução e o arguido vier a ser condenado em prisão, aquela só se extingue com o início da execução da pena.

@@ -6,6 +6,8 @@
 
 2 - A decisão que admitir ou recusar a renovação da prova é definitiva e fixa os termos e a extensão com que a prova produzida em 1.ª instância pode ser renovada.
 
-3 - Se for determinada a renovação da prova, o arguido é convocado para a audiência.
+3 - A renovação da prova realiza-se em audiência.
 
-4 - Salvo decisão do tribunal em contrário, a falta de arguido regularmente convocado não dá lugar ao adiamento da audiência.
+4 - O arguido é sempre convocado para a audiência, mas, se tiver sido regularmente convocado, a sua falta não dá lugar a adiamento, salvo decisão do tribunal em contrário.
+
+5 - É correspondentemente aplicável o preceituado quanto à discussão e julgamento em 1.ª instância.

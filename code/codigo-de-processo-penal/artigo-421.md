@@ -6,6 +6,6 @@
 
 2 - São sempre convocados para a audiência o Ministério Público, o defensor, os representantes do assistente e das partes civis.
 
-3 - Exceptuado o caso do Ministro Público, as notificações são feitas pelo correio.
+3 - Exceptuado o caso do Ministério Público, as notificações são feitas por via postal.
 
 4 - É correspondentemente aplicável o disposto no artigo 418.º, n.º 2.

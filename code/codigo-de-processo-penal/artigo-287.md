@@ -8,6 +8,12 @@ a) Pelo arguido, relativamente a factos pelos quais o Ministério Público ou o 
 
 b) Pelo assistente, se o procedimento não depender de acusação particular, relativamente a factos pelos quais o Ministério Público não tiver deduzido acusação.
 
-2 - O requerimento só pode ser rejeitado por extemporâneo, por incompetência do juiz ou por inadmissibilidade legal da instrução.
+2 - O requerimento não está sujeito a formalidades especiais, mas deve conter, em súmula, as razões de facto e de direito, de discordância relativamente à acusação ou não acusação, bem como, sempre que disso for caso, a indicação dos actos de instrução que o requerente pretende que o juiz leve a cabo, dos meios de prova que não tenham sido considerados no inquérito e dos factos que, através de uns e de outros, se espera provar, sendo ainda aplicável ao requerimento do assistente o disposto no artigo 283.º, n.º 3, alíneas b) e c). Não podem ser indicadas mais de 20 testemunhas.
 
-3 - O requerimento não está sujeito a formalidades especiais, mas deve conter, em súmula, as razões, de facto e de direito, de discordância relativamente à acusação ou não acusação, bem como, sempre que disso for caso, a indicação dos actos de instrução que o requerente desejaria que o juiz levasse a cabo, dos meios de prova que não tenham sido considerados no inquérito e dos factos que, através de uns e de outros, se espera provar.
+3 - O requerimento só pode ser rejeitado por extemporâneo, por incompetência do juiz ou por inadmissibilidade legal da instrução.
+
+4 - No despacho de abertura de instrução o juiz nomeia defensor ao arguido que não tenha advogado constituído nem defensor nomeado.
+
+5 - O despacho de abertura de instrução é notificado ao Ministério Público, ao assistente, ao arguido e ao seu defensor.
+
+6 - É aplicável o disposto no artigo 113.º, n.º 10.

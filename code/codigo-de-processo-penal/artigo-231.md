@@ -2,8 +2,8 @@
 
 ### (Recepção a cumprimento de rogatórias)
 
-1 - As rogatórias são recebidas por qualquer via, competindo ao Ministério Público promover os termos das que tiverem sido recebidas por via diplomática.
+1 - As rogatórias são recebidas por qualquer via, competindo ao Ministério Público promover o seu cumprimento.
 
-2 - Recebida a rogatória, é dada vista ao Ministério Público para opor ao cumprimento o que julgar conveniente e, em seguida, decide-se se deve ser cumprida.
+2 - A decisão de cumprimento das rogatórias dirigidas a autoridades judiciárias portuguesas cabe ao juiz ou ao Ministério Público, no âmbito das respectivas competências.
 
-3 - Uma vez cumprida a rogatória, ela é devolvida pela mesma via por que tiver sido recebida.
+3 - Recebida a rogatória que não deva ser cumprida pelo Ministério Público, é-lhe dada vista para opor ao cumprimento o que julgar conveniente.

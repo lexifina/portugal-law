@@ -2,7 +2,7 @@
 
 ### (Preparação do julgamento)
 
-1 - Se o recurso prosseguir, os sujeitos processuais interessados são notificados para apresentarem, por escrito, no prazo de dez dias, as suas alegações.
+1 - Se o recurso prosseguir, os sujeitos processuais interessados são notificados para apresentarem, por escrito, no prazo de 15 dias, as suas alegações.
 
 2 - Nas alegações os interessados formulam conclusões em que indicam o sentido em que deve fixar-se a jurisprudência.
 

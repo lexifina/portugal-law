@@ -12,7 +12,7 @@
 
 a) A insuficiência para a decisão da matéria de facto provada;
 
-b) A contradição insanável da fundamentação;
+b) A contradição insanável da fundamentação ou entre a fundamentação e a decisão;
 
 c) Erro notório na apreciação da prova.
 

@@ -2,7 +2,7 @@
 
 ### (Julgamento)
 
-1 - O julgamento é feito, em conferência, pelo plenário das secções criminais.
+1 - O julgamento é feito, em conferência, pelo pleno das secções criminais.
 
 2 - A conferência é presidida pelo presidente do Supremo Tribunal de Justiça, que dirige os trabalhos e desempata quando não puder formar-se maioria.
 

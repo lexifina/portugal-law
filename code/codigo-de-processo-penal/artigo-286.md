@@ -12,4 +12,6 @@
 
 1 - A instrução visa a comprovação judicial da decisão de deduzir acusação ou de arquivar o inquérito em ordem a submeter ou não a causa a julgamento.
 
-2 - A instrução tem carácter facultativo e não pode ter lugar nas formas de processo especiais.
+2 - A instrução tem carácter facultativo.
+
+3 - Não há lugar a instrução nas formas de processo especiais, sem prejuízo do disposto no artigo 391.º-C.

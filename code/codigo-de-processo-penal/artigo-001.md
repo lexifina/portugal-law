@@ -18,9 +18,9 @@ e) Suspeito: toda a pessoa relativamente à qual exista indício de que cometeu 
 
 f) Alteração substancial dos factos: aquela que tiver por efeito a imputação ao arguido de um crime diverso ou a agravação dos limites máximos das sanções aplicáveis;
 
-g) Relatório social: documento elaborado por serviços de reinserção social, com competência de apoio técnico aos tribunais na aplicação e na execução de sanções criminais, que tem por objectivo auxiliar o tribunal ou o juiz no conhecimento da personalidade do arguido, e eventualmente também da vítima, incluída a sua inserção familiar e sócio-profissional;
+g) Relatório social: informação sobre a inserção familiar e sócio-profissional do arguido e, eventualmente, da vítima, elaborada por serviços de reinserção social, com o objectivo de auxiliar o tribunal ou o juiz no conhecimento da personalidade do arguido, para os efeitos e nos casos previstos neste diploma;
 
-h) (Revogada).
+h) Informação dos serviços de reinserção social: resposta a solicitações concretas sobre a situação pessoal, familiar, escolar, laboral ou social do arguido e, eventualmente, da vítima, elaborada por serviços de reinserção social, com o objectivo referido na alínea anterior, para os efeitos e nos casos previstos neste diploma.
 
 2 - Para efeitos do disposto no presente Código, apenas podem considerar-se como casos de terrorismo, criminalidade violenta ou altamente organizada as condutas que:
 

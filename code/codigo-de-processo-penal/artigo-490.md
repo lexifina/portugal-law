@@ -8,4 +8,4 @@
 
 3 - A decisão de substituição indica o número de horas de trabalho e é comunicada ao condenado, aos serviços de reinserção social e à entidade a quem o trabalho deva ser prestado.
 
-4 - Em caso de não substituição da multa por dias de trabalho, o prazo de pagamento é de 10 dias a contar da notificação da decisão.
+4 - Em caso de não substituição da multa por dias de trabalho, o prazo de pagamento é de 15 dias a contar da notificação da decisão.

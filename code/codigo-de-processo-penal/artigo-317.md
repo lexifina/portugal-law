@@ -13,3 +13,5 @@
 5 - Da decisão sobre o arbitramento das quantias referidas nos números anteriores e sobre o seu montante não há recurso.
 
 6 - As quantias arbitradas valem como custas do processo.
+
+7 - A secretaria, oficiosamente ou sob a direcção do presidente, procede a todas as diligências necessárias à localização e notificação das pessoas referidas no n.º 1, podendo, sempre que for indispensável, solicitar a colaboração de outras entidades.

@@ -10,4 +10,12 @@
 
 2 - Os objectos apreendidos são juntos ao processo, quando possível, e, quando não, confiados à guarda do funcionário de justiça adstrito ao processo ou de um depositário, de tudo se fazendo menção no auto.
 
-3 - As apreensões são autorizadas ou ordenadas por despacho da autoridade judiciária, salvo quando efectuadas no decurso de revistas ou de buscas, caso em que lhe são aplicáveis as disposições previstas neste Código para tais diligências.
+3 - As apreensões são autorizadas, ordenadas ou validadas por despacho da autoridade judiciária.
+
+4 - Os órgãos de polícia criminal podem efectuar apreensões no decurso de revistas ou de buscas ou quando haja urgência ou perigo na demora, nos termos previstos no artigo 249.º, n.º 2, alínea c).
+
+5 - As apreensões efectuadas por órgão de polícia criminal são sujeitas a validação pela autoridade judiciária, no prazo máximo de setenta e duas horas.
+
+6 - Os titulares de bens ou direitos objecto de apreensão podem requerer ao juiz de instrução a modificação ou revogação da medida. É correspondentemente aplicável o disposto no artigo 68.º, n.º 5.
+
+7 - Se os objectos apreendidos forem susceptíveis de ser declarados perdidos a favor do Estado e não pertencerem ao arguido, a autoridade judiciária ordena a presença do interessado e ouve-o. A autoridade judiciária prescinde da presença do interessado quando esta não for possível.

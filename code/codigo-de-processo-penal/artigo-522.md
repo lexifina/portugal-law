@@ -1,5 +1,7 @@
 # Artigo 522.º
 
-### (Revogação do regime de prova)
+### Isenções
 
-O condenado a quem for revogado o regime de prova paga metade do imposto de justiça que tiver sido fixado na decisão que decretou o regime e as custas que forem devidas.
+1 - O Ministério Público está isento de custas.
+
+2 - Os arguidos presos gozam de isenção de taxa de justiça pela interposição de recurso em 1.ª instância; gozam ainda de isenção nos incidentes que requererem ou a que fizerem oposição.

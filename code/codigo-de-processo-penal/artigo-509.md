@@ -6,7 +6,7 @@
 
 ### Execução da pena relativamente indeterminada
 
-1 - No prazo de 30 dias após a entrada no estabelecimento prisional, os serviços de reinserção social elaboram plano individual de readaptação do condenado em pena relativamente indeterminada, que incluirá os regimes de trabalho, aprendizagem, tratamento e desintoxicação que se mostrem adequados. Para tanto são recolhidas as informações necessárias de quaisquer entidades públicas ou privadas e utilizada, sempre que possível, a colaboração do condenado.
+1 - No prazo de 30 dias após a entrada no estabelecimento prisional, os serviços técnicos prisionais elaboram, com a colaboração dos serviços de reinserção social, plano individual de readaptação do condenado em pena relativamente indeterminada, que incluirá os regimes de trabalho, aprendizagem, tratamento e desintoxicação que se mostrem adequados. Para tanto são recolhidas as informações necessárias de quaisquer entidades públicas ou privadas e utilizada, sempre que possível, a colaboração do condenado.
 
 2 - O plano individual de readaptação e as suas modificações, exigidas pelo progresso do delinquente e por outras circunstâncias relevantes, são submetidos a homologação do tribunal de execução das penas e comunicados ao delinquente.
 

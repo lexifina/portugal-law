@@ -14,8 +14,12 @@ b) O nome dos juízes, dos jurados e do representante do Ministério Público;
 
 c) A identificação do arguido, do defensor, do assistente, das partes civis e dos respectivos advogados;
 
-d) A identificação das testemunhas, dos peritos, dos consultores técnicos e dos intérpretes;
+d) A identificação das testemunhas, dos peritos, dos consultores técnicos e dos intérpretes e a indicação de todas as provas produzidas ou examinadas em audiência;
 
-e) As decisões e quaisquer outras indicações que, por força da lei, dela deverem constar;
+e) A decisão de exclusão ou restrição da publicidade, nos termos do artigo 321.º;
 
-f) A assinatura do presidente e do funcionário de justiça que a lavrar.
+f) Os requerimentos, decisões e quaisquer outras indicações que, por força da lei, dela devam constar;
+
+g) [Anterior alínea f).]
+
+2 - O presidente pode ordenar que a transcrição dos requerimentos e protestos verbais seja feita somente depois da sentença, se os considerar dilatórios.

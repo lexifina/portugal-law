@@ -10,4 +10,4 @@
 
 a) O arguido que houver recebido indemnização é condenado a restituí-la; e
 
-b) Ao assistente são restituídos o imposto de justiça e as custas que houver pago.
+b) Ao assistente são restituídas as custas que houver pago.

@@ -2,4 +2,4 @@
 
 ### Promoção da execução
 
-Compete ao Ministério Público promover a execução das penas e das medidas de segurança e, bem assim, a execução por taxa de justiça, custas, indemnização e mais quantias devidas ao Estado ou a pessoas que lhe incumba representar judicialmente.
+Compete ao Ministério Público promover a execução das penas e das medidas de segurança e, bem assim, a execução por custas, indemnização e mais quantias devidas ao Estado ou a pessoas que lhe incumba representar judicialmente.

@@ -2,7 +2,7 @@
 
 ### (Suspensão provisória do processo)
 
-1 - Se o crime for punível com pena de prisão não superior a três anos ou com sanção diferente da prisão, pode o Ministério Público decidir-se, com a concordância do juiz de instrução, pela suspensão do processo, mediante a imposição ao arguido de injunções e regras de conduta, se se verificarem os seguintes pressupostos:
+1 - Se o crime for punível com pena de prisão não superior a cinco anos ou com sanção diferente da prisão, pode o Ministério Público decidir-se, com a concordância do juiz de instrução, pela suspensão do processo, mediante a imposição ao arguido de injunções e regras de conduta, se se verificarem os seguintes pressupostos:
 
 a) Concordância do arguido e do assistente;
 
@@ -36,6 +36,6 @@ i) Qualquer outro comportamento especialmente exigido pelo caso.
 
 3 - Não são oponíveis injunções e regras de conduta que possam ofender a dignidade do arguido.
 
-4 - Para fiscalização e acompanhamento do cumprimento das injunções e regras de conduta podem o juiz de instrução e o Ministério Público recorrer aos serviços de reinserção social.
+4 - Para apoio e vigilância do cumprimento das injunções e regras de conduta podem o juiz de instrução e o Ministério Público, consoante os casos, recorrer aos serviços de reinserção social, a órgãos de polícia criminal e às autoridades administrativas.
 
 5 - A decisão de suspensão, em conformidade com o n.º 1, não é susceptível de impugnação.

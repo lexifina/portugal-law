@@ -6,7 +6,7 @@
 
 ### (Caução económica)
 
-1 - Havendo fundado receio de que faltem ou diminuam substancialmente as garantias de pagamento da pena pecuniária, do imposto de justiça, das custas do processo ou de qualquer outra dívida para com o Estado relacionada com o crime, o Ministério Público requer que o arguido preste caução económica, em termos e sob modalidade a determinar pelo juiz.
+1 - Havendo fundado receio de que faltem ou diminuam substancialmente as garantias de pagamento da pena pecuniária, das custas do processo ou de qualquer outra dívida para com o Estado relacionada com o crime, o Ministério Público requer que o arguido preste caução económica. O requerimento indica os termos e modalidade em que deve ser prestada.
 
 2 - Havendo fundado receio de que faltem ou diminuam substancialmente as garantias de pagamento da indemnização ou de outras obrigações civis derivadas do crime, o lesado pode requerer que o arguido ou o civilmente responsável prestem caução económica, nos termos do número anterior.
 

@@ -2,7 +2,7 @@
 
 ### (Arresto preventivo)
 
-1 - Se o arguido ou o civilmente responsável não prestarem a caução económica que lhes tiver sido imposta, pode o juiz, a requerimento do Ministério Público ou do lesado, decretar arresto, nos termos da lei do processo civil.
+1 - A requerimento do Ministério Público ou do lesado, pode o juiz decretar o arresto, nos termos da lei do processo civil; se tiver sido previamente fixada e não prestada caução económica, fica o requerente dispensado da prova do fundado receio de perda da garantia patrimonial.
 
 2 - O arresto preventivo referido no número anterior pode ser decretado mesmo em relação a comerciante.
 

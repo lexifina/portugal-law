@@ -6,6 +6,6 @@
 
 2 - Para o efeito do número anterior, considera-se feita ao Ministério Público a queixa dirigida a qualquer outra entidade que tenha a obrigação legal de a transmitir àquele.
 
-3 - A queixa é apresentada pelo titular do direito respectivo ou por mandatário munido de poderes especiais.
+3 - A queixa pode ser apresentada pelo titular do direito respectivo, por mandatário judicial ou por mandatário munido de poderes especiais.
 
 4 - O disposto nos números anteriores é correspondentemente aplicável aos casos em que o procedimento criminal depender da participação de qualquer autoridade.

@@ -1,5 +1,5 @@
 # Artigo 398.º
 
-### (Reenvio do processo para outra forma)
+### Prosseguimento do processo
 
-Se o processo for reenviado para outra forma processual, o requerimento do Ministério Público perde eficácia e o Ministério Público não se encontra vinculado pelo que naquele requerimento houver proposto.
+Se o arguido deduzir oposição, o juiz ordena o reenvio do processo para a forma comum, equivalendo à acusação o requerimento do Ministério Público formulado nos termos do artigo 394.º

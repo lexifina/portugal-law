@@ -13,3 +13,5 @@
 5 - Os juízes e os jurados podem, a qualquer momento, formular à testemunha as perguntas que entenderem necessárias para esclarecimento do depoimento prestado e para boa decisão da causa.
 
 6 - Mediante autorização do presidente, podem as testemunhas indicadas por um co-arguido ser inquiridas pelo defensor de outro co-arguido.
+
+7 - É correspondentemente aplicável o disposto no artigo 345.º, n.º 3.

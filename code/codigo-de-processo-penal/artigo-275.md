@@ -2,7 +2,7 @@
 
 ### (Auto de inquérito)
 
-1 - As diligências de prova realizadas no decurso do inquérito são reduzidas a auto, salvo aquelas cuja documentação o Ministério Público entender desnessária.
+1 - As diligências de prova realizadas no decurso do inquérito são reduzidas a auto, que pode ser redigido por súmula, salvo aquelas cuja documentação o Ministério Público entender desnecessário.
 
 2 - É obrigatoriamente reduzida a auto a denúncia, quando feita oralmente, bem como os actos a que se referem os artigos 268.º, 269.º e 271.º
 

@@ -12,4 +12,8 @@ b) O recurso do despacho de pronúncia, sem prejuízo do disposto no artigo 310.
 
 a) Os recursos interpostos de decisões que condenarem ao pagamento de quaisquer importâncias, nos termos deste Código, se o recorrente depositar o seu valor;
 
-b) O recurso do despacho que julgar quebrada a caução.
+b) O recurso do despacho que julgar quebrada a caução;
+
+c) O recurso de despacho que ordene a execução da prisão, em caso de não cumprimento de pena não privativa da liberdade;
+
+d) O recurso de despacho que considere sem efeito, por falta de pagamento de taxa de justiça, o recurso da decisão final condenatória.

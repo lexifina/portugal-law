@@ -1,5 +1,5 @@
 # Artigo 233.º
 
-### (Extradição)
+### Cooperação com entidades judiciárias internacionais
 
-A extradição é regulada em lei especial.
+O disposto no artigo 229.º aplica-se, com as devidas adaptações, à cooperação com entidades judiciárias internacionais estabelecidas no âmbito de tratados ou convenções que vinculem o Estado Português.

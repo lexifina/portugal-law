@@ -1,6 +1,6 @@
 # Artigo 310.º
 
-### (Recurso da decisão instrutória)
+### Recursos
 
 A decisão instrutória que pronunciar o arguido pelos factos constantes da acusação do Ministério Público é irrecorrível e determina a remessa imediata dos autos ao tribunal competente para o julgamento.
 

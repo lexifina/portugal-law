@@ -2,7 +2,7 @@
 
 ### (Acusação particular)
 
-1 - Findo o inquérito, quando o procedimento depender de acusação particular, o Ministério Público notifica o assistente para que este deduza em cinco dias, querendo, acusação particular.
+1 - Findo o inquérito, quando o procedimento depender de acusação particular, o Ministério Público notifica o assistente para que este deduza em 10 dias, querendo, acusação particular.
 
 2 - É correspondentemente aplicável à acusação particular o disposto no artigo 283.º, n.º 3
 

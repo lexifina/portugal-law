@@ -12,6 +12,8 @@ b) Em caso de concurso de crimes, a cada um dos crimes;
 
 c) Em caso de unidade criminosa, à questão da culpabilidade, relativamente àquela que se referir à questão da determinação da sanção;
 
-d) Dentro da questão da determinação da sanção, a cada uma das penas ou medidas de segurança.
+d) Em caso de comparticipação criminosa, a cada um dos arguidos, sem prejuízo do disposto no artigo 402.º, n.º 2, alíneas a) e c);
+
+e) Dentro da questão da determinação da sanção, a cada uma das penas ou medidas de segurança.
 
 3 - A limitação do recurso a uma parte da decisão não prejudica o dever de retirar da procedência daquele as consequências legalmente impostas relativamente a toda a decisão recorrida.

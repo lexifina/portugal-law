@@ -1,8 +1,8 @@
 # Artigo 28.º
 
-### (Competência territorial determinada pela conexão)
+### Competência determinada pela conexão
 
-Se os processos conexos devessem ser da competência de tribunais com jurisdição em diferentes áreas, é competente para conhecer de todos:
+Se os processos devessem ser da competência de tribunais com jurisdição em diferentes áreas ou com sede na mesma comarca, é competente para conhecer de todos:
 
 a) O tribunal competente para conhecer do crime a que couber pena mais grave;
 

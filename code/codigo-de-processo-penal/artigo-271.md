@@ -2,7 +2,7 @@
 
 ### (Declarações para memória futura)
 
-1 - Em caso de doença grave ou de deslocação para o estrangeiro de uma testemunha, que previsivelmente a impeça de ser ouvida em julgamento, o juiz de instrução, a requerimento do Ministério Público, do arguido, do assistente ou das partes civis, pode proceder à sua inquirição no decurso do inquérito, a fim de que o depoimento possa, se necessário, ser tomado em conta no julgamento.
+1 - Em caso de doença grave ou de deslocação para o estrangeiro de uma testemunha, que previsivelmente a impeça de ser ouvida em julgamento, bem como nos casos de vítimas de crimes sexuais, o juiz de instrução, a requerimento do Ministério Público, do arguido, do assistente ou das partes civis, pode proceder à sua inquirição no decurso do inquérito, a fim de que o depoimento possa, se necessário, ser tomado em conta no julgamento.
 
 2 - Ao Ministério Público, ao arguido, ao defensor e aos advogados do assistente e das partes civis são comunicados o dia, a hora e o local da prestação do depoimento, para que possam estar presentes se o desejarem.
 

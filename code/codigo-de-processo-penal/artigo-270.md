@@ -15,3 +15,7 @@ c) Assistir a exame susceptível de ofender o pudor da pessoa, nos termos do art
 d) Ordenar ou autorizar revistas e buscas, nos termos e limites do artigo 174.º, n.º 3 e 4;
 
 e) Quaisquer outros actos que a lei expressamente determinar que sejam presididos ou praticados pelo Ministério Público.
+
+3 - O Ministério Público pode, porém, delegar em autoridades de polícia criminal a faculdade de ordenar a efectivação da perícia relativamente a determinados tipos de crime, em caso de urgência ou de perigo na demora, nomeadamente quando a perícia deva ser realizada conjuntamente com o exame de vestígios. Exceptuam-se a perícia que envolva a realização de autópsia médico-legal, bem como a prestação de esclarecimentos complementares e a realização de nova perícia nos termos do artigo 158.º
+
+4 - A delegação a que se refere o n.º 1 pode ser efectuada por despacho de natureza genérica que indique os tipos de crime ou os limites das penas aplicáveis aos crimes em investigação.

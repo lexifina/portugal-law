@@ -12,10 +12,6 @@ a) Relatório dos serviços técnicos prisionais sobre a execução da pena e o 
 
 b) Parecer fundamentado sobre a concessão de liberdade condicional, elaborado pelo director de estabelecimento.
 
-2 - No mesmo prazo, os serviços de reinserção social enviam ao tribunal de execução das penas:
+2 - No mesmo prazo, os serviços de reinserção social enviam ao tribunal de execução das penas relatório contendo uma análise dos efeitos da pena na personalidade do delinquente, do seu enquadramento familiar e profissional e da sua capacidade e vontade de se readaptar à vida social, bem como outros elementos com interesse para a decisão sobre a liberdade condicional.
 
-a) Relatório contendo uma análise dos efeitos da pena na personalidade do delinquente, do seu enquadramento familiar e profissional e da sua capacidade e vontade de se readaptar à vida social; e
-
-b) Plano individual de readaptação sempre que o condenado se encontre preso há mais de cinco anos.
-
-3 - Oficiosamente ou a requerimento do Ministério Público ou do condenado, o tribunal solicita quaisquer outros relatórios ou documentos ou realiza diligências que se afigurem com interesse para a decisão sobre a liberdade condicional, nomeadamente a realização de um plano individual de readaptação fora do caso previsto na alínea b) do número anterior.
+3 - Oficiosamente ou a requerimento do Ministério Público ou do condenado, o tribunal solicita quaisquer outros relatórios ou documentos ou realiza diligências que se afigurem com interesse para a decisão sobre a liberdade condicional, nomeadamente a elaboração de um plano individual de readaptação pelos serviços de reinserção social. O pedido de elaboração do plano é obrigatório sempre que o condenado se encontre preso há mais de cinco anos.

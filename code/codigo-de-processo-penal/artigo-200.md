@@ -4,7 +4,7 @@
 
 1 - Se houver fortes indícios de prática de crime doloso punível com pena de prisão de máximo superior a três anos, o juiz pode impor ao arguido, cumulativa ou separadamente, as obrigações de:
 
-a) Não permanecer, ou não permanecer sem autorização, na área de uma determinada povoação, freguesia ou concelho onde o crime tenha sido cometido ou onde residam os ofendidos seus familiares ou outras pessoas sobre as quais possam ser cometidos novos crimes;
+a) Não permanecer, ou não permanecer sem autorização, na área de uma determinada povoação, freguesia ou concelho ou na residência onde o crime tenha sido cometido ou onde habitem os ofendidos seus familiares ou outras pessoas sobre as quais possam ser cometidos novos crimes;
 
 b) Não se ausentar para o estrangeiro, ou não se ausentar sem autorização;
 

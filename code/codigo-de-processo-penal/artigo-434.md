@@ -1,9 +1,5 @@
 # Artigo 434.º
 
-### (Renúncia a alegações orais)
+### Poderes de cognição
 
-1 - No requerimento de interposição do recurso, o recorrente pode requerer que as alegações sejam produzidas por escrito.
-
-2 - Se não houver oposição do recorrido e o recurso dever prosseguir, o relator, no exame preliminar, fixa o prazo em que recorrente e recorrido devem produzir alegações, não podendo, relativamente a cada um, exceder quinze dias.
-
-3 - No mesmo despacho o relator enuncia as questões que merecerem exame especial.
+Sem prejuízo do disposto no artigo 410.º, n.os 2 e 3, o recurso interposto para o Supremo Tribunal de Justiça visa exclusivamente o reexame de matéria de direito.

@@ -6,7 +6,7 @@
 
 2 - Podem utilizar-se máquinas de escrever ou processadores de texto, caso em que se certifica, antes da assinatura, que o documento foi integralmente revisto e se identifica a entidade que o elaborou.
 
-3 - Podem igualmente utilizar-se fórmulas pré-impressas ou carimbos, a completar com o texto respectivo.
+3 - Podem igualmente utilizar-se fórmulas pré-impressas, formulários em suporte electrónico ou carimbos, a completar com o texto respectivo.
 
 4 - Em caso de manifesta ilegibilidade do documento, qualquer participante processual interessado pode solicitar, sem encargos, a respectiva transcrição dactilográfica.
 

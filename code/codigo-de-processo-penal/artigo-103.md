@@ -14,4 +14,6 @@ a) Os actos processuais relativos a arguidos detidos ou presos, ou indispensáve
 
 b) Os actos de inquérito e de instrução, bem como os debates instrutórios e audiências relativamente aos quais for reconhecida, por despacho de quem a elas presidir, vantagem em que o seu início, prosseguimento ou conclusão ocorra sem aquelas limitações.
 
+c) Os actos de mero expediente, bem como as decisões das autoridades judiciárias, sempre que necessário.
+
 3 - O interrogatório do arguido não pode, sob pena de nulidade, ser efectuado entre as 0 e as 6 horas, salvo em acto seguido à detenção.

@@ -11,3 +11,5 @@
 4 - A autoridade que defira a prática de acto fora do prazo procede, na medida do possível, à renovação dos actos aos quais o interessado teria o direito de assistir.
 
 5 - Independentemente do justo impedimento, pode o acto ser praticado, no prazo, nos termos e com as mesmas consequências que em processo civil, com as necessárias adaptações.
+
+6 - Quando o procedimento se revelar de excepcional complexidade, nos termos do artigo 215.º, n.º 3, parte final, o juiz, a requerimento do assistente, do arguido ou das partes civis, pode prorrogar os prazos previstos nos artigos 78.º, 287.º e 315.º, até ao limite máximo de 20 dias.

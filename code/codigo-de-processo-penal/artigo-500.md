@@ -4,7 +4,7 @@
 
 1 - A decisão que decretar a proibição de conduzir veículos motorizados é comunicada à Direcção-Geral de Viação.
 
-2 - No prazo de cinco dias a contar do trânsito em julgado da sentença, o condenado entrega na secretaria do tribunal, ou em qualquer posto policial, que a remete àquela, a licença de condução, se a mesma não se encontrar já apreendida no processo.
+2 - No prazo de 10 dias a contar do trânsito em julgado da sentença, o condenado entrega na secretaria do tribunal, ou em qualquer posto policial, que a remete àquela, a licença de condução, se a mesma não se encontrar já apreendida no processo.
 
 3 - Se o condenado na proibição de conduzir veículos motorizados não proceder de acordo com o disposto no número anterior, o tribunal ordena a apreensão da licença de condução.
 

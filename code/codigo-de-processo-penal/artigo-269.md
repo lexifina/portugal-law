@@ -8,7 +8,7 @@ a) Buscas domiciliárias, nos termos e com os limites do artigo 177.º;
 
 b) Apreensões de correspondência, nos termos do artigo 179.º, n.º 1;
 
-c) Intercepções ou gravações de conversações ou comunicações telefónicas, nos termos do artigo 187.º;
+c) Intercepção, gravação ou registo de conversações ou comunicações, nos termos dos artigos 187.º e 190.º;
 
 d) A prática de quaisquer outros actos que a lei expressamente fizer depender de ordem ou autorização do juiz de instrução.
 

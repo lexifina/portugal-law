@@ -12,9 +12,11 @@ a) Faltar ou ficar impossibilitada de participar pessoa que não possa ser de im
 
 b) For absolutamente necessário proceder à produção de qualquer meio de prova superveniente e indisponível no momento em que a audiência estiver a decorrer; ou
 
-c) Surgir qualquer questão prejudicial, prévia ou incidental, cuja resolução seja essencial para a boa decisão da causa e que torne altamente inconveniente a continuação da audiência.
+c) Surgir qualquer questão prejudicial, prévia ou incidental, cuja resolução seja essencial para a boa decisão da causa e que torne altamente inconveniente a continuação da audiência; ou
 
-4 - Em caso de interrupção da audiência ou do seu adiamento por período não superior a cinco dias, a audiência retoma-se a partir do último acto processual praticado na audiência interrompida ou adiada.
+d) For necessário proceder à elaboração de relatório social ou de informação dos serviços de reinserção social, nos termos do artigo 370.º, n.º 1.
+
+4 - Em caso de interrupção da audiência ou do seu adiamento por período não superior a oito dias, a audiência retoma-se a partir do último acto processual praticado na audiência interrompida ou adiada.
 
 5 - O adiamento por tempo superior ao referido no número anterior é sempre precedido de despacho do presidente. Retomada a audiência, o tribunal, oficiosamente ou a requerimento, decide de imediato se alguns dos actos já realizados devem ser repetidos.
 

@@ -6,7 +6,7 @@
 
 2 - O relator comunica imediatamente aos tribunais em conflito a denúncia recebida e fixa-lhes prazo para resposta, não superior a oito dias.
 
-3 - Juntamente com as respostas são transmitidas as cópias e os elementos a que se refere o n.º 1 do artigo anterior.
+3 - Juntamente com a comunicação são transmitidas as cópias e elementos a que se refere o n.º 1 do artigo anterior.
 
 4 - Terminado o prazo para recepção das respostas, são notificados o arguido e o assistente para, em cinco dias, alegarem; pelo mesmo tempo e para igual efeito vão os autos com vista ao Ministério Público. Seguidamente, e depois de recolhidas as informações e as provas que reputar necessárias, o tribunal competente resolve o conflito.
 

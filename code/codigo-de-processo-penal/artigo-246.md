@@ -8,4 +8,4 @@
 
 3 - A denúncia contém, na medida possível, a indicação dos elementos referidos nas alíneas do n.º 1 do artigo 243.º
 
-4 - O denunciante pode declarar, na denúncia, que deseja constituir-se assistente. Tratando-se de crime cujo procedimento depende de acusação particular, a declaração é obrigatória.
+4 - O denunciante pode declarar, na denúncia, que deseja constituir-se assistente. Tratando-se de crime cujo procedimento depende de acusação particular, a declaração é obrigatória, devendo, neste caso, a autoridade judiciária ou o órgão de polícia criminal a quem a denúncia for feita verbalmente advertir o denunciante da obrigatoriedade de constituição de assistente e dos procedimentos a observar.

@@ -10,7 +10,7 @@ b) Exercer as demais atribuições conferidas por lei.
 
 2 - Compete às secções criminais das relações, em matéria penal:
 
-a) Julgar processos por crimes cometidos por juízes de direito, procuradores da República e delegados do procurador da República;
+a) Julgar processos por crimes cometidos por juízes de direito, procuradores da República e procuradores-adjuntos;
 
 b) Praticar os actos jurisdicionais relativos ao inquérito, dirigir a instrução, presidir ao debate instrutório e proferir despacho de pronúncia ou não pronúncia nos processos referidos na alínea anterior;
 

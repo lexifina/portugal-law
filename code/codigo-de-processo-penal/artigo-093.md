@@ -1,15 +1,13 @@
 # Artigo 93.º
 
-### (Participação de surdo, mudo ou surdo-mudo)
+### Participação de surdo, deficiente auditivo ou de mudo
 
-1 - Quando um surdo, um mudo ou um surdo-mudo deverem prestar declarações, observam-se as regras seguintes:
+1 - Quando um surdo, deficiente auditivo ou um mudo devam prestar declarações, observam-se as seguintes regras:
 
-a) Ao surdo formulam-se as perguntas por escrito, respondendo ele oralmente;
+a) Ao surdo ou deficiente auditivo é nomeado intérprete idóneo de língua gestual, leitura labial ou expressão escrita, conforme mais adequado à situação do interessado;
 
-b) Ao mudo formulam-se as perguntas oralmente, respondendo ele por escrito;
+b) Ao mudo, se souber escrever, formulam-se as perguntas oralmente, respondendo por escrito. Em caso contrário e sempre que requerido nomeia-se intérprete idóneo.
 
-c) Ao surdo-mudo formulam-se as perguntas por escrito, respondendo ele também por escrito.
+2 - A falta de intérprete implica o adiamento da diligência.
 
-2 - Se o surdo, o mudo ou o surdo-mudo não souberem ler ou escrever, a autoridade competente nomeia intérprete idóneo. O mesmo sucede se as declarações deverem ser prestadas em audiência e o tribunal considerar preferível a intervenção de intérprete.
-
-3 - O disposto nos números anteriores é correspondentemente aplicável aos requerimentos orais e à prestação de juramento.
+3 - O disposto nos números anteriores é aplicável em todas as fases do processo e independentemente da posição do interessado na causa.

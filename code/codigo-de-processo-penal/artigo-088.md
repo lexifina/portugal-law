@@ -6,9 +6,9 @@
 
 2 - Não é, porém, autorizada, sob pena de desobediência simples:
 
-a) A reprodução de peças processuais ou de documentos incorporados em processos pendentes, salvo se tiverem sido obtidos mediante certidão solicitada com menção do fim a que se destina, ou se para tal tiver havido autorização expressa da autoridade judiciária que presidir à fase em que se encontra o processo no momento da publicação;
+a) A reprodução de peças processuais ou de documentos incorporados no processo, até à sentença de 1.ª instância, salvo se tiverem sido obtidos mediante certidão solicitada com menção do fim a que se destina, ou se para tal tiver havido autorização expressa da autoridade judiciária que presidir à fase do processo no momento da publicação;
 
-b) A transmissão de imagens ou de tomadas de som relativas à prática de qualquer acto processual, nomeadamente da audiência, salvo se a autoridade judiciária referida na alínea anterior, por despacho, a autorizar;
+b) A transmissão ou registo de imagens ou de tomadas de som relativas à prática de qualquer acto processual, nomeadamente da audiência, salvo se a autoridade judiciária referida na alínea anterior, por despacho, a autorizar; não pode, porém, ser autorizada a transmissão ou registo de imagens ou tomada de som relativas a pessoa que a tal se opuser;
 
 c) A publicação, por qualquer meio, da identidade de vítimas de crimes sexuais, contra a honra ou contra a reserva da vida privada, antes da audiência, ou mesmo depois, se o ofendido for menor de 16 anos.
 

@@ -8,10 +8,8 @@
 
 a) Previstos no capítulo II do título V do livro II do Código Penal;
 
-b) De emissão de cheque sem provisão; ou
+b) Cuja pena máxima, abstractamente aplicável, seja igual ou inferior a cinco anos de prisão.
 
-c) Cuja pena máxima, abstractamente aplicável, seja igual ou inferior a cinco anos de prisão.
-
-3 - Compete ainda ao tribunal singular julgar os processos por crimes previstos no artigo 14.º, n.º 2, mesmo em caso de concurso de infracções, quando o Ministério Público, na acusação, ou em requerimento, quando seja superveniente o conhecimento do concurso, entender que não deve ser aplicada, em concreto, pena de prisão superior a cinco anos.
+3 - Compete ainda ao tribunal singular julgar os processos por crimes previstos no artigo 14.º, n.º 2, alínea b), mesmo em caso de concurso de infracções, quando o Ministério Público, na acusação, ou, em requerimento, quando seja superveniente o conhecimento do concurso, entender que não deve ser aplicada, em concreto, pena de prisão superior a cinco anos.
 
 4 - No caso previsto no número anterior, o tribunal não pode aplicar pena de prisão superior a cinco anos.

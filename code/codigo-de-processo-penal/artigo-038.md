@@ -2,7 +2,7 @@
 
 ### (Apreciação e decisão)
 
-1 - Cabe ao plenário das secções criminais do Supremo Tribunal de Justiça decidir do pedido de atribuição de competência que lhe seja dirigido pelo tribunal obstruído, pelo Ministério Público, pelo arguido, pelo assistente ou pelas partes civis. O pedido é logo acompanhado dos elementos relevantes para a decisão.
+1 - Cabe às secções criminais do Supremo Tribunal de Justiça decidir do pedido de atribuição de competência que lhe seja dirigido pelo tribunal obstruído, pelo Ministério Público, pelo arguido, pelo assistente ou pelas partes civis. O pedido é logo acompanhado dos elementos relevantes para a decisão.
 
 2 - É correspondentemente aplicável o disposto no artigo 36.º, n.os 4 e 5, bem como no artigo 33.º, n.º 3.
 

@@ -16,4 +16,8 @@ c) Forem previsíveis graves dificuldades ou inconvenientes, funcionais ou pesso
 
 4 - A tomada de declarações processa-se com observância das formalidades estabelecidas para a audiência.
 
-5 - O conteúdo das declarações é reduzido a auto, sendo aquelas reproduzidas integralmente ou por súmula, conforme o juiz determinar, tendo em atenção os meios disponíveis de registo e transcrição, nos termos do artigo 101.º
+5 - Sempre que estiverem disponíveis os indispensáveis recursos técnicos, a tomada de declarações realiza-se em simultâneo com a audiência de julgamento, com recurso a meios de telecomunicação em tempo real.
+
+6 - No caso previsto no número anterior, observam-se as disposições aplicáveis à tomada de declarações em audiência de julgamento. Compete, porém, ao juiz da comarca a quem a diligência foi solicitada praticar os actos referidos nos artigos 323.º, alíneas b), primeira parte, d) e e), e 348.º, n.º 3.
+
+7 - Fora dos casos previstos no n.º 5, o conteúdo das declarações é reduzido a auto, sendo aquelas reproduzidas integralmente ou por súmula, conforme o juiz determinar, tendo em atenção os meios disponíveis de registo e transcrição, nos termos do artigo 101.º

@@ -12,4 +12,6 @@ c) Acórdãos, quando se tratar da decisão de um tribunal colegial.
 
 2 - Os actos decisórios do Ministério Público tomam a forma de despachos.
 
-3 - Os actos decisórios referidos nos números anteriores revestem os requisitos formais dos actos escritos ou orais, consoante o caso.4 - Os actos decisórios são sempre fundamentados.
+3 - Os actos decisórios referidos nos números anteriores revestem os requisitos formais dos actos escritos ou orais, consoante o caso.
+
+4 - Os actos decisórios são sempre fundamentados, devendo ser especificados os motivos de facto e de direito da decisão.

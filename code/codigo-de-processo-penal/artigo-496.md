@@ -10,4 +10,4 @@
 
 2 - Para efeito do disposto no número anterior, a sentença pode ser adiada pelo prazo máximo de um mês.
 
-3 - Transitada em julgado, a condenação é comunicada à entidade a quem o trabalho deva ser prestado, devendo os serviços de reinserção social proceder à colocação do condenado no posto de trabalho no prazo máximo de três meses.
+3 - Transitada em julgado, a condenação é comunicada aos serviços de reinserção social e à entidade a quem o trabalho deva ser prestado, devendo aqueles proceder à colocação do condenado no posto de trabalho no prazo máximo de três meses.

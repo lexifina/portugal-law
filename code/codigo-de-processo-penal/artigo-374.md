@@ -12,7 +12,7 @@ c) A indicação do crime ou dos crimes imputados ao arguido, segundo a acusaç�
 
 d) A indicação sumária das conclusões contidas na contestação, se tiver sido apresentada.
 
-2 - Ao relatório segue-se a fundamentação, que consta da enumeração dos factos provados e não provados, bem como de uma exposição, tanto quanto possível completa, ainda que concisa, dos motivos, de facto e de direito, que fundamentam a decisão, com indicação das provas que serviram para formar a convicção do tribunal.
+2 - Ao relatório segue-se a fundamentação, que consta da enumeração dos factos provados e não provados, bem como de uma exposição tanto quanto possível completa, ainda que concisa, dos motivos, de facto e de direito, que fundamentam a decisão, com indicação e exame crítico das provas que serviram para formar a convicção do tribunal.
 
 3 - A sentença termina pelo dispositivo que contém:
 
@@ -26,4 +26,4 @@ d) A ordem de remessa de boletins ao registo criminal;
 
 e) A data e as assinaturas dos membros do tribunal.
 
-4 - A sentença observa o disposto neste Código e no Código das Custas Judiciais em matéria de imposto de justiça, custas e honorários.
+4 - A sentença observa o disposto neste Código e no Código das Custas Judiciais em matéria de custas.

@@ -20,4 +20,4 @@ c) Mandar proceder a inquérito, em prazo que não pode exceder quinze dias, sob
 
 d) Propor ou determinar as medidas disciplinares, de gestão, de organização ou de racionalização de métodos que a situação justificar.
 
-6 - A decisão é imediatamente comunicada ao tribunal ou à entidade que tiverem o processo a seu cargo. É-o igualmente às entidades com jurisdição disciplinar sobre os responsáveis por atrasos que se tenham verificado.
+6 - A decisão é notificada ao requerente e imediatamente comunicada ao tribunal ou à entidade que tiver o processo a seu cargo. É-o igualmente às entidades com jurisdição disciplinar sobre os responsáveis por atrasos que se tenham verificado.

@@ -2,7 +2,7 @@
 
 ### (Rejeição do recurso)
 
-1 - O recurso é rejeitado sempre que faltar a motivação ou for manifesta a improcedência daquele.
+1 - O recurso é rejeitado sempre que for manifesta a sua improcedência ou que se verifique causa que devia ter determinado a sua não admissão nos termos do artigo 414.º, n.º 2.
 
 2 - A deliberação de rejeição exige a unanimidade de votos.
 

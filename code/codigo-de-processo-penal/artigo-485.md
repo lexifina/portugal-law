@@ -11,3 +11,5 @@
 4 - O despacho que negar a liberdade condicional é notificado ao recluso.
 
 5 - Do despacho de liberdade condicional é remetida cópia para os serviços prisionais, serviços de reinserção social e outras instituições que o tribunal determinar.
+
+6 - É correspondentemente aplicável o disposto no artigo 495.º, n.º 1.

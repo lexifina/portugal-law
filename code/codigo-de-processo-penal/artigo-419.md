@@ -4,7 +4,7 @@
 
 1 - Na conferência intervêm o presidente da secção, o relator e dois juízes-adjuntos.
 
-2 - A discussão é dirigida pelo presidente, que desempata quando não puder formar-se maioria.
+2 - A discussão é dirigida pelo presidente, que, porém, só vota, para desempatar, quando não puder formar-se maioria com os votos do relator e dos juízes-adjuntos.
 
 3 - São decididas em conferência as questões suscitadas em exame preliminar.
 
@@ -14,4 +14,6 @@ a) Deva ser rejeitado;
 
 b) Exista causa extintiva de procedimento ou da responsabilidade criminal que ponha termo ao processo ou seja o único motivo de recurso; ou
 
-c) A decisão recorrida não constitua decisão final.
+c) A decisão recorrida não constitua decisão final; ou
+
+d) Não houver lugar a alegações orais e não seja necessário proceder à renovação da prova, nos termos do artigo 430.º

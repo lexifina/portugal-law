@@ -4,7 +4,7 @@
 
 1 - A petição é enviada imediatamente ao presidente do Supremo Tribunal de Justiça, com informação sobre as condições em que foi efectuada ou se mantém a prisão.
 
-2 - Se da informação constar que a prisão se mantém, o presidente do Supremo Tribunal de Justiça convoca a secção criminal, que delibera nos oito dias subsequentes, notificando o Ministério Público e o defensor e nomeando este, se não estiver já constituído. São correspondentemente aplicáveis os artigos 424.º e 435.º, n.º 1.
+2 - Se da informação constar que a prisão se mantém, o presidente do Supremo Tribunal de Justiça convoca a secção criminal, que delibera nos oito dias subsequentes, notificando o Ministério Público e o defensor e nomeando este, se não estiver já constituído. São correspondentemente aplicáveis os artigos 424.º e 435.º
 
 3 - O relator faz uma exposição da petição e da resposta, após o que é concedida a palavra, por quinze minutos, ao Ministério Público e ao defensor; seguidamente, a secção reúne para deliberação, a qual é imediatamente tornada pública.
 
