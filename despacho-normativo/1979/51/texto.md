@@ -1,0 +1,8 @@
+Despacho Normativo n.º 51/79
+Tendo-se levantado dúvidas sobre a articulação do artigo 417.º do Código Administrativo com o sistema introduzido pelo artigo 4.º do Decreto-Lei n.º 460/77, de 7 de Novembro, no que respeita ao reconhecimento da utilidade pública das pessoas colectivas de utilidade pública administrativa constituídas posteriormente à vigência do decreto-lei citado;
+Considerando, outrossim, que o reconhecimento automático da utilidade pública previsto naquele preceito do Código Administrativo parece colidir com o princípio de que tal declaração deve ser expressamente concedida pelo Governo, com excepção apenas das pessoas colectivas de utilidade pública administrativa já constituídas à data da publicação do Decreto-Lei n.º 460/77;
+Considerando ainda que da conjugação do artigo 14.º com o n.º 2 do artigo 1.º e artigo 8.º do mesmo diploma não resulta clara a obrigação do registo para as associações que na data da publicação do diploma, já tivessem sido reconhecidas como pessoas colectivas de utilidade pública administrativa pela entidade competente:
+Determino, ao abrigo da competência conferida pelo seu artigo 16.º, o seguinte:
+a) O artigo 4.º, n.º 1, do Decreto-Lei n.º 460/77, de 7 de Novembro, abrange as pessoas colectivas de utilidade pública administrativa referidas no Código Administrativo constituídas ou que se vierem a constituir em data posterior à publicação do citado decreto-lei;
+b) As pessoas colectivas de utilidade pública administrativa constituídas anteriormente à data da publicação do diploma citado deverão requerer a sua inscrição no registo a que se refere o seu artigo 8.º
+Presidência do Conselho de Ministros, 28 de Fevereiro de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.
