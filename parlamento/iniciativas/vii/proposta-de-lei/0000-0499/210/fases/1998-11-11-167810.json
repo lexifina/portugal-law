@@ -1,0 +1,1605 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "210",
+    "id": "4643",
+    "titulo": "Grandes Opções do Plano para 1999"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1998-11-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3308",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1998-11-11",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "4642",
+        "leg": "VII",
+        "nr": "211",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "340",
+            "obs": null,
+            "pag": [
+              "597-645"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-11-12",
+            "pubLeg": "VII",
+            "pubNr": "19",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/597?pgs=597-645&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "P",
+        "titulo": "Orçamento do Estado para 1999"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1998-11-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "149",
+                "nome": "António Martinho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56600",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "645-645"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/645?pgs=645&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56601",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "645-645"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/645?pgs=645&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "149",
+                "nome": "António Martinho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56602",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "644-645"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/644?pgs=644-645&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56603",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "642-644"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/642?pgs=642-644&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1371",
+                "nome": "Henrique Neto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56604",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "640-642"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/640?pgs=640-642&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "75",
+                "nome": "Jorge Roque Cunha"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56605",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "638-640"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/638?pgs=638-640&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56606",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "637-637"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/637?pgs=637&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1463",
+                "nome": "Lalanda Gonçalves"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56607",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "636-636"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/636?pgs=636&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56608",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "635-635"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/635?pgs=635&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Sousa Franco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56609",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "629-633",
+                  "635-638"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/629?pgs=629-633,635-638&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56610",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "634-635"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/634?pgs=634-635&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Sousa Franco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56611",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "629-633",
+                  "635-638"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/629?pgs=629-633,635-638&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "590",
+                "nome": "Luís Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56612",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "626-629"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/626?pgs=626-629&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56613",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "623-626"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/623?pgs=623-626&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56614",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "620-623"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/620?pgs=620-623&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1488",
+                "nome": "Afonso Candal"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56615",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "619-619"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/619?pgs=619&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56616",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "619-619"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/619?pgs=619&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1024",
+                "nome": "Alberto Marques"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56619",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "615-616"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/615?pgs=615-616&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56620",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "612-620"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/612?pgs=612-620&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56621",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "612-612"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/612?pgs=612&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56622",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "610-611"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/610?pgs=610-611&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56623",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "609-610"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/609?pgs=609-610&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "370",
+                "nome": "Luís Marques Mendes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56624",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "607-608"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/607?pgs=607-608&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "590",
+                "nome": "Luís Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56625",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "605-606"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/605?pgs=605-606&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56626",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "604-605"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/604?pgs=604-605&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56627",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "604-604"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/604?pgs=604&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56628",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "602-603"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/602?pgs=602-603&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56629",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "597-606",
+                  "608-610",
+                  "612-612"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/597?pgs=597-606,608-610,612&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "PRIMEIRO-MINISTRO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio Guterres"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107499",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "604-605"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/604?pgs=604-605&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO ORÇAMENTO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Joao Carlos Da Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107500",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "617-617"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/617?pgs=617&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "PRIMEIRO-MINISTRO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio Guterres"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107501",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "597-606",
+                  "608-610",
+                  "612-612"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/597?pgs=597-606,608-610,612&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO ORÇAMENTO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Joao Carlos Da Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107504",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "618-618"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-11-12",
+                "pubLeg": "VII",
+                "pubNr": "19",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/019/1998-11-12/618?pgs=618&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1999",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "167810",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
