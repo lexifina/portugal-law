@@ -1,0 +1,5 @@
+Despacho ministerial
+Vencendo-se nas datas abaixo indicadas diversas promissórias de fomento nacional emitidas pelo Fundo de Fomento Nacional e estando previstas amortizações por conta daquelas promissórias no total de 67758102$80, fica a Direcção-Geral da Fazenda Pública autorizada, nos termos dos artigos 23.º e 24.º do Decreto-Lei n.º 42946, de 27 de Abril de 1960, e de harmonia com o artigo único do Decreto-Lei n.º 45178, de 5 de Agosto de 1963, a fazer a emissão de quatro novas promissórias em substituição daquelas, como a seguir se indica, pelos montantes máximos de 25172000$00, 145582209$60, 62362026$90 e 20173608$50 e com vencimentos, respectivamente, em 6 de Agosto de 1968, 5 de Setembro, 2 de Outubro e 11 de Novembro do mesmo ano:
+(ver documento original)
+Os novos títulos, que constituem a 7.ª emissão de promissórias de fomento nacional, com os n.os 1 a 4, respectivamente, vencerão o juro anual de 3 por cento, pagável em igual mês e dia dos indicados para vencimento e em iguais dias do sexto mês civil posterior do calendário.
+Ministério das Finanças, 6 de Agosto de 1963. - O Ministro das Finanças, António Manuel Pinto Barbosa.
