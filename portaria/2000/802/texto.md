@@ -1,0 +1,10 @@
+Portaria n.º 802/2000
+de 21 de Setembro
+Pela Portaria n.º 859/98, de 9 de Outubro, foi concessionada ao Clube de Caçadores de Fanhões uma zona de caça associativa situada no município de Loures, com uma área de 344,5861 ha.
+Posteriormente à publicação da portaria de concessão verificou-se não ter sido obtido acordo prévio para numerosos prédios incluídos na zona de caça.
+Dado que a falta de autorização dos proprietários, usufrutuários ou superficiários dos terrenos integrados na zona de caça da freguesia de Fanhões constituem ofensa da garantia constitucional do direito de propriedade privada previsto no artigo 62.º, n.º 1, da Constituição da República Portuguesa, no sentido e com o alcance de jurisprudência já confirmada pelo Tribunal Constitucional no Acórdão n.º 866/96, de 18 de Dezembro;
+Dado ainda que, na parte respeitante à integração na zona de caça de prédios sem acordo prévio dos titulares de direitos reais sobre os mesmos, viola o disposto no artigo 21.º da Lei n.º 30/86, em conjugação com as disposições aplicáveis dos artigos 74.º, n.º 2, alínea b), e 75.º, n.º 1;
+Considerando, por outro lado, que a exclusão dos prédios para os quais não existe acordo dos respectivos titulares de direitos cria superfícies descontínuas, o que inviabiliza os objectivos subjacentes à criação de zonas de regime cinegético e violando o disposto nos n.os 3 e 4 do artigo 19.º da Lei n.º 30/86, de 27 de Agosto:
+Assim:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, com fundamento no disposto no artigo 2.º da Lei n.º 28/82, de 15 de Novembro, e nos artigos 19.º, n.os 3 e 4, e 21.º da Lei n.º 30/86, de 27 de Agosto, que seja revogada a concessão da zona de caça associativa atribuída pela Portaria n.º 859/98, de 9 de Outubro, ao Clube de Caçadores de Fanhões (processo n.º 2113).
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 28 de Agosto de 2000.
