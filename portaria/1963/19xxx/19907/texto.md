@@ -1,0 +1,5 @@
+Portaria n.º 19907
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 20000$00 a verba do capítulo 10.º, artigo 295.º, n.º 10), alínea b), 1.º «Encargos gerais - Diversas despesas - Despesas eventuais (artigo 1.º e § 2.º do artigo 6.º do Decreto n.º 22545, de 18 de Maio de 1933) - Não especificadas - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral de S. Tomé e Príncipe para o corrente ano, tomando como contrapartida igual quantia a sair das disponibilidades existentes na verba do capítulo 7.º, artigo 266.º, n.º 1) «Serviços de fomento - Junta Provincial de Povoamento - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+Ministério do Ultramar, 19 de Junho de 1963. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de S. Tomé e Príncipe. - Silva Cunha.
