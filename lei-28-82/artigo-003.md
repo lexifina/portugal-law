@@ -18,4 +18,6 @@ f) Declarar que uma qualquer organização perfilha a ideologia fascista e decre
 
 g) Verificar a constitucionalidade e a legalidade das propostas de referendo e das consultas directas aos eleitores a nível local.
 
+h) Apreciar a regularidade e a legalidade das contas dos partidos políticos.
+
 2 - São publicadas na 2.ª série do Diário da República as demais decisões do Tribunal Constitucional, salvo as de natureza meramente interlocutória ou simplesmente repetitivas de outras anteriores.

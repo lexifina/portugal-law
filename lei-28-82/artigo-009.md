@@ -11,3 +11,5 @@ b) Apreciar a legalidade das denominações, siglas e símbolos dos partidos pol
 c) Proceder às anotações referentes a partidos políticos, coligações ou frentes de partidos exigidas por lei.
 
 d) Ordenar a extinção de partidos e de coligações de partidos, nos termos da lei.
+
+e) Apreciar a regularidade e a legalidade das contas dos partidos políticos, nos termos da lei, e aplicar as correspondentes sanções.

@@ -9,3 +9,5 @@
 3 - Concluída a discussão e tomada a decisão do Tribunal, é o processo concluso ao relator ou, no caso de este ter ficado vencido, ao juiz que deva substituí-lo, para elaboração do acórdão, no prazo de 30 dias.
 
 4 - Quando ponderosas razões o justifiquem, pode o presidente, ouvido o Tribunal, encurtar até metade os prazos referidos nos números anteriores.
+
+5 - Havendo solicitação fundamentada do requerente nesse sentido e acordo do órgão autor da norma, o Presidente, ouvido o Tribunal, decidirá sobre a atribuição de prioridade à apreciação e decisão do processo.

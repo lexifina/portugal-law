@@ -1,5 +1,9 @@
 # Artigo 108.º
 
-### (Comissão Constitucional)
+### Modo de acesso
 
-Até à entrada em funcionamento do Tribunal Constitucional mantém-se em funções a Comissão Constitucional, com a sua actual composição, nos termos e para os efeitos do disposto nos n.os 3 e 4 do artigo 246.º da Lei Constitucional n.º 1/82, de 30 de Setembro, sendo aplicável aos respectivos membros o disposto nos artigos 9.º, 10.º, 11.º, 12.º e 15.º do Decreto-Lei n.º 503-F/76, de 30 de Junho.
+1 - O acesso aos dados constantes das declarações é efectuado através da sua consulta na secretaria do Tribunal, durante as horas de expediente, podendo o consulente, no caso de se tratar de uma entidade pública, credenciar para o efeito agente ou funcionário com qualificação e grau de responsabilidade adequados.
+
+2 - O acto de consulta deverá ser registado no próprio processo, mediante cota, na qual se identificará o consulente e anotará a data da consulta.
+
+3 - No seguimento da consulta, e mediante requerimento devidamente fundamentado, pode ser autorizada a passagem de certidão das declarações ou de elementos dela constantes.

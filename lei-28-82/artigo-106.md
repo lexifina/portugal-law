@@ -1,13 +1,11 @@
-## Título IV
+## Subcapítulo VI
 
-## Disposições finais e transitórias
+## Processos relativos a declarações de rendimentos e património dos titulares de cargos públicos
 
 # Artigo 106.º
 
-### (Processos pendentes no Conselho da Revolução, na Comissão Constitucional e no Supremo Tribunal Administrativo)
+### Registo e arquivo das declarações
 
-1 - Os recursos que, à data da entrada em funcionamento do Tribunal, estejam pendentes na Comissão Constitucional ou que para ela hajam sido interpostos transitam para o Tribunal Constitucional, prosseguindo os seus termos na fase em que se encontrem, salvo o disposto nesta lei quanto a distribuição e vistos.
+1 - O procedimento a adoptar no registo e arquivo das declarações de rendimentos e património de titulares de cargos públicos será definido em regulamento interno do Tribunal Constitucional.
 
-2 - Os pedidos de apreciação e declaração de inconstitucionalidade pendentes no Conselho da Revolução ou na Comissão Constitucional à data da entrada em vigor da Lei Constitucional n.º 1/82, de 30 de Setembro, transitam igualmente para o Tribunal Constitucional, onde são processados como pedidos de declaração de inconstitucionalidade, nos termos da presente lei.
-
-3 - Transitam ainda para o Tribunal Constitucional, nos termos do n.º 2, os pedidos de declaração de ilegalidade formulados ao abrigo do disposto na Lei n.º 15/79, de 19 de Maio, que à data da entrada em vigor da Lei Constitucional n.º 1/82, de 30 de Setembro, se encontrem pendentes no Supremo Tribunal Administrativo.
+2 - É vedada a transcrição em suporte informático do conteúdo das declarações, sem prejuízo de o Tribunal Constitucional poder organizar um ficheiro informatizado contendo os seguintes dados: identificação, cargo e número do processo individual do declarante, datas do início ou da cessação de funções, datas da comunicação daqueles factos pelas secretarias administrativas competentes e, eventualmente, da notificação a que há lugar em caso de não apresentação de declaração no prazo inicial e, bem assim, da apresentação atempada da declaração e ainda a referência identificativa das decisões proferidas no caso de falta dessa apresentação.
