@@ -1,0 +1,23 @@
+Decreto-Lei n.º 85/96
+de 29 de Junho
+A entrada em funcionamento do mercado de operações sobre futuros e opções, realizadas em bolsas nacionais destinadas à realização de operações a prazo, impõe a definição do respectivo regime fiscal.
+Nesse sentido, e sem prejuízo da publicação, a breve prazo, do diploma estabelecendo o regime de tributação daqueles instrumentos financeiros em outros impostos, importa proceder desde já à utilização parcial da autorização legislativa concedida ao Governo pela Lei do Orçamento do Estado para 1996, consagrando uma solução de neutralidade no âmbito do imposto do selo, concretizada através de uma isenção, a qual tem em vista eliminar os obstáculos que a incidência dos artigos 92 e 94 da Tabela Geral daquele imposto poderia ocasionar à implementação e expansão desse mercado.
+Assim:
+No uso da autorização legislativa concedida pelo artigo 30.º da Lei n.º 10-B/96, de 23 de Março, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo único
+Os artigos 92 e 94 da Tabela Geral do Imposto do Selo passam a ter a seguinte redacção:
+«Artigo 92 - ...
+a) ...
+b) ...
+c) Os escritos de quaisquer contratos que devam ser celebrados no âmbito das operações a prazo realizadas, registadas, liquidadas ou compensadas através da bolsa e que tenham por objecto, directa ou indirectamente, valores mobiliários, de natureza real ou teórica, direitos a eles equiparados, contratos de futuros, taxas de juro, divisas ou índices sobre valores mobiliários, taxas de juro ou divisas.
+Artigo 94 - ...
+1 - ...
+2 - ...
+3 - ...
+4 - Ficam isentas do imposto as garantias inerentes às operações a prazo realizadas, registadas, liquidadas ou compensadas através da bolsa e que tenham por objecto, directa ou indirectamente, valores mobiliários, de natureza real ou teórica, direitos a eles equiparados, contratos de futuros, taxas de juro, divisas ou índices sobre valores mobiliários, taxas de juro ou divisas.»
+Visto e aprovado em Conselho de Ministros de 29 de Maio de 1996. - António Manuel de Oliveira Guterres. - António Luciano Pacheco de Sousa Franco.
+Promulgado em 19 de Junho de 1996.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 20 de Junho de 1996.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
