@@ -1,0 +1,7 @@
+Decreto-Lei n.º 45244
+Da alteração operada pelo Decreto-Lei n.º 44278, de 14 de Abril de 1962, relativamente à designação de certas categorias de funcionários judiciais, resulta, nos termos do disposto no § único do artigo 151.º do Estatuto dos Tribunais do Trabalho, com a redacção que lhe foi dada pelo Decreto-Lei n.º 43357, de 14 de Novembro de 1960, a necessidade de introduzir no mesmo estatuto a correspondente alteração.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
+Artigo único. As categorias designadas por chefes de secção central e chefes de secção de processos no Estatuto dos Tribunais do Trabalho, aprovado pelo Decreto-Lei n.º 41745, de 21 de Julho de 1958, são, respectivamente, substituídas pelas designações de chefes de secretaria e de escrivães.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 13 de Setembro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
