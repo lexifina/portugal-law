@@ -1,0 +1,20 @@
+Portaria n.º 159/77
+de 24 de MarçoConsiderando a necessidade de coordenar a prestação de serviços médicos de urgência e intensificar o ensino das modernas técnicas de reanimação;
+Considerando a real possibilidade de promover desde já, no âmbito da Comissão Inter-Hospitalar do Porto, uma experiência pioneira nesse sentido, tendo em vista a integração de um plano global de emergência médica para a Região Norte:
+Manda o Governo da República Portuguesa, em execução do artigo 84.º, n.º 1, do Regulamento Geral dos Serviços do Ministério da Saúde e Assistência, aprovado pelo Decreto n.º 351/72, de 8 de Setembro, pelos Ministros da Defesa e dos Assuntos Sociais, o seguinte:
+1.º É criado na Comissão Inter-Hospitalar do Porto o Serviço de Assistência Médica de Urgência e Reanimação (SAMUR), a integrar futuramente na Administração Distrital dos Serviços de Saúde do Porto.
+2.º O SAMUR é dotado de autonomia técnica e fica no regime de instalação previsto nos artigos 79.º e seguintes do Decreto-Lei n.º 413/71, de 27 de Setembro.
+3.º Ao SAMUR, que se integrará no sistema de emergência médica da Região Norte, compete, em especial:
+a) Coordenar e colaborar num sistema de emergência médica nas suas fases de alerta, socorro e transporte para a Região do Porto;
+b) Apoiar e colaborar no sistema de transporte inter-hospitalar da Região Norte;
+c) Apoiar os serviços de emergência da Região Norte através de um sector de informação médica permanente e especializado;
+d) Fomentar o ensino do socorrismo com vista à criação de técnicos auxiliares de emergência médica;
+e) Formar o pessoal médico e de enfermagem necessário ao SAMUR no âmbito das carreiras e funções hospitalares;
+f) Promover a formação do socorrismo básico de todo o pessoal hospitalar.
+4.º No exercício das competências indicadas no número anterior serão celebrados acordos entre o SAMUR, o Serviço Nacional de Ambulâncias e a Escola de Socorrismo da Cruz Vermelha Portuguesa, respectivamente no que respeita aos aspectos de emergência médica pré-hospitalar e ao ensino do socorrismo.
+5.º Durante o período de instalação o SAMUR é dirigido por uma comissão instaladora composta por três membros, a nomear, nos termos da lei, pelo Secretário de Estado da Saúde.
+6.º A comissão instaladora submeterá a despacho do Secretário de Estado da Saúde os projectos de regulamentos necessários ao bom funcionamento do SAMUR no prazo de noventa dias.
+7.º O financiamento será efectuado através da Comissão Inter-Hospitalar do Porto, que, para o efeito, receberá as dotações necessárias, podendo receber subsídios resultantes dos acordos a realizar com o Serviço Nacional de Ambulâncias e outras entidades.
+8.º O SAMUR poderá cobrar as taxas que forem devidas nos termos legais.
+9.º Esta portaria entra em vigor com a tomada de posse da comissão instaladora.
+Ministérios da Defesa Nacional e dos Assuntos Sociais, 16 de Fevereiro de 1977. - O Ministro da Defesa Nacional, Mário Firmino Miguel. - O Ministro dos Assuntos Sociais, Armando Bacelar.
