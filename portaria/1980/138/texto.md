@@ -1,0 +1,6 @@
+Portaria n.º 138/80
+de 27 de Março
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e dos Transportes e Comunicações, nos termos do n.º 3 do artigo 37.º do Estatuto da Empresa Pública Correios e Telecomunicações de Portugal, anexo I ao Decreto-Lei n.º 49368, de 10 de Novembro de 1969, atendendo ao que por ela foi solicitado, autorizar a referida empresa a contrair no Banco Nacional Ultramarino um empréstimo no montante de 200000 contos, à taxa de 22,25% ao ano, sendo bonificada a partir da última utilização nos termos da circular n.º 70-19/77/DSOC, do Banco de Portugal, e alterável dentro dos limites legais em vigor na data da alteração.
+A empresa pública Correios e Telecomunicações de Portugal inscreverá nos seus orçamentos anuais as verbas necessárias ao pagamento das amortizações e juros dos empréstimos.
+Se à data da celebração do contrato tiverem sido legalmente alteradas as taxas de juros para empréstimos a prazo idênticos ao constante desta portaria (oito anos), fica autorizada a empresa a celebrar o contrato, estipulando-se a taxa de juro que nessa data vigorar.
+Ministérios das Finanças e do Plano e dos Transportes e Comunicações, 14 de Março de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro dos Transportes e Comunicações, José Carlos Pinto Soromenho Viana Baptista.
