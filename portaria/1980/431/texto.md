@@ -1,0 +1,22 @@
+Portaria n.º 431/80
+de 25 de Julho
+Tornando-se necessário introduzir nas disposições do Regulamento de Administração da Fazenda Naval, aprovado pelo Decreto n.º 31859, de 17 de Janeiro de 1942, as alterações decorrentes do estabelecido pelo Decreto-Lei n.º 146-C/80, de 22 de Maio, na parte relativa ao visto do Tribunal de Contas em contratos e minutas de contratos:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo do disposto no artigo 4.º do mencionado Decreto n.º 31859, o seguinte:
+1.º No Regulamento de Administração da Fazenda Naval é aditado, no seu artigo 186.º, uma nova alínea, com a redacção seguinte:
+Art. 186.º ...
+...
+d) Se as suas condições são as mais vantajosas para o Estado.
+2.º No mesmo Regulamento, o seu artigo 187.º toma a redacção seguinte:
+Art. 187.º As minutas de contratos serão, depois de aprovadas, submetidas ao visto do Tribunal de Contas e em seguida registadas na 6.ª Delegação da Direcção-Geral da Contabilidade Pública, quando se trate de minutas relativas a:
+a) Contratos de valor igual ou superior a 1000000$00;
+b) Contratos de valor inferior a 1000000$00, quando, sendo mais de um num prazo de noventa dias, se destinem ao mesmo fim e no seu conjunto atinjam ou excedam aquela importância;
+c) Contratos de qualquer valor a celebrar por escritura pública e cujos encargos tenham de ser satisfeitos no acto da sua celebração.
+§ 1.º Estão igualmente sujeitos ao visto e ao registo referidos neste artigo os contratos de qualquer natureza e valor, salvo quando se trate de contratos precedidos de minutas visadas, em relação aos quais há, no entanto, que observar o estabelecido no § único do artigo 192.º
+§ 2.º Os contratos não podem começar a produzir os seus efeitos em data anterior à do visto do Tribunal de Contas, com excepção dos contratos de arrendamento e dos de empreitada de obras públicas, sem prejuízo de, também para estes, os efeitos financeiros só poderem produzir-se depois daquele visto.
+§ 3.º Os processos referentes a contratos de empreitada ou de fornecimento de material sujeitos a visto serão instruídos com o duplicado do documento a visar, com a cópia ou fotocópia do aviso de abertura do concurso público, ou de autorização de dispensa deste, ou da realização de concurso limitado, bem como, sendo caso disso, do caderno de encargos e da acta da sessão do conselho administrativo em que se procedeu à abertura das propostas e à adjudicação.
+§ 4.º Os contratos definitivos, quando remetidos a visto, serão acompanhados de fotocópia ou de um extracto elaborado segundo modelo que se encontre fixado pelo Tribunal de Contas.
+§ 5.º Na execução do disposto neste artigo, todos os documentos, cópias, duplicados e extractos a remeter ao Tribunal de Contas serão autenticados com o selo branco do conselho administrativo respectivo e os despachos serão acompanhados de uma cópia, igualmente autenticada.
+3.º Ao artigo 192.º do citado Regulamento é aditado o seguinte parágrafo:
+Art. 192.º ...
+§ único. Quando se trate de contrato precedido de minuta visada, dele será extraída mais uma cópia, a qual, pelo conselho administrativo respectivo, será remetida, autenticada, ao Tribunal de Contas, a fim de ser verificada a sua conformidade. O envio desta cópia do contrato será feito dentro do prazo de trinta dias após a respectiva celebração.
+Estado-Maior da Armada, 4 de Julho de 1980. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante.
