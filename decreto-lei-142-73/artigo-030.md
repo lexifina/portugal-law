@@ -2,7 +2,7 @@
 
 ### (Pagamento da pensão)
 
-1 - A pensão de sobrevivência, calculada nos termos do artigo 28.º, é devida desde o dia 1 do mês seguinte àquele em que se verificar o óbito do contribuinte quando pedida no prazo de seis meses contados a partir da mesma data, ou desde o dia 1 do mês seguinte ao da apresentação do requerimento no Montepio quando solicitada, a todo o tempo, depois de esgotado aquele prazo.
+1 - A pensão de sobrevivência, calculada nos termos do artigo 28.º, é devida desde o dia 1 do mês seguinte àquele em que se verificar o óbito do contribuinte, quando pedida no prazo de 12 meses contados a partir da mesma data, ou desde o dia 1 do mês seguinte ao da apresentação do requerimento, quando solicitada depois de terminado aquele prazo de 12 meses.
 
 2 - A pensão de sobrevivência é sempre devida até ao último dia do mês em que se extinguir a qualidade de pensionista.
 
@@ -18,7 +18,7 @@
 
 8 - Quando o pagamento da pensão for devido por óbito de um aposentado ou reformado, o Montepio, dentro dos 60 dias posteriores à data da morte, liquidará e pagará ao signatário do requerimento referido no n.º 1 deste artigo cuja petição será acompanhada de certidão probatória de que é herdeiro hábil, uma pensão de sobrevivência de montante provisório igual a metade da pensão de aposentação que o falecido recebia.
 
-9 - Quando o pagamento da pensão for devido por óbito de um subscritor da Caixa Geral de Aposentações no activo, o Montepio liquidará e pagará ao signatário do requerimento referido no n.º 1 deste artigo, cuja petição será acompanhada de certidão probatória de que é herdeiro hábil, uma pensão de montante provisório que será calculada com base nos elementos biográficos, cujo modelo vai anexo a este diploma, e que os serviços onde o falecido exercia o seu cargo terão de enviar ao Montepio no prazo tante provisório não prejudica a sua rectificação, devendo o aludido pagamento ser efectuado no prazo de 60 dias a partir da data da coexistência no Montepio do referido requerimento e nota biográfica.
+9 - Quando o pagamento da pensão for devido por óbito de um subscritor da Caixa Geral de Aposentações no activo, o Montepio liquidará e pagará ao signatário do requerimento referido no n.º 1 deste artigo, cuja petição será acompanhada de certidão probatória de que é herdeiro hábil, uma pensão de montante provisório que será calculada com base nos elementos biográficos, cujo modelo vai anexo a este diploma, e que os serviços onde o falecido exercia o seu cargo terão de enviar ao Montepio no prazo de 15 dias a partir do falecimento do funcionário, devendo o aludido pagamento ser efectuado no prazo de 60 dias a partir da data da coexistência no Montepio do referido requerimento e nota biográfica.
 
 10 - A concessão das pensões fixadas em montante provisório não prejudica a sua rectificação, em resolução final, uma vez completada a instrução do processo, quanto ao montante encontrado e quanto ao fraccionamento, da pensão, quando for caso de ser dividida por herdeiro hábil que tenha sido preterido, nos termos do artigo 34.º
 
