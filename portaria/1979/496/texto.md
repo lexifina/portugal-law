@@ -1,0 +1,5 @@
+Portaria n.º 496/79
+de 14 de Setembro
+Tendo em consideração o conteúdo funcional do cargo de membro da Comissão Instaladora do Instituto para a Cooperação Económica em regime de tempo completo:
+Manda o Governo da República Portuguesa, pelo Primeiro-Ministro, pelo Ministro das Finanças e do Plano e pelo Ministro dos Negócios Estrangeiros, ao abrigo do disposto na alínea a) do n.º 3 do artigo 1.º do Decreto-Lei n.º 3/79, de 11 de Janeiro, e de acordo com a prorrogação de prazo consentida pelo Decreto-Lei n.º 185-A/79, de 20 de Junho, que sejam equiparados a director-geral e subdirector-geral, para o efeito de lhes ser aplicável o disposto nos n.os 1 e 2 do mesmo preceito, o presidente e os restantes membros da comissão instaladora daquele Instituto, que exercem funções em regime de tempo completo.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e dos Negócios Estrangeiros, 31 de Julho de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro dos Negócios Estrangeiros, João Carlos Lopes Cardoso de Freitas Cruz. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.
