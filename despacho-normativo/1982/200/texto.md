@@ -1,0 +1,5 @@
+Despacho Normativo n.º 200/82
+As comissões regionais de turismo em exercício assumem, nos termos do artigo 23.º do Decreto-Lei n.º 327/82, de 16 de Agosto, as funções de comissões instaladoras, a quem compete a normal gestão das respectivas regiões de turismo.
+Assim, determina-se que os actuais presidentes das comissões regionais de turismo existentes procedam às reuniões necessárias com vista à proposta de adaptação dos respectivos estatutos, de acordo com o preceituado no Decreto-Lei n.º 327/82, e para efeito da respectiva ratificação por portaria do Secretário de Estado do Turismo, prevista no n.º 5 do artigo 1.º daquele diploma.
+Atendendo a coincidir o período de férias habitual com a publicação do citado diploma, ao abrigo do seu artigo 23.º, n.º 3, fixo desde já até 31 de Dezembro de 1982 o prazo para a conclusão do respectivo processo de adaptação dos estatutos das comissões regionais de turismo existentes.
+Secretaria de Estado do Turismo, 24 de Agosto de 1982. - O Secretário de Estado do Turismo, Luís Fernando Cardoso Nandim de Carvalho.
