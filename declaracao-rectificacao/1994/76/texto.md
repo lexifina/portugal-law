@@ -1,0 +1,4 @@
+Declaração de rectificação n.º 76/94
+Para os devidos efeitos se declara que a Resolução do Conselho de Ministros n.º 30/94, publicada no Diário da República, 1.ª série, n.º 110, de 12 de Maio de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Na ficha técnica n.º 6, onde se lê «Finalidade: financiamento parcial do projecto designado 'Estradas XII' - construção de diversos lanços de estrada em quatro IP, três IC e três CN» deve ler-se «Finalidade: financiamento parcial do projecto 'Estradas das XI' - construção de diversos lanços de estrada em quatro IP, três IC e três EN».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Maio de 1994. - Pelo Secretário-Geral, o Director dos Serviços Administrativos, Nuno Faustino.
