@@ -1,0 +1,7 @@
+Despacho Normativo n.º 53/80
+Dispõe o artigo 7.º do Decreto-Lei n.º 201-A/79, de 30 de Junho, que os serviços com autonomia administrativa e financeira deverão repor nos cofres do Estado, até 14 de Fevereiro, todas as verbas recebidas do Orçamento Geral do Estado e não aplicadas até 31 de Dezembro de 1979.
+Pela Resolução do Conselho de Ministros n.º 331/79, publicada no Diário da República, 1.ª série, n.º 269, de 21 de Novembro último, foram inscritas nos orçamentos de vários Ministérios, como despesas excepcionais, verbas para satisfazer os encargos resultantes de prejuízos dos temporais que assolaram o País no corrente ano.
+Considerando que as verbas inscritas correspondem a estimativas que se pensa serem muito aproximadas aos encargos a suportar;
+Considerando, ainda, que as dificuldades inerentes à avaliação dos prejuízos têm tornado morosa a concessão de subsídios às entidades afectadas, prevendo-se assim que este processo não venha a ser concluído durante o ano de 1979;
+Tendo em conta o disposto no artigo 39.º do Decreto-Lei n.º 201-A/79, esclarece-se que as verbas atrás referidas devem ser abrangidas pelo disposto no n.º 2 do artigo 7.º daquele diploma e, portanto, consideradas como aplicadas para efeitos de não reposição, transitando, assim, os eventuais saldos para 1980.
+Ministério das Finanças e do Plano, 4 de Fevereiro de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.
