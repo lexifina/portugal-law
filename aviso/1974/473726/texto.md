@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo informação do Foreign and Commonwealth Office, o Governo de Singapura depositou, em 14 de Março de 1974, o instrumento de denúncia da Convenção Internacional sobre as Linhas de Carga, concluída em Londres em 5 de Julho de 1930, e o Governo da República Democrática Alemã notificou o Governo do Reino Unido da sua intenção de aplicar novamente a mesma Convenção (incluindo o suplemento ao anexo II de 23 de Agosto de 1938), como se fora a partir de 16 de Agosto de 1958.
+Direcção-Geral dos Negócios Económicos, 26 de Agosto de 1974. - O Adjunto do Director-Geral, José Joaquim de Mena e Mendonça.
