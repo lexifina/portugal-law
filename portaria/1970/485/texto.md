@@ -1,0 +1,16 @@
+Portaria n.º 485/70
+de 30 de Setembro
+Tornando-se necessário definir as características do dístico a que se refere o n.º 7 do artigo 7.º do Código da Estrada, segundo a redacção que lhe foi dada pelo Decreto n.º 424/70, de 4 de Setembro de 1970, e, bem assim, proceder a alterações ao regulamento daquele Código, determinadas pela entrada em vigor do mesmo decreto:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunicações e Transportes, ao abrigo do artigo 2.º do Decreto-Lei n.º 39987, de 22 de Dezembro de 1954, o seguinte:
+1.º Que ao artigo 14.º do Regulamento do Código da Estrada, aprovado pelo Decreto-Lei n.º 39987, de 22 de Dezembro de 1954, seja aditado um número com a seguinte redacção:
+10. O dístico previsto no n.º 7 do artigo 7.º do Código da Estrada pode ser amovível, devendo ser colocado à retaguarda e à esquerda por forma a não impedir a legibilidade das chapas e inscrições do veículo, bem como a visibilidade das diversas luzes e diapositivos de sinalização da retaguarda e a não prejudicar a visibilidade do condutor.
+É proibido apor este dístico no vidro da retaguarda.
+A forma do dístico será circular, com o fundo em amarelo e algarismos de cor preta, devendo as suas dimensões obedecer aos valores indicados no quadro XVI anexo.
+A infracção ao disposto neste número será punida com a multa de 200$00.
+2.º Que o n.º 1 do artigo 45.º do mesmo Regulamento passe a ter a seguinte redacção:
+1. As autoridades ou agentes da autoridade que, nos termos do n.º 10 do artigo 7.º, dos n.os 7, 8 e 9 do artigo 26.º, do n.º 5 do artigo 38.º e do n.º 1 do artigo 55.º do Código da Estrada, procederem à apreensão de licenças de condução enviá-las-ão no prazo de vinte e quatro horas à Direcção-Geral de Transportes Terrestres, acompanhadas do auto de notícia ou participação, consoante os casos, bem como de quaisquer outros documentos que possam interessar à instrução do respectivo processo.
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
+
+QUADRO XVI
+(ver documento original)
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
