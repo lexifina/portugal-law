@@ -1,0 +1,224 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "13",
+    "id": "19135",
+    "titulo": "Aprova o sistema de avaliação da educação e do ensino não superior, desenvolvendo o regime previsto na Lei n.º 46/86, de 14 de Outubro-Lei de Bases do Sistema Educativo."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2002-07-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "5832",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2002-07-08",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2002-07-04",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": null,
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "108",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "COMISSÃO DE EDUCAÇÃO, CIÊNCIA E CULTURA",
+        "Numero": "108",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Texto final",
+            "pag": [
+              "1022-1024"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-10-12",
+            "pubLeg": "IX",
+            "pubNr": "33",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/09/01/033/2002-10-12/1022?pgs=1022-1024&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Redacção final do texto (texto publicado ao abrigo do artº 165º, nº4, do RAR)",
+            "pag": [
+              "1081-1083"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-10-31",
+            "pubLeg": "IX",
+            "pubNr": "36",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/09/01/036/2002-10-31/1081?pgs=1081-1083&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade",
+            "pag": [
+              "1160-1161"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-11-05",
+            "pubLeg": "IX",
+            "pubNr": "38",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/09/01/038/2002-11-05/1160?pgs=1160-1161&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Texto final",
+            "pag": [
+              "1022-1024"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-10-12",
+            "pubLeg": "IX",
+            "pubNr": "33",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/09/01/033/2002-10-12/1022?pgs=1022-1024&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Redacção final do texto (texto publicado ao abrigo do artº 165º, nº4, do RAR)",
+            "pag": [
+              "1081-1083"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-10-31",
+            "pubLeg": "IX",
+            "pubNr": "36",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/09/01/036/2002-10-31/1081?pgs=1081-1083&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade",
+            "pag": [
+              "1160-1161"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-11-05",
+            "pubLeg": "IX",
+            "pubNr": "38",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/09/01/038/2002-11-05/1160?pgs=1160-1161&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2002-10-10",
+            "numeroOficio": "918/COM",
+            "observacoes": "Anexo relatório da votação na especialidade (ofício nº 971/com de 2002 10 16)",
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "BE",
+              "PEV"
+            ],
+            "data": "2002-10-09",
+            "descricao": "UNANIMIDADE DOS PRESENTES",
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I><BR>Ausência: <I>BE</I>, <I> PEV</I>",
+            "id": "29241",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "31",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2002-07-04",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "153256",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
