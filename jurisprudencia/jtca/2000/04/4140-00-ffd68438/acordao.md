@@ -1,0 +1,69 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2000-04-06, processo 4140/00
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 4140/00
+
+**Secção:** Secção do Contencioso Administrativo - Tribunal Central Administrativo
+
+**Data do Acordão:** 04/06/2000
+
+**Relator:** Helena Lopes
+
+**Descritores:** SUSPENSÃO DE EFICÁCIA; PENA DISCIPLINAR DE DEMISSÃO; PREJUÍZO DE DIFÍCIL REPARAÇÃO; GRAVE; LESÃO DO INTERESSE PÚBLICO
+
+**Aditamento:** 1
+
+## Sumário
+
+l. Para que se mostre preenchido o requisito previsto na alínea a) do nº l do artº 76º da LPTA
+
+é, além do mais, necessário que, dos factos alegados pelo requerente e dos demais elementos
+
+probatórios, se possa concluir pela verificação provável de determinados prejuízos e que estes sejam de
+
+difícil reparação;
+
+2.Tendo o requerente alegado que a execução do acto impugnado - perda do seu vencimento resultante
+
+da aplicação de uma pena disciplinar de demissão -lhe irá causar prejuízos, por ser este o único
+
+elemento do agregado familiar que aufere um rendimento do trabalho, mas não tendo este logrado
+
+demonstrar tal facto, ter-se-á que dar por não verificado o requisito da alínea a) do nº l do art0 76º da
+
+LPTA;
+
+3. Na apreciação da " grave lesão do interesse público " - alínea b) do n.º l do art.º 76.º da LPTA -, no
+
+que à aplicação das penas disciplinares expulsívas diz respeito, deve-se atender aos factos
+
+fundamentadores do acto punitivo e, num juízo de prognose, às repercussões que, sobre o regular
+
+funcionamento dos serviços e imagem da instituição pública, terá a manutenção do
+
+funcionário ao serviço, avultando, entre outros factores a considerar neste juízo, os reflexos que a
+
+suspensão pode ter nos efeitos de prevenção geral, intimamente conexionados com o círculo onde a
+
+infracção foi cometida ou se tornou conhecida, o tipo de serviço administrativo onde ocorreu a infracção
+
+e a natureza das funções aí desempenhadas pelo agente;
+
+4. Se em face dos factos fundamentadores do acto punitivo - o requerente vem acusado de diversas
+
+infracções disciplinares, todas elas constituindo aceitação de dádivas em função do cargo que exercia,
+
+prometendo inclusive, como contrapartida das dádivas recebidas, perdoar aos particulares dadores
+
+eventuais infracções -, a natureza das funções do requerente - agente da PSP -, os reflexos que a
+
+suspensão pode ter nos efeitos de prevenção geral, concluir-mos que o deferimento da pretensão do
+
+requerente é evidentemente susceptível de abalar os valores que o poder disciplinar visa proteger,
+
+designadamente o de punir condutas que ponham em causa o regular funcionamento dos serviços e a
+
+imagem da instituição pública perante terceiros e os próprios funcionários, teremos que dar como não
+
+verificado o requisito da alínea b) do n.º l do art.0 76.º da LPTA.
