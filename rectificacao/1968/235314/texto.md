@@ -1,0 +1,2 @@
+Rectificação
+Rectificação - No sumário do Decreto-Lei n.º 48262, publicado pelo Ministério das Obras Públicas no Diário do Governo n.º 47, de 24 do mês findo, onde se lê: «Integra na rede de estradas nacionais, a que se refere o Decreto-Lei n.º 34593 (Plano Rodoviário), e o troço da auto-estrada do Sul entre Lisboa, na sua ligação com a auto-estrada Lisboa-Estoril», deve ler-se: «Integra na rede de estradas nacionais, a que se refere o Decreto-Lei n.º 34593 (Plano Rodoviário), o troço da auto-estrada do Sul entre Lisboa, na sua ligação com a auto-estrada Lisboa-Estoril».
