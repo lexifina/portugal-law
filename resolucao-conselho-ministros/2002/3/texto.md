@@ -1,0 +1,10 @@
+Resolução do Conselho de Ministros n.º 3/2002
+Pelos artigos 70.º a 72.º da Lei n.º 30-C/2000, de 29 de Dezembro, foi o Governo autorizado, nos termos da alínea h) do artigo 161.º da Constituição, a contrair empréstimos amortizáveis e a realizar outras operações de endividamento, destinados ao financiamento das necessidades decorrentes da execução do Orçamento do Estado, assunção de passivos, regularização de responsabilidades e refinanciamento da dívida pública.
+Os limites do referido endividamento para o corrente ano foram fixados pela Resolução do Conselho de Ministros n.º 13/2001, de 13 de Fevereiro.
+Atendendo à necessidade de adequar os citados limites às alterações introduzidas no Orçamento do Estado e ao aumento das amortizações de dívida efectuadas no ano em curso em execução do Programa de Troca de Dívida Pública previsto no artigo 76.º da Lei n.º 30-C/2000, de 29 de Dezembro (Orçamento do Estado para 2001), é alterada a Resolução do Conselho de Ministros n.º 13/2001, de 13 de Fevereiro, nos termos adiante indicados.
+Assim:
+Nos termos do artigo 3.º da Lei n.º 85/2001, de 4 de Agosto, do artigo 76.º da Lei n.º 30-C/2000, de 29 de Dezembro, do artigo 5.º, n.º 1, da Lei n.º 7/98, de 3 de Fevereiro, bem como do artigo 4.º, n.º 1, e do artigo 6.º, n.º 1, alínea a), dos Estatutos do Instituto de Gestão do Crédito Público, aprovados pelo Decreto-Lei n.º 160/96, de 4 de Setembro, o Conselho de Ministros resolve:
+1 - Aumentar para 9,5 mil milhões de euros o montante máximo fixado para a emissão de obrigações do Tesouro, alterando o n.º 2 da Resolução do Conselho de Ministros n.º 13/2001, de 13 de Fevereiro.
+2 - Aumentar para 3,5 mil milhões de euros o montante máximo fixado para a emissão de outra dívida pública fundada, alterando o n.º 4 da Resolução do Conselho de Ministros n.º 13/2001, de 13 de Fevereiro.
+3 - A presente resolução entra em vigor no dia imediato ao da sua publicação.
+Presidência do Conselho de Ministros, 13 de Dezembro de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
