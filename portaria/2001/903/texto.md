@@ -1,0 +1,13 @@
+Portaria n.º 903/2001
+de 30 de Julho
+Pela Portaria n.º 773/95, de 11 de Julho, alterada pela Portaria n.º 222/99, de 30 de Março, foi concessionada ao Alvo - Turismo Cinegético, Lda., a zona de caça turística da Herdade do Milreu e anexas (processo n.º 1771-DGF), situada na freguesia de Nossa Senhora da Conceição, município do Alandroal, com uma área de 1263,2590 ha, válida até 11 de Julho de 2007.
+A concessionária requereu agora a anexação à citada zona de caça de outros prédios rústicos com uma área de 687,1750 ha.
+Assim:
+Com fundamento no disposto nos artigos 20.º da Lei n.º 30/86, de 27 de Agosto, e 79.º, 81.º e 143.º do Decreto-Lei n.º 136/96, de 14 de Agosto, e ainda no disposto no n.º 3 do artigo 164.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, e ouvidos o Conselho Cinegético Municipal e o Conselho Nacional da Caça e da Conservação da Fauna:
+Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º São anexados à zona de caça turística criada pela Portaria n.º 773/95, de 11 de Julho, alterada pela Portaria n.º 222/99, de 30 de Março, os prédios rústicos denominados «Mocissos» e «Santa Catarina», sitos na freguesia de Nossa Senhora da Conceição, município do Alandroal, com uma área de 687,1750 ha, ficando a mesma com uma área total de 1950,4340 ha, conforme planta anexa à presente portaria, que dela faz parte integrante.
+2.º Por despacho do Secretário de Estado do Turismo, foi a presente anexação considerada de relevante interesse, nos termos e para os efeitos previstos na alínea b) do n.º 2 do artigo 66.º e dos artigos 71.º e 81.º do Decreto-Lei n.º 136/96, de 14 de Agosto, condicionada à conclusão das obras do pavilhão de caça, até 20 de Julho de 2001, e à verificação por esta entidade da adequação das obras efectuadas ao projecto funcional do pavilhão previsto.
+3.º Com carácter excepcional, justificado pela alteração anormal das circunstâncias, motivada pela complexidade de procedimentos inerentes à entrada em vigor e consequente execução da Lei n.º 173/99, de 21 de Setembro, e do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, e em benefício do princípio da prossecução do interesse público e da protecção dos direitos e interesses dos cidadãos, não se aplica o determinado no n.º 3 do n.º 7.º da Portaria n.º 467/2001, de 8 de Maio.
+Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo, em 10 de Julho de 2001. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 9 de Julho de 2001.
+
+(ver planta no documento original)
