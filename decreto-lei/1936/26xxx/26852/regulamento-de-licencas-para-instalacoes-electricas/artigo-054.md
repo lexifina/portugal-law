@@ -1,0 +1,9 @@
+# Artigo 54.º
+
+Os proprietários dos terrenos onde se acham estabelecidas linhas de uma instalação declarada de utilidade pública e os proprietários dos terrenos confinantes com quaisquer vias de comunicação, ao longo das quais estejam estabelecidas as referidas linhas, são obrigados a não consentir nem conservar nêles plantações que possam prejudicar aquelas linhas na sua exploração, cumprindo igual obrigação aos chefes de serviços públicos a que pertencerem plantações nas condições referidas, mas sòmente nos casos de reconhecida necessidade.
+
+§ 1.º As secções de fiscalização eléctrica, a requerimento do concessionário, intimarão os infractores a cumprir êste preceito dentro de um prazo que lhes será designado, podendo, no caso da desobediência, mandar proceder à destruição das plantações que impedirem o serviço das linhas, levantando auto de desobediência e fazendo instaurar o competente processo criminal, para aplicação das penas cominadas no artigo 188.º do Código Penal.
+
+§ 2.º Os proprietários dos terrenos nas condições designadas no corpo dêste artigo devem reclamar a presença do concessionário ou de um seu representante sempre que tenham de efectuar cortes de árvores ou quaisquer outros trabalhos dos quais possam resultar avarias ou prejuízos para as linhas; a presença do concessionário ou do seu representante e a observância das suas determinações sôbre o modo de execução dos trabalhos isentam os proprietários e seus mandatários das responsabilidades pelos prejuízos que eventualmente se possam verificar em tais condições.
+
+§ 3.º À excepção do caso previsto no parágrafo anterior, o concessionário terá sempre o direito de ser indemnizado de quaisquer prejuízos causados às suas linhas por pessoas estranhas ao seu serviço, devendo o valor da indemnização ser fixado, sempre que não haja acôrdo, nos termos dos §§ 1.º e 2.º do artigo 55.º, mesmo que a sua liquidação tenha de ser exigida judicialmente.
