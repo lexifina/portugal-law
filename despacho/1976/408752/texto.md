@@ -1,0 +1,7 @@
+Despacho
+1. Considerando que na entrada em funções do actual Governo, que se efectivou pelo respectivo acto de posse, a Secretaria de Estado do Emprego, dependente do Ministério do Trabalho, ficou integrada na Presidência do Conselho, com a designação de Secretaria de Estado da População e Emprego.
+2. Considerando que o Gabinete de Gestão do Fundo de Desemprego e, em parte, o Fundo de Desenvolvimento da Mão-de-Obra, já dependiam da Secretaria de Estado do Emprego, por delegação do Ministro do Trabalho;
+3. Considerando ainda que vai ser extinto o cargo de Secretário de Estado da Formação Profissional, cujos serviços só temporariamente não estiveram integrados na Secretaria de Estado do Emprego;
+4. Atendendo a que não foi ainda produzida a legislação competente definindo as atribuições da Secretaria de Estado da População e Emprego:
+O Ministro do Trabalho delega, pelo presente despacho, no Secretário de Estado da População e Emprego, toda a sua competência relativa a: Gabinete de Gestão do Fundo de Desemprego, Fundo de Desenvolvimento da Mão-de-Obra e serviços que integravam as Secretarias de Estado do Emprego e da Formação Profissional, com excepção das despesas suportadas pelo Fundo de Desenvolvimento da Mão-de-Obra com serviços e pessoal do Ministério do Trabalho não incluídos na enumeração antecedente.
+Ministério do Trabalho, 13 de Agosto de 1976. - O Ministro do Trabalho, Francisco Manuel Marcelo Monteiro Curto.
