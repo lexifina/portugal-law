@@ -1,0 +1,3 @@
+Despacho Normativo n.º 353/79
+Ao abrigo do § 2.º do artigo 6.º do Decreto-Lei n.º 42641, de 12 de Novembro de 1959, e do n.º 1 do artigo 6.º do Decreto-Lei n.º 348/77, de 24 de Agosto, homologo a autorização concedida pelo Instituto do Investimento Estrangeiro para o Banco do Brasil, S. A., Agência de Lisboa, proceder a um aumento de capital no montante de 86000000$00, integralmente subscrito pelo referido Banco, a realizar 56759168$70 por importações de divisas e 29240831$30 por incorporação de reservas e resultados acumulados transferíveis.
+Ministério das Finanças, 12 de Novembro de 1979. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.
