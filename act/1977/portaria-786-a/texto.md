@@ -1,0 +1,11 @@
+Portaria n.º 786-A/77
+de 23 de Dezembro
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Tesouro, em execução do disposto no n.º 2 do artigo 6.º do Decreto-Lei n.º 528/76, de 7 de Julho, que nas ponderações previstas no artigo 3.º do mesmo diploma legal se adoptem as normas seguintes:
+1.º Às cotações máxima e mínima de cada ano civil aplicar-se-á geralmente igual peso para o cálculo das cotações médias, nos termos do n.º 1 do artigo 3.º do Decreto-Lei n.º 528/76;
+2.º Sempre que no período compreendido entre 1 de Janeiro de 1964 e 24 de Abril de 1974 o valor nominal das acções haja sofrido alteração, serão introduzidas no cálculo adequadas ponderações, em ordem a que todos os termos da sucessão cronológica das cotações fiquem referidos a uma acção do valor nominal vigente em 24 de Abril de 1974;
+3.º Nos casos em que se verifique a hipótese contemplada no n.º 2 do artigo 3.º do mesmo decreto-lei, a média resultante das cotações será ajustada por recurso à fórmula:
+(ver documento original)
+4.º Os índices do INE sobre que incidirão os cálculos conducentes à determinação dos factores de correcção estabelecidos no número anterior serão, em cada caso concreto, os respeitantes ao sector de actividade da empresa de cujas acções se pretenda determinar o valor. Para o ano de 1964 tomar-se-á, com generalidade, a média do 4.º trimestre, base do mais recente índice do INE.
+5.º Quanto às empresas que hajam resultado de fusão operada entre 1 de Janeiro de 1964 e 24 de Abril de 1974, a falta de valores de cotação das respectivas acções para cada um dos anos anteriores àquele em que se operou a fusão será suprida pela média aritmética ponderada das cotações das empresas envolvidas, usando como pesos as percentagens dos respectivos capitais estatutários na data da fusão, no total dos mesmos capitais.
+6.º Se, em caso de fusão, se verificarem cumulativamente as situações previstas no n.º 2 do artigo 3.º do Decreto-Lei n.º 528/76 e na primeira parte do n.º 1 do artigo 4.º do mesmo diploma, o disposto no número anterior desta portaria combinar-se-á em termos adequados com as normas descritas para as mesmas situações.
+Ministério das Finanças, 23 de Dezembro de 1977. - O Secretário de Estado do Tesouro, Maria Manuela Matos Morgado Santiago Baptista.
