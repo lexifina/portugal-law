@@ -1,0 +1,6 @@
+Resolução do Conselho de Ministros
+Por resolução do Conselho de Ministros de 19 de Dezembro último, o Governo decidiu considerar liberto de quaisquer restrições o acesso a cofres de aluguer por parte dos respectivos locatários, devendo, contudo, no caso de existirem barras de ouro entre as verbas depositadas em cofre, o locatário optar ou pela sua manutenção em cofre ou pela sua venda através de uma instituição de crédito.
+Constatando-se a necessidade de uma caracterização mais completa do condicionalismo referido e a conveniência da sua adaptação aos objectivos prosseguidos, o Conselho de Ministros, reunido em 12 de Maio de 1976, decide, para cumprimento pelas instituições de crédito, o seguinte:
+a) Sempre que o locatário, sendo de nacionalidade estrangeira, beneficie de estatuto diplomático, considera-se liberto de todas e quaisquer restrições a acesso a cofres de aluguer existentes em seu nome;
+b) No que respeita a outros cidadãos de nacionalidade estrangeira, serão decididos caso a caso pela Secretaria de Estado do Tesouro os pedidos que venham a ser formulados quanto ao levantamento de barras de ouro guardadas em seu nome nos cofres de aluguer de instituições de crédito.
+Presidência do Conselho de Ministros, 12 de Maio de 1976. - O Primeiro-Ministro, José Baptista Pinheiro de Azevedo.
