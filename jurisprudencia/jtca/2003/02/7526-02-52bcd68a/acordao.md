@@ -1,0 +1,29 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2003-02-04, processo 7526/02
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 7526/02
+
+**Secção:** Contencioso Tributário
+
+**Data do Acordão:** 02/04/2003
+
+**Relator:** Francisco Rothes
+
+**Descritores:** IRS 1997 - BENEFÍCIOS FISCAIS; REGIME DAS PESSOAS COM DEFICIÊNCIA; CRITÉRIO LEGAL DE DETERMINAÇÃO DA INCAPACIDADE; REGIME DO DL N.º 202/96, DE 23/10; APLICAÇÃO DA LEI NO TEMPO
+
+**Aditamento:** 1
+
+## Sumário
+
+I - Antes da entrada em vigor do DL n.º 202/96, de 23 de Outubro, a lei não previa o regime de avaliação de incapacidade das pessoas com deficiência para efeitos de acesso às medidas e benefícios previstos na lei, designadamente na lei fiscal, motivo por que era prática corrente o recurso à Tabela Nacional de Incapacidades (TNI), aprovada pelo DL n.º 341/93, se bem que esta esteja perspectivada para a avaliação do dano em vítimas de acidentes de trabalho e doenças profissionais.
+
+II - O DL n.º 202/96, que veio regular o regime de avaliação de incapacidade das pessoas com deficiência para efeitos de aceder às medidas e benefícios previstos na lei, designadamente aos benefícios fiscais, trouxe uma inovação quanto aos critérios a observar na determinação do valor final da incapacidade que assumiu grande repercussão prática: apenas dá relevância à disfunção residual verificada após a melhor correcção ou atenuação, ou seja, afastou a consideração de quaisquer limites na determinação da incapacidade sempre que a disfunção possa ser atenuada ou compensada, ao contrário do que sucede na TNI, em que a redução da incapacidade, no caso de substituição, no todo ou em parte, através de prótese, pode ser reduzida, mas não em limite superior a 15% (cfr. alínea c) do n.º 5 das Instruções Gerais da TNI e alínea e) do n.º 5 das Instruções Gerais que constituem o Anexo I ao DL n.º 202/96).
+
+III - A situação pessoal dos sujeitos relevante para efeitos de tributação em IRS é aquela que se verificar no último dia do ano a que o imposto respeite (art. 14.º, n.º 7, do CIRS).
+
+IV - A incapacidade relevada pela lei fiscal como pressuposto dos benefícios a conceder aos sujeitos passivos de IRS integra essa situação pessoal, motivo por que os critérios técnico-legais de avaliação daquela incapacidade são os que vigorarem no último dia do ano a que respeita o imposto.
+
+V - Assim, para efeitos da concessão de benefícios fiscais a pessoas com deficiência relativamente ao ano de 1996 e seguintes não releva a avaliação da incapacidade efectuada com base em critérios anteriores aos do DL n.º 202/96, que entrou em vigor em 30 de Novembro de 1996, motivo por que, em relação àqueles anos, não pode servir de comprovativo do grau de incapacidade produzido pela deficiência o atestado emitido com base nesses critérios.
+
+VI - Pode, pois, a Administração tributária, no exercício dos poderes de fiscalização que lhe incumbem (arts. 119.º, n.º 1, e 124.º, n.º 1, alínea c), do CIRS e 6.º do EBF), exigir que o sujeito passivo que se declarou como pessoa com deficiência igual ou superior a 60% na declaração de rendimentos do ano de 1996 ou seguintes, exiba atestado comprovativo emitido nos termos do DL n.º 202/96.
