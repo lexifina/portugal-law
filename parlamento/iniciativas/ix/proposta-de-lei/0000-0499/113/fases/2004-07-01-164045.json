@@ -1,0 +1,518 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "113",
+    "id": "20144",
+    "titulo": "Estabelece o regime e os princípios da acção do Estado no quadro do fomento, desenvolvimento e protecção das artes e actividades cinematográficas e do audiovisual."
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2004-07-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3240",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2004-07-01",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-07-01",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1975",
+                "nome": "Alda Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150290",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5559-5560"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-07-02",
+                "pubLeg": "IX",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/103/2004-07-02/5559?pgs=5559-5560&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime e os princípios da acção do Estado no quadro do fomento, desenvolvimento e protecção das artes e actividades cinematográficas e do audiovisual",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1278",
+                "nome": "Augusto Santos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150298",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5560-5561"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-07-02",
+                "pubLeg": "IX",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/103/2004-07-02/5560?pgs=5560-5561&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime e os princípios da acção do Estado no quadro do fomento, desenvolvimento e protecção das artes e actividades cinematográficas e do audiovisual",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1890",
+                "nome": "Cristina Granada"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150299",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5560-5561"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-07-02",
+                "pubLeg": "IX",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/103/2004-07-02/5560?pgs=5560-5561&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime e os princípios da acção do Estado no quadro do fomento, desenvolvimento e protecção das artes e actividades cinematográficas e do audiovisual",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1969",
+                "nome": "Manuela Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150300",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5560-5561"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-07-02",
+                "pubLeg": "IX",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/103/2004-07-02/5560?pgs=5560-5561&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime e os princípios da acção do Estado no quadro do fomento, desenvolvimento e protecção das artes e actividades cinematográficas e do audiovisual",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1403",
+                "nome": "Ana Benavente"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150301",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5560-5561"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-07-02",
+                "pubLeg": "IX",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/103/2004-07-02/5560?pgs=5560-5561&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime e os princípios da acção do Estado no quadro do fomento, desenvolvimento e protecção das artes e actividades cinematográficas e do audiovisual",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "728",
+                "nome": "Rosalina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150302",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5560-5561"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-07-02",
+                "pubLeg": "IX",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/103/2004-07-02/5560?pgs=5560-5561&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime e os princípios da acção do Estado no quadro do fomento, desenvolvimento e protecção das artes e actividades cinematográficas e do audiovisual",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "152",
+                "nome": "António Braga"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150303",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5560-5561"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-07-02",
+                "pubLeg": "IX",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/103/2004-07-02/5560?pgs=5560-5561&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime e os princípios da acção do Estado no quadro do fomento, desenvolvimento e protecção das artes e actividades cinematográficas e do audiovisual",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "155",
+                "nome": "António José Seguro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150304",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5560-5561"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-07-02",
+                "pubLeg": "IX",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/103/2004-07-02/5560?pgs=5560-5561&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime e os princípios da acção do Estado no quadro do fomento, desenvolvimento e protecção das artes e actividades cinematográficas e do audiovisual",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2256",
+                "nome": "Fernando Cabral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150305",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5560-5561"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-07-02",
+                "pubLeg": "IX",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/103/2004-07-02/5560?pgs=5560-5561&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime e os princípios da acção do Estado no quadro do fomento, desenvolvimento e protecção das artes e actividades cinematográficas e do audiovisual",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Texto final apresentado pela Comissão de Educação, Ciência e Cultura",
+    "OevId": "164045",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3240",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-07-02",
+        "pubLeg": "IX",
+        "pubNr": "103",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/103/2004-07-02?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2004-07-01",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "32368",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "103",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
