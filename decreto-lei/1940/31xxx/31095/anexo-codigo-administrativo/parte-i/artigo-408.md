@@ -12,7 +12,7 @@
 
 5.º Conceder passaportes nos termos das leis e regulamentos, visar os que para êsse fim lhe forem apresentados, depois de informados pela secretaria, e tomar providências para obstar à emigração clandestina;
 
-6.º Providenciar sôbre lotarias e rifas autorizadas pelo Govêrno, casas públicas de jôgo, hotéis, hospedarias, estalagens, pensões, botequins e semelhantes;
+6.º (Revogado);
 
 7.º Providenciar sôbre músicos ambulantes e filarmónicas, fogueiras e fogos de artifício;
 
