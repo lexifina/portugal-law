@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que o Governo da Serra Leoa informou o secretário-geral das Nações Unidas de que, na aplicação do Acordo relativo à herança dos direitos e obrigações internacionais por parte do Governo daquele país, concluído em 5 de Maio de 1961, entre a Serra Leoa e o Reino Unido da Grã-Bretanha e da Irlanda do Norte, o Governo da Serra Leoa considera-se vinculado pela Convenção internacional para facilitar a importação de amostras comerciais e material publicitário, assinada em Genebra, em 7 de Novembro de 1952.
+Direcção-Geral dos Negócios Económicos e Consulares, 31 de Maio de 1962. - O Director-Geral Adjunto, Armando Ramos de Paula Coelho.
