@@ -1,0 +1,13 @@
+Decreto-Lei n.º 44259
+Em cumprimento do disposto no artigo 7.º do Decreto-Lei n.º 44016, de 8 de Novembro de 1961;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Qualquer pessoa que num dos territórios nacionais forneça ou faça fornecer falsas declarações para a emissão dos certificados de origem a que se refere o artigo 15.º do Decreto n.º 44260, de 31 de Março de 1962, ou emita esses certificados com dados falsos ou inexactos, de forma que venham ou possam vir a ser atribuídos os benefícios da origem nacional a mercadorias que a eles não teriam direito, fica sujeita às disposições da Legislação do contencioso aduaneiro do território em que tiver sido emitido o certificado, relativas à transgressão fiscal e ao descaminho.
+§ único. Quando haja estatuto ou disposições disciplinares aplicáveis ao funcionário responsável pela emissão de um certificado de origem com dados falsos ou inexactos, se não se provar que houve má fé ou dolo, mas simples negligência, esse funcionário apenas ficará sujeito a sanções disciplinares.
+Art. 2.º Na província de Macau terão competência para conhecer das infracções mencionadas no corpo do artigo anterior os tribunais ordinários.
+Art. 3.º Quando tiver de ser dado conhecimento às autoridades competentes de quaisquer factos que se julgue constituírem infracção nos termos do artigo 1.º, a respectiva participação será, para todos os fins legais, feita pelo funcionário que tiver averiguado tais factos.
+Art. 4.º A dispensa de prova de origem, nos termos dos §§ 1.º a 4.º do artigo 15.º do Decreto n.º 44260, não impede a aplicação de sanções por declarações falsas ou inexactas, nos termos do disposto no artigo 1.º
+Art. 5.º As multas aplicáveis em resultado do disposto no artigo 1.º serão calculadas com base na soma dos direitos que nos territórios exportador e importador seriam devidos.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 31 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Augusto Dias Rosas.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - A. Moreira.
