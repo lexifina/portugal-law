@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério das Obras Públicas, Transportes e Comunicações, a Portaria n.º 542/88, publicada no Diário da República, 1.ª série, n.º 185, de 11 de Agosto de 1988, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No anexo I, na área funcional relativa ao pessoal técnico superior, onde se lê «estatística e informática; consultadoria jurídica» deve ler-se «estatística e informática, relações externas; documentação; tradução; consultadoria jurídica», e na área funcional relativa ao pessoal técnico, onde se lê «estatística e informática», deve ler-se «estatística e informática; relações externas; documentação; tradução».
+Secretaria-Geral da Presidência do Conselho de Ministros, 12 de Setembro de 1988. - O Secretário-Geral, França Martins.
