@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 5.º do Decreto-Lei n.º 48059, de 23 de Novembro de 1967, delego no secretário-geral da Presidência do Conselho a competência prevista no artigo 6.º do Decreto n.º 22470, de 11 de Abril de 1933, para ordenar e assinar as rectificações relativas aos diplomas publicados no Diário do Governo, 1.ª série, quando as divergências existentes entre o texto original e o publicado consistam em simples erros materiais ou ainda quando se trata de erros de escrita ou de cálculo do próprio texto original e que resultem do seu próprio contexto.
+Presidência do Conselho de Ministros, 15 de Janeiro de 1976. - O Primeiro-Ministro, José Baptista Pinheiro de Azevedo.
