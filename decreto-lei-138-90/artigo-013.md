@@ -1,5 +1,5 @@
 # Artigo 13.º
 
-### Distribuição do produto das coimas
+### Destino do montante das coimas
 
-O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
+Do montante das coimas aplicadas pelas contra-ordenações previstas neste diploma serão destinados 40% para a Inspecção-Geral das Actividades Económicas, revertendo o restante para o Estado.

@@ -13,5 +13,3 @@ c) «Género alimentício ou produto não alimentar pré-embalado» um género o
 d) «Preço de venda» um preço válido para uma determinada quantidade do género alimentício ou do produto não alimentar;
 
 e) «Preço por unidade de medida» o preço válido para uma quantidade de 1 kg ou de 1 l de género alimentício e de 1 kg, 1 l, 1 m, 1 m2, 1 m3 ou 1 t de produto não alimentar.
-
-f) «Preço mais baixo anteriormente praticado», o preço mais baixo a que o produto foi vendido nos últimos 30 dias consecutivos anteriores à aplicação da redução do preço.

@@ -2,7 +2,7 @@
 
 ### Indicação do preço dos serviços
 
-1 - Os preços de toda a prestação de serviços, seja qual for a sua natureza, devem constar de listas ou cartazes afixados, de forma visível, no lugar onde os serviços são propostos ou prestados ao consumidor, sendo aplicável o n.º 6 do artigo 1.º
+1 - Os preços de toda a prestação de serviços, seja qual for a sua natureza, devem constar de listas ou cartazes afixados, de forma visível, no lugar onde os serviços são propostos ou prestados ao consumidor, sendo aplicável o n.º 5 do artigo 1.º
 
 2 - Sempre que sejam numerosos os serviços propostos e existam condições muito diversas que não permitam uma afixação de preços perfeitamente clara, este documento pode ser substituído por um catálogo completo, restringindo-se neste caso a obrigação de afixação em cartaz prevista no número anterior à informação de que tal catálogo se encontra à disposição do público.
 

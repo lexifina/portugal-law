@@ -14,7 +14,7 @@ d) Aos géneros alimentícios vendidos nos locais de produção agrícola;
 
 e) Aos produtos não alimentares vendidos em hasta pública, bem como à venda de objectos de arte e antiguidades.
 
-2 - A indicação do preço por unidade de medida a que se refere o n.º 3 do artigo 1.º não é aplicável:
+2 - A indicação do preço por unidade de medida a que se refere o n.º 2 do artigo 1.º não é aplicável:
 
 a) Aos géneros alimentícios e produtos não alimentares comercializados através de distribuidor automático;
 
