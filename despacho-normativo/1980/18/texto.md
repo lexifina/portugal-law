@@ -1,0 +1,4 @@
+Despacho Normativo n.º 18/80
+1 - Delego no Dr. Carlos Martins Robalo o despacho dos assuntos correntes compreendidos no âmbito das atribuições da Secretaria de Estado da Administração Pública, incluindo a intervenção na elaboração de diplomas que impliquem alterações na estrutura orgânica ou nos quadros de pessoal dos serviços dos diferentes Ministérios e, bem assim, nas negociações salariais da função pública.
+2 - A delegação a que se refere o presente despacho entende-se feita sem prejuízo dos poderes de avocação, superintendência e revogação e, bem assim, no pressuposto de que será objecto de acerto prévio com o Ministro a orientação a dar aos casos tecnicamente controversos ou politicamente melindrosos.
+Presidência do Conselho de Ministros, 10 de Janeiro de 1980. - O Vice-Primeiro-Ministro, Diogo Pinto de Freitas do Amaral.
