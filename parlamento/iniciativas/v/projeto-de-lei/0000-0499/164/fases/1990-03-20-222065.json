@@ -1,0 +1,1012 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "164",
+    "id": "28943",
+    "titulo": "Criação do promotor ecológico com vista à defesa da vida e do meio ambiente"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1990-03-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "19738",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1990-03-20",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1990-03-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346225",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1927-1928"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1927?pgs=1927-1928&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346226",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1928-1928"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1928?pgs=1928&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346227",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1928-1928"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1928?pgs=1928&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346228",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1929-1929"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1929?pgs=1929&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346229",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1929-1929"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1929?pgs=1929&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346230",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1929-1930"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1929?pgs=1929-1930&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346231",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1930-1931"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1930?pgs=1930-1931&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346232",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1931-1933"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1931?pgs=1931-1933&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346233",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1933-1933"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1933?pgs=1933&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346234",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1933-1935"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1933?pgs=1933-1935&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346235",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1935-1935"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1935?pgs=1935&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1935-1936"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1935?pgs=1935-1936&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346237",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1936-1936"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1936?pgs=1936&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346238",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1937-1938"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1937?pgs=1937-1938&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346239",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1938-1939"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1938?pgs=1938-1939&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346240",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1939-1939"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1939?pgs=1939&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346241",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1939-1940"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1939?pgs=1939-1940&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346242",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1940-1940"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1940?pgs=1940&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346243",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1940-1940"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1940?pgs=1940&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346244",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1940-1942"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1940?pgs=1940-1942&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346245",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1942-1943"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1942?pgs=1942-1943&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346246",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1943-1943"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-03-21",
+                "pubLeg": "V",
+                "pubNr": "54",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1943?pgs=1943&org=PLC"
+              }
+            ],
+            "sumario": "Criação do cargo de promotor ecológico, com vista à defesa da vida e do meio ambiente",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "222065",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "27230",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1927-1943"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1990-03-21",
+        "pubLeg": "V",
+        "pubNr": "54",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/054/1990-03-21/1927?pgs=1927-1943&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
