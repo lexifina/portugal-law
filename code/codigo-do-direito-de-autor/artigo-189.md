@@ -1,12 +1,12 @@
 # Artigo 189.º
 
-### (Utilizações livres)
+### Utilizações livres
 
 1 - A protecção concedida neste título não abrange:
 
 a) O uso privado;
 
-b) Os excertos de uma prestação, um fonograma, um videograma ou uma emissão de radiodifusão, contanto que o recurso a esses excertos se justifique por propósito de informação ou crítica ou qualquer outro dos que autorizam as citações ou resumos referidos na alínea f) do artigo 75.º;
+b) Os excertos de uma prestação, um fonograma, um videograma ou uma emissão de radiodifusão, contanto que o recurso a esses excertos se justifique por propósito de informação ou crítica ou qualquer outro dos que autorizam as citações ou resumos referidos na alínea g) do n.º 2 do artigo 75.º;
 
 c) A utilização destinada a fins exclusivamente científicos ou pedagógicos;
 
@@ -17,3 +17,5 @@ e) As fixações ou reproduções realizadas por entes públicos ou concessioná
 f) Os demais casos em que a utilização da obra é licita sem o consentimento do autor.
 
 2 - A protecção outorgada neste capítulo ao artista não abrange a prestação decorrente do exercício de dever funcional ou de contrato de trabalho.
+
+3 - As limitações e excepções que recaem sobre o direito de autor são aplicáveis aos direitos conexos, em tudo o que for compatível com a natureza destes direitos.
