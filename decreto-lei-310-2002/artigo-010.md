@@ -1,19 +1,3 @@
-## Capítulo II
-
-## Licenciamento do exercício da actividade de guarda-nocturno
-
-## Secção i
-
-## Disposições gerais
-
-## Secção ii
-
-## Actividade
-
-## Secção III
-
-## Registo, lista e cartão identificativo de guarda-nocturno
-
 ## Capítulo III
 
 ## Licenciamento do exercício da actividade de vendedor ambulante de lotarias

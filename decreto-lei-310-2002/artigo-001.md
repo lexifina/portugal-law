@@ -6,9 +6,9 @@
 
 ### Âmbito
 
-O presente diploma regula o regime jurídico de acesso, exercício e fiscalização das seguintes atividades:
+O presente diploma regula o regime jurídico do licenciamento do exercício e da fiscalização das seguintes actividades:
 
-a) Revogada;
+a) Guarda-nocturno;
 
 b) Venda ambulante de lotarias;
 
@@ -24,4 +24,4 @@ g) Venda de bilhetes para espectáculos ou divertimentos públicos em agências 
 
 h) Realização de fogueiras e queimadas;
 
-i) (Revogada.)
+i) Realização de leilões.

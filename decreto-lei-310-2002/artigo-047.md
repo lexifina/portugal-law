@@ -26,13 +26,13 @@ h) A realização, sem licença, das actividades referidas no artigo 29.º, puni
 
 i) A realização, sem licença, das actividades previstas no artigo 30.º, punida com coima de (euro) 150 a (euro) 220;
 
-j) (Revogada.)
+j) A venda de bilhetes para espectáculos públicos sem licença, punida com coima de (euro) 120 a (euro) 250;
 
-k) A violação de qualquer dos requisitos constantes do artigo 38.º, punida com coima de (euro) 60 a (euro) 250;
+k) A venda de bilhetes por preço superior ao permitido ou fora dos locais autorizados, punida com coima de (euro) 60 a (euro) 250;
 
 l) A realização, sem licença, das actividades previstas nos artigos 39.º e 40.º, punida com coima de (euro) 30 a (euro) 1000, quando da actividade proibida resulte perigo de incêndio, e de (euro) 30 a (euro) 270, nos demais casos;
 
-m) (Revogada.)
+m) A realização de leilões sem licença, punida com coima de (euro) 200 a (euro) 500;
 
 n) O não cumprimento dos deveres resultantes do capítulo XI, punida com coima de (euro) 80 a (euro) 250.
 
