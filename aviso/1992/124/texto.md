@@ -1,0 +1,5 @@
+Aviso n.º 124/92
+Por ordem superior se torna público que, por nota de 1 de Julho de 1992, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou que a República do Kirghizstão, por nota de 17 de Abril de 1992, recebida no Ministério dos Negócios Estrangeiros do Reino dos Países Baixos em 4 de Junho de 1992, como um dos sucessores da antiga URSS, declarou que se considera parte nas Convenções para a Solução Pacífica dos Conflitos Internacionais, concluídas na Haia em 29 de Julho de 1899 e em 18 de Outubro de 1907.
+Portugal é parte nas mesmas Convenções, concluídas no âmbito das Conferências Internacionais de Paz, tendo depositado os seus instrumentos de ratificação respectivamente em 4 de Setembro de 1900 e em 13 de Abril de 1911, conforme Diário do Governo, n.os 234, de 16 de Outubro de 1900, e 104, de 5 de Maio de 1911.
+Os textos das Convenções vêm publicados respectivamente no Diário do Governo, n.os 234, de 16 de Outubro de 1900, e 49, de 2 de Março de 1911.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 24 de Julho de 1992. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
