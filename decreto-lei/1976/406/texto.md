@@ -1,0 +1,15 @@
+Decreto-Lei n.º 406/76
+de 27 de Maio
+Atendendo ao que representou a maioria absoluta dos eleitores com residência habitual no lugar de Canelas, pertencente à freguesia de Poiares, do concelho de Peso da Régua, no sentido de ser criada a freguesia de Canelas, com sede na povoação do mesmo nome;
+Considerando que na área da circunscrição a criar já existem os equipamentos colectivos necessários à organização da vida das populações envolvidas;
+Considerando o parecer favorável do Município de Peso da Régua, da junta distrital e do governador civil do distrito de Vila Real;
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É criada no concelho de Peso da Régua a freguesia de Canelas, com sede na povoação do mesmo nome.
+Art. 2.º A freguesia de Canelas é classificada de 2.ª ordem.
+Art. 3.º As confrontações da nova freguesia são as seguintes: ao norte, os limites são definidos por uma linha que, partindo do lugar denominado Fundo de Vila, limite da propriedade da Casa Grande, segue em direcção ao termo de Poiares, onde se situa o marco divisório entre Poiares e Canelas, passando pelo caminho vicinal chamado da Lusância e continuando depois pelo caminho da mata da Casa Grande, em direcção à Fonte do Milho, até encontrar o limite da freguesia de Covelinhas.
+Art. 4.º A freguesia ora criada fica sujeita ao regime de tutela instituído para a generalidade das freguesias do País, enquanto esse regime vigorar.
+Art. 5.º A Comissão Administrativa do Município de Peso da Régua procederá, no prazo de noventa dias, a contar da publicação do presente decreto-lei, à colocação de marcos onde se tornem necessários, por forma que fiquem bem patentes os limites fixados no artigo 3.º
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa.
+Promulgado em 17 de Maio de 1976.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
