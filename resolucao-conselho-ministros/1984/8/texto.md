@@ -1,0 +1,13 @@
+Resolução do Conselho de Ministros n.º 8/84
+Considerando que a adopção de medidas e política de emprego e de regime relativas à função pública deve alicerçar-se num conhecimento objectivo dos seus recursos humanos, situação que só será viável quando estiver em funcionamento o Sistema de Informação para Gestão de Pessoal da Função Pública - SIGEP;
+Considerando que, não obstante terem sido já iniciadas experiências piloto nalguns departamentos ministeriais, designadamente no Ministério do Trabalho e Segurança Social e na Secretaria de Estado da Administração Pública, se trata de tarefa extremamente complexa e morosa, que envolve alterações do sistema de funcionamento administrativo e dos respectivos circuitos e necessidades de informatização dos serviços e organismos públicos;
+Considerando que os últimos dados desta natureza de que se dispõe datam de 1979, pelo que urge obter uma base de informação mais actualizada que permita não só conhecer a evolução da função pública como introduzir correcções nas medidas entretanto aprovadas com vista a implementar uma política de emprego público;
+Considerando que os dados que interessa recolher são do conhecimento directo de cada serviço ou organismo público, sendo, na sua maior parte, utilizados na elaboração das listas de antiguidade do respectivo pessoal, operação administrativa que, por imperativo legal, deverá ser executada até final de Março de cada ano;
+Considerando que importa, por isso, aproveitar o prazo de execução dessa operação para promover o lançamento de um novo inquérito aos recursos humanos da função pública, comprometendo no mesmo todos os serviços e organismos públicos:
+O Conselho de Ministros, reunido em 17 de Janeiro de 1984, aprovou a seguinte resolução:
+1 - A Secretaria de Estado da Administração Pública promoverá, através da Direcção-Geral de Emprego e Formação da Administração Pública (DGEFAP), a realização de um inquérito aos recursos humanos da Administração, reportado à situação existente em 31 de Dezembro de 1983.
+2 - Esse inquérito deverá ser lançado em Fevereiro e Março do corrente ano.
+3 - Cada serviço ou organismo público deverá fornecer os elementos relativos a todos os funcionários, agentes e tarefeiros em actividade junto dos mesmos em 31 de Dezembro de 1983.
+4 - As respostas deverão ser enviadas à DGEFAP até 31 de Maio de 1984.
+5 - Os dirigentes dos serviços e organismos públicos abrangidos pelo inquérito ficam obrigados ao exacto cumprimento da presente resolução, designadamente quanto aos prazos nela estabelecidos.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Mário Soares.
