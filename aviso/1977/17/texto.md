@@ -1,0 +1,7 @@
+Aviso n.º 17
+O Banco de Portugal, sob orientação superior do Ministro das Finanças, em conformidade com a competência que, como banco central, lhe foi atribuída pelos artigos 16.º e 26.º da sua Lei Orgânica, em regulamentação do previsto no artigo 28.º, alínea b), dessa mesma lei, determina o seguinte:
+1.º As operações de crédito aprovadas ao abrigo dos regimes estabelecidos nas alíneas c), i) e j) do artigo 4.º do Decreto-Lei n.º 124/77, de 1 de Abril, são susceptíveis de beneficiar das deduções de juros previstas no n.º 1.º do Aviso n.º 12, publicado no suplemento ao Diário da República, 1.ª série, n.º 199, de 29 de Agosto de 1977.
+2.º Por regra, a dedução é função do grau de viabilidade atribuída a cada empresa e será fixada sob proposta da Comissão de Apreciação dos Contratos de Viabilização.
+3.º O Banco de Portugal atribuirá, caso a caso, às instituições de crédito intervenientes subsídios correspondentes às deduções processadas nos termos do artigo anterior, mediante a apresentação de documentos comprovativos das operações.
+4.º O disposto nesta determinação do Banco de Portugal aplica-se a partir de 1 de Novembro de 1977 e vigorará até ao final do corrente ano, prevendo-se, nessa data, a respectiva revisão, tendo, designadamente, em conta as potencialidades do Fundo de Compensação, regulado pela Portaria n.º 275/77, de 20 de Maio.
+Ministério das Finanças, 13 de Outubro de 1977. - O Secretário de Estado do Tesouro, Maria Manuela Matos Morgado Santiago Baptista.
