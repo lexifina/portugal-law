@@ -1,7 +1,5 @@
 # Artigo 485.º
 
-### Só podem ser admitidos aos concursos de habilitação para promoção:
-
 Só podem ser admitidos aos concursos de habilitação para promoção:
 
 1.º Tratando-se de promoção à 2.ª ou 1.ª classe da 2.ª categoria, os funcionários do quadro geral dos serviços externos e do quadro interno da Direcção Geral de Administração Política e Civil pertencentes às classes imediatamente inferiores que tenham dois anos, pelo menos, de bom e efectivo serviço na sua classe;

@@ -1,6 +1,6 @@
 # Artigo 479.º
 
-Os oficiais do quadro interno da Direcção-Geral de Administração Política e Civil poderão transitar para o quadro geral dos serviços externos independentemente de concurso de habilitação, mediante o provimento em cargos correspondentes à sua classe ou àquela para que tenham sido aprovados em concurso de habilitação para promoção dentro do quadro interno.
+Os funcionários do quadro geral administrativo dos serviços externos da Direcção-Geral podem ser providos em lugares do quadro único da Secretaria-Geral do Ministério do Interior e da mesma Direcção-Geral nas condições para o efeito estabelecidas na Lei Orgânica destes departamentos.
 
 § 1.º Para o efeito do disposto neste artigo, os cargos de terceiro-oficial, segundo-oficial e primeiro-oficial consideram-se correspondentes, respectivamente, à 4.ª, 3.ª e 2.ª classe da 2.ª categoria do quadro geral dos serviços externos.
 

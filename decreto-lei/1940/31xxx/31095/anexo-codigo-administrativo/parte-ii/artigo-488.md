@@ -10,7 +10,7 @@ c) Os funcionários na situação de inactividade no quadro;
 
 d) Os funcionários reabilitados em revisão de processo;
 
-e) Os inspectores ou subinspectores administrativos com mais de cinco anos de serviço e que tenham sido aprovados no respectivo concurso de habilitação.
+e) (Revogada).
 
 § 1.º Sempre que o concurso fique deserto, abrir-se-á novo concurso, ao qual podem ser admitidos funcionários da mesma categoria e classe com dispensa do tempo mínimo de serviço no cargo que ocupem, os quais, no entanto, só poderão ser providos na falta de candidatos nas condições normais.
 
