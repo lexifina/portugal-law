@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1923/11/25000/13781378.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1923-11-24",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "45ed3d1736d407dde558ee37bada96430930a083171517c568d8bf3381373f3a",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.0,
+    "pages": 1,
+    "columns": [
+      9
+    ],
+    "pdf_sha256": "e84730dd15b7f0d0d8780317dcc323c57f96f3968689615b168d9db6883b8b53",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 201
 }
