@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros n.º 36/89
+A política macroeconómica definida para o triénio de 1989-1992 tem como principais finalidades acelerar o ritmo de modernização da economia e da sociedade portuguesas e preservar os equilíbrios macroeconómicos por forma a, entre outros objectivos, reduzir o peso do sector público no tecido empresarial português.
+Efectivamente, o Governo considera essencial a redefinição e o redimensionamento do actual sector público, no qual ainda se inserem, sem qualquer lógica, unidades de características muito diversificadas e cujo peso na economia é, reconhecidamente, exagerado. Significativo também é o peso das empresas total ou parcialmente detidas de forma directa ou indirecta pelo Estado.
+Entre outros factores, a análise de cada caso deve ponderar a previsível inserção e evolução do sector de actividade a que a empresa se dedica, dos mercados em que actua, dos obstáculos e dos constrangimentos com que se depara.
+Assim:
+Nos termos das alíneas d) e g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - As entidades detentoras de participações do sector público no capital de sociedades, sejam elas fundos autónomos, institutos públicos, instituições de previdência, empresas públicas ou sociedades de capitais exclusivamente públicos, elaborarão e apresentarão à respectiva tutela, até 30 de Novembro de 1989, o seu programa plurianual de desinvestimento em participações financeiras que detenham e que sejam maioritárias ou de valor superior a 500000$00.
+2 - A não inclusão, no referido programa, de participações cujo desinvestimento possa ser considerado contrário aos interesses económicos prosseguidos ou à estratégia da empresa deverá ser fundamentada.
+3 - Os programas de desinvestimento referidos no n.º 1 serão objecto de apreciação pelas tutelas respectivas e por estas remetidos ao Ministro das Finanças, acompanhados das respectivas apreciações.
+4 - O acompanhamento da execução dos programas de desenvolvimento será feito quadrimestralmente mediante relatório do Ministro das Finanças, a ser presente em Conselho de Ministros dos Assuntos Económicos.
+Presidência do Conselho de Ministros, 4 de Outubro de 1989. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
