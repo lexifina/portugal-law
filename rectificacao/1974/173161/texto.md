@@ -1,0 +1,4 @@
+Rectificação
+Tendo sido publicado com inexactidão no suplemento ao Diário do Governo, 1.ª série, n.º 296, de 21 de Dezembro, pelo Ministério da Economia, o Decreto-Lei n.º 687/73, determino que se façam as seguintes rectificações:
+No artigo 7.º, n.º 2, onde se lê: «É elevado para 10000000$00 o montante da multa a que se refere o artigo 46.º do decreto mencionado no número anterior, e é aumentada para 5000000$00 a importância da multa prevista no artigo 48.º do mesmo diploma», deve ler-se: «É elevado para 10000000$00 o montante da multa a que se refere o artigo 48.º do decreto mencionado no número anterior, e é aumentada para 1000000$00 a importância da multa prevista no artigo 47.º do mesmo diploma».
+Secretaria-Geral da Presidência do Conselho, 21 de Janeiro de 1974. - O Presidente do Conselho, Marcello Caetano.
