@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1950/11/24100/11071107.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1950-11-24",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "3aa887677fbea1ad5273b555f964f68e5cd644de66a8e9c1c9dc9a4576badc63",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.8,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "6038d7d4158bed1ec69d91e4be5312e03c2027871ee92c80d5b34b961479cecd",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 241
 }
