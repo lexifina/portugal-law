@@ -1,0 +1,55 @@
+# Acórdão do Supremo Tribunal Administrativo de 1990-03-08, processo 019538
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 019538
+
+**Data do Acordão:** 03/08/1990
+
+**Tribunal:** 1 SUBSECÇÃO DO CA
+
+**Relator:** CORREIA DE LIMA
+
+**Descritores:** VERIFICADOR DE ALFANDEGA; APOSENTADO; QUADRO ULTRAMARINO; TABELA DE EQUIVALENCIAS; ACTO ADMINISTRATIVO DEFINITIVO E EXECUTORIO; RECURSO CONTENCIOSO
+
+**Nº Convencional:** JSTA00026000
+
+**Nº do Documento:** SA119900308019538
+
+**Data de Entrada:** 08/29/1983
+
+**Recorrente:** SILVA , ANTONIO E OUTROS
+
+**Recorrido 1:** MINAI - SE DAS FINANÇAS E DA REFORMA ADMINISTRATIVA
+
+**Votação:** MAIORIA COM 1 VOT VENC
+
+**Ano da Publicação:** 90
+
+**Apêndice:** DR
+
+**Data do Apêndice:** 01/12/1995
+
+**1ª Pág. de Publicação do Acordão:** 1841
+
+**Privacidade:** 01
+
+**Meio Processual:** REC CONT.
+
+**Objecto:** PORT 430/83 DE 1983/04/14 N1.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM GER - FUNÇÃO PUBL APOSENTAÇÃO ESTATUTARIO PENSÕES. DIR ADM CONT - ACTO.
+
+**Área Temática 2:** DIR CONST - DIR FUND.
+
+**Legislação Nacional:** PORT 730/79 DE 1979/12/31.; PORT 430/83 DE 1983/04/14 N1 MAPA IV.; DL 110-A/81 DE 1981/05/14 ART71.; DL 110-A/81 DE 1981/05/14 NA REDACÇÃO DO DL 245/81 DE 1981/08/24 ART7-A N1 N2 ART7-B N1.; CADM40 ART815 CORPO PAR2.; RSTA57 ART55.; LPTA85 ART36 N1 D.; CPC67 ART684 N3.; ESTATUTO ORGANICO DAS ALFANDEGAS DO ULTRAMAR APROVADO PELO DL 43119 DE 1960/09/29 ART126 MAPA VIII ANEXO ART136 N3 ART142 PAR1.; DL 100/84 DE 1984/03/29 ART88.; PORT 298/77 DE 1977/05/27 ART1 ART7 N2.; DL 294/75 DE 1975/04/24.; PORT 26-S/80 DE 1980/01/09.; EFU56 ART91.; DL 252-A/82 DE 1982/06/28.; DL 46311 DE 1965/04/27 ART194 ART223 ART227.; DL 206/77 DE 1977/05/25.; DL 116/79 DE 1979/05/04.; PORT 101/79 DE 1979/03/02.; DL 191-C/79 DE 1979/06/25 ART8 N4.; PORT 427/83 DE 1983/04/13.; CONST89 ART13 N1 N2.
+
+**Jurisprudência Nacional:** AC STAP PROC13177 DE 1984/01/25.; AC STA DE 1989/02/02 IN AD N335 PAG1347.; AC STA PROC21989 DE 1985/10/15.; AC STA DE 1988/03/10 IN AD N326 PAG155.; AC STA DE 1983/03/05 IN AD N284-285 PAG966.; AC STA DE 1985/07/04 IN AD N295 PAG822.; AC STJ DE 1976/11/24 IN BMJ N261 PAG103.; AC STJ DE 1980/11/06 IN BMJ N263 PAG187.; AC STJ DE 1980/11/05 IN BMJ N301 PAG395.; AC STA DE 1983/01/13 IN AD N260 PAG61.; AC STAPLENO DE 1988/06/21 IN AD N327 PAG358.; Texto Integral
+
+## Sumário
+
+I - A Portaria n. 430/83, de 14/4, que aprovou a tabela de equivalencias a que se refere o seu mapa IV constitui acto definitivo e executorio, recorrivel contenciosamente.
+
+II - Aquela Portaria e aquele mapa não violam qualquer direito dos verificadores-chefes, aposentados, do quadro comum tecnico-aduaneiro do ex-Ultramar.
