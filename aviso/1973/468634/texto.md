@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que, segundo informação do Departamento Político Federal da Suíça, a República Democrática Alemã foi admitida, com efeito a partir de 1 de Junho de 1973, como país membro da União Postal Universal, em conformidade com o artigo 11, parágrafo 5, da Constituição daquela União.
+A admissão do referido Estado na União implica a sua participação na Constituição da União Postal Universal, concluída em Viena em 10 de Julho de 1964, bem como no Protocolo Adicional à mesma Constituição, no Regulamento Geral da U. P. U. e na Convenção Postal Universal, concluídos em Tóquio em 14 de Novembro de 1969.
+O Governo da República Democrática Alemã aderiu igualmente ao Acordo Relativo às Cartas e Caixas com Valor Declarado, bem como ao Acordo Referente às Encomendas Postais, também concluídos em Tóquio em 14 de Novembro de 1969.
+Direcção-Geral dos Negócios Económicos, 13 de Julho de 1973. - O Adjunto do Director-Geral, Luiz Alberto de Vasconcelos Gois Fernandes Figueira.
