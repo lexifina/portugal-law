@@ -2,9 +2,9 @@
 
 ### Direitos
 
-1 - Os eleitos locais têm direito:
+1 - Os eleitos locais têm direito, nos termos definidos nas alíneas seguintes:
 
-a) A uma remuneração ou compensação mensal e a despesas de representação;
+a) A uma remuneração ou compensação mensal;
 
 b) A dois subsídios extraordinários anuais;
 
@@ -26,20 +26,18 @@ j) A viatura municipal, quando em serviço da autarquia;
 
 l) A protecção em caso de acidente;
 
-m) A solicitar o auxílio de quaisquer autoridades, sempre que o exijam os interesses da respectiva autarquia local;
+m) A contagem de tempo de serviço;
 
-n) À protecção conferida pela lei penal aos titulares de cargos públicos;
+n) A subsídio de reintegração;
 
-o) A apoio nos processos judiciais que tenham como causa o exercício das respectivas funções;
+o) A solicitar o auxílio de quaisquer autoridades, sempre que o exijam os interesses da respectiva autarquia local;
 
-p) A uso e porte de arma de defesa;
+p) À protecção conferida pela lei penal aos titulares de cargos públicos;
 
-q) Ao exercício de todos os direitos previstos na legislação sobre protecção à maternidade e à paternidade.
+q) A apoio nos processos judiciais que tenham como causa o exercício das respectivas funções;
 
-r) A subsídio de refeição, a abonar nos termos e quantitativos fixados para a Administração Pública.
+r) A uso e porte de arma de defesa.
 
-2 - Os direitos referidos nas alíneas a), b), f), p), q) e r) do número anterior apenas são concedidos aos eleitos em regime de permanência.
+2 - Os direitos referidos nas alíneas a), b), e), f), m), n) e r) do número anterior apenas são concedidos aos eleitos locais em regime de permanência.
 
-3 - O direito referido na alínea e) do n.º 1 apenas é concedido aos eleitos em regime de permanência ou em regime de meio tempo.
-
-4 - O direito referido na alínea h) do n.º 1 é exclusivo dos presidentes das câmaras municipais e dos seus substitutos legais.
+3 - O direito referido na alínea h) do n.º 1 é exclusivo dos presidentes das câmaras municipais e dos seus substitutos legais.
