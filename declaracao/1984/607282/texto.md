@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 3.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Administração Interna, a declaração de transferências de verbas publicada no Diário da República 1.ª série, n.º 94, de 21 de Abril de 1984, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Na divisão 21, subdivisão 01, onde se lê «8.02.3 - 38.03-2 - Comissão de Coordenação da Região do Norte - Receitas gerais correspondentes à participação portuguesa - 16708 contos» deve ler-se «8.02.1 - 38.03-2 - Comissão de Coordenação da Região do Norte - Receitas gerais correspondentes à participação portuguesa - 16708 contos».
+Secretaria-Geral da Presidência do Conselho de Ministros, 8 de Maio de 1984. - O Secretário-Geral, França Martins.
