@@ -1,6 +1,6 @@
 # Artigo 19.º
 
-### Limites etários do subsídio familiar a crianças e jovens
+### Limites etários do subsidio familiar a crianças e jovens
 
 1 - O subsídio familiar a crianças e jovens é concedido aos descendentes:
 
@@ -18,4 +18,4 @@ e) Até aos 24 anos, tratando-se de descendentes portadores de deficiência que 
 
 3 - Os limites etários fixados nas alíneas b) a d) do n.º 1 são alargados até três anos sempre que, mediante declaração médica, se verifique que os descendentes sofrem de doença ou foram vítimas de acidente que impossibilite o normal aproveitamento escolar.
 
-4 - O reconhecimento do direito à prestação depende da não existência de bolsas de estudo, subsídios de formação ou remunerações de estágio concedidos aos descendentes nas condições referidas nas alíneas b) a d) do n.º 1 ou em situação equiparada.
+4 - Caso os descendentes que se encontrem nas condições referidas nas alíneas b) a d) do n.º 1 ou em situação equiparada, recebam bolsas de estudo, subsídios de formação ou remuneração de estágio, o reconhecimento do direito à prestação depende de aqueles serem de valor inferior a dois terços da remuneração mínima mensal garantida à generalidade dos trabalhadores.
