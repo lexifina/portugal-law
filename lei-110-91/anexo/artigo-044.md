@@ -16,9 +16,9 @@ e) Deliberar sobre a criação de delegações ou outras formas de representaç�
 
 f) Elaborar o regulamento eleitoral;
 
-g) Deliberar sobre a inscrição dos médicos dentistas na APMD, no prazo máximo de 30 dias após a apresentação do seu requerimento, e deliberar sobre o reconhecimento da equivalência dos cursos, nos termos deste Estatuto e demais legislação aplicável;
+g) Elaborar o regulamento de estágio e de inscrição, deliberar sobre os pedidos de inscrição no prazo de 60 dias e deliberar sobre o reconhecimento da equivalência de cursos, nos termos deste Estatuto e demais legislação aplicável;
 
-h) Elaborar e aprovar o regulamento de atribuição dos títulos de especialidade;
+h) Deliberar sobre a criação de especialidades, elaborar e aprovar o regulamento de atribuição de títulos de especialidade e atribuir os respectivos títulos;
 
 i) Solicitar ao presidente da APMD os actos necessários ao patrocínio dos médicos dentistas ou para que a APMD se constitua assistente;
 
@@ -42,8 +42,10 @@ s) Fixar os subsídios de deslocação e as compensações de todos os membros d
 
 t) Reapreciar todas as suas deliberações enviadas pelo presidente da APMD e tomar nova posição sobre elas, se não mantiverem a anterior;
 
-u) Anular a inscrição a quem o requerer;
+u) Promover e acreditar acções de formação contínua, bem como definir os mínimos obrigatórios de frequência anual dos médicos dentistas;
 
-v) Deliberar sobre todos os assuntos que respeitem ao exercício da medicina dentária, aos interesses dos médicos dentistas e à gestão da APMD, que não estejam especialmente cometidos a outros órgãos, bem como exercer as demais atribuições que a lei e os regulamentos lhe confiram.
+v) Suspender e anular a inscrição nos termos estatutários;
+
+x) Deliberar sobre todos os assuntos que respeitem ao exercício da medicina dentária, aos interesses dos médicos dentistas e à gestão da APMD, que não estejam especialmente cometidos a outros órgãos, bem como exercer as demais atribuições que a lei e os regulamentos lhe confiram.
 
 2 - O conselho directivo pode cometer a algum dos seus membros qualquer das atribuições indicadas no número antecedente que, pela sua natureza, não seja incompatível com o exercício individual.

@@ -1,7 +1,5 @@
 # Artigo 97.º
 
-### Fundo de reserva
+### Despesas
 
-1 - O fundo de reserva é representado em dinheiro, depositado, e constituído por 20% do saldo anual das contas de gerência.
-
-2 - O fundo de reserva destina-se a fazer face a despesas extraordinárias da APMD.
+São despesas da APMD as de instalação, de pessoal, de manutenção, de funcionamento e as demais necessárias à prossecução de todos os seus objectivos.

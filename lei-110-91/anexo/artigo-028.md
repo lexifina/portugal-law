@@ -14,6 +14,6 @@ b) A discussão e aprovação de propostas de alteração do Estatuto, respeitad
 
 c) A discussão e aprovação de propostas de extinção da APMD, respeitado o estabelecido no artigo 8.º, n.º 2;
 
-d) A discussão e aprovação do código deontológico.
+d) A discussão e a aprovação do Código Deontológico e suas alterações;
 
 e) A eleição extraordinária em caso de vacatura de órgãos, nos termos deste Estatuto.

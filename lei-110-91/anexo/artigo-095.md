@@ -6,7 +6,7 @@
 
 ### Receitas
 
-São receitas da APMD:
+São receitas da OMD:
 
 a) As quotas, jóias e demais obrigações regulamentares dos associados;
 
@@ -14,4 +14,6 @@ b) Quaisquer subsídios ou donativos;
 
 c) Quaisquer doações, heranças ou legados;
 
-d) Outras receitas de serviços e bens próprios.
+d) As multas aplicadas nos termos estatutários;
+
+e) Outras receitas de serviços e bens próprios.

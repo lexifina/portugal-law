@@ -4,24 +4,24 @@
 
 # Artigo 10.º
 
-### Inscrição
+### Condições do direito de inscrição
 
-1 - Para o exercício da medicina dentária é obrigatória e inscrição na APMD.
+1 - A inscrição dependerá do cumprimento das obrigações de estágio tutelado pela OMD, definidas em regulamento elaborado pelo conselho directivo e que conterá:
 
-2 - Podem inscrever-se na APMD os médicos dentistas definidos no artigo 3.º, n.º 2:
+a) O conteúdo programático, a estipulação de um período máximo de duração de 12 meses, a calendarização e o regime de frequência obrigatória;
 
-a) A inscrição na APMD de médicos dentistas estrangeiros, licenciados no estrangeiro, está condicionada às necessidades de cobertura sanitária do País em médicos dentistas, ressalvadas as disposições de direito comunitário e demais acordos internacionais em vigor;
+b) A obrigatoriedade de aprovação em teste, escrito ou oral, a realizar no prazo máximo de dois meses, contado do fim do período de formação;
 
-b) Cabe à APMD a autorização para o exercício da medicina dentária e a emissão das cédulas profissionais dos médicos dentistas estrangeiros com licenciatura reconhecida e equiparada, de acordo com o artigo 3.º, n.º 2.
+c) A definição de critérios de eventual dispensa de estágio, respeitando a legislação da União Europeia em vigor e os compromissos internacionais assumidos pelo Estado Português;
 
-3 - A inscrição é requerida pelo interessado ao conselho directivo.
+d) Os regimes de colaboração entre a OMD e entidades terceiras, nomeadamente universitárias, visando a leccionação do estágio.
 
-4 - A condenação pela prática de exercício ilegal da profissão é, só por si, motivo para a recusa da inscrição nos cinco anos posteriores ao trânsito em julgado da respectiva decisão judicial.
+2 - Não pode ser inscrito:
 
-5 - Existindo indícios, julgados suficientes pelo conselho directivo, de exercício ilegal da profissão, sem que tenha sido proferida decisão judicial nos termos do número anterior, será a inscrição admitida a título provisório até que aquela seja proferida.
+a) Quem não possua idoneidade para o exercício da profissão;
 
-6 - Sendo proferida decisão absolutória será a inscrição convertida em definitiva; sendo proferida decisão condenatória aplicar-se-á o disposto no n.º 4.
+b) Quem não esteja no pleno gozo dos seus direitos civis;
 
-7 - Decorrido o prazo a que se refere o n.º 4, o médico dentista pode requerer de novo a sua inscrição, a qual poderá ser recusada ou admitida a título provisório, nos termos dos números anteriores, caso se verifiquem, após a primeira decisão, os mesmos fundamentos.
+c) Quem seja declarado incapaz de administrar a sua pessoa e bens, por sentença transitada em julgado.
 
-8 - A recusa de inscrição e a inscrição a título provisório devem ser fundamentadas e notificadas ao requerente.
+3 - A falta de idoneidade será declarada pelo conselho deontológico e da disciplina após audição do interessado.

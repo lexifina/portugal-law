@@ -1,7 +1,7 @@
 # Artigo 98.º
 
-### Fundo de comparticipação
+### Fundo de reserva
 
-1 - O fundo de comparticipação é representado em dinheiro, depositado, e constituído por uma percentagem do saldo anual das contas de gerência, a fixar anualmente pela assembleia geral.
+1 - O fundo de reserva é representado em dinheiro, depositado, e constituído por 20% do saldo anual das contas de gerência.
 
-2 - O fundo de comparticipação destina-se a cobrir, total ou parcialmente, eventuais saldos negativos da APMD.
+2 - O fundo de reserva destina-se a fazer face a despesas extraordinárias da APMD.

@@ -10,4 +10,4 @@
 
 4 - Compete aos secretários a elaboração das actas.
 
-5 - Compete ao tesoureiro a manutenção da escrita em dia.
+5 - Compete ao tesoureiro a manutenção da escrita em dia, bem como proceder às notificações a que se refere o artigo 96.º

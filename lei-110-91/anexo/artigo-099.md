@@ -1,5 +1,7 @@
 # Artigo 99.º
 
-### Encerramento das contas
+### Fundo de comparticipação
 
-As contas da APDM são encerradas em 31 de Dezembro de cada ano.
+1 - O fundo de comparticipação é representado em dinheiro, depositado, e constituído por uma percentagem do saldo anual das contas de gerência, a fixar anualmente pela assembleia geral.
+
+2 - O fundo de comparticipação destina-se a cobrir, total ou parcialmente, eventuais saldos negativos da APMD.
