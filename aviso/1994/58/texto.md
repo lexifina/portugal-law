@@ -1,0 +1,5 @@
+Aviso n.º 58/94
+Por ordem superior se torna público que, por nota de 18 de Junho de 1993 e nos termos do artigo 12.º do Segundo Protocolo Adicional à Convenção Europeia de Extradição, aberto à assinatura em Estrasburgo a 17 de Março de 1978, a Secretaria-Geral do Conselho da Europa notificou ter a Polónia ratificado o referido Protocolo em 15 de Junho de 1993.
+O Segundo Protocolo entrou em vigor para a Polónia em 13 de Setembro de 1993.
+Portugal é parte no mesmo Segundo Protocolo, que foi aprovado para ratificação pela Resolução da Assembleia da República n.º 23/89, de 21 de Agosto, que publica o texto em francês e a tradução para português, bem como a declaração e as reservas portuguesas. Portugal depositou o seu instrumento de ratificação, conforme aviso publicado no Diário da República, n.º 76, de 31 de Março de 1990, tendo o Segundo Protocolo entrado em vigor para Portugal em 23 de Abril de 1990.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 18 de Janeiro de 1994. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
