@@ -1,0 +1,723 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "560",
+    "id": "28512",
+    "titulo": "Conselho Económico e Social"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1991-03-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4293",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1991-03-19",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "29160",
+        "leg": "V",
+        "nr": "157",
+        "sel": "3",
+        "tipo": "P",
+        "titulo": "Regula a organização e funcionamento do Conselho Económico e Social"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1991-03-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO PLANEAMENTO E ADMINISTRAÇÃO DO TERRITÓRIO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Valente De Oliveira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159488",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1813-1817",
+                  "1820-1821"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-20",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/056/1991-03-20/1813?pgs=1813-1817,1820-1821&org=PLC"
+              }
+            ],
+            "sumario": "Regula a organização e funcionamento do Conselho Económico e Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159489",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1817-1818"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-20",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/056/1991-03-20/1817?pgs=1817-1818&org=PLC"
+              }
+            ],
+            "sumario": "Regula a organização e funcionamento do Conselho Económico e Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159490",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1818-1819",
+                  "1827-1827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-20",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/056/1991-03-20/1818?pgs=1818-1819,1827&org=PLC"
+              }
+            ],
+            "sumario": "Regula a organização e funcionamento do Conselho Económico e Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159491",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1819-1820"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-20",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/056/1991-03-20/1819?pgs=1819-1820&org=PLC"
+              }
+            ],
+            "sumario": "Regula a organização e funcionamento do Conselho Económico e Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159492",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1821-1825"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-20",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/056/1991-03-20/1821?pgs=1821-1825&org=PLC"
+              }
+            ],
+            "sumario": "Regula a organização e funcionamento do Conselho Económico e Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159493",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1823-1823"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-20",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/056/1991-03-20/1823?pgs=1823&org=PLC"
+              }
+            ],
+            "sumario": "Regula a organização e funcionamento do Conselho Económico e Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159494",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1823-1824",
+                  "1826-1827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-20",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/056/1991-03-20/1823?pgs=1823-1824,1826-1827&org=PLC"
+              }
+            ],
+            "sumario": "Regula a organização e funcionamento do Conselho Económico e Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159495",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1825-1828"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-20",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/056/1991-03-20/1825?pgs=1825-1828&org=PLC"
+              }
+            ],
+            "sumario": "Regula a organização e funcionamento do Conselho Económico e Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159496",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1827-1827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-20",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/056/1991-03-20/1827?pgs=1827&org=PLC"
+              }
+            ],
+            "sumario": "Regula a organização e funcionamento do Conselho Económico e Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159497",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1828-1831"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-20",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/056/1991-03-20/1828?pgs=1828-1831&org=PLC"
+              }
+            ],
+            "sumario": "Regula a organização e funcionamento do Conselho Económico e Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159498",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1830-1830"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-20",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/056/1991-03-20/1830?pgs=1830&org=PLC"
+              }
+            ],
+            "sumario": "Regula a organização e funcionamento do Conselho Económico e Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159499",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1831-1831"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-20",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/056/1991-03-20/1831?pgs=1831&org=PLC"
+              }
+            ],
+            "sumario": "Regula a organização e funcionamento do Conselho Económico e Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159500",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1831-1833"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-20",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/056/1991-03-20/1831?pgs=1831-1833&org=PLC"
+              }
+            ],
+            "sumario": "Regula a organização e funcionamento do Conselho Económico e Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159501",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1833-1833"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-20",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/056/1991-03-20/1833?pgs=1833&org=PLC"
+              }
+            ],
+            "sumario": "Regula a organização e funcionamento do Conselho Económico e Social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159502",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1833-1835"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-20",
+                "pubLeg": "V",
+                "pubNr": "56",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/056/1991-03-20/1833?pgs=1833-1835&org=PLC"
+              }
+            ],
+            "sumario": "Regula a organização e funcionamento do Conselho Económico e Social",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "218372",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "333234",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-03-20",
+        "pubLeg": "V",
+        "pubNr": "56",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/056/1991-03-20?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
