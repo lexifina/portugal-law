@@ -1,0 +1,3 @@
+Anúncio n.º 3/91
+Faz-se saber que no dia 28 de Junho de 1991 foi requerido na 1.ª Secção do Supremo Tribunal Administrativo, com base na alínea i) do n.º 1 do artigo 26.º do Decreto-Lei n.º 129/84, de 27 de Abril, e registado na 2.ª Subsecção sob o n.º 29683, por Iolanda Maria de Jesus Gonçalves e outra, um pedido de declaração de ilegalidade da norma constante do n.º 3 do Despacho Normativo n.º 159-C/90, publicado no 5.º suplemento do Diário da República, n.º 277, de 30 de Novembro de 1990, podendo os eventuais interessados intervir nos autos nos termos e nos prazos fixados na lei.
+Lisboa, 10 de Dezembro de 1991. - O Juiz Conselheiro Relator, Farinha Ribeiro. - A Escrivã-Adjunta, Maria José Antunes.
