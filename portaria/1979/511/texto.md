@@ -1,0 +1,69 @@
+Portaria n.º 511/79
+de 21 de Setembro
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, nos termos do n.º 5 do artigo 23.º do Decreto n.º 516/73, de 12 de Outubro, que seja adoptado o seguinte programa na realização dos cursos (2.º grau) de acesso à categoria de secretário de contabilidade de 2.ª classe do quadro da Direcção-Geral da Contabilidade Pública:
+I - Generalidades
+1 - Constituição da República Portuguesa:
+1.1 - A organização do poder político. Os órgãos de soberania;
+1.2 - A organização económica. O sistema financeiro - o artigo 108.º e a Lei de Enquadramento do Orçamento Geral do Estado.
+2 - Administração Pública Portuguesa:
+2.1 - Estrutura - os princípios constitucionais e os critérios orçamentais;
+2.2 - Administração Central do Estado. Serviços simples, com autonomia administrativa, serviços intermédios e autónomos; fundos autónomos;
+2.3 - Administração Local;
+2.4 - Segurança social;
+2.5 - Regiões autónomas;
+2.6 - Institutos públicos, incluindo as empresas públicas.
+3 - Noções sobre técnicas e instrumentos contabilísticos:
+3.1 - Noção de património;
+3.2 - Inventário e balanços;
+3.3 - Receitas e despesas;
+3.4 - Contas de resultados.
+4 - Breves noções sobre tratamento automático da informação.
+5 - Funcionários do Estado; estatuto jurídico; direitos e deveres perante a legislação.
+II - Contabilidade pública
+6 - Funções e estrutura da Direcção-Geral da Contabilidade Pública.
+7 - Noções de receita e despesa pública. Classificação orgânica, económica e funcional.
+8 - Orçamento Geral do Estado:
+8.1 - Conceito;
+8.2 - Estrutura;
+8.3 - Regras, formalidades a cumprir e prazos a observar na sua elaboração;
+8.4 - Modificações ao Orçamento.
+9 - Orçamentos privativos.
+10 - Contas do Estado:
+10.1 - Conta Geral do Estado e sua composição;
+10.2 - Contas provisórias e sua constituição;
+10.3 - Tabelas de receita orçamental e sua escrituração;
+10.4 - Tabelas de despesa orçamental e documentos que as acompanham. Averbamento.
+11 - Despesas:
+11.1 - Com o pessoal:
+11.1.1 - Preceitos legais a observar na liquidação de abonos;
+11.1.2 - Cálculo de abonos;
+11.1.3 - Descontos;
+11.1.4 - Documentos que acompanham as folhas e destino de cada um deles;
+11.1.5 - Subsídio por morte;
+11.2 - Outras:
+11.2.1 - Disposições legais que orientam a realização das despesas;
+11.2.2 - Formalidades a que tem de obedecer o processamento das respectivas folhas;
+11.3 - Ano económico. Último dia para pagamento das despesas.
+12 - Segurança social:
+12.1 - Abono de família e prestações complementares;
+12.2 - Pensões e acidentes em serviço;
+12.3 - Assistência na Doença aos Servidores Civis do Estado (ADSE);
+12.4 - Serviços sociais.
+13 - Guias de receita, reposições e anulações.
+14 - Cabimento:
+14.1 - Noção;
+14.2 - Duplo cabimento;
+14.3 - Duodécimos;
+14.4 - Contas correntes com as dotações orçamentais.
+15 - Folhas, requisições, títulos e saques:
+15.1 - Sua diferenciação;
+15.2 - Prazos de entrada nas delegações da Direcção-Geral da Contabilidade Pública;
+15.3 - Processamento;
+15.4 - Verificação;
+15.5 - Liquidação;
+15.6 - Autorização;
+15.7 - Pagamento.
+16 - Regime de despesas de anos anteriores;
+17 - Competência e atribuições do Tribunal de Contas.
+18 - Operações de tesouraria.
+Ministério das Finanças, 5 de Setembro de 1979. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.
