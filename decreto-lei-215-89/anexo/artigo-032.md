@@ -2,4 +2,4 @@
 
 ### Acções adquiridas no âmbito das privatizações
 
-Os dividendos de acções adquiridas na sequência de processo de privatização, ainda que resultantes de aumentos de capital por incorporação de reservas, contam relativamente aos cinco primeiros exercícios encerrados após a data de finalização do processo de privatização, apenas por 50% do seu quantitativo, líquido de outros benefícios, para fins de IRS ou de IRC.
+Os dividendos de acções adquiridas na sequência de processo de privatização realizado até ao final do ano 2002, ainda que resultantes de aumentos de capital, contam, desde a data de início do processo até decorridos os cinco primeiros exercícios encerrados após a sua data de finalização, definidas de acordo com o diploma que vier a regulamentar aquele processo, apenas por 50% do seu quantitativo, líquido de outros benefícios, para fins de IRS ou de IRC.

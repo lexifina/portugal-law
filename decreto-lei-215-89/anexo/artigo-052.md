@@ -12,6 +12,6 @@
 
 5 - Para efeitos do disposto nos n.os 1 e 3, o período de isenção a conceder será o determinado em conformidade com a tabela seguinte:
 
-(ver documento original)
+(ver tabela no documento original)
 
 6 - Para efeitos de concessão e cessação, da isenção, aplicam-se os n.os 4, 5 e 6 do artigo 51.º e, no caso previsto no n.º 1 do presente artigo, se a afectação a residência permanente do sujeito passivo ou do seu agregado familiar ocorrer após o decurso do prazo nele previsto, a isenção iniciar-se-á a partir do ano imediato, inclusive, ao da verificação de tais pressupostos, cessando, todavia, no ano em que findaria se a afectação se tivesse verificado nos seis meses imediatos ao da conclusão da construção, da ampliação, melhoramentos ou aquisição a título oneroso.
