@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação da Organização das Nações Unidas, o Governo da Albânia depositou em 1 de Outubro de 1969, junto do secretário-geral daquela Organização Internacional, o seu instrumento de adesão à Convenção sobre o Trânsito Rodoviário, assinada em Genebra a 19 de Setembro de 1949.
+O instrumento de adesão da Albânia contém a seguinte reserva:
+O Governo da República Popular da Albânia não se considera vinculado pelas disposições do artigo 33.º da Convenção, que estabelece que os conflitos entre os Estados Contratantes, quanto à interpretação ou à aplicação da Convenção, poderão ser apresentados ao Tribunal Internacional de Justiça, a requerimento de qualquer das Partes em conflito. O Governo da República Popular da Albânia declara, como tem até agora feito, que em cada caso concreto é necessário o consentimento de todas as Partes em conflito para se submeter este à arbitragem.
+Direcção-Geral dos Negócios Económicos, 26 de Novembro de 1969. - O Adjunto do Director-Geral, Manuel Rodrigues de Almeida Coutinho.
