@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo informação da Embaixada da Bélgica em Lisboa, o Governo do Tanganhica, por comunicação recebida em 3 de Dezembro de 1962, notificou o Governo Belga de que se considera obrigado pelas disposições da Convenção internacional para a unificação de certas regras em matéria de conhecimentos e Protocolo de assinatura, assinados em Bruxelas a 25 de Agosto de 1924, e cuja aplicação tinha já sido estendida àquele território antes da sua acessão à independência.
+Direcção-Geral dos Negócios Económicos e Consulares, 1 de Junho de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
