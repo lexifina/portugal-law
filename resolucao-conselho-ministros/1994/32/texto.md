@@ -1,0 +1,20 @@
+Resolução do Conselho de Ministros n.º 32/94
+Tem-se assistido nas últimas décadas a uma alteração profunda e gradual do estatuto das mulheres na sociedade, através da concretização progressiva dos princípios e direitos consagrados na Constituição.
+A actuação das organizações não governamentais representativas das mulheres, com o apoio do Estado, vem promovendo, igualmente, uma significativa modificação de mentalidades em relação à situação da mulher em Portugal.
+A existência real de iguais oportunidades de participação na vida social, cívica, política e laboral, para ambos os sexos, é exigência básica do Estado de direito democrático. A sua plena realização exige do Estado Português um esforço permanente pelo qual se concretizem os princípios basilares e universais da democracia, como o da liberdade e da igualdade, que alicerçam todos os direitos e deveres fundamentais consagrados na Constituição.
+O Programa do XII Governo Constitucional consagra expressamente que «a igualdade entre os dois sexos constitui um objectivo fundamental da defesa da dignidade da pessoa humana. Não se pode viver em solidariedade e em coerência com os valores humanísticos, concorrendo para situações de discriminação.
+Promover a igualdade de oportunidades é reconhecer que a mera consagração legal da igualdade entre os dois sexos não chega para banir situações discriminatórias, uma vez que há factores sociais constrangedores».
+O Ano Internacional da Família vem chamar a atenção para os problemas que a organização e estruturas da sociedade actual levantam à família, numa interdisciplinaridade que abrange, nomeadamente, a organização do trabalho, a promoção do igual direito ao emprego e à educação, do mesmo modo que acentua a necessidade de revalorização da família como espaço primordial e célula base da organização social.
+O Ano Internacional da Família será, assim, ocasião para que o Estado promova acções e medidas para a revalorização social da família, o que se consegue, designadamente, através de política de promoção da igualdade de oportunidades e de responsabilidades entre homens e mulheres.
+Assim:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - Cada ministério desencadeará, directamente, ou em conjugação com outras entidades públicas ou privadas, as acções e medidas, incluindo as legislativas, necessárias à promoção e efectivação da igualdade de oportunidades e de participação da mulher portuguesa em todos os domínios da vida económica, social, política e laboral.
+2 - São prioritárias as acções e medidas que tenham como objectivo a:
+Sensibilização da opinião pública, tendo em vista o combate a situações de discriminação das mulheres e, nomeadamente, as que promovam uma participação equilibrada de homens e mulheres na vida pública, bem como as que garantam que a dimensão da igualdade está presente nas campanhas de divulgação e informação da Administração Pública, no aconselhamento profissional dos jovens e nos manuais escolares;
+Promoção de medidas de formação profissional das mulheres, bem como o estímulo de iniciativas empresariais nesse domínio, especialmente no âmbito do quadro comunitário de apoio para 1994-1999;
+Desenvolvimento de mecanismos de orientação profissional para as mulheres desempregadas de longa duração e para as que pretendam retomar a vida activa;
+Adaptação da organização dos tempos de trabalho, de forma a poder ser salvaguardada a vida profissional e familiar de ambos os cônjuges;
+Desenvolvimento de estruturas e soluções alternativas para apoio às crianças no período de trabalho dos pais;
+Reforço da actividade inspectiva em áreas que possam envolver discriminação entre homens e mulheres.
+3 - Compete a cada um dos departamentos governamentais envolvidos na execução das acções e medidas referidas ou referenciadas assumir a responsabilidade pelos encargos delas decorrentes.
+Presidência do Conselho de Ministros, 14 de Abril de 1994. - Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
