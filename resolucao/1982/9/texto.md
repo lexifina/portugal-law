@@ -1,0 +1,6 @@
+Resolução n.º 9/82
+Considerando que o Dr. Alexandre de Azeredo Vaz Pinto foi nomeado membro do conselho directivo do Instituto do Investimento Estrangeiro e designado seu presidente, para um mandato de 3 anos, pela Resolução n.º 276/77 do Conselho de Ministros de 12 de Outubro, publicada no Diário da República, 1.ª série, de 27 do mesmo mês;
+Considerando que, nos termos do artigo 1.º, n.º 3, do Decreto-Lei n.º 467/79, de 7 de Dezembro, o referido mandato esteve suspenso, entre 9 de Janeiro e 4 de Setembro de 1981, período em que o Dr. Vaz Pinto ocupou o cargo de Ministro do Comércio e Turismo do VII Governo Constitucional;
+Considerando que, tendo o Dr. Vaz Pinto reassumido as suas funções no Instituto do Investimento Estrangeiro, logo após ter deixado o cargo ministerial, finda em 8 do corrente mês de Janeiro o seu mandato como membro do conselho directivo e presidente daquele Instituto:
+O Conselho de Ministros, em reunião de 7 de Janeiro de 1982, resolveu renovar por 3 anos o mandato do Dr. Alexandre de Azeredo Vaz Pinto como membro do conselho directivo do Instituto do Investimento Estrangeiro, continuando a exercer as funções de respectivo presidente.
+Presidência do Conselho de Ministros, 7 de Janeiro de 1982. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
