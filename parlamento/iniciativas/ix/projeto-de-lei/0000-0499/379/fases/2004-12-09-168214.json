@@ -1,0 +1,458 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "379",
+    "id": "19975",
+    "titulo": "Elevação da vila da Costa da Caparica a cidade."
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2004-12-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3373",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2004-12-09",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "20414",
+        "leg": "IX",
+        "nr": "423",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "822",
+            "obs": null,
+            "pag": [
+              "1342-1343",
+              "1355-1356"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-12-10",
+            "pubLeg": "IX",
+            "pubNr": "21",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1342?pgs=1342-1343,1355-1356&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Elevação a cidade da vila da Costa da Caparica, sita no concelho de Almada, no distrito de Setúbal."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-12-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1212",
+                "nome": "Ana Catarina Mendonça"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151384",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1342-1343",
+                  "1355-1356"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1342?pgs=1342-1343,1355-1356&org=PLC"
+              }
+            ],
+            "sumario": "Elevação a cidade da vila da Costa da Caparica, sita no concelho de Almada, no distrito de Setúbal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "722",
+                "nome": "Paulo Pedroso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151385",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1355-1356"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1355?pgs=1355-1356&org=PLC"
+              }
+            ],
+            "sumario": "Elevação a cidade da vila da Costa da Caparica, sita no concelho de Almada, no distrito de Setúbal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1711",
+                "nome": "Alberto Antunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151386",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1355-1356"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1355?pgs=1355-1356&org=PLC"
+              }
+            ],
+            "sumario": "Elevação a cidade da vila da Costa da Caparica, sita no concelho de Almada, no distrito de Setúbal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151387",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1355-1356"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1355?pgs=1355-1356&org=PLC"
+              }
+            ],
+            "sumario": "Elevação a cidade da vila da Costa da Caparica, sita no concelho de Almada, no distrito de Setúbal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1627",
+                "nome": "Maria Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151388",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1355-1356"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1355?pgs=1355-1356&org=PLC"
+              }
+            ],
+            "sumario": "Elevação a cidade da vila da Costa da Caparica, sita no concelho de Almada, no distrito de Setúbal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1726",
+                "nome": "Vítor Ramalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151389",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1355-1356"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1355?pgs=1355-1356&org=PLC"
+              }
+            ],
+            "sumario": "Elevação a cidade da vila da Costa da Caparica, sita no concelho de Almada, no distrito de Setúbal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151390",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1356-1357"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1356?pgs=1356-1357&org=PLC"
+              }
+            ],
+            "sumario": "Elevação a cidade da vila da Costa da Caparica, sita no concelho de Almada, no distrito de Setúbal",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Texto final, apresentado pela Comissão de Poder Local, Ordenamento do Território e Ambiente",
+    "OevId": "168214",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "295030",
+        "obs": null,
+        "pag": [
+          "1340-1341"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-12-10",
+        "pubLeg": "IX",
+        "pubNr": "21",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1340?pgs=1340-1341&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2004-12-09",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "32812",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "21",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
