@@ -1,0 +1,6 @@
+Despacho Normativo n.º 51/80
+Atendendo a que o despacho de 24 de Novembro de 1979, publicado em 5 de Dezembro de 1979, que dá uma nova redacção a alguns números do Despacho Normativo n.º 20/78, de 24 de Janeiro, contém em relação ao n.º 12 algumas inexactidões, pelo presente despacho se dá nova redacção àquele número:
+12 - Para desempenho das funções regulamentadas através do presente despacho, constituem receitas do Instituto Nacional de Seguros:
+a) ...
+b) ...
+Ministério das Finanças e do Plano, 5 de Fevereiro de 1980. - O Secretário de Estado do Tesouro, José Alberto Vasconcelos Tavares Moreira.
