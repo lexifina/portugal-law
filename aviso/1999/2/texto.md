@@ -1,0 +1,4 @@
+Aviso n.º 2/99
+Por ordem superior se torna público que Portugal depositou, em 20 de Março de 1998, na sede do Conselho da Europa, em Estrasburgo, o instrumento de ratificação do Protocolo n.º 1 à Convenção Europeia para a Prevenção da Tortura e das Penas ou Tratamentos Desumanos ou Degradantes.
+O referido Protocolo foi aberto à assinatura, em Estrasburgo, em 4 de Novembro de 1993 e assinado por Portugal em 3 de Junho de 1994, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 24/97, publicada no Diário da República, 1.ª série-A, n.º 103, de 5 de Maio de 1997, e ratificada pelo Decreto do Presidente da República n.º 21/97, publicado no Diário da República, 1.ª série-A, n.º 103, de 5 de Maio de 1997.
+Direcção Geral dos Assuntos Multilaterais, 3 de Dezembro de 1998. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
