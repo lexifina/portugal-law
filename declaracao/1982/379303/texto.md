@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 427/82, publicado no Diário da República, 1.ª série, n.º 244, de 21 de Outubro de 1982, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 12.º, onde se lê «O conselho geral reunirá ordinariamente uma vez em cada semestre e extraordinariamente sempre que for convocado pelo presidente do conselho de gerência ou da comissão de fiscalização, quer por iniciativa própria, quer a requerimento de um terço dos seus vogais» deve ler-se «O conselho geral reunirá ordinariamente uma vez em cada semestre e extraordinariamente sempre que for convocado pelo presidente, quer por iniciativa própria, quer a requerimento de um terço dos seus vogais, do conselho de gerência ou da comissão de fiscalização».
+Secretaria-Geral da Presidência do Conselho de Ministros, 15 de Novembro de 1982. - O Secretário-Geral, França Martins.
