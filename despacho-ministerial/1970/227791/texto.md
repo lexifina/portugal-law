@@ -1,0 +1,4 @@
+Despacho ministerial
+Nos termos do artigo 2.º do Decreto-Lei n.º 48650, de 2 de Novembro de 1968, determino que a taxa a cobrar pelos automóveis para transporte de passageiros, não especificados, indicada na lista anexa ao Decreto-Lei n.º 47417, de 26 de Dezembro de 1966, com a alteração introduzida por aquele diploma legal, para a subposição 87.02.08, passe a ser de 80,37 por cento da taxa da pauta mínima, correspondente ao elemento protector calculado, na conjuntura actual, em 49,08 por cento desta taxa.
+Para efeitos de liquidação dos direitos dos referidos automóveis, a nova taxa considera-se aplicável a partir de 1 de Julho até 31 de Dezembro de 1969, desde que se encontrem preenchidos os demais requisitos inerentes ao tratamento especial de que podem beneficiar nos termos da Convenção de Estocolmo, de 4 de Janeiro de 1960.
+Ministérios das Finanças e da Economia, 11 de Fevereiro de 1970. - O Ministro das Finanças e da Economia, João Augusto Dias Rosas.
