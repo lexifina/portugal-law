@@ -1,0 +1,5 @@
+Portaria n.º 18366
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, que, nos termos do § 1.º do artigo 22.º o Decreto-Lei n.º 39749, de 9 de Agosto de 1954, sejam criadas as subdelegações da Polícia Internacional e de Defesa do Estado nas seguintes cidades: Beira, Quelimane, Tete e Nampula, todas dependentes da delegação da mesma Polícia na província ultramarina de Moçambique, cabendo ao Governo-Geral da província, mediante proposta da referida Polícia, a faculdade de promover a fixação e distribuição de pessoal efectivo e eventual, consoante as necessidades do serviço, em conformidade com o mapa anexo ao Decreto-Lei n.º 43076, de 16 de Julho de 1960, e nos termos do § 4.º do artigo 46.º do já citado Decreto-Lei n.º 39749, com a nova redacção do Decreto-Lei n.º 40541, de 27 de Fevereiro de 1956.
+Ministério do Ultramar, 29 de Março de 1961. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - A. Moreira.
