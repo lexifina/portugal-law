@@ -1,0 +1,10 @@
+Portaria n.º 23432
+A publicação do Decreto-Lei n.º 47745, de 2 de Junho de 1967, e da Portaria n.º 22757, de 28 do mesmo mês e ano, ocasionou, como se desejava, um aumento de interesse pela cultura de cevada dística qualificada, destinada ao fabrico de malte, a utilizar na indústria de cerveja.
+Todavia, como as quantidades que anualmente são aproveitadas para tal fim têm um carácter de certa forma limitado, é necessário providenciar-se no sentido de se evitarem excessos de produção inaplicáveis.
+A portaria atrás referida prevê já a possibilidade de se poderem eliminar, através de normas estabelecidas, as inscrições que dêem origem aos inconvenientes apontados. No entanto, para impedir que os produtores procedam às sementeiras relativas a inscrições que posteriormente venham a ser anuladas, considera-se vantajoso introduzir alterações nalguns dos prazos e datas estabelecidos na mencionada portaria, o que permitirá, com a necessária antecedência, seleccionar as inscrições que, nos termos legais, deverão ser admitidas.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, aprovar e pôr em execução o seguinte:
+1.º A Direcção-Geral dos Serviços Agrícolas abrirá anualmente, de 15 de Junho a 31 de Julho, inscrição para a produção de cevada dística qualificada, destinada ao fabrico de malte, das cultivares e nas quantidades que até ao dia 10 do mesmo mês de Junho lhe tenham sido indicadas pelas malterias.
+2.º Os exemplares das inscrições destinadas à Estação de Ensaio de Sementes, a que se refere o n.º 5.º da Portaria n.º 22757, de 28 de Junho de 1967, devem dar entrada naquele organismo até ao dia 5 de Agosto, inclusive.
+3.º A Estação de Ensaio de Sementes, cumpridas as formalidades referidas no n.º 6.º da já citada Portaria n.º 22757, fornecerá até 15 de Agosto seguinte às Corporações da Lavoura e da Indústria as relações das inscrições eliminadas e admitidas.
+Secretaria de Estado da Agricultura, 12 de Junho de 1968. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.
