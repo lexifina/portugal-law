@@ -1,7 +1,3 @@
-## Secção VI
-
-## Formação e aperfeiçoamento profissional
-
 ## Secção VII
 
 ## Transferências e deslocações

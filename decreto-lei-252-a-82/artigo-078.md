@@ -1,7 +1,3 @@
-## Secção III
-
-## Do pessoal integrado em carreiras
-
 # Artigo 78.º
 
 ### (Dos técnicos auxiliares de BAD)

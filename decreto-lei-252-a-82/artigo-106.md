@@ -1,7 +1,3 @@
-## Secção XI
-
-## Deveres e incompatibilidades
-
 ## Secção XII
 
 ## Competências
