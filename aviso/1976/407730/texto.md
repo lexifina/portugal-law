@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Departamento de Estado Norte-Americano, o Governo de Marrocos depositou, em 24 de Outubro de 1975, um instrumento de ratificação à Convenção da Haia de 16 de Dezembro de 1970 para a Supressão da Detenção Ilegal de Aeronaves, com uma reserva acerca do recurso para o Tribunal Internacional de Justiça em caso de disputa, e a Nova Guiné (Papua) fez a notificação de aceitação do acordo em 15 de Dezembro de 1975, com reserva de que se não considera vinculada pelo artigo 32, parágrafo (1), da mesma Convenção.
+Direcção-Geral dos Negócios Económicos, 30 de Novembro de 1976. - O Adjunto do Director-Geral, Alexandre Eduardo Lencastre da Veiga.
