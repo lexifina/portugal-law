@@ -20,4 +20,6 @@ São nulas e de nenhum efeito, independentemente de declaração pelos tribunais
 
 7.º Que autorizem contratos de locação de serviços para cujo encargo não exista verba no orçamento em vigor.
 
+8.º Que forem tomadas ou executadas com violação das disposições legais que determinem a intervenção tutelar do Governo.
+
 § único. As deliberações nulas e de nenhum efeito são impugnáveis sem dependência de prazo, por via de interposição de recurso contencioso ou de defesa em qualquer processo administrativo ou judicial.
