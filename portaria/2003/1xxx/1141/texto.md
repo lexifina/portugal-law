@@ -1,0 +1,11 @@
+Portaria n.º 1141/2003
+de 2 de Outubro
+Pela Portaria n.º 615-O5/91, de 8 de Julho, alterada pela Portaria n.º 1111/2000, de 28 de Novembro, foi concessionada a Gonzalez & Alexandre, Lda., a zona de caça turística da Herdade da Várzea Grande (processo n.º 783-DGF), situada nos municípios de Santiago do Cacém e Ferreira do Alentejo, com uma área de 939,1660 ha, e não 939,25 ha, como por lapso é referido na citada portaria, válida até 8 de Julho de 2003.
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+Cumpridos os preceitos legais, com fundamento no disposto no n.º 8 do artigo 44.º, em articulação com o disposto na alínea a) do n.º 2 do artigo 36.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, e ouvidos os Conselhos Cinegéticos Municipais:
+Manda o Governo, pelos Ministros da Economia e da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
+1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística da Herdade da Várzea Grande (processo n.º 783-DGF), abrangendo vários prédios rústicos, sitos na freguesia de Ermidas, município de Santiago do Cacém, com uma área de 919,4160 ha, e na freguesia de Figueira de Cavaleiros, município de Ferreira do Alentejo, com uma área de 19,75 ha, perfazendo uma área total de 939,1660 ha.
+2.º A Direcção-Geral do Turismo emitiu, ao abrigo do disposto no n.º 3 do artigo 34.º do citado diploma, parecer favorável condicionado à legalização pela Câmara Municipal de Santiago do Cacém, dos quatro quartos existentes no Pavilhão de Caça, caso sejam afectos à exploração turística e ao envio da documentação respeitante ao cumprimento dos requisitos de higiene e segurança em falta.
+3.º É revogada a Portaria n.º 588/2003, de 17 de Julho.
+4.º A presente portaria produz efeitos a partir do dia 9 de Julho de 2003.
+Pelo Ministro da Economia, Luís Manuel Miguel Correia da Silva, Secretário de Estado do Turismo, em 18 de Setembro de 2003. - Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 16 de Setembro de 2003.
