@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 6-F/2000
+Segundo comunicação do Ministério da Administração Interna, a Portaria n.º 247-A/2000, publicada no Diário da República, 1.ª série, n.º 106 (suplemento), de 8 de Maio de 2000, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No formulário, onde se lê «Manda o Governo, pelo Ministro da Administração Interna, o seguinte:» deve ler-se «Manda o Governo, pelo Ministro Adjunto e pelo Ministro da Administração Interna, o seguinte:» e, nas assinaturas, onde se lê «O Ministro da Administração Interna, Fernando Manuel dos Santos Gomes, em 5 de Maio de 2000.» deve ler-se «O Ministro Adjunto, Fernando Manuel dos Santos Gomes, em 5 de Maio de 2000. - O Ministro da Administração Interna», Fernando Manuel dos Santos Gomes, em 5 de Maio de 2000.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Maio de 2000 - O Secretário-Geral, Alexandre Figueiredo.
