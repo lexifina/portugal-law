@@ -1,0 +1,17 @@
+Decreto-Lei n.º 47255
+Por circunstâncias de diversa ordem, desde que, em 1949, os serviços militares do ultramar passaram para a dependência do Ministério do Exército, ainda não houve oportunidade de se construir um estabelecimento penal no ultramar adequado ao cumprimento da pena de presídio militar.
+E, muito embora se dê urgência aos estudos com vista a essa construção - estudos actualmente em curso no Ministério do Exército -, não é de prever para muito breve o funcionamento no ultramar de um estabelecimento nos moldes indicados no artigo 33.º do Código de Justiça Militar.
+A este condicionalismo, já de longa data existente, atendiam os artigos 3.º do Decreto n.º 25987, de 26 de Outubro de 1935, e 25.º do decreto n.º 12393, de 27 de Setembro de 1926.
+Sucede, porém, que o recente Decreto-Lei n.º 45783, de 30 de Junho de 1964, veio revogar expressamente todo o Decreto n.º 12393, à excepção de parte do seu artigo 1.º, e dar origem a numerosas dúvidas sobre a aplicabilidade do referido artigo 3.º do Decreto n.º 25987.
+Urge, pois, ainda que transitòriamente e enquanto não se criarem os indispensáveis estabelecimentos penais, já em estudo, repor em vigor e actualizar as citadas disposições legais.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º As penas de presídio militar e de incorporação em depósito disciplinar que forem aplicadas pelos tribunais militares ultramarinos ou pelo Supremo Tribunal Militar, sendo aqueles os tribunais recorridos, serão cumpridas na própria região militar ultramarina ou comando territorial independente.
+§ único. Esta regra não prejudica a possibilidade de transferência ulterior dos condenados, nos termos da legislação vigente.
+Art. 2.º A competência para decidir qual das penas, aplicadas em alternativa, deverá ser cumprida pertence ao comandante da respectiva região militar ou comando territorial independente.
+Art. 3.º Nas regiões militares ou comandos territoriais independentes do ultramar onde não haja estabelecimento penal especialmente afecto ao cumprimento das penas de presídio militar ou de incorporação em depósito disciplinar será a pena cumprida numa fortaleza ou em local determinado pelo comandante da região ou comando territorial independente, mas segundo o regime prisional previsto.
+§ único. Quando nenhuma das penas puder ter cumprimento segundo o regime prisional previsto, o comandante da região militar ou do comando territorial independente mandará executar a pena de incorporação em depósito disciplinar, aplicada em alternativa e a cumprir em prisão fechada na fortaleza ou local designado, reduzindo-se a sua duração a um terço.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 12 de Outubro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.
