@@ -1,0 +1,82 @@
+Portaria n.º 336/2004
+de 31 de Março
+Sob proposta da Escola Náutica Infante D. Henrique;
+Ao abrigo do disposto na alínea b) do n.º 3 do artigo 5.º do Decreto-Lei n.º 16/2002, de 29 de Janeiro, no artigo 2.º do Decreto-Lei n.º 94/89, de 28 de Março, e no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:
+Manda o Governo, pelos Ministros da Ciência e do Ensino Superior e das Obras Públicas, Transportes e Habitação, o seguinte:
+1.º
+Alterações
+1 - Os n.os 2.º, 8.º e 9.º da Portaria n.º 413-T/98, de 17 de Julho, alterada pela Portaria n.º 252/99, de 9 de Abril, passam a ter a seguinte redacção:
+«2.º
+[...]
+O curso é organizado em dois ciclos, conduzindo o primeiro ao grau de bacharel e o segundo ao grau de licenciado, com a seguinte duração:
+a) O 1.º ciclo do curso tem a duração de seis semestres lectivos;
+b) O 2.º ciclo do curso tem a duração de dois semestres lectivos.
+8.º
+[...]
+1 - ...
+2 - A conclusão com aproveitamento na totalidade das unidades curriculares que integram os 1.º e 2.º ciclos do curso de Engenharia de Máquinas Marítimas satisfaz os requisitos obrigatórios para a certificação de chefes de máquinas e segundos-oficiais de máquinas de navios cuja máquina principal tenha potência propulsora entre 750 kW e 3000 kW (regra III/3 da Convenção STCW e Emendas) e de navios cuja máquina principal tenha uma potência propulsora superior a 3000 kW (regra III/2 da Convenção STCW e Emendas), possibilitando a obtenção dos respectivos certificados de competência, desde que estejam satisfeitos os restantes requisitos para a sua emissão.
+3 - A conclusão com aproveitamento na totalidade das unidades curriculares que integram o 1.º ciclo do curso de Engenharia de Máquinas Marítimas possibilita ainda a obtenção dos seguintes certificados de qualificação e provas documentais previstos na Convenção STCW e Emendas, desde que estejam satisfeitos os restantes requisitos exigidos para a sua emissão:
+a) Condução de embarcações de salvamento (tabela A-VI/2-1 do Código STCW);
+b) Condução de embarcações de salvamento rápidas (tabela A-VI/2-2 do Código STCW);
+c) Para ministrar os primeiros socorros a bordo (tabela A-VI/4-1 do Código STCW);
+d) Controlo de operações de combate a incêndios (tabela A-VI/3 do Código STCW);
+e) Exercício de funções específicas nos navios-tanque (petroleiros, químicos e gás liquefeito) (parágrafos 2 a 7 da secção A-V/1 do Código STCW);
+f) Familiarização em navios ro-ro de passageiros (parágrafo 2 da secção A-V/2 do Código STCW);
+g) Controlo de multidões em navios ro-ro de passageiros (parágrafo 1 da secção A-V/2 do Código STCW);
+h) Segurança na comunicação com passageiros em navios ro-ro de passageiros (parágrafo 3 da secção A-V/2 do Código STCW);
+i) Gestão de crises e comportamento humano (parágrafo 5 da secção A-V/2 do Código STCW);
+j) Segurança dos passageiros, da carga e integridade do casco nos navios ro-ro de passageiros (parágrafo 4 da secção A-V/2 do Código STCW).
+4 - A conclusão com aproveitamento das unidades curriculares que integram o 2.º ciclo do curso de Engenharia de Máquinas Marítimas, incluindo as disciplinas de Navios-Tanque I e Navios-Tanques II, possibilita, ainda, a obtenção dos seguintes certificados de qualificação, desde que estejam satisfeitos os restantes requisitos exigidos para a sua emissão:
+a) Para o exercício de funções de responsabilidade em navios-tanque petroleiros (parágrafos 9 a 14 da secção A-V/1 do Código STCW);
+b) Para o exercício de funções de responsabilidade em navios-tanque químicos (parágrafos 16 a 21 da secção A-V/1 do Código STCW);
+c) Para o exercício de funções de responsabilidade em navios-tanque de gás liquefeito (parágrafos 23 a 34 da secção A-V/1 do Código STCW).
+9.º
+[...]
+1 - O acesso ao 2.º ciclo do curso de Engenharia de Máquinas Marítimas está condicionado a um período de experiência profissional a bordo com a duração de seis meses, realizado nas condições estabelecidas na Convenção STCW e Emendas e será efectuado da seguinte forma:
+a) Sem limitações quantitativas para os estudantes que tenham concluído o 1.º ciclo do curso de Engenharia de Máquinas Marítimas na Escola Náutica Infante D. Henrique em ano lectivo imediatamente anterior;
+b) Sujeito a limitações quantitativas:
+b.1) Para os estudantes que tenham concluído o 1.º ciclo do curso de Engenharia de Máquinas Marítimas na Escola Náutica Infante D. Henrique noutros anos lectivos;
+b.2) Para os estudantes que tenham concluído um 1.º ciclo na área do curso cujo plano de estudos garanta, globalmente, uma formação correspondente à do 1.º ciclo do curso.
+2 - ...»
+2 - O anexo à Portaria n.º 413-T/98 passa a ter a redacção constante do anexo à presente portaria.
+2.º
+Transição
+A transição entre o plano de estudos anterior e o aprovado pela presente portaria faz-se nos termos das regras aprovadas pelo órgão legalmente competente da Escola.
+3.º
+Aplicação
+As alterações introduzidas pela presente portaria aplicam-se a partir do ano lectivo de 2004-2005, inclusive.
+Em 1 de Março de 2004.
+A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho. - O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues.
+
+ANEXO
+(Portaria n.º 413-T/98, de 17 de Julho, alterada pela Portaria n.º 252/99, de 9 de Abril - alteração)
+Escola Náutica Infante D. Henrique
+Curso de Engenharia de Máquinas Marítimas
+1.º ciclo
+Grau de bacharel
+QUADRO N.º 1
+1.º semestre
+(ver quadro no documento original)
+QUADRO N.º 2
+2.º semestre
+(ver quadro no documento original)
+QUADRO N.º 3
+3.º semestre
+(ver quadro no documento original)
+QUADRO N.º 4
+4.º semestre
+(ver quadro no documento original)
+QUADRO N.º 5
+5.º semestre
+(ver quadro no documento original)
+QUADRO N.º 6
+6.º semestre
+(ver quadro no documento original)
+2.º ciclo
+Grau de licenciado
+QUADRO N.º 1
+1.º semestre
+(ver quadro no documento original)
+QUADRO N.º 2
+2.º semestre
+(ver quadro no documento original)
