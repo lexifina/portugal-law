@@ -1,0 +1,11 @@
+Resolução n.º 314/80
+A legislação anterior à Lei n.º 1/79, de 2 de Janeiro (Lei das Finanças Locais), previa que o Estado suportasse os encargos, até 50% do respectivo montante, das despesas provenientes da aquisição ou expropriação de terrenos necessários e demais despesas resultantes da construção de escolas do ensino primário, incluindo o apetrechamento, e ainda encargo semelhante com as obras de conservação.
+Porém, com a publicação da referida lei, o Estado deixou de construir e apetrechar empreendimentos do ensino primário e de comparticipar nos respectivos encargos numa altura em que ainda se verificava em todo o País uma grande carência de salas de aula.
+Tais factos criaram uma situação difícil no sector do ensino, aumentando as deficiências da rede escolar e criando em algumas localidades situações de ruptura.
+Deste modo, justifica-se que de entre os investimentos municipais a que se destina a linha de crédito cuja criação foi autorizada pela Resolução n.º 237/80, de 25 de Junho, publicada no Diário da República, 1.ª série, n.º 154, de 7 de Julho de 1980, haja que definir condições de juro mais favoráveis para aqueles que tenham por objecto a construção de estabelecimentos de ensino primário.
+Assim, o Conselho de Ministros, reunido em 13 de Agosto de 1980, resolveu que a taxa de juro a aplicar aos empréstimos contraídos pelos municípios ao abrigo da linha de crédito a que se refere a Resolução n.º 237/80, de 25 de Junho, será de 17%, competindo ao Estado suportar a bonificação de 5%, desde que se verifiquem, cumulativamente, as seguintes condições:
+a) Destinar-se o empréstimo à realização de empreendimentos do ensino primário;
+b) Obedecerem os mesmos à programação de necessidades e prioridades definidas pelo Ministério da Educação e Ciência;
+c) Obedecerem os anteprojectos ou projectos base à prévia aprovação do Ministério da Educação e Ciência, cabendo ao Ministério da Habitação e Obras Públicas a aprovação dos projectos de execução e o contrôle da construção;
+d) Terem os empreendimentos início até 31 de Julho de 1981 e, quando se tratar de novas construções, que os mesmos estarem concluídos e prontos a funcionar até ao início do ano lectivo de 1982-1983.
+Presidência do Conselho de Ministros, 13 de Agosto de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
