@@ -1,0 +1,146 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "tipo": "Projeto de Lei",
+  "numero": "249",
+  "id": "28845",
+  "fases": 14,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1988-05-11",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1988-10-14",
+    "DataInicioleg": "1987-08-13",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "2964",
+        "nome": "Coelho dos Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "94",
+        "nome": "Leonardo Ribeiro de Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "48",
+        "nome": "Correia Afonso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2942",
+        "nome": "Arnaldo Brito Lhamas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3069",
+        "nome": "Reinaldo Gomes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "620",
+        "nome": "José Coelho dos Reis"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "95",
+        "nome": "Licinio Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2967",
+        "nome": "Daniel Bastos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "76",
+        "nome": "José Alberto Puig"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3013",
+        "nome": "José Coito Pita"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3030",
+        "nome": "Luís Carvalho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "63",
+        "nome": "João Salgado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3015",
+        "nome": "José Ferreira de Campos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "618",
+        "nome": "Guilherme Silva"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "28845",
+    "IniLeg": "V",
+    "IniLinkTexto": "",
+    "IniNr": "249",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Alterações ao artigo 1094º do Código Civil",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": [
+      {
+        "autor": "PSD",
+        "id": "28818",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "332027",
+            "obs": null,
+            "pag": [
+              "1070-1070"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-05-20",
+            "pubLeg": "V",
+            "pubNr": "35",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/05/02/035/1989-05-20/1070?pgs=1070&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      }
+    ]
+  }
+}
