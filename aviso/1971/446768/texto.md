@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que foram trocados em Lisboa, em 4 de Fevereiro de 1971, entre o Ministro dos Negócios Estrangeiros de Portugal e o embaixador da Bélgica em Lisboa, os instrumentos de ratificação da Convenção entre Portugal e a Bélgica para Evitar a Dupla Tributação e Regular Algumas Outras Questões em Matéria de Impostos sobre o Rendimento, assinada em Bruxelas em 16 de Julho de 1969 e aprovada para ratificação pelo Decreto-Lei n.º 619/70, promulgado em 19 de Novembro.
+Direcção-Geral dos Negócios Económicos, 5 de Fevereiro de 1971. - O Director-Geral, J. Calvet de Magalhães.
