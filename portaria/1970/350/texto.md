@@ -1,0 +1,9 @@
+Portaria n.º 350/70
+A Portaria n.º 17055, de 6 de Março de 1959, tornou extensiva ao pessoal militar embarcado em transportes de tropas a utilização da via radiotelegráfica de recurso Portucale-NAV, criada pela Portaria n.º 9974, de 24 de Dezembro de 1941, nos termos da última parte do § 2.º do artigo 4.º do Decreto-Lei n.º 31422, de 26 de Julho de 1941.
+Por seu turno, as portarias que promulgam o afretamento, pelo Estado, de navios destinados a efectuar transportes estabelecem que tais navios, durante o tempo que tiverem capitão-de-bandeira, só poderão ser utilizados em serviços de Estado e não comercial, condicionamento este que envolve também a exploração das comunicações de bordo.
+Reconhece-se, entretanto, que os tripulantes dos navios afretados para transporte de tropas e material de guerra e seus familiares não podem ficar privados de notícias por força da aplicação da doutrina da citada Portaria n.º 17055, entendendo-se que lhes devem ser concedidas as facilidades previstas para as guarnições dos navios da Armada e para os militares embarcados naqueles transportes.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros da Marinha e das Comunicações, o seguinte:
+1.º É tornada extensiva às tripulações dos navios afretados para transporte de tropas e material de guerra a utilização da via radiotelegráfica de recurso Portucale-NAV.
+2.º Para efeitos do consignado no número anterior, os navios afretados para transporte de tropas e material de guerra e as suas tripulações consideram-se equiparados, respectivamente, aos navios da Armada e às suas guarnições. As entidades exploradoras das estações radiotelegráficas daqueles transportes dispensam, tal como o Ministério da Marinha, os utentes da via Portucale-NAV do pagamento de quaisquer taxas de bordo.
+Ministérios da Marinha e das Comunicações, 13 de Julho de 1970. - O Ministro da Marinha, Manuel Pereira Crespo. - O Ministro das Comunicações, Rui Alves da Silva Sanches.
