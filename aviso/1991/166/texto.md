@@ -1,0 +1,5 @@
+Aviso n.º 166/91
+Por ordem superior se torna público que, por nota de 26 de Agosto de 1991 e nos termos do artigo 31.º da Convenção sobre o Reconhecimento dos Divórcios e das Separações de Pessoas, concluída na Haia a 1 de Junho de 1970, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter Portugal declarado aceitar a adesão de Chipre e da Austrália à mencionada Convenção e a extensão da mesma a Aruba.
+Nos termos do artigo 28.º, quinto parágrafo, a Convenção entrará em vigor entre Portugal e os referidos Estados em 14 de Outubro de 1991.
+Portugal é parte na Convenção, a qual foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 23/84, de 27 de Novembro, tendo depositado o seu instrumento de ratificação em 10 de Maio de 1985, conforme aviso publicado no Diário da República, 1.ª série, n.º 164, de 19 de Julho de 1985. Entrou em vigor para Portugal em 9 de Julho de 1985.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 2 de Outubro de 1991. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
