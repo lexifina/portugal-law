@@ -1,0 +1,5 @@
+Declaração de Rectificação n.º 20/2005
+Para os devidos efeitos se declara que a Resolução da Assembleia Legislativa Regional n.º 1/2005/A, publicada no Diário da República, 1.ª série, n.º 14, de 20 de Janeiro de 2005, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+1 - Na terceira linha do segundo parágrafo do preâmbulo, onde se lê «as matérias do respectivo Estatuto» deve ler-se «as matérias constantes do respectivo Estatuto».
+2 - Após o artigo 5.º, onde se lê «Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 11 de Dezembro de 2004.» deve ler-se «Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de Dezembro de 2004.» e onde se lê «O Presidente da Assembleia Legislativa Regional» deve ler-se «O Presidente da Assembleia Legislativa da Região Autónoma dos Açores».
+Secretaria-Geral da Presidência do Conselho Ministro, 11 de Março de 2005. - O Secretário-Geral, José M. Sousa Rego.
