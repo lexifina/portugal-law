@@ -1,0 +1,5 @@
+Aviso n.º 12/2005
+Por ordem superior se torna público que, em 1 de Dezembro de 2004, Portugal depositou, junto do Secretário-Geral da Organização Marítima Internacional, o seu instrumento de denúncia à Convenção Internacional sobre Responsabilidade Civil por Danos Devidos à Poluição por Hidrocarbonetos, concluída em Bruxelas em 29 de Novembro de 1969.
+Nos termos do artigo 16.º, n.º 3, da Convenção, a denúncia de Portugal produz efeitos a partir de 1 de Dezembro de 2005.
+Esta Convenção foi aprovada por Portugal pelo Decreto-Lei n.º 694/76, de 21 de Setembro, publicado no Diário da República, 1.ª série, n.º 222, de 21 de Setembro de 1976, tendo depositado o seu instrumento de ratificação em 26 de Novembro de 1976, conforme aviso (Diário da República, 1.ª série, n.º 9, de 12 de Janeiro de 1977), e tendo entrando em vigor em 24 de Fevereiro de 1977.
+Direcção-Geral dos Assuntos Multilaterais, 22 de Dezembro de 2004. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
