@@ -1,0 +1,19 @@
+Rectificação
+Tendo sido publicado com inexactidão no Diário do Governo, 1.ª série, n.º 214, de 12 de Setembro findo, pelo Ministério das Finanças, Direcção-Geral da Contabilidade Pública, o Decreto n.º 49236, determino que se faça a seguinte rectificação:
+No artigo 2.º, onde se lê:
+...
+Ministério da Educação Nacional
+...
+Estabelecimentos diversos
+Instituto Português de Oncologia de Francisco Gentil
+...
+Alínea 3 «...» ... 3600000$00
+deve ler-se:
+...
+Ministério da Educação Nacional
+...
+Estabelecimentos diversos
+Instituto Português de Oncologia de Francisco Gentil
+...
+Alínea 3 «...» ... 5600000$00
+Presidência do Conselho, 3 de Outubro de 1969. - O Presidente do Conselho, Marcello Caetano.
