@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 16-AI/2000
+Para os devidos efeitos se declara que a Declaração de Rectificação n.º 12-A/2000, publicada no Diário da República, 1.ª série, n.º 231 (suplemento), de 6 de Outubro de 2000, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No parágrafo anterior à planta publicada, onde se lê «A planta de ordenamento não foi, por lapso, publicada antes do Regulamento do Plano, pelo que se procede agora à sua publicação:» deve ler-se «O anexo a que se refere a alínea a) do texto da resolução, constituído por um extracto da planta de ordenamento, não foi, por lapso, publicado antes do Regulamento do Plano, pelo que se procede agora à sua publicação:».
+Secretaria-Geral da Presidência do Conselho de Ministros, 29 de Dezembro de 2000. - O Secretário-Geral, Alexandre Figueiredo.
