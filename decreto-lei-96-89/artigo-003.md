@@ -1,8 +1,8 @@
 # Artigo 3.º
 
-Para a prossecução dos objectivos e atribuições a que refere o artigo 1.º, compete ao MAR:
+O MAR tem as seguintes competências:
 
-a) Efectuar o registo de navios de comércio, incluindo os contratos de construção, e das embarcações de recreio;
+a) Efectuar o registo de navios;
 
 b) Fiscalizar as condições técnicas dos navios, de acordo com as convenções internacionais vigentes na ordem jurídica portuguesa ou a legislação nacional aplicável aos navios não abrangidos por aquelas;
 
@@ -22,8 +22,6 @@ i) Fixar as lotações mínimas dos navios e emitir os respectivos certificados;
 
 j) Fazer a matrícula das tripulações;
 
-l) Reconhecer os certificados técnicos emitidos por administrações marítimas estrangeiras referentes à actividade das marinhas de comércio e de recreio;
+l) Reconhecer os certificados académicos e técnicos estrangeiros referentes à actividade da marinha de comércio;
 
-m) Efectuar a inscrição dos factos jurídicos a ele sujeitos e referentes aos navios registados;
-
-n) Realizar os demais actos inerentes às obrigações do registo.
+m) Realizar os demais actos inerentes às obrigações do registo.
