@@ -1,0 +1,9 @@
+Portaria n.º 1459/2001
+de 28 de Dezembro
+Através da Portaria n.º 356/2000, de 16 de Junho, alterada pela Portaria n.º 492/2001, de 11 de Maio, foi instituído um novo modelo de aplicação dos planos de erradicação das várias doenças dos animais, designadamente dos grandes e pequenos ruminantes, tendo sido redefinido o papel que nesse âmbito cabe às diversas entidades intervenientes, nomeadamente às organizações de produtores pecuários (OPP).
+No caso particular das OPP situadas na região agrária de Trás-os-Montes, devido ao estado sanitário dos seus efectivos, a subvenção anual tem vindo a ser majorada, visando a obtenção de uma situação sanitária mais satisfatória, o que, aliás, já se verifica.
+Entretanto a situação actual e perspectivada para as acções de profilaxia médica e sanitária desencadeadas no âmbito do programa de erradicação da brucelose dos pequenos ruminantes justificam que, para o ano 2002, seja ainda mantida a majoração de 40%, tendo em vista a obtenção de um efectivo controlo da doença naquela região.
+Assim:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do artigo 4.º do Decreto-Lei n.º 39209, de 14 de Maio de 1953, que o n.º 18.º da Portaria n.º 492/2001, de 11 de Maio, passe a ter a seguinte redacção:
+«18.º Tendo em conta que o esforço desenvolvido pelas OPP da área da região de Trás-os-Montes no âmbito do programa de erradicação da brucelose dos pequenos ruminantes permite antever resultados positivos tendentes ao efectivo controlo da doença naquela região e que, neste contexto, se torna necessário, entre outras medidas, terminar até 31 de Dezembro de 2002 a campanha de vacinação em curso do efectivo adulto, a subvenção a que aquelas organizações têm direito nos termos do anexo I é majorada, no ano 2002, em 40%.»
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado da Agricultura, em 4 de Dezembro de 2001.
