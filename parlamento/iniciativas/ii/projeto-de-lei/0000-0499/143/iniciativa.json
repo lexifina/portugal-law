@@ -1,0 +1,178 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=2UPfDKqx4yThZkCiWeDvzZahwRkNMsQnE24OvBZ8AQP4b9vLhOz5HeV8hVxyPJHJ8ksq0tq9PZ0dW0Thx2wqKViMfSelY21acf9tKlvuT%2bBVZy2KHe0HmmPBynAp85sbnt1BVV39jrAzsrdek%2f7TtHhLFct8jeYawEpIt%2fQHOLswD3sih4hoy66fgBVAtt6H9ygINxTWi5FNmDyriNdNwoWb5VskQvfOcNrmYVIjTS9IGBP0EQjeMWuwshVlzHJQGqcAmyrmR8xAksXUjJuMhfFCQiBeCAAXQSIoMEzuV9pOUAqkueBVsQQFz%2bJsM9g9na0p69krrgJ3RGL8GdN9jLKc97oScVoy8bOVtmNyjig%3d&fich=IniciativasII_json.txt&Inline=true",
+  "ficheiro_sha256": "2d1420d0c7ebeb0e40f4da305b81f9a5f39e3f60a98c12da4ec0fe9e3f55e5fc",
+  "legislatura": "II",
+  "tipo": "Projeto de Lei",
+  "numero": "143",
+  "id": "30440",
+  "fases": 9,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1981-02-12",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1981-10-14",
+    "DataInicioleg": "1980-11-13",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "2906",
+        "nome": "Afonso Moura Guedes"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3570",
+        "nome": "Francisco Oliveira Dias"
+      },
+      {
+        "GP": "PPM",
+        "idCadastro": "3582",
+        "nome": "Jorge Portugal da Silveira"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      },
+      {
+        "GP": "CDS"
+      },
+      {
+        "GP": "PPM"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "30440",
+    "IniLeg": "II",
+    "IniLinkTexto": "",
+    "IniNr": "143",
+    "IniObs": "Existem mais 14 signatários.",
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Regime de criação de freguesias e municípios e fixação da categoria das povoações.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": [
+      {
+        "autor": "Deputados",
+        "id": "30441",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "341509",
+            "obs": null,
+            "pag": [
+              "1243-1243"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1982-03-12",
+            "pubLeg": "II",
+            "pubNr": "66",
+            "pubSL": "2",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/02/02/066/1982-03-12/1243?pgs=1243&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      },
+      {
+        "autor": "Deputados",
+        "id": "30442",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "341510",
+            "obs": null,
+            "pag": [
+              "1258-1258"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1982-03-17",
+            "pubLeg": "II",
+            "pubNr": "67",
+            "pubSL": "2",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/02/02/067/1982-03-17/1258?pgs=1258&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      },
+      {
+        "autor": "Deputados",
+        "id": "30443",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "341511",
+            "obs": null,
+            "pag": [
+              "1268-1268"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1982-03-19",
+            "pubLeg": "II",
+            "pubNr": "68",
+            "pubSL": "2",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/02/02/068/1982-03-19/1268?pgs=1268&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      },
+      {
+        "autor": "Deputados",
+        "id": "30444",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "341512",
+            "obs": null,
+            "pag": [
+              "38-38"
+            ],
+            "pagFinalDiarioSupl": "2º Supl.",
+            "pubdt": "1982-03-20",
+            "pubLeg": "II",
+            "pubNr": "69",
+            "pubSL": "2",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": "2º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/02/02/069S2/1982-03-20/38?pgs=38&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      }
+    ]
+  }
+}
