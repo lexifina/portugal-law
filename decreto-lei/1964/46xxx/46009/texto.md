@@ -1,0 +1,12 @@
+Decreto-Lei n.º 46009
+A Câmara Municipal do concelho de Cantanhede representou ao Governo no sentido de lhe ser cedido o terreno onde foi construído o novo edifício escolar de Montinho, na freguesia de Pocariça, daquele concelho.
+Considerando o grande interesse público da criação de escolas do novo plano de construções para o ensino primário e o facto de o Estado ter já feito várias cessões com a mesma finalidade;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo e gratuito, à Câmara Municipal do concelho de Cantanhede a parcela de terreno demarcada na planta anexa a este diploma e que dele faz parte integrante, na qual foi construída uma escola segundo o actual plano de construções para o ensino primário.
+§ 1.º O imóvel cedido poderá reverter para o domínio e posse do Estado, por simples despacho ministerial, sem direito a qualquer indemnização, se ao edifício nele implantado for dada outra aplicação.
+§ 2.º A cessão efectivar-se-á por meio de auto a lavrar na Repartição de Finanças de Cantanhede e é isenta de impostos.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 6 de Novembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+(ver documento original)
+Ministério das Finanças, 6 de Novembro de 1964. - O Ministro das Finanças, António Manuel Pinto Barbosa
