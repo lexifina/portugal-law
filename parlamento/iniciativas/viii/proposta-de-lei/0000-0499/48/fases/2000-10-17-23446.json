@@ -1,0 +1,180 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "48",
+    "id": "5868",
+    "titulo": "Orçamento do Estado para 2001"
+  },
+  "fase": "Publicação",
+  "codigo_fase": "50",
+  "data_registo": "2000-10-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "50",
+    "Comissao": null,
+    "DataFase": "2000-10-17",
+    "EvtId": "51",
+    "Fase": "Publicação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "23446",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "36642",
+        "obs": "Texto da Proposta de Lei",
+        "pag": [
+          "84-(140)-84-(170)"
+        ],
+        "pagFinalDiarioSupl": "2º Supl.",
+        "pubdt": "2000-10-17",
+        "pubLeg": "VIII",
+        "pubNr": "5",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": "2º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/08/02/005S2/2000-10-17/84-(140)?pgs=84-(140)-84-(170)&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "282080",
+        "obs": "Mapas de I a X",
+        "pag": [
+          "84-(172)-84-(233)"
+        ],
+        "pagFinalDiarioSupl": "3º Supl.",
+        "pubdt": "2000-10-17",
+        "pubLeg": "VIII",
+        "pubNr": "5",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": "3º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/08/02/005S3/2000-10-17/84-(172)?pgs=84-(172)-84-(233)&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "282081",
+        "obs": "Mapa XI (PIDDAC, por ministérios, por sectores e global)",
+        "pag": [
+          "84-(237)-84-(656)"
+        ],
+        "pagFinalDiarioSupl": "4º Supl.",
+        "pubdt": "2000-10-17",
+        "pubLeg": "VIII",
+        "pubNr": "5",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": "4º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/08/02/005S4/2000-10-17/84-(237)?pgs=84-(237)-84-(656)&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "282082",
+        "obs": "Mapa XII (programas, por classificação orgânica, funcional e económica)",
+        "pag": [
+          "84-(660)-84-(661)"
+        ],
+        "pagFinalDiarioSupl": "5º Supl.",
+        "pubdt": "2000-10-17",
+        "pubLeg": "VIII",
+        "pubNr": "5",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": "5º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/08/02/005S5/2000-10-17/84-(660)?pgs=84-(660)-84-(661)&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "282083",
+        "obs": "Relatório final",
+        "pag": [
+          "84-(664)-84-(783)"
+        ],
+        "pagFinalDiarioSupl": "6º Supl.",
+        "pubdt": "2000-10-17",
+        "pubLeg": "VIII",
+        "pubNr": "5",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": "6º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/08/02/005S6/2000-10-17/84-(664)?pgs=84-(664)-84-(783)&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "282084",
+        "obs": "Parecer do Conselho Económico e Social",
+        "pag": [
+          "84-(786)-84-(796)"
+        ],
+        "pagFinalDiarioSupl": "7º Supl.",
+        "pubdt": "2000-10-17",
+        "pubLeg": "VIII",
+        "pubNr": "5",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": "7º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/08/02/005S7/2000-10-17/84-(786)?pgs=84-(786)-84-(796)&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "282085",
+        "obs": "Versão corrigida do mapa XI (PIDDAC, por ministérios, por sectores e global)",
+        "pag": [
+          "84-(801)-84-(824)"
+        ],
+        "pagFinalDiarioSupl": "8º Supl.",
+        "pubdt": "2000-10-17",
+        "pubLeg": "VIII",
+        "pubNr": "5",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": "8º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/08/02/005S8/2000-10-17/84-(801)?pgs=84-(801)-84-(824)&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
