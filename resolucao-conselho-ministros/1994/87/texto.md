@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros n.º 87/94
+A reestruturação da QUIMIGAL - Química de Portugal, S. A., determinou a autonomização jurídica e financeira de algumas das áreas de actividade e a consequente alienação, total ou parcial, das participações sociais detidas pela Quimigal, S. A., nas empresas desta forma constituídas.
+Foi assim constituído o L. P. Q. - Laboratório Pró-Qualidade, S. A., cujo capital social se pretende agora alienar, dado que a actividade desta empresa não se enquadra na estragégia empresarial definida para a QUIMIGAL - Química de Portugal, S. A.
+De acordo com o Decreto-Lei n.º 226/94, de 5 de Setembro, que autoriza a Quimigal, S. A., a proceder à venda directa da sua participação social no L. P. Q. - Laboratório Pró-Qualidade, S. A., e com o artigo 8.º da Lei n.º 11/90, de 5 de Abril, compete ao Conselho de Ministros a aprovação do respectivo caderno de encargos.
+Assim:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - Aprovar o caderno de encargos que tem por objecto definir as condições em que a QUIMIGAL - Química de Portugal, S. A., se propõe proceder à alienação da sua participação social no L. P. Q. - Laboratório, Pró-Qualidade, S. A.
+2 - Os titulares originários da dívida pública decorrente das nacionalizações e expropriações, no caso da mobilização dos seus títulos de indemnização, deverão juntar às respectivas ordens de compra uma declaração de conformidade com o disposto no artigo 24.º da Lei n.º 11/90, de 5 de Abril.
+3 - No prazo máximo de 90 dias após a operação, o Ministério das Finanças, através da Junta do Crédito Público, verificará a veracidade das declarações referidas no número anterior e, se se apurar o incumprimento do disposto no artigo 24.º da Lei n.º 11/90, de 5 de Abril, as acções indevidamente atribuídas reverterão para o Estado, caso o adquirente não proceda imediatamente à sua liquidação em dinheiro, acrescida de um juro moratório à taxa de 1,8% ao mês.
+4 - Os títulos de dívida pública decorrente das nacionalizações e expropriações mobilizados para pagamento da subscrição à QUIMIGAL - Química de Portugal, S. A., serão a esta resgatados, ao seu valor nominal, pelo Fundo de Regularização da Dívida Pública.
+Presidência do Conselho de Ministros, 1 de Setembro de 1994. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
