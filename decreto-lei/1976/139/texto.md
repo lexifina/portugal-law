@@ -1,0 +1,18 @@
+Decreto-Lei n.º 139/76
+de 19 de Fevereiro
+A aplicação do artigo 7.º do Decreto-Lei n.º 123/75, de 11 de Março, veio ocasionar, num ou noutro caso, situações de notória injustiça e de um alcance social negativo para o processo revolucionário em curso ainda difícil de determinar.
+Tem-se em vista a recuperação profissional e a reparação moral daqueles que comprovadamente se não encontrem nas condições objectivas de perseguição e luta antidemocrática que o legislador quis abranger ou que tenham inequivocamente rectificado, em tempo oportuno e digno de consideração, as atitudes ou comportamentos pressupostos na lei.
+Nestes termos:
+Usando dos poderes conferidos pelo artigo 6.º da Lei n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Aos demitidos da função pública por força do disposto nas alíneas b), c) e d) do n.º 1 do artigo 7.º do Decreto-Lei n.º 123/75, de 11 de Março, é reconhecida a faculdade de intentar processo de reabilitação.
+Art. 2.º Os processos serão organizados pela Comissão de Análise de Recursos de Saneamento e Reclassificação (CARSR) do Conselho da Revolução, a requerimento dos interessados e cabendo a estes a produção das respectivas provas.
+Art. 3.º A CARSR apurará se o recorrente antes de 25 de Abril de 1974 não tomou ou, tendo tomado, inequivocamente repudiou até àquela data as atitudes e os comportamentos pressupostos nas situações que determinaram a providência legal referida no artigo 1.º
+Art. 4.º Ultimado o processo, a CARSR fá-lo-á presente ao Conselho da Revolução para efeitos de decisão.
+Art. 5.º - 1. Na resolução do Conselho da Revolução ou no despacho do membro em quem este delegar tal competência decidir-se-á do grau de reabilitação e da data a partir da qual produzirá efeitos.
+2. Em caso de omissão entender-se-á que os efeitos se produzem a partir da data da resolução ou do despacho.
+Art. 6.º Segundo a natureza da prova produzida, a demissão poderá ser substituída por qualquer das medidas previstas nas alíneas a), b) e c) do n.º 1 do artigo 2.º do Decreto-Lei n.º 123/75, de 11 de Março.
+Art. 7.º Este diploma entra em vigor na data da sua publicação.
+Visto e aprovado em Conselho da Revolução.
+Promulgado em 9 de Fevereiro de 1976.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
