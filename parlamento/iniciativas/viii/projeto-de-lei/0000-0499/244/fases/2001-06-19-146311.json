@@ -1,0 +1,452 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "244",
+    "id": "5984",
+    "titulo": "Estatuto do voluntariado jovem"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-06-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1939",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-06-19",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-06-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1212",
+                "nome": "Ana Catarina Mendonça"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138962",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3813-3814",
+                  "3819-3819"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3813?pgs=3813-3814,3819&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto do Voluntariado Jovem",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1799",
+                "nome": "António Pinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138963",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3814-3814"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3814?pgs=3814&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto do Voluntariado Jovem",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1693",
+                "nome": "Ricardo Fonseca de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138964",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3814-3815",
+                  "3819-3819"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3814?pgs=3814-3815,3819&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto do Voluntariado Jovem",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1374",
+                "nome": "João Pedro Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138965",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3815-3815"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3815?pgs=3815&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto do Voluntariado Jovem",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1762",
+                "nome": "Margarida  Botelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138966",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3815-3816"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3815?pgs=3815-3816&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto do Voluntariado Jovem",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1719",
+                "nome": "Rosado Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138967",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3816-3817"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3816?pgs=3816-3817&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto do Voluntariado Jovem",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1693",
+                "nome": "Ricardo Fonseca de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138968",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3818-3818"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3818?pgs=3818&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto do Voluntariado Jovem",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  JUVENTUDE E DESPORTO",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Fontes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138969",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3817-3820"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-20",
+                "pubLeg": "VIII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20/3817?pgs=3817-3820&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto do Voluntariado Jovem",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "146311",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1939",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-06-20",
+        "pubLeg": "VIII",
+        "pubNr": "97",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/097/2001-06-20?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
