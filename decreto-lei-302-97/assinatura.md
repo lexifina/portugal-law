@@ -1,0 +1,1 @@
+Visto e aprovado em Conselho de Ministros de 4 de Setembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Manuel Maria Cardoso Leal - Eduardo Carrega
