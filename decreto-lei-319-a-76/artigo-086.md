@@ -10,7 +10,7 @@
 
 4. A impressão dos boletins de voto ficará a cargo do Estado, através da Imprensa Nacional-Casa da Moeda.
 
-5. O governador civil remeterá a cada presidente da câmara e comissão administrativa municipal ou, nos concelhos onde existirem bairros administrativos, ao administrador do bairro os boletins de voto para que estes cumpram o preceituado no n.º 2 do artigo 46.º
+5. O governador civil remeterá a cada presidente da câmara e comissão administrativa municipal ou, nos concelhos onde existirem bairros administrativos, ao administrador do bairro os boletins de voto para que estes cumpram o preceituado no n.º 2 do artigo 43.º
 
 6. O número de boletins de voto remetidos, em sobrescrito fechado e lacrado, será igual ao número de eleitores inscritos na assembleia ou secção de voto mais 20%.
 

@@ -1,6 +1,6 @@
 # Artigo 16.º
 
-### (Mandatários e representantes distritais das listas)
+### (Mandatários e representantes distritais das candidaturas)
 
 1. Cada candidato designará um mandatário para o representar nas operações referentes ao julgamento da elegibilidade e nas operações subsequentes.
 

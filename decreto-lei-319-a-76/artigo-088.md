@@ -8,7 +8,7 @@
 
 a) No qual tenha sido assinalado mais de um quadrado ou quando haja dúvidas sobre qual o quadrado assinalado;
 
-b) No qual tenha sido assinalado o quadrado correspondente a uma lista que tenha desistido das eleições;
+b) No qual tenha sido assinalado o quadrado correspondente a uma candidatura que tenha desistido das eleições;
 
 c) No qual tenha sido feito qualquer corte, desenho ou rasuras ou quando tenha sido escrita qualquer palavra.
 

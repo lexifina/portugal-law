@@ -2,7 +2,7 @@
 
 ### (Cadernos eleitorais)
 
-1. Logo que definidas as assembleias de voto e designados os membros das respectivas mesas, cada uma destas deverá extrair duas cópias ou fotocópias dos cadernos de recenseamento, cuja exactidão será confirmada pela comissão de recenseamento, destinadas aos escrutinadores.
+1. Logo que definidas as assembleias de voto e designados os membros das respectivas mesas, cada uma destas deverá extrair duas cópias ou fotocópias dos cadernos de recenseamento, cuja exactidão será confirmada pela comissão administrativa municipal, destinadas aos escrutinadores.
 
 Os delegados das candidaturas poderão extrair também cópia ou fotocópia dos cadernos.
 

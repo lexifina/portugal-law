@@ -14,4 +14,4 @@
 
 ### (Infracções eleitorais)
 
-É aplicável às infracções eleitorais previstas no presente diploma o disposto nos artigos 31.º e 35.º do Decreto-Lei n.º 26-A/76, de 15 de Janeiro.
+É aplicável às infracções eleitorais previstas no presente diploma o disposto nos artigos 31.º e 35.º do Decreto-Lei n.º 25-A/76, de 15 de Janeiro.

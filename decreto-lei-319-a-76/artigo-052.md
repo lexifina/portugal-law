@@ -2,7 +2,7 @@
 
 ### (Direito de antena)
 
-1. Os candidatos os representantes por si designados terão direito de acesso, para propaganda eleitoral, às estações de televisão e rádio, tanto públicas como privadas, e quanto a estas, desde que as mesmas tenham feito a declaração prevista no artigo 54.º
+1. Os candidatos ou representantes por si designados terão direito de acesso, para propaganda eleitoral, às estações de televisão e rádio, tanto públicas como privadas, e quanto a estas, desde que as mesmas tenham feito a declaração prevista no artigo 54.º
 
 2. Durante o período da campanha eleitoral, as estações de rádio e televisão reservarão às candidaturas os seguintes tempos de emissão:
 
