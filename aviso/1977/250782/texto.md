@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que foram trocados em Lisboa, a 1 de Junho de 1977, entre o Ministro dos Negócios Estrangeiros de Portugal e o embaixador da República da Guiné-Bissau, os instrumentos de ratificação referentes aos Acordo Geral de Cooperação e Amizade, Acordo de Cooperação Científica e Técnica e Acordo Regulador do Estatuto de Pessoas e Regime dos Seus Bens, celebrados entre a República Portuguesa e a República da Guiné-Bissau, assinados em Lisboa a 11 e a 22 de Junho de 1975 e a 21 de Junho de 1976 e aprovados, para ratificação, pelos Decretos n.os 75/76 e 76/76, de 27 de Janeiro, e 18/17, de 7 de Janeiro, respectivamente.
+Gabinete Coordenador para a Cooperação, 28 de Junho de 1977. - Pelo Director, José de Mattos Parreira.
