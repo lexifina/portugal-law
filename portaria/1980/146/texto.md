@@ -1,0 +1,15 @@
+Portaria n.º 146/80
+de 31 de Março
+A Portaria n.º 79/79, de 13 de Fevereiro, através das alíneas b) e c) do n.º 1 do seu artigo 2.º, estabelece para todos os proprietários de suínos a obrigatoriedade, não apenas de procederem ao registo das explorações suínas sem qualquer limitação quanto ao número de animais, como também de efectuarem a declaração periódica, em Janeiro e Julho, do número de animais existentes nas explorações registadas.
+Considerando que os países da C. E. E. adoptam outra periodicidade (Abril, Agosto e Dezembro) para a realização das declarações de existência de suínos;
+Considerando ainda que Portugal tende a integrar-se, a curto prazo, no seio da referida Comunidade, julga-se haver a maior conveniência em que as estruturas que regulam a suinicultura nacional se adaptem às normas em uso naquela organização. Nesta conformidade, torna-se indispensável, como primeiro passo, harmonizar, desde já, as datas das declarações fixadas na Portaria n.º 79/79 com as observadas pelos países do Mercado Comum.
+Porque se reconhece, por outro lado, não dispor ainda o nosso país de estruturas capazes de responder, de imediato, às exigências que essa integração irá determinar, julga-se haver o maior interesse em que a obrigatoriedade das declarações de existências a efectuar nos termos da Portaria n.º 79/79 beneficie de um período de transição, durante o qual os pequenos suinicultores (pocilgas familiares definidas pelo Decreto-Lei n.º 233/79) manterão o direito à indemnização por eventual abate compulsivo dos seus animais por peste suína africana, quer tenham ou não efectuado aquelas declarações.
+Nestes termos, conforme o determinado na Portaria n.º 113/80, de 15 de Março:
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura e Pescas:
+1.º A alínea c) do n.º 1 do artigo 2.º da Portaria n.º 79/79, de 13 de Fevereiro, passa a ter a seguinte redacção:
+Declaração periódica, em Abril e Dezembro, do número de animais existentes nas explorações registadas.
+2.º - 1 - Para as pocilgas familiares definidas pelo Decreto-Lei n.º 233/79, de 24 de Julho, e apenas para este tipo de exploração, a declaração periódica estabelecida no artigo precedente só será obrigatória a partir de 1 de Abril de 1981.
+2 - Durante o período de transição previsto neste artigo, os proprietários das pocilgas familiares continuam a auferir o direito à indemnização sempre que os seus animais venham a ser abatidos compulsivamente por peste suína africana, independentemente de terem procedido ou não à declaração referida no artigo 1.º
+3 - O direito à indemnização previsto no número anterior tem acção retroactiva, contemplando todos os casos verificados a partir da publicação da Portaria n.º 79/79.
+3.º As dúvidas e omissões que possam surgir na aplicação da Portaria n.º 79/79, de 13 de Fevereiro, e da presente serão resolvidas por despacho do Ministro da Agricultura e Pescas.
+Ministério da Agricultura e Pescas, 26 de Março de 1980. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.
