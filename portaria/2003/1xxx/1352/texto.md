@@ -1,0 +1,14 @@
+Portaria n.º 1352/2003
+de 11 de Dezembro
+Pela Portaria n.º 544-I/96, de 4 de Outubro, foi concessionada à Sociedade Agro-Pecuária Flor de Lys, Lda., a zona de caça turística da Herdade da Várzea Redonda e outras (processo n.º 802-DGF), situada no município do Alandroal, com a área de 1258,1250 ha, válida até 8 de Julho de 2003.
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+Cumpridos os preceitos legais, com fundamento no disposto no n.º 8 do artigo 44.º, em articulação com o disposto na alínea a) do n.º 2 do artigo 36.º e no n.º 2 do artigo 114.º, do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, e ouvido o Conselho Cinegético Municipal:
+Manda o Governo, pelos Ministros da Economia, da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente, o seguinte:
+1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística da Herdade da Várzea Redonda e outras (processo n.º 802-DGF), abrangendo vários prédios rústicos sitos nas freguesias de Nossa Senhora do Loreto, município do Alandroal, com a área de 779,1819 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+2.º A Direcção-Geral do Turismo emitiu, ao abrigo do disposto no n.º 3 do artigo 34.º do citado diploma, parecer favorável condicionado à aprovação do projecto de arquitectura do pavilhão de caça, apresentado em 14 de Julho de 2003, à conclusão da obra no prazo de 12 meses a contar da data de notificação da aprovação do projecto, à verificação da conformidade da obra com o projecto aprovado, à legalização do alojamento turístico previsto, junto da Câmara Municipal do Alandroal, caso seja afecto à exploração turística e à garantia de infra-estruturas exclusivas de apoio aos caçadores.
+3.º Poderão vir a ser criadas zonas de interdição à caça durante o período de concessão, até um máximo de 10% da área da zona de caça, e sem direito a qualquer indemnização, sempre que sejam introduzidas alterações de condicionantes por planos especiais de ordenamento do território de áreas protegidas ou obtidos dados científicos que comprovem a incompatibilidade com a actividade cinegética.
+4.º É revogada a Portaria n.º 673/2003, de 30 de Julho.
+5.º A presente portaria produz efeitos a partir do dia 9 de Julho de 2003.
+Pelo Ministro da Economia, Luís Manuel Correia da Silva, Secretário de Estado do Turismo, em 24 de Novembro de 2003. - Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 18 de Novembro de 2003. - Pelo Ministro das Cidades, Ordenamento do Território e Ambiente, Joaquim Paulo Taveira de Sousa, Secretário de Estado do Ordenamento do Território, em 27 de Novembro de 2003.
+
+(ver planta no documento original)
