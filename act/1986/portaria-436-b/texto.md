@@ -1,0 +1,17 @@
+Portaria n.º 436-B/86
+de 11 de Agosto
+O Decreto-Lei n.º 189-B/86, de 15 de Julho, estabelece no n.º 1 do artigo 5.º que o empréstimo será colocado em séries.
+O artigo 6.º determina que a taxa de juro anual a fixar para o empréstimo denominado «Obrigações do Tesouro, capitalização automática, 1986» será definida por portaria do Ministro das Finanças.
+Também o artigo 8.º admite que os titulares possam ser reembolsados ao fim de dois ou quatro anos após a data da subscrição mediante condições a fixar por portaria do Ministro das Finanças.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, ao abrigo do n.º 1 do artigo 5.º e dos artigos 6.º e 8.º do Decreto-Lei n.º 189-B/86, de 15 de Julho, o seguinte:
+1.º É autorizada a emissão da 2.ª série do empréstimo denominado «Obrigações do Tesouro, capitalização automática, 1986», a qual terá o seu início em 18 de Agosto.
+2.º A taxa de juro anual da 2.ª série será a taxa de referência estabelecida nos termos do artigo 1.º do Decreto-Lei n.º 311-A/85, de 30 de Julho, que estiver em vigor no primeiro dia de cada período anual de contagem de juros, abatida do diferencial de 2%.
+3.º O diferencial a que se refere o n.º 2.º manter-se-á inalterável durante o período da vigência dos títulos que constituem a mencionada série.
+4.º Para efeitos dos artigos 5.º e 7.º do Decreto-Lei n.º 189-B/86, de 15 de Julho, considera-se que o início da contagem de juros e o início do primeiro período anual correspondem ao dia do início da subscrição desta série.
+5.º Os titulares poderão optar pelo reembolso dos títulos ao fim de dois ou quatro anos após a data da subscrição pelo seu valor acumulado até àquelas datas.
+6.º As opções de reembolso terão de ser comunicadas à mesma instituição onde foi efectuada a subscrição até 60 dias antes das datas dos respectivos reembolsos.
+7.º As instituições colocadoras comunicarão à Junta do Crédito Público, até 45 dias antes das datas dos respectivos reembolsos, a quantidade de títulos a reembolsar, a fim de que, com a devida antecedência, a Junta do Crédito Público as habilite com os montantes correspondentes à satisfação daquele encargo.
+Ministério das Finanças.
+Assinada em 11 de Agosto de 1986.
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento.
