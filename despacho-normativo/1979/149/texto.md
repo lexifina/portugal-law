@@ -1,0 +1,5 @@
+Despacho Normativo n.º 149/79
+Considerando a situação de injustiça relativa criada aos técnicos auxilares do ex-Fundo de Fomento Florestal, diplomados com o curso de regente agrícola, com a publicação do Decreto-Lei n.º 521/73, de 12 de Outubro, e Decreto Regulamentar n.º 37/77, de 4 de Junho;
+Considerando que aquela situação tem reflexos na aplicação dos n.os 1 e 2 do Despacho Normativo n.º 42/79, de 23 de Fevereiro, determino, nos termos do n.º 1 do artigo 52.º do Decreto-Lei n.º 221/77, de 28 de Maio, o seguinte:
+Que aos actuais regentes agrícilas ou florestais de 1.ª classe (letra J), que prestaram serviço no ex-Fundo de Fomento Florestal, seja contado, para efeitos de aplicação dos n.os 1 e 2 do Despacho Normativo n.º 42/79, de 23 de Fevereiro, o tempo de serviço prestado na categoria de técnico auxiliar de 1.ª classe como se tivesse sido prestado na actual categoria.
+Ministério da Agricultura e Pescas, 4 de Junho de 1979. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.
