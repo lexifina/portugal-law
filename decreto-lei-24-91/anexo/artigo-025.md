@@ -2,7 +2,7 @@
 
 ### Delegação de poderes
 
-Os poderes para conceder crédito, constituir depósitos ou realizar quaisquer outras aplicações só podem ser delegados em empregados tidos por qualificados por decisão unânime do órgão de administração, e desde que:
+Os poderes para conceder crédito, constituir depósitos ou realizar quaisquer outras aplicações só podem ser delegados em empregados tidos por qualificados por decisão unânime da direcção e desde que:
 
 a) A delegação seja prevista nos estatutos;
 

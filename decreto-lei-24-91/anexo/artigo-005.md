@@ -14,9 +14,9 @@ d) Projecto de estatutos;
 
 e) Identificação pessoal e profissional dos membros fundadores, com especificação do capital subscrito por cada um;
 
-f) Certificado do registo criminal dos associados propostos para membros do órgão de administração ou de fiscalização, emitido há menos de 90 dias;
+f) Certificado do registo criminal dos associados propostas para cargos de directores ou de membros do conselho fiscal, emitido há menos de 90 dias;
 
-g) Declaração, assinada por cada uma das pessoas propostas para o exercício de cargo como membro dos órgãos de administração ou de fiscalização, de que não se encontra em situação de inelegibilidade e de que não foram declarados em estado de insolvência ou de falência nem o próprio nem as sociedades ou empresas cujo controlo ou administração tenha assegurado;
+g) Declaração de que nenhum dos propostas para os cargos de director ou de membro do conselho fiscal se encontra em situação de inelegibilidade e de que não foram declarados em estado de insolvência ou de falência nem eles nem as sociedades ou empresas cujo controlo ou administração tenham assegurado;
 
 h) Declaração de compromisso de que no acto da constituição se mostrará efectuado o depósito do capital social;
 

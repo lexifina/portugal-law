@@ -2,12 +2,10 @@
 
 ### Órgãos sociais da Caixa Central
 
-1 - Aos órgãos sociais da Caixa Central é aplicável o disposto no artigo 278.º do Código das Sociedades Comerciais, sem prejuízo do disposto no artigo 20.º
+1 - A administração e a fiscalização da Caixa Central podem adoptar uma das modalidades previstas no artigo 278.º do Código das Sociedades Comerciais.
 
-2 - Sem prejuízo das competências dos órgãos sociais previstas no número anterior, os estatutos da Caixa Central devem prever a existência de um órgão com funções consultivas, composto, no máximo por 15 membros, dos quais 9 correspondem a caixas eleitas de entre as associadas não representadas nos demais órgãos sociais, e os 6 restantes a membros não eleitos, sendo os correspondentes lugares preenchidos por inerência de funções ou por personalidades de reconhecido mérito, externas ao sistema integrado do crédito agrícola mútuo.
+2 - Haverá ainda na Caixa Central um conselho consultivo com as funções e a composição previstas no artigo 66.º
 
-3 - A duração do mandato do órgão previsto no número anterior coincide com o dos restantes órgãos da Caixa Central.
+3 - O exercício das funções de director, gerente, consultor, técnico, mandatário ou trabalhador de uma caixa agrícola não é incompatível com o exercício das mesmas ou de outras funções na Caixa Central.
 
-4 - O exercício das funções de membro dos órgãos de administração ou de fiscalização, director ou gerente de uma caixa agrícola não é incompatível com o exercício de funções não executivas na Caixa Central.
-
-5 - A assembleia geral ordinária da Caixa Central reúne obrigatoriamente duas vezes em cada ano, uma até 31 de Maio para deliberar sobre o relatório de gestão e as contas consolidadas do exercício anterior, a proposta de aplicação de resultados, proceder à apreciação geral da administração e fiscalização da Caixa Central, e outra até 31 de Dezembro para deliberar sobre o plano de actividades e o orçamento da Caixa Central e o plano de actividades do sistema integrado do crédito agrícola mútuo para o exercício seguinte.
+4 - Aos membros dos órgãos de administração e fiscalização da Caixa Central, incluindo os do conselho geral, se o houver, são aplicáveis as disposições dos artigos 30.º a 33.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras.

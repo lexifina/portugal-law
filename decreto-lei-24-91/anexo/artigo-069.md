@@ -12,7 +12,7 @@ c) A verificação dos factos previstos nos n.os 2 e 3 do artigo 79.º e 8 do ar
 
 2 - A deliberação de exclusão, tomada em assembleia geral da Caixa Central e de cuja convocatória deverá constar, será imediatamente comunicada ao Banco de Portugal para efeitos de averbamento no registo a que se refere o artigo 10.º
 
-3 - O Banco de Portugal deve promover a publicação da deliberação de exclusão, nos termos do n.º 1 do artigo 167.º do Código das Sociedades Comerciais, bem como a afixação de avisos nas instalações da caixa agrícola.
+3 - O Banco de Portugal providenciará ainda a publicação da deliberação de exclusão no Diário da República e a afixação de avisos nas instalações da caixa agrícola.
 
 4 - A exclusão só produzirá efeitos relativamente a terceiros após a publicação referida no número anterior.
 
@@ -20,8 +20,8 @@ c) A verificação dos factos previstos nos n.os 2 e 3 do artigo 79.º e 8 do ar
 
 6 - Os estatutos da Caixa Central poderão prever a aplicação de sanções de natureza pecuniária e a suspensão temporária de direitos em caso de incumprimento pelas caixas agrícolas associadas das regras e orientações emanadas da Caixa Central em conformidade com o disposto no presente diploma.
 
-7 - A aplicação das sanções referidas no número anterior é da competência do órgão de administração da Caixa Central, ou, se esta tiver adoptado a modalidade prevista na alínea c) do n.º 1 do artigo 278.º do Código das Sociedades Comerciais, do conselho geral e de supervisão, cabendo recurso para a assembleia geral, com efeito meramente devolutivo.
+7 - A aplicação das sanções referidas no número anterior é da competência do órgão de administração da Caixa Central, cabendo recurso para a assembleia geral, com efeito meramente devolutivo.
 
 8 - As sanções só poderão ser aplicadas mediante processo escrito e com audição prévia da associada.
 
-9 - O produto da aplicação das sanções de natureza pecuniária reverte integralmente a favor do Fundo de Garantia do Crédito Agrícola Mútuo independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória.
+9 - O produto da aplicação das sanções de natureza pecuniária reverte a favor do Fundo de Garantia do Crédito Agrícola Mútuo.

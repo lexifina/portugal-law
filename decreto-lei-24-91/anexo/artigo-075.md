@@ -4,11 +4,11 @@
 
 Sem prejuízo das competências do Banco de Portugal, compete à Caixa Central, no exercício das funções de orientação das suas associadas:
 
-a) Definir as orientações necessárias para assegurar o cumprimento das regras relativas à solvabilidade e liquidez das caixas agrícolas suas associadas e do sistema integrado do crédito agrícola mútuo;
+a) Definir as orientações necessárias para assegurar o cumprimento das regras relativas à solvabilidade e liquidez do sistema integrado do crédito agrícola mútuo;
 
-b) Definir as regras gerais de política comercial e de concessão de crédito, incluindo a prestação de garantias;
+b) Definir as regras gerais de concessão de crédito, incluindo prestação de garantias aos seus associados;
 
-c) Definir regras gerais quanto à admissão, remuneração, formação e qualificação do pessoal;
+c) Definir regras gerais quanto à admissão, formação e qualificação do pessoal;
 
 d) Definir regras gerais quanto à criação de novos estabelecimentos;
 

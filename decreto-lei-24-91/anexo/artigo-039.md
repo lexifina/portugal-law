@@ -2,7 +2,7 @@
 
 ### Aplicações financeiras
 
-1 - As caixas agrícolas podem fazer depósitos e aplicações em títulos da dívida pública, podendo o Banco de Portugal estabelecer condições para efeito.
+1 - As caixas agrícolas podem fazer depósitos e, nas condições que o Banco de Portugal estabelecer, fazer aplicações em títulos da dívida pública.
 
 2 - As caixas agrícolas só podem deter participações financeiras:
 

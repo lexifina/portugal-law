@@ -8,6 +8,6 @@
 
 3 - Os pareceres previstos no artigo 4.º devem ser proferidos no prazo máximo de 30 dias contados da data de comunicação do pedido pelo Banco de Portugal, considerando-se como parecer favorável a ausência de resposta no referido prazo.
 
-4 - A concessão da autorização é comunicada à Comissão Europeia, no caso de a caixa não pertencer ao sistema integrado de crédito agrícola mútuo.
+4 - A concessão da autorização é comunicada à Comissão das Comunidades Europeias, no caso de a caixa não pertencer ao sistema integrado de crédito agrícola mútuo.
 
-5 - A decisão que recuse expressamente a autorização, bem como a omissão de decisão, são impugnáveis nos termos gerais.
+5 - Da decisão que recuse a autorização cabe recurso contencioso nos termos gerais.

@@ -4,4 +4,4 @@
 
 1 - O mandato dos titulares dos órgãos sociais e da mesa da assembleia geral tem a duração máxima de três anos, sendo sempre permitida a reeleição.
 
-2 - O exercício efectivo dos cargos dos membros dos órgãos de administração ou de fiscalização pode ser remunerado, de acordo com o que seja definido pela assembleia geral.
+2 - O exercício efectivo dos cargos dos membros da direcção ou do conselho fiscal pode ser remunerado, de acordo com o que for definido pela assembleia geral.

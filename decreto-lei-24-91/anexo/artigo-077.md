@@ -10,12 +10,10 @@
 
 4 - Durante o período de intervenção, compete ao delegado da Caixa Central a orientação, supervisão e disciplina dos serviços, podendo fazer-se assistir por profissionais da sua escolha.
 
-5 - A nomeação do delegado, bem como os respectivos poderes, devem ser registados, sob pena de não produzirem efeitos relativamente a terceiros.
+5 - A nomeação do delegado bem como os respectivos poderes devem ser registados por averbamento à matrícula da caixa agrícola, sob pena de não produzirem efeitos relativamente a terceiros.
 
-6 - A designação do delegado da Caixa Central a que se refere o n.º 2 só pode ser feita pelo prazo máximo de um ano, o qual, havendo motivo fundado, pode ser prorrogado uma ou mais vezes pela Caixa Central até à caixa em agrícola em causa atingir uma situação de equilíbrio.
+6 - A designação do delegado da Caixa Central a que se refere o n.º 2 deste artigo só poderá ser feita pelo prazo máximo de 90 dias, salvo acordo da direcção da caixa agrícola na sua prorrogação.
 
-7 - Caso a prorrogação prevista no número anterior ultrapasse o prazo de dois anos, o Banco de Portugal pode opor-se no prazo máximo de 30 dias úteis, contados a partir da comunicação prévia da Caixa Central.
+7 - A Caixa Central informará o Banco de Portugal, no prazo de cinco dias, das decisões que tomar, nos termos deste artigo, e da respectiva fundamentação.
 
-8 - A Caixa Central informará o Banco de Portugal, no prazo de cinco dias, das decisões que tomar, nos termos deste artigo, e da respectiva fundamentação.
-
-9 - A Caixa Central enviará ao Banco de Portugal cópia dos relatórios elaborados pelo seu delegado no exercício das funções a que se refere este artigo.
+8 - A Caixa Central enviará ao Banco de Portugal cópia dos relatórios elaborados pelo seu delegado no exercício das funções a que se refere este artigo.
