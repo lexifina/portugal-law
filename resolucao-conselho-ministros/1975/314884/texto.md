@@ -1,0 +1,3 @@
+Resolução do Conselho de Ministros
+Considerando a actual situação de crise da actividade publicitária naturalmente decorrente das alterações impostas pelo processo revolucionário ao sistema económico em que assentava as suas estruturas, o Conselho de Ministros resolveu constituir uma comissão para, no prazo de trinta dias, estudar a reconversão dos trabalhadores da publicidade, com representantes dos Ministérios da Comunicação Social, do Trabalho, do Comércio Interno, do Instituto de Participações do Estado e de representantes dos trabalhadores.
+Presidência do Conselho de Ministros, 12 de Agosto de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
