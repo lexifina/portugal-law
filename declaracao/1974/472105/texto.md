@@ -1,0 +1,3 @@
+Declaração
+Para os devidos efeitos se declara e rectifica que a p. 1162-(2) do suplemento ao Diário do Governo, 1.ª série, n.º 228, de 30 de Setembro, e a 1. 23 e seguintes da col. 1.ª, onde se lê: «Esteve no espírito do Movimento das Forças Armadas ... Daí resulta que, no fim deste longo período de anomalia, a Nação Portuguesa ...», deve ler-se: «Esteve no espírito do Movimento das Forças Armadas ... Daí resulta que, no fim deste longo período de anomia, a Nação Portuguesa ...».
+Secretaria-Geral da Presidência da República, 9 de Outubro de 1974. - O Secretário-Geral, Luís d'Orey Pereira Coutinho.
