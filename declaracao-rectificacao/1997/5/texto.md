@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 5/97
+Para os devidos efeitos se declara que a Resolução da Assembleia da República n.º 39/96 (carreiras e quadro de pessoal dos serviços da Assembleia da República), de 27 de Novembro, publicada no Diário da República, n.º 275, 1.ª série-A, saiu com as seguintes incorrecções, que assim se rectificam:
+No mapa I, na categoria de secretário parlamentar especialista, no 1.º escalão, onde se lê «Secretário parlamentar especialista - 225» deve ler-se «Secretário parlamentar especialista - 235» e onde se lê «(*) Índices a serem extintos à medida que vagarem nesta categoria os lugares do pessoal transitado de acordo com o n.º 6 do artigo 4.º» deve ler-se «(*) Índices a serem extintos à medida que vagarem nesta categoria os lugares do pessoal transitado de acordo com o n.º 6 do artigo 2.º».
+Assembleia da República, 28 de Janeiro de 1997. - A Secretária-Geral, Adelina Sá Carvalho.
