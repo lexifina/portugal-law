@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=rKtwshDyv1NBeu65K82ef9j6oFE3w%2fgAbqyUhooMpoSyQQ0pTyzibfD50gH%2baGhs1TrcG1r0l2bU1A0KAmFXPBoWqi6NY9nsxTw%2fxAs2r347ke8O86pD8UW0Vo24i8zPmfcPKM5y3XEB99eQAf1Ojm%2bemILgruHhJl9u7yVaplGsWPI0o%2bZUTUUBCanSa5007dUY7uakZ2EgL138SciEtNOWsIyqy66pG5Eu5crXojP8szj276fRrDhZdP6MEXFhdUelamzN3e1Rpwl8sPVmxdyANoDqpCtvpC0PXNmoyGF02wzb13ACPnwjTtn%2bPiN%2b1oG5E%2bkfl50yDwrf9Q4ck3XnT7zfIqh68Ee0O7Ap66U%3d&fich=IntervencoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "09dcb463dee20c5105fb36bc1a4e2274ee28613bb7bd19e9b953a0ed8eb5faf8",
+  "legislatura": "VI",
+  "id": "38685",
+  "tipo": "Intervenção",
+  "orador": "Fernando Condesso (PSD)",
+  "data_registo": "1994-02-02",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "3935",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "3643",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Altera a lei nº 14/87, de 29 de Abril (lei eleitoral para o Parlamento Europeu)."
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "3644",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Altera a lei nº 69/78, de 3 de Novembro (lei do recenseamento eleitoral)."
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "3731",
+        "tipo": "INI",
+        "titulo": "Proposta de Resolução - Aprova, para ratificação, a decisão do Conselho das Comunidades Europeias, de 1 de Fevereiro de 1993, que altera o acto relativo a eleição dos representantes ao Parlamento Europeu."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1994-02-02",
+    "Debate": "PPR n.º 35/VI/2; PPL n.º 86/VI/3; PPL n.º 87/VI/3",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "50",
+      "nome": "Fernando Condesso"
+    },
+    "FaseDebate": "GENERALIDADE",
+    "FaseSessao": "POD",
+    "Id": "38685",
+    "IdDebate": "299",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "38685",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1143-1144"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1994-02-03",
+        "pubLeg": "VI",
+        "pubNr": "34",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/034/1994-02-03/1143?pgs=1143-1144&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "INTERVEM NO DEBATE. ",
+    "Sessao": "3",
+    "Sumario": "LEI DO RECENSEAMENTO ELEITORALLEI ELEITORAL PARA O PARLAMENTO EUROPEUACORDO RELATIVO A ELEICAO DOS REPRESENTANTES AO PARLAMENTOEUROPEU",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
