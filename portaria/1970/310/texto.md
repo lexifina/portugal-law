@@ -1,0 +1,23 @@
+Portaria n.º 310/70
+O Decreto n.º 47070, de 4 de Julho de 1966, equiparou o ciclomotor ao motociclo para todos os efeitos legais de matrícula, circulação e habilitação especial para a sua condução, estabelecendo-se para a troca, nas direcções de viação, dos livretes e licenças passadas pelas câmaras municipais um período de transição máximo de um ano, cujo início se fixou para 1 de Janeiro de 1969.
+Em face das dificuldades ponderadas ao Governo pelo sector privado, foi a entrada em vigor do novo regime jurídico dos ciclotmotores sucessivamente adiada para 1 de Maio de 1969, 1 de Janeiro de 1970 e 1 de Julho próximo.
+Encontrando-se, porém, actualmente em curso os estudos necessários a uma reestruturação da Direcção-Geral de Transportes Terrestres, para adequada adaptação da sua orgânica às crescentes necessidades do sector que serve, reconhece-se a conveniência de promover um novo adiamento da entrada em vigor das disposições publicadas sobre aquela matéria.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros do Interior e das Comunicações, o seguinte:
+1.º O disposto nos n.os 1.º, 3.º, 4.º, alínea c), 5.º, 10.º e 12.º da Portaria n.º 23309, de 13 de Abril de 1968, passa a ter a seguinte redacção:
+1.º A fase inicial a que se refere o artigo 2.º do Decreto n.º 47070, de 4 de Julho de 1966, terminará em 30 de Junho de 1971, começando em 1 de Julho de 1971 o período de transição a que se refere o mesmo artigo.
+...
+3.º Só poderão ser trocadas por cartas de condução de ciclomotores as licenças que habilitem à condução de velocípedes com motor passadas até 30 de Junho de 1971.
+4.º ...
+...
+c) A troca de licença de condução deverá ser requerida desde 1 de Julho de 1971 a 30 de Junho de 1972 e em conformidade com o disposto no n.º 10.º desta portaria.
+5.º Durante o período referido na alínea c) do número anterior e também em conformidade com o disposto no n.º 10.º desta portaria deverá ser requerida a matrícula como ciclomotor dos veículos que em 30 de Junho de 1971 estejam matriculados como velocípedes com motor e que, nos termos de n.º 3 do artigo 38.º do Código da Estrada, possuam características de ciclomotores:
+a) ...
+b) ...
+...
+10.º Ouvidas as câmaras municipais, o director-geral de Transportes Terrestres poderá determinar uma ordem de entrega dos requerimentos referidos nos n.os 4.º e 5.º, ordem cuja inobservância implicará a cobrança de um adicional de 50$00 sobre as taxas referidas no n.º 9.º por cada mês ou fracção em atraso, não podendo, em qualquer caso, ser ultrapassada a data de 30 de Junho de 1972.
+O escalonamento referido neste número será tornado público pelas câmaras municipais pela forma prescrita no artigo 53.º do Código Administrativo.
+...
+12.º A partir de 1 de Julho de 1972 serão apreendidos, nos termos do disposto nos n.os 1 e 5 do artigo 43.º do Código da Estrada, os veículos com características de ciclomotores que sejam encontrados a circular sem estarem matriculados como tais, salvo se, tendo sido matriculados como velocípedes com motor até 30 de Junho de 1971, se provar ter sido já requerida a sua matrícula como ciclomotor.
+2.º Fica revogada a Portaria n.º 24502, de 31 de Dezembro de 1969.
+Ministérios do Interior e das Comunicações, 26 de Junho de 1970. - O Ministro do Interior, António Manuel Gonçalves Rapazote. - O Ministro das Comunicações, Rui Alves da Silva Sanches.
