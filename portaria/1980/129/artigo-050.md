@@ -1,3 +1,7 @@
+## Capítulo VIII
+
+## Recursos
+
 ## Capítulo IX
 
 ## Marcação das carnes
