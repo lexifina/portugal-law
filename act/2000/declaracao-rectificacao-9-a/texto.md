@@ -1,0 +1,685 @@
+Declaração de Rectificação n.º 9-A/2000
+Segundo comunicação do Ministério da Justiça, a Portaria n.º 721-A/2000, publicada no Diário da República, 1.ª série, n.º 205 (suplemento), de 5 de Setembro de 2000, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Na secretaria do Tribunal Marítimo de Faro [p. 4722-(25)], onde se lê:
+«Secretaria do Tribunal Marítimo
+Pessoal:»
+deve ler-se:
+«Secretaria do Tribunal Marítimo
+Secção central e de processos:
+Pessoal:»
+Nos serviços judiciais da secretaria do Tribunal da Comarca de Sever do Vouga [p. 4722-(66)], onde se lê «Secção central e de processos:» deve ler-se «Secção central e uma secção de processos:».
+Nos serviços judiciais da secretaria do Tribunal da Comarca de Silves [p. 4722-(66)], onde se lê «Secção central e de processos:» deve ler-se «Secção central e duas secções de processos:».
+Nos serviços judiciais da secretaria das varas de competência mista cível e criminal de Sintra [pp. 4722-(66 e 67)], onde se lê «Secção central e de processos:» deve ler-se «Secção central e duas secções de processos:».
+Por terem saído com inexactidões, de novo se publicam os quadros de pessoal das pp. 4722-(72 a 80), a partir do Tribunal de Vila Flor:
+«Vila Flor
+Secretaria do Tribunal de Comarca
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Serviços judiciais
+Secção central e de processos:
+Pessoal:
+Categorias:
+Escrivão-adjunto ... 1
+Escrivão auxiliar ... 2
+Serviços do Ministério Público
+Unidade de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Vila Franca do Campo
+Secretaria do Tribunal de Comarca
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 2
+Escrivão auxiliar ... 3
+Serviços do Ministério Público
+Unidades de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Técnico de justiça auxiliar ... 1
+Vila Franca de Xira
+Secretaria-geral do Tribunal de Comarca e do Tribunal de Família e de Menores
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Motorista de ligeiros ... 1
+Operador de sistema chefe, operador de sistema principal, operador de sistema de 1.ª classe ou operador de sistema de 2.ª classe ... 2
+Técnico profissional especialista principal, técnico profissional especialista, técnico profissional principal, técnico profissional de 1.ª classe ou técnico profissional de 2.ª classe (ver nota a) ... 1
+Oficial porteiro ... 1
+Telefonista ... 1
+Auxiliar de segurança (ver nota b) ... 2
+Auxiliar administrativo ... 1
+Operador de reprografia ... 1
+(nota a) Carreira técnico-profissional de arquivo.
+(nota b) Um lugar a extinguir quando vagar.
+Serviços judiciais
+Secção central, secção de serviço externo e seis secções de processos, sendo três afectas aos juízos de competência especializada cível, duas afectas aos juízos de competência especializada criminal e uma afecta ao tribunal de família e de menores:
+Pessoal:
+Categorias:
+Escrivão de direito ... 8
+Escrivão-adjunto ... 21
+Escrivão auxiliar ... 27
+Serviços do Ministério Público
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Técnico de justiça principal ... 1
+Técnico de justiça-adjunto (ver nota a) ... 7
+Técnico de justiça auxiliar (ver nota a) ... 8
+(nota a) Uma unidade para apoio ao tribunal de família e de menores.
+Secretaria do Tribunal do Trabalho
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 3
+Escrivão auxiliar ... 3
+Serviços do Ministério Público
+Unidades de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Técnico de justiça auxiliar ... 1
+Vila Nova de Cerveira
+Secretaria do Tribunal de Comarca
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 1
+Escrivão auxiliar ... 3
+Serviços do Ministério Público
+Unidade de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Vila Nova de Famalicão
+Secretaria-geral do Tribunal de Comarca
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Motorista de ligeiros ... 1
+Operador de sistema-chefe, operador de sistema principal, operador de sistema de 1.ª classe ou operador de sistema de 2.ª classe ... 2
+Técnico profissional especialista principal, técnico profissional especialista, técnico profissional principal, técnico profissional de 1.ª classe ou técnico profissional de 2.ª classe (ver nota a) ... 1
+Oficial porteiro ... 1
+Telefonista ... 1
+Auxiliar de segurança ... 1
+Auxiliar administrativo ... 1
+Operador de reprografia ... 1
+(nota a) Carreira técnico-profissional de arquivo.
+Serviços judiciais
+Secção central, secção de serviço externo e sete secções de processos, sendo cinco afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Pessoal:
+Categorias:
+Escrivão de direito ... 9
+Escrivão-adjunto ... 20
+Escrivão auxiliar ... 35
+Serviços do Ministério Público
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Técnico de justiça principal ... 1
+Técnico de justiça-adjunto ... 5
+Técnico de justiça auxiliar ... 7
+Secretaria do Tribunal do Trabalho
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 3
+Escrivão auxiliar ... 3
+Serviços do Ministério Público
+Unidades de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Técnico de justiça auxiliar ... 2
+Vila Nova de Foz Côa
+Secretaria do Tribunal de Comarca
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 1
+Escrivão auxiliar ... 2
+Serviços do Ministério Público
+Unidade de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Vila Nova de Gaia
+Secretaria-geral do Tribunal de Comarca
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Motorista de ligeiros ... 1
+Operador de sistema-chefe, operador de sistema principal, operador de sistema de 1.ª classe ou operador de sistema de 2.ª classe ... 2
+Técnico profissional especialista principal, técnico profissional especialista, técnico profissional principal, técnico profissional de 1.ª classe ou técnico profissional de 2.ª classe (ver nota a) ... 2
+Oficial porteiro ... 1
+Telefonista ... 2
+Auxiliar de segurança ... 2
+Auxiliar administrativo ... 1
+Operador de reprografia ... 1
+(nota a) Carreira técnico-profissional de arquivo.
+Serviços judiciais
+Secção central, secção de serviço externo e catorze secções de processos, sendo duas afectas à vara de competência mista cível e criminal, sete afectas aos juízos cíveis, quatro afectas aos juízos criminais e uma afecta ao tribunal de família e de menores:
+Pessoal:
+Categorias:
+Escrivão de direito ... 16
+Escrivão-adjunto ... 45
+Escrivão auxiliar ... 53
+Secretaria do Ministério Público
+Secção central e quatro secções de processos:
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Técnico de justiça principal ... 4
+Técnico de justiça-adjunto ... 13
+Técnico de justiça auxiliar ... 18
+Secretaria do Tribunal de Comércio
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Serviços judiciais
+Secção central e duas secções de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 3
+Escrivão-adjunto ... 7
+Escrivão auxiliar ... 7
+Serviços do Ministério Público
+Unidade de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Secretaria do Tribunal do Trabalho
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Telefonista ... 1
+Serviços judiciais
+Secção central e duas secções de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 2
+Escrivão-adjunto ... 5
+Escrivão auxiliar ... 8
+Serviços do Ministério Público
+Unidades de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 2
+Técnico de justiça auxiliar ... 3
+Vila do Porto
+Secretaria do Tribunal de Comarca
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 1
+Escrivão auxiliar ... 1
+Serviços do Ministério Público
+Unidade de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Vila Pouca de Aguiar
+Secretaria do Tribunal de Comarca
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 3
+Escrivão auxiliar ... 3
+Serviços do Ministério Público
+Unidades de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Técnico de justiça auxiliar ... 1
+Vila da Praia da Vitória
+Secretaria do Tribunal de Comarca
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 2
+Escrivão auxiliar ... 3
+Serviços do Ministério Público
+Unidades de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Técnico de justiça auxiliar ... 2
+Vila Real
+Secretaria do Tribunal de Comarca
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Motorista de ligeiros ... 1
+Operador de sistema-chefe, operador de sistema principal, operador de sistema de 1.ª classe ou operador de sistema de 2.ª classe ... 2
+Técnico profissional especialista principal, técnico profissional especialista, técnico profissional principal, técnico profissional de 1.ª classe ou técnico profissional de 2.ª classe (ver nota a) ... 1
+Oficial porteiro ... 1
+Telefonista ... 1
+(nota a) Carreira técnico-profissional de arquivo.
+Serviços judiciais
+Secção central e de serviço externo e três secções de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 4
+Escrivão-adjunto ... 10
+Escrivão auxiliar ... 16
+Serviços do Ministério Público
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Técnico de justiça principal ... 1
+Técnico de justiça-adjunto ... 3
+Técnico de justiça auxiliar ... 3
+Secretaria do Tribunal do Trabalho
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 1
+Escrivão auxiliar ... 2
+Serviços do Ministério Público
+Unidades de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Técnico de justiça auxiliar ... 1
+Vila Real de Santo António
+Secretaria do Tribunal de Comarca
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 4
+Escrivão auxiliar ... 5
+Serviços do Ministério Público
+Unidades de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 2
+Técnico de justiça auxiliar ... 2
+Vila Verde
+Secretaria do Tribunal de Comarca
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Telefonista ... 1
+Oficial porteiro (ver nota a) ... 1
+(nota a) A extinguir quando vagar.
+Serviços judiciais
+Secção central e duas secções de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 2
+Escrivão-adjunto ... 7
+Escrivão auxiliar ... 11
+Serviços do Ministério Público
+Unidades de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Técnico de justiça auxiliar ... 3
+Vila Viçosa
+Secretaria do Tribunal de Comarca
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 2
+Escrivão auxiliar ... 3
+Serviços do Ministério Público
+Unidade de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Vimioso
+Secretaria do Tribunal de Comarca
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Serviços judiciais
+Secção central e de processos:
+Pessoal:
+Categorias:
+Escrivão-adjunto ... 1
+Escrivão auxiliar ... 1
+Serviços do Ministério Público
+Unidade de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Vinhais
+Secretaria do Tribunal de Comarca
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Oficial porteiro (ver nota a) ... 1
+(nota a) A extinguir quando vagar.
+Serviços judiciais
+Secção central e de processos:
+Pessoal:
+Categorias:
+Escrivão-adjunto ... 2
+Escrivão auxiliar ... 2
+Serviços do Ministério Público
+Unidade de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Viseu
+Secretaria-geral do Tribunal de Comarca
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Motorista de ligeiros ... 1
+Operador de sistema-chefe, operador de sistema principal, operador de sistema de 1.ª classe ou operador de sistema de 2.ª classe ... 2
+Técnico profissional especialista principal, técnico profissional especialista, técnico profissional principal, técnico profissional de 1.ª classe ou técnico profissional de 2.ª classe (ver nota a) ... 1
+Oficial porteiro ... 1
+Telefonista ... 1
+Auxiliar de segurança ... 1
+Auxiliar administrativo ... 1
+Operador de reprografia ... 1
+(nota a) Carreira técnico-profissional de arquivo.
+Serviços judiciais
+Secção central e de serviço externo e seis secções de processos, sendo quatro afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Pessoal:
+Categorias:
+Escrivão de direito ... 7
+Escrivão-adjunto ... 20
+Escrivão auxiliar ... 24
+Serviços do Ministério Público
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Técnico de justiça principal ... 1
+Técnico de justiça-adjunto ... 4
+Técnico de justiça auxiliar ... 7
+Secretaria do Tribunal do Trabalho
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Serviços judiciais
+Secção central e duas secções de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 2
+Escrivão-adjunto ... 3
+Escrivão auxiliar ... 6
+Serviços do Ministério Público
+Unidades de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 2
+Técnico de justiça auxiliar ... 3
+Vouzela
+Secretaria do Tribunal de Comarca
+Pessoal:
+Categorias:
+Secretário de justiça ... 1
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 2
+Escrivão auxiliar ... 2
+Serviços do Ministério Público
+Unidade de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Tribunais administrativos
+Secretaria do Supremo Tribunal Administrativo
+Pessoal:
+Categorias:
+Secretário de tribunal superior ... 1
+Secretário de justiça ... 1
+Assessor principal e assessor (ver nota a) ... 4
+Técnico superior principal, técnico superior de 1.ª classe ou técnico superior de 2.ª classe (ver nota a) ... 12
+Assessor principal, assessor, técnico superior principal, técnico superior de 1.ª classe ou técnico superior de 2.ª classe, de biblioteca e documentação (ver nota a) (ver nota b) ... 1
+Técnico profissional especialista principal, técnico profissional especialista, técnico profissional principal, técnico profissional de 1.ª classe ou técnico profissional de 2.ª classe (ver nota a) ... 8
+Assistente administrativo especialista ... 2
+Assistente administrativo principal ... 4
+Assistente administrativo ... 10
+Operador de registo de dados principal ou operador de registo de dados ... 2
+Operador de sistema-chefe, operador de sistema principal, operador de sistema de 1.ª classe ou operador de sistema de 2.ª classe ... 2
+Auxiliar administrativo ... 4
+Motorista de ligeiros ... 4
+Oficial porteiro ... 2
+Telefonista ... 2
+Auxiliar de segurança ... 1
+Operador de reprografia ... 2
+(nota a) Pessoal do quadro dos serviços de apoio.
+(nota b) A extinguir quando vagar.
+Serviços judiciais
+Secção de expediente e contabilidade, cinco secções de processos e serviços de apoio:
+Pessoal:
+Categorias:
+Escrivão de direito ... 6
+Escrivão-adjunto ... 11
+Escrivão auxiliar ... 27
+Serviços do Ministério Público
+Unidades de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Técnico de justiça auxiliar ... 3
+Secretaria do Tribunal Central Administrativo
+Pessoal:
+Categorias:
+Secretário de tribunal superior ... 1
+Secretário de justiça ... 1
+Assessor principal, assessor, técnico superior principal, técnico superior de 1.ª classe ou técnico superior de 2.ª classe (ver nota a) ... 3
+Chefe de secção ... 1
+Assistente administrativo especialista, assistente administrativo principal ou assistente administrativo ... 5
+Técnico auxiliar especialista, técnico auxiliar principal, técnico auxiliar de 1.ª classe ou técnico auxiliar de 2.ª classe (ver nota a) ... 2
+Operador de sistema-chefe, operador de sistema principal, operador de sistema de 1.ª classe ou operador de sistema de 2.ª classe ... 1
+Motorista de ligeiros ... 3
+Telefonista ... 2
+Auxiliar de segurança ... 2
+Operador de reprografia ... 1
+Auxiliar administrativo ... 2
+(nota a) Pessoal do quadro dos serviços de apoio.
+Serviços judiciais
+Secção de expediente e contabilidade, três secções de processos e serviços de apoio:
+Pessoal:
+Categorias:
+Escrivão de direito ... 4
+Escrivão-adjunto ... 10
+Escrivão auxiliar ... 13
+Serviços do Ministério Público
+Unidades de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Técnico de justiça auxiliar ... 3
+Secretaria do Tribunal Administrativo do Círculo de Braga
+Pessoal:
+Categorias:
+Secretário ... 1
+Assistente administrativo especialista, assistente administrativo principal ou assistente administrativo ... 1
+Auxiliar de segurança ... 1
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 2
+Escrivão auxiliar ... 3
+Serviços do Ministério Público
+Unidade de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça auxiliar ... 1
+Secretaria do Tribunal Administrativo do Círculo de Coimbra
+Pessoal:
+Categorias:
+Secretário ... 1
+Assistente administrativo especialista, assistente administrativo principal ou assistente administrativo ... 1
+Auxiliar de segurança ... 1
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 3
+Escrivão auxiliar ... 4
+Serviços do Ministério Público
+Unidade de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Técnico de justiça auxiliar ... 1
+Secretaria do Tribunal Administrativo do Círculo de Faro
+Pessoal:
+Categorias:
+Secretário ... 1
+Assistente administrativo especialista, assistente administrativo principal ou assistente administrativo ... 1
+Auxiliar de segurança ... 1
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 1
+Escrivão auxiliar ... 2
+Serviços do Ministério Público
+Unidade de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça auxiliar ... 1
+Secretaria do Tribunal Administrativo e Fiscal Agregado do Funchal
+Pessoal:
+Categorias:
+Secretário ... 1
+Assistente administrativo especialista, assistente administrativo principal ou assistente administrativo ... 1
+Auxiliar de segurança ... 1
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 2
+Escrivão auxiliar ... 2
+Serviços do Ministério Público
+Unidade de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça auxiliar ... 1
+Secretaria do Tribunal Administrativo do Círculo de Lisboa
+Pessoal:
+Categorias:
+Secretário ... 1
+Assessor principal, assessor, técnico superior principal, técnico superior de 1.ª classe ou técnico superior de 2.ª classe (ver nota a) ... 1
+Assistente administrativo especialista, assistente administrativo principal ou assistente administrativo (ver nota a) ... 3
+Técnico profissional especialista principal, técnico profissional especialista, técnico profissional principal, técnico profissional de 1.ª classe ou técnico profissional de 2.ª classe (ver nota b) ... 1
+Oficial porteiro ... 1
+Telefonista ... 1
+Auxiliar de segurança ... 1
+Operador de reprografia ... 1
+Auxiliar administrativo ... 1
+(nota a) Pessoal do quadro dos serviços de apoio.
+(nota b) Carreira técnico-profissional de arquivo.
+Serviços judiciais
+Secção central, quatro secções de processos e serviços de apoio:
+Pessoal:
+Categorias:
+Escrivão de direito ... 5
+Escrivão-adjunto ... 9
+Escrivão auxiliar ... 10
+Serviços do Ministério Público
+Unidades de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 2
+Técnico de justiça auxiliar ... 2
+Secretaria do Tribunal Administrativo e Fiscal Agregado de Ponta Delgada
+Pessoal:
+Categorias:
+Secretário ... 1
+Assistente administrativo especialista, assistente administrativo principal ou assistente administrativo ... 1
+Auxiliar de segurança ... 1
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 2
+Escrivão auxiliar ... 2
+Serviços do Ministério Público
+Unidade de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça auxiliar ... 1
+Secretaria do Tribunal Administrativo do Círculo do Porto
+Pessoal:
+Categorias:
+Secretário ... 1
+Assistente administrativo especialista, assistente administrativo principal ou assistente administrativo ... 3
+Serviços judiciais
+Secção central e uma secção de processos:
+Pessoal:
+Categorias:
+Escrivão de direito ... 1
+Escrivão-adjunto ... 3
+Escrivão auxiliar ... 8
+Serviços do Ministério Público
+Unidades de apoio:
+Pessoal:
+Categorias:
+Técnico de justiça-adjunto ... 1
+Técnico de justiça auxiliar ... 2»
+Secretaria-Geral da Presidência do Conselho de Ministros, 5 de Setembro de 2000. - O Secretário-Geral, Alexandre Figueiredo.
