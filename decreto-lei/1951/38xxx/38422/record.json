@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1951/09/18700/08010802.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1951-09-12",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "d188696175c21ff741e5bf7122e6c5b01a96cbc6ab64edd722250a43c3441e41",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each page read whole (Tesseract page layout)",
+    "agreement_pct": 99.3,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "07bd218ce369d53dde8e8864f29dd2ba8d23e86f66895da18b2c5b9a13386247",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 442
 }
