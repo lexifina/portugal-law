@@ -1,0 +1,605 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "448",
+    "id": "18544",
+    "titulo": "Revê o Código do Imposto sobre o rendimento das pessoas singulares, o Código do Imposto sobre o Rendimento das Pessoas Colectivas, o Estatuto dos Benefícios Fiscais, a Lei Geral Tributária, o Estatuto dos Tribunais Administrativos e Fiscais e Legislação Avulsa, na redacção que lhes foi dada pela Lei n.º 30-G/2000, de 29 de Dezembro e procede à revogação de algumas das respectivas disposições."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-06-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1930",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-06-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-06-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138654",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3595-3599",
+                  "3601-3601",
+                  "3603-3604"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-07",
+                "pubLeg": "VIII",
+                "pubNr": "92",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/092/2001-06-07/3595?pgs=3595-3599,3601,3603-3604&org=PLC"
+              }
+            ],
+            "sumario": "Revê o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Colectivas, o Estatuto dos Benefícios Fiscais, a Lei Geral Tributária, o Estatuto dos Tribunais Administrativos e Fiscais e legislação avulsa, na redacção que lhes foi dada pela Lei n.º 30-G/2000, de 29 de Dezembro, e procede à revogação de algumas das respectivas disposições.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138656",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3599-3600"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-07",
+                "pubLeg": "VIII",
+                "pubNr": "92",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/092/2001-06-07/3599?pgs=3599-3600&org=PLC"
+              }
+            ],
+            "sumario": "Revê o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Colectivas, o Estatuto dos Benefícios Fiscais, a Lei Geral Tributária, o Estatuto dos Tribunais Administrativos e Fiscais e legislação avulsa, na redacção que lhes foi dada pela Lei n.º 30-G/2000, de 29 de Dezembro, e procede à revogação de algumas das respectivas disposições.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138658",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3600-3601",
+                  "3608-3609"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-07",
+                "pubLeg": "VIII",
+                "pubNr": "92",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/092/2001-06-07/3600?pgs=3600-3601,3608-3609&org=PLC"
+              }
+            ],
+            "sumario": "Revê o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Colectivas, o Estatuto dos Benefícios Fiscais, a Lei Geral Tributária, o Estatuto dos Tribunais Administrativos e Fiscais e legislação avulsa, na redacção que lhes foi dada pela Lei n.º 30-G/2000, de 29 de Dezembro, e procede à revogação de algumas das respectivas disposições.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138661",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3601-3602"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-07",
+                "pubLeg": "VIII",
+                "pubNr": "92",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/092/2001-06-07/3601?pgs=3601-3602&org=PLC"
+              }
+            ],
+            "sumario": "Revê o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Colectivas, o Estatuto dos Benefícios Fiscais, a Lei Geral Tributária, o Estatuto dos Tribunais Administrativos e Fiscais e legislação avulsa, na redacção que lhes foi dada pela Lei n.º 30-G/2000, de 29 de Dezembro, e procede à revogação de algumas das respectivas disposições.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138663",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3602-3603",
+                  "3608-3608"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-07",
+                "pubLeg": "VIII",
+                "pubNr": "92",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/092/2001-06-07/3602?pgs=3602-3603,3608&org=PLC"
+              }
+            ],
+            "sumario": "Revê o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Colectivas, o Estatuto dos Benefícios Fiscais, a Lei Geral Tributária, o Estatuto dos Tribunais Administrativos e Fiscais e legislação avulsa, na redacção que lhes foi dada pela Lei n.º 30-G/2000, de 29 de Dezembro, e procede à revogação de algumas das respectivas disposições.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138665",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3603-3603"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-07",
+                "pubLeg": "VIII",
+                "pubNr": "92",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/092/2001-06-07/3603?pgs=3603&org=PLC"
+              }
+            ],
+            "sumario": "Revê o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Colectivas, o Estatuto dos Benefícios Fiscais, a Lei Geral Tributária, o Estatuto dos Tribunais Administrativos e Fiscais e legislação avulsa, na redacção que lhes foi dada pela Lei n.º 30-G/2000, de 29 de Dezembro, e procede à revogação de algumas das respectivas disposições.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Pina Moura"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138667",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3604-3607",
+                  "3609-3610",
+                  "3616-3618"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-07",
+                "pubLeg": "VIII",
+                "pubNr": "92",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/092/2001-06-07/3604?pgs=3604-3607,3609-3610,3616-3618&org=PLC"
+              }
+            ],
+            "sumario": "Revê o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Colectivas, o Estatuto dos Benefícios Fiscais, a Lei Geral Tributária, o Estatuto dos Tribunais Administrativos e Fiscais e legislação avulsa, na redacção que lhes foi dada pela Lei n.º 30-G/2000, de 29 de Dezembro, e procede à revogação de algumas das respectivas disposições.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138668",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3607-3608",
+                  "3615-3616",
+                  "3616-3618"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-07",
+                "pubLeg": "VIII",
+                "pubNr": "92",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/092/2001-06-07/3607?pgs=3607-3608,3615-3616,3616-3618&org=PLC"
+              }
+            ],
+            "sumario": "Revê o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Colectivas, o Estatuto dos Benefícios Fiscais, a Lei Geral Tributária, o Estatuto dos Tribunais Administrativos e Fiscais e legislação avulsa, na redacção que lhes foi dada pela Lei n.º 30-G/2000, de 29 de Dezembro, e procede à revogação de algumas das respectivas disposições.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138669",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3610-3610"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-07",
+                "pubLeg": "VIII",
+                "pubNr": "92",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/092/2001-06-07/3610?pgs=3610&org=PLC"
+              }
+            ],
+            "sumario": "Revê o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Colectivas, o Estatuto dos Benefícios Fiscais, a Lei Geral Tributária, o Estatuto dos Tribunais Administrativos e Fiscais e legislação avulsa, na redacção que lhes foi dada pela Lei n.º 30-G/2000, de 29 de Dezembro, e procede à revogação de algumas das respectivas disposições.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1586",
+                "nome": "Machado Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138670",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3611-3614"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-07",
+                "pubLeg": "VIII",
+                "pubNr": "92",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/092/2001-06-07/3611?pgs=3611-3614&org=PLC"
+              }
+            ],
+            "sumario": "Revê o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Colectivas, o Estatuto dos Benefícios Fiscais, a Lei Geral Tributária, o Estatuto dos Tribunais Administrativos e Fiscais e legislação avulsa, na redacção que lhes foi dada pela Lei n.º 30-G/2000, de 29 de Dezembro, e procede à revogação de algumas das respectivas disposições.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "428",
+                "nome": "Fernando Serrasqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138671",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3614-3616"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-07",
+                "pubLeg": "VIII",
+                "pubNr": "92",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/092/2001-06-07/3614?pgs=3614-3616&org=PLC"
+              }
+            ],
+            "sumario": "Revê o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Colectivas, o Estatuto dos Benefícios Fiscais, a Lei Geral Tributária, o Estatuto dos Tribunais Administrativos e Fiscais e legislação avulsa, na redacção que lhes foi dada pela Lei n.º 30-G/2000, de 29 de Dezembro, e procede à revogação de algumas das respectivas disposições.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "146287",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1930",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-06-07",
+        "pubLeg": "VIII",
+        "pubNr": "92",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/092/2001-06-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
