@@ -1,0 +1,9 @@
+Portaria n.º 1088/2000
+de 15 de Novembro
+Considerando que o artigo 3.º, n.º 2, do Decreto-Lei n.º 444/99, de 3 de Novembro, prevê a integração do pessoal dos serviços externos do Ministério dos Negócios Estrangeiros sujeito ao regime da função pública num quadro a criar por portaria conjunta dos Ministros dos Negócios Estrangeiros e das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública;
+Considerando que o artigo 3.º, n.º 1, do estatuto do pessoal dos serviços externos do Ministério dos Negócios Estrangeiros, que é parte integrante do referido decreto-lei, estipula que estes serviços «disporão, em conjunto, de um quadro único de vinculação, aprovado e alterado por portaria conjunta dos Ministros dos Negócios Estrangeiros e das Finanças e do membro do Governo que tenha a seu cargo a Administração Pública, com dotações especificadas ao nível das chefias e dotações globais por carreira ou grupo de pessoal, no qual será integrado o pessoal sujeito ao regime da função pública»:
+Manda o Governo, pelos Ministros dos Negócios Estrangeiros, das Finanças e da Reforma do Estado e da Administração Pública, ao abrigo do artigo 3.º, n.º 2, do Decreto-Lei n.º 444/99, de 3 de Novembro, que seja aprovado o quadro único de vinculação do pessoal dos serviços externos do Ministério dos Negócios Estrangeiros que consta do mapa anexo ao presente diploma, que dele faz parte integrante.
+Quadro único de vinculação do pessoal dos serviços externos do Ministério dos Negócios Estrangeiros
+(ver quadro no documento original)
+Em 27 de Outubro de 2000.
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - Pelo Ministro das Finanças, Fernando Manuel dos Santos Vigário Pacheco, Secretário de Estado Adjunto e do Orçamento. - O Ministro da Reforma do Estado e da Administração Pública, Alberto de Sousa Martins.
