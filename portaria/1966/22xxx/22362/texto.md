@@ -1,0 +1,5 @@
+Portaria n.º 22362
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 20000$00 a verba do capítulo 10.º, artigo 306.º, n.º 10), alínea b), 1.º «Encargos gerais - Diversas despesas - Despesas eventuais (artigo 1.º e § 2.º do artigo 6.º do Decreto n.º 22545, de 18 de Maio de 1933) - Não especificadas - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de S. Tomé e Príncipe para o corrente ano, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 4.º, artigo 65.º, n.º 1) «Administração geral e fiscalização - Serviços de educação - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+Ministério do Ultramar, 9 de Dezembro de 1966. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de S. Tomé e Príncipe. - J. Cota.
