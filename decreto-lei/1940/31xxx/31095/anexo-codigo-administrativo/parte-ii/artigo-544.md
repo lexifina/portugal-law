@@ -1,3 +1,3 @@
 # Artigo 544.º
 
-O exercício efectivo das funções de secretaria e tesouraria é incompatível com o exercício, não imposto por lei, de outro qualquer cargo ou função pública também remunerado.
+O exercício cumulativo de funções de secretaria e tesouraria e de outras funções públicas para as quais não esteja fixada retribuição bastante para o seu exercício independente depende de autorização do Conselho de Ministros, quando se trate de cargo do Estado ou de organismos de coordenação económica, ou do Ministro do Interior, nos demais casos.
