@@ -1,0 +1,64 @@
+Portaria n.º 23260
+Tendo sido objecto de estudo as propostas recebidas de vários serviços no sentido do alargamento das suas lotações de pessoal civil e havendo possibilidade de atender no corrente ano económico algumas das necessidades mais prementes;
+Convindo extinguir os dois lugares de ajudante de porteiro existentes no quadro do pessoal civil e abater a esse mesmo quadro dois lugares de desenhador de 2.ª classe;
+Havendo a concordância do Ministro das Finanças:
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, nos termos do artigo 27.º do Decreto-Lei n.º 36081, de 31 de Dezembro de 1946, o seguinte:
+1.º São aumentados no mapa I anexo ao Decreto-Lei n.º 41518, de 4 de Fevereiro de 1958, os lugares seguintes:
+A) Pessoal de secretaria:
+1 chefe de secção.
+5 primeiros-oficiais.
+7 segundos-oficiais.
+3 terceiros-oficiais.
+B) Agentes técnicos:
+1 agente técnico de construção civil.
+C) Desenhadores:
+1 desenhador de máquinas.
+2 desenhadores de 1.ª classe.
+D) Pessoal hospitalar:
+1 agente técnico de radiologia.
+1 preparador de farmácia.
+E) Pessoal de serviço de pilotagem:
+1 piloto.
+F) Corpo de polícia marítima:
+3 agentes de 1.ª classe.
+G) Corpo de polícia e fiscalização dos estabelecimentos de marinha:
+1 subchefe.
+1 guarda de 1.ª classe.
+I) Pessoal das capitanias:
+2 cabos-de-mar de 1.ª classe.
+5 cabos-de-mar de 2.ª classe.
+4 cabos-de-mar de 3.ª classe.
+K) Instituto de Biologia Marítima:
+1 investigador de 3.ª classe.
+1 auxiliar de investigador de 1.ª classe.
+1 auxiliar de investigador de 2.ª classe.
+N) Pessoal do troço do mar:
+1 cabo de ponte.
+2 patrões de costa.
+1 sota-patrão de costa.
+5 marinheiros.
+3 maquinistas ou motoristas de costa.
+O) Pessoal de outras categorias:
+2 arquivistas.
+1 fotógrafo-restituidor.
+2 fotógrafos.
+2 preparadores.
+4 fiéis de depósito.
+2 ajudantes de fiel.
+4 telefonistas.
+2 condutores de automóveis.
+2 criados de mesa.
+P)Pessoal menor:
+1 contínuo de 2.ª classe.
+2 porteiros.
+Q) Mestrança e operários:
+1 mestre.
+5 contramestres.
+4 operários especiais.
+9 operários de 1.ª classe.
+7 operários de 2.ª classe.
+3 serventes.
+2.º São extintos no grupo P) «Pessoal menor», do mesmo mapa I, os dois lugares de ajudante de porteiro.
+3.º São abatidos no grupo C) «Desenhadores», do mesmo mapa I, dois lugares de desenhador de 2.ª classe.
+4.º Os encargos resultantes de execução deste diploma serão suportados no ano em curso pela verba para tal efeito incluída na dotação inscrita no capítulo 5.º, artigo 209.º, n.º 1), do orçamento de despesa deste Ministério em vigor.
+Ministério da Marinha, 6 de Março de 1968. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
