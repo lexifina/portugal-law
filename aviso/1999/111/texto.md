@@ -1,0 +1,6 @@
+Aviso n.º 111/99
+Por ordem superior se torna público que, por intermédio da Embaixada de Portugal em Londres, foi notificado o Governo do Reino Unido, na sua qualidade de depositário da Convenção para a Repressão de Actos Ilícitos contra a Segurança da Aviação Civil, concluída em Montreal em 23 de Setembro de 1971, que a Convenção foi estendida ao território de Macau, nos mesmos termos em que se aplica à República Portuguesa.
+Por nota de 2 de Agosto de 1999, o Governo do Reino Unido comunicou ter sido notificado da extensão a Macau da Convenção, a qual produziu efeitos a partir do dia 22 de Abril de 1999.
+A Convenção foi aprovada, para ratificação, pelo Decreto n.º 451/72, de 14 de Novembro, publicado no Diário da República, 1.ª série, n.º 265, de 14 de Novembro de 1972, e foi estendida a Macau pelo Decreto do Presidente da República n.º 132/99, de 22 de Abril, publicado no Diário da República, 1.ª série-A, n.º 94, de 22 de Abril de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 6 de Agosto de 1999. - António Nunes de Carvalho Santana Carlos.
