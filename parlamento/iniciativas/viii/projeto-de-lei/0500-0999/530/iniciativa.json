@@ -1,0 +1,144 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "tipo": "Projeto de Lei",
+  "numero": "530",
+  "id": "18903",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2001-12-20",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2002-04-04",
+    "DataInicioleg": "2001-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "1337",
+        "nome": "António Saleiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1629",
+        "nome": "João Benavente"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "206",
+        "nome": "Rui Vieira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1168",
+        "nome": "José Egípto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1679",
+        "nome": "Renato Sampaio"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1677",
+        "nome": "Bruno Almeida"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "484",
+        "nome": "José Saraiva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1260",
+        "nome": "Fernando Gomes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1701",
+        "nome": "Luísa Portugal"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1482",
+        "nome": "Gavino Paixão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1164",
+        "nome": "Miguel Coelho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1180",
+        "nome": "Dias Baptista"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "428",
+        "nome": "Fernando Serrasqueiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1632",
+        "nome": "Vítor Peixoto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1547",
+        "nome": "Mafalda Troncho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "487",
+        "nome": "Fernando Jesus"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1660",
+        "nome": "Mota Torres"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "161",
+        "nome": "Carlos Luís"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1369",
+        "nome": "Victor Moura"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1368",
+        "nome": "Carlos Alberto Santos"
+      }
+    ],
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "18903",
+    "IniLeg": "VIII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4e69596d59355a6d466d4c54646b4e4449744e444a694d4330345a57466a4c57517a4d5755775a44497759544d305a43356b62324d3d&fich=3bbf9faf-7d42-42b0-8eac-d31e0d20a34d.doc&Inline=true",
+    "IniNr": "530",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Alargamento das Atribuições e Competências das Freguesias.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
