@@ -1,0 +1,9 @@
+Despacho
+Com o objectivo de defesa dos interesses das classes trabalhadoras e, em especial, das camadas mais desfavorecidas da população e com o objectivo de aumento progressivo da qualidade de vida de todos os portugueses, incumbe ao Governo Provisório, nos termos do respectivo programa, aprovado pelo Decreto-Lei n.º 203/74, de 15 de Maio, a definição de uma política de protecção da maternidade e da primeira infância.
+Tendo em conta que, segundo as tendências internacionais recentemente reafirmadas no projecto de convenção da ONU sobre discriminações relativas às mulheres, a maternidade é considerada como função social e, como tal, uma responsabilidade a ser assumida pela sociedade;
+Considerando os direitos fundamentais da criança e a influência que os primeiros anos de vida têm na estruturação da sua personalidade;
+Considerando as formas mais recentes de protecção à primeira infância, adoptadas internacionalmente;
+Considerando ainda a necessidade de garantir às mulheres trabalhadoras a possibilidade de conciliar as obrigações familiares com as suas actividades profissionais:
+Determino que a Comissão para a Política Social Relativa à Mulher proponha a constituição, no prazo de dez dias, dos grupos de trabalho que julgue necessários, os quais ficarão incumbidos de concretizar as linhas de orientação definidas nos considerandos deste despacho e de propor medidas de execução imediata e a médio prazo.
+Dado o carácter intersectorial não só da Comissão referida, como das questões acima enunciadas, deverão os grupos de trabalho ser constituídos por actuais membros da Comissão e por elementos de outros Ministérios e de organizações não governamentais que possuam especial competência nos domínios atinentes à problemática do presente despacho.
+Ministério dos Assuntos Sociais, 24 de Junho de 1974. - O Secretário de Estado da Segurança Social, Maria de Lourdes Pintassilgo.
