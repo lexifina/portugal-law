@@ -1,0 +1,18 @@
+Decreto n.º 46343
+Julgando-se conveniente efectuar algumas modificações que a experiência aconselha no regime legal para promoção a lugares do quadro administrativo do ultramar, de modo a facilitar o provimento das vagas, a tornar mais rigoroso o processo de selecção dos candidatos aos respectivos concursos e a evitar certas dúvidas de interpretação que têm surgido;
+Nestes termos:
+Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por motivo de urgência;
+Usando da faculdade conferida pelo n.º 3.º do mesmo artigo, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+Artigo 1.º O § 2.º do artigo 14.º do Decreto n.º 44241, de 19 de Março de 1962, passa a ter a seguinte redacção:
+§ 2.º Sempre que, por falta de funcionários de uma das categorias, a promoção não puder obedecer às proporções estabelecidas, realizar-se-á seguidamente entre os funcionários da outra categoria.
+Art. 2.º No artigo 15.º do mesmo diploma, o § 2.º passa a § 3.º, ficando aquele assim redigido:
+§ 2.º É aplicável o § 2.º do artigo 14.º
+Art. 3.º O § 2.º do artigo 17.º do aludido decreto passa a ter a seguinte redacção:
+§ 2.º O mérito será apreciado tendo em conta os factores da qualidade de serviço, habilitações, antiguidade, a considerar pela ordem enunciada, pelo que só deverá passar-se da apreciação de um factor ao imediato para graduar conconcorrentes em situação de paridade naquele que o antecede.
+Art. 4.º Ao mesmo artigo serão aditados os seguintes parágrafos:
+§ 3.º Na avaliação da qualidade de serviço tomar-se-ão em conta as informações anuais, os louvores e castigos, o desempenho de cargos superiores ou de elevada responsabilidade e tudo o mais que revele aptidão para o cargo.
+§ 4.º As preferências absolutas são as já previstas na lei e, ainda, a da medalha de ouro de serviços distintos e relevantes do ultramar, e funcionam independentemente de serem invocadas pelos que delas beneficiam e apenas uma só vez.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 20 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.
