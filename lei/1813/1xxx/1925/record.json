@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1925/08/18200/10521052.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1925-08-18",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "360880bbc6c1550f15717eb87908b45a83a6189caca6645fd071e2b65cfae283",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.1,
+    "pages": 1,
+    "columns": [
+      6
+    ],
+    "pdf_sha256": "43125a7add511776f7ddf68de5bbea73f1919aa9038fd52c3f57283fee2b454a",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 215
 }
