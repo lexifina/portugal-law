@@ -1,0 +1,6 @@
+Portaria n.º 18253
+Tendo sido criada a Direcção-Geral de Saúde e Assistência do Ultramar, pelo Decreto-Lei n.º 43353, de 24 de Novembro de 1960, para a qual passaram as atribuições que, em matéria de saúde e assistência, eram da competência da Direcção-Geral de Administração Política e Civil do Ministério do Ultramar, convém que a representação atribuída à mesma Direcção-Geral na comissão interministerial permanente criada pela Portaria n.º 17248, de 1 de Julho de 1959, passe para a Direcção-Geral de Saúde e Assistência do Ultramar.
+E assim:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças, do Ultramar e da Saúde e Assistência, que a alínea a) do n.º 5.º da referida Portaria n.º 17248 passe a ter a seguinte redacção:
+a) Pelo Ministério do Ultramar: o director-geral de Saúde e Assistência, um inspector de saúde do ultramar, o director do Instituto de Medicina Tropical e o director do Hospital do Ultramar.
+Ministérios das Finanças, do Ultramar e da Saúde e Assistência, 7 de Fevereiro de 1961. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro do Ultramar, Vasco Lopes Alves. - O Ministro da Saúde e Assistência, Henrique de Miranda Vasconcelos Martins de Carvalho.
