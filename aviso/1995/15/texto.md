@@ -1,0 +1,8 @@
+Aviso n.º 15/95
+Por ordem superior se torna público que, por nota de 17 de Fevereiro de 1993 e nos termos do artigo 15.º da Convenção de Supressão da Exigência da Legalização dos Actos Públicos Estrangeiros, concluída na Haia em 5 de Outubro de 1961, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter o Governo do Belize depositado o seu instrumento de adesão à mencionada Convenção em 17 de Julho de 1992, nos termos do artigo 12.º, primeiro parágrafo.
+Esta adesão foi comunicada pelo depositário aos Estados Contratantes em 10 de Agosto de 1992, não tendo nenhum destes Estados levantado, dentro do prazo de seis meses, previsto no artigo 12.º, segundo parágrafo, que expirou em 10 de Fevereiro de 1993, objecção à adesão.
+Nos termos do artigo 12.º, terceiro parágrafo, as disposições da Convenção entraram em vigor entre o Belize e os Estados Contratantes em 11 de Abril de 1993.
+O Governo do Belize designou a seguinte autoridade, nos termos do artigo 6.º da Convenção:
+The Registrar General.
+Portugal é Parte na mesma Convenção, que foi aprovada para ratificação pelo Decreto-Lei n.º 48450, de 24 de Junho de 1968, tendo depositado o seu instrumento de ratificação em 6 de Dezembro de 1968, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 50, de 28 de Fevereiro de 1969. As autoridades competentes em Portugal para emitir a apostilha são a Procuradoria-Geral da República e as procuradorias da República junto das relações, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 78, de 2 de Abril de 1969.
+Departamento de Assuntos Jurídicos, 6 de Dezembro de 1994. - O Director, José Maria Teixeira Leite Martins.
