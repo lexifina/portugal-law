@@ -1,0 +1,8 @@
+Despacho Normativo n.º 352/79
+Considerando que nos termos do despacho do Ministro das Finanças, publicado no Diário da República, 2.ª série, de 22 de Junho de 1979, foi o IPE dotado com a verba necessária para ocorrer ao aumento de capital social, no montante de 67587 contos, a efectuar na empresa Pirites Alentejanas, S. A. R. L.;
+Considerando que dada a prevista criação da Empresa Mineira e Metalúrgica do Alentejo, E. P. (EMMA), deverão as participações do Estado nas Pirites Alentejanas ser detidas pela EMMA, dada a evidente complementaridade das actividades respectivas, factor, aliás, que motivou a exclusão daquela empresa da carteira de participações do IPE;
+Considerando que o IPE já entregou às Pirites Alentejanas 35000 contos dos 67587 contos referidos e que é urgente completar a realização do aumento do capital social:
+Determina-se que:
+1 - A Direcção-Geral do Tesouro proceda à entrega directa à empresa Pirites Alentejanas, S. A. R. L., da importância de 32587 contos, correspondente ao aludido aumento de capital social por realizar, mediante dedução na verba inscrita no Orçamento Geral do Estado de 1979 e destinada ao IPE para aquele fim.
+2 - No prazo de trinta dias após a publicação dos estatutos da Empresa Mineira e Metalúrgica do Alentejo, E. P. (EMMA), deverá proceder-se ao aumento do seu capital estatutário através da afectação das participações na empresa Pirites Alentejanas, S. A. R. L., que incluirá a verba de 67587 contos.
+Ministérios das Finanças e da Indústria, 14 de Novembro de 1979. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Indústria, Fernando Henrique Marques Videira.
