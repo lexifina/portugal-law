@@ -1,0 +1,143 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=P0Fiu%2fOxm2B6i1Qb1v6Kl8P9Ddn6RTIUCktgva%2fyOaH7lWGUnkkysYTUSoIwHSs4BsNkQvxZU1Jn26l834KO7HtuiuTauD6UP2bFLXGt1tGFPrfPngnS3CSTBHYbjc71uc6LAaWwWMNPEAhBQhLTogdfX0k86zYaSRdtMb5VxaaW%2bmRVLZ1kFuUjHoiU3DnKr1hwTFH2RjyVH0%2bkvoh5J2473p4WEAcwEGu0cbkopo0uGKBdgu45lweS1xncByHsc5RkSTt5XtJ4jYpzMHGU0JCobwocVoDRrWDIaByf6THsN8d28CiCvqU0mvdSGeyt9pZrFNIo3KeVbLuYHnmRx0uPU1z9aF2A03pcO1L5Ivg%3d&fich=AtividadesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "158feac9a195837800498c997c5f15d982e196bc878ba5194b23e12459159b60",
+  "legislatura": "IX",
+  "tipo": "Voto",
+  "numero": "128",
+  "data_registo": "2004-02-04",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de Protesto pelas condições ofensivas em que decorre a reclusão de mais de 600 prisioneiros na Base Militar Norte-Americana de Guantanamo",
+    "AutoresGP": [
+      "PCP",
+      "Rodeia Machado (PCP)",
+      "Lino de Carvalho (PCP)",
+      "Carlos Carvalhas (PCP)",
+      "Bernardino Soares (PCP)",
+      "António Filipe (PCP)",
+      "Jerónimo de Sousa (PCP)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2004-02-05",
+    "DataAnuncio": null,
+    "DataEntrada": "2004-02-04",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "IX",
+    "Numero": "128",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "286076",
+        "obs": null,
+        "pag": [
+          "86-86"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-02-07",
+        "pubLeg": "IX",
+        "pubNr": "17",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/02/017/2004-02-07/86?pgs=86&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "21078",
+        "obs": null,
+        "pag": [
+          "2704-2707"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-02-06",
+        "pubLeg": "IX",
+        "pubNr": "48",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/048/2004-02-06/2704?pgs=2704-2707&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": "P",
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Deputados",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2004-02-05",
+        "descricao": "Nº 1",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "31325",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "285452",
+            "obs": null,
+            "pag": [
+              "2707-2708"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-02-06",
+            "pubLeg": "IX",
+            "pubNr": "48",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/048/2004-02-06/2707?pgs=2707-2708&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "48",
+        "tipoReuniao": null,
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2004-02-05",
+        "descricao": "N.º 2",
+        "detalhe": null,
+        "id": "31326",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "48",
+        "tipoReuniao": null,
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2004-02-05",
+        "descricao": "N.º 3",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "31327",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "48",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
