@@ -1,0 +1,3 @@
+Despacho Normativo n.º 166/83
+Considerando que a interpretação do Decreto-Lei n.º 147/79, de 24 de Maio, tem originado situações de actuação diferentes nos vários centros pesqueiros do País, ao abrigo do disposto no artigo 8.º daquele diploma, determina-se que a todos os moluscos bivalves capturados por embarcações nos bancos permanentemente submersos do nosso litoral oceânico se aplica o articulado do referido decreto-lei, no que se refere à obrigatoriedade de venda em lota.
+Secretarias de Estado do Comércio Interno e das Pescas, 2 de Agosto de 1983. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe. - O Secretário de Estado das Pescas, Alberto Augusto Faria dos Santos.
