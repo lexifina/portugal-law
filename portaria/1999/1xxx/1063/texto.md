@@ -1,0 +1,10 @@
+Portaria n.º 1063/99
+de 7 de Dezembro
+Com fundamento no disposto no artigo 20.º da Lei n.º 30/86, de 27 de Agosto, e no Decreto-Lei n.º 251/92, de 12 de Novembro, foi pela Portaria n.º 854/95, de 14 de Julho, concessionada à ORCINETUR - Estudos e Gestão de Recursos Cinegéticos e Agrícolas, Lda., a zona de caça turística da Herdade da Foz e outras (processo n.º 1818-DGF), abrangendo os prédios rústicos denominados «Herdades da Foz, Monte Sores, Montinho e Vale Porcas de Baixo», sitos nas freguesias de Ponte de Sor e Galveias, município de Ponte de Sor, com uma área de 832,95 ha, válida até 14 de Julho de 2006.
+Considerando que a entidade concessionária deixou de assegurar desde Dezembro de 1997 a fiscalização da zona de caça turística da Herdade da Foz e outras por um guarda florestal auxiliar, ao que estava obrigada nos termos do n.º 6.º da Portaria n.º 854/95, de 14 de Julho;
+Considerando que a entidade concessionária não participou os resultados de exploração da época venatória de 1997-1998, nem apresentou o plano anual de exploração para a época venatória de 1998-1999, violando o disposto nas alíneas e) e f) do n.º 1 do artigo 73.º do Decreto-Lei n.º 136/96, de 14 de Agosto;
+Considerando que os factos acima descritos constituem incumprimento reiterado das obrigações a que a ORCINETUR - Estudos e Gestão de Recursos Cinegéticos e Agrícolas, Lda., estava vinculada por força da concessão da zona de caça turística da Herdade da Foz e outras:
+Assim:
+Com fundamento no disposto na alínea b) do n.º 1 do artigo 86.º do Decreto-Lei n.º 136/96, de 14 de Agosto, manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas, que seja revogada a concessão do regime cinegético especial atribuída pela Portaria n.º 854/95, de 14 de Julho, à ORCINETUR - Estudos e Gestão de Recursos Cinegéticos e Agrícolas, Lda. (processo n.º 1818-DGF).
+Em 22 de Outubro de 1999.
+Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.
