@@ -1,0 +1,26 @@
+Decreto-Lei n.º 132/78
+de 5 de Junho
+O artigo 31.º da Tabela de Emolumentos do Notariado, anexa ao Decreto-Lei n.º 31/78, de 9 de Fevereiro, encontra-se incompleto, pois não prevê situações que constavam já do artigo 31.º da anterior Tabela e de que, aliás, é quase mera reprodução, impondo-se assim a respectiva alteração.
+Nestes termos:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º O artigo 31.º da Tabela de Emolumentos do Notariado, anexa ao Decreto-Lei n.º 31/78, de 9 de Fevereiro, passa a ter a seguinte redacção:
+Artigo 31.º
+1 - ...
+2 - ...
+a) ...
+b) ...
+3 - Contar-se-á como um só acto:
+a) ...
+b) ...
+c) ...
+d) ...
+e) A outorga de poderes de representação ou o seu substabelecimento, por marido e mulher, contanto que o representante seja o mesmo;
+f) As diversas garantias prestadas por terceiros a obrigações assumidas no mesmo título e entre os mesmos sujeitos.
+4 - Consideram-se actos entre sujeitos diversos:
+a) As habilitações respeitantes a heranças diferentes;
+b) As partilhas de herança diferentes, salvo se os seus autores forem marido e mulher.
+Art. 2.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Visto e aprovado em Conselho de Ministros. - Mário Soares - José Dias dos Santos Pais.
+Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 22 de Maio de 1978.
+Publique-se.
+O Presidente da República Interino, VASCO DA GAMA FERNANDES.
