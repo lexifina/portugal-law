@@ -1,0 +1,69 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2000-05-30, processo 629/98
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 629/98
+
+**Secção:** Secção do Contencioso Tributário - Tribunal Central Administrativo
+
+**Data do Acordão:** 05/30/2000
+
+**Relator:** Jorge Lino R. Alves de Sousa
+
+**Descritores:** IVA; NIPC INCORRECTO; FUNDAMENTAÇÃO
+
+**Aditamento:** 1
+
+## Sumário
+
+1. A fundamentação do acto de liquidação, embora deva reunir os elementos referidos no
+
+art. 82º do CPT , designadamente a qualificação dos factos e as normas legais atinentes, destina-se a
+
+possibilitar ao contribuinte optar conscientemente pela aceitação da sua legalidade ou pelo uso de
+
+reacções graciosas ou contenciosas.
+
+É de considerar suficientemente fundamentado de direito, o acto que contenha a referência a um quadro
+
+normativo determinado que se atinge pela submissão ao direito aplicável, mesmo que a concreta
+
+indicação da norma não esteja expressamente indicada.
+
+2. O CIVA não impõe ao adquirente dos bens e serviços que averigue da veracidade do NIPC do
+
+respectivo fornecedor constante da factura por este emitida.
+
+Emitida factura, com indicação desconforme do NIPC do fornecedor, não é esta circunstância, só por si,
+
+impeditiva do direito á dedução do IVA dela constante, nomeadamente se não se provar má-fé.
+
+Relator: J. GonçalvesProcesso nº2415/99
+
+Secção do Contencioso Tributário - Tribunal Central Administrativo
+
+Acórdão de 2000.05.30
+
+Oposição. Fundamentos. Legalidade da liquidação exequenda. Indeferimento liminar.
+
+I. A oposição à execução fiscal só pode ter por fundamento facto ou factos susceptíveis de serem
+
+integrados em alguma das previsões das várias alíneas do n.º l do artigo 286.º do Código de Processo
+
+Tributário [cf. actualmente o artigo 204.º do Código de Procedimento e de Processo Tributário].
+
+II. Por regra, o meio próprio para discutir a legalidade concreta da liquidação da dívida exequenda é o
+
+processo de impugnação judicial.
+
+III. Excepcionalmente, pode, nos termos da alínea g) do n.º l do artigo 286.º do Código de Processo
+
+Tributário, a ilegalidade concreta da liquidação da dívida exequenda ser fundamento de oposição à
+
+execução fiscal, sempre que a lei não assegure meio judicial de impugnação ou recurso contra o acto da
+
+liquidação.
+
+IV. A petição inicial de oposição à execução fiscal, em que se não alegue nenhum fundamentocom
+
+previsão legal pertinente, deve, em princípio, sofrer despacho de indeferimento liminar.
