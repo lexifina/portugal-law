@@ -1,0 +1,11 @@
+Decreto-Lei n.º 42919
+Atendendo a que a Câmara Municipal de Lisboa necessita, para prolongamento da Avenida do General Roçadas até ao Largo da Graça e urbanização do local, de dispor dos prédios do Estado, afectos à Federação Nacional das Instituições de Protecção à Infância, situados na Rua da Graça, 23-A a 33, e de duas pequenas moradias com acesso pela serventia n.º 61 da mesma rua;
+Atendendo a que o Governo, dentro da orientação que vem adoptando na solução de idênticos problemas, considera justificada a cessão dos referidos prédios, em ordem a facilitar a execução de uma obra de real interesse para a cidade de Lisboa;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo, à Câmara Municipal de Lisboa, para prolongamento da Avenida do General Roçadas até ao Largo da Graça e urbanização do local, conforme planta publicada com este decreto-lei e que dele fica a fazer parte integrante, os prédios do Estado situados na Rua da Graça, 23-A a 33, bem como duas pequenas moradias com acesso pela serventia n.º 61 da mesma rua, afectos à Federação Nacional das Instituições de Protecção à Infância.
+1.º A Câmara Municipal de Lisboa satisfará no acto da assinatura do instrumento da cessão a importância de 1475000$00 como retribuição à Federação Nacional das Instituições de Protecção à Infância.
+2.º A cessão é isenta de impostos e efectivar-se-á por meio de auto assinado na Direcção-Geral da Fazenda Pública.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 12 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.
