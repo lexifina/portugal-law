@@ -1,0 +1,4 @@
+Aviso
+É tornado público, por ordem superior, que o Governo da Islândia depositou no Secretariado-Geral da O. N. U., em 18 de Maio de 1971, o seu instrumento de acessão à Convenção de Viena sobre Relações Diplomáticas, ao Protocolo Facultativo sobre Aquisição de Nacionalidade e ao Protocolo Facultativo sobre a Solução Obrigatória dos Diferendos, concluídos naquela capital aos 18 de Abril de 1961, consoante informa a nota C. N. 83 do Secretariado-Geral da O. N. U., de 3 de Junho de 1971.
+Nos termos do § 2 dos artigos 51, VI e VIII, a Convenção e os dois protocolos mencionados entram em vigor, em relação à Islândia, no trigésimo dia após depósito do instrumento de acessão, ou seja, em 17 de Junho corrente.
+Secretaria-Geral do Ministério, 29 de Junho de 1971. - O Secretário-Geral, José Luís Archer.
