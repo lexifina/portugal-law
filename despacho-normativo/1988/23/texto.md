@@ -1,0 +1,3 @@
+Despacho Normativo n.º 23/88
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, em aditamento à tabela n.º 2 «Produtos fitofarmacêuticos» aprovada pelo Despacho Normativo n.º 346/80, publicado no Diário da República, 1.ª série, de 28 de Outubro de 1980, é autorizada a substituição do conteúdo líquido (peso) de embalagem de 250 g por outro de 200 g para os produtos fitofarmacêuticos com base na substância activa cumatetralil (rodenticida), com o teor de 0,0375% (p/p), formulado em isco.
+Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo, 8 de Março de 1988. - O Secretário de Estado da Agricultura, Álvaro dos Santos Amaro. - O Secretário de Estado do Comércio Interno, Jorge Manuel Mendes Antas.
