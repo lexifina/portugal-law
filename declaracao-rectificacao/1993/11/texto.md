@@ -1,0 +1,6 @@
+Declaração de rectificação n.º 11/93
+Para os devidos efeitos se declara que a Resolução do Conselho de Ministros n.º 47/92, publicada no Diário da República, 1.ª série, n.º 295, de 23 de Dezembro de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Na alínea e) do n.º 4, onde se lê «Submeter ao Governo os planos e relatórios de actividades» deve ler-se «Submeter aos Ministros da Indústria e Energia, da Educação e do Emprego e da Segurança Social os planos e relatórios de actividades».
+No n.º 7, onde se lê «Atribuir ao Programa um orçamento de funcionamento, a ser suportado em partes iguais pelos Ministérios da Indústria e Energia e da Educação» deve ler-se «Atribuir ao Programa um orçamento de funcionamento, a ser suportado em partes iguais pelos Ministérios da Indústria e Energia, da Educação e do Emprego e da Segurança Social».
+No n.º 8, onde se lê «sem prejuízo das competências que no seu âmbito os Ministros da Indústria e Energia e da Educação nele deleguem» deve ler-se «sem prejuízo das competências que no seu âmbito os Ministros da Indústria e Energia, da Educação e do Emprego e da Segurança Social nele deleguem».
+Secretaria-Geral da Presidência do Conselho de Ministros, 25 de Janeiro de 1993. - O Secretário-Geral, França Martins.
