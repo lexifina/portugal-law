@@ -1,0 +1,2150 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "98",
+    "id": "19874",
+    "titulo": "Orçamento do Estado para 2004."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2003-11-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2856",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2003-11-05",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "19873",
+        "leg": "IX",
+        "nr": "97",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "739",
+            "obs": null,
+            "pag": [
+              "1069-1156"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-11-06",
+            "pubLeg": "IX",
+            "pubNr": "20",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1069?pgs=1069-1156&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Grandes Opções do Plano para 2004."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-11-05",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147320",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1069-1073",
+                  "1154-1156"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1069?pgs=1069-1073,1154-1156&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1949",
+                "nome": "Maximiano Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147330",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1071-1072"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1071?pgs=1071-1072&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147331",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1073-1079"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1073?pgs=1073-1079&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1435",
+                "nome": "José Junqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147332",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1077-1078"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1077?pgs=1077-1078&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DE ESTADO E DAS FINANÇAS",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Manuela Ferreira Leite"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147333",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1079-1085",
+                  "1088-1089",
+                  "1092-1094",
+                  "1097-1099"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1079?pgs=1079-1085,1088-1089,1092-1094,1097-1099&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147334",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1085-1086"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1085?pgs=1085-1086&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147335",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1086-1087"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1086?pgs=1086-1087&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147336",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1087-1087"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1087?pgs=1087&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147337",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1089-1089"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1089?pgs=1089&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1278",
+                "nome": "Augusto Santos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147338",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1090-1091"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1090?pgs=1090-1091&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147339",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1091-1091"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1091?pgs=1091&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147340",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1091-1092"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1091?pgs=1091-1092&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "428",
+                "nome": "Fernando Serrasqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147341",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1094-1095"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1094?pgs=1094-1095&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147342",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1095-1096"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1095?pgs=1095-1096&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1592",
+                "nome": "Victor Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147343",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1096-1097"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1096?pgs=1096-1097&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1676",
+                "nome": "Elisa Guimarães Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147344",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1099-1105"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1099?pgs=1099-1105&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1958",
+                "nome": "Pinho Cardão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147345",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1103-1104"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1103?pgs=1103-1104&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1990",
+                "nome": "Miguel Frasquilho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147346",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1105-1110"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1105?pgs=1105-1110&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1990",
+                "nome": "Miguel Frasquilho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147347",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1109-1109"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1109?pgs=1109&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147348",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1111-1113"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1111?pgs=1111-1113&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1423",
+                "nome": "Luísa Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147349",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1113-1117"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1113?pgs=1113-1117&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147350",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1117-1118"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1117?pgs=1117-1118&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  ECONOMIA, DA INOVAÇÃO E DO DESENVOLVIMENTO",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Tavares"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147351",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1118-1121",
+                  "1124-1126",
+                  "1129-1130"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1118?pgs=1118-1121,1124-1126,1129-1130&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2015",
+                "nome": "Almeida Henriques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147352",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1122-1122"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1122?pgs=1122&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "183",
+                "nome": "José Apolinário"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147353",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1123-1123"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1123?pgs=1123&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147354",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1123-1124",
+                  "1142-1142"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1123?pgs=1123-1124,1142&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147355",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1126-1126"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1126?pgs=1126&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147356",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1126-1127"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1126?pgs=1126-1127&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1290",
+                "nome": "Álvaro Castello-branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147357",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1127-1127"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1127?pgs=1127&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1915",
+                "nome": "Graça Proença de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147358",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1128-1128"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1128?pgs=1128&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "195",
+                "nome": "Leonor Coutinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147359",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1128-1128"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1128?pgs=1128&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1607",
+                "nome": "Patinha Antão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147360",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1130-1133"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1130?pgs=1130-1133&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1698",
+                "nome": "Miguel Anacoreta Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147361",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1133-1136"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1133?pgs=1133-1136&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  CIÊNCIA E DO ENSINO SUPERIOR",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Maria Da Graça Carvalho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147362",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1136-1140",
+                  "1144-1145",
+                  "1148-1149"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1136?pgs=1136-1140,1144-1145,1148-1149&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1693",
+                "nome": "Ricardo Fonseca de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147363",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1140-1141"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1140?pgs=1140-1141&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1278",
+                "nome": "Augusto Santos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147364",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1141-1142"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1141?pgs=1141-1142&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1423",
+                "nome": "Luísa Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147365",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1142-1144"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1142?pgs=1142-1144&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147366",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1145-1146"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1145?pgs=1145-1146&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147367",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1146-1147"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1146?pgs=1146-1147&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1478",
+                "nome": "Gonçalo Capitão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147368",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1147-1147"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1147?pgs=1147&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147369",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1149-1152",
+                  "1154-1154"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1149?pgs=1149-1152,1154&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "18:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147370",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1152-1154"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-06",
+                "pubLeg": "IX",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1152?pgs=1152-1154&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano e Orçamento do Estado para 2004",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "159612",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "282652",
+        "obs": null,
+        "pag": [
+          "1069-1156"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-11-06",
+        "pubLeg": "IX",
+        "pubNr": "20",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/020/2003-11-06/1069?pgs=1069-1156&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
