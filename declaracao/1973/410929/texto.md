@@ -1,0 +1,3 @@
+Declaração
+O Conselho de Ministros para os Assuntos Económicos, em suas reuniões de 20 de Janeiro de 1970 e 16 de Novembro de 1971, deliberou delegar numa comissão delegada, constituída pelo Ministro de Estado adjunto do Presidente do Conselho, pelo Ministro das Finanças e pelo Secretário de Estado da Indústria, quando se trate de empresas industriais, ou pelo Ministro ou Secretário de Estado competente, nos outros casos, a sua competência para decisão de pedidos de concessão de isenções fiscais, deduzidos ao abrigo da Lei n.º 2005 e outra legislação aplicável.
+Secretariado Técnico da Presidência do Conselho, 4 de Dezembro de 1973. - O Director-Geral, Carlos Jorge Mendes Corrêa Gago.
