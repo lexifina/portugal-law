@@ -1,0 +1,35 @@
+Lei n.º 59/84
+de 31 de Dezembro
+CRIAÇÃO DA FREGUESIA DE RIBAMAR NO CONCELHO DA LOURINHÃ
+A Assembleia da República decreta, nos termos da alínea j) do artigo 167.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:
+ARTIGO 1.º
+1 - É criada no concelho da Lourinhã a freguesia de Ribamar.
+2 - A nova freguesia de Ribamar passa a integrar os lugares de Ribamar, Porto Dinheiro e Casais de Sobreirinhos.
+ARTIGO 2.º
+Os limites da nova freguesia, conforme representação cartográfica anexa, são definidos da seguinte forma:
+A linha limite da nova freguesia inicia-se na delimitação das freguesias de Santa Bárbara e Lourinhã, a 100 m sudoeste do marco de delimitação situado no Alto do Félix. Segue por um caminho em direcção a leste, virando depois em direcção a sul; depois de algumas centenas de metros entra num caminho de pé-posto junto à propriedade de herdeiros de José da Fonseca. Cruzando um caminho de serra batida segue na delimitação das propriedades de Florentino Anacleto Fernandes, do lado direito, e António Narciso Martins, José Neto Martins e João José Martins, do lado esquerdo. Segue depois por um caminho de terra batida até à estrada de Casais de Porto Dinheiro, continuando pela delimitação entre a parte rústica e a parte urbana da propriedade de João Ângelo Anacleto. Entra de novo num caminho de terra batida pela delimitação das propriedades de José da Cruz e Francisco da Cruz, do lado esquerdo, e herdeiros de Pedro Filipe e Luís Silvério Moço, do lado direito. Volta a entrar num caminho de terra batida e segue depois pela delimitação das propriedades de herdeiros de José Maria, do lado direito, e Manuel Antunes, do lado esquerdo. Após esta delimitação cruza um caminho de terra batida pela delimitação das propriedades de Manuel Gomes, à esquerda, e António Miguel e Pedro Alexandre Alfaiate, à direita. Seguindo então um caminho de terra batida até à estrada camarária, continua por esta até ao cruzamento em frente do cemitério, cruza a estrada nacional n.º 247, entra numa pequena serventia, onde segue a delimitação das propriedades de António Eusébio e Francisco Antunes, da lado esquerdo, e António Correia Caixaria, do lado direito. Entra de novo num caminho de terra batida até à ribeira de Ribamar, segue o curso desta ribeira até ao sítio da Rocha, onde se encontra o marco divisório de concelhos e divisório das freguesias de Santa Bárbara, Ribamar e A dos Cunhados, continuando pela delimitação com a última delas até o mar, no sítio denominado «Vale de Éguas». Continua pela beira do mar até ao sítio da Lage Fria, onde retoma a linha limite com a freguesia da Lourinhã até ao marco que serviu de ponto de partida.
+ARTIGO 3.º
+1 - A comissão instaladora da nova freguesia será constituída nos termos e no prazo previstos no artigo 10.º da Lei n.º 11/82, de 2 de Junho.
+2 - Para os efeitos da disposição referida no número anterior, a Assembleia Municipal da Lourinhã nomeará uma comissão instaladora constituída por:
+a) 1 representante da Assembleia Municipal da Lourinhã;
+b) 1 representante da Câmara Municipal da Lourinhã;
+c) 1 representante da Assembleia de Freguesia de Santa Bárbara;
+d) 1 representante da Junta de Freguesia de Santa Bárbara;
+e) 5 cidadãos eleitores da área da nova freguesia de Ribamar, cuja designação terá em conta os resultados das últimas eleições para a Assembleia de Freguesia de Santa Bárbara.
+ARTIGO 4.º
+1 - A comissão instaladora exercerá funções até à tomada de posse dos órgãos autárquicos da nova freguesia.
+2 - O artigo 10.º, n.º 6, da Lei n.º 11/82 não se aplica à criação da presente freguesia.
+ARTIGO 5.º
+As eleições para a assembleia da nova freguesia realizar-se-ão na data das primeiras eleições autárquicas gerais posteriores à entrada em vigor da presente lei.
+ARTIGO 6.º
+A presente lei entra em vigor em 1 de Janeiro de 1985.
+Aprovada em 30 de Novembro de 1984.
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
+Promulgada em 29 de Dezembro de 1984.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendada em 29 de Dezembro de 1984.
+O Primeiro-Ministro, Mário Soares.
+
+(ver documento original)
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
