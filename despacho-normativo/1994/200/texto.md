@@ -1,0 +1,6 @@
+Despacho Normativo n.º 200/94
+Considerando que o licenciado Carlos Augusto Paradinha Xavier, técnico superior principal do quadro de pessoal do Instituto de Reinserção Social, tem vindo a desempenhar, em regime de comissão de serviço, funções de chefe de divisão nos Serviços Municipalizados da Câmara Municipal de Oeiras desde 1 de Fevereiro de 1989, reúne os requisitos necessários para o acesso à categoria de assessor principal e requereu a criação do respectivo lugar;
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6, 7 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi dada pelo artigo 1.º daquele diploma, conjugado com a alínea a) do n.º 2 do artigo 9.º do Decreto-Lei n.º 198/91, de 29 de Maio:
+Determina-se o seguinte:
+É criado no quadro de pessoal do Instituto de Reinserção Social, constante do anexo XIII da Portaria n.º 316/87, de 16 de Abril, um lugar de assessor principal, a extinguir quando vagar.
+Ministérios das Finanças e da Justiça, 3 de Março de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.
