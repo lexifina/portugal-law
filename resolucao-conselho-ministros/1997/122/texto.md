@@ -1,0 +1,25 @@
+Resolução do Conselho de Ministros n.º 122/97
+A globalização da economia gerou, naturalmente, um desenvolvimento acentuado no transporte aéreo, que apresenta índices de crescimento superiores aos dos outros meios de transporte.
+Este fenómeno, aliado ao crescimento económico das regiões onde se situam os principais aeroportos do território continental português, bem como às perspectivas de captação de novos tráfegos - abertas pela progressiva liberalização do acesso ao mercado do transporte aéreo e pelo desenvolvimento em curso nas redes rodo e ferroviárias -, impõe uma reapreciação do ordenamento aeroportuário, incluindo o problema das respectivas acessibilidades.
+Neste contexto, apresentam-se particularmente críticas as fortes limitações quanto à possibilidade de aumento continuado da capacidade do Aeroporto da Portela de Sacavém, por forma a dar resposta à procura previsível, uma vez que os estudos realizados permitem concluir que, independentemente dos avultados investimentos em curso, atingirá muito provavelmente em meados da próxima década a respectiva saturação operacional.
+O desenvolvimento dos aeroportos existentes não será suficiente para servir o tráfego previsto, impondo-se desde já que, em simultâneo, se inicie o processo conducente à construção de um novo aeroporto no continente, o que implica, obviamente, a escolha da respectiva localização.
+Neste contexto, as tarefas conducentes ao reordenamento do tráfego aéreo são de grande envergadura, tornando-se indispensável a repartição das mesmas, por forma e concluírem-se em tempo útil.
+Termos em que se considera fundamental dever o Ministério do Equipamento, do Planeamento e da Administração do Território assegurar os trabalhos de âmbito geral de reordenamento do espaço aéreo nacional com o apoio de estruturas específicas vocacionadas para enquadrar a decisão de localização/viabilidade do novo aeroporto, com grande rigor nas diversas vertentes, nomeadamente no que respeita aos estudos comparáveis para as várias zonas possíveis. O desenvolvimento dos trabalhos conducentes à construção do novo aeroporto deverá, também, estar a cargo de uma sociedade com esse objectivo específico.
+Assim:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - Incumbir o Ministro do Equipamento, do Planeamento e da Administração do Território de:
+a) Promover o estudo de um plano de reordenamento aeroportuário do território continental português, tendo em conta a evolução previsível da procura nos actuais Aeroportos do Porto, Lisboa e Faro, considerando o desenvolvimento económico das regiões circundantes e o potencial de alargamento das respectivas áreas de captação, bem como as possibilidades oferecidas pelas outras infra-estruturas aeroportuárias existentes;
+b) Orientar em especial o planeamento do reordenamento aeroportuário no horizonte da 1.ª década do século XXI, de modo a potenciar a inserção das infra-estruturas em causa na rede multimodal transeuropeia, considerando o desenvolvimento em profundidade das capacidades polarizadoras do Porto e Faro relativamente a áreas transfronteiriças, respectivamente no Noroeste e no Sul de Espanha, bem como das oportunidades que se oferecem ao novo aeroporto, como um dos elos de articulação das rotas que ligam a Europa e os destinos ao Sul do Atlântico;
+c) Apresentar em Conselho de Ministros, até ao final do 1.º semestre de 1998, as conclusões do referido estudo.
+2 - Constituir imediatamente um grupo de trabalho, a funcionar junto da ANA - Aeroportos e Navegação Aérea, E. P., a fim de:
+a) Habilitar o Governo com os instrumentos legais de criação de uma empresa de capitais públicos, cujo objecto é proceder ao desenvolvimento dos trabalhos necessários à preparação e execução das decisões referentes ao planeamento e construção de um novo aeroporto;
+b) Preparar, no mais breve prazo, os termos de referência para os estudos relativos à localização/viabilidade do novo aeroporto, por forma a habilitar o Governo para a tomada de decisão final, enquadrada no reordenamento aeroportuário a que se refere a alínea a) do n.º 1.
+3 - O grupo de trabalho referido no número anterior tem a seguinte composição:
+Major Carlos Gonçalves da Costa, que preside;
+Dr. José Moura Calhão;
+Engenheiro Júlio Castro Silva;
+Um representante do Ministério das Finanças.
+4 - Para o desempenho das suas atribuições, o grupo de trabalho pode obter a colaboração de assessoria técnica especializada, incluindo a de funcionários da Administração Pública.
+5 - Os encargos decorrentes da actividade do grupo de trabalho serão suportados pela ANA - Aeroportos e Navegação Aérea, E. P., que igualmente lhe prestará os necessários apoios técnicos, administrativos e logísticos e em cujas instalações funcionará.
+6 - O grupo de trabalho cessa funções na data da realização da assembleia geral para eleição dos corpos sociais da nova sociedade.
+Presidência do Conselho de Ministros, 3 de Julho de 1997. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
