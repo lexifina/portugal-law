@@ -1,0 +1,6 @@
+Aviso n.º 147/97
+Por ordem superior se torna público que, por nota de 17 de Março de 1997, o Secretário-Geral das Nações Unidas, na sua qualidade de depositário da Convenção sobre a Cobrança de Alimentos no Estrangeiro, concluída em Nova Iorque em 20 de Junho de 1956, comunicou ter o Governo da Estónia depositado, em 8 de Janeiro de 1997, o seu instrumento de adesão à mencionada Convenção.
+Nos termos do artigo 2.º da Convenção, o Governo da Estónia notificou o Secretário-Geral de que o Ministério da Justiça da Estónia foi designado como autoridade transmissora e receptora.
+Nos termos do artigo 14.º (2), a Convenção entrou em vigor para a Estónia no 30.º dia posterior à data do depósito do instrumento de adesão, isto é, em 7 de Fevereiro de 1997.
+Portugal é parte na mesma Convenção, que foi aprovada, para adesão, pelo Decreto-Lei n.º 45942, de 28 de Setembro de 1964, tendo depositado o seu instrumento de adesão em 25 de Janeiro de 1965, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 34, de 10 de Fevereiro de 1965. A autoridade central em Portugal é a Direcção-Geral dos Serviços Judiciários, do Ministério da Justiça, conforme aviso publicado no Diário da República, 1.ª série, n.º 16, de 19 de Janeiro de 1985.
+Departamento de Assuntos Jurídicos, 14 de Abril de 1997. - O Director, José Maria Teixeira Leite Martins.
