@@ -2,7 +2,7 @@
 
 ### Factos sujeitos a registo obrigatório
 
-1 - Deve ser pedido no prazo de três meses a contar da data em que tiverem sido titulados o registo dos factos referidos nas alíneas a) a c), e) a m) e o) a u) do artigo 3.º, no artigo 4.º, no artigo 6.º, no artigo 7.º, nas alíneas a) a d) e f) a h) do artigo 8.º e na alínea b) do artigo 10.º
+1 - O registo dos factos referidos nas alíneas a) a c), e) a m) e o) a z) do n.º 1 e nas alíneas a) e c) a i) do n.º 2 do artigo 3.º, no artigo 4.º, no artigo 6.º, no artigo 7.º, nas alíneas a) a d) e f) a h) do artigo 8.º e na alínea c) do artigo 10.º deve ser pedido no prazo de três meses a contar da data em que tais factos tenham sido titulados.
 
 2 - O registo dos factos referidos nas alíneas a), d) e e) do artigo 5.º deve ser requerido no prazo de três meses a contar da data da publicação do decreto que os determinou.
 

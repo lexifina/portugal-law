@@ -13,3 +13,5 @@
 5 - Não existindo incompatibilidade, o conservador procede imediatamente à nomeação, por despacho exarado no próprio requerimento, e comunica o facto, no prazo de vinte e quatro horas, à entidade interessada.
 
 6 - Tratando-se de projecto de fusão de sociedades, é competente para efectuar a nomeação uma das conservatórias onde estiver situada a sede de qualquer das sociedades envolvidas no processo.
+
+7 - O disposto nos números anteriores não é aplicável à designação de peritos independentes no âmbito dos processos de constituição ou transformação de sociedades anónimas europeias, prevista nas normas comunitárias correspondentes, a qual se rege pelo disposto na legislação nacional aprovada em execução dessas normas.
