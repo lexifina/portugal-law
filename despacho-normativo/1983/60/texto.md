@@ -1,0 +1,8 @@
+Despacho Normativo n.º 60/83
+Considerando que importa pôr termo à apreciação de todos os processos para ingresso no quadro geral de adidos que se encontram pendentes na Direcção-Geral de Integração Administrativa, alguns há mais de 7 anos;
+Considerando que já foi concedido aos interessados um prazo bastante dilatado para a apresentação da documentação necessária à apreciação dos respectivos processos;
+Considerando já não existir de momento qualquer razão plausível para se prolongar ad aeternum a presente situação, dado haver hoje em dia possibilidades de obter com relativa facilidade tais documentos, salvo os que se reportam à prestação de prova da manutenção da nacionalidade:
+Determino que:
+1.º Os agentes abrangidos pela alínea a) do n.º 1 do artigo 17.º do Decreto-Lei n.º 294/76, de 24 de Abril, com a redacção dada pelo Decreto-Lei n.º 819/76, de 12 de Novembro, que tenham requerido atempadamente o seu ingresso no quadro geral de adidos sem a entrega da documentação necessária à instrução dos respectivos processos deverão fazê-lo dentro do prazo de 90 dias, a contar do primeiro dia do mês seguinte ao da entrada em vigor do presente despacho normativo.
+2.º A contar da data referida no número anterior, todos os processos pendentes cuja documentação não haja sido apresentada nos prazos estabelecidos por este diploma, com excepção da prova de manutenção da nacionalidade, serão arquivados e considerado sem efeito o pedido constante nos mesmos.
+Gabinete do Secretário de Estado da Reforma Administrativa, 18 de Fevereiro de 1983. - O Secretário de Estado da Reforma Administrativa, António Jorge de Figueiredo Lopes.
