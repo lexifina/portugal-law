@@ -1,19 +1,17 @@
 # Artigo 270.º
 
-### Cargos e conteúdos funcionais
+### Condições especiais de promoção
 
-1 - Aos sargentos da Armada incumbe, designadamente, o exercício de funções nos comandos, forças, unidades, serviços e organismos da Marinha, de acordo com as respectivas classes e postos, bem como o exercício de funções que à Marinha respeitam nos quartéis-generais ou estados-maiores de comandos de forças conjuntas ou combinadas e noutros departamentos do Estado.
+1 - As condições especiais de promoção compreendem:
 
-2 - São funções comuns a todos os postos da categoria de sargentos, de acordo com o grau de autoridade do posto e das perícias adquiridas, a condução, formação e treino de pessoal e a execução de trabalhos técnicos e tarefas de vigilância e polícia e secretariado.
+a) Tempo mínimo de permanência no posto;
 
-3 - Os cargos e as funções específicas de cada posto são os previstos na estrutura orgânica legalmente aprovada onde os sargentos estejam colocados.
+b) Tirocínios de embarque, constituídos por tempo de embarque e ou tempo de serviço de helicópteros e tempo de navegação;
 
-4 - Os conteúdos funcionais dos cargos relativos aos diferentes postos da categoria de sargentos, no âmbito do estabelecido nos números anteriores, têm a seguinte caracterização genérica:
+c) Frequência, com aproveitamento, de cursos;
 
-a) Sargento-mor: funções ligadas ao planeamento, organização, direcção, inspecção, coordenação, controlo e segurança, nos sectores do pessoal e do material;
+d) Outras condições de natureza específica das classes.
 
-b) Sargento-chefe: funções ligadas ao planeamento, organização, direcção, coordenação e controlo, nos sectores do pessoal e do material;
+2 - As condições especiais de promoção para os diversos postos e classes, para além das fixadas no artigo 264.º, constam do anexo III ao presente Estatuto, do qual faz parte integrante.
 
-c) Sargento-ajudante: funções ligadas à organização, coordenação e controlo, nos sectores do pessoal e do material;
-
-d) Primeiro-sargento e segundo-sargento: funções de chefia e comando de secções de unidades navais ou unidades de fuzileiros ou de mergulhadores.
+3 - Aos sargentos é aplicável, com as necessárias adaptações, o disposto nos artigos 229.º, 230 e 231.º do presente Estatuto.

@@ -1,15 +1,13 @@
 # Artigo 165.º
 
-### Quadros especiais
+### Preenchimento de lugares
 
-1 - Designa-se por quadro especial o conjunto de lugares distribuídos por categorias e postos segundo a mesma formação de base ou afim.
+1 - Os lugares dos quadros especiais, quando não preenchidos pelos efectivos legalmente aprovados, constituem vacatura nos mesmos quadros.
 
-2 - Os quadros especiais dos ramos denominam-se, genericamente, por:
+2 - Os lugares dos quadros especiais são unicamente preenchidos pelos militares no activo, na efectividade de serviço e em licença registada.
 
-a) Classes, na Marinha;
+3 - Quando ocorra uma vacatura, deve ser accionado o processo administrativo conducente ao seu preenchimento por militares que reúnam condições de promoção.
 
-b) Corpo de oficiais generais, armas e serviços, no Exército;
+4 - Quando ocorram vacaturas em lugares correspondentes a determinado posto e as mesmas não puderem ser preenchidas por não haver militares que reúnam as respectivas condições de promoção, efectuam-se as promoções nos postos hierarquicamente inferiores como se tivessem sido efectuados aqueles movimentos.
 
-c) Especialidades ou grupos de especialidades, na Força Aérea.
-
-3 - Os quadros especiais são criados e extintos por decreto-lei, sob proposta do CEM do respectivo ramo, sendo os seus efectivos distribuídos por categorias e postos, aprovados por despacho do CEM de cada ramo, ouvido o respectivo conselho superior.
+5 - O efectivo fixado para o posto mais elevado para o qual se efectuou o movimento ao abrigo do número anterior é transitoriamente aumentado no quantitativo de militares promovidos nestas condições.

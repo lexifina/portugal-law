@@ -1,15 +1,19 @@
 # Artigo 217.º
 
-### Promoções
+### Tempos mínimos
 
-As promoções aos postos da categoria de oficiais processam-se nas seguintes modalidades:
+1 - O tempo mínimo de permanência em cada posto para acesso ao posto imediato é de:
 
-a) Capitão-de-mar-e-guerra ou coronel, por escolha;
+a) Um ano no posto de guarda-marinha, subtenente ou alferes;
 
-b) Capitão-de-fragata ou tenente-coronel, por antiguidade;
+b) Quatro anos no posto de segundo-tenente ou tenente;
 
-c) Capitão-tenente ou major, por escolha;
+c) Seis anos no posto de primeiro-tenente ou capitão;
 
-d) Primeiro-tenente ou capitão, por diuturnidade;
+d) Quatro anos no posto de capitão-tenente ou major;
 
-e) Segundo-tenente ou tenente, por diuturnidade.
+e) Quatro anos no posto de capitão-de-fragata ou tenente-coronel;
+
+f) Três anos no posto de capitão-de-mar-e-guerra ou coronel.
+
+2 - O tempo mínimo global para acesso ao posto de capitão-de-mar-e-guerra ou de coronel, após o ingresso na categoria de oficiais (do QP), é de 20 anos de serviço efectivo.

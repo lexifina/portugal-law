@@ -1,7 +1,17 @@
+## Subsecção II
+
+## Activo
+
 # Artigo 144.º
 
-### Reforma
+### Situações em relação à prestação de serviço
 
-1 - Reforma é a situação para que transita o militar, no activo ou na reserva, que seja abrangido pelo disposto no artigo 160.º
+O militar no activo pode estar, em relação à prestação de serviço, numa das seguintes situações:
 
-2 - O militar na reforma não pode exercer funções militares, salvo nas circunstâncias excepcionais previstas neste Estatuto.
+a) Comissão normal;
+
+b) Comissão especial;
+
+c) Inactividade temporária;
+
+d) Licença sem vencimento.

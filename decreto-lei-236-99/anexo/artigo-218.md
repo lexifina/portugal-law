@@ -1,19 +1,15 @@
 # Artigo 218.º
 
-### Tempos mínimos
+### Cursos de promoção
 
-1 - O tempo mínimo de permanência em cada posto para acesso ao posto imediato é de:
+1 - Constituem condição especial de promoção, designadamente, os seguintes cursos:
 
-a) Um ano no posto de guarda-marinha, subtenente ou alferes;
+a) Para acesso a contra-almirante ou major-general, o curso de promoção a oficial general;
 
-b) Quatro anos no posto de segundo-tenente ou tenente;
+b) Para acesso a capitão-tenente ou major, o curso de promoção a oficial superior.
 
-c) Seis anos no posto de primeiro-tenente ou capitão;
+2 - As nomeações para os cursos referidos no número anterior efectuam-se:
 
-d) Quatro anos no posto de capitão-tenente ou major;
+a) Por escolha, de entre os capitães-de-mar-e-guerra, ou coronéis e capitães-de-fragata ou tenentes-coronéis, para o curso de promoção a oficial general;
 
-e) Quatro anos no posto de capitão-de-fragata ou tenente-coronel;
-
-f) Três anos no posto de capitão-de-mar-e-guerra ou coronel.
-
-2 - O tempo mínimo global para acesso ao posto de capitão-de-mar-e-guerra ou de coronel, após o ingresso na categoria de oficiais (do QP), é de 20 anos de serviço efectivo.
+b) Por antiguidade, de entre os primeiros-tenentes e capitães, excluindo aqueles a quem seja adiada a sua frequência e os que declarem dele desistir, os quais ficarão abrangidos pelo disposto no artigo 198.º, para o curso de promoção a oficial superior.

@@ -1,7 +1,11 @@
 # Artigo 127.º
 
-### Desenvolvimento da carreira
+### Condicionamentos
 
-1 - O desenvolvimento da carreira militar traduz-se, em cada categoria, na promoção dos militares aos diferentes postos, de acordo com as respectivas condições gerais e especiais, tendo em conta as qualificações, a antiguidade e o mérito revelados no desempenho profissional e as necessidades estruturais das Forças Armadas.
+O desenvolvimento da carreira militar, em cada categoria, está condicionado à verificação dos seguintes pressupostos:
 
-2 - O desenvolvimento da carreira militar, em cada categoria, deve possibilitar uma permanência significativa e funcionalmente eficaz nos diferentes postos que a constituem.
+a) Alimentação adequada às necessidades de cada quadro especial;
+
+b) Existência de mecanismos reguladores que assegurem flexibilidade de gestão e permanente motivação dos militares;
+
+c) O número de lugares distribuídos por postos, fixados nos quadros especiais aprovados.

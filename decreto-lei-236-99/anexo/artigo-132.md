@@ -1,7 +1,7 @@
 # Artigo 132.º
 
-### Categoria de praças
+### Recrutamento
 
-1 - Para ingresso na categoria de praças é exigida a escolaridade obrigatória, complementada por formação militar adequada.
+1 - O recrutamento para as várias categorias dos QP é feito por concurso de admissão, nos termos previstos em legislação própria.
 
-2 - A categoria de praças destina-se ao exercício, sob orientação, de funções de natureza executiva e ao desenvolvimento de actividades de âmbito técnico e administrativo, próprias dos respectivos quadros especiais e postos.
+2 - O militar, desde que reúna as condições previstas neste Estatuto e legislação complementar aplicável, pode candidatar-se à frequência de cursos ou tirocínios que possibilitem o ingresso em categoria de nível superior àquela onde se encontre integrado.

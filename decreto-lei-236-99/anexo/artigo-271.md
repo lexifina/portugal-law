@@ -1,17 +1,17 @@
 # Artigo 271.º
 
-### Condições especiais de promoção
+### Formação militar
 
-1 - As condições especiais de promoção compreendem:
+1 - A preparação básica e complementar dos sargentos, efectuada essencialmente através de acções de investimento, de evolução e de ajustamento, desenvolve-se através das actividades enunciadas no artigo 232.º
 
-a) Tempo mínimo de permanência no posto;
+2 - Os cursos frequentados pelos sargentos compreendem:
 
-b) Tirocínios de embarque, constituídos por tempo de embarque e ou tempo de serviço de helicópteros e tempo de navegação;
+a) Curso de promoção a sargento-chefe (CPSC);
 
-c) Frequência, com aproveitamento, de cursos;
+b) Cursos de especialização;
 
-d) Outras condições de natureza específica das classes.
+c) Cursos de aperfeiçoamento;
 
-2 - As condições especiais de promoção para os diversos postos e classes, para além das fixadas no artigo 264.º, constam do anexo III ao presente Estatuto, do qual faz parte integrante.
+d) Cursos de actualização.
 
-3 - Aos sargentos é aplicável, com as necessárias adaptações, o disposto nos artigos 229.º, 230 e 231.º do presente Estatuto.
+3 - Os sargentos podem ser nomeados para frequentar cursos em estabelecimentos de ensino, civis ou militares, nacionais ou estrangeiros.

@@ -1,9 +1,25 @@
+## Subsecção IV
+
+## Reforma
+
 # Artigo 159.º
 
-### Suspensão da transição para a reserva
+### Reforma
 
-1 - A transição para a situação de reserva é sustada quando o militar atinja o limite de idade no seu posto ou seja abrangido pelas alíneas a) ou b) do n.º 1 do artigo 155.º e se verifique a existência de uma vacatura em data anterior e de cujo preenchimento possa resultar a sua promoção ao posto seguinte, transitando para a situação de adido até à data da promoção ou da mudança de situação.
+1 - O militar passa à situação de reforma sempre que:
 
-2 - Em caso de não promoção, a data de transição para a reserva é a do preenchimento da vacatura a que se refere o número anterior.
+a) Atinja os 65 anos de idade;
 
-3 - A transição para a situação de reserva nos termos do disposto nas alíneas a) e b) do n.º 1 do artigo 155.º fica suspensa, salvo declaração em contrário do militar, enquanto permanecerem na situação de activo militares por ele ultrapassados na promoção aos postos mencionados no referido artigo.
+b) Complete, seguida ou interpoladamente, cinco anos na situação de reserva fora da efectividade de serviço;
+
+c) Requeira a passagem à reforma depois de completados 60 anos de idade e 36 anos de tempo de serviço.
+
+2 - O militar, tendo prestado o tempo mínimo de serviço previsto no Estatuto da Aposentação, passa à situação de reforma sempre que:
+
+a) Seja julgado física ou psiquicamente incapaz para todo o serviço, mediante parecer de competente junta médica, homologado pelo respectivo CEM;
+
+b) Opte pela colocação nesta situação quando se verifiquem as circunstâncias indicadas na alínea a) do n.º 1 do artigo 149.º;
+
+c) Seja abrangido por outras condições estabelecidas na lei.
+
+3 - No caso de militar abrangido pelo artigo 155.º, que transite para a situação de reserva com idade inferior ao limite de idade estabelecido no artigo 154.º, o tempo de permanência fora da efectividade de serviço, a que se refere a alínea b) do n.º 1, é contado a partir da data em que o militar atingir aquele limite de idade.

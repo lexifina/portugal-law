@@ -1,11 +1,15 @@
 # Artigo 244.º
 
-### Promoção a major-general
+### Cursos e tirocínios
 
-São condições especiais de promoção ao posto de major-general, para além do tempo mínimo de permanência referido no artigo 218.º, as seguintes:
+1 - Os cursos e tirocínios que habilitam ao ingresso nas armas e serviços da categoria de oficial são os seguintes:
 
-a) Aprovação no curso superior de comando e direcção;
+a) Curso de licenciatura em Ciências Militares, na Academia Militar;
 
-b) Para os coronéis das armas, ter exercido, no posto de coronel ou tenente-coronel, pelo período mínimo de um ano seguido, com informação favorável, o comando de unidade independente, escola prática ou outro comando considerado, por despacho do CEME, de categoria equivalente ou superior;
+b) Curso de licenciatura ou equivalente em estabelecimento de ensino superior complementado por curso ou tirocínio ministrado em estabelecimento militar de ensino;
 
-c) Para os coronéis dos serviços, ter exercido, no posto de coronel ou tenente-coronel, pelo período mínimo de um ano seguido, com informação favorável, o comando de unidade independente ou escola prática, chefia de serviço, direcção de estabelecimento ou outra função de comando, chefia ou direcção considerada, por despacho do CEME, de categoria equivalente ou superior.
+c) Curso de oficiais com nível de bacharelato na Escola Superior Politécnica do Exército (ESPE);
+
+d) Curso de bacharelato ou equivalente complementado por curso ou tirocínio ministrado em estabelecimento militar de ensino.
+
+2 - Os cursos referidos no número anterior são regulados por legislação especial.

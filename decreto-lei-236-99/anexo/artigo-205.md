@@ -1,11 +1,9 @@
-## Capítulo X
-
-## Licenças
-
 # Artigo 205.º
 
-### Licença registada
+### Outros tipos de licenças
 
-1 - A licença registada não pode ser imposta ao militar, sendo concedida exclusivamente a seu requerimento, não podendo perfazer mais de seis meses, seguidos ou interpolados, por cada período de cinco anos.
+Ao militar podem ser concedidas, além das expressamente indicadas no artigo 93.º, as seguintes licenças:
 
-2 - A licença registada a que se refere o número anterior não pode ser concedida, de cada vez, por períodos inferiores a um mês.
+a) Ilimitada;
+
+b) Para estudos.

@@ -1,15 +1,13 @@
 # Artigo 245.º
 
-### Cursos e tirocínios
+### Cursos de promoção
 
-1 - Os cursos e tirocínios que habilitam ao ingresso nas armas e serviços da categoria de oficial são os seguintes:
+Constituem condição especial de promoção os seguintes cursos:
 
-a) Curso de licenciatura em Ciências Militares, na Academia Militar;
+a) Curso superior de comando e direcção (CSCD), para a promoção a oficial general;
 
-b) Curso de licenciatura ou equivalente em estabelecimento de ensino superior complementado por curso ou tirocínio ministrado em estabelecimento militar de ensino;
+b) Curso de promoção a oficial superior das armas (CPOS/A);
 
-c) Curso de oficiais com nível de bacharelato na Escola Superior Politécnica do Exército (ESPE);
+c) Curso de promoção a oficial superior dos serviços (CPOS/S);
 
-d) Curso de bacharelato ou equivalente complementado por curso ou tirocínio ministrado em estabelecimento militar de ensino.
-
-2 - Os cursos referidos no número anterior são regulados por legislação especial.
+d) Curso de promoção a capitão (CPC).

@@ -1,11 +1,11 @@
 # Artigo 128.º
 
-### Condicionamentos
+### Designação das categorias
 
-O desenvolvimento da carreira militar, em cada categoria, está condicionado à verificação dos seguintes pressupostos:
+As categorias na carreira militar designam-se de:
 
-a) Alimentação adequada às necessidades de cada quadro especial;
+a) Oficiais;
 
-b) Existência de mecanismos reguladores que assegurem flexibilidade de gestão e permanente motivação dos militares;
+b) Sargentos;
 
-c) O número de lugares distribuídos por postos, fixados nos quadros especiais aprovados.
+c) Praças.

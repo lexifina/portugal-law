@@ -1,53 +1,19 @@
 # Artigo 130.º
 
-### Categoria de oficiais
+### Categoria de sargentos
 
-1 - Para o ingresso na categoria de oficiais é exigida:
+1 - Para ingresso na categoria de sargentos é exigido, no mínimo, o ensino secundário complementado por formação militar adequada ou formação militar que habilite com a certificação de formação profissional de nível 3.
 
-a) Licenciatura em Ciências Militares;
+2 - A categoria de sargentos destina-se, de acordo com os respectivos quadros especiais e postos, ao exercício de funções de comando e chefia, de natureza executiva, de carácter técnico, administrativo, logístico e de instrução.
 
-b) Licenciatura ou equivalente, complementada por curso, tirocínio ou estágio para os militares admitidos por concurso;
+3 - Os quadros especiais referentes a esta categoria podem, consoante as necessidades orgânicas de cada ramo, incluir os seguintes postos:
 
-c) Curso de oficiais com o nível de bacharelato;
+a) Sargento-mor (SMOR);
 
-d) Bacharelato ou equivalente, complementado por curso ou tirocínio, para militares admitidos por concurso.
+b) Sargento-chefe (SCH);
 
-2 - A categoria de oficiais cuja formação de base é uma licenciatura ou equivalente destina-se ao exercício de funções de comando, direcção ou chefia, estado-maior e execução que requeiram elevado grau de conhecimentos de natureza científico-técnica e de qualificação.
+c) Sargento-ajudante (SAJ);
 
-3 - Os quadros especiais referentes à categoria mencionada no número anterior podem, consoante as necessidades orgânicas de cada ramo, incluir ou conferir acesso aos seguintes postos:
+d) Primeiro-sargento (1SAR);
 
-a) Almirante (ALM) ou general (GEN);
-
-b) Vice-almirante (VALM) ou tenente-general (TGEN);
-
-c) Contra-almirante (CALM) ou major-general (MGEN);
-
-d) Capitão-de-mar-e-guerra (CMG) ou coronel (COR);
-
-e) Capitão-de-fragata (CFR) ou tenente-coronel (TCOR);
-
-f) Capitão-tenente (CTEN) ou major (MAJ);
-
-g) Primeiro-tenente (1TEN) ou capitão (CAP);
-
-h) Segundo-tenente (2TEN) ou tenente (TEN);
-
-i) Guarda-marinha (GMAR) ou alferes (ALF).
-
-4 - Com a finalidade de desempenho de cargos internacionais no País ou no estrangeiro e, excepcionalmente, para o exercício de funções de natureza militar fora da estrutura das Forças Armadas, é criado o posto de comodoro ou brigadeiro-general, a que têm acesso, unicamente por graduação, os capitães-de-mar-e-guerra ou coronéis habilitados com o curso superior naval de guerra, o curso superior de comando e direcção ou o curso superior de guerra aérea.
-
-5 - A categoria de oficiais - cuja formação de base seja bacharelato ou equivalente - destina-se ao exercício de funções de comando, direcção ou chefia, estado-maior e execução que requeiram conhecimentos de natureza técnica e especialização.
-
-6 - Os quadros especiais referentes à categoria mencionada no número anterior podem, consoante as necessidades orgânicas de cada ramo, incluir os seguintes postos:
-
-a) Capitão-de-mar-e-guerra ou coronel;
-
-b) Capitão-de-fragata ou tenente-coronel;
-
-c) Capitão-tenente ou major;
-
-d) Primeiro-tenente ou capitão;
-
-e) Segundo-tenente ou tenente;
-
-f) Subtenente (STEN) ou alferes.
+e) Segundo-sargento (2SAR).

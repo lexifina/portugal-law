@@ -1,7 +1,9 @@
 # Artigo 142.º
 
-### Activo
+### Reserva
 
-1 - Considera-se no activo o militar que se encontre afecto ao serviço efectivo ou em condições de ser chamado ao seu desempenho e não tenha sido abrangido pelas situações de reserva ou de reforma.
+1 - Reserva é a situação para que transita o militar do activo quando verificadas as condições estabelecidas neste Estatuto, mantendo-se, no entanto, disponível para o serviço.
 
-2 - O militar no activo pode encontrar-se na efectividade de serviço ou fora da efectividade de serviço.
+2 - O militar na reserva pode encontrar-se na efectividade de serviço ou fora da efectividade de serviço.
+
+3 - O efectivo de militares na situação de reserva é variável.

@@ -1,23 +1,7 @@
-## Capítulo V
-
-## Situações e efectivos
-
-## Secção I
-
-## Situações
-
-## Subsecção I
-
-## Disposições gerais
-
 # Artigo 141.º
 
-### Situações
+### Activo
 
-O militar encontra-se numa das seguintes situações:
+1 - Considera-se no activo o militar que se encontre afecto ao serviço efectivo ou em condições de ser chamado ao seu desempenho e não tenha sido abrangido pelas situações de reserva ou de reforma.
 
-a) Activo;
-
-b) Reserva;
-
-c) Reforma.
+2 - O militar no activo pode encontrar-se na efectividade de serviço ou fora da efectividade de serviço.

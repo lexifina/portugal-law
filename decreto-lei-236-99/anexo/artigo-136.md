@@ -1,5 +1,7 @@
 # Artigo 136.º
 
-### Nomeação por escolha
+### Nomeação por oferecimento
 
-A nomeação processa-se por escolha sempre que a satisfação das necessidades ou o interesse do serviço devam ter em conta as qualificações técnicas e as qualidades pessoais do nomeado, bem como as exigências das funções ou do cargo a desempenhar e é da competência do CEM do ramo.
+1 - A nomeação por oferecimento assenta em declaração do militar, na qual, de forma expressa, se oferece para exercer determinada função ou cargo.
+
+2 - A nomeação por oferecimento pode ainda processar-se por convite aos militares que satisfaçam os requisitos técnicos e profissionais exigidos, devendo tal convite ser objecto de divulgação através das ordens de serviço.

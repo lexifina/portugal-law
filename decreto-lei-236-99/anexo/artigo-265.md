@@ -1,7 +1,13 @@
 # Artigo 265.º
 
-### Curso de promoção
+### Admissão a cursos ou tirocínios
 
-1 - O curso de promoção a sargento-chefe constitui condição especial para acesso a este posto e é frequentado no posto de sargento-ajudante.
+1 - Os sargentos, até ao posto de sargento-ajudante, inclusivamente, podem concorrer à frequência de cursos ou tirocínios que habilitem ao ingresso na categoria de oficiais, desde que satisfaçam, designadamente, as seguintes condições:
 
-2 - A nomeação para o curso referido no número anterior é feita por antiguidade, dentro de cada classe, arma, serviço ou especialidade, de entre os sargentos-ajudantes, excluindo aqueles a quem seja adiada a sua frequência e os que declarem dela desistir, ficando abrangidos pelo disposto no artigo 198.º
+a) Ter as habilitações exigidas para a frequência do respectivo curso ou tirocínio;
+
+b) Ter idade não superior à exigida para a frequência do respectivo curso ou tirocínio, que, em qualquer caso, não pode exceder 38 anos de idade;
+
+c) Ficar aprovado nas provas do concurso de admissão ao curso ou tirocínio e ser seleccionado para o preenchimento das vagas abertas para cada concurso.
+
+2 - Os cursos referidos no número anterior são regulados por legislação especial.

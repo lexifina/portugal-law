@@ -1,11 +1,9 @@
-## Capítulo IX
-
-## Avaliação
-
 # Artigo 201.º
 
-### Finalidade
+### Avaliações periódicas
 
-1 - A avaliação do militar na efectividade de serviço visa, além das finalidades gerais, apreciar o mérito absoluto e relativo, assegurando o desenvolvimento na categoria respectiva fundamentado na demonstração da capacidade militar e da competência técnica para o exercício de funções de mais elevado nível de responsabilidade.
+São obrigatoriamente objecto de avaliação periódica dos comandantes, directores ou chefes a que estão subordinados os militares do activo em comissão normal e os da reserva na efectividade de serviço, com excepção de:
 
-2 - A avaliação do militar destina-se ainda a permitir a correcção e o aperfeiçoamento do sistema, das técnicas e dos critérios de avaliação.
+a) Almirantes ou generais e vice-almirantes ou tenentes-generais;
+
+b) Contra-almirantes ou majores-generais nos quadros especiais em que estes postos sejam os mais elevados.

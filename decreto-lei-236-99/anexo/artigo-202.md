@@ -1,9 +1,11 @@
 # Artigo 202.º
 
-### Avaliações periódicas
+### Avaliações extraordinárias
 
-São obrigatoriamente objecto de avaliação periódica dos comandantes, directores ou chefes a que estão subordinados os militares do activo em comissão normal e os da reserva na efectividade de serviço, com excepção de:
+Sem prejuízo do disposto no n.º 3 do artigo 84.º, as avaliações extraordinárias são prestadas sempre que:
 
-a) Almirantes ou generais e vice-almirantes ou tenentes-generais;
+a) Se verifique a transferência do avaliado e desde que tenha decorrido um período igual ou superior a seis meses após a última avaliação;
 
-b) Contra-almirantes ou majores-generais nos quadros especiais em que estes postos sejam os mais elevados.
+b) Qualquer dos avaliadores considere justificado e oportuno proceder a uma reavaliação;
+
+c) Seja superiormente determinado.

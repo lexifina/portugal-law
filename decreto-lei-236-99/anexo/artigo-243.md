@@ -1,17 +1,11 @@
 # Artigo 243.º
 
-### Promoção a coronel
+### Promoção a major-general
 
-1 - São condições especiais de promoção ao posto de coronel, para além dos tempos de permanência referidos no artigo 218.º, as seguintes:
+São condições especiais de promoção ao posto de major-general, para além do tempo mínimo de permanência referido no artigo 218.º, as seguintes:
 
-a) Para os tenentes-coronéis das armas, ter exercido, pelo prazo mínimo de um ano, com informação favorável, como oficial superior, o cargo de comandante ou 2.º comandante de batalhão ou outro comando considerado, por despacho do CEME, de categoria equivalente ou superior;
+a) Aprovação no curso superior de comando e direcção;
 
-b) Para os tenentes-coronéis médicos, a obtenção do grau de consultor;
+b) Para os coronéis das armas, ter exercido, no posto de coronel ou tenente-coronel, pelo período mínimo de um ano seguido, com informação favorável, o comando de unidade independente, escola prática ou outro comando considerado, por despacho do CEME, de categoria equivalente ou superior;
 
-c) Para os tenentes-coronéis dos serviços, ter exercido, pelo prazo mínimo de um ano, com informação favorável, como oficial superior, o cargo de comandante ou 2.º comandante de batalhão ou outro comando, chefia ou direcção considerados, por despacho do CEME, de categoria equivalente ou superior.
-
-2 - Do tempo mínimo de permanência exigido como major e tenente-coronel, dois anos devem ser prestados:
-
-a) Pelos oficiais das armas, nas unidades, centros de instrução ou escolas práticas das respectivas armas;
-
-b) Pelos oficiais dos serviços, em funções específicas do respectivo serviço.
+c) Para os coronéis dos serviços, ter exercido, no posto de coronel ou tenente-coronel, pelo período mínimo de um ano seguido, com informação favorável, o comando de unidade independente ou escola prática, chefia de serviço, direcção de estabelecimento ou outra função de comando, chefia ou direcção considerada, por despacho do CEME, de categoria equivalente ou superior.

@@ -1,27 +1,17 @@
-## Capítulo III
-
-## Do Exército
-
 # Artigo 236.º
 
-### Corpo de oficiais generais, armas e serviços
+### Ingresso nas armas e serviços
 
-1 - Os oficiais dos QP do Exército distribuem-se pelo corpo de oficiais generais, armas e serviços e pelos seguintes quadros especiais e postos:
+1 - O ingresso nas diferentes armas e serviços do Exército faz-se no posto de alferes de entre alunos que obtenham a licenciatura na Academia Militar, ordenados por cursos e, dentro de cada curso, pelas classificações nele obtidas.
 
-a) Corpo de oficiais generais: general, tenente-general e major-general;
+2 - O ingresso nos quadros especiais de juristas e de técnico superior de apoio faz-se, por concurso, no posto de alferes, de entre licenciados e após conclusão, com aproveitamento, do respectivo curso ou tirocínio, de acordo com o estabelecido em portaria do MDN.
 
-b) Infantaria (INF), artilharia (ART), cavalaria (CAV), engenharia (ENG), transmissões (TM), medicina (MED), medicina dentária (DENT), farmácia (FARM), medicina veterinária (VET), administração militar (ADMIL), material (MAT), juristas (JUR) e superior de apoio (SAP): coronel, tenente-coronel, major, capitão, tenente e alferes;
+3 - Os candidatos admitidos ao abrigo do número anterior frequentam os cursos ou tirocínios graduados no posto de alferes.
 
-c) Técnicos de exploração de transmissões (TEXPTM), de manutenção de transmissões (TMANTM), de manutenção de material (TMANMAT), de pessoal e secretariado (TPESSECR), de transportes (TTRANS), de enfermagem e diagnóstico e terapêutica (TEDT): coronel, tenente-coronel, major, capitão, tenente e alferes;
+4 - O ingresso nos quadros técnicos, previstos na alínea c) do n.º 1 do artigo 236.º, faz-se no posto de alferes de entre militares que:
 
-d) Chefes de banda de música (CBMUS): tenente-coronel, major, capitão, tenente e alferes.
+a) Obtenham o bacharelato na Escola Superior Politécnica do Exército (ESPE), ordenados por cursos e, dentro de cada curso, pelas classificações nele obtidas;
 
-2 - A alimentação do corpo de oficiais generais, sem prejuízo do disposto no n.º 3 do artigo 215.º, é feita de acordo com as seguintes condições de acesso:
+b) Possuam curso com o grau de bacharelato ou equivalente e completem o respectivo curso ou tirocínio para oficial, ordenados consoante a média ponderada das classificações obtidas no bacharelato ou equivalente e no curso de formação ou tirocínio.
 
-a) Ao posto de general, tenente-general e major-general, pelos oficiais provenientes dos quadros de infantaria, artilharia, cavalaria, engenharia e transmissões;
-
-b) Ao posto de major-general, pelos oficiais provenientes dos quadros de material, administração militar, medicina e de juristas.
-
-3 - Os oficiais dos QP do Exército podem ser graduados no posto de brigadeiro-general em conformidade com o conjugadamente disposto no n.º 4 do artigo 130.º e no artigo 216.º do presente Estatuto.
-
-4 - Para efeitos do disposto no presente Estatuto as armas são infantaria, artilharia, cavalaria, engenharia e transmissões.
+5 - O processo de admissão aos cursos ou tirocínios para ingresso nos quadros mencionados nos n.os 2 e 4 é regulado por diploma próprio.

@@ -1,15 +1,11 @@
 # Artigo 223.º
 
-### Ingresso nas classes
+### Subclasses e ramos
 
-1 - O ingresso nas classes de marinha, engenheiros navais, administração naval e fuzileiros faz-se no posto de guarda-marinha de entre os alunos da Escola Naval, licenciados em Ciências Militares com os cursos respectivos.
+1 - As classes podem ser divididas em subclasses, podendo umas e outras compreender um ou mais ramos.
 
-2 - O ingresso na classe de técnicos superiores navais faz-se no posto de subtenente de entre os licenciados, civis ou militares, admitidos por concurso regulado por legislação especial e após conclusão com aproveitamento do respectivo curso.
+2 - Quando as classes sejam divididas em subclasses, a cada uma destas corresponde um efectivo permanente próprio, sem prejuízo de o somatório, total e por postos, dos efectivos das subclasses não poder exceder os efectivos globais fixados para a classe.
 
-3 - Os candidatos admitidos ao curso referido no número anterior são aumentados ao efectivo da Marinha e graduados em subtenente, mantendo, no caso dos militares, a sua patente se superior àquele posto.
+3 - A criação e extinção das subclasses e ramos e a fixação dos efectivos permanentes correspondentes às subclasses são determinadas por despacho do Chefe do Estado-Maior da Armada (CEMA).
 
-4 - O ingresso na classe do serviço técnico faz-se no posto de subtenente, dos militares:
-
-a) Que obtenham o bacharelato na Escola Superior de Tecnologias Navais (ESTNA), ordenados por cursos e, dentro de cada curso, pelas classificações nele obtidas;
-
-b) Que, possuindo o grau de bacharelato ou equivalente em áreas correspondentes a um dos ramos da classe, concluam com aproveitamento o curso militar complementar de oficiais da Escola Superior de Tecnologias Navais.
+4 - Na designação dos oficiais, a identificação da subclasse ou ramo a que pertence o militar deve substituir a que se refere à respectiva classe.

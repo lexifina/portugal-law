@@ -1,5 +1,5 @@
 # Artigo 191.º
 
-### Promoção de militares na reserva e na reforma
+### Promoção de adidos
 
-Os militares na situação de reserva ou de reforma apenas podem ser promovidos por distinção e a título excepcional, nos termos previstos no presente Estatuto.
+O militar adido ao quadro que seja promovido por antiguidade ou por escolha mantém-se na mesma situação em relação ao quadro, apenas ocupando a vaga que deu origem à sua promoção se o novo posto impossibilitar a sua permanência na situação de adido.

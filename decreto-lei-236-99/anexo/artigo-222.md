@@ -1,31 +1,15 @@
-## Capítulo II
-
-## Da Marinha
-
 # Artigo 222.º
 
-### Classes e postos
+### Ingresso nas classes
 
-1 - Os oficiais da Armada distribuem-se pelas seguintes classes e postos:
+1 - O ingresso nas classes de marinha, engenheiros navais, administração naval e fuzileiros faz-se no posto de guarda-marinha de entre os alunos da Escola Naval, licenciados em Ciências Militares com os cursos respectivos.
 
-a) Marinha (M): almirante, vice-almirante, contra-almirante, capitão-de-mar-e-guerra, capitão-de-fragata, capitão-tenente, primeiro-tenente, segundo-tenente e guarda-marinha;
+2 - O ingresso na classe de técnicos superiores navais faz-se no posto de subtenente de entre os licenciados, civis ou militares, admitidos por concurso regulado por legislação especial e após conclusão com aproveitamento do respectivo curso.
 
-b) Engenheiros navais (EN): contra-almirante, capitão-de-mar-e-guerra, capitão-de-fragata, capitão-tenente, primeiro-tenente, segundo-tenente e guarda-marinha;
+3 - Os candidatos admitidos ao curso referido no número anterior são aumentados ao efectivo da Marinha e graduados em subtenente, mantendo, no caso dos militares, a sua patente se superior àquele posto.
 
-c) Administração naval (AN): contra-almirante, capitão-de-mar-e-guerra, capitão-de-fragata, capitão-tenente, primeiro-tenente, segundo-tenente e guarda-marinha;
+4 - O ingresso na classe do serviço técnico faz-se no posto de subtenente, dos militares:
 
-d) Fuzileiros (FZ): contra-almirante, capitão-de-mar-e-guerra, capitão-de-fragata, capitão-tenente, primeiro-tenente, segundo-tenente e guarda-marinha;
+a) Que obtenham o bacharelato na Escola Superior de Tecnologias Navais (ESTNA), ordenados por cursos e, dentro de cada curso, pelas classificações nele obtidas;
 
-e) Médicos navais (MN): contra-almirante, capitão-de-mar-e-guerra, capitão-de-fragata, capitão-tenente, primeiro-tenente e segundo-tenente;
-
-f) Técnicos superiores navais (TSN): capitão-de-mar-e-guerra, capitão-de-fragata, capitão-tenente, primeiro-tenente, segundo-tenente e subtenente;
-
-g) Serviço técnico (ST): capitão-de-mar-e-guerra, capitão-de-fragata, capitão-tenente, primeiro-tenente, segundo-tenente e subtenente;
-
-h) Técnicos de saúde (TS): capitão-de-mar-e-guerra, capitão-de-fragata, capitão-tenente, primeiro-tenente, segundo-tenente e subtenente;
-
-i) Músicos (MUS): capitão-de-fragata, capitão-tenente, primeiro-tenente, segundo-tenente e subtenente.
-
-2 - A distribuição prevista no número anterior não prejudica o disposto no n.º 3 do artigo 215.º do presente Estatuto.
-
-3 - Os oficiais da Armada podem ser graduados no posto de comodoro, em conformidade com o conjugadamente disposto no n.º 4 do artigo 130.º e no artigo 216.º deste Estatuto.
+b) Que, possuindo o grau de bacharelato ou equivalente em áreas correspondentes a um dos ramos da classe, concluam com aproveitamento o curso militar complementar de oficiais da Escola Superior de Tecnologias Navais.

@@ -1,15 +1,17 @@
+## Capítulo VII
+
+## Promoções e graduações
+
 # Artigo 183.º
 
-### Tempo de serviço efectivo
+### Promoções
 
-Conta-se como tempo de serviço efectivo, para além do referido no artigo 46.º, o seguinte:
+1 - A promoção do militar realiza-se segundo o ordenamento estabelecido nas listas de promoção do quadro especial a que pertence, salvo nos casos seguintes:
 
-a) A frequência de estabelecimentos militares de ensino superior (EMES);
+a) Promoção por distinção;
 
-b) A frequência de estabelecimentos de ensino superior necessária à obtenção das habilitações que constituem condições gerais de admissão aos EMES;
+b) Promoção a título excepcional;
 
-c) A duração normal dos respectivos cursos de ensino superior e formação complementar exigida, quando tenha ingressado nos QP mediante concurso e depois de completados cinco anos de serviço efectivo no respectivo quadro especial;
+c) Necessidade de provisão de lugares com exigências de qualificação técnico-profissionais específicas, no caso dos grupos de especialidades, a fixar em disposições próprias.
 
-d) A frequência de cursos, tirocínios ou estágios nos estabelecimentos militares de ensino que constituem habilitação para o ingresso nos QP na respectiva categoria e quadro;
-
-e) O tempo em que o militar tenha estado compulsivamente afastado do serviço, desde que reintegrado por revisão do respectivo processo.
+2 - A promoção do militar efectua-se independentemente da sua situação em relação ao seu quadro especial, salvo quando se encontra em licença ilimitada.

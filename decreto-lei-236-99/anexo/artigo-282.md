@@ -1,13 +1,13 @@
-## Título IV
-
-## Praças da Marinha
-
 # Artigo 282.º
 
-### Classes e postos
+### Ingresso na categoria
 
-As praças da Armada distribuem-se pelas seguintes classes e postos:
+1 - O ingresso na categoria de praças da Armada faz-se no posto de primeiro-marinheiro, de entre militares:
 
-a) Classes: administrativos (L), comunicações (C), electromecânicos (EM), electrotécnicos (ET), fuzileiros (FZ), mergulhadores (U), músicos (B), operações (OP), manobra e serviços (MS), taifa (TF) e técnicos de armamento (TA);
+a) Habilitados com o curso de formação de marinheiros (CFM);
 
-b) Postos: cabo (CAB) e primeiro-marinheiro (1MAR).
+b) Em RC, desde que habilitados com o curso de promoção de marinheiros;
+
+2 - A data de antiguidade dos militares em RC e dos militares alunos que ingressem nos QP após habilitação com os CFM adequados às diversas classes é antecipada de tantos dias quantos os necessários para ser coincidente com a data de conclusão do CFM que, iniciado simultaneamente, termine em primeiro lugar.
+
+3 - As condições de admissão ao CFM são objecto de regulamentação em diploma próprio.

@@ -1,35 +1,15 @@
 # Artigo 154.º
 
-### Limites de idade
+### Outras condições de passagem à reserva
 
-Os limites de idade de passagem à reserva são os seguintes:
+1 - Transita para a situação de reserva o militar no activo que, no respectivo posto, complete o seguinte tempo de permanência na subcategoria ou posto:
 
-a) Oficiais cuja formação de base é uma licenciatura ou equivalente:
+a) Dez anos em oficial general, no caso de vice-almirante ou tenente-general;
 
-Almirante ou general - 64;
+b) Seis anos em contra-almirante ou major-general, nos casos em que o respectivo quadro especial inclua ou confira acesso ao posto de vice-almirante ou tenente-general;
 
-Vice-almirante ou tenente-general - 62;
+c) Oito anos em contra-almirante ou major-general, em capitão-de-mar-e-guerra ou coronel, ou em capitão-de-fragata ou tenente-coronel, nos casos em que estes postos sejam os mais elevados dos respectivos quadros especiais, nos termos do artigo 130.º do presente Estatuto;
 
-Contra-almirante ou major-general - 59;
+d) Oito anos em sargento-mor.
 
-Capitão-de-mar-e-guerra ou coronel - 57;
-
-Restantes postos - 56;
-
-b) Oficiais cuja formação de base é um bacharelato ou equivalente:
-
-Capitão-de-mar-e-guerra ou coronel - 60;
-
-Capitão-de-fragata ou tenente-coronel - 59;
-
-Restantes postos - 58;
-
-c) Sargentos:
-
-Sargento-mor - 60;
-
-Restantes postos - 57;
-
-d) Praças:
-
-Todos os postos - 57.
+2 - Transita ainda para a situação de reserva o militar que seja excluído da promoção ao posto imediato nos termos do disposto no n.º 2 do artigo 186.º e no artigo 190.º do presente Estatuto.

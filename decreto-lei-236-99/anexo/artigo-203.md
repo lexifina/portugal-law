@@ -1,11 +1,13 @@
 # Artigo 203.º
 
-### Avaliações extraordinárias
+### Juntas médicas
 
-Sem prejuízo do disposto no n.º 3 do artigo 84.º, as avaliações extraordinárias são prestadas sempre que:
+1 - O militar, independentemente das inspecções médicas periódicas a que se deva sujeitar, comparece perante a competente junta médica nos seguintes casos:
 
-a) Se verifique a transferência do avaliado e desde que tenha decorrido um período igual ou superior a seis meses após a última avaliação;
+a) Para efeitos de promoção, nos termos fixados neste Estatuto;
 
-b) Qualquer dos avaliadores considere justificado e oportuno proceder a uma reavaliação;
+b) Quando regresse à comissão normal e assim for julgado necessário;
 
-c) Seja superiormente determinado.
+c) Quando houver dúvidas acerca da sua aptidão física.
+
+2 - O CEM do respectivo ramo pode dispensar da apresentação à junta médica a que se refere a alínea a) do número anterior o militar que, por motivos imperiosos de serviço, a ela não possa comparecer.

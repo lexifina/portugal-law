@@ -1,13 +1,11 @@
 # Artigo 148.º
 
-### Inactividade temporária
+### Efeitos da inactividade temporária
 
-1 - O militar no activo considera-se em inactividade temporária nos seguintes casos:
+1 - Quando decorridos 48 meses de inactividade temporária por doença ou acidente e a junta médica, por razões justificadas e fundamentadas, não esteja ainda em condições de se pronunciar quanto à capacidade definitiva do militar, deve-se observar o seguinte:
 
-a) Por motivo de acidente ou doença, quando o impedimento exceda 12 meses e a junta médica, por razões justificadas e fundamentadas, não se encontre ainda em condições de se pronunciar quanto à sua capacidade ou incapacidade definitivas;
+a) Se a inactividade for resultante de acidente ou doença não considerados em serviço nem por motivo do mesmo, o militar tem de optar pela passagem à situação de reforma ou de licença ilimitada;
 
-b) Por motivos criminais ou disciplinares, quando no cumprimento das penas de presídio militar, de prisão militar ou de inactividade.
+b) Se a inactividade for resultante de acidente ocorrido em serviço ou de doença adquirida ou agravada em serviço, ou por motivo do mesmo, o militar poder-se-á manter nesta situação até ao máximo de seis anos, caso a junta médica não se haja, entretanto, pronunciado, após o que tem de optar pela passagem à situação de reforma extraordinária ou de licença ilimitada.
 
-2 - Para efeitos de contagem do prazo fixado na alínea a) do número anterior, são considerados todos os impedimentos por doença e as licenças de junta médica, desde que o intervalo entre dois períodos consecutivos seja inferior a 30 dias.
-
-3 - A situação do militar assistido pelo Centro Militar de Medicina Preventiva é regulada em legislação especial.
+2 - A inactividade temporária resultante do cumprimento de penas criminais ou disciplinares produz os efeitos previstos na lei.

@@ -1,15 +1,17 @@
 # Artigo 197.º
 
-### Nomeação para os cursos de promoção
+### Adiamento, suspensão ou desistência da frequência de cursos de promoção
 
-1 - A nomeação do militar para os cursos de promoção é feita por despacho do CEM do ramo respectivo, tendo em conta:
+1 - O CEM de cada ramo pode adiar ou suspender a frequência de curso de promoção nos seguintes casos:
 
-a) As necessidades do ramo;
+a) Por exigências de serviço devidamente fundamentadas;
 
-b) As condições de acesso legalmente fixadas;
+b) Por razões de acidente ou doença, mediante parecer da competente junta médica;
 
-c) A posição do militar na lista de antiguidade do posto a que pertence.
+c) Por uma só vez, a requerimento do interessado, por motivos de ordem pessoal.
 
-2 - O militar dispensado da frequência de curso de promoção, nos termos do artigo 189.º, deve frequentá-lo, logo que possível, sem carácter classificativo.
+2 - O militar a quem seja adiada ou suspensa a frequência do curso de promoção ao abrigo das alíneas a) e b) do número anterior fica demorado a partir da data em que lhe competiria a promoção até se habilitar com o respectivo curso, o qual deve ser frequentado logo que cessem as causas que determinaram o adiamento ou suspensão.
 
-3 - Não é nomeado para o curso de promoção o militar que vier a atingir o limite de idade de passagem à situação de reserva no período determinado para a ocorrência do curso.
+3 - O militar a quem seja concedido o adiamento ou a suspensão da frequência de curso de promoção ao abrigo da alínea c) do n.º 1 fica preterido, se entretanto lhe competir a promoção, devendo ser nomeado para o curso seguinte.
+
+4 - O militar pode desistir da frequência de curso de promoção, não podendo ser novamente nomeado.

@@ -1,11 +1,11 @@
 # Artigo 215.º
 
-### Promoção a oficial general e de oficiais generais
+### Graduação no posto de comodoro ou brigadeiro-general
 
-1 - As promoções a oficial general e de oficiais generais realizam-se por escolha de entre os oficiais que satisfaçam as condições gerais e especiais para acesso aos postos, de acordo com o disposto na LDNFA.
+1 - São graduados no posto de comodoro ou brigadeiro-general os capitães-de-mar-e-guerra ou coronéis habilitados com o curso superior naval de guerra, o curso superior de comando e direcção ou o curso superior de guerra aérea, nomeados para o desempenho de cargos internacionais no País ou no estrangeiro.
 
-2 - São promovidos ao posto de almirante ou general os vice-almirantes ou tenentes-generais que forem nomeados para ocuparem os cargos de CEMGFA, de CEM dos ramos ou de presidente do STM, sendo o diploma de nomeação, simultaneamente, o da promoção.
+2 - Podem ainda ser graduados, a título excepcional, no posto de comodoro ou brigadeiro-general militares nas condições do n.º 1 para o exercício de funções de natureza militar fora da estrutura das Forças Armadas.
 
-3 - São promovidos ao posto de vice-almirante ou de tenente-general os contra-almirantes ou majores-generais, independentemente do quadro especial a que pertencem, que forem nomeados para o desempenho de cargos a que corresponda o exercício de funções de direcção ou chefia em estruturas de coordenação de actividades funcionais comuns aos ramos das Forças Armadas, nas áreas do ensino, da saúde, da administração e da logística.
+3 - A graduação prevista nos números anteriores confere ao militar graduado o gozo dos direitos correspondentes ao posto atribuído e cessa com a promoção do oficial ao posto de contra-almirante ou major-general, bem como com a sua transição para a situação de reserva ou quando terminem as circunstâncias que motivaram a graduação.
 
-4 - A antiguidade no novo posto reporta-se à data, respectivamente, da deliberação do CCEM, no caso previsto no n.º 1, e do diploma de nomeação que é simultaneamente de promoção, nos casos previstos nos n.os 2 e 3.
+4 - A graduação processa-se nos termos previstos para as promoções a oficial general, após o despacho de nomeação para o desempenho dos cargos referidos nos n.os 1 e 2.

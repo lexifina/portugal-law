@@ -1,9 +1,15 @@
+## Secção II
+
+## Ingresso e promoção na categoria
+
 # Artigo 213.º
 
-### Almirante da Armada e marechal
+### Ingresso na categoria
 
-1 - Ao almirante ou general e ao vice-almirante ou tenente-general que, no exercício de funções de comando ou direcção suprema, tenha revelado predicados excepcionais, prestado serviços distintíssimos e relevantes ou praticado feitos com honra e lustre para a Nação e para as Forças Armadas pode ser concedido, independentemente da idade ou do vínculo ao serviço, o titulo de almirante da Armada ou de marechal do Exército ou da Força Aérea.
+1 - O ingresso na categoria de oficiais faz-se por habilitação com curso adequado, nos postos de guarda-marinha, subtenente ou alferes e de segundo-tenente ou tenente, consoante os ramos e quadros especiais.
 
-2 - Os títulos previstos no número anterior constituem uma dignidade honorífica no âmbito do Estado e são concedidos por decreto do Presidente da República.
+2 - A antiguidade dos oficiais ingressados nos termos previstos no número anterior reporta-se, em regra, a 1 de Outubro do ano em que concluam o respectivo curso, tirocínio ou estágio, sendo, porém, antecipada de tantos anos quantos os que a organização escolar dos respectivos cursos, somada à duração do respectivo estágio, tirocínio ou curso, exceder:
 
-3 - O estatuto do almirante da Armada e marechal consta de legislação própria.
+a) Cinco anos, para licenciatura ou equivalente;
+
+b) Três anos, para bacharelato ou equivalente.
