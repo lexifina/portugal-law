@@ -1,0 +1,10 @@
+Despacho Normativo n.º 32/79
+O Despacho Normativo n.º 283/78, publicado no Diário da República, 1.ª série, n.º 239, de 17 de Outubro, suscitou algumas dúvidas, que justificam a revisão das suas disposições.
+Para evitar a multiplicação de actos complementares de igual natureza, envereda-se pelo caminho da sua substituição, respeitando-se, como é óbvio, as razões da sua emissão e os objectivos pretendidos, sem prejuízo de esclarecimentos futuros em matérias de acentuadas características técnicas intimamente conexas.
+Nestes termos, determino:
+1 - Os fogos de pré-fabricação leve ainda não postos em concurso, no âmbito do «ex-Programa CAR», passarão a ser atribuídos em regime de arrendamento, com renda social, de acordo com o estipulado na Portaria n.º 386/77, de 25 de Junho.
+2 - Os fogos de pré-fabricação média e pesada poderão ser atribuídos em regime de propriedade resolúvel ou em regime de arrendamento, com renda social, mediante proposta a apresentar para o efeito ao Secretário de Estado da Habitação, em relação a cada agrupamento, pelos serviços municipalizados de habitação da área de localização dos respectivos fogos ou pelo Fundo de Fomento da Habitação, quando não estejam criados os mesmos serviços.
+3 - Os fogos de pré-fabricação leve, média e pesada já atribuídos em regime de propriedade resolúvel poderão passar no todo ou em parte ao regime de arrendamento, com renda social, mediante proposta a apresentar para o efeito ao Secretário de Estado da Habitação pelas entidades referidas no número anterior, em relação a cada agrupamento, após obtenção do acordo dos actuais utentes para a mudança do regime.
+4 - Em todos os locais onde, aberto concurso e atribuídos fogos, existam fogos sobrantes, deverão ser abertos novos concursos, aos quais será aplicada a disciplina deste despacho.
+5 - Este despacho substitui, para todos os efeitos, o Despacho Normativo n.º 283/78 e as dúvidas que a sua aplicação suscite serão objecto de decisão do Secretário de Estado da Habitação.
+Secretaria de Estado da Habitação, 18 de Janeiro de 1979. - O Secretário de Estado da Habitação, José Augusto Gonçalves Ramos.
