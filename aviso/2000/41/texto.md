@@ -1,0 +1,4 @@
+Aviso n.º 41/2000
+Por ordem superior se faz público que, segundo comunicação da Organização Mundial da Propriedade Intelectual, o Governo da República da Jamaica depositou, em 24 de Setembro de 1999, o instrumento de adesão à Convenção de Paris para a Protecção da Propriedade Industrial, de 20 de Março de 1883, revista em Estocolmo em 14 de Julho de 1967 e modificada em 28 de Setembro de 1979.
+A Convenção de Paris, na sua versão revista, entrará em vigor, por indicação do Governo da Jamaica, em 24 de Dezembro de 1999. A partir desta data, a República da Jamaica passará a ser membro da União Internacional para a Protecção da Propriedade Industrial (União de Paris), fundada pela Convenção de Paris.
+Direcção-Geral dos Assuntos Multilaterais, 16 de Novembro de 1999. - A Directora-Geral, Ana Martinho.
