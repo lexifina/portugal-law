@@ -1,0 +1,7 @@
+Declaração
+Segundo comunicação do Ministério do Comércio e Turismo, o Decreto Regulamentar n.º 14/78, publicado no Diário da República, 1.ª série, n.º 109, suplemento, de 12 de Maio, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 8.º, n.º 2, onde se lê: «Nas unidades de alojamento de um ou dois lugares, designadamente estúdios, ...», deve ler-se: «Nas unidades de alojamento de um ou dois lugares, designadas estúdios, ...»
+No artigo 19.º, n.º 1, alínea j), onde se lê: «... que poderá ser substituído por uma zona diferente de bar, ...», deve ler-se: «... que poderá ser substituído por uma zona diferenciada de bar, ...»
+No artigo 33.º, n.º 2, onde se lê: «Presumir-se-á a habitualidade quando, por qualquer meio, se faça publicidade dos departamentos ...», deve ler-se: «Presumir-se-á a habitualidade quando, por qualquer meio, se faça publicidade dos apartamentos ...»
+No artigo 35.º, n.º 2, onde se lê: «A desafectação, relativamente à exploração turística, de um ou mais apartamentos não prejudica a qualificação aos restantes ...», deve ler-se: «A desafectação, relativamente à exploração turística, de um ou mais apartamentos não prejudica a qualificação atribuída aos restantes ...»
+Secretaria-Geral da Presidência do Conselho de Ministros, 14 de Julho de 1978. - Pelo Secretário-Geral, Joaquim Brandão.
