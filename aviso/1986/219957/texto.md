@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que o Governo do Koweit aceitou a emenda introduzida pela Resolução A.450 (XI), de 15 de Novembro de 1979, e o Governo da República Democrática da Coreia aceitou as emendas introduzidas pelas Resoluções A.69 (ES.II), de 15 de Setembro de 1969, A.70 (IV), de 28 de Setembro de 1965, A.315 (ES.V), de 17 de Outubro de 1974, A.358 (IX), de 14 de Novembro de 1975, A.371 (X), de 9 de Novembro de 1977, A.400 (X), de 17 de Novembro de 1977, e A.450 (XI), de 15 de Novembro de 1979, da convenção que criou a Organização Marítima Internacional, assinada em Genebra em 1948.
+Direcção-Geral dos Negócios Político-Económicos, 19 de Agosto de 1986. - O Director de Serviços dos Assuntos Multilaterais, Marcello de Zaffiri Duarte Mathias.
