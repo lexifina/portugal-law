@@ -12,4 +12,4 @@ c) Primeiro-comissário de embarcações de comércio com lotação máxima de 1
 
 d) Chefe de comissariado de embarcações de comércio com lotação máxima de 50 passageiros.
 
-2 - A categoria de comissário de 3.ª classe será atribuída ao indivíduo que prove estar habilitado com o curso superior de comissariado e poderá ser atribuída ao praticante de comissário que prove ter um ano de embarque.
+2 - A categoria de comissário de 3.ª classe será atribuída ao praticante de comissário que prove ter um ano de embarque e aprovação pela ENIDH de um relatório de estágio.

@@ -14,7 +14,7 @@ c) Comandante de embarcações com menos de 1600 tAB, desde que tenha efectuado 
 
 a) Ter dezoito meses de embarque;
 
-b) Estar habilitado com o curso de actualização de pilotagem.
+b) Estar habilitado com o curso de estudos superiores especializados em Gestão e Tecnologias Marítimas.
 
 3 - O requisito da alínea b) do número anterior é substituído pelo curso complementar de pilotagem da Escola Náutica Infante D. Henrique (ENIDH) para os pilotos de 2.ª classe habilitados com o curso geral de pilotagem da mesma Escola.
 

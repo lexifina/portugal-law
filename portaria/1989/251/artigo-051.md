@@ -8,7 +8,7 @@ a) Terceiro-radiotécnico, segundo-radiotécnico ou primeiro-radiotécnico de em
 
 b) Chefe de radiotecnia de embarcações com estações de radiocomunicações de 2.ª, 3.ª e 4.ª categorias.
 
-2 - A categoria de radiotécnico de 3.ª classe será atribuída ao indivíduo que prove estar habilitado com o curso superior de radiotecnia e ao praticante de radiotécnico que prove ter um ano de embarque.
+2 - A categoria de radiotécnico de 3.a classe será atribuída ao praticante de radiotécnico que prove ter um ano de embarque e aprovação pela ENIDH de um relatório de estágio.
 
 3 - A categoria de radiotécnico de 3.ª classe confere ao respectivo titular o direito de requerer a passagem de:
 

@@ -12,7 +12,7 @@ b) Chefe de máquinas de embarcações com máquinas propulsoras de potência in
 
 a) Ter dezoito meses de embarque em embarcações com máquinas propulsoras de potência não inferior a 750 kW;
 
-b) Estar habilitado com o curso de actualização de máquinas marítimas.
+b) Estar habilitado com o curso de estudos superiores especializados em Engenharia de Máquinas Marítimas.
 
 3 - A categoria de maquinista de 1.ª classe confere ao respectivo titular o direito de requerer a passagem de um certificado de competência, nos termos e para os efeitos da Convenção STCW, como:
 

@@ -8,7 +8,7 @@
 
 a) Ter dezoito meses de embarque;
 
-b) Estar habilitado com o curso de actualização de radiotecnia.
+b) Estar habilitados com o curso de estudos superiores especializados em Engenharia de Sistemas Marítimos de Electrotecnia e Telecomunicações.
 
 3 - O requisito da alínea b) do número anterior é substituído pelo curso complementar de radiotecnia da ENIDH para os radiotécnicos de 2.ª classe habilitados com o curso geral da mesma Escola.
 

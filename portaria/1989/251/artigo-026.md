@@ -8,7 +8,7 @@ a) Segundo-maquinista de embarcações com máquinas propulsoras de qualquer pot
 
 b) Primeiro-maquinista de embarcações com máquinas propulsoras de potência inferior a 3000 kW;
 
-c) Chefe de máquinas de embarcações de pesca com máquinas propulsoras de potência inferior a 1500 kW.
+c) Chefes de máquinas de embarcações de pesca com máquinas propulsores de potência inferior a 2000 kW.
 
 2 - A categoria de maquinista de 2.ª classe será atribuída ao maquinista de 3.ª classe que prove ter, depois de obtida esta categoria, dezoito meses de embarque em embarcações com máquinas propulsoras de potência não inferior a 750 kW.
 

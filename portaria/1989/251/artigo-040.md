@@ -12,6 +12,6 @@ b) Chefe de comissariado de embarcações de comércio com lotação máxima de 
 
 a) Ter dezoito meses de embarque;
 
-b) Estar habilitado com o curso de actualização de comissariado.
+b) Estar habilitado com o curso complementar de Comissariado.
 
-3 - O requisito da alínea b) do número anterior é substituído pelo curso complementar de comissariado da ENIDH para os comissários de 2.ª classe habilitados com o curso geral de comissariado da mesma Escola.
+3 - (Revogado).
