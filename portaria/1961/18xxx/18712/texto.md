@@ -1,0 +1,6 @@
+Portaria n.º 18712
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, proceder às seguintes alterações na tabela de despesa do orçamento privativo da Agência-Geral do Ultramar:
+1.º Nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 2 de Dezembro de 1937, abrir um crédito especial de 25000$00, destinado a reforçar a verba do artigo 6.º, n.º 2) «Despesas com o material - Material de consumo corrente - Diversos não especificados, incluindo artigos de expediente, assinaturas do Diário do Governo e outras publicações, compra de livros indispensáveis ao serviço, pequenas reparações eventuais, etc.».
+2.º Nos termos do § 1.º do artigo 4.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, reforçar com a quantia de 50000$00 a verba do artigo 8.º, n.º 1) «Pagamento de serviços - Despesas de comunicações - Portes de correio, encomendas postais, telégrafo e endereço telegráfico».
+3.º Para contrapartida dos mesmos, são indicadas as disponibilidades existentes na verba do artigo 9.º, n.º 4) «Pagamento de serviços - Diversos serviços - Despesas com os serviços de turismo», da referida tabela de despesa.
+Ministério do Ultramar, 5 de Setembro de 1961. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
