@@ -1,0 +1,5 @@
+Aviso n.º 96/94
+Por ordem superior se torna público que o Governo da Suíça fez saber junto do Ministério dos Negócios Estrangeiros do Reino dos Países Baixos que reitera a reserva feita ao artigo 15, alínea 1, por ocasião da ratificação da Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia, em 5 de Outubro de 1961.
+Em conformidade com o artigo 23, alínea 4, a reserva cessou os seus efeitos em 29 de Maio de 1993.
+Relativamente a Portugal, a Convenção acima mencionada foi aprovada para ratificação pelo Decreto-Lei n.º 48494, conforme Diário do Governo, n.º 172, de 22 de Julho de 1968. O depósito do instrumento de ratificação foi feito em 6 de Dezembro de 1968 e a Convenção entrou em vigor em 4 de Fevereiro de 1969, segundo o Diário do Governo, de 24 de Janeiro de 1969.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 16 de Fevereiro de 1994. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
