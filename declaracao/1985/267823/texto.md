@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério do Trabalho e Segurança Social, o Despacho Normativo n.º 73/85, publicado no Diário da República, 1.ª série, n.º 183, de 10 de Agosto de 1985, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No n.º 6, onde se lê «A formação a ministrar aos jovens deve desenvolver-se durante o período de funcionamento da empresa e ter uma duração mínima de 560 horas e uma experiência prática não superior a 400 horas» deve ler-se «A formação a ministrar aos jovens deve desenvolver-se durante o período de funcionamento da empresa e ter uma duração mínima de 800 horas, incluindo uma experiência de trabalho que pode variar entre 100 e 400 horas».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Agosto de 1985. - Pelo Secretário-Geral, José Serra.
