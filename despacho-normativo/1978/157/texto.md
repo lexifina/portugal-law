@@ -1,0 +1,6 @@
+Despacho Normativo n.º 157/78
+Tornando-se necessário reajustar os quantitativos dos subsídios de embarque constantes da tabela I anexa ao Decreto n.º 41045, de 29 de Março de 1957, e fixados pelo Decreto-Lei n.º 283/76, de 20 de Abril, tendo em conta que já foram actualizados os valores das ajudas de custo por deslocações no País e no estrangeiro, pela Portaria n.º 779-A/77, de 22 de Dezembro, e Decreto n.º 136/77, de 18 de Outubro, respectivamente;
+Ao abrigo do disposto no artigo 4.º do citado Decreto-Lei n.º 283/76:
+O Conselho da Revolução, pelo Chefe do Estado-Maior-General das Forças Armadas e pelo Chefe do Estado-Maior da Armada, e os Ministros da Defesa Nacional e das Finanças e do Plano estabelecem os quantitativos seguintes destinados a substituir, a partir de 1 de Maio de 1978, os dos subsídios de embarque constantes da tabela I a que se refere o Decreto n.º 41045, de 29 de Março de 1957:
+(ver documento original)
+Conselho da Revolução e Ministérios da Defesa Nacional e das Finanças e do Plano, 30 de Junho de 1978. - O Chefe do Estado-Maior-General das Forças Armadas, António Ramalho Eanes, general. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante. - O Ministro da Defesa Nacional, Mário Firmino Miguel. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio.
