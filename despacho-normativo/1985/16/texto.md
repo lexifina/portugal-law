@@ -1,0 +1,3 @@
+Despacho Normativo n.º 16/85
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 2 - Produtos fitofarmacêuticos, aprovada pelo Despacho Normativo n.º 346/80, publicado no Diário da República, 1.ª série, n.º 250, de 28 de Outubro de 1980, é autorizada a substituição da embalagem com o conteúdo líquido (peso) de 1 kg por outra de 2,5 kg em produtos fitofarmacêuticos com base em aldicarbe, sob a forma de grânulos, com o teor de 10% de substância activa.
+Secretarias de Estado da Produção Agrícola e do Comércio Interno, 1 de Março de 1985. - O Secretário de Estado da Produção Agrícola, Joaquim António Rosado Gusmão. - O Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade.
