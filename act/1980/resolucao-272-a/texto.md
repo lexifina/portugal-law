@@ -1,0 +1,4 @@
+Resolução n.º 272-A/80
+O Conselho de Ministros, reunido em 16 de Julho de 1980, resolveu nomear o Dr. Rui Manuel Pessoa de Amorim da Ressurreição vogal da comissão administrativa da RTP - Radiotelevisão Portuguesa, E. P., em comissão de serviço e pelo período que durar o impedimento, como Secretário de Estado da Comunicação Social, do Dr. Carlos Pedro Brandão de Melo de Sousa e Brito.
+Esta nomeação reveste-se de carácter interino, nos termos do n.º 3 do artigo 7.º da Lei n.º 78/77, de 26 de Outubro, ficando a sua confirmação dependente do parecer do Conselho de Informação para a Radiotelevisão Portuguesa, E. P., bem como da audição das estruturas representativas dos trabalhadores, nos termos legais.
+Presidência do Conselho de Ministros, 16 de Julho de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
