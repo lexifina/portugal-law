@@ -1,0 +1,3 @@
+Aviso n.º 249/97
+Por ordem superior se torna público que a Ucrânia assinou, em 29 de Maio de 1997, a Convenção Europeia de Extradição, aberta à assinatura em Paris em 13 de Dezembro de 1957, tendo entrado em vigor em 18 de Abril de 1960, o Protocolo adicional à Convenção Europeia de Extradição, aberto à assinatura em Estrasburgo em 15 de Outubro de 1975, tendo entrado em vigor em 20 de Agosto de 1979, e o Segundo Protocolo adicional, aberto à assinatura em Estrasburgo em 17 de Março de 1978, tendo entrado em vigor em 5 de Junho de 1983.
+Direcção de Serviços das Organizações Políticas Multilaterais, 14 de Julho de 1997. - O Director de Serviços, João José Gomes Caetano da Silva.
