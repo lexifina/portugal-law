@@ -1,0 +1,7 @@
+Resolução n.º 42/77
+A resolução do Conselho de Ministros de 10 de Julho de 1975, publicada no Diário do Governo, de 9 de Agosto, estabeleceu normas relativas aos critérios de avaliação de aproveitamento escolar no ensino superior.
+O sistema então adoptado consagrou grave injustiça, por não permitir rigorosa graduação das classificações, e revelou-se inadequado às exigências de selecção profissional, dado que esta assenta, em larga medida, nessa avaliação numérica.
+Torna-se assim necessário rever o sistema de classificação e adoptar uma escala quantitativa simultaneamente eficaz e justa na sua aplicação prática, proporcionando aos estudantes prejudicados pelo sistema anterior a possibilidade de verem revistas as respectivas classificações, garantindo assim a realização das suas legítimas expectativas em função do mérito e trabalho próprios.
+O Conselho de Ministros, reunido em 8 de Fevereiro de 1977, resolveu:
+O Ministro da Educação e Investigação Científica regulamentará, de imediato, e para salvaguarda dos direitos de milhares de estudantes, o processo de classificação do aproveitamento escolar para o ensino superior, conferindo àqueles que o desejarem a possibilidade de requererem a prestação de novas provas, de modo a não serem prejudicados pelo sistema de classificação não numérica instituído pela resolução do Conselho de Ministros de 10 de Julho de 1975.
+Presidência do Conselho de Ministros, 8 de Fevereiro de 1977. - O Primeiro-Ministro, Mário Soares.
