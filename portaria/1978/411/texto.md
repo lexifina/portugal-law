@@ -1,0 +1,9 @@
+Portaria n.º 411/78
+de 27 de Julho
+Sendo necessário continuar a dotar a Escola Naval e o Instituto Hidrográfico de especialistas capazes de satisfazer as necessidades no âmbito das actividades que lhe competem:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo do disposto no artigo 247.º do Estatuto do Oficial da Armada, aprovado e posto em execução pelo Decreto n.º 46960, de 14 de Abril de 1966, o seguinte:
+1.º No EOA, o artigo 101.º passa a ter a seguinte redacção:
+Art. 101.º Os cursos de especialização em artilharia, armas submarinas, comunicações e electrotecnia são frequentados, em regra, por guardas-marinhas, segundos-tenentes ou primeiros-tenentes com menos de dois anos de posto da classe de marinha. Os cursos de especialização em hidrografia e em navegação são frequentados, em regra, por segundos-tenentes ou primeiros-tenentes da classe de marinha. O curso de especialização em informática é frequentado por segundos-tenentes ou primeiros-tenentes da classe de marinha, dos engenheiros maquinistas navais e de administração naval.
+2.º No mapa que consta do artigo 16.º do EOA é introduzida entre as especializações de electrotecnia e submarinos a especialização de navegação, a que corresponde a letra designativa N, e «marinha», como classe em que pode ser obtida.
+3.º Mediante proposta do superintendente dos Serviços do Pessoal da Armada, ouvidos o comandante da Escola Naval e o director-geral do Instituto Hidrográfico, o Chefe do Estado-Maior da Armada pode considerar especializados em navegação os oficiais da classe de marinha que à data da publicação desta portaria, por actividades anteriormente desenvolvidas no campo da navegação, tenham obtido conhecimentos julgados equivalentes aos ministrados no curso que confere a especialização.
+Estado-Maior da Armada, 6 de Julho de 1978. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante.
