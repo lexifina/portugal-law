@@ -1,9 +1,9 @@
 # Artigo 268.º
 
-### (Estrutura da Administração)
+### (Direitos e garantias dos administrados)
 
-1. A Administração Pública será estruturada de modo a aproximar os serviços das populações, a assegurar a participação dos interessados na sua gestão efectiva, designadamente por intermédio das organizações populares de base ou de outras formas de representação democrática, e a evitar a burocratização.
+1. Os cidadãos têm o direito de ser informados pela Administração, sempre que o requeiram, sobre o andamento dos processos em que sejam directamente interessados, bem como o de conhecer as resoluções definitivas que sobre eles forem tomadas.
 
-2. Para efeito do disposto no número anterior, a lei estabelecerá adequadas formas de descentralização e desconcentração administrativa, sem prejuízo da necessária eficácia e unidade de acção e dos poderes de direcção e superintendência do Governo.
+2. Os actos administrativos de eficácia externa estão sujeitos a notificação aos interessados, quando não tenham de ser oficialmente publicados, e carecem de fundamentação expressa quando afectem direitos ou interesses legalmente protegidos dos cidadãos.
 
-3. O processamento da actividade administrativa será objecto de lei especial, que assegurará a racionalização dos meios a utilizar pelos serviços e a participação dos cidadãos na formação das decisões ou deliberações que lhes disserem respeito.
+3. É garantido aos interessados recurso contencioso, com fundamento em ilegalidade, contra quaisquer actos administrativos definitivos e executórios, independentemente da sua forma, bem como para obter o reconhecimento de um direito ou interesse legalmente protegido
