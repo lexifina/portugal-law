@@ -1,0 +1,3 @@
+Resolução n.º 35-B/82
+No uso da competência que lhe é conferida pelo disposto no n.º 2 do artigo 5.º e no n.º 2 do artigo 8.º dos Estatutos da Agência Noticiosa Portuguesa - ANOP, E. P., aprovados pelo Decreto-Lei n.º 502/77, de 29 de Novembro, e pelo disposto no n.º 4 do artigo 9.º do Decreto-Lei n.º 260/76, de 8 de Abril, o Conselho de Ministros, reunido em 18 de Fevereiro de 1982, ouvidos os trabalhadores da empresa, resolveu exonerar, a seu pedido, das funções de vogal do conselho de gerência daquela empresa José Carlos dos Santos Cruz.
+Presidência do Conselho de Ministros, 18 de Fevereiro de 1982. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
