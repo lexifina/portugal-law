@@ -1,0 +1,32 @@
+Portaria n.º 751/75
+de 16 de Dezembro
+Considerando a necessidade de proceder a algumas alterações na regulamentação do funcionamento da Inspecção-Geral do Ministério do Trabalho, em ordem a imprimir-lhe o dinamismo indispensável ao cabal cumprimento dos fins para que foi criada;
+Nestes termos:
+Manda o Governo da República Portuguesa, ao abrigo do n.º 1 do artigo 25.º do Decreto-Lei n.º 760/74, de 30 de Dezembro, pelo Ministro do Trabalho:
+1.º A Inspecção-Geral do Ministério do Trabalho funciona na dependência directa do Ministro.
+2.º São atribuições da Inspecção-Geral do Ministério do Trabalho:
+a) O exercício de acção fiscalizadora sobre o funcionamento de todos os órgãos e serviços do Ministério, nomeadamente a verificação do exacto cumprimento das normas legais e regulamentares em vigor, bem como o apuramento da respectiva eficácia;
+b) A realização de inquéritos e o levantamento de processos disciplinares sobre a conduta, no exercício das suas funções, do pessoal do Ministério do Trabalho;
+c) O desempenho de quaisquer missões de que for incumbida pelo Ministro.
+3.º A actuação da Inspecção-Geral do Ministério do Trabalho só será exercida mediante despacho do Ministro do Trabalho, ou por iniciativa da própria Inspecção-Geral, ou sob proposta dos serviços, nos termos e condições a definir caso a caso.
+4.º A Inspecção-Geral do Ministério do Trabalho, no cumprimento da sua acção fiscalizadora, inteirar-se-á das anomalias existentes e elaborará relatórios, com propostas de solução para despacho superior.
+5.º A Inspecção-Geral do Ministério do Trabalho é dirigida por um inspector-geral e integra:
+a) Núcleo de apoio técnico;
+b) Corpo de inspectores.
+6.º - 1. Incumbe ao inspector-geral:
+a) Zelar pelo cumprimento das atribuições da Inspecção-Geral, devendo deslocar-se periodicamente aos órgãos e serviços do Ministério, elaborando relatórios dessas visitas, os quais serão submetidos a despacho superior;
+b) Proceder à distribuição dos processos e inquéritos pelos elementos do corpo de inspectores;
+c) Emitir parecer sobre os processos elaborados antes de os submeter a despacho ministerial;
+d) Submeter a despacho do Ministro as propostas de colaboração, necessária à prossecução dos objectivos da Inspecção-Geral, de outros órgãos e serviços do Ministério, bem como de outras entidades públicas ou privadas que eventualmente se mostrem necessárias;
+e) Remeter a despacho do Ministro todos os relatórios e pareceres resultantes de missões que forem confiadas à Inspecção-Geral nos termos da alínea c) do n.º 2.º da presente portaria;
+f) Representar externamente a Inspecção-Geral.
+2. Nas suas faltas e impedimentos o inspector-geral será substituído pelo inspector que ele designar ou, na impossibilidade de designação, pelo inspector mais antigo.
+7.º Incumbe ao corpo de inspectores:
+a) Realizar as tarefas que lhe forem distribuídas pelo inspector-geral, nomeadamente em matéria de fiscalização e em matéria de efectivação de inquéritos de natureza funcional ou disciplinar;
+b) Propor a colaboração de funcionários de outros órgãos e serviços ou de peritos de entidades públicas ou privadas, desde que essa colaboração se mostre necessária ou conveniente ao regular prosseguimento das suas funções.
+8.º Incumbe ao núcleo de apoio técnico:
+a) Apoiar administrativamente a Inspecção-Geral em matérias de pessoal, material e expediente e articular com a Secretaria-Geral;
+b) Velar pela conservação e funcionamento dos ficheiros e arquivos existentes.
+9.º A Inspecção-Geral pode solicitar aos órgãos e serviços do Ministério as informações e elementos necessários ao desempenho das suas funções, nos termos e condições definidos no despacho do Ministro referido no n.º 3.º da presente portaria.
+10.º É revogada a Portaria n.º 361/75, de 11 de Junho.
+Ministério do Trabalho, 1 de Outubro de 1975. - O Ministro do Trabalho, João Pedro Tomás Rosa.
