@@ -1,0 +1,9 @@
+Resolução do Conselho de Ministros n.º 50/85
+A TRANSTEJO - Transportes Tejo, E. P., é, no quadro dos serviços públicos de transportes colectivos da Região de Lisboa, uma empresa de importância fundamental, constituindo a principal via alternativa à Ponte de 25 de Abril nas ligações entre as duas margens do Tejo, no escoamento de grandes massas do tráfego de passageiros, de veículos e de mercadorias.
+À semelhança do que se verifica com as restantes empresas públicas de transportes colectivos de passageiros, o tarifário aplicado pela TRANSTEJO é insuficiente para garantir a cobertura integral dos custos, devido à natureza do serviço social que presta.
+Tal facto não invalida que se procurem todas as vias possíveis para minimizar o esforço financeiro do Estado no apoio ao transporte colectivo de passageiros urbano e suburbano, o que só é possível através de uma gestão criteriosa da empresa.
+O contrato-programa é um instrumento fundamental que visa a consecução do duplo objectivo de, por um lado, minimizar o esforço financeiro do Estado e, por outro, oferecer um serviço público de qualidade, executado nas melhores condições de segurança.
+Através do contrato-programa procura-se assegurar uma maior autonomia da gestão, mas também uma maior responsabilização face aos objectivos fixados, estabelecendo-se critérios de avaliação do desempenho da função de gestão.
+Nestes termos:
+O Conselho de Ministros, reunido em 28 de Outubro de 1985, resolveu aprovar a elaboração de um contrato programa entre o Estado e a TRANSTEJO - Transportes Tejo, E. P., cujo texto lhe foi submetido, e autorizar os Ministros das Finanças e do Plano e do Equipamento Social a intervir na celebração desse contrato em representação do Estado.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Mário Soares.
