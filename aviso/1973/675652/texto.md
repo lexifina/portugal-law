@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Secretariado-Geral da Organização das Nações Unidas, o Governo do Tonga, por notificação datada de 14 de Fevereiro de 1972, confirmada pela comunicação ao mesmo Secretariado em 31 de Janeiro de 1973, considera como estando em vigor, em relação àquele Estado, a Convenção sobre Relações Diplomáticas, assinada em Viena em 18 de Abril de 1961, por motivo da sua anterior ratificação pelo Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte.
+O Governo do Tonga referiu, na sua notificação, que adoptava as objecções formuladas pelo Reino Unido quanto às reservas e declarações feitas pelo Egipto, Bielo Rússia, Ucrânia, U. R. S. S., Mongólia, Bulgária, República Khmer, Marrocos e Portugal (a reserva de Portugal já foi retirada).
+Secretaria-Geral do Ministério, 23 de Março de 1973. - O Secretário-Geral, José Calvet de Magalhães.
