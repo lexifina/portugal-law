@@ -1,0 +1,7 @@
+Despacho Normativo n.º 14/83
+Tendo em conta a orientação constante da Resolução n.º 69/80, publicada no Diário da República, 1.ª série, de 26 de Fevereiro de 1980;
+Considerando a necessidade de compatibilizar os efeitos dos aumentos de custos salariais com a execução corrente de uma política de preços:
+Ao abrigo da alínea a) do n.º 2 da Resolução n.º 69/80 do Conselho de Ministros, publicada no Diário da República, 1.ª série, de 26 de Fevereiro de 1980, determino o seguinte:
+1 - Em 1983, o aumento da massa salarial a considerar como componente de custo para efeitos de formação de preços de produtos e empresas abrangidas pelo estabelecido nos Decretos-Leis n.os 329-A/74, de 10 de Julho, e 75-Q/77, de 28 de Fevereiro, não poderá exceder 17%, a ser acrescido ao montante da massa salarial considerada como custo em 31 de Dezembro de 1982, por força do Despacho Normativo n.º 346/81, de 17 de Dezembro, publicado no Diário da República, 1.ª série, n.º 300, de 31 de Dezembro.
+2 - Mediante proposta fundamentada dos serviços competentes, poderão ser estabelecidas para sectores de actividade definidos de acordo com a classificação CAE, a 6 dígitos, ou desdobramentos desta, percentagens inferiores à definida pelo n.º 1 do presente despacho.
+Ministério da Agricultura, Comércio e Pescas, 31 de Dezembro de 1982. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.
