@@ -1,0 +1,40 @@
+Despacho Normativo n.º 47/2001
+O Despacho Normativo n.º 16/97, de 3 de Abril, veio normalizar a publicação dos actos na 2.ª série do Diário da República. Nesse sentido e segundo a alínea a) do n.º 1, todos os actos remetidos à Imprensa Nacional-Casa da Moeda para publicação devem identificar o tipo em que se incluem de acordo com a listagem constante do n.º 2.
+Esta listagem teve já aditamento através dos Despachos Normativos n.os 75/98, 31/99 e 15/2000, respectivamente de 17 de Novembro, 11 de Junho e 4 de Março.
+Verifica-se, no entanto, a necessidade de aditar um novo tipo de acto com a designação «decisão», tendo em conta o disposto na alínea f) do n.º 2 do artigo 9.º da Lei n.º 98/97, de 26 de Agosto - Lei de Organização e Processo do Tribunal de Contas.
+Assim, ao abrigo do disposto no n.º 2 do artigo 12.º do Decreto-Lei n.º 170/99, de 19 de Maio, e na alínea i) do n.º 1 do despacho n.º 21496-T/99 (2.ª série), de 10 de Novembro, publicado no Diário da República, 2.ª série, n.º 262, 3.º suplemento, de 10 de Novembro de 1999, determina-se:
+O n.º 2 do Despacho Normativo n.º 16/97, de 3 de Abril, passa a ter a seguinte redacção:
+«2 - Os actos publicados na 2.ª série do Diário da República distribuem-se pelos seguintes tipos:
+a) Acórdão;
+b) Acordo;
+c) Alvará;
+d) Anúncio;
+e) Assento;
+f) Aviso;
+g) Aviso de contumácia;
+h) Contrato;
+i) Decisão;
+j) Declaração;
+k) Deliberação;
+l) Despacho;
+m) Despacho conjunto;
+n) Directiva;
+o) Directiva da AACS (Alta Autoridade para a Comunicação Social);
+p) Edital;
+q) Instrução;
+r) Listagem;
+s) Louvor;
+t) Mapa;
+u) Moção;
+v) Parecer;
+w) Portaria;
+x) Protocolo;
+y) Recomendação;
+z) Rectificação;
+a1) Regimento;
+a2) Regulamento;
+a3) Regulamento da CMVM (Comissão do Mercado de Valores Mobiliários);
+a4) Regulamento interno;
+a5) Relatório;
+a6) Resolução.»
+Presidência do Conselho de Ministros, 6 de Dezembro de 2001. - O Secretário de Estado da Presidência do Conselho de Ministros, Vitalino José Ferreira Prova Canas.
