@@ -1,0 +1,4 @@
+Aviso n.º 116/2002
+Por ordem superior se torna público que, agindo na sua qualidade de depositário das emendas ao artigo 17.º, parágrafo 7, e ao artigo 18.º, parágrafo 5, da Convenção contra a Tortura e Outras Penas ou Tratamentos Cruéis, Desumanos ou Degradantes, adoptadas pela Assembleia Geral da Nações Unidas, em Nova Iorque, em 9 de Setembro de 1992, o Secretário-Geral da Organização das Nações Unidas comunicou terem as mesmas sido aceites pelo México em 15 de Março de 2002 e pela China em 10 de Julho de 2002.
+As emendas supracitadas foram aprovadas para adesão pela Resolução da Assembleia da República n.º 71/94, e ratificadas pelo Decreto do Presidente da República n.º 80/94, ambos publicados no Diário da República, 1.ª série-A, n.º 288, de 15 de Dezembro de 1994.
+Direcção de Serviços das Organizações Políticas Internacionais, 26 de Novembro de 2002. - O Director de Serviços, Bernardo de Lucena.
