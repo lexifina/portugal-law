@@ -1,0 +1,591 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "255",
+    "id": "20491",
+    "titulo": "Recomenda ao Governo a tomada de medidas com vista ao desenvolvimento do software livre em Portugal."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2004-09-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3265",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2004-09-23",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "20489",
+        "leg": "IX",
+        "nr": "254",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "811",
+            "obs": null,
+            "pag": [
+              "249-261"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-09-24",
+            "pubLeg": "IX",
+            "pubNr": "5",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/005/2004-09-24/249?pgs=249-261&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Contra as patentes de software na União Europeia em defesa do desenvolvimento científico e tecnológico."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-09-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "249-250",
+                  "261-262"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-24",
+                "pubLeg": "IX",
+                "pubNr": "5",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/005/2004-09-24/249?pgs=249-250,261-262&org=PLC"
+              }
+            ],
+            "sumario": "Contra as patentes de software na União Europeia em defesa do desenvolvimento científico e tecnológico; Recomenda ao Governo a tomada de medidas com vista ao desenvolvimento do software livre em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1998",
+                "nome": "Luís Campos Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150852",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "250-252"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-24",
+                "pubLeg": "IX",
+                "pubNr": "5",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/005/2004-09-24/250?pgs=250-252&org=PLC"
+              }
+            ],
+            "sumario": "Contra as patentes de software na União Europeia em defesa do desenvolvimento científico e tecnológico; Recomenda ao Governo a tomada de medidas com vista ao desenvolvimento do software livre em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150853",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "251-252"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-24",
+                "pubLeg": "IX",
+                "pubNr": "5",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/005/2004-09-24/251?pgs=251-252&org=PLC"
+              }
+            ],
+            "sumario": "Contra as patentes de software na União Europeia em defesa do desenvolvimento científico e tecnológico; Recomenda ao Governo a tomada de medidas com vista ao desenvolvimento do software livre em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "438",
+                "nome": "Carlos Zorrinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150854",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "253-255"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-24",
+                "pubLeg": "IX",
+                "pubNr": "5",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/005/2004-09-24/253?pgs=253-255&org=PLC"
+              }
+            ],
+            "sumario": "Contra as patentes de software na União Europeia em defesa do desenvolvimento científico e tecnológico; Recomenda ao Governo a tomada de medidas com vista ao desenvolvimento do software livre em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150855",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "255-256"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-24",
+                "pubLeg": "IX",
+                "pubNr": "5",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/005/2004-09-24/255?pgs=255-256&org=PLC"
+              }
+            ],
+            "sumario": "Contra as patentes de software na União Europeia em defesa do desenvolvimento científico e tecnológico; Recomenda ao Governo a tomada de medidas com vista ao desenvolvimento do software livre em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1863",
+                "nome": "Miguel Paiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150856",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "256-258"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-24",
+                "pubLeg": "IX",
+                "pubNr": "5",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/005/2004-09-24/256?pgs=256-258&org=PLC"
+              }
+            ],
+            "sumario": "Contra as patentes de software na União Europeia em defesa do desenvolvimento científico e tecnológico; Recomenda ao Governo a tomada de medidas com vista ao desenvolvimento do software livre em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150857",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "258-258"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-24",
+                "pubLeg": "IX",
+                "pubNr": "5",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/005/2004-09-24/258?pgs=258&org=PLC"
+              }
+            ],
+            "sumario": "Contra as patentes de software na União Europeia em defesa do desenvolvimento científico e tecnológico; Recomenda ao Governo a tomada de medidas com vista ao desenvolvimento do software livre em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1478",
+                "nome": "Gonçalo Capitão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150858",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "258-260"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-24",
+                "pubLeg": "IX",
+                "pubNr": "5",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/005/2004-09-24/258?pgs=258-260&org=PLC"
+              }
+            ],
+            "sumario": "Contra as patentes de software na União Europeia em defesa do desenvolvimento científico e tecnológico; Recomenda ao Governo a tomada de medidas com vista ao desenvolvimento do software livre em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150859",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "260-260"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-24",
+                "pubLeg": "IX",
+                "pubNr": "5",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/005/2004-09-24/260?pgs=260&org=PLC"
+              }
+            ],
+            "sumario": "Contra as patentes de software na União Europeia em defesa do desenvolvimento científico e tecnológico; Recomenda ao Governo a tomada de medidas com vista ao desenvolvimento do software livre em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150860",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "261-261"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-09-24",
+                "pubLeg": "IX",
+                "pubNr": "5",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/005/2004-09-24/261?pgs=261&org=PLC"
+              }
+            ],
+            "sumario": "Contra as patentes de software na União Europeia em defesa do desenvolvimento científico e tecnológico; Recomenda ao Governo a tomada de medidas com vista ao desenvolvimento do software livre em Portugal.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "164757",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "292639",
+        "obs": null,
+        "pag": [
+          "248-262"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-09-24",
+        "pubLeg": "IX",
+        "pubNr": "5",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/005/2004-09-24/248?pgs=248-262&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
