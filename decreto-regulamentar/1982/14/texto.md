@@ -1,0 +1,10 @@
+Decreto Regulamentar n.º 14/82
+de 24 de Março
+Considerando que o Decreto Regulamentar n.º 10/80, de 21 de Abril, generalizou a todas as categorias do pessoal do serviço diplomático os limites para custeio pelo Estado das despesas de transporte de móveis e bagagem, tendo assim reduzido a capacidade que, por força da anterior redacção da alínea c) do artigo 145.º do regulamento aprovado pelo Decreto n.º 47478, de 31 de Dezembro de 1966, estava atribuída aos funcionários do serviço diplomático de categoria igual ou superior à de ministro plenipotenciário de 2.ª classe e aos chefes de missão;
+Atendendo a que os funcionários das categorias acima indicadas que se encontram no estrangeiro e procederam ao último transporte de móveis e bagagem anteriormente à publicação do Decreto Regulamentar n.º 10/80, de 21 de Abril, tinham a expectativa de ver o regresso desse material custeado pelo Estado e seriam agora obrigados na sua primeira deslocação a ter de suportar o encargo adicional de mobiliário contido entre os limites anteriores e os actuais:
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+Artigo único. Aos funcionários do serviço diplomático de categoria igual ou superior à de ministro plenipotenciário de 2.ª classe e aos chefes de missão que houverem procedido ao último transporte de móveis e bagagem para o estrangeiro anteriormente à publicação do Decreto Regulamentar n.º 10/80, de 21 de Abril, é aplicável, nas suas deslocações posteriores à publicação do mesmo diploma e até ao seu primeiro regresso a Portugal, o regime de limite de peso e cubicagem estabelecido na redacção inicial da alínea c) do artigo 145.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo Decreto n.º 47478, de 31 de Dezembro de 1966.
+Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - André Roberto Delaunay Gonçalves Pereira.
+Promulgado em 11 de Março de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
