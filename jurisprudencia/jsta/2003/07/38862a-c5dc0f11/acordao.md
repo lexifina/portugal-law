@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal Administrativo de 2003-07-09, processo 38862A
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 38862A
+
+**Data do Acordão:** 07/09/2003
+
+**Tribunal:** 3 SUBSECÇÃO DO CA
+
+**Relator:** EDMUNDO MOSCOSO
+
+**Descritores:** EXECUÇÃO DE SENTENÇA.; CAUSA LEGÍTIMA DE INEXECUÇÃO.; CONCURSO DE PROVIMENTO.
+
+**Nº Convencional:** JSTA00059701
+
+**Nº do Documento:** SA120030709038862A
+
+**Data de Entrada:** 10/18/1995
+
+**Recorrente:** A... E OUTRO
+
+**Recorrido 1:** SE DOS ASSUNTOS FISCAIS
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** EXECUÇÃO DE JULGADO.
+
+**Objecto:** AC SUBSECÇÃO DO CA.
+
+**Decisão:** NÃO EXISTE CAUSA INEXEC.
+
+**Área Temática 1:** DIR ADM CONT - EXECUÇÃO DE JULGADO.
+
+**Legislação Nacional:** DL 256-A/77 DE 1977/06/17 ART5 N1 ART8 ART9 N1.; CPA91 ART100.
+
+## Sumário
+
+I - Tendo as exequentes solicitando à Administração a execução quando a sentença ainda não havia transitado em julgado desrespeitando assim o prazo a partir do qual lhes era permitido requerer a execução do julgado nos termos do previsto no artº 5º nº 1 do DL 256-A/77, de 17 de Junho, o indeferimento "liminar" do pedido com tal fundamento após a Administração ter expressamente decidido no sentido de que existia causa que a legitimava a não executar o julgado, não traria qualquer utilidade prática quer sobre o ponto de vista processual, quer em termos de benefícios ou prejuízos para os intervenientes processuais já que, ainda que o pedido fosse indeferido por violação daquele preceito, sempre às exequentes, porque em tempo (prazo previsto no artº 96º/1 da LPTA), assistiria a possibilidade de dirigirem à administração novo ou idêntico requerimento ao anteriormente apresentado, bem como desencadear novo pedido de execução, o que eventualmente iria conduzir à precisa situação em que processualmente nos encontramos, dada a posição expressamente manifestada pela Administração no sentido de não dar execução ao julgado.
+
+II - O processo de execução de sentença proferida em contencioso administrativo, como resulta nomeadamente do artº 9º nº 1 do DL 256-A/77, de 17 de Junho, comporta duas fases distintas: a) - A primeira, destinada a apurar se a administração deu ou não, espontaneamente, cumprimento integral à sentença e, não o tendo feito, se existe causa legítima de inexecução; b) - A outra fase inicia-se depois de reconhecida a inexistência de causa legítima de inexecução e que se destina, fundamentalmente a fixar quais os actos e operações materiais em que deve consistir a execução.
+
+III - Apenas constituem causa legítima de inexecução a impossibilidade e o grave prejuízo para o interesse público no cumprimento da sentença (artº 6º nº 2 do DL 256-A/77).
+
+IV - Ainda que eventualmente e após a determinação dos actos ou operações materiais em que a execução deverá consistir, esses actos venham a mexer com alegados "direitos adquiridos" de terceiros, tal circunstância não seria, só por si, susceptível de caracterizar o "grave prejuízo para o interesse público" em caso de cumprimento da decisão.
