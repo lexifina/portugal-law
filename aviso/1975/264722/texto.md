@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que foram trocados em Bona, em 4 de Setembro de 1975, entre o Embaixador de Portugal em Bona e o Ministro dos Negócios Estrangeiros da República Federal da Alemanha os instrumentos de ratificação do Acordo Relativo às Emendas da Convenção entre a República Portuguesa e a República Federal da Alemanha sobre Segurança Social, de 6 de Novembro de 1964, e do Acordo Complementar de 8 de Dezembro de 1966, assinado em Lisboa em 30 de Setembro de 1974 e aprovado para ratificação pelo Decreto n.º 7/75, de 8 de Janeiro.
+Direcção-Geral dos Negócios Económicos, 12 de Setembro de 1975. - O Director-Geral, João Eduardo Nunes de Oliveira Pequito.
