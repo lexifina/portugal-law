@@ -1,0 +1,7 @@
+Declaração
+Segundo comunicação do Ministério da Indústria e Energia, a Portaria n.º 1122/80, publicada no 12.º suplemento ao Diário da República, 1.ª série, n.º 301, de 31 de Dezembro de 1980, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 1.º, onde se lê «1 - [...] visando o objectivo da uniformização tarifária pelos distribuidores» deve ler-se «1 - [...] visando o objectivo da uniformização tarifária, pelos distribuidores».
+No n.º 5.º, onde se lê «1 - Os consumidores sazonais de baixa tensão de potência até 13,2 kVA,» deve ler-se «1 - Os consumidores sazonais de baixa tensão de potência contratada até 13,2 kVA,» e onde se lê «3 - Aos consumidores sazonais de potência superior a 13,2 kVA,» deve ler-se «3 - Aos consumidores sazonais de potência contratada superior a 13,2 kVA,».
+No n.º 6.º, onde se lê «4 - As taxas de acesso a tarifas de tensões diferentes das de entrega constantes do quadro 1» deve ler-se «4 - As taxas de acesso a tarifas de tensões diferentes das de entrega, constantes do quadro 1,».
+No quadro 2, anexo à portaria, onde se lê «4 - Consumidor com tarifa bi-horária e potência interruptível nas horas de ponta» deve ler-se «4 - Consumidor com tarifa bi-horária e potência interruptível nas horas de ponta (g)» e na coluna «horas de ponta», onde se lê «(g) 7$50» deve ler-se «7$50».
+Secretaria-Geral da Presidência do Conselho de Ministros, 10 de Março de 1981. - O Secretário-Geral, França Martins.
