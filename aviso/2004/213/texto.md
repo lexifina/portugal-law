@@ -1,0 +1,6 @@
+Aviso n.º 213/2004
+Por ordem superior se torna público que Moçambique depositou, a 3 de Agosto de 2004, o seu instrumento de adesão à Convenção sobre Zonas Húmidas de Importância Internacional, Especialmente como Habitat de Aves Aquáticas (Ramsar, 1971), tal como emendada pelo Protocolo de 1982.
+Portugal é Parte da mesma Convenção, aprovada para ratificação pelo Decreto n.º 101/80, publicado no Diário da República, 1.ª série, n.º 234, de 9 de Outubro de 1980, tendo ratificado em 24 de Novembro de 1980 (Diário da República, 1.ª série, n.º 33, de 9 de Fevereiro de 1981).
+Portugal também é Parte do Protocolo de 1982, aprovado para ratificação pelo Decreto do Governo n.º 33/84, publicado no Diário da República, 1.ª série, n.º 158, de 10 de Julho de 1984, tendo depositado o seu instrumento de adesão em 18 de Novembro de 1984 (Diário da República, 1.ª série, n.º 29, de 4 de Fevereiro de 1985).
+Nos termos do artigo 10.º, n.º 2, a Convenção tal como emendada pelo Protocolo entrará em vigor para Moçambique no dia 3 de Dezembro de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 25 de Novembro de 2004. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
