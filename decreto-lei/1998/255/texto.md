@@ -1,0 +1,126 @@
+Decreto-Lei n.º 255/98
+de 11 de Agosto
+A dignificação e valorização do estatuto profissional dos educadores de infância e dos professores dos ensinos básico e secundário, nomeadamente quanto à consagração de uma formação inicial de nível de licenciatura, inscreve-se nos objectivos definidos pelo Programa do Governo, enquanto aspecto relevante no processo de desenvolvimento do sistema educativo e da construção de escolas autónomas de qualidade.
+Com tal propósito, o Governo apresentou na Assembleia da República uma proposta de lei de alterações à Lei de Bases do Sistema Educativo, a qual foi objecto de consagração legal, através da Lei n.º 115/97, de 19 de Setembro.
+Nos termos do artigo 2.º da referida Lei n.º 115/97, o Governo deve definir, através de decreto-lei, as condições em que os actuais educadores de infância e professores dos ensinos básico e secundário, titulares de um grau de bacharel ou equivalente, podem adquirir o grau académico de licenciado, sem prejuízo do disposto no n.º 1 do artigo 31.º da Lei de Bases do Sistema Educativo.
+Tal é o objecto do presente diploma.
+O decreto-lei estabelece que a aquisição do grau académico de licenciado se realiza através de cursos de complemento da formação científica e pedagógica ou de qualificação para o exercício de outras funções educativas, organizados por escolas superiores de educação e por estabelecimentos de ensino universitário, nos termos da Lei de Bases do Sistema Educativo.
+O diploma define as condições em que poderão ser realizados os cursos, nomeadamente quanto às áreas de formação, às componentes dos respectivos planos de estudo, aos limites mínimos da carga horária, às condições de acesso e ingresso e à possibilidade de creditação da formação e experiência anteriores dos docentes, e estabelece os efeitos da frequência e conclusão dos cursos na progressão na carreira docente.
+Em diploma separado será regulado o processo de aquisição do grau académico de licenciado por docentes integrados na carreira não titulares do grau académico de bacharel ou equivalente para efeitos de prosseguimento de estudos, não abrangidos, por isso, pelos requisitos definidos no n.º 1 do artigo 2.º da Lei n.º 115/97, de 19 de Setembro.
+Foram ouvidos o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e a Associação Portuguesa do Ensino Superior Privado.
+Assim:
+No desenvolvimento da Lei n.º 46/86, de 14 de Outubro, alterada pela Lei n.º 115/97, de 19 de Setembro (Lei de Bases do Sistema Educativo), e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, nos termos do n.º 5 do artigo 112.º da Constituição, o seguinte:
+Artigo 1.º
+Objecto
+O presente diploma regula as condições em que os educadores de infância e os professores dos ensinos básico e secundário, titulares de um grau de bacharel ou equivalente para efeitos de prosseguimento de estudos, podem adquirir o grau académico de licenciado.
+Artigo 2.º
+Cursos
+A aquisição do grau académico de licenciado a que se refere o artigo anterior faz-se através de cursos de formação complementar organizados nos termos do presente diploma, adiante simplesmente designados por cursos.
+Artigo 3.º
+Objectivo dos cursos
+Os cursos têm como objectivo assegurar:
+a) O complemento da formação científica e pedagógica; ou
+b) A qualificação para o exercício de outras funções educativas, nos termos do disposto no artigo 33.º da Lei n.º 46/86, de 14 de Outubro, alterada pela Lei n.º 115/97, de 19 de Setembro (Lei de Bases do Sistema Educativo).
+Artigo 4.º
+Estabelecimentos de ensino
+1 - Os cursos a que se refere a alínea a) do artigo anterior podem ser organizados por escolas superiores de educação e por estabelecimentos de ensino universitário, nos termos dos n.os 3 a 5 do artigo 31.º da Lei de Bases do Sistema Educativo.
+2 - Os cursos a que se refere a alínea b) do artigo anterior podem ser organizados pelas instituições a que se referem os n.os 1 e 2 do artigo 33.º da Lei de Bases do Sistema Educativo.
+Artigo 5.º
+Criação dos cursos
+A criação dos cursos faz-se nos termos fixados na lei para os cursos de licenciatura.
+Artigo 6.º
+Áreas dos cursos de complemento da formação científica e pedagógica
+1 - Os cursos de complemento da formação científica e pedagógica são organizados em áreas directamente relacionadas com a docência.
+2 - Os cursos destinados a educadores de infância e a professores do 1.º ciclo do ensino básico organizam-se em áreas de formação.
+3 - Os cursos destinados a professores dos 2.º e 3.º ciclos do ensino básico e ensino secundário organizam-se de acordo com os grupos disciplinares.
+4 - As áreas de formação a que se refere o n.º 2, o elenco dos cursos que podem ser criados no âmbito dos n.os 2 e 3 e as habilitações profissionais e académicas que dão acesso a cada um são fixados por portaria do Ministro da Educação.
+Artigo 7.º
+Áreas dos cursos de qualificação para o exercício de outras funções educativas
+Os cursos de qualificação para o exercício de outras funções educativas são organizados nas áreas a que se refere o artigo 3.º do Decreto-Lei n.º 95/97, de 23 de Abril.
+Artigo 8.º
+Carga horária
+A carga horária total dos cursos, convertida em unidades de crédito de acordo com o disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 173/80, de 29 de Maio, não pode ser inferior a 45 unidades de crédito.
+Artigo 9.º
+Plano de estudos dos cursos de complemento da formação científica e pedagógica
+O plano de estudos de cada curso é integrado por três componentes:
+a) Seminário, projecto ou desenvolvimento experimental, contemplando preferencialmente o estudo de temáticas relativas ao desenvolvimento do sistema educativo e das escolas, não superior a 4 unidades de crédito;
+b) Formação específica dirigida à área ou grupo disciplinar a que se referem os n.os 2 e 3 do artigo 6.º, não inferior a 75% do total de unidades de crédito deduzidas aquelas a que se refere a alínea a);
+c) Formação cultural e social.
+Artigo 10.º
+Plano de estudos dos cursos de qualificação para o exercício de outras funções educativas
+1 - Nos termos do disposto no artigo 6.º do Decreto-Lei n.º 95/97, o plano de estudos de cada curso é integrado por três componentes:
+a) Formação geral em ciências da educação, não superior a 20% do total de unidades de crédito;
+b) Formação específica na área de especialização respectiva, não inferior a 60% do total de unidades de crédito;
+c) Formação orientada para a elaboração, desenvolvimento e avaliação de um projecto na área de especialização.
+2 - Na organização do curso deve ser assegurado o respeito pelo primado da formação científica e pedagógica sobre a formação estritamente técnica ou administrativa e tomada em consideração a especificidade dos níveis de ensino em que serão exercidas as funções para que é conferida a formação especializada.
+Artigo 11.º
+Condições de acesso e ingresso
+1 - Podem candidatar-se à matrícula e inscrição nos cursos os docentes que satisfaçam cumulativamente as seguintes condições:
+a) Ter habilitação profissional como educador de infância, professor do 1.º ciclo do ensino básico, professor do 2.º ciclo do ensino básico, professor do 3.º ciclo do ensino básico ou professor do ensino secundário;
+b) Ser titular do grau de bacharel ou equivalente legal para efeitos de prosseguimento de estudos;
+c) Não ter beneficiado do disposto nos artigos 55.º ou 56.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril, e alterado pelo Decreto-Lei n.º 1/98, de 2 de Janeiro.
+2 - A candidatura a cada curso de complemento da formação científica e pedagógica específico está igualmente condicionada à titularidade da habilitação correspondente, fixada nos termos do n.º 4 do artigo 6.º
+3 - A candidatura aos cursos de qualificação para o exercício de outras funções educativas está igualmente condicionada à titularidade de cinco anos de serviço docente.
+Artigo 12.º
+Vagas
+A matrícula e inscrição nos cursos está sujeita a um número de vagas, a fixar anualmente por portaria do Ministro da Educação, sob proposta do órgão legal e estatutariamente competente do estabelecimento.
+Artigo 13.º
+Concurso
+1 - A admissão à matrícula e inscrição nos cursos é feita através de concursos de acesso.
+2 - Os prazos e termos em que decorrem as operações relacionadas com os concursos, nomeadamente os que se referem a candidatura, afixação dos resultados da seriação, matrícula e inscrição, são fixados pelo órgão legal e estatutariamente competente do estabelecimento dentro dos limites estabelecidos por portaria do Ministro da Educação.
+3 - Os termos e prazos em que decorre a candidatura são divulgados através de edital subscrito pelo órgão legal e estatutariamente competente do estabelecimento e afixado nas instalações deste.
+4 - O edital é remetido pelo estabelecimento às direcções regionais de educação.
+5 - As direcções regionais de educação promovem a divulgação dos editais junto das escolas da sua área.
+6 - O concurso é válido apenas para o ano lectivo a que diz respeito.
+Artigo 14.º
+Seriação
+1 - A seriação dos candidatos à frequência de cada curso é feita através de análise curricular que se traduz na apreciação e valoração pelo júri, a que se refere o artigo seguinte, de aspectos relacionados com a formação anterior e com a experiência dos candidatos.
+2 - A seriação dos candidatos pode ainda incluir a realização de provas de avaliação em domínios considerados necessários ao ingresso no curso, bem como a realização de entrevistas.
+3 - As regras de seriação são fixadas pelo órgão legal e estatutariamente competente do estabelecimento de acordo com os parâmetros gerais estabelecidos por portaria do Ministro da Educação e divulgadas através do edital a que se refere o n.º 3 do artigo anterior.
+Artigo 15.º
+Júri
+1 - O júri a que se refere o artigo anterior é nomeado pelo órgão legal e estatutariamente competente do estabelecimento de ensino.
+2 - O júri é constituído por professores do estabelecimento de ensino.
+3 - A deliberação final do júri está sujeita à homologação do órgão que o nomeou.
+Artigo 16.º
+Matrícula e inscrição
+1 - Os candidatos admitidos devem proceder à matrícula e inscrição no prazo fixado nos termos do n.º 2 do artigo 13.º
+2 - Caso algum candidato admitido desista expressamente da matrícula e inscrição, ou não compareça a realizar a mesma, o órgão legal e estatutariamente competente do estabelecimento convoca para a inscrição o candidato seguinte na lista ordenada, até esgotar as vagas ou os candidatos.
+3 - A decisão de admissão apenas tem efeito para o ano lectivo a que se refere.
+Artigo 17.º
+Creditação
+1 - Quando o currículo académico, científico e profissional do estudante inscrito o justifique, o júri pode creditar a sua formação e experiência anteriores fixando:
+a) O número total de unidades de crédito que deve realizar, o qual não pode ser inferior a 25;
+b) As unidades curriculares que deve realizar obrigatoriamente;
+c) O elenco ou elencos de unidades curriculares onde deve proceder à escolha daquelas com que, para além das referidas em b), realiza as restantes unidades de crédito.
+2 - O disposto no número anterior depende de requerimento do interessado.
+Artigo 18.º
+Horário e modalidades de formação
+1 - Os cursos devem funcionar preferencialmente em horário pós-laboral.
+2 - Os cursos podem ser ministrados em regime de ensino a distância pela Universidade Aberta.
+3 - O instrumento legal de criação ou autorização de funcionamento dos cursos pode autorizar outras instituições a, nos termos que aí sejam fixados, adoptar para uma parte do ensino ministrado modalidades não presenciais.
+Artigo 19.º
+Grau de licenciado
+Aos estudantes que obtenham aprovação em todas as unidades curriculares do respectivo plano de estudos é conferido o grau de licenciado.
+Artigo 20.º
+Classificação final
+A classificação do grau de licenciado é a resultante do cálculo da expressão seguinte, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas):
+(3B + 2CFC)/5
+em que:
+B é a classificação final do curso de bacharelato ou equivalente a que se refere a alínea b) do n.º 1 do artigo 11.º;
+CFC é a média aritmética ponderada das classificações obtidas nas unidades curriculares que integram o plano de estudos do curso de formação complementar.
+Os coeficientes de ponderação para o cálculo de CFC são fixados pelo órgão legal e estatutariamente competente do estabelecimento.
+Artigo 21.º
+Efeitos para progressão na carreira
+1 - Para os estudantes admitidos à inscrição nos cursos, a aprovação nas unidades curriculares que integram os respectivos planos de estudo releva para efeitos de progressão na carreira docente, de acordo com o disposto no artigo 5.º do Decreto-Lei n.º 249/92, de 9 de Novembro, com a redacção dada pelo Decreto-Lei n.º 207/96, de 2 de Novembro, e legislação complementar.
+2 - Os cursos a que se refere a alínea a) do artigo 3.º são aditados ao despacho a que se refere o n.º 2 do artigo 55.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário.
+3 - Os cursos a que se refere a alínea b) do artigo 3.º são aditados ao despacho a que se refere o n.º 4 do artigo 56.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário.
+Artigo 22.º
+Entrada em vigor
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 25 de Junho de 1998. - António Manuel de Oliveira Guterres - Alfredo Jorge Silva.
+Promulgado em 24 de Julho de 1998.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 30 de Julho de 1998.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
