@@ -1,0 +1,4 @@
+Portaria n.º 395/74
+de 29 de Junho
+Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado dos Assuntos Económicos, abrir, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, um crédito especial de 120000$00, destinado a reforçar a verba do capítulo único, artigo 4.º, n.º 1, alínea a) «Despesas com o material - Aquisições de utilização permanente - Aquisição de móveis - Livros e revistas para a biblioteca», do orçamento da despesa em vigor, do Instituto de Higiene e Medicina Tropical, tomando como contrapartida disponibilidades do capítulo único, artigo 1.º, n.º 1, alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal docente - Pessoal de nomeação», do mesmo orçamento.
+Ministério da Coordenação Interterritorial, 20 de Junho de 1974. - O Secretário de Estado dos Assuntos Económicos, Fernando de Castro Fontes.
