@@ -1,0 +1,13 @@
+Resolução do Conselho de Ministros n.º 79/2000
+Foi apresentada pela Direcção Regional do Ambiente - Centro, nos termos do disposto no Decreto-Lei n.º 93/90, de 19 de Março, com as alterações introduzidas pelo Decreto-Lei n.º 213/92, de 12 de Outubro, uma nova proposta de delimitação da Reserva Ecológica Nacional para a área do município de Ílhavo, tendente a substituir a constante da Resolução do Conselho de Ministros n.º 112/96, de 27 de Julho.
+Tal proposta enquadra-se no processo de alteração do Plano Director Municipal de Ílhavo, tendo resultado das questões levantadas no inquérito público.
+Sobre a referida delimitação foi ouvida a Câmara Municipal de Ílhavo.
+A Comissão Nacional da Reserva Ecológica Nacional pronunciou-se favoravelmente à delimitação proposta, nos termos do disposto no artigo 3.º do diploma atrás mencionado, parecer consubstanciado em acta da reunião daquela Comissão, subscrita pelos representantes que a compõem.
+Considerando o disposto no Decreto-Lei n.º 93/90, de 19 de Março, com as alterações introduzidas pelos Decretos-Leis n.os 213/92, de 12 de Outubro, e 79/95, de 20 de Abril;
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar a alteração da delimitação da Reserva Ecológica Nacional do concelho de Ílhavo, constante da Resolução do Conselho de Ministros n.º 112/96, de 27 de Julho, com as áreas a integrar e a excluir identificadas na planta anexa à presente resolução, que dela faz parte integrante.
+2 - A referida planta poderá ser consultada na Direcção Regional do Ambiente - Centro.
+Presidência do Conselho de Ministros, 1 de Junho de 2000. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+(ver planta no documento original)
