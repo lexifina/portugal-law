@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Governo da Hungria depositou em 6 de Setembro de 1978 junto do Secretário das Nações Unidas o instrumento de impugnação às reservas formuladas pelo Governo da República Popular da China no momento da sua adesão à Convenção sobre Relações Diplomáticas, concluída em Viena em 18 de Abril de 1961 (parágrafos 2, 3 e 4 do artigo 37, relativos à concessão de privilégios ao pessoal não diplomático das missões), de que Portugal é parte sem reservas.
+Secretaria-Geral do Ministério, 24 de Novembro de 1978. - O Chefe dos Serviços Jurídicos e de Tratados, Mário Soares d'Oliveira Neves.
