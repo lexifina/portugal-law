@@ -1,0 +1,9 @@
+Portaria n.º 755/83
+de 8 de Julho
+Considerando o disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho;
+Considerando que as vastas atribuições da Direcção dos Serviços de Documentação, Informação e Protecção do Património Cultural, no âmbito da Direcção-Geral de Administração e Orçamento, do Ministério da Agricultura, Comércio e Pescas, exigem uma preparação específica dos seus quadros dirigentes;
+Considerando ainda que para o exercício daquele cargo de chefe da Divisão de Protecção do Património Cultural se justifica que a escolha recaia em indivíduo que possua uma elevada preparação técnica e experiência profissional comprovado por estudos realizados nas áreas relacionadas com as atribuições desta Divisão, independentemente dos requisitos normais de recrutamento legalmente exigidos:
+Manda o Governo da República Portuguesa, pelos Ministros da Agricultura, Comércio e Pescas e da Reforma Administrativa, alargar a área de recrutamento para o lugar de chefe da Divisão de Protecção do Património Cultural, criado pela conjugação do n.º 1 do artigo 12.º do Decreto-Lei n.º 293/82, de 27 de Julho, e do Decreto Regulamentar n.º 17/83, de 28 de Fevereiro, a funcionários do Ministério da Agricultura, Comércio e Pescas das carreiras de técnico superior e com a categoria de técnico superior de 1.ª classe ou equivalente, com experiência profissional e adequado currículo, no âmbito das atribuições da referida Divisão, constantes das alíneas m), n) e o) do n.º 1 do artigo 2.º do Decreto Regulamentar n.º 17/83.
+Ministérios da Agricultura, Comércio e Pescas e da Reforma Administrativa.
+Assinada em 31 de Maio de 1983.
+Pelo Ministro da Agricultura, Comércio e Pescas, Manuel Eduardo Santos França e Silva, Secretário de Estado Adjunto do Ministro da Agricultura, Comércio e Pescas. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
