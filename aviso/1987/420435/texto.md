@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, de acordo com o parágrafo n.º 12 da pertinente Acta de Consultas entre as Aeronáuticas de Portugal e do Brasil, os dispositivos nela acordados «entraram provisoriamente em vigor na data da sua assinatura [5 de Junho de 1986] e definitivamente por troca de notas diplomáticas», pelo que o «anexo ao Acordo sobre Transportes Aéreos entre Portugal e o Brasil de 1946 bem como o respectivo quadro de rotas» entraram definitivamente em vigor a 28 de Outubro de 1986.
+Secretaria-Geral do Ministério, 26 de Junho de 1987. - O Director do Serviço Jurídico e de Tratados, Fernão Manuel Homem de Gouveia Fávila Vieira.
