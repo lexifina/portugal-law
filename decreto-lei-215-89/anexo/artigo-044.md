@@ -2,7 +2,11 @@
 
 ### Deficientes
 
-1 - Ficam isentos de tributação em IRS 50% dos rendimentos das categorias A e B e 30% dos rendimentos da categoria H do cônjuge casado e não separado judicialmente de pessoas e bens, quando deficiente, ou do sujeito passivo deficiente, quando solteiro, viúvo, divorciado ou separado judicialmente de pessoas e bens, ou, no caso de casado e separado de facto, quando exerça a opção prevista no n.º 2 do artigo 59.º do Código do IRS.
+1 - Ficam isentos de tributação em IRS os rendimentos das categorias A, B e H auferidos por titulares deficientes, nos termos seguintes:
+
+a) Em 50%, com o limite de 2200 contos, os rendimentos das categorias A e B;
+
+b) Em 30%, com o limite de 1240 contos, os rendimentos da categoria H.
 
 2 - Para apuramento do rendimento colectável em IRS, abater-se-á, nos termos do artigo 55.º do respectivo Código, a totalidade das despesas efectuadas com a educação e reabilitação do sujeito passivo ou dependente deficientes, bem como a totalidade dos prémios de seguros em que aqueles figurem como primeiros beneficiários, sem prejuízo da aplicação dos limites estabelecidos nos n.os 2 e 3 do referido artigo às restantes despesas aí mencionadas.
 

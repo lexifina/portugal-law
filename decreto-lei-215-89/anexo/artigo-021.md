@@ -6,7 +6,7 @@
 
 2 - A disciplina do n.º 2 do artigo 38.º do Código do IRC é também aplicável quando os beneficiários forem fundos de poupança-reforma, a que se refere o número anterior.
 
-3 - Para efeitos de IRS, é dedutível ao rendimento colectável, e até à concorrência deste, o valor aplicado, no respectivo ano, em planos individuais de poupança-reforma (PPR), com o limite máximo do menor dos valores seguintes: 20% do rendimento total bruto englobado e 500 contos por sujeito passivo não casado ou por cada um dos cônjuges não separados judicialmente de pessoas e bens.
+3 - Para efeitos de IRS, é dedutível ao rendimento colectável, e até à concorrência deste, o valor aplicado, no respectivo ano, em planos individuais de poupança-reforma (PPR), com o limite máximo do menor dos valores seguintes: 20% do rendimento total bruto englobado e 250 contos por sujeito passivo não casado ou por cada um dos cônjuges não separados judicialmente de pessoas e bens.
 
 4 - A usufruição dos benefícios previstos nos números anteriores ficará sem efeito, sendo devidas as prestações tributárias correspondentes aos benefícios, acrescidas dos respectivos juros compensatórios, se aos participantes for atribuído qualquer rendimento ou for concedido o reembolso dos certificados, salvo, neste último caso, ocorrendo situações de reforma, desemprego de longa duração, invalidez ou doença grave, conforme definido na lei, ou, atingidos os 60 anos de idade, a subscrição se tiver iniciado há pelo menos cinco anos.
 
