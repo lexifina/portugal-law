@@ -1,0 +1,5 @@
+Aviso
+O aviso de 29 de Dezembro de 1983 publicado no suplemento ao Diário da República, 1.ª série, n.º 301, de 31 de Dezembro de 1983, definiu o esquema de bonificação de juro a aplicar nas operações de crédito à exportação.
+Considerando haver razões para manter, a título excepcional, no ano em curso o esquema de bonificação criado por aquele aviso, o Banco de Portugal, sob superior orientação do Ministro das Finanças e do Plano, no uso da competência que lhe é atribuída pelos artigos 16.º e 26.º da sua lei orgânica e de acordo com o estatuído no artigo 28.º, alíneas a) e b), dessa mesma lei, determina o seguinte:
+1 - É reposto em vigor o n.º 1 do aviso de 29 de Dezembro de 1983 publicado no suplemento ao Diário da República, 1.ª série, n.º 301, de 31 de Dezembro de 1983, sendo aplicável às operações de financiamento de preparação e de execução de encomendas firmes contratadas entre 1 de Janeiro e 31 de Dezembro de 1985.
+Ministério das Finanças e do Plano, 12 de Fevereiro de 1985. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.
