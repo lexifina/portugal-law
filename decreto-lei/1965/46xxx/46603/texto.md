@@ -1,0 +1,6 @@
+Decreto-Lei n.º 46603
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Em casos especiais, devidamente justificados, pode o Ministro do Interior autorizar que as funções de aferidor de pesos e medidas sejam exercidas, em regime de acumulação, por outro serventuário, do quadro do pessoal menor, especializado ou operário da câmara municipal, que tenha obtido aprovação no respectivo exame.
+§ único. Nos casos a que se refere este artigo, carece de aprovação pelo Ministro do Interior, para se tornar executória, a deliberação sobre a parte fixa da remuneração do aferidor.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 21 de Outubro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António do Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
