@@ -1,0 +1,8 @@
+Despacho Normativo n.º 70/79
+Para execução do disposto nos artigos 2.º, 3.º, 5.º e 6.º do Decreto-Lei n.º 885/76, de 29 de Dezembro, determina-se o seguinte:
+1 - Para efeitos da cobertura dos encargos resultantes da diferença entre os custos de importação do arroz em reserva adquirido pela Empresa Pública de Abastecimento de Cereais, bem como do a adquirir pela mesma Empresa na campanha de 1978-1979, acrescidos de 300$00 por tonelada, e os respectivos preços de venda, deverá o Fundo de Abastecimento inscrever uma verba de 660000 contos no seu orçamento para o ano de 1979.
+2 - Em relação às despesas com a remessa do arroz para as Regiões Autónomas da Madeira e dos Açores, deverá igualmente o Fundo de Abastecimento inscrever uma verba de 10000 contos no seu orçamento para o ano de 1979.
+3 - Para efeitos da cobertura dos encargos resultantes da execução do disposto no artigo 2.º do Decreto-Lei n.º 885/76, de 29 de Dezembro, deverá o Fundo de Abastecimento inscrever uma verba de 52000 contos no seu orçamento para o ano de 1979.
+4 - Fica revogado o Despacho Normativo n.º 87-A/78, de 31 de Março, das Secretarias de Estado do Orçamento, do Comércio e Indústrias Agrícolas e do Comércio Interno.
+5 - Este despacho entra em vigor no dia seguinte ao da sua publicação.
+Secretarias de Estado do Orçamento, do Comércio e Indústrias Agrícolas e do Comércio Interno, 6 de Abril de 1979. - O Secretário de Estado do Orçamento, João Pinto Ribeiro. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Mário Francisco Barreira da Ponte. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.
