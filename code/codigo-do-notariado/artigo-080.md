@@ -34,6 +34,6 @@ i) O contrato-promessa de alienação ou oneração de coisas imóveis ou móvei
 
 j) As divisões de coisa comum e as partilhas de patrimónios hereditários, societários ou outros patrimónios comuns de que façam parte coisas imóveis.
 
-l) O arrendamento para comércio, indústria ou profissão liberal e os arrendamentos sujeitos a registo;
+l) (Revogada).
 
-m) O trespasse e a locação de estabelecimento comercial e industrial.
+m) (Revogada).
