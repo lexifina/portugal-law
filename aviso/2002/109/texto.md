@@ -1,0 +1,5 @@
+Aviso n.º 109/2002
+Por ordem superior se torna público que, em 5 de Janeiro de 2001, foi emitida uma nota pela Embaixada da Letónia em Lisboa em que se comunica terem sido cumpridas as formalidades constitucionais internas por parte da República da Letónia de aprovação do Acordo entre a República Portuguesa e a República da Letónia sobre Cooperação nos Domínios da Educação, da Cultura e da Ciência e da Tecnologia, assinado em Lisboa em 17 de Outubro de 2000, tendo sido emitida idêntica nota pela Embaixada de Portugal em Estocolmo, em 19 de Setembro de 2002, em que se comunica o cumprimento das formalidades constitucionais internas de aprovação do mesmo Acordo por parte de Portugal.
+O citado Acordo foi aprovado pelo Decreto n.º 29/2002, de 5 de Setembro, publicado na 1.ª série-A, do Diário da República, n.º 205, de 5 de Setembro de 2002.
+Nos termos do artigo 15.º do Acordo, este entrou em vigor em 19 de Setembro de 2002.
+Direcção-Geral das Relações Bilaterais, 7 de Novembro de 2002. - O Director dos Serviços da Europa, José Fernando da Costa Pereira.
