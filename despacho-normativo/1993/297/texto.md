@@ -1,0 +1,6 @@
+Despacho Normativo n.º 297/93
+Considerando que o licenciado Joaquim Antunes Simão exerce, em comissão de serviço, o cargo de director de serviços, reúne os requisitos necessários para acesso à categoria de engenheiro civil assessor principal e requereu a criação do correspondente lugar;
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6, 7 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma:
+Determina-se o seguinte:
+É criado no quadro de pessoal da Junta Autónoma de Estradas, aprovado pela Portaria n.º 479/88, de 22 de Julho, com as alterações introduzidas pelas Portarias n.os 61589, de 30 de Janeiro, 753/91, de 5 de Agosto, 774/91, de 7 de Agosto, e 28/92, de 17 de Janeiro, e pelos Decretos-Leis n.os 375/89, de 25 de Outubro, e 53/93, de 26 de Fevereiro, um lugar de engenheiro civil assessor principal, a extinguir quando vagar.
+Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações, 6 de Setembro de 1993. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Álvaro Severiano da Silva Magalhães, Secretário de Estado das Obras Públicas.
