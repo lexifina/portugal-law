@@ -1,0 +1,27 @@
+Portaria n.º 964/83
+de 8 de Novembro
+O n.º 4 do artigo 19.º do Decreto-Lei n.º 305/81, de 12 de Novembro, com a redacção dada pelo Decreto-Lei n.º 324/83, de 6 de Julho, prevê a equiparação de cursos básicos e pós-básicos de enfermagem obtidos no estrangeiro, por despacho do Ministro da Saúde, sem contudo estabelecer uma norma objectiva para a concessão dessa equiparação.
+Torna-se, por isso, necessário fixar as normas processuais e as condições em que devem ser concedidas as equiparações dos cursos de enfermagem estrangeiros acima referidos.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro da Saúde e pelo Secretário de Estado da Administração Pública, ao abrigo do n.º 4 do artigo 19.º do Decreto-Lei n.º 305/81, de 12 de Novembro, com a redacção dada pelo Decreto-Lei n.º 324/83, de 6 de Julho, o seguinte:
+1.º A equiparação referida no n.º 4 do artigo 19.º do Decreto-Lei n.º 305/81, de 12 de Novembro, com a redacção dada pelo Decreto-Lei n.º 324/83, de 6 de Julho, poderá ser concedida quando se verifique que os diplomas com cursos estrangeiros satisfazem, cumulativamente, os requisitos seguintes:
+a) Serem titulares de diplomas oficialmente reconhecidos no respectivo país para o exercício da profissão de enfermagem;
+b) Provarem que sabem falar e escrever português, mediante provas a regulamentar;
+c) Possuírem um número de anos de escolaridade idêntico ao legalmente exigido para admissão ao curso a que pretendem obter equivalência, referido à data em que iniciaram o curso;
+d) Tratando-se de curso pós-base de enfermagem legalmente instituído, possuírem as habilitações exigidas pela lei para admissão ao curso a que pretendem obter equivalência;
+e) Possuírem cursos cujos planos de estudo e programas sejam idênticos aos dos cursos leccionados nas escolas de enfermagem do Ministério da Saúde.
+2.º A verificação dos requisitos mencionados no número anterior será feita pelo Instituto Nacional de Saúde Dr. Ricardo Jorge, que organizará o processo de equiparação e dará o seu parecer antes de o submeter a despacho.
+3.º Aos diplomados com cursos de enfermagem estrangeiros que satisfaçam as condições prescritas nas alíneas a), b) e c) do artigo anterior, mas cujos planos de estudo e ou programas não sejam idênticos à formação conferida pelo curso português de nível equivalente, poderá ser concedida equiparação, mediante frequência com aproveitamento, em escola de enfermagem, das disciplinas e ou estágios que, mediante despacho do Ministro da Saúde, sob proposta do Instituto Nacional de Saúde Dr. Ricardo Jorge, lhe seja exigida, nas condições seguintes:
+a) A duração total das disciplinas e ou estágios não ultrapasse um terço da duração global do curso correspondente;
+b) Serem integrados em cursos de enfermagem legalmente instituídos;
+c) Estarem sujeitos aos regulamentos da escola e a todas as normas aprovadas para a parte do curso que estão a frequentar.
+4.º No verso dos diplomas a que foi conferida equiparação constará:
+a) Curso de enfermagem português a que foi dada equiparação;
+b) Indicação da entidade que autorizou a equiparação, data do despacho e legislação aplicada, mencionando se a equiparação foi concedida nos termos do n.º 1.º ou do n.º 3.º desta portaria;
+c) Assinatura da entidade responsável pelo ensino de enfermagem autenticada com o selo branco.
+5.º A equiparação deverá ser pedida em requerimento dirigido ao Ministro da Saúde, acompanhado dos seguintes documentos:
+a) Fotocópia autenticada ou pública-forma do diploma do curso que possui, extraída depois de no original ter sido reconhecida a assinatura do funcionário que assina o diploma. Esse reconhecimento, nos termos do n.º 1 do artigo 540.º do Código de Processo Civil, deverá ser feito por agente diplomático ou consular português no Estado respectivo, sendo a assinatura deste agente autenticada com o selo branco consular respectivo;
+b) Currículo escolar do curso de enfermagem que possui, passado em seu nome pela escola, do qual conste a duração total do curso, disciplinas e respectiva duração em horas, estágios e respectiva duração em horas.
+Presidência do Conselho de Ministros e Ministério da Saúde.
+Assinada em 14 de Outubro de 1983.
+O Ministro da Saúde, António Manuel Maldonado Gonelha. - O Secretário de Estado da Administração Pública, José San-Bento de Menezes.
