@@ -1,0 +1,4 @@
+Portaria n.º 17904
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde e Assistência, que ao mapa do pessoal não compreendido no quadro de direcção e chefia do Asilo Psiquiátrico de Travanca, aprovado pela Portaria n.º 17167, de 12 de Maio de 1959, seja aditada a seguinte nota:
+3. O pessoal que em virtude desta distribuição seja colocado em cargos de categoria ou remuneração (vencimento ou gratificação) inferiores aos que desempenhava manterá, para todos os efeitos, incluindo os de aposentação, a categoria e a remuneração que presentemente aufere.
+Ministérios das Finanças e da Saúde e Assistência, 17 de Agosto de 1960. - Pelo Ministro das Finanças, José Júlio Pizarro Beleza, Subsecretário de Estado do Orçamento. - O Ministro da Saúde e Assistência, Henrique de Miranda Vasconcelos Martins de Carvalho.
