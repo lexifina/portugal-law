@@ -1,0 +1,7 @@
+Despacho Normativo n.º 34/90
+Considerando que o assessor do quadro da Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública Dr. Leonardo Luís de Matos cessou, em 10 de Outubro de 1989, as funções de inspector-geral do Trabalho que vinha exercendo, sem interrupção, em regime de comissão de serviço, desde 16 de Novembro de 1988;
+Considerando que desde 8 de Junho de 1983 a 7 de Janeiro de 1988 o referido funcionário desempenhou, sem interrupção, as funções de director-geral de Fiscalização Económica;
+Considerando que o mesmo funcionário está provido como assessor desde 18 de Julho de 1979;
+Assim, tendo em atenção as regras de provimento na carreira técnica superior, estabelecidas no artigo 3.º do Decreto-Lei n.º 265/88, de 28 de Julho, e nos termos da alínea a) do n.º 2 e dos n.os 3, 4 e 5 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro:
+Manda o Governo, pela Secretária de Estado do Orçamento, que o quadro da Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública (ADSE), constante do mapa anexo à Portaria n.º 65/88, de 2 de Fevereiro, e rectificado pela declaração publicada no Diário da República, 1.ª série, n.º 49, de 29 de Fevereiro de 1988, seja acrescido de um lugar de assessor principal, a extinguir quando vagar, conforme estabelece o n.º 4 do artigo 18.º do citado Decreto-Lei n.º 323/89, de 26 de Setembro.
+Secretaria de Estado do Orçamento, 15 de Maio de 1990. - A Secretária de Estado do Orçamento, Maria Manuela Dias Ferreira Leite.
