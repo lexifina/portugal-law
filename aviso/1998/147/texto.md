@@ -1,0 +1,6 @@
+Aviso n.º 147/98
+Por ordem superior se torna público que, segundo comunicação do Departamento Federal dos Negócios Estrangeiros da Suíça de 7 de Abril de 1998, a República da Bulgária depositou, em 2 de Abril de 1998, junto do Governo Suíço o instrumento de adesão à Convenção Relativa à Constituição da Eurofima, Sociedade Europeia para o Financiamento de Material Ferroviário, adoptada em Berna em 20 de Outubro de 1955.
+A República da Bulgária tornou-se membro da Conferência Europeia dos Ministros dos Transportes (CEMT) em 8 de Junho de 1994 e a sua adesão à Convenção começou a produzir efeitos, de harmonia com o artigo 11.º da Convenção, em 2 de Abril de 1998. De acordo com o parágrafo c) da mesma disposição, a adesão à Convenção implica a adesão ao Protocolo Adicional de 20 de Outubro de 1955.
+Portugal ratificou esta Convenção e Protocolo em 25 de Julho de 1955, nos termos do Decreto-Lei n.º 40629, a que se refere o aviso publicado no Diário do Governo, 1.ª série, n.º 218, de 10 de Outubro de 1956.
+A Convenção e o Protocolo Adicional entraram em vigor relativamente a Portugal em 30 de Março de 1956.
+Direcção-Geral dos Assuntos Multilaterais, 16 de Julho de 1998. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
