@@ -1,0 +1,5 @@
+# Artigo 44.º
+
+### Interdição de utilização
+
+Os presidentes das câmaras municipais, por sua iniciativa ou a pedido do director-geral do Turismo, no caso dos estabelecimentos de restauração ou de bebidas classificados, dos qualificados como típicos ou declarados de interesse para o turismo, nos termos previstos no artigo 57.º do Decreto-Lei n.º 167/97, de 4 de Julho, são competentes para determinar a interdição temporária da utilização de partes individualizadas, instalações ou equipamentos dos estabelecimentos de restauração ou de bebidas, sem prejuízo das competências atribuídas às autoridades de saúde e às autoridades responsáveis pela fiscalização e controlo da qualidade alimentar, nessa matéria, respectivamente pelos Decretos-Leis n.os 336/93, de 29 de Setembro, e 67/98, de 18 de Março, que, pelo seu deficiente estado de conservação ou pela falta de cumprimento do disposto no presente diploma e no regulamento a que se refere o n.º 5 do artigo 1.º, sejam susceptíveis de pôr em perigo a saúde pública ou a segurança dos utentes, ouvidas as autoridades de saúde pública com competência territorial.
