@@ -2,7 +2,7 @@
 
 ### Outras modalidades de venda
 
-1 - A venda por uma das modalidades extrajudiciais previstas no Código de Processo Civil só se efectuará nos seguintes casos:
+1 - A venda por outra das modalidades previstas no Código de Processo Civil só é efectuada nos seguintes casos:
 
 a) Quando a modalidade de venda for a de propostas em carta fechada e no dia designado para a abertura de propostas se verificar a inexistência de proponentes ou a existência apenas de propostas de valor inferior ao valor base anunciado;
 
