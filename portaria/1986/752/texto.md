@@ -1,0 +1,245 @@
+Portaria n.º 752/86
+de 17 de Dezembro
+Tornando-se necessário aprovar os planos de estudos dos cursos que vêm sendo ministrados na Universidade de Évora e que não foram ainda objecto do diploma legal apropriado;
+Sem prejuízo da revisão a que esses planos devam ser sujeitos;
+Sob proposta da Universidade de Évora;
+Tendo em vista o disposto no Decreto Regulamentar n.º 38/78, de 25 de Outubro, na Portaria n.º 663/79, de 10 de Dezembro, no Decreto Regulamentar n.º 75/79, de 31 de Dezembro, no Decreto n.º 87/80, de 20 de Setembro, no Decreto n.º 36/81, de 7 de Março, na Portaria n.º 340/81, de 14 de Abril, e no Decreto n.º 141/81, de 22 de Dezembro;
+Ao abrigo do capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho, e do artigo 2.º do Decreto-Lei n.º 173/80, de 29 de Maio:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, aprovar o seguinte:
+1.º
+Licenciaturas organizadas em regime de unidades crédito
+Os cursos de licenciatura em:
+a) Engenharia Agrícola, nos ramos:
+I) Científico-tecnológico;
+II) Extensão Rural;
+b) Engenharia Zootécnica, nos ramos:
+I) Científico-tecnológico;
+II) Extensão Rural;
+c) Ensino de Biologia e Geologia;
+d) Ensino de Física e Química;
+e) Ensino de História e Ciências Sociais;
+f) Ensino de Matemática e Desenho;
+ministrados pela Universidade de Évora organizam-se em regime de unidades de crédito.
+2.º
+Estrutura curricular
+Os elementos a que se refere o n.º 2 do artigo 2.º do Decreto-Lei n.º 173/80, de 29 de Maio, referentes aos cursos enumerados no n.º 1.º, são os constantes dos anexos I a VIII.
+3.º
+Planos de estudos
+1 - Os planos de estudos dos cursos a que se refere o n.º 1.º serão fixados por despacho reitoral, a publicar no Diário da República, 2.ª série, nos termos do artigo 4.º do Decreto-Lei n.º 173/80, salvo se se verificar a previsão do n.º 4 do mesmo artigo.
+2 - Do despacho a que se refere o número anterior constarão os elementos a que se refere o n.º 2 do n.º 9.º da presente portaria.
+3 - Os planos de estudos dos cursos de licenciatura em Economia, em Gestão de Empresas e em Ensino de Português e Francês são os constantes dos anexos IX a XI a esta portaria.
+4.º
+Língua estrangeira
+Os alunos dos cursos a que se refere a presente portaria deverão prestar provas de conhecimento numa língua estrangeira, à sua escolha, dentro daquelas em que a Universidade oferece formação e nas condições por esta fixadas em regulamento a aprovar pelo reitor, sob proposta do conselho científico.
+5.º
+Educação física
+Os alunos inscritos nos cursos a que se refere a presente portaria deverão frequentar, com assiduidade, classes de educação física, nos termos de regulamento a aprovar pelo reitor, sob proposta do conselho científico.
+6.º
+Disciplinas de opção dos cursos de licenciatura que não se encontram organizados em regime de unidades de crédito
+1 - O elenco de disciplinas de opção será fixado anualmente pelo conselho científico, sob proposta, em relação a cada curso, da respectiva comissão permanente de curso.
+2 - O conselho científico, sob proposta, em relação a cada curso, da respectiva comissão permanente de curso, fixará o número máximo de alunos a admitir à inscrição nas disciplinas de opção.
+3 - O número mínimo de alunos a admitir à inscrição em cada disciplina de opção é de dez.
+4 - Exceptuam-se do disposto no n.º 3 os casos em que:
+a) O docente assegure a regência da disciplina para além do número de horas de serviço de aulas ou seminários a que é obrigado por lei;
+b) Não existindo outro serviço para distribuir ao docente, este complete com a regência da disciplina o número de horas de ensino que por lei deva assegurar.
+7.º
+Trabalho de fim de curso
+1 - O último semestre dos cursos de licenciatura em Engenharia Agrícola, Engenharia Zootécnica, Economia e Gestão de Empresas é preenchido pelo trabalho de fim de curso.
+2 - O trabalho de fim de curso é constituído pelo estudo de diversas matérias orientado para a realização de uma tarefa específica e será objecto de apresentação e discussão de um relatório.
+3 - O regulamento do trabalho de fim de curso será fixado por despacho do reitor da Universidade, sob proposta do conselho científico, ouvidas as respectivas comissões permanentes de curso.
+8.º
+Estágio das licenciaturas em ensino
+O estágio das licenciaturas em ensino, bem como a admissão ao mesmo, é regulado pela Portaria n.º 431/79, de 16 de Agosto, com a redacção que lhe foi dada pelas Portarias n.os 791/80, de 6 de Outubro, 176/83, de 2 de Março, e 494/84, de 23 de Julho.
+9.º
+Classificação final
+1 - A classificação final dos cursos será a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas, seminários e projectos ou trabalho final do curso integrantes do respectivo plano de estudos.
+2 - Os coeficientes de ponderação serão propostos pelo conselho científico, ouvidas as comissões permanentes de curso respectivas, e fixados nos termos do artigo 4.º do Decreto-Lei n.º 173/80.
+3 - A classificação final das licenciaturas em ensino é atribuída nos termos da Portaria n.º 792/81, de 11 de Setembro.
+10.º
+Transição das licenciaturas em Ciências Agrárias e em Extensão Rural
+1 - Aos alunos que até 1981-1982 se inscreveram na licenciatura em Ciências Agrárias e optaram pela inscrição no ramo científico-tecnológico da licenciatura em Engenharia Agrícola ou da licenciatura em Engenharia Zootécnica é aplicado o disposto no n.º 3.
+2 - Aos alunos que até 1981-1982 se inscreveram na licenciatura em Extensão Rural e optaram pela inscrição no ramo de Extensão Rural da licenciatura em Engenharia Agrícola ou da licenciatura em Engenharia Zootécnica é aplicado o disposto no n.º 3.
+3 - Os créditos conferidos pelas disciplinas dos planos de estudos seguidos nos cursos de licenciatura em Ciências Agrárias e em Extensão Rural, calculados nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 173/80, de 29 de Maio, serão considerados para efeito de obtenção do número de unidades de crédito necessárias à concessão do grau na nova licenciatura.
+Ministério da Educação e Cultura.
+Assinada em 4 de Novembro de 1986.
+Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
+
+ANEXO I
+Licenciatura em Engenharia Agrícola
+Ramo científico-tecnológico
+1 - Área científica do curso - Engenharia Agrícola.
+2 - Duração normal do curso - cinco anos lectivos.
+3 - Condições necessárias à concessão do grau:
+a) 149,5 unidades de crédito;
+b) Aprovação em trabalho de fim de curso.
+4 - Áreas científicas e distribuição das unidades de crédito:
+4.1 - Obrigatórias:
+a) Extensão Rural ... 41
+b) Matemática, Física e Química ... 20,5
+c) Biologia ... 23,5
+d) Geociências ... 10
+e) Zootecnia ... 6,5
+f) Ciências Históricas, Sociais e Humanas ... 5
+g) Ciências Económicas ... 15,5
+h) Engenharia ... 20
+4.2 - Optativas:
+a) Fitotecnia ... 7,5
+b) Zootecnia ... 7,5
+c) Ciências Históricas, Sociais e Humanas ... 7,5
+d) Ciências Económicas ... 7,5
+e) Engenharia ... 7,5
+f) Extensão Rural ... 7,5
+
+ANEXO II
+Licenciatura em Engenharia Agrícola
+Ramo de Extensão Rural
+1 - Área científica do curso - Extensão Rural.
+2 - Duração normal do curso - cinco anos lectivos.
+3 - Condições necessárias à concessão do grau:
+a) 150,5 unidades de crédito;
+b) Aprovação em trabalho de fim de curso.
+4 - Áreas científicas e distribuição das unidades de crédito:
+4.1 - Obrigatórias:
+a) Extensão Rural ... 14
+b) Fitotecnia ... 27
+c) Matemática, Física e Química ... 20,5
+d) Biologia ... 21
+e) Geociências ... 10
+f) Zootecnia ... 6,5
+g) Ciências Históricas, Sociais e Humanas ... 12,5
+h) Ciências Económicas ... 15,5
+i) Engenharia ... 16
+4.2 - Optativas:
+a) Extensão Rural ... 7,5
+b) Fitotecnia ... 7,5
+c) Zootecnia ... 7,5
+d) Ciências Históricas, Sociais e Humanas ... 7,5
+e) Engenharia Biofísica ... 7,5
+
+ANEXO III
+Licenciatura em Engenharia Zootécnica
+Ramo científico-tecnológico
+1 - Área científica do curso - Engenharia Zootécnica.
+2 - Duração normal do curso - cinco anos lectivos.
+3 - Condições necessárias à concessão do grau:
+a) 152 unidades de crédito;
+b) Aprovação em trabalho de fim de curso.
+4 - Áreas científicas e distribuição das unidades de crédito:
+4.1 - Obrigatórias:
+a) Zootecnia ... 38,5
+b) Matemática, Física e Química ... 20,5
+c) Biologia ... 22
+d) Geociências ... 7,5
+e) Fitotecnia ... 20
+f) Ciências Históricas, Sociais e Humanas ... 5
+g) Ciências Económicas ... 18
+h) Engenharia ... 13
+4.2 - Optativas:
+a) Zootecnia ... 7,5
+b) Fitotecnia ... 7,5
+c) Ciências Históricas, Sociais e Humanas ... 7,5
+d) Ciências Económicas ... 7,5
+e) Extensão Rural ... 7,5
+
+ANEXO IV
+Licenciatura em Engenharia Zootécnica
+Ramo de Extensão Rural
+1 - Área científica do curso - Extensão Rural.
+2 - Duração normal do curso - cinco anos lectivos.
+3 - Condições necessárias à concessão do grau:
+a) 151,5 unidades de crédito;
+b) Aprovação em trabalho de fim de curso.
+4 - Áreas científicas e distribuição das unidades de crédito:
+4.1 - Obrigatórias:
+a) Extensão Rural ... 14
+b) Zootecnia ... 31,5
+c) Matemática, Física e Química ... 20,5
+d) Biologia ... 22
+e) Geociências ... 7,5
+f) Fitotecnia ... 10
+g) Ciências Históricas, Sociais e Humanas ... 12,5
+h) Ciências Económicas ... 18
+i) Engenharia ... 8
+4.2 - Optativas:
+a) Extensão Rural ... 7,5
+b) Zootecnia ... 7,5
+c) Fitotecnia ... 7,5
+d) Ciências Históricas, Sociais e Humanas ... 7,5
+e) Engenharia Biofísica ... 7,5
+
+ANEXO V
+Licenciatura em Ensino de Biologia e Geologia
+1 - Áreas científicas do curso - Biologia, Geologia e Ciências da Educação.
+2 - Duração normal do curso - cinco anos lectivos.
+3 - Condições necessárias à obtenção do grau:
+a) 138 unidades de crédito;
+b) Aprovação em estágio pedagógico.
+4 - Áreas científicas e distribuição das unidades de crédito:
+4.1 - Obrigatórias:
+a) Biologia ... 33,5
+b) Geologia ... 30
+c) Matemática, Física e Química ... 21,5
+d) Ciências Históricas, Sociais e Humanas ... 3
+e) Ciências da Educação ... 35
+4.2 - Optativas:
+a) Biologia Animal ... 6
+b) Biologia Vegetal ... 6
+c) Geologia ... 6
+4.3 - Prática Pedagógica ... 9
+
+ANEXO VI
+Licenciatura em Ensino de Física e Química
+1 - Áreas científicas do curso - Física, Química e Ciências da Educação.
+2 - Duração normal do curso - cinco anos lectivos.
+3 - Condições necessárias à concessão do grau:
+a) 137,5 unidades de crédito;
+b) Aprovação em estágio pedagógico.
+4 - Áreas científicas e distribuição das unidades de crédito:
+4.1 - Obrigatórias:
+a) Física ... 36
+b) Química ... 34
+c) Matemática ... 12
+d) Ciências Históricas, Sociais e Humanas ... 3
+c) Ciências da Educação ... 35
+4.2 - Optativas:
+a) Física ... 8,5
+b) Química ... 8,5
+4.3 - Prática Pedagógica ... 9
+
+ANEXO VII
+Licenciatura em Ensino de História e Ciências Sociais
+1 - Áreas científicas do curso - História, Ciências Sociais e Ciências da Educação.
+2 - Duração normal do curso - cinco anos lectivos.
+3 - Condições necessárias à concessão do grau:
+a) 136 unidades de crédito;
+b) Aprovação em estágio pedagógico.
+4 - Áreas científicas e distribuição das unidades de crédito:
+4.1 - Obrigatórias:
+a) História ... 57
+b) Ciências Sociais e Humanas ... 28
+c) Matemática ... 3
+d) Ciências da Educação ... 35
+4.2 - Optativas:
+a) História ... 4
+b) Ciências Sociais e Humanas ... 4
+4.3 - Prática Pedagógica ... 9
+
+ANEXO VIII
+Licenciatura em Ensino de Matemática e Desenho
+1 - Áreas científicas do curso - Matemática, Desenho e Ciências da Educação.
+2 - Duração normal do curso - cinco anos lectivos.
+3 - Condições necessárias à concessão do grau:
+a) 136,5 unidades de crédito;
+b) Aprovação em estágio pedagógico.
+4 - Áreas científicas e distribuição das unidades de crédito:
+4.1 - Obrigatórias:
+a) Matemática ... 63,5
+b) Desenho e Geometria ... 17
+c) Física ... 3
+d) Ciências Históricas, Sociais e Humanas ... 3
+e) Ciências da Educação ... 35
+4.2 - Optativas:
+a) Matemática, Física e Química ... 8
+b) Ciências Económicas ... 8
+4.3 - Prática Pedagógica ... 9
+(ver documento original)
