@@ -1,0 +1,9 @@
+Portaria n.º 22633
+A cooperação dos presidentes das câmaras municipais com o sistema estatístico nacional encontra-se assegurada pelo disposto no artigo 79.º, n.º 3.º, do Código Administrativo. No entanto, reconhece-se vantagem em atribuir àqueles magistrados administrativos maior autoridade no domínio das suas funções de natureza estatística, conferindo-lhes a qualidade de órgãos delegados do Instituto Nacional de Estatística, nos termos do artigo 10.º do Decreto-Lei n.º 46925, de 29 de Março de 1966, com a redacção dada pelo Decreto-Lei n.º 47434, de 30 de Dezembro de 1966.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Presidente do Conselho e pelo Ministro do Interior:
+1.º É conferida aos presidentes das câmaras municipais do continente e ilhas adjacentes a qualidade de órgãos delegados do Instituto Nacional de Estatística, ao abrigo do disposto no artigo 10.º do Decreto-Lei n.º 46925, de 29 de Março de 1966, com as alterações introduzidas pelo Decreto-Lei n.º 47434, de 30 de Dezembro de 1966.
+2.º Nessa qualidade, os presidentes das câmaras municipais ficam com poderes para realizar operações da competência do Instituto Nacional de Estatística, segundo programas aprovados por este.
+3º Os presidentes das câmaras municipais gozarão de todas as prerrogativas inerentes à qualidade de órgãos delegados e ficarão sujeitos às respectivas normas.
+4.º Os presidentes das câmaras municipais poderão recorrer, para fins estatísticos, ao apoio técnico dos serviços do Instituto Nacional de Estatística, que lho fornecerão gratuitamente, na medida das suas possibilidades.
+Presidência do Conselho e Ministério do Interior, 17 de Abril de 1967. - O Ministro de Estado adjunto do Presidente do Conselho, António Jorge Martins da Mota Veiga. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.
