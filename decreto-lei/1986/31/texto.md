@@ -1,0 +1,16 @@
+Decreto-Lei n.º 31/86
+de 25 de Fevereiro
+O presente diploma visa a manutenção do regime de autorização exercido pelo Ministério das Finanças sobre a aquisição de meios de pagamento sobre o exterior na realização de deslocações ao estrangeiro das entidades integradas no sector público, de harmonia com o regime definido pelo Decreto-Lei n.º 513-I/79, de 24 de Dezembro, e legislação complementar.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. É aditado ao artigo 1.º do Decreto-Lei n.º 351-C/85, de 26 de Agosto, um n.º 4, com a seguinte redacção:
+Artigo 1.º - 1 - ...
+2 - ...
+3 - ...
+4 - Não obstante o disposto no n.º 2 do presente artigo, a realização de operações de invisíveis correntes respeitantes às deslocações ao estrangeiro das restantes entidades abrangidas pelo Decreto-Lei n.º 513-I/79, de 24 de Dezembro, continua sujeita ao disposto naquele diploma.
+Visto e aprovado em Conselho de Ministros de 23 de Janeiro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+Promulgado em 10 de Fevereiro de 1986.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 13 de Fevereiro de 1986.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
