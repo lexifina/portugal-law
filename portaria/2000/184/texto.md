@@ -1,0 +1,8 @@
+Portaria n.º 184/2000
+de 31 de Março
+A Portaria n.º 58/89, de 28 de Janeiro, fixa as dimensões do vazio da malha ou retículo das armadilhas, referindo no respectivo preâmbulo que «se trata de matéria onde se torna necessário proceder a alterações periódicas, de forma a garantir a sua actualização permanente com a realidade económica da pesca».
+Considerando justamente a experiência e a prática vivida por toda a série de comunidades de pesca da zona Norte que utilizam armadilhas feitas de arame e forma esferóide, cujo estudo importa levar a efeito por forma a verificar se se deve ou não manter o previsto no actual artigo único da citada portaria, a Portaria n.º 501/99, de 13 de Julho, previu a possibilidade de, durante o ano de 1999, serem utilizadas essas armadilhas, em derrogação da Portaria n.º 58/89, de 28 de Janeiro.
+Não tendo sido possível, com os elementos disponíveis sobre as espécies capturadas e as práticas actuais, regulamentar definitivamente o uso da arte, prevê-se o prolongamento da possibilidade de utilização da mesma por mais um ano, durante 2000.
+Ao abrigo do disposto no artigo 28.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 3/89, de 28 de Janeiro:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que, durante o ano de 2000, o disposto no artigo único da Portaria n.º 58/89, de 28 de Janeiro, não tenha aplicação na área das Capitanias de Viana do Castelo, Póvoa de Varzim, Vila do Conde, Leixões e Douro, relativamente a armadilhas construídas com arame e de forma esferóide.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, José Apolinário Nunes Portada, Secretário de Estado das Pescas, em 13 de Março de 2000.
