@@ -1,0 +1,531 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "170",
+    "id": "4811",
+    "titulo": "Aprova a lei da televisão."
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "1998-06-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "900",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "1998-06-18",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1998-06-18",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1371",
+                "nome": "Henrique Neto"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2864-2864"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-19",
+                "pubLeg": "VII",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2864?pgs=2864&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DA TELEVISAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1218",
+                "nome": "António Pombeiro"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51083",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2863-2864"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-19",
+                "pubLeg": "VII",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2863?pgs=2863-2864&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DA TELEVISAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "411",
+                "nome": "Francisco Valente"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51084",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2862-2863"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-19",
+                "pubLeg": "VII",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2862?pgs=2862-2863&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DA TELEVISAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51085",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2861-2862"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-19",
+                "pubLeg": "VII",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2861?pgs=2861-2862&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DA TELEVISAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51086",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2859-2859"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-19",
+                "pubLeg": "VII",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2859?pgs=2859&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DA TELEVISAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1349",
+                "nome": "António Reis"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51087",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2858-2860"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-19",
+                "pubLeg": "VII",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2858?pgs=2858-2860&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DA TELEVISAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1467",
+                "nome": "Medeiros Ferreira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51088",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2858-2860"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-19",
+                "pubLeg": "VII",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2858?pgs=2858-2860&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DA TELEVISAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "390",
+                "nome": "Mota Amaral"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51089",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2858-2858"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-19",
+                "pubLeg": "VII",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2858?pgs=2858&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DA TELEVISAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio Carlos dos Santos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107436",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2865-2866"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-19",
+                "pubLeg": "VII",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2865?pgs=2865-2866&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DA TELEVISAO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "100571",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "900",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1998-06-19",
+        "pubLeg": "VII",
+        "pubNr": "82",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1998-06-18",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> CDS-PP</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>",
+        "id": "23311",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "108633",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-06-19",
+            "pubLeg": "VII",
+            "pubNr": "82",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19?org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "82",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
