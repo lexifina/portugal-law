@@ -1,0 +1,6 @@
+Despacho
+1 - Por resolução do Conselho de Ministros de 27 de Janeiro do ano em curso, publicada no Diário do Governo, de 6 de Fevereiro último, foi cometida a uma comissão constituída por um representante do Conselho da Revolução e por dois juízes de direito, por parte do Ministério das Finanças e da Justiça, a realização de um inquérito às circunstâncias e ao processo seguido nos saneamentos havidos no Banco da Agricultura.
+2 - Procedeu a referida comissão à apresentação dos resultados e conclusões das suas indagações, corporizadas num relatório que, deve salientar-se, reflecte uma significativa e objectiva descrição da situação que determinou a sua constituição, só possível, aliás, como é de justiça referir, graças à entrega total dos seus membros à consecução do escopo em vista.
+3 - Presente o citado relatório à consideração do Conselho de Ministros, tomou este, na sua sessão de 26 de Maio findo, uma resolução para solução final e adequada do contencioso em análise, do facto resultando, assim, o fim dos trabalhos da citada comissão.
+4 - Nestes termos, determino a dissolução da mencionada comissão de inquérito, a cujos membros é conferido público apreço pela profícua actividade desenvolvida.
+Presidência do Conselho de Ministros, 9 de Julho de 1976. - O Primeiro-Ministro Interino, Vasco Fernando Leote de Almeida e Costa.
