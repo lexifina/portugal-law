@@ -1,0 +1,9 @@
+Resolução n.º 58/79
+O violento temporal e as consequentes inundações que recentemente assolaram o País originaram uma situação de extrema gravidade que exige do Governo e da Administração Pública a imediata tomada de medidas tendentes a ocorrer aos incalculáveis prejuízos que afectam as populações.
+Compete, em especial, aos Ministérios da Habitação e Obras Públicas, da Agricultura e Pescas, dos Transportes e Comunicações e da Indústria e Tecnologia, bem como às autarquias locais, a realização das obras de reparação indispensáveis e a atenuação dos prejuízos ocorridos.
+Para que as acções a empreender no desempenho desta urgente missão sejam incentivadas com rapidez e eficiência pelos diversos organismos intervenientes, torna-se necessário concentrar o seu acompanhamento e coordenação numa única entidade, de modo a evitar dispersão de meios e desvio de objectivos.
+No uso da competência atribuída pela alínea g) do artigo 202.º da Constituição, o Conselho de Ministros, reunido em 17 de Fevereiro de 1979, resolveu:
+Encarregar o Primeiro-Ministro de nomear uma entidade de reconhecido mérito como superintendente para a coordenação das acções a empreender nas áreas afectadas pelos temporais, nos termos seguintes:
+1 - Compete em especial ao superintendente acompanhar e coordenar, em estreita ligação com os respectivos Ministros, o planeamento e a execução das acções a desenvolver pelos diversos serviços públicos intervenientes na realização das obras, na reparação dos prejuízos e nas demais tarefas necessárias para a reposição da normalidade.
+2 - O superintendente proporá ao Primeiro-Ministro as medidas que julgue indispensáveis para o cabal cumprimento da sua missão.
+Presidência do Conselho de Ministros, 14 de Fevereiro de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.
