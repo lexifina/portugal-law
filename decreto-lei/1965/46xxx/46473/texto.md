@@ -1,0 +1,7 @@
+Decreto-Lei n.º 46473
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei o seguinte:
+Artigo 1.º Ficam suspensos, até 31 de Dezembro de 1965, os artigos 25.º, 27.º, 28.º e 47.º do Decreto-Lei n.º 46257, de 19 de Março de 1965.
+Art. 2.º Por despacho conjunto do Ministro da Saúde e Assistência e do Secretário de Estado do Comércio serão estabelecidas as condições em que, durante o período de suspensão referido no artigo anterior, os óleos considerados comestíveis poderão ser tratados e armazenados em locais destinados à refinação de azeite.
+Art. 3.º Este decreto-lei entra imediatamente em vigor.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 7 de Agosto de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomos de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires - Fernando Manuel Alves Machado - Manuel Rafael Amaro da Costa.
