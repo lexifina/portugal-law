@@ -1,0 +1,3 @@
+Declaração
+Para os devidos efeitos se declara que, ao abrigo do disposto no § 2.º do artigo 1.º do Decreto-Lei n.º 46861, de 7 de Fevereiro de 1966, o Secretário de Estado do Comércio, por despacho de 12 do mesmo mês, exarado sobre informação da Junta Nacional da Vinho, dispensou o pagamento da taxa instituída naquele diploma relativamente aos vinhos e derivados que sejam exportados para os mercados externos, salvo nos casos em que os exportadores lancem no mercado interno os vinhos e aguardentes que receberem da Junta dentro do regime de apoio à exportação.
+Comissão de Coordenação Económica, 11 de Março de 1966. - O Presidente, Henrique de Carvalho Costa.
