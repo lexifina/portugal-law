@@ -1,0 +1,11 @@
+Portaria n.º 366/80
+de 3 de Julho
+Os quadros de pessoal do Ministério do Trabalho, aprovados pelos Decretos-Leis n.os 47/78 e 48/78, ambos de 21 de Março, e pelo Decreto n.º 146/78, de 13 de Dezembro, contemplam vários cargos de pessoal dirigente não expressamente referidos no Decreto-Lei n.º 191-F/79, de 26 de Junho.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e do Trabalho e pelo Secretário de Estado da Reforma Administrativa, ao abrigo do n.º 3 do artigo 1.º do Decreto-Lei n.º 191-F/79, de 26 de Junho:
+De conformidade com o disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, e no respeito pelos critérios definidos pela Resolução do Conselho de Ministros n.º 354-B/79, publicada no Diário da República, 1.ª série, de 18 de Dezembro de 1979, e confirmada pela Resolução do Conselho de Ministros n.º 40/80, publicada no Diário da República, 1.ª série, de 11 de Fevereiro de 1980, são estabelecidas as seguintes equiparações de cargos de pessoal dirigente:
+1) A director-geral - os cargos de director do Departamento de Estudos e Planeamento, inspector-geral e director do Gabinete de Gestão do Fundo de Desemprego;
+2) A subdirector-geral - os cargos de adjunto do secretário-geral, subdirector do Departamento de Estudos e Planeamento, subinspector-geral, inspector superior da Inspecção do Trabalho, director regional da Direcção-Geral das Relações Colectivas do Trabalho e director do Fundo de Desenvolvimento da Mão-de-Obra;
+3) A director de serviços - os cargos de chefe de delegação, delegado, director regional do quadro do Fundo de Desenvolvimento da Mão-de-Obra e adjunto do director do Gabinete de Gestão do Fundo de Desemprego;
+4) A chefe de divisão - os cargos de chefe de subdelegação, subdelegado, delegado-adjunto e chefe de delegação, este último do quadro do Gabinete de Gestão do Fundo de Desemprego.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Trabalho, 19 de Junho de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro do Trabalho, Eusébio Marques de Carvalho. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
