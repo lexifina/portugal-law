@@ -1,0 +1,6 @@
+Resolução n.º 34/77
+Por resolução do Conselho de Ministros de 4 de Agosto de 1975, publicada no Diário do Governo, de 6 de Setembro de 1975, foi terminada a intervenção do Estado na Saprel, Sociedade Aero-Portuguesa de Representações, Lda., e na Corame, Construtora Metálica, Lda., e nomeada uma comissão administrativa comum às duas empresas, cujo mandato foi fixado em seis meses.
+Decorrido o referido período de seis meses, foi considerado conveniente tratar separadamente as duas empresas, pelo que se nomeou uma nova comissão administrativa para a Saprel e se prorrogou por um novo período de seis meses o mandato da comissão administrativa da Corame, por resolução do Conselho de Ministros datada de 26 de Março de 1976 e publicada no Diário do Governo, de 7 de Abril de 1976.
+Considerando-se necessário assegurar a manutenção da referida comissão administrativa da Corame até à data da cessação da intervenção nesta empresa, o Conselho de Ministros, reunido em 27 de Janeiro de 1977, resolveu:
+Prorrogar o mandato da comissão administrativa da Corame, Construtora Metálica, Lda., até à data da cessação da intervenção do Estado nesta empresa.
+Presidência do Conselho de Ministros, 27 de Janeiro de 1977. - O Primeiro-Ministro, Mário Soares.
