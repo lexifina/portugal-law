@@ -1,0 +1,3 @@
+Despacho
+Indo ao encontro dos desejos manifestados pela viticultura e pelo comércio de exportação da região vinícola da Madeira, tendo em conta o novo condicionalismo relativo ao regime sacarino e depois de ouvido o Secretário de Estado da Agricultura, autorizo, ao abrigo do disposto no artigo 5.º do Decreto-Lei n.º 129/71, de 6 de Abril, que a Junta Nacional do Vinho proceda nas instalações da sua delegação no Funchal à destilação de vinhos acidulados e de borras de vinhos que lhe forem entregues pela viticultura e pelo comércio da região, em termos a estabelecer pela Junta Nacional do Vinho e Administração-Geral do Álcool.
+Secretaria de Estado do Comércio, 1 de Maio de 1971. - O Secretário de Estado do Comércio, Valentim Xavier Pintado.
