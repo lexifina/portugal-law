@@ -1,0 +1,12 @@
+Decreto-Lei n.º 42854
+Autorizou o Decreto-Lei n.º 38379, de 7 de Agosto de 1951, o Banco de Angola a contratar com os corpos e corporações administrativas, associações, corporações, colectividades com fins de utilidade pública e ainda com quaisquer sociedades ou empresas nacionais empréstimos destinados a melhoramentos locais, construções e obras de reconhecida necessidade e quaisquer operações bancárias que possam interessar a Angola.
+Não podia, nos termos do mesmo diploma, o Banco imobilizar nas mencionadas operações mais de 60:000.000$00, podendo este montante ser elevado até 70:000.000$00 em casos especiais, devidamente justificados.
+Este limite foi, em 17 de Agosto de 1955, pelo Decreto-Lei n.º 40287, elevado para 100:000.000$00, que, por sua vez, ascendeu a 150:000.000$00, de harmonia com o que determinou o Decreto-Lei n.º 41247, de 30 de Agosto de 1957.
+Por um lado, aquela quantia acha-se integralmente aplicada e, por outro, os benefícios que daí resultaram para a execução de empreendimentos na província justificam plenamente a elevação do limite daquelas operações para 200:000.000$00.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É elevado para 200:000.000$00 o limite estabelecido pelo artigo único do Decreto-Lei n.º 41247, de 30 de Agosto de 1957.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 18 de Fevereiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser publicado no Boletim Oficial de Angola. - Vasco Lopes Alves.
