@@ -1,0 +1,4 @@
+Declaração
+Com fundamento na alínea b) do n.º 1 do artigo 11.º da Lei n.º 40/81, de 31 de Dezmbro, e no n.º 4 do artigo 6.º do Decreto-Lei n.º 93/78, de 13 de Maio, se publicam as seguintes alterações orçamentais efectuadas nos orçamentos abaixo designados, autorizadas por despachos do Secretário de Estado do Orçamento de 16 e 17 de Novembro findo:
+(ver documento original)
+Direcção-Geral da Contabilidade Pública, 3 de Dezembro de 1982. - O Director-Geral, Mário Baptista.
