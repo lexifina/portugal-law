@@ -1,0 +1,8 @@
+Decreto-Lei n.º 44366
+Tendo a Companhia Nacional de Navegação sido autorizada a encomendar a estaleiro estrangeiro um navio de carga de 11900/13900 t deadweight e tendo sido reconhecida a conveniência em ficar acordado que a construção do casco do navio seja efectuada no Arsenal do Alfeite, torna-se necessário autorizar o Arsenal a celebrar o respectivo contrato com o referido estaleiro.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É autorizado o Arsenal do Alfeite a celebrar contrato com os estaleiros holandeses Nederlandsche Dok en Scheepsbouw Maatschappij (V. O. f.), de Amesterdão, para a construção do casco de um navio de carga de 11900/13900 t deadweight.
+Art. 2.º No contrato a celebrar serão definidos, nos termos que forem aprovados pelo Conselho de Ministros, os trabalhos a efectuar pelo Arsenal do Alfeite, respectivo preço e demais condições especiais que for necessário estabelecer.
+Publique-se e cumpra-se como nele se contém.
+Paços da Governo de República, 26 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
