@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto Regulamentar Regional n.º 3/87/A, publicado no Diário da República, 1.ª série, n.º 17, de 21 de Janeiro de 1987, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No quadro de pessoal, sob o título «III - Pessoal técnico», onde se lê «Técnico de audimetria especialista de 1.ª classe, especialista principal, de 1.ª classe ou de 2.ª classe» deve ler-se «Técnico de audiometria especialista de 1.ª classe, especialista, principal, de 1.ª classe ou de 2.ª classe» e sob o título «X - Pessoal auxiliar», onde se lê «Motorista de ligeiros principal, de 1.ª classe ou de 2.ª classe - M, O, Q ou R» deve ler-se «Motorista de ligeiros principal, de 1.ª classe ou de 2.ª classe - M, O ou Q».
+Secretaria-Geral da Presidência do Conselho de Ministros, 10 de Abril de 1987. - O Secretário-Geral, França Martins.
