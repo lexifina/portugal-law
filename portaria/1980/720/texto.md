@@ -1,0 +1,11 @@
+Portaria n.º 720/80
+de 25 de Setembro
+Em conformidade com o disposto no artigo 12.º da orgânica da Secretaria de Estado da Marinha Mercante, aprovada pelo Decreto-Lei n.º 587/74, de 6 de Novembro, foi publicada a Portaria n.º 873/74, de 31 de Dezembro, que estabeleceu no mapa II o quadro do pessoal da Direcção-Geral do Pessoal do Mar.
+No referido quadro foi integrada uma escriturária-dactilógrafa, funcionária que com esta categoria havia ingressado no quadro geral de adidos.
+Tendo sido rectificada a categoria da referida funcionária para a de terceiro-oficial, com efeitos retroactivos a contar da data do seu ingresso no quadro geral de adidos, ficou a mesma detentora dos respectivos direitos, pelo que se pretende, em resposta a este ordenamento, que a categoria de integração na Direcção-Geral do Pessoal do Mar seja alterada em conformidade, mas, para tanto, não existe vaga no respectivo quadro.
+Em face do exposto, é necessário, portanto, criar o lugar em falta, para que seja tornado efectivo o direito reconhecido.
+Nestes termos, ao abrigo do disposto no artigo 12.º da orgânica da Secretaria de Estado da Marinha Mercante, aprovada pelo Decreto-Lei n.º 587/74, de 6 de Novembro, e no n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano e pelos Secretários de Estado da Reforma Administrativa e da Marinha Mercante, o seguinte:
+1.º É alterado o quadro do pessoal da Direcção-Geral do Pessoal do Mar, constante do mapa II anexo à Portaria n.º 873/74, de 31 de Dezembro, com as modificações que lhe foram introduzidas pela Portaria n.º 216/77, de 21 de Abril, sendo, no grupo do pessoal administrativo, acrescentado um lugar de terceiro-oficial.
+2.º Os encargos resultantes da execução deste diploma são suportados no ano económico em curso pelas disponibilidades das verbas incluídas no orçamento vigente da Direcção-Geral do Pessoal do Mar nas dotações destinadas a satisfazer encargos com o pessoal.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e dos Transportes e Comunicações, 8 de Agosto de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo. - O Secretário de Estado da Marinha Mercante, José da Silva Domingos.
