@@ -1,0 +1,6 @@
+Despacho Normativo n.º 710/94
+Considerando que o Despacho Normativo n.º 192/94, de 25 de Março, criou um lugar de assessor principal da carreira técnica superior, no quadro de pessoal do Centro Regional de Segurança Social de Lisboa e Vale do Tejo, destinado a Maria Teresa Abrantes Pereira Bettencourt e Ávila, que cessou em 26 de Outubro de 1993 a comissão de serviço no cargo que vinha exercendo;
+Considerando que, por lapso, a carreira em que foi inserida não se encontra correcta, importando, por isso, proceder à respectiva rectificação:
+Determina-se que o n.º 1 do Despacho Normativo n.º 192/94, de 25 de Março, passe a ter a seguinte redacção:
+1 - É criado no quadro de pessoal do Centro Regional de Segurança Social de Lisboa e Vale do Tejo, aprovado pela Portaria n.º 1056/93, de 21 de Outubro, um lugar de assessor principal da carreira técnica superior de serviço social, a extinguir quando vagar.
+Ministérios das Finanças e do Emprego e da Segurança Social, 13 de Setembro de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, José Frederico de Lemos Salter Cid, Secretário de Estado da Segurança Social.
