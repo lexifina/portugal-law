@@ -1,0 +1,10 @@
+Portaria n.º 405/87
+de 14 de Maio
+A Portaria n.º 863/85, de 14 de Novembro, reconhecendo a necessidade de se proceder à reconversão das vinhas existentes na Região Demarcada do Douro, esgotada que se encontrava a área de 2500 ha prevista na Portaria n.º 685/82, de 9 de Julho, com vista ao integral aproveitamento das novas e amplas perspectivas que poderão abrir-se à comercialização dos vinhos da citada Região com a entrada de Portugal na CEE, por forma a garantir, em simultâneo, acentuada melhoria de qualidade dos produtos, das condições de produção e do rendimento dos viticultores, autorizou, ao abrigo do Projecto de Desenvolvimento Rural Integrado de Trás-os-Montes (PDRITM), a reconstituição e transferência de vinhas na referida Região Demarcada até um total de mais 1000 ha.
+De acordo com o n.º 4.º da citada Portaria n.º 863/85, os pedidos de autorização respeitantes a transferências e a reconstituições das vinhas existentes só seriam aceites até 31 de Julho de 1986.
+Tendo-se verificado uma grande adesão por parte dos viticultores durienses, o que levou a que a partir da data mencionada tenham continuado a dar entrada nos serviços inúmeros pedidos de autorização, e atendendo ao interesse económico de que se reveste a reconversão das vinhas existentes, considera-se de toda a conveniência garantir a afectação dos meios ainda disponíveis ao financiamento exclusivo para reconstituições e transferências até ao limite dos 1000 ha, previstos na referida Portaria n.º 863/85, alargando o prazo para aceitação dos pedidos de autorização.
+Nestes termos, com fundamento nos n.os 2 e 4 do artigo 6.º do Decreto-Lei n.º 513-D/79, de 24 de Dezembro:
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Pescas e Alimentação, que o prazo previsto no n.º 4.º da Portaria n.º 863/85, de 14 de Novembro, seja dilatado até 31 de Julho de 1987.
+Ministério da Agricultura, Pescas e Alimentação.
+Assinada em 23 de Abril de 1987.
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
