@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 12.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Saúde, a declaração de transferências de verbas publicada no Diário da República, 1.ª série, n.º 152, de 4 de Julho de 1988, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Onde se lê «Capítulo 01, divisão 01, código 41.00» deve ler-se «Capítulo 10, divisão 01, código 41.00».
+Secretaria-Geral da Presidência do Conselho de Ministros, 20 de Julho de 1988. - O Secretário-Geral, França Martins.
