@@ -1,0 +1,5 @@
+Despacho
+Dadas algumas dúvidas suscitadas na execução do Decreto-Lei n.º 412/74, de 6 de Setembro, determino, nos termos do seu artigo 6.º, o seguinte:
+1. Aos primeiros-cabos milicianos que se achem na situação de reformados são dispensadas as condições de promoção ao posto de segundo-furriel miliciano prescritas no artigo 2.º do Decreto-Lei n.º 412/74, de 6 de Setembro.
+2. A promoção dos segundos-furriéis milicianos abrangidos pelo número anterior reportar-se-á à data em que forem ou teriam sido promovidos a esse posto os primeiros-cabos milicianos da mesma classe, nos termos do n.º 2 do artigo 2.º do citado Decreto-Lei n.º 412/74, mas atento o disposto no n.º 1 do artigo 3.º do mesmo diploma e o artigo 5.º do Decreto-Lei n.º 233/74, de 1 de Junho, segundo os quais os efeitos do novo posto de segundo-furriel miliciano se verificarão só a partir de 1 de Maio de 1974.
+Estado-Maior-General das Forças Armadas, 18 de Junho de 1975. - O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes.
