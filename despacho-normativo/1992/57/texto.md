@@ -1,0 +1,6 @@
+Despacho Normativo n.º 57/92
+Dadas as elevadas carências em enfermeiros com que o País se confronta, justifica-se a utilização de mecanismos que possibilitem aos serviços e estabelecimentos do Ministério da Saúde o recrutamento imediato de enfermeiros recentemente diplomados pelas escolas superiores de Enfermagem, bem como dos que, sendo diplomados há mais tempo, não tiveram a oportunidade, durante o ano de 1991, de serem recrutados, por dificuldades dos serviços na utilização atempada das quotas que lhes foram atribuídas.
+Assim, ao abrigo do disposto no n.º 7 do artigo 12.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, na redacção que foi dada pelo artigo 15.º do Decreto-Lei n.º 215/87, de 2 de Maio, determina-se o seguinte:
+1 - São descongeladas, para o ano de 1992, com carácter excepcional, 1000 admissões de enfermeiros para os serviços e estabelecimentos dependentes do Ministério da Saúde.
+2 - A utilização das quotas de descongelamento está dependente da correspondente cobertura ornamental.
+Presidência do Conselho de Ministros e Ministério das Finanças, 9 de Abril de 1992. - O Primeiro-Ministro, Aníbal António Cavaco Silva. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento.
