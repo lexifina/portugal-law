@@ -12,4 +12,4 @@ b) Se a obrigação provier de facto ilícito;
 
 c) Se o próprio devedor impedir a interpelação, considerando-se interpelado, neste caso, na data em que normalmente o teria sido.
 
-3. Se o crédito for ilíquido, não há mora enquanto se não tornar líquido, salvo se a falta de liquidez for imputável ao devedor.
+3 - Se o crédito for ilíquido, não há mora enquanto se não tornar líquido, salvo se a falta de liquidez for imputável ao devedor; tratando-se, porém, de responsabilidade por facto ilícito ou pelo risco, o devedor constitui-se em mora desde a citação, a menos que já haja então mora, nos termos da primeira parte deste número.
