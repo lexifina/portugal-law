@@ -1,0 +1,27 @@
+Portaria n.º 23771
+Considerando que se encontra aprovado superiormente, sob parecer favorável do Conselho Superior de Fomento Ultramarino, o esquema de aproveitamento hidráulico da bacia do Cunene a montante de Calueque, que compreende um conjunto de aproveitamentos hidroeléctricos, hidroagrícolas e pecuários;
+Atendendo a que foi já elaborado o estudo do rio Cunene, de Calueque à foz, no qual se prevê a construção de uma série de barragens;
+Considerando que este estudo conjuntamente com o referido esquema de aproveitamento hidráulico da bacia do Cunene definem a orientação a seguir para o aproveitamento dos recursos hídricos da bacia do Cunene e que, por isso, convém desde já reservar para o Estado as áreas de terrenos indispensáveis à execução das obras e ao estabelecimento dos núcleos de povoamento;
+Reconhecendo-se que as áreas adjacentes poderão também vir a ser necessárias para a fixação de populações a transferir das áreas inundadas pelas albufeiras ou para prover ao aumento das áreas beneficiadas com as redes de abeberamento, conforme o voto expresso pelo Conselho Superior de Fomento Ultramarino;
+Ouvida a província de Angola:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, de harmonia com o disposto no § único do artigo 24.º do Decreto n.º 43894, de 6 de Setembro de 1961, o seguinte:
+1.º São reservados para o Estado os terrenos livres incluídos nas áreas a seguir definidas:
+a) Áreas delimitadas pelas curvas de nível às cotas de pleno armazenamento das albufeiras das barragens, cujos nomes e coordenadas de localização se mencionam no quadro I anexo;
+b) Áreas de rega e abeberamento, referentes ao aproveitamento do Catembulo, delimitadas, conforme o desenho junto, por uma linha poligonal com vértices nos pontos de 1 a 9;
+c) Áreas de rega e abeberamento, referentes ao aproveitamento do Matunto, delimitadas, conforme o desenho junto, pelo rio Cunene, a partir do ponto 10, junto da povoação de Mulondo, para sul, até ao ponto de intersecção deste rio com o segmento de recta que une os pontos 18 e 19 e, a partir deste ponto, por uma linha poligonal unindo sucessivamente os pontos 19, 20, 16, 15, 14, 13, 12, 11 e 10;
+d) Áreas de rega e abeberamento, referentes ao aproveitamento da Cova do Leão, delimitadas, conforme o desenho junto, a partir do ponto 17 (Cova do Leão), pelo rio Caculuvar até ao ponto de intersecção deste rio com o segmento de recta que une os pontos 16 e 20 e, depois deste ponto, por uma linha poligonal unindo sucessivamente os pontos 20, 21, 22, 23, 24, 25 e 17.
+As coordenadas dos pontos referidos nas alíneas b), c) e d) estão mencionadas no quadro II anexo.
+2.º Na apreciação dos pedidos de concessão de terrenos incluídos nas áreas adjacentes às consideradas no número anterior, definidas por envolventes afastadas 10 km daqueles perímetros, será ouvido o Grupo de Trabalho do Cunene e Cuvelai.
+Ministério do Ultramar, 13 de Dezembro de 1968. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de Angola - J. da Silva Cunha.
+
+QUADRO I
+(ver documento original)
+
+QUADRO II
+(ver documento original)
+Ministério do Ultramar, 13 de Dezembro de 1968. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+(ver documento original)
+Ministério do Ultramar, 13 de Dezembro de 1968. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
