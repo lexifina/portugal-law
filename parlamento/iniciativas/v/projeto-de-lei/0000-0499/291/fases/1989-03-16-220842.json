@@ -1,0 +1,803 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "291",
+    "id": "28779",
+    "titulo": "Reduz a duração semanal do trabalho normal"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1989-03-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4470",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1989-03-16",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-03-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220204",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1831-1831"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-17",
+                "pubLeg": "V",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17/1831?pgs=1831&org=PLC"
+              }
+            ],
+            "sumario": "Reduz a duração semanal do trabalho normal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220205",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1831-1831"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-17",
+                "pubLeg": "V",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17/1831?pgs=1831&org=PLC"
+              }
+            ],
+            "sumario": "Reduz a duração semanal do trabalho normal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220206",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1831-1831"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-17",
+                "pubLeg": "V",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17/1831?pgs=1831&org=PLC"
+              }
+            ],
+            "sumario": "Reduz a duração semanal do trabalho normal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220207",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1831-1832"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-17",
+                "pubLeg": "V",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17/1831?pgs=1831-1832&org=PLC"
+              }
+            ],
+            "sumario": "Reduz a duração semanal do trabalho normal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220208",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1832-1832"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-17",
+                "pubLeg": "V",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17/1832?pgs=1832&org=PLC"
+              }
+            ],
+            "sumario": "Reduz a duração semanal do trabalho normal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220209",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1832-1834",
+                  "1834-1835"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-17",
+                "pubLeg": "V",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17/1832?pgs=1832-1834,1834-1835&org=PLC"
+              }
+            ],
+            "sumario": "Reduz a duração semanal do trabalho normal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220210",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1834-1834"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-17",
+                "pubLeg": "V",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17/1834?pgs=1834&org=PLC"
+              }
+            ],
+            "sumario": "Reduz a duração semanal do trabalho normal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220211",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1835-1837",
+                  "1837-1837",
+                  "1837-1837"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-17",
+                "pubLeg": "V",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17/1835?pgs=1835-1837,1837,1837&org=PLC"
+              }
+            ],
+            "sumario": "Reduz a duração semanal do trabalho normal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220212",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1837-1837",
+                  "1837-1837"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-17",
+                "pubLeg": "V",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17/1837?pgs=1837,1837&org=PLC"
+              }
+            ],
+            "sumario": "Reduz a duração semanal do trabalho normal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220213",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1837-1838"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-17",
+                "pubLeg": "V",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17/1837?pgs=1837-1838&org=PLC"
+              }
+            ],
+            "sumario": "Reduz a duração semanal do trabalho normal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220214",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1838-1840",
+                  "1841-1841",
+                  "1841-1841"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-17",
+                "pubLeg": "V",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17/1838?pgs=1838-1840,1841,1841&org=PLC"
+              }
+            ],
+            "sumario": "Reduz a duração semanal do trabalho normal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220215",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1840-1841",
+                  "1841-1841"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-17",
+                "pubLeg": "V",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17/1840?pgs=1840-1841,1841&org=PLC"
+              }
+            ],
+            "sumario": "Reduz a duração semanal do trabalho normal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220216",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1842-1842",
+                  "1843-1844"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-17",
+                "pubLeg": "V",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17/1842?pgs=1842,1843-1844&org=PLC"
+              }
+            ],
+            "sumario": "Reduz a duração semanal do trabalho normal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220217",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1843-1843"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-17",
+                "pubLeg": "V",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17/1843?pgs=1843&org=PLC"
+              }
+            ],
+            "sumario": "Reduz a duração semanal do trabalho normal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220218",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1844-1844"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-17",
+                "pubLeg": "V",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17/1844?pgs=1844&org=PLC"
+              }
+            ],
+            "sumario": "Reduz a duração semanal do trabalho normal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220219",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1844-1844"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-17",
+                "pubLeg": "V",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17/1844?pgs=1844&org=PLC"
+              }
+            ],
+            "sumario": "Reduz a duração semanal do trabalho normal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220220",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1844-1845"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-03-17",
+                "pubLeg": "V",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17/1844?pgs=1844-1845&org=PLC"
+              }
+            ],
+            "sumario": "Reduz a duração semanal do trabalho normal.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "220842",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4470",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-03-17",
+        "pubLeg": "V",
+        "pubNr": "52",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/052/1989-03-17?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
