@@ -1,0 +1,5 @@
+Despacho
+Considerando que a Empresa Pública de Parques Industriais, à qual, nos termos legais, compete a instalação de parques industriais de iniciativa do Governo, tem deparado com dificuldades na aquisição em tempo útil dos prédios necessários à criação do parque industrial piloto de Braga-Guimarães (implantação de Celeirós);
+Considerando que por despacho do Conselho de Ministros de 19 de Maio de 1975 foi declarada a utilidade pública urgente das expropriações dos prédios necessários à criação do referido parque industrial.
+Fica autorizada a Empresa Pública de Parques Industriais a tomar posse administrativa dos prédios rústicos descritos no anexo ao despacho do Conselho de Ministros publicado no Diário do Governo, 1.ª série, de 19 de Maio de 1975, e relativamente aos quais foi declarada a utilidade pública urgente das expropriações.
+Presidência do Conselho de Ministros e Ministério da Indústria e Tecnologia, 5 de Junho de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves. - O Ministro da Indústria e Tecnologia, João Cardona Gomes Cravinho.
