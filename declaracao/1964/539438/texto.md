@@ -1,0 +1,3 @@
+Declaração
+Para os devidos efeitos se declara que, considerando a necessidade de assegurar o escoamento das actuais existências de vinho ainda na posse da viticultura, bem como a circunstância de as perspectivas da próxima colheita indicarem que será inferior em volume à de 1963, S. Ex.ª o Secretário de Estado do Comércio, em seu despacho de 14 do corrente, ao abrigo do disposto no § único do artigo 7.º do Decreto-Lei n.º 40036, de 18 de Janeiro de 1955, determinou fosse suprimida a redução das existências mínimas prevista no corpo daquele artigo durante o período que medeia entre 1 de Setembro e 15 de Dezembro do ano corrente.
+Comissão de Coordenação Económica, 19 de Agosto de 1964. - Pelo Presidente, Miguel Inácio Ferreira Barbosa Gonçalves.
