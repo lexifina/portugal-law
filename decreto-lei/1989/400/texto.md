@@ -1,0 +1,19 @@
+Decreto-Lei n.º 400/89
+de 10 de Novembro
+Considerando que Portugal terá, a partir de 1 de Janeiro de 1991, de submeter-se à disciplina comunitária relativamente às operações de intervenção no mercado vitivinícola, observando até aquela data, nomeadamente, as operações de intervenção previstas no Decreto-Lei n.º 517/85, de 31 de Dezembro, e promovendo o saneamento qualitativo do mercado, nos termos do Regulamento (CEE) n.º 822/87 do Conselho, de 16 de Março;
+Considerando que o Instituto da Vinha e do Vinho (IVV) tem uma estrutura adequada ao conhecimento dos dados estatísticos do mercado interno e externo, ao exercício da disciplina, ao acompanhamento da evolução dos preços e também do cadastro vitícola, para o que dispõe do registo dos agentes económicos do sector, dos meios sensoriais e laboratoriais para a classificação dos produtos vínicos, das delegações localizadas em todas as regiões produtoras e preparadas para a realização das tarefas básicas do processo;
+Considerando que a ex-Junta Nacional do Vinho não foi absorvida em termos estruturais pelo Instituto Regulador e Orientador dos Mercados Agrícolas, mas antes substituída pelo IVV, o qual, além de incluir o sector do vinho, integrou também o da vinha, por se reconhecer que o sector vitivinícola tem de ter tratamento diferenciado pelas suas especificidades, já que vinho e vinha são indissociáveis, quer para efeitos do controlo da produção, quer para efeitos de gestão do mercado;
+Considerando que, ao optar-se pela integração vertical do sector vitivinícola, se deverá também optar para que a acção de intervenção no mercado vitivinícola seja atribuição do IVV:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º - 1 - Ao Instituto da Vinha e do Vinho (IVV), criado pelo Decreto-Lei n.º 304/86, de 22 de Setembro, com orgânica definida no Decreto Regulamentar n.º 62/87, de 7 de Dezembro, são cometidas as atribuições de organismo de intervenção no sector vitivinícola, competindo-lhe neste âmbito, nomeadamente:
+a) Actuar como organismo pagador, junto dos agentes económicos ligados ao sector do vinho e derivados, das ajudas nacionais e comunitárias provenientes da Secção Garantia do Fundo Europeu de Orientação e Garantia Agrícola (FEOGA));
+b) Fiscalizar e controlar a aplicação das ajudas referidas na alínea anterior.
+2 - O disposto no número anterior não prejudica que o Instituto Nacional de Intervenção e Garantia Agrícola continue a ser o único interlocutor com a Secção Garantia do FEOGA.
+Art. 2.º Para o desempenho das suas atribuições compete aos órgãos do IVV assegurar a aplicação de todos os instrumentos de organização, orientação e regularização do mercado vitivinícola.
+Art. 3.º As operações de intervenção são, nomeadamente, as previstas no Decreto-Lei n.º 517/85, de 31 de Dezembro, e no Regulamento (CEE) n.º 822/87 do Conselho, de 16 de Março.
+Visto e aprovado em Conselho de Ministros de 12 de Outubro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Gonzaga de Sousa Morais Cardoso.
+Promulgado em 26 de Outubro de 1989.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 28 de Outubro de 1989.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
