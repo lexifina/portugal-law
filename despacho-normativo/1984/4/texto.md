@@ -1,0 +1,44 @@
+Despacho Normativo n.º 4/84
+O artigo 9.º, n.º 1, do Decreto-Lei n.º 170/80, de 29 de Maio, estabelece que a compensação de encargos familiares com a frequência, pelos descendentes ou equiparados de beneficiários de regimes de segurança social, de estabelecimentos de educação especial de crianças e jovens deficientes que impliquem pagamento de mensalidades é realizada mediante a concessão de subsídios em regime de comparticipação de despesas.
+Por outro lado, em conformidade com o disposto no n.º 2 do mesmo artigo, para os estabelecimentos de educação especial que pratiquem mensalidades, estas são fixadas por despacho conjunto dos Ministros da Educação e, agora, do Trabalho e Segurança Social.
+De harmonia com os princípios gerais informadores dos sistemas de ensino, bem como da segurança social, considera-se que apenas nos estabelecimentos particulares com fim lucrativo se justifica inequivocamente a existência de mensalidades, enquanto valores a pagar pelos utentes, que exprimam tendencialmente preços de prestação de serviços.
+Nesta conformidade, o apoio do Estado aos estabelecimentos particulares com fins de solidariedade social e cooperação altruísta deverá ser regido por regras de comparticipação financeira que não coloquem as crianças e suas famílias em situação de desigualdade relativamente às que frequentem estabelecimentos oficiais.
+Em face daqueles objectivos, e sem prejuízo, assim, de oportunamente se redefinir o enquadramento legal do subsídio de educação especial com prestação familiar do âmbito da segurança social, importa proceder à revisão dos valores das mensalidades, de modo que a sua actualização anual permita uma justa atribuição do mesmo subsídio e não afecte a situação das famílias das crianças e jovens deficientes.
+Assim, ao dar-se continuidade ao processo de revisão, teve-se em conta o valor previsível dos factores que influenciarão o aumento das despesas médias, que estão na base dos custos de frequência dos estabelecimentos, no presente ano lectivo de 1983-1984.
+Nestes termos, ao abrigo do disposto no n.º 2 do artigo 9.º do Decreto-Lei n.º 170/80, de 29 de Maio, determina-se:
+I
+1 - Os valores máximos das mensalidades a praticar pelos estabelecimentos particulares de educação especial com fins lucrativos, habitualmente designados por colégios, no ano lectivo de 1983-1984 são, de acordo com as respectivas modalidades, os seguintes:
+a) Externato ... 13000$00
+b) Semi-internato ... 16600$00
+c) Internato ... 32600$00
+2 - Os valores mencionados no número anterior correspondem, de acordo com a respectiva modalidade, aos montantes das seguintes rubricas:
+a) Escolaridade ... 10600$00
+b) Alimentação ... 3600$00
+c) Transporte ... 2400$00
+d) Internamento ... 18400$00
+3 - Pelos transportes que estes estabelecimentos venham a assegurar, para a sua frequência, aos alunos residentes fora de Lisboa e do Porto, poderão cobrar, dentro dos escalões a seguir indicados e contados a partir da zona periférica da respectiva cidade, os seguintes montantes:
+a) Pelos primeiros 5 km ... 1500$00
+b) De 5 Km a 10 Km ... 1900$00
+c) De 10 Km a 15 Km ... 2500$00
+d) Mais de 15 km ... 3100$00
+II
+Os valores máximos das mensalidades a praticar pelos estabelecimentos particulares de educação especial não lucrativos, tutelados pelo Ministério da Educação, são os seguintes:
+a) Sociedade Cooperativa de São Pedro de Barcarena (internato) ... 22800$00
+b) Cooperativas, associações e centros (semi-internato) ... 8400$00
+III
+Sem prejuízo de oportunamente se proceder à revisão da forma de processamento de apoios financeiros para a frequência de actividades de educação especial prosseguidas por instituições particulares de solidariedade social tuteladas pelo sector da segurança social, e na sequência da prática de anos anteriores, as instituições a seguir indicadas ficam autorizadas a praticar no ano lectivo de 1983-1484 mensalidades cujos valores máximos são os seguintes:
+Na modalidade de semi-internato:
+a) Associação Portuguesa para Protecção às Crianças Autistas ... 8400$00
+b) Associação Cristã da Mocidade (Colégio O Sol) ... 8400$00
+c) Centro Infantil de Hellen Keller ... 8400$00
+d) Liga Portuguesa dos Deficientes Motores ... 9700$00
+e) Associação Portuguesa de Pais e Amigos das Crianças Diminuídas Mentais ... 11700$00
+f) Associação Portuguesa para a Educação de Crianças Deficientes Auditivas ... 11700$00
+Na modalidade de internato:
+g) Associação Portuguesa de Pais e Amigos das Crianças Diminuídas Mentais ... 22800$00
+h) Associação Casa de Santa Isabel - São Romão ... 22800$00
+IV
+1 - As mensalidades agora fixadas são os valores a tomar em conta para a atribuição às famílias do subsídio pela frequência destes estabelecimentos de educação especial.
+2 - O presente despacho produz efeito a partir de 1 de Setembro de 1983.
+3 - Tendo em vista uma maior facilidade no processamento dos valores a pagar retroactivamente por força deste despacho, poderão os mesmos ser pagos directamente aos estabelecimentos pelas instituições de segurança social ou outros serviços processadores do subsídio de educação especial.
+Secretarias de Estado do Ensino Básico e Secundário e da Segurança Social, 16 de Dezembro de 1983. - A Secretária de Estado do Ensino Básico e Secundário, Maria Helena Nazareth Santos Valente Rosa. - A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
