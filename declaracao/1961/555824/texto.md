@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Gabinete de S. Ex.ª o Ministro das Finanças, o despacho que aprova as condições gerais a que fica sujeito o empréstimo a conceder pelo Estado ao Banco de Fomento Nacional, nos termos e para os efeitos do artigo 17.º do Decreto-Lei n.º 42946 (promissórias de fomento nacional), publicado no Diário do Governo n.º 293, 1.ª série, de 20 de Dezembro do ano findo, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a inexactidão seguinte, que assim se rectifica:
+No n.º 4), onde se lê: «... nas províncias ultramarinas de Angola e Moçambique;», deve ler-se «... nas províncias ultramarinas de Angola e Moçambique:».
+Secretaria-Geral da Presidência do Conselho, 7 de Fevereiro de 1961. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
