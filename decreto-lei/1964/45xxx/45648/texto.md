@@ -1,0 +1,6 @@
+Decreto-Lei n.º 45648
+Tendo surgido dúvidas sobre o alcance do disposto no § único do artigo 1.º do Decreto-Lei n.º 39398, de 22 de Outubro de 1953;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer coma lei, o seguinte:
+Artigo único. Na isenção estabelecida no § único do artigo 1.º do Decreto-Lei n.º 39398, de 22 de Outubro de 1953, compreende-se a dos emolumentos pelo visto do Tribunal de Contas em contratos de fornecimentos ou empreitadas abrangidos pela referida disposição legal.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 9 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
