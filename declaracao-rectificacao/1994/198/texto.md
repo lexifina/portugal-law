@@ -1,0 +1,12 @@
+Declaração de rectificação n.º 198/94
+Segundo comunicação da Direcção-Geral da Contabilidade Pública (Ministério das Finanças), a Declaração n.º 115/94, publicada no Diário da República, n.º 227, de 30 de Setembro de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Em «01 - Encargos Gerais da Nação», na p. 6009, onde se lê «cap. 50, div. 11, subdiv. 01, C. F. 02» deve ler-se «cap. 50, div. 11, subdiv. 02».
+Em «10 - Ministério do Planeamento e da Administração do Território», na p. 6013, onde se lê «cap. 50, div. 42, subdiv. 14, C. F. 27» deve ler-se «cap. 50, div. 42, subdiv. 27».
+Em «15 - Ministério da Saúde», no cap. 50, div. 14, subdiv. 07, onde se lê «IGIFS - Melhoria condições saúde» deve ler-se «IGIFS - Melhoria condições de saúde da Sub-Região de Braga» e onde se lê «C. E. 08.02.03, alínea A - ARSBG (2)» deve ler-se «C. E. 08.02.03, alínea A - ARSNORTE (2)».
+Na subdiv. 08, onde se lê «IGIFS - Melhoria condições saúde» deve ler-se «IGIFS - Melhoria condições de saúde da Sub-Região de Bragança» e onde se lê «C. E. 08.02.03, alínea A - ARSBC (2)» deve ler-se «C. E. 08.02.03, alínea A - ARSNORTE (2)».
+Na subdiv. 13, onde se lê «IGIFS - Construção de centros de saúde ARS Lisboa» deve ler-se «IGIFS - Melhoria condições de saúde da Sub-Região de Lisboa» e onde se lê «C. E. 08.02.03, alínea A - ARSLB (2)» deve ler-se «C. E. 08.02.03, alínea A - ARSLVT (2)».
+Na subdiv. 14, onde se lê «IGIFS - Melhoria condições saúde» deve ler-se «IGIFS - Melhoria condições de saúde da Sub-Região de Portalegre» e onde se lê «C. E. 08.02.03, alínea A - ARSPTG (2)» deve ler-se «C. E. 08.02.03, alínea A - ARSALENT (2)».
+Na subdiv. 15, onde se lê «IGIFS - Construção de centos de saúde ARS Porto» deve ler-se «IGIFS - Melhoria condições de saúde da Sub-Região do Porto» e onde se lê «C. E. 08.02.03, alínea A - ARSPT (2)» deve ler-se «C. E. 08.02.03, alínea A - ARSNORTE (2)».
+Na subdiv. 16, onde se lê «IGIFS - Melhoria condições saúde» deve ler-se «IGIFS - Melhoria condições de saúde da Sub-Região de Santarém» e onde se lê «C. E. 08.02.03, alínea A - ARSSNT (2)» deve ler-se «C. E. 08.02.03, alínea A - ARSLVT (2)».
+Em «16 - Ministério das Obras Públicas, Transportes e Comunicações», onde se lê «C. F. 8.03.0» deve ler-se «C. F. 8.03.3».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Outubro de 1994. - O Secretário-Geral, França Martins.
