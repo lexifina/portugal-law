@@ -1,0 +1,9 @@
+Resolução n.º 32/79
+As empresas Editora Arcádia, S. A. R. L., e Livraria Moraes Editores, S. A. R. L., foram sujeitas, por despacho conjunto dos Ministros das Finanças e da Comunicação Social de 11 de Maio de 1976, ao regime provisório de gestão estabelecido pelo Decreto-Lei n.º 597/75, de 28 de Outubro. Tal medida foi então fundamentada, quer na verificação dos correspondentes índices legais, previstos no Decreto-Lei n.º 660/74, de 25 de Novembro, quer na expectativa de próxima estruturação de dois grandes blocos distribuidores: um de livros e revistas, outro de jornais.
+Transcorridos que são mais de dois anos e meio sobre a publicação do despacho conjunto atrás referenciado, verifica-se que ficou por concretizar a projectada recomposição dos mecanismos difusores da imprensa, unitária e periódica.
+Igualmente não se mostra realizado o inquérito preceituado pelo artigo 3.º, n.º 1, do já aludido Decreto-Lei n.º 597/75, omissão esta que, traduzindo uma renúncia à adopção, em tempo útil, do condicionalismo típico da intervenção estatal, acabou por gerar uma situação anómala, que urge fazer cessar.
+Importa, enfim, reenquadrar plenamente as duas empresas editoras no seu estatuto de sociedades comerciais, permitindo-lhes a indispensável autonomia de gestão, até porque o recurso aos necessários instrumentos de saneamento económico-financeiro não exige que se mantenha a actual medida de intervenção do Estado.
+Nestes termos:
+O Conselho de Ministros, reunido em 17 de Janeiro de 1979, resolveu:
+Dar por imediatamente findo, com as inerentes consequências legais, o regime provisório de gestão a que se vêm sujeitando a Editora Arcádia, S. A. R. L., e a Livraria Moraes Editores, S. A. R. L.
+Presidência do Conselho de Ministros, 17 de Janeiro de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.
