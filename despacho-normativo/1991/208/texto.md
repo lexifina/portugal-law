@@ -1,0 +1,29 @@
+Despacho Normativo n.º 208/91
+Considerando o Despacho Normativo n.º 79/91, de 5 de Abril, que fixa os montantes das indemnizações compensatórias a atribuir aos agricultores de regiões desfavorecidas;
+Considerando a necessidade de proceder a algumas rectificações ao referido diploma:
+Determino o seguinte:
+1 - Nas alíneas iv) das alíneas a) dos pontos I e II do n.º 1 do Despacho Normativo n.º 79/91, de 5 de Abril, onde se lê «Por hectare de superfície cultivada» deve ler-se «Por hectare de superfície cultivada, até ao limite máximo de 10 ha».
+2 - As alíneas b) dos pontos I, II e III do n.º 1 do Despacho Normativo n.º 79/91, de 5 de Abril, passam a ter a seguinte redacção:
+1 - ...
+I - [...]
+a) ...
+b) ...
+i) Para o primeiro terço - 66 ECU/CN;
+ii) Para o segundo terço - 48 ECU/CN;
+iii) Para o último terço - 36 ECU/CN;
+iv) ...
+II - [...]
+a) ...
+b) ...
+i) Para o primeiro terço - 55 ECU/CN;
+ii) Para o segundo terço - 40 ECU/CN;
+iii) Para o último terço - 30 ECU/CN;
+iv) ...
+III - [...]
+a) ...
+b) ...
+i) Para o primeiro terço - 50 ECU/CN;
+ii) Para o segundo terço - 36 ECU/CN;
+iii) Para o último terço - 25 ECU/CN.
+3 - O disposto no presente diploma aplica-se às candidaturas apresentadas no corrente ano.
+Ministério da Agricultura, Pescas e Alimentação, 5 de Setembro de 1991. - Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
