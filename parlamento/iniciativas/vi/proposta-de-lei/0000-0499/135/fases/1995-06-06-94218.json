@@ -1,0 +1,739 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "135",
+    "id": "3248",
+    "titulo": "Autoriza o Governo a alterar o Código de Procedimento Administrativo."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1995-06-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "85",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1995-06-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1995-06-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39812",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2682-2682"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-06-07",
+                "pubLeg": "VI",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/084/1995-06-07/2682?pgs=2682&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ALTERAR O CODIGO DO PROCEDIMENTO ADMINISTRATIVO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39813",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2682-2682"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-06-07",
+                "pubLeg": "VI",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/084/1995-06-07/2682?pgs=2682&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ALTERAR O CODIGO DO PROCEDIMENTO ADMINISTRATIVO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39814",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2681-2682"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-06-07",
+                "pubLeg": "VI",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/084/1995-06-07/2681?pgs=2681-2682&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ALTERAR O CODIGO DO PROCEDIMENTO ADMINISTRATIVO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39815",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2681-2681"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-06-07",
+                "pubLeg": "VI",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/084/1995-06-07/2681?pgs=2681&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ALTERAR O CODIGO DO PROCEDIMENTO ADMINISTRATIVO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39816",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2680-2681"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-06-07",
+                "pubLeg": "VI",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/084/1995-06-07/2680?pgs=2680-2681&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ALTERAR O CODIGO DO PROCEDIMENTO ADMINISTRATIVO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39818",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2678-2679"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-06-07",
+                "pubLeg": "VI",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/084/1995-06-07/2678?pgs=2678-2679&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ALTERAR O CODIGO DO PROCEDIMENTO ADMINISTRATIVO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39819",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2675-2678"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-06-07",
+                "pubLeg": "VI",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/084/1995-06-07/2675?pgs=2675-2678&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ALTERAR O CODIGO DO PROCEDIMENTO ADMINISTRATIVO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "521",
+                "nome": "Margarida Silva Pereira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39820",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2674-2675"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-06-07",
+                "pubLeg": "VI",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/084/1995-06-07/2674?pgs=2674-2675&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ALTERAR O CODIGO DO PROCEDIMENTO ADMINISTRATIVO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39821",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2673-2674"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-06-07",
+                "pubLeg": "VI",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/084/1995-06-07/2673?pgs=2673-2674&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ALTERAR O CODIGO DO PROCEDIMENTO ADMINISTRATIVO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39822",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2673-2673"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-06-07",
+                "pubLeg": "VI",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/084/1995-06-07/2673?pgs=2673&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ALTERAR O CODIGO DO PROCEDIMENTO ADMINISTRATIVO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39823",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2672-2673"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-06-07",
+                "pubLeg": "VI",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/084/1995-06-07/2672?pgs=2672-2673&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ALTERAR O CODIGO DO PROCEDIMENTO ADMINISTRATIVO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39824",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2672-2672"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-06-07",
+                "pubLeg": "VI",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/084/1995-06-07/2672?pgs=2672&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ALTERAR O CODIGO DO PROCEDIMENTO ADMINISTRATIVO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  MODERNIZAÇÃO ADMINISTRATIVA",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Isabel Corte-Real"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107363",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2670-2672",
+                  "2673-2673"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-06-07",
+                "pubLeg": "VI",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/084/1995-06-07/2670?pgs=2670-2672,2673&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ALTERAR O CODIGO DO PROCEDIMENTO ADMINISTRATIVO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "17:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  MODERNIZAÇÃO ADMINISTRATIVA",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Isabel Corte-Real"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107364",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2679-2680"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-06-07",
+                "pubLeg": "VI",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/084/1995-06-07/2679?pgs=2679-2680&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ALTERAR O CODIGO DO PROCEDIMENTO ADMINISTRATIVO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "94218",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "85",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-06-07",
+        "pubLeg": "VI",
+        "pubNr": "84",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/084/1995-06-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
