@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério das Finanças e do Plano, a Portaria n.º 776/84, publicada no Diário da República, 1.ª série, n.º 230, de 3 de Outubro de 1984, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 4.º, n.º 2, na 1.ª Repartição, onde se lê «, Vila Verde da Raia,» deve ler-se «, Vilarelho da Raia,», no n.º 4.º, n.º 2, na 2.ª Repartição, onde se lê «, Vilarelho da Raia,» deve ler-se «, Vila Verde da Raia,» e no mapa do quadro de pessoal, no distrito de Faro, concelho de Lagos, onde se lê «2.ª Repartição» deve ler-se «1.ª Repartição» e onde se lê «1.ª Repartição» deve ler-se «2.ª Repartição».
+Secretaria-Geral da Presidência do Conselho de Ministros, 13 de Dezembro de 1984. - O Secretário-Geral, França Martins.
