@@ -1,0 +1,5 @@
+Portaria n.º 18804
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos dos artigos 11.º, alínea g), e 16.º do Decreto n.º 35770, de 29 de Julho de 1946, que o governador-geral de Angola abra um crédito especial de 11087$09, em adicional à tabela de despesa ordinária do orçamento geral em vigor, destinado ao pagamento da pensão por acidente em serviço concedida à viúva e filhos do agente de 2.ª classe da Polícia Internacional e de Defesa do Estado da referida província Júlio Cunha, relativa ao ano de 1960, tomando como contrapartida as disponibilidades existentes na verba do capítulo 7.º, artigo 1102.º, n.º 1) «Serviços de economia e estatística - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei», da mencionada tabela de despesa.
+Ministério do Ultramar, 10 de Novembro de 1961. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Angola. - J. Costa Freitas.
