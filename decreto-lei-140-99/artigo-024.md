@@ -4,13 +4,13 @@
 
 1 - Compete ao ICN o processamento das contra-ordenações e a aplicação das coimas e das sanções acessórias nos seguintes casos:
 
-a) Na totalidade ou parte dos sítios da lista nacional de sítios, dos sítios de interesse comunitário ou das ZEC que se localizem dentro dos limites das áreas protegidas, classificadas ao abrigo do Decreto-Lei n.º 19/93, de 23 de Janeiro, ou de legislação anterior;
+a) Na totalidade ou na parte dos sítios da lista nacional referida no n.º 1 do artigo 4.º e nos sítios de interesse comunitário e nas ZEC referidos, respectivamente, nos n.os 1 e 2 do artigo 5.º que se localizem dentro dos limites das áreas protegidas classificadas ao abrigo do Decreto-Lei n.º 19/93, de 23 de Janeiro, ou de legislação anterior ou das ZPE criadas ao abrigo do Decreto-Lei n.º 75/91, de 14 de Fevereiro;
 
 b) Na totalidade ou na parte das ZPE criadas ao abrigo do presente diploma ou de legislação anterior que se localizem dentro dos limites das áreas protegidas classificadas ao abrigo do Decreto-Lei n.º 19/93, de 23 de Janeiro, ou de legislação anterior.
 
-2 - Compete às comissões de coordenação e desenvolvimento regional o processamento das contra-ordenações e a aplicação das coimas e das sanções acessórias nos seguintes casos:
+2 - Compete às direcções regionais do ambiente o processamento das contra-ordenações e a aplicação das coimas e das sanções acessórias nos seguintes casos:
 
-a) Nos sítios da lista nacional de sítios, nos sítios de interesse comunitário e nas ZEC, bem como nas ZPE não abrangidos pelas alíneas a) e b) do número anterior;
+a) Nos sítios da lista nacional referida no n.º 1 do artigo 4.º, nos sítios de interesse comunitário e nas ZEC referidos, respectivamente, nos n.os 1 e 2 do artigo 5.º e nas ZPE não abrangidos pelas alíneas a) e b) do número anterior;
 
 b) No remanescente do território nacional.
 

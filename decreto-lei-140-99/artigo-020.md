@@ -2,11 +2,11 @@
 
 ### Regime excepcional
 
-1 - Os actos e as actividades proibidos nos artigos 11.º, 12.º e 19.º ou a utilização dos meios proibidos nas alíneas a) e b) do artigo 13.º podem ser excepcionalmente permitidos, mediante licença do ICN, desde que não exista alternativa satisfatória, não seja prejudicada a manutenção das populações da espécie em causa num estado de conservação favorável, na sua área de distribuição natural, e quando o acto ou actividade vise atingir uma das seguintes finalidades:
+1 - Mediante licença do ICN, e sem prejuízo de outras autorizações previstas na legislação em vigor, podem ser excepcionalmente permitidos os actos e actividades proibidos nos artigos 11.º, 12.º e 19.º ou a utilização dos meios proibidos nas alíneas a) e b) do artigo 13.º, desde que não exista alternativa satisfatória, não seja prejudicada a manutenção das populações da espécie em causa na sua área de distribuição natural e quando o acto ou actividade vise atingir uma das seguintes finalidades:
 
 a) Proteger a flora e a fauna selvagens e conservar os habitats naturais;
 
-b) Evitar graves prejuízos, nomeadamente às culturas, à criação de gado, à apicultura, às florestas, à pesca, à caça, à aquicultura, à criação de caça em cativeiro, aos recursos hídricos e à propriedade pública e privada;
+b) Evitar graves prejuízos, nomeadamente às culturas, à criação de gado, às florestas, às zonas de pesca e de caça, às aquiculturas à criação de caça em cativeiro e às águas e a outras formas de propriedade;
 
 c) Garantir a saúde e a segurança públicas, a segurança aeronáutica ou outros interesses públicos prioritários, designadamente de carácter social ou económico;
 
@@ -16,11 +16,7 @@ e) Permitir a investigação e a educação;
 
 f) Permitir o repovoamento e a reintrodução de espécies;
 
-g) Permitir a criação de espécimes das espécies associada às acções referidas nas alíneas e) e f), incluindo a reprodução artificial de plantas, sem prejuízo do disposto na legislação em vigor;
-
-h) Permitir a taxidermia de espécimes das espécies associada às acções referidas na alínea e);
-
-i) Permitir, em condições estritamente controladas pelo ICN e de um modo selectivo, a captura em locais autorizados pelo ICN, a detenção ou qualquer outra exploração judiciosa de espécimes de espécies de aves, incluídas no âmbito do presente diploma.
+g) Permitir a criação e a taxidermia de espécimes das espécies associada às acções referidas nas alíneas e) e f), incluindo a reprodução artificial de plantas, sem prejuízo do disposto na legislação em vigor.
 
 2 - Do alvará da licença a emitir nos termos do número anterior devem constar:
 
@@ -49,5 +45,3 @@ g) Outras indicações ou limites que se julguem necessários.
 7 - Findo o período de duração das licenças, e no prazo de 30 dias a contar do seu termo, os respectivos titulares devem enviar ao ICN um relatório onde conste os contingentes de espécimes de cada espécie efectivamente capturados ou abatidos, bem como o número de ninhos ou ovos removidos ao abrigo da licença emitida, os locais de captura ou abate e os métodos utilizados.
 
 8 - A concessão de novas licenças fica dependente da apresentação do relatório referido no número anterior.
-
-9 - Sempre que estejam em causa espécies constantes do anexo D, as competências previstas nos números anteriores, desde que previstas na legislação que regula o exercício da caça, são exercidas pelos serviços do Ministério da Agricultura, Pescas e Florestas.

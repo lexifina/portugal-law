@@ -1,27 +1,23 @@
-## Secção II
-
-## Regime jurídico de conservação de habitats
-
 # Artigo 7.º
 
-### Regime das ZEC
+### Planeamento e ordenamento
 
-1 - As ZEC são sujeitas a medidas de conservação que satisfaçam as exigências ecológicas dos tipos de habitats naturais constantes do anexo B-I e das espécies constantes do anexo B-II presentes nos sítios.
+1 - A totalidade ou a parte dos sítios da lista nacional referidos no n.º 1 do artigo 4.º e os sítios de interesse comunitário e as ZEC referidos, respectivamente, nos n.os 1 e 2 do artigo 5.º, que se localizem dentro dos limites das áreas protegidas classificadas ao abrigo do Decreto-Lei n.º 19/93, de 23 de Janeiro, ou de legislação anterior, ou das ZPE, criadas ao abrigo do Decreto-Lei n.º 75/91, de 14 de Fevereiro, ficam sujeitas ao regime previsto nos respectivos diplomas de classificação ou criação da área protegida e de criação da ZPE.
 
-2 - Para evitar a deterioração dos habitats naturais e dos habitats de espécies, bem como as perturbações que atinjam espécies para as quais as ZEC foram designadas, na medida em que possam vir a ter um efeito significativo, atendendo aos objectivos do presente diploma, devem ser aprovadas as medidas adequadas, nomeadamente em matéria de:
+2 - A totalidade ou a parte das ZPE criadas ao abrigo do presente diploma que se localizem dentro dos limites das áreas protegidas classificadas ao abrigo do Decreto-Lei n.º 19/93, de 23 de Janeiro, ou de legislação anterior, ficam sujeitas ao regime previsto nos respectivos diplomas de classificação ou criação da área protegida.
 
-a) Ordenamento do território, nos termos do artigo 8.º;
+3 - Nas situações não abrangidas pelos números anteriores, os instrumentos de planeamento territorial ou outros de natureza especial, quando existam, devem conter as medidas necessárias para garantir a conservação dos habitats e das populações de espécies para as quais os referidos sítios e áreas foram designados.
 
-b) Gestão, nos termos do artigo 9.º;
+4 - Verificando-se que os instrumentos de planeamento territorial ou outros de natureza especial, quando existam, actualmente em vigor não contemplam as medidas referidas no número anterior, devem os mesmos integrá-las na primeira revisão a que sejam sujeitos.
 
-c) Avaliação de impacte ambiental e análise de incidências ambientais, nos termos do artigo 10.º;
+5 - No prazo de seis meses a contar da data de entrada em vigor do presente diploma será publicado um plano sectorial relativo à implementação da Rede Natura 2000, estabelecendo o âmbito e o enquadramento das medidas referentes à conservação das espécies da fauna, flora e habitats e tendo em conta o desenvolvimento económico e social das áreas abrangidas.
 
-d) Vigilância, nos termos do artigo 20.º-A;
+6 - O plano sectorial referido no número anterior deverá ser sujeito a um processo de consulta pública.
 
-e) Fiscalização, nos termos do artigo 21.º e demais legislação aplicável.
+7 - Para os casos previstos no n.º 4, o plano sectorial deverá prever as orientações genéricas para a introdução das medidas de conservação nos instrumentos de planeamento territorial ou de natureza especial.
 
-3 - Sem prejuízo do disposto no número anterior, podem ser definidas medidas complementares de conservação através da aprovação de:
+8 - Enquanto não ocorrer a revisão mencionada no n.º 4 e quando não existam instrumentos de planeamento territorial ou de natureza especial, ou quando estes não garantam os objectivos de conservação para a área em causa, o licenciamento ou a autorização dos actos ou actividades a que se refere o n.º 1 do artigo 8.º fica sujeito a parecer favorável do ICN.
 
-a) Planos de gestão que contemplem medidas e acções de conservação adequadas, por portaria conjunta do Ministro do Ambiente e do Ordenamento do Território e dos ministros com tutela sobre os sectores com interesses relevantes na ZEC visada, precedidos de consulta pública que segue os trâmites previstos no regime jurídico dos instrumentos de gestão territorial para os planos especiais de ordenamento do território;
+9 - Dos pareceres desfavoráveis emitidos ao abrigo do número anterior cabe recurso, no prazo de 30 dias a contar da sua notificação, para o Ministro do Ambiente.
 
-b) Outras medidas regulamentares, administrativas ou contratuais que cumpram os objectivos de conservação visados pelo presente diploma.
+10 - A competência para a emissão do parecer referido no n.º 8 poderá ser exercida pelas direcções regionais de ambiente, nos sítios da lista nacional, nos sítios de interesse comunitário, nas ZEC e nas ZPE a identificar em despacho do Ministro do Ambiente.

@@ -4,11 +4,11 @@
 
 1 - Para efeitos do presente diploma, entende-se por:
 
-a) «Conservação» o conjunto das medidas e acções necessárias para manter ou restabelecer os habitats naturais e as populações de espécies da flora e da fauna selvagens num estado favorável, conforme as alíneas f) e i);
+a) «Conservação»: o conjunto das medidas necessárias para manter ou restabelecer os habitats naturais e as populações de espécies da flora e fauna selvagens num estado favorável, conforme as alíneas f) e i);
 
 b) «Habitat de uma espécie»: o meio definido pelos factores abióticos e bióticos próprios onde essa espécie ocorre em qualquer das fases do seu ciclo biológico;
 
-c) «Habitats naturais» as áreas terrestres ou aquáticas naturais ou seminaturais que se distinguem por características geográficas abióticas e bióticas;
+c) «Habitats naturais»: as zonas terrestres ou aquáticas naturais ou seminaturais que se distinguem por características geográficas abióticas e bióticas;
 
 d) «Habitats naturais de interesse comunitário»: os habitats constantes do anexo B-I ao presente diploma e que dele faz parte integrante;
 
@@ -16,7 +16,7 @@ e) «Tipos de habitat natural prioritários»: os tipos de habitat natural amea�
 
 f) «Estado de conservação de um habitat natural»: a situação do habitat em causa em função do conjunto das influências que actuam sobre o mesmo, bem como sobre as espécies típicas que nele vivem, susceptível de afectar a longo prazo a sua distribuição natural, a sua estrutura e as suas funções, bem como a sobrevivência a longo prazo das suas espécies típicas;
 
-g) «Espécies de interesse comunitário» as espécies constantes dos anexos A-I, B-II, B-IV e B-V, bem como as espécies de aves migratórias não referidas no anexo A-I;
+g) «Espécies de interesse comunitário»: as espécies constantes dos anexos A-I e B-II ao presente diploma e que dele fazem parte integrante, bem como as espécies de aves migratórias não referidas no anexo A-I;
 
 h) «Espécies prioritárias»: as espécies indicadas a nível comunitário como tal e que se encontram assinaladas com asterisco (*) nos anexos A-I e B-II;
 
@@ -30,17 +30,13 @@ m) «Sítio de importância comunitária»: um sítio que, na ou nas regiões bi
 
 n) «Zona especial de conservação» (ZEC): um sítio de importância comunitária no território nacional em que são aplicadas as medidas necessárias para a manutenção ou o restabelecimento do estado de conservação favorável dos habitats naturais ou das populações das espécies para as quais o sítio é designado;
 
-o) «Zona de protecção especial» (ZPE) uma área de importância comunitária no território nacional em que são aplicadas as medidas necessárias para a manutenção ou restabelecimento do estado de conservação das populações de aves selvagens inscritas no anexo A-I e dos seus habitats, bem como das espécies de aves migratórias não referidas neste anexo e cuja ocorrência no território nacional seja regular;
+o) «Zona de protecção especial» (ZPE): uma área de importância comunitária no território nacional em que são aplicadas as medidas necessárias para a manutenção ou restabelecimento do estado de conservação das populações das espécies de aves selvagens inscritas no anexo A-I e dos seus habitats;
 
-p) «Análise de incidências ambientais» a avaliação prévia das incidências ambientais das acções, planos ou projectos, que incumbe à entidade competente para a decisão final ou à entidade competente para emitir parecer ao abrigo do presente diploma;
+p) «Análise de incidências ambientais»: recolha e reunião de dados tendo em vista a identificação e previsão dos efeitos, nomeadamente sobre a fauna, a flora e os habitats, decorrentes de quaisquer acções, planos ou projectos, individuais ou em conjunto, com identificação ou propostas de medidas que evitem, minimizem ou compensem esses efeitos, e que é efectuada antes de ser tomada uma decisão sobre a sua execução;
 
 q) «Animais irrecuperáveis»: animais que em virtude do seu estado de debilidade física ou de habituação ao homem não possuem condições para sobreviver pelos próprios meios no seu ambiente natural;
 
-r) «Anilhagem» a técnica de estudo biológico das espécies e populações de aves selvagens, que consiste na sua captura, marcação com uma anilha e posterior libertação;
-
-s) «Espécime comprovadamente de cativeiro» espécime animal selvagem cujos progenitores se encontrem legalmente em cativeiro, com identificação própria e insubstituível, designadamente com microchip ou anilha fechada, no caso das aves;
-
-t) «Tipos de uso agrícola e florestal» as culturas anuais de sequeiro, as culturas anuais de regadio, as culturas arbóreas/arbustivas permanentes, as florestas e os prados/pastagens.
+r) «Anilhagem»: técnica de estudo biológico das espécies e populações selvagens da fauna, que consiste na captura de animais, na sua marcação com uma anilha e posterior libertação. No caso das aves, a anilha deverá possuir uma numeração individual e a identificação do serviço competente do Instituto da Conservação da Natureza (ICN).
 
 2 - Para efeitos da alínea f) do n.º 1, o estado de conservação de um habitat natural será considerado favorável sempre que a sua área de distribuição natural e as superfícies que abranja sejam estáveis ou estejam em expansão, a estrutura e as funções específicas necessárias à manutenção a longo prazo existirem e forem susceptíveis de continuar a existir num futuro previsível e o estado de conservação das espécies típicas for favorável na acepção do n.º 3.
 
@@ -52,4 +48,4 @@ b) A área de distribuição natural dessa espécie não diminuiu nem corre o pe
 
 c) Existe e continuará provavelmente a existir um habitat suficientemente amplo para que as suas populações se mantenham a longo prazo.
 
-4 - Para as espécies animais que ocupem zonas extensas, os sítios de importância comunitária, as zonas especiais de conservação e as zonas de protecção especial definidos nas alíneas m), n) e o) do n.º 1 correspondem a locais, dentro da área de distribuição natural dessas espécies, que apresentem características físicas ou biológicas essenciais para a sua vida e reprodução.
+4 - Para as espécies animais que ocupem zonas extensas, os sítios de importância comunitária definidos na alínea m) do n.º 1 correspondem a locais, dentro da área de distribuição natural dessas espécies, que apresentem características físicas ou biológicas essenciais para a sua vida e reprodução.
