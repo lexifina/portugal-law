@@ -1,0 +1,3 @@
+Aviso n.º 237/93
+Por ordem superior se faz público que, segundo comunicação do Secretário-Geral das Nações Unidas, o Governo da Eslovénia ratificou, em 6 de Agosto de 1993, a sua sucessão referente ao Acordo Europeu Relativo ao Trabalho das Equipagens dos Veículos Ligados aos Transportes Internacionais por Estrada (AETR), concluído em Genebra em 1 de Julho de 1970, com efeitos desde 25 de Junho de 1991, data em que a Eslovénia assumiu responsabilidades pelas suas relações internacionais.
+Direcção-Geral dos Negócios Político-Económicos, 8 de Novembro de 1993. - O Director de Serviços dos Assuntos Multilaterais, António Raul Freitas Monteiro Portugal.
