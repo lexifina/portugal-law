@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 11-G/97
+Segundo comunicação do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, a Portaria n.º 394/97, publicada no Diário da República, 1.ª série, n.º 137, de 17 de Junho de 1997, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No quarto parágrafo, onde se lê «da amêijoa (Callistes chione),» deve ler-se «da ameijola (Callista chione),», no n.º 2.º, onde se lê «capitania do porto de Sines é permitida» deve ler-se «Capitania do Porto de Sines e a sul desta é permitida» e, no n.º 5.º, onde se lê «amêijoa (Callistes chione);» deve ler-se «ameijola (Callista chione);».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Junho de 1997. - O Secretário-Geral, Alexandre Figueiredo.
