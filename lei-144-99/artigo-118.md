@@ -2,7 +2,7 @@
 
 ### Competência interna para formular o pedido
 
-1 - Compete ao Ministério Público junto do tribunal de execução das penas competente, por sua iniciativa ou a requerimento da pessoa interessada, dar seguimento ao pedido de transferência.
+1 - Compete ao Ministério Público junto do tribunal que proferir a sentença, por sua iniciativa ou a requerimento da pessoa interessada, dar seguimento ao pedido de transferência.
 
 2 - O pedido é apresentado no mais curto prazo possível após o trânsito da sentença, obtido o consentimento da pessoa interessada.
 
