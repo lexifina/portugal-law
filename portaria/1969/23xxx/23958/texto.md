@@ -1,0 +1,18 @@
+Portaria n.º 23958
+Reconhecendo-se a necessidade de impulsionar o desenvolvimento dos estudos de história marítima;
+Tendo em conta o disposto no § único do artigo 2.º do Decreto-Lei n.º 42412, de 24 de Julho de 1959:
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
+1.º É criado o Grupo de Estudos de História Marítima (G. E. H. M.), que funciona na directa dependência do Ministro da Marinha e utiliza as instalações e a secretaria do concelho consultivo do Museu de Marinha.
+2.º O G. E. H. M. tem por finalidades essenciais:
+a) Promover e apoiar os estudos de história marítima, nomeadamente a portuguesa;
+b) Intensificar as relações e o intercâmbio entre os historiadores da especialidade, nacionais e estrangeiros;
+c) Colaborar com organismos de natureza afim, designadamente a Comissão Internacional de História Marítima.
+3.º O número de membros do G. E. H. M. não pode ser superior a trinta, sendo os dez primeiros nomeados por despacho do Ministro da Marinha e os restantes eleitos pelos membros em exercício.
+4.º Os trabalhos do G. E. H. M. realizam-se de acordo com programas estabelecidos anualmente.
+5.º O presidente do G. E. H. M. é eleito pelos membros em exercício e o respectivo mandato tem a duração de dois anos.
+6.º O primeiro presidente é eleito logo que pelo Ministro da Marinha sejam nomeados os dez membros a que se refere o n.º 3.º
+7.º Compete especialmente ao presidente do G. E. H. M.:
+a) Orientar os trabalhos do Grupo;
+b) Representar o Grupo, podendo corresponder-se directamente com organismos oficiais ou particulares e nacionais ou estrangeiros.
+8.º Os membros do G. E. H. M. podem utilizar o Museu de Marinha, a Biblioteca Central de Marinha e Arquivo Geral de Marinha em condições idênticas às estabelecidas para oficiais da Armada.
+Ministério da Marinha, 5 de Março de 1969. - O Ministro da Marinha, Manuel Pereira Crespo.
