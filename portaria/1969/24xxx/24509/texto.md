@@ -1,0 +1,4 @@
+Portaria n.º 24509
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com o artigo 5.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir um crédito especial, da importância de 30000000$00, destinado a reforçar a verba do capítulo 12.º, artigo 2046.º, n.º 2), alínea a) «Despesa extraordinária - Outras despesas extraordinárias - Diversos - Despesas especiais», da tabela de despesa extraordinária do orçamento geral da província de Angola para o ano de 1969, tomando como contrapartida o excesso de cobrança sobre a previsão da receita da verba do capítulo 2.º, artigo 12.º «Impostos indirectos - Imposto de produção e consumo», do orçamento da receita ordinária para o mesmo ano económico. Ministério do Ultramar, 31 de Dezembro de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de Angola. - J. da Silva Cunha.
