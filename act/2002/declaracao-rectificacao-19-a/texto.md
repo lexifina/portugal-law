@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 19-A/2002
+Para os devidos efeitos se declara que o Decreto Legislativo Regional n.º 8/2002/A, publicado no Diário da República, 1.ª série, n.º 84, de 10 de Abril de 2002, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 2 do artigo 6.º, na alínea b), onde se lê «a 75000$00 ((euro) 374,10);» deve ler-se «a (euro) 374,10;», na alínea c), onde se lê «a 75000$00 ((euro) 374,10) e inferior ou igual a 100000$00 ((euro) 498,80);» deve ler-se «a (euro) 374,10 e inferior ou igual a (euro) 498,80;» e na alínea d), onde se lê «a 100000$00 ((euro) 498,80);» deve ler-se «a (euro) 498,80;».
+Secretaria-Geral da Presidência do Conselho de Ministros, 29 de Abril de 2002. - O Secretário-Geral, Alexandre Figueiredo.
