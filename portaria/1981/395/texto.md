@@ -1,0 +1,26 @@
+Portaria n.º 395/81
+de 18 de Maio
+Tornando-se necessário que as disposições relativas às condições de ingresso na classe de engenheiros construtores navais sejam adaptadas à actual estrutura dos organismos da Marinha:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo do disposto no artigo 35.º do Estatuto do Oficial da Armada, aprovado e posto em execução pelo Decreto n.º 46960, de 14 de Abril de 1966, o seguinte:
+1.º O curso de engenheiro construtor naval é frequentado em escola superior nacional ou estrangeira que prepare os oficiais para o desempenho das funções que pertencem a essa classe.
+2.º A classificação no concurso é obtida pela média pesada das classificações das cadeiras dos cursos da Escola Naval que, com os respectivos coeficientes, forem fixadas por despacho do Chefe do Estado-Maior da Armada.
+3.º Em igualdade de classificação no concurso, são condições de preferência, pela ordem a seguir indicada:
+a) Mais tempo de navegação nos postos de segundo-tenente e guarda-marinha;
+b) Mais tempo de embarque nos mesmos postos;
+c) Menor idade.
+4.º O ordenamento dos candidatos, de acordo com os n.os 2.º e 3.º desta portaria, é realizado pela Direcção do Serviço do Pessoal e a nomeação é submetida à decisão do Chefe do Estado-Maior da Armada, por intermédio do superintendente dos Serviços do Pessoal da Armada.
+5.º A frequência do curso é antecedida de um estágio - estágio inicial - destinado à revisão de matérias de cadeiras de natureza académica e técnico-naval e ao aperfeiçoamento da língua, indispensáveis à preparação prévia dos oficiais que os vão iniciar.
+6.º A frequência do curso é seguida de um estágio - estágio final - realizado em organismos fabris ou de exploração da especialidade, nacionais ou estrangeiros, e em organismos da Marinha ou de outros departamentos do Estado. Neste estágio final poderão ser incluídos os estágios exigidos pela escola onde for frequentado o curso.
+7.º A escola onde é frequentado o curso, o grau académico a obter com a frequência desse curso, a duração do estágio inicial e a duração e programa do estágio final são fixados por despacho do Chefe do Estado-Maior da Armada, mediante proposta do superintendente dos Serviços do Pessoal da Armada, com base em informação da Superintendência dos Serviços do Material.
+8.º Do estágio final, a que se refere o n.º 6.º desta portaria, deverá ser apresentado um relatório, dentro do prazo de quinze dias após a conclusão do estágio, o qual poderá ser colectivo se os alunos tiverem trabalhado em comum. Este relatório deverá ser enviado à Direcção do Serviço de Instrução e Treino, acompanhado dos comentários do oficial designado pela Superintendência dos Serviços do Material para orientar o estágio.
+9.º A duração do curso é fixada pelo regulamento da escola onde for frequentado, mas pode ser autorizada a sua prorrogação até um ano, desde que se justifique por doença do aluno ou por outro motivo de força maior.
+10.º O acompanhamento do curso é efectuado pela Direcção do Serviço de Instrução e Treino através da 1.ª Repartição, que, para esse efeito, disporá da colaboração de um oficial, de qualificação adequada, designado pela Superintendência dos Serviços do Material.
+11.º Durante o curso e os respectivos estágios, os alunos deverão comunicar, por escrito, à Direcção do Serviço de Instrução e Treino os resultados dos exames e trabalhos práticos efectuados, comunicação que deve ser feita à medida que eles vão sendo publicados, assim como fornecer outros elementos referentes ao curso e estágios que lhes forem solicitados por aquela Direcção.
+12.º Às classificações finais, a que se refere o § 2.º do artigo 32.º do Estatuto do Oficial da Armada, serão determinadas por um júri presidido pelo director do Serviço de Instrução e Treino e tendo como vogais o chefe da 1.ª Repartição da DSIT e três oficiais propostos pela Superintendência dos Serviços do Material, no grupo dos quais deverão estar incluídos os indicados nos n.os 8.º e 10.º da presente portaria.
+13.º Para determinar as classificações finais referidas no número anterior, o júri deverá:
+a) Ter em conta a classificação do curso, se a mesma existir, a classificação do exame final, ou, ainda, a média das classificações obtidas nas cadeiras que constituírem o curso;
+b) Apreciar os elementos referentes ao estágio final, previstos no n.º 8.º desta portaria, no sentido de definir se houve ou não aproveitamento na sua frequência.
+14.º O aluno que por qualquer motivo, que não resulte de exigências do serviço da Marinha, não conclua o seu curso na época a que o mesmo respeita, para efeitos de ingresso na classe, é considerado como pertencendo ao curso a que corresponde a época em que o venha a terminar.
+15.º As cartas ou diplomas dos cursos serão apresentados na Direcção do Serviço de Instrução e Treino para efeitos de registo.
+16.º Com a presente é revogada a Portaria n.º 22185, de 26 de Agosto de 1966.
+Estado-Maior da Armada, 24 de Abril de 1981. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante.
