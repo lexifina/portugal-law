@@ -28,4 +28,4 @@ d) Relação das sociedades em cujo capital a pessoa colectiva detenha participa
 
 5 - A CMVM pode solicitar aos requerentes informações complementares que sejam necessárias para a apreciação do pedido de autorização.
 
-6 - A CMVM, antes de decidir, solicita informações ao Banco de Portugal e ao Instituto de Seguros de Portugal respeitantes à idoneidade, à disponibilidade e à experiência profissional, se aplicável, dos membros dos órgãos de administração ou de fiscalização e dos titulares de participações qualificadas, devendo aquelas entidades, se for caso disso, prestar as referidas informações no prazo de 20 dias.
+6 - A CMVM, antes de decidir, solicita informações ao Banco de Portugal e ao Instituto de Seguros de Portugal respeitantes à idoneidade, à disponibilidade e à experiência profissional, se aplicável, dos membros dos órgãos de administração ou de fiscalização e dos titulares de participações qualificadas, devendo aquelas entidades, se for caso disso, prestar as referidas informações no prazo de 10 dias.

@@ -10,7 +10,7 @@ a) Denominação e duração do fundo, bem como identificação da decisão que 
 
 b) Identificação da sociedade gestora e do depositário;
 
-c) As características dos créditos, ou das categorias homogéneas de créditos, que integrem o fundo e o regime da sua gestão, designadamente se estes serviços serão prestados pelo fundo, através da sociedade gestora ou do depositário, pelo cedente ou por terceira entidade idónea;
+c) As características dos créditos, ou das categorias homogéneas de créditos, que integram o fundo e o regime da sua gestão, designadamente se estes serviços são prestados pelo fundo, através da sociedade gestora ou do depositário, pelo cedente ou por terceira entidade idónea;
 
 d) Os direitos inerentes a cada categoria de unidades de titularização a emitir pelo fundo, nomeadamente os referidos no artigo 32.º;
 
@@ -44,4 +44,4 @@ d) Procedimentos a adoptar no caso de, por motivos excepcionais, não ser possí
 
 6 - As informações a prestar sobre as características dos créditos nunca poderão permitir a identificação dos devedores.
 
-7 - As alterações ao regulamento de gestão ficam dependentes de autorização da CMVM, incluindo nos casos em que, nos termos da alínea b) do n.º 2 do artigo 10.º, sejam realizadas novas emissões de unidades de titularização.
+7 - As alterações ao regulamento de gestão ficam dependentes de autorização da CMVM, com excepção das resultantes dos casos previstos na alínea b) do n.º 2 do artigo 10.º, as quais são objecto de mera comunicação à CMVM.

@@ -8,7 +8,7 @@
 
 1 - A constituição de fundos depende de autorização da CMVM.
 
-2 - O pedido de autorização, a apresentar pela sociedade gestora, deve ser instruído com os seguintes documentos:
+2 - O pedido de autorização a apresentar pela sociedade gestora deve ser instruído com os seguintes documentos:
 
 a) Projecto do regulamento de gestão;
 
@@ -46,6 +46,6 @@ e) O risco de insolvência inerente a cada unidade de titularização.
 
 7 - A CMVM pode solicitar à sociedade gestora os esclarecimentos e as informações complementares que repute adequados, bem como as alterações necessárias aos documentos que instruem o pedido.
 
-8 - A decisão deve ser notificada pela CMVM à requerente no prazo de 30 dias a contar da data de recepção do pedido ou, se for o caso, da recepção dos pareceres previstos no n.º 3, das informações complementares ou dos documentos alterados a que se refere o número anterior, mas em caso nenhum depois de decorridos 90 dias sobre a data de apresentação do pedido.
+8 - A decisão deve ser notificada pela CMVM à requerente no prazo de 30 dias a contar da data de recepção do pedido ou, se for o caso, da recepção dos pareceres previstos no n.º 5, das informações complementares ou dos documentos alterados a que se refere o número anterior, mas em caso nenhum depois de decorridos 90 dias sobre a data de apresentação do pedido.
 
 9 - Quando a sociedade gestora requeira que a emissão das unidades de titularização se realize por recurso a subscrição pública, a concessão de autorização implica o registo da oferta pública de subscrição.

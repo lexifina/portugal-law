@@ -12,7 +12,7 @@ c) Efectuar todas as aplicações dos activos do fundo de que a sociedade gestor
 
 d) Quando o regulamento de gestão o preveja, cobrar por conta do fundo, e de acordo com as instruções da sociedade gestora, os juros e capital dos créditos que integrem o fundo, bem como praticar todos os demais actos que se revelem adequados à boa administração dos créditos;
 
-e) Pagar aos detentores das unidades de titularização, nos termos das instruções transmitidas pela sociedade gestora, os rendimentos periódicos e proceder ao reembolso daquelas unidades de mobilização;
+e) Pagar aos detentores das unidades de titularização, nos termos das instruções transmitidas pela sociedade gestora, os rendimentos periódicos e proceder ao reembolso daquelas unidades de titularização;
 
 f) Executar todas as demais instruções que lhe sejam transmitidas pela sociedade gestora;
 
@@ -26,7 +26,7 @@ j) Assumir uma função de vigilância e garantir perante os detentores de unida
 
 2 - O depositário tem o dever de, previamente ao seu cumprimento, verificar a conformidade de todas as instruções recebidas da sociedade gestora com a lei e o regulamento de gestão.
 
-3 - O depositário pode ainda celebrar com a sociedade gestora, actuando por conta do fundo, e com observância do disposto no artigo 14.º, contratos de swap, contratos de garantia de taxa de juro ou quaisquer outros destinados a assegurar a cobertura dos riscos do fundo.
+3 - O depositário pode ainda celebrar com a sociedade gestora, actuando por conta do fundo e com observância do disposto no artigo 14.º, contratos de swap, contratos de garantia de taxa de juro ou quaisquer outros destinados a assegurar a cobertura dos riscos do fundo.
 
 4 - O depositário pode adquirir unidades de titularização dos fundos em relação aos quais exerça essas funções.
 

@@ -1,5 +1,9 @@
+## Capítulo IV
+
+## Disposições finais
+
 # Artigo 67.º
 
-### Ilícitos de mera ordenação social
+### Actividade de intermediação em valores mobiliários
 
-À violação das normas deste diploma e das da sua regulamentação compreendidas na área de competência da CMVM aplica-se o disposto no Código dos Valores Mobiliários para os ilícitos de mera ordenação social.
+A criação e administração de fundos de titularização de créditos considera-se actividade de intermediação financeira quando exercida a título profissional.

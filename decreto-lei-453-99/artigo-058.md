@@ -8,12 +8,12 @@
 
 3 - Em caso de recondução, será esta averbada no registo, a requerimento da sociedade de titularização de créditos.
 
-4 - O requerimento referido no n.º 1 deve ser acompanhado dos elementos e informações estabelecidos por regulamento da CMVM, nos termos do n.º 3 do artigo 49.º
+4 - O requerimento referido no n.º 1 deve ser acompanhado dos elementos e informações estabelecidos por regulamento da CMVM, nos termos do n.º 3 do artigo 48.º
 
-5 - A CMVM, antes de decidir, solicita informações ao Banco de Portugal e ao Instituto de Seguros de Portugal respeitantes à idoneidade, à disponibilidade e à experiência profissional dos membros dos órgãos de administração ou de fiscalização, devendo aquelas entidades, se for caso disso, prestar as referidas informações no prazo de 20 dias.
+5 - A CMVM, antes de decidir, solicita informações ao Banco de Portugal e ao Instituto de Seguros de Portugal respeitantes à idoneidade, à disponibilidade e à experiência profissional dos membros dos órgãos de administração ou de fiscalização, devendo aquelas entidades, se for caso disso, prestar as referidas informações no prazo de 10 dias.
 
 6 - A falta de idoneidade, de disponibilidade ou de experiência profissional adequada dos membros do órgão de administração ou de fiscalização é fundamento de recusa de registo.
 
 7 - A verificação superveniente da falta de idoneidade dos membros dos órgãos de administração ou de fiscalização determina o cancelamento do registo.
 
-8 - O cancelamento do registo com fundamento nos factos referidos nos n.os 5 e 6, respectivamente, será comunicado aos interessados e à sociedade de titularização de créditos, a qual tomará as medidas adequadas para que as pessoas a quem não tenham sido reconhecidas aquelas qualidades cessem imediatamente funções.
+8 - A recusa ou o cancelamento do registo com fundamento nos factos referidos nos n.ºs 6 e 7, respectivamente, são comunicados aos interessados e à sociedade de titularização de créditos, a qual deve tomar as medidas adequadas para que as pessoas a quem não tenham sido reconhecidas aquelas qualidades cessem imediatamente funções.

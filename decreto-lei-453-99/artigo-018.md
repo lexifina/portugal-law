@@ -24,4 +24,4 @@ i) Informar a CMVM, sempre que esta o solicite, sobre as aplicações referidas 
 
 j) Praticar todos os actos adequados à boa gestão dos créditos e das respectivas garantias, caso a gestão não seja assegurada pelo cedente ou por terceiro;
 
-l) Autorizar a alienação e a oneração de créditos do fundo, nos casos previstos no n.º 5 do artigo 12.º
+l) Autorizar a alienação e a oneração de créditos do fundo, nos casos previstos nos n.ºs 5 e 6 do artigo 12.º
