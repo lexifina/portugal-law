@@ -1,0 +1,11 @@
+Decreto-Lei n.º 45343
+Considerando que os efectivos da Guarda Nacional Republicana vêm sendo sucessivamente aumentados após a publicação do Decreto-Lei n.º 33905, de 2 de Setembro de 1944;
+Considerando o extraordinário grau de desenvolvimento atingido pela Secção de Fardamento da Guarda Nacional Republicana em satisfação de todas as necessidades do pessoal em serviço nesta corporação, no que respeita a fardamentos e calçado;
+Considerando a imperiosa necessidade da existência de um órgão técnico que oriente e fiscalize este serviço;
+Considerando que, pelas razões expostas e, ainda, pela conveniência de assegurar maior continuidade às funções de chefia no Serviço de Fardamento, se torna necessário que estas sejam confiadas a um major ou tenente-coronel do serviço de administração militar;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É substituída a Secção de Fardamento constante do quadro orgânico do Comando-Geral da Guarda Nacional Republicana, anexo ao Decreto-Lei n.º 33905, de 2 de Setembro de 1944, pelo Serviço de Fardamento.
+Art. 2.º A chefia do Serviço de Fardamento compete a um major ou tenente-coronel do serviço de administração militar.
+Art. 3.º Os encargos resultantes deste decreto-lei serão suportados no corrente ano económico pelas disponibilidades das dotações inscritas no n.º 1) do artigo 92.º, capítulo 7.º, do actual orçamento do Ministério do Interior.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 7 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença.
