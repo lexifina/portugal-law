@@ -1,0 +1,471 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11294",
+  "numero": "93",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2004-06-18",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.Audiencias",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2005-04-27",
+            "entidades": null,
+            "id": "80810",
+            "tipo": null,
+            "titulo": "Audição em 2005-04-27 com Peticionários da Petição nº 93/IX/2ª - FENPROF - Federação Nacional dos Professores"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2005-05-03",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2005-05-03",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2005-05-06",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "250",
+        "Legislatura": "X",
+        "Nome": "Comissão de Educação, Ciência e Cultura (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2005-04-12",
+            "gp": "PSD",
+            "id": "2065",
+            "motivoCessacao": null,
+            "nome": "Agostinho Branquinho"
+          }
+        ],
+        "RelatorioFinal": [
+          "21917"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da IX Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2004-07-07",
+        "DataArquivo": "2005-05-03",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": "2004-07-07",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2004-06-18",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764e3056445179394562324e31625756756447397a5547563061574e68627938355a574a68595467774d4330324e575a6b4c54526b4d7a497459574d775953307a597a67334e5746684f4455334e5745756347526d&fich=9ebaa800-65fd-4d32-ac0a-3c875aa8575a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "108",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE EDUCAÇÃO, CIÊNCIA E CULTURA",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Educação, Ciência e Cultura (pré RAR) da X Legislatura."
+      }
+    ],
+    "DataDebate": "2006-06-09",
+    "Documentos": [
+      {
+        "DataDocumento": "2004-06-18",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d764e4459315a474a6d4e474d744f4441334e433030593249324c5467324e4745744e3251794d6d5a6c4e474d314d6d4a6c4c6e426b5a673d3d&fich=465dbf4c-8074-4cb6-864a-7d22fe4c52be.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2006-06-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161835",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6154-6155"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-12",
+                "pubLeg": "X",
+                "pubNr": "134",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6154?pgs=6154-6155&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à Assembleia da República que discuta a adopção de medidas que respondam à necessidade de valorização da escola pública e de elevação das qualificações dos portugueses e que contribuam para a implementação de políticas activas de emprego",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2006-06-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161836",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6155-6155"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-12",
+                "pubLeg": "X",
+                "pubNr": "134",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6155?pgs=6155&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à Assembleia da República que discuta a adopção de medidas que respondam à necessidade de valorização da escola pública e de elevação das qualificações dos portugueses e que contribuam para a implementação de políticas activas de emprego",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2006-06-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161837",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6156-6156"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-12",
+                "pubLeg": "X",
+                "pubNr": "134",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6156?pgs=6156&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à Assembleia da República que discuta a adopção de medidas que respondam à necessidade de valorização da escola pública e de elevação das qualificações dos portugueses e que contribuam para a implementação de políticas activas de emprego",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2006-06-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161838",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6156-6157"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-12",
+                "pubLeg": "X",
+                "pubNr": "134",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6156?pgs=6156-6157&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à Assembleia da República que discuta a adopção de medidas que respondam à necessidade de valorização da escola pública e de elevação das qualificações dos portugueses e que contribuam para a implementação de políticas activas de emprego",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2006-06-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161839",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6157-6158"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-12",
+                "pubLeg": "X",
+                "pubNr": "134",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6157?pgs=6157-6158&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à Assembleia da República que discuta a adopção de medidas que respondam à necessidade de valorização da escola pública e de elevação das qualificações dos portugueses e que contribuam para a implementação de políticas activas de emprego",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2006-06-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "161840",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6158-6159"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2006-06-12",
+                "pubLeg": "X",
+                "pubNr": "134",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6158?pgs=6158-6159&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à Assembleia da República que discuta a adopção de medidas que respondam à necessidade de valorização da escola pública e de elevação das qualificações dos portugueses e que contribuam para a implementação de políticas activas de emprego",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11294",
+    "PetAssunto": "Solicitam que a Assembleia da República discuta a adopção de medidas que respondam a necessidade de valorização da escola pública e de elevação das qualificações dos portugueses e que contribuam para a implementação de políticas activas de emprego.",
+    "PetDataEntrada": "2004-06-18",
+    "PeticoesAssociadas": null,
+    "PetId": "11294",
+    "PetLeg": "IX",
+    "PetNr": "93",
+    "PetNrAssinaturas": "20000",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "195",
+        "obs": null,
+        "pag": [
+          "6154-6159"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-06-12",
+        "pubLeg": "X",
+        "pubNr": "134",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/134/2006-06-12/6154?pgs=6154-6159&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "291875",
+        "obs": null,
+        "pag": [
+          "191-191"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-07-31",
+        "pubLeg": "IX",
+        "pubNr": "37",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/02/037/2004-07-31/191?pgs=191&org=PLC"
+      }
+    ]
+  }
+}
