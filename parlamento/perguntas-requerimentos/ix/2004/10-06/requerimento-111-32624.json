@@ -1,0 +1,98 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ktYqpeS%2ft%2bZbliS4sHhftatFgOONJZv%2b0jwNSKIew1t0xo7wpSD4Wuod7wOpHm6JnVumY%2fcLg1QEJ6QuXOoI0mCZg8Now%2fNFrlqr4xaPyukQAb7VOIDJycUu8LgcqeBWkrLalvQbJNVVjYrmyeKurhYgJ88b%2bTAHUhqae0PG2tWw6wd9S%2fB1oSkkszdy9OWFhN3wUjxq5HmVweG9RQH09rl4k2N5tPgs%2fzprZm2tzFHnHSctshbR2DfX7RwTBfcB1zHFUq7rfF1ywAQTHCnkTEnmy8XmgIMFNpTZggbLiolv7UH6aQ9wXzrJpNDVBZQItckByiVODO72lKf0LysofiwVHTL6an5RgmBfpD1TjRRanKSw%2fu9%2bMNyeFb2ozzbOeEiwgdJpFNYQkXLYkgJujw%3d%3d&fich=RequerimentosIX_json.txt&Inline=true",
+  "ficheiro_sha256": "234acc6bf0a22a14e4ad1370daea559258a1b7960a20d3feebcabf91a9366690",
+  "legislatura": "IX",
+  "id": "32624",
+  "tipo": "Requerimento",
+  "numero": "111",
+  "data_registo": "2004-10-06",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Eixo Ferroviário Norte/Sul. Ligação Setúbal/Lisboa",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "1711",
+        "nome": "Alberto Antunes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1212",
+        "nome": "Ana Catarina Mendonça"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1987",
+        "nome": "Eduardo Cabrita"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "722",
+        "nome": "Paulo Pedroso"
+      }
+    ],
+    "DataEnvio": "2004-10-08",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2004-10-08",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DAS OBRAS PÚBLICAS, TRANSPORTES E HABITAÇÃO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2004-11-19",
+            "docRemetida": null,
+            "entidade": "MIN.  DAS OBRAS PÚBLICAS, TRANSPORTES E COMUNICAÇÕES",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e52766379387a553077764d7a49345a444e6d4d546b744f446c6c4e533030596d566c4c574930596a4d744f4746694f544d79597a67795a474e6d4c6e426b5a673d3d&fich=328d3f19-89e5-4bee-b4b3-8ab932c82dcf.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2004-10-06",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e52766379387a553077764f54686859325a6d4e5459744d5755324e6930304d546c6d4c5749324d6d45744f544e684d6a466b4e4459354f47597a4c6e426b5a673d3d&fich=98acff56-1e66-419f-b62a-93a21d4698f3.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "32624",
+    "Legislatura": "IX",
+    "Nr": "111",
+    "Observacoes": "Coina; Pinhal Novo; Fogueteiro",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "297502",
+        "obs": null,
+        "pag": [
+          "46-47"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2004",
+        "pubLeg": "IX",
+        "pubNr": "7",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/03/007S1/2004-11-20/46?pgs=46-47&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Requerimento"
+  }
+}
