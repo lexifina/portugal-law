@@ -1,0 +1,13 @@
+Declaração
+Declara-se, para os devidos efeitos, que entre o original arquivado nesta Secretaria-Geral e o texto do Decreto-Lei n.º 292/71, publicado pelo Ministério das Finanças, Direcção-Geral da Contabilidade Pública, no Diário do Governo, 1.ª série, n.º 159, de 8 de Julho, existe a seguinte divergência, que assim se rectifica:
+No artigo 2.º, onde se lê:
+...
+Encargos Gerais da Nação
+Capítulo 8.º «...»:
+Artigo 152.º, n.º 1) «...» ...
+deve ler-se:
+...
+Encargos Gerais da Nação
+Capítulo 8.º «...»:
+Artigo 142.º, n.º 1) «...» ...
+Secretaria-Geral da Presidência do Conselho, 14 de Julho de 1971. - O Secretário-Geral, Diogo de Paiva Brandão.
