@@ -7,3 +7,5 @@ Os governadores civis são isentos de imposto de prestação de trabalho e de qu
 § 2.º Os oficiais do exército ou da armada em exercício das funções de governador civil usarão, abaixo dos galões, duas estrêlas do modêlo adoptado para oficiais em serviço na polícia de segurança pública.
 
 § 3.º Os governadores civis têm direito a utilizar automóveis do Estado de 2.ª categoria e os dos distritos de Lisboa e do Porto podem escolher para secretário um funcionário do quadro do respectivo governo civil de categoria não superior à de segundo-oficial.
+
+§ 4.º O exercício das funções de governador civil e de vice-governador civil é incompatível com o desempenho de qualquer outro cargo público ou da advocacia, arquitectura, engenharia ou ainda da actividade de empreiteiro de obras públicas na área do respectivo governo civil.

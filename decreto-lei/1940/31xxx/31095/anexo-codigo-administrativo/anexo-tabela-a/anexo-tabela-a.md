@@ -4,11 +4,13 @@
 
 I
 
-Ordenados dos governadores civis
+Ordenados dos governadores civis e vice-governadores civis
 
 (ver documento original)
 
-Os governadores civis dos distritos de Lisboa e Pôrto têm direito a 6.000$00 anuais para despesas de representação.
+Os governadores e vice-governadores civis dos distritos de Lisboa e do Porto e os dos outros distritos do continente têm direito aos subsídios mensais de 5000$00 e 3000$00, respectivamente, para despesas de representação.
+
+Quando o exercício do cargo obrigue o governador civil, o vice-governador civil ou ambos a mudança de residência, e esta não seja facultada em edifício público, abonar-se-á o subsídio mensal de habitação de 5000$00. O direito ao subsídio será reconhecido por despacho do Ministro da Administração Interna.
 
 Ordenados e subsídios para despesas de representação dos presidentes das câmaras municipais
 

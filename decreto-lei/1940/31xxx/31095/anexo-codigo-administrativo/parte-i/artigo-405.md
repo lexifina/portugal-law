@@ -1,17 +1,7 @@
 # Artigo 405.º
 
-Só pode ser nomeado governador civil o cidadão português originário, no gôzo dos seus direitos civis e políticos, compreendido nalguma das seguintes categorias:
+Nos distritos de Lisboa e do Porto, e nos restantes, quando assim for resolvido pelo Conselho de Ministros, não haverá governador civil substituto, mas sim vice-governador civil.
 
-1.ª Diplomados com um curso superior;
+§ 1.º Os vice-governadores civis exercem as funções que lhes forem atribuídas na portaria de nomeação e as que neles forem delegadas pelo respectivo governador civil por despacho tornado público.
 
-2.ª Funcionários civis com categoria igual ou superior à de chefe de repartição;
-
-3.ª Oficiais do exército ou da armada com patente não inferior a capitão ou primeiro tenente;
-
-4.ª Antigos governadores civis;
-
-5.ª Antigos presidentes de câmara;
-
-6.º Antigos vereadores ou membros de juntas de província ou distritais que tenham exercido o mandato durante quatro anos, pelo menos.
-
-§ único. O cargo de governador civil é incompatível com o exercício de qualquer outro cargo público ou da advocacia.
+§ 2.º Aos vice-governadores civis são aplicáveis, com as devidas adaptações, quando necessário, as disposições legais relativas ao exercício das funções de governador civil, incluindo as respeitantes a isenções, regalias, honras e garantias.
