@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1924/04/09400/05840584.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1924-04-29",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "4c189345d958d012cc662ee0137d66c2bce1fc2408c81b81a9c0585654353ae1",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.9,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "028a713ef88917d4571f9f3c28c7fcf288b8f8ce652a5ca6e1f87163be902b5d",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 153
 }
