@@ -1,0 +1,6 @@
+Declaração
+Para os devidos efeitos se declara que, atendendo à conveniência de facilitar as trocas internacionais, bem como à de eliminar a dupla tributação que resultaria da incidência de taxas sobre o queijo fundido em cujo fabrico são utilizadas matérias-primas em relação às quais já foram cobradas as taxas devidas à Junta Nacional dos Produtos Pecuários, o Secretário de Estado do Comércio, por despacho de 25 do corrente, determinou o seguinte:
+1.º As taxas relativas aos queijos de leite de vaca, fixadas por despacho de 22 de Junho de 1945, publicado no Diário do Governo n.º 147, 1.ª série, de 3 de Julho do mesmo ano, por força do artigo 20.º do Decreto-Lei n.º 39749, de 13 de Julho de 1939, e que constituem receita da Junta Nacional dos Produtos Pecuários, passam a incidir sòmente sobre os queijos de fabricação nacional e na parte destinada ao consumo interno.
+2.º Ficam isentos de taxa os queijos fundidos quando a matéria-prima utilizada no seu fabrico já tenha sido onerada com a taxa devida.
+3.º A Junta Nacional dos Produtos Pecuários estabelecerá o método de cobrança adequado ao cumprimento do disposto no presente despacho.
+Comissão de Coordenação Económica, 29 de Julho de 1964. - O Presidente, António Carlos Fezas Vital.
