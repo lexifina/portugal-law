@@ -1,0 +1,783 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "56",
+    "id": "19633",
+    "titulo": "Autoriza o Governo a aprovar o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Municipal sobre as transmissões onerosas de imóveis, a alterar o Estatuto dos Benefícios Fiscais, o Código do IRS, o Código do IRC, o Código do Imposto do Selo, e a revogar o Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, o Código da Contribuição Autárquica e o Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2003-06-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2598",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2003-06-11",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-06-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DE ESTADO E DAS FINANÇAS",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Manuela Ferreira Leite"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145843",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5535-5539"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-12",
+                "pubLeg": "IX",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/133/2003-06-12/5535?pgs=5535-5539&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, a alterar o Estatuto dos Benefícios Fiscais, o Código do IRS, o Código do IRC e o Código do Imposto do Selo e a revogar o Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, o Código da Contribuição Autárquica e o Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145844",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5536-5537",
+                  "5543-5546"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-12",
+                "pubLeg": "IX",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/133/2003-06-12/5536?pgs=5536-5537,5543-5546&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, a alterar o Estatuto dos Benefícios Fiscais, o Código do IRS, o Código do IRC e o Código do Imposto do Selo e a revogar o Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, o Código da Contribuição Autárquica e o Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "428",
+                "nome": "Fernando Serrasqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145845",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5537-5537"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-12",
+                "pubLeg": "IX",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/133/2003-06-12/5537?pgs=5537&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, a alterar o Estatuto dos Benefícios Fiscais, o Código do IRS, o Código do IRC e o Código do Imposto do Selo e a revogar o Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, o Código da Contribuição Autárquica e o Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145846",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5538-5538"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-12",
+                "pubLeg": "IX",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/133/2003-06-12/5538?pgs=5538&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, a alterar o Estatuto dos Benefícios Fiscais, o Código do IRS, o Código do IRC e o Código do Imposto do Selo e a revogar o Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, o Código da Contribuição Autárquica e o Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145847",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5539-5539",
+                  "5542-5543"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-12",
+                "pubLeg": "IX",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/133/2003-06-12/5539?pgs=5539,5542-5543&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, a alterar o Estatuto dos Benefícios Fiscais, o Código do IRS, o Código do IRC e o Código do Imposto do Selo e a revogar o Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, o Código da Contribuição Autárquica e o Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2010",
+                "nome": "Ascenso Simões"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145848",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5539-5540"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-12",
+                "pubLeg": "IX",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/133/2003-06-12/5539?pgs=5539-5540&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, a alterar o Estatuto dos Benefícios Fiscais, o Código do IRS, o Código do IRC e o Código do Imposto do Selo e a revogar o Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, o Código da Contribuição Autárquica e o Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Marques Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145849",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5540-5541"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-12",
+                "pubLeg": "IX",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/133/2003-06-12/5540?pgs=5540-5541&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, a alterar o Estatuto dos Benefícios Fiscais, o Código do IRS, o Código do IRC e o Código do Imposto do Selo e a revogar o Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, o Código da Contribuição Autárquica e o Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Marques Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145850",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5541-5543"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-12",
+                "pubLeg": "IX",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/133/2003-06-12/5541?pgs=5541-5543&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, a alterar o Estatuto dos Benefícios Fiscais, o Código do IRS, o Código do IRC e o Código do Imposto do Selo e a revogar o Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, o Código da Contribuição Autárquica e o Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5542-5542"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-12",
+                "pubLeg": "IX",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/133/2003-06-12/5542?pgs=5542&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Municipal sobre as transmissões onerosas de imóveis, a alterar o Estatuto dos Benefícios Fiscais, o Código do IRS, o Código do IRC, o Código do Imposto do Selo, e a revogar o Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, o Código da Contribuição Autárquica e o Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1687",
+                "nome": "Jorge Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145852",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5545-5545"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-12",
+                "pubLeg": "IX",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/133/2003-06-12/5545?pgs=5545&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, a alterar o Estatuto dos Benefícios Fiscais, o Código do IRS, o Código do IRC e o Código do Imposto do Selo e a revogar o Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, o Código da Contribuição Autárquica e o Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145853",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5546-5548"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-12",
+                "pubLeg": "IX",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/133/2003-06-12/5546?pgs=5546-5548&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, a alterar o Estatuto dos Benefícios Fiscais, o Código do IRS, o Código do IRC e o Código do Imposto do Selo e a revogar o Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, o Código da Contribuição Autárquica e o Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145854",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5548-5549"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-12",
+                "pubLeg": "IX",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/133/2003-06-12/5548?pgs=5548-5549&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, a alterar o Estatuto dos Benefícios Fiscais, o Código do IRS, o Código do IRC e o Código do Imposto do Selo e a revogar o Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, o Código da Contribuição Autárquica e o Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1153",
+                "nome": "José Augusto Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145855",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5549-5550"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-12",
+                "pubLeg": "IX",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/133/2003-06-12/5549?pgs=5549-5550&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, a alterar o Estatuto dos Benefícios Fiscais, o Código do IRS, o Código do IRC e o Código do Imposto do Selo e a revogar o Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, o Código da Contribuição Autárquica e o Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145856",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5550-5552"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-12",
+                "pubLeg": "IX",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/133/2003-06-12/5550?pgs=5550-5552&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, a alterar o Estatuto dos Benefícios Fiscais, o Código do IRS, o Código do IRC e o Código do Imposto do Selo e a revogar o Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, o Código da Contribuição Autárquica e o Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "195",
+                "nome": "Leonor Coutinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145857",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5552-5552"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-12",
+                "pubLeg": "IX",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/133/2003-06-12/5552?pgs=5552&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, a alterar o Estatuto dos Benefícios Fiscais, o Código do IRS, o Código do IRC e o Código do Imposto do Selo e a revogar o Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, o Código da Contribuição Autárquica e o Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "156951",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2598",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-06-12",
+        "pubLeg": "IX",
+        "pubNr": "133",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/133/2003-06-12?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
