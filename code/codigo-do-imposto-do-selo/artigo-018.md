@@ -8,10 +8,8 @@
 
 # Artigo 18.º
 
-### Declaração anual
+### Avaliação indirecta
 
-1 - Os sujeitos passivos do imposto ou os seus representantes legais são obrigados a apresentar anualmente declaração discriminativa do imposto do selo liquidado.
+1 - O valor dos estabelecimentos comerciais, industriais ou agrícolas obrigados a possuir contabilidade organizada e das sociedades comerciais que não sejam por acções, sempre que se verifique uma das situações previstas no artigo 88.º da LGT, é determinado pela aplicação dos factores previstos no n.º 2 do artigo 16.º do presente Código, aplicáveis a um rendimento presumido para esse efeito, se ainda o não tiver sido para efeitos da tributação sobre o rendimento, com base nos elementos previstos no artigo 90.º da mesma lei.
 
-2 - A declaração a que se refere o número anterior é de modelo oficial e constitui um anexo à declaração anual de informação contabilística e fiscal prevista no artigo 96.º-A do Código do IRC e no artigo 105.º-A do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS), devendo ser apresentada nos prazos aí previstos.
-
-3 - Sempre que aos serviços da administração fiscal se suscitem dúvidas sobre quaisquer elementos constantes das declarações, notificarão os contribuintes para prestarem por escrito, no prazo que lhes for fixado, nunca inferior a 10 dias, os esclarecimentos necessários.
+2 - O disposto no número anterior é igualmente aplicável aos estabelecimentos comerciais, industriais ou agrícolas e aos espaços previstos no artigo 17.º que não sejam obrigados a possuir contabilidade organizada e que, nos três exercícios anteriores ao da transmissão já apurados, apresentem uma média negativa de rendimento tributável para efeitos de IRS.

@@ -4,32 +4,14 @@
 
 # Artigo 13.º
 
-### Nascimento da obrigação tributária
+### Valor tributável dos bens imóveis
 
-Para efeitos das obrigações previstas no presente capítulo, a obrigação tributária considera-se constituída:
+1 - O valor dos imóveis é o valor patrimonial tributário constante da matriz nos termos do CIMI à data da transmissão ou o determinado por avaliação nos casos de prédios omissos ou inscritos sem valor patrimonial.
 
-a) Nos actos e contratos, no momento da assinatura pelos outorgantes;
+2 - No caso de imóveis e direitos sobre eles incidentes cujo valor não seja determinado por aplicação do disposto neste artigo e no caso do artigo 14.º do CIMT, é o valor declarado ou o resultante de avaliação, consoante o que for maior.
 
-b) Nas apólices de seguros, no momento da cobrança dos prémios;
+3 - Se os bens forem expropriados por utilidade pública antes da liquidação, o seu valor será o montante da indemnização.
 
-c) Nos cheques editados por instituições de crédito domiciliadas em território nacional, no momento da recepção de cada impressão;
+4 - Na determinação dos valores patrimoniais tributários de bens imóveis ou de figuras parcelares do direito de propriedade, observam-se as regras previstas no CIMT para as transmissões onerosas.
 
-d) Nos documentos expedidos ou passados fora do território nacional, no momento em que forem apresentados em Portugal junto de quaisquer entidades;
-
-e) Nas letras emitidas no estrangeiro, no momento em que forem aceites, endossadas ou apresentadas a pagamento em território nacional;
-
-f) Nas letras e livranças em branco, no momento em que possam ser preenchidas nos termos da respectiva convenção de preenchimento;
-
-g) Nas operações de crédito, no momento em que forem realizadas; se o crédito for utilizado sob a forma de conta corrente, descoberto bancário ou qualquer outro meio em que o prazo não seja determinado nem determinável, no último dia de cada mês;
-
-h) Nas operações realizadas por ou com intermediação de instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas, no momento da cobrança dos juros, prémios, comissões e outras contraprestações, considerando-se efectivamente cobrados, sem prejuízo do disposto no n.º 1 do artigo 34.º, os juros e comissões debitados em contas correntes à ordem de quem a eles tiver direito;
-
-i) Nos testamentos públicos, no momento em que forem efectuados, e nos testamentos cerrados ou internacionais, no momento da aprovação e abertura;
-
-j) Nos livros, antes da sua utilização, salvo se forem utilizadas folhas avulsas escrituradas por sistema informático ou semelhante para utilização ulterior sob a forma de livro, caso em que o imposto se considera devido nos 60 dias seguintes ao termo do ano económico ou da cessação da actividade;
-
-l) Sem prejuízo do disposto na alínea seguinte, nos restantes casos, na data da emissão dos documentos, títulos e papéis ou da ocorrência dos factos;
-
-m) Nos empréstimos efectuados pelos sócios às sociedades em que seja estipulado prazo não inferior a um ano e sejam reembolsados antes desse prazo, no momento do reembolso;
-
-n) Em caso de actos, contratos, documentos, títulos, livros, papéis e outros factos previstos na Tabela anexa ao presente Código em que não intervenham a qualquer título pessoas colectivas ou pessoas singulares no exercício de actividade de comércio, indústria ou prestação de serviços, quando forem apresentados perante qualquer entidade pública.
+5 - No prazo para a apresentação da participação a que se refere o artigo 26.º, podem os interessados requerer a avaliação de imóveis nos termos e para os efeitos previstos no artigo 30.º do CIMT.

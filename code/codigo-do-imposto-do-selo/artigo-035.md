@@ -1,11 +1,9 @@
 # Artigo 35.º
 
-### Compensação do imposto
+### Suspensão do processo por exigência de dívidas activas
 
-1 - Se depois de efectuada a liquidação do imposto pelas entidades referidas nas alíneas a) a e) do artigo 14.º for anulada a operação ou reduzido o seu valor tributável em consequência de erro ou invalidade, as entidades poderão efectuar a compensação do imposto liquidado e pago até à concorrência das liquidações e entregas seguintes relativas ao mesmo número ou ponto da Tabela Geral.
+1 - As pessoas referidas no artigo anterior também podem requerer a suspensão do processo de liquidação, nos termos nele previstos, quando penda acção judicial a exigir dívidas activas pertencentes à herança ou doação ou quando tenha corrido ou esteja pendente processo de insolvência ou de falência contra os devedores.
 
-2 - No caso de erros materiais ou de cálculo do imposto liquidado e entregue, a correcção, pelas entidades referidas no número anterior, poderá ser efectuada por compensação nas entregas seguintes.
+2 - Enquanto durar o processo, os requerentes da suspensão devem apresentar nova certidão do seu estado, no mês de Janeiro de cada ano.
 
-3 - A compensação do imposto referida nos números anteriores deve ser efectuada no prazo de um ano, contado a partir da data em que o imposto se torna devido.
-
-4 - A compensação do imposto só poderá ser efectuada se devidamente evidenciada na contabilidade, nos termos da alínea e) do n.º 3 do artigo 19.º
+3 - À medida que as dívidas activas forem sendo recebidas, em parte ou na totalidade, os responsáveis pelo imposto devem declarar o facto no serviço de finanças competente, dentro dos 30 dias seguintes, a fim de se proceder à respectiva liquidação.

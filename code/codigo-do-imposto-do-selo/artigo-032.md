@@ -4,6 +4,10 @@
 
 # Artigo 32.º
 
-### Garantias dos contribuintes
+### Certidão do valor patrimonial tributário
 
-Às garantias dos contribuintes aplicam-se, conforme a natureza das matérias, a Lei Geral Tributária e o Código do Processo Tributário.
+1 - O chefe de finanças deve juntar ao processo de liquidação a certidão do valor patrimonial tributário dos prédios ou documento equivalente extraído do sistema informático.
+
+2 - Havendo prédios omissos na matriz ou nela inscritos sem valor patrimonial tributário, procede-se, quanto a eles, nos termos do artigo 14.º do CIMT.
+
+3 - Sempre que se verifique qualquer das hipóteses previstas no n.º 1 do artigo 28.º do CIMT, procede-se à discriminação do valor patrimonial tributário de todo o prédio ou de toda a parcela, com observância do disposto no n.º 2 daquele artigo.

@@ -1,5 +1,11 @@
 # Artigo 22.º
 
-### Elaboração de questionários
+### Taxas
 
-Os serviços da administração fiscal poderão enviar às pessoas singulares ou colectivas e serviços públicos questionários quanto a dados e factos de carácter específico relevantes para o controlo do imposto, que devem ser devolvidos, depois de preenchidos e assinados, no prazo que lhes for assinalado, o qual não poderá ser inferior a 10 dias úteis.
+1 - As taxas do imposto são as constantes da Tabela anexa, em vigor no momento em que o imposto é devido.
+
+2 - Não haverá acumulação de taxas do imposto relativamente ao mesmo acto ou documento.
+
+3 - Quando mais de uma taxa estiver prevista, aplica-se a maior.
+
+4 - O disposto nos n.os 2 e 3 não se aplica às situações previstas nas verbas n.os 1.1 e 1.2 da Tabela anexa.
