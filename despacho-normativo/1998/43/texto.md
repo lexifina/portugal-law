@@ -1,0 +1,8 @@
+Despacho Normativo n.º 43/98
+O Decreto-Lei n.º 177/94, de 27 de Junho, que criou o Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa - PEDIP II, integra o Sistema de Incentivos à Engenharia Financeira para Apoio às Empresas (SINFEPEDIP), regulamentado pelo Despacho Normativo n.º 562/94 (IIDG05), de 29 de Julho, no qual se insere o Regime de Apoio à Dinamização do Capital de Risco, regulamentado pelo Despacho Normativo n.º 563/94 (IIDE0501), de 29 de Julho.
+Em conformidade com o disposto no n.º 3 do artigo 8.º do atrás citado Despacho Normativo n.º 563/94, o Despacho Normativo n.º 571/94 (IIDE050102), de 29 de Julho, definiu os limites de intervenção das sociedades de capital de risco em resultado das acções referidas naquele diploma, estabelecendo, no seu n.º 2, que os investimentos superiores a 50000 contos, sempre que promovidos por sociedades de capital de risco que não sejam maioritariamente privadas, devem ser efectuados em consórcio.
+No entanto, a necessidade de tornar mais exequível a concretização, por parte daquelas sociedades, de operações respeitantes a investimentos com custos relativamente elevados de prospecção, análise e acompanhamento, aconselha a que o limite então fixado seja alargado.
+Assim, determina-se:
+O n.º 2 do Despacho Normativo n.º 571/94 (IIDE050102), de 29 de Julho, passa a ter a seguinte redacção:
+«2 - Os investimentos superiores a 150000 contos, sempre que promovidos por sociedades de capital de risco que não sejam maioritariamente privadas, devem ser efectuados em consórcio.»
+Ministério da Economia, 12 de Maio de 1998. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura.
