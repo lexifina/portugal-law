@@ -1,0 +1,8 @@
+Despacho conjunto
+A Empresa de Pesca de Viana, S. A. R. L., com sede e domicílio em Viana do Castelo, tem por objecto a exploração da indústria de pesca em geral e nomeadamente a pesca do bacalhau, empregando actualmente cerca de 600 trabalhadores.
+Alertado o Governo, através da respectiva comissão de trabalhadores, para a caótica situação financeira desta Empresa, chegou-se à conclusão de que não sendo tomadas medidas urgentes de carácter reorganizativo e financeiro se verá a curto prazo na circunstância de ter de interromper a sua actividade.
+Face ao exposto, e porque os pressupostos para a intervenção estatal referidos nas alíneas a), b) e d) do n.º 2 do artigo 1.º do Decreto-Lei n.º 660/74, de 25 de Novembro, se configuram na situação emergente, os Ministros das Finanças e da Agricultura e Pescas determinam, nos termos gerais do Decreto-Lei n.º 597/75, de 28 de Outubro, e em particular dos seus artigos 1.º e 3.º, o seguinte:
+1. A suspensão da actual administração da empresa e demais órgãos sociais.
+2. A constituição de uma comissão de gestão integrada por três elementos a nomear oportunamente, a qual, para além do exercício dos seus poderes legais de administração, deverá proceder de imediato ao estudo dos problemas técnicos e financeiros que afectam a Empresa, visando a maximização da produção e o indispensável saneamento económico.
+3. É ordenado um inquérito imediato à Empresa de Pesca de Viana, em cumprimento do disposto no n.º 1 do artigo 3.º do Decreto-Lei n.º 597/75, de 28 de Outubro.
+Ministérios das Finanças e da Agricultura e Pescas, 27 de Janeiro de 1976. - O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro da Agricultura e Pescas, António Poppe Lopes Cardoso.
