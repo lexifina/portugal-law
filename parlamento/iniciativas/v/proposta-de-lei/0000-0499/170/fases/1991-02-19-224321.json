@@ -1,0 +1,883 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "170",
+    "id": "29110",
+    "titulo": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1991-02-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4870",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1991-02-19",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1991-02-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  PRESIDÊNCIA E DEFESA NACIONAL",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Fernando Nogueira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159139",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1428-1430",
+                  "1432-1434"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1428?pgs=1428-1430,1432-1434&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159140",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1430-1431"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1430?pgs=1430-1431&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159141",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1431-1431"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1431?pgs=1431&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159142",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1431-1431"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1431?pgs=1431&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159143",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1431-1432"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1431?pgs=1431-1432&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159144",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1432-1432"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1432?pgs=1432&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159145",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1432-1432"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1432?pgs=1432&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159146",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1434-1437"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1434?pgs=1434-1437&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159147",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1437-1440"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1437?pgs=1437-1440&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159148",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1440-1440",
+                  "1442-1442"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1440?pgs=1440,1442&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159149",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1441-1442"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1441?pgs=1441-1442&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159150",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1442-1442"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1442?pgs=1442&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159151",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1442-1442"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1442?pgs=1442&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159152",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1442-1442"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1442?pgs=1442&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1442-1444"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1442?pgs=1442-1444&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159154",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1444-1445"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1444?pgs=1444-1445&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1446-1447"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1446?pgs=1446-1447&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159156",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1447-1447"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1447?pgs=1447&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159157",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1447-1448"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-20",
+                "pubLeg": "V",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20/1447?pgs=1447-1448&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei do serviço militar - Lei nº 30/87, de 7 de Julho",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "224321",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4870",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-02-20",
+        "pubLeg": "V",
+        "pubNr": "44",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/044/1991-02-20?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
