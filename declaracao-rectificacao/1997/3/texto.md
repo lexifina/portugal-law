@@ -1,0 +1,3 @@
+Declaração de Rectificação n.º 3/97
+Por ter saído com inexactidão no Diário da República, 1.ª série-A, n.º 294 (suplemento), de 20 de Dezembro de 1996, a p. 4578-(4), o Decreto do Presidente da República n.º 30-I/96, de 20 de Dezembro, rectifica-se que onde se lê «A pena acessória de expulsão do País aplicada a Maria de Lurdes Varela, de 46 anos de idade, no processo n.º 530/92» deve ler-se «A pena acessória de expulsão do País aplicada a Maria de Lurdes Varela, de 46 anos de idade, no processo n.º 530/92 CC».
+Secretaria-Geral da Presidência da República, 10 de Janeiro de 1997. - O Secretário-Geral, José Vicente de Bragança.
