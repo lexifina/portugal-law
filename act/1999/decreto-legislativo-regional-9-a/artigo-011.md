@@ -10,7 +10,7 @@ b) Oferecer aos turistas informação significativa sobre as espécies de cetác
 
 c) Afixar o título da respectiva licença, em local bem visível, no centro de recepção e informação dos clientes;
 
-d) Fornecer à DRT, até ao fim de cada ano civil, a estatística da clientela da empresa durante o ano em causa, organizada por mês e nacionalidade, bem como as fichas de registo das observações de cetáceos, cujo modelo consta do anexo II;
+d) Fornecer à DRT, até ao fim de cada ano civil, a estatística da clientela da empresa durante o ano em causa, organizada por mês e nacionalidade;
 
 e) Sempre que solicitado pela DRT, com 15 dias de antecedência, autorizar o embarque gratuito nas suas plataformas de observadores científicos, em número não superior a três por ano;
 

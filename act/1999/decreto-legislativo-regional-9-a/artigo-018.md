@@ -24,6 +24,8 @@ c) Alimentar os animais;
 
 d) A presença de mergulhadores com escafandro autónomo ou semiautónomo, assim como a utilização de veículos motorizados de deslocação subaquática, na área de aproximação dos cetáceos;
 
-e) Poluir o mar com resíduos sólidos ou líquidos.
+e) Poluir o mar com resíduos sólidos ou líquidos;
+
+f) Utilizar o sonar, inclusive fora da área de aproximação.
 
 4 - A observação nocturna é proibida, excepto para fins científicos.
