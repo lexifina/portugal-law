@@ -1,0 +1,10 @@
+Portaria n.º 582/89
+de 28 de Julho
+A Portaria n.º 802/87, de 21 de Setembro, criou no quadro de pessoal técnico superior do Instituto Nacional de Meteorologia e Geofísica, constante do Decreto-Lei n.º 335/81, de 9 de Dezembro, um lugar de assessor, letra B, a extinguir quando vagar, nos termos e ao abrigo do disposto no artigo 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho.
+Considerando, porém, a conveniência na adequação dos lugares criados nos termos do Decreto-Lei n.º 191-F/79, de 26 de Junho, às carreiras adjectivadas em que os respectivos titulares se encontravam já integrados, atentas as suas habilitações, qualificações e experiências profissionais:
+Manda o Governo, pelos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, ao abrigo do disposto no artigo 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, e do n.º 2 do artigo 46.º do Decreto-Lei n.º 248/85, de 15 de Julho, o seguinte:
+1.º O lugar de assessor, letra B, criado pela Portaria n.º 802/87, de 21 de Setembro, no quadro de pessoal, carreira técnica superior, do Instituto Nacional de Meteorologia e Geofísica, aprovado pelo Decreto-Lei n.º 335/81, de 9 de Dezembro, considera-se criado na carreira de geofísico constante do mesmo quadro.
+2.º Em conformidade, é extinto o lugar de primeiro-assessor, letra B, previsto com a indicação de ser a extinguir quando vagar, na carreira técnica superior do actual quadro de pessoal do Instituto Nacional de Meteorologia e Geofísica, aprovado pela Portaria n.º 506/88, de 28 de Julho, e criado idêntico lugar, agora com a designação de geofísico assessor principal, letra A, nos termos do Decreto-Lei n.º 265/88, de 28 de Julho, na carreira de geofísica, grau 2, do mesmo quadro.
+Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
+Assinada em 4 de Julho de 1989.
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Eduardo Perestrello Correia de Matos, Secretário de Estado dos Transportes Exteriores e das Comunicações.
