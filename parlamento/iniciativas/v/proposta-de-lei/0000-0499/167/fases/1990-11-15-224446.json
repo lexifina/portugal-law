@@ -1,0 +1,2183 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "167",
+    "id": "29127",
+    "titulo": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1990-11-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4883",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1990-11-15",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "29135",
+        "leg": "V",
+        "nr": "168",
+        "sel": "4",
+        "tipo": "P",
+        "titulo": "Altera a lei nº 101/89, de 29 de Dezembro, que qprovou o Orçamento de Estado para 1990"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1990-11-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158195",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "331-331"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/331?pgs=331&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158196",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "331-331"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/331?pgs=331&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158197",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "331-331"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/331?pgs=331&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO DO MINISTRO PARA OS  ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Encarnaçao"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158198",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "331-331"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/331?pgs=331&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378635",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "331-331"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/331?pgs=331&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158199",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "332-332"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/332?pgs=332&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378638",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "332-332"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/332?pgs=332&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158200",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "332-332"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/332?pgs=332&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158201",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "332-332"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/332?pgs=332&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378640",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "332-333"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/332?pgs=332-333&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378641",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "333-333"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/333?pgs=333&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378643",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "333-333"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/333?pgs=333&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TESOURO.",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Tavares"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158202",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "333-334"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/333?pgs=333-334&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158203",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "334-334"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/334?pgs=334&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158204",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "335-335"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/335?pgs=335&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158205",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "335-335"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/335?pgs=335&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378647",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "335-335"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/335?pgs=335&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TESOURO.",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Tavares"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378644",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "335-337"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/335?pgs=335-337&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158206",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "337-337"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/337?pgs=337&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378648",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "337-337"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/337?pgs=337&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378653",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "337-337"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/337?pgs=337&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158207",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "337-337"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/337?pgs=337&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378654",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "337-337"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/337?pgs=337&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378656",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "337-337"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/337?pgs=337&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378658",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "337-338"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/337?pgs=337-338&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158208",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "338-338"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/338?pgs=338&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TESOURO.",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Tavares"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378663",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "338-339"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/338?pgs=338-339&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158209",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "339-341",
+                  "343-344"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/339?pgs=339-341,343-344&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378666",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "341-341"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/341?pgs=341&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158210",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "341-342"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/341?pgs=341-342&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TESOURO.",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Tavares"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158211",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "342-342"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/342?pgs=342&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158212",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "342-343"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/342?pgs=342-343&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158213",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "343-343"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/343?pgs=343&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378667",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "343-344"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/343?pgs=343-344&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158214",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "344-345"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/344?pgs=344-345&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158215",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "345-345"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/345?pgs=345&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158216",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "345-345"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/345?pgs=345&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378673",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "345-346"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/345?pgs=345-346&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TESOURO.",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Tavares"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158217",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "346-346"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/346?pgs=346&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378674",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "346-347"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/346?pgs=346-347&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378675",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "347-348"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/347?pgs=347-348&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378676",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "349-349"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/349?pgs=349&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378677",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "349-350"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/349?pgs=349-350&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158218",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "350-350"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/350?pgs=350&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378678",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "350-350"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/350?pgs=350&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158219",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "350-351"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/350?pgs=350-351&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378660",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "351-352"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/351?pgs=351-352&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158220",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "352-352"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/352?pgs=352&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378661",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "352-352"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-11-16",
+                "pubLeg": "V",
+                "pubNr": "12",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16/352?pgs=352&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei nº 101/89, de 29 de Dezembro, que aprova o Orçamento de Estado para 1990, e confere autorização legislativa para alterar o regime jurídico das sociedades de gestão e investimento imobiliário (SGII).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "224446",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "330582",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1990-11-16",
+        "pubLeg": "V",
+        "pubNr": "12",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/012/1990-11-16?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
