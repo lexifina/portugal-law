@@ -1,0 +1,16 @@
+Decreto-Lei n.º 85/82
+de 18 de Março
+Pelo Decreto n.º 15778, de 25 de Julho de 1928, passaram para a Santa Casa da Misericórdia de Lisboa, com todos os seus encargos, entre outros estabelecimentos de assistência, as cozinhas económicas e sopas dos pobres, que antes eram directamente dependentes da Direcção-Geral de Assistência.
+Também, e a título precário, passaram para a posse da mesma Misericórdia os imóveis em que alguns dos mesmos estabelecimentos funcionavam e são propriedade do Estado, entre os quais se conta o prédio da Rua de Cascais, 1 a 7, em Lisboa.
+A precariedade da cessão deste imóvel tem causado sérias limitações na sua utilização, pois o incremento das necessidades da Santa Casa da Misericórdia obriga a avultados investimentos que, em determinados casos, ultrapassam largamente o seu valor de raiz, o que é incompatível com a susceptibilidade de reverterem para o Estado.
+Pretende agora a Misericórdia remodelar as condições, actualmente muito deficientes, dos seus serviços de transporte instalados no referido prédio, quer pela sua reconstrução quer pela permuta com outro prédio, se se tornar viável.
+Toma-se para tal necessário transferir para a titularidade da Misericórdia o prédio em causa.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º É autorizado o Ministro das Finanças e do Plano, através da Direcção-Geral do Património do Estado, a ceder à Misericórdia de Lisboa, a título definitivo e mediante a compensação de 19500000$00, o prédio sito na Rua de Cascais, 1 a 7, da cidade de Lisboa.
+Art. 2.º O prédio cedido ou aqueles que venham a resultar da sua conversão, quer através de reconstrução quer através de permuta, ficarão afectos à instalação de serviços que directa ou indirectamente se relacionem com a actividade exercida pela Misericórdia de Lisboa.
+Art. 3.º A cessão efectuar-se-á por meio de auto lavrado e assinado na Direcção-Geral do Património do Estado, o qual constitui título bastante para a realização dos necessários registos.
+Visto e aprovado em Conselho de Ministros de 9 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
+Promulgado em 8 de Março de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
