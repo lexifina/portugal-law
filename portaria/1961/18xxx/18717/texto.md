@@ -1,0 +1,5 @@
+Portaria n.º 18717
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a quantia de 700000$00 a verba do capítulo 10.º, artigo 212.º, n.º 4), alínea a), 1.ª «Encargos gerais - Deslocações de pessoal - Passagens de ou para o exterior - Por motivo de licença graciosa - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral de Timor para o corrente ano, tomando como contrapartida as disponibilidades existentes na verba do capítulo 4.º, artigo 88.º, n.º 1), alínea a) «Administração geral e fiscalização - Serviços de instrução - Polícia Internacional e de Defesa do Estado - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+Ministério do Ultramar, 7 de Setembro de 1961. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Timor. - Costa Freitas.
