@@ -1,0 +1,6 @@
+Portaria n.º 748/82
+de 31 de Julho
+Tendo em consideração o disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, e o disposto nos n.os 1 e 6 da Resolução n.º 354-B/79, de 18 de Dezembro;
+Considerando que o regime dos referidos diplomas é aplicável ao cargo de director da Escola Profissional de Pesca de Lisboa:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Agricultura, Comércio e Pescas e da Reforma Administrativa, ao abrigo do disposto no n.º 3 do artigo 1.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, que seja equiparado a director de serviços o cargo de director da Escola Profissional de Pesca de Lisboa, para o efeito de lhe ser aplicável o regime jurídico e as condições de exercício de funções de direcção e chefia previstos naquele decreto-lei.
+Ministérios das Finanças e do Plano, da Agricultura, Comércio e Pescas e da Reforma Administrativa, 26 de Maio de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
