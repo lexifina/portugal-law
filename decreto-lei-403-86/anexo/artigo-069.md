@@ -28,19 +28,21 @@ l) A recondução ou cessação de funções de gerentes, administradores, direc
 
 m) A deliberação de aprovação do projecto de fusão e de cisão;
 
-n) O termo da situação de domínio total superveniente de grupo;
+n) A verificação das condições de que depende a constituição de uma sociedade anónima europeia gestora de participações sociais;
 
-o) A emissão, mediante oferta particular, de cada série de obrigações;
+o) O termo da situação de domínio total superveniente de grupo;
 
-p) A cessação de funções do administrador judicial e do administrador judicial provisório da insolvência;
+p) A emissão, mediante oferta particular, de cada série de obrigações;
 
-q) A decisão judicial de proibição ao devedor insolvente da prática de certos actos sem o consentimento do administrador da insolvência, quando tal proibição não for determinada conjuntamente com a atribuição ao devedor da administração da massa insolvente;
+q) A cessação de funções do administrador judicial e do administrador judicial provisório da insolvência;
 
-r) A decisão judicial que ponha termo à administração da massa insolvente pelo devedor;
+r) A decisão judicial de proibição ao devedor insolvente da prática de certos actos sem o consentimento do administrador da insolvência, quando tal proibição não for determinada conjuntamente com a atribuição ao devedor da administração da massa insolvente;
 
-s) A decisão judicial de cessação antecipada do procedimento de exoneração do passivo restante de comerciante individual e a de revogação dessa exoneração;
+s) A decisão judicial que ponha termo à administração da massa insolvente pelo devedor;
 
-t) A decisão judicial de confirmação do fim do período de fiscalização incidente sobre a execução de plano de insolvência.
+t) A decisão judicial de cessação antecipada do procedimento de exoneração do passivo restante de comerciante individual e a de revogação dessa exoneração;
+
+u) A decisão judicial de confirmação do fim do período de fiscalização incidente sobre a execução de plano de insolvência.
 
 2 - São registados nos mesmos termos:
 
@@ -58,10 +60,12 @@ f) O cancelamento, total ou parcial, dos registos.
 
 3 - Podem ser feitos provisoriamente por dúvidas os averbamentos referidos no n.º 1.
 
-4 - A conversão em definitiva da inscrição de acção em que se julgue modificado ou extinto um facto registado, ou se declare nulo ou anulado um registo, determina o correspondente averbamento oficioso de alteração ou cancelamento.
+4 - O facto previsto na alínea n) do n.º 1 é averbado à inscrição do projecto de constituição de sociedade anónima europeia gestora de participações sociais, sendo o averbamento a esta inscrição, no caso de a sociedade ter sede na área de competência da conservatória que lavrou o registo daquele projecto, lavrado oficiosamente com o registo da constituição da sociedade.
 
-5 - O trânsito em julgado das sentenças previstas nas alíneas e) e g) do n.º 1 do artigo 64.º determina o averbamento de conversão em definitivo dos correspondentes registos.
+5 - A conversão em definitiva da inscrição de acção em que se julgue modificado ou extinto um facto registado, ou se declare nulo ou anulado um registo, determina o correspondente averbamento oficioso de alteração ou cancelamento.
 
-6 - As decisões judiciais previstas na alínea s) do n.º 1 são averbadas, respectivamente, à inscrição do despacho inicial de exoneração do passivo restante e à do despacho final que determine essa exoneração.
+6 - O trânsito em julgado das sentenças previstas nas alíneas e) e g) do n.º 1 do artigo 64.º determina o averbamento de conversão em definitivo dos correspondentes registos.
 
-7 - A decisão judicial prevista na alínea t) do n.º 1 é averbada à inscrição da decisão de encerramento do processo de insolvência que publicite a sujeição da execução de plano de insolvência a fiscalização.
+7 - As decisões judiciais previstas na alínea s) do n.º 1 são averbadas, respectivamente, à inscrição do despacho inicial de exoneração do passivo restante e à do despacho final que determine essa exoneração.
+
+8 - A decisão judicial prevista na alínea t) do n.º 1 é averbada à inscrição da decisão de encerramento do processo de insolvência que publicite a sujeição da execução de plano de insolvência a fiscalização.

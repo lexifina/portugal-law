@@ -8,4 +8,4 @@
 
 3 - A falta de registo não pode ser oposta aos interessados pelos seus representantes legais, a quem incumbe a obrigação de o promover, nem pelos herdeiros destes.
 
-4 - O disposto neste artigo não prejudica o estabelecido no Código das Sociedades Comerciais.
+4 - O disposto no presente artigo não prejudica o estabelecido no Código das Sociedades Comerciais e na legislação aplicável às sociedades anónimas europeias.

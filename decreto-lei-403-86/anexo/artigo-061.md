@@ -6,4 +6,6 @@
 
 2 - O disposto no número anterior não é aplicável aos registos decorrentes do processo de insolvência, bem como aos de penhor, penhora, arresto e arrolamento de quotas de sociedades por quotas e penhor de partes de sociedades em nome colectivo e em comandita simples.
 
-3 - Do primeiro registo decorre a matrícula do comerciante individual, da pessoa colectiva ou do estabelecimento individual de responsabilidade limitada.
+3 - No caso de transferência da sede de sociedade anónima europeia para Portugal, o primeiro registo referente a essa sociedade é o da alteração dos estatutos decorrente de tal transferência, sem prejuízo do disposto no número anterior quanto aos registos decorrentes do processo de insolvência.
+
+4 - Do primeiro registo decorre a matrícula do comerciante individual, da pessoa colectiva ou do estabelecimento individual de responsabilidade limitada.
