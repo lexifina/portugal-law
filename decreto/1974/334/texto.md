@@ -1,0 +1,6 @@
+Decreto n.º 334/74
+de 11 de Julho
+Usando da faculdade conferida pelo n.º 3.º do artigo 7.º da Lei Constitucional n.º 3/74, de 14 de Maio, tenho por bem:
+Exonerar o Dr. Deodato Nuno de Azevedo Coutinho, o engenheiro Fernando de Castro Fontes, o Dr. José da Silva Lopes, o Dr. Vítor Manuel Ribeiro Constâncio, o engenheiro José de Melo Torres Campos, o Dr. Alfredo Gonzalez Esteves Belo, o Dr. Emílio Rui da Veiga Peixoto Vilar, o Dr. Nelson Sérgio Melo da Rocha Trigo, o engenheiro Pedro Nunes, o engenheiro Manuel Ferreira Lima, o arquitecto Nuno Portas, o vice-almirante António Tierno Bagulho, o Dr. António Macedo Varela, o Dr. Carlos Alberto do Vale Gomes Carvalhas, o Dr. António Galhordas e a Dr.ª Maria de Lourdes Pintassilgo dos cargos, respectivamente, de Secretários de Estado da Administração, dos Assuntos Económicos, das Finanças, do Planeamento Económico, da Indústria e Energia, da Agricultura, do Comércio Externo e Turismo, do Abastecimento e Preços, das Obras Públicas, dos Transportes e Comunicações, da Habitação e Urbanismo, da Marinha Mercante, da Emigração, do Trabalho, da Saúde e da Segurança Social.
+Publique-se.
+Presidência da República, 11 de Julho de 1974. - O Presidente da República, ANTÓNIO DE SPÍNOLA.
