@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal de Justiça de 1989-02-15, processo 076506
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 076506
+
+**Nº Convencional:** JSTJ00009758
+
+**Relator:** PINTO FERREIRA
+
+**Descritores:** PROCURAÇÃO; ANULAÇÃO; INCAPACIDADE ACIDENTAL; DOENÇA; DOCUMENTO AUTENTICO; FORÇA PROBATORIA; FALSIDADE; CESSÃO DE QUOTA; CONTRATO-PROMESSA; NEGOCIO CONSIGO MESMO; ANULABILIDADE
+
+**Nº do Documento:** SJ19890215076506X
+
+**Data do Acordão:** 02/15/1989
+
+**Votação:** UNANIMIDADE
+
+**Referência de Publicação:** BMJ N384 ANO1989 PAG584
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** NEGADA A REVISTA.
+
+**Indicações Eventuais:** CIT P LIMA A VARELA COD CIV ANOT VI 4ED PAG243.; R ALARCÃO IN BMJ N138 PAG109.
+
+**Área Temática:** DIR CIV - DIR CONTRAT / TEORIA GERAL.
+
+## Sumário
+
+I - Para se poder operar a anulação de uma procuração com fundamento em incapacidade acidental ao abrigo do artigo 257, n. 1 do Codigo Civil alegando o autor doença psiquica, necessario se torna que o mesmo faça a prova de que a procuração foi outorgada, meio de comprovada doença do foro neurologico de que padecia, estava privado de capacidade de entender e querer e, outrossim, que esse estado era notorio ou conhecido da outra parte.
+
+II - Não tendo sido alegada a falsidade de uma procuração exarada perante funcionario notarial, tal documento prova plenamente terem sido feitas ao mesmo funcionario as declarações atestadas nesse documento.
+
+III - Não constitui contrato-promessa de cessão de quota de uma sociedade comercial um escrito particular denotando a existencia de uma negociação preliminar visando a efectivação de um contrato de cessão tendo como objecto a quota de uma das partes em determinada sociedade em que, embora sob a forma de acordo, decidam sobre alguns pontos contratuais, as partes não quiseram desde logo obrigar-se, isto e, não quiseram celebrar um contrato vinculativo mas tão-somente ajustar os termos ou alguns dos termos em conformidade com os quais a mencionada cessão de quota havia de ser realizada.
+
+IV - Se, em regra, o "negocio consigo mesmo" ou autocontrato e proibido e em consequencia anulavel, a lei permite duas excepções a esta regra: quando o representado consentiu especificamente na realização, pelo representante, do negocio consigo mesmo ou quando seja o negocio, dada a sua natureza, de molde a excluir a possibilidade de um conflito de interesses por dele não poder resultar prejuizo para o representado; considera-se que consentiram especificamente na cedencia do representante a si mesmo da quota de uma sociedade de que sabiam ser este, ja, socio-gerente, os outorgantes que, em procuração passada ao mesmo declararam, expressamente, conceder-lhe poderes "para ceder a quem e pelo preço e condições que entender convenientes" a quota que possuiam naquela sociedade.
