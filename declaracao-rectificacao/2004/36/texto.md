@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 36/2004
+Segundo comunicação do Ministério da Segurança Social e do Trabalho, a Portaria n.º 337/2004, publicada no Diário da República, 1.ª série, n.º 77, de 31 de Março de 2004, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 9.º, onde se lê «publicado no Diário da República, 2.ª série, n.º 103, de 4 de Maio de 1999, mantém-se em vigor durante o prazo de 18 dias a contar da publicação do presente diploma» deve ler-se «publicado no Diário da República, 2.ª série, n.º 103, de 4 de Maio de 1999, mantém-se em vigor durante o prazo de 180 dias a contar da publicação do presente diploma».
+Secretaria-Geral da Presidência do Conselho de Ministros, 12 de Abril de 2004. - O Secretário-Geral, José M. Sousa Rego.
