@@ -1,0 +1,6 @@
+Despacho Normativo n.º 17/81
+Tendo em conta a necessidade de clarificar a forma de cálculo das prestações a cargo dos beneficiários do crédito para construção ou aquisição de habitação própria e dos montantes das bonificações a cargo das instituições de crédito e do Banco de Portugal, estabelece-se que, de harmonia com o disposto no Decreto-Lei n.º 435/80, de 2 de Outubro, é o seguinte o entendimento dos n.os 7.º e 8.º da Portaria n.º 969/80, de 12 de Novembro:
+1 - O valor do subsídio familiar a conceder aos adquirentes de fogos classificados na classe A é calculado a partir da aplicação das percentagens constantes do quadro III da referida portaria ao capital em dívida no início do ano e mantém-se fixo durante este período.
+2 - As prestações a cargo do mutuário são o resultado da dedução do valor do subsídio familiar às prestações calculadas às taxas de juro a cargo do mutuário.
+3 - A redução das percentagens utilizadas para o cálculo do subsídio familiar, a partir do 4.º ano, inclusive, da vida do empréstimo, processa-se ao ritmo de um ponto percentual ao ano até à sua extinção.
+Secretaria de Estado do Tesouro, 19 de Dezembro de 1980. - O Secretário de Estado do Tesouro, José Alberto Vasconcelos Tavares Moreira.
