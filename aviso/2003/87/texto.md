@@ -1,0 +1,5 @@
+Aviso n.º 87/2003
+Por ordem superior se torna público que o Secretário-Geral das Nações Unidas, agindo na sua capacidade de depositário e referindo-se ao depósito da notificação C.N.118.1997.Treaties-2, de 8 de Abril de 1997, relativa à aprovação pelo Governo da Dinamarca da Convenção sobre a Avaliação dos Impactes Ambientais Num Contexto Transfronteiras, no âmbito da Organização das Nações Unidas, concluída na Finlândia em 25 de Fevereiro de 1991, comunicou o seguinte:
+«Numa comunicação recebida em 12 de Dezembro de 2001, o Governo da Dinamarca declarou que a presente Convenção deve aplicar-se às ilhas Feroé e Gronelândia a partir de 14 de Março de 1997.»
+Portugal é Parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 59/99 e publicada no Diário da República, 1.ª série-A, n.º 292, de 17 de Dezembro de 1999.
+Direcção-Geral dos Assuntos Multilaterais, 30 de Janeiro de 2003. - A Directora de Serviços das Organizações Económicas e Internacionais, Graça Gonçalves Pereira.
