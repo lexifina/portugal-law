@@ -1,0 +1,1214 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "31",
+    "id": "6026",
+    "titulo": "Define o regime jurídico aplicável ao consumo de estupefacientes e substâncias psicotrópicas bem como a protecção sanitária e social das pessoas que consomem tais substâncias sem prescrição médica"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2000-07-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1658",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2000-07-06",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6182",
+        "leg": "VIII",
+        "nr": "119",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "446",
+            "obs": null,
+            "pag": [
+              "3482-3495"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-07-07",
+            "pubLeg": "VIII",
+            "pubNr": "87",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3482?pgs=3482-3495&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "446",
+            "obs": null,
+            "pag": [
+              "3482-3495"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-07-07",
+            "pubLeg": "VIII",
+            "pubNr": "87",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3482?pgs=3482-3495&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Estabelece o regime de mera ordenação social aplicável ao consumo de drogas."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6181",
+        "leg": "VIII",
+        "nr": "120",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "446",
+            "obs": null,
+            "pag": [
+              "3482-3495"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-07-07",
+            "pubLeg": "VIII",
+            "pubNr": "87",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3482?pgs=3482-3495&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "446",
+            "obs": null,
+            "pag": [
+              "3482-3495"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-07-07",
+            "pubLeg": "VIII",
+            "pubNr": "87",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3482?pgs=3482-3495&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Despenaliza o consumo de drogas."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-07-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27011",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3508-3508"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3508?pgs=3508&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES EM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27012",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3508-3508"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3508?pgs=3508&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES EM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3495-3495"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3495?pgs=3495&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1184",
+                "nome": "Joaquim Matias"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27083",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3494-3494"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3494?pgs=3494&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "235",
+                "nome": "Manuel Alegre"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27084",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3494-3494"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3494?pgs=3494&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1639",
+                "nome": "José Eduardo Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27085",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3493-3495"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3493?pgs=3493-3495&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27086",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3492-3493"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3492?pgs=3492-3493&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1176",
+                "nome": "Casimiro Ramos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27087",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3492-3494"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3492?pgs=3492-3494&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27088",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3491-3492"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3491?pgs=3491-3492&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27089",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3491-3491"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3491?pgs=3491&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27090",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3490-3490"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3490?pgs=3490&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1686",
+                "nome": "Pedro Duarte"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27091",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3488-3488"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3488?pgs=3488&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27092",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3487-3487"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3487?pgs=3487&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27093",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3486-3487"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3486?pgs=3486-3487&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27094",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3486-3486"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3486?pgs=3486&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27095",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3485-3486"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3485?pgs=3485-3486&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27096",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3485-3485"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3485?pgs=3485&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "383",
+                "nome": "Durão Barroso"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27097",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3484-3485"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3484?pgs=3484-3485&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1686",
+                "nome": "Pedro Duarte"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27098",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3483-3484"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3483?pgs=3483-3484&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27099",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3483-3484"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3483?pgs=3483-3484&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27100",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3482-3483",
+                  "3487-3488"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3482?pgs=3482-3483,3487-3488&org=PLC"
+              }
+            ],
+            "sumario": "CONSUMO DE ESTUPEFACIENTES: REGIME JURIDICO APLICAVEL, PROTECCAO SANITARIA E SOCIAL AOS CONSUMIDORES SEM PRESCRICAO MEDICA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104999",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2000-07-06",
+        "descricao": "Texto Final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PEV</I>, <I> BE</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "24711",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "111010",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-07-07",
+            "pubLeg": "VIII",
+            "pubNr": "87",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07?org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
