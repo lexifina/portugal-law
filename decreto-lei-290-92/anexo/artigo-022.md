@@ -13,3 +13,5 @@
 4 - Não obstante o disposto no número anterior, os particulares deverão pagar o imposto devido pelas aquisições intracomunitárias de veículos automóveis sujeitos a imposto automóvel junto das entidades competentes para a cobrança deste imposto.
 
 5 - Os sujeitos passivos abrangidos pelo disposto no n.º 1 do artigo 5.º que efectuem aquisições intracomunitárias de bens sujeitos a impostos especiais de consumo deverão pagar o imposto devido junto das entidades competentes para a cobrança daqueles impostos.
+
+6 - O pagamento do imposto devido pelas aquisições intracomunitárias referidas nos n.os 4 e 5 será efectuado em simultâneo com o imposto automóvel ou com os impostos especiais de consumo.
