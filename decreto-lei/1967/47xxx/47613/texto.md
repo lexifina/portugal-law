@@ -1,0 +1,8 @@
+Decreto-Lei n.º 47613
+Considerando que, por virtude do incêndio no edifício do Teatro Nacional de D. Maria II, a empresa concessionária, que estava isenta do pagamento de qualquer renda, teve, para manter a sua actividade, de assumir o encargo do arrendamento de outra casa de espectáculos;
+Considerando que esse encargo se mostra incomportável para a empresa;
+Considerando que, nestas condições, se impõe o aumento do subsídio que, nos termos da lei, a empresa tem vindo a receber do Ministério da Educação Nacional;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Até serem concluídas as obras de reconstrução do edifício do Teatro Nacional de D. Maria II, é elevada para 1700000$00 a importância do subsídio devido à empresa Rey Colaço-Robles Monteiro, por força do disposto no artigo 2.º do Decreto-Lei n.º 41901, de 9 de Outubro de 1958, no artigo 2.º do Decreto-Lei n.º 45251, de 18 de Setembro de 1963, e no artigo único do Decreto-Lei n.º 46604, de 21 de Outubro de 1965.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 29 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - Francisco Pereira Neto de Carvalho.
