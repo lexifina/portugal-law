@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o representante de Portugal junto da UNESCO depositou junto do Secretário-Geral daquela Organização, em 24 de Novembro de 1980, o instrumento de ratificação, por parte de Portugal, da Convenção sobre as Zonas Húmidas de Importância Internacional, concluída em Ramsar (Irão) em 2 de Fevereiro de 1971 e aprovada para ratificação pelo Decreto n.º 101/80, de 9 de Outubro.
+A 24 de Novembro de 1980 eram parte na referida Convenção os seguintes países:
+Austrália, Bulgária, Dinamarca, Finlândia, Grécia, Hungria, Irão, Islândia, Itália, Japão, Jordânia, Jugoslávia, Marrocos, Noruega, Nova Zelândia, Países Baixos, Polónia, Portugal, República Democrática Alemã, República Federal da Alemanha, República Sul-Africana, Reino Unido da Grã-Bretanha e da Irlanda do Norte, Senegal, Suécia, Suíça, Tunísia e União das Repúblicas Socialistas Soviéticas.
+Direcção-Geral dos Negócios Políticos, 23 de Janeiro de 1981. - O Director-Geral-Adjunto, Francisco Mendes da Luz.
