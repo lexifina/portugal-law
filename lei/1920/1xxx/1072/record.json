@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1920/11/23600/16101610.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1920-11-20",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "e5b9e183351658b81b96f6c454b7bf613514865ea014d0babca7a879c3ad8d9b",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.7,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "2c18cffd2fb7fda99161d17a7dde3ad9d2d720deb66d13535e8bc6d28fc2470d",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 142
 }
