@@ -1,0 +1,13 @@
+Decreto-Lei n.º 44206
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O quadro do pessoal docente da Faculdade de Medicina da Universidade de Coimbra é acrescido de 2 professores catedráticos, 3 professores extraordinários e 34 assistentes.
+Art. 2.º O quadro do pessoal técnico, auxiliar e menor da mesma Faculdade passa a ser o seguinte:
+(ver documento original)
+Art. 3.º Os contínuos, guardas e serventes têm direito à concessão de fardamento, ficando, porém, sujeitos às condições que de futuro vierem a ser fixadas quanto ao seu pagamento.
+Art. 4.º Os funcionários técnicos, auxiliares e menores da Faculdade irão ocupar, sem dependência de qualquer formalidade, lugares da sua categoria no novo quadro.
+§ único. A arrumação do pessoal no novo quadro, de harmonia com o disposto no presente artigo, constará de relação a publicar no Diário do Governo.
+Art. 5.º Mediante decreto assinado pelos Ministros das Finanças e da Educação Nacional serão promulgadas as alterações orçamentais que se reconheçam necessárias.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 24 de Fevereiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.
