@@ -1,0 +1,9 @@
+Despacho Normativo n.º 189/82
+Para execução do disposto no Decreto-Lei n.º 549/77, de 31 de Dezembro, ratificado pela Lei n.º 55/78, de 27 de Julho, e de acordo com o n.º 3 do artigo 1.º do Decreto n.º 79/79, de 2 de Agosto, foi determinado pela Portaria n.º 137/82, de 30 de Janeiro, a integração orgânica e funcional no Centro Regional de Segurança Social do Porto da Caixa de Previdência e Abono de Família da Indústria Têxtil.
+De harmonia com o artigo 2.º daquela portaria, os contribuintes e beneficiários da referida Caixa pertencentes a outros distritos serão transferidos, nos termos e nas datas que forem fixados por despacho do Secretário de Estado da Segurança Social, para os respectivos centros regionais de segurança social.
+Julga-se agora oportuno iniciar o referido processo de integração nos centros regionais, com excepção do distrito de Braga, que será objecto de novo despacho, dado o grande volume de contribuintes e beneficiários da indústria têxtil existentes naquele distrito.
+Nestes termos, ao abrigo do disposto no artigo 19.º do Decreto-Lei n.º 549/77, de 31 de Dezembro, determino o seguinte:
+1.º São integrados nos Centros Regionais de Segurança Social de Aveiro, Castelo Branco, Coimbra, Évora, Faro, Guarda, Leiria, Portalegre, Santarém, Setúbal, Viana do Castelo e Viseu os contribuintes e beneficiários da anteriormente designada Caixa de Previdência e Abono de Família da Indústria Têxtil.
+2.º Os contribuintes e beneficiários pertencentes ao distrito de Lisboa são integrados na Caixa de Previdência e Abono de Família da Indústria do Distrito de Lisboa.
+3.º As integrações serão efectuadas até 31 de Outubro de 1982, nas datas acordadas entre os centros regionais, a referida Caixa de Previdência e o Centro Regional de Segurança Social do Porto.
+Secretaria de Estado da Segurança Social, 2 de Agosto de 1982. - O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.
