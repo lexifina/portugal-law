@@ -1,0 +1,5 @@
+Declaração de rectificação n.º 121/94
+Segundo comunicação do Ministério da Agricultura, o Despacho Normativo n.º 483/94, publicado no Diário da República, n.º 163, de 16 de Julho de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No sumário, onde se lê «Cria no quadro de pessoal da Direcção-Geral de Agricultura de Entre Douro e Minho» deve ler-se «Cria no quadro de pessoal da Direcção Regional de Agricultura de Entre Douro e Minho».
+No segundo parágrafo, onde se lê «Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma:» deve ler-se «Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma:».
+Secretaria-Geral da Presidência do Conselho de Ministros, 11 de Agosto de 1994. - O Secretário-Geral, França Martins.
