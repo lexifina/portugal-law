@@ -1,0 +1,545 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "45",
+    "id": "18554",
+    "titulo": "Decreto-Lei n.º 130-A/2001, de 23 de Abril, que \"Estabelece a organização, o processo e o regime de funcionamento da Comissão para a Dissuasão da Toxicodependência, a que se refere o n.º 1 do artigo 5.º da Lei n.º 30/2000, de 29 de Novembro, e regula outras materias complementares\""
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2001-10-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2068",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2001-10-26",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-10-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139628",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "599-600"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/599?pgs=599-600&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 130-A/2001, de 23 de Abril, que \"Estabelece a organização, o processo e o regime de funcionamento da Comissão para a Dissuasão da Toxicodependência, a que se refere o n.º 1 do artigo 5.º da Lei n.º 30/2000, de 29 de Novembro, e regula outras materias complementares\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  PRESIDÊNCIA  DO  CONS.  MINISTROS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Vitalino Canas"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139629",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "600-603",
+                  "607-607"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/600?pgs=600-603,607&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 130-A/2001, de 23 de Abril, que \"Estabelece a organização, o processo e o regime de funcionamento da Comissão para a Dissuasão da Toxicodependência, a que se refere o n.º 1 do artigo 5.º da Lei n.º 30/2000, de 29 de Novembro, e regula outras materias complementares\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139630",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "601-602"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/601?pgs=601-602&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 130-A/2001, de 23 de Abril, que \"Estabelece a organização, o processo e o regime de funcionamento da Comissão para a Dissuasão da Toxicodependência, a que se refere o n.º 1 do artigo 5.º da Lei n.º 30/2000, de 29 de Novembro, e regula outras materias complementares\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1596",
+                "nome": "Nuno Freitas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139631",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "603-604",
+                  "608-608"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/603?pgs=603-604,608&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 130-A/2001, de 23 de Abril, que \"Estabelece a organização, o processo e o regime de funcionamento da Comissão para a Dissuasão da Toxicodependência, a que se refere o n.º 1 do artigo 5.º da Lei n.º 30/2000, de 29 de Novembro, e regula outras materias complementares\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1439",
+                "nome": "João Sobral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139632",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "603-604"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/603?pgs=603-604&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 130-A/2001, de 23 de Abril, que \"Estabelece a organização, o processo e o regime de funcionamento da Comissão para a Dissuasão da Toxicodependência, a que se refere o n.º 1 do artigo 5.º da Lei n.º 30/2000, de 29 de Novembro, e regula outras materias complementares\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1542",
+                "nome": "Filipe Vital"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139633",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "605-605"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/605?pgs=605&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 130-A/2001, de 23 de Abril, que \"Estabelece a organização, o processo e o regime de funcionamento da Comissão para a Dissuasão da Toxicodependência, a que se refere o n.º 1 do artigo 5.º da Lei n.º 30/2000, de 29 de Novembro, e regula outras materias complementares\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1659",
+                "nome": "Natália Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139634",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "605-606"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/605?pgs=605-606&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 130-A/2001, de 23 de Abril, que \"Estabelece a organização, o processo e o regime de funcionamento da Comissão para a Dissuasão da Toxicodependência, a que se refere o n.º 1 do artigo 5.º da Lei n.º 30/2000, de 29 de Novembro, e regula outras materias complementares\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139635",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "606-606",
+                  "608-609"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/606?pgs=606,608-609&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 130-A/2001, de 23 de Abril, que \"Estabelece a organização, o processo e o regime de funcionamento da Comissão para a Dissuasão da Toxicodependência, a que se refere o n.º 1 do artigo 5.º da Lei n.º 30/2000, de 29 de Novembro, e regula outras materias complementares\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139636",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "607-607"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/607?pgs=607&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 130-A/2001, de 23 de Abril, que \"Estabelece a organização, o processo e o regime de funcionamento da Comissão para a Dissuasão da Toxicodependência, a que se refere o n.º 1 do artigo 5.º da Lei n.º 30/2000, de 29 de Novembro, e regula outras materias complementares\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  PRESIDÊNCIA  DO  CONS.  MINISTROS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Vitalino Canas"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139637",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "607-607"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/607?pgs=607&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 130-A/2001, de 23 de Abril, que \"Estabelece a organização, o processo e o regime de funcionamento da Comissão para a Dissuasão da Toxicodependência, a que se refere o n.º 1 do artigo 5.º da Lei n.º 30/2000, de 29 de Novembro, e regula outras materias complementares\"",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "149643",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2068",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-10-27",
+        "pubLeg": "VIII",
+        "pubNr": "18",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
