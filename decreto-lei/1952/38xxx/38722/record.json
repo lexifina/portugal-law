@@ -17,9 +17,24 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1952/04/08500/05150518.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1952-04-14",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "13802378917313c22fda0889665591a926a8b1c464ab04da160d4edcd5ae4e0b",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.5,
+    "pages": 4,
+    "columns": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "e388680d66d44bb8da0c5df5a4cc91420c06398ac1b9c90c8460d7379432fc7e",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 3707
 }
