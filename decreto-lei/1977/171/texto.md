@@ -1,0 +1,21 @@
+Decreto-Lei n.º 171/77
+de 30 de Abril
+Nenhuma das modalidades de pensões actualmente instituídas se presta a exprimir o público reconhecimento da comunidade para com os seus cidadãos que se tenham distinguido por méritos excepcionais na defesa da liberdade e da democracia.
+E dificilmente se encontrará outro país cujo condicionalismo histórico mais duramente e durante mais tempo tenha justificado e valorizado essa luta.
+Testemunhar-lhes apreço e gratidão, a si ou à sua memória, neste caso na pessoa dos seus familiares, é também, senão sobretudo, uma forma de amor à liberdade que temos e à democracia que somos.
+Não necessariamente relacionada com situações de carência, a pensão agora instituída pode também justificar-se, ao menos na sua duração e no seu montante, por essas situações.
+Se todos estamos de acordo em que não devem deixar-se no esquecimento formas paradigmáticas de luta, por maioria de razão não devem passar privações aqueles ou os familiares daqueles que exemplarmente lutaram.
+Animados desse espírito:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1. O Conselho de Ministros, por proposta do Ministro das Finanças, poderá, mediante decreto, atribuir a cidadãos portugueses que se tenham distinguido por méritos excepcionais na defesa da liberdade e da democracia uma pensão, expressiva de público reconhecimento, cujo montante, duração, início, forma de pagamento e demais condições fixará.
+2. A pensão só pode ser atribuída ao próprio cidadão ou aos seus herdeiros ou familiares que vivam ou tenham vivido exclusivamente na sua dependência económica.
+A pensão atribuída ao próprio cidadão ou a viúvas com mais de 40 anos será sempre vitalícia; a atribuída aos seus herdeiros ou familiares caduca sempre que, sendo os beneficiários maiores ou tendo atingido a maioridade, não façam prova, até 31 de Dezembro de cada ano, de que estão impedidos, por razões estranhas à sua vontade ou por causas atendíveis, de ganhar convenientemente o seu sustento.
+Art. 2.º - 1. A iniciativa da atribuição da pensão prevista no artigo anterior competirá ao Primeiro-Ministro, aos membros do Conselho da Revolução e do Governo, aos Deputados, aos órgãos de administração local e a quaisquer organismos ou instituições de interesse público.
+2. As entidades referidas no número anterior enviarão proposta fundamentada ao Ministro das Finanças, o qual a apresentará, devidamente instruída e acompanhada do correspondente projecto de diploma, ao Conselho de Ministros.
+Art. 3.º - 1. Uma vez concedidas, as pensões serão assentadas na Direcção-Geral da Contabilidade Pública, não dependendo o seu abono de qualquer outra formalidade.
+2. Os beneficiários receberão um título, cujo teor será determinado por despacho do Ministro das Finanças.
+Art. 4.º As dúvidas surgidas na interpretação e aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças.
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
+Promulgado em 18 de Abril de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
