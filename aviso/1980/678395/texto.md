@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em 15 de Março de 1979 o Governo da Síria depositou junto do Secretário-Geral das Nações Unidas o instrumento de reserva ao parágrafo 1.º do artigo 36.º da Convenção sobre Relações Diplomáticas, concluída em Viena em 18 de Abril de 1961, no sentido de excluir dos privilégios aí previstos o pessoal administrativo e técnico, decorridos seis meses após a sua chegada à Síria. Aquele instrumento diplomático entrou em vigor, com referência aos países que não impugnaram a reserva dentro de noventa dias após a sua formulação, em 15 de Junho de 1979.
+Secretaria-Geral do Ministério, 28 de Fevereiro de 1980. - O Chefe dos Serviços Jurídicos e de Tratados, Rui Eduardo Barbosa de Medina.
