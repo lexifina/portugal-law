@@ -1,0 +1,3 @@
+Aviso
+Para os devidos efeitos se torna público que, em virtude das obrigações decorrentes do ingresso de Portugal na Comunidade Económica Europeia em 1 de Janeiro de 1986, foi denunciado, segundo o calendário estabelecido pela Comissão da referida Comunidade, por meio de nota endereçada à Embaixada da República Socialista da Roménia em Lisboa o Acordo de Comércio a Longo Prazo assinado entre os Governos daquele país e da República Portuguesa em 14 de Junho de 1975 e publicado no Diário do Governo, 1.ª série, n.º 232, de 7 de Outubro de 1975.
+Direcção-Geral dos Negócios Político-Económicos, 14 de Abril de 1988. - O Director de Serviços da Europa, Manuel Marcelo Curto.
