@@ -1,0 +1,16 @@
+Decreto-Lei n.º 44845
+A situação de doença dos tesoureiros da Fazenda Pública ocorre, por vezes, em condições - ligadas ao pouco tempo de serviço dos respectivos propostos ou à própria natureza da doença - em face das quais não é razoável atribuir àqueles funcionários a responsabilidade pela gerência das tesourarias. Por outro lado, quando o tesoureiro adoece e se encontra sem proposto não seria por igual razoável que se obrigasse, mesmo quando tal fosse possível pelo seu estado de saúde, a nomear um proposto e a ficar com a sua responsabilidade ligada aos respectivos actos.
+Deste modo a necessidade de acautelar a regularidade e continuidade destas funções, defendendo os interesses do Estado, recomenda mais o recurso à nomeação de tesoureiro interino do que ao exercício efectivo das funções de tesoureiro por parte do proposto sob a responsabilidade daquele.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Aos artigos 1.º e 3.º do Decreto-Lei n.º 26537, de 22 de Abril de 1936, é dada a redacção seguinte:
+Artigo 1.º A gerência das tesourarias da Fazenda Pública, em caso de promoção, transferência, suspensão, morte ou afastamento por qualquer outro motivo do tesoureiro efectivo, salvo o de licença graciosa ou por doença, sem prejuízo do que, quanto a esta última situação, se dispõe no § 1.º do artigo 3.º do presente diploma, fica confiada ao respectivo proposto, sem dependência de nomeação e de posse, lavrando-se apenas o termo de transição na forma habitual, o qual será enviado ao Tribunal de Contas para efeitos de visto e registo.
+§ único. ...
+Art. 3.º ...
+§ 1.º Proceder-se-á nos mesmos termos no caso de doença dos tesoureiros da Fazenda Pública que, pela natureza desta, não possam continuar com a responsabilidade da gerência, bem como quando se encontrar por preencher o lugar de proposto ou a direcção de finanças entender que este não se encontra habilitado a substituir o tesoureiro, ainda que sob a responsabilidade deste.
+§ 2.º Os vencimentos do tesoureiro doente serão satisfeitos em conta de dotação especial inscrita no Orçamento Geral do Estado.
+Art. 2.º (transitório). Consideram-se investidos regularmente por todo o tempo que durarem as respectivas gerências, sem necessidade de sujeição do alvará de nomeação ao visto do Tribunal de Contas, os tesoureiros que, nas condições do § 1.º do artigo 3.º do Decreto-Lei n.º 26537, de 22 de Abril de 1936, na nova redacção que lhe é dada pelo presente diploma, assumiram interinamente as últimas gerências nos concelhos do Crato e Espinho.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 7 de Janeiro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - Pedro Mário Soares Martinez.
+
+Para ser presente à Assembleia Nacional.
