@@ -1,0 +1,5 @@
+Resolução do Conselho de Ministros
+O Conselho de Ministros, reunido em 30 de Novembro de 1976, resolveu:
+Aceitar o pedido de exoneração de membros da comissão administrativa da empresa A. C. - Trabalhos de Arquitectura e Construção, S. A. R. L., criada por despacho publicado no Diário do Governo, 2.ª série, n.º 30, de 5 de Fevereiro de 1975, apresentado pelo coronel engenheiro Manuel Marques Esgalhado, licenciado António Joaquim Mariquito Constantino, engenheiro Carlos Fernandes António e engenheiro Raul Mendes de Moura Antunes.
+Não havendo neste momento gestores públicos profissionais, a que se refere o Decreto-Lei n.º 831/76, mas havendo necessidade imediata de prover quanto à gestão das empresas, nomeiam-se, ao abrigo do disposto nos artigos 2.º, 11.º e 17.º do citado diploma, os engenheiros Fernando Dias Ascensão e António José Gaspar e o engenheiro técnico Carlos Alberto Leitão Marques como gestores daquela empresa, sendo-lhes atribuída a categoria C2, com fundamento nos respectivos curriculum vitae.
+Presidência do Conselho de Ministros, 30 de Novembro de 1976. - O Primeiro-Ministro, Mário Soares.
