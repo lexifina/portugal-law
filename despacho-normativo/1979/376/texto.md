@@ -1,0 +1,6 @@
+Despacho Normativo n.º 376/79
+A alínea b) do n.º 6.2 do Despacho Normativo n.º 334/79, publicado no Diário da República, 1.ª série, de 20 de Novembro de 1979, passa a ter a seguinte redacção:
+6.2 - ...
+a) ...
+b) Os alunos que já tenham efectuado o pagamento da quotização segundo o valor em vigor à data da publicação do presente despacho deverão efectuar segunda prestação no prazo a estabelecer pelo Instituto de Acção Social Escolar.
+Ministério da Educação, 23 de Novembro de 1979. - O Secretário de Estado dos Ensinos Básico e Secundário, Aldónio Simões Gomes.
