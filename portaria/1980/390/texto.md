@@ -1,0 +1,11 @@
+Portaria n.º 390/80
+de 10 de Julho
+Considerando o disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, conjugado com o disposto nos n.os 1 e 6 da Resolução do Conselho de Ministros n.º 354-B/79, de 18 de Dezembro, e nos termos do n.º 3 do artigo 1.º daquele decreto-lei:
+Manda o Governo da República Portuguesa, pelos Ministros dos Negócios Estrangeiros e das Finanças e do Plano e pelo Secretário de Estado da Reforma Administrativa, o seguinte:
+O cargo de chefe dos serviços administrativos pertencente ao quadro do pessoal dirigente do Gabinete do Plano do Zambeze, criado pelo Decreto-Lei n.º 218/70, de 16 de Maio, a que foi atribuída a categoria da letra D, é equiparado a director de serviços, com a categoria de transição de assessor C.
+Presidência do Conselho de Ministros e Ministérios dos Negócios Estrangeiros e das Finanças e do Plano, 7 de Março de 1980. - Pelo Ministro dos Negócios Estrangeiros, Luís Aníbal de Sá de Azevedo Coutinho, Secretário de Estado dos Negócios Estrangeiros. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
+
+ANEXO
+Conteúdo funcional do cargo
+Chefe dos serviços administrativos do Gabinete do Plano do Zambeze. - O cargo de chefe dos serviços administrativos dos serviços centrais do Gabinete do Plano do Zambeze, a que corresponde a letra D da tabela de vencimento do funcionalismo público, vem incluído no pessoal dirigente do quadro de pessoal anexo ao Decreto n.º 218/70, de 16 de Maio, competindo-lhe orientar os sectores de expediente (correspondência, centro de dactilografia para todos os serviços centrais, cópias, arquivo, secretariado e traduções), de pessoal (correspondente a uma moderna gestão de pessoal), de economato (aprovisionamento dos serviços centrais e serviço de procuradoria quanto aos serviços regionais) e de contencioso (contratos, recursos e arbitragens), supervisionar os serviços administrativos regionais e tomar parte como vogal nas reuniões da comissão administrativa dos serviços centrais.
+Pelo Ministro dos Negócios Estrangeiros, Luís Aníbal de Sá de Azevedo Coutinho, Secretário de Estado dos Negócios Estrangeiros. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
