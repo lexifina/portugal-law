@@ -1,0 +1,3 @@
+Portaria n.º 17711
+Manda o Governo da República Portuguesa, pelo Ministro da Justiça, que, nos termos do n.º 2.º do artigo 5.º e seu § 1.º do Decreto-Lei n.º 40876, de 24 de Novembro de 1956, sejam criados na Cadeia Penitenciária de Lisboa um lugar de contramestre de tipografia, com o vencimento mensal de 2000$00, um lugar de contramestre de marceneiros, com o vencimento mensal de 1750$00, e um lugar de técnico chefe dos serviços gráficos, com o vencimento mensal de 2600$00, e extintos os lugares de linotipista e de mestre de tipógrafos.
+Ministério da Justiça, 5 de Maio de 1960. - O Ministro da Justiça, João de Matos Antunes Varela.
