@@ -1,0 +1,142 @@
+Decreto-Lei n.º 238/94
+de 19 de Setembro
+Portugal adoptou o sistema métrico decimal em meados do século XVIII, conquanto tenham continuado a subsistir as medidas aprovadas pela Lei de Almeirim de 26 de Janeiro de 1575, que em 1814 foram adaptadas ao sistema métrico.
+Após a adopção do sistema métrico, tendo por base o metro legal de França, pelo Decreto de 13 de Dezembro de 1852, Portugal acompanhou os progressos daquele sistema, encontrando-se entre os 17 Estados signatários da Convenção do Metro, assinada em Paris em 20 de Maio de 1875, Convenção esta que veio a ser ratificada pela Lei de 19 de Abril de 1876.
+Em 19 de Abril de 1911, são determinadas como padrões legais das unidades de comprimento e massa as cópias n.º 10 dos padrões protótipos aprovados pela 1.ª Conferência Geral de Pesos e Medidas (1889) e, em 20 de Abril de 1911, definido o quadro das medidas legais. Finalmente, a Lei n.º 1850, de 5 de Março de 1926, aprova a Convenção do Metro e o regulamento anexo, entretanto alterados pela 6.ª Conferência Geral de Pesos e Medidas (1921).
+Desde então o sistema evoluiu para o sistema internacional de unidades estabelecido na 11.ª Conferência Geral de Pesos e Medidas (1960) e este sofreu, por sua vez, várias alterações, que, contrariamente ao que os outros Estados membros foram sucessivamente fazendo, Portugal não integrou, muito embora se tenha mantido ininterruptamente Estado membro da Conferência Geral de Pesos e Medidas.
+Na sequência das resoluções da 19.ª Conferência Geral de Pesos e Medidas (1991) e em harmonia com as Directivas do Conselho n.os 80/181/CEE, de 20 de Dezembro de 1979, 85/1/CEE, de 18 de Dezembro de 1984, e 89/617/CEE, de 27 de Novembro de 1989, impõe-se agora voltar a actualizar a legislação relativa a unidades de medida, sendo, naturalmente, conveniente fazê-lo num único diploma que condense todas as disposições pelas quais esta matéria se deve reger.
+A experiência existente determina que seja dado sentido prático à realização física das unidades de medida, o que se articula com os instrumentos já realizados e em curso no Laboratório Central de Metrologia do Instituto Português da Qualidade. Daí a oportunidade de cometer a este organismo do Ministério da Indústria e Energia a competência para aprovar os padrões legais.
+Assim:
+No uso da autorização legislativa concedida pelo artigo 1.º da Lei n.º 8/94, de 26 de Abril, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Sistema de unidades de medida legais
+1 - O sistema de unidades de medida legais em todo o território nacional é o designado pela Conferência Geral de Pesos e Medidas (CGPM) como Sistema Internacional de Unidades (SI).
+2 - Os nomes, símbolos e definições das unidades de base, suplementares e derivadas, os prefixos e símbolos dos múltiplos e submúltiplos das mesmas unidades e as recomendações para a escrita e para a utilização dos símbolos, aprovados pela CGPM, constam do anexo ao presente diploma, do qual faz parte integrante.
+Artigo 2.º
+Indicações suplementares
+1 - Para efeitos do disposto no presente diploma, entende-se que existe indicação suplementar quando uma indicação expressa numa unidade constante do anexo é acompanhada por uma ou várias indicações expressas noutras unidades.
+2 - A utilização das indicações suplementares é autorizada até 31 de Dezembro de 1999.
+3 - A indicação expressa numa unidade de medida constante do anexo deve prevalecer sobre a indicação ou indicações expressas noutras unidades, nomeadamente apresentando-se em caracteres de dimensão superior.
+Artigo 3.º
+Utilização excepcional de outras unidades de medida
+1 - A utilização das unidades de medida que não são ou já não são legais é autorizada:
+a) Para os produtos e equipamentos colocados no mercado e ou em serviço em data anterior à data da entrada em vigor do presente diploma;
+b) Para as peças e partes de produtos e de equipamentos que completem ou substituam as peças ou partes dos produtos e equipamentos previstos na alínea anterior.
+2 - O disposto no número anterior não se aplica aos dispositivos indicadores dos instrumentos de medição, nos quais é obrigatória a utilização de unidades de medida legais.
+Artigo 4.º
+Domínios abrangidos
+1 - As obrigações decorrentes dos artigos anteriores referem-se aos instrumentos de medição utilizados, às medidas efectuadas e às unidades de grandeza expressas em unidades de medida, no circuito económico, nos domínios da saúde e da segurança pública e nas operações de natureza administrativa.
+2 - O presente diploma não afecta a utilização, no domínio da navegação marítima e aérea e do tráfico por via férrea, de unidades diversas das que torna obrigatórias mas que são previstas por convenções ou acordos internacionais que vinculam a Comunidade Europeia ou o País.
+Artigo 5.º
+Padrões
+Compete ao Instituto Português da Qualidade aprovar os padrões de medida que realizam as unidades legais em harmonia com o estabelecido no presente diploma.
+Artigo 6.º
+Fiscalização
+A fiscalização do cumprimento do disposto no presente diploma é exercida pelas delegações regionais da indústria e energia (DRIE).
+Artigo 7.º
+Contra-ordenações
+1 - A utilização de unidades de medida não autorizadas pelo presente diploma constitui contra-ordenação punível com coima de 5000$00 a 500000$00, se o infractor for uma pessoa singular, e até 6000000$00, se for uma pessoa colectiva.
+2 - A coima será aplicada pelo director da DRIE em cuja área tenha sido detectada a infracção.
+3 - O produto das coimas tem a seguinte distribuição:
+a) 60% para o Orçamento do Estado;
+b) 20% para o Instituto Português da Qualidade;
+c) 10% para a entidade que levantou o auto;
+d) 10% para a entidade que aplicou a coima.
+Artigo 8.º
+Revogações
+São revogados os Decretos-Leis n.os 427/83, de 7 de Dezembro, 320/84, de 1 de Outubro, e 222/88 e 223/88, de 28 de Junho.
+Visto e aprovado em Conselho de Ministros de 14 de Julho de 1994. - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga - Luís Fernando Mira Amaral.
+Promulgado em 16 de Agosto de 1994.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 22 de Agosto de 1994.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+ANEXO
+Unidades de medida legais referidas no artigo 1.º
+1 - Unidades SI e seus múltiplos e submúltiplos decimais:
+1.1 - Unidades SI de base:
+(ver documento original)
+As definições das unidades SI de base são as seguintes:
+Unidade de comprimento:
+O metro é o comprimento do trajecto percorrido no vazio pela luz durante 1/299792458 s.
+(17.ª CGPM - 1983 - Resolução n.º 1.)
+Unidade de massa:
+O quilograma é a unidade de massa; é igual à massa do protótipo internacional do quilograma.
+(3.ª CGPM - 1901 - p. 70 das actas.)
+Unidade de tempo:
+O segundo é a duração de 9192631770 períodos da radiação correspondente à transição entre os dois níveis hiperfinos do estado fundamental do átomo de césio 133.
+(13.ª CGPM - 1967 - Resolução n.º 1.)
+Unidade de intensidade de corrente eléctrica:
+O ampere é a intensidade de uma corrente constante que, mantida em dois condutores paralelos, rectilíneos, de comprimento infinito, de secção circular desprezável, e colocados à distância de 1 m um do outro no vazio, produziria entre estes condutores uma força igual a 2.10(elevado -7)N por metro de comprimento.
+(9.ª CGPM - 1948 - Resolução n.º 2.)
+Unidade de temperatura termodinâmica:
+O kelvin, unidade de temperatura termodinâmica, é a fracção 1/273,16 da temperatura termodinâmica do ponto triplo da água.
+(13.ª CGPM - 1967 - Resolução n.º 4.)
+Unidade de quantidade de matéria:
+A mole é a quantidade de matéria de um sistema que contém tantas entidades elementares quantos os átomos que existem em 0,012 kg de carbono 12.
+Quando se utiliza a mole, as entidades elementares devem ser especificadas e podem ser átomos, moléculas, iões, electrões, outras partículas ou agrupamentos especificados de tais partículas.
+(14.ª CGPM - 1971 - Resolução n.º 3.)
+Unidade de intensidade luminosa:
+A candela é a intensidade luminosa, numa direcção dada, de uma fonte que emite uma radiação monocromática de frequência de 540.10(elevado a 12) Hz e cuja intensidade energética nessa direcção é 1/683 W por esterradiano.
+(16.ª CGPM - 1979 - Resolução n.º 3.)
+1.1.1 - Nome e símbolo especiais da unidade SI de temperatura no caso da temperatura celsius:
+(ver documento original)
+A temperatura celsius t é definida pela diferença t = T - T(índice o) entre duas temperaturas termodinâmicas T e T(índice o) com T(índice o) = 273,15 K. Um intervalo ou uma diferença de temperatura podem exprimir-se quer em kelvin quer em graus celsius. A unidade grau celsius é igual à unidade kelvin.
+1.2 - Outras unidades SI:
+1.2.1 - Unidades SI suplementares:
+(ver documento original)
+(11.ª CGPM - 1960 - Resolução n.º 12.)
+As definições das unidades SI suplementares são as seguintes:
+Unidade de ângulo plano:
+O radiano é o ângulo plano compreendido entre dois raios que, na circunferência de um círculo, intersectam um arco de comprimento igual ao raio desse círculo.
+Unidade de ângulo sólido:
+O esterradiano é o ângulo sólido que, tendo o vértice no centro de uma esfera, intersecta na superfície dessa esfera uma área igual à de um quadrado tendo por lado o raio da esfera.
+1.2.2 - Unidades SI derivadas:
+As unidades derivadas de modo coerente das unidades SI de base e das unidades SI suplementares são dadas por expressões algébricas sob a forma de produtos de potências das unidades SI de base e ou das unidades SI suplementares com um factor numérico igual a 1.
+1.2.3 - Unidades SI derivadas com nomes e símbolos especiais:
+(ver documento original)
+Unidades derivadas das unidades SI de base ou suplementares podem ser expressas em função das unidades constantes dos n.os 1.1 e 1.2.
+Em particular, unidades SI e derivadas podem ser expressas utilizando os nomes e símbolos especiais do quadro acima; por exemplo, a unidade SI da viscosidade dinâmica pode ser expressa como M(elevado -1.)kg.s(elevado -1), ou N.s.m2 ou Pa.s.
+1.3 - Prefixos e seus símbolos que servem para designar certos múltiplos e submúltiplos decimais:
+(ver documento original)
+Os nomes e os símbolos dos múltiplos e submúltiplos decimais da unidade de massa são formados pela junção dos prefixos à palavra "grama" e dos seus símbolos ao símbolo "g".
+1.4 - Nomes e símbolos especiais autorizados de múltiplos e submúltiplos decimais de unidades SI:
+(ver documento original)
+Nota. - Os prefixos e os seus símbolos mencionados no n.º 1.3 aplicam-se às unidades e símbolos constantes do n.º 1.4.
+1.5 - Regras de escrita e utilização dos símbolos das unidades SI e dos prefixos:
+1) Os símbolos das unidades são impressos em caracteres romanos direitos e em geral minúsculos. Contudo, se o nome da unidade deriva de um nome próprio, a primeira letra do símbolo é maiúscula;
+2) Os símbolos das unidades ficam invariáveis no plural;
+3) Os símbolos das unidades não são seguidos de um ponto;
+4) O produto de duas ou mais unidades pode ser indicado de uma das formas seguintes:
+N.m ou N m
+5) Quando uma unidade derivada é formada dividindo uma unidade por outra, pode utilizar-se uma barra oblíqua (/), uma barra horizontal ou também expoentes negativos. Exemplo:
+m/s, m/s ou m.s(elevado -1)
+6) Nunca deve ser utilizada na mesma linha mais de uma barra oblíqua, a menos que sejam adicionados parênteses, a fim de evitar qualquer ambiguidade. Em casos complicados devem ser utilizados expoentes negativos ou parênteses. Exemplo:
+m/s(eleveado 2) ou m.s(elevado -2)
+m.kg/(s(elevado 3).A) ou m.kg.s(elevado -3).A(elevado -1)
+mas não
+m/s/s
+m.kg./s(elevado 3)/A
+7) Os símbolos dos prefixos são impressos em caracteres romanos direitos sem espaço entre o símbolo do prefixo e o símbolo da unidade;
+8) O conjunto formado pela junção do símbolo de um prefixo ao símbolo de uma unidade constitui um novo símbolo inseparável, que pode ser elevado a uma potência positiva ou negativa e que pode ser combinado com outros símbolos de unidades para formar símbolos de unidades compostas. Exemplo:
+1 cm3 = (10(elevado -2) m)(elevado 3) = 10(elevado -6) m3
+1 cm(elevado -1) = (10(elevado -2) m)(elevado -1) = 10(elevado 2) m(elevado -1)
+9) Não são empregues prefixos compostos, ou seja, formados pela justaposição de vários prefixos. Exemplo:
+1 nm, e não 1 m(mi)m
+10) Um prefixo não pode ser empregue sem uma unidade a que se refira. Exemplo:
+10(elevado 6)/m3, e não M/m3
+2 - Unidades definidas a partir das unidades SI mas que não são múltiplos ou submúltiplos decimais destas unidades:
+(ver documento original)
+Nota. - Os prefixos e os símbolos mencionados no n.º 1.3 não se aplicam aos nomes e aos símbolos constantes do quadro acima.
+3 - Unidades definidas independentemente das sete unidades SI de base:
+(ver documento original)
+A unidade de massa atómica é igual a 1/12 da massa de um átomo do nuclido 12(índice c.)
+O electrão-volt é a energia cinética adquirida por um electrão que passa, no vazio, de um ponto para outro cujo potencial é superior em 1 V.
+O valor destas unidades, expresso em unidades SI, é obtido experimentalmente.
+Os valores indicados são extraídos do boletim Codata, n.º 63, de 1986, do Conselho Internacional Uniões Científicas.
+Nota. - Os prefixos e os símbolos mencionados no n.º 1.3 aplicam-se a estas duas unidades e aos seus símbolos.
+4 - Unidades e nomes de unidade admitidos unicamente em domínios especializados:
+(ver documento original)
+Nota. - Os prefixos e os seus símbolos mencionados no n.º 1.3 aplicam-se às unidades e símbolos que constam do quadro acima, à excepção do milímetro de mercúrio e do seu símbolo. Contudo, o múltiplo 10(elevado 2) a é denominado "hectare".
+5 - Unidades compostas: combinando as unidades citadas neste anexo, constituem-se unidades compostas, mas deve evitar-se a combinação das unidades constantes dos n.os 1.4, 2, 3 e 4 com as demais unidades constantes do n.º 1.
