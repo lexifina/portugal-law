@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se fez público que Portugal depositou, em 12 de Dezembro de 1985, o instrumento de ratificação da Convenção Relativa ao Reconhecimento Internacional de Direitos sobre Aeronaves, de 1948.
+Até àquela data, eram partes na referida Convenção os seguintes Estados:
+Argélia, Argentina, Austrália, Brasil, Chade, Camarões, Chile, China, Colômbia, Congo, Costa do Marfim, Cuba, Dinamarca, Egipto, Equador, Estados Unidos, Etiópia, Filipinas, França, Gabão, Grécia, Granada, Guiné, Haiti, Iraque, Irlanda, Islândia, Itália, Jamahiriya Árabe Líbia, Kuwait, Líbano, Luxemburgo, Madagáscar, Mali, Mauritânia, México, Níger, Noruega, Países Baixos, Paquistão, Paraguai, Peru, Reino Unido, República Centro-Africana, República Democrática Popular do Laos, República Dominicana, República Federal da Alemanha, República Islâmica do Irão, Ruanda, Salvador, Seychelles, Suécia, Suíça, Tailândia, Togo, Tunísia, Uruguai e Venezuela.
+Direcção-Geral dos Negócios Económicos, 8 de Janeiro de 1986. - O Subdirector-Geral, Roberto Nuno de Oliveira e Silva Pereira de Sousa.
