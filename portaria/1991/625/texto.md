@@ -1,0 +1,52 @@
+Portaria n.º 625/91
+de 12 de Julho
+Considerando que o Decreto-Lei n.º 323/88, de 23 de Setembro, veio aplicar ao pessoal civil dos Serviços Departamentais das Forças Armadas o regime e estrutura das carreiras dos trabalhadores da administração pública decorrentes do Decreto-Lei n.º 248/85, de 15 de Julho, e do reajustamento estrutural operado entretanto pelo Decreto-Lei n.º 265/88, de 28 de Julho;
+Considerando que, no seguimento daquele primeiro diploma, o Decreto Regulamentar n.º 25/89, de 17 de Agosto, veio alterar as carreiras e categorias do referido pessoal e que o Decreto-Lei n.º 4/91, de 8 de Janeiro, reestrutura e estabelece o novo regime remuneratório das carreiras do pessoal civil de embarcações salva-vidas;
+Considerando que o Decreto-Lei n.º 264/89, de 18 de Agosto, define um novo regime jurídico aplicável ao pessoal civil dos Serviços Departamentais das Forças Armadas, ao qual passa a ser aplicável o regime respeitante aos funcionários e agentes da administração central;
+Considerando o disposto no Decreto-Lei n.º 353-A/89, de 16 de Outubro;
+Considerando, por tal facto, a necessidade de alterar o quadro do pessoal civil do Instituto de Socorros a Náufragos, por forma a acolher o novo ordenamento legal;
+Nos termos dos n.os 3 e 4 do artigo 2.º do Decreto-Lei n.º 323/88, de 23 de Setembro, e do Decreto-Lei n.º 4/91, de 8 de Janeiro, e ao abrigo do artigo 1.º do Decreto-Lei n.º 264/89, de 18 de Agosto:
+Manda o Governo, pelos Ministros da Defesa Nacional e das Finanças, o seguinte:
+1.º O quadro do pessoal civil do Instituto de Socorros a Náufragos (QPC/ISN), aprovado pela Portaria n.º 86/84, de 7 de Fevereiro, com a alterações posteriormente introduzidas, passa a ser o constante do anexo I ao presente diploma, do qual faz parte integrante.
+2.º O pessoal do quadro do pessoal civil do Instituto de Socorros a Náufragos (QPC/ISN) pertencente a carreiras específicas ou cujas funções se afastam das normalmente estabelecidas na função pública tem os seus conteúdos funcionais descritos no anexo II.
+3.º Mantêm-se os supranumerários permanentes existentes à data da publicação do presente diploma, resultantes do disposto no Decreto-Lei n.º 526/77, de 29 de Dezembro.
+4.º A extinção de lugares prevista em várias carreiras far-se-á da base para o topo, quando não existirem funcionários em condições de acesso.
+5.º São revogadas, na parte aplicável, as Portarias n.os 86/84, de 7 de Fevereiro, e 572/86, de 4 de Outubro.
+Ministérios da Defesa Nacional e das Finanças.
+Assinada em 17 de Junho de 1991.
+Pelo Ministro da Defesa Nacional, Eugénio Manuel dos Santos Ramos, Secretário de Estado Adjunto do Ministro da Defesa Nacional. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento.
+
+ANEXO I
+Quadro do pessoal civil do Instituto de Socorros a Náufragos (QPC/ISN)
+(ver documento original)
+
+ANEXO II
+Conteúdos funcionais
+1 - Conteúdo funcional da carreira de técnico auxiliar de salvamento
+Compete ao técnico auxiliar de salvamento:
+a) Dirigir os cursos de nadadores-salvadores e manter o seu registo;
+b) Dirigir os cursos de monitores de nadadores-salvadores e manter o seu registo;
+c) Dirigir a instrução dos auto porta-cabos;
+d) Executar as inspecções às instalações e material de salvamento das praias;
+e) Colaborar no estudo de qualquer dispositivo de salvamento marítimo que lhe seja determinado;
+f) Colaborar na elaboração de estudos, publicações e estatísticas da responsabilidade do Instituto de Socorros a Náufragos;
+g) Promover as acções de divulgação técnica que lhe sejam determinadas.
+2 - Conteúdo funcional da carreira de embarcações salva-vidas (pessoal de convés)
+Compete ao patrão de salva-vidas:
+a) Comandar o salva-vidas ou embarcação substituta em todas as condições de tempo e de mar que os serviços de socorros imponham, ou sempre que outras saídas lhe sejam determinadas pela autoridade competente;
+b) Manter o salva-vidas sempre apetrechado e pronto a ser lançado ao mar ou largar da sua amarração no mais curto espaço de tempo;
+c) Manter em perfeita ordem a limpeza e conservação do salva-vidas, casa-abrigo, carreira ou qualquer outro dispositivo de salvamento, lançamento e mais material pertencente à estação;
+d) Cumprir e fazer cumprir todas as determinações técnicas e logísticas emanadas pelo Instituto de Socorros a Náufragos através da Autoridade Marítima;
+e) Conduzir o motor do salva-vidas e da embarcação substituta, substituindo o motorista nos casos de emergência ou no seu impedimento.
+Compete ao sota-patrão de salva-vidas:
+a) Executar todas as ordens referentes ao serviço que lhe sejam dadas pelo patrão de salva-vidas;
+b) Substituir o patrão de salva-vidas no seus impedimentos, sendo-lhe então atribuídos todos os deveres e direitos do patrão salva-vidas.
+Compete ao marinheiro de salva-vidas:
+a) Executar todas as ordens referentes ao serviço que lhe sejam dadas pelo patrão, ou sota-patrão, no impedimento daquele;
+b) Substituir o sota-patrão de salva-vidas nos seus impedimentos, quando para tal estiver habilitado.
+3 - Conteúdo funcional da carreira de motorista de embarcações salva-vidas
+Compete ao motorista de embarcações de salva-vidas:
+a) Cumprir prontamente as ordens do patrão, ou do sota-patrão, no impedimento daquele, referentes ao funcionamento normal dos motores;
+b) Manter em perfeito estado de funcionamento o motor ou motores propulsores e outros maquinismos existentes a bordo, assim como toda a instalação eléctrica, carro-berço e demais dispositivos da estação;
+c) Manter em perfeita ordem, limpeza e conservação as dependências da estação a seu cargo;
+d) Executar, dentro dos recursos da estação e de bordo, os pequenos trabalhos de serralharia civil e mecânica necessários ao bom funcionamento do salva-vidas.
