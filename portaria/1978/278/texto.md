@@ -1,0 +1,13 @@
+Portaria n.º 278/78
+de 17 de Maio
+A dimensão mínima de 10 t de carga útil exigida através da alínea b) do n.º 1.º da Portaria n.º 815/73, de 17 de Novembro, para o efeito da aprovação de operações de concentração entre empresas que se dediquem ao transporte de mercadorias em veículos ligeiros de aluguer, tem-se revelado excessiva, sobretudo quando comparada com equivalente exigência nos casos em que as empresas possuem viaturas pesadas.
+Sem prejuízo de uma revisão mais profunda do citado diploma, procede-se agora à redução daquela dimensão mínima, com o que será possível, também, dar satisfação às expectativas criadas pelo artigo 10.º do Decreto-Lei n.º 367/77, de 2 de Setembro, que permite a mudança para raio sem limite de uma em cada quatro viaturas ligeiras, expectativa, no entanto, quase irrealizável quando fosse necessário apurar as quatro viaturas através da concentração de empresas.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Transportes, o seguinte:
+A alínea b) do n.º 1.º da Portaria n.º 815/73, de 17 de Novembro, passa a ter a seguinte redacção:
+1.º ...
+a) ...
+b) Empresas exploradoras de veículos ligeiros de aluguer para transporte de mercadorias - 4 t;
+c) ...
+2.º ...
+Ministério dos Transportes e Comunicações, 20 de Abril de 1978. - O Secretário de Estado dos Transportes, José Manuel Consiglieri Pedroso.
