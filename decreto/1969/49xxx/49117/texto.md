@@ -1,0 +1,15 @@
+Decreto n.º 49117
+O Estatuto do Ensino Liceal, promulgado pelo Decreto n.º 36508, de 17 de Setembro de 1947, consagra o princípio de que a equiparação entre os diversos estudos professados nas escolas portuguesas não pode ser estabelecida por via de declaração administrativa, carecendo sempre da prestação de provas de exames de transição, para efeito de prosseguimento de estudos.
+Diferente critério se adopta, no mesmo diploma legal, em relação aos cursos professados no estrangeiro, para os quais a declaração de equiparação é admitida, e tem sido largamente usada, sem qualquer inconveniente.
+Este regime apresenta, além do inconveniente do tratamento diferente de hipóteses paralelas, o de dificultar a continuação dos estudos de muitos alunos que, por erro na escolha do seu curso ou outras causas, pretendem mudar de curso, sem desperdício das habilitações já anteriormente adquiridas. Por outro lado, obrigam-se os estabelecimentos de ensino à organização de numerosos exames de transição, com a consequente sobrecarga para os serviços.
+Importa corrigir esta situação.
+Nestes termos:
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo único. O artigo 554.º do Decreto n.º 36508, de 17 de Setembro de 1947, passa a ter a seguinte redacção:
+Art. 554.º - 1. Independentemente dos exames de transição a que se refere o artigo 549.º, poderá o Ministro da Educação Nacional, ouvida a secção respectiva da Junta Nacional da Educação, estabelecer a equiparação a qualquer ano ou curso liceal de habilitações adquiridas em escolas portuguesas, para efeito de prosseguimento de estudos.
+2. São ainda mantidas as declarações de equiparação de habilitações adquiridas em escolas estrangeiras, podendo ser exigida a prestação de provas de exames singulares de alguma ou algumas disciplinas.
+3. São também mantidas as declarações de equiparação de estudos feitos em quaisquer escolas para o efeito de provimento em cargos públicos e para o efeito de prestação do serviço militar.
+Marcello Caetano - José Hermano Saraiva.
+Promulgado em 30 de Junho de 1969.
+Publique-se.
+Presidência da República, 10 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
