@@ -6,8 +6,8 @@
 
 2 - Se as inscrições têm a mesma data, notifica-se o interessado para que opte por uma delas, no prazo de 20 dias.
 
-3 - Se não houver resposta, a DGAI, em acto fundamentado, decide qual a inscrição que prevalece.
+3 - Se não houver resposta, o STAPE, em acto fundamentado, decide e comunica ao interessado e às comissões recenseadoras qual a inscrição que prevaleceu.
 
 4 - Não sendo possível apurar a inscrição mais recente, prevalece a última comunicação à BDRE.
 
-5 - A informação das eliminações determinadas pela BDRE será disponibilizada pela DGAI, através do SIGRE, às comissões recenseadoras respectivas.
+5 - As eliminações determinadas pela BDRE por motivo de inscrição múltipla são obrigatoriamente efectuadas pelas comissões recenseadoras nos respectivos ficheiros de eleitores manuais e ou informáticos, logo que recebidas.

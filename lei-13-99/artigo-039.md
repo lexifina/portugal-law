@@ -1,5 +1,5 @@
 # Artigo 39.º
 
-### Aceitação da inscrição
+### Aceitação do verbete
 
-A aceitação de inscrição só produz efeitos após a sua validação pela BDRE.
+A aceitação do verbete não implica decisão sobre a inscrição.

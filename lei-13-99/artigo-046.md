@@ -6,6 +6,6 @@
 
 ### Alteração de identificação
 
-1 - Qualquer modificação dos elementos de identificação dos eleitores é comunicada à BDRE, através do SIGRE.
+1 - Qualquer modificação dos elementos constantes do verbete de inscrição é efectuada mediante o preenchimento de novo verbete de inscrição.
 
-2 - No caso previsto no número anterior, não será alterada a circunscrição ou posto de recenseamento do eleitor.
+2 - No caso previsto no número anterior, o número de inscrição do eleitor não é alterado.

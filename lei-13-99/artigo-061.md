@@ -2,7 +2,7 @@
 
 ### Tribunal competente
 
-1 - Das decisões da DGAI sobre reclamações que lhe sejam apresentadas cabe recurso para o tribunal da comarca da sede da respectiva comissão recenseadora.
+1 - Das decisões das comissões recenseadoras sobre reclamações que lhes sejam apresentadas cabe recurso para o tribunal da comarca da respectiva sede.
 
 2 - Tratando-se de recurso interposto de decisão de comissão recenseadora no estrangeiro, é competente o Tribunal da Comarca de Lisboa.
 

@@ -6,7 +6,7 @@
 
 a) Direito de colaboração, sem prejuízo das funções próprias das comissões recenseadoras;
 
-b) Direito de pedir informações e de apresentar por escrito reclamações, protestos e contraprotestos, ficando as comissões recenseadoras e a DGAI, consoante os casos, obrigadas a prestar aquelas e a receber estes;
+b) Direito de pedir informações e de apresentar por escrito reclamações, protestos e contraprotestos, ficando as comissões recenseadoras obrigadas a prestar aquelas e a receber estes;
 
 c) Direito de obter cópia informatizada ou fotocópia dos cadernos de recenseamento, desde que ponham à disposição os meios humanos e técnicos adequados e suportem os respectivos encargos.
 

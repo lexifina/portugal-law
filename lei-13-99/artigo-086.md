@@ -2,4 +2,4 @@
 
 ### Atestado médico falso
 
-O médico que, indevidamente, passar atestado médico comprovativo de incapacidade física para efeitos de inscrição no recenseamento eleitoral é punido com pena de prisão até 6 meses ou com pena de multa até 60 dias.
+O médico que, indevidamente, passar atestado comprovativo de incapacidade física, para o efeito do disposto no n.º 2 do artigo 38.º, é punido com pena de prisão até 6 meses ou com pena de multa até 60 dias.

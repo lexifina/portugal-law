@@ -4,7 +4,7 @@
 
 O recenseamento é voluntário para:
 
-a) Os cidadãos nacionais residentes no estrangeiro, sem prejuízo da sua inscrição oficiosa no recenseamento nos termos definidos pela lei;
+a) Os cidadãos nacionais residentes no estrangeiro;
 
 b) Os cidadãos da União Europeia, não nacionais do Estado Português, residentes em Portugal;
 
