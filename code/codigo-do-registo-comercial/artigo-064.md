@@ -12,7 +12,7 @@ c) De constituição provisória de sociedades anónimas com apelo a subscriçã
 
 d) De aumento de capital por emissão de obrigações convertíveis em acções, antes da emissão destas;
 
-e) As deliberações da assembleia de credores que hajam aprovado ou rejeitado as providências de recuperação da empresa tomadas no correspondente processo, antes de transitada em julgado a decisão de homologação;
+e) De declaração de insolvência ou de indeferimento do respectivo pedido, antes do trânsito em julgado da sentença;
 
 f) De transmissão de quotas por arrematação judicial, antes de emitido o título;
 
@@ -24,7 +24,7 @@ i) De negócio jurídico anulável, ou ineficaz por falta de consentimento, ante
 
 j) De negócio jurídico celebrado por gestor ou por procurador sem poderes suficientes, antes da ratificação;
 
-l) De penhora, arresto ou apreensão em processo de falência ou insolvência, depois de ordenada a diligência, mas antes de esta ser efectuada;
+l) De apreensão em processo de insolvência, depois de proferida a sentença de declaração de insolvência, mas antes da efectiva apreensão;
 
 m) De arrolamento ou de outras providências cautelares antes de transitado em julgado o despacho;
 
@@ -32,7 +32,7 @@ n) De acções judiciais.
 
 2 - São ainda provisórias por natureza as inscrições:
 
-a) De penhora ou arresto de quotas das sociedades por quotas ou dos direitos a que se refere a parte final da alínea e) e da alínea f) do artigo 3.º e, bem assim, da apreensão dos mesmos bens em processo de falência ou insolvência, no caso de sobre eles subsistir registo de aquisição a favor de pessoa diversa do executado, arrestado, falido ou insolvente;
+a) De penhora ou arresto de quotas das sociedades por quotas ou dos direitos a que se refere a parte final da alínea e) e da alínea f) do artigo 3.º e, bem assim, da apreensão dos mesmos bens em processo de insolvência, no caso de sobre eles subsistir registo de aquisição a favor de pessoa diversa do executado, requerido ou insolvente;
 
 b) Dependentes de qualquer registo provisório;
 
