@@ -1,0 +1,14 @@
+Decreto-Lei n.º 729-D/75
+de 22 de Dezembro
+Pelo Decreto-Lei n.º 248/75, de 22 de Maio, foram os bancos comerciais e instituições equiparadas, nacionalizados, com sede no continente, autorizados a receber depósitos a prazo superior a um ano, considerando, nomeadamente, a necessidade de utilizar recursos adequados ao financiamento do investimento. E, de harmonia com o previsto no artigo 3.º desse diploma, determinou-se que metade do montante dos depósitos a prazo assim constituídos seria posta à ordem do Banco de Fomento Nacional, enquanto a metade restante seria exclusivamente aplicada, pelas instituições depositárias, em operações de financiamento a médio prazo, de dois a sete anos, a conceder a pequenas e médias empresas, até ao limite de 5000000$00 por empresa.
+Reconhecendo-se, entretanto, que as providências assim adoptadas não tiveram significativos efeitos favoráveis sobre a capacidade creditícia do sistema bancário, tomado no seu conjunto, não promovendo apreciável afluxo de poupanças disponíveis ao dito sistema bancário;
+Considerando, por outro lado, o objectivo de reestruturação do sistema de crédito nacional, atendendo não só às circunstâncias criadas pela nacionalização da generalidade das instituições de crédito, mas também à conveniência de reduzir o número de bancos comerciais, alargando, em contrapartida e adequadamente, o complexo das instituições especializadas de crédito e de instituições parabancárias, com vista a mais extensa e regular captação de poupanças e outras disponibilidades monetárias formadas e a melhor mobilização destes recursos no financiamento, directo ou indirecto, das necessidades de capital;
+Nestes termos:
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É revogado o Decreto-Lei n.º 248/75, de 22 de Maio, pelo que, a partir da data de entrada em vigor do presente diploma, os bancos comerciais e instituições a estes equiparadas, com sede no continente e ilhas adjacentes, apenas poderão aceitar depósitos a prazo não superior a um ano, além dos depósitos à ordem ou com pré-aviso que estão autorizados a constituir nos termos da legislação vigente.
+Art. 2.º O regime dos depósitos constituídos ao abrigo do previsto no artigo 1.º do citado Decreto-Lei n.º 248/75 e, bem assim, das aplicações efectuadas em conformidade com a regulamentação estabelecida nos termos do artigo 3.º do mesmo decreto-lei será fixado pelo Banco de Portugal, ouvidas as instituições de crédito interessadas.
+Art. 3.º O disposto no presente diploma entra em vigor na data da sua publicação.
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
+Promulgado em 22 de Dezembro de 1975.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
