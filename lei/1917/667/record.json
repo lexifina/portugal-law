@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1917/04/05000/02150216.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1917-04-02",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "1ba6112a44fc93c146baaa0526de22beceb923cb1845d0c7ecc3e1f2722b8362",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.2,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "80d3f35d7fef35c5dcb1b102e0ff35d8e30727fefa3014cce9104550619594c3",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 884
 }
