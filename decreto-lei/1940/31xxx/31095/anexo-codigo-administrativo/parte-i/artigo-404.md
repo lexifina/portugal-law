@@ -8,8 +8,16 @@
 
 # Artigo 404.º
 
-Em cada distrito haverá um magistrado administrativo, imediato representante do Govêrno, com a designação de governador civil, e um substituto dêste, ambos nomeados pelo Ministro do Interior, ao qual ficam imediatamente subordinados, podendo ser por êle livremente exonerados ou demitidos.
+1 - Em cada distrito haverá um governador civil, nomeado e exonerado pelo Governo, em Conselho de Ministros, por proposta do Ministro da Administração Interna, de quem orgânica e hierarquicamente depende.
 
-§ 1.º No impedimento simultâneo do governador civil efectivo e do substituto exercerá as funções o secretário do govêrno civil.
+2 - Nos distritos de Lisboa e do Porto haverá um vice-governador civil, nomeado e exonerado nos termos do número anterior.
 
-§ 2.º No caso de o governador civil se ausentar da sede do distrito com curta demora e por motivo de serviço público, poderá delegar as suas atribuïções, ou parte delas, no secretário do govêrno civil.
+3 - O governador civil representa o Governo na área do distrito.
+
+4 - O vice-governador civil coadjuva o governador civil, substitui-o nas suas faltas e impedimentos e tem a competência que o governador civil nele delegar, por despacho publicado no Diário da República.
+
+5 - Em caso de impedimento simultâneo do governador civil e do vice-governador civil, aquele é substituído pelo secretário do governo civil.
+
+6 - O governador civil pode delegar no secretário do governo civil o exercício de funções incluídas na sua competência, por despacho publicado no Diário da República.
+
+7 - O vice-governador civil e o secretário do governo civil só podem subdelegar os poderes recebidos do governador civil quando expressamente autorizados pelo despacho de delegação ou por despacho autónomo igualmente publicado.
