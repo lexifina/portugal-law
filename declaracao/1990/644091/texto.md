@@ -1,0 +1,5 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 192/90, publicado no Diário da República, 1.ª série, n.º 133, de 9 de Junho de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 76.º, alínea h), onde se lê «resultantes de contratos de suprimento celebrados com aquelas sociedades ou de tomadas de obrigações daquelas» deve ler-se «resultantes de contratos de suprimento celebrados com aquelas sociedades ou de tomada de obrigações daquelas».
+No artigo 102.º, onde se lê «em impresso de modelo aprovado pelo Ministério das Finanças, informação sobre a adjudicação de obras ou fornecimentos e aquisição de qualquer bem ou serviços a pessoas ou entidades sujeitas a IRC» deve ler-se «em impresso de modelo aprovado pelo Ministro das Finanças, informação sobre a adjudicação de obras ou fornecimentos e aquisição de quaisquer bens ou serviços a pessoas ou entidades sujeitas a IRC».
+Secretaria-Geral da Presidência do Conselho de Ministros, 11 de Julho de 1990. - O Secretário-Geral, França Martins.
