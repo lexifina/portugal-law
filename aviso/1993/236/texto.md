@@ -1,0 +1,5 @@
+Aviso n.º 236/93
+Por ordem superior se torna público que o Secretário-Geral da Organização das Nações Unidas, agindo na sua qualidade de depositário, comunicou que o Conselho Internacional do Trigo decidiu prorrogar o prazo de validade da Convenção sobre o Comércio do Trigo, 1986, concluída em Londres em 14 de Março de 1986, pelo período de dois anos, até 30 de Junho de 1995, em conformidade com o artigo 33 (2) da referida Convenção.
+Igualmente se informa que o Comité de Ajuda Alimentar decidiu prorrogar o prazo de validade da Convenção sobre a Ajuda Alimentar, 1986, concluída em Londres em 13 de Março de 1986, pelo período de dois anos, até 30 de Junho de 1995, em conformidade com o artigo XXII (2) da referida Convenção.
+Portugal é parte destas Convenções por aviso publicado no Diário da República, 1.ª série, n.º 195, de 25 de Agosto de 1989.
+Direcção-Geral dos Negócios Político-Económicos, 3 de Novembro de 1993. - O Director de Serviços dos Assuntos Multilaterais, António Raul Freitas Monteiro Portugal.
