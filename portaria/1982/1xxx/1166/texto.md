@@ -1,0 +1,16 @@
+Portaria n.º 1166/82
+de 18 de Dezembro
+Ao abrigo do disposto no artigo 17.º do Decreto-Lei n.º 329-A/74, de 10 de Julho:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio:
+1.º Ficam sujeitos, no continente, ao regime especial de preços previsto nesta portaria o bacalhau salgado seco e espécies afins no estádio de produção e de importação.
+2.º O regime especial de preços agora criado consiste na fixação dos preços através de acordo escrito celebrado entre a Direcção-Geral da Concorrência e Preços, a Comissão Reguladora do Comércio de Bacalhau, a Associação Distribuidora de Produtos Alimentares (ADIPA) e a Associação dos Armadores de Pesca Longínqua.
+3.º O acordo a que se refere o número anterior terá a duração nele estabelecida, mas nunca inferior a 90 dias, considerando-se sucessivamente renovado se qualquer dos signatários o não denunciar nos termos do número seguinte.
+4.º A denúncia do acordo é da iniciativa de qualquer dos signatários, mas só produz efeitos se for comunicada, por carta registada com aviso de recepção, aos outros outorgantes com a antecedência mínima de 30 dias a contar da data do termo do acordo.
+5.º A negociação e assinatura do acordo não poderão exceder a data do termo do acordo anterior.
+6.º No caso de não haver acordo até à data referida no número anterior, os preços serão fixados pelo Secretário de Estado do Comércio, que os comunicará aos interessados, por carta registada com aviso de recepção, no prazo máximo de 15 dias a contar daquela data, vigorando até lá os preços fixados no acordo anterior.
+7.º Os preços fixados pelo Secretário de Estado do Comércio vigorarão por um período de 90 dias, a contar da data do termo do acordo precedente, e serão sucessivamente renovados por igual período, se qualquer dos interessados não fizer uso do processo descrito no n.º 4.º
+8.º Até à fixação dos preços de harmonia com o disposto na presente portaria manter-se-ão em vigor os preços que se encontrem fixados à data da sua publicação.
+9.º A venda de bacalhau salgado seco e espécies afins por preços superiores aos resultantes da aplicação da presente portaria constitui crime de especulação.
+10.º É revogada a Portaria n.º 643/81, de 24 de Julho.
+11.º Esta portaria entra em vigor no dia imediato ao da sua publicação.
+Secretaria de Estado do Comércio, 24 de Novembro de 1982. - O Secretário de Estado do Comércio, António Escaja Gonçalves.
