@@ -1,0 +1,16 @@
+Declaração de Rectificação n.º 10-AS/99
+Para os devidos efeitos se declara que o Decreto-Lei n.º 172/99, publicado no Diário da República, 1.ª série, n.º 117, de 20 de Maio de 1999, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 18.º, onde se lê:
+«Artigo 3.º
+[...]
+1 - ...
+...
+v) A emissão [...]»
+deve ler-se:
+«Artigo 3.º
+[...]
+1 - ...
+...
+v) ...
+x) A emissão [...]»
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Junho de 1999. - O Secretário-Geral, Alexandre Figueiredo.
