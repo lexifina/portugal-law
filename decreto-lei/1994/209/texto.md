@@ -1,0 +1,79 @@
+Decreto-Lei n.º 209/94
+de 6 de Agosto
+As condições de distribuição ao público de medicamentos para uso humano, na Comunidade Europeia, variam significativamente de Estado membro para Estado membro, verificando-se, designadamente, que medicamentos de venda livre em determinados Estados apenas podem ser obtidos mediante receita médica noutros Estados membros.
+O estabelecimento progressivo do mercado interno, resultante do Acto Único Europeu, tem por corolário a livre circulação de mercadorias, pessoas, serviços e capitais, pelo que não se compadece com regimes jurídicos substancialmente distintos no que concerne às regras de distribuição de medicamentos.
+A Directiva n.º 92/26/CEE do Conselho, de 31 de Março, determinou a harmonização dos princípios básicos aplicáveis à classificação dos medicamentos de uso humano, para efeitos da sua circulação e distribuição uniformes no espaço intracomunitário.
+Nesta conformidade, o presente diploma transpõe a Directiva n.º 92/26/CEE para a ordem jurídica interna relativa ao regime jurídico da classificação de medicamentos de uso humano, quanto à dispensa ao público.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objecto
+O presente diploma transpõe para a ordem jurídica interna a Directiva n.º 92/26/CEE, do Conselho, relativa ao regime jurídico da classificação de medicamentos de uso humano, quanto à dispensa ao público.
+Artigo 2.º
+Receita médica
+Para efeitos do presente diploma, entende-se por receita médica a prescrição de um determinado medicamento de uso humano por profissional devidamente habilitado a prescrever medicamentos.
+Artigo 3.º
+Classificação
+1 - Os medicamentos de uso humano são classificados, quanto à dispensa ao público, em:
+a) Medicamentos sujeitos a receita médica;
+b) Medicamentos não sujeitos a receita médica.
+2 - Os medicamentos sujeitos a receita médica devem preencher uma das seguintes condições:
+a) Possam constituir, directa ou indirectamente, um risco, mesmo quando usados para o fim a que se destinam, caso sejam utilizados sem vigilância médica;
+b) Sejam com frequência utilizados em quantidade considerável para fins diferentes daquele a que se destinam, se daí puder resultar qualquer risco, directo ou indirecto, para a saúde;
+c) Contenham substâncias, ou preparações à base dessas substâncias, cuja actividade e ou efeitos secundários seja indispensável aprofundar;
+d) Sejam prescritos pelo médico para serem administrados por via parentérica.
+3 - Medicamentos não sujeitos a receita médica são os que não preencham qualquer das condições exigidas no número anterior.
+Artigo 4.º
+Medicamentos sujeitos a receita médica
+1 - Os medicamentos que, nos termos do n.º 2 do artigo anterior, sejam sujeitos a receita médica podem ser classificados como:
+a) Medicamentos de receita médica não renovável;
+b) Medicamentos de receita médica renovável;
+c) Medicamentos sujeitos a receita médica especial;
+d) Medicamentos de receita médica restrita, de utilização reservada a certos meios especializados.
+2 - As indicações a que devem obedecer as receitas, para efeitos de aplicação do artigo anterior, são aprovadas por despacho do Ministro da Saúde.
+Artigo 5.º
+Medicamentos de receita médica não renovável
+São medicamentos de receita médica não renovável os que não preencham as condições exigidas no presente diploma relativamente aos medicamentos previstos nas alínes b) a d) do n.º 1 do artigo anterior.
+Artigo 6.º
+Medicamentos de receita médica renovável
+São medicamentos de receita médica renovável os que, não preenchendo as condições exigidas no presente diploma relativamente aos medicamentos previstos nas alíneas c) e d) do n.º 1 do artigo 4.º, se destinem a determinadas doenças ou tratamentos prolongados e possam, no respeito pela segurança da sua utilização, ser adquiridos mais de uma vez, sem necessidade de nova prescrição médica.
+Artigo 7.º
+Medicamentos sujeitos a receita médica especial
+São medicamentos sujeitos a receita médica especial os que preencham uma das seguintes condições:
+a) Contenham, em dose não dispensada de receita, uma substância classificada como estupefaciente ou psicotrópico, nos termos do Decreto-Lei n.º 15/93, de 22 de Janeiro;
+b) Possam, em caso de utilização anormal, dar origem a riscos importantes de abuso medicamentoso, criar toxicodependência ou ser utilizados para fins ilegais;
+c) Contenham uma substância que, pela sua novidade ou propriedades, se considere, por precaução, incluída nas situações previstas na alínea anterior.
+Artigo 8.º
+Medicamentos de receita médica restrita
+Os medicamentos de receita médica restrita são aqueles cuja utilização é reservada a certos meios especializados por preencherem uma das seguintes condições:
+a) Devam ser reservados exclusivamente a tratamentos em meio hospitalar, devido às suas características farmacológicas, à sua novidade, ou por razões de saúde pública;
+b) Devam ser utilizados em patologias cujo diagnóstico seja efectuado apenas em meio hospitalar ou estabelecimentos diferenciados com meios de diagnóstico adequados, ainda que a sua administração e o acompanhamento dos pacientes possam realizar-se fora desses meios;
+c) Sejam destinados a pacientes em tratamento ambulatório, mas a sua utilização seja susceptível de causar efeitos adversos muito graves, requerendo a prescrição de uma receita médica, se necessário emitida por especialista, e uma vigilância especial durante o período de tratamento.
+Artigo 9.º
+Medicamentos não sujeitos a receita médica
+1 - Os medicamentos não sujeitos a receita médica não são comparticipáveis, salvo em casos excepcionais, devidamente justificados por razões de saúde pública.
+2 - O regime de preços dos medicamentos não sujeitos a receita médica é fixado por portaria conjunta dos Ministros da Saúde e do Comércio e Turismo.
+Artigo 10.º
+Classificação dos medicamentos
+1 - A inclusão dos medicamentos nas classificações referidas neste diploma é feita no despacho que autoriza a introdução no mercado do medicamento.
+2 - Sempre que se verifique a renovação da autorização de introdução no mercado de medicamentos ou elementos susceptíveis de modificarem a classificação, esta deve ser revista e, se for caso disso, alterada de acordo com os critérios do presente diploma.
+Artigo 11.º
+Listas de medicamentos
+As listas de medicamentos sujeitos e não sujeitos a receita médica são publicadas no Diário da República, anualmente, após aprovação do Ministro da Saúde.
+Artigo 12.º
+Critérios de classificação
+Os critérios de classificação dos medicamentos sujeitos e não sujeitos a receita médica são aprovados por portaria do Ministro da Saúde.
+Artigo 13.º
+Disposições transitórias
+1 - Sem prejuízo do disposto no artigo 10.º, a classificação dos medicamentos, já introduzidos no mercado, como de venda livre e sujeitos a receita médica mantém-se até à entrada em vigor da portaria referida no artigo anterior.
+2 - Até à publicação da portaria conjunta prevista no n.º 2 do artigo 9.º, mantém-se em vigor a Portaria n.º 261/91, de 30 de Março.
+3 - Para efeitos do artigo 11.º, as primeiras listas dos medicamentos devem ser publicadas até 31 de Dezembro de 1994.
+Artigo 14.º
+Norma revogatória
+São revogados o n.º 2 do artigo 61.º e os artigos 88.º a 90.º do Decreto-Lei n.º 72/91, de 8 de Fevereiro.
+Visto e aprovado em Conselho de Ministros de 23 de Junho de 1994. - Aníbal António Cavaco Silva - Adalberto Paulo da Fonseca Mendo - Fernando Manuel Barbosa Faria de Oliveira.
+Promulgado em 12 de Julho de 1994.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 14 de Julho de 1994.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
