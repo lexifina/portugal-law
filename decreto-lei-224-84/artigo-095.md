@@ -32,7 +32,7 @@ n) Na de locação financeira: o prazo e a data do seu início;
 
 o) Na de consignação de rendimentos: o prazo de duração ou, se for por tempo indeterminado, a quantia para cujo pagamento se fez a consignação e a importância a descontar em cada ano, se tiver sido estipulada uma quantia fixa;
 
-p) Na de constituição da propriedade horizontal: o valor relativo de cada fracção expresso em percentagem ou permilagem e os direitos dos condóminos especialmente regulados pelo título; e na de alteração do título constitutivo: a descrição da alteração;
+p) Na de constituição de propriedade horizontal: o valor relativo de cada fracção, expresso em percentagem ou permilagem, e a existência de regulamento, caso este conste do título constitutivo; e na de alteração do título constitutivo: a descrição da alteração;
 
 q) Na de constituição do direito de habitação periódica: o número de fracções temporais com indicação do início e termo de duração em cada ano, bem como o respectivo regime na parte especialmente regulada pelo título;
 
