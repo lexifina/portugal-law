@@ -16,7 +16,7 @@ a) Se ocorre algumas das causas legalmente previstas que determinem o seu indefe
 
 b) Se foram observados os requisitos mencionados nos n.os 2 e 4 do artigo 9.º
 
-4 - A comissão competente deve apreciar as petições no prazo prorrogável de 60 dias a contar da data da reunião a que se refere o número anterior.
+4 - A comissão competente deve apreciar as petições no prazo de 60 dias a contar da data da reunião a que se refere o número anterior.
 
 5 - Se ocorrer o caso previsto no n.º 5 do artigo 9.º, o prazo estabelecido no número anterior só começa a correr na data em que se mostrem supridas as deficiências verificadas.
 

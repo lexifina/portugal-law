@@ -4,7 +4,7 @@
 
 1 - São publicadas na íntegra no Diário da Assembleia da República as petições:
 
-a) Assinadas por um mínimo de 2500 cidadãos;
+a) Assinadas por um mínimo de 2000 cidadãos;
 
 b) As que o Presidente da Assembleia da República, sob proposta da comissão, entender que devem ser publicadas.
 
