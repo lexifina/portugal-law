@@ -1,0 +1,5 @@
+# Artigo 103.º
+
+### Extravio do cartão de eleitor
+
+No caso de extravio do cartão de eleitor, os eleitores têm o direito de obter informação sobre o seu número de inscrição no recenseamento na junta de freguesia.
