@@ -1,0 +1,3 @@
+Despacho Normativo n.º 120/82
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 2 (produtos fitofarmacêuticos), é autorizada a substituição da embalagem com o conteúdo líquido de 5 kg por outra de 44 g relativamente aos produtos fitofarmacêuticos com base em manebe + oxicloreto de cobre + zinebe, formulado em pó molhável, com os teores de 10% + 30% de Cu + 10%, respectivamente.
+Secretarias de Estado da Produção Agrícola e do Comércio, 22 de Abril de 1982. - O Secretário de Estado da Produção Agrícola, José Vicente de Carvalho Cardoso. - O Secretário de Estado do Comércio, António Escaja Gonçalves.
