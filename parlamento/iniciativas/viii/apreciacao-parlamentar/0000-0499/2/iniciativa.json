@@ -1,0 +1,74 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "tipo": "Apreciação Parlamentar",
+  "numero": "2",
+  "id": "6371",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1999-11-04",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2000-09-14",
+    "DataInicioleg": "1999-10-25",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PCP",
+        "idCadastro": "215",
+        "nome": "Lino de Carvalho"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PCP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": [
+      {
+        "assunto": "Cessação da vigência do Decreto-lei nº 376/99 de 21 de Setembro.",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "6253",
+        "legislatura": "VIII",
+        "numero": "14",
+        "sessao": "1",
+        "tipo": "R"
+      },
+      {
+        "assunto": "Cessação da vigência do Decreto-lei nº 376/99 de 21 de Setembro.",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "6254",
+        "legislatura": "VIII",
+        "numero": "13",
+        "sessao": "1",
+        "tipo": "R"
+      }
+    ],
+    "IniDescTipo": "Apreciação Parlamentar",
+    "IniEpigrafe": null,
+    "IniId": "6371",
+    "IniLeg": "VIII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4d784e3255785a47526d4c57566b4e5441744e47566a4e433035595751354c57466a4e4755794e574d344f474e6b4e43356b62324d3d&fich=317e1ddf-ed50-4ec4-9ad9-ac4e25c88cd4.doc&Inline=true",
+    "IniNr": "2",
+    "IniObs": "DL376/99.",
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "A",
+    "IniTitulo": "Decreto-lei nº 376/99,de 21 de Setembro, que \"cria a Administração-Geral Tributária\".",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
