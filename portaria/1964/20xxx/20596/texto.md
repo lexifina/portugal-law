@@ -1,0 +1,3 @@
+Portaria n.º 20596
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial de 15100$00, a inscrever em adicional à tabela de despesa do orçamento privativo em vigor da Comissão de Coordenação dos Serviços Provinciais de Planeamento e Integração Económica, destinado ao pagamento de despesas de anos económicos findos, tomando como contrapartida o saldo do ano económico findo.
+Ministério do Ultramar, 22 de Maio de 1964. - Pelo Ministro do Ultramar, Mário Ângelo Morais de Oliveira, Subsecretário de Estado do Fomento Ultramarino.
