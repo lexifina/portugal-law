@@ -1,0 +1,17 @@
+Portaria n.º 955/80
+de 10 de Novembro
+Nos termos do n.º 1 do artigo 20.º do Decreto-Lei n.º 191-C/79, de 25 de Junho:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e do Comércio e Turismo e pelo Secretário de Estado da Reforma Administrativa, o seguinte:
+Os quadros do pessoal do Ministério do Comércio e Turismo pertencentes aos serviços e organismos indicados nas alíneas seguintes são substituídos pelos quadros anexos à presente portaria:
+a) Direcção-Geral de Fiscalização Económica, mapa anexo ao Decreto n.º 412-G/75, de 7 de Agosto, com as alterações que lhe foram introduzidas pela Portaria n.º 738/76, de 14 de Dezembro, pelas listas nominativas de 8, 23 e 30 de Junho, 13 de Agosto e 15 de Novembro de 1977, 22 de Abril e 30 de Junho de 1978, organizadas nos termos dos n.os 4 e 5 do artigo 24.º do Decreto Regulamentar n.º 7/77, de 21 de Janeiro, pelos despachos do Conselho da Revolução de 3 de Março, 13 de Maio, 20 de Julho e 22 de Novembro de 1977 e pelo quadro I anexo ao Decreto Regulamentar n.º 16/78, de 20 de Maio;
+b) Direcção-Geral de Coordenação Comercial, mapa anexo ao Decreto n.º 323/76, de 6 de Maio, com as alterações que lhe foram introduzidas pelo quadro II da Portaria n.º 721/78, de 11 de Dezembro;
+c) Direcção-Geral do Comércio Alimentar, mapa anexo ao Decreto n.º 324/76, de 6 de Maio, com as alterações que lhe foram introduzidas pelas listas nominativas de 11 de Novembro de 1977, organizadas nos termos dos n.os 4 e 5 do artigo 24.º do Decreto Regulamentar n.º 7/77, de 21 de Janeiro;
+d) Direcção-Geral do Comércio não Alimentar, mapa anexo ao Decreto n.º 325/76, de 6 de Maio, com as alterações que lhe foram introduzidas pelo mapa anexo à Portaria n.º 118/77, de 10 de Março;
+e) Secretaria-Geral, Gabinete de Organização e Métodos, Gabinete de Relações Públicas e Auditoria Jurídica, quadro único constante do mapa anexo ao Decreto Regulamentar n.º 7/77, de 21 de Janeiro, e pessoal supranumerário resultante do disposto no n.º 7 do artigo 24.º do citado diploma, com as alterações que lhe foram introduzidas pelo Decreto Regulamentar n.º 50/78, de 15 de Dezembro, pelas listas nominativas de 18 e 31 de Maio de 1977 e 30 de Outubro de 1978, organizadas nos termos dos n.os 4 e 5 do artigo 24.º do Decreto Regulamentar n.º 7/77, e pelo despacho ministerial publicado em 1 de Agosto de 1979;
+f) Direcção-Geral do Comércio Externo, mapa anexo ao Decreto Regulamentar n.º 15/77, de 23 de Fevereiro, com as alterações que lhe foram introduzidas pelos Decretos Regulamentares n.os 53/77, de 18 de Dezembro, e 49/78, de 13 de Dezembro, e pela Portaria n.º 747/78, de 16 de Dezembro;
+g) Instituto Nacional da Propriedade Industrial, quadro anexo ao Decreto Regulamentar n.º 16/77, de 2 de Março, com as alterações que lhe foram introduzidas pela lista nominal de 2 de Janeiro de 1979, organizada nos termos do n.º 4 do artigo 24.º do Decreto Regulamentar n.º 7/77, de 21 de Janeiro;
+h) Instituto Nacional do Frio, quadro anexo ao Decreto-Lei n.º 87/77, de 8 de Março.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Comércio e Turismo, 28 de Outubro de 1980. - Pelo Ministro das Finanças e do Plano, José António da Silveira Godinho, Secretário de Estado Adjunto do Ministro das Finanças e do Plano. - O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
+
+QUADRO I ao QUADRO VIII
+(ver documento original)
