@@ -2,7 +2,7 @@
 
 ### Manutenção de registos de alojamentos
 
-1 - Os titulares da exploração dos alojamentos para hospedagem de animais de companhia, com ou sem fins lucrativos, com fins médico-veterinários e os centros de recolha devem manter, pelo prazo de um ano, os seguintes registos:
+1 - Os proprietários dos alojamentos referidos nos n.os 1 e 2 do artigo 3.º devem manter, pelo prazo de um ano, os seguintes registos:
 
 a) A identificação do detentor do animal, designadamente nome e morada;
 
@@ -12,6 +12,6 @@ c) O número de animais por espécie;
 
 d) O movimento mensal, nomeadamente registos relativos à origem e às datas das entradas, nascimentos, mortes e, ainda, datas de saída e destino dos animais.
 
-2 - Excetuam-se do disposto na alínea a) do número anterior os alojamentos sem fins lucrativos, os destinados exclusivamente à venda de animais e os centros de recolha.
+2 - Exceptuam-se do disposto na alínea a) os alojamentos sem fins lucrativos, os destinados à venda de animais, os com fins higiénicos e os centros de recolha.
 
 3 - Exceptuam-se do disposto nas alíneas c) e d) os alojamentos de animais com fins higiénicos.

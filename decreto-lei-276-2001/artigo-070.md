@@ -2,6 +2,6 @@
 
 ### Tramitação processual
 
-1 - Compete à DGAV e aos órgãos de polícia criminal a instrução dos processos de contraordenação.
+1 - Compete à DRA da área da prática da infracção a instrução dos processos de contra-ordenação.
 
-2 - Compete ao diretor-geral de Alimentação e Veterinária ou ao diretor do respetivo órgão de polícia criminal a aplicação das coimas e das sanções acessórias.
+2 - Compete ao director-geral de Veterinária a aplicação das coimas e das sanções acessórias.

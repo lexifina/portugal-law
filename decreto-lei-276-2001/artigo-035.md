@@ -2,32 +2,14 @@
 
 ### Venda em feiras e mercados
 
-1 - A venda de animais de companhia em feiras e mercados só é permitida quando se encontrem asseguradas as condições de bem-estar animal e de segurança para as pessoas, outros animais e bens, designadamente:
+1 - É excepcionalmente admitida a venda de animais de companhia em feiras e mercados dependendo da concessão de licença, a requerer pelos interessados na câmara municipal da área onde as mesmas tiverem lugar, no prazo mínimo de 30 dias antes da realização das mesmas.
 
-a) Os animais devem ser alojados por espécies;
+2 - A licença referida no número anterior é concedida com base no parecer obrigatório do médico veterinário municipal, sobre o requerimento em causa, desde que estejam asseguradas as condições de bem-estar animal e de segurança para as pessoas, outros animais e bens.
 
-b) A área disponível no alojamento deve permitir que os animais se possam virar, deitar e levantar;
+3 - A venda de cães e gatos deve obedecer às seguintes condições:
 
-c) Os animais não podem ter os membros atados;
+a) Cumprir os requisitos hígio-sanitários em vigor;
 
-d) Os animais devem estar protegidos da chuva, de sol direto, do vento ou de outros fatores ambientais que lhes provoquem desconforto;
+b) Os animais devem ter idade superior a 8 semanas;
 
-e) Devem ser disponibilizados pontos de água e os animais devem ter acesso à mesma permanentemente.
-
-2 - A venda de cães e gatos em feiras e mercados obedece às condições previstas no artigo 27.º, com as necessárias adaptações, devendo os animais:
-
-a) Cumprir os requisitos higiossanitários, de identificação, registo e licenciamento em vigor;
-
-b) Ter idade superior a 8 semanas.
-
-3 - A venda de animais de companhia em feiras e mercados depende de:
-
-a) Autorização da câmara territorialmente competente para a realização de feira ou mercado por entidade privada, nos termos da legislação aplicável;
-
-b) Mera comunicação prévia à câmara, para que esta promova uma vistoria aos locais de venda pelo médico veterinário municipal.
-
-4 - A comunicação referida na alínea b) do número anterior é apresentada pelo organizador do evento, por via eletrónica, através do balcão único eletrónico dos serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.
-
-5 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a comunicação referida na alínea b) do n.º 3 pode ser apresentada por qualquer outro meio previsto na lei.
-
-6 - Não é permitida a venda ambulante de animais de companhia.
+c) A sua permanência nos locais não deve ultrapassar o limite máximo de 15 dias, contados a partir da data em que neles deram entrada, prazo após o qual os animais deverão ser retirados para o seu alojamento de origem.

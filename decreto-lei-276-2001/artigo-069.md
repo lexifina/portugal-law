@@ -6,9 +6,9 @@ Consoante a gravidade da contra-ordenação e a culpa do agente, poderão ser ap
 
 a) Perda a favor do Estado de objectos e animais pertencentes ao agente utilizados na prática do acto ilícito;
 
-b) Interdição do exercício de uma profissão ou atividade reguladas no presente diploma, cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;
+b) Interdição do exercício de uma profissão ou actividade cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;
 
-c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos às atividades reguladas no presente diploma;
+c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
 
 d) Privação do direito de participarem em feiras ou mercados de animais;
 

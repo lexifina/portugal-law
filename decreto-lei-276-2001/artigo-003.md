@@ -1,33 +1,43 @@
 # Artigo 3.º
 
-### Procedimento para o exercício da atividade de exploração de alojamentos e criação comercial de animais de companhia
+### Licença de funcionamento
 
-1 - Sem prejuízo do disposto no Decreto-Lei n.º 10/2015, de 16 de janeiro, quanto aos estabelecimentos de comércio a retalho de animais de companhia, o exercício da atividade de exploração de alojamentos, bem como a atividade de criação comercial de animais de companhia depende de:
+1 - Os alojamentos para hospedagem sem fins lucrativos, com fins comerciais, com excepção dos destinados exclusivamente à venda, e os centros de recolha carecem de licença de funcionamento a emitir pelo director-geral de Veterinária, sob parecer da DRA da área de localização e do médico veterinário municipal, no caso dos centros de recolha.
 
-a) Mera comunicação prévia, no caso dos centros de recolha, alojamentos para hospedagem, com ou sem fins lucrativos, criação comercial de animais de companhia, em qualquer caso com exceção dos destinados exclusivamente à venda, sem prejuízo do disposto na alínea seguinte;
+2 - Para os efeitos do disposto no número anterior, deve ser apresentado um requerimento, na DRA da área da localização, de onde constem a identificação do detentor, a indicação do fim a que se destina o alojamento, as espécies animais de companhia a alojar e a indicação do médico veterinário que é responsável pelo alojamento.
 
-b) Permissão administrativa, no caso dos alojamentos para hospedagem com fins lucrativos destinados à reprodução e criação de animais potencialmente perigosos, nomeadamente de cães das raças consideradas como potencialmente perigosas.
+3 - Com o requerimento devem ser entregues os seguintes documentos:
 
-2 - (Revogado.)
+a) Planta de localização e licença de construção e ou licença de utilização, sempre que aplicável, emitida pela câmara municipal da área;
 
-3 - (Revogado.)
+b) Parecer do médico veterinário municipal em folha timbrada da respectiva edilidade com selo branco sobre a sua assinatura;
 
-4 - (Revogado.)
+c) Planta do piso;
 
-5 - (Revogado.)
+d) Cortes e alçados;
 
-6 - (Revogado.)
+e) Planta de rede eléctrica;
 
-7 - (Revogado.)
+f) Planta da rede de águas;
 
-8 - (Revogado.)
+g) Planta da rede de esgotos;
 
-9 - (Revogado.)
+h) Memória descritiva, nomeadamente com indicação precisa da função dos diferentes locais e das instalações destinadas ao alojamento dos animais em menção. Terá de ser indicado o número e o tipo de alojamentos disponíveis, assim como as dimensões dos mesmos, o número e as espécies de animais susceptíveis de serem detidos;
 
-10 - (Revogado.)
+i) A prova de inscrição no registo comercial, sempre que aplicável;
 
-11 - A comunicação prévia ou a permissão administrativa dão lugar a um número de identificação, o qual é pessoal e intransmissível.
+j) Certificado de capacidade do treinador, no caso dos centros de treino.
 
-12 - A DGAV publicita, no seu sítio de Internet, os nomes dos criadores comerciais de animais de companhia e respetivo município de atividade e número de identificação.
+4 - Após análise dos documentos referidos no número anterior, a DRA emite o seu parecer, no prazo máximo de 60 dias, e envia o processo à DGV para decisão.
 
-13 - O disposto nos números anteriores não prejudica as obrigações devidas junto da Autoridade Tributária e Aduaneira..
+5 - A licença é concedida quando os alojamentos cumpram as disposições do presente diploma, podendo, para o efeito, a autoridade competente determinar a realização de alterações nos mesmos, em prazo a fixar.
+
+6 - A DGV notifica, no prazo de 60 dias, a decisão que vier a proferir ao interessado, à DRA e à câmara municipal.
+
+7 - A licença tem a validade de cinco anos a contar da data da sua emissão.
+
+8 - No prazo de 60 dias antes do termo de validade da licença, deve o interessado solicitar a sua renovação, em requerimento dirigido ao director-geral de Veterinária, sem o que a mesma caducará.
+
+9 - A licença deve ser colocada à entrada do alojamento, em local visível para o público.
+
+10 - Os alojamentos referidos no n.º 1 já em funcionamento à data de entrada em vigor do presente diploma devem requerer a licença de funcionamento no prazo de 180 dias a contar da sua publicação, sem o que serão encerrados.

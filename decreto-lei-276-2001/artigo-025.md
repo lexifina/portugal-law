@@ -6,10 +6,8 @@
 
 2 - Os alojamentos para a reprodução/criação, para além do disposto no número anterior, devem possuir instalações individualizadas destinadas à maternidade e à criação até à idade adulta, a quarentena, a enfermaria, o manuseamento de alimentos e à higienização dos animais.
 
-3 - Os alojamentos para hospedagem com fins lucrativos, nos quais sejam alojados apenas machos, utilizados como reprodutores, estão dispensados de possuir instalações destinadas à maternidade e à criação até à idade adulta.
+3 - Os hotéis para animais, para além do disposto no n.º 1, devem possuir instalações individualizadas para enfermaria, manuseamento de alimentos e higienização dos animais.
 
-4 - Os hotéis para animais, para além do disposto no n.º 1, devem possuir instalações individualizadas para enfermaria, manuseamento de alimentos e higienização dos animais.
+4 - Os alojamentos referidos ao abrigo deste capítulo devem possuir área de recreio coberta e descoberta com estruturas e objectos que permitam enriquecer o meio ambiente, nomeadamente prateleiras, poleiros, ninhos, esconderijos e material para entretenimento dos animais conforme as espécies e o seu grau de desenvolvimento, consoante se trate de adultos, jovens ou fêmeas com ninhadas.
 
-5 - Os alojamentos referidos ao abrigo deste capítulo devem possuir área de recreio coberta e descoberta com estruturas e objectos que permitam enriquecer o meio ambiente, nomeadamente prateleiras, poleiros, ninhos, esconderijos e material para entretenimento dos animais conforme as espécies e o seu grau de desenvolvimento, consoante se trate de adultos, jovens ou fêmeas com ninhadas.
-
-6 - Os alojamentos referidos neste capítulo devem obedecer aos parâmetros mínimos adequados à espécie, nomeadamente os constantes do anexo I ao presente diploma, do qual faz parte integrante.
+5 - Os alojamentos referidos neste capítulo devem obedecer aos parâmetros mínimos adequados à espécie, nomeadamente os constantes do anexo I ao presente diploma, do qual faz parte integrante.
