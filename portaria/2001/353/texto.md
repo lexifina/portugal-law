@@ -1,0 +1,28 @@
+Portaria n.º 353/2001
+de 9 de Abril
+A actividade da pesca em águas interiores reveste-se de características particulares, dependendo não só das zonas geográficas mas também de alterações dos ecossistemas, pelo que se torna necessária uma actualização constante das normas regulamentadoras da pesca, procurando assegurar a sustentabilidade desta actividade económica, através da gestão dos recursos que explora.
+A lampreia (Petromyzon marinus) é uma espécie migradora de elevado valor económico que, durante o seu ciclo biológico, se dirige a águas interiores para desovar, fase durante a qual é capturada, quer em águas sob jurisdição das capitanias quer em águas geridas pela Direcção-Geral das Florestas.
+Tendo em vista a necessidade de garantir a reprodução da espécie, estabelece-se para o rio Cávado um regime de gestão prevendo-se a proibição da pesca da lampreia um dia em cada semana, harmonizada com a interdição de pesca com estacada, com o objectivo de permitir a subida, no rio, das lampreias.
+Trata-se de um regime experimental, motivado pelas dificuldades existentes de transposição da barra de Esposende, que teve em conta que existem escassas alternativas para algumas comunidades piscatórias e será objecto de acompanhamento por parte do Instituto de Investigação das Pescas e do Mar (IPIMAR), podendo o mesmo ser ajustado em função dos conhecimentos entretanto obtidos e da definição de uma gestão mais harmonizada dos recursos, não perdendo de vista que a pesca da lampreia tem um forte impacte local a nível sócio-económico.
+Tendo, para o efeito, sido ouvido o IPIMAR e a Capitania do Porto de Viana do Castelo;
+Assim, ao abrigo do n.º 1 do artigo 59.º do Decreto Regulamentar n.º 43/87, de 7 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º São aditados os artigos 10.º-A e 10.º-B à Portaria n.º 565/90, de 19 de Julho, que estabelece o Regulamento da Pesca no Rio Cávado, com a seguinte redacção:
+«Artigo 10.º-A
+Condicionamentos ao uso de lampreeira
+1 - O número máximo de embarcações a licenciar com lampreeira é fixado em 50, não podendo operar, simultaneamente, mais de 25 embarcações.
+2 - O número máximo referido no número anterior pode ser alterado por despacho do membro do Governo, mediante parecer do IPIMAR e ouvido o capitão do Porto de Viana do Castelo.
+3 - Apenas poderão ser licenciadas com lampreeira embarcações que não possuam licença para armadilhas de barragem estacada.
+4 - Só será autorizada uma rede de tresmalho de deriva para a captura de lampreia por embarcação, com as características descritas no anexo I, sendo ponderados os seguintes critérios de prioridade na atribuição de licenças:
+a) Actividade de pesca com lampreeira, devidamente comprovada através de descarga em lota;
+b) Armadores titulares de licença de tresmalho de lampreia que, no ano anterior, tenham efectuado a entrega voluntária de, pelo menos, quatro lampreias vivas e em condições de serem utilizadas para efeitos de repovoamento, nos termos a determinar por edital da Capitania do Porto de Viana do Castelo, nos quais serão determinadas as datas em que os exemplares deverão ser entregues, o local onde ficarão armazenados e a entidade responsável pelo repovoamento;
+c) Data de entrada do requerimento na Direcção-Geral das Pesca e Aquicultura.
+Artigo 10.º-B
+Funcionamento dos turnos de lampreeira
+O exercício da pesca com lampreeira no sistema de turnos fica sujeito aos seguintes condicionalismos:
+a) Serão estabelecidos dois turnos, sendo cada turno constituído por um máximo de 25 embarcações licenciadas para esta arte, devendo nomear um responsável, designado por chefe de turno, dando conhecimento ao capitão do Porto;
+b) Um dos turnos poderá pescar à segunda-feira, quarta-feira e sexta-feira, podendo o segundo turno pescar à terça-feira, quinta-feira e sábado;
+c) Em cada dia, cada turno poderá exercer a pesca entre o nascer do sol do dia a que diz respeito e o nascer do sol do dia seguinte;
+d) A pesca é proibida entre o nascer do sol de domingo e o nascer do sol de segunda-feira;
+e) Quando as condições atmosféricas, ou quaisquer outras circunstâncias, não permitam o exercício da pesca com lampreeira, o turno a que competir pescar nesse dia perde a vez.»
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, José Apolinário Nunes Portada, Secretário de Estado das Pescas, em 5 de Março de 2001.
