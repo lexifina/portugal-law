@@ -1,0 +1,24 @@
+Decreto-Lei n.º 46310
+No Decreto-Lei n.º 43853, de 10 de Agosto de 1961, que criou a Direcção-Geral dos Hospitais, diz-se o seguinte:
+A natureza Complexa da actividade hospitalar, simultâneamente médica e social, e abrangendo tanto o campo da acção curativa e recuperadora como o da colaboração na prevenção das doenças, impõe crescentemente uma orientação técnica especializada, em nível superior. E essa orientação terá de ficar a cargo de um órgão com capacidade jurídica e administrativa que lhe permita definir a nossa política hospitalar e superintender na sua execução.
+Os propósitos anunciados pelo Governo de proceder a profunda reorganização do sector hospitalar e a prossecução dos objectivos já dotados financeiramente no Plano Intercalar de Fomento obrigam a tomar providências imediatas, que não podem aguardar a reforma geral do Ministério da Saúde e Assistência, completando, desta maneira, as que foram tomadas pelo Decreto-Lei n.º 44320, de 30 de Abril de 1962, e pelo Decreto-Lei n.º 45283, de 1 de Outubro de 1963.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º - 1. Até à publicação do diploma orgânico do Ministério da Saúde e Assistência, o quadro de pessoal para os serviços da Direcção-Geral dos Hospitais será estabelecido em despacho conjunto dos Ministros das Finanças e da Saúde e Assistência, dentro das categorias constantes do mapa anexo a este diploma.
+2. O pessoal dirigente e técnico pertence aos serviços centrais, mas pode ser colocado nas direcções de zona, quando necessário, mediante despacho ministerial.
+3. O pessoal administrativo e menor de cada uma das direcções de zona será pago pelos orçamentos das respectivas comissões inter-hospitalares.
+Art. 2.º - 1. A Direcção-Geral dos Hospitais compreenderá os seguintes serviços: Inspecções Superiores de Planeamento e Organização, de Gestão, de Medicina, de Serviços Farmacêuticos e de Instalações e Equipamento; Inspecções de Enfermagem e de Acção Social, Gabinete de Estudos Médico-Sociais; Repartição Administrativa; direcções de zona e comissões inter-hospitalares.
+2. Os estabelecimentos oficiais de natureza hospitalar dependentes do Ministério da Saúde e Assistência e não integrados nos institutos coordenadores de assistência médico-social consideram-se também integrados na Direcção-Geral dos Hospitais, mas não ficam abrangidos pelas disposições deste diploma.
+Art. 3.º As primeiras nomeações do pessoal para o quadro referido no artigo 1.º serão feitas, a título provisório, por escolha do Ministro da Saúde e Assistência, de entre indivíduos com a idade e as habilitações legais, podendo converter-se em definitivas ao fim de três anos de bom e efectivo serviço.
+Art. 4.º - 1. O pessoal actualmente em serviço na Direcção-Geral dos Hospitais, qualquer que seja o regime em que se encontre, poderá ser colocado no quadro a que se refere o número anterior, desde que possua as correspondentes habilitações legais.
+2. A colocação será feita, com ressalva dos direitos adquiridos, por simples despacho do Ministro da Saúde e Assistência, publicado no Diário do Governo, com dispensa do visto do Tribunal de Contas, diploma e posse.
+Art. 5.º O Ministro da Saúde e Assistência poderá determinar, mediante portaria, que os institutos coordenadores da assistência médico-social passem a depender da Direcção-Geral dos Hospitais.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 27 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Mapa de pessoal a que se refere o artigo 1.º
+(ver documento original)
+Notas
+1) O funcionário que secretariar os conselhos técnicos e o que secretariar o director-geral perceberão a gratificação mensal de 1000$00.
+2) O inspector superior de Medicina e os técnicos de medicina destacados nas direcções de zona hospitalar poderão ser providos em regime de tempo parcial, percebendo uma gratificação proporcional ao serviço que lhes é atribuído, mas que não poderá exceder 50 por cento do vencimento correspondente.
+Ministérios das Finanças e da Saúde e Assistência, 27 de Abril de 1965. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.
