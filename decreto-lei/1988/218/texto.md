@@ -1,0 +1,34 @@
+Decreto-Lei n.º 218/88
+de 27 de Junho
+Considerando que a experiência recolhida desde a publicação do Decreto-Lei n.º 321 -A/85, de 5 de Agosto, o interesse manifestado por empresas e por particulares na aquisição de bilhetes do Tesouro, o gradual aumento dos montantes em circulação e o bom funcionamento do mercado permitem e aconselham o alargamento do acesso directo à emissão destes títulos;
+Atendendo, por outro lado, que o público vem confiando à guarda das instituições vendedoras os bilhetes do Tesouro adquiridos, prescindindo, na prática, da emissão de certificados:
+Assim, ouvido o Conselho Nacional das Bolsas de Valores:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo único. Os artigos 3.º, 4.º, 6.º, 7.º, 9.º e 11.º do Decreto-Lei n.º 321-A/85, de 5 de Agosto, passam a ter a seguinte redacção:
+Art. 3.º - 1 - ...
+2 - Tem acesso directo à emissão:
+a) As instituições de crédito;
+b) As instituições financeiras, as sociedades mediadoras constituídas ao abrigo do Decreto-Lei n.º 164/86, de 26 de Junho, e outras entidades, umas e outras se devidamente autorizadas pelo Banco de Portugal a subscrever bilhetes do Tesouro por conta própria ou de terceiros.
+3 - O Banco de Portugal poderá também autorizar entidades especializadas a exercer a actividade de intermediários no mercado secundário de bilhetes do Tesouro.
+Art. 4.º - 1 - ...
+2 - A parte de cada emissão que não for subscrita pelas entidades mencionadas no n.º 2 do artigo 3.º será tomada firme pelo Banco de Portugal.
+Art. 6.º Os bilhetes do Tesouro podem ser transaccionados no mercado monetário pelas entidades referidas no n.º 2 do artigo 3.º, bem como pelo Banco de Portugal.
+Art. 7.º - 1 - As instituições de crédito e financeiras e as sociedades mediadoras referidas no n.º 2 do artigo 3.º que hajam subscrito bilhetes do Tesouro, além de os poderem transaccionar entre si, podem colocá-los junto do público mediante a emissão de certificados nominativos, de modelo a aprovar pelo Banco de Portugal.
+2 - A emissão dos certificados nominativos referidos no número anterior pode ser dispensada pelos adquirentes dos bilhetes do Tesouro.
+3 - As entidades referidas no n.º 1 podem acordar entre si ou com os respectivos clientes a recompra simultânea dos bilhetes do Tesouro, a termo anterior ao respectivo vencimento.
+4 - Os detentores de bilhetes do Tesouro podem transaccioná-los entre si através das entidades referidas no n.º 1.
+5 - Em todas as operações com bilhetes do Tesouro, as sociedades mediadoras devem obedecer às limitações que lhes são impostas pelo Decreto-Lei n.º 164/86, de 26 de Junho, nomeadamente no n.º 3 do artigo 1.º
+Art. 9.º - 1 - ...
+2 - ...
+3 - O preço dos títulos transaccionados ao abrigo do disposto no n.º 1 será o da cotação média, para cada prazo, verificada no dia do vencimento no mercado primário, acrescida de uma comissão a favor da entidade que proceder à colocação dos mesmos títulos.
+4 - ...
+Art. 11.º - 1 - O reembolso dos bilhetes do Tesouro será efectuado pelo valor nominal, no seu vencimento, pelas entidades que os hajam colocado junto do público.
+2 - O reembolso dos bilhetes do Tesouro na posse das entidades com acesso ao mercado primário será efectuado pelo valor nominal, no seu vencimento, pelo Banco de Portugal, como caixa geral do Tesouro.
+3 - ...
+4 - ...
+Visto e aprovado em Conselho de Ministros de 12 de Maio de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+Promulgado em 9 de Junho de 1988.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 16 de Junho de 1988.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
