@@ -1,0 +1,29 @@
+Portaria n.º 1079/90
+de 24 de Outubro
+Considerando que algumas das disciplinas constantes do plano de estudos aprovado para a Faculdade de Medicina da Universidade de Coimbra deverão ser ministradas em instituições hospitalares, de acordo com o regime previsto no Decreto-Lei n.º 312/84, de 26 de Setembro;
+Considerando que, para tal efeito, foi celebrado um protocolo de colaboração entre a Faculdade e o Centro Hospitalar de Coimbra;
+Considerando ainda que, face ao disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 312/84, de 26 de Setembro, a eficácia do referido protocolo está condicionada à homologação ministerial:
+Manda o Governo, pelos Ministros da Educação e da Saúde, homologar o protocolo de colaboração celebrado entre a Faculdade de Medicina da Universidade de Coimbra e o Centro Hospitalar de Coimbra, em anexo, que é parte integrante do presente diploma.
+Ministérios da Educação e da Saúde.
+Assinada em 21 de Setembro de 1990.
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior. - Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde.
+
+ANEXO
+Protocolo entre a Faculdade de Medicina da Universidade de Coimbra e o Centro Hospitalar de Coimbra, de acordo com o n.º 3 do artigo 1.º do Decreto-Lei n.º 312/84, de 26 de Setembro.
+I
+Serviços e disciplinas
+De acordo com as alíneas a) e b) do n.º 3 do artigo 1.º do Decreto-Lei n.º 312/84, de 26 de Setembro, as disciplinas a ministrar no Hospital Pediátrico do Centro Hospitalar de Coimbra são as cadeiras de Pediatria da Faculdade de Medicina de Coimbra.
+II
+Pessoal
+O regime de relação entre a função docente e assistencial obedece ao estabelecido nos Decretos-Leis n.os 312/84, de 26 de Setembro, e 294/85, de 24 de Julho.
+III
+Comissão mista
+1 - A comissão mista permanente encarregada de assegurar o funcionamento dos protocolos e o seu cumprimento é formada por quatro membros: dois elementos nomeados pelo conselho directivo da Faculdade de Medicina e dois elementos indicados pelo conselho de administração do Centro Hospitalar de Coimbra, ouvidos, respectivamente, o conselho científico da Faculdade de Medicina e a comissão médica do Hospital Pediátrico do Centro Hospitalar de Coimbra.
+2 - A coordenção competirá ao presidente da comissão mista permanente, escolhido de entre os seus membros.
+3 - A comissão reúne duas vezes por ano, sendo uma em Julho, após a aprovação do plano de estudos e atribuição das regências, e outra em Dezembro.
+4 - Compete a esta comissão mista:
+a) Zelar pelo cumprimento deste protocolo e fazer respeitar o estipulado no Decreto-Lei n.º 312/84, de 26 de Setembro;
+b) A definição das correspondências e ligações entre as disciplinas das cadeiras básicas pré-clínicas e novas disciplinas com os serviços hospitalares ou novos serviços.
+IV
+Encargos financeiros
+Enquanto não forem superiormente aprovados os orçamentos relativos à utilização, por parte da Faculdade, do Hospital Pediátrico do Centro Hospitalar de Coimbra, o conselho de administração do Centro Hospitalar de Coimbra e o conselho directivo da Faculdade de Medicina acordam anualmente os encargos.
