@@ -8,7 +8,7 @@
 
 3 - É permitido o uso de algarismos e abreviaturas:
 
-a) Nos reconhecimentos, averbamentos, extractos, registos e contas;
+a) Nos termos de abertura de sinal, reconhecimentos, averbamentos, extractos, registos e contas;
 
 b) Na indicação da naturalidade e residência;
 

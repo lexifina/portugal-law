@@ -14,6 +14,6 @@ b) Termos de abertura de sinal, dos quais só podem ser extraídas certidões a 
 
 2 - As certidões referidas na primeira parte da alínea a) e na alínea b) do número anterior só podem ser entregues ao próprio requisitante ou a quem se mostrar autorizado por este a recebê-las.
 
-3 - (Revogado).
+3 - Pela celebração de qualquer testamento ou escritura é fornecida, dentro do prazo legal, uma certidão gratuita ao testador ou, nos restantes casos, ao interessado a quem o notário cobrar recibo da conta do acto, nos termos do artigo 195.º
 
 4 - Os documentos recebidos por telecópia, nos termos da alínea l) do n.º 2 do artigo 4.º, tem o valor probatório das certidões, desde que obedeçam ao disposto no artigo 160.º

@@ -10,14 +10,12 @@
 
 2 - Os instrumentos pelos quais se partilhem ou transmitam direitos sobre prédios, ou se contraiam encargos sobre eles, não podem ser lavrados sem que também se faça referência à inscrição desses direitos em nome do autor da herança, ou de quem os aliena, ou à inscrição de propriedade do prédio em nome de quem o onera.
 
-3 - Os instrumentos pelos quais se partilhem ou transmitam direitos sobre prédios, ou se contraiam encargos sobre eles, não podem ser lavrados sem que se faça referência à declaração prevista no n.º 2 do artigo 1424.º-A do Código Civil, sem prejuízo do disposto no n.º 3 do mesmo artigo.
-
-4 - O disposto no n.º 2 não é aplicável:
+3 - O disposto no número anterior não é aplicável:
 
 a) Nos actos de transmissão ou de constituição de encargos outorgados por quem, no mesmo dia e com conhecimento pessoal do notário, que será expressamente mencionado, tenha adquirido os bens partilhados, transmitidos ou onerados;
 
 b) Nos casos de urgência, devidamente comprovada, motivada por perigo de vida dos outorgantes ou por extravio ou inutilização do registo causados por incêndio, inundação ou outra calamidade como tal reconhecida por despacho do Ministro da Justiça.
 
-5 - A prova dos números das descrições e das referências relativas às inscrições no serviço de registo é feita pela exibição de certidão de teor, passada com antecedência não superior a um ano, ou quanto a prédios situados em concelho onde tenha vigorado o registo obrigatório, pela exibição da respectiva caderneta predial, desde que este documento se encontre actualizado.
+4 - A prova dos números das descrições e das referências relativas às inscrições na conservatória é feita pela exibição de certidão de teor, passada com antecedência não superior a seis meses, ou do título de registo ou, ainda, quanto a prédios situados em concelho onde tenha vigorado o registo obrigatório, pela exibição da respectiva caderneta predial, desde que qualquer destes últimos documentos se encontre actualizado.
 
-6 - A não descrição dos prédios prova-se mediante a exibição de certidão válida por três meses.
+5 - A não descrição dos prédios prova-se mediante a exibição de certidão válida por três meses.

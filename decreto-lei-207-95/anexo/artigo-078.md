@@ -2,8 +2,8 @@
 
 ### Recurso
 
-1 - Qualquer interessado pode recorrer da decisão do notário para o tribunal de 1.ª instância competente na área da circunscrição a que pertence o cartório em que o processo se encontra pendente.
+1 - Da sentença cabe recurso, com efeito suspensivo, para o Tribunal da Relação e, nos termos gerais das leis de processo, para o Supremo Tribunal de Justiça.
 
-2 - O prazo para a interposição do recurso, que é processado e julgado como o de agravo em matéria cível e tem efeito suspensivo, é o do artigo 685.º do Código de Processo Civil.
+2 - Têm legitimidade para interpor recurso as partes, o notário e o Ministério Público.
 
-3 - Caso a decisão do juiz não coincida com a decisão recorrida, o notário, qualquer interessado e o Ministério Público podem recorrer da sentença proferida para o tribunal da Relação.
+3 - O recurso é processado e julgado como o de agravo em matéria cível.

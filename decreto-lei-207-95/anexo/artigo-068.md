@@ -8,7 +8,7 @@ a) Os que não estiverem no seu perfeito juízo;
 
 b) Os que não entenderem a língua portuguesa;
 
-c) Os menores não emancipados;
+c) Os menores não emancipados, os surdos, os mudos e os cegos;
 
 d) Os funcionários e o pessoal contratado em qualquer regime em exercício no cartório notarial;
 

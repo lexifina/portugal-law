@@ -6,7 +6,7 @@
 
 ### Elaboração de fichas
 
-1 - Em cada cartório deve haver índices dos outorgantes, pelo sistema de fichas ou de verbetes onomásticos, que devem ser preenchidos diariamente.
+1 - Em cada cartório deve haver índices dos outorgantes e dos sinais, pelo sistema de fichas ou de verbetes onomásticos, que devem ser preenchidos diariamente.
 
 2 - Deve ser organizado um índice privativo de testamentos e de todos os actos que lhes respeitem.
 

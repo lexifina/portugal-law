@@ -2,7 +2,7 @@
 
 ### Encargos de documentos requisitados
 
-1 - (Revogado).
+1 - Os documentos requisitados oficiosamente pelas autoridades ou repartições públicas não estão sujeitos a nenhum encargo.
 
 2 - Quando se destinem a ser juntos a algum processo, os documentos expedidos levam aposta a conta e a menção de que esta deve entrar em regra de custas, se as houver, e a ser, oportunamente, paga ao cartório.
 

@@ -12,4 +12,4 @@
 
 5 - O averbamento é feito oficiosamente quando o acto a averbar identifique devidamente o anterior.
 
-6 - Quando não seja oficiosamente efectuado, o averbamento pode realizar-se a pedido de qualquer interessado, depois de se verificar que os dois actos estão nas condições previstas nos artigos 131.º e 132.º
+6 - Quando não seja oficiosamente efectuado, o averbamento pode realizar-se a pedido de qualquer interessado, depois de se verificar que os dois actos estão nas condições previstas nos artigos 131.º e 132.º, devendo o averbamento a que se refere este último preceito ser requerido por escrito.

@@ -12,7 +12,7 @@ a) A designação do dia, mês, ano e lugar em que for lavrado ou assinado e, qu
 
 b) O nome completo do funcionário que nele interveio, a menção da respectiva qualidade e a designação do cartório a que pertence;
 
-c) O nome completo, estado, naturalidade e residência habitual dos outorgantes, bem como das pessoas singulares por estes representadas, a identificação das sociedades, nos termos da lei comercial, e das demais pessoas colectivas que os outorgantes representem, com menção, quanto a estas últimas, das suas denominações, sedes e números de identificação de pessoa colectiva;
+c) O nome completo, estado, naturalidade e residência habitual dos outorgantes, bem como das pessoas singulares por estes representadas, a identificação das sociedades nos termos da lei comercial e as denominações das demais pessoas colectivas que os outorgantes representem, com indicação das suas sedes;
 
 d) A referência à forma como foi verificada a identidade dos outorgantes, das testemunhas instrumentárias e dos abonadores;
 
@@ -20,7 +20,7 @@ e) A menção das procurações e dos documentos relativos ao instrumento que ju
 
 f) A menção de todos os documentos que fiquem arquivados, mediante a referência a esta circunstância, acompanhada da indicação da natureza do documento, e, ainda, tratando-se de conhecimento do imposto municipal de sisa, a indicação do respectivo número, data e repartição emitente;
 
-g) A menção dos documentos apenas exibidos com indicação da sua natureza, data de emissão e entidade emitente e, ainda, tratando-se de certidões de registo, a indicação do respetivo número de ordem ou, no caso de certidão permanente, do respetivo código de acesso;
+g) A menção dos documentos apenas exibidos com indicação da sua natureza, data de emissão e repartição emitente quando esta não constar do próprio acto;
 
 h) O nome completo, estado e residência habitual das pessoas que devam intervir como abonadores, intérpretes, peritos médicos, testemunhas e leitores;
 
@@ -28,7 +28,7 @@ i) A referência ao juramento ou compromisso de honra dos intérpretes, peritos 
 
 j) As declarações correspondentes ao cumprimento das demais formalidades exigidas pela verificação dos casos previstos nos artigos 65.º e 66.º;
 
-l) A menção de haver sido feita a leitura do instrumento lavrado, ou de ter sido dispensada a leitura pelos intervenientes, bem como a menção da explicação do seu conteúdo;
+l) A menção de haver sido feita aos outorgantes, em voz alta e na presença simultânea de todos os intervenientes, a leitura do instrumento lavrado e a explicação do seu conteúdo;
 
 m) A indicação dos outorgantes que não assinem e a declaração, que cada um deles faça, de que não assina por não saber ou por não poder fazê-lo;
 
