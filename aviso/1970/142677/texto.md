@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, em conformidade com a notificação recebida do Departamento Político Federal da Suíça, a Convenção para Melhorar a Sorte dos Feridos e Doentes em Campanha, assinada em Berna a 6 de Julho de 1906, deixou de estar em vigor a partir de 15 de Abril de 1970, uma vez que todas as suas partes contratantes passaram a sê-lo da Convenção para Melhorar a Situação dos Feridos e Doentes das Forças Armadas em Campanha, assinada em Genebra em 12 de Agosto de 1949, ao abrigo do artigo 59 desta última Convenção e do artigo 34 da Convenção de Genebra, de 27 de Julho de 1929, sobre o mesmo assunto.
+Secretaria-Geral do Ministério, 22 de Maio de 1970. - O Secretário-Geral, José Luís Archer.
