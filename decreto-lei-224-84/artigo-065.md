@@ -2,7 +2,7 @@
 
 ### (Apresentação pelo correio)
 
-1 - A apresentação pode ser feita pelo correio quando residam fora do concelho da sede da conservatória tanto o interessado no registo como o apresentante.
+1 - A apresentação pode ser feita pelo correio.
 
 2 - O apresentante deve enviar os documentos e a requisição em carta registada, fazendo-os acompanhar do respectivo preparo e identificando-se nos termos previstos no n.º 2 do artigo 42.º
 
