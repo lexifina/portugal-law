@@ -1,0 +1,453 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "45",
+    "id": "5437",
+    "titulo": "Revê o exercício da actividade de radiodifusão (lei n.º 87/88 de 30 de Julho)."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1996-07-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1365",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1996-07-04",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1996-07-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1182",
+                "nome": "Ruben de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42144",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3174-3174"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3174?pgs=3174&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO DA ACTIVIDADE DE RADIODIFUSAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1182",
+                "nome": "Ruben de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42145",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3171-3172"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3171?pgs=3171-3172&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO DA ACTIVIDADE DE RADIODIFUSAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42146",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3170-3171",
+                  "3173-3173"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3170?pgs=3170-3171,3173&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO DA ACTIVIDADE DE RADIODIFUSAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "484",
+                "nome": "José Saraiva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42147",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3169-3171"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3169?pgs=3169-3171&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO DA ACTIVIDADE DE RADIODIFUSAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42148",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3167-3169"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3167?pgs=3167-3169&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO DA ACTIVIDADE DE RADIODIFUSAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1085",
+                "nome": "Manuela Moura Guedes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42149",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3167-3167"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3167?pgs=3167&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO DA ACTIVIDADE DE RADIODIFUSAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1085",
+                "nome": "Manuela Moura Guedes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42150",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3165-3173"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3165?pgs=3165-3173&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO DA ACTIVIDADE DE RADIODIFUSAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  COMUNICACAO SOCIAL",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Arons de Carvalho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107667",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3163-3166",
+                  "3172-3172",
+                  "3174-3174"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3163?pgs=3163-3166,3172,3174&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO DA ACTIVIDADE DE RADIODIFUSAO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "103499",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1365",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-07-05",
+        "pubLeg": "VII",
+        "pubNr": "92",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
