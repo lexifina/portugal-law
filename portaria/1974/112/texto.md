@@ -1,0 +1,4 @@
+Portaria n.º 112/74
+de 13 de Fevereiro
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Administração Ultramarina, abrir, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, um crédito especial da importância de 65459$80, destinado a reforçar a verba do capítulo II, artigo 18.º «Serviços próprios do Conselho Ultramarino - Diversos encargos - Despesas de anos económicos findos», do orçamento de despesa do Conselho Ultramarino para o ano económico de 1973, tomando como contrapartida disponibilidades do capítulo I, artigo 1.º, n.º 1) «Representação das províncias ultramarinas no Conselho Ultramarino - Pagamento de serviços - Despesas de comunicações - Transporte aos onze vogais eleitos pelos conselhos legislativos das províncias ultramarinas», do mesmo orçamento.
+Ministério do Ultramar, 31 de Janeiro de 1974. - O Secretário de Estado da Administração Ultramarina, Leão Maria Tavares Rosado do Sacramento Monteiro.
