@@ -17,9 +17,23 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1934/01/00200/00070009.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1934-01-03",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "4d0f6179a559d45877573ff7c2eccc4bf3544694014749e3b18fa546399a0593",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 96.6,
+    "pages": 3,
+    "columns": [
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "2cff8a8f1a994fbb831383a3567e1e462ea92de11527a1aa26a7b01dacc314af",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 1187
 }
