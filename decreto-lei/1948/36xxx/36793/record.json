@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1948/03/06100/01890190.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1948-03-15",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "cf65e06d89c9df2434dd3370a868516f395612a9a9f511e0ed1b501e88b20e9f",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.6,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "8455ce20318d8743296903d755ef42c619997c7f0c62748727eb115fe8af8501",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 404
 }
