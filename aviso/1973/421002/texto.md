@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que, segundo informação do Departamento de Estado dos Estados Unidos da América, o Governo do Fidji depositou, em 5 de Março de 1973, o instrumento de adesão à Convenção sobre a Aviação Civil Internacional, concluída em Chicago em 7 de Dezembro de 1944, e de aceitação do Protocolo sobre o Texto Autêntico Trilingue da mesma Convenção, concluído em Buenos Aires em 24 de Setembro de 1968.
+Em 14 de Fevereiro de 1973, o Governo do Fidji notificou o Governo Norte-Americano da sua sucessão no Acordo Relativo ao Trânsito dos Serviços Aéreos Internacionais, concluído em Chicago em 7 de Dezembro de 1944, e que havia sido aplicado ao seu território, antes da acessão à independência, pelo Governo do Reino Unido.
+Também os Governos de Cuba e da Tunísia depositaram, em 13 de Março e 5 de Abril de 1973, respectivamente, os instrumentos de aceitação do referido Protocolo.
+Direcção-Geral dos Negócios Económicos, 25 de Maio de 1973. - O Adjunto do Director-Geral, José Joaquim de Mena e Mendonça.
