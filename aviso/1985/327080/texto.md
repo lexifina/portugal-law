@@ -1,0 +1,6 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação da Organização Mundial da Propriedade Intelectual, o Governo da República Popular da Mongólia depositou em 16 de Janeiro de 1985 o instrumento de adesão ao Acordo de Madrid Respeitante ao Registo Internacional de Marcas de 14 de Abril de 1891, tal como revisto em Estocolmo a 14 de Julho de 1967.
+A República Popular da Mongólia não era ainda membro da União Internacional para o Registo Internacional de Marcas (União de Madrid), fundada pelo Acordo de Madrid.
+O Acordo de Madrid, revisto, entrará em vigor, em relação à República Popular da Mongólia, a partir de 21 de Abril de 1985. Nesta data, a República Popular da Mongólia tornar-se-á membro da União de Madrid.
+O Governo da República Popular da Mongólia declarou ainda que a aplicação do Acordo de Madrid, revisto, é limitada às marcas registadas a partir da data da entrada em vigor do Acordo, no que respeita à República Popular da Mongólia. Todavia, os interessados podem formular pedidos de extensão da protecção resultante do registo internacional às marcas que tenham sido anteriormente objecto de registo nacional ainda em vigor na República Popular da Mongólia.
+Direcção-Geral dos Negócios Económicos, 27 de Fevereiro de 1985. - O Subdirector-Geral, Roberto Nuno de Oliveira e Silva Pereira de Sousa.
