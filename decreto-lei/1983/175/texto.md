@@ -1,0 +1,32 @@
+Decreto-Lei n.º 175/83
+de 2 de Maio
+O n.º 4 do artigo 5.º da Lei n.º 2/83, de 18 de Fevereiro, autoriza o Governo a emitir empréstimos internos a prazo de 1 ano, nas condições correntes no mercado e a fixar em decreto-lei, para serem colocados junto do público, de investidores institucionais e de instituições de crédito.
+O presente decreto-lei vem estabelecer as condições regulamentares em que é emitido o empréstimo interno denominado «Obrigações do Tesouro, curto prazo, 1983, 1.ª série».
+Assim:
+Usando da autorização conferida pelo n.º 4 do artigo 5.º da Lei n.º 2/83, de 18 de Fevereiro:
+O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Para financiamento de investimentos públicos previstos no Orçamento do Estado para 1983, é autorizada a emissão de um empréstimo interno amortizável, denominado «Obrigações do Tesouro, curto prazo, 1983, 1.ª série».
+Art. 2.º O empréstimo, cujo serviço é confiado à Junta do Crédito Público, não poderá exceder o total nominal de 7 milhões de contos, ficando desde já a Direcção-Geral do Tesouro autorizada a emitir a respectiva obrigação geral.
+Art. 3.º - 1 - A representação do empréstimo far-se-á em títulos de 1 e 10 obrigações, do valor nominal de 5000$00 cada uma, ou em certificados de dívida inscrita correspondentes a qualquer quantidade de títulos.
+2 - Cada certificado só pode representar títulos subscritos na mesma data e na mesma instituição.
+3 - Os títulos levarão a assinatura de chancela do Ministro de Estado e das Finanças e do Plano, do vogal-presidente e de um outro vogal da Junta do Crédito Público, bem como o selo branco da mesma Junta.
+4 - É aplicável ao empréstimo autorizado pelo presente diploma o disposto nos artigos 4.º e 5.º do Decreto-Lei n.º 45142, de 17 de Julho de 1963.
+Art. 4.º Os títulos e certificados representativos das obrigações emitidas gozam da garantia do pagamento integral de juros e reembolsos, por força das receitas gerais do Estado, e da isenção de todos os impostos, incluindo o imposto sobre as sucessões e doações.
+Art. 5.º Poderá o Ministro de Estado e das Finanças e do Plano contratar com as instituições de crédito nacionais a colocação, total ou parcial, dos títulos ou fazê-la por subscrição pública.
+Art. 6.º - 1 - A colocação do empréstimo será feita inicialmente por subscrição pública, aberta a partir de 14 de Junho, em qualquer instituição de crédito.
+2 - A data do encerramento da subscrição será fixada por despacho do Ministro de Estado e das Finanças e do Plano.
+Art. 7.º As obrigações deste empréstimo vencem o juro anual nominal correspondente à taxa básica de desconto do Banco de Portugal que vigora na data do início da subscrição pública do empréstimo, pagável juntamente com o valor do reembolso.
+Art. 8.º As obrigações deste empréstimo serão amortizadas ao par 1 ano após a data da sua subscrição.
+Art. 9.º - 1 - Os títulos só terão validade quando deles conste a data da subscrição e a indicação da instituição onde a mesma foi efectuada.
+2 - Para este efeito deverão as instituições de crédito apor em cada título, bem como nos talões que lhe estão apensos, a data referida no número anterior.
+Art. 10.º - 1 - O juro e a amortização dos títulos do presente empréstimo serão pagos aos tomadores nas mesmas instituições onde efectuaram a subscrição.
+2 - Para execução do número anterior, deverá ser aposto, nos documentos indicados no n.º 2 do artigo 9.º, o carimbo a óleo da instituição onde a operação foi efectuada.
+Art. 11.º Com a devida antecedência, a Junta do Crédito Público entregará a cada uma das instituições de crédito que tenham participado na colocação uma ordem de pagamento da importância correspondente ao juro e amortização dos títulos que se vencem em cada semana.
+Art. 12.º - 1 - A importância das subscrições feitas por intermédio das instituições de crédito será por estas entregue na Junta do Crédito Público, nos 6 dias úteis após os dias 1 e 15 de cada mês, acompanhada dos talões destacados dos títulos.
+2 - A importância referida no número anterior será transferida pela Junta do Crédito Público para o Tesouro nos 4 dias úteis seguintes.
+Visto e aprovado em Conselho de Ministros de 17 de Março de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
+Promulgado em 14 de Abril de 1983.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 19 de Abril de 1983.
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
