@@ -1,0 +1,4 @@
+Aviso n.º 55/2004
+Por ordem superior se torna público que a República Checa depositou junto do Secretário-Geral do Conselho da Europa, em 20 de Março de 2003, o seu instrumento de ratificação da Convenção Europeia sobre a Protecção dos Animais de Abate, aberta para assinatura em Estrasburgo em 10 de Maio de 1979.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 99/81, publicado no Diário da República, 1.ª série-A, n.º 172, de 29 de Julho de 1981, tendo depositado o seu instrumento de ratificação em 3 de Novembro de 1981, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 286, de 14 de Dezembro de 1981.
+Direcção-Geral dos Assuntos Multilaterais, 6 de Abril de 2004. - O Director de Serviços das Organizações Políticas Internacionais, Bernardo Fernandes Homem de Lucena.
