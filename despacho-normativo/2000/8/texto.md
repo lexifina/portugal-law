@@ -1,0 +1,8 @@
+Despacho Normativo n.º 8/2000
+Considerando que a redacção dos n.os 9.º, 10.º e 24.º do Despacho Normativo n.º 2/2000, publicado no Diário da República, 1.ª série-B, n.º 7, de 10 de Janeiro de 2000, enferma de incorrecção, urge proceder à sua necessária rectificação.
+Assim, ao abrigo do artigo 45.º do Regulamento (CE) n.º 2342/99, da Comissão, de 28 de Outubro, determino o seguinte:
+Os n.os 9.º, 10.º e 24.º do Despacho Normativo n.º 2/2000, de 10 de Janeiro, passam a ter a seguinte redacção:
+«9.º Os produtores a quem sejam atribuídos direitos ao prémio à vaca em aleitamento no âmbito da reserva nacional ficam impedidos de os transferir e ou ceder durante as três campanhas seguintes à atribuição, sob pena de reintegração na reserva nacional dos direitos ilegalmente cedidos ou transferidos, sem direito a qualquer compensação. São excepcionados os casos de força maior previstos no Regulamento (CEE) n.º 3887/92 e as situações que, não sendo de força maior, se encontrem descritas no n.º 12.º
+10.º Nos termos dos n.os 2 e 4 do artigo 23.º do Regulamento (CE) n.º 2342/99, se um produtor não utilizar pelo menos 90% dos seus direitos em cada ano, a parte não utilizada será transferida para a reserva nacional. São excepcionados os casos de força maior previstos no Regulamento (CEE) n.º 3887/92 e as situações que, não sendo de força maior, se encontrem descritas no n.º 12.º
+24.º O presente despacho entra em vigor no dia 1 de Janeiro de 2000.»
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 11 de Janeiro de 2000. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado dos Mercados Agrícolas e da Qualidade Alimentar.
