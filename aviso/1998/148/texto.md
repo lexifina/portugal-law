@@ -1,0 +1,5 @@
+Aviso n.º 148/98
+Por ordem superior se faz público que, segundo comunicação do Secretário-Geral das Nações Unidas de 5 de Junho de 1998, o Governo de Tonga depositou em 19 de Maio de 1998 o instrumento de adesão à Convenção das Nações Unidas sobre Diversidade Biológica, concluída em Junho de 1992 e em vigor, a nível internacional, desde 21 de Março de 1994. Esta Convenção entrará em vigor para Tonga em 17 de Agosto de 1998.
+A referida Convenção foi aprovada para ratificação por Portugal nos termos do Decreto-Lei n.º 21/93, publicado no Diário da República, 1.ª série-A, n.º 143, de 21 de Junho de 1993, tendo sido depositado o correspondente instrumento em 21 de Dezembro de 1993, conforme o Aviso n.º 143/94, publicado no Diário da República, 1.ª série-A, n.º 106, de 7 de Maio de 1994.
+A Convenção entrou em vigor, relativamente a Portugal, em 21 de Março de 1994, sendo a autoridade central/ponto focal o Instituto de Conservação da Natureza.
+Direcção-Geral dos Assuntos Multilaterais, 21 de Julho de 1998. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
