@@ -1,11 +1,13 @@
-## Capítulo II
-
-## Da liberdade condicional
-
 # Artigo 479.º
 
-### (Início do processo de liberdade condicional)
+### Contagem do tempo de prisão
 
-1 - Quando a pena de prisão a cumprir for superior a seis meses ou relativamente indeterminada, o tribunal de execução de penas inicia o processo de liberdade condicional com base na cópia e demais elementos referidos no artigo 469.º, n.º 4.
+1 - Na contagem do tempo de prisão, os anos, meses e dias são computados segundo os critérios seguintes:
 
-2 - No despacho preliminar, o juiz conhece da regularidade temporal e da utilidade do processo, com indicação das datas calculadas para a liberdade condicional e para o termo da pena, remetendo cópia ao director do estabelecimento onde se encontrar o preso e aos serviços de reinserção social.
+a) A prisão fixada em anos termina no dia correspondente, dentro do último ano, ao do início da contagem e, se não existir dia correspondente, no último dia do mês;
+
+b) A prisão fixada em meses é contada considerando-se cada mês um período que termina no dia correspondente do mês seguinte ou, não o havendo, no último dia do mês;
+
+c) A prisão fixada em dias é contada considerando-se cada dia um período de vinte e quatro horas, sem prejuízo do que no artigo 481.º se dispõe quanto ao momento da libertação.
+
+2 - Quando a prisão não for cumprida continuamente, ao dia encontrado segundo os critérios do número anterior acresce o tempo correspondente às interrupções.

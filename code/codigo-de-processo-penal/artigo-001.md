@@ -24,6 +24,6 @@ h) (Revogada).
 
 2 - Para efeitos do disposto no presente Código, apenas podem considerar-se como casos de terrorismo, criminalidade violenta ou altamente organizada as condutas que:
 
-a) Integrarem os crimes previstos nos artigos 287.º, 288.º ou 289.º do Código Penal; ou
+a) Integrarem os crimes previstos nos artigos 299.º, 300.º ou 301.º do Código Penal; ou
 
 b) Dolosamente se dirigirem contra a vida, a integridade física ou a liberdade das pessoas e forem puníveis com pena de prisão de máximo igual ou superior a cinco anos.

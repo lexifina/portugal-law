@@ -1,5 +1,17 @@
+## Capítulo III
+
+## Da execução das medidas de segurança não privativas de liberdade
+
 # Artigo 508.º
 
-### (Outras medidas de segurança)
+### Medidas de segurança não privativas da liberdade
 
-Para a execução de medidas de segurança não previstas nos artigos anteriores, o tribunal ordena as providências que reputar necessárias à realização do fim visado pela lei.
+1 - À interdição de actividade é correspondentemente aplicável o disposto no artigo 499.º, n.os 2 e 3.
+
+2 - A decisão que decretar a cassação da licença de condução e a interdição de concessão de licença é comunicada à Direcção-Geral de Viação, que a comunicará a quaisquer outras entidades legalmente habilitadas a emitir essa licença.
+
+3 - À decisão prevista no número anterior é correspondentemente aplicável o disposto nos n.os 2 e 3 do artigo 500.º
+
+4 - É correspondentemente aplicável à licença de condução emitida em país estrangeiro o disposto nos n.os 2, 3, 5 e 6 do artigo 500.º
+
+5 - A prorrogação do período de interdição e o reexame da situação que fundamentou a aplicação da medida são decididos pelo tribunal precedendo audição do Ministério Público, do defensor e das pessoas a elas sujeitas, salvo se, quanto a estas, o seu estado tornar a audição inútil ou inviável.

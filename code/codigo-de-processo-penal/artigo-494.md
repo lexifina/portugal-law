@@ -1,5 +1,9 @@
 # Artigo 494.º
 
-### (Relatório)
+### Plano individual de readaptação social
 
-Semestralmente, ou sempre que se verificar anomalia na execução do plano de readaptação, particularmente quando o condenado não cumprir qualquer dos deveres impostos ou não corresponder ao plano previsto, os serviços de reinserção social enviam ao tribunal relatório pormenorizado das ocorrências de interesse.
+1 - A decisão que suspender a execução da prisão com regime de prova deve conter o plano individual de readaptação social sempre que o tribunal se encontre habilitado, nesse momento, a organizá-lo.
+
+2 - A decisão, uma vez transitada em julgado, é comunicada aos serviços de reinserção social.
+
+3 - Quando a decisão não contiver o plano de readaptação ou este deva ser completado, os serviços de reinserção social procedem à sua elaboração ou reelaboração, ouvido o condenado, no prazo de 30 dias, e submetem-no à homologação do tribunal.

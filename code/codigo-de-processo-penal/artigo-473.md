@@ -1,9 +1,9 @@
 # Artigo 473.º
 
-### (Contumácia)
+### Suspensão da execução
 
-Ao condenado que dolosamente se tiver eximido, total ou parcialmente, à execução de uma pena de prisão é correspondentemente aplicável o disposto nos artigos 335.º, 336.º e 337.º, com as modificações seguintes:
+1 - Logo que seja proferido despacho de pronúncia ou que designe o dia para julgamento de magistrado, jurado, testemunha, perito ou funcionário de justiça por factos que possam ter determinado a condenação do arguido, o Procurador-Geral da República pode requerer ao Supremo Tribunal de Justiça que suspenda a execução da sentença até ser decidido o processo, juntando os documentos comprovativos.
 
-a) Os editais e anúncios contêm, em lugar da indicação do crime e das disposições legais que o punem, a indicação da sentença condenatória e da sanção a executar;
+2 - O Supremo Tribunal de Justiça decide, em plenário das secções criminais, se a execução da sentença deve ser suspensa e, em caso afirmativo, se deve ser aplicada medida de coacção ou de garantia patrimonial legalmente admissível no caso.
 
-b) O despacho de declaração de contumácia e o decretamento do arresto são da competência do tribunal referido no artigo 470.º ou do tribunal de execução de penas.
+3 - É correspondentemente aplicável ao julgamento o disposto no artigo 455.º

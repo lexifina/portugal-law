@@ -1,15 +1,13 @@
-## Capítulo III
-
-## Da execução da prisão por dias livres e em regime de semidetenção
-
 # Artigo 485.º
 
-### (Conteúdo da decisão e início do cumprimento)
+### Decisão
 
-1 - A decisão que fixar o cumprimento da prisão por dias livres ou em regime de semidetenção especifica os elementos necessários à sua execução, incluindo a data do início desta.
+1 - Até 10 dias antes da data admissível para a libertação condicional, o Ministério Público emite, nos próprios autos, parecer sobre a sua concessão.
 
-2 - O tribunal envia imediatamente aos serviços prisionais cópia da sentença a que se refere o número anterior. Nos dez dias imediatos, os serviços prisionais comunicam ao tribunal o estabelecimento em que a pena deve ser cumprida, devendo indicá-lo de modo a facilitar a deslocação do condenado.
+2 - Antes de proferir despacho sobre a concessão da liberdade condicional, o tribunal de execução das penas ouve o condenado, nomeadamente para obter o seu consentimento.
 
-3 - O tribunal entrega ao condenado cópia da decisão condenatória e guia de apresentação no estabelecimento prisional onde a pena deve ser cumprida.
+3 - O despacho que deferir a liberdade condicional, além de descrever os fundamentos da sua concessão, especifica o respectivo período de duração e as regras de conduta ou outras obrigações a que fica subordinado o beneficiário, sendo este dele notificado e recebendo cópia antes de libertado.
 
-4 - O início da prisão por dias livres ou em regime de semidetenção pode ser adiado, mediante autorização do tribunal, pelo tempo que parecer razoável, mas nunca excedente a 3 meses, por razões de saúde do condenado ou da sua vida profissional ou familiar.
+4 - O despacho que negar a liberdade condicional é notificado ao recluso.
+
+5 - Do despacho de liberdade condicional é remetida cópia para os serviços prisionais, serviços de reinserção social e outras instituições que o tribunal determinar.

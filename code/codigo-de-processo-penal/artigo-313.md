@@ -12,6 +12,8 @@ c) A nomeação de defensor do arguido, se ainda não estiver constituído no pr
 
 d) A data e a assinatura do presidente.
 
-2 - O despacho, acompanhado de cópia da acusação ou da pronúncia, é notificado ao Ministério Público, bem como ao arguido, ao assistente às partes civis e aos seus representantes, pelo menos catorze dias antes da data fixada para a audiência. A notificação do arguido e a do assistente têm lugar nos termos do artigo 113.º, n.º 1, alíneas a) e b).
+2 - O despacho, acompanhado de cópia da acusação ou da pronúncia, é notificado ao Ministério Público, bem como ao arguido, ao assistente, às partes civis e aos seus representantes, pelo menos 30 dias antes da data fixada para a audiência.
+
+A notificação do arguido e a do assistente têm lugar nos termos do artigo 113.º, n.º 1.
 
 3 - Do despacho que designa dia para a audiência não há recurso.

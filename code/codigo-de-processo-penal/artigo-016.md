@@ -10,8 +10,8 @@ a) Previstos no capítulo II do título V do livro II do Código Penal;
 
 b) De emissão de cheque sem provisão; ou
 
-c) Cuja pena máxima, abstractamente aplicável, for igual ou inferior a três anos de prisão.
+c) Cuja pena máxima, abstractamente aplicável, seja igual ou inferior a cinco anos de prisão.
 
-3 - Compete ainda ao tribunal singular julgar os processos por crimes previstos no artigo 14.º, n.º 2, mesmo em caso de concurso de infracções, quando o Ministério Público, na acusação, ou em requerimento, quando for superveniente o conhecimento do concurso, entender que não deve ser aplicada, em concreto, pena de prisão superior a três anos ou medida de segurança de internamento por mais do que esse tempo.
+3 - Compete ainda ao tribunal singular julgar os processos por crimes previstos no artigo 14.º, n.º 2, mesmo em caso de concurso de infracções, quando o Ministério Público, na acusação, ou em requerimento, quando seja superveniente o conhecimento do concurso, entender que não deve ser aplicada, em concreto, pena de prisão superior a cinco anos.
 
-4 - No caso previsto no número anterior, o tribunal não pode aplicar pena de prisão ou medida de segurança de internamento superior a três anos.
+4 - No caso previsto no número anterior, o tribunal não pode aplicar pena de prisão superior a cinco anos.

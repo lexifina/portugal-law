@@ -1,9 +1,7 @@
 # Artigo 480.º
 
-### (Elaboração e modificação do plano individual de readaptação)
+### Mandado de libertação
 
-1 - No despacho preliminar ou quando o entender mais oportuno, o juiz pode solicitar às entidades referidas no n.º 2 do artigo anterior a elaboração de um plano individual de readaptação do recluso, que homologará ou fará corrigir.
+1 - Os presos são libertados por mandado do juiz, no termo do cumprimento da pena de prisão ou para início do período de liberdade condicional.
 
-2 - O plano referido no número anterior é obrigatório quanto aos condenados a pena de prisão relativamente indeterminada, sendo elaborado e remetido para homologação nos 30 dias seguintes ao despacho preliminar.
-
-3 - As modificações introduzidas no plano individual de readaptação do recluso são comunicadas ao tribunal para aprovação.
+2 - Em caso de urgência, a libertação pode ser ordenada por qualquer meio de comunicação devidamente autenticado, remetendo-se posteriormente o respectivo mandado.

@@ -1,7 +1,7 @@
 # Artigo 471.º
 
-### (Competência para questões incidentais)
+### Conhecimento superveniente do concurso
 
-1 - Cabe ao tribunal competente para a execução decidir as questões relativas à execução das penas e das medidas de segurança e à extinção da responsabilidade, bem como à prorrogação, pagamento em prestações ou substituição por trabalho da pena de multa e ao cumprimento da prisão alternativa da pena de multa.
+1 - Para o efeito do disposto no artigo 78.º, n.os 1 e 2, do Código Penal é competente, conforme os casos, o tribunal colectivo ou o tribunal singular. É correspondentemente aplicável o artigo 14.º, n.º 2, alínea b).
 
-2 - A aplicação da amnistia e de outras medidas de clemência previstas na lei compete ao tribunal referido no número anterior ou ao tribunal de recurso ou de execução de penas onde o processo se encontrar.
+2 - Sem prejuízo do disposto no número anterior, é territorialmente competente o tribunal da última condenação.

@@ -1,13 +1,11 @@
-## Capítulo III
+## Capítulo II
 
-## Da execução do regime de prova
+## Da execução da pena suspensa
 
 # Artigo 492.º
 
-### (Decisão e plano individual de readaptação)
+### Modificação dos deveres, regras de conduta e outras obrigações impostos
 
-1 - A decisão que submeter o arguido a regime de prova contém o plano individual de readaptação sempre que o tribunal se encontrar habilitado, nesse momento, a organizá-lo.
+1 - A modificação dos deveres, regras de conduta e outras obrigações impostos ao condenado na sentença que tiver decretado a suspensão da execução da prisão é decidida por despacho, depois de recolhida prova das circunstâncias relevantes supervenientes ou de que o tribunal só posteriormente tiver tido conhecimento.
 
-2 - A decisão, uma vez transitada em julgado, é comunicada aos serviços de reinserção social.
-
-3 - Quando a decisão não contiver o plano individual de readaptação, o técnico social designado pelos serviços de reinserção social contacta o condenado e organiza o plano no prazo de quinze dias, se no processo já existir relatório social, ou no prazo de 30 dias, se aquele ainda não existir, submetendo-o depois à homologação do tribunal.
+2 - O despacho é precedido de parecer do Ministério Público e de audição do condenado, e ainda dos serviços de reinserção social no caso de a suspensão ter sido acompanhada de regime de prova.

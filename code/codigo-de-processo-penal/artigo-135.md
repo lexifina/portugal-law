@@ -6,7 +6,7 @@
 
 2 - Havendo dúvidas fundadas sobre a legitimidade da escusa, a autoridade judiciária perante a qual o incidente se tiver suscitado procede às averiguações necessárias. Se, após estas, concluir pela ilegitimidade da escusa, ordena, ou requer ao tribunal que ordene, a prestação do depoimento.
 
-3 - O tribunal imediatamente superior àquele onde o incidente se tiver suscitado, ou, no caso de o incidente se ter suscitado perante o Supremo Tribunal de Justiça, o plenário das secções criminais, pode decidir da prestação de testemunho com quebra do segredo profissional quando se verificarem os pressupostos referidos no artigo 185.º do Código Penal. A intervenção é suscitada pelo juiz, oficiosamente ou a requerimento.
+3 - O tribunal superior àquele onde o incidente se tiver suscitado, ou, no caso de o incidente se ter suscitado perante o Supremo Tribunal de Justiça, o plenário das secções criminais, pode decidir da prestação de testemunho com quebra do segredo profissional sempre que esta se mostre justificada face às normas e princípios aplicáveis da lei penal, nomeadamente face ao princípio da prevalência do interesse preponderante. A intervenção é suscitada pelo juiz, oficiosamente ou a requerimento.
 
 4 - O disposto no número anterior não se aplica ao segredo religioso.
 

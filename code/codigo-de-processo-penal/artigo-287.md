@@ -2,7 +2,7 @@
 
 ### (Requerimento para abertura da instrução)
 
-1 - A abertura da instrução pode ser requerida, no prazo de cinco dias a contar da notificação da acusação ou do arquivamento:
+1 - A abertura da instrução pode ser requerida no prazo de 20 dias a contar da notificação da acusação ou do arquivamento:
 
 a) Pelo arguido, relativamente a factos pelos quais o Ministério Público ou o assistente, em caso de procedimento dependente de acusação particular, tiverem deduzido acusação; ou
 

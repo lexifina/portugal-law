@@ -6,4 +6,4 @@
 
 2 - Após a leitura da sentença condenatória, o presidente, quando o julgar conveniente, dirige ao arguido breve alocução, exortando-o a corrigir-se.
 
-3 - Para efeito do disposto neste Código, considera-se também sentença condenatória a que tiver decretado dispensa ou isenção de pena.
+3 - Para efeito do disposto neste Código, considera-se também sentença condenatória a que tiver decretado dispensa da pena.

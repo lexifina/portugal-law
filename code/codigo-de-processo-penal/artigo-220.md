@@ -14,4 +14,4 @@ d) Ser a detenção motivada por facto pelo qual a lei a não permite.
 
 2 - O requerimento pode ser subscrito pelo detido ou por qualquer cidadão no gozo dos seus direitos políticos.
 
-3 - É punível com a pena prevista no artigo 432.º do Código Penal qualquer autoridade que levantar obstáculo ilegítimo à apresentação do requerimento referido nos números anteriores ou à sua remessa ao juiz competente.
+3 - É punível com a pena prevista no artigo 382.º do Código Penal qualquer autoridade que levantar obstáculo ilegítimo à apresentação do requerimento referido nos números anteriores ou à sua remessa ao juiz competente.

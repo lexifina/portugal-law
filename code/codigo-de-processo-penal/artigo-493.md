@@ -1,9 +1,11 @@
 # Artigo 493.º
 
-### (Internamento, caução de boa conduta e apresentação periódica)
+### Apresentação periódica e sujeição a tratamento médico ou a cura
 
-1 - O internamento em instituição adequada durante o regime de prova é executado, mediante mandado emitido, para o efeito, pelo tribunal.
+1 - Sendo determinada apresentação periódica perante o tribunal, as apresentações são anotadas no processo.
 
-2 - A caução de boa conduta, quando a ela houver lugar, é prestada conforme o disposto no artigo 206.º
+2 - Se for determinada apresentação perante outra entidade, o tribunal faz a esta a necessária comunicação, devendo a entidade em causa informar o tribunal sobre a regularidade das apresentações e, sendo caso disso, do não cumprimento por parte do condenado, com indicação dos motivos que forem do seu conhecimento.
 
-3 - Sendo determinada a apresentação periódica perante o tribunal, as apresentações são anotadas no processo. Se for determinada a apresentação perante outra entidade, o tribunal faz a esta a necessária comunicação e no termo das apresentações, ou durante o período destas se alguma falta ocorrer, a entidade à qual o condenado dever apresentar-se comunica ao tribunal o que for de interesse quanto às apresentações.
+3 - A sujeição do condenado a tratamento médico ou a cura em instituição adequada durante o período da suspensão é executada mediante mandado emitido, para o efeito, pelo tribunal.
+
+4 - Os responsáveis pela instituição informam o tribunal da evolução e termo do tratamento ou cura, podendo sugerir medidas que considerem adequadas ao êxito do mesmo.

@@ -1,11 +1,15 @@
 # Artigo 481.º
 
-### (Relatórios)
+### Momento da libertação
 
-Até 2 meses antes da data estabelecida para a admissibilidade da libertação condicional do recluso, são enviados ao tribunal de execução de penas:
+1 - A libertação tem lugar durante a manhã do último dia do cumprimento da pena.
 
-a) Relatório dos serviços técnicos prisionais sobre a execução da pena e o comportamento prisional do recluso;
+2 - Se o último dia do cumprimento da pena for sábado, domingo ou feriado, a libertação pode ter lugar no dia útil imediatamente anterior, se a duração da pena justificar e a tal se não opuserem razões de assistência.
 
-b) Parecer fundamentado sobre a concessão de liberdade condicional, elaborado pelo director do estabelecimento prisional;
+3 - Quando as razões referidas no número anterior o permitirem e o feriado nacional for o 25 de Dezembro, a libertação pode ter lugar durante a manhã do dia 23.
 
-c) Relatório dos serviços de reinserção social contendo análise dos efeitos da pena na personalidade do delinquente, do seu enquadramento familiar e profissional e da sua capacidade e vontade de se readaptar à vida social.
+4 - O momento da libertação pode ser antecipado de dois dias quando razões prementes de reinserção social o justificarem.
+
+5 - O disposto nos números anteriores não é aplicável à prisão em regime de semidetenção nem à prisão subsidiária da multa, quando não tenha duração superior a 15 dias.
+
+6 - Compete ao director do estabelecimento prisional escolher o momento da libertação, dentro dos limites estabelecidos nos números anteriores.

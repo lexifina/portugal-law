@@ -8,4 +8,4 @@
 
 a) À agravação da pena de multa, se a situação económica e financeira do arguido tiver entre tanto melhorado de forma sensível;
 
-b) À aplicação de medida de segurança de internamento, se o tribunal superior a considerar aplicável nos termos dos artigos 91.º, 103.º ou 104.º do Código Penal.
+b) À aplicação de medida de segurança de internamento, se o tribunal superior a considerar aplicável nos termos do artigo 91.º do Código Penal.

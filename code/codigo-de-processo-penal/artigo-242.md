@@ -6,7 +6,7 @@
 
 a) Para as entidades policiais, quanto a todos os crimes de que tomarem conhecimento;
 
-b) Para os funcionários, na acepção do artigo 437.º do Código Penal, demais agentes do Estado e gestores públicos, quanto aos crimes de que tomarem conhecimento no exercício das suas funções e por causa delas.
+b) Para os funcionários, na acepção do artigo 386.º do Código Penal, quanto a crimes de que tomarem conhecimento no exercício das suas funções e por causa delas;
 
 2 - Quando várias pessoas forem obrigadas à denúncia do mesmo crime, a sua apresentação por uma delas dispensa as restantes.
 

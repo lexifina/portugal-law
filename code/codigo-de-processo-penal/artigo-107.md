@@ -9,3 +9,5 @@
 3 - O requerimento referido no número anterior é apresentado no prazo de três dias, contado do termo do prazo legalmente fixado ou da cessação do impedimento.
 
 4 - A autoridade que defira a prática de acto fora do prazo procede, na medida do possível, à renovação dos actos aos quais o interessado teria o direito de assistir.
+
+5 - Independentemente do justo impedimento, pode o acto ser praticado, no prazo, nos termos e com as mesmas consequências que em processo civil, com as necessárias adaptações.

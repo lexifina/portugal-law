@@ -6,7 +6,7 @@
 
 2 - O disposto no número anterior é correspondentemente aplicável ao caso em que o crime imputado for:
 
-a) Um dos previstos nos artigos 253.º, n.º 1, 287.º, 338.º, n.º 1, 342.º, n.º 2, 345.º, n.º 1, 346.º, 357.º, 361.º, 366.º, 368.º, n.º 1, ou 381.º do Código Penal;
+a) Um dos previstos nos artigos 272.º, n.º 1, alínea a); 299.º; 312.º, n.º l; 315.º, n.º 2; 318.º, n.º l; 319.º; 325.º; 326.º; 331.º; ou 333.º, n.º 1, do Código Penal;
 
 b) De furto de veículos ou de falsificação de documentos a eles respeitantes ou de elementos identificadores de veículos;
 

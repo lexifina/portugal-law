@@ -1,13 +1,5 @@
 # Artigo 475.º
 
-### (Contagem do tempo de prisão)
+### Extinção da execução
 
-1 - Na contagem do tempo de prisão, os anos, meses e dias são computados segundo os critérios seguintes:
-
-a) A prisão fixada em anos termina no dia correspondente, dentro do último ano, ao do início da contagem e, se não existir dia correspondente, no último dia do mês;
-
-b) A prisão fixada em meses é contada considerando-se cada mês um período que termina no dia correspondente do mês seguinte ou, não o havendo, no último dia do mês;
-
-c) A prisão fixada em dias é contada considerando-se cada dia um período de 24 horas, sem prejuízo do que no artigo seguinte se dispõe quanto ao momento da libertação.
-
-2 - Quando a prisão não for cumprida continuamente, ao dia encontrado segundo os critérios do número anterior acresce o tempo correspondente às interrupções.
+O tribunal competente para a execução declara extinta a pena ou a medida de segurança, notificando o beneficiário com entrega de cópia e, sendo caso disso, remetendo cópias para os serviços prisionais, serviços de reinserção social e outras instituições que determinar.
