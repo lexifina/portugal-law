@@ -1,0 +1,7 @@
+Portaria n.º 24427
+Considerando o que foi proposto pelo Governo de Timor no sentido de ser reforçada uma dotação do programa de financiamento do III Plano de Fomento para o corrente ano, com cobertura em disponibilidades de outra dotação do mesmo Plano;
+Tendo em vista a autorização concedida em 30 de Outubro findo pelo Conselho de Ministros para os Assuntos Económicos:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 2.º do Decreto n.º 35770, de 29 de Julho de 1946, que o Governo de Timor reforce com a importância de 150000$00 a verba do capítulo 12.º, artigo 300.º, n.º 7), alínea b) «Plano de Fomento - Programa de execução para 1969 - Transportes, comunicações e meteorologia - Portos e navegação», da tabela de despesa extraordinária do orçamento geral em vigor, por transferência de igual importância da verba do capítulo 12.º, artigo 300.º, n.º 3), alínea b) «Plano de Fomento - Programa de execução para 1969 - Indústrias extractivas e transformadoras - Indústrias transformadoras», da mesma tabela orçamental de despesa.
+Ministério do Ultramar, 20 de Novembro de 1969. - Pelo Ministro do Ultramar, Rui Manuel de Medeiros d'Espiney Patrício, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial de Timor. - Rui Patrício.
