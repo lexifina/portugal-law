@@ -1,0 +1,9 @@
+Decreto-Lei n.º 43715
+Com a publicação da Portaria n.º 17887, de 8 de Agosto de 1960, foi fixado o quadro orgânico de pessoal (provisório) do Lar Académico de Filhos de Oficiais e de Sargentos, a que se refere o artigo 6.º do Decreto-Lei n.º 42851, de 17 de Fevereiro de 1960.
+Torna-se agora necessário regularizar a situação do pessoal que à data da publicação daquele diploma já se encontrava ao serviço da instituição.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. O pessoal em serviço no Lar Académico de Filhos de Oficiais e de Sargentos admitido até à data da publicação da Portaria n.º 17887, de 8 de Agosto de 1960, que aprovou o quadro orgânico (provisório) daquela instituição, pode ser integrado neste quadro com dispensa de todas as formalidades legais, incluindo o visto do Tribunal de Contas, com excepção dos requisitos de idade e habilitações.
+§ único. A integração referida no corpo deste artigo far-se-á mediante relação nominal aprovada pelo Ministro da Defesa Nacional e publicada no Diário do Governo.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 30 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
