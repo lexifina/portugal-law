@@ -1,0 +1,26 @@
+Portaria n.º 656/2000
+de 28 de Agosto
+O Decreto-Lei n.º 104/89, de 6 de Abril, prevê o exercício da actividade marítima em vários tipos de embarcações, sem prejuízo de admitir o desempenho pelos inscritos marítimos de funções diversas das inerentes às categorias específicas que detêm.
+A conjuntura do mercado de emprego nos últimos anos tem conduzido a migrações de marítimos da carreira da marinha de pesca para o exercício de funções em embarcações do comércio, com particular incidência no armamento não nacional.
+De facto, existem centenas de marítimos portugueses com inscrição marítima no sector das pescas, a exercer funções em embarcações de comércio estrangeiras, no convés e nas máquinas, designadamente no serviço de quartos, funções para as quais é exigido certificado de qualificação específico, nos termos e para os efeitos da Convenção STCW, alterada pelas emendas de 1995.
+O regime transitório criado pela Portaria n.º 161/98, de 16 de Março, veio colmatar as necessidades evidenciadas por estes marítimos; contudo, a sua limitação temporal não permitiu que o universo global dos marítimos abrangidos pudesse beneficiar deste dispositivo legal, mantendo-se ainda uma certa situação de injustiça que urge reparar.
+Pretende-se, assim, através do presente diploma, que os marítimos, na situação referida, possam obter a categoria de marinheiro de 2.ª classe ou de ajudante de motorista, nuns casos, mediante o preenchimento de determinadas condições objectivas, comprovativas de uma larga experiência profissional e, noutros, através da realização de um exame, cujo programa será aprovado pelo Ministro do Equipamento Social, em substituição dos cursos de formação e de iniciação existentes.
+Assim, ao abrigo do artigos 23.º e 24.º do Decreto-Lei n.º 104/89, de 6 de Abril:
+Manda o Governo, pelos Ministros do Equipamento Social, da Defesa Nacional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Os marítimos nacionais com categorias específicas da pesca ou titulares de cédulas marítimas de países da União Europeia passam a ter acesso às categorias de marinheiro de 2.ª classe e de ajudante de motorista, nas condições previstas nas alíneas seguintes:
+a) À categoria de marinheiro de 2.ª classe, os marítimos que, nos últimos cinco anos, tenham um ano de embarque, exercendo funções de timoneiro e de vigia em embarcações de comércio, rebocadores ou embarcações auxiliares, com excepção das embarcações registadas como locais, ou de tráfego local;
+b) À categoria de ajudante de motorista, os marítimos que, nos últimos cinco anos, tenham um ano de embarque, exercendo as funções em quartos de máquina, em embarcações de comércio com potência não inferior a 750 kW.
+2.º Os marítimos nacionais titulares de cédulas marítimas de países terceiros passam a ter acesso às categorias de marinheiro de 2.ª classe e de ajudante de motorista, desde que sejam aprovados em exame a realizar para o efeito e satisfaçam as condições previstas nas alíneas seguintes:
+a) À categoria de marinheiro de 2.ª classe, os marítimos que, nos últimos cinco anos, tenham um ano de embarque, exercendo funções de timoneiro e de vigia em embarcações de comércio, rebocadores ou embarcações auxiliares, com excepção de embarcações registadas como locais, ou de tráfego local;
+b) À categoria de ajudante de motorista, os marítimos que, nos últimos cinco anos, tenham um ano de embarque, exercendo funções em quartos de máquina, em embarcações de comércio com potência não inferior a 750 kW.
+3.º As funções referidas nos números anteriores devem ser comprovadas por declaração autenticada dos comandantes das embarcações onde foram exercidas ou pelas autoridades competentes do país de registo das embarcações.
+4.º O programa do exame previsto neste diploma é aprovado por despacho do Ministro do Equipamento Social, mediante proposta do Instituto Marítimo-Portuário (IMP).
+5.º Os pedidos de exame são requeridos ao presidente do IMP, devendo constar do requerimento os documentos comprovativos das condições exigidas por este diploma.
+6.º O júri dos exames será composto por um presidente, a designar pelo IMP, e por dois vogais a indicar pela Escola de Pesca e da Marinha de Comércio.
+7.º Para efeitos da presente portaria, a competência para a realização das provas de exame considera-se delegada na Escola de Pesca e da Marinha de Comércio.
+8.º Com o certificado de aprovação do respectivo exame, os marítimos titulares de cédulas marítimas de países terceiros podem requerer ao IMP os certificados de marinheiro de 2.ª classe ou de ajudante de motorista, passado nos termos da Convenção Internacional sobre Normas de Formação, de Certificação e de Serviços de Quartos para os Marítimos, STCW.
+9.º Os certificados e demais documentos emitidos ao abrigo deste diploma são válidos até 1 de Fevereiro de 2002.
+10.º O disposto neste diploma aplica-se aos marítimos nacionais que desempenhem funções a bordo de embarcações estrangeiras.
+11.º A presente portaria vigora pelo período de um ano, a contar do dia seguinte ao da sua publicação.
+Em 1 de Agosto de 2000.
+O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho. - O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
