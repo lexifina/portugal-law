@@ -1,0 +1,3 @@
+Despacho Normativo n.º 138/79
+Sendo conveniente precisar os termos do despacho conjunto de 4 de Abril de 1979 dos Ministros das Finanças e do Plano e dos Transportes e Comunicações referente à cobertura financeira da aquisição pela CP de quinze unidades triplas eléctricas (UTE) à Sorefame, determina-se que a referência à banca comercial constante do mencionado despacho deverá ser substituída por instituições de crédito públicas.
+Ministérios das Finanças e do Plano e dos Transportes e Comunicações, 30 de Maio de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro dos Transportes e Comunicações, José Ricardo Marques da Costa.
