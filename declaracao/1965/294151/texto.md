@@ -1,0 +1,5 @@
+Declaração
+Segundo comunicação do Ministério do Ultramar, Gabinete do Ministro, a Portaria publicada sob o n.º 21163, no Diário ao Governo n.º 61, 1.ª série, de 13 de Março último, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No § 3.º do n.º 2.º, onde se lê: «... e os apresentará a despacho ministerial ou, se for caso disso, ...», deve ler-se: «... e os apresentará a despacho ministerial ou, se for caso disso, ...».
+No n.º 7.º, onde se lê: «... dotação inscrita na rubrica «Aproveitamento de recursos - Fomento agrário, florestal e pecuário» do Plano de Fomento da província de Moçambique», deve ler-se: «... dotação inscrita na rubrica «Agricultura, silvicultura e pecuária - Esquemas de regadio e povoamento» do Plano Intercalar de Fomento para 1965-1967 da província de Moçambique».
+Secretaria-Geral da Presidência do Conselho, 7 de Maio de 1965. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
