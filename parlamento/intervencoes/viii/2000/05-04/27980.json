@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2furkWvc0lKdq20ak2KlHOmirXJXFYm74sABWT32jiDLN0U8f%2fPEtMfn8RnKJ0uGruwmBNe3jwMO37t%2fiSCQ9aculmRkJeIKwr%2fOiOzMziHJAnUHHtOwdh287ngLEtCriB2WWEC7LYWi1fowW8ns7Xdb7ZeW1KZ%2fh4MoxhR77APfbIk6lGh2Xrj7umHYAgvxBKomL8r%2b7w%2bcVlag%2bST%2fprrlUOE0u%2b6qHwbnvIQKfKeygiUNrSNiI04zccBV4YEQPPfynibRRVQMmV0H0WPDuRcSm80sGGQgNyTsUcq3R2DGZQtkpt%2bs4PaWOTvEOy%2b0HxZFhxj0gLaLBKCcha3mTRy2bCNMZep%2b9wDXb88fyVXk%3d&fich=IntervencoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6a76c73abc08ffed4c44b15f3f36f3269364cf06e4b7f2d6259e2b14d6049817",
+  "legislatura": "VIII",
+  "id": "27980",
+  "tipo": "Intervenção",
+  "orador": "Manuel Queiró (CDS-PP)",
+  "data_registo": "2000-05-04",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "105379",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "6336",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Concede ao Governo autorização legislativa para aprovar o Regime Especial de Ilícitos de Mera Ordenação Social em matéria de poluição do Meio Marinho sob Jurisdição Marítima Nacional incluindo os espaços da Zona Económica Exclusiva e os factos praticados em Áreas de Alto Mar não abrangidas pela Jurisdição de qualquer Estado por Agentes Poluidores que Arvorem Bandeira Nacional"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2000-05-04",
+    "Debate": "PPL 6",
+    "Deputados": {
+      "GP": "CDS-PP",
+      "idCadastro": "228",
+      "nome": "Manuel Queiró"
+    },
+    "FaseDebate": "GENERALIDADE",
+    "FaseSessao": "POD",
+    "Id": "27980",
+    "IdDebate": "1733",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "6336",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "27980",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "2450-2451"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-05-05",
+        "pubLeg": "VIII",
+        "pubNr": "61",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/061/2000-05-05/2450?pgs=2450-2451&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "POLUICAO DO MEIO MARINHO",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
