@@ -1,0 +1,6 @@
+Decreto-Lei n.º 48020
+Tornando-se necessário regularizar o sistema adoptado para o processamento das guias relativas à cobrança das importâncias a que se refere o Decreto-Lei n.º 36874, de 17 de Maio de 1948;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Enquanto não se proceder à reorganização da Comissão dos Explosivos, as guias a que se refere o artigo 2.º do Decreto-Lei n.º 36874, de 17 de Maio de 1948, poderão ser processadas pelas entidades que devam satisfazer as importâncias previstas naquele diploma.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 3 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Manuel Rafael Amaro da Costa.
