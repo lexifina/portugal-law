@@ -1,0 +1,5 @@
+Despacho Normativo n.º 250/82
+Considerando que a Portaria n.º 812/82, de 28 de Agosto, estabeleceu a sujeição ao regime de preços livres dos preços do aposento, do primeiro almoço continental e das refeições principais praticados nos estabelecimentos hoteleiros com interesse para o turismo;
+Considerando que a referida portaria foi apenas publicada em 28 de Agosto e se suscitaram, por isso, dúvidas sobre o momento em que devem ser comunicados, para efeitos de informação, à Direcção-Geral do Turismo os preços a praticar pelos hotéis, hotéis-apartamentos, aldeamentos de luxo e de 1.ª classe, atendendo ao prazo nela estabelecido (31 de Julho):
+Nestes termos, e ao abrigo do disposto no n.º 27.º da Portaria n.º 812/82, de 28 de Agosto, determina-se que no ano de 1982 os hotéis, hotéis-apartamentos, aldeamentos de luxo e de 1.ª classe deverão cumprir o dever de informação previsto no n.º 2 do n.º 1.º da Portaria n.º 812/82 até 30 de Novembro.
+Secretarias de Estado do Turismo e do Comércio, 26 de Outubro de 1982. - O Secretário de Estado do Turismo, Luís Fernando Cardoso Nandim de Carvalho. - O Secretário de Estado do Comércio, António Escaja Gonçalves.
