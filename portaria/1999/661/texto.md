@@ -1,0 +1,10 @@
+Portaria n.º 661/99
+de 17 de Agosto
+A Assembleia Municipal do Fundão aprovou, em 3 de Maio de 1999, a prorrogação do prazo de vigência das medidas preventivas estabelecidas para a área a abranger pelo Plano de Pormenor da Área Poente do Fundão, ratificadas pela Portaria n.º 363/97, de 2 de Junho.
+Verificando-se que o processo de elaboração do novo Plano de Pormenor ainda não está concluído e que se mantêm válidas as razões que levaram ao estabelecimento de medidas preventivas, designadamente evitar a alteração das circunstâncias e das condições existentes na área, o que poderia comprometer a futura execução do Plano ou torná-la mais difícil ou onerosa, importa proceder à prorrogação do prazo estabelecido para a vigência daquelas medidas.
+Assim, ao abrigo do disposto nos artigos 3.º, n.os 4, e 7.º do Decreto-Lei n.º 69/90, de 2 de Março, com as alterações introduzidas pelo Decreto-Lei n.º 155/97, de 24 de Junho, e da delegação de competências conferida pelo despacho n.º 48/96, do Ministro do Equipamento, do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, de 21 de Março de 1996:
+Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamento do Território, o seguinte:
+1.º É ratificada a prorrogação do prazo de vigência das medidas preventivas estabelecidas pela Portaria n.º 363/97, de 2 de Junho, por mais um ano, contado a partir de 2 de Junho de 1999.
+2.º Mantém-se a exclusão de ratificação do n.º 1.2 das medidas preventivas.
+3.º As medidas preventivas vigoram pelo prazo indicado ou até que sejam substituídas por normas provisórias, que entre em vigor o Plano de Pormenor da Área Poente do Fundão revisto ou qualquer outro plano para a mesma área, consoante o que primeiro ocorrer.
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho, em 14 de Julho de 1999.
