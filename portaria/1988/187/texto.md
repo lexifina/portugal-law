@@ -1,0 +1,78 @@
+Portaria n.º 187/88
+de 24 de Março
+Sob proposta da Universidade de Évora;
+Ao abrigo do disposto no n.º 2 do artigo 1.º do Decreto n.º 119/81, de 26 de Setembro;
+Considerando que, por força da Portaria n.º 781/87, de 9 de Setembro, já não existe na Universidade de Évora o lugar de administrador:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:
+1.º Os modelos de carta de curso dos graus de licenciado e de meste pela Universidade de Évora são os constantes dos anexos I e II a esta portaria.
+2.º O modelo de carta doutoral do grau de doutor pela Universidade de Évora é o constante do anexo III a esta portaria.
+Ministério da Educação.
+Assinada em 23 de Fevereiro de 1988.
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
+
+ANEXO I
+República (ver nota a) Portuguesa
+Universidade de Évora
+Carta de curso
+Grau de licenciado
+Eu, ... (ver nota b), reitor da Universidade de Évora:
+Faço saber que ... (ver nota c), filho(a) de ... (ver nota d), natural de ... (ver nota e), tendo frequentado esta Universidade, concluiu em ... (ver nota f) o curso de licenciatura em ... (ver nota g), com a classificação de ... (ver nota h) valores, pelo que, em conformidade com as disposições legais em vigor, lhe mandei passar a presente carta de curso, em que o(a) declaro habilitado(a) com o grau de licenciado(a) em ... (ver nota i).
+Universidade de Évora, ... (ver nota j).
+O Reitor, ... (ver nota l).
+O Director dos Serviços Académicos, ... (ver nota m).
+(nota a) Emblema da Universidade.
+(nota b) Nome do reitor.
+(nota c) Nome do titular da carta de curso.
+(nota d) Nomes do pai e da mãe do titular da carta de curso.
+(nota e) Naturalidade do titular da carta de curso.
+(nota f) Data da conclusão do curso.
+(nota g) Designação do curso.
+(nota h) Classificação final, por extenso.
+(nota i) Designação do grau de licenciado.
+(nota j) Data da emissão da carta de curso.
+(nota l) Assinatura do reitor autenticada por selo branco.
+(nota m) Assinatura do director dos Serviços Académicos autenticada por selo branco.
+
+ANEXO II
+República (ver nota a) Portuguesa
+Universidade de Évora
+Carta de curso
+Grau de mestre
+Eu, ... (ver nota b), reitor da Universidade de Évora:
+Faço saber que ... (ver nota c), filho(a) de ... (ver nota d), natural de ... (ver nota e), tendo frequentado nesta Universidade o curso de mestrado em ... (ver nota f) e defendido a respectiva dissertação, foi-lhe concedido em ... (ver nota g), o grau de mestre em ... (ver nota h), com a classificação de ... (ver nota i), pelo que, em conformidade com as disposições legais em vigor, lhe mandei passar a presente carta de curso, em que o(a) declaro habilitado(a) com o referido grau.
+Universidade de Évora, ... (ver nota j).
+O Reitor, ... (ver nota l).
+O Director dos Serviços Académicos, ... (ver nota m).
+(nota a) Emblema da Universidade.
+(nota b) Nome do reitor.
+(nota c) Nome do titular da carta de curso.
+(nota d) Nomes do pai e da mãe do titular da carta de curso.
+(nota e) Naturalidade do titular da carta de curso.
+(nota f) Designação do curso.
+(nota g) Data da discussão da dissertação.
+(nota h) Especialidade em que foi conferido o grau de mestre.
+(nota i) Bom ou Muito bom.
+(nota j) Data da emissão da carta de curso.
+(nota l) Assinatura do reitor autenticada por selo branco.
+(nota m) Assinatura do director dos Serviços Académicos autenticada por selo branco.
+
+ANEXO III
+República (ver nota a) Portuguesa
+Universidade da Évora
+Carta doutoral
+Eu, ... (ver nota b), reitor da Universidade de Évora:
+Faço saber que ... (ver nota c), filho(a) de ... (ver nota d), natural de ... (ver nota e), concluiu em ... (ver nota f), nesta Universidade, as provas de doutoramento em ... (ver nota g), tendo sido ... (ver nota h), pelo que, em conformidade com as disposições legais em vigor, lhe mandei passar a presente carta doutoral, em que o(a) declaro habilitado(a) com o grau de doutor em ... (ver nota g) por esta Universidade.
+Universidade de Évora, ... (ver nota i).
+O Reitor, ... (ver nota j).
+O Director dos Serviços Académicos, ... (ver nota l).
+(nota a) Emblema da Universidade.
+(nota b) Nome do reitor.
+(nota c) Nome do titular da carta doutoral.
+(nota d) Nomes do pai e da mãe do titular da carta doutoral.
+(nota e) Naturalidade do titular da carta doutoral.
+(nota f) Data em que se concluíram as provas de doutoramento.
+(nota g) Designação do ramo e da especialidade.
+(nota h) Aprovado(a) com distinção ou Aprovado(a) com distinção e louvor.
+(nota i) Data da emissão da carta doutoral.
+(nota j) Assinatura do reitor autenticada por selo branco.
+(nota l) Assinatura do director dos Serviços Académicos autenticada por selo branco.
