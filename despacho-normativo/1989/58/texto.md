@@ -1,0 +1,9 @@
+Despacho Normativo n.º 58/89
+Nos termos do artigo 19.º do Decreto-Lei n.º 215/87, de 29 de Maio, o regime de transferência de verbas para as autarquias locais constante do Decreto-Lei n.º 410-B/79, de 27 de Setembro, é aplicável a todas as eleições gerais, competindo aos Ministros das Finanças e da Administração Interna fixar, por despacho conjunto, os valores determinantes das parcelas x, y e z a que se refere o artigo 1.º deste último diploma, respeitando-se os critérios ali estabelecidos.
+Assim, tendo sido fixado o dia 18 do próximo mês de Junho para a eleição dos deputados de Portugal ao Parlamento Europeu e havendo necessidade de concretizar com urgência a transferência das verbas em causa, por forma a facultar em tempo útil às autarquias locais os meios financeiros necessários para assegurar o normal desenvolvimento, a nível local, do referido processo eleitoral;
+Nos termos do artigo 19.º do Decreto-Lei n.º 215/87, de 29 de Maio, determina-se:
+A importância a transferir para cada município do continente e regiões autónomas para despesas a nível concelhio e de freguesia com a próxima eleição dos deputados de Portugal ao Parlamento Europeu, nos termos do Decreto-Lei n.º 410-B/79, de 27 de Setembro, aplicável por força do artigo 19.º do Decreto-Lei n.º 215/87, de 29 de Maio, será a que resultar da soma das parcelas x, y e z a que se refere o artigo 1.º do primeiro dos referidos diplomas, consideradas as seguintes equivalências:
+x = 10500$00 (verba mínima por concelho);
+y = 2$50 x número de eleitores inscritos no concelho;
+z = 1600$00 x número de freguesias do concelho.
+Ministérios das Finanças e da Administração Interna, 22 de Maio de 1989. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Administração Interna, José António da Silveira Godinho.
