@@ -1,0 +1,4 @@
+Resolução n.º 82/82
+Nos termos da alínea a) do artigo 146.º e do n.º 4 do artigo 277.º da Constituição, o Conselho da Revolução, a solicitação do Presidente da República e precedendo parecer da Comissão Constitucional, pronuncia-se, para os efeitos dos n.os 1 e 3 do artigo 278.º da Constituição, pela inconstitucionalidade do projecto de decreto-lei aprovado em Conselho de Ministros em 11 de Março de 1982 e registado sob o n.º 165-G/82 - MACP no livro de registos de diplomas da Presidência do Conselho de Ministros, por o sistema representativo proposto nos seus artigos 17.º e 18.º violar a observância dos princípios cooperativos imposta pelos artigos 84.º, n.º 2, e 89.º, n.º 3, da Constituição.
+Aprovada em Conselho da Revolução em 3 de Maio de 1982.
+O Presidente do Conselho da Revolução, António Ramalho Eanes.
