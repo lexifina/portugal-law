@@ -1,0 +1,17 @@
+Resolução n.º 229/81
+A construção de uma ponte ferroviária de via dupla sobre o rio Douro, no Porto, é uma necessidade sentida desde há vários anos, sendo imprescindível para uma exploração racional e para o estabelecimento de ligações ferroviárias adequadas entre toda a Região Norte e o resto do País.
+De facto, a actual Ponte de D. Maria Pia, de via única, construída há 100 anos, tem hoje um tráfego intenso, que já não responde, minimamente, aos requisitos da procura, quer em volume, quer em qualidade. Ela constitui um forte estrangulamento de carga, velocidade e capacidade de custos económicos e sociais elevados.
+Por variadas razões o arranque da construção dessa nova ponte ferroviária de via dupla tem sido constantemente protelado, enquanto as necessidades das populações, em matéria de transportes, têm crescido inexoravelmente. Neste momento, e devido às indecisões do passado, não é possível oferecer às populações do Minho, Douro e Trás-os-Montes as frequências de comboios rápidos e directos de passageiros e de mercadorias de que carecem.
+Daí que, pela Resolução do Conselho de Ministros n.º 28/81, de 6 de Fevereiro, se tenha explicitado, de forma bem clara, a decisão de se construir uma nova ponte ferroviária sobre o rio Douro e remetido para o grupo de trabalho o estudo da opção do seu traçado, entre as várias hipóteses existentes, tendo em conta as razões que levaram à sua formulação.
+No relatório apresentado pelo referido grupo de trabalho propõe-se a implantação da nova ponte ferroviária, por razões estéticas e por realidades físicas existentes, numa faixa próxima do traçado China II.
+Verifica-se, também, que não existe qualquer dúvida quanto à necessidade urgente de se construir uma nova ponte sobre o rio Douro, como meio indispensável para a racionalização da exploração ferroviária e para o bem-estar das populações, sobretudo das que se situam em toda a Região Norte.
+A sua construção permitirá, também, uma melhor viabilização de projectos industriais, nomeadamente o projecto de Moncorvo.
+A eventual construção de uma nova travessia rodoviária é aspecto que não se encontra, porém, ainda suficientemente clarificado quanto à data da sua construção.
+Nestes termos, o Conselho de Ministros, reunido em 22 de Outubro de 1981, resolveu:
+a) Aprovar a localização proposta pelo grupo de trabalho para a nova ponte ferroviária sobre o rio Douro;
+b) Incumbir o Ministro da Habitação, Obras Públicas e Transportes de preparar e apresentar ao Conselho de Ministros, com urgência, um projecto de decreto-lei, criando e definindo as atribuições de um gabinete, com o objectivo de levar a cabo, de forma muito dinâmica e eficiente, todas as acções relacionadas com a construção da nova ponte ferroviária sobre o rio Douro;
+c) Determinar a inclusão deste investimento no PIDDAC 1982 e anos seguintes até à total concretização da obra;
+d) Fixar o final do 1.º semestre de 1982 como prazo limite para a adjudicação e início da obra;
+e) Indicar como prazo desejável para a conclusão da construção da nova ponte o final de 1984;
+f) Mandar prosseguir com urgência os estudos de tráfego rodoviário determinantes da construção de uma nova travessia rodoviária na zona do Porto, de modo a poderem superar-se em tempo útil as dificuldades já sentidas resultantes do intenso tráfego existente entre o Porto e Gaia.
+Presidência do Conselho de Ministros, 22 de Outubro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
