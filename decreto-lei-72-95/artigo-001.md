@@ -2,7 +2,7 @@
 
 ### Objecto
 
-1 - As sociedades de locação financeira são sociedades financeiras que têm por objeto principal o exercício da atividade de locação financeira.
+1 - As sociedades de locação financeira são instituições de crédito que têm por objecto principal o exercício da actividade de locação financeira.
 
 2 - As sociedades de locação financeira podem, como actividade acessória:
 
