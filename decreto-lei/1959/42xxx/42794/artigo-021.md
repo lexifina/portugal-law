@@ -20,4 +20,6 @@ f) Custas e selos nos processos judiciais, administrativos e fiscais em que fore
 
 g) Licenças dos governos civis e outras realizações desportivas, de propaganda, culturais e recreativas;
 
-h) Licenças para obras.
+h) Licenças para obras;
+
+l) Quaisquer outros emolumentos.
