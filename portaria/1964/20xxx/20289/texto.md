@@ -1,0 +1,22 @@
+Portaria n.º 20289
+Tornando-se necessário assegurar a coordenação das actividades que entram na competência da Direcção-Geral do Ensino e dos serviços provinciais dela dependentes:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+1.º Junto da Direcção-Geral do Ensino do Ministério do Ultramar é instituído o conselho coordenador das actividades dependentes daquela Direcção-Geral, constituído por:
+Presidente: o director-geral ou, no seu impedimento, quem legalmente o substituir.
+Vogais: os inspectores do ensino, com sede no Ministério e nas províncias; os directores provinciais e os chefes provinciais dos serviços de instrução, e os chefes das repartições da Direcção-Geral.
+2.º Poderão ser convocados ou convidados para tomar parte em trabalhos do conselho coordenador, referido no número anterior, os chefes das repartições provinciais dos serviços de instrução, reitores dos liceus, directores de estabelecimentos de ensino técnico profissional, de formação de professores e de ensino médio e inspectores escolares das províncias que não possuam serviços centrais de instrução, bem como quaisquer outras entidades qualificadas nos sectores da educação e da cultura.
+§ único. A convocação ou o convite dependerá de despacho ministerial.
+3.º O conselho coordenador reúne ordinàriamente e com carácter obrigatório por convocação do seu presidente, nas férias grandes; extraordinàriamente, sempre que o Ministro do Ultramar o determine; as reuniões podem efectuar-se em Lisboa ou em qualquer das províncias ultramarinas.
+§ 1.º As reuniões fora de Lisboa ficam dependentes de despacho do Ministro.
+§ 2.º Para as reuniões extraordinárias poderão ser convocados apenas alguns dos componentes do conselho, conforme vier a ser superiormente determinado.
+4.º Compete ao conselho coordenador:
+a) O estudo da legislação publicada em cada província e do modo como os respectivos serviços actuam, com o fim de se verificar o seu enquadramento na orientação geral em matéria de ensino e educação;
+b) A definição das directivas a seguir em cada província para concretização dessa orientação;
+c) A apreciação dos livros e compêndios didácticos, aplicados actualmente nas províncias ultramarinas, ou dos que nelas se pretenda vir a aplicar, e consequente parecer sobre a sua permanência, aceitação ou substituição;
+d) A coordenação das actividades próprias dos serviços de direcção e de inspecção, no conjunto das províncias ultramarinas;
+e) Propor medidas de natureza educativa e cultural, que julgue necessárias, extensivas a mais de uma das províncias;
+f) Pronunciar-se, sob forma de pareceres, relativamente aos demais assuntos referentes à educação e à cultura que lhe sejam superiormente confiados.
+5.º O expediente do conselho coordenador corre pela secretaria da inspecção, adstrita à Direcção-Geral.
+Ministério do Ultramar, 2 de Janeiro de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.
+
+Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - Peixoto Correia.
