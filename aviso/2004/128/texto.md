@@ -1,0 +1,5 @@
+Aviso n.º 128/2004
+Por ordem superior se torna público que em 18 de Maio de 2004 e em 22 de Julho de 2003 foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros português e pelo Ministério dos Negócios Estrangeiros polaco, em que ambas as Partes comunicam terem sido concluídas as respectivas formalidades internas de aprovação do Acordo de Cooperação entre a República Portuguesa e a República da Polónia no Domínio do Turismo, assinado em Lisboa em 22 de Janeiro de 2003.
+Por parte de Portugal, o Acordo foi aprovado pelo Decreto n.º 9/2004, publicado no Diário da República, 1.ª série-A, n.º 101, de 29 de Abril de 2004. Pela parte da Polónia, o Acordo foi aprovado através do Decreto-Lei n.º 162/2003, de 25 de Junho.
+Nos termos do parágrafo 2.º do artigo 9.º do Acordo, este entrará em vigor 30 dias após a data de recepção da última notificação, ou seja, em 24 de Junho de 2004.
+Direcção-Geral das Relações Bilaterais, 24 de Junho de 2004. - A Directora dos Serviços da Europa, Helena de Almeida Coutinho.
