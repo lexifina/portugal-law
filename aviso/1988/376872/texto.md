@@ -1,0 +1,9 @@
+Aviso
+Por ordem superior se torna público ter o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificado que a Embaixada do Reino Unido da Grã-Bretanha e Irlanda do Norte na Haia, em referência à declaração contida no instrumento de adesão da República da Argentina à Convenção de Supressão da Exigência de Legalização dos Actos Públicos Estrangeiros (assinada esta na Haia a 5 de Outubro de 1961 e depositado aquele a 8 de Maio de 1987), enviou uma nota ao Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, donde consta o seguinte:
+O Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte não pode aceitar a declaração feita pela República Argentina relativamente às ilhas Falkland, Geórgia do Sul e ilhas Sandwich do Sul: o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte não tem qualquer dúvida quanto à soberania do Reino Unido sobre as ilhas Falkland, Geórgia do Sul e ilhas Sandwich do Sul e, consequentemente, quanto ao seu direito a estender a aplicação da Convenção às ilhas Falkland, Geórgia do Sul e ilhas Sandwich do Sul.
+O Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte também não pode aceitar a declaração feita pela República Argentina relativamente ao território antárctico britânico.
+O Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte não tem qualquer dúvida quanto à soberania do Reino Unido sobre o território antárctico britânico e, consequentemente, quanto ao seu direito a estender a aplicação da Convenção ao território antárctico britânico.
+O Governo do Reino Unido chama a atenção para o artigo IV do Tratado Antárctico, em que os Governos do Reino Unido e da Argentina são partes.
+O artigo IV suspende as reivindicações sobre o território antárctico a sul de 60º de latitude sul.
+Portugal é parte na Convenção em apreço.
+Secretaria-Geral do Ministério, 27 de Julho de 1988. - O Chefe do Serviço Jurídico e de Tratados, Fernão Manuel Homem de Gouveia Favila Vieira.
