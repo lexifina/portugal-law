@@ -1,0 +1,10 @@
+Declaração de Rectificação n.º 16-O/96
+Segundo comunicação do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, o Despacho Normativo n.º 43-A/96, publicado no Diário da República, 1.ª série, n.º 250 (suplemento), de 28 de Outubro de 1996, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 9, alínea a), onde se lê «a) [...] também quando efectuados por produtores abrangidos pelo regime simplificado,» deve ler-se «a) [...] também quando efectuados por produtores abrangidos pelo regime geral e nove classes para os cereais quando cultivados por produtores abrangidos pelo regime simplificado,».
+No anexo I, n.º III «Direcção Regional de Agricultura da Beira Litoral», no distrito de Coimbra, concelho de Montemor-o-Velho, onde se lê «Azarede,» deve ler-se «Arazede,».
+No anexo I, n.º V «Direcção Regional de Agricultura do Ribatejo e Oeste», no distrito de Lisboa, concelho da Azambuja, onde se lê «Vila Nova da Rainha (a)» deve ler-se «Vila Nova da Rainha (a) e restantes freguesias».
+No anexo I, n.º VI «Direcção Regional de Agricultura do Alentejo», no distrito de Beja, onde se lê «concelho de Alvito: Alvito - Vila Nova da Baronia - Barrancos» deve ler-se «Alvito: Alvito - Vila Nova da Baronia» seguido do concelho de «Barrancos: Barrancos».
+No anexo I, n.º VI «Direcção Regional de Agricultura do Alentejo», no distrito de Portalegre, concelho de Fronteira, onde se lê «Restantes freguesias» deve ler-se «Todas as freguesias».
+No anexo I, n.º VI «Direcção Regional de Agricultura do Alentejo», no distrito de Setúbal, concelho de Grândola, onde se lê «Azinheira dos Barros e São Mamede do Sádão» deve ler-se «Azinhaga dos Barros/São Mamede do Sádão».
+No anexo II, «Zona Agrária de Loures», onde se lê «até apanhar a EN-10, desde até ao rio.» deve ler-se «até apanhar a EN-10, descendo até ao rio.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 29 de Novembro de 1996. - Pelo Secretário-Geral, a Directora dos Serviços de Apoio Técnico, Iolanda Oliveira.
