@@ -2,7 +2,7 @@
 
 1 - Não será restituído o imposto relativo às aquisições dos bens e serviços a seguir indicados, quando adquiridos para uso pessoal:
 
-a) Trabalhos imobiliários;
+a) Trabalhos imobiliários, incluindo os materiais, ainda que fornecidos pelo dono da obra para o efeito;
 
 b) Águas, gás e electricidade;
 
