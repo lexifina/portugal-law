@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1923/03/06300/03210321.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1923-03-26",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "f288d9a760ba9ec8c3e6ed70a0b758c4f5bd1c279f28225b9b77933a30e30b3f",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.9,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "25517865b04de4677d93d7438570b0c630f2a81a96bd3afa86a7b557fdac425f",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 159
 }
