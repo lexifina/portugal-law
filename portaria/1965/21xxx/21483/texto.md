@@ -1,0 +1,5 @@
+Portaria n.º 21483
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 8000$00 a verba do capítulo 10.º, artigo 268.º, n.º 33, alínea b) «Encargos gerais - Diversas despesas - Passagens a estudantes, nos termos do Decreto n.º 45653, de 11 de Abril de 1964 - Passagens de férias», da tabela de despesa ordinária do orçamento geral da província de Macau para o corrente ano, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 4.º, artigo 123.º, n.º 1) «Administração geral e fiscalização - Polícia Internacional e de Defesa do Estado - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei», da referida tabela de despesa.
+Ministério do Ultramar, 20 de Agosto de 1965. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de Macau. - J. da Silva Cunha.
