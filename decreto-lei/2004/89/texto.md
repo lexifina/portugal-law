@@ -1,0 +1,19 @@
+Decreto-Lei n.º 89/2004
+de 20 de Abril
+O Decreto-Lei n.º 55/2001, de 15 de Fevereiro, alterado, por apreciação parlamentar, pela Lei n.º 89/2001, de 10 de Agosto, veio definir o regime das carreiras de museologia, conservação e restauro do pessoal dos museus, palácios, monumentos e sítios e dos serviços e organismos da administração central com atribuições na área da museologia e da conservação e restauro do património cultural sob a tutela do Ministério da Cultura.
+As alíneas b) e c) do n.º 1 do artigo 17.º do citado diploma dispunham que, durante o período de dois anos a contar a partir da data da entrada em vigor deste diploma e mediante a realização de concursos nos termos legais, o recrutamento para a carreira de conservador-restaurador e para a carreira de técnico profissional de conservação e restauro possa ser alargado, respectivamente, aos técnicos de conservação e restauro possuidores de curso superior não conferente de grau de licenciatura habilitados com formação e experiência profissional adequadas com o mínimo de três anos na área de conservação e restauro e indivíduos habilitados com o 9.º ano de escolaridade e experiência profissional adequada com o mínimo de três anos na referida área de conservação e restauro.
+O Instituto Português de Conservação e Restauro, criado pelo Decreto-Lei n.º 342/99, de 25 de Agosto, à data da publicação do Decreto-Lei n.º 55/2001, de 15 de Fevereiro, durante o período de dois anos conferido pelo seu artigo 17.º para recrutamento excepcional alargado para as carreiras de conservador-restaurador e de técnico profissional de conservação e restauro, não dispunha de quadro de pessoal próprio, o qual apenas veio a ser aprovado pela Portaria n.º 288/2003, de 3 de Abril.
+Tal circunstância impediu que o pessoal integrado no quadro do extinto Instituto de José de Figueiredo e que agora transitou para o quadro do Instituto Português de Conservação e Restauro beneficiasse do referido regime devido à impossibilidade legal de proceder a abertura de concursos para recrutamento de pessoal.
+Por forma a corrigir a situação iníqua que de outro modo se geraria relativamente a este grupo de pessoal, torna-se, pois, imperioso estender o período de recrutamento excepcional para o pessoal do quadro do Instituto Português de Conservação e Restauro, por forma que este possa beneficiar do regime previsto nas alíneas b) e c) do n.º 1 e no n.º 2 do artigo 17.º do Decreto-Lei n.º 55/2001, de 15 de Fevereiro, com as alterações introduzidas pela Lei n.º 89/2001, de 10 de Agosto.
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo único
+Extensão do período de recrutamento excepcional para o pessoal integrado no quadro do Instituto Português de Conservação e Restauro
+Durante o período de dois anos a contar a partir da data da entrada em vigor do presente diploma, o pessoal integrado no quadro do Instituto Português de Conservação e Restauro que reúna os requisitos previstos nas alíneas b) e c) do n.º 1 do artigo 17.º do Decreto-Lei n.º 55/2001, de 15 de Fevereiro, alterado, por apreciação parlamentar, pela Lei n.º 89/2001, de 10 de Agosto, poderá beneficiar da aplicação do regime alargado de recrutamento excepcional para as carreiras de conservador-restaurador e de técnico profissional de conservação e restauro, nos termos e nas condições constantes nos n.os 1 e 2 do citado artigo.
+Visto e aprovado em Conselho de Ministros de 11 de Março de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Pedro Manuel da Cruz Roseta.
+Promulgado em 5 de Abril de 2004.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 5 de Abril de 2004.
+O Primeiro-Ministro, José Manuel Durão Barroso.
