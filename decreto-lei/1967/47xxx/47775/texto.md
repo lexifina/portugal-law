@@ -1,0 +1,8 @@
+Decreto-Lei n.º 47775
+Considerando o novo regime a que vão ser sujeitos o exercício da indústria de alimentos compostos para animais e a preparação e comércio dos mesmos alimentos;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É revogado o Decreto-Lei n.º 42979, de 16 de Maio de 1960, com excepção dos seus artigos 9.º, 10.º, 11.º, 12.º, 13.º e 14.º, que continuarão em pleno vigor.
+Art. 2.º Os membros da Comissão Técnica Permanente de Nutrição Animal, criada pelo Regulamento de Preparação e Comércio de Alimentos Compostos para Animais, aprovado pelo Decreto n.º 47776, desta data, serão abonados de senhas de presença nas condições em vigor para os membros do Conselho Técnico da Indústria.
+§ único. Os encargos provenientes do disposto neste artigo serão satisfeitos pela verba referida no § único do artigo 8.º do Decreto-Lei n.º 43559, de 25 de Março de 1961.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 5 de Julho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Voz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires - Fernando Manuel Alves Machado - Manuel Rafael Amaro da Costa.
