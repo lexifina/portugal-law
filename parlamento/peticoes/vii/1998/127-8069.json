@@ -1,0 +1,372 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=tKfXsA%2fENKNnp0LKqSGHXsjkrRl7S077Q3%2bDShtNlJSfDEIxb29heS60fekSU9Mh%2bOaOxN93u5lJXhXrF20O3GwJrwgX%2b0YU%2bhQwCIVqWOtg4qLdCOsovw17HpQ%2b61GwzRT0xyKc0H%2fa9DQdlP4PkB2kdgun9cM%2f%2fx7V2KVgyAwbUtpLdjftXVCgqJHGFNGYlFDP1m8Jzr0rp%2bkkIm21JfRb4lD2mU2lj506V%2fnSNSb2tR3%2bEDlK3FCGtu7ykpvS5%2bJJC%2frUbEM2mltYb1VfVOgZIDgJPPhSuZN2zIxPp9%2f2OdtvhAO8Vt2qGCJv%2bMWDKcdwAI%2fMSsLsMJfNmLa7xtfsjI6y%2ft3q%2btijdCCXBQfnO9%2b8PHRu402cRBtkKANn&fich=PeticoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "6041edea08a28f8315a7bbbffd2127aaa9493aac12482c88a108bc6b12f7d746",
+  "legislatura": "VII",
+  "id": "8069",
+  "numero": "127",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1998-05-12",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "1999-03-03",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1998-12-02",
+        "DataArquivo": "1999-03-03",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "1999-03-17",
+        "DataReaberta": "1998-12-02",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "11",
+        "Legislatura": "VII",
+        "Nome": "COMISSAO ADMINIST. DO TERRITORIO, P. LOCAL, EQ. SOC E AMBIENTE",
+        "NotasAdmissibilidade": null,
+        "Numero": "4",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1998-12-02",
+            "gp": "PSD",
+            "id": "121",
+            "motivoCessacao": null,
+            "nome": "Mário Albuquerque"
+          }
+        ],
+        "RelatorioFinal": [
+          "21410"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2004-04-16",
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2004-04-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149296",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4142-4143",
+                  "4146-4146"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-17",
+                "pubLeg": "IX",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/076/2004-04-17/4142?pgs=4142-4143,4146&org=PLC"
+              }
+            ],
+            "Sumario": "A Associação para o progresso da Amora solicita à Assembleia da República (AR) a criação do município da Amora",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-04-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149297",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4143-4144"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-17",
+                "pubLeg": "IX",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/076/2004-04-17/4143?pgs=4143-4144&org=PLC"
+              }
+            ],
+            "Sumario": "A Associação para o progresso da Amora solicita à Assembleia da República (AR) a criação do município da Amora",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-04-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149298",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4144-4144"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-17",
+                "pubLeg": "IX",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/076/2004-04-17/4144?pgs=4144&org=PLC"
+              }
+            ],
+            "Sumario": "A Associação para o progresso da Amora solicita à Assembleia da República (AR) a criação do município da Amora",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-04-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149299",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4144-4147"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-17",
+                "pubLeg": "IX",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/076/2004-04-17/4144?pgs=4144-4147&org=PLC"
+              }
+            ],
+            "Sumario": "A Associação para o progresso da Amora solicita à Assembleia da República (AR) a criação do município da Amora",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-04-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149300",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4145-4146"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-17",
+                "pubLeg": "IX",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/076/2004-04-17/4145?pgs=4145-4146&org=PLC"
+              }
+            ],
+            "Sumario": "A Associação para o progresso da Amora solicita à Assembleia da República (AR) a criação do município da Amora",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "8069",
+    "PetAssunto": "Solicitam que seja criado o município de Amora.",
+    "PetDataEntrada": "1998-05-12",
+    "PeticoesAssociadas": null,
+    "PetId": "8069",
+    "PetLeg": "VII",
+    "PetNr": "127",
+    "PetNrAssinaturas": "6674",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "165",
+        "obs": null,
+        "pag": [
+          "4142-4147"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-04-17",
+        "pubLeg": "IX",
+        "pubNr": "76",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/076/2004-04-17/4142?pgs=4142-4147&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "263814",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1998-12-19",
+        "pubLeg": "VII",
+        "pubNr": "11",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/04/011/1998-12-19?org=PLC"
+      }
+    ]
+  }
+}
