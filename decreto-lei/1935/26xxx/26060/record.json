@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1935/11/26600/16871688.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1935-11-16",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "c2bd0b29027f4c18dea3b787578be2c4296f915579f5907b4625995fdc4abd69",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.3,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "0b95ecc8bc8258f02e0ff173d2fed343e8ad472ddefa239ec3432ff1898c6ff2",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 306
 }
