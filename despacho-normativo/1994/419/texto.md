@@ -1,0 +1,8 @@
+Despacho Normativo n.º 419/94
+Considerando que, com a entrada em vigor do Decreto Regulamentar n.º 35/93, de 21 de Outubro, cessaram automaticamente, em 26 de Outubro de 1993, as comissões de serviço em que os licenciados Carlos Guerreiro de Moura, Maria Lídia Ferreira Morgado e Maria Manuel do Nascimento de Almeida Neves vinham exercendo cargos dirigentes no extinto Centro Regional de Segurança Social de Coimbra e que os mesmos reúnem os requisitos necessários para o provimento na categoria de assessor principal;
+Considerando o disposto na primitiva redacção do n.º 2 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, mantida transitoriamente em vigor pelo artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e o disposto nos n.os 6 e 8 do mesmo artigo 18.º, na redacção dada pelo artigo 1.º do citado Decreto-Lei n.º 34/93, de 13 de Fevereiro;
+Considerando, ainda, o disposto no artigo 29.º do Decreto-Lei n.º 260/93, de 23 de Julho:
+Determina-se o seguinte:
+1 - São criados no quadro de pessoal do Centro Regional de Segurança Social do Centro, aprovado pela Portaria n.º 1055/93, de 21 de Outubro, dois lugares de assessor principal da carreira técnica superior e um da carreira técnica superior de serviço social, a extinguir quando vagarem.
+2 - A criação dos lugares referidos no número anterior produz efeitos a 26 de Outubro de 1993.
+Ministérios das Finanças e do Emprego e da Segurança Social, 18 de Abril de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, Fernando Mário Teixeira de Almeida, Secretário de Estado da Segurança Social.
