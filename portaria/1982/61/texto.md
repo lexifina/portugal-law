@@ -1,0 +1,8 @@
+Portaria n.º 61/82
+de 15 de Janeiro
+Considerando a necessidade de promover a reintegração de 1 funcionário no quadro de pessoal da Direcção-Geral de Fiscalização Económica, face ao despacho da Comissão de Análise de Recursos de Saneamento e Reclassificação do Conselho da Revolução de 31 de Outubro de 1980, publicado no Diário da República, 2.ª série, n.º 25, de 30 de Janeiro de 1981, proferido ao abrigo da resolução do Conselho da Revolução de 23 de Março de 1976, publicada no Diário do Governo, 2.ª série, n.º 77, de 31 do mesmo mês e ano:
+Manda o Governo da República Portuguesa, pelos Ministros de Estado e das Finanças e do Plano, da Agricultura, Comércio e Pescas e da Reforma Administrativa, o seguinte:
+1.º O quadro de pessoal da Direcção-Geral de Fiscalização Económica, do Ministério da Agricultura, Comércio e Pescas, anexo à Portaria n.º 955/80, de 10 de Novembro, é aumentado com 1 lugar da categoria de inspector superior, a que corresponde a letra de vencimento B.
+2.º O lugar referido no número anterior será extinto quando vagar.
+3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação, produzindo os seus efeitos desde 30 de Janeiro de 1981.
+Ministérios das Finanças e do Plano, da Agricultura, Comércio e Pescas e da Reforma Administrativa, 5 de Janeiro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
