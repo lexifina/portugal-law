@@ -1,0 +1,7 @@
+Aviso n.º 343/94
+Por ordem superior se torna público que, por nota de 26 de Outubro de 1994, o Bureau Permanente da Conferência da Haia de Direito Internacional Privado comunicou que os seguintes Estados Partes notificaram o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos da designação das suas autoridades centrais, nos termos do artigo 6.º, parágrafo 1.º, da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980:
+O Chile designou como sua autoridade central a Corporación de Asistencia Judicial de la Región Metropolitana;
+São Cristóvão e Nevis designou o Attorney General or his designate;
+O Reino da Espanha modificou a sua autoridade central previamente designada para a Dirección General de Codificación y Cooperación Juridica Internacional, Ministerio de Justicia e Interior.
+Portugal é Parte na mesma Convenção, que foi aprovada para ratificação pelo Decreto do Governo n.º 33/83, de 11 de Agosto, tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Março de 1984. A autoridade central em Portugal é a Direcção-Geral dos Serviços Tutelares de Menores, do Ministério da Justiça, conforme aviso publicado no Diário da República, 1.ª série, n.º 165, de 20 de Julho de 1985.
+Departamento de Assuntos Jurídicos, 23 de Novembro de 1994. - O Director, José Maria Teixeira Leite Martins.
