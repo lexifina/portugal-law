@@ -1,0 +1,7 @@
+Decreto-Lei n.º 45181
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Fica autorizado o Ministro das Finanças a reduzir para $266 por quilograma a taxa pautal a aplicar ao amoníaco anidro a importar, até ao quantitativo de 8000 t, pelas empresas produtoras de adubos azotados que o utilizem como matéria-prima da sua indústria.
+Art. 2.º As quantidades de amoníaco anidro que poderão ser importadas por cada empresa nas condições do presente diploma serão fixadas ouvido o Ministério da Economia.
+Art. 3.º O disposto nos artigos anteriores aplica-se ao amoníaco anidro já submetido a despacho de importação cujos direitos se encontrem garantidos na data da publicação deste decreto-lei.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 6 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
