@@ -1,0 +1,6 @@
+Despacho Normativo n.º 347/94
+Considerando que o licenciado João Eduardo Coutinho Duarte, técnico superior principal do quadro de pessoal do Departamento Central de Planeamento, que exerce, em comissão de serviço, o cargo de chefe de divisão do Departamento Central de Planeamento, reúne os requisitos necessários para acesso à categoria de assessor principal e requereu a criação do respectivo lugar;
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e os n.os 6, 7 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma:
+Determina-se o seguinte:
+É criado no quadro de pessoal do Departamento Central de Planeamento, aprovado pelo Decreto-Lei n.º 272/91, de 7 de Agosto, alterado pela Portaria n.º 800/92, de 18 de Agosto, um lugar de assessor principal, a extinguir quando vagar.
+Ministérios das Finanças e do Planeamento e da Administração do Território, 8 de Abril de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro do Planeamento e da Administração do Território, Isabel Maria de Lucena Vasconcelos Cruz de Almeida Mota, Secretária de Estado do Planeamento e Desenvolvimento Regional.
