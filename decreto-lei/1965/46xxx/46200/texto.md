@@ -1,0 +1,8 @@
+Decreto-Lei n.º 46200
+Considerando que o abastecimento de géneros e outros artigos de primeira necessidade à Guarda Nacional Republicana e à Polícia de Segurança Pública tem de processar-se com regularidade e dentro das melhores normas de economia;
+Considerando que é plenamente justificável colocar estas corporações ao abrigo do regime especial já vigente para outros serviços públicos;
+Considerando que é por intermédio das suas cantinas que a Guarda Nacional Republicana e a Polícia de Segurança Pública asseguram a alimentação do seu pessoal;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Para efeito de abastecimento de cantinas, a Guarda Nacional Republicana e a Polícia de Segurança Pública são equiparadas à Manutenção Militar quanto às facilidades de aquisição de géneros e quaisquer produtos, ressalvado apenas o direito de requisição.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 25 de Fevereiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
