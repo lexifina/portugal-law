@@ -1,0 +1,18 @@
+Despacho Normativo n.º 185/92
+Considerando que se torna necessário definir as condições em que o pessoal docente da educação pré-escolar e dos ensinos básico e secundário pode usufruir das dispensas para formação;
+Ao abrigo do disposto no artigo 109.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril:
+Determino o seguinte:
+1 - Podem ser concedidas dispensas de serviço docente para participação em congressos, conferências, simpósios, cursos, seminários ou outras realizações conexas com a formação do docente e destinadas à respectiva actualização que tenham lugar no País ou no estrangeiro até ao limite de oito dias úteis, seguidos ou interpolados, por ano escolar.
+2 - Tais dispensas são concebidas sem prejuízo do disposto na alínea d) do n.º 3 do artigo 82.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, sempre que as referidas actividades não possam, comprovadamente, realizar-se fora dos períodos de exercício da actividade docente.
+3 - A dispensa de serviço docente é solicitada ao órgão de gestão do estabelecimento de educação ou de ensino onde o docente exerce funções, em requerimento devidamente fundamentado, acompanhado dos elementos comprovativos necessários, apresentado no mesmo estabelecimento com, pelo menos, cinco dias de antecedência sobre a data de início da dispensa.
+4 - A dispensa de serviço docente é autorizada pelo órgão de gestão do estabelecimento de educação ou de ensino onde o docente exerce funções.
+5 - Nos casos em que os membros do órgão de gestão do estabelecimento de educação ou de ensino pretendam usufruir de dispensa de serviço docente para os fins previstos no n.º 1, deve esta ser solicitada, nos termos previstos no n.º 3, com, pelo menos, oito dias de antecedência sobre a data do seu início à direcção regional de educação competente, à qual cabe a respectiva autorização.
+6 - A autorização da dispensa de serviço docente só pode ser recusada quando acarrete graves perturbações ao normal funcionamento do estabelecimento de educação ou de ensino, designadamente serviço de exames e reuniões de avaliação de alunos.
+7 - O despacho exarada sobre o pedido de dispensa deverá ser comunicado ao interessado pela entidade competente no prazo de dois ou cinco dias contado a partir da entrada do pedido, consoante a situação se reporte, respectivamente, aos n.os 3 ou 5 do presente despacho.
+8 - Realizadas as actividades referidas no n.º 1, o docente deve apresentar, junto do órgão ou entidade que autorizou a dispensa, a declaração de presença emitida pela entidade promotora, a qual será integrada no seu processo individual.
+9 - Considera-se justificado o tempo despendido com as deslocações, quando as actividades ocorram fora da localidade onde o docente exerce funções ou no estrangeiro.
+10 - A inobservância do disposto no n.º 8 determina que os dias de dispensa de serviço docente sejam considerados faltas injustificadas.
+11 - Para além das dispensas de serviço docente referidas nos números anteriores, poderão ainda ser concedidas, por despacho do Ministro da Educação, dispensas de natureza especial, que apenas poderão recair em períodos não lectivos.
+12 - As faltas dadas ao abrigo do presente despacho são consideradas exclusivamente para efeitos estatísticos.
+13 - É revogado o Despacho n.º 38/EAE/82, de 30 de Dezembro, publicado no Diário da República, 2.ª série, n.º 10, de 13 de Janeiro de 1983.
+Ministério da Educação, 18 de Setembro de 1992. - O Ministro da Educação, António Fernando Couto dos Santos.
