@@ -1,0 +1,9 @@
+Despacho
+Por despacho de 11 de Julho de 1969, publicado ao abrigo do disposto no artigo 3.º do Decreto-Lei n.º 45576, 28 de Fevereiro de 1964, foram fixadas as taxas a cobrar pela Junta Central das Casas dos Pescadores pelo fornecimento de plantas marinhas à indústria nacional, em compensação dos serviços que, por força do mesmo diploma, lhe incumbe prestar.
+Considera-se, porém, conveniente rever as taxas então fixadas. tendo em conta, por um lado, o agravamento do custo dos serviços prestados pela Junta Central e, por outro, a subida verificada nas cotações internacionais do ágar-ágar.
+Aproveita-se a oportunidade para igualmente estabelecer - em nível idêntico ao fixado para a indústria transformadora - as taxas a cobrar por aquele organismo pelo fornecimento de plantas marinhas aos exportadores.
+Assim, nos termos do artigo 3.º do citado Decreto-Lei n.º 45576, e mediante proposta da Junta Central das Casas dos Pescadores, determina-se o seguinte:
+1.º É fixada em 1$50/kg a taxa a cobrar pela Junta Central das Casas dos Pescadores pelo fornecimento à indústria nacional e aos exportadores de plantas marinhas cujos preços se encontrem fixados nos termos do artigo 4.º do Decreto-Lei n.º 45576, de 28 de Fevereiro de 1964.
+2.º O quantitativo da taxa a cobrar pelo fornecimento de plantas marinhas não abrangidas pelo número anterior será acordado entre a Junta Central e os interessados.
+3.º Fica revogado o despacho publicado no Diário do Governo, 1.ª série, n.º 161, de 11 de Julho de 1969.
+Ministérios das Finanças, da Economia e das Corporações e Previdência Social e Secretaria de Estado do Comércio, 4 de Setembro de 1973. - O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa. - O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto.
