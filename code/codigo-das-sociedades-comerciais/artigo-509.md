@@ -1,3 +1,7 @@
+## Título VII
+
+## Disposições penais e de mera ordenação social
+
 # Artigo 509.º
 
 ### Falta de cobrança de entradas de capital
