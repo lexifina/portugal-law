@@ -1,0 +1,36 @@
+Decreto-Lei n.º 137/91
+de ... de Abril
+O Banco Europeu de Reconstrução e Desenvolvimeto (BERD), cujo Acordo Constitutivo foi assinado em 29 de Maio de 1990, é um banco de desenvolvimento, de carácter regional, que visa contribuir para o processo e reconstrução económica dos países da Europa Central e Oriental que se comprometam a respeitar e aplicar os princípios da democracia multipartidária, do pluralismo e da economia de mercado.
+Atendendo aos objectivos da instituição, reveste-se do maior interesse a adesão de Portugal ao BERD, tendo o nosso país participado nos trabalhos de elaboração do respectivo Acordo Constitutivo.
+O BERD terá como capital inicial 10 mil milhões de ecus, dividido em acções realizáveis e acções sujeitas a chamadas de capital, participando Portugal com 0,42% do capital inicial total, o que corresponde a 42 milhões de ecus.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º - 1 - É o Ministro das Finanças a subscrever, em nome da República Portuguesa, 4200 acções do capital social inicial do BERD, no valor de 42 milhões de ecus.
+2 - A subscrição referida no número anterior respeita a 1260 acções do capital realizável e 2940 acções do capital exigível.
+Art. 2.º - 1 - O pagamento das acções realizáveis será efectuado em cinco prestações anuais e iguais, devendo o primeiro ocorrer num prazo de 60 dias a contar da data do deósito do instrumento de ratificação do Acordo.
+2 - Do pagamento referido no número anterior, 50% poderão ser efectuados através do depósito de notas promissórias ou de quaisquer outros títulos e obrigações emitidas pela República Portuguesa em ecus.
+Art. 3.º Compete ao Ministro das Finanças representar o Governo perante o BERD, nomeadamente no que se refere ao depósito do instrumento de adesão ao respectivo Acordo Constitutivo.
+Art. 4.º A Direcção-Geral do Tesouro será de harmonia com o n.º 2 do artigo 34.º do Acordo Constitutivo do BERD, a entidade oficial para assegurar a ligação com o Banco.
+Art. 5.º O Banco de Portugal será, de harmonia com o n.º 1 do artigo 34.º do Acordo Constitutivo do BERD, o depositário dos activos em escudos e de outros activos do Banco.
+Art. 6.º O governador por parte de Portugal no BERD será o Ministro das Finanças, que nomeará o seu substituto.
+Art. 7.º Em conformidade com o disposto no artigo 44.º do capítulo VIII do Acordo Constitutivo do BERD, terá esta instituição, no território da Repúblia Portuguesa, personalidade e capacidade jurídicas, beneficiando das imunidades, privilégios e isenções estabelecidos naquele capítulo.
+Art. 8.º Os governadores e os administradores, bem como os respectivos substitutos, os funcionários e agentes do Banco, e ainda os peritos que efectuem missões por conta deste e que não sejam de nacionalidade portuguesa, gozarão no território da República Portuguesa das imunidades, privilégios e isenções estabelecidos no capítulo VIII do Acordo Constitutivo do BERD, sem prejuízo da prerrogativa prevista no n.º 7 do artigo 53.º do mesmo capítulo.
+Art. 9.º Em representação do Governo, fica o Ministro das Finanças autorizado:
+a) A inscrever no Orçamento do Estado as verbas que forem necessárias para ocorrer aos encargos inerentes à sua participação no BERD;
+b) A emitir os títulos de obrigação, que assumirão a forma de promissória, conforme previsto no n.º 2 do artigo 6.º do Acordo Constitutivo do BERD;
+c) A praticar todos os demais actos necessiros para a concretização da adesão de Portugal ao Acordo Constitutivo do BERD.
+Art. 10.º Da promissória mencionada no artigo precedente, cujo serviço de emissão ficará a cargo da Junta do Crédito Público, constarão os seguinte elementos:
+a) O número de ordem;
+b) O capital nela representado;
+c) A data de emissão;
+d) Os diplomas que autorizam a emissão;
+e) Os direitos, isenções e garantias de que goza e que são os dos restantes títulos da dívida pública que lhe forem aplicáveis.
+Art. 11.º A promissória será assinada por chancela, pelo Ministro das Finanças, com a faculdade de delegar, e pelo presidente da Junta do crédito Público, levando também a assinatura autógrafa de um dos vogais e o selo branco da mesma Junta.
+Art. 12.º As disposições do presente diploma são aplicáveis a outras promissórias que, se se revelar necessário, venham a ser emitidas em representação do saldo pendente resultante do pagamento parcial das promissórias emitidas.
+Art. 13.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 21 de Março de 1991. - Aníbal António Cavaco Silva - Luís Miguel Courceiro Pizarro Beleza.
+Promulgado em 4 de Abril de 1991.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 4 de Abril de 1991.
+O Primeiro-Ministro, Anbíbal António Cavaco Silva.
