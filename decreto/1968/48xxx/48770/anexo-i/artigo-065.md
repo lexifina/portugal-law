@@ -1,0 +1,3 @@
+# Artigo 65.º
+
+Este Regulamento entra em vigor, em todo o concelho de ..., no dia ...

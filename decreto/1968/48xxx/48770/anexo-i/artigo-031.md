@@ -1,0 +1,3 @@
+# Artigo 31.º
+
+Não carecem de alvará as trasladações dos cadáveres de indivíduos falecidos há menos de quarenta e oito horas e que se destinem a ser inumados em cemitério do próprio concelho, nem as transferências de sepultura dentro do cemitério municipal de ...

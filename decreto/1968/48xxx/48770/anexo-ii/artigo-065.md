@@ -1,0 +1,3 @@
+# Artigo 65.º
+
+As infracções ao presente Regulamento, para as quais não tenham sido previstas penalidades especiais, serão punidas com a multa de ...

@@ -1,0 +1,3 @@
+# Artigo 66.º
+
+Este Regulamento entra em vigor no dia ...
