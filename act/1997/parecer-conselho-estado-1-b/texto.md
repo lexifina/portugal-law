@@ -1,0 +1,3 @@
+Parecer do Conselho de Estado n.º 1-B/97
+O Conselho de Estado, na sua reunião de 6 de Outubro de 1997, convocado para os efeitos da alínea c) do artigo 148.º da Constituição, a fim de se pronunciar sobre a exoneração e a nomeação do Ministro da República para a Região Autónoma da Madeira, manifestou-se, por unanimidade, favorável à exoneração, a seu pedido, do vice-almirante Artur Aurélio Teixeira Rodrigues Consolado e, por 14 votos a favor e 1 voto contra, favorável à nomeação do juiz conselheiro Antero Alves Monteiro Diniz para o referido cargo.
+Presidência da República, 6 de Outubro de 1997. - O Presidente da República, JORGE SAMPAIO.
