@@ -1,0 +1,6 @@
+Aviso
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou, por nota de 9 de Junho de 1989, nos termos do artigo 31.º, alínea e), da Convenção Relativa à Citação e à Notificação no Estrangeiro dos Actos Judiciais e Extrajudiciais em Matéria Civil ou Comercial, concluída na Haia a 15 de Novembro de 1965, que a autoridade referida no artigo 21.º da Convenção designada para Aruba é:
+Head, Central Office for General Legal Affairs, L. G. Smith Boulevard, 76, Oranjestad, Aruba.
+Portugal é parte na presente Convenção, que foi aprovada, para ratificação, pelo Decreto-Lei n.º 210/71, de 18 de Maio, tendo depositado o seu instrumento de ratificação em 27 de Dezembro de 1973, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 20, de 24 de Janeiro de 1974. A Convenção entrou em vigor para Portugal em 25 de Fevereiro de 1974.
+A autoridade central em Portugal é, nos termos do primeiro parágrafo do artigo 2.º, a Direcção-Geral dos Serviços Judiciários, do Ministério da Justiça, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 10, de 13 de Janeiro de 1975.
+Secretaria-Geral do Ministério, 1 de Setembro de 1989. - O Chefe do Serviço Jurídico e de Tratados, Fernão Manuel Homem de Gouveia Favila Vieira.
