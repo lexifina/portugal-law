@@ -1,0 +1,7 @@
+Despacho Normativo n.º 70/77
+Tendo-se suscitado dúvidas sobre a extensão do conceito de participação do sector público no capital de sociedades definido no n.º 2 do artigo 4.º do estatuto anexo ao Decreto-Lei n.º 496/76, de 26 de Junho:
+Determina-se, ao abrigo do artigo 56.º do supracitado estatuto, que:
+1.º São de considerar como participações do sector público no capital de sociedades, para os efeitos do disposto no estatuto anexo ao Decreto-Lei n.º 496/76, de 26 de Junho, quaisquer acções ou quotas de capital de idas pelo Estado, fundos autónomos e institutos públicos, autarquias locais, instituições de previdência e empresas públicas, bem como as detidas por sociedades em que uma percentagem superior a 50% do respectivo capital pertença, separada ou conjuntamente, às entidades anteriormente referidas.
+2.º São também de considerar como participações do sector público as acções ou quotas de capital detidas por sociedades dominadas, separada ou conjuntamente, pelas entidades referidas no número anterior, quer directamente, quer por intermédio de outras sociedades que por elas sejam dominadas.
+3.º Considera-se, para este efeito, que uma participação no capital de uma sociedade assegura o domínio desta quando representa mais de 50% do respectivo capital social.
+Ministério do Plano e Coordenação Económica, 16 de Março de 1977. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.
