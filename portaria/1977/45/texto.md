@@ -1,0 +1,18 @@
+Portaria n.º 45/77
+de 28 de Janeiro
+O preço máximo de venda ao público de batata de consumo, bem como as margens de comercialização e o preço de garantia, foi fixado pelo Decreto-Lei n.º 73/76, de 27 de Janeiro.
+Entretanto, a alteração das condições de mercado conduziu a uma certa retracção da oferta, devida, em parte, à desadequação do preço em vigor. Com a fixação do novo preço, espera-se ver clarificado o abastecimento nos tempos próximos, encarando-se, simultaneamente, a possibilidade de efectuar algumas importações, para o que já foi autorizada a Junta Nacional das Frutas.
+Fixa-se neste diploma a data limite até à qual vigoram o novo preço, as margens de comercialização e o regime aplicável à batata de consumo Primor.
+Destaca-se, por fim, a intenção do Governo de publicar oportunamente novo regime de preços de garantia à produção e de preço máximo ao consumidor, a vigorar posteriormente a 30 de Abril de 1977.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, ao abrigo do disposto no Decreto-Lei n.º 329-A/74, de 10 de Julho, o seguinte:
+1.º A batata de consumo, com execpção da Primor, fica sujeita ao regime de preços máximos a que se refere a alínea a) do n.º 1 do artigo 1.º do Decreto-Lei n.º 329-A/74, de 10 de Julho.
+2.º A batata de consumo Primor fica sujeita ao regime de preços livres a que se refere a alínea f) do n.º 1 do mesmo preceito legal, sem prejuízo do disposto no n.º 4.º desta portaria.
+3.º É fixado em 9$70 por quilograma o preço máximo de venda ao público da batata de consumo, com excpção da Primor.
+4.º A margem máxima e total de comercialização da batata de consumo de produção nacional, incluindo a Primor é de 1$70 por quilograma.
+5.º As margens mínimas de comercialização do retalhista são as seguintes, por quilograma:
+a) $70, para batata de consumo por ele adquirida a granel;
+b) $55, para batata de consumo por ele adquirida já pré-embalada.
+6.º As dúvidas e casos omissos suscitados na aplicação da presente portaria serão esclarecidos por despacho do Secretário de Estado do Comércio Interno.
+7.º Esta portaria entra em vigor no dia imediato ao da sua publicação e termina a sua vigência no dia 30 de Abril de 1977.
+Secretaria de Estado do Comércio Interno, 6 de Janeiro de 1977. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
