@@ -1,0 +1,23 @@
+Portaria n.º 346/2002
+de 2 de Abril
+Com a publicação da Portaria n.º 1102-G/2000, de 22 de Novembro, regulamentou-se a pesca por arte de cerco.
+Considerando que as embarcações de pesca local registadas na área de jurisdição da Capitania de Lagos, historicamente licenciadas para o pequeno cerco possuem dimensões que impossibilitam o uso de arte de cerco com as dimensões referidas na Portaria n.º 1102-G/2000, de 22 de Novembro, e que o uso da arte de cercar para bordo praticado por essas embarcações às distâncias referidas na Portaria n.º 1102-G/2000, de 22 de Novembro, constitui potencial risco para a segurança destes marítimos;
+Atenta a especificidade da arte e incidência marcadamente local, torna-se necessário garantir a sua continuidade, em segurança e devidamente legalizada, desta ancestral actividade que possui um papel socioeconómico relativamente importante na zona de Lagos, urge alterar a referida portaria:
+Assim, ao abrigo do disposto no artigo 3.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que os artigos 9.º e 11.º do Regulamento da Pesca por Arte de Cerco, anexo à Portaria n.º 1102-G/2000, de 22 de Novembro, passem a ter a seguinte redacção:
+«Artigo 9.º
+Dimensão das redes
+1 - ...
+2 - ...
+3 - Para as embarcações incluídas no n.º 6 do artigo 11.º as dimensões máximas das redes são as seguintes:
+(ver tabela no documento original)
+Artigo 11.º
+Utilização de fontes luminosas para efeitos de chamariz
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+6 - Na pesca de cercar para bordo por embarcações de pesca local que utilizam uma arte de comprimento máximo de 140 m e altura máxima de 25 m na área de jurisdição da Capitania de Lagos, a utilização de fontes luminosas para efeitos de chamariz é permitida para além da uma milha de distância à linha de costa.
+7 - (Actual n.º 6.)»
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, José Apolinário Nunes Portada, Secretário de Estado das Pescas, em 1 de Março de 2002.
