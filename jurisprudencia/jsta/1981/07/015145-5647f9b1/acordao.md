@@ -1,0 +1,59 @@
+# Acórdão do Supremo Tribunal Administrativo de 1981-07-02, processo 015145
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 015145
+
+**Data do Acordão:** 07/02/1981
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** GIRÃO CARDOSO
+
+**Descritores:** ACTO DE GESTÃO PUBLICA; DANO; PEDIDO DE INDEMNIZAÇÃO; PRESTAÇÃO DE FACTO; TRIBUNAIS ADMINISTRATIVOS; INCOMPETENCIA EM RAZÃO DA MATERIA; RESPONSABILIDADE CIVIL EXTRACONTRATUAL
+
+**Nº Convencional:** JSTA00007903
+
+**Nº do Documento:** SA119810702015145
+
+**Data de Entrada:** 10/06/1980
+
+**Recorrente:** CASTRO , JOSE E OUTRA
+
+**Recorrido 1:** CM DE ALCACER DO SAL
+
+**Votação:** MAIORIA COM 1 VOT VENC
+
+**Ano da Publicação:** 0
+
+**Página:** 0
+
+**Apêndice:** DR
+
+**Data do Apêndice:** 07/30/1985
+
+**1ª Pág. de Publicação do Acordão:** 3326
+
+**Referência Publicação 1:** DADM N8-9 ANOII PAG181
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** DESP AUDITORIA LISBOA.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM GER.
+
+**Área Temática 2:** DIR CIV - DIR RESP CIV.
+
+**Legislação Nacional:** CCIV66 ART1549.; CADM40 ART44 N3 ART47 N1 N2 ART366 ART815 PAR1 B ART816.; DL 48051 DE 1967/11/21 ART1 ART2 N1.; CPC67 ART661.; LOSTA56 ART15 N1.
+
+**Jurisprudência Nacional:** AC CONFLITOS DE 1973/10/18.; AC STA PROC14638 DE 1980/05/29.; AC STA IN AD N223 PAG882.; AC CONFLITOS DE 1971/03/19 IN AD N114 PAG1004.
+
+**Referência a Doutrina:** MANUEL DE ANDRADE NOÇÕES ELEMENTARES DO PROCESSO CIVIL 1979 PAG111.; RODRIGUES BASTOS NOTAS AO CODIGO DE PROCESSO CIVIL 2ED VIII PAG11.; JR ANO3 PAG990.; JR ANO5 PAG186.; JR ANO12 PAG85.; MARCELLO CAETANO MANUAL DE DIREITO ADMINISTRATIVO 9ED VII PAG1209 PAG1220 PAG1235 PAG1392.; MARCELLO CAETANO PRINCIPIOS FUNDAMENTAIS DEDIREITO ADMINISTRATIVO PAG486-489.; M LONG E OUTROS LES GRANDS ARRETS DE LA JURISPRUDENCE ADMINISTRATIVE 7ED PAG458.; LOUIS TROTABAS E PAUL ISCART MANUEL DE DROIT ADMINISTRATIF 19ED PAG321.; RAYMOND ODENT CONTENTIEUX ADMINISTRATIF PAG1576.; Texto Integral
+
+## Sumário
+
+E incompetente o Tribunal Administrativo para apreciar o pedido de indemnização resultante de danos provenientes de actos de gestão publica quando tal pedido envolva prestação de facto.
