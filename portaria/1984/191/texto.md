@@ -1,0 +1,14 @@
+Portaria n.º 191/84
+de 31 de Março
+A taxa de encargos a aplicar nas vendas a prazo de adubos tem sido objecto de publicação em portaria no Diário da República aquando das alterações aos preços de venda ao público dos adubos ou após as alterações verificadas nas taxas de juro a cobrar pelas instituições de crédito nas operações activas, conforme os avisos do Banco de Portugal.
+Têm-se, pois, verificado períodos em que as empresas adubeiras se têm visto obrigadas a debitar encargos desactualizados face às taxas de juro em vigor.
+Sendo a taxa a aplicar às vendas a prazo a resultante do custo efectivo do desconto de letras por períodos de 90 dias e tendo sido agravadas em 8 de Agosto de 1983 as taxas de juro a cobrar pelas instituições de crédito nas operações activas, conforme aviso do Banco de Portugal publicado no suplemento ao Diário da República, 2.ª série, de 8 de Agosto de 1983, sem que as empresas adubeiras tenham podido proceder às respectivas actualizações, considera-se necessário implementar tal actualização, por forma que a taxa a aplicar seja imediatamente corrigida aquando de alterações às taxas de juro em vigor.
+Nestes termos:
+Ao abrigo do disposto no n.º 2 do artigo 2.º do Decreto-Lei n.º 45835, de 27 de Julho de 1964:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, da Agricultura, Florestas e Alimentação, da Indústria e Energia, do Comércio e Turismo e do Equipamento Social, o seguinte:
+1.º A taxa de encargos a aplicar nas vendas a prazo de adubos é resultante do custo efectivo do desconto de letras por períodos de 90 dias, às taxas que vigorarem nas datas das transacções.
+2.º É revogada a alínea c) do n.º 5 do n.º 1.º da Portaria n.º 714-A/83, de 23 de Junho.
+3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Ministérios das Finanças e do Plano, da Agricultura, Florestas e Alimentação, da Indústria e Energia, do Comércio e Turismo e do Equipamento Social.
+Assinada em 19 de Março de 1984.
+Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa. - Pelo Ministro da Indústria e Energia, João Nuno Boulain de Carvalho Carreira, Secretário de Estado da Indústria. - Pelo Ministro do Comércio e Turismo, Carlos Alberto Antunes Filipe, Secretário de Estado do Comércio Interno. - O Ministro do Equipamento Social, João Rosado Correia.
