@@ -1,0 +1,31 @@
+Portaria n.º 797/81
+de 12 de Setembro
+A Portaria n.º 246/79, de 29 de Maio, veio definir os princípios que presidem à entrega para exploração dos prédios nacionalizados e expropriados mediante contratos de licença de uso privativo.
+Desde logo se reconheceu que o carácter precário daquele contrato não era consentâneo com a natureza da actividade agrícola. Visava-se, contudo, evitar que tal diploma viesse comprometer a integral aplicação do Decreto-Lei n.º 111/78, de 27 de Maio, cuja regulamentação depende de estudos que não se encontram ainda concluídos.
+Pretende-se com aquela regulamentação evitar o inconveniente de deixar à casuística a aplicação dos grandes critérios a cada região ou sub-região agrícola. Por isso se prevê que a pormenorização dos critérios que devam presidir à entrega de terras para exploração possa ser aprovada por portaria, que determinará, em relação a cada região ou sub-região agrícola, a área dos prédios que serão afectos a cada estabelecimento agrícola, o tipo de empresa agrícola que poderá candidatar-se à celebração dos contratos para entrega de exploração e o tipo de contrato a utilizar.
+Não foram ainda criadas as regiões e sub-regiões agrícolas. Contudo, o próprio Decreto-Lei n.º 111/78 define já quais os critérios que presidirão à determinação da área a afectar a cada estabelecimento agrícola, indica quais as empresas que poderão candidatar-se à celebração de contratos de entrega para exploração e respectivas preferências dentro de cada classe e privilegia o contrato de concessão de exploração.
+A seu tempo se entendeu que a natureza dos direitos conferidos ao concessionário, as obrigações que lhe eram impostas e o prazo por que era celebrado o contrato de concessão de exploração não eram compatíveis com empresas cuja experiência profissional e capacidade de gestão se encontram por testar.
+Desnecessário parece, também, voltar a evidenciar a necessidade de garantir a estabilidade das empresas, às quais, por imperativo constitucional, são entregues as propriedades expropriadas e nacionalizadas.
+Assim, nos termos do artigo 4.º do Decreto-Lei n.º 111/78, de 27 de Maio, manda o Governo da República Portuguesa, pelo Ministro da Agricultura e Pescas, o seguinte:
+1.º Enquanto não forem criadas as regiões e sub-regiões agrícolas, a entrega para exploração dos prédios expropriados ou nacionalizados no âmbito da Reforma Agrária, mediante contratos de arrendamento rural, é determinada por despacho do Secretário de Estado da Produção, sob proposta da competente Direcção Regional de Agricultura, que definirá, para cada caso, qual a área dos prédios a afectar a cada estabelecimento agrícola e qual o tipo de empresa agrícola que poderá candidatar-se à celebração dos contratos para entrega de exploração.
+2.º Na determinação da área a afectar a cada estabelecimento agrícola ter-se-á em especial atenção a capacidade de uso do solo, as culturas nele existentes ou possíveis e a configuração do prédio expropriado ou nacionalizado no passado mais próximo, de forma a conseguir-se um ordenamento equilibrado do território.
+3.º A proposta referida no n.º 1.º será precedida de audição dos trabalhadores permanentes em serviço nos prédios expropriados ou nacionalizados e das associações de classe da respectiva zona concelhia ligados à agricultura.
+4.º A área a entregar a cada empresa não poderá ser inferior à equivalente a 10000 pontos ou a 100000 pontos, nem superior à equivalente a 15000 pontos ou 750000 pontos, conforme se trate, respectivamente, de entidades singulares ou colectivas.
+5.º Na determinação do tipo de empresa que poderá candidatar-se à celebração do contrato, observar-se-á a seguinte ordem de preferência:
+a) Empresas às quais tenham sido entregues prédios nos termos da Portaria n.º 246/79, de 29 de Maio;
+b) Pequenos agricultores da região que não tenham a posse útil da terra e vivam exclusivamente da agricultura;
+c) Pequenos agricultores da região que não tenham a posse útil da terra e vivam predominantemente da agricultura;
+d) Unidades de exploração colectiva por trabalhadores;
+e) Cooperativas de produção agrícola;
+f) Pequenos agricultores da região que vivam exclusivamente da agricultura;
+g) Pequenos agricultores da região que vivam predominantemente da agricultura;
+h) Sociedades cooperativas agrícolas cujos sócios vivam predominantemente da actividade agrícola e não sejam em número superior ao pessoal contratado.
+6.º Estão incluídos nas alíneas b) e c) do número anterior os trabalhadores permanentemente em serviço nos prédios expropriados ou nacionalizados.
+7.º Apresentando-se a concorrer mais do que um dos titulares de cada classe de preferência, a entrega dos prédios para exploração obedecerá aos seguintes critérios, por ordem de menção:
+a) Redimensionamento de explorações minifundiárias;
+b) Dimensionamento equilibrado das novas unidades de produção, tendo em conta as necessidades de uma gestão técnica e económica na prossecução dos objectivos traçados pelo plano;
+c) Valorização da experiência profissional e capacidade de gestão dos candidatos;
+d) Solução de problemas sociais candentes na região, protecção aos agregados familiares mais numerosos e aos agricultores mais jovens.
+8.º O contrato de arrendamento regula-se pela Lei do Arrendamento Rural e pelo estabelecido na secção IV do capítulo V do Decreto-Lei n.º 111/78, de 27 de Maio, aplicando-se ao respectivo processo as regras consentâneas do capítulo VI do mesmo diploma.
+9.º O presente diploma entra em vigor no dia da sua publicação.
+Ministério da Agricultura e Pescas, 20 de Agosto de 1981. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.
