@@ -1,0 +1,4 @@
+Aviso n.º 4/2004
+Por ordem superior se torna público que, agindo na na sua qualidade de depositário da Convenção Relativa à Protecção do Património Mundial, Cultural e Natural, adoptada em Paris, em 16 de Novembro de 1972, o Director-Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO) comunicou ter São Vicente e Grenadinas depositado, em 3 de Fevereiro de 2003, o seu instrumento de ratificação da citada Convenção, a qual entrou em vigor para este país em 3 de Maio de 2003.
+Portugal é Parte da mencionada Convenção, tendo depositado o respectivo instrumento de ratificação em 2 de Outubro de 1980, conforme publicado no Diário da República, 1.ª série, n.º 264, de 14 de Novembro de 1980.
+Direcção-Geral dos Assuntos Multilaterais, 11 de Dezembro de 2003. - O Director de Serviços das Organizações Políticas Internacionais, Bernardo Fernandes Homem de Lucena.
