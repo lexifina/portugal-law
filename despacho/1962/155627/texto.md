@@ -1,0 +1,6 @@
+Despacho
+Tendo em consideração que o estabelecimento do mercado único português impõe a uniformização do critério da classificação do arroz nacional, como meio de promover uma maior expansão do comércio deste produto entre os vários territórios portugueses;
+De harmonia com o disposto na última parte da alínea c) do artigo 5.º do Decreto-Lei n.º 44507, de 14 de Agosto de 1962, o Ministro do Ultramar e o Secretário de Estado do Comércio determinam:
+1.º É criado um grupo de trabalho, formado por representantes a designar pelo Ministério do Ultramar e pela Secretaria de Estado do Comércio, com a finalidade de proceder ao estudo da uniformização do critério da classificação do arroz a estabelecer em todo o território nacional.
+2.º O referido grupo de trabalho deverá apresentar o seu estudo no prazo de 30 dias após a sua constituição, devendo fazê-lo acompanhar de projecto de diploma concordante com os objectivos estabelecidos no número anterior.
+Ministério do Ultramar e Secretaria de Estado do Comércio, 3 de Dezembro de 1962. - Pelo Ministro do Ultramar, Carlos João da Silva Moreira Rato, Subsecretário de Estado do Fomento Ultramarino. - O Secretário de Estado do Comércio, Samuel Rodrigues Sanches.
