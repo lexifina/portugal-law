@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1923/07/15200/07740774.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1923-07-16",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "25c911dd9a007a6b3471ae78bb11b5b4bc2dfd0a3d4bc64e52e7b4f422db398d",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.8,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "c18ee74a2f96da9f01f75e7250d5c13e8bc502596f2ecbb738f3ec4ee229a518",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 140
 }
