@@ -1,0 +1,19 @@
+Decreto-Lei n.º 48157
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O artigo 1.º do Decreto-Lei n.º 40768, de 8 de Setembro de 1956, alterado pelo artigo 1.º do Decreto-Lei n.º 43964, de 17 de Outubro de 1961, passa a ter a seguinte redacção:
+Artigo 1.º ...
+§ 1.º ...
+§ 2.º ...
+§ 3.º ...
+§ 4.º ...
+§ 5.º ...
+§ 6.º Quando, porém, a extraordinária aglomeração de serviço e o atraso deste o justifiquem ou se deva prolongar por forma a causar prejuízo ao serviço o impedimento de qualquer dos juízes, poderá o Presidente do Conselho nomear um juiz suplente de entre as pessoas referidas no artigo 3.º do Decreto-Lei n.º 40768, devendo proceder-se à distribuição dos processos nos termos em que os juízes da respectiva secção acordarem ou nos que forem fixados pelo presidente do Supremo Tribunal Administrativo.
+§ 7.º O exercício das funções por parte do juiz suplente cessa logo que se reconheça estar normalizado o serviço ou desde que o juiz substituído reassuma as funções.
+§ 8.º Sempre que a nomeação prevista no § 6.º recaia em magistrado ou funcionário, será feita em comissão de serviço, abrindo-se vaga no respectivo quadro se for magistrado.
+§ 9.º Finda a comissão, se o comissionado for magistrado, regressará ao serviço no respectivo quadro, como agregado, até à abertura de vaga no mesmo quadro, competindo ao Conselho Superior Judiciário, se for juiz da 1.ª instância, determinar o tribunal onde deve prestar serviço; sendo juiz da Relação, regressará àquele onde estava colocado aquando da nomeação em comissão.
+§ 10.º O julgamento dos processos nas secções far-se-á com a intervenção de três juízes.
+Art. 2.º O juiz suplente terá, enquanto em exercício, honras, direitos, categoria e vencimento dos juízes efectivos do Supremo Tribunal Administrativo.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 26 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
