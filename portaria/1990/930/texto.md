@@ -1,0 +1,52 @@
+Portaria n.º 930/90
+de 2 de Outubro
+Sob proposta das comissões instaladoras do Instituto Politécnico de Faro e da sua Escola Superior de Tecnologia;
+Ao abrigo do disposto no Capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+1.º
+Objectivo
+A presente portaria visa alterar a designação e a regulamentação do curso de bacharelato em Equipamentos Térmicos ministrado pela Escola Superior de Tecnologia do Instituto Politécnico de Faro e criado pela Portaria n.º 3l7-H/86, de 24 de Junho.
+2.º
+Alteração de designação
+O curso referido no n.º 1.º passa a designar-se por curso de bacharelato em Engenharia Térmica.
+3.º
+Duração do curso
+O curso tem a duração de três anos lectivos.
+4.º
+Planos de estudos
+O plano de estudos do curso é o constante do anexo à presente portaria.
+5.º
+Disciplinas de opção
+1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integre o plano de estudos como disciplina de opção é 10.
+2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas a que é obrigado por lei.
+3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.
+6.º
+Estágio
+1 - A Escola organizará um estágio com a duração total não inferior a 39 semanas.
+2 - O estágio tem carácter escolar, sendo o seu objectivo a aproximação do aluno à realidade da futura actividade profissional.
+3 - O estágio será objecto de avaliação, que se traduzirá numa classificação.
+4 - A realização e avaliação do estágio obedecerá a regulamento a aprovar pela comissão instaladora da Escola Superior de Tecnologia, sob proposta do conselho científico.
+5 - O regulamento a que se refere o n.º 4 será sujeito a homologação da comissão instaladora do Instituto Politécnico de Faro.
+7.º
+Classificação final
+1 - A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o respectivo plano de estudos e do estágio a que se referem os n.os 4.º e 6.º
+2 - Os coeficientes de ponderação são fixados pelo conselho cientifico.
+8.º
+Condições para obtenção do grau
+É condição para a obtenção do grau de bacharel em Engenharia Térmica a aprovação cumulativa:
+a) Na totalidade das disciplinas que integram o respectivo plano de estudos;
+b) No estágio a que se refere o n.º 6.º
+9.º
+Regime de transição
+As regras do regime de transição a adoptar para os alunos que hajam estado inscritos no anterior plano de estudos serão fixadas pela comissão instaladora do Instituto, sob proposta da comissão instaladora da Escola, ouvido o conselho científico.
+10.º
+Entrada em funcionamento
+Cabe ao presidente da comissão instaladora do Instituto Politécnico de Faro, sob proposta da comissão instaladora da Escola Superior de Tecnologia, ouvido o conselho científico, fixar o ano lectivo em que entrarão em funcionamento os planos de estudos aprovados pela presente portaria.
+11.º
+Disposição derrogatória
+Sem prejuízo do período de transição, a que se refere o n.º 9.º, é derrogada a Portaria n.º 317-H/86, de 24 de Junho, na parte referente à regulamentação do curso de bacharelato em Equipamentos Térmicos.
+Ministério da Educação.
+Assinada em 30 de Agosto de 1990.
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
+
+(ver documento original)
