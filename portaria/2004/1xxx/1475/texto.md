@@ -1,0 +1,139 @@
+Portaria n.º 1475/2004
+de 21 de Dezembro
+A convergência dos valores mínimos das pensões de invalidez e de velhice do subsistema previdencial, do valor mínimo das pensões de invalidez e de velhice do regime especial de segurança social das actividades agrícolas e do valor mínimo das pensões de invalidez e de velhice atribuídas no âmbito do subsistema de solidariedade, para valores indexados à retribuição mínima mensal garantida, deduzida da quotização correspondente à taxa contributiva normal do regime dos trabalhadores por conta de outrem, constitui uma das prioridades do XVI Governo Constitucional, constando do seu programa de governo a prossecução desse objectivo, que, aliás, tem consagração legal nos artigos 38.º e 59.º da Lei n.º 32/2002, de 20 de Dezembro.
+A presente actualização das pensões, além de constituir mais um passo na concretização do objectivo de convergência, insere-se, também, num processo de revisão periódica do valor das pensões, garantindo o Governo desta forma a valorização das condições de vida dos pensionistas em geral e dos mais desfavorecidos em particular, com respeito pelo esforço contributivo dos beneficiários, acautelando sempre a sustentabilidade financeira do sistema de segurança social.
+Neste contexto e não obstante o momento conjuntural, foi fixado para os pensionistas com carreiras contributivas inferiores a 15 anos um aumento de 2,5%.
+Quanto aos valores mínimos garantidos aos pensionistas com carreiras contributivas iguais ou superiores a 15 anos, a percentagem de aumento é variável entre 2,5% e 9%.
+No que respeita às pensões de invalidez e velhice do regime especial de segurança social das actividades agrícolas (RESSAA), o respectivo montante é fixado em (euro) 199,37, o que corresponde a uma taxa de actualização de 5%.
+Relativamente às pensões de invalidez e velhice dos regimes não contributivos e dos regimes a este equiparados, o montante estabelecido é de (euro) 164,17, beneficiando estas prestações de um aumento percentual de 6%.
+Quanto ao valor do complemento de dependência, é o mesmo de (euro) 82,09 e (euro) 147,76, no âmbito do regime geral de segurança social, respectivamente, para o 1.º e 2.º graus, e de (euro) 73,88 e (euro) 139,54, no âmbito dos regimes especial das actividades agrícolas e do não contributivo e equiparados, igualmente em função do respectivo grau, o que corresponde a um aumento percentual médio de 6%.
+Finalmente, o valor do complemento extraordinário de solidariedade é de (euro) 15,19 para pensionistas sociais com idade inferior a 70 anos e de (euro) 30,37 para pensionistas com idade igual ou superior a 70 anos, o que equivale a um aumento percentual médio de 3%.
+Quanto à protecção nas doenças profissionais, procede-se à actualização das pensões por incapacidade permanente e por morte e das pensões unificadas, atribuídas ao abrigo da Portaria n.º 642/83, de 1 de Junho, por aplicação dos critérios estabelecidos legalmente para a actualização das demais pensões do regime geral, com salvaguarda de um aumento de 4% para as pensões resultantes de doença profissional, calculadas com base em remuneração real ou de referência igual ou inferior ao valor da retribuição mínima mensal garantida.
+Assim:
+Nos termos dos artigos 38.º e 59.º da Lei n.º 32/2002, de 20 de Dezembro, do artigo 48.º do Decreto-Lei n.º 329/93, de 25 de Setembro, e dos artigos 62.º e 96.º do Decreto-Lei n.º 248/99, de 2 de Julho:
+Manda o Governo, pelo Ministro da Segurança Social, da Família e da Criança, o seguinte:
+CAPÍTULO I
+Disposições gerais
+1.º
+Âmbito
+As prestações de invalidez, de velhice e de sobrevivência bem como as pensões de doença profissional dos subsistemas previdencial e de solidariedade são actualizadas nas condições previstas no presente diploma.
+2.º
+Situações excluídas
+Excluem-se do âmbito de aplicação da presente portaria os seguintes grupos de beneficiários:
+a) Os beneficiários da Caixa de Previdência dos Empregados do Banco de Angola, extinta pelo Decreto-Lei n.º 288/95, de 30 de Outubro, com direito aos benefícios constantes de instrumento de regulamentação colectiva de trabalho do sector bancário, excepto no respeitante a eventual parcela de pensão correspondente a carreira contributiva do regime geral de segurança social e ao complemento de pensão por cônjuge a cargo;
+b) Os beneficiários abrangidos pelos regulamentos especiais de segurança social dos trabalhadores ferroviários e do pessoal do Serviço de Transportes Colectivos do Porto, excepto no respeitante à garantia dos valores mínimos de pensão e do complemento por dependência;
+c) Outros grupos de beneficiários não abrangidos pelo Centro Nacional de Pensões.
+CAPÍTULO II
+Actualização das pensões do regime geral
+3.º
+Actualização das pensões de invalidez e de velhice
+1 - As pensões regulamentares de invalidez e de velhice do regime geral iniciadas anteriormente a 1 de Janeiro de 1994, bem como as pensões estatutárias e regulamentares atribuídas anteriormente a 1 de Janeiro de 2004, ao abrigo dos Decretos-Leis n.os 329/93, de 25 de Setembro, e 35/2002, de 19 de Fevereiro, são actualizadas para o valor resultante da aplicação, ao respectivo quantitativo mensal, de 2,3%.
+2 - O aumento das pensões a que se refere o n.º 1 tem como limite 50% do valor mínimo da pensão a que se refere o n.º 1 do n.º 5.º
+3 - A aplicação do disposto nos n.os 1 e 2 não prejudica o estabelecido, respectivamente, nos n.os 4.º e 5.º
+4.º
+Valor mínimo dos aumentos
+1 - Da actualização das pensões regulamentares de invalidez e de velhice iniciadas antes de 1 de Janeiro de 1994 e das pensões estatutárias e regulamentares atribuídas anteriormente a 1 de Janeiro de 2004, ao abrigo dos Decretos-Leis n.os 329/93, de 25 de Setembro, e 35/2002, de 19 de Fevereiro, cujo valor seja igual ou superior a (euro) 211,50, não pode resultar aumento mensal inferior a (euro) 5,29.
+2 - O disposto no número anterior não é aplicável aos beneficiários referidos na alínea a) do n.º 2.º cuja actualização de pensões observe o disposto neste diploma.
+5.º
+Valor mínimo de pensão dos pensionistas de invalidez e de velhice
+1 - Aos pensionistas de invalidez e de velhice do regime geral com carreira contributiva relevante para a taxa de formação da pensão inferior a 15 anos é garantido um valor mínimo de pensão de (euro) 216,79.
+2 - Aos pensionistas de invalidez e de velhice do regime geral com carreira contributiva relevante para a taxa de formação da pensão igual ou superior a 15 anos são garantidos os valores mínimos de pensão constantes da tabela seguinte:
+(ver tabela no documento original)
+3 - Os valores mínimos fixados nos n.os 1 e 2 deste número:
+a) Não relevam para efeitos da parcela de pensão a que se refere a última parte da alínea a) do n.º 2.º;
+b) Não são aplicáveis às pensões antecipadas atribuídas ao abrigo do regime de flexibilização da idade de pensão por velhice, previsto na alínea a) do n.º 2 do artigo 22.º do Decreto-Lei n.º 329/93, de 25 de Setembro, na redacção dada pelo Decreto-Lei n.º 9/99, de 8 de Janeiro;
+c) São aplicáveis aos beneficiários abrangidos pelos regulamentos especiais de segurança social referidos na alínea b) do n.º 2.º
+6.º
+Actualização das pensões de sobrevivência
+1 - As pensões de sobrevivência do regime geral iniciadas anteriormente a 1 de Janeiro de 2004 são actualizadas por aplicação das respectivas percentagens de cálculo aos montantes das pensões de invalidez e de velhice que lhes servem de base, bem como do complemento social, sendo caso disso, segundo o valor que para ambos resulta da aplicação das regras de actualização previstas neste diploma, bem como do disposto nos Decretos-Leis n.os 329/93, de 25 de Setembro, e 35/2002, de 19 de Fevereiro.
+2 - A regra de actualização definida no n.º 1 é igualmente aplicável:
+a) Às pensões de sobrevivência iniciadas a partir de 1 de Janeiro de 2004, desde que o óbito que lhes deu origem se tenha verificado em data anterior;
+b) Às pensões de sobrevivência resultantes de óbitos verificados em data anterior à do início de produção de efeitos prevista na alínea a) do n.º 25.º e correspondentes a pensões de invalidez ou de velhice iniciadas até 31 de Dezembro de 2003.
+7.º
+Actualização das pensões limitadas
+As pensões do regime geral limitadas por aplicação das normas reguladoras da acumulação de pensões de diferentes regimes de enquadramento obrigatório de protecção social iniciadas anteriormente a 1 de Janeiro de 2004 são actualizadas em 2,3%.
+8.º
+Actualização das pensões reduzidas e proporcionais
+1 - As pensões do regime geral iniciadas anteriormente a 1 de Janeiro de 2004, reduzidas ou proporcionais em consequência do recurso a períodos contributivos de outros regimes, quer por força do disposto nos artigos 27.º e 189.º do Decreto n.º 45266, de 23 de Setembro de 1963, e no artigo 39.º do Decreto-Lei n.º 329/93, de 25 de Setembro, quer por aplicação de instrumentos internacionais, são actualizadas em 2,3%.
+2 - Na aplicação do disposto no n.º 1, às pensões não acumuladas com outras são salvaguardados:
+a) Para as pensões reduzidas, o valor fixado no n.º 1 do n.º 5.º;
+b) Para as pensões proporcionais, o valor da pensão social, nos termos do n.º 2 do artigo 44.º do Decreto-Lei n.º 329/93, de 25 de Setembro, na redacção conferida pelo Decreto-Lei n.º 437/99, de 29 de Outubro.
+9.º
+Actualização das pensões bonificadas
+1 - As pensões de invalidez e de velhice, calculadas ao abrigo do artigo 27.º do Decreto Regulamentar n.º 75/86, de 30 de Dezembro, que atinjam montante igual ao valor mínimo garantido aos pensionistas de invalidez e de velhice do regime geral são actualizadas para o valor estabelecido no n.º 1 do n.º 5.º
+2 - As pensões de invalidez e de velhice, calculadas no âmbito do artigo 27.º do Decreto Regulamentar n.º 75/86, de 30 de Dezembro, que não atinjam montante igual ao valor mínimo garantido aos pensionistas de invalidez e de velhice do regime geral são actualizadas por aplicação do montante fixado no n.º 1 do n.º 11.º, na parte respeitante à pensão do regime especial, e em 2,3%, relativamente à bonificação e a eventuais acréscimos.
+10.º
+Actualização da pensão provisória de invalidez
+O valor das pensões provisórias de invalidez previstas no artigo 68.º do Decreto-Lei n.º 329/93, de 25 de Setembro, que se encontre a ser concedido à data da entrada em vigor deste diploma é fixado em (euro) 164,17.
+CAPÍTULO III
+Actualização das pensões de outros regimes
+11.º
+Actualização das pensões do regime especial das actividades agrícolas
+1 - O quantitativo mensal das pensões de invalidez e de velhice do regime especial das actividades agrícolas é fixado em (euro) 199,37.
+2 - Os valores das pensões de sobrevivência são actualizados por aplicação das respectivas percentagens de cálculo em vigor no regime geral ao quantitativo das pensões referido no n.º 1.
+12.º
+Actualização das pensões limitadas, reduzidas e proporcionais do regime especial das actividades agrícolas
+As pensões do regime especial das actividades agrícolas limitadas por aplicação das normas reguladoras de acumulação de pensões de diferentes regimes de enquadramento obrigatório de protecção social, bem como as reduzidas e proporcionais nos termos do n.º 8.º, iniciadas anteriormente a 1 de Janeiro de 2004, são actualizadas em 5%.
+13.º
+Actualização das pensões dos antigos fundos de reforma dos pescadores
+As pensões dos antigos fundos de reforma dos pescadores são actualizadas de acordo com o disposto no n.º 3.º
+14.º
+Actualização das pensões do regime não contributivo
+1 - O quantitativo mensal das pensões de invalidez e de velhice do regime não contributivo é fixado em (euro) 164,17.
+2 - As pensões de viuvez e de orfandade do regime não contributivo são actualizadas para o valor que resulta da aplicação das respectivas percentagens de cálculo em vigor no regime geral ao montante fixado no n.º 1.
+15.º
+Actualização das pensões dos regimes transitórios dos trabalhadores agrícolas
+1 - O valor mensal das pensões de invalidez e de velhice dos regimes transitórios dos trabalhadores agrícolas, referidos no artigo 90.º do Decreto-Lei n.º 445/70, de 23 de Setembro, e no Decreto-Lei n.º 391/72, de 13 de Outubro, e demais legislação aplicável, é fixado em (euro) 164,17.
+2 - As pensões de sobrevivência dos regimes transitórios dos trabalhadores agrícolas atribuídas, nos termos do n.º 5 do artigo 4.º do Decreto-Lei n.º 174-B/75, de 1 de Abril, aos cônjuges sobrevivos dos respectivos pensionistas são actualizadas por aplicação da respectiva percentagem de cálculo em vigor no regime geral ao montante fixado no n.º 1.
+16.º
+Actualização das pensões de regimes equiparados ao regime não contributivo
+O quantitativo mensal das pensões e prestações equivalentes, de nula ou reduzida base contributiva, a cargo do Centro Nacional de Pensões, designadamente as respeitantes à extinta Caixa de Previdência do Pessoal da Casa Agrícola Santos Jorge, à Associação de Socorros Mútuos na Inabilidade, à extinta Caixa de Previdência da Marinha Mercante Nacional (antigas associações), ao extinto Grémio dos Industriais de Fósforos, à extinta Caixa de Previdência da Câmara dos Despachantes Oficiais não abrangidos pelo despacho n.º 40/SESS/91, de 24 de Abril, bem como às pensões atribuídas por aplicação dos regulamentos especiais da Caixa de Previdência dos Profissionais de Espectáculos, é fixado em (euro) 164,17, sem prejuízo de valores superiores em curso.
+17.º
+Actualização dos subsídios complementares
+Os subsídios complementares atribuídos ao abrigo do disposto no artigo 3.º do Decreto-Lei n.º 44506, de 10 de Agosto de 1962 (ex-Fundo de Desenvolvimento da Mão-de-Obra), são actualizados para o valor resultante da aplicação de 2,3% ao respectivo quantitativo mensal.
+CAPÍTULO IV
+Actualização da parcela contributiva das pensões para efeito de cúmulo
+18.º
+Actualização da parcela contributiva
+A tabela inserta na Portaria n.º 1362/2003, de 15 de Dezembro, publicada em cumprimento do disposto na alínea d) do artigo 2.º do Decreto-Lei n.º 141/91, de 10 de Abril, é substituída e actualizada nos termos da tabela anexa a este diploma.
+CAPÍTULO V
+Actualização dos montantes adicionais e prestações complementares
+19.º
+Montantes adicionais das pensões
+Os montantes adicionais das pensões atribuídos nos meses de Julho e de Dezembro são de valor igual ao que resultar, para as respectivas prestações, da actualização estabelecida no presente diploma.
+20.º
+Complemento por dependência
+1 - O quantitativo mensal do complemento por dependência dos pensionistas de invalidez, de velhice e de sobrevivência do regime geral de segurança social é fixado em (euro) 82,09 nas situações de 1.º grau e em (euro) 147,76 nas situações de 2.º grau.
+2 - O quantitativo mensal do complemento por dependência dos pensionistas de invalidez, de velhice e de sobrevivência do regime especial das actividades agrícolas, do regime não contributivo e regimes equiparados é fixado em (euro) 73,88 nas situações de 1.º grau e em (euro) 139,54 nas situações de 2.º grau.
+21.º
+Complemento de pensão por cônjuge a cargo
+O valor mensal do complemento de pensão por cônjuge a cargo é fixado em (euro) 32,39, sem prejuízo de valores superiores que estejam a ser atribuídos.
+22.º
+Complemento extraordinário de solidariedade
+O valor do complemento extraordinário de solidariedade atribuído ao abrigo do Decreto-Lei n.º 208/2001, de 27 de Julho, é de (euro) 15,19 para os titulares de prestações com menos de 70 anos e de (euro) 30,37 para os que tenham ou venham a completar 70 anos.
+CAPÍTULO VI
+Pensões resultantes de doenças profissionais
+23.º
+Actualização das pensões resultantes de doença profissional
+1 - As pensões por incapacidade permanente para o trabalho e as pensões por morte e por doença profissional atribuídas anteriormente a 1 de Janeiro de 2005, quer ao abrigo da Portaria n.º 642/83, de 1 de Junho, quer ao abrigo do Decreto-Lei n.º 248/99, de 2 de Julho, são actualizadas para o valor resultante da aplicação, ao respectivo quantitativo mensal, das percentagens de aumento fixadas nos números seguintes, sem prejuízo das regras estabelecidas no n.º 4.
+2 - As pensões calculadas com base em remuneração real ou de referência igual ou inferior ao valor da retribuição mínima mensal garantida são aumentadas em 4%.
+3 - As pensões calculadas com base em remuneração real ou de referência superior ao valor da retribuição mínima mensal garantida são aumentadas em 2,3%.
+4 - Para o mesmo grau de incapacidade, o aumento das pensões a que se refere o número anterior não pode ser inferior ao aumento máximo de actualização decorrente da aplicação do disposto no n.º 2.
+24.º
+Pensões unificadas
+As pensões unificadas atribuídas ao abrigo da Portaria n.º 642/83, de 1 de Junho, são actualizadas com observância da regra estabelecida no n.º 3 do n.º 23.º, no que respeita à parcela do regime geral, e com observância das regras estabelecidas nos n.os 2 a 4 do n.º 23.º, no que respeita às restantes parcelas que as compõem.
+CAPÍTULO VII
+Disposições finais
+25.º
+Produção de efeitos
+O presente diploma produz efeitos nos seguintes termos:
+a) A partir de 1 de Dezembro de 2004, no que respeita à actualização das prestações nele previstas, salvo o disposto na alínea seguinte;
+b) A partir de 1 de Janeiro de 2005, no que respeita à actualização das pensões resultantes de doença profissional.
+26.º
+Revogação
+São revogadas as Portarias n.os 1362/2003, de 15 de Dezembro, e 584/2004, de 28 de Maio.
+O Ministro da Segurança Social, da Família e da Criança, Fernando Mimoso Negrão, em 23 de Novembro de 2004.
+
+TABELA ANEXA
+Actualização de pensões para efeitos de cúmulo
+(ver tabela no documento original)
