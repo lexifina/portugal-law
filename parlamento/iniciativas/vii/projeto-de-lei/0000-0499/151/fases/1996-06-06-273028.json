@@ -1,0 +1,695 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "151",
+    "id": "5469",
+    "titulo": "Alteração à Lei n.º 11/90 de 5 de Abril (Lei-Quadro das Privatizações)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1996-06-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7915",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1996-06-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1995-10-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": null,
+            "horaTermo": null,
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43826",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2688-2689"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-07",
+                "pubLeg": "VII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/080/1996-06-07/2688?pgs=2688-2689&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DAS PRIVATIZACOES: ALTERACAO A LEI 11/90, 5 ABRIL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": null,
+            "horaTermo": null,
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43827",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2688-2688"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-07",
+                "pubLeg": "VII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/080/1996-06-07/2688?pgs=2688&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DAS PRIVATIZACOES: ALTERACAO A LEI 11/90, 5 ABRIL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "35",
+                "nome": "Carlos Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": null,
+            "horaTermo": null,
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43828",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2687-2687"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-07",
+                "pubLeg": "VII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/080/1996-06-07/2687?pgs=2687&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DAS PRIVATIZACOES: ALTERACAO A LEI 11/90, 5 ABRIL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1086",
+                "nome": "Jorge Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": null,
+            "horaTermo": null,
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43830",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-07",
+                "pubLeg": "VII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/080/1996-06-07?org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DAS PRIVATIZACOES: ALTERACAO A LEI 11/90, 5 ABRIL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": null,
+            "horaTermo": null,
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43843",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2676-2676"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-07",
+                "pubLeg": "VII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/080/1996-06-07/2676?pgs=2676&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DAS PRIVATIZACOES: ALTERACAO A LEI 11/90, 5 ABRIL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1131",
+                "nome": "Francisco Torres"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": null,
+            "horaTermo": null,
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43844",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2676-2676"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-07",
+                "pubLeg": "VII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/080/1996-06-07/2676?pgs=2676&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DAS PRIVATIZACOES: ALTERACAO A LEI 11/90, 5 ABRIL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": null,
+            "horaTermo": null,
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43845",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2675-2675"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-07",
+                "pubLeg": "VII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/080/1996-06-07/2675?pgs=2675&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DAS PRIVATIZACOES: ALTERACAO A LEI 11/90, 5 ABRIL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": null,
+            "horaTermo": null,
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43846",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2674-2675"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-07",
+                "pubLeg": "VII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/080/1996-06-07/2674?pgs=2674-2675&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DAS PRIVATIZACOES: ALTERACAO A LEI 11/90, 5 ABRIL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": null,
+            "horaTermo": null,
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43847",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2672-2673",
+                  "2675-2676"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-07",
+                "pubLeg": "VII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/080/1996-06-07/2672?pgs=2672-2673,2675-2676&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DAS PRIVATIZACOES: ALTERACAO A LEI 11/90, 5 ABRIL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1490",
+                "nome": "João Carlos da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": null,
+            "horaTermo": null,
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43848",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2671-2672",
+                  "2674-2674"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-07",
+                "pubLeg": "VII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/080/1996-06-07/2671?pgs=2671-2672,2674&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DAS PRIVATIZACOES: ALTERACAO A LEI 11/90, 5 ABRIL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": null,
+            "horaTermo": null,
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43849",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2670-2672"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-07",
+                "pubLeg": "VII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/080/1996-06-07/2670?pgs=2670-2672&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DAS PRIVATIZACOES: ALTERACAO A LEI 11/90, 5 ABRIL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": null,
+            "horaTermo": null,
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43850",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2669-2670"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-07",
+                "pubLeg": "VII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/080/1996-06-07/2669?pgs=2669-2670&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DAS PRIVATIZACOES: ALTERACAO A LEI 11/90, 5 ABRIL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": null,
+            "horaTermo": null,
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107143",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2686-2687"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-07",
+                "pubLeg": "VII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/080/1996-06-07/2686?pgs=2686-2687&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DAS PRIVATIZACOES: ALTERACAO A LEI 11/90, 5 ABRIL",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "273028",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "7915",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-06-07",
+        "pubLeg": "VII",
+        "pubNr": "80",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/080/1996-06-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
