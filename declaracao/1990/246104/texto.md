@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Secretário de Estado da Presidência do Conselho de Ministros, a Resolução do Conselho de Ministros n.º 42/90, publicada no Diário da República, 1.ª série, n.º 256 (suplemento), de 26 de Novembro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No n.º 4, onde se lê «até ao máximo de 250 acções, em múltiplos de 10» deve ler-se «até ao máximo de 250 acções, em múltiplos de 10, de acordo com o tempo de serviço efectivamente prestado, nos termos do n.º 1 do artigo 12.º da Lei n.º 11/90, de 5 de Abril, e conforme regulamento a aprovar para o efeito pelo Ministro das Finanças, com a faculdade de subdelegar, sob proposta do conselho de administração do Banco Português do Atlântico, S. A.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 23 de Novembro de 1990. - O Secretário-Geral, França Martins.
