@@ -1,0 +1,17 @@
+Decreto n.º 53/70
+Havendo sido requerida autorização para ser constituída em Moçambique uma casa bancária, e que se entende conveniente e vantajoso para o desenvolvimento económico da província;
+Ouvido o Governo-Geral de Moçambique e o Conselho Nacional de Crédito;
+Considerando o disposto nos artigos 9.º e 11.º e § 2.º do artigo 12.º do Decreto-Lei n.º 45296, de 5 de Outubro de 1963;
+Com parecer favorável do Conselho de Ministros para os Assuntos Económicos, nos termos do artigo 13.º do Decreto-Lei n.º 44652, de 27 de Outubro de 1962;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É autorizada a constituição na província de Moçambique de uma sociedade por quotas de responsabilidade limitada, com sede na cidade da Beira; que adoptará a denominação de Casa Bancária de Moçambique, Lda., devendo esta instituição de crédito satisfazer as condições constantes dos artigos subsequentes.
+Art. 2.º - 1. O capital social de constituição da Casa Bancária de Moçambique, Lda., será de 50000000$00.
+2. No acto de constituição, a sociedade depositará, pelo menos, 50 por cento do valor do seu capital social no Banco Nacional Ultramarino em Moçambique.
+Art. 3.º - 1. O exercício do comércio de câmbios na província pela Casa Bancária de Moçambique, Lda., fica condicionada ao cumprimento do disposto no artigo 11.º do Decreto-Lei n.º 44700, de 17 de Novembro de 1962, com a nova redacção que lhe foi dada pelo artigo 50 do Decreto-Lei n.º 49306, de 11 de Outubro de 1969.
+2. A autorização concedida ao sócio Carlos Abel de Sousa e Brito para o exercício do comércio de câmbios considera-se cancelada logo que, constituída a Casa Bancária de Moçambique, Lda., a mesma esteja em condições legais de exercer aquela actividade.
+Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
+Promulgado em 3 de Fevereiro de 1970.
+Publique-se.
+Presidência da República, 12 de Fevereiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.
