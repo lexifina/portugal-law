@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que se encontram cumpridas as formalidades exigidas em Portugal e na Áustria para a entrada em vigor da Convenção em Matéria de Segurança Social entre o Governo da República Portuguesa e o Governo da República da Áustria, bem como do respectivo Protocolo Final, ambos concluídos em Viena em 18 de Abril de 1985.
+A Convenção e o Protocolo Final, aprovados, para ratificação, pelo Decreto do Governo n.º 44/85, de 5 de Novembro, publicado no Diário da República, 1.ª série, n.º 254, de 5 de Novembro de 1985, entrarão em vigor, nos termos do disposto no artigo 22.º, n.º 2, da Convenção e da parte final do n.º 3 do ponto III do Protocolo Final, no primeiro dia do terceiro mês subsequente ao decurso do mês em que forem trocados os instrumentos de ratificação ou de aprovação.
+Assim, tendo os instrumentos de ratificação sido trocados em Lisboa em 24 de Fevereiro de 1987, a Convenção e o Protocolo Final entrarão em vigor no dia 1 de Maio de 1987.
+Ministério dos Negócios Estrangeiros, 4 de Março de 1987. - O Chefe do Gabinete da Secretária de Estado das Comunidades Portuguesas, Jorge Preto.
