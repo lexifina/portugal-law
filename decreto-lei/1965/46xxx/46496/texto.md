@@ -1,0 +1,14 @@
+Decreto-Lei n.º 46496
+O Código da Contribuição Predial, aprovado pelo Decreto-Lei n.º 45104, de 1 de Julho de 1958, insere-se na orientação, comum aos demais diplomas tributários, de promover o aperfeiçoamento do sistema fiscal e a sua adaptação às técnicas modernas.
+Mas, embora se justifique pela teoria financeira e pela prática legislativa de outros países, o imposto de indústria agrícola suscitou algumas observações e constitui fonte de dificuldades de aplicação, ainda não inteiramente removidas.
+O problema é, com efeito, complexo e a própria análise das diferentes legislações revela a delicadeza da matéria e a diversidade de soluções adoptadas.
+Na verdade, vários aspectos carecem de melhores esclarecimentos e, entre eles, o da simplificação do sistema, o da tributação dos rendimentos plurianuais e o da sua incidência no imposto complementar.
+Há que reconhecer o apreciável esforço já realizado nesse sentido e os úteis resultados obtidos.
+Mas, o carácter inovador do imposto e a ausência de experiência esclarecedora aconselham o reexame do problema e a ponderação dos novos aspectos suscitados pelas reclamações apresentadas.
+Sem pôr em causa os princípios gerais do novo regime fiscal e o seu pensamento informador, afigura-se conveniente fazer preceder a aplicação do referido imposto dos estudos necessários à configuração definitiva da nova modalidade tributária. A suspensão, que parece impor-se, não oferece, aliás, relevante interesse financeiro, nem pelo número de contribuintes, nem pelo valor da matéria colectável, nem ainda pelo rendimento fiscal que permite arrecadar.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É suspensa a execução das disposições que regulam o imposto sobre a indústria agrícola, criado pelo Decreto-Lei n.º 45104, de 1 de Julho de 1963.
+Art. 2.º Fica o Ministro das Finanças autorizado a tomar as providências necessárias à execução do presente decreto-lei, nomeadamente no que respeita à garantia do equilíbrio das receitas que, em virtude do disposto no artigo anterior, deixam de ser cobradas.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 18 de Agosto de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
