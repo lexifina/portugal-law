@@ -1,0 +1,8 @@
+Despacho
+De harmonia com o n.º 2 do artigo 2.º do Decreto-Lei n.º 256/74, de 15 de Junho, as funções que estavam cometidas à Direcção dos Serviços de Electricidade e Comunicações, do Ministério da Marinha, foram atribuídas à Secretaria de Estado da Marinha Mercante, passando a ser executadas em bloco pela Inspecção-Geral de Navios.
+Entre tais funções conta-se a emissão de certificados restritos de radiotelefonista.
+Com a definição orgânica da competência e atribuições da Secretaria de Estado pelo Decreto-Lei n.º 587/74, de 6 de Novembro, e Portaria n.º 873/74, de 31 de Dezembro, e tratando-se de assunto directamente relacionado com o pessoal do mar e sua formação profissional, a passagem daqueles certificados foi naturalmente incluída na esfera de competência da Direcção-Geral do Pessoal do Mar e da Direcção-Geral de Estudos Naúticos, ainda que em termos pouco expressos.
+Considerando, todavia, que a Direcção-Geral de Estudos Naúticos se encontra em estruturação de molde a poder corresponder em breve às exigências técnicas da elaboração do competente exame com vista à atribuição daqueles certificados e que à Direcção-Geral do Pessoal do Mar se deparam de momento dificuldades práticas para a passagem dos mesmos certificados:
+Determino, ao abrigo do artigo 26.º da Portaria n.º 873/74, de 31 de Dezembro, o seguinte:
+A Inspecção-Geral de Navios continuará a desempenhar, a título transitório, enquanto não se proceder à actualização das disposições do RIM referentes aos exames e emissão de certificados restritos de radiotelefonista, todas as funções relacionadas com o processo de atribuição desses certificados.
+Ministério dos Transportes e Comunicações, 30 de Abril de 1976. - O Secretário de Estado da Marinha Mercante, Fernando Grilo de Lima Pinheiro.
