@@ -2,7 +2,7 @@
 
 ### Beneficiários e condições de acesso
 
-1 - Podem beneficiar de indemnizações compensatórias os agricultores a título principal que residam, ou tenham a sua sede, em região desfavorecida e explorem, pelo menos, 2 ha de superfície agrícola útil.
+1 - Podem beneficiar de indemnizações compensatórias os agricultores a título principal que residam, ou tenham a sua sede, em região desfavorecida e explorem, pelo menos, 2 ha de superfície agrícola útil ou, até 31 de Dezembro de 1997, 1 ha de superfície agrícola útil.
 
 2 - Para efeitos de atribuição de ajudas, os beneficiários devem comprometer-se a manter a actividade agrícola e ou pecuária durante pelo menos cinco anos a contar do primeiro pagamento de uma indemnização compensatória.
 
