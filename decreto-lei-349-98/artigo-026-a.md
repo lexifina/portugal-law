@@ -8,7 +8,7 @@
 
 3 - A solicitação do Ministro das Finanças, a Inspecção-Geral de Finanças promoverá inspecções regulares e por amostragem para verificação do cumprimento do disposto no presente diploma e respectiva regulamentação
 
-4 - Por despacho normativo dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território será fixado o modelo da informação a prestar pelas instituições de crédito relativamente a cada um dos contratos celebrados.
+4 - Por despacho normativo do Ministro das Finanças e do ministro responsável pela matéria relativa à habitação será fixado o modelo da informação a prestar pelas instituições de crédito, relativamente a cada um dos contratos celebrados.
 
 5 - A Direcção-Geral do Tesouro promove a publicação na 2.ª série do Diário da República de relatórios trimestrais contendo informação estatística sobre as operações de crédito contratadas ao abrigo do presente diploma e respectiva análise detalhada.
 

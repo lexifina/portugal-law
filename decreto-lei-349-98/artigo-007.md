@@ -4,7 +4,7 @@
 
 1 - A taxa de juro contratual aplicável será livremente negociada entre as partes.
 
-2 - Sem prejuízo de quaisquer outros regimes de amortização dos empréstimos, devem as instituições de crédito competentes apresentar aos interessados o regime de prestações progressivas e o regime de prestações constantes.
+2 - Sem prejuízo de quaisquer outros sistemas de amortização dos empréstimos, devem as instituições de crédito competentes apresentar aos interessados o sistema de prestações constantes.
 
 3 - O regime de amortização por prestações progressivas com capitalização parcial de juros caracteriza-se da seguinte forma:
 

@@ -6,9 +6,9 @@ Para efeitos deste diploma considera-se:
 
 a) «Interessado», toda a pessoa que pretenda adquirir, construir e realizar obras de conservação ordinária, extraordinária e de beneficiação para habitação permanente, secundária ou para arrendamento ou adquirir terreno para construção de habitação própria permanente;
 
-b) «Agregado familiar», o conjunto de pessoas constituído pelos cônjuges ou por duas pessoas que vivam em condições análogas às dos cônjuges, nos termos do artigo 2020.º do Código Civil, e seus ascendentes e descendentes em 1.º grau, incluindo enteados e adoptados, desde que com eles vivam em regime de comunhão de mesa e habitação;
+b) 'Agregado familiar' o conjunto de pessoas constituído pelos cônjuges ou por duas pessoas que vivam em condições análogas às dos cônjuges, nos termos do artigo 2020.º do Código Civil, e seus ascendentes e descendentes em 1.º grau ou afins, desde que com eles vivam em regime de comunhão de mesa e habitação;
 
-c) Também como «agregado familiar» o conjunto constituído por pessoa solteira, viúva, divorciada ou separada judicialmente de pessoas e bens, seus ascendentes e descendentes do 1.º grau, incluindo enteados e adoptados, desde que igualmente com ela vivam em regime de comunhão de mesa e habitação;
+c) Também como 'agregado familiar', o conjunto constituído por pessoa solteira, viúva, divorciada ou separada judicialmente de pessoas e bens, seus ascendentes e descendentes do 1.º grau ou afins, desde que com ela vivam em comunhão de mesa e habitação;
 
 d) «Fogo», todo o imóvel que, obedecendo aos requisitos legais exigidos, se destina a habitação segundo o condicionalismo expresso neste decreto-lei;
 

@@ -8,8 +8,8 @@ a) Regimes de crédito praticados;
 
 b) Prazo dos empréstimos, regimes optativos de amortização e demais condições;
 
-c) Esforço financeiro por cada 1000 contos mutuados em cada um dos regimes oferecidos;
+c) Preço dos serviços prestados, comissões e outros encargos a suportar pelos mutuários.
 
-d) Preço dos serviços prestados, comissões e outros encargos a suportar pelos mutuários.
+2 - As instituições de crédito devem dar conhecimento ao Banco de Portugal e à Direcção-Geral do Tesouro das condições a que se refere o número anterior e de quaisquer alterações.
 
-2 - As instituições de crédito devem dar conhecimento ao Banco de Portugal e à Direcção-Geral do Tesouro ou às entidades competentes nas Regiões Autónomas, no prazo de 20 dias úteis, das condições a que se refere o número anterior e de quaisquer alterações.
+3 - As instituições de crédito devem apresentar ao mutuário uma simulação do plano financeiro do empréstimo, a qual terá em conta as condições vigentes à data da aprovação do crédito.

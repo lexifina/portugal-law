@@ -1,6 +1,6 @@
 ## Capítulo VI
 
-## Disposições finais e transitórias
+## Regras complementares
 
 # Artigo 22.º
 
