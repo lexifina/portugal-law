@@ -1,0 +1,6 @@
+Declaração
+Segundo comunicação do Ministério da Educação e das Universidades, o Decreto Regulamentar n.º 51/81, publicado no Diário da República, 1.ª série, n.º 240, de 19 de Outubro de 1981, saiu com as seguintes inexactidões, que assim se rectificam:
+No capítulo I, onde se lê «Natureza e atribuição dos centros de investigação do Instituto Nacional de Investigação Científica (INIC)» deve ler-se «Natureza e atribuições dos centros de investigação do Instituto Nacional de Investigação Científica (INIC)».
+No capítulo II, alínea d) do artigo 3.º, onde se lê «A outras instituições ou entidades públicas privadas interessadas na investigação científica» deve ler-se «A outras instituições ou entidades públicas ou privadas interessadas na investigação científica».
+A seguir ao artigo 33.º, nas assinaturas, onde se lê «Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - José Cândido Sousa Carrusca de Castro Robin de Andrade» deve ler-se «Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - Vítor Pereira Crespo - José Cândido Sousa Carrusca de Castro Robin de Andrade».
+Secretaria-Geral da Presidência do Conselho de Ministros, 23 de Novembro de 1981. - O Secretário-Geral, França Martins.
