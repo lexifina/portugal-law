@@ -60,4 +60,12 @@ TMA - (mais ou menos)-3,4,5-trimetoxi-a-metilfeniletilamina.
 
 2C-B (4-bromo-2,5-dimetoxifenetilamina), GHB ((gama)-ácido hidroxibutírico)
 
+2C-I (2,5-dimetoxi-4-iodofenetilamina);
+
+2C-T-2 (2,5-dimetoxi-4-etiltiofenetilamina);
+
+2C-T-7 (2,5-dimetoxi-4-propiltiofenetilamina);
+
+TMA-2 (2,4,5-trimetoxianfetamina)
+
 Os sais das substâncias indicadas nesta tabela, sempre que a existência de tais sais seja possível.
