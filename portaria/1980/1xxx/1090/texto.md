@@ -1,0 +1,12 @@
+Portaria n.º 1090/80
+de 22 de Dezembro
+Ao abrigo do disposto nos n.os 2 e 3 do artigo 1.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, e porque verificados os requisitos previstos nas alíneas a) e b) do n.º 1 e a) e c) do n.º 6 da Resolução n.º 354-B/79, de 18 de Dezembro, do Conselho de Ministros:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano e pelo Secretário de Estado da Reforma Administrativa, o seguinte:
+O cargo de secretário da Junta Nacional de Investigação Científica e Tecnológica é equiparado a director de serviços.
+Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 30 de Setembro de 1980. - Pelo Ministro das Finanças e do Plano, José António da Silveira Godinho, Secretário de Estado Adjunto do Ministro das Finanças e do Plano. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
+
+ANEXO
+Conteúdo funcional do cargo de secretário da Junta Nacional de Investigação Científica e Tecnológica
+Pelo n.º 1 do artigo 1.º do Decreto-Lei n.º 601/70, de 5 de Dezembro, foi criado o lugar de secretário da Junta Nacional de Investigação Científica e Tecnológica, com a categoria da letra D do artigo 2.º do Decreto-Lei n.º 49410, de 24 de Novembro de 1969. Competia ao referido funcionário secretariar o conselho geral e a comissão executiva e, de harmonia com as instruções do presidente da Junta, coordenar a elaboração dos documentos a submeter àqueles órgãos; competia-lhe ainda superintender nos serviços administrativos da Junta.
+Entretanto, o n.º 1 do artigo 7.º do Decreto-Lei n.º 519-S1/79, de 29 de Dezembro, estabeleceu ser o secretário da Junta provido em comissão de serviço por períodos de três anos, renováveis; o n.º 2 e o n.º 4 do citado artigo ratificaram o âmbito da competência definida pelo Decreto-Lei n.º 601/70, de 5 de Dezembro; o n.º 3 do mesmo artigo conferiu mais ao referido funcionário o recurso aos técnicos e aos grupos de trabalho necessários para o cumprimento do estipulado no n.º 2. O quadro da Junta, a que se reporta o n.º 1 do artigo 4.º do Decreto-Lei n.º 519-S1/79, de 29 de Dezembro, situou o secretário da Junta Nacional de Investigação Científica e Tecnológica no âmbito do pessoal dirigente.
+Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 30 de Setembro de 1980. - Pelo Ministro das Finanças e do Plano, José António da Silveira Godinho, Secretário de Estado Adjunto do Ministro das Finanças e do Plano. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
