@@ -1,0 +1,13 @@
+Portaria n.º 137/86
+de 9 de Abril
+Considerando que os serviços e estabelecimentos de saúde das Regiões Autónomas dos Açores e da Madeira se encontram regionalizados;
+Considerando os poderes de direcção e tutela que pertencem aos governos regionais sobre aqueles serviços e estabelecimentos e as suas competências na execução da política de saúde e na cobertura médico-sanitária da respectiva região;
+Considerando que nessas competências se incluem a criação e a aprovação de quadros de pessoal e respectivos provimentos;
+Considerando que os provimentos de lugares das carreiras médicas se devem integrar nessas competências:
+Ao abrigo do artigo 12.º do Decreto-Lei n.º 310/82, de 3 de Agosto:
+Manda o Governo da República Portuguesa, pela Ministra da Saúde, o seguinte:
+1.º Compete aos Governos Regionais das Regiões Autónomas dos Açores e da Madeira a abertura de concursos de provimento de lugares das carreiras médicas existentes nos quadros de pessoal dos respectivos serviços ou estabelecimentos de saúde.
+2.º Estes concursos de provimento obedecerão às normas regulamentares em vigor a nível nacional.
+Ministério da Saúde.
+Assinada em 31 de Março de 1986.
+A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
