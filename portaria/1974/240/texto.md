@@ -1,0 +1,4 @@
+Portaria n.º 240/74
+de 2 de Abril
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Administração Ultramarina, nos termos do § 1.º do artigo 4.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, reforçar, com a importância de 60500$00, a verba do capítulo único, artigo 2.º, n.º 1, alínea c) «Despesas com o pessoal - Remunerações acidentais - Gratificações - De regime de tempo completo ou dedicação exclusiva, nos termos do artigo 14.º do Decreto n.º 206/73, de 5 de Maio», do orçamento da despesa do Instituto de Higiene e Medicina Tropical em vigor, tomando como contrapartida disponibilidades do capítulo único, artigo 1.º, n.º 1, alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal docente - Pessoal de nomeação», do mesmo orçamento.
+Ministério do Ultramar, 22 de Março de 1974. - O Secretário de Estado da Administração Ultramarina, Leão Maria Tavares Rosado do Sacramento Monteiro.
