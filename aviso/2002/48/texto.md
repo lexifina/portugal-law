@@ -1,0 +1,5 @@
+Aviso n.º 48/2002
+Por ordem superior se torna público que, em 7 de Junho de 2000 e em 11 de Abril de 2002, foram emitidas notas, respectivamente pela Embaixada da Islândia em Paris e pela Embaixada de Portugal em Oslo, comunicando aos competentes Ministérios dos Negócios Estrangeiros terem sido cumpridas as formalidades constitucionais internas requeridas pelos ordenamentos jurídicos de ambos os países para a aprovação da Convenção entre a República Portuguesa e a República da Islândia para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento e o Capital e respectivo Protocolo, assinados em Lisboa em 2 de Agosto de 1999.
+A presente Convenção foi aprovada pela Resolução da Assembleia da República n.º 16/2002 e ratificada pelo Decreto do Presidente da República n.º 14/2002, publicados no Diário da República, 1.ª série-A, n.º 57, de 8 de Março de 2002.
+Em conformidade com o disposto no seu artigo 28.º, a Convenção entrou em vigor em 11 de Abril de 2002.
+Direcção-Geral das Relações Bilaterais, 6 de Maio de 2002. - O Director-Geral, José Caetano de Campos de Andrada da Costa Pereira.
