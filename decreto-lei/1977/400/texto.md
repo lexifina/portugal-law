@@ -1,0 +1,13 @@
+Decreto-Lei n.º 400/77
+de 24 de Setembro
+O Governa decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. O artigo 21.º do Decreto-Lei n.º 298/77, de 21 de Julho, passa a ter a seguinte redacção:
+Art. 21.º - 1. ...
+2. ...
+3. ...
+4. ...
+5. O pessoal dirigente será provido em comissão de serviço por tempo indeterminado ou em regime de mera prestação de serviços.
+Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - António Miguel Morais Barreto - João Orlando de Almeida Pina.
+Promulgado em 11 de Setembro de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
