@@ -23,3 +23,5 @@ b) Divulgação da ocorrência de acto processual ou dos seus termos, independen
 5 - As pessoas referidas no número anterior ficam, em todo o caso, vinculadas pelo segredo de justiça.
 
 6 - A autoridade judiciária pode autorizar a passagem de certidão em que seja dado conhecimento do conteúdo do acto ou do documento em segredo de justiça na medida estritamente necessária à dedução em separado de pedido de indemnização civil.
+
+7 - Para os fins do número anterior e perante requerimento fundado no disposto na alínea a) do n.º 1 do artigo 72.º, a autoridade judiciária autorizará a passagem de certidão em que seja dado conhecimento do acto ou do documento em segredo de justiça, sempre que o processo respeite a acidente causado por veículo de circulação terrestre.
