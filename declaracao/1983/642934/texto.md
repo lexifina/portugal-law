@@ -1,0 +1,5 @@
+Declaração
+Segundo comunicação da 1.ª Delegação da Direcção-Geral da Contabilidade Pública, a declaração de transferências de verbas, publicada no Diário da República, 1.ª série, n.º 227, de 1 de Outubro de 1983, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê «Cap. 03 - Despesas gerais da Força Aérea; div. 02 - Pessoal militar não permamente privativo da Força Aérea» deve ler-se «Cap. 03 - Despesas gerais da Força Aérea; div. 02 - Pessoal militar não permanente privativo da Força Aérea».
+Onde se lê «Cap. 50 - Investimentos do Plano; div. 01 - Gabinete do Chefe do Estado-Maior da Força Aérea; div. 23 - Indústria; subdiv. 01 - Gabinete do Comando de Estado-Maior da Força Aérea - Desenvolvimento industrial aeronáutico» deve ler-se «Cap. 50 - Investimentos do Plano; div. 01 - Gabinete do Chefe do Estado-Maior da Força Aérea; div. 23; subdiv. 01 - Gabinete do Chefe do Estado-Maior da Força Aérea - Desenvolvimento industrial aeronáutico».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Outubro de 1983. - O Secretário-Geral, França Martins.
