@@ -2,7 +2,7 @@
 
 ### Prestação de contas
 
-1 - O registo da prestação de contas é feito com o depósito da acta de aprovação donde conste a aplicação dos resultados, acompanhada dos documentos seguintes:
+1 - O registo da prestação de contas consiste apenas na entrega, para fins de depósito, da acta de aprovação donde conste a aplicação dos resultados, acompanhada dos documentos seguintes:
 
 a) O relatório da gestão;
 
@@ -12,7 +12,7 @@ c) A certificação legal de contas;
 
 d) O parecer do órgão de fiscalização, quando exista.
 
-2 - O registo da prestação de contas consolidadas é feito com base nos documentos a seguir indicados e em declaração da qual conste que esses documentos foram presentes à sociedade consolidante:
+2 - O registo da prestação de contas consolidadas consiste apenas na entrega, para fins de depósito, dos documentos a seguir indicados e em declaração da qual conste que esses documentos foram presentes à sociedade consolidante:
 
 a) O relatório consolidado da gestão;
 
@@ -25,3 +25,5 @@ d) O parecer do órgão de fiscalização, quando exista.
 3 - Relativamente às empresas públicas, a acta de aprovação é substituída pelo despacho de aprovação do ministro da tutela e a certificação legal é substituída pelo parecer da Inspecção-Geral de Finanças.
 
 4 - As fotocópias dos documentos previstos nos números anteriores não carecem de autenticação.
+
+5 - O registo da prestação de contas não está sujeito a anotação no livro Diário, sendo entregue ao interessado fotocópia do impresso a que se refere o artigo 28.º, com nota do recebimento dos documentos apresentados.
