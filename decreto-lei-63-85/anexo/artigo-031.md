@@ -4,6 +4,6 @@
 
 # Artigo 31.º
 
-### (Regra geral)
+### Regra geral
 
-O direito de autor caduca, na falta de disposição especial, 50 anos após a morte do criador da obra, mesmo que se trate de obra divulgada ou publicada postumamente.
+O direito de autor caduca, na falta de disposição especial, 70 anos após a morte do criador intelectual, mesmo que a obra só tenha sido publicada ou divulgada postumamente.

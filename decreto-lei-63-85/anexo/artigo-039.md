@@ -1,5 +1,7 @@
 # Artigo 39.º
 
-### (Queda no domínio público)
+### Obras no domínio público
 
-Cai no domínio público a obra em relação à qual decorreram os prazos de caducidade do direito de autor estabelecidos nos artigos 31.º e seguintes deste Código.
+1 - Quem fizer publicar ou divulgar licitamente, após a caducidade do direito de autor, uma obra inédita beneficia durante 25 anos a contar da publicação ou divulgação de protecção equivalente à resultante dos direitos patrimoniais do autor.
+
+2 - As publicações críticas e científicas de obras caídas no domínio público beneficiam de protecção durante 25 anos a contar da primeira publicação lícita.
