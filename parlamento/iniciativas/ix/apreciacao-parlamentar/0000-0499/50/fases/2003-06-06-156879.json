@@ -1,0 +1,586 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "50",
+    "id": "19639",
+    "titulo": "Decreto-Lei n.º 60/2003, de 1 de Abril, que \"Cria a rede de cuidados de saúde primários\"."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2003-06-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2596",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2003-06-06",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "19608",
+        "leg": "IX",
+        "nr": "49",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "701",
+            "obs": null,
+            "pag": [
+              "5459-5470"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-06-07",
+            "pubLeg": "IX",
+            "pubNr": "131",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5459?pgs=5459-5470&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "A",
+        "titulo": "Decreto-Lei n.º 60/2003, de 1 de Abril, que \"Cria a rede de cuidados de saúde primários\"."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-06-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145753",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5459-5460",
+                  "5468-5469"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5459?pgs=5459-5460,5468-5469&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 60/2003, de 1 de Abril, que \"Cria a rede de cuidados de saúde primários\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2251",
+                "nome": "Luís Carito"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145754",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5460-5462"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5460?pgs=5460-5462&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 60/2003, de 1 de Abril, que \"Cria a rede de cuidados de saúde primários\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1620",
+                "nome": "José António Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145755",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5461-5462"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5461?pgs=5461-5462&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 60/2003, de 1 de Abril, que \"Cria a rede de cuidados de saúde primários\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1620",
+                "nome": "José António Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145756",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5462-5464"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5462?pgs=5462-5464&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 60/2003, de 1 de Abril, que \"Cria a rede de cuidados de saúde primários\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2034",
+                "nome": "Joana Amaral Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145757",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5464-5464"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5464?pgs=5464&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 60/2003, de 1 de Abril, que \"Cria a rede de cuidados de saúde primários\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1924",
+                "nome": "Paulo Veiga"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145758",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5464-5465"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5464?pgs=5464-5465&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 60/2003, de 1 de Abril, que \"Cria a rede de cuidados de saúde primários\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145759",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5465-5465"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5465?pgs=5465&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 60/2003, de 1 de Abril, que \"Cria a rede de cuidados de saúde primários\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.   DA   SAÚDE",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145760",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5466-5468",
+                  "5470-5470"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5466?pgs=5466-5468,5470&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 60/2003, de 1 de Abril, que \"Cria a rede de cuidados de saúde primários\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1701",
+                "nome": "Luísa Portugal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145761",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5468-5468"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5468?pgs=5468&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 60/2003, de 1 de Abril, que \"Cria a rede de cuidados de saúde primários\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145762",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5470-5470"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5470?pgs=5470&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 60/2003, de 1 de Abril, que \"Cria a rede de cuidados de saúde primários\"",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "156879",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "279750",
+        "obs": null,
+        "pag": [
+          "5459-5470"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-06-07",
+        "pubLeg": "IX",
+        "pubNr": "131",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5459?pgs=5459-5470&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
