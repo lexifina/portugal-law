@@ -38,4 +38,16 @@
 
 18.º Exercer quaisquer outras atribuïções policiais que as leis e regulamentos lhe confiram.
 
-§ 1.º O governador civil pode elaborar regulamentos obrigatórios em todo o distrito sobre as matérias das suas atribuições policiais que não sejam objecto de lei ou regulamento geral de administração pública. Estes regulamentos carecem de aprovação do Governo, serão publicados no Diário do Governo, entrarão em vigor nos prazos fixados para a vigência das leis, se outros não se prescreverem, e poderão cominar sanções de multa até 5000$00, acrescida de um terço por cada reincidência, bem como a de encerramento de estabelecimentos que funcionem sem as licenças exigidas por lei ou regulamento e nos demais casos especialmente previstos nos regulamentos a que se refere este parágrafo. A desobediência à ordem de encerramento será punida nos termos do artigo 188.º do Código Penal.
+§ 1.º Os governadores civis podem elaborar regulamentos genéricos, obrigatórios em todo o distrito, sobre as matérias das suas atribuições policiais que não sejam objecto de lei ou regulamento geral da Administração Pública.
+
+§ 2.º A violação dos regulamentos constitui contra-ordenação, sendo a aplicação das coimas e respectivas sanções acessórias da competência do governador civil.
+
+§ 3.º Os regulamentos fixarão as coimas a aplicar às contra-ordenações, entre o mínimo legal e o máximo de 400000$00 e 500000$00 para as pessoas singulares e 800000$00 e 1000000$00 para as pessoas colectivas, respectivamente, no caso de negligência e dolo.
+
+§ 4.º Os regulamentos poderão cominar a aplicação das sanções acessórias previstas no artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, e ainda prever que seja ordenado, até que sejam removidas as causas, o encerramento do estabelecimento que funcione sem as licenças ou as condições exigidas por lei ou regulamento.
+
+§ 5.º Sempre que a frequência ou gravidade da contra-ordenação o justifique, poderá o regulamento prever que o governador civil possa ordenar ao infractor que se abstenha de praticar actos contrários à lei ou ao próprio regulamento, interditando-lhe, pelo período de 2 a 12 meses, a frequência ou estacionamento em locais públicos ou de livre acesso do público, devidamente identificados na ordem.
+
+§ 6.º As competências do governador civil previstas nos §§ 2.º a 5.º são delegáveis nos termos gerais.
+
+§ 7.º Os regulamentos carecem de ratificação do Governo e serão publicados no Diário da República, entrando em vigor nos prazos fixados para a vigência das leis, se eles próprios não fixarem outros.
