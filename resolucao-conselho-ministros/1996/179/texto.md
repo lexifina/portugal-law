@@ -1,0 +1,21 @@
+Resolução do Conselho de Ministros n.º 179/96
+O n.º 1 do artigo 27.º do Regulamento da Exploração do Jogo do Bingo, aprovado pelo Decreto-Lei n.º 314/95, de 24 de Novembro, determina que as percentagens da receita bruta da venda dos cartões que constituem receita dos concessionários das salas de jogo do bingo fora dos casinos são estabelecidas por resolução do Conselho de Ministros.
+Cumprindo essa disposição, foi publicada no Diário da República, 1.ª série, n.º 272, de 24 de Novembro de 1995, a Resolução do Conselho de Ministros n.º 150/95, aprovada pelo anterior governo em 12 de Outubro de 1995, a qual vem estabelecer que constituem receitas dos concessionários que sejam pessoas colectivas públicas ou de utilidade pública 33% da receita bruta da venda de cartões, bem como no caso de salas concessionadas a empresas do sector turístico até ao montante de 250000 contos.
+Entretanto, com a Resolução do Conselho de Ministros n.º 17/96, de 8 de Fevereiro, publicada no Diário da República, 1.ª série-B, n.º 48, de 26 de Fevereiro de 1996, estabeleceram-se regras específicas para o caso das explorações concessionadas a clubes desportivos, atribuindo a estes a percentagem de 35% da receita bruta da venda dos cartões.
+Verificando-se que sempre havia vigorado o mesmo princípio na distribuição dessas verbas, e dado que os restantes concessionários que não são clubes desportivos desempenham também um papel de grande relevância, desenvolvendo funções sociais e de elevado interesse público, não devendo ficar em situação de desigualdade concreta;
+Verificando-se ainda que, de acordo com o estipulado no artigo 3.º do Decreto-Lei n.º 314/95, de 24 de Novembro, se determina que a parte da receita bruta da vendados cartões do jogo do bingo nas salas existentes fora dos casinos que não se destine a prémios nem a remuneração dos concessionários reverte para entidades do sector público, nos termos a definir por resolução do Conselho de Ministros;
+Verificando-se que no que concerne às salas do jogo do bingo de que são concessionários clubes desportivos, pela Resolução do Conselho de Ministros n.º 17/96, de 8 de Fevereiro, publicada no Diário da República, 1.ª série-B, n.º 48, de 26 de Fevereiro de 1996, foi determinado o destino das verbas em causa:
+Nestes termos, importa estabelecer regras que, para além de reporem a igualdade entre todos os concessionários das salas de jogo do bingo existentes fora dos casinos, dêem execução ao mencionado preceito legal definido no artigo 3.º do Decreto-Lei n.º 314/95, de 24 de Novembro, quanto à distribuição da receita bruta da venda dos cartões do jogo do bingo que, não se destinando a prémios nem a remuneração dos concessionários, reverte para entidades do sector público.
+Assim:
+Nos termos da alínea g) do artigo 202.º da Constituição, do artigo 3.º do Decreto-Lei n.º 314/95, de 24 de Novembro, e do n.º 1 do artigo 27.º do regulamento por ele aprovado, o Conselho de Ministros resolveu:
+1 - Constituem receita dos concessionários das salas de jogo do bingo fora dos casinos as seguintes percentagens da receita bruta da venda dos cartões:
+a) No caso de salas concessionadas a pessoas colectivas públicas ou de utilidade pública - 35%;
+b) No caso de salas concessionadas a empresas do sector turístico - a percentagem de 35%, até ao montante de 250000 contos.
+2 - A parte da receita bruta da venda dos cartões do jogo do bingo nas salas existentes fora dos casinos cujos concessionários não sejam clubes desportivos que não se destine a prémios nem à remuneração dos concessionários reverte para as entidades abaixo indicadas, sendo distribuída nos seguintes termos:
+a) 10% para o Instituto Português da Juventude (IPJ);
+b) 45% para a região de turismo em cuja circunscrição sejam geradas as receitas, destinando-se, na falta daquela, à respectiva junta de turismo ou, na falta de uma e de outra, ao correspondente município;
+c) 33% para o Fundo de Turismo (FT);
+d) 12% para a Inspecção-Geral de Jogos (IGJ).
+3 - São revogadas as alíneas a) e b) do n.º 1 da Resolução do Conselho de Ministros n.º 150/95, de 24 de Novembro.
+4 - O disposto no n.º 2 da presente resolução produz os seus efeitos desde 1 de Dezembro de 1995.
+Presidência do Conselho de Ministros, 12 de Setembro de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
