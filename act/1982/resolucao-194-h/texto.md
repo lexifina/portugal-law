@@ -1,0 +1,4 @@
+Resolução n.º 194-H/82
+O Conselho da Revolução resolveu, nos termos do artigo 2.º do Decreto-Lei n.º 147-C/75, de 21 de Março, e do artigo 3.º do Decreto-Lei n.º 216/75, de 2 de Maio, na redacção que lhe foi dada pelo Decreto-Lei n.º 44-A/78, de 15 de Março, promover ao posto de coronel o tenente-coronel de infantaria Alcides José Sacramento Marques, contando a antiguidade, para todos os efeitos, desde 28 de Outubro de 1982, devendo ocupar na escala, relativamente à lista geral de antiguidades dos oficiais do Exército do quadro permanente referida a 1 de Janeiro de 1982, o lugar à direita do coronel José Daniel de Barros Adão e à esquerda do coronel Norberto Amílcar Sousa Luís dos Ramos.
+Aprovada em Conselho da Revolução de 28 de Outubro de 1982.
+O Presidente do Conselho da Revolução, António Ramalho Eanes.
