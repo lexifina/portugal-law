@@ -1,0 +1,3 @@
+Aviso n.º 95/96
+Por ordem superior se torna público que a Lituânia rectificou, em 5 de Março de 1996, uma declaração feita em 20 de Junho de 1995 em conformidade com o artigo 25.º da Convenção de Salvaguarda dos Direitos do Homem e Liberdades Fundamentais, aberta à assinatura em 4 de Novembro de 1950. A rectificação, que se aplica igualmente aos Protocolos n.os 4 e 7 da Convenção, acrescenta à declaração original a referência a «qualquer organização não governamental ou grupo de particulares».
+Direcção de Serviços das Organizações Políticas Internacionais, 3 de Abril de 1996. - O Director de Serviços, João José Gomes Caetano da Silva.
