@@ -8,7 +8,7 @@
 
 3 - Se o citado declarar que os bens lhe não pertencem ou não fizer nenhuma declaração, será expedida certidão do facto à conservatória para conversão oficiosa do registo.
 
-4 - Se o citado declarar que os bens lhe pertencem, o juiz remeterá os interessados para os meios processuais comuns, expedindo-se igualmente certidão do facto, com a data da declaração, para ser anotada no registo.
+4 - Se o citado declarar que os bens lhe pertencem, o juiz remeterá os interessados para os meios processuais comuns, expedindo-se igualmente certidão de facto, com a data da notificação da declaração, para ser anotada no registo.
 
 5 - O registo da acção declarativa na vigência do registo provisório é anotado neste e prorroga o respectivo prazo até caducar ou ser cancelado o registo da acção.
 

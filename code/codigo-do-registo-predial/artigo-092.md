@@ -42,9 +42,9 @@ c) As inscrições que, em reclamação contra a reforma de livros e fichas, se 
 
 d) As inscrições efectuadas na pendência de reclamação ou recurso contra a recusa do registo ou enquanto não decorrer o prazo para a sua interposição.
 
-3 - As inscrições referidas nas alíneas a) a e) e j) a o) do n.º 1, bem como na alínea c) do n.º 2, se não forem também provisórias com outro fundamento, mantêm-se em vigor pelo prazo de 3 anos, renovável por um único período de igual duração, a pedido dos interessados, mediante documento que comprove a subsistência da razão da provisoriedade.
+3 - As inscrições referidas nas alíneas a) a e), g), quando baseadas em contrato-promessa de alienação, e j) a o) do n.º 1, bem como na alínea c) do n.º 2, se não forem também provisórias com outro fundamento, mantêm-se em vigor pelo prazo de 3 anos, renovável por períodos de igual duração, a pedido dos interessados, mediante documento que comprove a subsistência da razão da provisoriedade.
 
-4 - As inscrições referidas na alínea a) do n.º 2 mantêm-se em vigor pelo prazo de 1 ano, salvo o disposto no n.º 5 do artigo 119.º, e caducam se a acção declarativa não for proposta e registada dentro de 30 dias a contar da declaração prevista no n.º 4 do mesmo artigo.
+4 - As inscrições referidas na alínea a) do n.º 2 mantêm-se em vigor pelo prazo de 1 ano, salvo o disposto no n.º 5 do artigo 119.º, e caducam se a acção declarativa não for proposta e registada dentro de 30 dias a contar da notificação da declaração prevista no n.º 4 do mesmo artigo.
 
 5 - As inscrições referidas na alínea b) do n.º 2 mantêm-se em vigor pelo prazo do registo de que dependem, salvo se antes caducarem por outra razão, e a conversão do registo em definitivo determina a conversão oficiosa das inscrições dependentes.
 

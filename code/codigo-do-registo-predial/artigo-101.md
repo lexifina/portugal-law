@@ -38,6 +38,6 @@ e) A nomeação de terceiro, ou a sua não nomeação, em contrato para pessoa a
 
 f) O cancelamento total ou parcial dos registos.
 
-3 - Podem ser feitos provisoriamente por dúvidas os averbamentos referidos no n.º 1 e provisoriamente por natureza os referidos na alínea e) do mesmo número.
+3 - Podem ser feitos provisoriamente por dúvidas os averbamentos referidos no n.º 1 e provisoriamente por natureza os averbamentos de factos constantes do mesmo número que tenham de revestir esse carácter quando registados por inscrição.
 
 4 - A conversão em definitiva da inscrição de acção em que se julgue modificado ou extinto um facto registado, ou se declare nulo ou anulado um registo, determina o correspondente averbamento oficioso de alteração ou cancelamento.

@@ -14,4 +14,6 @@ c) As descrições de prédios totalmente anexados;
 
 d) As descrições previstas na segunda parte do n.º 2 do artigo 80.º, quando não forem removidos os motivos da recusa.
 
+e) As descrições de prédios cuja área seja totalmente dividida em lotes de terreno destinados à construção.
+
 3 - A inutilização de qualquer descrição é anotada com menção da sua causa.
