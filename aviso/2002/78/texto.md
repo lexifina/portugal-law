@@ -1,0 +1,5 @@
+Aviso n.º 78/2002
+Por ordem superior se torna público que o Governo da República Portuguesa depositou, em 9 de Dezembro de 1985, junto do director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura, depositário da Convenção Relativa às Medidas a Adoptar para Proibir e Impedir a Importação, a Exportação e a Transferência Ilícitas da Propriedade de Bens Culturais, adoptada em 14 de Novembro de 1970 em Paris, o seu instrumento de ratificação desta Convenção internacional.
+A referida Convenção foi aprovada para ratificação pelo Decreto do Governo n.º 26/85, conforme publicado no Diário da República, 1.ª série, n.º 170, de 26 de Julho de 1985.
+Nos termos do seu artigo 21.º, a referida Convenção entrou em vigor para o Estado Português três meses após a data do depósito do instrumento de ratificação, ou seja, no dia 9 de Março de 1986.
+Direcção de Serviços das Organizações Políticas Internacionais, 2 de Julho de 2002. - O Director de Serviços, Rui Filipe Monteiro Belo Macieira.
