@@ -1,0 +1,7 @@
+Resolução n.º 114/80
+Considerando que a Hidroeléctrica de Cahora Bassa, S. A. R. L. (HCB), é uma empresa com sede em Moçambique, cujo capital é maioritariamente detido por empresas públicas portuguesas e pelo Estado Português;
+Considerando que entre essas empresas públicas se contam a Sociedade Financeira Portuguesa (com 41,41%), a Caixa Geral de Depósitos (com 13,03%), o Banco de Fomento Nacional (com 12,5%) e o Banco Pinto & Sotto Mayor (com 1,21%), das quais as três primeiras têm representantes na administração da HCB, e todas se encontram sob a tutela do Ministério das Finanças e do Plano;
+Considerando as elevadíssimas responsabilidades em moeda estrangeira assumidas pelo Estado Português na sua qualidade de garante de operações de crédito externo contratadas pelo HCB para financiamento das obras do empreendimento hidroeléctrico de que é concessionária, para além dos créditos em escudos portugueses, em escudos moçambicanos e mesmo em moeda estrangeira concedidos pelo próprio Estado Português:
+O Conselho de Ministros, reunido em 25 de Março de 1980, resolveu:
+Ao Ministério das Finanças e do Plano competirá acompanhar e orientar, tendo em conta a necessidade de tutela dos interesses portugueses, a actividade desenvolvida pelos representantes das partes portuguesas nos órgãos sociais da HCB, cabendo a estes representantes o dever de prestar àquele Ministério toda a informação que for requerida para o exercício daquela competência.
+Presidência do Conselho de Ministros, 25 de Março de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
