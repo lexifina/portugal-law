@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ikbb22EfidWyh5aL9J45Him8rhm3hBQttHxkrMbFeyYEwrlCCV9ZfcNHgV8WjSxu83VjOPt6VK7tfawrIfKZtTDmfI0Eg1Qj2%2fgR4zkB218vexxTlHm9ELnuOSX5QSKeM5RBZD467bhRAPU4hPcfbqahvryp3gb6e37C1v7CloSAMeYftDHuGXetsMTuqWKWDw8jw4LLkjhOMYrtuWUeiCrg7lyiTG%2fjnHAs%2fmcgrOZO8jIFWuyniqH%2f16iGaVZzEzfL%2b4SfA3O6drPBVYibztEF%2fs9tJC4xx3DcN5MsnQfVSXH3wVPofkvbJEOlvWHKvrzXi7OMn9qcwTKLuqkVUEIS1yusoxybTMXClPgsIs8%3d&fich=IntervencoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "ab3e3445119ef03a27cc4debeadf3049422a38e0d13b37a933bd5be6cbd2d916",
+  "legislatura": "IX",
+  "id": "147066",
+  "tipo": "Intervenção",
+  "orador": "Joel Hasse Ferreira (PS)",
+  "data_registo": "2003-10-15",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "159290",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "19793",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Exclui os empréstimos a contrair para a reparação dos danos provocados em equipamentos e infra-estruturas municipais de relevante interesse público destruídos pelos incêndios ocorridos desde 20 de Julho de 2003, a financiar por recurso a linha de crédito bonificado, dos limites de endividamento municipal."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2003-10-15",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "507",
+      "nome": "Joel Hasse Ferreira"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "147066",
+    "IdDebate": "2823",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "19793",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "IX",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "147066",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "616-616"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-10-16",
+        "pubLeg": "IX",
+        "pubNr": "12",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/012/2003-10-16/616?pgs=616&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "2",
+    "Sumario": "Exclui os empréstimos a contraír para a reparação dos danos provocados em equipamentos e infra-estruturas municipais de relevante interesse público, destruídos pelos incêndios ocorridos desde Julho de 2003, a financiar por recurso a linha de crédito bonificado, dos limites de endividamento municipal",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
