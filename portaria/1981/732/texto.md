@@ -1,0 +1,4 @@
+Portaria n.º 732/81
+de 28 de Agosto
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, da Habitação e Obras Públicas e da Reforma Administrativa, ao abrigo do artigo 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, e do n.º 1 do artigo 13.º do Decreto-Lei n.º 180/80, de 3 de Junho, que seja criado no quadro de pessoal do Fundo de Fomento da Habitação, anexo IV à Portaria n.º 39/81, de 15 de Janeiro, 1 lugar de técnico superior principal, letra D, a extinguir quando vagar.
+Ministérios das Finanças e do Plano, da Habitação e Obras Públicas e da Reforma Administrativa, 6 de Julho de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro da Habitação e Obras Públicas, Luís Eduardo da Silva Barbosa. - Pelo Ministro da Reforma Administrativa, José Cândido Sousa Carrusca Robin de Andrade, Secretário de Estado da Reforma Administrativa.
