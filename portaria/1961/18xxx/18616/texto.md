@@ -1,0 +1,5 @@
+Portaria n.º 18616
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, que, nos termos do § 1.º do artigo 22.º do Decreto-Lei n.º 39749, de 9 de Agosto de 1954, com a nova redacção que lhe deu o artigo 2.º do Decreto-Lei n.º 43582, de 4 de Abril de 1961, seja criado um posto de fronteira da Polícia Internacional e de Defesa do Estado em Vila Coutinho, província ultramarina de Moçambique, dependente da delegação do mesmo organismo em Lourenço Marques, cabendo ao Governo-Geral da província, mediante proposta da referida Polícia, a faculdade de promover a fixação e distribuição do pessoal, efectivo e eventual, consoante as necessidades do serviço, de harmonia com o mapa anexo ao citado Decreto-Lei n.º 43582 e nos termos do § 4.º do artigo 46.º do já referido Decreto-Lei n.º 39749, com a nova redacção do artigo 2.º do Decreto-Lei n.º 43582.
+Ministério do Ultramar, 24 de Julho de 1961. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - J. Costa Freitas.
