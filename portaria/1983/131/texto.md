@@ -1,0 +1,48 @@
+Portaria n.º 131/83
+de 4 de Fevereiro
+Tornando-se necessário adequar as disposições que vêm regulando a admissão de farmacêuticos navais, contidas na Portaria n.º 22177, de 20 de Agosto de 1966, à evolução entretanto operada nos campos do ensino farmacêutico e da estrutura orgânica do Serviço de Saúde Naval;
+Reconhecendo-se a vantagem de critério uniformizador no condicionamento dos concursos para médicos e farmacêuticos navais:
+Manda o Chefe do Estado-Maior da Armada, com base no disposto no artigo 47.º do Estatuto do Oficial da Armada, aprovado e mandado pôr em execução pelo Decreto n.º 46960, de 14 de Abril de 1966, o seguinte:
+1.º Os concursos de admissão aos quadros permanentes da classe de farmacêuticos navais passam a regular-se pelas disposições que constam da presente portaria.
+2.º Fica revogada a Portaria n.º 22177, de 20 de Agosto de 1966.
+Ministério da Defesa Nacional, 19 de Janeiro de 1983. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante.
+
+Concursos de admissão aos quadros permanentes da classe de farmacêuticos navais
+1.º
+(Categoria e finalidade dos concursos)
+1 - Os concursos para ingresso nos quadros permanentes de oficiais da classe de farmacêuticos navais são ordinários, destinam-se a fazer face às necessidades normais do recrutamento e constam de provas teóricas e práticas.
+2 - A forma de execução dos concursos previstos no número anterior será regulamentada por despacho do Chefe do Estado-Maior da Armada.
+2.º
+(Condições de admissão aos concursos)
+1 - São condições gerais de admissão aos concursos:
+a) Ser cidadão português originário;
+b) Ter aptidão física e psicotécnica, verificada em inspecção médica;
+c) Possuir licenciatura em Farmácia ou em qualquer dos ramos do curso de Ciências Farmacêuticas obtida em universidade portuguesa ou válida em Portugal;
+d) Ter satisfeito as leis do recrutamento militar.
+2 - É condição especial de admissão aos concursos a idade igual ou inferior a 28 anos, completados até ao dia 31 de Dezembro do ano de abertura do concurso.
+3.º
+(Processo de admissão e realização dos concursos)
+1 - A admissão ao concurso é requerida ao superintendente dos Serviços do Pessoal da Armada.
+2 - Serão presentes à Junta de Recrutamento e Selecção da Direcção do Serviço do Pessoal para verificação da condição fixada na alínea b) do n.º 1 do n.º 2.º os candidatos que reúnam todas as demais condições gerais e especial.
+3 - Os candidatos que satisfaçam à condição da alínea referida no número anterior serão admitidos à prestação de provas.
+4 - Para cada concurso será nomeado, por despacho do Chefe do Estado-Maior da Armada, sob proposta da Direcção do Serviço de Saúde Naval, um júri presidido por 1 capitão-de-mar-e-guerra farmacêutico naval e constituído por mais 2 oficiais farmacêuticos navais.
+5 - Os concursos constarão obrigatoriamente de uma prova escrita e de uma prova prática.
+4.º
+(Processo de classificação dos concursos)
+1 - A classificação final dos concursos será estabelecida pelos seguintes elementos, valorizados segundo a ordem decrescente:
+a) Classificação final das provas;
+b) Apreciação do curriculum vitae.
+2 - As listas dos candidatos aprovados e ordenados por ordem decrescente da classificação final obtida serão publicadas no Diário da República.
+5.º
+(Admissão provisória e tirocínio)
+1 - Os candidatos a admitir a título provisório serão convocados pela Direcção do Serviço do Pessoal.
+2 - Os candidatos assim admitidos serão graduados em subtenentes e mandados apresentar na Escola do Serviço de Saúde Militar (ESSM) ou na Escola Naval, a fim de frequentarem um tirocínio destinado a completar os seus conhecimentos militares e técnico-militares.
+3 - Terminado o tirocínio, o conselho escolar do estabelecimento de ensino frequentado elaborará um relatório final com base no aproveitamento e outras informações complementares julgadas úteis para a avaliação dos candidatos.
+6.º
+(Ingresso nos quadros permanentes)
+1 - Os candidatos que tiverem sido considerados com aproveitamento no tirocínio terão ingresso nos quadros permanentes dos oficiais farmacêuticos navais.
+2 - Na data do ingresso nos quadros permanentes os oficiais serão promovidos a segundos-tenentes.
+7.º
+(Disposições diversas)
+As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho do Chefe do Estado-Maior da Armada.
+O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante.
