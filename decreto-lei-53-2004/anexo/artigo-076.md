@@ -2,4 +2,4 @@
 
 ### Suspensão da assembleia
 
-O juiz pode decidir a suspensão dos trabalhos da assembleia, determinando que os mesmos sejam retomados num dos 15 dias úteis seguintes.
+O juiz pode, por uma única vez, decidir a suspensão dos trabalhos da assembleia e determinar que eles sejam retomados num dos cinco dias úteis seguintes.

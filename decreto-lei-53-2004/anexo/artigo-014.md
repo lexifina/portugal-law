@@ -2,7 +2,7 @@
 
 ### Recursos
 
-1 - No processo de insolvência, e nos embargos opostos à sentença de declaração de insolvência, não é admitido recurso dos acórdãos proferidos por tribunal da relação, salvo se o recorrente demonstrar que o acórdão de que pretende recorrer está em oposição com outro, proferido por alguma das relações, ou pelo Supremo Tribunal de Justiça, no domínio da mesma legislação e que haja decidido de forma divergente a mesma questão fundamental de direito e não houver sido fixada pelo Supremo, nos termos dos artigos 686.º e 687.º do Código de Processo Civil, jurisprudência com ele conforme.
+1 - No processo de insolvência, e nos embargos opostos à sentença de declaração de insolvência, não é admitido recurso dos acórdãos proferidos por tribunal da relação, salvo se o recorrente demonstrar que o acórdão de que pretende recorrer está em oposição com outro, proferido por alguma das relações, ou pelo Supremo Tribunal de Justiça, no domínio da mesma legislação e que haja decidido de forma divergente a mesma questão fundamental de direito e não houver sido fixada pelo Supremo, nos termos dos artigos 732.º-A e 732.º-B do Código de Processo Civil, jurisprudência com ele conforme.
 
 2 - Em todos os recursos interpostos no processo ou em qualquer dos seus apensos, o prazo para alegações é um para todos os recorrentes, correndo em seguida um outro para todos os recorridos.
 

@@ -6,7 +6,7 @@
 
 ### Coligação
 
-1 - Incorrendo ambos os cônjuges em situação de insolvência, e não sendo o regime de bens o da separação, é lícito aos cônjuges apresentarem-se conjuntamente à insolvência, ou o processo ser instaurado contra ambos, a menos que perante o requerente seja responsável um só deles.
+1 - Incorrendo marido e mulher em situação de insolvência, e não sendo o regime de bens o da separação, é lícito aos cônjuges apresentarem-se conjuntamente à insolvência, ou o processo ser instaurado contra ambos, a menos que perante o requerente seja responsável um só deles.
 
 2 - Se o processo for instaurado contra um dos cônjuges apenas, pode o outro, desde que com a anuência do seu consorte, mas independentemente do acordo do requerente, apresentar-se à insolvência no âmbito desse processo; se, porém, já se tiver iniciado o incidente de aprovação de um plano de pagamentos, a intervenção apenas é admitida no caso de o plano não ser aprovado ou homologado.
 
@@ -16,7 +16,7 @@ a) Envolve confissão da situação de insolvência do apresentante apenas se a 
 
 b) Suspende qualquer processo de insolvência anteriormente instaurado apenas contra o apresentante e em que a insolvência não haja sido já declarada, se for acompanhada de confissão expressa da situação de insolvência ou caso seja apresentada pelos cônjuges uma proposta de plano de pagamentos.
 
-4 - Apresentando-se ambos os cônjuges à insolvência, ou correndo contra ambos o processo instaurado por terceiro:
+4 - Apresentando-se marido e mulher à insolvência, ou correndo contra ambos o processo instaurado por terceiro:
 
 a) A apreciação da situação de insolvência de ambos os cônjuges consta sempre da mesma sentença;
 

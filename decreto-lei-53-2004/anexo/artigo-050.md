@@ -2,7 +2,7 @@
 
 ### Créditos sob condição
 
-1 - Para efeitos deste Código consideram-se créditos sob condição suspensiva e resolutiva, respetivamente, aqueles cuja constituição ou subsistência se encontrem sujeitos à verificação ou à não verificação de um acontecimento futuro e incerto, por força da lei, de decisão judicial ou de negócio jurídico.
+1 - Para efeitos deste Código consideram-se créditos sob condição suspensiva e resolutiva, respectivamente, aqueles cuja constituição ou subsistência se encontrem sujeitos à verificação ou à não verificação de um acontecimento futuro e incerto tanto por força da lei como de negócio jurídico.
 
 2 - São havidos, designadamente, como créditos sob condição suspensiva:
 

@@ -10,7 +10,7 @@ b) Dos respectivos estatutos não constem quaisquer restrições à transmissibi
 
 c) Dos respectivos estatutos conste a obrigatoriedade de ser requerida a admissão imediata das acções à cotação a mercado regulamentado, ou logo que verificados os requisitos exigidos;
 
-d) Dos respetivos estatutos conste a insuscetibilidade de uma alteração que contrarie o disposto nas alíneas b) e c), exceto por unanimidade, enquanto a sociedade mantiver ações admitidas à negociação em mercado regulamentado.
+d) Dos respectivos estatutos conste a insusceptibilidade de uma alteração que contrarie o disposto nas alíneas b) e c), excepto por unanimidade, enquanto a sociedade mantiver a qualidade de sociedade aberta.
 
 2 - O preço de exercício das opções de compra referidas no número anterior é igual ao valor nominal dos créditos empregues na liberação das acções a adquirir; o exercício das opções por parte dos titulares de créditos de certo grau faz caducar, na proporção que couber, as opções atribuídas aos titulares de créditos de grau hierarquicamente superior, pressupondo o pagamento a estes últimos do valor nominal dos créditos extintos por contrapartida da atribuição das opções caducadas.
 

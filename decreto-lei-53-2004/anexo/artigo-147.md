@@ -1,8 +1,8 @@
 # Artigo 147.º
 
-### Caducidade dos efeitos do protesto
+### Falta de assinatura do protesto ou caducidade dos seus efeitos
 
-Se os efeitos do protesto caducarem, observa-se o seguinte:
+Se o autor não assinar termo de protesto ou os efeitos deste caducarem, observa-se o seguinte:
 
 a) Tratando-se de acção para a verificação de crédito, o credor só adquire direito a entrar nos rateios posteriores ao trânsito em julgado da respectiva sentença pelo crédito que venha a ser verificado, ainda que de crédito garantido ou privilegiado se trate;
 

@@ -6,4 +6,4 @@
 
 2 - Relativamente aos credores avisados por carta registada, o prazo de 10 dias conta-se a partir do 3.º dia útil posterior à data da respectiva expedição.
 
-3 - Se não houver impugnações, é de imediato proferida sentença de verificação e graduação dos créditos, em que, salvo o caso de erro manifesto, se homologa a lista de credores reconhecidos elaborada pelo administrador da insolvência e se graduam os créditos em atenção ao que conste dessa lista, podendo o juiz, caso concorde com a proposta de graduação elaborada pelo administrador da insolvência, homologar a mencionada proposta.
+3 - Se não houver impugnações, é de imediato proferida sentença de verificação e graduação dos créditos, em que, salvo o caso de erro manifesto, se homologa a lista de credores reconhecidos elaborada pelo administrador da insolvência e se graduam os créditos em atenção ao que conste dessa lista.

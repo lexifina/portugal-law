@@ -8,4 +8,4 @@
 
 3 - Com o registo do encerramento do processo após o rateio final, a sociedade considera-se extinta.
 
-4 - No caso de encerramento por insuficiência da massa insolvente, a liquidação da sociedade prossegue nos termos do regime jurídico dos procedimentos administrativos de dissolução e de liquidação de entidades comerciais, devendo o juiz comunicar o encerramento e o património da sociedade ao serviço de registo competente.
+4 - No caso de encerramento por insuficiência da massa, a liquidação da sociedade prossegue, nos termos gerais.

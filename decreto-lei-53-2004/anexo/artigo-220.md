@@ -2,7 +2,7 @@
 
 ### Fiscalização
 
-1 - O plano de insolvência que implique o encerramento do processo pode prever que a sua execução seja fiscalizada pelo administrador da insolvência e que a autorização deste seja necessária para a prática de determinados atos pelo devedor ou pela nova sociedade ou sociedades; é aplicável neste último caso, com as devidas adaptações, o disposto no n.º 6 do artigo 81.º
+1 - O plano de insolvência que implique o encerramento do processo pode prever que a sua execução seja fiscalizada pelo administrador da insolvência e que a autorização deste seja necessária para a prática de determinados actos pelo devedor ou da nova sociedade ou sociedades; é aplicável neste último caso, com as devidas adaptações, o disposto no n.º 6 do artigo 81.º
 
 2 - O administrador da insolvência:
 

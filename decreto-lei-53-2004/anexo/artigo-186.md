@@ -22,9 +22,9 @@ g) Prosseguido, no seu interesse pessoal ou de terceiro, uma exploração defici
 
 h) Incumprido em termos substanciais a obrigação de manter contabilidade organizada, mantido uma contabilidade fictícia ou uma dupla contabilidade ou praticado irregularidade com prejuízo relevante para a compreensão da situação patrimonial e financeira do devedor;
 
-i) Incumprido, de forma reiterada, os seus deveres de apresentação e de colaboração previstos no artigo 83.º até à data da elaboração do parecer referido no n.º 6 do artigo 188.º
+i) Incumprido, de forma reiterada, os seus deveres de apresentação e de colaboração até à data da elaboração do parecer referido no n.º 2 do artigo 188.º
 
-3 - Presume-se unicamente a existência de culpa grave quando os administradores, de direito ou de facto, do devedor que não seja uma pessoa singular tenham incumprido:
+3 - Presume-se a existência de culpa grave quando os administradores, de direito ou de facto, do devedor que não seja uma pessoa singular tenham incumprido:
 
 a) O dever de requerer a declaração de insolvência;
 

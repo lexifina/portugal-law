@@ -2,9 +2,9 @@
 
 ### Cessão do rendimento disponível
 
-1 - Não havendo motivo para indeferimento liminar, é proferido o despacho inicial, na assembleia de apreciação do relatório, ou nos 10 dias subsequentes a esta ou ao decurso dos prazos previstos no n.º 4 do artigo 236.º
+1 - Não havendo motivo para indeferimento liminar, é proferido o despacho inicial, na assembleia de apreciação do relatório, ou nos 10 dias subsequentes.
 
-2 - O despacho inicial determina que, durante os três anos subsequentes ao encerramento do processo de insolvência, neste capítulo designado por período da cessão, o rendimento disponível que o devedor venha a auferir se considera cedido a entidade, neste capítulo designada por fiduciário, escolhida pelo tribunal de entre as inscritas na lista oficial de administradores da insolvência, nos termos e para os efeitos do artigo seguinte.
+2 - O despacho inicial determina que, durante os cinco anos subsequentes ao encerramento do processo de insolvência, neste capítulo designado período da cessão, o rendimento disponível que o devedor venha a auferir se considera cedido a entidade, neste capítulo designada fiduciário, escolhida pelo tribunal de entre as inscritas na lista oficial de administradores da insolvência, nos termos e para os efeitos do artigo seguinte.
 
 3 - Integram o rendimento disponível todos os rendimentos que advenham a qualquer título ao devedor, com exclusão:
 

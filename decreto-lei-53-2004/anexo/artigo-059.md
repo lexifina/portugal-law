@@ -8,6 +8,4 @@
 
 3 - O administrador da insolvência responde solidariamente com os seus auxiliares pelos danos causados pelos actos e omissões destes, salvo se provar que não houve culpa da sua parte ou que, mesmo com a diligência devida, se não teriam evitado os danos.
 
-4 - A responsabilidade do administrador da insolvência prevista nos números anteriores encontra-se limitada às condutas ou omissões danosas ocorridas após a sua nomeação.
-
-5 - A responsabilidade do administrador da insolvência prescreve no prazo de dois anos a contar da data em que o lesado teve conhecimento do direito que lhe compete, mas nunca depois de decorrido igual período sobre a data da cessação de funções.
+4 - A responsabilidade do administrador da insolvência prescreve no prazo de dois anos a contar da data em que o lesado teve conhecimento do direito que lhe compete, mas nunca depois de decorrido igual período sobre a data da cessação de funções.

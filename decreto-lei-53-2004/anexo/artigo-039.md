@@ -2,17 +2,17 @@
 
 ### Insuficiência da massa insolvente
 
-1 - Concluindo o juiz que o património do devedor não é presumivelmente suficiente para a satisfação das custas do processo e das dívidas previsíveis da massa insolvente e não estando essa satisfação por outra forma garantida, faz menção desse facto na sentença de declaração da insolvência, dando nela cumprimento apenas ao preceituado nas alíneas a) a d) e h) do n.º 1 do artigo 36.º, e, caso disponha de elementos que justifiquem a abertura do incidente de qualificação da insolvência, declara aberto o incidente de qualificação com caráter limitado, aplicando-se, com as necessárias adaptações, o disposto na alínea i) do n.º 1 do artigo 36.º
+1 - Concluindo o juiz que o património do devedor não é presumivelmente suficiente para a satisfação das custas do processo e das dívidas previsíveis da massa insolvente e não estando essa satisfação por outra forma garantida, faz menção desse facto na sentença de declaração da insolvência e dá nela cumprimento apenas ao preceituado nas alíneas a) a d) e h) do artigo 36.º, declarando aberto o incidente de qualificação com carácter limitado.
 
 2 - No caso referido no número anterior:
 
-a) Qualquer interessado pode pedir, no prazo de cinco dias, que a sentença seja complementada com as restantes menções do n.º 1 do artigo 36.º;
+a) Qualquer interessado pode pedir, no prazo de cinco dias, que a sentença seja complementada com as restantes menções do artigo 36.º;
 
 b) Aplica-se à citação, notificação, publicidade e registo da sentença o disposto nos artigos anteriores, com as modificações exigidas, devendo em todas as comunicações fazer-se adicionalmente referência à possibilidade conferida pela alínea anterior.
 
 3 - O requerente do complemento da sentença deposita à ordem do tribunal o montante que o juiz especificar segundo o que razoavelmente entenda necessário para garantir o pagamento das referidas custas e dívidas, ou cauciona esse pagamento mediante garantia bancária, sendo o depósito movimentado ou a caução accionada apenas depois de comprovada a efectiva insuficiência da massa, e na medida dessa insuficiência.
 
-4 - Requerido o complemento da sentença nos termos dos n.os 2 e 3, deve o juiz dar cumprimento integral ao artigo 36.º, observando-se em seguida o disposto no artigo 37.º e no artigo anterior, e prosseguindo com caráter pleno o incidente de qualificação da insolvência, sempre que ao mesmo haja lugar.
+4 - Requerido o complemento da sentença nos termos dos n.os 2 e 3, deve o juiz dar cumprimento integral ao artigo 36.º, observando-se em seguida o disposto nos artigos 37.º e 38.º, e prosseguindo com carácter pleno o incidente de qualificação da insolvência.
 
 5 - Quem requerer o complemento da sentença pode exigir o reembolso das quantias despendidas às pessoas que, em violação dos seus deveres como administradores, se hajam abstido de requerer a declaração de insolvência do devedor, ou o tenham feito com demora.
 
@@ -24,12 +24,8 @@ a) O devedor não fica privado dos poderes de administração e disposição do 
 
 b) O processo de insolvência é declarado findo logo que a sentença transite em julgado, sem prejuízo da tramitação até final do incidente limitado de qualificação da insolvência;
 
-c) O administrador da insolvência limita a sua atividade à elaboração do parecer a que se refere o n.º 6 do artigo 188.º;
+c) O administrador da insolvência limita a sua actividade à elaboração do parecer a que se refere o n.º 2 do artigo 188.º;
 
 d) Após o respectivo trânsito em julgado, qualquer legitimado pode instaurar a todo o tempo novo processo de insolvência, mas o prosseguimento dos autos depende de que seja depositado à ordem do tribunal o montante que o juiz razoavelmente entenda necessário para garantir o pagamento das custas e das dívidas previsíveis da massa insolvente, aplicando-se o disposto nos n.os 4 e 5.
 
 8 - O disposto neste artigo não é aplicável quando o devedor, sendo uma pessoa singular, tenha requerido, anteriormente à sentença de declaração de insolvência, a exoneração do passivo restante.
-
-9 - Para os efeitos previstos no n.º 1, presume-se a insuficiência da massa quando o património do devedor seja inferior a (euro) 5000.
-
-10 - Sendo o devedor uma sociedade comercial, aplica-se-lhe, com as necessárias adaptações, o disposto no n.º 4 do artigo 234.º

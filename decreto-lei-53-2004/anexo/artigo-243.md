@@ -10,7 +10,7 @@ b) Se apure a existência de alguma das circunstâncias referidas nas alíneas b
 
 c) A decisão do incidente de qualificação da insolvência tiver concluído pela existência de culpa do devedor na criação ou agravamento da situação de insolvência.
 
-2 - O requerimento apenas pode ser apresentado dentro dos seis meses seguintes à data em que o requerente teve ou poderia ter tido conhecimento dos fundamentos invocados, devendo ser oferecida logo a respetiva prova.
+2 - O requerimento apenas pode ser apresentado dentro do ano seguinte à data em que o requerente teve ou poderia ter tido conhecimento dos fundamentos invocados, devendo ser oferecida logo a respectiva prova.
 
 3 - Quando o requerimento se baseie nas alíneas a) e b) do n.º 1, o juiz deve ouvir o devedor, o fiduciário e os credores da insolvência antes de decidir a questão; a exoneração é sempre recusada se o devedor, sem motivo razoável, não fornecer no prazo que lhe seja fixado informações que comprovem o cumprimento das suas obrigações, ou, devidamente convocado, faltar injustificadamente à audiência em que deveria prestá-las.
 

@@ -20,9 +20,9 @@
 
 5 - A representação não se estende à intervenção do devedor no âmbito do próprio processo de insolvência, seus incidentes e apensos, salvo expressa disposição em contrário.
 
-6 - São ineficazes os actos realizados pelo insolvente em violação do disposto nos números anteriores, respondendo a massa insolvente pela restituição do que lhe tiver sido prestado apenas segundo as regras do enriquecimento sem causa, salvo se esses actos, cumulativamente:
+6 - São ineficazes os actos realizados pelo insolvente em contravenção do disposto nos números anteriores, respondendo a massa insolvente pela restituição do que lhe tiver sido prestado apenas segundo as regras do enriquecimento sem causa, salvo se esses actos, cumulativamente:
 
-a) Forem celebrados a título oneroso com terceiros de boa fé anteriormente ao registo da sentença da declaração de insolvência efectuado nos termos dos n.os 2 ou 3 do artigo 38.º, consoante os casos;
+a) Forem celebrados a título oneroso com terceiros de boa fé anteriormente ao registo da sentença da declaração de insolvência efectuado nos termos do n.º 2 do artigo 38.º;
 
 b) Não forem de algum dos tipos referidos no n.º 1 do artigo 121.º
 

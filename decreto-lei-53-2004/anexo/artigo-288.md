@@ -6,7 +6,7 @@
 
 ### Reconhecimento
 
-1 - A declaração de insolvência em processo estrangeiro, sempre que o centro dos principais interesses do devedor se situa fora de um Estado membro da União Europeia, é reconhecida em Portugal, salvo se:
+1 - A declaração de insolvência em processo estrangeiro é reconhecida em Portugal, salvo se:
 
 a) A competência do tribunal ou autoridade estrangeira não se fundar em algum dos critérios referidos no artigo 7.º ou em conexão equivalente;
 
