@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 26-D/2002
+Segundo comunicação do Ministério da Economia, a Portaria n.º 630/2002, publicada no Diário da República, 1.ª série, n.º 134, de 12 de Junho de 2002, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No anexo, na col. «Frequências - Costeira», no canal 68, onde se lê «165,425» deve ler-se «156,425», no canal 69, onde se lê «165,475» deve ler-se «156,475», no canal 70, onde se lê «165,525» deve ler-se «156,525», no canal 71, onde se lê «165,575» deve ler-se «156,575», no canal 73, onde se lê «165,675» deve ler-se «156,675» e, no canal 74, onde se lê «165,725» deve ler-se «156,725».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Julho de 2002. - Pelo Secretário-Geral, o Secretário-Geral-Adjunto, Eugénio Barata.
