@@ -1,0 +1,3 @@
+Resolução n.º 46/82
+O Conselho de Ministros para os Assuntos Económicos, reunido em 9 de Fevereiro de 1982, resolveu conceder o aval do Estado à empresa Construções Técnicas, S. A. R. L., para garantia do crédito, a inserir no contrato de viabilização, resultante da reestruturação de operações facultadas àquela empresa pelo Banco de Fomento Nacional, no montante de 279863 contos, acrescido dos juros vencidos até data da celebração do referido contrato de viabilização.
+Presidência do Conselho de Ministros, 9 de Fevereiro de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
