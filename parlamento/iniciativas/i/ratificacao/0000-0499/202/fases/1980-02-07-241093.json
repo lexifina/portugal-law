@@ -1,0 +1,122 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=EeydxMxWDACnKIdafO1gLuckTcPUKEzq1%2bHH3DxRj1tc2AQfc7RGac%2b4XdUghgos4hwJbWU%2fEsqic91pJfSy558GPhXV9oA5uyvzrB1qFVhCGEknXlWuTT8uRAklugoPfYrUiIlzLHhtSLkmSiI4%2bdYzFtfLATYK8agC7LMNmzinpm7uNNpbroIMRf9ffPjD%2fHACkBGVzah3bssnNnwPFdEjeiiy%2bEyzrNHvpOuJpm4ezAfTJczAjgs4mgA8L35izjUTV1PadybFpEpUVN%2b8NcOO6c8ymJZXTt07TVuJC87qb6GzDk6zmf29WVzsGKDDbWRGOt9g%2brwMTLOTxaLPAw%3d%3d&fich=IniciativasIB_json.txt&Inline=true",
+  "ficheiro_sha256": "8ce94fbc287b7e9dc94a4b6d2a0a9325847ce701b2894595086453b04b7c2e75",
+  "legislatura": "I",
+  "iniciativa": {
+    "tipo": "Ratificação",
+    "numero": "202",
+    "id": "32589",
+    "titulo": "Ratificação do Decreto-Lei nº 513-A/79, de 24 de Dezembro (determina que o IV Centenário da Morte de Luis de Camões seja comemorado durante todo o ano de 1980 e com início em 1 de Janeiro)."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "1980-02-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "1980-02-07",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Suspensão do Decreto-Lei.",
+    "OevId": "241093",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "347563",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1980-02-08",
+        "pubLeg": "I",
+        "pubNr": "14",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/01/04/014/1980-02-08?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "347564",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1980-02-13",
+        "pubLeg": "I",
+        "pubNr": "15",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/01/04/015/1980-02-13?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "362010",
+        "obs": "Publicação do Projecto de Resolução de Suspensão do Decreto-Lei.",
+        "pag": [
+          "183-183"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1980-02-08",
+        "pubLeg": "I",
+        "pubNr": "20",
+        "pubSL": "4",
+        "pubTipo": "DAR II série",
+        "pubTp": "K",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/01/04/020/1980-02-08/183?pgs=183&org=PLC"
+      }
+    ],
+    "RecursoDeputados": [
+      "Álvaro Figueiredo (PPD)",
+      "Natália Correia (PSD)",
+      "Dinah Alhandra (PSD)",
+      "Pedro Roseta (PPD)",
+      "José Gago Vitorino (PPD)",
+      "José Theodoro da Silva (PPD)",
+      "Cardoso Ferreira (PPD)",
+      "Júlio Castro Caldas (PSD)",
+      "João Sousa Domingues (PSD)",
+      "Manuel Moreira (PSD)"
+    ],
+    "RecursoGP": [
+      "PSD"
+    ],
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1980-02-07",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PPM</I>, <I> PPD</I>, <I> CDS</I><BR>Contra:<I>MDP/CDE</I>, <I> PS</I>, <I> PCP</I>, <I> UDP</I><BR>Abstenção:<I>DR</I>",
+        "id": "48274",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "14",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
