@@ -1,0 +1,6 @@
+Aviso n.º 87/94
+Por ordem superior se torna público que o Governo dos Países Baixos apresentou junto do Secretário-Geral do Conselho da Europa uma declaração relativa à Convenção Europeia sobre Extradição, aberta à assinatura, em Paris, em 13 de Dezembro de 1957, segundo a qual os Governos do Reino dos Países Baixos e da Suécia concluíram, em 8 e 29 de Julho de 1992, por troca de notas, um acordo, previsto pelo artigo 27, parágrafo 4, da Convenção Europeia sobre Extradição, de 13 de Dezembro de 1957, relativo à extensão da Convenção às Antilhas Neerlandesas e a Aruba.
+O acordo entrou em vigor em 1 de Outubro de 1993.
+Relativamente a Portugal, a Convenção Europeia sobre Extradição foi aprovada para ratificação pela Resolução da Assembleia da República n.º 23/89 e ratificada pelo Decreto do Presidente da República n.º 57/89, de 21 de Agosto, conforme Diário da República, 1.ª série, n.º 191, de 21 de Agosto de 1989.
+Foi publicado aviso de que Portugal depositou o instrumento de ratificação, com declaração e reservas à Convenção, segundo Diário da República, 1.ª série, n.º 76, de 31 de Março de 1990.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 16 de Fevereiro de 1994. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
