@@ -1,0 +1,9 @@
+Aviso
+Por ordem superior se torna público ter o Governo Canadiano feito, em conformidade com o artigo 45, parágrafos 3 e 5, da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, uma notificação em 11 de Fevereiro de 1986, recebida no Ministério dos Negócios Estrangeiros do Reino dos Países Baixos em 12 de Fevereiro de 1986, segundo a qual aquele Governo estendeu, de acordo com o artigo 40 da mencionada Convenção, a aplicação da mesma à Ilha do Príncipe Eduardo.
+A declaração canadiana estendendo a aplicação da dita Convenção à província da Ilha do Príncipe Eduardo contém as declarações e reservas seguintes:
+A autoridade central. - Conforme as disposições do artigo 6, alínea 2, o Ministério da Justiça e Procurador-Geral da Ilha do Príncipe Eduardo é designado como autoridade central para a província da Ilha do Príncipe Eduardo.
+Reserva. - Conforme as disposições do artigo 42 e por aplicação do artigo 26, alínea 3, o Governo Canadiano declara que, no que respeita às petições concernentes à província da Ilha do Príncipe Eduardo, o Canadá não tomará a seu cargo senão as despesas visadas na alínea 2 do artigo 26, a não ser na medida em que estas despesas sejam cobertas pelo sistema da ajuda jurídica da Ilha do Príncipe Eduardo.
+Outras reservas e declarações. - O Governo Canadiano declara que pode propor a todo o momento outras reservas e declarações, em virtude dos artigos 6, 40 e 42 da Convenção, a respeito de outras unidades territoriais.
+Conforme o artigo 43, parágrafo 2, a Convenção entrará em vigor para a província da Ilha do Príncipe Eduardo em 1 de Maio de 1986.
+Portugal é Parte no instrumento diplomático em questão.
+Secretaria-Geral do Ministério, 5 de Maio de 1986. - O Director do Serviço Jurídico e de Tratados, Fernão Manuel Homem de Gouveia Favila Vieira.
