@@ -1,0 +1,8 @@
+Despacho Normativo n.º 297/82
+1 - Pela Resolução do Conselho de Ministros n.º 109/82, publicada no Diário da República, 1.ª série, n.º 156, de 9 de Julho de 1982, foi distribuída a dotação orçamental de 17000 milhões de escudos para aumentos de capital estatutário das empresas públicas em 1982.
+2 - Através da mesma resolução do Conselho de Ministros foram atribuídos 1500 milhões de escudos à QUIMIGAL e 950 milhões de escudos à Siderurgia Nacional para financiamento dos respectivos programas de investimento.
+3 - Considerando que face à revisão dos instrumentos previsionais de gestão da Siderurgia Nacional não se revela indispensável a atribuição no corrente ano a esta empresa da dotação de capital que se encontrava prevista;
+Considerando, ainda, que a verba atribuída à QUIMIGAL carece de ser reforçada face à actual estrutura financeira da empresa e aos compromissos oportunamente assumidos pelo Estado por força dos investimentos levados a cabo pela empresa, designadamente ao abrigo dos Decretos-Leis n.os 425/78 e 346/80:
+Determina-se que a dotação atribuída à Siderurgia Nacional, pela Resolução do Conselho de Ministros n.º 109/82, seja atribuída à QUIMIGAL, acrescentando ao n.º 4 do Despacho Normativo n.º 113/82, de 31 de Maio, o seguinte:
+É atribuída igualmente à QUIMIGAL uma verba de 950 milhões de escudos para cobertura do imobilizado resultante dos investimentos levados a cabo em anos anteriores.
+Ministérios das Finanças e do Plano e da Indústria, Energia e Exportação, 27 de Dezembro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, José Cândido Sousa Carrusca Robin de Andrade, Secretário de Estado das Finanças. - Pelo Ministro da Indústria, Energia e Exportação, Alberto António Justiniano, Secretário de Estado da Indústria.
