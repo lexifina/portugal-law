@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=htpYpETdXfgHmO4bgl5XKGQk%2bkZ1UWePwKPL0a952OEb3q68QQJu%2fuE3NuR8L9cT16ct5X3RKqJkceDCyhfVGNPxhHXgbN1eGmi%2f%2fdU0g60yGc2cs%2bn1DMAEwQhj%2bKKB5yX47cODyxeVMUfaXI003Z9keT2kp2rW%2f7kxaUXxrVSf%2brEumAdcCbsQWmtnV66GATPJkIrBDauZqW%2fTWFG8va1dk%2bkmTLKSlM5McQDTmE0NcJE1JnQKMHMv4M0dnjHF6CV6z0vn0bWDxqqYFeDaU5FrwkU826iJw3qNEXisf524qng2dAL%2fTUTvJ5%2b5vdrQNfCO0dMi3U4dP2xTk2nscBJCzFAYe7g9Oj019EJl5HstUW53s7KuzZRGevOeN9LIKt96NeIqRpBfgUg0UQzT5g%3d%3d&fich=RequerimentosVII_json.txt&Inline=true",
+  "ficheiro_sha256": "c4242ebf0e6e244b5787c9940684dff06969f806e8cf9a27eebd15d714e35117",
+  "legislatura": "VII",
+  "id": "18713",
+  "tipo": "Requerimento",
+  "numero": "846",
+  "data_registo": "1999-06-17",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "CURSOS DE COMPLEMENTO DE FORMACAO NO ALGARVE",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "2252",
+        "nome": "Jovita Ladeira"
+      }
+    ],
+    "DataEnvio": "1999-06-20",
+    "Destinatarios": [
+      {
+        "dataEnvio": "1999-06-20",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministério da Educação",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": null,
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "1999-06-17",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764e464e4d4c7a67314e444d345a4468684c5745354d7a59744e474a684f4331694e7a51354c5463344e6a56694d54466d595459304d6935775a47593d&fich=85438d8a-a936-4ba8-b749-7865b11fa642.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "18713",
+    "Legislatura": "VII",
+    "Nr": "846",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "32625",
+        "obs": "284-(4)",
+        "pag": [
+          "284-(4)-284-(4)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "1999",
+        "pubLeg": "VII",
+        "pubNr": "34",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/04/034S1/1999-06-26/284-(4)?pgs=284-(4)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": [
+      {
+        "dataResposta": null,
+        "docRemetida": null,
+        "entidade": "Secretaria de Estado do Ensino Superior",
+        "ficheiro": "",
+        "ficheiroComTipo": null,
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "166449",
+            "obs": "358-(33)",
+            "pag": [
+              "358-(33)-358-(33)"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "1999",
+            "pubLeg": "VII",
+            "pubNr": "38",
+            "pubSL": "4",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/04/038S1/1999-07-24/358-(33)?pgs=358-(33)&org=PLC"
+          }
+        ]
+      }
+    ],
+    "Sessao": "4",
+    "Tipo": "Requerimento"
+  }
+}
