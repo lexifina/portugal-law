@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público, em aditamento ao aviso publicado no Diário do Governo, 1.ª série, n.º 109, de 8 de Maio de 1969, que, segundo o Ministério dos Negócios Estrangeiros dos Países Baixos informou, o Governo do Reino Unido designou o governador e comandante-chefe das ilhas Bermudas ou Somers, ou qualquer membro do seu conselho que assine por sua ordem e usando o seu selo oficial, para emitir a apostila prevista na Convenção Relativa à Supressão da Exigência da Legalização dos Actos Públicos Estrangeiros, concluída na Haia em 5 de Outubro de 1961.
+Secretaria-Geral do Ministério, 6 de Maio de 1970. - O Secretário-Geral, José Luís Archer.
