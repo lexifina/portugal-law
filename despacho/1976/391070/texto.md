@@ -1,0 +1,9 @@
+Despacho
+1. Pelo Decreto-Lei n.º 683/76, de 10 de Setembro, em que se fixou a orgânica do Governo, transitaram para a Secretaria de Estado da Integração Administrativa as funções que estavam cometidas à Secretaria de Estado da Descolonização do extinto Ministério da Cooperação, em cuja dependência funcionava a delegação do Governo de Timor.
+2. O volume de expediente a cargo dessa delegação vem sendo progressivamente reduzido, podendo ser hoje executado pelas Direcções-Gerais de Administração Civil e de Fazenda desta Secretaria de Estado, no âmbito de cujas funções o mesmo expediente se situa.
+3. Em conformidade, determina-se:
+a) É extinta, a partir de 1 de Janeiro de 1977, a delegação do Governo de Timor em Lisboa, criada por despacho de 22 de Outubro de 1975 do Secretário de Estado da Descolonização;
+b) Os assuntos da competência da delegação passam, conforme a sua natureza, para as Direcções-Gerais de Administração Civil e de Fazenda;
+c) O pessoal que presta serviço na delegação, constituído por funcionários do quadro geral de adidos em situação de actividade no mesmo quadro, considera-se destacado, enquanto necessário, nos serviços da Secretaria de Estado da Integração Administrativa para os quais transitarem as respectivas funções, com excepção daqueles que desde já se considerem dispensáveis, e cujo destacamento cessará a partir de 31 de Dezembro de 1976;
+d) A documentação, mobiliário e restante material serão distribuídos pelos apropriados serviços da Secretaria de Estado da Integração Administrativa, tendo em vista a sua proveniência e a necessidade do serviço, mediante guias de entrega a elaborar pelo actual chefe da delegação.
+Ministério da Administração Interna, 18 de Dezembro de 1976. - O Secretário de Estado da Integração Administrativa, João Cristóvão Moreira.
