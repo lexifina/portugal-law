@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em 10 de Junho de 1980 o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte notificou o Governo do Reino dos Países Baixos de que tinha designado o «Master (Queen's Bench and Appeals», Royal Courts of Justice, Belfast 1, como autoridade competente para a Irlanda do Norte, nos termos do artigo 18 da Convenção da Haia de 18 de Março de 1970 sobre a Obtenção de Provas no Estrangeiro em Matéria Civil e Comercial, e como autoridade adicional para a Irlanda do Norte, de harmonia com o artigo 24 da mesma Convenção, de que Portugal já é parte.
+Secretaria-Geral do Ministério, 11 de Julho de 1980. - O Chefe dos Serviços Jurídicos e de Tratados, Rui Eduardo Barbosa de Medina.
