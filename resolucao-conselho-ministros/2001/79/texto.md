@@ -1,0 +1,9 @@
+Resolução do Conselho de Ministros n.º 79/2001
+A Assembleia Municipal de Tabuaço aprovou, em 28 de Dezembro de 2000, sob proposta da Câmara Municipal, a prorrogação do prazo de vigência, por mais um ano, das medidas preventivas para a área de intervenção do futuro Plano de Urbanização de Tabuaço, ratificadas pela Resolução do Conselho de Ministros n.º 31/99, de 26 de Abril.
+Nos termos do disposto no n.º 9 do artigo 112.º do Decreto-Lei n.º 380/99, de 22 de Setembro, a prorrogação das medidas preventivas está sujeita às regras aplicáveis ao seu estabelecimento.
+O estabelecimento das medidas preventivas para a área de intervenção do futuro Plano de Urbanização de Tabuaço obedeceu ao disposto no artigo 7.º do Decreto-Lei n.º 69/90, de 2 de Março, o qual remetia para o regime do Decreto-Lei n.º 794/76, de 5 de Novembro, em virtude do qual o Plano Director Municipal de Tabuaço, ratificado pela Resolução do Conselho de Ministros n.º 108/94, publicada no Diário da República, 1.ª série-B, n.º 251, de 29 de Outubro de 1994, ficou suspenso na área de intervenção das medidas preventivas por se encontrar inadequado às perspectivas reais de desenvolvimento e expansão do aglomerado urbano de Tabuaço.
+Considerando o disposto no n.º 9 do artigo 112.º do Decreto-Lei n.º 380/99, de 22 de Setembro, e no n.º 2 do artigo 7.º do Decreto-Lei n.º 69/90, de 2 de Março:
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Ratificar a prorrogação do prazo de vigência, por mais um ano, a partir de 27 de Abril de 2001, das medidas preventivas estabelecidas para a área de intervenção do futuro Plano de Urbanização de Tabuaço, ratificadas pela Resolução do Conselho de Ministros n.º 31/99, de 26 de Abril, mantendo-se o Plano Director Municipal de Tabuaço suspenso para a respectiva área por igual período.
+Presidência do Conselho de Ministros, 21 de Junho de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
