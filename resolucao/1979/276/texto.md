@@ -1,0 +1,8 @@
+Resolução n.º 276/79
+A cessação da intervenção do Estado nas sociedades do grupo Prainha foi determinada pela Resolução do Conselho de Ministros n.º 67/79, de 14 de Fevereiro, publicada no Diário da República, 1.ª série, n.º 57, de 9 de Março de 1979.
+A degradação verificada na situação económica e financeira do grupo gerou situações de tal maneira complexas que não foi possível executar no prazo previsto algumas das determinações constantes da resolução do Conselho de Ministros atrás referida.
+Tornando-se necessário manter as condições criadas para a viabilização do grupo Prainha e tendo em conta a dificuldade das situações encontradas pelos respectivos corpos sociais e a sua importância no plano turístico:
+O Conselho de Ministros, reunido em 22 de Agosto de 1979, resolveu:
+1 - Prorrogar, com efeitos a partir de 31 de Julho de 1979, até 30 de Outubro de 1979 o prazo referido no n.º 4 da Resolução n.º 67/79, de 14 de Fevereiro, publicada no Diário da República, 1.ª série, n.º 57, de 9 de Março de 1979, data limite para que os corpos sociais do grupo Prainha apresentem à instituição bancária maior credora todos os elementos necessários à celebração de um ou mais contratos de viabilização nos termos do disposto no Decreto-Lei n.º 124/77, de 1 de Abril, e demais legislação aplicável.
+2 - Ao abrigo do disposto no artigo único do Decreto-Lei n.º 74-B/79, de 5 de Abril, prorrogar por cento e oitenta dias os prazos fixados nos n.os 8 e 12 da referida Resolução n.º 67/79.
+Presidência do Conselho de Ministros, 22 de Agosto de 1979. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo.
