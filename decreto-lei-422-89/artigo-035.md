@@ -2,7 +2,7 @@
 
 ### Acesso às salas de jogos tradicionais
 
-1 - O acesso às salas de jogos tradicionais é sujeito à obtenção de cartão ou documento equivalente, podendo a concessionária cobrar um preço pela emissão daquele cartão, cujo valor, único para cada tipo de cartão, deve ser comunicado à Inspecção-Geral de Jogos com oito dias de antecedência.
+1 - O acesso às salas de jogos tradicionais e às salas a que se refere a alínea b) do n.º 2 do artigo 32.º é sujeito à obtenção de cartão ou documento equivalente, devendo as concessionárias cobrar um preço pela emissão daquele cartão, cujo valor, único para cada tipo de cartão, deve ser comunicado à Inspecção-Geral de Jogos com oito dias de antecedência.
 
 2 - As operações de emissão, autenticação, controlo e obliteração dos cartões referidos no n.º 1 e o seu processamento deverão ser feitos por processos automáticos.
 

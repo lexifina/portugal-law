@@ -4,7 +4,9 @@
 
 1 - Sobre os jogos não bancados o imposto é constituído por uma percentagem incidente sobre a receita cobrada dos pontos, fixada da seguinte forma:
 
-Funchal, Açores, Algarve, Troia, Vidago-Pedras Salgadas e Porto Santo - 5 %, 6 % e 7,5 % sobre a receita cobrada dos pontos, respetivamente, para o 1.º, 2.º e 3.º quinquénios, 10 % nos 4.º e 5.º quinquénios e 20 % nos demais quinquénios;
+Funchal, Algarve, Tróia, Vidago-Pedras Salgadas e Porto Santo - 5%, 6% e 7,5% sobre a receita cobrada dos pontos, respectivamente para o 1.º, 2.º e 3.º quinquénios, 10% nos 4.º e 5.º quinquénios e 20% nos demais quinquénios;
+
+Restantes zonas - 20%.
 
 2 - Sobre as receitas do jogo do bingo incidem as seguintes percentagens:
 

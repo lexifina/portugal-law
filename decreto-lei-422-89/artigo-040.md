@@ -1,14 +1,14 @@
 # Artigo 40.º
 
-### Cartões de acesso às salas de jogos tradicionais
+### Cartões de acesso às salas de jogos tradicionais e às salas mistas
 
 1 - Os cartões de acesso às salas de jogos tradicionais são de modelos A e B.
 
-2.(Revogado.)
+2 - Os cartões de acesso às salas mistas são de modelo C, sem prejuízo de o acesso a tais salas poder efectuar-se com os cartões de modelos A e B.
 
 3 - O prazo de validade dos cartões modelo A é o correspondente ao período compreendido entre a data da emissão e 31 de Dezembro do ano respectivo, sendo sempre referido a 3, 6, 9 ou 12 meses.
 
-4 - O prazo de validade dos cartões modelo B é de 1, 8 ou 30 dias.
+4 - O prazo de validade dos cartões modelo B é de 1, 8 ou 30 dias e o dos cartões de modelo C é de 1 dia.
 
 5 - Os cartões a que se referem os números anteriores podem incluir fotografia e assinatura do respectivo titular.
 

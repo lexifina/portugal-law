@@ -30,8 +30,6 @@ Porto Santo - 1%;
 
 Póvoa de Varzim - 21%;
 
-Açores - 3 %.
-
 Bancas duplas:
 
 Algarve - 15%;
@@ -51,8 +49,6 @@ Vidago-Pedras Salgadas - 2,5%;
 Porto Santo - 2,5%;
 
 Póvoa de Varzim - 35%;
-
-Açores - 4,5 %.
 
 B) Jogos não bancados - quanto ao apuramento da receita cobrada dos pontos, proceder-se-á pela forma seguinte:
 

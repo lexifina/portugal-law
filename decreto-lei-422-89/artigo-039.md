@@ -2,7 +2,7 @@
 
 ### Documentos de identificação
 
-A prova dos elementos de identificação necessários à emissão de cartões de acesso às salas de jogos tradicionais poderá ser feita por qualquer dos documentos seguintes:
+A prova dos elementos de identificação necessários à emissão de cartões de acesso às salas de jogos tradicionais e às salas a que se refere a alínea b) do n.º 2 do artigo 32.º poderá ser feita por qualquer dos documentos seguintes:
 
 a) Em relação a residentes no território português, por:
 

@@ -8,7 +8,7 @@ a) Dos titulares dos órgãos de soberania, bem como dos ministros da República
 
 b) Dos titulares dos órgãos de governo das regiões autónomas;
 
-c) (Revogada.)
+c) Do governador civil do distrito onde esteja situada a sala de jogo;
 
 d) Dos presidentes da assembleia municipal e da câmara municipal do município em que se localize a sala de jogo;
 
