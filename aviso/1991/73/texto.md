@@ -1,0 +1,4 @@
+Aviso n.º 73/91
+Por ordem superior se torna público que o Governo da República Socialista da Checoslováquia depositou junto da Secretária-Geral do Conselho da Europa, em 26 de Março de 1991, o instrumento de ratificação da Convenção Europeia Relativa à Equivalência de Diplomas Dando Acesso aos Estabelecimentos Universitários (STE n.º 15), aberta à assinatura em Paris a 11 de Dezembro de 1953.
+À data de 26 de Março de 1991 era signatária desta Convenção a República de São Marino e tinham-na ratificado os seguintes Estados: Alemanha, Áustria, Bélgica, Checoslováquia, Chipre, Dinamarca, Espanha, França, Grécia, Irlanda, Islândia, Israel, Itália, Jugoslávia, Luxemburgo, Malta, Noruega, Nova Zelândia, Países Baixos, Portugal, Reino Unido, Suécia e Turquia.
+Direcção-Geral dos Negócios Político-Económicos, 3 de Maio de 1991. - O Director de Serviços das Relações Culturais Bilaterais, José Manuel Santos Braga.
