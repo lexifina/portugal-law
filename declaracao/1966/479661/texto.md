@@ -1,0 +1,3 @@
+Declaração
+Para os devidos efeitos se declara que o Conselho de Ministros, por despacho de 16 de Dezembro de 1965, tornou extensiva aos funcionários dos corpos administrativos com funções de secretaria e tesouraria a excepção prevista na alínea b) do despacho do mesmo Conselho de 23 de Outubro de 1956 (Diário do Governo, 1.ª série, de 29 do mesmo mês e ano), relativa ao exercício cumulativo de funções docentes eventuais. Em tais casos, a autorização para acumular será da competência do corpo administrativo ou da entidade a que os funcionários em causa estejam subordinados.
+Secretaria-Geral da Presidência do Conselho, 26 de Agosto de 1966. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
