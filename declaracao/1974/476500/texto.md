@@ -1,0 +1,13 @@
+Declaração
+Declara-se, para os devidos efeitos, que entre o original arquivado nesta Secretaria-Geral e o texto do Decreto-Lei n.º 268/74, publicado pelo Ministério da Coordenação Económica no Diário do Governo, 1.ª série, n.º 143, de 21 de Junho, existe a seguinte divergência, que assim se rectifica:
+No artigo 6.º, onde se lê:
+...
+Ministério das Finanças
+Capítulo 20.º, artigo 315.º
+...
+deve ler-se:
+...
+Ministério das Finanças
+Capítulo 20, artigo 315.º-A
+...
+Secretaria-Geral da Presidência do Conselho de Ministros, 26 de Junho de 1974. - O Secretário-Geral, Diogo de Paiva Brandão.
