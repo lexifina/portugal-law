@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1916/09/19700/09090909.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1916-09-28",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "e66f87687ecc4cb531e19d5142aaedde7f20c32f23e45b28bc1eb23f75aa0f41",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.5,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "88c936e32ba3b04c30e0360dc4dbcd1319dec3264b67886caefbd129d17a6212",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 279
 }
