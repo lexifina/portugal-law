@@ -1,0 +1,4 @@
+Portaria n.º 70/83
+de 26 de Janeiro
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Agricultura, Comércio e Pescas e da Reforma Administrativa, ao abrigo do disposto no artigo 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, criar no quadro da Direcção-Geral do Comércio Alimentar, a que se refere a alínea c) da Portaria n.º 955/80, de 10 de Novembro, 1 lugar de assessor, letra B, o qual será extinto quando vagar.
+Ministérios das Finanças e do Plano, da Agricultura, Comércio e Pescas e da Reforma Administrativa, 5 de Janeiro de 1983. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
