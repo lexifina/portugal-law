@@ -1,0 +1,5 @@
+Declaração
+Segundo comunicação do Ministério das Finanças, a declaração de alterações orçamentais publicada no Diário da República, 1.ª série, n.º 192, de 20 de Agosto de 1988, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Na epígrafe «08 - Ministério da Justiça», no total da coluna «Reforços ou inscrições», onde se lê «13000» deve ler-se «130000».
+Na epígrafe «16 - Ministério das Obras Públicas, Transportes e Comunicações», no cap. 04. div. 01, onde se lê «C. F. 8.03.3, C. E. 38.03 - Laboratório Nacional de Engenharia Civil» deve ler-se «C. F. 8.03.3, C. E. 38.03, al. 2 - Laboratório Nacional de Engenharia Civil», e no cap. 16, div. 01, onde se lê «C. F. 1.01.0, C. E. 31.00 - Administração geral» deve ler-se «C. F. 1.01.0, C. E. 31.00. al. D - Administração geral».
+Secretaria-Geral da Presidência do Conselho de Ministros, 8 de Setembro de 1988. - Pelo Secretário-Geral, o Director dos Serviços Administrativos, José Serra.
