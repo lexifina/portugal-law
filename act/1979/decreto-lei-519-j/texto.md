@@ -1,0 +1,12 @@
+Decreto-Lei n.º 519-J/79
+de 28 de Dezembro
+Os actos de terrorismo ocorridos na área do distrito de Évora originaram prejuízos no património de um militar da Guarda Nacional Republicana.
+A legislação em vigor não contempla casos desta natureza, mas razões de ordem moral justificam que aquele oficial seja ressarcido dos prejuízos que sofreu o seu património.
+Nestes termos;
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º É autorizada a concessão, a título de compensação definitiva, ao capitão José Joaquim Correia, da Guarda Nacional Republicana, do subsídio de 267000$00 pelos prejuízos que sofreu no seu património por actos de terrorismo ocorridos no dia 1 de Outubro de 1979.
+Art. 2.º Para efeitos do disposto no artigo anterior, a Secretaria-Geral processará a respectiva despesa em conta da seguinte verba, a inscrever no orçamento da Administração Interna para o ano de 1979: cap. 60, div. 01, C. E. 71.09, alínea b) «Despesas excepcionais - Secretaria-Geral - Outras despesas de capital - Diversas - Subsídios por actos de terrorismo», utilizando, como contrapartida, igual montante a sair da verba do cap. 60, artigo 71.00, C. E. 71.09 «Despesas excepcionais - Secretaria-Geral - Outras despesas de capital - Diversas», do mesmo orçamento.
+Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
+Promulgado em 22 de Dezembro de 1979.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
