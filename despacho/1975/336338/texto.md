@@ -1,0 +1,3 @@
+Despacho
+Determino que as Direcções-Gerais de Preços, do Comércio Interno e de Fiscalização Económica fiquem na directa dependência do Subsecretário de Estado do Comércio Interno, comandante Luís António Pessoa Brandão, o qual despachará todos os assuntos de carácter administrativo e financeiro relativos a essas Direcções-Gerais, bem como as decisões a que se refere o Decreto-Lei n.º 329-A/74, de 10 de Julho, para o que nele delego a minha competência legal.
+Secretaria de Estado do Abastecimento e Preços, 7 de Abril de 1975. - O Secretário de Estado do Abastecimento e Preços, José António da Conceição Neto.
