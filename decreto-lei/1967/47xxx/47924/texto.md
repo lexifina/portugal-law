@@ -1,0 +1,21 @@
+Decreto-Lei n.º 47924
+Tornando-se necessário completar com novos preceitos o Decreto-Lei n.º 47222, de 29 de Setembro de 1966;
+Considerando que, quer para assegurar a recepção, manutenção e assistência na metrópole dos deslocados do Estado Português da Índia, quer para executar as missões que superiormente lhe forem atribuídas, de acordo com o estabelecido no decreto-lei acima citado, se torna necessário dotar a Comissão Administrativa e de Assistência aos Deslocados de pessoal experimentado;
+Atendendo ainda que se torna conveniente, dentro do possível, manter ao serviço o pessoal que tem estado afecto a esta missão nos últimos cinco anos;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Por conta da dotação global a que se refere o artigo 7.º do Decreto-Lei n.º 47222, de 29 de Setembro de 1966, poderá o Ministro do Ultramar, por proposta do presidente da Comissão Administrativa e de Assistência aos Deslocados, requisitar pessoal de outros Ministérios ou serviços públicos.
+§ 1.º O Ministro do Ultramar designará por despacho, mediante proposta do presidente da Comissão, o funcionário que assumirá a direcção dos serviços administrativos e a dos centros a que se refere o artigo 3.º deste diploma, ao qual poderá atribuir uma gratificação de chefia, dependente do acordo do Ministro das Finanças.
+§ 2.º O funcionário referido no parágrafo anterior actuará de acordo com a orientação que lhe for traçada pelo presidente.
+Art. 2.º O Ministro do Ultramar, mediante proposta do presidente da Comissão, poderá contratar para prestação de serviço, nos termos do artigo 45.º, alínea c), do Estatuto do Funcionalismo Ultramarino, aprovado pelo Decreto n.º 46982, de 27 de Abril de 1966, o pessoal constante do quadro seguinte:
+(ver documento original)
+§ único. O pessoal a que se refere este artigo terá ainda direito a quaisquer regalias previstas na lei para os funcionários da respectiva categoria, incluindo o abono de família.
+Art. 3.º A Comissão Administrativa e de Assistência aos Deslocados fica autorizada a criar e manter centros de recepção e alojamento de deslocados, dotando-os do material e pessoal necessários.
+Art. 4.º A Comissão Administrativa e de Assistência aos Deslocados apresentará superiormente, até 30 de Junho, o pedido de dotação global para o ano imediato, devidamente justificado.
+§ único. Acompanhadas de relatórios referentes à actividade desenvolvida, as contas serão presentes à apreciação do Ministro do Ultramar até ao dia 31 de Janeiro do ano imediato àquele a que se referirem.
+Art. 5.º O expediente burocrático dos assuntos que devam ser presentes à apreciação da Comissão correrá pelo Gabinete dos Negócios Políticos e pela Direcção-Geral de Saúde e Assistência do Ministério do Ultramar, na parte que a cada um respeitar.
+§ único. O restante expediente correrá pelos serviços próprios da Comissão.
+Art. 6.º Os encargos resultantes da execução do presente decreto-lei serão satisfeitos por conta da verba global referida no artigo 7.º do Decreto-Lei n.º 47222, de 29 de Setembro de 1966.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 8 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.
