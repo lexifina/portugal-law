@@ -1,0 +1,3 @@
+Resolução n.º 39/82
+Conselho de Ministros, reunido em 11 de Fevereiro de 1982, resolveu, por proposta do Vice-Primeiro-Ministro e Ministro da Defesa Nacional e nos termos dos artigos 12.º do Estatuto de Indústrias Nacionais de Defesa, E. P. (INDEP), aprovado pelo Decreto-Lei n.º 515/80, de 31 de Outubro, e 32.º do Decreto-Lei n.º 260/76, de 8 de Abril, nomear, em comissão de serviço, vice-presidente do conselho de gerência da citada empresa pública o engenheiro Joaquim Martins Ferreira do Amaral, director-geral das Indústrias Electromecânicas, do Ministério da Indústria, Energia e Exportação.
+Presidência do Conselho de Ministros, 11 de Fevereiro de 1982. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
