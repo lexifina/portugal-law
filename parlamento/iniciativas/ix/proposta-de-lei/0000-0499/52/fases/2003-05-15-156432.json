@@ -1,0 +1,402 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "52",
+    "id": "19618",
+    "titulo": "Autoriza o Governo a fixar as condições de idoneidade e as incompatibilidades que condicionam o acesso e o exercício da actividade de inspecção técnica de veículos a motor e seus reboques."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2003-05-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2564",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2003-05-15",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-05-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADMINISTRACAO INTERNA",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Nuno Miranda Magalhaes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145574",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5119-5121",
+                  "5124-5125"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5119?pgs=5119-5121,5124-5125&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a fixar as condições de idoneidade e as incompatibilidades que condicionam o acesso e o exercício da actividade de inspecção técnica de veículos a motor e seus reboques",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1698",
+                "nome": "Miguel Anacoreta Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5121-5121"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5121?pgs=5121&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a fixar as condições de idoneidade e as incompatibilidades que condicionam o acesso e o exercício da actividade de inspecção técnica de veículos a motor e seus reboques",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1945",
+                "nome": "Carlos Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5121-5122"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5121?pgs=5121-5122&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a fixar as condições de idoneidade e as incompatibilidades que condicionam o acesso e o exercício da actividade de inspecção técnica de veículos a motor e seus reboques",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1407",
+                "nome": "Nelson Baltazar"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5122-5123"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5122?pgs=5122-5123&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a fixar as condições de idoneidade e as incompatibilidades que condicionam o acesso e o exercício da actividade de inspecção técnica de veículos a motor e seus reboques",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1698",
+                "nome": "Miguel Anacoreta Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145578",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5123-5123"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5123?pgs=5123&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a fixar as condições de idoneidade e as incompatibilidades que condicionam o acesso e o exercício da actividade de inspecção técnica de veículos a motor e seus reboques",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145579",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5123-5124"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5123?pgs=5123-5124&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a fixar as condições de idoneidade e as incompatibilidades que condicionam o acesso e o exercício da actividade de inspecção técnica de veículos a motor e seus reboques",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1242",
+                "nome": "João Moura de Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145580",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5125-5125"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-16",
+                "pubLeg": "IX",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16/5125?pgs=5125&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a fixar as condições de idoneidade e as incompatibilidades que condicionam o acesso e o exercício da actividade de inspecção técnica de veículos a motor e seus reboques",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "156432",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2564",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-05-16",
+        "pubLeg": "IX",
+        "pubNr": "121",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/121/2003-05-16?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
