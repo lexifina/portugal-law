@@ -1,0 +1,5 @@
+Despacho Normativo n.º 241/92
+Considerando que 1993 é o último ano de vigência do actual quadro comunitário de apoio e que, em consequência, se torna indispensável adoptar medidas de gestão financeira determinadas pela obrigatoriedade do encerramento dos programas do referido quadro;
+Tendo em atenção as atribuições cometidas ao Departamento para os Assuntos do Fundo Social Europeu pelo Decreto-Lei n.º 37/91, de 18 de Janeiro, e a delegação de competências constante do Despacho n.º 787/91, publicado no Diário da República, 2.ª série, de 27 de Dezembro de 1991:
+Determino que o pagamento dos saldos das acções de formação que no âmbito do actual quadro comunitário de apoio terminem no ano de 1993 tenha lugar imediatamente após a liquidação pela Comissão das Comunidades Europeias do saldo do programa em que aquelas acções se inserem.
+Ministério do Emprego e da Segurança Social, 14 de Outubro de 1992. - O Secretário de Estado do Emprego e Formação Profissional, António Morgado Pinto Cardoso.
