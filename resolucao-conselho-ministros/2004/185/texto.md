@@ -1,0 +1,18 @@
+Resolução do Conselho de Ministros n.º 185/2004
+Sob proposta da Câmara Municipal, a Assembleia Municipal de Vila Nova de Poiares aprovou, em 25 de Setembro de 2002 e 26 de Fevereiro de 2004, a suspensão parcial do Plano Director Municipal, pelo prazo de dois anos, designadamente a aplicação do n.º 1 do artigo 6.º e do n.º 1 do artigo 38.º do respectivo Regulamento.
+O Plano Director Municipal de Vila Nova de Poiares foi ratificado pela Resolução do Conselho de Ministros n.º 34/93, de 28 de Abril, e alterado pela deliberação da Assembleia Municipal de Vila Nova de Poiares de 17 de Setembro de 1999, publicada no Diário da República, 2.ª série, n.º 27, de 2 de Fevereiro de 2000.
+O município de Vila Nova de Poiares fundamenta a suspensão daquele instrumento de gestão territorial com a necessidade de construção urgente de um aeródromo municipal, na serra do Vidoeiro, freguesia de São Miguel de Poiares, por forma a melhorar as condições de operacionalidade perante as actuais exigências técnicas e logísticas dos meios aéreos envolvidos no combate a incêndios florestais. De facto, a serra do Vidoeiro beneficia de centralidade perante os municípios mais fustigados pelos incêndios na zona litoral centro do País, bem como da proximidade das albufeiras da Aguieira e das Fronhas.
+Verificam-se, assim, circunstâncias excepcionais resultantes de situações de fragilidade ambiental incompatíveis com as opções estabelecidas pelo Plano Director Municipal em vigor para a área em causa.
+A suspensão parcial do Plano Director Municipal de Vila Nova de Poiares incide sobre área incluída na Reserva Ecológica Nacional (REN) e que integra o perímetro florestal das serras de São Pedro Dias e Alveito, constituído por Decreto de 3 de Outubro de 1941, publicado no Diário do Governo, 2.ª série, n.º 231, de 3 de Outubro de 1941.
+Para os efeitos do disposto na alínea c) do artigo 4.º do Decreto-Lei n.º 93/90, de 19 de Março, com a redacção conferida pelo Decreto-Lei n.º 213/92, de 12 de Outubro, pelo despacho conjunto n.º 779/2003, de 24 de Julho, publicado no Diário da República, 2.ª série, n.º 187, de 14 de Agosto de 2003, foi reconhecido o interesse público da obra de construção do referido aeródromo para combate a fogos florestais.
+Exclui-se de ratificação a suspensão do n.º 1 do artigo 6.º do Regulamento do Plano Director Municipal, sob pena de violação do n.º 1 do artigo 4.º do Decreto-Lei n.º 93/90, de 19 de Março.
+Refira-se ainda que, por força do previsto no Decreto n.º 38/2003, de 25 de Agosto, foi excluída do regime florestal parcial uma parcela de terreno com a área de 27 ha, integrada no perímetro florestal das serras de São Pedro Dias e Alveito, destinada à construção do aeródromo da serra do Vidoeiro.
+A presente suspensão foi instruída com a colaboração da ex-Direcção Regional do Ambiente e do Ordenamento do Território - Centro.
+Considerando o disposto na alínea b) do n.º 2 do artigo 100.º, conjugado com o n.º 8 do artigo 80.º, do Decreto-Lei n.º 380/99, de 22 de Setembro, com a redacção conferida pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro:
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Ratificar a suspensão parcial do Plano Director Municipal de Vila Nova de Poiares, pelo prazo de dois anos, na área delimitada na planta anexa à presente resolução e que dela faz parte integrante, designadamente o n.º 1 do artigo 38.º do respectivo Regulamento.
+2 - Excluir de ratificação a suspensão do n.º 1 do artigo 6.º do Regulamento do Plano Director Municipal de Vila Nova de Poiares.
+Presidência do Conselho de Ministros, 2 de Dezembro de 2004. - O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
+
+(ver planta no documento original)
