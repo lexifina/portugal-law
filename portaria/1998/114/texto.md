@@ -1,0 +1,84 @@
+Portaria n.º 114/98
+de 28 de Fevereiro
+A Portaria n.º 134/94, de 4 de Março, submeteu às disposições do Regulamento de Comercialização de Materiais Florestais de Reprodução cinco espécies de interesse relevante para Portugal, como sejam Pinus pinaster Ait., Pinus pinea L., Quercus suber L., Castanea sativa Mill. e Eucalyptus globulus Labill.
+As exigências mínimas aplicáveis à comercialização de materiais florestais de reprodução para o pinheiro-Manso foram definidas pela Portaria n.º 991/95, de 17 de Agosto, que aprovou o Regulamento de Admissão de Material de Base e da Comercialização de Material de Reprodução de Pinheiro-Manso (Pinus pinea L.).
+No decurso da sua execução concluiu-se pela inadaptação das suas disposições à realidade, donde a necessidade de alterar, em grande parte, o Regulamento em causa.
+Assim:
+Ao abrigo do artigo 2.º do Decreto-Lei n.º 239/92, de 29 de Outubro:
+Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º É aprovado o Regulamento de Admissão de Material de Base e da Comercialização de Material de Reprodução de Pinheiro-Manso (Pinus pinea L.), anexo ao presente diploma e do qual faz parte integrante.
+2.º Esta portaria revoga, na totalidade, a Portaria n.º 991/95, de 17 de Agosto.
+Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
+Assinada em 30 de Janeiro de 1998.
+O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.
+
+ANEXO
+Regulamento de Admissão de Material de Base e da Comercialização de Material de Reprodução de Pinheiro-Manso (Pinus pinea L.).
+Artigo 1.º
+A espécie pinheiro-manso (Pinus pinea L.) está sujeita ao disposto neste Regulamento.
+Artigo 2.º
+As exigências relativas à admissão de materiais de base destinados à produção de materiais de reprodução e à comercialização destes são as estabelecidas no anexo ao presente Regulamento, do qual faz parte integrante.
+Artigo 3.º
+1 - As disposições do presente Regulamento aplicam-se:
+a) À comercialização de plantas a partir de Outubro de 1997;
+b) À comercialização de sementes a partir de 1 de Janeiro de 1998.
+2 - Até 1 de Outubro de 1998 admite-se a comercialização de sementes e de plantas sem observância do disposto neste Regulamento, desde que sejam objecto de documento oficial idêntico ao previsto no Regulamento da Certificação de Sementes a emitir pela Direcção-Geral das Florestas.
+3 - As sementes existentes em stock à data da publicação da presente portaria devem ser declaradas à Direcção-Geral das Florestas no prazo de 60 dias, sob pena de não ser emitido o documento previsto no número anterior.
+
+ANEXO
+Exigências relativas à admissão de material de base e à comercialização de material de reprodução de pinheiro-manso (Pinus pinea L.) para produção de fruto.
+1 - Material de base
+A) Povoamento (puros)
+1 - Material de base. - São admitidos como materiais de base os povoamentos autóctones ou não autóctones que tenham demonstrado a sua superioridade quanto à produção de fruto.
+2 - Identidade. - A identidade específica dos indivíduos que constituem o povoamento deverá ser garantida e constará da ficha de identificação do povoamento.
+3 - Pureza. - Os povoamentos deverão distar pelo menos 300 m de outros povoamentos da mesma espécie não inscritos no catálogo nacional.
+4 - Localização. - Os povoamentos deverão distar pelo menos 200 m de outros povoamentos da mesma espécie não inscritos no catálogo nacional.
+5 - Idade:
+5.1 - Para uma avaliação inequívoca da capacidade produtiva, os povoamentos que, não correspondendo à condição do número anterior, por serem constituídos por mais de 25% de indivíduos com idades correspondidas entre 20 e 35 anos, reúnam as características expressas nos n.os 7, 8, 9 e 10.
+6 - Efectivo da população:
+6.1 - A fim de proporcionar condições ideais para a frutificação, os povoamentos deverão ter densidades adequadas à idade do arvoredo, isto é, definidas do seguinte modo:
+6.1.1 - Povoamentos em plena produção com áreas de coberto compreendidas entre 50% e 60% deverão ter densidades inferiores ou iguais a 70 árvores por hectare.
+6.1.2 - São também admissíveis povoamentos em plena produção cuja área de coberto seja superior a 60%, desde que a densidade não exceda 200 árvores por hectare (e densidade mínima superior a 70 árvores por hectare).
+6.1.3 - Excepcionalmente, aceita-se a admissão provisória de povoamentos nas condições do disposto no n.º 5.1, cujas densidades estejam compreendidas entre 200 e 350 árvores por hectare.
+6.2 - Com o objectivo de garantir uma fecundação cruzada suficiente para evitar fenómenos de consanguinidade (endogamia) recomenda-se uma área mínima de 5 ha.
+7 - Produção de fruto:
+7.1 - A produtividade do povoamento deve, em qualquer circunstância, ser superior à produtividade que se considera como média para as regiões do mapa em anexo no ponto 4 - Regiões de proveniência. Para o efeito adoptam-se os seguintes valores médios por ciclo de produção:
+Região I - 60 pinhas/árvore/ano;
+Região II - 60 pinhas/árvore/ano;
+Região III - 60 pinhas/árvore/ano;
+Região IV - 300 pinhas/árvore/ano;
+Região V - 500 pinhas/árvore/ano.
+7.2 - Dado o carácter periódico da produção de fruto, a avaliação deste parâmetro deve ser feita em anos intermédios do ciclo de produção.
+7.3 - Em regiões marginais e submarginais não se aplica o disposto nos n.os 1 e 2. Nestas circunstâncias, boas condições relativamente ao estado sanitário, características da copa, vigor e boa produção para a região devem ser tidas por suficientes para a admissão provisória do povoamento.
+8 - Homogeneidade (da produção). - A percentagem mínima admissível de indivíduos de qualidade compatível com as exigências contidas no n.º 6 é de 50%.
+9 - Forma da copa. - Os povoamentos devem ser constituídos por árvores com copas equilibradas, bem desenvolvidas e desafogadas, manifestando pleno vigor.
+10 - Estado sanitário. - Os povoamentos deverão apresentar de uma forma geral bom estado sanitário, traduzido pela ausência de sintomas e sinais de pragas e doenças.
+B) Pomares
+Os pomares de sementes devem ser estabelecidos de tal modo que exista uma garantia suficiente para que as sementes ali produzidas representem, pelo menos, as qualidades genéticas médias dos materiais de base donde provêm os pomares de sementes.
+2 - Material de reprodução
+2.1 - Seleccionado. - Admitem-se como materiais de reprodução seleccionados (sementes e plantas) os materiais provenientes do material de base oficialmente admitido de acordo com as exigências estabelecidas no n.º 1.
+2.2 - Controlado. - Admitem-se como materiais de reprodução controlados (sementes e plantas) os materiais que reúnam as características exigidas pelo n.º 8.º da Portaria n.º 134/94, de 4 de Março.
+3 - Exigências mínimas relativas ao material de reprodução
+A) Sementes
+Os lotes de sementes devem obedecer às seguintes condições mínimas:
+a) Grau de pureza não inferior a 90% (em peso);
+b) Ausência no mais alto grau possível de organismos nocivos que reduzam o valor de utilização das sementes.
+B) Plantas
+Os lotes de plantas devem comportar pelo menos 95% de plantas com valor comercial, determinado pelos seguintes critérios:
+a) Apresentarem feridas cicatrizadas, excepto as que resultem da eliminação de flechas supranumerárias ou de podas;
+b) Não estarem parcial ou totalmente secas;
+c) Não apresentarem curvaturas do caule;
+d) Não terem caule múltiplo;
+e) Os ramos e o caule estarem completamente atempados;
+f) O gomo terminal do caule deve apresentar-se são;
+g) As agulhas juvenis não devem apresentar danos;
+h) Não apresentarem o colo danificado;
+i) As raízes principais não devem apresentar torções ou enrolamento;
+j) As raízes secundárias devem ser abundantes; sistema radical proporcional ao desenvolvimento aéreo;
+l) Não devem apresentar danos causados por organismos nocivos nem indícios de aquecimento, fermentação ou bolor em consequência do acondicionamento;
+m) A idade e dimensões mínimas admitidas são as seguintes:
+Plantas normais
+(ver tabela no documento original)
+4 - Regiões de proveniência
+São definidas as regiões de proveniência constantes do mapa anexo, que correspondem à macrozonagem de potencialidade da espécie.
+(ver mapa no documento original)
