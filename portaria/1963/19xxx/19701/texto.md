@@ -1,0 +1,6 @@
+Portaria n.º 19701
+As comissões venatórias concelhias abaixo indicadas não estão em condições legais de efectuar despesas, em virtude de não terem submetido à aprovação, em tempo competente, os seus orçamentos ou por estes não terem merecido a aprovação do respectivo governo civil.
+Para que nestes concelhos não deixe de ser exercida a necessária acção de defesa e fomento da caça:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, que, nos termos do artigo 2.º do Decreto n.º 30335, de 29 de Março de 1940, e para os fins do § único do mesmo artigo, seja autorizada a transferência para a Comissão Venatória Regional do Centro das quantias depositadas nos termos do mesmo decreto e de todas as que se destinam ao fundo especial das comissões venatórias dos concelhos de Águeda, Almeida, Figueiró dos Vinhos, Fornos de Algodres, Ílhavo, Lousã, Mangualde, Mira, Mortágua, Oliveira do Bairro, Pampilhosa da Serra, Penamacor, Penela, S. Pedro do Sul, Sardoal, Sertã, Vila Nova de Ourém e Vila de Rei.
+A Comissão Venatória Regional do Centro só poderá aplicar as quantias referidas depois da aprovação do orçamento, que deve ser elaborado de acordo com as disposições legais.
+Secretaria de Estado da Agricultura, 12 de Fevereiro de 1963. - O Secretário de Estado da Agricultura, Luís Le Cocq de Albuquerque de Azevedo Coutinho.
