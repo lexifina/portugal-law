@@ -1,0 +1,41 @@
+Decreto-Lei n.º 27/88
+de 30 de Janeiro
+O Decreto-Lei n.º 8/82, de 18 de Janeiro, prevê no seu artigo 26.º, com a nova redacção que lhe foi dada pelo Decreto-Lei n.º 221/84, de 4 de Julho, a integração da Caixa de Previdência dos Médicos Portugueses em fundo de solidariedade a criar na Ordem dos Médicos.
+Reconhecendo-se a necessidade de salvaguardar os direitos dos médicos abrangidos pelo âmbito da referida instituição, torna-se conveniente não só proceder à extinção da referida Caixa por integração no Fundo de Solidariedade, a criar concomitantemente, como garantir, nos termos do actual regulamento da Caixa, os direitos adquiridos e em formação dos actuais beneficiários.
+São igualmente integrados na Ordem dos Médicos, com afectação ao Fundo de Solidariedade, os direitos, as obrigações e o património da Caixa de Previdência dos Médicos Portugueses ora extinta.
+Relativamente ao pessoal que se encontra ao serviço da Caixa de Previdência dos Médicos Portugueses, entende-se que o mesmo deverá ser integrado nas caixas de previdência de actividade e empresa ainda existentes, facultando-se-lhe a possibilidade de opção pela instituição onde pretenda ser integrado.
+Prevê-se ainda que, por um período não superior a seis meses, os trabalhadores da ex-Caixa devem prestar serviço afecto ao Fundo de Solidariedade, de modo a assegurar que as alterações decorrentes de mudança de estrutura se não repercutam negativamente na gestão corrente dos serviços.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º
+Constituição e finalidade do Fundo de Solidariedade Social da Ordem dos Médicos
+1 - No âmbito do disposto na alínea b) do artigo 6.º, na alínea a) do artigo 85.º e no n.º 1 do artigo 96.º do Estatuto da Ordem dos Médicos, aprovado pelo Decreto-Lei n.º 282/77, de 5 de Julho, é constituído na Ordem dos Médicos o Fundo de Solidariedade Social, adiante designado por Fundo de Solidariedade.
+2 - O Fundo de Solidariedade tem como finalidade essencial a concessão de benefícios sociais à classe médica, sendo gerido pelo Conselho Nacional Executivo da Ordem dos Médicos nos termos estabelecidos em regulamento aprovado pela respectiva Ordem.
+Artigo 2.º
+Extinção e integração da Caixa de Previdência dos Médicos Portugueses
+1 - A Caixa de Previdência dos Médicos Portugueses, instituída pelo Decreto n.º 11487, de 8 de Março de 1926, é extinta por integração na Ordem dos Médicos, no âmbito do Fundo de Solidariedade Social na mesma criado, em execução do disposto no n.º 2 do artigo 26.º do Decreto-Lei n.º 8/82, de 18 de Janeiro, na redacção que lhe foi dada pelo Decreto-Lei n.º 221/84, de 4 de Julho.
+2 - O processo de integração deverá ser desenvolvido pela direcção da Caixa a extinguir e pelo Conselho Nacional Executivo da Ordem dos Médicos.
+3 - Por despacho do Ministro do Emprego e da Segurança Social será nomeada uma Comissão de Apoio Técnico, constituída por elementos da Direcção-Geral da Segurança Social, do Instituto de Gestão Financeira da Segurança Social e da Direcção-Geral da Organização e Recursos Humanos, que prestará a assistência técnica necessária à referida integração.
+Artigo 3.º
+Transferência dos beneficiários da Caixa
+1 - Os beneficiários activos e pensionistas da instituição extinta são transferidos para o Fundo de Solidariedade, com salvaguarda dos direitos adquiridos e em formação, nos termos definidos pelo Regulamento da ex-Caixa.
+2 - Os beneficiários ficam obrigados a contribuir para o Fundo de Solidariedade, nos termos estabelecidos no Regulamento da ex-Caixa.
+Artigo 4.º
+Integração dos direitos, das obrigações e do património
+1 - São integrados na Ordem dos Médicos, com afectação ao Fundo de Solidariedade, os direitos, as obrigações e o património da extinta Caixa de Previdência dos Médicos Portugueses.
+2 - Por portaria do Ministro do Emprego e da Segurança Social serão também transferidos para a Ordem dos Médicos, com afectação ao Fundo de Solidariedade, os direitos de propriedade plena sobre o património imobiliário de que a extinta Caixa tem tido a posse e administração, constituindo a referida portaria título bastante para a realização do respectivo registo predial.
+Artigo 5.º
+Pessoal
+1 - Os trabalhadores da Caixa de Previdência dos Médicos Portugueses serão transferidos por despacho do Ministro do Emprego e da Segurança Social para as caixas de actividade ainda existentes, com salvaguarda dos direitos adquiridos e em formação, sem prejuízo de, transitoriamente, continuarem a prestar serviço, no âmbito das funções inerentes ao Fundo de Solidariedade, até à sua total e completa integração na Ordem dos Médicos.
+2 - O período transitório de prestação de serviço dos trabalhadores da extinta Caixa no Fundo de Solidariedade não poderá exceder o limite de seis meses.
+3 - Os encargos inerentes ao pessoal durante o referido período transitório são suportados integralmente pelo Fundo de Solidariedade.
+4 - A transferência dos trabalhadores referida no n.º 1 poderá efectuar-se, a requerimento dos próprios, para a Caixa de Previdência onde preferencialmente pretendam prestar serviço.
+Artigo 6.º
+Entrada em vigor
+O presente diploma entrará em vigor no primeiro dia do segundo mês após a sua publicação.
+Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 1988. - Aníbal António Cavaco Silva - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Albino da Silva Peneda.
+Promulgado em 20 de Janeiro de 1988.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 24 de Janeiro de 1988.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
