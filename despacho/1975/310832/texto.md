@@ -1,0 +1,4 @@
+Despacho
+Nos termos do n.º 3 do artigo 10.º do Decreto-Lei n.º 533/74, de 10 de Outubro, determino que o n.º 3 do despacho de requisitos específicos para a indústria de laminagem e estiragem de metais não ferrosos de 11 de Janeiro de 1975, publicado no Diário do Governo, 1.ª série, n.º 29, de 4 de Fevereiro de 1975, passe a ter a seguinte redacção:
+3 - Os estabelecimentos industriais onde ocorram os actos referidos no número anterior deverão possuir uma capacidade mínima de produção horária de 2,5 t.
+Ministério da Indústria e Tecnologia, 21 de Novembro de 1975. - O Ministro da Indústria e Tecnologia, Luís Cordes da Ponte Marques do Carmo.
