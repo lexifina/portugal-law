@@ -1,0 +1,15 @@
+Decreto-Lei n.º 313/79
+de 20 de Agosto
+O diploma básico por que se rege a Santa Casa da Misericórdia de Lisboa, datado de 1955 (com algumas alterações introduzidas em 1970), carece de ser revisto à luz da experiência e dos condicionalismos presentes, compreensivelmente diversos dos que então se verificavam.
+O presente diploma adopta novos esquemas de organização, decorrentes quer de novas concepções da metodologia da acção social, quer de imperativos de gestão de pessoal e de serviços, para além de consolidar medidas anteriormente tomadas a título precário, cuja institucionalização a experiência recomenda.
+Nestes termos:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. - 1 - É criado na Santa Casa da Misericórdia de Lisboa o Serviço de Acção Social, resultante da fusão, num único serviço, do Serviço de Assistência, a que se refere o artigo 23.º do Decreto-Lei n.º 40397, de 24 de Novembro de 1955, e do Serviço Social, criado pelo Decreto-Lei n.º 692/70, de 31 de Dezembro.
+2 - Os Serviços de Aprovisionamento e Industriais e os Serviços Financeiros e Mecanográficos, referidos no n.º 2 do artigo 1.º do Decreto-Lei n.º 692/70, de 31 de Dezembro, passam a constituir quatro serviços distintos, designados por Serviços de Aprovisionamento, Serviços Industriais, Serviços Financeiros e Centro de Informática.
+3 - O Serviço de Pessoal, a que se refere a disposição legal citada no número anterior, é retirado do âmbito da Secretaria-Geral, passando a constituir um serviço distinto.
+4 - São igualmente retirados do âmbito do Serviço do Património e passam a constituir novos serviços o Museu de S. Roque e o Arquivo.
+5 - São criados o Centro de Documentação e o Núcleo de Planeamento.
+Visto e aprovado em Conselho de Ministros de 28 de Março de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Jorge de Figueiredo Lopes.
+Promulgado em 30 de Julho de 1979.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
