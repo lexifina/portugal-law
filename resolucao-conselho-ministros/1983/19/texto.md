@@ -1,0 +1,17 @@
+Resolução do Conselho de Ministros n.º 19/83
+Por despacho do então Ministro da Economia, de 25 de Fevereiro de 1960 foi criado o Fundo de Apoio Térmico (FAT), destinado a corrigir os efeitos da irregularidade pluviométrica no custo global da energia eléctrica, dada a elevada percentagem da componente de electricidade de origem hídrica no sistema electroprodutor.
+Com a criação da EDP - Electricidade de Portugal, E. P., a administração do FAT ficou a cargo desta empresa, constituindo, como anteriormente, um fundo autónomo sem personalidade jurídica nem autonomia financeira.
+Dado esse circunstancialismo, cabe à EDP contrair empréstimos quando, por efeito de estiagem, o FAT apresente défices.
+Tal situação, ainda que apresentando inconvenientes, não era considerada normalmente como preocupante, dado que os períodos de seca são estatisticamente equilibrados por períodos de maior índice pluviométrico.
+Contudo, a sucessão de estiagens nos últimos 3 anos e o seu efeito no sistema electroprodutor, por implicar o aumento de recurso à energia térmica, de custo muito superior ao da energia hídrica, conduziu o FAT a um nível de défice extremamente elevado, arrastando, por consequência, a empresa a um grau de endividamento altamente preocupante, não só pelo seu montante, como pelos encargos que gera.
+Verifica-se, assim, a necessidade imperiosa de tomar medidas adequadas, não só em relação à situação actual do FAT, como também no sentido de evitar a repetição de situações semelhantes no futuro.
+Deste modo, o Conselho de Ministros, reunido em 11 de Janeiro de 1983, resolveu o seguinte:
+1 - Em situações de notória anormalidade de défice do Fundo de Apoio Térmico (FAT), o Governo, pelo Ministro da Indústria, Energia e Exportação, sob proposta da EDP, fará incidir, integrado nela, um adicional sobre a tarifa de venda de energia eléctrica.
+1.1 - Considerar-se-á sempre situação de notória anormalidade o facto de o défice do FAT atingir um montante igual ou superior a 15% do montante global de venda de electricidade pela EDP no ano anterior.
+1.2 - O adicional terá natureza temporária, vigorando apenas até que o FAT recupere o equilíbrio financeiro, e será calculado em termos de esse equilíbrio ser atingido no período máximo de 5 anos.
+1.3 - O adicional terá como limite máximo 10% da tarifa, salvo se daí resultar um período de reequilíbrio financeiro do Fundo superior a 5 anos.
+2 - Sempre que o grau de endividamento do FAT o recomende, e independentemente das medidas previstas no número anterior, poderá o Estado assegurar a concessão de empréstimos para conseguir ou acelerar o reequilíbrio do Fundo.
+3 - Todos os movimentos relativos ao FAT serão contabilizados pela EDP em contas próprias, devendo a correspondente discriminação ser apresentada no anexo ao balanço e à demonstração de resultados.
+3.1 - Os empréstimos contraídos para o financiamento do FAT devem ser evidenciados naquele anexo e os correspondentes encargos imputados ao FAT.
+4 - A EDP apresentará aos Ministérios das Finanças e do Plano e da Indústria, Energia e Exportação, com regularidade trimestral, um relatório relativo à gestão do FAT, o qual deverá ter o parecer da comissão de fiscalização da empresa, formulando as propostas que entenda convenientes à sua gestão equilibrada.
+Presidência do Conselho de Ministros. - Pelo Primeiro-Ministro, o Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
