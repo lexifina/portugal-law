@@ -1,0 +1,10 @@
+Decreto n.º 48442
+Considerando que a Convenção Aduaneira Relativa às Facilidades Concedidas para a Importação de Mercadorias Destinadas a Serem Apresentadas ou Utilizadas em Exposições, Feiras, Congressos ou Manifestações Semelhantes, celebrada em Bruxelas em 8 de Junho de 1961, de que Portugal é parte contratante, tem por objectivo desenvolver o comércio internacional e, ao mesmo tempo, também, favorecer o intercâmbio de ideias e de conhecimentos, uma vez que não abrange apenas as manifestações de carácter comercial, mas igualmente as de carácter técnico, científico, educativo e cultural;
+Considerando que as vantagens resultantes da citada Convenção ficarão comprometidas se para efeito do processamento do despacho de importação definitiva se não permitir o regime de cedência;
+Considerando que a entrada no consumo de mercadorias importadas temporàriamente não prejudicará os interesses do País uma vez que se apliquem às mercadorias em causa as condições e formalidades previstas nas leis e regulamentos nacionais para idênticas mercadorias importadas directamente do estrangeiro;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo único. São inseridos, com a redacção seguinte, no Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de 1941, o artigo 307.º-A e seu § único:
+Art. 307.º- A. As mercadorias importadas temporàriamente que se pretenda introduzir no consumo podem ser cedidas pelo importador a outrem, desde que este preste a competente garantia.
+§ único. O despacho de importação definitiva processar-se-á em nome do adquirente, mediante prévia autorização exarada em requerimento por ele dirigido aos directores das alfândegas, acompanhado de uma declaração de cedência das mercadorias em causa.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 21 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês.
