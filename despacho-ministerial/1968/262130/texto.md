@@ -1,0 +1,3 @@
+Despacho ministerial
+Usando da faculdade conferida pelo § único do artigo 1.º do Decreto-Lei n.º 36820, de 7 de Abril de 1948, autorizo que, para ocorrer às necessidades de assistência do distrito autónomo da Horta, continue em vigor, durante o ano de 1969, a tabela aprovada por despacho ministerial de 2 de Setembro de 1949, publicado no Diário do Governo n.º 194, 1.ª série, de 5 de Setembro de 1949, com os aditamentos autorizados pelos despachos ministeriais de 2 de Janeiro de 1953 e 31 de Dezembro de 1963, publicados, respectivamente, no Diário do Governo n.º 2, 1.ª série, de 6 de Janeiro de 1953, e n.º 2, de 3 de Janeiro de 1964.
+Ministério das Finanças, 14 de Dezembro de 1968. - Pelo Ministro das Finanças, Augusto Victor Coelho, Subsecretário de Estado do Orçamento.
