@@ -1,0 +1,34 @@
+Portaria n.º 19737
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o seguinte:
+Nos termos do artigo 6.º do Decreto-Lei n.º 42559, de 3 de Outubro de 1959, reforçar com as quantias que se indicam as seguintes verbas da tabela de despesa do orçamento privativo das forças aéreas ultramarinas em vigor na província de Angola no ano de 1962:
+Despesas com o material:
+Artigo 5.º, n.º 2), alínea b) «Aquisições de utilização permanente - Móveis - Livros, revistas, boletins técnicos, outras publicações e suas encadernações» ... 36500$00
+Artigo 5.º, n.º 2), alínea c) «Aquisições de utilização permanente - Móveis - Equipamentos de instrução e de treino operacional, material de assistência religiosa, sanitário, de educação física e desportos, máquinas, ferramentas, instrumentos, aparelhos, utensílios e outros móveis de laboratório e oficinas» ... 89500$00
+Artigo 6.º, n.º 1) «Despesas de conservação e aproveitamento de material - De imóveis» ... 34000$00
+Artigo 6.º, n.º 2), alínea b) «Despesas de conservação e aproveitamento de material - De semoventes - Viaturas com ou sem motor, embarcações e outro material circulante» ... 193500$00
+Artigo 6.º, n.º 3), alínea b) «Despesas de conservação e aproveitamento de material - De móveis - Máquinas de escrever, de calcular, de contabilização, de desenhar, de reprodução de escritos e desenhos, ficheiros e outros móveis de escritório, de gabinete técnico e de arquivo» ... 3000$00
+Artigo 7.º, n.º 1) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados, para usos laboratoriais, oficinais e de estaleiro de obras» ... 18000$00
+Artigo 7.º, n.º 2) «Material de consumo corrente - Impressos» ... 56000$00
+Artigo 7.º, n.º 3) «Material de consumo corrente - Artigos de expediente, material fotográfico e diversos materiais não especificados» ... 96250$00
+Pagamento de serviços e diversos encargos:
+Artigo 8.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 3000$00
+Artigo 8.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 70000$00
+... 599750$00
+tomando como contrapartida as seguintes disponibilidades da mesma tabela de despesa:
+Despesas com o material:
+Artigo 5.º, n.º 2), alínea a) «Aquisições de utilização permanente - Móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 2000$00
+Artigo 6.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento de material - De semoventes - Alimentação de cães de guerra» ... 54750$00
+Artigo 6.º, n.º 3), alínea a) «Despesas de conservação e aproveitamento de material - De móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 44000$00
+Artigo 6.º, n.º 3), alínea c) «Despesas de conservação e aproveitamento de material - De móveis - Equipamentos de instrução e de treino operacional, material de assistência religiosa, sanitária, de educação física e desportos, máquinas, ferramentas, instrumentos, aparelhos, utensílios e outros móveis de laboratório e de oficinas» ... 8000$00
+Artigo 6.º, n.º 3), alínea d) «Despesas de conservação e aproveitamento de material - De móveis - Equipamentos para execução de obras» ... 26000$00
+Artigo 6.º, n.º 4), alínea a) «Despesas de conservação e aproveitamento de material - De material de defesa e segurança pública - Armamento, pára-quedas e equipamento individual e colectivo do pessoal navegante e terrestre, incluindo sobresselentes» ... 15000$00
+Artigo 6.º, n.º 4), alínea b) «Despesas de conservação e aproveitamento de material - De material de defesa e segurança pública - Combustíveis, lubrificantes, oxigénio e outros compostos de elementos» ... 279000$00
+Pagamento de serviços e diversos encargos:
+Artigo 9.º, n.º 2) «Despesas de comunicações - Telefones» ... 55000$00
+Artigo 9.º, n.º 3) «Despesas de comunicações - Transportes» ... 48500$00
+Artigo 11.º, n.º 2) «Outros encargos - Força motriz» ... 67500$00
+... 599750$00
+Esta portaria anula a Portaria n.º 19640, de 18 de Janeiro de 1963.
+Presidência do Conselho, 1 de Março de 1963. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo.
+
+Para ser publicada no Boletim Oficial de Angola. - Peixoto Correia.
