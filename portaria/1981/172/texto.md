@@ -1,0 +1,33 @@
+Portaria n.º 172/81
+de 11 de Fevereiro
+De acordo com o regime estabelecido pelo Decreto-Lei n.º 351/79, de 30 de Agosto, e o protocolo celebrado entre Portugal e a Comunidade Económica Europeia relativo ao regime especial aplicável às importações de veículos automóveis e à indústria de montagem em Portugal para a contingentação de veículos automóveis de peso bruto inferior ou igual a 2000 kg no estado CKD, torna-se necessário fixar para o ano de 1981 a respectiva contingentação.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, do Comércio e Turismo e da Indústria e Energia, o seguinte:
+1.º Os contingentes base para a importação de CKD serão aplicados por marca e constam da lista anexa.
+2.º Exceptuam-se do regime estabelecido nesta portaria as ambulâncias, veículos para bombeiros e similares, veículos em versão châssis-cabine e veículos de tracção às quatro rodas.
+Ministérios das Finanças e do Plano, do Comércio e Turismo e da Indústria e Energia, 9 de Janeiro de 1981. - O Ministro das Finanças e do Plano, João António Morais Leitão. - O Ministro do Comércio e Turismo, Alexandre de Azeredo Vaz Pinto. - O Ministro da Indústria e Energia, Ricardo Manuel Simões Bayão Horta.
+
+LISTA ANEXA
+Contingentes base por marca
+Marca:
+... Contos
+Fiat ... 994730
+Renault ... 791370
+Peugeot ... 679750
+BLMC ... 674170
+Citroën ... 623350
+Toyota ... 602140
+Ford ... 560780
+Datsun ... 484970
+General Motors ... 484930
+Talbot ... 232190
+Volkswagen ... 212800
+BMW ... 135080
+Mazda ... 79300
+Honda ... 71640
+Mercedes ... 58680
+Subaru ... 43070
+Alfa-Romeo ... 20780
+Audi ... 16720
+Daithatsu ... 8550
+O Ministro das Finanças e do Plano, João António Morais Leitão. - O Ministro do Comércio e Turismo, Alexandre de Azeredo Vaz Pinto. - O Ministro da Indústria e Energia, Ricardo Manuel Simões Bayão Horta.
