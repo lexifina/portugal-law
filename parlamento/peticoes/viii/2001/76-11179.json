@@ -1,0 +1,516 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=WEUMi7%2fBtIIg%2fkHBDyZ%2fsil3BmWuButejMvPGkqNVyUfIJXddc1IDB3t8GXfBL3zSPQF%2bIyDi3AcWLUm0oL6crfUIOoirULFjyvRAul6J%2by6a6FDtpJuVrK3Y3rP8bCLGdxev%2bdUqQgc%2bXEDQI%2f8OLEsCv3IziG5WQHDSzFAl7qQApdhGho5obQdwDn6iwyWAFYt%2fzWn72d9GQ0G7zTxyKwsQjpKzhAqqYI6%2fCsSwtcK7MkwpbhLc%2bPOBViftzfwo0QY4%2b1hHCAUUDtd7wn2zRmIMG1aKMpZb8PUmWVGX9mCVPzhBcSom0%2boac5wXwR%2fcfo1uKTMHtBvk9eTSDfjfyy5P2leMqegA1xVPD5%2bIs%2bMWrsB8j6dH%2fUqNW7MrBr8&fich=PeticoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c7a8b036f2bb9420007f23598577186345f4c787fefe68382e6a1aac6e3b6ea3",
+  "legislatura": "VIII",
+  "id": "11179",
+  "numero": "76",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2001-10-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2003-12-18",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "102",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE ASSUNTOS CONSTITUCIONAIS, DIREITOS, LIBERDADES E GARANTIAS",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2003-12-18",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2003-12-18",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2004-01-14",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "109",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE TRABALHO E DOS ASSUNTOS SOCIAIS",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2002-11-12",
+            "gp": "PS",
+            "id": "1023",
+            "motivoCessacao": null,
+            "nome": "Maria do Rosário Carneiro"
+          }
+        ],
+        "RelatorioFinal": [
+          "21617"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2001-11-08",
+        "DataArquivo": "2003-12-18",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2002-07-17",
+        "DataReaberta": "2001-11-08",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2001-10-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c304e50545338784d31424a543059765247396a6457316c626e52766331426c64476c6a595738764d6d59324d545977595467744f5451324e7930304e7a566b4c5468694e6d45744d5451324d6d5669596a6377597a67784c6e426b5a673d3d&fich=2f6160a8-9467-475d-8b6a-1462ebb70c81.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "38",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE PARIDADE, IGUALDADE DE OPORTUNIDADES E FAMILIA",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2001-11-08",
+            "gp": "CDS-PP",
+            "id": "1047",
+            "motivoCessacao": null,
+            "nome": "Nuno Teixeira de Melo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2004-02-06",
+    "Documentos": [
+      {
+        "DataDocumento": "2001-10-20",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396b4d6d59304e4459304f53316c596a45774c54526d4f446b744f5455784e793031595449324e4445334e5759304e4463756347526d&fich=d2f44649-eb10-4f89-9517-5a264175f447.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2004-02-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148309",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2751-2753"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-07",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/049/2004-02-07/2751?pgs=2751-2753&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM QUE SEJAM ALTERADOS ALGUNS DIPLOMAS LEGAIS, DESIGNADAMENTE, O CÓDIGO CIVIL, A ORGANIZAÇÃO TULETAR DE MENORES E A LEI DE PROTECÇÃO DA MATERNIDADE E DA PATERNIDADE",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-02-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148310",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2753-2754",
+                  "2757-2758"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-07",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/049/2004-02-07/2753?pgs=2753-2754,2757-2758&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM QUE SEJAM ALTERADOS ALGUNS DIPLOMAS LEGAIS, DESIGNADAMENTE, O CÓDIGO CIVIL, A ORGANIZAÇÃO TULETAR DE MENORES E A LEI DE PROTECÇÃO DA MATERNIDADE E DA PATERNIDADE",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-02-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148311",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2754-2755"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-07",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/049/2004-02-07/2754?pgs=2754-2755&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM QUE SEJAM ALTERADOS ALGUNS DIPLOMAS LEGAIS, DESIGNADAMENTE, O CÓDIGO CIVIL, A ORGANIZAÇÃO TULETAR DE MENORES E A LEI DE PROTECÇÃO DA MATERNIDADE E DA PATERNIDADE",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-02-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148312",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2755-2755"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-07",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/049/2004-02-07/2755?pgs=2755&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM QUE SEJAM ALTERADOS ALGUNS DIPLOMAS LEGAIS, DESIGNADAMENTE, O CÓDIGO CIVIL, A ORGANIZAÇÃO TULETAR DE MENORES E A LEI DE PROTECÇÃO DA MATERNIDADE E DA PATERNIDADE",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-02-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148313",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2755-2756"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-07",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/049/2004-02-07/2755?pgs=2755-2756&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM QUE SEJAM ALTERADOS ALGUNS DIPLOMAS LEGAIS, DESIGNADAMENTE, O CÓDIGO CIVIL, A ORGANIZAÇÃO TULETAR DE MENORES E A LEI DE PROTECÇÃO DA MATERNIDADE E DA PATERNIDADE",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-02-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148314",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2756-2757"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-07",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/049/2004-02-07/2756?pgs=2756-2757&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM QUE SEJAM ALTERADOS ALGUNS DIPLOMAS LEGAIS, DESIGNADAMENTE, O CÓDIGO CIVIL, A ORGANIZAÇÃO TULETAR DE MENORES E A LEI DE PROTECÇÃO DA MATERNIDADE E DA PATERNIDADE",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11179",
+    "PetAssunto": "Solicitam que sejam alterados alguns diplomas legais, designadamente, o Código Civil, a Organização Tutelar de Menores e a Lei de Protecção da Maternidade e da Paternidade.",
+    "PetDataEntrada": "2001-10-20",
+    "PeticoesAssociadas": null,
+    "PetId": "11179",
+    "PetLeg": "VIII",
+    "PetNr": "76",
+    "PetNrAssinaturas": "4600",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "Esta Petição esteve distribuída às 1ª. e 13ª Comissões (VIII-Leg.) e a pedido das mesmas foi despachada para as 1ª. e 8ª. Comissões (IX-Leg.)",
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "154",
+        "obs": null,
+        "pag": [
+          "2751-2758"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-02-07",
+        "pubLeg": "IX",
+        "pubNr": "49",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/049/2004-02-07/2751?pgs=2751-2758&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "267787",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-11-30",
+        "pubLeg": "VIII",
+        "pubNr": "8",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/03/008/2001-11-30?org=PLC"
+      }
+    ]
+  }
+}
