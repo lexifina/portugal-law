@@ -1,0 +1,3 @@
+Declaração
+Nos termos e para os efeitos do artigo 8.º da Lei n.º 61/77, de 25 de Agosto, se declara que a Comissão Consultiva para os Assuntos das Regiões Autónomas, reunida em 4 de Dezembro de 1980, deliberou considerar o seu vogal designado pela Assembleia Regional da Madeira, Dr. Manuel Filipe Correia de Jesus, abrangido por incompatibilidade legal de funções por haver sido eleito, em 5 de Outubro de 1980, deputado à Assembleia da República, cargo que passou a exercer.
+Comissão Consultiva para os Assuntos das Regiões Autónomas, 4 de Dezembro de 1980. - O Presidente da Comissão, Vasco de Almeida e Costa.
