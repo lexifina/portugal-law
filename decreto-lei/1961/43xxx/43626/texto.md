@@ -1,0 +1,9 @@
+Decreto-Lei n.º 43626
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O quadro do pessoal da Direcção-Geral da Contabilidade Pública que se encontra descrito no n.º 1) do artigo 104.º, capítulo 8.º, do orçamento do Ministério das Finanças para o presente ano económico considera-se substituído, para todos os efeitos legais, pelo quadro anexo ao Decreto-Lei n.º 43624, de 27 de Abril de 1961.
+Art. 2.º Para provimento das novas unidades constantes do quadro referido no artigo anterior é aberto no Ministério das Finanças, a favor do mesmo Ministério, um crédito especial de 1500000$00, destinado a reforçar a mencionada dotação descrita no capítulo 8.º, artigo 104.º, n.º 1), anulando-se concorrente quantia na verba do capítulo 6.º, artigo 48.º, n.º 1), do orçamento vigente deste Ministério.
+Art. 3.º Todas as despesas de instalação resultantes da publicação do Decreto-Lei n.º 43624, de 27 de Abril de 1961, serão satisfeitas, no corrente ano económico, pelas disponibilidades da dotação do capítulo 6.º, artigo 48.º, n.º 1), referida no artigo anterior.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 27 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.
