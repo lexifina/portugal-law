@@ -1,0 +1,34 @@
+Portaria n.º 313/99
+de 12 de Maio
+O quadro de pessoal da Maternidade de Júlio Dinis encontra-se desajustado nalgumas áreas essenciais, pelo que importa agora dotar esta Maternidade com os meios que lhe permitam a prossecução de uma política de gestão de recursos humanos racional e uma maior eficácia na prestação de cuidados de saúde.
+Assim:
+Ao abrigo do disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro, conjugado com o artigo 10.º do Decreto n.º 48358, de 27 de Abril de 1968, com a redacção que lhe foi dada pelo Decreto Regulamentar n.º 52/84, de 6 de Agosto:
+Manda o Governo, pelos Ministros das Finanças, Adjunto e da Saúde, o seguinte:
+1.º O quadro de pessoal da Maternidade de Júlio Dinis, aprovado pela Portaria n.º 642/80, de 16 de Setembro, com as alterações que lhe foram introduzidas posteriormente, é substituído pelo constante do mapa anexo à presente portaria, da qual faz parte integrante.
+2.º Os lugares de director de serviços, chefe de divisão, chefe de repartição e chefe de secção correspondem às unidades orgânicas departamentalizadas de acordo com o indicado no anexo I à presente portaria.
+3.º O conteúdo funcional correspondente à carreira de secretária de serviços de saúde, do grupo de pessoal técnico-profissional, é o constante do anexo II à presente portaria.
+Assinada em 24 de Abril de 1999.
+Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
+
+MAPA ANEXO
+(ver mapa no documento original)
+ANEXO I
+Unidades orgânicas de natureza técnica:
+Direcção de Serviços Farmacêuticos;
+Divisão de Instalações e Equipamentos.
+Unidades orgânicas de natureza administrativa:
+Repartição de Admissão de Doentes:
+Secção de Admissão de Doentes;
+Secção de Arquivo Clínico, Secretariado e Estatística;
+Repartição de Pessoal:
+Secção de Pessoal;
+Secção de Expediente e Arquivo;
+Repartição de Contabilidade:
+Secção de Contabilidade Geral;
+Secção de Contabilidade Analítica;
+Repartição de Aprovisionamento:
+Secção de Gestão de Stocks;
+Secção de Aquisições e Armazéns.
+ANEXO II
+Conteúdo funcional da carreira de pessoal técnico-profissional de nível 4
+Secretária de serviços de saúde - conteúdo funcional: organização do processo clínico do doente; secretariado dos serviços clínicos e da direcção do serviço e tradução e retroversão de correspondência.
