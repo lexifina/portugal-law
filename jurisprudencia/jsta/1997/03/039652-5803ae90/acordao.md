@@ -1,0 +1,59 @@
+# Acórdão do Supremo Tribunal Administrativo de 1997-03-11, processo 039652
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 039652
+
+**Data do Acordão:** 03/11/1997
+
+**Tribunal:** 3 SUBSECÇÃO DO CA
+
+**Relator:** ALCINDO COSTA
+
+**Descritores:** PROFESSOR DO ENSINO OFICIAL; FALTA AO SERVIÇO; GRAVIDEZ DE ALTO RISCO; FALTA JUSTIFICADA; COMPETÊNCIA; JUNTA MÉDICA; DIRECÇÃO REGIONAL DE EDUCAÇÃO; DESPACHO INTERPRETATIVO; PRINCÍPIO DA IGUALDADE
+
+**Nº Convencional:** JSTA00048937
+
+**Nº do Documento:** SA119970311039652
+
+**Data de Entrada:** 02/13/1996
+
+**Recorrente:** ALMEIDA , CAPITOLINA
+
+**Recorrido 1:** SSEA DO MINE
+
+**Votação:** MAIORIA COM 1 VOT VENC
+
+**Ano da Publicação:** 97
+
+**Privacidade:** 01
+
+**Meio Processual:** REC CONT.
+
+**Objecto:** DESP SEA DO MINE DE 1995/10/04.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM GER - FUNÇÃO PUBL ESTATUTÁRIO.
+
+**Legislação Nacional:** L 4/85 DE 1985/04/05 ART9 ART18.; ESTATUTO DA CARREIRA DOCENTE APROVADO PELO DL 139-A/90 DE 1990/04/28 ART37 N2 N3 ART100 N2.; CONST92 ART13 ART18 N2 ART68 ART115 N2.; DL 497/88 DE 1988/12/30 ART48.; DL 135/85 DE 1985/05/03.
+
+**Jurisprudência Nacional:** AC STA PROC38912 DE 1997/02/13.
+
+**Referência a Doutrina:** GOMES CANOTILHO E OUTRO CONSTITUIÇÃO DA REPÚBLICA PORTUGUESA ANOTADO 3ED PÁG352.; Texto Integral
+
+## Sumário
+
+I - Compete às Juntas Médicas da Direcção Regional de Educação em exclusivo, qualificar uma gravidez, como gravidez de alto risco para o nascituro, a fim de que, sendo assim qualificada, possa
+
+à interessada fundamentar pedido de dispensa dos seus deveres funcionais no respectivo estabelecimento de educação ou ensino, dispensa essa que pode traduzir-se, tanto na permissão de total ausência ao serviço como na simples deslocação para outro estabelecimento mais próximo da sua residência oficial.
+
+II - As faltas dadas em razão da gravidez de risco, são como quaisquer outras, por motivos de saúde, devidamente justificadas.
+
+III - Ainda que a interpretação dada a uma certa disposição legal não esteja correcta, o acto proferido com base nessa pode ofender essa mesma disposição legal mas não viola despacho interpretativo que a contenha cuja eficácia é meramente interna.
+
+IV - O tratamento dado pela lei a gravidez de risco
+
+é diferente do dado a gravidez normal, justificando-se por se tratar de situações diferentes, não integrando essa diferença, violação do princípio da igualdade.
+
+V - Se as faltas dadas pela mulher grávida não ocorreram durante a licença de parto, tratando-se como se trata de simples faltas justificadas não excepcionadas na parte final do n. 3 do art. 37 do ECD (Estatuto da Carreira Docente, aprovado pelo Dec.-Lei n. 139-A/90 de 28 de Abril), deverão ser consideradas como ausências para efeito do n. 2 do mesmo artigo.
