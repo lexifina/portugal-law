@@ -1,0 +1,11 @@
+Resolução n.º 66/80
+Com a entrada em funções do actual Governo, deparou-se o Ministério do Trabalho com algumas dezenas de textos convencionais a aguardar depósito, em virtude de se mostrarem desconformes com exigências legais essenciais.
+Diversos desses textos respeitam a empresas públicas. E nestes, os vícios formais que essencialmente os afectam são:
+Falta de portaria conjunta definidora do aumento de encargos salariais, imposta pelo artigo 4.º do Decreto-Lei n.º 121/78, quer na redacção inicial, quer na redacção resultante do Decreto-Lei n.º 490/79, de 19 de Dezembro;
+Falta de aprovação tutelar exigida pela alínea d) do n.º 2 do artigo 19.º do Decreto-Lei n.º 164-A/76, na redacção resultante do Decreto-Lei n.º 353-G/77, de 29 de Agosto - aprovação tutelar esta que igualmente é imposta pela alínea g) do n.º 2 do artigo 13.º do Decreto-Lei n.º 260/76, de 8 de Abril (regime jurídico das empresas públicas).
+Ponderadas as situações existentes, e no intuito de contribuir para o desbloqueamento de processos irregulares herdados, decide o Conselho de Ministros traçar algumas directrizes programáticas dentro das quais possam os Ministros das Finanças e do Plano, do Trabalho e da tutela promover a conclusão dos mesmos processos, com respeito pelas disposições legais em vigor.
+Nestas condições, o Conselho de Ministros, reunido em 7 de Fevereiro de 1980, resolveu:
+1 - Os Ministros da tutela ordenarão o reexame urgente das convenções colectivas de trabalho respeitantes a empresas do sector público pendentes de depósito, a fim de serem sanados os vícios formais que têm impedido o mencionado depósito.
+2 - Em relação às convenções em que a falta de autorização ou aprovação tutelar resulta de violação da lei por conterem disposições ou regimes legalmente proibidos ou legalmente imodificáveis, serão devolvidas às partes outorgantes com despacho fundamentado.
+3 - Sempre que, por razões de ordem conjuntural, os Ministérios intervenientes entendam aceitar as situações concretas com que se viram confrontados, tal implicará, necessariamente, a ponderação dessas situações de facto no âmbito de futuras revisões das convenções colectivas agora consideradas, com vista à correcção das referidas situações consumadas.
+Presidência do Conselho de Ministros, 7 de Fevereiro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
