@@ -1,0 +1,4 @@
+Aviso n.º 119/99
+Por ordem superior se torna público que Portugal depositou, em 14 de Maio de 1997, na sede do Conselho da Europa, em Estrasburgo, o instrumento de ratificação do Protocolo n.º 11 à Convenção de Salvaguarda dos Direitos do Homem e das Liberdades Fundamentais, relativo à reestruturação do mecanismo de controlo estabelecido pela Convenção e respectivo anexo.
+O referido Protocolo foi aberto à assinatura, em Estrasburgo, em 11 de Maio de 1994 e assinado por Portugal no mesmo dia, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 21/97, publicada no Diário da República, 1.ª série-A, n.º 102, de 3 de Maio de 1997, e ratificada pelo Decreto do Presidente da República n.º 20/97, publicado no Diário da República, 1.ª série-A, n.º 102, de 3 de Maio de 1997.
+Direcção-Geral dos Assuntos Multilaterais, 25 de Agosto de 1998. - A Directora-Geral dos Assuntos Multilaterais, Ana Maria da Silva Marques Martinho.
