@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público ter a Embaixada Britânica em Bruxelas, por notificação recebida no Ministério dos Negócios Estrangeiros Belga a 21 de Setembro de 1965, feito saber que a Convenção internacional para a unificação de certas regras sobre o arresto de navios no mar, assinada em Bruxelas a 10 de Maio de 1952, será aplicável às Honduras Britânicas, as Protectorado das Ilhas Salomão, à colónia das ilhas Gilbert e Ellice e as ilhas Turcas e Caicos, sob reserva do direito de não aplicar as disposições da mesma Convenção aos navios de guerra ou aos navios pertencentes a um estado ou ao serviço de um estado.
+Direcção-Geral dos Negócios Económicos e Consulares, 13 de Abril de 1966. - O Director-Geral, José Calvet de Magalhães.
