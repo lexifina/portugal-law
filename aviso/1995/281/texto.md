@@ -1,0 +1,9 @@
+Aviso n.º 281/95
+Por ordem superior se torna público que, por nota de 5 de Abril de 1995 e nos termos do artigo 37.º da Convenção sobre o Reconhecimento e a Execução de Decisões Relativas às Obrigações de Alimentos, concluída na Haia, em 2 de Outubro de 1973, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a Noruega informado, por nota de 21 de Março de 1995, do seguinte:
+As from 1 October 1992 the Norwegian National Insurance Office for Social Insurance Abroad, Child Maintenance Division, functions are transmitting as well as receiving agency for the recovery of maintenance contributions to children where one of the parents is resident abroad.
+The address of the above mentioned office is: Folkertrygdkontoret for utenlandssaker, Bidragskontoret, Postboks 8138 Dep. 0032 Oslo, Norway.
+Tradução
+Desde 1 de Outubro de 1992, o «Norwegian National Insurance Office for Social Insurance Abroad» (Gabinete Norueguês para a Segurança Social no Estrangeiro), «Child Maintenance Division» (Divisão de Alimentos a Crianças), funciona tanto como organismo de transmissão como de recepção para a cobrança de pensões de alimentos de crianças quando um dos pais resida no estrangeiro.
+A morada do Gabinete supramencionado é: Folkertrygdkontoret for utenlandssaker, Bidragskontoret, Postboks 8138 Dep. 0032 Oslo, Norway.
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 338/75, de 2 de Julho, tendo depositado o seu instrumento de ratificação em 4 de Dezembro de 1975, conforme aviso publicado no Diário da República, 1.ª série, n.º 107, de 9 de Maio de 1977. A Convenção vigora para Portugal desde 1 de Agosto de 1976. A autoridade central em Portugal é a Direcção-Geral dos Serviços Judiciários, do Ministério da Justiça.
+Departamento de Assuntos Jurídicos, 1 de Setembro de 1995. - O Director, José Maria Teixeira Leite Martins.
