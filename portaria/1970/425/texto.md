@@ -1,0 +1,5 @@
+Portaria n.º 425/70
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 450000$00, a verba do capítulo 10.º, artigo 2871.º, n.º 6) «Encargos gerais - Outros encargos - Quota-parte da província para fazer face aos encargos resultantes de conferências internacionais, organismos delas derivados e outras despesas correlativas», da tabela de despesa ordinária do orçamento geral da província de Moçambique, para o ano em curso, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 7.º, artigo 2648.º, n.º 1, alínea a) «Serviços de Fomento - Serviços Geográficos e Cadastrais - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+Ministério do Ultramar, 26 de Agosto de 1970. - Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - Sacramento Monteiro.
