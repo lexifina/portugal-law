@@ -1,0 +1,322 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "87",
+    "id": "18605",
+    "titulo": "Alargamento do Fundo de Compensação Salarial dos Profissionais da Pesca (ALRM)"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2004-10-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3276",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2004-10-14",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-10-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1666",
+                "nome": "Luiz Fagundes Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151018",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "655-655"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-15",
+                "pubLeg": "IX",
+                "pubNr": "12",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/012/2004-10-15/655?pgs=655&org=PLC"
+              }
+            ],
+            "sumario": "Alargamento do Fundo de Compensação Salarial dos Profissionais da Pesca (ALRM)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "183",
+                "nome": "José Apolinário"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151019",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "655-655"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-15",
+                "pubLeg": "IX",
+                "pubNr": "12",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/012/2004-10-15/655?pgs=655&org=PLC"
+              }
+            ],
+            "sumario": "Alargamento do Fundo de Compensação Salarial dos Profissionais da Pesca (ALRM)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151020",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "655-656"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-15",
+                "pubLeg": "IX",
+                "pubNr": "12",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/012/2004-10-15/655?pgs=655-656&org=PLC"
+              }
+            ],
+            "sumario": "Alargamento do Fundo de Compensação Salarial dos Profissionais da Pesca (ALRM)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "397",
+                "nome": "Correia de Jesus"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151021",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "655-656"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-15",
+                "pubLeg": "IX",
+                "pubNr": "12",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/012/2004-10-15/655?pgs=655-656&org=PLC"
+              }
+            ],
+            "sumario": "Alargamento do Fundo de Compensação Salarial dos Profissionais da Pesca (ALRM)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151022",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "655-656"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-15",
+                "pubLeg": "IX",
+                "pubNr": "12",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/012/2004-10-15/655?pgs=655-656&org=PLC"
+              }
+            ],
+            "sumario": "Alargamento do Fundo de Compensação Salarial dos Profissionais da Pesca (ALRM)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Texto final apresentado pela Comissão de Trabalho e dos Assuntos Sociais.",
+    "OevId": "164951",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3276",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-10-15",
+        "pubLeg": "IX",
+        "pubNr": "12",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/012/2004-10-15?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2004-10-14",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "32523",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "12",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
