@@ -24,6 +24,6 @@ h) Informação dos serviços de reinserção social: resposta a solicitações 
 
 2 - Para efeitos do disposto no presente Código, apenas podem considerar-se como casos de terrorismo, criminalidade violenta ou altamente organizada as condutas que:
 
-a) Integrarem os crimes previstos nos artigos 299.º, 300.º ou 301.º do Código Penal; ou
+a) a) Integrarem os crimes previstos no artigo 299.º do Código Penal e nos artigos 2.º e 3.º da Lei n.º 52/2003, de 22 de agosto, ou
 
 b) Dolosamente se dirigirem contra a vida, a integridade física ou a liberdade das pessoas e forem puníveis com pena de prisão de máximo igual ou superior a cinco anos.
