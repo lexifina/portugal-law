@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 95/90, publicado no Diário da República, 1.ª série, n.º 66, de 20 de Março de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No n.º 4 do artigo 4.º do Decreto-Lei n.º 442-A/88, de 30 de Novembro, na redacção que lhe foi dada pelo n.º 2 do artigo 1.º do Decreto-Lei n.º 95/90, onde se lê «silvícola ou pecuária, com proveitos interiores a 3000 contos, ou exercida em prédios rústicos cujo valor patrimonial total, para efeitos de contribuição autárquica, seja inferior a 1500 contos» deve ler-se «silvícola ou pecuária com proveitos inferiores a 3000 contos e exercida em prédios rústicos cujo valor patrimonial total, para efeitos de contribuição autárquica, seja inferior a 1500 contos».
+Secretaria-Geral da Presidência do Conselho de Ministros, 24 de Abril de 1990. - O Secretário-Geral, França Martins.
