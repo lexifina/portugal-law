@@ -1,0 +1,5 @@
+Aviso n.º 32/99
+Por ordem superior se torna público que, agindo na sua qualidade de depositário dos Protocolos I e II Adicionais às Convenções para a Protecção das Vítimas da Guerra, adoptados em Genebra em 8 de Junho de 1977, o Conselho Federal Suíço notificou ter a República Libanesa depositado o seu instrumento de adesão em 23 de Julho de 1997.
+Nos termos das suas disposições finais, os Protocolos entraram em vigor para a República Libanesa seis meses após o depósito do instrumento de adesão, isto é, em 23 de Janeiro de 1998.
+Portugal é Parte nos mesmos Protocolos, os quais foram aprovados, para ratificação, pela Resolução da Assembleia da República n.º 10/92, de 1 de Abril, tendo depositado o seu instrumento de ratificação em 27 de Maio de 1992, conforme os Avisos n.os 100/92, de 17 de Julho, e 277/94, de 28 de Outubro, tornando pública a declaração facultativa referente ao artigo 90.º do Protocolo I.
+Departamento de Assuntos Jurídicos, 13 de Janeiro de 1999. - O Director, José Maria Teixeira Leite Martins.
