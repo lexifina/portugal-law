@@ -1,0 +1,6 @@
+Portaria n.º 51/75
+de 28 de Janeiro
+Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Assuntos Económicos, depois de obtida do Estado de Angola a respectiva contrapartida, abrir, nos termos do § único do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, conjugado com o artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, e artigo 3.º do aludido Decreto n.º 35770 e sua alínea e), com a nova redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, um crédito especial da importância de 8789310$00, destinado a reforçar a verba do capítulo 10.º, artigo 1561.º, n.º 3 «Encargos gerais - Quota-parte da província em encargos na metrópole - Hospital do Ultramar», da tabela de despesa ordinária do Orçamento Geral do referido Estado para o ano económico de 1974, tomando como contrapartida o excesso de cobrança sobre a previsão da receita do capítulo 3.º, artigo 19.º, n.º 3 «Indústrias em regime tributário especial - Imposto de fabricação e consumo do tabaco - Selagem», do orçamento de receita ordinária para o mesmo ano económico.
+Secretaria de Estado dos Assuntos Económicos, 18 de Janeiro de 1975. - O Secretário de Estado dos Assuntos Económicos, Fernando de Castro Fontes.
+
+Para ser publicada no Boletim Oficial do Estado de Angola. - Fernando de Castro Fontes.
