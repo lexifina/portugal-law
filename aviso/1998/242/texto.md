@@ -1,0 +1,4 @@
+Aviso n.º 242/98
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos transmitiu uma notificação, em conformidade com o artigo 45 da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia a 25 de Outubro de 1980, segundo a qual a Convenção continua em vigor entre os Estados Contratantes e a República da Croácia a partir de 7 de Outubro de 1991 e a República Checa e a República Eslovaca são consideradas como Estados signatários da Convenção.
+Relativamente a Portugal, a Convenção foi aprovada, para ratificação, pelo Decreto do Governo n.º 33/83, publicado no Diário da República, 1.ª série, n.º 108, de 11 de Maio de 1983, e o depósito do instrumento de ratificação foi feito em 29 de Setembro de 1983, conforme Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984.
+Departamento de Assuntos Jurídicos, 9 de Outubro de 1998. - O Director, José Maria Teixeira Leite Martins.
