@@ -1,0 +1,8 @@
+Aviso n.º 5/88
+No processo de gradual liberalização dos mercados monetários e financeiros é agora oportuno suspender, para a generalidade das operações activas, a aplicação da taxa máxima a que vêm estando sujeitas, com a excepção das respeitantes a crédito à habitação, que se entende manter em regime diferenciado.
+Continua, outrossim, a manter-se a referida taxa para efeitos de indexações, remissões legais e utilizações similares, sem prejuízo de esta matéria vir a ser, ulteriormente, contemplada em diploma adequado, para se assegurar aos agentes económicos a existência de bases de indexação que traduzam sem excessivo desfasamento ou volatilidade a evolução das condições do mercado.
+O Banco de Portugal, sob a orientação do Ministro das Finanças e no uso da competência que lhe é atribuída pelos artigos 16.º e 26.º da sua Lei Orgânica e em aplicação do previsto no artigo 28.º, alínea b), da mesma Lei Orgânica, determina o seguinte:
+1.º É suspensa a aplicação da taxa estabelecida no n.º 2.º, n.º 1, do aviso n.º 3/88, publicado no suplemento ao Diário da República, 1.ª série, n.º 104, de 5 de Maio de 1988, como máximo para as operações activas, salvo nas operações de crédito à habitação e empréstimos concedidos ao abrigo das contas poupança-habitação, criadas pelo Decreto-Lei n.º 35/86, de 3 de Março.
+2.º O disposto na presente determinação do Banco de Portugal será aplicado às operações de crédito efectuadas a partir da data da entrada em vigor do presente aviso ou, quando se trate de operações anteriores, a partir do primeiro período de contagem de juros subsequente à mesma data.
+3.º A presente determinação entra imediatamente em vigor.
+Ministério das Finanças, 15 de Setembro de 1988. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
