@@ -1,0 +1,59 @@
+# Acórdão do Supremo Tribunal Administrativo de 1984-01-19, processo 016312
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 016312
+
+**Data do Acordão:** 01/19/1984
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** MILLER SIMÕES
+
+**Descritores:** AUTORIZAÇÃO LEGISLATIVA; INCONSTITUCIONALIDADE MATERIAL; INCONSTITUCIONALIDADE ORGANICA; COMISSÃO REGULADORA DOS PRODUTOS QUÍMICOS E FARMACÊUTICOS; TAXA; ORGANISMO DE COORDENAÇÃO ECONOMICA
+
+**Nº Convencional:** JSTA00002503
+
+**Nº do Documento:** SA119840119016312
+
+**Data de Entrada:** 07/13/1981
+
+**Recorrente:** JOHNSON & JOHNSON LDA
+
+**Recorrido 1:** COMIS DE GESTÃO DA COMISREGUL DOS PRODUTOS QUIMICOS E FARMACEUTICOS
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 0
+
+**Página:** 0
+
+**Apêndice:** DR
+
+**Data do Apêndice:** 12/05/1986
+
+**1ª Pág. de Publicação do Acordão:** 236
+
+**Privacidade:** 01
+
+**Meio Processual:** REC CONT.
+
+**Objecto:** DEL COMIS GESTÃO DA COMISREGUL DOS PRODUTOS QUIMICOS E FARMACEUTICOS DE 1981/05/28.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM GER. DIR FISC - IMPOSTOS / TAXA.
+
+**Área Temática 2:** DIR CONST - SISTEM FINANC FISC.
+
+**Legislação Nacional:** DL 374-H/79 DE 1979/09/10 ART2 ART8.; CONST76 ART106 N2 ART122 ART167 O ART168 N1.; L 43/79 DE 1979/09/07 ART6.; L 3/76 DE 1976/09/10 ART1 N1 ART2.; L 21-A/79 DE 1979/06/25 ART31.; L 40/81 DE 1981/12/31 ART58.; CCIV66 ART9 N1.; PORT 427/72 DE 1972/08/04.; PORT 401/73 DE 1973/06/08.; PORT 417/73 DE 1973/06/12.; RCR 195/82 IN DR IS 1982/09/02.
+
+**Jurisprudência Nacional:** AC STA DE 1983/02/10 IN AD N257 PAG579.; AC STA PROC16962 DE 1983/03/10.; AC STA PROC16616 DE 1983/04/21.; AC STA PROC17020 DE 1983/04/21.; AC STA PROC17050 DE 1983/04/28.; AC STA IN AD N167 PAG1474 PAG1492.; AC STA IN AD N178 PAG1331.; AC STA IN AD N204 PAG1473.; AC STA IN AD N250 PAG1238.; AC STA IN AD N211 PAG569.; AC STA IN AD N169 PAG124.; AC STA PROC16437 DE 1983/03/03.; AC STA IN DR IS 1982/09/02.
+
+**Referência a Pareceres:** P PGR 265/79 DE 1979/03/01 IN DR IIS 1979/05/30 E IN BMJ N290 PAG115.; P CC DE 1982/07/21.
+
+**Referência a Doutrina:** CARDOSO DA COSTA CURSO DE DIREITO FISCAL 2ED PAG174 PAG216 PAG238.; CORTES ROSA APLICAÇÃO TEMPORARIA DAS NORMAS FISCAIS IN CTF 1961 PAG49 PAG575 PAG577 PAG582.; Texto Integral
+
+## Sumário
+
+O Dec-Lei 374-H/79, de 10-9, não padece de inconstitucionalidade, não se justificando que com esse fundamento se recuse a sua aplicação ou se anule acto que tenha exigido o pagamento das imposições pecuniarias nele estabelecidas.
