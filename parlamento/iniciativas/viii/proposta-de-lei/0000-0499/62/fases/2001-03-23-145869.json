@@ -1,0 +1,402 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "62",
+    "id": "5746",
+    "titulo": "Altera a Lei nº 74/98, de 11 de Novembro que, aprova o regime da publicação, identificação e formulário dos diplomas,  no sentido de atribuir relevância jurídica para todos os efeitos legais à versão electrónica do Diário da República"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-03-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1923",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-03-23",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-03-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  PRESIDÊNCIA  DO  CONS.  MINISTROS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Vitalino Canas"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137201",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2513-2514",
+                  "2518-2519"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2513?pgs=2513-2514,2518-2519&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.74/98 DE 11 DE NOVEMBRO QUE APROVA O REGIME DA PUBLICACAO IDENTIFICACAO E FORMULARIO DOS DIPLOMAS NO SENTIDO DE ATRIBUIR RELEVANCIA JURIDICA PARA TODOS OS EFEITOS LEGAIS A VERSAO ELECTRONICA DO DIARIO DA REPUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137202",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2514-2515"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2514?pgs=2514-2515&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.74/98 DE 11 DE NOVEMBRO QUE APROVA O REGIME DA PUBLICACAO IDENTIFICACAO E FORMULARIO DOS DIPLOMAS NO SENTIDO DE ATRIBUIR RELEVANCIA JURIDICA PARA TODOS OS EFEITOS LEGAIS A VERSAO ELECTRONICA DO DIARIO DA REPUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137203",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2515-2515"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2515?pgs=2515&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.74/98 DE 11 DE NOVEMBRO QUE APROVA O REGIME DA PUBLICACAO IDENTIFICACAO E FORMULARIO DOS DIPLOMAS NO SENTIDO DE ATRIBUIR RELEVANCIA JURIDICA PARA TODOS OS EFEITOS LEGAIS A VERSAO ELECTRONICA DO DIARIO DA REPUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137204",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2515-2516"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2515?pgs=2515-2516&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.74/98 DE 11 DE NOVEMBRO QUE APROVA O REGIME DA PUBLICACAO IDENTIFICACAO E FORMULARIO DOS DIPLOMAS NO SENTIDO DE ATRIBUIR RELEVANCIA JURIDICA PARA TODOS OS EFEITOS LEGAIS A VERSAO ELECTRONICA DO DIARIO DA REPUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1166",
+                "nome": "Claudio Monteiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137227",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2516-2518"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2516?pgs=2516-2518&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.74/98 DE 11 DE NOVEMBRO QUE APROVA O REGIME DA PUBLICACAO IDENTIFICACAO E FORMULARIO DOS DIPLOMAS NO SENTIDO DE ATRIBUIR RELEVANCIA JURIDICA PARA TODOS OS EFEITOS LEGAIS A VERSAO ELECTRONICA DO DIARIO DA REPUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137230",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2519-2519"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2519?pgs=2519&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.74/98 DE 11 DE NOVEMBRO QUE APROVA O REGIME DA PUBLICACAO IDENTIFICACAO E FORMULARIO DOS DIPLOMAS NO SENTIDO DE ATRIBUIR RELEVANCIA JURIDICA PARA TODOS OS EFEITOS LEGAIS A VERSAO ELECTRONICA DO DIARIO DA REPUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137231",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2519-2519"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2519?pgs=2519&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.74/98 DE 11 DE NOVEMBRO QUE APROVA O REGIME DA PUBLICACAO IDENTIFICACAO E FORMULARIO DOS DIPLOMAS NO SENTIDO DE ATRIBUIR RELEVANCIA JURIDICA PARA TODOS OS EFEITOS LEGAIS A VERSAO ELECTRONICA DO DIARIO DA REPUBLICA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "145869",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1923",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-03-24",
+        "pubLeg": "VIII",
+        "pubNr": "64",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
