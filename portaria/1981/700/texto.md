@@ -1,0 +1,5 @@
+Portaria n.º 700/81
+de 14 de Agosto
+Em consequência do esvaziamento a que vai estar sujeita a albufeira criada pela barragem do Pego do Altar, sita no concelho de Alcácer do Sal, para limpeza e reparação das comportas de fundo e no intuito de se alcançar o melhor aproveitamento das espécies piscícolas ali existentes:
+Manda o Governo da República Portuguesa, pela Secretaria de Estado da Produção, nos termos do artigo 41.º do Regulamento da Pesca nas Águas Interiores, aprovado pelo Decreto n.º 44623, de 10 de Outubro de 1962, autorizar que unicamente na referida albufeira e apenas durante os meses de Agosto e Setembro do corrente ano, período em que decorre o seu esvaziamento, se possa exercer a pesca por qualquer forma e de qualquer modo, com total dispensa do estipulado nos artigos 30.º, 33.º a 40.º, 42.º e 44.º, e seus respectivos parágrafos e alíneas, do Regulamento aprovado pelo Decreto n.º 44623.
+Ministério da Agricultura e Pescas, 23 de Julho de 1981. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.
