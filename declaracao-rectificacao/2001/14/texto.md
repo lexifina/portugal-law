@@ -1,0 +1,3 @@
+Declaração de Rectificação n.º 14/2001
+Por terem sido publicados com inexactidão no suplemento ao Diário da República, 1.ª série-A, n.º 153, de 4 de Julho de 2001, o sumário e os Decretos do Presidente da República, rectifica-se que onde se lê «Decreto do Presidente da República n.º 34-A/2001» deve ler-se «Decreto do Presidente da República n.º 34-E/2001» e onde se lê «Decreto do Presidente da República n.º 34-B/2001» deve ler-se «Decreto do Presidente da República n.º 34-F/2001».
+Secretaria-Geral da Presidência da República, 11 de Julho de 2001. - O Secretário-Geral, José Vicente de Bragança.
