@@ -28,4 +28,6 @@ a) Comparecer perante o juiz, o Ministério Público ou os órgãos de polícia 
 
 b) Responder com verdade às perguntas feitas por entidade competente sobre a sua identidade e, quando a lei o impuser, sobre os seus antecedentes criminais;
 
-c) Sujeitar-se a diligências de prova e a medidas de coacção e garantia patrimonial especificadas na lei e ordenadas e efectuadas por entidade competente.
+c) Prestar termo de identidade e residência logo que assuma a qualidade de arguido;
+
+d) Sujeitar-se a diligências de prova e a medidas de coacção e garantia patrimonial especificadas na lei e ordenadas e efectuadas por entidade competente.

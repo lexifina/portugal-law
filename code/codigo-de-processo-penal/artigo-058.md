@@ -14,4 +14,6 @@ d) For levantado auto de notícia que dê uma pessoa como agente de um crime e a
 
 2 - A constituição de arguido opera-se através da comunicação, oral ou por escrito, feita ao visado por uma autoridade judiciária ou um órgão de polícia criminal, de que a partir desse momento aquele deve considerar-se arguido num processo penal e da indicação e, se necessário, explicação dos direitos e deveres processuais referidos no artigo 61.º que por essa razão passam a caber-lhe.
 
-3 - A omissão ou violação das formalidades previstas nos números anteriores implica que as declarações prestadas pela pessoa visada não podem ser utilizadas como prova contra ela.
+3 - A constituição de arguido implica a entrega, sempre que possível no próprio acto, de documento de que constem a identificação do processo e do defensor, se este tiver sido nomeado, e os direitos e deveres processuais referidos no artigo 61.º
+
+4 - A omissão ou violação das formalidades previstas nos números anteriores implica que as declarações prestadas pela pessoa visada não podem ser utilizadas como prova contra ela.

@@ -2,7 +2,7 @@
 
 ### (Defensor nomeado)
 
-1 - A nomeação de defensor é-lhe notificada quando não estiver presente no acto.
+1 - A nomeação de defensor é notificada ao arguido e ao defensor quando não estiverem presentes no acto.
 
 2 - O defensor nomeado pode ser dispensado do patrocínio se alegar causa que o tribunal julgue justa.
 

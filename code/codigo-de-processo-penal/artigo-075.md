@@ -2,4 +2,6 @@
 
 ### (Dever de informação)
 
-No primeiro acto em que intervier no processo penal pessoa que se saiba ter legitimidade para deduzir pedido de indemnização civil, deve ela ser informada pela autoridade judiciária da possibilidade de o fazer valer no processo penal e das formalidades a observar.
+1 - Logo que, no decurso do inquérito, se tomar conhecimento da existência de eventuais lesados, devem estes ser informados, pela autoridade judiciária ou pelos órgãos de polícia criminal, da possibilidade de deduzirem pedido de indemnização civil em processo penal e das formalidades a observar.
+
+2 - Quem tiver legitimidade para deduzir pedido de indemnização civil deve manifestar no processo, até ao encerramento do inquérito, o propósito de o fazer.

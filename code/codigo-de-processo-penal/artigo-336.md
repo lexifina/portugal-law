@@ -1,9 +1,9 @@
 # Artigo 336.º
 
-### (Declaração de contumácia. Caducidade)
+### Caducidade da declaração de contumácia
 
-1 - A declaração de contumácia é da competência do presidente e implica a suspensão dos termos ulteriores do processo até à apresentação ou à detenção do arguido, sem prejuízo da realização de actos urgentes nos termos do artigo 320.º
+1 - A declaração de contumácia caduca logo que o arguido se apresentar ou for detido, sem prejuízo do disposto no n.º 4 do artigo anterior.
 
-2 - Em caso de conexão de processos, a declaração de contumácia implica a separação daqueles em que tiver sido proferida.
+2 - Logo que se apresente ou for detido, o arguido é sujeito a termo de identidade e residência, sem prejuízo de outras medidas de coacção, observando-se o disposto no artigo 58.º, n.os 2, 3 e 4.
 
-3 - A declaração de contumácia caduca logo que o arguido se apresentar ou for detido, sem prejuízo do disposto no número anterior.
+3 - Se o processo tiver prosseguido nos termos do artigo 283.º, n.º 5, parte final, o arguido é notificado da acusação, podendo requerer a abertura de instrução no prazo a que se refere o artigo 287.º, seguindo-se os demais termos previstos para o processo comum.

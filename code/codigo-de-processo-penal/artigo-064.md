@@ -14,6 +14,10 @@ d) Nos recursos ordinários ou extraordinários;
 
 e) Nos casos a que se referem os artigos 271.º e 294.º;
 
-f) Nos demais casos que a lei determinar.
+f) Na audiência de julgamento realizada na ausência do arguido;
+
+g) Nos demais casos que a lei determinar.
 
 2 - Fora dos casos previstos no número anterior pode o tribunal nomear defensor ao arguido, oficiosamente ou a pedido deste, sempre que as circunstâncias do caso revelarem a necessidade ou a conveniência de o arguido ser assistido.
+
+3 - Sem prejuízo do disposto nos números anteriores, se o arguido não tiver advogado constituído nem defensor nomeado, é obrigatória a nomeação de defensor no despacho de encerramento do inquérito, quando contra ele for deduzida acusação.

@@ -2,10 +2,8 @@
 
 ### (Representação)
 
-1 - Compete ao Ministério Público formular o pedido de indemnização civil relativamente a lesado que lho requeira.
+1 - O lesado pode fazer-se representar por advogado, sendo obrigatória a representação sempre que, em razão do valor do pedido, se deduzido em separado, fosse obrigatória a constituição de advogado, nos termos da lei do processo civil.
 
-2 - O lesado pode fazer-se representar por advogado.
+2 - Os demandados e os intervenientes devem fazer-se representar por advogado.
 
-3 - A representação por advogado faz cessar a intervenção do Ministério Público e implica para o lesado a aceitação dos actos processuais por aquele praticados.
-
-4 - Devem fazer-se representar por advogados os demandados e os intervenientes, mas se o não fizerem são representados por defensor nomeado pelo juiz.
+3 - Compete ao Ministério Público formular o pedido de indemnização civil em representação do Estado e de outras pessoas e interesses cuja representação lhe seja atribuída por lei.

@@ -2,7 +2,7 @@
 
 ### (Tramitação)
 
-1 - Se o Ministério Público não estiver presente no início da audiência e nem ele nem o substituto legal puderem comparecer de imediato, o tribunal nomeia pessoa idónea.
+1 - Se o Ministério Público não estiver presente no início da audiência e não puder comparecer de imediato, o tribunal procede à sua substituição pelo substituto legal.
 
 2 - Logo que dê início à audiência, o tribunal avisa, sob pena de nulidade, quem tiver legitimidade para recorrer da sentença de que pode requerer a documentação dos actos de audiência, a efectuar por súmula.
 

@@ -2,7 +2,7 @@
 
 ### (Acusação pelo assistente)
 
-1 - Até cinco dias após a notificação da acusação do Ministério Público, o assistente pode também deduzir acusação pelos factos acusados pelo Ministério Público, por parte deles ou por outros que não importem uma alteração substancial daqueles.
+1 - Até 10 dias após a notificação da acusação do Ministério Público, o assistente pode também deduzir acusação pelos factos acusados pelo Ministério Público, por parte deles ou por outros que não importem alteração substancial daqueles.
 
 2 - É correspondentemente aplicável o disposto no n.º 3 do artigo anterior, com as seguintes modificações:
 

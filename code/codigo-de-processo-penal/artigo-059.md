@@ -6,4 +6,4 @@
 
 2 - A pessoa sobre quem recair suspeita de ter cometido um crime tem direito a ser constituída, a seu pedido, como arguido sempre que estiverem a ser efectuadas diligências, destinadas a comprovar a imputação, que pessoalmente a afectem.
 
-3 - É correspondentemente aplicável o disposto no n.º 3 do artigo anterior.
+3 - É correspondentemente aplicável o disposto nos n.os 3 e 4 do artigo anterior.

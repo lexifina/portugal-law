@@ -6,6 +6,6 @@
 
 2 - O Ministério Público, depois de interrogar sumariamente o arguido, se o julgar conveniente, apresenta-o imediatamente, ou no mais curto prazo possível, ao tribunal competente para o julgamento.
 
-3 - Se o Ministério Público tiver razões para crer que os prazos de julgamento em processo sumário não poderão ser respeitados, determina a tramitação do processo sob a forma comum.
+3 - Se o Ministério Público tiver razões para crer que os prazos de julgamento em processo sumário não poderão ser respeitados, determina a tramitação sob outra forma processual.
 
 4 - No caso referido no número anterior, o Ministério Público liberta imediatamente o arguido, sujeitando-o, se disso for caso, a termo de identidade e residência, ou apresenta-o ao juiz para efeitos de aplicação de medida de coacção ou de garantia patrimonial.
