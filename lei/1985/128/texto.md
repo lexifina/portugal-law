@@ -1,0 +1,36 @@
+Lei n.º 128/85
+de 4 de Outubro
+Criação da freguesia de Nossa Senhora do Guadalupe no concelho de Évora
+A Assembleia da República decreta, nos termos da alínea j) do artigo 167.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:
+ARTIGO 1.º
+É criada no concelho de Évora a freguesia de Nossa Senhora de Guadalupe.
+ARTIGO 2.º
+Os limites da nova freguesia, conforme representação cartográfica anexa, são:
+A norte, a delimitação é materializada por uma linha que nasce a poente, no limite do concelho de Évora, situada na estrada nacional n.º 370. Segue ao longo desta via até ao cruzamento com o caminho vicinal de Godel, inflectindo na direcção sudoeste pela linha de água afluente do ribeiro do Casbarro, seguindo ao longo deste até atingir o caminho vicinal do Monte do Casbarro. Segue pelo caminho vicinal que é bordejado pelo muro de extremas de Valada do Mato e Azinhalinho, junto a elevação de Moguizo, e daqui pelo caminho vicinal da Quinta da Atafona, até encontrar o actual limite da freguesia da Sé de Évora;
+A sul, limite existente com a freguesia de Nossa Senhora da Tourega;
+A poente, limites existentes com as freguesias de Nossa Senhora da Boa Fé e São Sebastião da Gusteira e com o concelho de Montemor-o-Novo;
+A nascente, limites existentes com a freguesia da Sé de Évora.
+ARTIGO 3.º
+1 - A comissão instaladora da nova freguesia será constituída nos termos e no prazo previstos no artigo 10.º da Lei n.º 11/82, de 2 de Junho.
+2 - Para os efeitos da disposição referida no número anterior, a Assembleia Municipal de Évora nomeará uma comissão instaladora constituída por:
+a) 1 representante da Câmara Municipal de Évora;
+b) 1 representante da Assembleia Municipal de Évora;
+c) 1 representante da Assembleia de Freguesia de Nossa Senhora do Divor;
+d) 1 representante da Junta de Freguesia de Nossa Senhora do Divor;
+e) 5 cidadãos eleitores designados de acordo com o n.º 3 do artigo 10.º da Lei n.º 11/82.
+ARTIGO 4.º
+1 - A comissão instaladora exercerá funções até à tomada de posse dos órgãos autárquicos da nova freguesia.
+2 - O artigo 10.º, n.º 6, da Lei n.º 11/82 não se aplica à criação da presente freguesia.
+ARTIGO 5.º
+As eleições para a assembleia da nova freguesia realizar-se-ão na data das primeiras eleições autárquicas gerais posteriores à entrada em vigor da presente lei.
+ARTIGO 6.º
+A presente lei entra em vigor 5 dias após a sua publicação.
+Aprovada em 11 de Julho de 1985.
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
+Promulgada em 2 de Setembro de 1985.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendada em 4 de Setembro de 1985.
+O Primeiro-Ministro, Mário Soares.
+
+(ver documento original)
