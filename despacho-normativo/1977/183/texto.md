@@ -1,0 +1,4 @@
+Despacho Normativo n.º 183/77
+Tendo-me sido apresentadas dúvidas acerca da classificação dos hospitais-maternidades, para efeitos do Decreto Regulamentar n.º 30/77, de 20 de Maio, e despacho do Secretário de Estado da Saúde de 30 de Maio de 1977, publicado no Diário da República, 2.ª série, de 18 de Junho de 1977, esclareço, ao abrigo do artigo 43.º daquele decreto, o seguinte:
+Para os efeitos do Decreto Regulamentar n.º 30/77, designadamente do seu artigo 8.º, bem como para os do despacho do Secretário de Estado da Saúde de 30 de Maio de 1977, publicado no Diário da República, 2.ª série, de 18 de Junho de 1977, as maternidades incluem-se na categoria de «restantes hospitais», visto não serem «hospitais centrais gerais».
+Ministro dos Assuntos Sociais, 24 de Agosto de 1977. - O Ministro dos Assuntos Sociais, Armando Bacelar.
