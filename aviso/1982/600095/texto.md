@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, de harmonia com comunicação da Embaixada da Bélgica em Lisboa, o Governo da Espanha depositou, em 6 de Janeiro de 1982, o instrumento de ratificação da Convenção Internacional para a Unificação de Certas Regras em Matéria de Conhecimento e Protocolo de Assinatura, assinado em Bruxelas em 25 de Agosto de 1924, bem como do Protocolo que introduziu alterações àquela Convenção, assinado em Bruxelas a 23 de Fevereiro de 1968.
+Direcção-Geral dos Negócios Económicos, 26 de Fevereiro de 1982. - O Adjunto do Director-Geral, António Guilherme Lopes de Oliveira Cascais.
