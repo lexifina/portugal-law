@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ktYqpeS%2ft%2bZbliS4sHhftatFgOONJZv%2b0jwNSKIew1t0xo7wpSD4Wuod7wOpHm6JnVumY%2fcLg1QEJ6QuXOoI0mCZg8Now%2fNFrlqr4xaPyukQAb7VOIDJycUu8LgcqeBWkrLalvQbJNVVjYrmyeKurhYgJ88b%2bTAHUhqae0PG2tWw6wd9S%2fB1oSkkszdy9OWFhN3wUjxq5HmVweG9RQH09rl4k2N5tPgs%2fzprZm2tzFHnHSctshbR2DfX7RwTBfcB1zHFUq7rfF1ywAQTHCnkTEnmy8XmgIMFNpTZggbLiolv7UH6aQ9wXzrJpNDVBZQItckByiVODO72lKf0LysofiwVHTL6an5RgmBfpD1TjRRanKSw%2fu9%2bMNyeFb2ozzbOeEiwgdJpFNYQkXLYkgJujw%3d%3d&fich=RequerimentosIX_json.txt&Inline=true",
+  "ficheiro_sha256": "234acc6bf0a22a14e4ad1370daea559258a1b7960a20d3feebcabf91a9366690",
+  "legislatura": "IX",
+  "id": "31881",
+  "tipo": "Requerimento",
+  "numero": "1300",
+  "data_registo": "2004-04-21",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Estudo do Tribunal de Contas sobre a observância da Lei de Enquadramento Orçamental na elaboração do Orçamento do Estado para 2004",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "1553",
+        "nome": "Teresa Venda"
+      }
+    ],
+    "DataEnvio": "2004-04-27",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2004-04-27",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Tribunal de Contas",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2004-05-06",
+            "docRemetida": null,
+            "entidade": "Tribunal de Contas",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077765a445a684e7a5132597a41745a474e685a5330304d4756684c57466a4d3249744d44466c4d546b784e4467334f4751774c6e426b5a673d3d&fich=d6a746c0-dcae-40ea-ac3b-01e1914878d0.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2004-04-21",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077765a5451794e7a59324e4463744d474e6d596930304d7a4e6c4c54677a5a6a59744e4751325a6d466c4e444e694e6a59784c6e426b5a673d3d&fich=e4276647-0cfb-433e-83f6-4d6fae43b661.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "31881",
+    "Legislatura": "IX",
+    "Nr": "1300",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "290476",
+        "obs": "136-(15)",
+        "pag": [
+          "136-(15)-136-(15)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2004",
+        "pubLeg": "IX",
+        "pubNr": "27",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/02/027S1/2004-04-24/136-(15)?pgs=136-(15)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
