@@ -1,0 +1,5 @@
+Aviso n.º 281/99
+Por ordem superior se torna público que, por nota de 7 de Dezembro de 1999, o director-geral da Organização Internacional do Trabalho, na sua qualidade de depositário da Convenção n.º 23 da OIT sobre o Repatriamento de Marítimos, adoptada em Genebra em 23 de Junho de 1926, comunicou ter o Governo de Portugal notificado, em 11 de Novembro de 1999, que a referida Convenção foi estendida ao território de Macau nos mesmos termos em que a ela está vinculado o Estado Português.
+Portugal é Parte da Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 113/82, de 13 de Outubro, publicado no Diário da República, 1.ª série, n.º 237, de 13 de Outubro de 1982, e estendida a Macau pelo Decreto do Presidente da República n.º 221/99, de 16 de Novembro, publicado no Diário da República, 1.ª série-A, n.º 267, de 16 de Novembro de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 10 de Dezembro de 1999. - António Nunes de Carvalho Santana Carlos.
