@@ -1,0 +1,13 @@
+Declaração
+Declara-se, para os devidos efeitos, que entre o original arquivado nesta Secretaria-Geral e o texto do Decreto n.º 48809, publicado, pelo Ministério das Finanças, Direcção-Geral da Contabilidade Pública, no Diário do Governo n.º 306, 1.ª série, de 30 de Dezembro último, existe a seguinte divergência, que assim se rectifica:
+No artigo 3.º, onde se lê:
+...
+Ministério do Exército
+...
+Capítulo 3.º, artigo 66.º, n.º 1), alínea 1 ... 24000$00
+deve ler-se:
+...
+Ministério do Exército
+...
+Capítulo 3.º, artigo 66.º, n.º 2), alínea 1 ... 24000$00
+Secretaria-Geral da Presidência do Conselho, 14 de Janeiro de 1969. - O Secretário-Geral, Diogo de Paiva Brandão.
