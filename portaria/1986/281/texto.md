@@ -1,0 +1,13 @@
+Portaria n.º 281/86
+de 14 de Junho
+Para execução do disposto no Decreto-Lei n.º 549/77, de 31 de Dezembro, ratificado pela Lei n.º 55/78, de 27 de Julho, e em conformidade com o disposto no artigo 1.º e no n.º 2 do artigo 2.º do Decreto-Lei n.º 136/83, de 21 de Março, a estrutura orgânica regional do sistema unificado de segurança social consagrado na Constituição tem por base os centros regionais de segurança social, que devem integrar os órgãos, serviços e instituições oficiais existentes na área dos respectivos distritos.
+No prosseguimento dos objectivos que presidem à institucionalização regional da Segurança Social, a descentralização das caixas de actividade e a respectiva integração nos centros regionais tem vindo a ser efectuada com a necessária prudência, para não só não perturbar o funcionamento das instituições, mas também para melhorar a qualidade dos serviços prestados aos beneficiários e contribuintes, aproximando a entidade prestadora dos utentes.
+Na linha de execução do Decreto-Lei n.º 549/77, de 31 de Dezembro, e de harmonia com o disposto no Decreto-Lei n.º 515/79, de 28 de Dezembro, após audição da Caixa de Previdência do Pessoal da Marinha Mercante Nacional, julga-se agora oportuno proceder à sua descentralização, mediante a integração dos respectivos contribuintes, beneficiários e acções nos centros regionais das correspondentes áreas geográficas, bem como a integração orgânica e funcional da mesma no Centro Regional de Segurança Social de Lisboa, de acordo com o estabelecido no Decreto Regulamentar n.º 3/81, de 15 de Janeiro.
+Nestes termos, ao abrigo do disposto no artigo 19.º do Decreto-Lei n.º 549/77, de 31 de Dezembro:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social, o seguinte:
+1.º São integrados nos Centros Regionais de Segurança Social de Aveiro, Beja, Braga, Bragança, Castelo Branco, Coimbra, Faro, Leiria, Porto, Setúbal, Viana do Castelo, Vila Real e Viseu os contribuintes, beneficiários e acções da Caixa de Previdência do Pessoal da Marinha Mercante Nacional dos respectivos distritos até 31 de Dezembro de 1986.
+2.º Em 1 de Janeiro de 1987 será efectuada a integração orgânica e funcional da Caixa de Previdência do Pessoal da Marinha Mercante Nacional no Centro Regional de Segurança Social de Lisboa.
+3.º Dentro dos prazos estabelecidos nos números anteriores a Caixa de Previdência e os Centros Regionais de Segurança Social devem acordar as datas efectivas de integração.
+Secretaria de Estado da Segurança Social.
+Assinada em 21 de Maio de 1986.
+O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.
