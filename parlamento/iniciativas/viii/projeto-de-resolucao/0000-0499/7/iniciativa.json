@@ -1,0 +1,114 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "tipo": "Projeto de Resolução",
+  "numero": "7",
+  "id": "6259",
+  "fases": 5,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1999-11-26",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2000-09-14",
+    "DataInicioleg": "1999-10-25",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "124",
+        "nome": "Miguel Miranda Relvas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1558",
+        "nome": "Cruz Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1242",
+        "nome": "João Moura de Sá"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1241",
+        "nome": "Pedro da Vinha Costa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1643",
+        "nome": "José de Matos Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1239",
+        "nome": "Luís Marques Guedes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "280",
+        "nome": "Carlos Encarnação"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1557",
+        "nome": "Armando Vieira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "299",
+        "nome": "Carlos Martins"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1578",
+        "nome": "Virgílio Almeida Costa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1577",
+        "nome": "Luís Cirilo"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": [
+      {
+        "assunto": "Decreto-lei nº 332/99,de 20 de Agosto que \"cria os Conselhos Económicos e Sociais Regionais\".",
+        "dcl": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "6372",
+        "legislatura": "VIII",
+        "numero": "1",
+        "sessao": "1",
+        "tipo": "A"
+      }
+    ],
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "6259",
+    "IniLeg": "VIII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a557959575a6c5a44497a4c54566a4e5751744e444a694e533034597a67784c574e6d5a4759795a6d4d33597a6c6a4f43356b62324d3d&fich=52afed23-5c5d-42b5-8c81-cfdf2fc7c9c8.doc&Inline=true",
+    "IniNr": "7",
+    "IniObs": "Conselho Económico e Social Regional ; DL332/99.",
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Cessação da vigência do Decreto-lei n°332/99 de 20 de Agosto.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
