@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1916/05/08900/04180418.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1916-05-09",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "95bd98e2eaa706a6728ee27e3173c33b4643dde79b417d91f2b6ae0f5584af3f",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.8,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "8d1ec530e96a6a60d00bee28262a29e3d108facb669efb48bc63663bd09987b9",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 89
 }
