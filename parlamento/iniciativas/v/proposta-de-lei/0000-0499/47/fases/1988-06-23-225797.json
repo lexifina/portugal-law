@@ -1,0 +1,1495 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "47",
+    "id": "29280",
+    "titulo": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1988-06-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4980",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1988-06-23",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-06-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213822",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4318-4318"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4318?pgs=4318&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  INDÚSTRIA E ENERGIA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Mira Amaral"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213823",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4318-4319",
+                  "4323-4323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4318?pgs=4318-4319,4323&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  OBRAS PÚB.TRANS.E COMUNIC.",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "João Oliveira Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213824",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4319-4321",
+                  "4323-4324"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4319?pgs=4319-4321,4323-4324&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213825",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4321-4322"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4321?pgs=4321-4322&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213826",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4322-4322"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4322?pgs=4322&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213827",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4322-4322"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4322?pgs=4322&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213828",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4323-4323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4323?pgs=4323&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213829",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4324-4327",
+                  "4327-4328"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4324?pgs=4324-4327,4327-4328&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213830",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4327-4327"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4327?pgs=4327&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213831",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4328-4330",
+                  "4331-4333"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4328?pgs=4328-4330,4331-4333&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213832",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4330-4330",
+                  "4331-4331"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4330?pgs=4330,4331&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213833",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4330-4331"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4330?pgs=4330-4331&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213834",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4333-4333"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4333?pgs=4333&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213835",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4333-4333"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4333?pgs=4333&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213836",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4333-4335",
+                  "4335-4336"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4333?pgs=4333-4335,4335-4336&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213837",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4335-4335"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4335?pgs=4335&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213838",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4336-4336"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4336?pgs=4336&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213839",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4337-4337"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4337?pgs=4337&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213840",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4337-4339",
+                  "4340-4342"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4337?pgs=4337-4339,4340-4342&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213841",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4339-4340",
+                  "4341-4341"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4339?pgs=4339-4340,4341&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213842",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4340-4340"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4340?pgs=4340&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213843",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4342-4243"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4342?pgs=4342-4243&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  INDÚSTRIA E ENERGIA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Mira Amaral"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213844",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4343-4343",
+                  "4344-4345"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4343?pgs=4343,4344-4345&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213845",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4343-4343"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4343?pgs=4343&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213846",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4344-4344"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4344?pgs=4344&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213847",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4344-4344",
+                  "4345-4345"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4344?pgs=4344,4345&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ENERGIA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Nuno Ribeiro Da Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213848",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4345-4347",
+                  "4347-4348"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4345?pgs=4345-4347,4347-4348&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213849",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4347-4347"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4347?pgs=4347&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213850",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4347-4347"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4347?pgs=4347&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  INDÚSTRIA E ENERGIA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Mira Amaral"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4348-4348",
+                  "4349-4349"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4348?pgs=4348,4349&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213852",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4348-4348"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4348?pgs=4348&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213853",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4349-4349"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4349?pgs=4349&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  OBRAS PÚB.TRANS.E COMUNIC.",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "João Oliveira Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213854",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4349-4349"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-06-24",
+                "pubLeg": "V",
+                "pubNr": "105",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24/4349?pgs=4349&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar a Lei nº 46/77, de 8 de Julho (lei de delimitação dos sectores).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "225797",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4980",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-06-24",
+        "pubLeg": "V",
+        "pubNr": "105",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/105/1988-06-24?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
