@@ -1,0 +1,33 @@
+Despacho Normativo n.º 64/93
+Considerando que o Regulamento (CEE) n.º 740/93 do Conselho, de 17 de Março, instituiu um regime de indemnização aos produtores de leite que disponham de uma quantidade de referência atribuída a título de entregas ou de vendas directas e que se comprometam a abandonar total e definitivamente a produção leiteira da sua exploração até 1 de Setembro de 1993;
+Considerando que o regime de indemnização a que se refere o presente despacho resulta da necessidade de intensificar o esforço de reestruturação do sector leiteiro em Portugal, a fim de permitir a este sector enfrentar a concorrência acrescida pela realização do mercado único;
+Considerando que, não obstante a aplicabilidade directa a Portugal do referido regulamento comunitário, a execução do sistema de atribuição de indemnizações implica a fixação de determinadas normas e critérios que atendam às exigências do desenvolvimento regional e às condições de mercado das várias regiões do território nacional;
+Considerando que a quantidade de leite a atribuir a Portugal pelo Regulamento (CEE) n.º 740/93, para aplicação do presente programa de resgate, é repartida pelo continente e pelas Regiões Autónomas, de acordo com as suas necessidades reestruturantes e tendo em conta o peso das respectivas produções na produção leiteira nacional;
+Considerando que os produtores de maior dimensão abrangidos pelas limitações do presente diploma poderão dispor de outros mecanismos de mobilidade das respectivas quotas:
+Determino o seguinte:
+1 - A indemnização, a que se refere o Regulamento (CEE) n.º 740/93 do Conselho, de 17 ECU por 100 kg e por ano será paga durante os anos civis de 1993, 1994 e 1995, sendo o primeiro pagamento efectuado a partir de 15 de Dezembro do corrente ano e os restantes a partir de 1 de Outubro dos respectivos anos.
+2 - A indemnização é concedida para as quantidades de referência atribuídas aos produtores nos termos do artigo 4.º do Regulamento (CEE) n.º 3950/92, quer no âmbito de entregas, quer no âmbito de vendas directas.
+3 - Nos casos de arrendamento rural, o pedido de concessão de indemnização é apresentado pelo arrendatário.
+4 - Aos produtores que disponham de duas quantidades de referência, uma a título de entregas e outra a título de vendas directas, a indemnização é concedida para ambas as quantidades de referência.
+5 - O pedido de concessão da indemnização deve ser apresentado de 10 a 21 de Maio de 1993, nas direcções regionais de agricultura (DRA), em impresso próprio a fornecer pelo Instituto Nacional de Intervenção e Garantia Agrícola (INGA) e distribuído aos interessados por aquelas.
+6 - As DRA remeterão ao INGA, de 21 de Maio a 1 de Junho de 1993, todos os pedidos apresentados.
+7 - O INGA comunicará a decisão sobre os pedidos aos produtores interessados, impreterivelmente até 1 de Agosto de 1993, e informará os compradores em causa.
+8 - Antes da data do primeiro pagamento da indemnização, o INGA, ou em quem este organismo delegar, verificará se o produtor procedeu efectivamente ao abandono total e definitivo da produção leiteira, nos termos do compromisso assumido.
+9 - Os requerentes obrigam-se a prestar aos agentes dos serviços fiscalizadores toda a colaboração necessária, sob pena de lhes ser recusada a atribuição da indemnização.
+10 - O INGA tomará as medidas necessárias para obter o reembolso das indemnizações já pagas, caso o produtor não respeite os compromissos assumidos.
+11 - Em caso de morte do beneficiário da indemnização, esta transmite-se aos seus herdeiros, desde que estes se comprometam perante o INGA a assumir as obrigações do produtor falecido.
+12 - As quantidades de referência máximas que podem ser resgatadas são de 75000 t, das quais 57600 t para entregas e 2400 t para vendas directas no continente, sendo a parte restante destinada às Regiões Autónomas.
+13 - Com vista a uma reestruturação efectiva do sector, em cada área de recolha o resgate será aplicado segundo as seguintes prioridades:
+a) Primeira priopridade. - Produtores com quantidades de referência até 25 t e localizados em zonas em que a recolha se revele antieconómica;
+b) Segunda prioridade. - Ordem crescente das quantidades de referência de cada produtor.
+14 - Para efeitos de aplicação do disposto na alínea b) do número anterior, será tomado em conta o peso proporcional de cada zona de recolha em face da totalidade da produção de leite no continente.
+15 - Sempre que numa determinada área de recolha forem apresentados pedidos de produtores com quantidades específicas de referência iguais e a respectiva quantidade a resgatar seja insuficiente para atender a todos eles, terão prioridade os agricultores de idade superior, completada até à data limite da apresentação do pedido.
+16 - Nos casos em que a quantidade de referência a resgatar de uma determinada área de recolha não se esgote, esta será reafectada às outras áreas de acordo com o procedimento referido no n.º 13.
+17 - Não poderão candidatar-se a esta indemnização os produtores de leite com uma quantidade de referência superior a 100 t e os produtores que tenham beneficiado, nos últimos cinco anos, de quotas suplementares provenientes de:
+a) Investimentos ao abrigo do Regulamento (CEE) n.º 797/85 e de ajudas de pré-adesão;
+b) Investimentos com fundos próprios ao abrigo do Despacho n.º 11/92 do Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar, de 16 de Abril, publicado no Diário da República, 2.ª série, n.º 104, de 6 de Maio seguinte;
+c) Reserva nacional.
+18 - As quantidades de referência provenientes dos produtores de leite que vão cessar a sua actividade serão incorporadas na reserva nacional e distribuídas de acordo com os critérios a definir em regulamentação específica.
+19 - Nas Regiões Autónomas, a fixação das normas e critérios a que se refere o presente despacho será feita pelos órgãos do Governo Regional, em articulação com o INGA.
+20 - Este despacho produz efeitos a partir da presente data.
+Ministério da Agricultura, 21 de Abril de 1993. - Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.
