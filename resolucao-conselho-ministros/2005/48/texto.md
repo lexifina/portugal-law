@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 48/2005
+Entre o Instituto do Emprego e Formação Profissional, I. P. (IEFP), e o município do Porto foi celebrado, em 19 de Março de 1999, um contrato-promessa de permuta dos seguintes imóveis:
+Imóveis da propriedade do IEFP - dois prédios urbanos e um rústico, estando aqueles dois integrados neste, respectivamente designados «Antiga Fábrica de Moagem Harmonia», «Palácio do Freixo» e «Jardim e Logradouro do Palácio do Freixo», todos sitos na Estrada Nacional n.º 107, Freixo, freguesia de Campanhã, Porto, descritos na 1.ª Conservatória do Registo Predial do Porto sob o n.º 31246, a fl. 177 do livro B-39 e inscritos na matriz predial sob os artigos 10271, 10270 e 10272, respectivamente, avaliados pela Direcção-Geral do Património pelo valor global de (euro) 8050687,50, o qual inclui as benfeitorias efectuadas após a tradição dos imóveis pelo IEFP;
+Imóvel registado a favor da Câmara Municipal do Porto - lote de terreno para construção n.º 6, do alvará de loteamento n.º 7/98, sito na Rua do Progresso, Aleixo, freguesia de Lordelo do Ouro, Porto, descrito na 2.ª Conservatória do Registo Predial do Porto sob o n.º 498/19980915 e inscrito na matriz predial sob o artigo 3924, avaliado pela Direcção-Geral do Património pelo valor de (euro) 1930000.
+De acordo com o artigo 4.º do citado contrato-promessa, ocorreu a tradição dos imóveis que caberiam a cada uma das referidas entidades em virtude desse negócio jurídico.
+Uma vez que se encontra regularizada a situação registral dos imóveis do IEFP, pode agora o contrato prometido ser materializado.
+Considerando, assim, que o lote de terreno a adquirir pelo IEFP se destina à construção de um centro de emprego/formação e que a permuta obteve parecer favorável do Ministério das Actividades Económicas e do Trabalho, por despacho do Secretário de Estado Adjunto e do Trabalho, de 10 de Janeiro de 2005, nos termos do disposto no artigo 2.º do Decreto-Lei n.º 74/80, de 15 de Abril:
+Assim:
+Ao abrigo do disposto no artigo 1.º do Decreto-Lei n.º 74/80, de 15 de Abril, e nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar o IEFP a proceder, com o município do Porto, à permuta dos imóveis acima descritos.
+2 - Destinar o imóvel que, por meio da presente permuta, integra o património do IEFP à construção de um centro de emprego/formação.
+Presidência do Conselho de Ministros, 20 de Janeiro de 2005. - O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
