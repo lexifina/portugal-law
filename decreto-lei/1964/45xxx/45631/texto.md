@@ -1,0 +1,9 @@
+Decreto-Lei n.º 45631
+A natureza das funções inerentes às repartições da Direcção-Geral dos Serviços Industriais, referidas no Decreto-Lei n.º 36933, de 24 de Junho de 1948, justifica que a escolha dos respectivos chefes possa fazer-se entre licenciados em Direito, Economia ou Finanças ou diplomados em qualquer especialidade de Engenharia.
+Não sendo este o âmbito actualmente previsto na orgânica daquela Direcção-Geral, e convindo ampliar as possibilidades de escolha no preenchimento de cargos desta natureza, como tem sido, aliás, orientarão seguida no Ministério da Economia;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º, da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. O artigo 23.º do Decreto-Lei n.º 36933, de 24 de Junho de 1948, passa a ter a redacção seguinte:
+Art. 23.º Os chefes de repartição serão escolhidos pelo Secretário de Estado da Indústria de entre os licenciados em Direito, Economia ou Finanças ou diplomados em qualquer especialidade de Engenharia, pertencentes ou não ao quadro da Direcção-Geral dos Serviços Industriais.
+§ único. As nomeações dos funcionários mencionados neste artigo só poderão tornar-se definitivas depois de um ano de bom e efectivo serviço.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 30 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
