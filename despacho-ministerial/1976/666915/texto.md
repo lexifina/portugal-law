@@ -1,0 +1,8 @@
+Despacho ministerial
+1 - Considerando que, até cinco dias antes da abertura das operações de actualização do recenseamento eleitoral, o Governo deverá nomear, por decreto, a Comissão Nacional das Eleições.
+2 - Tendo em vista a urgência na execução de diversas tarefas relativas à montagem das infra-estruturas necessárias ao funcionamento da Comissão Nacional das Eleições.
+3 - É criada a Comissão Instaladora da Comissão Nacional das Eleições.
+4 - A Comissão é constituída por: Adriano Vera Jardim, juiz conselheiro do Supremo Tribunal de Justiça, que presidirá, e pelo licenciado Manuel Vitorino Domingues de Queirós, em representação do Ministério da Administração Interna (Secretariado Técnico dos Assuntos Políticos Eleitorais), e poderá ainda integrar quaisquer elementos nomeados para a Comissão Nacional das Eleições. A competência para a designação subsequente pertencerá ao juiz conselheiro do Supremo Tribunal de Justiça.
+5 - A Comissão Instaladora poderá prolongar os seus trabalhos para além da data de nomeação da Comissão Nacional das Eleições, até resolução cabal de todos os problemas do âmbito da sua competência.
+6 - A competência da Comissão Instaladora decorrerá da necessidade de dotação da Comissão Nacional das Eleições com os meios adequados ao desempenho das funções que, por lei, a esta forem cometidas, meios esses que serão atribuídos pelo Ministério da Administração Interna, através do Secretariado Técnico dos Assuntos Políticos.
+Ministérios da Administração Interna e da Justiça, 30 de Janeiro de 1976. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro da Justiça, João de Deus Pinheiro Farinha.
