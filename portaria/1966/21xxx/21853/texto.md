@@ -1,0 +1,3 @@
+Portaria n.º 21853
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § 1.º do artigo 4.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, reforçar com a importância de 500$00, a verba do capítulo único, artigo 9.º «Diversos encargos - Abono de família», da tabela de despesa do orçamento privativo do Jardim e Museu Agrícola do Ultramar para 1965, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo único, artigo 10.º «Diversos encargos - Ajudas de custo», da referida tabela de despesa.
+Ministério do Ultramar, 4 de Fevereiro de 1966. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota, Subsecretário de Estado da Administração Ultramarina.
