@@ -1,0 +1,18 @@
+Decreto-Lei n.º 285/75
+de 7 de Junho
+Tendo em atenção o carácter generalizado com que os estabelecimentos bancários vinham adoptando práticas conducentes à restituição antecipada de fundos colocados a prazo e os inconvenientes das mesmas resultantes, o Governo, através do Decreto-Lei n.º 2/75, de 7 de Janeiro, veio regular as condições em que os depositantes passaram a poder recuperar disponibilidades colocadas a prazo, mediante o desconto de livranças, cuja emissão solicitassem;
+Considerando agora a necessidade de dotar o sistema de uma certa flexibilidade, em ordem a tornar facilmente mobilizáveis quantias de reduzida importância, bem como as que se encontram em depósito em nome de emigrantes portugueses;
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º São aditados ao artigo 51.º do Decreto-Lei n.º 42641, de 12 de Novembro de 1959, com a redacção que lhe foi dada pelo Decreto-Lei n.º 2/75, de 7 de Janeiro, três parágrafos do seguinte teor:
+Art. 51.º ...
+...
+§ 8.º O disposto no parágrafo anterior não é aplicável:
+a) A levantamentos respeitantes a depósitos constituídos em nome de portugueses residentes fora do território do continente e ilhas adjacentes;
+b) A levantamentos relativos a depósitos constituídos em nome de pessoas singulares residentes no continente e ilhas adjacentes que, no período de vigência de cada depósito, não totalizem mais de 100000$00.
+§ 9.º Aos levantamentos efectuados nos termos do parágrafo precedente será aplicável a taxa de juro correspondente ao período de permanência do depósito, salvo se tal período for inferior a trinta dias, caso em que a taxa a aplicar será a respeitante à dos depósitos à ordem.
+§ 10.º Mediante simples aviso do Banco de Portugal, de acordo com orientação previamente definida pelo Ministério das Finanças, poderá ser limitado o número de contas por depositante susceptíveis de beneficiar da faculdade prevista na alínea b) do § 8.º
+Art. 2.º Este diploma entra imediatamente em vigor.
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Joaquim Fragoso.
+Promulgado em 22 de Maio de 1975.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
