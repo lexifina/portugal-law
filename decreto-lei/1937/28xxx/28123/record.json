@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1937/10/25300/11361136.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1937-10-30",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "1651455c6f0b16dad0804a0655b2efa3dae8e4b32f85345a59bb30220a00bb2b",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.7,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "74d6d4f5fbf6b41866f66ae08e2f1868adae1427d3b3c729fdd6546a12f48b34",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 901
 }
