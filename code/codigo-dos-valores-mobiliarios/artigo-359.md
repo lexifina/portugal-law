@@ -4,7 +4,7 @@
 
 1 - No âmbito das actividades relativas a valores mobiliários, estão sujeitas à supervisão da CMVM, sem prejuízo da competência atribuída a outras autoridades, as seguintes entidades:
 
-a) Entidades gestoras de mercados, de sistemas de liquidação e de sistemas centralizados de valores mobiliários;
+a) Entidades gestoras de mercados, de sistemas de liquidação, de sistemas centralizados de valores mobiliários e as entidades a que se refere a alínea c) do n.º 2 do artigo 268.º;
 
 b) Intermediários financeiros e consultores autónomos;
 

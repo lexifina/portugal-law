@@ -4,13 +4,7 @@
 
 1 - A CMVM, através de regulamento, define as regras a que devem obedecer as operações realizadas pelos intermediários financeiros por conta própria, bem como os termos e prazos da comunicação dessas operações à CMVM, tendo especialmente em vista detectar conflitos de interesses e actuações susceptíveis de pôr em risco a regularidade de funcionamento, a transparência e a credibilidade do mercado.
 
-2 - Relativamente às operações de fomento de mercado, a CMVM, através de regulamento, define, nomeadamente:
-
-a) As regras a que ficam sujeitas as ofertas;
-
-b) Os limites de variação de preços;
-
-c) A informação a prestar à CMVM e ao mercado.
+2 - Relativamente às operações de fomento de mercado e de estabilização de preços a CMVM, através de regulamento, define nomeadamente a informação a prestar, à CMVM e ao mercado, pelas entidades referidas no n.º 2 do artigo 348.º e na alínea a) do artigo 349.º
 
 3 - Relativamente às actividades de estabilização de preços, a CMVM, através de regulamento, define, nomeadamente:
 

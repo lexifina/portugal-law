@@ -2,7 +2,7 @@
 
 ### Defesa do mercado
 
-1 - O intermediário financeiro deve comportar-se com a maior probidade comercial, abstendo-se de participar em operações ou de praticar outros actos susceptíveis de pôr em risco a regularidade de funcionamento, a transparência e a credibilidade do mercado.
+1 - Os intermediários financeiros e os membros de mercado referidos no n.º 3 do artigo 203.º devem comportar-se com a maior probidade comercial, abstendo-se de participar em operações ou de praticar actos susceptíveis de pôr em risco a regularidade de funcionamento, a transparência e a credibilidade do mercado.
 
 2 - São, nomeadamente, susceptíveis de pôr em risco a regularidade de funcionamento, a transparência e a credibilidade do mercado:
 

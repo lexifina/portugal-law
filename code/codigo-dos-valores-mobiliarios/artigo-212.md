@@ -22,7 +22,7 @@ h) Limites à assunção de responsabilidades pelas entidades gestoras de mercad
 
 2 - Em relação aos mercados de bolsa e a outros mercados regulamentados, compete à CMVM, sob proposta ou com audiência prévia da entidade gestora do mercado em causa, estabelecer através de regulamento:
 
-a) Requisitos de admissão à negociação de valores mobiliários e respectivo processo, bem como critérios de dispensa de prospecto;
+a) Critérios de dispensa do prospecto;
 
 b) Regras de cada tipo de operação de bolsa;
 

@@ -18,7 +18,7 @@ a) As ofertas de venda de valores mobiliários admitidos à negociação em merc
 
 b) As ofertas cujo valor global seja inferior a (Euro) 40000;
 
-c) As ofertas de distribuição que estabeleçam o valor mínimo de (Euro) 40000 para cada uma das ordens de subscrição ou de compra;
+c) (Revogada).
 
 d) As ofertas garantidas solidária e incondicionalmente pelo Estado;
 

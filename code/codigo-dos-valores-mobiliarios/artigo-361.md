@@ -18,4 +18,6 @@ e) Substituir-se às entidades gestoras dos mercados de valores mobiliários qua
 
 f) Substituir-se às entidades supervisionadas no cumprimento de deveres de informação.
 
-3 - Nos recursos das decisões tomadas pela CMVM, no exercício dos poderes de supervisão, presume-se, até prova em contrário, que a suspensão da eficácia determina grave lesão do interesse público.
+3 - Nas situações previstas no n.º 1 e nas alíneas a), b) e c) do n.º 2, pode a CMVM determinar por escrito que a pessoa ou a entidade em causa fique sujeita ao dever de não revelar a clientes ou a terceiros o teor ou a ocorrência do acto praticado.
+
+4 - Nos recursos das decisões tomadas pela CMVM, no exercício dos poderes de supervisão, presume-se, até prova em contrário, que a suspensão da eficácia determina grave lesão do interesse público.
