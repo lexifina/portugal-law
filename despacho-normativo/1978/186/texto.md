@@ -1,0 +1,41 @@
+Despacho Normativo n.º 186/78
+Com a finalidade de assegurar uma maior unidade das diferentes intervenções do Ministério da Indústria e Tecnologia no âmbito regional e simplificar as relações entre a Administração e o público nas áreas de competência deste Ministério, o Decreto-Lei n.º 548/77, de 31 de Dezembro, que criou a nova orgânica, prevê, no seu artigo 54.º, a criação de delegações regionais com sede no Porto, Coimbra, Lisboa, Évora e Faro, bem como a definição por portaria das respectivas áreas de jurisdição.
+Dado que estas áreas foram já definidas pela Portaria n.º 459/78, de 12 de Agosto, impõe-se de seguida, e ao abrigo do artigo 48.º daquele diploma, estabelecer os termos em que deverá ser feita a integração nas delegações regionais dos serviços externos da Direcção-Geral dos Serviços Industriais e da Inspecção-Geral dos Produtos Agrícolas e Industriais até à extinção efectiva destes organismos. Ao mesmo tempo, estabeleceram-se as normas gerais de representação regional dos subsectores energéticos e extractivo, nos termos do artigo 11.º, n.º 3, do mesmo diploma, sem prejuízo de posterior regulamentação ao abrigo da citada disposição do artigo 48.º
+Nestes termos, determino:
+1 - Quanto às circunscrições industriais da Direcção-Geral dos Serviços Industriais e às delegações da Inspecção-Geral dos Produtos Agrícolas e Industriais:
+1.1 - As delegações regionais, criadas nos termos do artigo 54.º do Decreto-Lei n.º 548/77, de 31 de Dezembro, integram os serviços externos da Direcção-Geral dos Serviços Industriais e da Inspecção-Geral dos Produtos Agrícolas e Industriais pela forma seguinte:
+A Delegação Regional do Porto compreende:
+A 1.ª Circunscrição Industrial (do Porto) da Direcção-Geral dos Serviços Industriais;
+A 6.ª Circunscrição Industrial da Direcção-Geral dos Serviços Industriais;
+A Delegação do Porto da Inspecção-Geral dos Produtos Agrícolas e Industriais;
+A Delegação de Mirandela da Inspecção-Geral dos Produtos Agrícolas e Industriais.
+A Delegação Regional de Lisboa compreende:
+A 3.ª Circunscrição Industrial (de Lisboa) da Direcção-Geral dos Serviços Industriais;
+A 7.ª Circunscrição Industrial (de Castelo Branco) da Direcção-Geral dos Serviços Industriais;
+A Delegação de Santarém da Inspecção-Geral dos Produtos Agrícolas e Industriais.
+A Delegação Regional de Évora compreende:
+A 4.ª Circunscrição Industrial (de Évora) da Direcção-Geral dos Serviços Industriais;
+A Delegação de Évora da Inspecção-Geral dos Produtos Agrícolas e Industriais.
+A Delegação Regional de Coimbra compreende:
+A 2.ª Circunscrição Industrial (de Coimbra) da Direcção-Geral dos Serviços Industriais;
+A Delegação de Coimbra da Inspecção-Geral dos Produtos Agrícolas e Industriais.
+A Delegação Regional de Faro compreende:
+A 5.ª Circunscrição Industrial (de Faro) da Direcção-Geral dos Serviços Industriais.
+1.2 - Cada uma das delegações regionais integra ainda atribuições e actividades que têm vindo a ser desenvolvidas no âmbito das circunscrições da Direcção-Geral dos Serviços Industriais e das delegações da Inspecção-Geral dos Produtos Agrícolas Industriais, nos termos estabelecidos nas leis orgânicas respectivas.
+1.3 - Os directores das delegações regionais assumirão os poderes necessários ao exercício das referidas atribuições, para além de quaisquer outros em que sejam investidos por delegação dos directores-gerais dos serviços operativos e de inspecção, já autorizada por despacho de 22 de Maio de 1978, sem prejuízo do que venha a ser estabelecido ao abrigo do disposto na parte final do artigo 48.º do Decreto-Lei n.º 548/77, de 31 de Dezembro.
+2 - Os serviços externos da Direcção-Geral de Minas e Serviços Geológicos, da Direcção-Geral dos Serviços Eléctricos e da Direcção-Geral dos Combustíveis serão adstritos às delegações regionais, com os ajustamentos territoriais necessários, pela forma seguinte:
+À Delegação Regional do Porto são adstritas:
+A Direcção de Fiscalização Eléctrica do Norte;
+A Circunscrição Mineira do Norte;
+A Delegação da Direcção-Geral de Combustíveis.
+À Delegação Regional de Coimbra é adstrita:
+A Direcção de Fiscalização Eléctrica do Centro.
+À Delegação Regional de Lisboa é adstrita:
+A Circunscrição Mineira do Sul.
+2.1 - Os serviços referidos no número anterior integrarão as atribuições das direcções-gerais que representam na área da delegação regional, nos termos das delegações de competência conferidas aos respectivos dirigentes ao abrigo do n.º 3 do artigo 11.º do Decreto-Lei n.º 548/77, de 31 de Dezembro, sem prejuízo do que venha a ser estabelecido ao abrigo do disposto na parte final do artigo 48.º do mesmo diploma.
+2.2 - Todavia, as Direcções-Gerais de Geologia e Minas e de Energia deverão providenciar no sentido de, no mais curto prazo, dotarem as delegações dos meios e poderes necessários, ainda que respeitando a individualização e dependência que julguem conveniente para os respectivos subsectores, de modo que o exercício desconcentrado das suas competências se adapte à organização territorial das delegações.
+2.3 - A forma de organização e funcionamento destes serviços será estabelecida nos diplomas orgânicos das respectivas direcções-gerais.
+2.4 - Os responsáveis dos mesmos serviços dependem nos aspectos funcionais do respectivo director-geral em tudo o que respeite às atribuições específicas da direcção-geral e ainda do director de delegação regional em tudo o que respeite às atribuições da própria delegação.
+2.5 - Os mesmos serviços receberão apoio administrativo das delegações regionais nos assuntos referentes a expediente, a pessoal administrativo e ao pessoal auxiliar e nestes aspectos os seus dirigentes dependem do director da delegação regional.
+3 - Este despacho produz efeitos a partir de 1 de Setembro de 1978, salvo para as delegações regionais que não possuam naquela data director nomeado, caso em que produzirá efeitos a partir da data de tomada de posse do respectivo director regional.
+Ministério da Indústria e Tecnologia, 14 de Agosto de 1978. - O Ministro da Indústria e Tecnologia, Carlos Montês Melancia.
