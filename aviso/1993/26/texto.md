@@ -1,0 +1,3 @@
+Aviso n.º 26/93
+Por ordem superior se faz público que, segundo comunicação do Secretário-Geral das Nações Unidas, o Governo da Croácia notificou, em 3 de Agosto de 1992, a sua sucessão no Acordo sobre Transportes Internacionais de Géneros Perecíveis e Equipamento Especial a Ser Usado nesse Transporte (ATP), concluído em Genebra, em 1 de Setembro de 1970, com efeitos desde 8 de Outubro de 1991, data em que a Croácia assumiu responsabilidades pelas suas relações internacionais.
+Direcção-Geral dos Negócios Político-Económicos, 12 de Janeiro de 1993. - O Director de Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
