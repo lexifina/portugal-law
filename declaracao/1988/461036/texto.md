@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 14.ª Delegação (PIDDAC) da Direcção-Geral da Contabilidade Pública junto do Ministério das Finanças, a declaração de alterações no orçamento do Ministério da Justiça publicada no Diário da República, 1.ª série, n.º 64, de 17 de Março de 1988, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Em 08 - Ministério da Justiça, onde se lê «Cap. 50, div. 18 - Justiça, subdiv. 01 - DGSP - Ressocialização de reclusos através da formação profissional, C. E. 50.00 - Investimentos - Maquinaria e equipamento» deve ler-se «Cap. 50, div. 18 - Justiça, subdiv. 01 - DGSP - Ressocialização de reclusos através da formação profissional, C. E. 52.00 - Investimentos - Maquinaria e equipamento».
+Secretaria-Geral da Presidência do Conselho de Ministros, 7 de Abril de 1988. - O Secretário-Geral, França Martins.
