@@ -1,0 +1,18 @@
+Portaria n.º 1423-A/2003
+de 31 de Dezembro
+A Portaria n.º 543-B/2001, de 30 de Maio, fixou restrições várias à pesca da sardinha, incluindo fortes condicionantes à sua captura, manutenção a bordo, desembarque e comercialização em determinados períodos, bem como a limitação anual do esforço de pesca e afixação de limites de desembarque para o conjunto de embarcações associadas em cada organização de produtores, para vigorarem durante o ano 2001, tendo em conta a situação em que se encontrava o recurso da sardinha.
+Estas medidas foram mantidas em vigor no ano 2002 e no corrente ano, através, respectivamente, das Portarias n.os 123-A/2002, de 8 de Fevereiro, e 184/2003, de 21 de Fevereiro.
+Os dados disponíveis sobre o estado do recurso indicam que o mesmo se encontra numa situação equilibrada, permitindo a continuidade da sua exploração de uma forma disciplinada, o que implica a continuação da aplicação das medidas preconizadas no diploma primeiramente referido, nas quais se incluem a fixação de limites de actividade por embarcação e de volumes totais de captura.
+Assim:
+Ao abrigo do disposto nas alíneas d) e g) do n.º 2 do artigo 4.º do Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro, e no artigo 49.º do Decreto Regulamentar n.º 43/87, de 17 de Julho:
+Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
+1.º Os n.os 7.º, 8.º e 11.º da Portaria n.º 543-B/2001, de 30 de Maio, passam a ter a seguinte redacção:
+«7.º - a) Para as embarcações não associadas em organizações de produtores é fixado em 3,7 t o limite máximo de desembarques de sardinha por dia.
+b) Os limites diários fixados na alínea anterior não são susceptíveis de transferência.
+8.º Se as organizações de produtores estabelecerem regras em matéria de produção aplicáveis aos seus membros, nomeadamente limites diários de desembarques por embarcação, essas regras aplicar-se-ão também aos produtores não associados das organizações de produtores e prevalecem sobre os limites fixados no n.º 7.º, alínea a), se inferiores aos limites aí referidos, desde que as mesmas tenham sido previamente notificadas, com uma antecedência mínima de vinte e quatro horas, à Direcção-Geral das Pescas e Aquicultura (DGPA) e à DOCAPESCA, especificando claramente quais os portos abrangidos por essas regras.
+11.º A pedido, devidamente justificado e por despacho do director-geral das Pescas e Aquicultura, as quantidades fixadas no n.º 5.º para cada organização de produtores poderão ser objecto de transferência para outras organizações de produtores, desde que não seja ultrapassada a quantidade global correspondente às partes envolvidas.»
+2.º É aditado à Portaria n.º 543-B/2001, de 30 de Maio, o n.º 13.º-A, com a seguinte redacção:
+«13.º-A Os armadores das embarcações que operem ao abrigo da presente portaria ou as organizações de produtores que os representem, quando seja o caso, são obrigados a comunicar à DGPA, nos primeiros 15 dias de cada trimestre, planos de actividade, tendo em conta os limites previstos no n.º 2.º A actividade efectiva, no que respeita a dias de actividade e capturas efectuadas por embarcação, será comunicada à DGPA, mensalmente, até ao dia 8 de cada mês, relativamente ao mês anterior.»
+3.º Para o ano 2004 mantêm-se em vigor as limitações constantes dos n.os 2.º e 5.º da Portaria n.º 543-B/2001, de 30 de Maio.
+4.º A presente portaria entra em vigor no dia 1 de Janeiro de 2004.
+Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Luís Filipe Vieira Frazão Gomes, Secretário de Estado Adjunto e das Pescas, em 23 de Dezembro de 2003.
