@@ -1,0 +1,21 @@
+# Acórdão do Tribunal Central Administrativo Sul de 1998-03-12, processo 00755/98
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 00755/98
+
+**Secção:** Secção do Contencioso Administrativo - Tribunal Central Administrativo
+
+**Data do Acordão:** 03/12/1998
+
+**Relator:** São Pedro
+
+**Descritores:** INCOMPETÊNCIA MATERIAL DO TAC; RECURSO CONTENCIOSO; ACTOS DO CONSELHO SUPERIOR DA MAGISTRATURA
+
+**Aditamento:** 1
+
+## Sumário
+
+I - Os artigos 145º e 168º do estatuto dos Magistrados Judiciais (Lei 21/85, de 30 de Julho), não são inconstitucionais face ao disposto no art. 212º, nº 3 da Constituição. Com efeito, este artigo só impõe ao legislador ordinário uma reserva absoluta de jurisdição administrativa, enquanto proibição de atribuir aos tribunais administrativos causas emergentes de relações jurídicas não administrativas. Não impede, porém, que o legislador ordinário atribua a outros tribunais competência para decidir os litígios emergentes de relações jurídicas materialmente administrativas, como é o caso, nomeadamente, dos artigos 4º, nº 1, al. c) e d) do ETAF e art. 20º, nº 3, da Lei 98/97, para além do referido artigo 168º da Lei 21/85, de 30 de Julho.
+
+II - O artigo 179º, nº 2 do EMJ (Lei 21/85, de 30 de Julho) contém uma norma de incidência em matéria de custas, nos recursos contenciosos dos actos do Conselho Superior da magistratura. Tal artigo, por conter uma norma especial, determina que nos recursos contenciosos dos actos do Conselho Superior da Magistratura, não tenha aplicação a genérica isenção de custas do art. 17º, 1, g), da Lei 21/85, de 30 de Julho.
