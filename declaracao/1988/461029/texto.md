@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 14.ª Delegação (PIDDAC) da Direcção-Geral da Contabilidade Pública junto do Ministério das Finanças, a declaração de transferências de verbas publicada no Diário da República, 1.ª série, n.º 73, de 28 de Março de 1988, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão que assim se rectifica:
+Em 10 - Ministério do Planeamento e da Administração do Território, onde se lê «Cap. 50, div. 82 - Cova da Beira, subdiv. 01 - Aproveitamento hidroagrícola da Cova da Beira - DGRAH, C. F. 8.02.1, C. E. 49.00 - C - Receitas gerais não afectas: Acordos» deve ler-se «Cap. 50, div. 82 - Cova da Beira, subdiv. 01 - Aproveitamento hidroagrícola da Cova da Beira - DGRAH, C. F. 8.02.1, C. E. 49.00 - C - Receitas gerais não afectas a acordos».
+Secretaria-Geral da Presidência do Conselho de Ministros, 14 de Abril de 1988. - O Secretário-Geral, França Martins.
