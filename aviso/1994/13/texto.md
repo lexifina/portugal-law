@@ -1,0 +1,4 @@
+Aviso n.º 13/94
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos recebeu em 16 de Julho de 1993 uma nota da República da Bielo Rússia datada de 17 de Maio do mesmo ano, declarando que a Convenção sobre o Processo Civil, concluída na Haia em 1 de Março de 1954, continua a aplicar-se ao seu território.
+Relativamente a Portugal, a Convenção foi aprovada, para ratificação, pelo Decreto-Lei n.º 47097, conforme Diário do Governo, 1.ª série, n.º 162, de 14 de Julho de 1966. Foi ratificada em 3 de Julho de 1967, segundo aviso publicado no Diário do Governo, n.º 196, de 23 de Agosto de 1967.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 20 de Dezembro de 1993. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
