@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em 16 de Março de 1978 o Governo do Canadá depositou junto do Secretário-Geral das Nações Unidas o instrumento de impugnação das reservas feitas pelos Governos do Egipto, Camboja e Marrocos aos parágrafos 2, 3 e 4 do artigo 37 da Convenção sobre Relações Diplomáticas, concluída em Viena em 18 de Abril de 1961 (concessão de privilégios ao pessoal não diplomático das missões diplomáticas), de que Portugal já é parte sem qualquer reserva.
+Secretaria-Geral do Ministério, 16 de Junho de 1978. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
