@@ -1,0 +1,18 @@
+Decreto n.º 166/71
+A expansão do ensino primário nas províncias ultramarinas exige o aumento do número de professores convenientemente preparados, em estabelecimentos de ensino adequados.
+A disseminação destes torna mais fácil o aproveitamento de vocações que porventura se encaminhariam para outros cursos.
+Considera-se justificada actualmente a criação de uma Escola do Magistério Primário em Malanje.
+Nestes termos:
+Atendendo ao que representou o Governo-Geral de Angola;
+Por motivo de urgência, tendo em vista o disposto no § 1.º do artigo 150.º da Constituição;
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+Artigo 1.º É criada em conformidade com as disposições do Decreto n.º 44240, de 17 de Março de 1962, a Escola do Magistério Primário de Malanje.
+Art. 2.º A Escola terá o quadro docente mencionado no artigo 4.º do Decreto n.º 44240, de 17 de Março de 1962, observando-se no seu provimento o disposto no mesmo artigo e seus parágrafos, conjugado com o preceituado na Portaria n.º 20208, de 29 de Novembro de 1963.
+Art. 3.º Para assegurar a dotação da referida Escola com pessoal, será aumentado o quadro burocrático dos serviços de educação com um segundo-oficial e um dactilógrafo e criados dois lugares de contínuo e dois de servente.
+Art. 4.º Fica o Governo-Geral da província de Angola autorizado a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os novos encargos criados por este decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+Promulgado em 14 de Abril de 1971.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
