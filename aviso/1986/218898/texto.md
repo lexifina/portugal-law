@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que conforme a nota-circular CHDIP L. C. A n.º 29 (86), de 16 de Junho de 1986, o Secretariado Permanente da Conferência da Haia sobre Direito Internacional Privado levou ao conhecimento das missões diplomáticas dos Estados membros da Convenção sobre o Reconhecimento e Execução de Julgamentos Estrangeiros em Matéria Civil e Comercial e Protocolo Adicional (concluídos na Haia em 1 de Fevereiro de 1971 e em vigor desde 20 de Agosto de 1979) que, de acordo com as disposições do artigo 30, alínea 2, da referida Convenção, foram esta e o seu Protocolo Adicional estendidos a Aruba em 28 de Maio de 1986, país em relação ao qual entrarão em vigor em 27 de Julho de 1986, conforme o artigo 30, alínea 3, da citada Convenção.
+Portugal é Parte do instrumento diplomático em questão.
+Secretaria-Geral do Ministério, 23 de Julho de 1986. - O Director Interino do Serviço jurídico e de Tratados, Francisco Manuel dos Reis Caldeira.
