@@ -14,7 +14,7 @@ O contencioso administrativo abrange as deliberações e decisões definitivas e
 
 a) As questões sôbre interpretação, validade ou execução dos contratos administrativos, incluindo as que tenham por objecto efectivar a responsabilidade contratual;
 
-b) Os pedidos de indemnização de perdas e danos feitos à administração por actos ou factos ilícitos, excluídos os que tenham sido praticados em execução de contratos;
+b) Os pedidos de indemnização feitos à Administração relativamente aos danos decorrentes de actos de gestão pública.
 
 c) As questões respeitantes à administração e polícia dos bens do domínio público.
 

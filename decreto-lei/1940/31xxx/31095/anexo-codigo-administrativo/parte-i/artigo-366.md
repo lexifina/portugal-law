@@ -1,5 +1,7 @@
 # Artigo 366.º
 
-O concelho, a freguesia e o distrito respondem civilmente pelas perdas e danos resultantes das deliberações dos respectivos corpos administrativos ou dos actos que os seus órgãos executivos, funcionários, assalariados ou representantes praticarem com ofensa da lei, mas dentro das respectivas atribuições e competência, com observância das formalidades essenciais e para a realização dos fins legais.
+As autarquias locais respondem civilmente perante terceiros pelas ofensas dos direitos destes ou das disposições legais destinadas a proteger os seus interesses, resultantes de actos ilícitos culposamente praticados pelos respectivos órgãos ou agentes no exercício das suas funções e por causa desse exercício.
 
-§ único. Os concelhos respondem ainda, nos termos estabelecidos neste artigo, pelos actos dos administradores e gerentes dos serviços municipalizados e das juntas de turismo, e os concelhos e as freguesias pelos actos dos órgãos das federações de municípios e das uniões de freguesias, respectivamente.
+§ 1.º Se as ofensas resultarem de actos praticados pelos órgãos ou agentes dos serviços municipalizados, das juntas de turismo, das federações de municípios ou das uniões de freguesias, recairá sobre estas entidades a obrigação de indemnizar.
+
+§ 2.º Quando satisfizerem qualquer indemnização nos termos deste artigo, as autarquias locais e demais entidades nele referidas gozam do direito de regresso contra os titulares dos órgãos ou os agentes culpados, se estes houverem procedido com diligência e zelo inferiores àqueles a que se achavam obrigados em razão do cargo.

@@ -1,3 +1,5 @@
 # Artigo 367.º
 
-Os presidentes, vogais, funcionários, assalariados ou representantes dos corpos administrativos, e bem assim os administradores e gerentes dos serviços municipalizados, federações de municípios e uniões de freguesias, são pessoalmente responsáveis pelos actos em que intervenham e de que resultem para outrem perdas e danos, sempre que aqueles não tenham sido praticados dentro das suas atribuïções e competência, com observância das formalidades essenciais e para a realização dos fins legais.
+Os titulares dos órgãos e os agentes das autarquias locais, dos serviços municipalizados, das juntas de turismo, das federações de municípios e das uniões das freguesias respondem civilmente perante terceiros pela prática de actos ilícitos que ofendam os direitos destes ou as disposições legais destinadas a proteger os seus interesses, se tiverem excedido os limites das suas funções ou se, no desempenho destas e por sua causa, tiverem procedido dolosamente.
+
+§ único. Em caso de procedimento doloso, as autarquias locais e demais entidades referidas neste artigo são sempre solidàriamente responsáveis com os titulares dos seus órgãos ou os seus agentes.
