@@ -1,0 +1,3 @@
+Resolução n.º 107/81
+O Conselho de Ministros, reunido em 17 de Fevereiro de 1981, resolveu adjudicar a zona de jogo permanente da Figueira da Foz à Sociedade Figueira-Praia, S. A. R. L., ao abrigo do disposto no artigo 1.º do Decreto Regulamentar n.º 81/80, de 17 de Dezembro, e nos termos do n.º 3 do parecer do Conselho de Inspecção de Jogos de 19 de Janeiro de 1981, e autorizar o Ministro do Comércio e Turismo a outorgar, em nome do Governo, no respectivo contrato de concessão.
+Presidência do Conselho de Ministros, 17 de Fevereiro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
