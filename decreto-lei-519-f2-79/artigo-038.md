@@ -1,6 +1,6 @@
 # Artigo 38.º
 
-1 - Concluídos os estágios, os adjuntos estagiários são colocados como adjuntos dos conservadores ou notários nas conservatórias ou cartórios onde estagiaram, podendo, no entanto, ser destacados, por despacho do director-geral dos Registos e do Notariado, para serviços cujas necessidades o justifiquem.
+1 - Concluídos os estágios com aproveitamento, os adjuntos estagiários classificados pelo menos de Bom serão colocados, para completamento da sua formação profissional, mediante despacho do director-geral dos Registos e do Notariado, com a categoria de adjunto de conservador ou notário, nos serviços centrais ou periféricos mais adequados ao completamento dessa formação ou mais carenciados desse tipo de colaboração.
 
 2 - Os adjuntos dos conservadores e notários podem ser designados substitutos de conservadores ou notários, na ausência dos mesmos, por despacho do director-geral dos Registos e do Notariado.
 
