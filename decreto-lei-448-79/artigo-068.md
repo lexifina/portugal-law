@@ -1,18 +1,18 @@
 # Artigo 68.º
 
-### Regime de tempo integral
+### (Regime de tempo integral)
 
-1 - Entende-se por regime de tempo integral aquele que corresponde à duração semanal do trabalho para a generalidade dos trabalhadores em regime de contrato de trabalho em funções públicas.
+1 - Entende-se por regime de tempo integral aquele que corresponde à prestação semanal de um número de horas de serviço igual ao fixado para a generalidade dos funcionários e agentes do Estado.
 
-2 - A duração do trabalho a que se refere o número anterior compreende o exercício de todas as funções fixadas no capítulo i deste diploma, incluindo o tempo de trabalho prestado fora da instituição de ensino superior que seja inerente ao cumprimento daquelas funções.
+2 - O pessoal docente em regime de tempo integral deve permanecer, no período abrangido pelo seu horário de trabalho, na escola ou noutros locais devidamente identificado.
 
-3 - Aos órgãos legal e estatutariamente competentes da instituição de ensino superior compete definir as medidas adequadas à efectivação do disposto nos números anteriores e ajuizar do cumprimento da obrigação contratual neles fixada.
+3 - Cabe ao conselho directivo da escola promover a elaboração de um horário global que discrimine o tempo e o local ou locais de actividade de cada um dos respectivos docentes.
 
-4 - Pelo exercício das funções a que se referem os números anteriores, os docentes em tempo integral não poderão auferir outras remunerações, qualquer que seja a sua natureza, sob pena de procedimento disciplinar.
+4 - Pelo exercício de funções durante o seu horário normal de actividade os docentes em tempo integral não poderão auferir outras remunerações, qualquer que seja a sua natureza, sob pena de procedimento disciplinar.
 
 5 - Exceptuam-se do disposto no número anterior os abonos respeitantes a:
 
-a) [Revogada.]
+a) Gratificações, nos casos previstos no artigo 75.º;
 
 b) Ajudas de custo;
 

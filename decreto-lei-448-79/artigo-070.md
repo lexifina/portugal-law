@@ -1,31 +1,23 @@
 # Artigo 70.º
 
-### Dedicação exclusiva
+### (Programas de investigação, de extensão e de planeamento universitário)
 
-1 - O regime de dedicação exclusiva implica a renúncia ao exercício de qualquer função ou actividade remunerada, pública ou privada, incluindo o exercício de profissão liberal.
+1 - Os professores de qualquer categoria ou tipo de provimento, caso se encontrem em regime de tempo integral e declararem renunciar ao desempenho de outras funções remuneradas públicas ou privadas, incluindo o exercício de profissão liberal, terão direito à percepção mensal de uma remuneração complementar quando, singularmente ou em grupo, apresentem ao conselho científico da sua escola programas de planeamento ou reestruturação universitária, de extensão universitária ou de actividade científica ou tecnológica, sobre os quais aquele órgão dê parecer favorável.
 
-2 - A violação do compromisso referido no número anterior implica a reposição das importâncias efectivamente recebidas correspondentes à diferença entre o regime de tempo integral e o regime de dedicação exclusiva, para além da eventual responsabilidade disciplinar.
+2 - A atribuição da remuneração complementar far-se-á anualmente, por despacho do Ministro da Educação, proferido a requerimento do interessado, que virá instruído com a declaração de renúncia e do parecer referidos no número anterior.
 
-3 - Não viola o disposto no n.º 1 a percepção de remunerações decorrentes de:
+3 - Os professores nas condições constantes da primeira parte do n.º 1 têm direito a idêntica remuneração complementar quando, mediante parecer favorável do conselho científico, estejam envolvidos na execução na Universidade de programas ou projectos de investigação financiados por instituições com fins de fomento da actividade científica ou tecnológica por entidades exteriores à Universidade.
 
-a) Direitos de autor;
+4 - No caso do número anterior, a atribuição da remuneração complementar far-se-á igualmente por períodos anuais, por despacho do Ministro da Educação, proferido a requerimento do interessado, que virá instruído com a declaração de renúncia a que se refere o n.º 1 e com documento que comprove ter o conselho científico dado parecer favorável à integração do requerente num projecto ou programa de investigação, mediante a apresentação àquele Órgão de certificado que ateste a referida integração.
 
-b) Realização de conferências, palestras, cursos breves e outras actividades análogas;
+5 - Sempre que, nos termos deste artigo, se exija a concordância do Ministro da Educação, decorridos trinta dias sobre a data da recepção do respectivo pedido na Direcção-Geral do Ensino Superior, considerar-se-á a mesma tacitamente concedida.
 
-c) Ajudas de custo;
+6 - Os assistentes e assistentes estagiários só participam nas actividades mencionadas nos n.os 1 e 3 na qualidade de colaboradores, sem outro provento complementar que não seja o correspondente ao subsídio fixado no n.º 5 do artigo 81.º
 
-d) Despesas de deslocação;
+7 - A falsidade de declaração de renúncia a que se referem os n.os 1, 3 e 4 sujeita o seu autor a procedimento disciplinar, independentemente do tratamento de ordem penal que ao caso couber.
 
-e) Desempenho de funções em órgãos da instituição a que esteja vinculado;
+8 - Não envolve quebra do compromisso assumido nos termos da declaração a que se alude no número anterior a percepção de remunerações decorrentes:
 
-f) Participação em órgãos consultivos de instituição estranha àquela a que pertença, desde que com a anuência prévia desta última e quando a forma de remuneração seja exclusivamente a de senhas de presença;
+a) Do pagamento de direitos de autor;
 
-g) Participação em avaliações e em júris de concursos ou de exames estranhos à instituição a que esteja vinculado;
-
-h) Elaboração de estudos ou pareceres mandados executar por entidades oficiais nacionais, da União Europeia ou internacionais, ou no âmbito de comissões constituídas por sua determinação;
-
-i) Prestação de serviço docente em instituição de ensino superior pública diversa da instituição a que esteja vinculado, quando, com autorização prévia desta última, se realize para além do período semanal de trinta e cinco horas de serviço e não exceda quatro horas semanais;
-
-j) Actividades exercidas, quer no âmbito de contratos entre a instituição a que pertence e outras entidades públicas ou privadas, nacionais, estrangeiras ou internacionais, quer no âmbito de projectos subsidiados por quaisquer dessas entidades, desde que se trate de actividades da responsabilidade da instituição e que os encargos com as correspondentes remunerações sejam satisfeitos através de receitas provenientes dos referidos contratos ou subsídios, nos termos de regulamento aprovado pela própria instituição de ensino superior.
-
-4 - A percepção da remuneração prevista na alínea j) do número anterior só pode ter lugar quando a actividade exercida tiver nível científico ou técnico previamente reconhecido pelo órgão de direcção da instituição de ensino superior como adequado à natureza, dignidade e funções destas últimas e quando as obrigações decorrentes do contrato ou da aceitação do subsídio não impliquem uma relação estável.
+b) Da realização de conferências, palestras, cursos breves e outras actividades análogas.

@@ -1,17 +1,15 @@
 # Artigo 74.º
 
-### Vencimentos e remunerações
+### (Vencimentos e remunerações)
 
-1 - (Derrogado.)
+1 - Os vencimentos correspondentes à prestação de serviço em tempo integral são os constantes da tabela anexa ao presente diploma.
 
-2 - (Derrogado.)
+2 - A remuneração complementar prevista no n.º 1 do artigo 70.º é de montante correspondente a 35% do vencimento fixado para a respectiva letra.
 
-3 - (Derrogado.)
+3 - O pessoal docente em regime de tempo parcial aufere uma remuneração compreendida entre 20% e 60% do vencimento fixado para a categoria de que são convidados, em correspondência com os limites estabelecidos no artigo 69.º
 
-4 - (Derrogado.)
+4 - Os professores visitantes, desde que prestem serviço em regime de tempo integral, auferem uma remuneração mensal igual à categoria docente a que hajam sido contratualmente equiparados, tendo ainda direito ao abono das passagens entre o país de origem e a localidade onde se situa a escola a que se destinam, ao pagamento da viagem de regresso, findo o contrato, e a um subsídio de deslocação de montante a fixar por despacho conjunto dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública.
 
-5 - O pessoal docente em regime de tempo parcial aufere uma remuneração igual a uma percentagem do vencimento para o regime de tempo integral correspondente à categoria e nível remuneratório para que é convidado, proporcionada à percentagem desse tempo contratualmente fixada.
+5 - O subsídio a que se refere o n.º 2 do artigo 70.º é de montante correspondente a 15% da letra A para os assistentes e 10% da letra A para os assistentes estagiários.
 
-6 - Os professores visitantes auferem uma remuneração mensal igual à da categoria docente a que hajam sido contratualmente equiparados, tendo ainda direito a um subsídio de deslocação, de montante a fixar por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e do ensino superior.
-
-7 - Os monitores percebem uma gratificação mensal de montante igual a 40 % do vencimento dos assistentes estagiários em regime de tempo integral.
+6 - Os monitores perceberão uma gratificação de montante igual a 40% do vencimento dos assistentes estagiários.

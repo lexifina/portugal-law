@@ -4,16 +4,16 @@
 
 # Artigo 84.º
 
-### Número e percentagem de professores de carreira
+### (Quadros de professores)
 
-1 - O conjunto dos professores catedráticos e dos professores associados de carreira de cada instituição de ensino superior deve representar entre 50 % e 70 % do total dos professores de carreira.
+1 - Cada escola universitária fica dotada com quadros de professores catedráticos e de professores associados.
 
-2 - As instituições de ensino superior devem abrir os concursos que assegurem progressivamente a satisfação do disposto no número anterior.
+2 - O quadro de professores catedráticos de cada uma daquelas escolas é ampliado, com respeito pela actual distribuição por disciplinas ou grupos de disciplinas, conforme o caso, de tantos lugares quantos os presentemente inscritos no quadro de professores extraordinários respectivo.
 
-3 - O disposto nos números anteriores deve aplicar-se, tendencialmente, a cada uma das unidades orgânicas de ensino ou de ensino e investigação de cada instituição de ensino superior.
+3 - Em cada uma das mesmas escolas o número de lugares de professor associado a criar no quadro correspondente é igual ao que, de acordo com o número anterior, vier a ficar inscrito no quadro de professores catedráticos.
 
-4 - São critérios para a fixação a que se refere n.º 1 do artigo 120.º da Lei n.º 62/2007, de 10 de Setembro, os expressamente previstos no presente Estatuto e, ainda, os suportados nas melhores práticas relevantes, tendo em conta a dimensão da instituição de ensino superior por referência ao número de estudantes inscritos, ao número de diplomados, à oferta formativa e à capacidade científica avaliada e reconhecida oficialmente.
+4 - A afectação dos lugares de professor associado a disciplinas ou grupos de disciplinas far-se-á por despacho do Ministro da Educação, sob proposta dos conselhos científicos.
 
-5 - A Agência de Avaliação e Acreditação do Ensino Superior considera, no âmbito dos processos de avaliação e acreditação das instituições e dos seus ciclos de estudos, o cumprimento das regras a que se referem os números anteriores.
+5 - Os quadros constituídos nos termos do presente artigo serão objecto de publicação no Diário da República até ao final do prazo fixado no n.º 4 do artigo 87.º
 
-6 - (Revogado.)
+6 - Os quadros de professores catedráticos e de professores associados serão revistos bienalmente.

@@ -1,13 +1,9 @@
 # Artigo 80.º
 
-### Bolsas de estudo e equiparação a bolseiro
+### (Bolsas de estudo e equiparação a bolseiro)
 
-1 - O pessoal docente:
+1 - O pessoal docente em regime de tempo integral pode candidatar-se à obtenção de bolsas de estudo, no País e no estrangeiro, e ser equiparado a bolseiro, nos termos de legislação própria.
 
-a) Pode ser equiparado a bolseiro, no País ou no estrangeiro, pela duração que se revelar mais adequada ao objectivo e com ou sem vencimento, nos termos de regulamento a aprovar pela instituição de ensino superior, competindo a decisão ao órgão legal e estatutariamente competente da instituição de ensino superior;
+2 - O disposto no número anterior poderá aproveitar a docentes em regime de tempo parcial, desde que, durante o período de concessão da bolsa, cesse completamente o exercício da função acumulada com o trabalho universitário.
 
-b) Pode candidatar-se a bolsas de estudo, no País ou no estrangeiro, obtida a anuência do órgão legal e estatutariamente competente da instituição de ensino superior.
-
-2 - Durante todo o período da equiparação a bolseiro, independentemente da respectiva duração, o bolseiro mantém todos os direitos inerentes ao efectivo desempenho de serviço, designadamente o abono da remuneração, salvo nos casos de equiparação a bolseiro sem vencimento, e a contagem de tempo de serviço para todos os efeitos legais.
-
-3 - (Revogado.)
+3 - O tempo de serviço contado nos termos dos artigos 26.º e 27.º do Decreto-Lei n.º 538/76, de 9 de Julho, não releva para efeitos do disposto nos artigos 40.º e 41.º do presente diploma.

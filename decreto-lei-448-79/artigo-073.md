@@ -1,61 +1,33 @@
 # Artigo 73.º
 
-### Serviço prestado em outras funções públicas
+### (Serviço prestado em outras funções públicas)
 
-1 - Para além do que se encontre consagrado em legislação própria, é equiparado, para todos os efeitos legais, ao efectivo exercício de funções o serviço prestado pelo pessoal docente em alguma das seguintes situações:
+1 - É equiparado, para todos os efeitos, ao efectivo exercício de funções o serviço prestado pelo pessoal docente em alguma das seguintes situações:
 
-a) Presidente da República;
+a) Presidente da República, membro do Governo da República ou dos Governos Regionais e Deputado à Assembleia da República ou às Assembleias Regionais;
 
-b) Membro do Governo;
+b) Provedor de Justiça, provedor-adjunto ou membro da Comissão Constitucional;
 
-c) Procurador-Geral da República e membro do Conselho Consultivo da Procuradoria-Geral da República;
+c) Director-geral, inspector-geral ou função equivalente em qualquer Ministério;
 
-d) Provedor de Justiça e Provedor-Adjunto;
+d) Presidente ou vice-presidente do Instituto de Cultura Portuguesa, do Instituto Nacional de Investigação Científica, da Junta de Investigações Científicas do Ultramar ou da Junta Nacional de Investigação Científica e Tecnológica;
 
-e) Deputado à Assembleia da República;
+e) Subdirector-geral do Ensino Superior;
 
-f) Juiz do Supremo Tribunal de Justiça e do Tribunal Constitucional;
+f) Chefe ou adjunto dos gabinetes dos titulares dos Órgãos de Soberania;
 
-g) Juiz do Supremo Tribunal Administrativo;
+g) Desempenho de funções diplomáticas eventuais;
 
-h) Deputado à Assembleia Legislativa da região autónoma;
+h) Exercício de funções em organizações internacionais de que Portugal seja membro;
 
-i) Membro do Governo Regional;
+i) Docência ou investigação no estrangeiro, em missão oficial ou, por tempo limitado, com autorização do Ministro da Educação;
 
-j) Inspector-geral, subinspector-geral, secretário-geral, secretário-geral-adjunto, director-geral, subdirector-geral, presidente, vice-presidente e vogal de conselho directivo de instituto público ou equiparados;
+j) Funções directivas em institutos de investigação nacionais ou estrangeiros, quando, respectivamente, em comissão de serviço, requisição ou destacamento, ou em missão oficial ou com autorização do Ministro da Educação;
 
-l) Chefe da Casa Civil e assessor da Presidência da República;
+l) Prestação de serviço na Direcção-Geral do Ensino Superior, nos termos do artigo 16.º do Decreto-Lei n.º 581/73, de 5 de Novembro.
 
-m) Chefe do gabinete e adjunto do gabinete de titulares dos demais órgãos de soberania;
+2 - O tempo de serviço prestado nas situações constantes do número anterior suspende, a requerimento dos interessados, a contagem dos prazos previstos neste diploma para a apresentação de relatórios curriculares pelos professores das categorias mencionadas no artigo 2.º, bem como a dos prazos dos contratos de professores convidados, assistentes, assistentes estagiários e assistentes convidados.
 
-n) Presidente de câmara municipal e vereador a tempo inteiro;
+3 - Quando os cargos ou funções referidos no n.º 1 forem desempenhados nos regimes de comissão de serviço, destacamento ou requisição, os docentes gozarão da faculdade de optar pelas remunerações correspondentes ao respectivo lugar de origem.
 
-o) Governador civil e vice-governador civil;
-
-p) Chefe do gabinete ou membro do gabinete do Procurador-Geral da República;
-
-q) Funções, a tempo inteiro, em gabinete de membro do Governo;
-
-r) Assessor do Gabinete dos Juízes do Tribunal Constitucional;
-
-s) Titular, em regime a tempo inteiro, de órgão de gestão de instituições de ensino superior públicas;
-
-t) Membro dos órgãos de administração das entidades públicas empresariais;
-
-u) Funções em organizações internacionais de que Portugal seja membro, desde que autorizado nos termos previstos na lei;
-
-v) Desempenho de funções diplomáticas eventuais;
-
-x) Funções sindicais dirigentes a tempo inteiro;
-
-z) Director de hospital e director clínico de unidades de cuidados de saúde onde tenha lugar o ensino do curso de Medicina;
-
-aa) Funções em institutos de ciência e tecnologia nacionais, públicos ou privados de utilidade pública, ou internacionais;
-
-ab) Funções directivas em pessoas colectivas de direito privado de que façam parte instituições de ensino superior ou instituições financiadoras ou integrantes do sistema científico nacional.
-
-2 - O tempo de serviço prestado nas situações constantes do número anterior suspende a duração dos vínculos contratuais e, a pedido do interessado, outras obrigações que sejam previstas nos regulamentos da respectiva instituição de ensino superior.
-
-3 - (Revogado.)
-
-4 - (Revogado.)
+4 - O afastamento do serviço docente, em resultado do exercício de cargos ou funções diversos dos previstos no n.º 1, implica, quando superior a um ano, a abertura de vaga, ficando o docente, desde que para tal previamente autorizado, na situação de supranumerário.

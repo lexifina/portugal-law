@@ -1,9 +1,9 @@
 # Artigo 17.º
 
-### Recrutamento de leitores
+### (Recrutamento de leitores)
 
-1 - Os leitores são recrutados, por convite, de entre titulares de qualificação superior, nacional ou estrangeira, e de currículo adequado para o ensino de línguas estrangeiras.
+1 - Os leitores são recrutados, por convite, de entre individualidades nacionais ou estrangeiras que sejam portadoras de uma licenciatura ou equivalente ou, no caso dos segundos, de uma habilitação que a tal seja equiparável.
 
-2 - O convite tem lugar mediante proposta fundamentada apresentada e aprovada pelos órgãos legal e estatutariamente competentes da instituição de ensino superior.
+2 - O convite baseia-se em proposta fundamentada da comissão do conselho científico do grupo ou departamento respectivo, que carece de ser aprovada pelo conselho científico da escota.
 
-3 - Podem também desempenhar as funções de leitor individualidades estrangeiras designadas ao abrigo de convenções internacionais ou de protocolos internacionais nos termos fixados por estes.
+3 - Podem ainda, no âmbito de acordos internacionais, desempenhar as funções de leitor outras individualidades estrangeiras.

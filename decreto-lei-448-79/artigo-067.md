@@ -1,11 +1,9 @@
 # Artigo 67.º
 
-### Regimes de prestação de serviço
+### (Regimes de prestação de serviço)
 
-1 - O pessoal docente de carreira exerce as suas funções, em regra, em regime de dedicação exclusiva.
+1 - O pessoal docente das Universidades exerce as suas funções em regime de tempo integral ou em regime de tempo parcial.
 
-2 - O exercício de funções é realizado em regime de tempo integral mediante manifestação do interessado nesse sentido.
+2 - O pessoal referido no artigo 2.º apenas pode exercer funções em regime de tempo integral.
 
-3 - À transição entre os regimes de dedicação exclusiva e de tempo integral aplica-se o disposto no Decreto-Lei n.º 145/87, de 24 de Março.
-
-4 - O pessoal docente para além da carreira é contratado nos termos fixados pelo presente Estatuto.
+3 - Os professores convidados, os assistentes convidados e os leitores, quando desempenhem outras funções públicas ou privadas, consideradas pelo conselho científico como incompatíveis com a prestação de serviço em tempo integral, serão contratados em regime de tempo parcial, nos termos do artigo 69.º

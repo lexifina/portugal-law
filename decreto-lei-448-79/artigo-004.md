@@ -1,15 +1,5 @@
 # Artigo 4.º
 
-### Funções dos docentes universitários
+### (Monitores)
 
-Cumpre, em geral, aos docentes universitários:
-
-a) Realizar actividades de investigação científica, de criação cultural ou de desenvolvimento tecnológico;
-
-b) Prestar o serviço docente que lhes for distribuído e acompanhar e orientar os estudantes;
-
-c) Participar em tarefas de extensão universitária, de divulgação científica e de valorização económica e social do conhecimento;
-
-d) Participar na gestão das respectivas instituições universitárias;
-
-e) Participar em outras tarefas distribuídas pelos órgãos de gestão competentes e que se incluam no âmbito da actividade de docente universitário.
+Os conselhos científicos, quando necessário, podem propor a admissão, em regime de prestação eventual de serviço, como monitores, de profissionais com curso superior e adequadamente qualificados em actividades relacionadas com as respectivas disciplinas ou de alunos dos dois últimos anos dos cursos, aos quais compete coadjuvar, sem o substituir, o pessoal docente em aulas práticas, teórico-práticas e trabalhos de laboratório ou de campo.
