@@ -1,7 +1,3 @@
-## Título VII
-
-## Apuramento
-
 ## Capítulo I
 
 ## Apuramento local
