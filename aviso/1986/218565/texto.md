@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o Secretariado Permanente da Conferência da Haia de Direito Internacional Privado notificou a Embaixada de Portugal naquela cidade de que o Governo da Itália assinou e ratificou, em 19 de Fevereiro de 1986, a Convenção da Haia de 1 de Julho de 1970 sobre o Reconhecimento dos Divórcios e Separações de Pessoas, de que Portugal é parte.
+Foi igualmente notificada a seguinte reserva: «O Governo Italiano, nos termos do artigo 19.º, § 1, reserva o direito de não reconhecer um divórcio ou uma separação de pessoas entre dois cônjugues que, à data em que foi obtido, eram exclusivamente italianos, quando uma outra lei diferente da designada pelo seu direito internacional privado tiver sido aplicada, excepto se o resultado obtido for igual ao que teria sido conseguido se tivesse sido observada esta última lei.»
+Em conformidade com o seu artigo 27.º, alínea 1, a Convenção entrou em vigor, com respeito à Itália, a partir de 20 de Abril de 1986.
+Secretaria-Geral do Ministério, 8 de Julho de 1986. - O Director do Serviço Jurídico e de Tratados, Fernão Manuel Homem de Gouveia Fávila Vieira.
