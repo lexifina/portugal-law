@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1916/07/13400/06690670.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1916-07-04",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "348c9ff959f1828300cf6cc7a611b9b6f65b27dd5bc4be30783807b4a6b1d72f",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.6,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "7b8988e04abe3aca9639d71a42a391408e2735daaa1503aee432e21a89163f94",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 689
 }
