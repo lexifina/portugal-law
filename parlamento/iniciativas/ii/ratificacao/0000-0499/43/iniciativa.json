@@ -1,0 +1,224 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=2UPfDKqx4yThZkCiWeDvzZahwRkNMsQnE24OvBZ8AQP4b9vLhOz5HeV8hVxyPJHJ8ksq0tq9PZ0dW0Thx2wqKViMfSelY21acf9tKlvuT%2bBVZy2KHe0HmmPBynAp85sbnt1BVV39jrAzsrdek%2f7TtHhLFct8jeYawEpIt%2fQHOLswD3sih4hoy66fgBVAtt6H9ygINxTWi5FNmDyriNdNwoWb5VskQvfOcNrmYVIjTS9IGBP0EQjeMWuwshVlzHJQGqcAmyrmR8xAksXUjJuMhfFCQiBeCAAXQSIoMEzuV9pOUAqkueBVsQQFz%2bJsM9g9na0p69krrgJ3RGL8GdN9jLKc97oScVoy8bOVtmNyjig%3d&fich=IniciativasII_json.txt&Inline=true",
+  "ficheiro_sha256": "2d1420d0c7ebeb0e40f4da305b81f9a5f39e3f60a98c12da4ec0fe9e3f55e5fc",
+  "legislatura": "II",
+  "tipo": "Ratificação",
+  "numero": "43",
+  "id": "30954",
+  "fases": 5,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1980-11-21",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1981-10-14",
+    "DataInicioleg": "1980-11-13",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "3336",
+        "nome": "Joaquim Catanho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3541",
+        "nome": "João Ludovico Costa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3540",
+        "nome": "Luis César Almeida"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3181",
+        "nome": "Teófilo Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3184",
+        "nome": "António Janeiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3538",
+        "nome": "Fausto Marques"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3525",
+        "nome": "Guilherme Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "506",
+        "nome": "Mata Cáceres"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3544",
+        "nome": "António Vieira Freitas"
+      },
+      {
+        "GP": "UEDS",
+        "idCadastro": "318",
+        "nome": "Lopes Cardoso"
+      },
+      {
+        "GP": "UEDS",
+        "idCadastro": "3329",
+        "nome": "César de Oliveira"
+      },
+      {
+        "GP": "UEDS",
+        "idCadastro": "1205",
+        "nome": "António Vitorino"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3534",
+        "nome": "Adelino Carvalho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2924",
+        "nome": "António Azevedo Gomes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3533",
+        "nome": "António Teixeira Lopes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "418",
+        "nome": "António Magalhães"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3512",
+        "nome": "Vergílio Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3182",
+        "nome": "Alfredo Barroso"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3520",
+        "nome": "Vitor Brás"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "233",
+        "nome": "Alberto Oliveira e Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3523",
+        "nome": "Júlio Carrapato"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2933",
+        "nome": "António Esteves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3245",
+        "nome": "Armando Lopes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "150",
+        "nome": "António Campos"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      },
+      {
+        "GP": "UEDS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Ratificação",
+    "IniEpigrafe": null,
+    "IniId": "30954",
+    "IniLeg": "II",
+    "IniLinkTexto": "",
+    "IniNr": "43",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "F",
+    "IniTitulo": "Decreto-lei nº 508/80, de 21 de Outubro, que regulamenta o contrato de serviço doméstico.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": [
+      {
+        "autor": "Deputados",
+        "id": "30955",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "342755",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1981-01-31",
+            "pubLeg": "II",
+            "pubNr": "26",
+            "pubSL": "1",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/02/01/026/1981-01-31?org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      },
+      {
+        "autor": "Deputados",
+        "id": "30956",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "342756",
+            "obs": null,
+            "pag": [
+              "443-445"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1981-02-04",
+            "pubLeg": "II",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/02/01/027/1981-02-04/443?pgs=443-445&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      }
+    ]
+  }
+}
