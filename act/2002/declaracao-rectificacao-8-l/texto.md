@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 8-L/2002
+Segundo comunicação do Ministério da Economia, a Portaria n.º 60/2002, publicada no Diário da República, 1.ª série, n.º 12, de 15 de Janeiro de 2002, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No preâmbulo, no terceiro parágrafo, onde se lê «Decreto-Lei n.º 313/2001, de 10 de Dezembro, independentemente da potência de ligação,» deve ler-se «Decreto-Lei n.º 313/2001, de 10 de Dezembro, que sejam utilizadoras de energia primária que, em cada ano, seja constituída em mais de 50% por recursos renováveis ou resíduos industriais, agrícolas ou urbanos, independentemente da potência de ligação,».
+Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Fevereiro de 2002. - O Secretário-Geral, Alexandre Figueiredo.
