@@ -1,0 +1,16 @@
+Portaria n.º 23239
+Em consequência de factores climáticos favoráveis verificou-se, na campanha de 1967-1968, uma produção excepcional de batata.
+Os números provisórios do Instituto Nacional de Estatística prevêem uma colheita da ordem de 1250000 t, ou seja, mais 35 por cento do que a colheita de 1966 e mais 22 por cento do que a produção média no decénio de 1957-1966.
+A fim de evitar o aviltamento dos preços, decidiu o Ministério da Economia que a Junta Nacional das Frutas interviesse no mercado, adquirindo a batata aos produtores que lha desejassem entregar a preços de garantia que variaram desde 1$00 no início da intervenção até ao nível actual de 1$40.
+Como resultado desta intervenção no mercado, que evitou à produção prejuízos incalculáveis, possui a Junta, em armazéns próprios, alugados ou cedidos, cerca de 100000 t de batata, estando manifestadas para entrega mais 80000 t.
+Esta vultosa intervenção implicou já o dispêndio de 150000 contos, que poderá ser acrescido em mais de 100000 contos com a compra da batata, manifestada até 31 de Janeiro findo, que venha ainda a ser entregue à Junta.
+Estão, assim, em perspectiva consideráveis prejuízos para a Administração, os quais, todavia, têm por contrapartida a vantagem da garantia de um preço à produção, que assegura a esta receitas muito superiores às que poderia obter se o mercado funcionasse consoante o livre jogo da oferta e da procura, sujeito, portanto, às especulações que, inevitàvelmente, na baixa, sempre se verificam em detrimento do produtor e sem benefício sensível para o consumidor.
+O facto de se ter verificado uma campanha excepcional, que colocou na posse da Junta Nacional das Frutas quantidades muito avultadas de batata e implicou grande imobilização de fundos do Ministério da Economia, justifica plenamente a adopção de providências, que também se podem considerar excepcionais, tendentes a reduzir até onde for possível os prejuízos da operação.
+Com este objectivo e no seguimento da orientação já traçada nas Portarias n.os 22904 e 22905, de 16 de Setembro de 1967, estabelece-se a obrigatoriedade de os armazenistas adquirirem batata à Junta Nacional das Frutas em quantitativos impostos pelas necessidades financeiras da intervenção efectuada.
+Nestes termos:
+Ao abrigo do disposto no Decreto-Lei n.º 45835, de 27 de Julho de 1964, e nos termos previstos no n.º 11.º da Portaria n.º 16915, de 11 de Novembro de 1958, com a redacção dada pela Portaria n.º 23238, desta data:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, o seguinte:
+1.º Os armazenistas de batata de consumo ficam sujeitos à obrigação de adquirir à Junta Nacional das Frutas, ou por seu intermédio, quantitativos correspondentes às compras por eles livremente realizadas, de acordo com as percentagens fixadas pelo organismo.
+§ único. Sempre que as circunstâncias o aconselhem, a Junta poderá determinar que os armazenistas efectuem a totalidade das suas compras directamente à Junta ou por seu intermédio.
+2.º Esta portaria entra imediatamente em vigor e revoga a Portaria n.º 22905, de 16 de Setembro de 1967.
+Secretaria de Estado do Comércio, 22 de Fevereiro de 1968. - O Secretário de Estado do Comércio, Fernando Manuel Alves Machado.
