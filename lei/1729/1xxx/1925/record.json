@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1925/01/00500/00170017.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1925-01-06",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "8a9a0fb47f40932697c226cabb29d915bc1969977590de3a4a95e3b8f18452c2",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.8,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "f9778a0a7c6c22fc2337e7ce413239937aae290e02cf0382cc1a021cdfdde35a",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 193
 }
