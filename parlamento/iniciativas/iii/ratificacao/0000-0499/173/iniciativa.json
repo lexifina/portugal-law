@@ -1,0 +1,108 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BCSSVGCAjuIOB9TM0zLN1MaTIqUGuyZG5KdMozMqIhz0HV3lihHZAL1CwunnWMXRny5c%2fGnGCZHzxAWlNWvriQl3h2wUQD%2bowHEAD9eFRyf2JdeqjyBaRNHhZe8gVkGI8mHwTOZENL4EKoCxEZGcqbJHnmvnktrZ4L%2bCcB8XDhcCIEzIVr5jrbsC3o5hptTbaMwBgoF68mV3RStIYJyvQOduog5%2fiGjrt1rykAbE6ZwjcV24oKkbnK9PzvNKat80j9hNRf25bAhE0BNfRW0lt5b5hM3muahpK8XuICAdwne8vQ2nXeVCLUrRt%2bdJWjM%2beniMeMyOwoBt8PVsAU3fA0MzFhD6d4IZoNU16Bo9GB0%3d&fich=IniciativasIII_json.txt&Inline=true",
+  "ficheiro_sha256": "8066d65f0f2dcaef0e8f116d49b73de6f6558c03e12923057ff44277a1828037",
+  "legislatura": "III",
+  "tipo": "Ratificação",
+  "numero": "173",
+  "id": "30221",
+  "fases": 2,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1985-07-11",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1985-11-03",
+    "DataInicioleg": "1984-10-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PCP",
+        "idCadastro": "3372",
+        "nome": "Mariana Lanita"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3378",
+        "nome": "Georgette Ferreira"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "219",
+        "nome": "Odete Santos"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1074",
+        "nome": "Francisco Costa Fernandes"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "211",
+        "nome": "João Amaral"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3131",
+        "nome": "João Abrantes"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3103",
+        "nome": "Belchior Pereira"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3007",
+        "nome": "Jorge Lemos"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "569",
+        "nome": "Ilda Figueiredo"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "217",
+        "nome": "Rogério Brito"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "189",
+        "nome": "José Magalhães"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3388",
+        "nome": "Maria José Ribeiro"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PCP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Ratificação",
+    "IniEpigrafe": null,
+    "IniId": "30221",
+    "IniLeg": "III",
+    "IniLinkTexto": "",
+    "IniNr": "173",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "F",
+    "IniTitulo": "Decreto-Lei nº 240/85, de 8/7/85 - Autoriza a celebração entre os Ministérios da Administração Interna e das Finanças e do Plano e a Caixa Geral de Depósitos (CGD), de um protocolo para abertura de uma linha de crédito a favor dos municípios, destinada ao financiamento na Região Norte até 1.272.000 contos, dos quais 912.900 contos serão objecto de refinanciamento pelo Estado através da aplicação do produto dos empréstimos do Fonds de Réetablissement du Conseil de l'Europe.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
