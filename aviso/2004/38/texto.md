@@ -1,0 +1,4 @@
+Aviso n.º 38/2004
+Por ordem superior se torna público que, em 27 de Agosto de 2003, a Turquia depositou o seu instrumento de ratificação às Emendas à Convenção de Basileia sobre o Controlo de Movimentos Transfronteiriços de Resíduos Perigosos e sua Eliminação, aprovadas na 3.ª Conferência das Partes, de 22 de Setembro de 1995.
+Portugal é parte das mesmas Emendas, aprovadas para ratificação através das Decisões III/1 e V/9, tornadas públicas através do Aviso n.º 229/99, publicado no Diário da República, 1.ª série-A, n.º 284, de 7 de Dezembro de 1999, e tendo depositado o instrumento de ratificação das Emendas em 30 de Outubro de 2000, conforme Diário da República, 1.ª série-A, n.º 157, de 10 de Julho de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 24 de Março de 2004. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
