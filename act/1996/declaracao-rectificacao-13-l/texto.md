@@ -1,0 +1,5 @@
+Declaração de Rectificação n.º 13-L/96
+Segundo comunicação do Ministério do Equipamento, do Planeamento e da Administração do Território, a Portaria n.º 240/96, publicada no Diário da República, 1.ª série, n.º 153, de 4 de Julho de 1996, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 1.º, onde se lê «Os montantes das tabelas de remunerações base dos pilotos resultantes da Portaria n.º 210/95, de 22 de Março» deve ler-se «Os montantes das tabelas de remunerações base do pessoal do Instituto Nacional de Pilotagem de Portos resultantes da Portaria n.º 210/95, de 22 de Março».
+No n.º 2.º, onde se lê «As remunerações acessórias percentuais em vigor para os pilotos mantêm os seus regimes de abono.» deve ler-se «As remunerações acessórias percentuais em vigor mantêm os seus regimes de abonos.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 26 de Agosto de 1996. - O Secretário-Geral, Alexandre Figueiredo.
