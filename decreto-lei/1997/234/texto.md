@@ -1,0 +1,60 @@
+Decreto-Lei n.º 234/97
+de 3 de Setembro
+O Decreto-Lei n.º 310/83, de 1 de Julho, visando estruturar o ensino das várias artes ministradas até então no Conservatório Nacional e em escolas afins, criou algumas escolas oficiais de ensino vocacional da música. Este decreto-lei determinou, ainda, que os docentes dos estabelecimentos, convertidos por força das suas disposições em escolas públicas de ensino especializado, se integrassem num quadro transitório ou pudessem ser contratados pelo tempo necessário à sua profissionalização em serviço, desde que preenchessem determinados requisitos, o que veio a ocorrer.
+Porém, até ao presente, não se criaram condições necessárias para a integração dos docentes dos quadros transitórios em quadros das escolas, nem se proporcionou a profissionalização generalizada dos restantes, factor essencial para a melhoria do seu estatuto profissional e qualidade do ensino artístico ministrado.
+Todavia, a frequência das escolas de ensino especializado da música por um número progressivamente maior de jovens que nelas encontra uma via alternativa para a obtenção de um diploma de ensino secundário e, simultaneamente, uma forma qualificante no domínio artístico constitui um desafio à capacidade daquelas escolas e uma exigência de qualidade acrescida, incompatíveis com a actual situação do seu corpo docente.
+Torna-se, assim, urgente proceder à estabilização dos docentes em exercício de funções nas escolas do ensino especializado da música, através da criação ou actualização dos respectivos quadros e da definição dos requisitos necessários para o ingresso nos mesmos.
+Foram ouvidas as organizações representativas.
+Assim:
+Ao abrigo do artigo 201.º, n.º 1, alínea a), da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Âmbito de aplicação
+O presente diploma aplica-se ao pessoal docente em exercício efectivo de funções nos estabelecimentos públicos de ensino especializado da música.
+Artigo 2.º
+Objecto
+Aos docentes do ensino especializado da música abrangidos pelo presente diploma aplicam-se as disposições do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril.
+Artigo 3.º
+Quadros de escola
+A dotação de lugares dos quadros das escolas públicas do ensino especializado da música será fixada em portaria dos Ministros das Finanças, da Educação e Adjunto, ouvidos os órgãos de gestão das escolas.
+Artigo 4.º
+Docentes do quadro transitório
+Os docentes que ingressaram no quadro transitório de cada um dos estabelecimentos públicos do ensino especializado da música, criados nos termos do n.º 1 do artigo 30.º do Decreto-Lei n.º 310/83, de 1 de Julho, transitam, independentemente de quaisquer formalidades, para os quadros dos respectivos estabelecimentos de ensino.
+Artigo 5.º
+Docentes não pertencentes ao quadro transitório
+1 - Os docentes que reuniam os requisitos exigidos nos n.os 2 e 3 do artigo 30.º do Decreto-Lei n.º 310/83, de 1 de Julho, e que se tenham mantido em exercício ininterrupto de funções até à data da entrada em vigor do presente diploma são providos nos quadros dos estabelecimentos de ensino onde prestam serviço.
+2 - Os docentes contratados com horário completo que possuam pelo menos cinco anos de serviço completo prestado nesta modalidade de ensino são providos nos quadros dos estabelecimentos em que prestam serviço, desde que satisfaçam um dos seguintes requisitos:
+a) Serem profissionalizados;
+b) Serem portadores das habilitações constantes do anexo ao presente diploma;
+c) Estarem abrangidos pelas disposições do n.º 8 do artigo 30.º do Decreto-Lei n.º 310/83, de 1 de Julho.
+3 - Os docentes contratados com horário completo ao abrigo do n.º 5 do artigo 11.º do Decreto-Lei n.º 310/83, de 1 de Julho, podem ser providos nos quadros dos estabelecimentos em que prestam serviço por despacho ministerial proferido caso a caso, mediante proposta fundamentada do órgão de gestão da escola e desde que possuam sete anos de serviço completo prestado nesta modalidade de ensino e observem os requisitos das alíneas a), c), d) e e) do n.º 1 do artigo 22.º do Decreto-Lei n.º 139-A/90, de 28 de Abril.
+4 - Para efeitos de aplicação do disposto nos números anteriores, consideram-se apenas os docentes contratados à data da entrada em vigor do presente diploma.
+Artigo 6.º
+Provimento
+1 - O provimento em lugar do quadro dos docentes abrangidos pelas disposições dos n.os 1 e 2 do artigo anterior ocorre, independentemente de quaisquer formalidades, a partir do início do ano lectivo seguinte.
+2 - O provimento em lugar do quadro dos docentes abrangidos pelas disposições do n.º 3 do artigo anterior ocorre a partir do início do ano lectivo seguinte ao da data do respectivo despacho ministerial.
+Artigo 7.º
+Regime remuneratório
+1 - Os docentes do quadro transitório que ingressam nos quadros criados nos termos do artigo 3.º são integrados no escalão correspondente ao índice remuneratório que lhes é aplicável à data da entrada em vigor do presente diploma, nos termos do anexo I ao Decreto-Lei n.º 409/89, de 18 de Novembro.
+2 - Os docentes contratados que ingressam nos quadros nos termos do artigo 5.º são posicionados na carreira de acordo com as normas constantes do Decreto-Lei n.º 409/89, de 18 de Novembro, considerando-se todo o tempo de serviço prestado nesta modalidade de ensino e as habilitações que possuem.
+3 - Para os efeitos previstos no número anterior, ingressam:
+a) No 3.º escalão do anexo I ao Decreto-Lei n.º 409/89, de 18 de Novembro, os docentes cuja habilitação específica para a respectiva área de docência constituísse, à data da sua aquisição, a máxima possível existente;
+b) No 1.º escalão do anexo I ao Decreto-Lei n.º 409/89, de 18 de Novembro, os docentes para cuja área de docência existisse, à data da sua aquisição, habilitação específica de nível superior.
+Artigo 8.º
+Profissionalização
+Os docentes portadores das habilitações constantes do anexo ao presente diploma que possuam à data da entrada em vigor do presente diploma três ou mais anos de serviço completo nesta modalidade de ensino são integrados num quadro de nomeação provisória onde ficam a aguardar profissionalização, a realizar em termos a definir em diploma próprio.
+Artigo 9.º
+Entrada em vigor
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 24 de Julho de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco Eduardo Carrega Marçal Grilo - Jorge Paulo Sacadura Almeida Coelho.
+Promulgado em 16 de Agosto de 1997.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 21 de Agosto de 1997.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+ANEXO A QUE REFERE O N.º 2 DO ARTIGO 5.º
+Cursos superiores ou cursos completos previstos no Decreto n.º 18881, de 25 de Setembro de 1930.
+Cursos complementares da experiência pedagógica de 1971.
+Bacharelatos ou cursos de estudos superiores especializados das escolas superiores de música.
+Licenciatura em Ciências Musicais.
+Licenciaturas em ensino da Música.
