@@ -1,0 +1,5 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 194/85, publicado no Diário da República, 1.ª série, n.º 142, de 24 de Junho de 1985, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 2.º, na redacção dada ao artigo 7.º, alínea e), do Decreto-Lei n.º 40/83, de 25 de Janeiro, onde se lê «Número de postos de trabalho a ocupar por trabalhador em regime de emprego protegido» deve ler-se «Número de postos de trabalho a ocupar por trabalhadores em regime de emprego protegido»;
+No artigo 2.º, na redacção dada ao artigo 23.º, n.º 2, do Decreto-Lei n.º 40/83, de 23 de Janeiro, onde se lê «pagarão as contribuições devidas pelo valor correspondente às remunerações pagaranos termos do artigo 2.º» deve ler-se «pagarão as contribuições devidas pelo valor correspondente às remunerações pagar nos termos do artigo 21.º».
+Secretaria-Geral da Presidência do Conselho de Ministros, 29 de Julho de 1985. - O Secretário-Geral, França Martins.
