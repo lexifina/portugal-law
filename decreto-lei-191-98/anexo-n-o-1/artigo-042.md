@@ -2,7 +2,7 @@
 
 ### Meios de salvação individuais
 
-1 - As embarcações auxiliares locais que transportem pessoal em serviço devem possuir bóias de salvação de acordo com a tabela seguinte:
+1 - As embarcações auxiliares locais, transportando pessoal em serviço, devem possuir bóias de salvação, de acordo com a tabela seguinte:
 
 (ver tabela no documento original)
 

@@ -8,4 +8,4 @@
 
 2 - As embarcações marítimo-turísticas costeiras devem possuir coletes de salvação para adulto para 100% das pessoas embarcadas e coletes de salvação para criança para 10% das pessoas embarcadas.
 
-3 - Nas embarcações novas, os coletes devem possuir sinal luminoso.
+3 - Nas embarcações que efectuem navegação nocturna os coletes de salvação devem possuir sinal luminoso.

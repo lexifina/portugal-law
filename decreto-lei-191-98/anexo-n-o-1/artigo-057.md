@@ -1,6 +1,6 @@
 ## Subcapítulo 5
 
-## Embarcações registadas na área de navegação local
+## Embarcações registadas na área de navegação local imobilizadas
 
 # Artigo 57.º
 

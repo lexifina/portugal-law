@@ -8,4 +8,4 @@
 
 3 - As disposições constantes da parte I do Regulamento só serão aplicadas às embarcações já existentes depois de decorridos dois anos contados da data da entrada em vigor do presente diploma.
 
-4 - Caso seja requerida a renovação do certificado de navegabilidade das embarcações referidas no número anterior, só lhes será aplicável o disposto na parte I do Regulamento a partir da segunda renovação do certificado.
+4 - (Revogado).
