@@ -1,0 +1,10 @@
+Portaria n.º 258/83
+de 7 de Março
+Pela Portaria n.º 236/78, de 26 de Abril, foi criada a Escola Secundária de D. Luís de Castro, em Braga, resultante da integração, no Ministério da Educação, da Escola de D. Luís de Castro, pertencente à extinta Obra das Mães pela Educação Nacional.
+O mapa n.º 1 anexo à referida portaria definia o quadro do respectivo pessoal docente.
+A Portaria n.º 1017/81, de 25 de Novembro, veio criar naquele estabelecimento de ensino o curso de educador social, ao nível dos 10.º, 11.º e 12.º anos de escolaridade, extinguindo, em consequência, após o termo do ano lectivo de 1982-1983, o curso de educador social do 12.º ano, via profissionalizante, ali ministrado e constante do mapa IV anexo à Portaria n.º 684/81, de 11 de Agosto.
+Determina a Portaria n.º 1017/81 que o quadro do pessoal docente da Escola Secundária de D. Luís de Castro será definido, através de portaria conjunta, de acordo com os planos de estudo do curso de educador social ali ministrado.
+Verifica-se, no entanto, que não existem condições que justifiquem a alteração do referido quadro, na medida em que o curso de educador social e do 12.º ano, via profissionalizante, vai ser extinto.
+Nestes termos, ao abrigo do disposto nos artigos 3.º e 4.º do Decreto-Lei n.º 260-B/75, de 26 de Maio:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Educação e da Reforma Administrativa, que o quadro de pessoal docente da Escola Secundária de D. Luís de Castro, em Braga, é o constante do mapa n.º 1. a que se refere o n.º 2 da Portaria n.º 236/78, de 26 de Abril.
+Ministérios das Finanças e do Plano, da Educação e da Reforma Administrativa, 30 de Novembro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Educação, João José Fraústo da Silva. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes. Secretário de Estado da Reforma Administrativa.
