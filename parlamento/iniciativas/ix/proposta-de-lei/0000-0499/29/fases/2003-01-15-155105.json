@@ -1,0 +1,2167 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "29",
+    "id": "19303",
+    "titulo": "Aprova o Código do Trabalho"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2003-01-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2441",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2003-01-15",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-01-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  SEGURANÇA SOCIAL E DO TRABALHO",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio Bagao Felix"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143501",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3103-3106",
+                  "3113-3113",
+                  "3115-3120",
+                  "3122-3123",
+                  "3125-3127",
+                  "3144-3145"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3103?pgs=3103-3106,3113,3115-3120,3122-3123,3125-3127,3144-3145&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "321",
+                "nome": "Francisco José Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143502",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3106-3107",
+                  "3111-3111"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3106?pgs=3106-3107,3111&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143503",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3107-3108"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3107?pgs=3107-3108&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143504",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3108-3108"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3108?pgs=3108&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1867",
+                "nome": "Vieira da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143505",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3108-3108"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3108?pgs=3108&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho:discussão do relatório da Comissão de Trabalho e dos Assuntos Sociais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143506",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3109-3109"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3109?pgs=3109&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho:discussão do relatório da Comissão de Trabalho e dos Assuntos Sociais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143507",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3109-3110"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3109?pgs=3109-3110&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho:discussão do relatório da Comissão de Trabalho e dos Assuntos Sociais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143508",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3110-3110"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3110?pgs=3110&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho:discussão do relatório da Comissão de Trabalho e dos Assuntos Sociais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143509",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3110-3111"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3110?pgs=3110-3111&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho:discussão do relatório da Comissão de Trabalho e dos Assuntos Sociais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143510",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3112-3113",
+                  "3132-3132"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3112?pgs=3112-3113,3132&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "722",
+                "nome": "Paulo Pedroso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143511",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3113-3113"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3113?pgs=3113&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  SEGURANÇA SOCIAL E DO TRABALHO",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio Bagao Felix"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143512",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3113-3113",
+                  "3123-3123"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3113?pgs=3113,3123&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143513",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3114-3114"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3114?pgs=3114&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143514",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3114-3114"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3114?pgs=3114&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143515",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3114-3114"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3114?pgs=3114&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "205",
+                "nome": "Rui Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143516",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3115-3116"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3115?pgs=3115-3116&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1612",
+                "nome": "Ana Manso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143517",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3116-3117"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3116?pgs=3116-3117&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "210",
+                "nome": "Jerónimo de Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143518",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3117-3118"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3117?pgs=3117-3118&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143519",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3119-3119"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3119?pgs=3119&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1290",
+                "nome": "Álvaro Castello-branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143520",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3120-3120"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3120?pgs=3120&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143521",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3120-3120"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3120?pgs=3120&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1607",
+                "nome": "Patinha Antão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143522",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3121-3121"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3121?pgs=3121&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "722",
+                "nome": "Paulo Pedroso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143523",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3121-3122"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3121?pgs=3121-3122&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1607",
+                "nome": "Patinha Antão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143524",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3122-3122"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3122?pgs=3122&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143525",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3123-3123"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3123?pgs=3123&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "159",
+                "nome": "Artur Penedos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143526",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3124-3124"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3124?pgs=3124&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143527",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3124-3125"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3124?pgs=3124-3125&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1992",
+                "nome": "Pedro Roque"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143528",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3125-3125"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3125?pgs=3125&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "722",
+                "nome": "Paulo Pedroso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143529",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3127-3133"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3127?pgs=3127-3133&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "300",
+                "nome": "Manuel Dias Loureiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143530",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3133-3138"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3133?pgs=3133-3138&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "722",
+                "nome": "Paulo Pedroso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143531",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3137-3137"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3137?pgs=3137&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143532",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3138-3138"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3138?pgs=3138&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1290",
+                "nome": "Álvaro Castello-branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143533",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3138-3140"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3138?pgs=3138-3140&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143534",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3140-3141"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3140?pgs=3140-3141&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143537",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3141-3142"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3141?pgs=3141-3142&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1028",
+                "nome": "Sónia Fertuzinhos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143538",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3142-3143"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3142?pgs=3142-3143&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1270",
+                "nome": "Jorge Strecht"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143539",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3143-3143"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3143?pgs=3143&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "210",
+                "nome": "Jerónimo de Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143540",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3144-3144"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3144?pgs=3144&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143541",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3145-3146"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3145?pgs=3145-3146&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "205",
+                "nome": "Rui Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143542",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3146-3146"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3146?pgs=3146&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143543",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3146-3146"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3146?pgs=3146&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143544",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3147-3148"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3147?pgs=3147-3148&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143545",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3148-3148"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-16",
+                "pubLeg": "IX",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16/3148?pgs=3148&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código do Trabalho",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "155105",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2441",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-01-16",
+        "pubLeg": "IX",
+        "pubNr": "74",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/074/2003-01-16?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
