@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação do Secretário-Geral das Nações Unidas, o Governo do Listenstaina confirmou que os depósitos dos instrumentos de ratificação por parte do Governo da Suíça da Convenção Internacional para Facilitar a Passagem das Fronteiras aos Viajantes e Bagagens Transportados por Caminho de Ferro e da Convenção Internacional para Facilitar a Passagem nas Fronteiras das Mercadorias Transportadas por Via Férrea, ambas assinadas em Genebra em 10 de Janeiro de 1952, são igualmente válidos para o Listenstaina.
+Direcção-Geral dos Negócios Económicos, 18 de Novembro de 1985. - O Subdirector-Geral, Roberto Nuno de Oliveira e Silva Pereira de Sousa.
