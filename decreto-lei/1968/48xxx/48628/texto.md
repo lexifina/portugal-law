@@ -1,0 +1,6 @@
+Decreto-Lei n.º 48628
+Com base numa proposta feita pelo adjudicatário, considerada, nas actuais circunstâncias, de aceitar;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É prorrogado até ao fim do ano de 1969 o contrato para o fornecimento de fardamentos e outros artigos de vestuário, resguardos e calçado ao pessoal civil dos serviços do Estado, publicado no Diário do Governo n.º 1, 3.ª série, de 2 de Janeiro do corrente ano.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 15 de Outubro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bettencourt Conceição Rodrigues - Manuel Pereira Crespe - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
