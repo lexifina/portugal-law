@@ -1,0 +1,3 @@
+Despacho Normativo n.º 82/87
+Nos termos do disposto no n.º 2.º da Portaria n.º 724/86, de 29 de Novembro, determina-se que os produtores de carne de ovinos e caprinos que se encontrem nas condições definidas pelos Regulamentos (CEE) n.º 872/74, do Conselho, de 31 de Março de 1984, e n.º 3007/84, da Comissão, de 26 de Outubro de 1984, e que pretendam beneficiar do prémio estabelecido pela Comunidade Económica Europeia relativo à campanha de 1987, a atribuir em 1988, deverão apresentar os seus pedidos de atribuição do prémio durante o período compreendido entre 1 de Dezembro de 1987 e 31 de Janeiro de 1988.
+Ministério da Agricultura, Pescas e Alimentação, 8 de Outubro de 1987. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
