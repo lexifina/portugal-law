@@ -1,0 +1,12 @@
+Decreto-Lei n.º 234/74
+de 1 de Junho
+Considerando a necessidade de actualizar e unificar o regime alimentar normal dos militares dos três ramos das formas armadas, tendo em vista o valor nutritivo adequado, tanto do ponto de vista energético como de equilíbrio entre os nutrientes;
+Considerando ser necessário assegurar o fornecimento de alimentação aos militares em obediência a ementas estabelecidas e aprovadas e fixar-se a ração mais conveniente a adoptar em situações ou serviços em que tal abono é efectuado por conta do Estado;
+Usando da faculdade conferida pelo n.º 3.º, primeira parte, do artigo 16.º da Lei n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Enquanto não são actualizadas e unificadas as ementas e tabelas de rações dos militares dos três ramos das forças armadas, é fixado em 25$00 o quantitativo diário para alimentação dos oficiais, sargentos e praças do Exército e da Força Aérea em serviço na metrópole, quando em situações ou serviços em que tal abono deva ser efectuado por conta do Estado.
+Art. 2.º Para unificação das ementas e tabelas de rações referidas no artigo anterior, é criada no Centro de Alimentação do Exército uma comissão composta por elementos especializados, a nomear por cada um dos ramos das forças armadas, que as elaborará e submeterá à aprovação do chefe do Estado-Maior-General das Forças Armadas.
+Art. 3.º O presente diploma entra imediatamente em vigor.
+Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Mário Firmino Miguel - Vasco Vieira de Almeida.
+Promulgado em 30 de Maio de 1974.
+Publique-se.
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
