@@ -1,0 +1,6 @@
+Resolução n.º 363/80
+A Resolução n.º 72/80, de 12 de Fevereiro, prorrogou até 31 de Dezembro de 1980 o prazo até ao termo do qual as empresas Habitat - Empreendimentos Imobiliários, S. A. R. L., Concivil - Construção Civil, Lda., Soficosa - Sociedade de Financiamentos e de Construções, Lda., e Micorel - Miraflores Construções Residenciais, Lda., devem requerer ao Ministro das Finanças e do Plano a reavaliação do seu activo imobilizado corpóreo, originariamente fixado no n.º 6 da Resolução n.º 175/79, de 16 de Maio (segundo parágrafo).
+Por seu lado, os prazos estabelecidos nos n.os 4 e 6 (primeiro parágrafo) da Resolução n.º 175/79 vieram a sofrer prorrogações através das Resoluções n.os 319/80, de 5 de Setembro, e 213-I/80, de 16 de Junho, respectivamente, cujo termo se situa em 30 de Setembro de 1980.
+Convindo uniformizar os prazos supra-referidos e subsistindo os motivos que fundamentaram aquelas prorrogações:
+O Conselho de Ministros, reunido em 24 de Setembro de 1980, resolveu prorrogar até 31 de Dezembro de 1980 os prazos estabelecidos nos n.os 4 e 6 da Resolução n.º 175/79, de 16 de Maio.
+Presidência do Conselho de Ministros, 24 de Setembro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
