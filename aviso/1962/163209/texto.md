@@ -1,0 +1,2 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação dirigida pelo Ministério dos Negócios Estrangeiros da França à Embaixada de Portugal em Paris, o Governo da Dinamarca depositou, em 30 de Outubro de 1961, o seu instrumento de ratificação do Acordo de Nice relativo à classificação internacional dos produtos e serviços aos quais se aplicam as marcas de fábrica ou de comércio, de 15 de Junho de 1957. Direcção-Geral dos Negócios Económicos e Consulares, 8 de Agosto de 1962. - O Director-Geral, Albano Pires Fernandes Nogueira.
