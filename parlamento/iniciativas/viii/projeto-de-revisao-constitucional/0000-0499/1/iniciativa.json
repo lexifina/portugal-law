@@ -1,0 +1,175 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "tipo": "Projeto de Revisão Constitucional",
+  "numero": "1",
+  "id": "18607",
+  "fases": 15,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2001-04-05",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2001-09-14",
+    "DataInicioleg": "2000-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "314",
+        "nome": "António Capucho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1737",
+        "nome": "Telmo Antunes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1239",
+        "nome": "Luís Marques Guedes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1640",
+        "nome": "David Justino"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "618",
+        "nome": "Guilherme Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1732",
+        "nome": "António Abelha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "121",
+        "nome": "Mário Albuquerque"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "128",
+        "nome": "Pedro Roseta"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1607",
+        "nome": "Patinha Antão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1558",
+        "nome": "Cruz Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "117",
+        "nome": "Maria Manuela Aguiar"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "123",
+        "nome": "Miguel Macedo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "280",
+        "nome": "Carlos Encarnação"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1643",
+        "nome": "José de Matos Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1022",
+        "nome": "Eugénio Marinho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "67",
+        "nome": "João Maçãs"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1588",
+        "nome": "Fernando Penha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "108",
+        "nome": "Manuel Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1733",
+        "nome": "Luís Pedro Pimentel"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1245",
+        "nome": "António Montalvão Machado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1578",
+        "nome": "Virgílio Almeida Costa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1609",
+        "nome": "Nuno Sancho Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1736",
+        "nome": "Fernando Seara"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1723",
+        "nome": "Carlos Antunes"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Revisão Constitucional",
+    "IniEpigrafe": null,
+    "IniId": "18607",
+    "IniLeg": "VIII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4d775a6a59325a6a59304c5449794d544d744e47466c4f5331694f574a6a4c5759344d6a4d77596a637a5a5749304d69356b62324d3d&fich=30f66f64-2213-4ae9-b9bc-f8230b73eb42.doc&Inline=true",
+    "IniNr": "1",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "C",
+    "IniTitulo": "Revisão Constitucional",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": [
+      {
+        "autor": "Deputados",
+        "id": "18800",
+        "publicacao": null,
+        "tipo": "Proposta de Alteração"
+      }
+    ]
+  }
+}
