@@ -1,0 +1,5 @@
+Despacho do Conselho Superior de Defesa Nacional
+O Conselho Superior de Defesa Nacional, sob proposta do Ministro da Defesa Nacional e tendo em vista ajustar às disposições da Lei n.º 2135, de 11 de Julho de 1968, as práticas actuais do serviço militar efectivo, decidiu, nos termos do n.º 3 do artigo 45.º e do n.º 2 do artigo 47.º da referida Lei, o seguinte:
+a) Conservar nas fileiras como convocados, quando necessários ao serviço, os militares não nomeados para o ultramar que terminem o período normal de dois anos de serviço efectivo, enquanto se mantiverem, por imposição de serviço, em forças destacadas os militares da mesma classe;
+b) Autorizar a convocação, nominalmente ou por classes, dos oficiais do quadro de complemento na disponibilidade e dos pertencentes às quatro classes mais recentes das tropas licenciadas que sejam necessários para satisfazer as exigências de enquadramento das unidades em serviço no ultramar.
+Presidência do Conselho, 1 de Agosto de 1969. - O Presidente do Conselho de Ministros, Marcello Caetano.
