@@ -34,7 +34,7 @@ c) Instituições particulares de solidariedade social - 8%;
 
 d) Instituto de Gestão Financeira da Segurança Social - 30%;
 
-e) Fundo de Fomendo do Desporto - 16%;
+e) Fomento de actividades desportivas - 16%;
 
 f) Fundo de Fomento Cultural - 4,5%;
 
