@@ -10,7 +10,7 @@
 
 2 - A simples vontade de sócio ou sócios, quando não manifestada na deliberação prevista no número anterior, não pode constituir causa contratual de dissolução.
 
-3 - As sociedades anónimas podem ser judicialmente dissolvidas se durante mais de um ano o número de accionistas for inferior a cinco, mesmo que seja um único.
+3 - As sociedades anónimas podem ser judicialmente dissolvidas, se durante mais de um ano o número de accionistas for inferior a cinco, mesmo que seja um único.
 
 4 - O disposto no número anterior não é aplicável se um dos accionistas for o Estado ou entidade a ele equiparada por lei para este efeito.
 

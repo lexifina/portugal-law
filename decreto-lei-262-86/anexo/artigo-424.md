@@ -1,3 +1,7 @@
+## Secção III
+
+## Direcção
+
 # Artigo 424.º
 
 ### (Composição da direcção)

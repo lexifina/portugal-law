@@ -10,4 +10,4 @@
 
 2 - Os membros do conselho geral devem ser accionistas titulares de acções nominativas ou ao portador registadas ou depositadas, em número fixado no contrato de sociedade, não inferior ao necessário para contar um voto na assembleia geral; a alienação das acções importa a cessação de funções.
 
-3 - Aplica-se o disposto nos n.os 3, 4 e 5 do artigo 390.º
+3 - Aplica-se o disposto na segunda parte do n.º 3 e nos n.os 4 e 5 do artigo 390.º.

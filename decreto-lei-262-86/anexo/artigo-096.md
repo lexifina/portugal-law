@@ -1,7 +1,3 @@
-## Secção III
-
-## Redução do capital
-
 # Artigo 96.º
 
 ### (Ressalva do capital mínimo)
