@@ -1,0 +1,1 @@
+Ministérios do Planeamento e da Administração do Território e da Indústria e Energia, 27 de Agosto de 1993. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
