@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Bureau Permanente da Conferência da Haia de Direito Internacional Privado, o Governo dos Países Baixos depositou junto do respectivo Ministério dos Negócios Estrangeiros, em 3 de Novembro de 1975, o instrumento de ratificação da Convenção Relativa à Notificação no Estrangeiro de Actos Judiciais e Extrajudiciais em Matéria Civil e Comercial, concluída em 15 de Novembro de 1965, de que Portugal é parte.
+Secretaria-Geral do Ministério, 4 de Fevereiro de 1976. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
