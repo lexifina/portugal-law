@@ -1,0 +1,5 @@
+Aviso n.º 112/2001
+Por ordem superior se torna público que, em 26 de Novembro de 1998 e em 29 de Junho de 2001, foram remetidas notas verbais, respectivamente pelo Ministério dos Negócios Estrangeiros português e pelo Ministério das Relações Exteriores do Uruguai, em que se comunica terem sido cumpridas as formalidades requeridas pelos ordenamentos jurídicos de ambos os países para a aprovação do Convénio entre o Governo da República Portuguesa e o Governo da República Oriental do Uruguai para a Prevenção do Uso Indevido e Repressão do Tráfico Ilícito de Estupefacientes e Substâncias Psicotrópicas e Seus Precursores e Produtos Químicos Essenciais, assinado em Lisboa em 20 de Julho de 1998.
+O presente Convénio foi aprovado pelo Decreto n.º 43/98, publicado no Diário da República, 1.ª série-A, n.º 263, de 13 de Novembro de 1998.
+Em conformidade com o disposto no seu artigo VII, o Convénio entrou em vigor no dia 29 de Junho de 2001.
+Direcção-Geral das Relações Bilaterais, 23 de Julho de 2001. - O Director-Geral, José Caetano de Campos de Andrada da Costa Pereira.
