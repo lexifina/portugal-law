@@ -1,0 +1,39 @@
+# Acórdão do Tribunal da Relação de Guimarães de 2002-12-11, processo 1288/02-2
+
+**Acórdãos TRG:** Acórdão do Tribunal da Relação de Guimarães
+
+**Processo:** 1288/02-2
+
+**Relator:** ANTÓNIO GONÇALVES
+
+**Descritores:** EXPROPRIAÇÃO; RECURSO DA DECISÃO ARBITRAL; RECURSO PARA O TRIBUNAL DA RELAÇÃO; PRAZO DE INTERPOSIÇÃO DE RECURSO; INDEMNIZAÇÃO; PROVA PERICIAL
+
+**Nº do Documento:** RG
+
+**Data do Acordão:** 12/11/2002
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+## Sumário
+
+I-- Nos termos do artigo 57.º do Código das Expropriações de 1991 o prazo de interposição do recurso da decisão arbitral era de 14 dias a contar da notificação do resultado da arbitragem, sendo hoje de 20 dias, por força do artigo 52.º do Código das Expropriações de 1999.
+
+II-- Porém, ultrapassada a fase da arbitragem, onde se ponderam critérios exclusivamente técnicos, e encaminhado o processo expropriativo para a sua fase judicial, a sua caracterização jurisdicional impõe que a sua disciplina processual seja aferida pelo Código de Processo Civil, se isso não for contrariado por norma especial que diferentemente estatua noutro sentido, pelo que o prazo de interposição de recurso para a Relação do recurso que julgou o recurso interposto da decisão arbitral, é de 10 dias, por força do artigo 685.º, n.º 1 do CPC.
+
+III-- Tendo em consideração que a expropriação envolve competência técnica, a sentença que sobre ela recairá terá de se socorrer dos conhecimentos avançados pelos Peritos, atribuindo ao expropriado a indemnização por eles preconizada, após necessária ponderação dos valores por eles encontrados.
+
+IV-- Na verdade, muito embora a força probatória das respostas dos Peritos seja fixada livremente pelo julgador (peritus peritorum), o certo é que a força probatória deste princípio esgota-se no poder conferido ao Juiz de poder controlar os critérios utilizados pelos peritos e amoldá-los aos legalmente estatuídos.
+
+V-- Não sendo encontrado pelos Peritos um valor indemnizatório único, como regra geral, a prova pericial a que o Julgador deverá reconhecer mais crédito é aquela que é subscrita pelos peritos nomeados pelo Tribunal, por ser a que mais imparcial se apresenta.
+
+VI-- Deve aceitar-se dentro dos parâmetros consignados no artigo 25.º do Código das Expropriações de 1991, o critério de avaliação utilizado pelos peritos do laudo maioritário (os do Tribunal), assentando em critérios legalmente estatuídos, fixando o valor de 85.000$00/m2, subscrevendo o parecer e justificação do Acórdão de Arbitragem, até porque a parcela, localizada em Assento, Várzea, concelho de Felgueiras, se situa na periferia de aglomerado urbano e próxima de moradias unifamiliares de dois pisos, considerando-a como solo apto para construção e também em termos de PDM, como “Espaços Urbanos e Urbanizáveis de 3.º e 4.º nível, Baixa Densidade”, em que o índice de ocupação máxima será 0,6, acrescendo que, nos termos do artigo 25.º foram considerados os seguintes elementos de percentagem: acesso-10.0%; pavimentação em betuminoso-1,0%; rede de abastecimento de água, com serviço junto da parcela-1%; rede de distribuição de energia eléctrica-1%; localização e qualidade ambiental-10%.
+
+11.12.2002
+
+Relator: António Gonçalves
+
+Adjuntos: Narciso Machado; Gomes da Silva
