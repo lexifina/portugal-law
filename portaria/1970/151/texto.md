@@ -1,0 +1,32 @@
+Portaria n.º 151/70
+Tendo em vista a urgência da protecção da fauna piscícola que habita as águas da albufeira criada pela barragem do Vilar, designadamente das espécies trutícolas ali lançadas para repovoamento;
+Ouvido o Conselho Técnico da Direcção-Geral dos Serviços Florestais e Aquícolas:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, com fundamento no n.º 1 da base XXIX da Lei n.º 2097, de 6 de Junho de 1969, e artigo 5.º e seu § único do Regulamento da Pesca nas Águas Interiores, aprovado pelo Decreto n.º 44623, de 10 de Outubro de 1962, o seguinte:
+1. É declarada zona de pesca reservada, que passa a designar-se por «Zona de Pesca Reservada do Vilar», toda a albufeira criada pela barragem hidroeléctrica do Vilar, sita nos concelhos de Moimenta da Beira e de Sernancelhe, no troço do rio Távora compreendido, a jusante, pela citada barragem e, a montante, pelo açude da Várzea ou do Jambeite.
+2. O exercício da pesca na referida zona reger-se-á pelas normas seguintes:
+Regulamento da Zona de Pesca Reservada do Vilar
+1.º Só poderão pescar nesta zona reservada:
+a) Os indivíduos que, além de serem titulares da licença legal cuja validade territorial abranja os concelhos de Moimenta da Beira e de Sernancelhe, possuam uma licença especial diária no valor de 20$00;
+b) Os menores de 14 anos, titulares de uma licença especial diária no valor de 20$00 e devidamente acompanhados por qualquer dos pais ou tutores, quando estes estejam nas condições previstas na alínea anterior;
+c) Os indivíduos estrangeiros, turistas não residentes no País, que possuam uma licença especial diária no valor de 50$00.
+2.º Consideram-se acompanhados, para efeito da alínea b) do número anterior, os menores quando se não encontrem a uma distância superior a 50 m de qualquer dos pais ou tutores.
+3.º Não serão concedidas mais do que quarenta licenças especiais diárias:
+a) Exceptuam-se, todavia, os períodos em que se preveja o esvaziamento da albufeira, nos quais poderão ser concedidas até ao máximo de setenta licenças especiais diárias. Este número pode, no entanto, vir a ser alterado ou até cancelada a sua concessão especial, se a Direcção-Geral dos Serviços Florestais e Aquícolas assim achar conveniente;
+b) Os períodos de esvaziamento considerados na alínea anterior serão anunciados pela Direcção-Geral dos Serviços Florestais e Aquícolas, através dos habituais órgãos de informação.
+4.º Do número de licenças a conceder diàriamente 10 por cento serão reservadas para pescadores estrangeiros e 40 por cento para os não residentes na área dos concelhos de Moimenta da Beira e Sernancelhe.
+5.º A concessão de licenças especiais diárias referidas no número anterior será feita por inscrição, mas esta só se tornará efectiva se as licenças solicitadas forem liquidadas no prazo máximo de oito dias após a data de confirmação da inscrição.
+6.º As licenças especiais diárias destinadas aos residentes nos concelhos de Moimenta da Beira e Sernancelhe poderão ser obtidas nas Administrações Florestais de Lamego e Trancoso.
+7.º A Direcção-Geral dos Serviços Florestais e Aquícolas poderá prolongar o tempo de defeso previsto na lei ou interditar o exercício da pesca, sempre que tal for julgado conveniente.
+8.º Não poderão ser capturadas trutas com dimensões inferiores a 22 cm, medidas nas condições legalmente estipuladas. Toda a truta capturada que não possua as medidas previstas deverá ser imediatamente lançada à água, qualquer que seja o seu estado de ferimento.
+9.º Cada licença especial diária não dá ao seu titular direito de retirar mais de dez trutas. Atingido este número, o pescador deverá cessar imediatamente a sua actividade, sob pena de ser considerado indocumentado para efeito do exercício de pesca na reserva.
+10.º Salvo despacho em contrário da Direcção-Geral dos Serviços Florestais e Aquícolas, nos períodos de esvaziamento da albufeira não fica limitado o número de trutas a capturar, desde que as suas dimensões sejam superiores a 19 cm.
+11.º Cada pescador não poderá utilizar simultâneamente mais do que uma cana, nem empregar quaisquer iscos naturais ou superficiais que não seja a colher ou a pluma.
+12.º O exercício da pesca pode fazer-se de terra, vadeando ou de barco, desde que este não seja movido a motor.
+13.º Todo o indivíduo que sem licença especial diária proceda ao exercício da pesca dentro da reserva fica sujeito à multa de 1000$00, prevista na alínea b) de artigo 72.º do Decreto n.º 44623.
+14.º A pesca na época de defeso prevista no n.º 7.º deste Regulamento constitui crime punível nos termos do artigo 64.º e § único do artigo 67.º de Decreto n.º 44623.
+15.º A retenção de trutas com inobservância do estabelecido no n.º 8.º deste Regulamento constitui contravenção punível nos termos do artigo 63.º do Decreto n.º 46623.
+16.º O exercício da pesca com inobservância no estipulado no n.º 10.º deste Regulamento é punível nos termos do artigo 65.º e § único do artigo 67. do Decreto n.º 44623.
+17.º O uso de barco a motor no exercício da pesca é punível com as penas constantes do artigo 79.º do Decreto n.º 44623, com a apreensão e perda do barco a motor a favor do Estado.
+18.º Nas infracções às normas deste Regulamento praticadas na zona de pesca reservada do Vilar serão aplicados os §§ 2.º e 3.º do artigo 83.º do Decreto n.º 44623.
+19.º Em tudo o que não fica especialmente previsto no presente Regulamento serão aplicadas as disposições legais do regulamento da Lei n.º 2097, de 6 de Junho de 1959, aprovado pelo Decreto n.º 44623, de 10 de Outubro de 1962.
+Secretaria de Estado da Agricultura 16 de Março de 1970. - O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.
