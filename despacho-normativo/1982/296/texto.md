@@ -1,0 +1,3 @@
+Despacho Normativo n.º 296/82
+Nos termos do n.º 10 da Resolução do Conselho de Ministros n.º 61-A/81, de 30 de Março, e após as análises previstas no n.º 6 da referida resolução, considera-se desbloqueada a participação financeira «Expansão Inter-CUF - Aumento de capital» da QUIMIGAL, E. P., que, tendo saído na categoria de bloqueada no Despacho Normativo n.º 113/82, passará a estar inscrita a título definitivo no PISEE-82.
+Ministérios das Finanças e do Plano e da Indústria, Energia e Exportação, 31 de Dezembro de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - O Ministro da Indústria, Energia e Exportação, Ricardo Manuel Simões Bayão Horta.
