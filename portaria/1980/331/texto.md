@@ -1,0 +1,17 @@
+Portaria n.º 331/80
+de 14 de Junho
+Convindo estabelecer um meio de identificação dos membros dos Gabinetes do Ministro e dos Secretários e Subsecretários de Estado, bem como dos funcionários e demais individualidades que prestem serviço neste Ministério ou em organismos dele directamente dependentes, com vista a facilitar, quer o acesso às respectivas instalações, quer a identificação junto de outros serviços e entidades públicas ou privadas:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, o seguinte:
+1.º Aprovar o modelo, anexo a esta portaria, de cartões de identidade para uso dos membros dos Gabinetes do Ministro, dos Secretários e Subsecretários de Estado deste Ministério, bem como, eventualmente, de outro pessoal que lhes preste serviço.
+2.º O mesmo cartão de identidade será também usado pelo pessoal dirigente, técnico, administrativo e auxiliar dos organismos e outros serviços sob a tutela deste Ministério ou das suas Secretarias e Subsecretarias de Estado.
+3.º Os cartões serão de cor branca, com uma faixa diagonal com as cores verde e vermelha no canto superior esquerdo; os destinados às entidades mencionadas no n.º 1.º desta portaria, bem como ao pessoal dirigente referido no seu n.º 2.º, até à categoria correspondente à letra E, inclusive, terão, na frente, antes da indicação do nome do titular, a menção de livre trânsito, em letras maiúsculas de cor vermelha.
+4.º Os cartões serão autenticados com as assinaturas, consoante os casos, dos respectivos membros do Governo ou dos responsáveis pelos serviços, com a aposição do selo branco, de forma que este apanhe o canto inferior esquerdo da fotografia.
+5.º Os cartões serão substituídos quando se verificar qualquer alteração nos cargos ou categorias dos seus titulares e recolhidos quando estes deixarem de os exercer.
+6.º Ficam revogadas as Portarias n.º 19408, de 1 de Outubro de 1962, e 17/77, de 8 de Janeiro.
+Ministério das Finanças e do Plano, 26 de Maio de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.
+
+ANEXO
+Modelo do cartão de identidade
+Dimensões: 105 mm x 74 mm.
+Observação. - Nas primeiras duas linhas do cartão (frente) apor-se-ão as indicações, respectivamente, do departamento governamental e do serviço.
+(ver documento original)
