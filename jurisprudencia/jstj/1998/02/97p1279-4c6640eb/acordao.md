@@ -1,0 +1,59 @@
+# Acórdão do Supremo Tribunal de Justiça de 1998-02-04, processo 97P1279
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 97P1279
+
+**Nº Convencional:** JSTJ00035161
+
+**Relator:** BRITO CAMARA
+
+**Descritores:** RESPONSABILIDADE CIVIL POR ACIDENTE DE VIAÇÃO; RESPONSABILIDADE PELO RISCO; PRESUNÇÃO DE CULPA; COMISSÁRIO; MONTANTE DA INDEMNIZAÇÃO; DANOS FUTUROS; PODERES DO JUIZ; TRANSMISSÃO DE DIREITOS; EXECUÇÃO DE SENTENÇA; EQUIDADE
+
+**Nº do Documento:** SJ199802040012793
+
+**Data do Acordão:** 02/04/1998
+
+**Votação:** MAIORIA COM 2 VOT VENC E 1 DEC VOT
+
+**Tribunal Recurso:** T CIRC STA MARIA FEIRA
+
+**Processo no Tribunal Recurso:** 38/96
+
+**Data:** 02/26/1996
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REC PENAL.
+
+**Decisão:** NEGADO PROVIMENTO. PROVIDO.
+
+**Indicações Eventuais:** ANTUNES VARELA IN DAS OBRIGAÇÕES EM GERAL I 9ED PAG153 E 679 A 681.; ISABEL ALEXANDRE IN ÓNUS DA PROVA NA CÍVEL ENXERTADA EM PROC PENAL.
+
+**Área Temática:** DIR CIV - DIR RESP CIV.
+
+## Sumário
+
+I - Apurado que houve colisão entre o automóvel conduzido pelo arguido - que este o conduzia com autorização do respectivo proprietário - e o veículo motorizado conduzido pela vítima do acidente, não havendo elementos sequer para se concluir quem foi culpado pelo choque, terá de funcionar a presunção de culpa do artigo 503, n. 3, do CCIV, uma vez que o recurso à responsabilidade pelo risco e seu regime só pode funcionar quando sossobrou o apuramento do culpado ou culpados pelos danos causados, uma vez que aquele tipo de responsabilidade serve para colmatar eventuais prejuízos decorrentes de factos ilícitos que ficariam sem responsável quando, por qualquer circunstância, não se descortinar quem causou culposamente o acidente.
+
+II - Devendo funcionar a presunção de culpa, deve arcar com o encargo da indemnização o proprietário do veículo automóvel pois é este que retira vantagens do seu uso, assim se justificando que, em segunda linha, quando não se apurar quem realmente e com culpa causou o prejuízo deve ser o dono o responsável pelos incómodos inerentes à indemnização.
+
+III - A responsabilidade da seguradora existe a título de culpa porque o n. 3 do artigo 503, n. 3, do CCIV estabelece que o condutor que guia o veículo por conta de outrem responde por danos que causar, salvo se provar que não houve culpa da sua parte, o que constitui uma excepção ao princípio de que o ónus da prova na responsabilidade extracontratual cabe ao lesado, excepção esta que está prevista na 2. parte do artigo 487, n. 1, do CCIV.
+
+IV - Se a seguradora, única demandada na acção cível por imposição do artigo 29 n. 1, alínea a), do DL 522/85, de
+
+31 de Dezembro, não conseguir provar que o arguido na acção penal não tenha procedido com culpa, intervem a presunção legal do n. 3 do artigo 503, n. 3, do CCIV.
+
+V - A responsabilidade por culpa presumida do comissário, nos termos do artigo 503, n. 3, do CCIV, não tem os limites do n. 1 do artigo 508 do mesmo Código.
+
+VI - Pode e deve-se lançar mão da presunção legal do artigo 503, n. 3, do CCIV no pedido cível enxertado na acção penal.
+
+VII - Os danos não patrimoniais sofridos pela vítima mortal de um acidente de viação cabem por direito próprio aos demandantes, nos termos do n. 2 do artigo 496 do CCIV, sem qualquer transmissão sucessória.
+
+VIII - O artigo 564 n. 2 do CCIV permite ao tribunal atender aos danos futuros desde que estes sejam previsíveis, mesmo na acção cível enxertada na acção penal.
+
+IX - Para execução de sentença é indispensável que o recurso à equidade não tenha sido possível nos termos do artigo 566, n. 3, do CCIV.
+
+X - Uma vez que os demandantes pediram e conseguiram um aumento de indemnização fixada na 1. instância para uma quantia superior por a entenderem em desacordo com os princípios gerais que a regulam, tal montante não está sujeito ao limite do artigo 508 do CCIV porque o tribunal não está sujeito à qualificação jurídica dos factos feita pelas partes e é livre de a recusar quando a achar incorrecta, conforme dispõe o artigo 664 do CPC.
