@@ -1,0 +1,11 @@
+Despacho Normativo n.º 215/82
+de 7 de Outubro
+A Direcção-Geral da Contabilidade Pública foi reestruturada pelo Decreto-Lei n.º 499/79, de 22 de Dezembro, e pelo Decreto Regulamentar n.º 53/80, de 27 de Setembro, tendo o respectivo quadro de pessoal dirigente previsto, além dos lugares de director-geral, de subinspector-geral, de director de contabilidade e de director administrativo, 27 lugares de chefe de divisão de contabilidade.
+O preenchimento de 20 destes lugares ficou dependente, nos termos do artigo 6.º do Decreto Regulamentar n.º 53/80, da criação das correspondentes divisões e sua distribuição pelos serviços delegados da Direcção-Geral, uma vez que o decreto regulamentar apenas fixou, ele próprio, as divisões dos serviços centrais.
+Assim, foram apenas preenchidos 6 lugares de chefe de divisão, não tendo sido possível preencher os restantes lugares, porque não foi possível até agora, por várias razões, a criação das restantes divisões.
+Tendo sido agora criadas essas divisões, porque isso se tornou possível e necessário, torna-se indispensável o seu preenchimento urgente, a fim de não comprometer seriamente a eficácia dos serviços da Direcção-Geral e, desse modo, na parte fundamental que se refere à elaboração do Orçamento Geral do Estado e ao controle das despesas públicas, não gerar um factor de acrescida dificuldade na prossecução da política de contenção das despesas e recuperação financeira.
+Por outro lado, os respectivos encargos já estão orçamentalmente previstos nas rubricas adequadas.
+Assim sendo, nos termos dos n.os 1 e 3 do artigo 7.º do Decreto-Lei n.º 165/82, de 10 de Maio, é aprovada a seguinte programação para o preenchimento dos 21 lugares de chefe de divisão de contabilidade do quadro de pessoal da Direcção-Geral da Contabilidade Pública constante do mapa I anexo ao Decreto Regulamentar n.º 53/80, de 27 de Setembro, ainda não providos:
+1 - Lugares a preencher no ano de 1982 ... 14
+2 - Lugares a preencher nos anos seguintes ... 7
+Ministérios das Finanças e do Plano e da Reforma Administrativa, 1 de Julho de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Reforma Administrativa, José Manuel Meneres Sampaio Pimentel.
