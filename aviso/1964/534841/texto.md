@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se faz público que o Ministério dos Negócios Estrangeiros inglês comunicou à Embaixada de Portugal em Londres, a pedido da Embaixada da Polónia naquela capital, o seguinte:
+a) O Governo da República Democrática e Popular da Argélia depositou, em 2 de Junho de 1964, junto do Governo Polaco, o seu instrumento de adesão à Convenção para a unificação de certas regras relativas ao transporte aéreo internacional, assinada em Varsóvia em 12 de Outubro de 1929;
+b) O Governo da República Árabe Síria, por nota de 13 de Abril de 1964, confirmou a declaração depositada junto do Governo Polaco, em 2 de Março de 1959, pela qual o Governo da República Árabe Unida se declarou vinculado, com inclusão da província da Síria, pela ratificação pelo Egipto da Convenção para a unificação de certas regras relativas ao transporte aéreo internacional, assinada em Varsóvia em 12 de Outubro de 1929.
+Direcção-Geral dos Negócios Económicos e Consulares, 31 de Julho de 1964. - O Director dos Serviços dos Organismo Económicos Internacionais, Carlos Fernandes.
