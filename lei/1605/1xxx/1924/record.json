@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1924/05/12100/07770777.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1924-05-31",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "a7e6d326f189b97c014966459e473ee81df7f27612a4ab77203b6bddea2e9aa4",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 90.7,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "0d9c9e7e0c7f25e0b45c6f51bf8f1b49cab4db3010f23483d281a81637aac611",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 346
 }
