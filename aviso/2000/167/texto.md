@@ -1,0 +1,4 @@
+Aviso n.º 167/2000
+Por ordem superior se torna público que a Geórgia ratificou, em 20 de Maio de 1999, com entrada em vigor a 20 de Maio de 1999, a Convenção para a Protecção dos Direitos do Homem e das Liberdades Fundamentais, conforme alterada pelo Protocolo n.º 11, aberta à assinatura em Roma a 4 de Novembro de 1950.
+Portugal é parte da mesma Convenção, aprovada, para ratificação, pela Lei da Assembleia da República n.º 65/78, de 13 de Outubro, conforme publicado no Diário da República, 1.ª série, n.º 236, de 13 de Outubro de 1978, tendo sido depositado o respectivo instrumento de ratificação em 9 de Novembro de 1978, conforme publicado no Diário da República, 1.ª série, n.º 1, de 2 de Janeiro de 1979.
+Direcção-Geral dos Assuntos Multilaterais, 19 de Julho de 2000. - O Director de Serviços das Organizações Políticas Internacionais, Rui Filipe Monteiro Belo Macieira.
