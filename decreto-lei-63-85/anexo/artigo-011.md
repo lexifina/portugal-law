@@ -4,6 +4,8 @@
 
 # Artigo 11.º
 
-### (Titularidade)
+### (Suportes da obra)
 
-O direito de autor pertence ao criador intelectual da obra, salvo disposição expressa em contrário.
+1 - O direito de autor sobre obra literária ou artística como coisa incorpórea é independente do direito de propriedade sobre as coisas materiais que sirvam de suporte à sua fixação ou comunicação.
+
+2 - O fabricante e o adquirente dos suportes referidos no número anterior não gozam de quaisquer poderes compreendidos no direito de autor.

@@ -1,5 +1,5 @@
 # Artigo 148.º
 
-### (Âmbito)
+### (Transformações)
 
-As disposições desta secção aplicam-se à reprodução de obra intelectual obtida por qualquer processo análogo à fonografia ou videografia, já existente ou que venha a ser inventado.
+A adaptação, arranjo ou outra transformação de qualquer obra para efeitos de fixação, transmissão, execução ou exibição por meios mecânicos, fonográficos ou videográficos depende igualmente de autorização escrita do autor, que deve precisar a qual ou quais daqueles fins se destina a transformação.

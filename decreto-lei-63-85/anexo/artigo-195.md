@@ -1,23 +1,19 @@
-## Título IV
-
-## Da violação e defesa do direito de autor e dos direitos conexos
-
 # Artigo 195.º
 
-### (Usurpação)
+### (Utilizações livres)
 
-1 - Comete o crime de usurpação quem, sem autorização do autor ou do artista, do produtor de fonograma e videograma, do organismo de radiodifusão ou do editor de publicação de imprensa, utilizar uma obra ou prestação por qualquer das formas previstas no presente Código.
+1 - A protecção concedida neste título não abrange:
 
-2 - Comete também o crime de usurpação:
+a) O uso privado;
 
-a) Quem divulgar ou publicar abusivamente uma obra ainda não divulgada nem publicada pelo seu autor ou não destinada a divulgação ou publicação, mesmo que a apresente como sendo do respectivo autor, quer se proponha ou não obter qualquer vantagem económica;
+b) Os excertos de uma execução, um fonograma, um videograma ou uma emissão de radiodifusão, contanto que o recurso a esses excertos se justifique por propósito de informação ou crítica ou qualquer outro dos que autorizam as citações ou resumos referidos na alínea f) do artigo 76.º;
 
-b) Quem coligir ou compilar obras publicadas ou inéditas sem a autorização do autor;
+c) A utilização destinada a fins exclusivamente científicos ou pedagógicos;
 
-c) Quem, estando autorizado a utilizar uma obra, prestação de artista, fonograma, videograma, emissão radiodifundida ou publicação de imprensa, exceder os limites da autorização concedida, salvo nos casos expressamente previstos no presente Código.
+d) Os casos em que os actos de que se trata constituam utilização lícita de obras objecto de direito de autor;
 
-3 - Será punido com as penas previstas no artigo 197.º o autor que, tendo transmitido, total ou parcialmente, os respectivos direitos ou tendo autorizado a utilização da sua obra por qualquer dos modos previstos neste Código, a utilizar directa ou indirectamente com ofensa dos direitos atribuídos a outrem.
+e) A fixação efémera feita por organismo de radiodifusão;
 
-4 - O disposto nos números anteriores não se aplica às situações de comunicação pública de fonogramas e videogramas editados comercialmente, puníveis como ilícito contraordenacional, nos termos dos n.os 3, 4 e 6 a 12 do artigo 205.º
+f) As fixações ou reproduções realizadas por entes públicos ou concessionários de serviços públicos por algum interesse excepcional de documentação ou para arquivo.
 
-5 - A conduta não é punível quando o prestador de serviços de partilha de conteúdos em linha cumpra as condições previstas, consoante os casos, no n.º 1 do artigo 175.º-C ou nos n.os 1 e 2 do artigo 175.º-D.
+2 - A protecção outorgada neste capítulo ao artista não abrange a execução decorrente do exercício de dever funcional ou de contrato de trabalho.

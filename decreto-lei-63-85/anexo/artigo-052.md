@@ -1,11 +1,9 @@
 # Artigo 52.º
 
-### (Reedição de obra esgotada)
+### (Disposição antecipada do direito de autor)
 
-1 - Se o titular do direito de reedição se recusar a exercê-lo ou a autorizar a reedição depois de esgotadas as edições feitas, poderá qualquer interessado, incluindo o Estado, requerer autorização judicial para proceder à reedição da obra.
+1 - A cessão ou oneração do direito de autor sobre obra futura só pode abranger as que o autor tiver produzido no prazo máximo de 10 anos.
 
-2 - A autorização judicial será concedida se houver interesse público na reedição da obra e a recusa se não fundar em razão moral ou material atendível, excluídas as de ordem financeira.
+2 - Se o contrato visar obras produzidas em prazo mais dilatado, considerar-se-á reduzido aos limites do número anterior, diminuindo proporcionalmente a remuneração estipulada.
 
-3 - O titular do direito de edição não ficará privado deste, podendo fazer ou autorizar futuras edições.
-
-4 - As disposições deste artigo são aplicáveis, com as necessárias adaptações, a todas as formas de reprodução se o transmissário do direito sobre qualquer obra já divulgada não assegurar a satisfação das necessidades razoáveis do público.
+3 - É nulo o contrato de cessão ou oneração de obras futuras sem prazo limitado.

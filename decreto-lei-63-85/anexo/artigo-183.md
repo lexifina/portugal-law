@@ -1,25 +1,11 @@
 # Artigo 183.º
 
-### Duração dos direitos conexos
+### (Poder de impedir)
 
-1 - Os direitos conexos caducam decorrido um período de 50 anos:
+Os artistas intérpretes ou executantes podem impedir, salvo acordo em contrário:
 
-a) Após a representação ou execução pelo artista intérprete ou executante;
+a) A radiodifusão ou a comunicação ao público, por qualquer meio, das execuções que tiverem realizado, salvo quando utilizadas para a radiodifusão ou comunicaçção pública execuções já radiodifundidas ou já fixadas;
 
-b) Após a primeira fixação, pelo produtor, do videograma ou filme;
+b) A fixação das suas execuções não fixadas;
 
-c) Após a primeira emissão pelo organismo de radiodifusão, quer a emissão seja efectuada com ou sem fio, incluindo cabo ou satélite.
-
-2 - Se, no decurso do período referido no número anterior, o videograma ou filme protegidos forem objeto de publicação ou comunicação lícita ao público, o prazo de caducidade do direito é de 50 anos, após a data da primeira publicação ou da primeira comunicação ao público, consoante a que tiver ocorrido em primeiro lugar.
-
-3 - Se a fixação da prestação do artista intérprete ou executante num fonograma for objeto de uma publicação ou comunicação ao público lícitas, no decurso do prazo referido no n.º 1, o prazo de caducidade do direito é de 70 anos após a data da primeira publicação ou da primeira comunicação ao público, consoante a que tiver ocorrido em primeiro lugar.
-
-4 - (Revogado).
-
-5 - O termo «filme» designa uma obra cinematográfica ou áudio-visual e toda e qualquer sequência de imagens em movimento, acompanhadas ou não de som.
-
-6 - Os direitos conexos dos editores de imprensa caducam dois anos após a primeira publicação em publicação de imprensa.
-
-7 - É aplicável às entidades referidas nas alíneas a), b) e c) do n.º 1 e no número anterior o disposto no artigo 37.º
-
-8 - Aos prazos de caducidade previstos no presente artigo é aplicável o disposto no n.º 2 do artigo 31.º
+c) A reprodução de fixação não autorizada das suas execuções, ou para fim diverso do previsto na autorização, ou dos que visam as utilizações livres enumeradas no artigo 195.º, quando a fixação tiver sido feita ao abrigo das disposições desse artigo.

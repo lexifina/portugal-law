@@ -1,9 +1,11 @@
+## Capítulo VII
+
+## Dos direitos morais
+
 # Artigo 60.º
 
-### Modificações de projecto arquitectónico
+### (Definição)
 
-1 - O autor de projecto de arquitectura ou de obra plástica executada por outrem e incorporada em obra de arquitectura tem o direito de fiscalizar a sua construção ou execução em todas as fases e pormenores, de maneira a assegurar a exacta conformidade da obra com o projecto de que é autor.
+1 - Independentemente dos direitos de carácter patrimonial e ainda que os tenha alienado ou onerado, o autor goza durante toda a vida do direito de reivindicar a paternidade da obra e de assegurar a genuinidade e integridade desta, opondo-se a toda e qualquer mutilação, deformação ou outra modificação da mesma e, de um modo geral, a todo e qualquer acto que a desvirtue e possa afectar a honra e reputação do autor.
 
-2 - Quando edificada segundo projecto, não pode o dono da obra, durante a construção nem após a conclusão, introduzir nela alterações sem consulta prévia ao autor, sob pena de indemnização por perdas e danos.
-
-3 - Não havendo acordo, pode o autor repudiar a paternidade da obra modificada, ficando vedado ao proprietário invocar para o futuro, em proveito próprio, o nome do autor do projecto inicial.
+2 - Este direito é inalienável, irrenunciável e imprescritível, perpetuando-se, após morte do autor, nos termos do artigo seguinte.

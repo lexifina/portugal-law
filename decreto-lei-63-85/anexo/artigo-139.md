@@ -1,7 +1,7 @@
 # Artigo 139.º
 
-### Regime aplicável
+### (Provas, matrizes e cópias)
 
-1 - Ao contrato de produção cinematográfica são aplicáveis, com as necessárias adaptações, as disposições relativas ao contrato de edição, representação e execução.
+1 - O produtor só é obrigado a fazer as cópias ou provas da obra cinematográfica à medida que estas lhe forem requisitadas.
 
-2 - Aplica-se à exibição pública da obra cinematográfica, com as devidas adaptações, o regime previsto nos artigos 122.º e 123.º para a recitação e a execução.
+2 - Não assiste ao produtor da obra cinematográfica o direito de vender a preço de saldo as cópias que tiver produzido, ainda que alegando a falta de procura destas.

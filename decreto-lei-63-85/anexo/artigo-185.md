@@ -1,9 +1,7 @@
 # Artigo 185.º
 
-### Identificação dos fonogramas a videogramas
+### (Identificação)
 
-1 - É condição da protecção reconhecida aos produtores de fonogramas e videogramas que em todas as cópias autorizadas e no respectivo invólucro se contenha uma menção constituída pelo símbolo P (a letra P rodeada por um círculo), acompanhada da indicação do ano da primeira publicação.
+1 - Em toda a divulgação de execução será indicado, ainda que abreviadamente, o nome ou pseudónimo do artista, salvo convenção em contrário ou se a natureza do contrato dispensar a indicação.
 
-2 - Se a cópia ou o respectivo invólucro não permitirem a identificação do produtor ou do seu representante, a menção a que se refere o número anterior deve incluir igualmente essa identificação.
-
-3 - Presume-se produtor do fonograma ou videograma aquele cujo nome ou denominação figurar como tal nas cópias autorizadas e no respectivo invólucro, nos termos dos números anteriores.
+2 - Exceptuam-se os programas sonoros exclusivamente musicais sem qualquer forma de locução e os a que se refere o n.º 2 do artigo 155.º

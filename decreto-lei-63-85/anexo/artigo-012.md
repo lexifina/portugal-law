@@ -1,5 +1,5 @@
 # Artigo 12.º
 
-### (Reconhecimento do direito de autor)
+### (Titularidade)
 
-O direito de autor é reconhecido independentemente de registo, depósito ou qualquer outra formalidade.
+O direito de autor pertence ao criador intelectual da obra literária ou artística, salvo disposição expressa em contrário.

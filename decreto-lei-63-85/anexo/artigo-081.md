@@ -1,9 +1,5 @@
 # Artigo 81.º
 
-### Outras utilizações
+### (Processo Braille)
 
-É ainda consentida a reprodução:
-
-a) Em exemplar único, para fins de interesse exclusivamente científico ou humanitário, do obras ainda não disponíveis no comércio ou de obtenção impossível, pelo tempo necessário à sua utilização;
-
-b) Para uso exclusivamente privado, desde que não atinja a exploração normal da obra e não cause prejuízo injustificado dos interesses legítimos do autor, não podendo ser utilizada para quaisquer fins de comunicação pública ou comercialização.
+Será sempre permitida a reprodução ou qualquer espécie de utilização pelo processo Braille ou outro destinado a invisuais de obras literárias ou artísticas licitamente publicadas, contanto que essa reprodução ou utilização não obedeça a intuito lucrativo.

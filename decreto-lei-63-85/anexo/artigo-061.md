@@ -1,7 +1,9 @@
 # Artigo 61.º
 
-### (Direitos morais no caso de penhora)
+### (Exercício)
 
-1 - Se o arrematante do direito de autor sobre obra penhorada e publicada promover a publicação desta, o direito de revisão das provas e correcção da obra e, em geral, os direitos morais não são afectados.
+1 - Por morte do autor, enquanto a obra não cair no domínio público, o exercício destes direitos compete aos seus sucessores.
 
-2 - Se, na hipótese prevista no número anterior, o autor retiver as provas sem justificação por prazo superior a 60 dias, a impressão poderá prosseguir sem a sua revisão.
+2 - A defesa da genuinidade e integridade das obras caídas no domínio público compete ao Estado e é exercida através do Ministério da Cultura.
+
+3 - Falecido o autor, pode o Ministério da Cultura avocar a si, e assegurá-la pelos meios adequados, a defesa das obras ainda não caídas no domínio público que se encontrem ameaçadas na sua autenticidade ou dignidade cultural, quando os titulares do direito de autor, notificados para o exercer, se tiverem disso abstido sem motivo atendível.

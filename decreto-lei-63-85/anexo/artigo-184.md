@@ -1,23 +1,19 @@
 # Artigo 184.º
 
-### Autorização do produtor
+### (Autorização para radiodifundir)
 
-1 - Assiste ao produtor do fonograma ou do videograma o direito exclusivo de fazer ou autorizar, por si ou pelos seus representantes:
+1 - Na falta de acordo em contrário, a autorização para radiodifundir uma execução implica autorização para a sua fixação e posterior radiodifusão e reprodução dessa fixação, bem como para a radiodifusão de fixações licitamente autorizadas por outro organismo de radiodifusão.
 
-a) A reprodução, direta ou indireta, temporária ou permanente, por quaisquer meios e sob qualquer forma, no todo ou em parte, do fonograma ou do videograma;
+2 - O artista tem, todavia, direito a remuneração suplementar sempre que, sem estarem previstas no contrato inicial, forem realizadas as seguintes operações:
 
-b) A distribuição ao público de cópias dos fonogramas ou videogramas, a exibição cinematográfica de videogramas bem como a respetiva importação ou exportação;
+a) Uma nova transmissão;
 
-c) A colocação à disposição do público, por fio ou sem fio, dos fonogramas ou dos videogramas para que sejam acessíveis a qualquer pessoa a partir do local e no momento por ela escolhido;
+b) A retransmissão por outro organismo de radiodifusão;
 
-d) Qualquer utilização do fonograma ou videograma em obra diferente;
+c) A comercialização de fixações obtidas para fins de radiodifusão.
 
-e) A comunicação ao público, de fonogramas e videogramas, incluindo a difusão por qualquer meio e a execução pública direta ou indireta, em local público, na aceção do n.º 3 do artigo 149.º
+3 - A retransmissão e a nova transmissão não autorizadas dão ao artista o direito de receber 20% da remuneração primitivamente fixada.
 
-2 - (Revogado.)
+4 - A comercialização dá ao artista o direito de receber 20% da quantia que o organismo de radiodifusão que fixou a execução receber do adquirente.
 
-3 - Quando um fonograma ou videograma editado comercialmente, ou uma reprodução dos mesmos, for utilizado por qualquer forma de comunicação pública, o utilizador tem de pagar, como contrapartida da autorização prevista na alínea e) do n.º 1, uma remuneração equitativa e única, a dividir entre o produtor e os artistas, intérpretes ou executantes em partes iguais, salvo acordo em contrário.
-
-4 - A autorização para os atos de comunicação ao público de obras incorporadas em fonogramas ou videogramas editados comercialmente, previstos nos n.os 3 e 4 do artigo 205.º, pode ser objeto de gestão coletiva, com efeitos alargados, pelas entidades de gestão coletiva representativas dos produtores de fonogramas e de videogramas, aplicando-se para o efeito o disposto nos artigos 36.º-A e 36.º-B da Lei n.º 26/2015, de 14 de abril, na sua redação atual.
-
-5 - Os produtores de fonogramas ou de videogramas têm a faculdade de fiscalização análoga à conferida nos n.os 1 e 2 do artigo 143.º
+5 - O artista pode estipular com os organismos de radiodifusão condições diversas das referidas nos números anteriores.

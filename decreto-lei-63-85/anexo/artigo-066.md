@@ -1,7 +1,5 @@
 # Artigo 66.º
 
-### (País de origem de obra não publicada)
+### (Direito de retirada)
 
-1 - Relativamente às obras não publicadas, considera-se país de origem aquele a que pertence o autor.
-
-2 - Todavia, quanto às obras de arquitectura e de artes gráficas ou plásticas incorporadas num imóvel, considera-se país de origem aquele em que essas obras forem edificadas ou incorporadas numa construção.
+O autor de obra divulgada poderá retirá-la a todo o tempo da circulação e fazer cessar a respectiva utilização, sejam quais forem as modalidades desta, contanto que tenha razões morais atendíveis, mas deverá indemnizar os interessados pelos prejuízos que a retirada lhes causar.

@@ -1,5 +1,5 @@
 # Artigo 210.º
 
-### (Identificação ilegítima)
+### (Efeito do recurso)
 
-O uso ilegítimo do nome literário ou artístico ou de qualquer outra forma de identificação do autor confere ao interessado o direito de pedir, além da cessação de tal uso, indemnização por perdas e danos.
+Não tem efeito suspensivo o recurso da decisão que aplicar coima de montante inferior a 80000$00.

@@ -1,13 +1,7 @@
 # Artigo 34.º
 
-### Obra cinematográfica ou áudio-visual
+### (País de origem de obra não publicada)
 
-O direito de autor sobre obra cinematográfica ou qualquer outra obra áudio-visual caduca 70 anos após a morte do último sobrevivente de entre as pessoas seguintes:
+1 - Relativamente às obras não publicadas, considera-se país de origem aquele a que pertence o autor.
 
-a) O realizador;
-
-b) O autor do argumento ou da adaptação;
-
-c) O autor dos diálogos;
-
-d) O autor das composições musicais especialmente criadas para a obra.
+2 - Todavia, quanto às obras de arquitectura e de artes gráficas ou plásticas incorporadas num imóvel, considera-se país de origem aquele em que essas obras forem edificadas ou incorporadas numa construção.

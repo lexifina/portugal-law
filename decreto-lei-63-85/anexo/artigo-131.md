@@ -1,5 +1,5 @@
 # Artigo 131.º
 
-### (Retribuição)
+### (Conclusão da obra)
 
-A retribuição dos autores de obra cinematográfica pode consistir em quantia global fixa, em percentagem sobre as receitas provenientes da exibição e em quantia certa por cada exibição ou revestir outra forma acordada com o produtor.
+Considera-se pronta a obra cinematográfica após estabelecimento da sua versão definitiva de acordo entre, por um lado, o realizador e, por outro, o produtor.

@@ -1,6 +1,6 @@
 ## Capítulo III
 
-## Do autor e do nome literário ou artístico
+## Do autor e do nome literário e artístico
 
 # Artigo 27.º
 
@@ -10,4 +10,4 @@
 
 2 - Presume-se autor aquele cujo nome tiver sido indicado como tal na obra, conforme o uso consagrado, ou anunciado em qualquer forma de utilização ou comunicação ao público.
 
-3 - Salvo disposição em contrário, a referência ao autor abrange o sucessor e o transmissário dos respectivos direitos.
+3 - Salvo disposição em contrário, a referência ao autor abrange o sucessor e o cessionário dos respectivos direitos.

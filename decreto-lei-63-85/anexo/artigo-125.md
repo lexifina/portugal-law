@@ -1,7 +1,9 @@
+## Secção IV
+
+## Das obras cinematográficas
+
 # Artigo 125.º
 
-### (Autorização dos autores de obra cinematográfica)
+### (Produção de obra cinematográfica)
 
-1 - Das autorizações concedidas pelos autores das obras cinematográficas nos termos do artigo 22.º devem constar especificamente as condições da produção, distribuição e exibição da película.
-
-2 - Se o autor tiver autorizado, expressa ou implicitamente, a exibição, o exercício dos direitos de exploração económica da obra cinematográfica compete ao produtor.
+A produção cinematográfica depende da autorização dos autores das obras preexistentes, ainda que estes não sejam considerados autores da obra cinematográfica nos termos do artigo 22.º

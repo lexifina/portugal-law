@@ -1,7 +1,7 @@
 # Artigo 162.º
 
-### (Restituição dos modelos ou elementos utilizados)
+### (Estudos e projectos de arquitectura e urbanismo)
 
-1 - Extinto o contrato, devem ser restituídos ao autor os modelos originais e qualquer outro elemento de que se tenha servido aquele que fez as reproduções.
+1 - Em cada exemplar dos estudos e projectos de arquitectura e urbanismo, junto ao estaleiro da construção da obra de arquitectura e nesta, depois de construída, é obrigatória a indicação do respectivo autor, por forma bem legível.
 
-2 - Os instrumentos exclusivamente criados para a reprodução da obra devem, salvo convenção em contrário, ser destruídos ou inutilizados, se o autor não preferir adquiri-los.
+2 - A repetição da construção de obra de arquitectura, segundo o mesmo projecto, só pode fazer-se com o acordo do autor.

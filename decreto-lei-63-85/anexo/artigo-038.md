@@ -1,7 +1,7 @@
 # Artigo 38.º
 
-### Domínio público
+### (Obra fotográfica e equiparada e obra de arte aplicada)
 
-1 - A obra cai no domínio público quando tiverem decorrido os prazos de protecção estabelecidos neste diploma.
+1 - O direito de autor sobre obra fotográfica ou obtida por qualquer processo análogo ao da fotografia, bem como sobre obra de arte aplicada, caduca 25 anos após a realização da obra.
 
-2 - Cai igualmente no domínio público a obra que não for licitamente publicada ou divulgada no prazo de 70 anos a contar da sua criação, quando esse prazo não seja calculado a partir da morte do autor.
+2 - O direito referido no número anterior caduca igualmente no prazo de 25 anos após a realização da obra se esta não tiver sido tornada acessível ao público com o consentimento do autor.

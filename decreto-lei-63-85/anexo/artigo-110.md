@@ -1,11 +1,9 @@
 # Artigo 110.º
 
-### (Retribuição)
+### (Forma, conteúdo e efeitos)
 
-1 - A retribuição do autor pela outorga do direito de representar poderá consistir numa quantia global fixa, numa percentagem sobre as receitas dos espectáculos, em certa quantia por cada espectáculo ou ser determinada por qualquer outra forma estabelecida no contrato.
+1 - Pelo contrato de representação o autor autoriza um empresário a promover a representação da obra, obrigando-se este a fazê-la representar nas condições acordadas.
 
-2 - Se a retribuição for determinada em função da receita do espectáculo, deve ser paga no dia seguinte ao do espectáculo respectivo, salvo se de outro modo tiver sido convencionado.
+2 - O contrato de representação deve ser celebrado por escrito e, salvo convenção em contrário, não atribui ao empresário o exclusivo da comunicação directa da obra por esse meio.
 
-3 - Sendo a retribuição determinada em função da receita de cada espectáculo, assiste ao autor o direito de fiscalizar por si ou por seu representante as receitas respectivas.
-
-4 - Se o empresário viciar as notas de receita ou fizer uso de quaisquer outros meios fraudulentos para ocultar os resultados exactos da sua exploração incorrerá nas penas aplicáveis aos correspondentes crimes e o autor terá o direito a resolver o contrato.
+3 - O contrato deve definir com precisão as condições e os limites em que a representação da obra é autorizada, designadamente quanto ao prazo, ao lugar, à retribuição do autor e às modalidades do respectivo pagamento.

@@ -1,11 +1,11 @@
 # Artigo 90.º
 
-### Obrigações do editor
+### (Obrigações do autor)
 
-1 - O editor é obrigado a consagrar à execução da edição os cuidados necessários à reprodução da obra nas condições convencionadas e a fomentar, com zelo e diligência, a sua promoção e a colocação no mercado dos exemplares produzidos, devendo, em caso de incumprimento, indemnização ao autor por perdas e danos.
+1 - O autor obriga-se a proporcionar ao editor os meios necessários para cumprimento do contrato, devendo, nomeadamente, entregar, nos prazos convencionados, o original da obra objecto da edição em condições de poder fazer-se a reprodução.
 
-2 - Não havendo convenção em contrário, o editor deve iniciar a reprodução da obra no prazo de 6 meses a contar da entrega do original e concluída no prazo de 12 meses a contar da mesma data, salvo caso de força maior devidamente comprovado, em que o editor deve concluir a reprodução no semestre seguinte à expiração deste último prazo.
+2 - O original referido no número anterior pertence ao autor, que tem o direito de exigir a sua restituição logo que esteja concluída a edição.
 
-3 - Não se consideram casos de força maior a falta de financeiros para custear a edição nem o agravamento dos respectivos custos.
+3 - Se o autor demorar injustificadamente a entrega do original, de modo a comprometer a expectativa do editor, pode este rescindir o contrato, sem embargo do pedido de indemnização por perdas e danos.
 
-4 - Se a obra versar assunto do grande actualidade ou de natureza tal que perca o interesse ou a oportunidade em caso de demora na publicação, o editor será obrigado a dar início imediato à reprodução e a tê-la concluída em prazo susceptível de evitar os prejuízos da perda referida.
+4 - O autor é obrigado a assegurar ao editor o exercício dos direitos emergentes do contrato de edição contra os embaraços e turbações provenientes de direitos de terceiros em relação à obra a que respeita o contrato, mas não contra embaraços e turbações provocados por mero facto de terceiro.

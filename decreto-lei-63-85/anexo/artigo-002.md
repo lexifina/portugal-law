@@ -2,9 +2,9 @@
 
 ### (Obras originais)
 
-1 - As criações intelectuais do domínio literário, científico e artístico, quaisquer que sejam o género, a forma de expressão, o mérito, o modo de comunicação e o objectivo, compreendem nomeadamente:
+As exteriorizações a que se refere o n.º 1 do artigo anterior entendem-se, quaisquer que sejam o género, a forma de expressão, o mérito, o modo de comunicação e o objectivo, abrangendo, nomeadamente:
 
-a) Livros, folhetos, revistas, jornais e outros escritos;
+a) Livros, folhetos, revistas e jornais;
 
 b) Conferências, lições, alocuções e sermões;
 
@@ -14,9 +14,9 @@ d) Obras coreográficas e pantomimas, cuja expressão se fixa por escrito ou por
 
 e) Composições musicais, com ou sem palavras;
 
-f) Obras cinematográficas televisivas, fonográficas, videográficas e radiofónicas;
+f) Obras cinematográficas, televisivas, fonográficas, videográficas e radiofónicas;
 
-g) Obras de desenho, tapeçaria, pintura, escultura, cerâmica, azulejo, gravura, litografia e arquitectura;
+g) Obras de desenho, tapeçaria, pintura, arquitectura, escultura, gravura e litografia;
 
 h) Obras fotográficas ou produzidas por quaisquer processos análogos aos da fotografia;
 
@@ -28,6 +28,4 @@ l) Projectos, esboços e obras plásticas respeitantes à arquitectura, ao urban
 
 m) Lemas ou divisas, ainda que de carácter publicitário, se se revestirem de originalidade;
 
-n) (Revogada)
-
-2 - As sucessivas edições de uma obra, ainda que corrigidas, aumentadas, refundidas ou com mudança de título ou de formato, não são obras distintas da obra original, nem o são as reproduções de obra de arte, embora com diversas dimensões.
+n) Paródias e as restantes composições do género literário, musical ou outro, ainda que inspiradas num tema ou motivo de outra obra.

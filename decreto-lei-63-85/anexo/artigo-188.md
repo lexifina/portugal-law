@@ -1,5 +1,5 @@
 # Artigo 188.º
 
-### Duração
+### (Utilizações ilícitas)
 
-A protecção da emissão de radiodifusão subsiste pelo período de 50 anos contados do 1.º dia do ano subsequente àquele em que ocorreu o facto gerador da protecção.
+São ilícitas as utilizações que desfigurem uma execução, que a desvirtuem nos seus propósitos ou que atinjam o artista na sua honra ou na sua reputação.

@@ -1,7 +1,9 @@
 # Artigo 33.º
 
-### Obra anónima e equiparada
+### (País de origem de obra publicada)
 
-1 - A duração da protecção de obra anónima ou licitamente publicada ou divulgada sem identificação do autor é de 70 anos após a publicação ou divulgação.
+1 - A obra publicada tem como país de origem o país da primeira publicação.
 
-2 - Se a utilização de nome, que não o próprio, não deixar dúvidas quanto à identidade do autor, ou se este a revelar dentro do prazo referido no número anterior, a duração da protecção será a dispensada à obra publicada ou divulgada sob nome próprio.
+2 - Se a obra tiver sido publicada simultaneamente em vários países que concedam duração diversa ao direito de autor, considera-se como país de origem, na falta de tratado ou acordo internacional aplicável, aquele que conceder menor duração de protecção.
+
+3 - Considera-se publicada simultaneamente em vários países a obra publicada em dois ou mais países dentro de 30 dias a contar da primeira publicação, incluindo esta.

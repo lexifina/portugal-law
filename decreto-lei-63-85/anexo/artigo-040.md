@@ -1,9 +1,7 @@
 # Artigo 40.º
 
-### (Disponibilidade dos poderes patrimoniais)
+### (Protecção de partes ou volumes de obra)
 
-O titular originário, bem como os seus sucessores ou transmissários, podem:
+1 - Se as diferentes partes ou volumes de uma obra não forem divulgados simultaneamente, os prazos de protecção legal referidos nos artigos 35.º e 36.º contam-se separadamente para cada parte ou volume.
 
-a) Autorizar a utilização da obra por terceiro;
-
-b) Transmitir ou onerar, no todo ou em parte, o conteúdo patrimonial do direito de autor sobre essa obra.
+2 - O mesmo princípio se aplica aos números ou fascículos de obra colectiva de publicação periódica, tal como jornal ou revista.

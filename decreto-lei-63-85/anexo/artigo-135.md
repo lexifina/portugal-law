@@ -1,5 +1,5 @@
 # Artigo 135.º
 
-### (Utilização e reprodução separadas)
+### (Cessão dos direitos do produtor)
 
-Os autores da parte literária e da parte musical da obra cinematográfica podem reproduzi-las e utilizá-las separadamente por qualquer modo, contanto que não prejudiquem a exploração da obra no seu conjunto.
+É igualmente permitido ao produtor transferir a todo o tempo para terceiro, no todo ou em parte, direitos emergentes do contrato, ficando, todavia, responsável para com os autores pelo cumprimento pontual do mesmo.

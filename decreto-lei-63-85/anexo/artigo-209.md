@@ -1,5 +1,5 @@
 # Artigo 209.º
 
-### Medidas cautelares administrativas
+### (Competência para o processamento das contra-ordenações e aplicação das coimas)
 
-Sem prejuízo das providências cautelares previstas na lei de processo, pode o autor requerer das autoridades policiais e administrativas do lugar onde se verifique a violação do seu direito a imediata suspensão de representação, recitação, execução ou qualquer outra forma de exibição de obra protegida que se estejam realizando sem a devida autorização e, cumulativamente, requerer a apreensão da totalidade das receitas.
+A competência para o processamento das contra-ordenações e para aplicação das coimas pertence ao director-geral dos Espectáculos e do Direito de Autor.

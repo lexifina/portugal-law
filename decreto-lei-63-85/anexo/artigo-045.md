@@ -1,7 +1,9 @@
 # Artigo 45.º
 
-### (Usufruto)
+### (Regime da autorização)
 
-1 - O direito de autor pode ser objecto de usufruto, tanto legal como voluntário.
+1 - A simples autorização concedida a terceiro para divulgar, utilizar ou explorar a obra por qualquer processo não implica cessão do direito de autor sobre ela.
 
-2 - Salvo declaração em contrário, só com autorização do titular do direito de autor pode o usufrutuário utilizar a obra objecto do usufruto por qualquer forma que envolva transformação ou modificação desta.
+2 - A autorização a que se refere o número anterior só pode ser concedida por escrito, presumindo-se a sua onerosidade e carácter não exclusivo.
+
+3 - Da autorização escrita devem constar obrigatória e especificadamente a forma autorizada de divulgação e utilização, bem como as respectivas condições de tempo, lugar e preço.

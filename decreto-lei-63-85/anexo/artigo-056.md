@@ -1,11 +1,11 @@
-## Capítulo VI
-
-## Dos direitos morais
-
 # Artigo 56.º
 
-### Definição
+### (Reedição de obra esgotada)
 
-1 - Independentemente dos direitos de carácter patrimonial e ainda que os tenha alienado ou onerado, o autor goza durante toda a vida do direito de reivindicar a paternidade da obra e de assegurar a genuinidade e integridade desta, opondo-se à sua destruição, a toda e qualquer mutilação, deformação ou outra modificação da mesma e, de um modo geral, a todo e qualquer acto que a desvirtue e possa afectar a honra e reputação do autor.
+1 - Se o adquirente de direito de reedição se recusar a exercê-lo ou a autorizar a reedição depois de esgotadas as edições feitas, poderá qualquer interessado, incluindo o Estado, requerer autorização judicial para proceder à reedição da obra.
 
-2 - Este direito é inalienável, irrenunciável e imprescritível, perpetuando-se, após morte do autor, nos termos do artigo seguinte.
+2 - A autorização judicial será concedida se houver interesse público na reedição da obra e a recusa se não fundar em razão moral ou material atendível, excluídas as de ordem financeira.
+
+3 - O titular do direito de edição não ficará privado deste, podendo fazer ou autorizar futuras edições.
+
+4 - As disposições deste artigo são aplicáveis, com as necessárias adaptações, a todas as formas de reprodução se o transmissário do direito sobre qualquer obra já divulgada não assegurar a satisfação das necessidades razoáveis do público.

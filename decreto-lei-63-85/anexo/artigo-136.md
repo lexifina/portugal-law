@@ -1,5 +1,7 @@
 # Artigo 136.º
 
-### (Prazo de cumprimento do contrato)
+### (Identificação da obra e do autor)
 
-Se o produtor não concluir a produção da obra cinematográfica no prazo de três anos a contar da data da entrega da parte literária e da parte musical ou não fizer projectar a película concluída no prazo de três anos a contar da conclusão, o autor ou co-autores terão o direito de resolver o contrato.
+1 - O autor ou co-autores de obra cinematográfica têm o direito de exigir que os seus nomes sejam indicados na projecção do filme, mencionando-se igualmente a contribuição de cada um deles para a obra referida.
+
+2 - Se a obra cinematográfica constituir adaptação de obra preexistente, deverá mencionar-se o título desta e o nome, pseudónimo ou qualquer outro sinal de identificação do autor.

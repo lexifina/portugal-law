@@ -1,7 +1,9 @@
+## Título V
+
+## Do registo
+
 # Artigo 216.º
 
-### (Nome literário ou artístico)
+### (Regra geral)
 
-1 - O nome literário ou artístico só é registável em benefício do criador de obra anteriormente registada.
-
-2 - O registo do nome literário ou artístico não tem outro efeito além da mera publicação do seu uso.
+O direito de autor e os direitos deste derivados adquirem-se independentemente de registo, sem prejuízo do disposto no artigo seguinte.

@@ -1,5 +1,7 @@
 # Artigo 163.º
 
-### Extensão de protecção
+### (Restituição dos modelos ou elementos utilizados)
 
-As disposições constantes desta secção aplicam-se igualmente às maquetas de cenários, figurinos, cartões para tapeçarias, maquetas para painéis cerâmicos, azulejos, vitrais, mosaicos, relevos rurais, cartazes e desenhos publicitários, capas de livros e, eventualmente, à criação gráfica que estes comportem, que sejam criação artística.
+1 - Extinto o contrato, devem ser restituídos ao autor os modelos originais e qualquer outro elemento de que se tenha servido aquele que fez as reproduções.
+
+2 - Os instrumentos exclusivamente criados para a reprodução da obra devem, salvo convenção em contrário, ser destruídos ou inutilizados, se o autor não preferir adquiri-los.

@@ -1,9 +1,9 @@
 # Artigo 82.º
 
-### Compensação pela fixação e reprodução
+### (Outras utilizações)
 
-1 - No preço de venda ao público de todos e quaisquer aparelhos mecânicos, químicos, eléctricos, electrónicos ou outros que permitam a fixação e reprodução de obras e, bem assim, de todos e quaisquer suportes materiais das fixações e reproduções que por qualquer desses meios possam obter-se, incluir-se-á uma quantia destinada a beneficiar os autores, os artistas, intérpretes ou executantes, os editores e os produtores fonográficos e videográficos.
+É ainda consentida a reprodução:
 
-2 - (Revogado).
+a) Num único exemplar, de obras ainda não disponíveis no comércio ou de obtenção difícil, no tempo necessário à sua utilização;
 
-3 - O disposto no n.º 1 não se aplica quando os aparelhos e suportes ali mencionados sejam adquiridos por órgãos de comunicação social e organismos de comunicação audiovisual ou produtores de fonogramas e videogramas exclusivamente para as suas próprias produções ou por organismos que os utilizem para fins exclusivos de auxílio a diminuídos físicos visuais ou auditivos.
+b) Para uso privado, desde que não atinja a exploração normal da obra nem cause prejuízo injustificado aos interesses legítimos do autor.

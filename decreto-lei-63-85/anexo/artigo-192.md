@@ -1,7 +1,5 @@
 # Artigo 192.º
 
-### (Modos de exercício)
+### (Duração)
 
-1 - As disposições sobre os modos de exercício dos direitos de autor aplicam-se no que couber aos modos de exercício dos direitos conexos.
-
-2 - As disposições da secção xi do capítulo iii do título ii aplicam-se, com as necessárias adaptações, ao exercício dos direitos conexos para as utilizações em linha.
+A protecção do produtor subsistirá pelo período de 10 anos, contados do primeiro dia do ano subsequente àquele em que ocorreu a fixação.

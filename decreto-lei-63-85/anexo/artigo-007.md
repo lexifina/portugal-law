@@ -6,7 +6,7 @@
 
 a) As notícias do dia e os relatos de acontecimentos diversos com carácter de simples informações de qualquer modo divulgados;
 
-b) Os requerimentos, alegações, queixas e outros textos apresentados por escrito ou oralmente perante autoridades ou serviços públicos;
+b) Os requerimentos, alegações, queixas e outros textos apresentados por escrito ou oralmente perante autoridades ou serviços públicos, salvo se se verificar a previsão do n.º 4 deste artigo;
 
 c) Os textos propostos e os discursos proferidos perante assembleias ou outros órgãos colegiais, políticos e administrativos, de âmbito nacional, regional ou local, ou em debates públicos sobre assuntos de interesse comum;
 
@@ -16,4 +16,4 @@ d) Os discursos políticos.
 
 3 - A utilização por terceiro de obra referida no n.º 1, quando livre, deve limitar-se ao exigido pelo fim a atingir com a sua divulgação.
 
-4 - Não é permitida a comunicação dos textos a que se refere a alínea b) do n.º 1 quando esses textos forem por natureza confidenciais ou dela possa resultar prejuízo para a honra ou reputação do autor ou de qualquer outra pessoa, salvo decisão judicial em contrário proferida em face de prova da existência de interesse legítimo superior ou subjacente à proibição.
+4 - É proibida a comunicação dos textos a que se refere a alínea b) do n.º 1 quando esses textos forem por natureza confidenciais ou dela possa resultar prejuízo para a honra ou reputação do autor ou de qualquer outra pessoa, só podendo a proibição ser judicialmente removida se para isso se provar interesse legítimo de valoração superior à determinante da proibição.

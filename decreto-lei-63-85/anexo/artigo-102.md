@@ -1,7 +1,11 @@
 # Artigo 102.º
 
-### (Falência do editor)
+### (Morte ou incapacidade do autor)
 
-1 - Se para a realização do activo no processo de falência do autor houver que proceder à venda por baixo preço, na totalidade ou por grandes lotes, dos exemplares da obra editada existentes nos depósitos do editor, deverá o administrador da massa falida prevenir o autor, com a antecipação de 20 dias, pelo menos, a fim de o habilitar a tomar as providências que julgue convenientes para a defesa dos seus interesses materiais e morais.
+1 - Se o autor morrer ou ficar impossibilitado de terminar a obra depois de entregar parte apreciável desta, os sucessores do autor poderão rescindir o contrato, indemnizando o editor por perdas e danos; se o não fizerem no prazo de 3 meses, poderá o editor rescindir o contrato ou dá-lo por cumprido enquanto à parte entregue, contanto que pague ao herdeiro ou representante a retribuição competente.
 
-2 - Ao autor será, além disso, reconhecido o direito de preferência para a aquisição pelo maior preço alcançado dos exemplares postos em arrematação.
+2 - Se o autor tiver manifestado vontade de que a obra não seja publicada senão completa, o contrato será rescindido e não poderá a obra incompleta ser editada em caso algum, mas deverá o editor ser reembolsado dos pagamentos que tiver eventualmente efectuado a título do direito de autor.
+
+3 - Uma obra incompleta só poderá ser completada por outrem que não o autor com o consentimento escrito deste.
+
+4 - Sem embargo do consentimento previsto no número anterior, a publicação da obra completada só pode fazer-se com clara identificação da parte primitiva e do acrescento e indicação da autoria deste.

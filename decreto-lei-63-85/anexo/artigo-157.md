@@ -1,11 +1,5 @@
-## Secção VII
-
-## Da criação de artes plásticas, gráficas a aplicadas
-
 # Artigo 157.º
 
-### (Da exposição)
+### (Regime aplicável)
 
-1 - Só o autor pode expor ou autorizar outrem a expor publicamente as suas obras de arte.
-
-2 - A alienação de obra de arte envolve, salvo convenção expressa em contrário, a atribuição do direito de a expor.
+Em tudo o que se não achar especialmente regulado no presente capítulo aplicar-se-ão à radiodifusão, bem como à difusão obtida por qualquer outro processo que sirva para a reprodução de sinais, sons ou imagens, as disposições relativas à representação e execução, e bem assim ao contrato de edição, desde que haja identidade de razão.

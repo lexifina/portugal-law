@@ -1,7 +1,9 @@
+## Capítulo V
+
+## Da duração
+
 # Artigo 35.º
 
-### Obra publicada ou divulgada em partes
+### (Regra geral)
 
-1 - Se as diferentes partes, volumes ou episódios de uma obra não forem publicados ou divulgados simultaneamente, os prazos de protecção legal contam-se separadamente para cada parte, volume ou episódio.
-
-2 - Aplica-se o mesmo princípio aos números ou fascículos de obras colectivas de publicação periódica, tais como jornais ou publicações similares.
+O direito de autor caduca, na falta de disposição especial, 50 anos após a morte do criador da obra, mesmo que se trate de obra divulgada postumamente.

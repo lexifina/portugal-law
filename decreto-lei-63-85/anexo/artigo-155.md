@@ -1,5 +1,7 @@
 # Artigo 155.º
 
-### (Comunicação pública da obra radiodifundida)
+### (Identificação do autor)
 
-É devida igualmente remuneração ao autor pela comunicação pública da obra radiodifundida, por altifalante ou por qualquer outro instrumento análogo transmissor de sinais, de sons ou de imagens.
+1 - As estações emissoras devem anunciar o nome ou pseudónimo do autor juntamente com o título da obra radiodifundida.
+
+2 - Ressalvam-se os casos, consagrados pelo uso corrente, em que as circunstâncias e necessidades da transmissão levam a omitir as indicações referidas.

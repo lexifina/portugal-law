@@ -1,7 +1,11 @@
 # Artigo 168.º
 
-### (Reprodução de fotografia encomendada)
+### (Indicações obrigatórias)
 
-1 - Salvo convenção em contrário, a fotografia de uma pessoa, quando essa fotografia seja executada por encomenda, pode ser publicada, reproduzida ou mandada reproduzir pela pessoa fotografada ou por seus herdeiros ou transmissários sem consentimento do fotógrafo seu autor.
+1 - Os exemplares de obra fotográfica devem conter as seguintes indicações:
 
-2 - Se o nome do fotógrafo figurar na fotografia original, deve também ser indicado nas reproduções.
+a) Nome do fotógrafo;
+
+b) Em fotografias de obras de artes figurativas, o nome do autor da obra fotografada.
+
+2 - Só pode ser reprimida como abusiva a reprodução irregular das fotografias em que figurem as indicações referidas, não podendo o autor, na falta destas indicações, exigir as retribuições previstas no presente Código, salvo se o fotógrafo provar má-fé de quem fez a reprodução.

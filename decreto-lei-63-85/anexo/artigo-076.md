@@ -1,25 +1,25 @@
+## Capítulo II
+
+## Da utilização livre
+
 # Artigo 76.º
 
-### Requisitos
+### (Âmbito)
 
-1 - A utilização livre a que se refere o artigo anterior deve ser acompanhada:
+São lícitas, sem o consentimento do autor, as seguintes utilizações de obra literária ou artística:
 
-a) Da indicação, sempre que possível, do nome do autor e do editor, do título da obra e demais circunstâncias que os identifiquem;
+a) A reprodução pelos meios de comunicação social, para fins de informação, de discursos, alocuções e conferências pronunciadas em público que não entrem nas categorias previstas no artigo 7.º, por extracto ou em forma de resumo;
 
-b) Nos casos das alíneas a) e e) do n.º 2 do artigo anterior, de uma remuneração equitativa a atribuir ao autor e ao editor pela entidade que tiver procedido à reprodução;
+b) A selecção regular de artigos da imprensa periódica, sob forma de revista de imprensa;
 
-c) No caso da alínea i) do n.º 2 do artigo anterior, de uma remuneração equitativa a atribuir ao autor e ao editor;
+c) A gravação, reprodução e comunicação pública, para os mesmos fins e por quaisquer meios, de imagens de obras de artes plásticas e aplicadas ou de arquitectura captadas por ocasião de acontecimentos de actualidade;
 
-d) No caso da alínea p) do n.º 2 do artigo anterior, de uma remuneração equitativa a atribuir aos titulares de direitos.
+d) A reprodução, no todo ou em parte, pela fotografia ou processo análogo, de uma obra literária ou artística que tenha sido previamente tornada acessível ao público, desde que tal reprodução seja realizada por uma biblioteca pública, um centro de documentação não comercial ou uma instituição científica e que essa reprodução e o respectivo número de exemplares se não destinem ao público e se limitem às necessidades das actividades próprias dessas instituições;
 
-2 - As obras reproduzidas ou citadas, nos casos das alíneas b), d), e), f), g), h) e i) do n.º 2 do artigo anterior, não se devem confundir com a obra de quem as utilize, nem a reprodução ou citação podem ser tão extensas que prejudiquem o interesse por aquelas obras.
+e) A reprodução parcial, pelos processos enumerados na alínea anterior, nos estabelecimentos de ensino, contanto que essa reprodução e respectivo número de exemplares se destinem exclusivamente aos fins do ensino nesses mesmos estabelecimentos e que, não se tratando de artigos de revista, os extractos reproduzidos não ultrapassem, no seu conjunto, a décima parte da extensão da obra de que provêm, podendo-se em qualquer caso reproduzir 20 páginas seguidas;
 
-3 - Só o autor tem o direito de reunir em volume as obras a que se refere a alínea b) do n.º 2 do artigo anterior.
+f) A inserção de citações ou resumos de obras alheias, quaisquer que sejam o seu género e natureza, em apoio das próprias doutrinas ou com fins de crítica, discussão ou ensino;
 
-4 - As reproduções de obras ou outro material protegido, efetuadas nos termos das alíneas v) e w) do n.º 2 do artigo anterior, devem ser armazenadas com um nível de segurança adequado e podem ser conservadas para fins de investigação científica enquanto for necessário para prospeção de textos e dados, incluindo para verificação dos resultados da investigação.
+g) A inclusão de peças curtas ou fragmentos de obras alheias em obras próprias destinadas ao ensino;
 
-5 - Os titulares de direitos podem aplicar medidas para garantir a segurança e a integridade das redes e bases de dados em que as obras ou outro material protegido são conservados para a aplicação do disposto na alínea v) do n.º 2 do artigo anterior, desde que tais medidas não excedam o necessário para alcançar tal objetivo, nem prejudiquem a aplicação efetiva da exceção ali prevista, podendo, designadamente, abranger a validação de acesso por endereços IP selecionados ou a autenticação de utilizadores.
-
-6 - Cabe aos titulares dos direitos de autor e conexos, incluindo direitos desta natureza previstos em leis avulsas, bem como aos organismos de investigação e às instituições responsáveis pelo património cultural, a definição das melhores práticas acordadas para a aplicação do disposto nos n.os 4 e 5.
-
-7 - As utilizações previstas nas alíneas g) e y) do n.º 2 do artigo anterior devem ser consideradas como ocorrendo exclusivamente no território do Estado-Membro da União Europeia onde o estabelecimento de ensino ou a instituição responsável pelo património cultural que procedam às utilizações em causa se encontrem estabelecidos.
+h) A execução de hinos ou de cantos patrióticos oficialmente adoptados e de obras de carácter exclusivamente religioso durante os actos de culto ou as práticas religiosas.

@@ -1,5 +1,5 @@
 # Artigo 117.º
 
-### (Transmissão, reprodução e filmagem da representação)
+### (Sigilo de obra inédita)
 
-Para que a representação da obra, no todo ou em parte, possa ser transmitida pela radiodifusão sonora ou visual, reproduzida em fonograma ou videograma, filmada ou exibida, é necessário, para além das autorizações do empresário do espectáculo e dos artistas, o consentimento escrito do autor.
+Tratando-se de obra que ainda não tenha sido representada nem reproduzida, o empresário não pode dá-la a conhecer antes da primeira representação, salvo para efeitos publicitários, segundo os usos correntes.

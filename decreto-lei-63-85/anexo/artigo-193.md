@@ -1,5 +1,11 @@
 # Artigo 193.º
 
-### (Extensão da protecção)
+### (Direitos dos organismos de radiodifusão)
 
-Beneficiam também de protecção os artistas, os produtores de fonogramas ou videogramas e os organismos de radiodifusão protegidos por convenções internacionais ratificadas ou aprovadas.
+Os organismos de radiodifusão gozam do direito de autorizar ou proibir:
+
+a) A retransmissão das suas emissões;
+
+b) A fixação em suporte material das suas emissões;
+
+c) A reprodução de fixações das suas emissões, quando estas não tiverem sido autorizadas ou quando se tratar de fixação efémera e a reprodução visar fins diversos daqueles com que foi feita.

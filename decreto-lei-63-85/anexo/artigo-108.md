@@ -1,9 +1,9 @@
+## Secção II
+
+## Da representação cénica
+
 # Artigo 108.º
 
-### (Autorização)
+### (Noção)
 
-1 - A utilização da obra na representação depende de autorização do autor, quer a representação se realize em lugar público, quer em lugar privado, com ou sem entradas pagas, com ou sem fim lucrativo.
-
-2 - Se a obra tiver sido divulgada por qualquer forma, e desde que se realize sem fim lucrativo e em privado, num meio familiar, a representação poderá fazer-se independentemente de autorização do autor, princípio que se aplica, aliás, a toda a comunicação.
-
-3 - A concessão do direito de representar presume-se onerosa, excepto quando feita a favor de amadores.
+Representação é a exibição perante espectadores de uma obra dramática, dramático-musical, coreográfica, pantomímica ou outra de natureza análoga, por meio de ficção dramática, do canto, da dança, da música ou de outros processos adequados, separadamente ou combinados entre si.

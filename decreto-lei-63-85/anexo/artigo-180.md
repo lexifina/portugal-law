@@ -1,9 +1,9 @@
 # Artigo 180.º
 
-### Identificação
+### (Publicação fraccionada e periódica)
 
-1 - Em toda a divulgação de uma prestação será indicado, ainda que abreviadamente, o nome ou pseudónimo do artista, salvo convenção em contrário ou se o modo de utilização da interpretação ou execução impuser a omissão da menção.
+1 - O autor ou editor de obra que se publique em volumes, tomos, fascículos ou folhas seguidas, e bem assim o autor ou editor de publicação periódica, podem contratar com outrem a venda por assinatura, à medida que for sendo feita a impressão, por tempo determinado ou indefinido.
 
-2 - Exceptuam-se os programas sonoros exclusivamente musicais sem qualquer forma de locução e os referidos no artigo 154.º
+2 - A não devolução do primeiro tomo ou fascículo expedido pelo autor ou pelo editor não implica a celebração tácita do contrato, nem o destinatário tem a obrigação de o conservar ou devolver.
 
-3 - Presume-se artista, intérprete ou executante, aquele cujo nome tiver sido indicado como tal nas cópias autorizadas da prestação e no respectivo invólucro ou aquele que for anunciado como tal em qualquer forma de utilização lícita, representação ou comunicação ao público.
+3 - A remessa de tomos, fascículos ou folhas por via postal é sempre a risco do expedidor, ficando este obrigado a substituir os exemplares extraviados sem direito a novo pagamento, salvo convenção em contrário.

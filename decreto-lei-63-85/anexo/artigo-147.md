@@ -1,7 +1,5 @@
 # Artigo 147.º
 
-### Remissão
+### (Cessão dos direitos do produtor)
 
-1 - Ao contrato de autorização para fixação fonográfica ou videográfica são aplicáveis, com as necessárias adaptações, as disposições relativas ao contrato de edição.
-
-2 - Aplica-se ao espectáculo consistente na comunicação pública de obra fonográfica ou videográfica, com as devidas adaptações, o regime previsto nos artigos 122.º e 123.º para a recitação e a execução.
+Aquele com quem tiver sido contratada a fixação não pode, salvo no caso de trespasse do estabelecimento, nomeadamente por cisão, transferir para terceiro os direitos emergentes do contrato de autorização sem consentimento dos autores.
