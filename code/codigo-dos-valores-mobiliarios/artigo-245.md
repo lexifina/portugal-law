@@ -18,4 +18,4 @@ b) Elementos correspondentes à certificação legal de contas, se esta não for
 
 4 - Se o relatório e contas anuais não derem uma imagem exacta do património, da situação financeira e dos resultados da sociedade, pode a CMVM ordenar a publicação de informações complementares.
 
-5 - Os documentos que integram o relatório e as contas anuais são enviados à CMVM e à bolsa logo que sejam colocados à disposição dos accionistas.
+5 - Os documentos que integram o relatório e as contas anuais são enviados à CMVM e à entidade gestora da bolsa logo que sejam colocados à disposição dos accionistas.
