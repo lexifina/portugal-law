@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação da Organização Mundial da Propriedade Intelectual, o Governo da República da Islândia depositou, em 28 de Setembro de 1984, o instrumento de adesão ao Acto de Paris da Convenção de Berna para a Protecção das Obras Literárias e Artísticas, de 9 de Setembro de 1886, revisto em Paris em 24 de Julho de 1971, com a declaração, conforme o artigo 28, n.º 1), alínea b), do Acto de Paris, de que a sua adesão não é aplicável aos artigos 1 a 21 e ao anexo.
+Os artigos 22 a 38 do Acto de Paris (1971) da dita Convenção entrarão em vigor, em relação à República da Islândia, a partir de 28 de Dezembro de 1984.
+Direcção-Geral dos Negócios Económicos, 30 de Outubro de 1984. - O Subdirector-Geral, Roberto Nuno de Oliveira e Silva Pereira de Sousa.
