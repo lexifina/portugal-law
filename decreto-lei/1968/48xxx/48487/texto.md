@@ -1,0 +1,13 @@
+Decreto-Lei n.º 48487
+Para habilitar a Companhia dos Caminhos de Ferro Portugueses, S. A. R. L., concessionária única da exploração da rede ferroviária nacional, a proceder à transformação e reapetrechamento previstos no III Plano de Fomento, aprovado pela Lei n.º 2133, de 20 de Dezembro de 1967, torna-se necessário autorizar a emitir obrigações nos montantes que forem fixados nos termos da base VI da referida lei.
+Todavia, encontrando-se prevista a revisão do Plano no final do 1.º triénio da sua vigência, por forma a introduzir os ajustamentos que então se mostrarem necessários, considerou-se conveniente referir a presente autorização ao período de 1968 a 1970.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Para facultar a execução de empreendimentos compreendidos no III Plano de Fomento, é a Companhia dos Caminhos de Ferro Portugueses, S. A. R. L., autorizada a emitir nos anos de 1968. a 1970, por séries, obrigações até ao limite de 930000 contos.
+Art. 2.º - 1. O valor de cada série será fixado, caso por caso, mediante portaria conjunta dos Ministros das Finanças e das Comunicações, sobre requerimento da Companhia, tendo em atenção o que anualmente for aprovado pelo Conselho de Ministros para os Assuntos Económicos, de harmonia com o disposto na base VI da Lei n.º 2133, de 20 de Dezembro de 1967.
+2. Na mesma portaria se fixarão para cada série as condições de emissão não estabelecidas no presente diploma.
+Art. 3.º - 1. As obrigações a emitir gozarão do aval do Estado, nos termos do artigo 2.º do Decreto-Lei n.º 39531, de 6 de Fevereiro de 1954.
+2. Igualmente se concede às obrigações representativas deste empréstimo as isenções fiscais definidas pelo artigo 3.º do mesmo Decreto-Lei n.º 39531.
+Art. 4.º A emissão das obrigações será feita por subscrição pública ou venda no mercado, podendo para tanto a Companhia realizar com instituições de crédito contratos para a sua colocação.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 17 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
