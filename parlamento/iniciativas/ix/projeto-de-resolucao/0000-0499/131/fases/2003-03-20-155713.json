@@ -1,0 +1,616 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "131",
+    "id": "19582",
+    "titulo": "Protecção das explorações de inertes para calçada de vidraço à portuguesa."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2003-03-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2494",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2003-03-20",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "19363",
+        "leg": "IX",
+        "nr": "189",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "688",
+            "obs": null,
+            "pag": [
+              "4284-4294"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-03-21",
+            "pubLeg": "IX",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4284?pgs=4284-4294&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "688",
+            "obs": null,
+            "pag": [
+              "4284-4294"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-03-21",
+            "pubLeg": "IX",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4284?pgs=4284-4294&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Assegura a defesa e a valorização da calçada de vidraço à portuguesa."
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "19551",
+        "leg": "IX",
+        "nr": "128",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "688",
+            "obs": null,
+            "pag": [
+              "4284-4294"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-03-21",
+            "pubLeg": "IX",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4284?pgs=4284-4294&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "688",
+            "obs": null,
+            "pag": [
+              "4284-4294"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-03-21",
+            "pubLeg": "IX",
+            "pubNr": "102",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4284?pgs=4284-4294&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Sobre a criação de um regime especial das pequenas explorações de pedreiras para calçada ou outros inertes."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-03-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1423",
+                "nome": "Luísa Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144915",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4284-4286",
+                  "4293-4293"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4284?pgs=4284-4286,4293&org=PLC"
+              }
+            ],
+            "sumario": "Assegura a defesa e a valorização da calçada de vidraço à portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144916",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4286-4286"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4286?pgs=4286&org=PLC"
+              }
+            ],
+            "sumario": "Assegura a defesa e a valorização da calçada de vidraço à portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1384",
+                "nome": "Paulo Batista Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144917",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4286-4286"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4286?pgs=4286&org=PLC"
+              }
+            ],
+            "sumario": "Assegura a defesa e a valorização da calçada de vidraço à portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1384",
+                "nome": "Paulo Batista Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144918",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4287-4287"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4287?pgs=4287&org=PLC"
+              }
+            ],
+            "sumario": "Assegura a defesa e a valorização da calçada de vidraço à portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1921",
+                "nome": "Isabel Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144919",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4288-4289",
+                  "4293-4294"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4288?pgs=4288-4289,4293-4294&org=PLC"
+              }
+            ],
+            "sumario": "Assegura a defesa e a valorização da calçada de vidraço à portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1621",
+                "nome": "Maria Ofélia Moleiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144920",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4289-4290"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4289?pgs=4289-4290&org=PLC"
+              }
+            ],
+            "sumario": "Assegura a defesa e a valorização da calçada de vidraço à portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144921",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4290-4290"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4290?pgs=4290&org=PLC"
+              }
+            ],
+            "sumario": "Assegura a defesa e a valorização da calçada de vidraço à portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "682",
+                "nome": "José Miguel Medeiros"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144922",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4291-4292"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4291?pgs=4291-4292&org=PLC"
+              }
+            ],
+            "sumario": "Assegura a defesa e a valorização da calçada de vidraço à portuguesa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1666",
+                "nome": "Luiz Fagundes Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144923",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4293-4293"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4293?pgs=4293&org=PLC"
+              }
+            ],
+            "sumario": "Assegura a defesa e a valorização da calçada de vidraço à portuguesa",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "155713",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "276470",
+        "obs": null,
+        "pag": [
+          "4284-4294"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-03-21",
+        "pubLeg": "IX",
+        "pubNr": "102",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4284?pgs=4284-4294&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
