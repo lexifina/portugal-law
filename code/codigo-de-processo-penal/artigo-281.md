@@ -39,3 +39,5 @@ i) Qualquer outro comportamento especialmente exigido pelo caso.
 4 - Para apoio e vigilância do cumprimento das injunções e regras de conduta podem o juiz de instrução e o Ministério Público, consoante os casos, recorrer aos serviços de reinserção social, a órgãos de polícia criminal e às autoridades administrativas.
 
 5 - A decisão de suspensão, em conformidade com o n.º 1, não é susceptível de impugnação.
+
+6 - Em processos por crime de maus tratos entre cônjuges, entre quem conviva em condições análogas ou seja progenitor de descendente comum em 1.º grau, pode ainda decidir-se, sem prejuízo do disposto no n.º 1, pela suspensão provisória do processo a livre requerimento da vítima, tendo em especial consideração a sua situação e desde que ao arguido não haja sido aplicada medida similar por infracção da mesma natureza.
