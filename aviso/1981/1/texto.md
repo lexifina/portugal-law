@@ -1,0 +1,6 @@
+Aviso n.º 1/81
+O Banco de Portugal, sob orientação do Ministro das Finanças e do Plano, no uso da competência que lhe é atribuída pelo artigo 16.º da sua Lei Orgânica e considerando o disposto na alínea c) do n.º 2 do artigo 27.º dessa mesma Lei Orgânica, determina que o n.º 3.º do Aviso n.º 2/79, de 8 de Abril, publicado no Diário da República, n.º 100, de 2 de Maio de 1979, passe a ter a seguinte redacção:
+3.º - 1 - O montante médio dos saldos das contas de depósitos à ordem abertas no Banco de Portugal em nome de instituições de crédito não deverá ser, em cada semana, inferior a 70% do valor mínimo das disponibilidades de caixa, calculado de harmonia com o disposto dos números anteriores.
+2 - No último dia de cada mês, e sem prejuízo do disposto no número anterior, o montante dos saldos das referidas contas de depósitos à ordem abertas no Banco de Portugal deverá ser, pelo menos, igual a 70% do valor mínimo global das disponibilidades de caixa, calculado de harmonia com o disposto no n.º 2 do n.º 1.º
+3 - As caixas económicas ficam dispensadas do cumprimento do disposto nos anteriores n.os 1 e 2 sempre que os montantes mínimos aí referidos sejam inferiores a 700000$00.
+Ministério das Finanças e do Plano, 5 de Março de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão.
