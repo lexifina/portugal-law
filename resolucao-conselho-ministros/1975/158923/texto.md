@@ -1,0 +1,3 @@
+Resolução do Conselho de Ministros
+As remunerações dos administradores por parte do Estado ou membros das comissões administrativas designados pelo Governo para as empresas em que se verifiquem intervenções do Estado, nos termos do Decreto-Lei n.º 660/74, de 25 de Novembro, serão fixadas por despacho conjunto do titular do departamento a que respeite a correspondente actividade económica e do Ministro das Finanças, com observância do disposto no artigo 1.º do Decreto-Lei n.º 446/74, de 13 de Setembro. As referidas remunerações serão pagas pelas empresas nas quais se tenha verificado a intervenção.
+Presidência do Conselho de Ministros, 8 de Janeiro de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
