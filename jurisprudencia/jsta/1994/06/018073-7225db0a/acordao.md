@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal Administrativo de 1994-06-29, processo 018073
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 018073
+
+**Data do Acordão:** 06/29/1994
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** BRANDÃO DE PINHO
+
+**Descritores:** INFRACÇÃO ADUANEIRA; CONTRA-ORDENAÇÃO ADUANEIRA; ACTO ADMINISTRATIVO; COIMA; RECURSO CONTENCIOSO; PRAZO SUBSTANTIVO; CONTENCIOSO ADUANEIRO
+
+**Nº Convencional:** JSTA00041343
+
+**Nº do Documento:** SA219940629018073
+
+**Data de Entrada:** 04/06/1994
+
+**Recorrente:** ALCANTARA-REFINARIAS AÇUCARES SA - MARQUES , LUIS
+
+**Recorrido 1:** DIRECTOR DA ALFANDEGA DE LISBOA
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 94
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** DESP TFA 2J LISBOA DE 1993/02/10 PER SALTUM.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR PROC ADUAN CONT - REC DIRECTO.
+
+**Legislação Nacional:** RJIFA89 ART4 B.; DL 433/82 DE 1982/10/27 ART14 N1 ART59 N3 ART62.; CCIV66 ART297.; CPC67 ART144.; CPA91 ART120.; DL 232/79 DE 1979/07/24.; LPTA85 ART28 N2.; CPP87 ART104 N1 ART445 N1.; DL 433/82 DE 1982/10/27 NA REDACÇÃO DO DL 356/89 DE 1989/10/17 ART59 N3.
+
+**Jurisprudência Nacional:** AC STA DE 1988/10/12 IN AP-DR PAG1090.; AC STA PROC12135 DE 1990/05/30.; AC STA DE 1988/05/12 IN BMJ N389 PAG305.; AC STA DE 1989/01/05 IN BMJ N389 PAG424.; AC STA DE 1990/02/06 IN BMJ N394 PAG510.; AC STA DE 1990/02/06 IN BMJ N401 PAG614.; AC STJ DE 1994/03/10.; AC STA PROC14101 DE 1993/10/17.; AC STA PROC14557 DE 1993/01/20.
+
+**Referência a Doutrina:** ALBERTO DOS REIS COMENTÁRIO AO CÓDIGO DE PROCESSO CIVIL VII PAG14 PAG59.; MANUEL DE ANDRADE NOÇÕES ELEMENTARES DE PROCESSO CIVIL PAG48.; ANSELMO DE CASTRO LIÇÕES DE PROCESSO CIVIL VIII PAG75.; VAZ SERRA IN BMJ N107 PAG214.; FARIA COSTA IN BFDC N62 1986 PAG166.; AFONSO QUEIRÓIN RLJ ANO115 PAG180 PAG182.; BEÇA PEREIRA REGIME GERAL DAS CONTRA-ORDENAÇÕES E COIMAS PAG75 PAG76.; Texto Integral
+
+## Sumário
+
+O prazo do art. 59 n. 3 do Dec.-Lei 433/82, de 27 Out., aplicável em contencioso aduaneiro por força do art. 4 al. b) do RJIFA, não tem natureza judicial mas substantiva, como verdadeiro prazo de caducidade, pelo que a sua contagem obedece ao disposto no art. 297 do Cód.
+
+Civil não lhe sendo aplicável o art. 144 do C.P.Civil.
