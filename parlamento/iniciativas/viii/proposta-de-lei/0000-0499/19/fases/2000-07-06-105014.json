@@ -1,0 +1,1011 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "19",
+    "id": "6141",
+    "titulo": "Regula o voto dos cidadãos portugueses residentes no estrangeiro na eleição do Presidente da Republica e alarga as situações de voto antecipado alterando o Decreto-lei n°319-A/ 76 de 3 de Maio"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2000-07-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1659",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2000-07-06",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6136",
+        "leg": "VIII",
+        "nr": "152",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "443",
+            "obs": null,
+            "pag": [
+              "3506-3507"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-07-07",
+            "pubLeg": "VIII",
+            "pubNr": "87",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "443",
+            "obs": null,
+            "pag": [
+              "3506-3507"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-07-07",
+            "pubLeg": "VIII",
+            "pubNr": "87",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Regula o direito de voto dos emigrantes nas eleições presidênciais"
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6135",
+        "leg": "VIII",
+        "nr": "153",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "443",
+            "obs": null,
+            "pag": [
+              "3506-3507"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-07-07",
+            "pubLeg": "VIII",
+            "pubNr": "87",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "443",
+            "obs": null,
+            "pag": [
+              "3506-3507"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-07-07",
+            "pubLeg": "VIII",
+            "pubNr": "87",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Regula o processo de votação na eleição do Presidente da República dos cidadãos portugueses não residentes no território nacional"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-07-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1741",
+                "nome": "Paulo Pisco"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27041",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3506-3507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+              }
+            ],
+            "sumario": "ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESESRESIDENTES NO ESTRANGEIRO, ALTERACAO AO DEC-LEI 319-A/76, 3DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "177",
+                "nome": "João Rui de Almeida"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27042",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3506-3507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+              }
+            ],
+            "sumario": "ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESESRESIDENTES NO ESTRANGEIRO, ALTERACAO AO DEC-LEI 319-A/76, 3DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "148",
+                "nome": "Marques Júnior"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27043",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3506-3507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+              }
+            ],
+            "sumario": "ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESESRESIDENTES NO ESTRANGEIRO, ALTERACAO AO DEC-LEI 319-A/76, 3DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "192",
+                "nome": "José Penedos"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27044",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3506-3507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+              }
+            ],
+            "sumario": "ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESESRESIDENTES NO ESTRANGEIRO, ALTERACAO AO DEC-LEI 319-A/76, 3DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1164",
+                "nome": "Miguel Coelho"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27045",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3506-3507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+              }
+            ],
+            "sumario": "ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESESRESIDENTES NO ESTRANGEIRO, ALTERACAO AO DEC-LEI 319-A/76, 3DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1168",
+                "nome": "José Egípto"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27046",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3506-3507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+              }
+            ],
+            "sumario": "ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESESRESIDENTES NO ESTRANGEIRO, ALTERACAO AO DEC-LEI 319-A/76, 3DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1701",
+                "nome": "Luísa Portugal"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27047",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3506-3507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+              }
+            ],
+            "sumario": "ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESESRESIDENTES NO ESTRANGEIRO, ALTERACAO AO DEC-LEI 319-A/76, 3DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1436",
+                "nome": "Joaquim Sarmento"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27048",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3506-3507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+              }
+            ],
+            "sumario": "ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESESRESIDENTES NO ESTRANGEIRO, ALTERACAO AO DEC-LEI 319-A/76, 3DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1467",
+                "nome": "Medeiros Ferreira"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27049",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3506-3507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+              }
+            ],
+            "sumario": "ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESESRESIDENTES NO ESTRANGEIRO, ALTERACAO AO DEC-LEI 319-A/76, 3DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "164",
+                "nome": "Eduardo Pereira"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27050",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3506-3507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+              }
+            ],
+            "sumario": "ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESESRESIDENTES NO ESTRANGEIRO, ALTERACAO AO DEC-LEI 319-A/76, 3DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1180",
+                "nome": "Dias Baptista"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27051",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3506-3507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+              }
+            ],
+            "sumario": "ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESESRESIDENTES NO ESTRANGEIRO, ALTERACAO AO DEC-LEI 319-A/76, 3DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "143",
+                "nome": "Alberto Costa"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27052",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3506-3507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+              }
+            ],
+            "sumario": "ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESESRESIDENTES NO ESTRANGEIRO, ALTERACAO AO DEC-LEI 319-A/76, 3DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27053",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3506-3507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+              }
+            ],
+            "sumario": "ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESESRESIDENTES NO ESTRANGEIRO, ALTERACAO AO DEC-LEI 319-A/76, 3DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "185",
+                "nome": "José Vera Jardim"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27054",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3506-3507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+              }
+            ],
+            "sumario": "ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESESRESIDENTES NO ESTRANGEIRO, ALTERACAO AO DEC-LEI 319-A/76, 3DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1407",
+                "nome": "Nelson Baltazar"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27055",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3506-3507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+              }
+            ],
+            "sumario": "ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESESRESIDENTES NO ESTRANGEIRO, ALTERACAO AO DEC-LEI 319-A/76, 3DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "235",
+                "nome": "Manuel Alegre"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27056",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3506-3507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+              }
+            ],
+            "sumario": "ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESESRESIDENTES NO ESTRANGEIRO, ALTERACAO AO DEC-LEI 319-A/76, 3DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27057",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3506-3507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3506?pgs=3506-3507&org=PLC"
+              }
+            ],
+            "sumario": "ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESESRESIDENTES NO ESTRANGEIRO, ALTERACAO AO DEC-LEI 319-A/76, 3DE MAIO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105014",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2000-07-06",
+        "descricao": "Texto Final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I><BR>Contra:<I>PCP</I>, <I> PEV</I>, <I> BE</I><BR>Abstenção:<I>CDS-PP</I>",
+        "id": "24716",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "111015",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-07-07",
+            "pubLeg": "VIII",
+            "pubNr": "87",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07?org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
