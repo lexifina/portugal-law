@@ -1,0 +1,20 @@
+Portaria n.º 162/74
+de 28 de Fevereiro
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Administração Ultramarina, abrir, nos termos do § único do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, conjugado com o artigo 13.º do Decreto-Lei n.º 35770, de 29 de Julho de 1946, e artigo 3.º do aludido Decreto n.º 35770 e sua alínea e), com a nova redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, os seguintes créditos especiais:
+1) Um, da importância de 3156$00, destinado a reforçar a verba do capítulo 10.º, artigo 315.º, n.º 6 «Encargos gerais - Deslocações de pessoal - Encargos com viagens e subsídios dos presidentes dos júris de fiscalização e outras despesas a que se referem os Decretos n.os 39291, de 24 de Julho de 1953, 39622, de 26 de Abril de 1954, 39791, de 27 de Agosto de 1954, e 40290, de 19 de Agosto de 1955», da tabela de despesa ordinária do orçamento geral da província de Cabo Verde para o ano económico de 1973, tomando como contrapartida o excesso de cobrança sobre a previsão da receita do capítulo 1.º, artigo 1.º «Impostos directos gerais - Contribuição industrial», do orçamento da receita ordinária para o mesmo ano económico;
+2) Um, da importância de 424854$00, destinado a reforçar, com as importâncias que se indicam, as seguintes verbas da tabela de despesa ordinária do orçamento geral do Estado Português de Angola para o ano económico de 1973, tomando como contrapartida o excesso de cobrança sobre a previsão da receita do capítulo 3.º, artigo 19.º, n.º 2 «Indústrias em regime tributário especial - Receitas resultantes do regime tributário especial das indústrias petrolíferas - Imposto sobre o rendimento», do orçamento da receita ordinária para o mesmo ano económico:
+CAPÍTULO 4.º
+Administração geral e fiscalização
+Serviços de educação
+Artigo 267.º «Encargos administrativos»:
+N.º 15 «Encargos com viagens e subsídios dos presidentes dos júris de fiscalização e outras despesas a que se referem os Decretos n.os 39291, de 24 de Julho de 1953, 39622, de 26 de Abril de 1954, 39791, de 27 de Agosto de 1954, e 40290, de 10 de Agosto de 1955» ... 159024$00
+CAPÍTULO 10.º
+Encargos gerais
+Artigo 1537.º «Quota-parte da província em encargos na metrópole»:
+N.º 7 «Junta das Missões Geográficas e de Investigações do Ultramar»:
+Alínea b) «Missões»:
+1 «Geográfica» ... 265830$00
+... 424854$00
+Ministério do Ultramar, 16 de Fevereiro de 1974. - O Secretário de Estado da Administração Ultramarina, Leão Maria Tavares Rosado do Sacramento Monteiro.
+
+Para ser publicada nos Boletins Oficiais de Cabo Verde e Angola. - Sacramento Monteiro.
