@@ -1,0 +1,9 @@
+Resolução n.º 355/79
+Os serviços prisionais são considerados essenciais, nos termos do n.º 3 da Resolução n.º 142/79, de 11 de Maio.
+Sucede, porém, ser indispensável fazer uma distinção entre os serviços de segurança prisional e os sectores de administração, laboral e de educação.
+Os serviços de segurança dos estabelecimentos prisionais, a cargo dos chefes, subchefes e guardas, são efectivamente essenciais, sendo executados em regime de escala tendo laboração contínua, estruturas e meios de acção próprios que lhes permitem funcionar com plena eficiência, sem dependência de quaisquer outros serviços integrados na Direcção-Geral dos Serviços Prisionais.
+De modo diferente, os sectores administrativo, laboral e de educação dos serviços prisionais não são essenciais, nem de funcionamento contínuo, pelo que se lhes poderá estender, sem qualquer prejuízo, o regime geral do horário da função pública.
+Assim, considerando a proposta da Direcção-Geral dos Serviços Prisionais, que mereceu a concordância do Ministro da Justiça, no sentido de, para efeitos do disposto no n.º 1 da Resolução n.º 142/79, de 11 de Maio, não serem os sectores administrativo, laboral e de educação dos serviços prisionais considerados essenciais, podendo assim, até à entrada em vigor do novo regime jurídico da duração do trabalho na função pública, observar o horário estabelecido no n.º 2:
+O Conselho de Ministros, reunido em 30 de Novembro de 1979, nos termos do disposto no n.º 4 da referida resolução, resolveu:
+Considerar que não são, por sua essência, de funcionamento contínuo e, como tal, não essenciais os sectores administrativo, laboral e de educação dos serviços prisionais, tendo em vista o seu enquadramento no horário estabelecido no n.º 2 da Resolução do Conselho de Ministros n.º 142/79, de 11 de Maio.
+Presidência do Conselho de Ministros, 30 de Novembro de 1979. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo.
