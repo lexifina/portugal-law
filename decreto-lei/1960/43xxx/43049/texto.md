@@ -1,0 +1,5 @@
+Decreto-Lei n.º 43049
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. A verba inscrita no n.º 3) do artigo 22.º, capítulo 3.º, do orçamento em vigor do Ministério dos Negócios Estrangeiros pode ficar abrangida, na parte que for definida pelos Ministros das Finanças e dos Negócios Estrangeiros, pelas disposições dos artigos 3.º e 7.º do Decreto-Lei n.º 40124, de 13 de Abril de 1955.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 6 de Julho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
