@@ -1,0 +1,5 @@
+Aviso n.º 12/2001
+Por ordem superior se torna público que, por nota de 4 de Setembro de 2000 e na sua qualidade de depositário das Convenções de Genebra para a Protecção das Vítimas da Guerra, adoptadas em 12 de Agosto de 1949, o Conselho Federal Suíço notificou ter a Eritreia depositado o seu instrumento de adesão em 14 de Agosto de 2000.
+Nos termos dos artigos 62.º, 61.º, 141.º e 157.º respectivamente das quatro Convenções, as situações previstas nos artigos 2.º e 3.º darão efeito imediato às ratificações depositadas ou às adesões notificadas pelas Partes no conflito antes ou depois do início das hostilidades ou da ocupação.
+Portugal é Parte nas mesmas Convenções, as quais foram aprovadas, para ratificação, pelo Decreto-Lei n.º 42991, publicado no Diário do Governo, 1.ª série, n.º 123, de 26 de Maio de 1960, tendo sido depositado o seu instrumento de ratificação em 14 de Março de 1961.
+Departamento de Assuntos Jurídicos, 27 de Novembro de 2000. - A Directora, Maria Margarida Aleixo Antunes Rei.
