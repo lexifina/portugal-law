@@ -1,0 +1,549 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "72",
+    "id": "15323",
+    "titulo": "Terceira alteração à Lei n.º 108/91, de 17 de Agosto (Conselho Económico e Social) com a redacção dada pelas Leis n.ºs 80/98 e n.º 128/99, de 24 de Novembro e 20 de Agosto, respectivamente"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-05-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1897",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-05-16",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-05-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADMINISTRACAO LOCAL",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Augusto Carvalho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139759",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3221-3222",
+                  "3226-3227"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-17",
+                "pubLeg": "VIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/082/2001-05-17/3221?pgs=3221-3222,3226-3227&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 108/91, de 17 de Agosto (Conselho Económico e Social) com a redacção dada pelas Leis n.ºs 80/98 e n.º 128/99, de 24 de Novembro e 20 de Agosto, respectivamente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1612",
+                "nome": "Ana Manso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139760",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3222-3222"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-17",
+                "pubLeg": "VIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/082/2001-05-17/3222?pgs=3222&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 108/91, de 17 de Agosto (Conselho Económico e Social) com a redacção dada pelas Leis n.ºs 80/98 e n.º 128/99, de 24 de Novembro e 20 de Agosto, respectivamente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139761",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3223-3223"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-17",
+                "pubLeg": "VIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/082/2001-05-17/3223?pgs=3223&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 108/91, de 17 de Agosto (Conselho Económico e Social) com a redacção dada pelas Leis n.ºs 80/98 e n.º 128/99, de 24 de Novembro e 20 de Agosto, respectivamente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139762",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3223-3224"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-17",
+                "pubLeg": "VIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/082/2001-05-17/3223?pgs=3223-3224&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 108/91, de 17 de Agosto (Conselho Económico e Social) com a redacção dada pelas Leis n.ºs 80/98 e n.º 128/99, de 24 de Novembro e 20 de Agosto, respectivamente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139764",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3224-3225"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-17",
+                "pubLeg": "VIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/082/2001-05-17/3224?pgs=3224-3225&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 108/91, de 17 de Agosto (Conselho Económico e Social) com a redacção dada pelas Leis n.ºs 80/98 e n.º 128/99, de 24 de Novembro e 20 de Agosto, respectivamente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1168",
+                "nome": "José Egípto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139765",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3225-3225"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-17",
+                "pubLeg": "VIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/082/2001-05-17/3225?pgs=3225&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 108/91, de 17 de Agosto (Conselho Económico e Social) com a redacção dada pelas Leis n.ºs 80/98 e n.º 128/99, de 24 de Novembro e 20 de Agosto, respectivamente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139766",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3225-3226"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-17",
+                "pubLeg": "VIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/082/2001-05-17/3225?pgs=3225-3226&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 108/91, de 17 de Agosto (Conselho Económico e Social) com a redacção dada pelas Leis n.ºs 80/98 e n.º 128/99, de 24 de Novembro e 20 de Agosto, respectivamente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139767",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3226-3226"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-17",
+                "pubLeg": "VIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/082/2001-05-17/3226?pgs=3226&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 108/91, de 17 de Agosto (Conselho Económico e Social) com a redacção dada pelas Leis n.ºs 80/98 e n.º 128/99, de 24 de Novembro e 20 de Agosto, respectivamente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139768",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3226-3227"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-17",
+                "pubLeg": "VIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/082/2001-05-17/3226?pgs=3226-3227&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 108/91, de 17 de Agosto (Conselho Económico e Social) com a redacção dada pelas Leis n.ºs 80/98 e n.º 128/99, de 24 de Novembro e 20 de Agosto, respectivamente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1671",
+                "nome": "Maria de Belém Roseira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139769",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3227-3227"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-17",
+                "pubLeg": "VIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/082/2001-05-17/3227?pgs=3227&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 108/91, de 17 de Agosto (Conselho Económico e Social) com a redacção dada pelas Leis n.ºs 80/98 e n.º 128/99, de 24 de Novembro e 20 de Agosto, respectivamente",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "145592",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1897",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-05-17",
+        "pubLeg": "VIII",
+        "pubNr": "82",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/082/2001-05-17?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
