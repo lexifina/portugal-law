@@ -1,0 +1,648 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "111",
+    "id": "6190",
+    "titulo": "Altera o Código Penal e o Decreto-lei n° 15/93 de 22 de Janeiro - agravação das penas por crimes praticados em ambiente escolar e estudantil ou nas imediações de estabelecimento de ensino."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-03-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1768",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-03-16",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-03-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1687",
+                "nome": "Jorge Neto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28683",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1777-1777"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17/1777?pgs=1777&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO PENAL E O DEC.LEI 15/93, DE 22 JANEIRO (AGRAVACAO DAS PENAS PARA CRIMES PRATICADOS EM AMBIENTE ESCOLAR EESTUDANTIL OU NAS IMEDIACOES DE ESTABELECIMENTOS DE ENSINO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28684",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1776-1777"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17/1776?pgs=1776-1777&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO PENAL E O DEC.LEI 15/93, DE 22 JANEIRO (AGRAVACAO DAS PENAS PARA CRIMES PRATICADOS EM AMBIENTE ESCOLAR EESTUDANTIL OU NAS IMEDIACOES DE ESTABELECIMENTOS DE ENSINO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1687",
+                "nome": "Jorge Neto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28685",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1775-1776"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17/1775?pgs=1775-1776&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO PENAL E O DEC.LEI 15/93, DE 22 JANEIRO (AGRAVACAO DAS PENAS PARA CRIMES PRATICADOS EM AMBIENTE ESCOLAR EESTUDANTIL OU NAS IMEDIACOES DE ESTABELECIMENTOS DE ENSINO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28686",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1775-1775"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17/1775?pgs=1775&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO PENAL E O DEC.LEI 15/93, DE 22 JANEIRO (AGRAVACAO DAS PENAS PARA CRIMES PRATICADOS EM AMBIENTE ESCOLAR EESTUDANTIL OU NAS IMEDIACOES DE ESTABELECIMENTOS DE ENSINO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28687",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17?org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO PENAL E O DEC.LEI 15/93, DE 22 JANEIRO (AGRAVACAO DAS PENAS PARA CRIMES PRATICADOS EM AMBIENTE ESCOLAR EESTUDANTIL OU NAS IMEDIACOES DE ESTABELECIMENTOS DE ENSINO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28688",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1773-1773"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17/1773?pgs=1773&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO PENAL E O DEC.LEI 15/93, DE 22 JANEIRO (AGRAVACAO DAS PENAS PARA CRIMES PRATICADOS EM AMBIENTE ESCOLAR EESTUDANTIL OU NAS IMEDIACOES DE ESTABELECIMENTOS DE ENSINO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28689",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1773-1773"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17/1773?pgs=1773&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO PENAL E O DEC.LEI 15/93, DE 22 JANEIRO (AGRAVACAO DAS PENAS PARA CRIMES PRATICADOS EM AMBIENTE ESCOLAR EESTUDANTIL OU NAS IMEDIACOES DE ESTABELECIMENTOS DE ENSINO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28690",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17?org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO PENAL E O DEC.LEI 15/93, DE 22 JANEIRO (AGRAVACAO DAS PENAS PARA CRIMES PRATICADOS EM AMBIENTE ESCOLAR EESTUDANTIL OU NAS IMEDIACOES DE ESTABELECIMENTOS DE ENSINO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28691",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1771-1773"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17/1771?pgs=1771-1773&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO PENAL E O DEC.LEI 15/93, DE 22 JANEIRO (AGRAVACAO DAS PENAS PARA CRIMES PRATICADOS EM AMBIENTE ESCOLAR EESTUDANTIL OU NAS IMEDIACOES DE ESTABELECIMENTOS DE ENSINO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "438",
+                "nome": "Carlos Zorrinho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28692",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1770-1771"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17/1770?pgs=1770-1771&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO PENAL E O DEC.LEI 15/93, DE 22 JANEIRO (AGRAVACAO DAS PENAS PARA CRIMES PRATICADOS EM AMBIENTE ESCOLAR EESTUDANTIL OU NAS IMEDIACOES DE ESTABELECIMENTOS DE ENSINO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1590",
+                "nome": "Maria Teresa Coimbra"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28694",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1769-1770"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17/1769?pgs=1769-1770&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO PENAL E O DEC.LEI 15/93, DE 22 JANEIRO (AGRAVACAO DAS PENAS PARA CRIMES PRATICADOS EM AMBIENTE ESCOLAR EESTUDANTIL OU NAS IMEDIACOES DE ESTABELECIMENTOS DE ENSINO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28695",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1767-1770"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17/1767?pgs=1767-1770&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO PENAL E O DEC.LEI 15/93, DE 22 JANEIRO (AGRAVACAO DAS PENAS PARA CRIMES PRATICADOS EM AMBIENTE ESCOLAR EESTUDANTIL OU NAS IMEDIACOES DE ESTABELECIMENTOS DE ENSINO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105531",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1768",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-03-17",
+        "pubLeg": "VIII",
+        "pubNr": "43",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
