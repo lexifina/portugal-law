@@ -1,0 +1,25 @@
+Decreto-Lei n.º 338/85
+de 21 de Agosto
+O Decreto-Lei n.º 102/84, de 29 de Março, disciplinou juridicamente a formação profissional em regime de aprendizagem, tendente a assegurar uma mais fácil inserção e integração sócio-profissional dos jovens e perspectivando a transição dos mesmos do sistema de ensino para o mundo do trabalho, com respeito pela sua vocação e capacidade.
+Constatou-se, porém, a necessidade de introduzir algumas alterações naquele normativo e de inovar outros aspectos relacionados com regalias e estatuto do pessoal integrante da estrutura da aprendizagem, com vista a assegurar maior eficácia e exequibilidade, o que se pretende com o presente decreto-lei.
+Assim:
+O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º O artigo 29.º do Decreto-Lei n.º 102/84, de 29 de Março, passa a ter a seguinte redacção:
+Art. 29.º - 1 - A Comissão Nacional de Aprendizagem é de composição tripartida, integrando dois representantes do Ministério do Trabalho e Segurança Social, um representante do Ministério da Administração Interna, um representante do Ministério da Educação, um representante do Ministério da Indústria e Energia, dois representantes das associações sindicais e dois representantes das associações patronais, nomeados por despacho do Ministro do Trabalho e Segurança Social pelo período de três anos, sob proposta das entidades, representadas.
+2 - ...
+3 - A Comissão Nacional de Aprendizagem tem um presidente e um vice-presidente, que substitui aquele nas suas ausências e impedimentos, a escolher de entre os representantes do Ministério do Trabalho e Segurança Social.
+4 - O presidente e vice-presidente da Comissão Nacional de Aprendizagem são equiparados, para todos os efeitos, a director-geral e subdirector-geral, respectivamente, sendo nomeados por despacho do Ministro do Trabalho e Segurança Social.
+Art. 2.º - 1 - Os lugares de presidente e vice-presidente da Comissão Nacional de Aprendizagem, quando exercidos a tempo completo, serão providos em comissão de serviço, nos termos da lei geral.
+2 - As funções de presidente e vice-presidente da Comissão Nacional de Aprendizagem poderão também ser exercidas em regime de acumulação, caso em que as respectivas remunerações serão de montante igual à diferença entre as que competirem aos lugares de director-geral e subdirector-geral e as que os nomeados auferirem pelo desempenho dos lugares dos quadros a que pertençam.
+3 - Para efeitos previstos no artigo 9.º, n.º 2, do Decreto-Lei n.º 191-F/79, de 26 de Junho, considera-se que o exercício dos cargos previstos no número anterior reveste o carácter de reconhecido interesse público.
+Art. 3.º Os membros da Comissão Nacional de Aprendizagem e das comissões regionais de aprendizagem, previstas nos artigos 29.º e 31.º do Decreto-Lei n.º 102/84, têm direito a senhas de presença, de montante a fixar por despacho do Ministro do Trabalho e Segurança Social.
+Art. 4.º Os técnicos integrantes das comissões técnicas de aprendizagem, previstos no artigo 32.º do citado diploma, serão remunerados por serviços prestados, nos termos da lei.
+Art. 5.º Verificando-se a necessidade de deslocações, os membros das comissões integrantes da estrutura de aprendizagem tem direito a ajudas de custo equivalentes a assessor, letra C, e ao reembolso das despesas de transporte.
+Art. 6.º - 1 - O Instituto do Emprego e Formação Profissional (IEFP), no âmbito do qual se integra a estrutura da aprendizagem, deverá englobar verba em capítulo próprio do seu orçamento para suportar todos os encargos com a instalação e funcionamento daquela.
+2 - O presidente da Comissão Nacional de Aprendizagem poderá autorizar as despesas do respectivo orçamento dentro dos limites da competência atribuída por lei aos directores-gerais, sem prejuízo de lhe poderem ser delegados maiores poderes pelo conselho directivo do IEFP, ao qual caberá sempre o controle da legalidade de todas as despesas realizadas.
+Visto e Aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro - Amândio Anes de Azevedo - José Veiga Simão.
+Promulgado em 29 de Junho de 1985.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 2 de Agosto de 1985.
+O Primeiro-Ministro, Mário Soares.
