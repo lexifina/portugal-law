@@ -1,0 +1,354 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "72",
+    "id": "20117",
+    "titulo": "Decreto-Lei n.º 7/2004, de 7 de Janeiro, que \"no uso da autorização legislativa concedida pela Lei n.º 7/2003, de 9 de Maio, transpõe para a ordem jurídica nacional a directiva n.º 2000/31/CE, do Parlamento Europeu e do Conselho, de 8 de Junho de 2000, relativa a certos aspectos legais dos serviços da sociedade de informação, em especial do comércio electrónico, no mercado interno."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2004-06-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3224",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2004-06-25",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-06-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150159",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5449-5450",
+                  "5455-5456"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5449?pgs=5449-5450,5455-5456&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 7/2004, de 7 de Janeiro, que \"no uso da autorização legislativa concedida pela Lei n.º 7/2003, de 9 de Maio, transpõe para a ordem jurídica nacional a directiva n.º 2000/31/CE, do Parlamento Europeu e do Conselho, de 8 de Junho de 2000, relativa a certos aspectos legais dos serviços da sociedade de informação, em especial do comércio electrónico, no mercado interno.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1478",
+                "nome": "Gonçalo Capitão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150160",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5450-5451",
+                  "5456-5456"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5450?pgs=5450-5451,5456&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 7/2004, de 7 de Janeiro, que \"no uso da autorização legislativa concedida pela Lei n.º 7/2003, de 9 de Maio, transpõe para a ordem jurídica nacional a directiva n.º 2000/31/CE, do Parlamento Europeu e do Conselho, de 8 de Junho de 2000, relativa a certos aspectos legais dos serviços da sociedade de informação, em especial do comércio electrónico, no mercado interno.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1863",
+                "nome": "Miguel Paiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150161",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5451-5452"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5451?pgs=5451-5452&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 7/2004, de 7 de Janeiro, que \"no uso da autorização legislativa concedida pela Lei n.º 7/2003, de 9 de Maio, transpõe para a ordem jurídica nacional a directiva n.º 2000/31/CE, do Parlamento Europeu e do Conselho, de 8 de Junho de 2000, relativa a certos aspectos legais dos serviços da sociedade de informação, em especial do comércio electrónico, no mercado interno.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150162",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5452-5453"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5452?pgs=5452-5453&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 7/2004, de 7 de Janeiro, que \"no uso da autorização legislativa concedida pela Lei n.º 7/2003, de 9 de Maio, transpõe para a ordem jurídica nacional a directiva n.º 2000/31/CE, do Parlamento Europeu e do Conselho, de 8 de Junho de 2000, relativa a certos aspectos legais dos serviços da sociedade de informação, em especial do comércio electrónico, no mercado interno.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150163",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5453-5454"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5453?pgs=5453-5454&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 7/2004, de 7 de Janeiro, que \"no uso da autorização legislativa concedida pela Lei n.º 7/2003, de 9 de Maio, transpõe para a ordem jurídica nacional a directiva n.º 2000/31/CE, do Parlamento Europeu e do Conselho, de 8 de Junho de 2000, relativa a certos aspectos legais dos serviços da sociedade de informação, em especial do comércio electrónico, no mercado interno.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO DO  MINISTRO DA  JUSTICA",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Joao Mota De Campos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150164",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5454-5455"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5454?pgs=5454-5455&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 7/2004, de 7 de Janeiro, que \"no uso da autorização legislativa concedida pela Lei n.º 7/2003, de 9 de Maio, transpõe para a ordem jurídica nacional a directiva n.º 2000/31/CE, do Parlamento Europeu e do Conselho, de 8 de Junho de 2000, relativa a certos aspectos legais dos serviços da sociedade de informação, em especial do comércio electrónico, no mercado interno.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "163903",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3224",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-06-26",
+        "pubLeg": "IX",
+        "pubNr": "101",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
