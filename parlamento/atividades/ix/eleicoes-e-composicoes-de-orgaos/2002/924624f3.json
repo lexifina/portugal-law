@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=P0Fiu%2fOxm2B6i1Qb1v6Kl8P9Ddn6RTIUCktgva%2fyOaH7lWGUnkkysYTUSoIwHSs4BsNkQvxZU1Jn26l834KO7HtuiuTauD6UP2bFLXGt1tGFPrfPngnS3CSTBHYbjc71uc6LAaWwWMNPEAhBQhLTogdfX0k86zYaSRdtMb5VxaaW%2bmRVLZ1kFuUjHoiU3DnKr1hwTFH2RjyVH0%2bkvoh5J2473p4WEAcwEGu0cbkopo0uGKBdgu45lweS1xncByHsc5RkSTt5XtJ4jYpzMHGU0JCobwocVoDRrWDIaByf6THsN8d28CiCvqU0mvdSGeyt9pZrFNIo3KeVbLuYHnmRx0uPU1z9aF2A03pcO1L5Ivg%3d&fich=AtividadesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "158feac9a195837800498c997c5f15d982e196bc878ba5194b23e12459159b60",
+  "legislatura": "IX",
+  "tipo": "Eleições e composições de órgãos",
+  "numero": null,
+  "data_registo": "2002-07-10",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Eleição de cinco representantes para o Conselho de Opinião da RDP",
+    "AutoresGP": null,
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "2002-07-10",
+    "DescTipo": "Eleições e composições de órgãos",
+    "Eleitos": [
+      {
+        "cargo": null,
+        "nome": "GUILHERME DE CARVALHO NEGRÃO VALENTE"
+      },
+      {
+        "cargo": null,
+        "nome": "CARLOS MANUEL ADRIÃO RODRIGUES"
+      },
+      {
+        "cargo": null,
+        "nome": "JAIME OCTÁVIO PIRES FERNANDES"
+      },
+      {
+        "cargo": null,
+        "nome": "MARIA ESTRELA RAMOS SERRANO CALEIRO"
+      },
+      {
+        "cargo": null,
+        "nome": "JOSÉ RUI ROQUE"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Legislatura": "IX",
+    "Numero": null,
+    "Observacoes": null,
+    "OrgaoExterior": "Conselho de Opinião da RDP",
+    "OutrosSubscritores": null,
+    "Publicacao": null,
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": [
+      "4379"
+    ],
+    "Tipo": "OEX",
+    "TipoAutor": null,
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2002-07-11",
+        "descricao": null,
+        "detalhe": null,
+        "id": "29073",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "275441",
+            "obs": null,
+            "pag": [
+              "1372-1372"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-07-12",
+            "pubLeg": "IX",
+            "pubNr": "33",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1372?pgs=1372&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "33",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
