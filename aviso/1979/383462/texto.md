@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público haver o Governo da República Federal da Alemanha depositado junto do Ministério dos Negócios Estrangeiros dos Países Baixos, em 27 de Abril de 1979, o instrumento de ratificação da Convenção Relativa à Citação e Notificação no Estrangeiro dos Actos Judiciais e Extrajudiciais em Matéria Civil e Comercial, concluída na Haia em 15 de Novembro de 1965. Em conformidade com o artigo 27, alínea 2, a Convenção entrará em vigor, para a República Federal da Alemanha, em 26 de Junho de 1979.
+Secretaria-Geral do Ministério, 22 de Maio de 1979. - O Chefe dos Serviços Jurídicos e de Tratados, Rui Eduardo Barbosa de Medina.
