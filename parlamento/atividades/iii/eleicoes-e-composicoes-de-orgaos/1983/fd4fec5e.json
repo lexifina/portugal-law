@@ -1,0 +1,112 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=apHO%2bj%2fPyvy9jeR1p7qPMDWq%2bNBNtu7zmTW3glqltduGGVlVwuKcV0KRZVbeIKa%2bxwf8LYmr0fbmofEgv7oSnGQGoxPDPbZ5zrAuuKuGvsqS6OvHj%2bmESH9%2bC8bHYSrthvaA3bu2uCZ7BJMd4Yy5Z4LXqRD3OzQ9bqAE%2bZLEXzhOBqkMyqNt0tPtsFs27GR9sKVEWDfgCpb%2baHTJs1WdJCT9MmcNkVLn92uI%2bJwF35tmwo4VTbPVnLoCfE8qTF2RBpKILlkdFu49tAGruYOTVPWYoTrfYkvbkMyoZjJgG8csoQBr3C2cN4jO1r9uihVmphpoWwMrml3UBfxpRjJFNRZvqwASre3t%2fucUyxW4dAI9AuwBH5rbcPq4U3biExpZ&fich=AtividadesIII_json.txt&Inline=true",
+  "ficheiro_sha256": "57357a02c9845e2bb6dbf69e98ad151e9a6d2ed210bce5ca29e26a0a6d217b1b",
+  "legislatura": "III",
+  "tipo": "Eleições e composições de órgãos",
+  "numero": null,
+  "data_registo": "1983-06-15",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Designação dos membros do Conselho de Estado eleitos pela Assembleia da República",
+    "AutoresGP": null,
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "1983-06-15",
+    "DescTipo": "Eleições e composições de órgãos",
+    "Eleitos": [
+      {
+        "cargo": null,
+        "nome": "Francisco António Lucas Pires"
+      },
+      {
+        "cargo": null,
+        "nome": "Álvaro Barreirinhas Cunhal"
+      },
+      {
+        "cargo": null,
+        "nome": "Mário Alberto Nobre Lopes Soares"
+      },
+      {
+        "cargo": null,
+        "nome": "António Cândido Miranda de Macedo"
+      },
+      {
+        "cargo": null,
+        "nome": "Carlos Mota Pinto"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Legislatura": "III",
+    "Numero": null,
+    "Observacoes": null,
+    "OrgaoExterior": "Conselho de Estado",
+    "OutrosSubscritores": null,
+    "Publicacao": null,
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": [
+      "16423"
+    ],
+    "Tipo": "OEX",
+    "TipoAutor": null,
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "1983-06-16",
+        "descricao": null,
+        "detalhe": null,
+        "id": "58019",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "545739",
+            "obs": "Anúncio",
+            "pag": [
+              "59-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1983-06-16",
+            "pubLeg": "III",
+            "pubNr": "4",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/03/01/004/1983-06-16/59?pgs=59&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "755710",
+            "obs": "Comunicação dos Grupos Parlmentares do PS, PSD, PCP e CDS dos candidatos propostos para o Conselho de Estado",
+            "pag": [
+              "178-179"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1983-06-15",
+            "pubLeg": "III",
+            "pubNr": "3",
+            "pubSL": "1",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/03/01/003/1983-06-15/178?pgs=178-179&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "5",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
