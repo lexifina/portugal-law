@@ -1,0 +1,3 @@
+Despacho Normativo n.º 72/82
+Ao abrigo do disposto no artigo 19.º, n.º 2, do Decreto-Lei n.º 290/81, de 14 de Outubro, subdelegado, durante as minhas faltas e impedimentos, na Subsecretária de Estado da Presidência do Conselho de Ministros, Dr.ª Maria Luísa Falcão Líbano Monteiro Antas, as competências que foram em mim delegadas pelos Despachos Normativos n.os 282/81 e 344/81, publicados no Diário da República, 1.ª série, respectivamente n.º 229, de 6 de Outubro de 1981, e n.º 299, de 30 de Dezembro de 1981.
+Presidência do Conselho de Ministros, 27 de Abril de 1982. - O Secretário de Estado da Presidência do Conselho de Ministros, Marcelo Nuno Duarte Rebelo de Sousa.
