@@ -1,0 +1,198 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11302",
+  "numero": "101",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2004-11-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2004-11-09",
+        "DataArquivo": "2007-10-23",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": "2004-11-09",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "243",
+        "Legislatura": "X",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2007-10-23",
+            "dataNomeacao": "2005-04-20",
+            "gp": "PSD",
+            "id": "2066",
+            "motivoCessacao": null,
+            "nome": "Paulo Castro Rangel"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da IX Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2008-01-23",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2008-01-23",
+        "DataBaixaComissao": "2007-10-23",
+        "DataEnvioPAR": "2008-01-23",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "1903",
+        "Legislatura": "X",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2007-12-05",
+            "gp": "PSD",
+            "id": "1245",
+            "motivoCessacao": null,
+            "nome": "António Montalvão Machado"
+          }
+        ],
+        "RelatorioFinal": [
+          "22371"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias (pré RAR) para esta comissão."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2005-04-08",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2004-11-08",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764d554644524578484c305276593356745a57353062334e515a585270593246764c32457859325a684f444e684c575933595751744e44566a4e5331695a4759334c5751774e7a4d77597a67305a47597a5a6935775a47593d&fich=a1cfa83a-f7ad-45c5-bdf7-d0730c84df3f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "102",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE ASSUNTOS CONSTITUCIONAIS, DIREITOS, LIBERDADES E GARANTIAS",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias (pré RAR) da X Legislatura."
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2004-11-08",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d764e4755314d6d513259574974593251304e793030597a6c684c546c6b4e4463744f546c6d596a4e694d445a6a4d4759324c6e426b5a673d3d&fich=4e52d6ab-cd47-4c9a-9d47-99fb3b06c0f6.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11302",
+    "PetAssunto": "Contestando vários aspectos do Estatuto da Ordem dos Advogados e do Regulamento de Estágio, solicita que a Assembleia da República tome medidas legislativas de defesa do acesso à profissão de advogado, bem como no sentido da revogação do artigo 56º. e de correcções ao artigo 53º. daquele Estatuto.",
+    "PetDataEntrada": "2004-11-08",
+    "PeticoesAssociadas": null,
+    "PetId": "11302",
+    "PetLeg": "IX",
+    "PetNr": "101",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
