@@ -1,0 +1,3 @@
+Aviso n.º 137/94
+Por ordem superior se torna público que Barbados, Cambodja, Myanmar e Roménia depositaram, junto do Secretário-Geral das Nações Unidas, a 2 e 17 de Novembro de 1993, respectivamente, o instrumento de aceitação das Emendas aos Artigos 24.º e 25.º da Constituição da Organização Mundial da Saúde, assinada em Nova Iorque a 22 de Julho de 1946, tal como foram adoptadas pela 39.ª Sessão da Assembleia Mundial da Saúde em 12 de Maio de 1986.
+Direcção-Geral dos Assuntos Multilaterais, 28 de Março de 1994. - A Directora de Serviços das Organizações Políticas Internacionais, Ana Maria Silva Marques Martinho.
