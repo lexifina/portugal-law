@@ -1,0 +1,792 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "53",
+    "id": "6093",
+    "titulo": "Para uma gestão transparente do programa POLIS."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2001-03-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1971",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2001-03-21",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-03-21",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "314",
+                "nome": "António Capucho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136998",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2438-2438"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-22",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/062/2001-03-22/2438?pgs=2438&org=PLC"
+              }
+            ],
+            "sumario": "PARA UMA GESTAO TRANSPARENTE DO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "José Magalhães"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136999",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2438-2438"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-22",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/062/2001-03-22/2438?pgs=2438&org=PLC"
+              }
+            ],
+            "sumario": "PARA UMA GESTAO TRANSPARENTE DO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1639",
+                "nome": "José Eduardo Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137000",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2438-2444",
+                  "2457-2460"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-22",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/062/2001-03-22/2438?pgs=2438-2444,2457-2460&org=PLC"
+              }
+            ],
+            "sumario": "PARA UMA GESTAO TRANSPARENTE DO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137001",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2441-2441",
+                  "2454-2455"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-22",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/062/2001-03-22/2441?pgs=2441,2454-2455&org=PLC"
+              }
+            ],
+            "sumario": "PARA UMA GESTAO TRANSPARENTE DO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "682",
+                "nome": "José Miguel Medeiros"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137002",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2441-2442"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-22",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/062/2001-03-22/2441?pgs=2441-2442&org=PLC"
+              }
+            ],
+            "sumario": "PARA UMA GESTAO TRANSPARENTE DO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137003",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2443-2443",
+                  "2449-2449"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-22",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/062/2001-03-22/2443?pgs=2443,2449&org=PLC"
+              }
+            ],
+            "sumario": "PARA UMA GESTAO TRANSPARENTE DO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1679",
+                "nome": "Renato Sampaio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137004",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2444-2446",
+                  "2460-2460"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-22",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/062/2001-03-22/2444?pgs=2444-2446,2460&org=PLC"
+              }
+            ],
+            "sumario": "PARA UMA GESTAO TRANSPARENTE DO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137005",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2445-2446"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-22",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/062/2001-03-22/2445?pgs=2445-2446&org=PLC"
+              }
+            ],
+            "sumario": "PARA UMA GESTAO TRANSPARENTE DO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1184",
+                "nome": "Joaquim Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137006",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2446-2448"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-22",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/062/2001-03-22/2446?pgs=2446-2448&org=PLC"
+              }
+            ],
+            "sumario": "PARA UMA GESTAO TRANSPARENTE DO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137007",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2448-2449"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-22",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/062/2001-03-22/2448?pgs=2448-2449&org=PLC"
+              }
+            ],
+            "sumario": "PARA UMA GESTAO TRANSPARENTE DO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137008",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2449-2451"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-22",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/062/2001-03-22/2449?pgs=2449-2451&org=PLC"
+              }
+            ],
+            "sumario": "PARA UMA GESTAO TRANSPARENTE DO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137009",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2451-2451"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-22",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/062/2001-03-22/2451?pgs=2451&org=PLC"
+              }
+            ],
+            "sumario": "PARA UMA GESTAO TRANSPARENTE DO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DO AMBIENTE E ORDENAMENTO DO TERRITÓRIO",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "José Sócrates"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137012",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2451-2456",
+                  "2458-2459"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-22",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/062/2001-03-22/2451?pgs=2451-2456,2458-2459&org=PLC"
+              }
+            ],
+            "sumario": "PARA UMA GESTAO TRANSPARENTE DO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1184",
+                "nome": "Joaquim Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137013",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2455-2456"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-22",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/062/2001-03-22/2455?pgs=2455-2456&org=PLC"
+              }
+            ],
+            "sumario": "PARA UMA GESTAO TRANSPARENTE DO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137014",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2456-2457"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-22",
+                "pubLeg": "VIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/062/2001-03-22/2456?pgs=2456-2457&org=PLC"
+              }
+            ],
+            "sumario": "PARA UMA GESTAO TRANSPARENTE DO PROGRAMA POLIS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "146628",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1971",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-03-22",
+        "pubLeg": "VIII",
+        "pubNr": "62",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/062/2001-03-22?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
