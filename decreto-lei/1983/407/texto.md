@@ -1,0 +1,21 @@
+Decreto-Lei n.º 407/83
+de 19 de Novembro
+O Decreto-Lei n.º 33/82, de 2 de Fevereiro, diploma fundamental que regula presentemente o fabrico e comercialização do azeite e outros óleos comestíveis, determina no seu artigo 9.º que o óleo de bagaço de azeitona destinado ao mercado interno é obrigatoriamente adicionado de óleo de gergelim, seja qual for o fim a que se destina.
+A obrigatoriedade dessa adição, cujo objectivo é permitir que, através de processo expedito de análise, seja possível detectar a adição fraudulenta de óleo de bagaço de azeitona ao azeite, dada a sua composição de ácidos gordos ser idêntica à do azeite, implica, actualmente, um encargo que agrava o respectivo custo, por virtude do elevado preço do óleo de gergelim.
+Reafirmando que todas as precauções devem ser tomadas no sentido de acautelar e garantir e genuinidade e qualidade do azeite, constata-se, todavia, que a adição indiscriminada daquele revelador a todo o óleo de bagaço de azeitona, seja qual for o uso a que se destina, conduz em alguns casos a gasto supérfluo, designadamente quando se destina à obtenção de óleo alimentar, misturado, neste caso, com outros óleos comestíveis, de fácil detecção quando adicionados fraudulentamente ao azeite.
+Na presente conjuntura económica, e tendo em conta a elevada produção de óleo de bagaço de azeitona registada na última campanha, importa criar as condições que facilitem a sua utilização no mercado interno, reduzindo-se consequentemente a necessidade de importação de oleaginosas.
+Nestes termos, mantendo-se o controle da produção e comércio do óleo de bagaço de azeitona que o Ministério da Agricultura, Florestas e Alimentação, através do Instituto da Qualidade Alimentar e das direcções regionais, vem executando, será dispensado da adição do óleo de gergelim o óleo de bagaço de azeitona que se destina à obtenção do óleo alimentar e a fins não alimentares, além do que se destina à exportação, como já estava consignado na lei.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. O artigo 9.º do Decreto-Lei n.º 33/82, de 2 de Fevereiro, passa a ter a seguinte redacção:
+Art. 9.º - 1 - O óleo de bagaço de azeitona è obrigatoriamente adicionado, imediatamente a seguir à extracção, de óleo de gergelim num teor da ordem de 5%, de harmonia com o estipulado na norma NP-1540.
+2 - Exceptua-se do disposto no n.º 1 o óleo de bagaço de azeitona que, encontrando-se sob o controle do Instituto da Qualidade Alimentar, se destine:
+a) À exportação, sendo o controle efectuado até ao local de embarque;
+b) À obtenção de óleo alimentar, desde que adicionado de, pelo menos, 80% de óleos de cártamo, de girassol, de grainha de uva, de milho ou de soja;
+c) À indústria não alimentar, sendo o controle efectuado até à entrada em laboração na instalação industrial que o utiliza.
+Visto e aprovado em Conselho de Ministros de 18 de Outubro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Manuel José Dias Soares Costa - Álvaro Roque de Pinho Bissaia Barreto.
+Promulgado em 9 de Novembro de 1983.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 10 de Novembro de 1983.
+O Primeiro-Ministro, Mário Soares.
