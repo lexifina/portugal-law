@@ -1,0 +1,8 @@
+Decreto n.º 46019
+Tendo-se verificado que a correcta redacção da alínea j) do § 1.º do artigo 1.º do Decreto n.º 38887, de 29 de Agosto de 1952, exige a intercalação de uma vírgula entre a palavra «instalações» e a expressão «de transposição de brechas e cursos de água», por só assim poderem ser tècnicamente entendidas as expressões exaradas na lei;
+Julgando-se oportuna a alteração do actual texto, visto que dada a situação nalgumas zonas do território ultramarino, é urgente a concessão de isenção de direitos para materiais de construção aí aplicados pelas forças armadas, concessão que pela actual redacção pode ser posta em dúvida, sem qualquer razão, já que o espírito e verdadeiro sentido da lei é o que a seguir se transcreve;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo único. A alínea j) do § 1.º do artigo 1.º do Decreto n.º 38887, de 29 de Agosto de 1952, passa a ter a seguinte redacção:
+j) Material de sapadores, designado pelas letras «G Sp», compreende todo o equipamento e mais artigos especialmente destinados ao ataque de posições fortificadas, à organização de terreno, constituição de obstáculos, realização de trabalhos de comunicações, de instalações, de transposição de brechas e cursos de água e à defesa química, bacteriológica e radioactiva. Envolve, de uma forma geral, todo o material especializado das unidades e formações de sapadores, mencionadamente minas, explosivos e seus acessórios.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 11 de Novembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Joaquim da Luz Cunha.
