@@ -1,0 +1,51 @@
+# Acórdão do Supremo Tribunal Administrativo de 2002-03-06, processo 048155
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 048155
+
+**Data do Acordão:** 03/06/2002
+
+**Tribunal:** 3 SUBSECÇÃO DO CA
+
+**Relator:** JORGE DE SOUSA
+
+**Descritores:** PRESSUPOSTOS DA RESPONSABILIDADE POR FACTOS ILÍCITOS.; CONDENAÇÃO PARA ALÉM DO PEDIDO.; DANO NÃO PATRIMONIAL.; ILICITUDE.; CULPA.; NEXO DE CAUSALIDADE.
+
+**Nº Convencional:** JSTA00057399
+
+**Nº do Documento:** SA120020306048155
+
+**Data de Entrada:** 10/24/2001
+
+**Recorrente:** MINISTÉRIO PÚBLICO
+
+**Recorrido 1:** A... E OUTRA
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAC DE PONTA DELGADA.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM CONT - RESPONSABILIDADE EXTRA.
+
+**Legislação Nacional:** DL 48051 DE 1967/11/21 ART6.; CC66 ART563.
+
+## Sumário
+
+I - A responsabilidade civil extracontratual de uma Região Autónoma por factos ilícitos praticados pelos seus órgãos ou agentes assenta nos pressupostos da idêntica responsabilidade prevista na lei civil, que são o facto, a ilicitude, a imputação do facto ao lesante, o prejuízo ou dano, e o nexo de causalidade entre este e o facto.
+
+II - Nos termos do art. 6.º do Decreto-Lei n.º 48051, de 21-11-1967, os actos materiais são ilícitos quando infrinjam normas e princípios jurídicos ou ainda as regras de ordem técnica e de prudência comum que devam ser tidas em consideração.
+
+III - Viola regras de prudência comum o professor que, numa aula de trabalhos oficinais, estando junto a uma serra circular mecânica em funcionamento, não impede que um aluno menor, de 13 anos de idade, dela se aproxime e, pelo contrário, lhe ordena que traga até si um papel, na sequência do que aquele menor ficou com uma manga do blusão que usava presa na serra e sofreu ferimentos.
+
+IV - Afirmada a existência de ilicitude de uma conduta, por violação das regras de prudência que deveriam ser adoptadas, a culpa só será de excluir se existir qualquer obstáculo a que o agente actuasse da forma como devia, com observância dessas regras.
+
+V - O art. 563.º do Código Civil, consagra a teoria da causalidade adequada, devendo adoptar-se a sua formulação negativa correspondente aos ensinamentos de Ennecerus-Lehmann; segundo a qual a condição deixará de ser causa do dano sempre que seja de todo indiferente para a produção do dano e só se tenha tornado condição dele, em virtude de outras circunstâncias extraordinárias.
+
+VI - Para apreciar se existe condenação além do pedido, o que releva é o pedido efectivamente formulado, mesmo que quem o formula tenha adoptado uma fórmula de cálculo do valor que não é aceite pelo tribunal.
+
+VII - Não é desadequado o montante de 2.000.000$00 para uma indemnização por danos não patrimoniais sofridos por um menor de 13 anos de idade, que sofreu esfacelamento da face do antebraço direito, que implicou internamento hospitalar, uma operação destinada a recuperar os dedos da mão direita e sujeição a sessões de fisioterapia durante meses, ficou com incapacidade global de 26% e impossibilidade de desempenhar algumas profissões, ficou angustiado com o sucedido e sofreu um insucesso escolar.
