@@ -1,0 +1,5 @@
+Aviso n.º 248/99
+Por ordem superior se torna público que Portugal depositou, em 3 de Dezembro de 1998, nos arquivos do Governo dos Estados Unidos da América, em Washington, o instrumento de ratificação do Protocolo de Adesão da República da Polónia ao Tratado do Atlântico Norte.
+O referido Protocolo foi assinado em Bruxelas em 16 de Dezembro de 1997, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 48/98, publicada no Diário da República, 1.ª série-A, n.º 249, de 28 de Outubro de 1998, e ratificado pelo Decreto do Presidente da República n.º 44/98, publicado no Diário da República, 1.ª série-A, n.º 249, de 28 de Outubro de 1998.
+Mais se torna público que, nos termos do artigo II do referido Protocolo, o Governo dos Estados Unidos da América notificou, em 7 de Dezembro de 1998, que todos os Estados Partes do Tratado do Atlântico Norte já tinham depositado os instrumentos de ratificação do referido Protocolo, pelo que o mesmo entrara em vigor em 4 de Dezembro de 1998.
+Direcção-Geral dos Assuntos Multilaterais, 2 de Novembro de 1999. - A Directora-Geral, Ana Maria da Silva Marques Martinho.
