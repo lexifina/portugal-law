@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que o Governo da Hungria depositou, a 28 de Outubro de 1964, junto da secretário-geral das Nações Unidas, o instrumento de adesão à Convenção para a solução de certos conflitos de leis sobre notas de câmbio e notas promissórias, com protocolo, à Convenção sobre a lei uniforme sobre notas de câmbio e notas promissórias, com anexos e protocolo, e à Convenção sobre lei do selo aplicável a notas de câmbio e notas promissórias, com protocolo.
+De harmonia com as respectivas disposições, estas Convenções entrarão em vigor na Hungria 90 dias depois da data do depósito do instrumento de adesão, isto é, em 26 de Janeiro de 1965.
+Direcção-Geral dos Negócios Económicos e Consulares, 10 de Dezembro de 1964. - O Director-Geral, José Tomás Cabral Calvet de Magalhães.
