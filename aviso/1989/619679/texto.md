@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que foi concluído o processo de vinculação pelas duas Altas Partes Contratantes do Acordo de Intercâmbio Cultural entre a República Portuguesa e a República Peruana, aprovado pelo Decreto do Governo n.º 90/78, de 6 de Setembro, publicado no Diário da República, 1.ª série, n.º 205, de 6 de Setembro de 1978, e que o mesmo entrou em vigor em 12 de Outubro de 1978, nos termos das notas trocadas em conformidade com o artigo 15.º do Acordo.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 7 de Junho de 1989. - O Chefe do Serviço Jurídico e de Tratados, Fernão Manuel Homem de Gouveia Favila Vieira.
