@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1934/04/10000/05670567.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1934-04-30",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "839f7a41ff8c09e2844627dc9c9c2ab9b69a7d4f8248650a812b99429bdbbb47",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 97.9,
+    "pages": 1,
+    "columns": [
+      9
+    ],
+    "pdf_sha256": "ea48ca33471b7ae3652b9b0a65fa43c13e0f980a5fa2cba704a985653eb82bf4",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 169
 }
