@@ -2,9 +2,9 @@
 
 ### Acções de prevenção
 
-1 - Compete ao Ministério Público e à Polícia Judiciária, através da Unidade Nacional de Combate à Corrupção, realizar, sem prejuízo da competência de outras autoridades, ações de prevenção relativas aos seguintes crimes:
+1 - Compete ao Ministério Público e à Polícia Judiciária, através da Direcção Central para o Combate à Corrupção, Fraudes e Infracções Económicas e Financeiras, realizar, sem prejuízo da competência de outras autoridades, acções de prevenção relativas aos seguintes crimes:
 
-a) Recebimento ou oferta indevidos de vantagem, corrupção, peculato e participação económica em negócio;
+a) Corrupção, peculato e participação económica em negócio;
 
 b) Administração danosa em unidade económica do sector público;
 

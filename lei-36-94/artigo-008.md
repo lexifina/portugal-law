@@ -2,4 +2,4 @@
 
 ### Atenuação especial
 
-Nos crimes de peculato e participação económica em negócio, bem como nas infrações previstas na alínea e) do n.º 1 do artigo 1.º, a pena é especialmente atenuada se, até ao encerramento da audiência de julgamento em primeira instância, o agente colaborar ativamente na descoberta da verdade, contribuindo de forma relevante para a prova dos factos.
+Nos crimes previstos no artigo 1.º, n.º 1, alíneas a) e e), a pena pode ser especialmente atenuada se o agente auxiliar concretamente na recolha das provas decisivas para a identificação ou a captura de outros responsáveis.
