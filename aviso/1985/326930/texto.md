@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que o Governo de São Cristóvão e Neves depositou em 3 de Dezembro de 1984, junto do Secretário-Geral das Nações Unidas, o instrumento de aceitação da Constituição da Organização Mundial de Saúde, aberta à assinatura em Nova Iorque em 22 de Julho de 1946. A presente aceitação inclui as alterações à referida Constituição adoptadas pela Assembleia Mundial de Saúde nas suas resoluções A. M. S. 12.43, A. M. S. 20.36 e A. M. S. 26.37, de 1959, 1967 e 1973, respectivamente.
+De acordo com os artigos 4.º e 7.º da Constituição da Organização Mundial de Saúde, São Cristóvão e Neves tornou-se membro da Organização a partir da data do presente depósito de aceitação.
+Direcção-Geral dos Negócios Políticos, 7 de Fevereiro de 1985. - O Director-Geral, João de Matos Proença.
