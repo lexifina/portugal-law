@@ -8,22 +8,22 @@
 
 1 - O presente diploma define as condições de prestação dos serviços de transporte ferroviário por caminho de ferro e de gestão da infra-estrutura ferroviária sobre a qual os mesmos são prestados, dispondo, nomeadamente, sobre:
 
-a) Revogada;
+a) Serviços liberalizados e concessionados;
 
-b)Revogada;
+b) Acesso à actividade de transporte ferroviário;
 
-c) Revogada;
+c) Acesso e trânsito na rede nacional;
 
-d) Revogada;
+d) Poderes da entidade reguladora;
 
-e) Revogada;
+e) Atribuições e financiamento do gestor da infra-estrutura;
 
-f) Revogada;
+f) Repartição de capacidade da infra-estrutura ferroviária;
 
-g) Revogada;
+g) Tarifação pelo uso da infra-estrutura ferroviária;
 
 h) Segurança;
 
-i) Revogada;
+i) Promoção e defesa da concorrência.
 
 2 - O disposto no presente diploma não prejudica a aplicação da legislação nacional e comunitária de defesa da concorrência às empresas e actividades a ele sujeitas.

@@ -2,11 +2,17 @@
 
 ### Alterações legislativas
 
-1 - (Revogado).
+1 - A alínea b) do n.º 2 do artigo 33.º dos Estatutos do INTF, aprovados pelo Decreto-Lei n.º 299-B/98, de 29 de Setembro, passa a ter a seguinte redacção:
 
-2 - (Revogado).
+«b) Uma taxa a receber da Rede Ferroviária Nacional - REFER, E. P., a título de contrapartida genérica pelo exercício das atribuições do INTF relativas ao desenvolvimento do sector ferroviário, calculada pela aplicação ao número total de quilómetros da rede ferroviária sob gestão da mesma de um valor a fixar por despacho do ministro da tutela, tendo em conta a extensão da rede, o nível de utilização da mesma e os ganhos de eficiência.»
 
-3 - (Revogado).
+2 - O n.º 4 do artigo 33.º dos Estatutos do INTF, aprovados pelo Decreto-Lei n.º 299-B/98, de 29 de Setembro, passa a ter a seguinte redacção:
+
+«4 - O despacho a que se refere a alínea b) do n.º 2 do presente artigo deve ser emitido anualmente e antecipadamente até ao dia 31 de Junho do ano anterior àquele em que vigorará, constando o valor da taxa calculada nos seus termos da proposta de orçamento apresentada pelo INTF para aprovação superior; na falta do mesmo será usada para efeitos de cálculo e devida uma taxa idêntica à fixada no ano imediatamente anterior, sem prejuízo da eventual emissão do referido despacho em momento posterior.»
+
+3 - O n.º 5 do artigo 33.º dos Estatutos do INTF, aprovados pelo Decreto-Lei n.º 299-B/98, de 29 de Setembro, passa a ter a seguinte redacção:
+
+«5 - A taxa a que se refere o número anterior é paga em regime de prestações trimestrais iguais, que se vencem no início de cada período correspondente.»
 
 4 - A alínea a) do n.º 2 do artigo 3.º dos Estatutos da REFER, E. P., aprovados pelo Decreto-Lei n.º 104/97, de 29 de Abril, passa a ter a seguinte redacção:
 
