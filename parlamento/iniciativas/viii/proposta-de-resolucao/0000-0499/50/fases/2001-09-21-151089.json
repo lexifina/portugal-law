@@ -1,0 +1,401 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "50",
+    "id": "5826",
+    "titulo": "Aprova, para ratificação, a Carta Social Europeia Revista aberta a assinatura dos estados membros do Conselho da Europa, em Estrasburgo, a 3 de Maio de 1996 e assinada pela República Portuguesa nessa data"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2001-09-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2142",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2001-09-21",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-09-21",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS   EUROPEUS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Teresa Pereira Moura"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-22",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/79?pgs=79-81&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO A CARTA SOCIAL EUROPEIA REVISTA ABERTA A ASSINATURA DOS ESTADOS MEMBROS DO CONSELHO DA EUROPA EM ESTRASBURGO A 3 DE MAIO DE 1996 E ASSINADA PELA REPUBLICA PORTUGUESA NESSA DATA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1287",
+                "nome": "Sílvio Rui Cervan"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139284",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-22",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/80?pgs=80&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO A CARTA SOCIAL EUROPEIA REVISTA ABERTA A ASSINATURA DOS ESTADOS MEMBROS DO CONSELHO DA EUROPA EM ESTRASBURGO A 3 DE MAIO DE 1996 E ASSINADA PELA REPUBLICA PORTUGUESA NESSA DATA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1547",
+                "nome": "Mafalda Troncho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139285",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-22",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/81?pgs=81&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO A CARTA SOCIAL EUROPEIA REVISTA ABERTA A ASSINATURA DOS ESTADOS MEMBROS DO CONSELHO DA EUROPA EM ESTRASBURGO A 3 DE MAIO DE 1996 E ASSINADA PELA REPUBLICA PORTUGUESA NESSA DATA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "128",
+                "nome": "Pedro Roseta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139286",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-22",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/81?pgs=81-83&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO A CARTA SOCIAL EUROPEIA REVISTA ABERTA A ASSINATURA DOS ESTADOS MEMBROS DO CONSELHO DA EUROPA EM ESTRASBURGO A 3 DE MAIO DE 1996 E ASSINADA PELA REPUBLICA PORTUGUESA NESSA DATA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "833",
+                "nome": "Vicente Merendas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139287",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-22",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/83?pgs=83-84&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO A CARTA SOCIAL EUROPEIA REVISTA ABERTA A ASSINATURA DOS ESTADOS MEMBROS DO CONSELHO DA EUROPA EM ESTRASBURGO A 3 DE MAIO DE 1996 E ASSINADA PELA REPUBLICA PORTUGUESA NESSA DATA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139288",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "84-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-22",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/84?pgs=84&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO A CARTA SOCIAL EUROPEIA REVISTA ABERTA A ASSINATURA DOS ESTADOS MEMBROS DO CONSELHO DA EUROPA EM ESTRASBURGO A 3 DE MAIO DE 1996 E ASSINADA PELA REPUBLICA PORTUGUESA NESSA DATA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139289",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "84-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-22",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22/84?pgs=84-85&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO A CARTA SOCIAL EUROPEIA REVISTA ABERTA A ASSINATURA DOS ESTADOS MEMBROS DO CONSELHO DA EUROPA EM ESTRASBURGO A 3 DE MAIO DE 1996 E ASSINADA PELA REPUBLICA PORTUGUESA NESSA DATA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "151089",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2142",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-09-22",
+        "pubLeg": "VIII",
+        "pubNr": "3",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/003/2001-09-22?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
