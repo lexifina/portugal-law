@@ -1,14 +1,10 @@
-## Capítulo VI
-
-## Distribuição autónoma de energia
-
 ## Capítulo VII
 
 # Artigo 27.º
 
 ### Disposições finais
 
-1 - As normas técnicas necessárias à execução do presente diploma são objecto de portaria do Ministro da Indústria e Energia.
+1 - São revogados a Lei n.º 21/82, de 28 de Julho, e o Decreto-Lei n.º 20/81, de 28 de Janeiro, com a redacção dada pelo Decreto-Lei n.º 149/86, de 18 de Junho.
 
 2 - As instalações para produção de energia eléctrica que usem recursos do domínio público ou privado do Estado ou de autarquias locais, compreendidas nos limites do artigo 1.º, que se encontrem abandonadas, ou sem funcionarem por tempo superior a cinco anos, bem como as respectivas concessões, licenças, autorizações e direitos, revertem para o município onde se situa o empreendimento ou, em compropriedade, para os municípios confinantes, no caso de haver mais de um.
 
@@ -18,4 +14,4 @@
 
 5 - Pela apreciação dos pedidos apresentados ao abrigo do presente diploma poderão ser cobradas taxas, cujo montante será fixado por portaria do Ministro da Indústria e Energia.
 
-6 - (Revogado.)
+6 - As normas técnicas necessárias à execução do presente diploma são objecto de portaria do Ministro da Indústria e Energia.

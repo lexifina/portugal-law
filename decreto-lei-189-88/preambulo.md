@@ -1,7 +1,3 @@
-Decreto-Lei n.º 189/88
-
-de 27 de Maio
-
 1. A figura de pequeno produtor de energia eléctrica está desde há muito consagrada no ordenamento jurídico português.
 
 Com efeito, a Lei n.º 2002, de 26 de Dezembro de 1944, que promulgou a electrificação do País, a ela se refere na sua base XXX e a legislação subsequente sobre a matéria sempre a tem ressalvado, reconhecendo tratar-se de uma realidade a ter em conta pela ordem jurídica.
