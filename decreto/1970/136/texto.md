@@ -1,0 +1,20 @@
+Decreto n.º 136/70
+Com fundamento nas disposições do artigo 3.º do Decreto-Lei n.º 24914, de 10 de Janeiro de 1935, e mediante propostas aprovadas pelo Ministro das Finanças, nos termos do mesmo artigo;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo único. São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Encargos Gerais da Nação
+Despesas do ano de 1967, referentes a gratificações e senhas de presença, do Secretariado Técnico da Presidência do Conselho ... 6050$00
+Encargos dos anos de 1966 a 1969, respeitantes a ajudas de custo, a liquidar pela Direcção do Serviço de Intendência e Contabilidade da Força Aérea e conselhos administrativos das Bases Aéreas n.os 5 e 6, Grupo de Detecção, Alerta e Conduta da Intercepção e Depósito Geral de Material da Força Aérea ... 33544$00
+... 39594$00
+Ministério da Justiça
+Despesas dos anos de 1968 e 1969, referentes a ajudas de custo, serviços clínicos e de hospitalização, luz, aquecimento, água, lavagem e limpeza, telefones, conservação de veículos com motor e transportes de matérias enviadas pelos tribunais de 1.ª instância aos institutos de medicina legal, contraídas pela Cadeia Central de Mulheres, Relação de Lisboa, Direcções-Gerais dos Serviços Prisionais e da Justiça, Supremo Tribunal de Justiça, Direcção dos Serviços de Identificação, Tribunal de Execução das Penas de Lisboa, Directoria da Polícia Judiciária e Instituto de Medicina Legal de Lisboa ... 90078$50
+Encargos do ano de 1969, respeitantes a vencimentos, subsídio eventual de custo de vida, pagamento de serviços, aquisições de móveis, conservação de imóveis e de móveis, impressos, serviços clínicos e de hospitalização, luz, aquecimento, água, lavagem e limpeza, telefones, a liquidar pela Colónia Penal Agrícola de Sintra, Subdirectoria da Polícia Judiciária do Porto e Instituto de Medicina Legal de Coimbra ... 176676$80
+... 266755$30
+Ministério da Educação Nacional
+Encargo do ano de 1966 resultante da comparticipação no pagamento da renda mensal à Sociedade Artística Reguenguense, onde se encontra instalada uma secção da Escola Industrial e Comercial de Évora ... 7500$00
+Ministério da Saúde e Assistência
+Despesas de conservação de veículos com motor e telefones, do ano de 1969, a liquidar pela Secretaria-Geral do Ministério ... 16228$70
+Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
+Promulgado em 23 de Março de 1970.
+Publique-se.
+Presidência da República, 3 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
