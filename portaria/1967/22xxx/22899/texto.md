@@ -1,0 +1,10 @@
+Portaria n.º 22899
+Reconhecendo-se, a necessidade de criar uma brigada de agentes de fiscalização das actividades ostreícolas junto da Capitania do Porto de Setúbal, região onde essas actividades atingiram grande desenvolvimento, e ao abrigo do disposto nos §§ 1.º e 2.º do artigo 6.º do Regulamenta da Indústria Ostreícola, aprovado pelo Decreto n.º 47326, de 21 de Novembro de 1966:
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
+1.º É criada na Capitania do Porto de Setúbal uma brigada de agentes de fiscalização das actividades ostreícolas.
+2.º A brigada é constituída por três membros: um fiscal-técnico, de preferência sargento ou cabo da Armada, na situação de reserva, designado e instruído pelo Instituto de Biologia Marítima, e dois vigilantes, cabos-de-mar, nomeados pela Capitania.
+3.º A brigada tem por funções zelar peio cumprimento das disposições do Regulamento da Indústria Ostreícola e de quaisquer outras determinações relacionadas com essa actividade; ao fiscal-técnico compete, especialmente, a fiscalização do disposta nos artigos 18.º, 19.º, 44.º, alínea c), 57.º, 59.º, 65.º, 66.º, 67.º, 68.º, 69.º, 74.º, 75.º, 76.º e 79.º; e aos vigilantes o disposto nos artigos 5.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 39.º, 44.º, alíneas a), b) e c), 45.º, 46.º, 49.º, 56.º, 63.º, 66.º, 67.º, § 2.º, 77.º e 78.º, todos do Regulamento citado.
+4.º O fiscal-técnico depende, no aspecto técnico da sua missão, directamente do Instituto de Biologia Marítima, entidade que dará, no entanto, sempre conhecimento à Capitania das instruções que lhe fornecer; sob o ponto de vista disciplinar, o fiscal-técnico depende do capitão do Porto.
+5.º Os vigilantes ficam, sob todos os aspectos, dependentes directamente da Capitania do Porto.
+6.º Ao fiscal-técnico e a cada um dos vigilantes serão abonadas gratificações mensais no montante a fixar pelo Posto de Depuração de Ostras do Tejo, ouvido o Instituto de Biologia Marítima e a Capitania do Porto de Setúbal.
+Ministério da Marinha, 15 de Setembro de 1967. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
