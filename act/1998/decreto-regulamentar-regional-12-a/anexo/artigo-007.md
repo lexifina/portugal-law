@@ -6,4 +6,4 @@
 
 ### Competências
 
-O CROP tem funções consultivas e de análise respeitantes às situações que se deparem às obras públicas na Região.
+O CROP tem funções consultivas e de análise nos domínios da construção civil, obras públicas e áreas conexas relativamente à Região Autónoma dos Açores.

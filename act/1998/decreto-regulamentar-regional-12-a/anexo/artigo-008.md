@@ -2,6 +2,32 @@
 
 ### Composição
 
-1 - O CROP será presidido pelo Secretário Regional da Habitação e Equipamentos e tem ainda como membros, por parte da SRHE, o chefe de gabinete, os adjuntos e os directores regionais, bem como um representante da Mesa das Obras Públicas da Câmara de Comércio dos Açores, um representante da Secção Regional dos Açores da Ordem dos Engenheiros, um representante da Mesa de Construção Civil da Câmara de Comércio e Indústria dos Açores e um representante do Núcleo de Arquitectos da Região dos Açores.
+1 - O CROP será presidido pelo Secretário Regional da Habitação e Equipamentos.
 
-2 - A solicitação do presidente ou por este autorizados, podem ainda tomar parte nas reuniões do CROP técnicos, peritos, organizações e entidades competentes para a emissão de pareceres em áreas especializadas ou quaisquer outros elementos cuja presença seja considerada oportuna.
+2 - São também membros do CROP:
+
+a) O chefe do Gabinete do Secretário Regional da Habitação e Equipamentos;
+
+b) Os adjuntos do Secretário Regional da Habitação e Equipamentos;
+
+c) Os directores regionais da SRHE e os detentores de cargos equiparados, ainda que pertencentes a organismos com autonomia administrativa e financeira, dependentes ou tutelados pelo referido departamento governamental regional;
+
+d) O director regional do Ambiente;
+
+e) O director regional do Comércio, Indústria e Energia;
+
+f) O representante da Região Autónoma dos Açores no Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário (IMOPPI);
+
+g) Dois elementos em representação das Mesas de Construção Civil da Câmara de Comércio e Indústria dos Açores;
+
+h) Dois elementos em representação da Associação de Industriais de Construção Civil e Obras Públicas dos Açores (AICOPA);
+
+i) Um elemento em representação da delegação açoriana da Ordem dos Arquitectos;
+
+j) Um elemento em representação da delegação açoriana da Ordem dos Engenheiros;
+
+k) Um elemento em representação da Associação de Municípios da Região Autónoma dos Açores.
+
+3 - A solicitação do presidente, ou por este autorizados, podem ainda tomar parte nas reuniões do CROP técnicos, peritos e representantes de organizações e entidades competentes para a emissão de pareceres em áreas especializadas, bem como quaisquer outros elementos cuja presença seja considerada oportuna.
+
+4 - Salvo indicação em contrário por parte da entidade representada, o mandato dos membros do CROP tem a duração da legislatura em que tomam posse, renovando-se automaticamente por iguais períodos.
