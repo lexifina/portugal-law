@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 9-H/2001
+Para os devidos efeitos se declara que o Decreto-Lei n.º 28/2001, publicado no Diário da República, 1.ª série, n.º 29, de 3 de Fevereiro de 2001, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo único, na redacção dada ao artigo 38.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, onde se lê «3 - [...] sobrevivo a dos filhos» deve ler-se «3 - [...] sobrevivo e dos filhos» e onde se lê «4 - [...] Código do Imposto Municipal da Sisa e do Imposto sobre as Sucessões a Doações» deve ler-se «4 - [...] Código do Imposto Municipal da Sisa e do Imposto sobre as Sucessões e Doações».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Março de 2001. - O Secretário-Geral, Alexandre Figueiredo.
