@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1921/02/02800/00910091.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1921-02-09",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "5217e76476c40cbd6038ddbedc579b8f84c2e8a7c0188ec29fd6c038618ede7c",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.3,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "ab8a6c7dd6083970d0259f5c5dd3244464f555ad796725b09e9bb41213cdf40c",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 131
 }
