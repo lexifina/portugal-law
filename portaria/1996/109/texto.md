@@ -1,0 +1,55 @@
+Portaria n.º 109/96
+de 10 de Abril
+O Decreto-Lei n.º 128/93, de 22 de Abril, pela transposição da Directiva do Conselho n.º 89/686/CEE, de 21 de Dezembro, veio fixar na ordem jurídica nacional os requisitos a que devem obedecer o fabrico e comercialização de equipamentos de protecção individual (EPI), com vista a ser salvaguardada a protecção contra riscos susceptíveis de afectarem a saúde e segurança dos seus utilizadores.
+Considerando que aquele diploma veio a ser modificado pelo Decreto-Lei n.º 139/95, de 14 de Junho, na sequência da publicação das Directivas do Conselho n.os 93/68/CEE, de 22 de Julho, e 93/95/CEE, de 29 de Outubro, torna-se agora necessário proceder, de igual modo, à alteração da Portaria n.º 1131/93, de 4 de Novembro, que o regulamentou.
+Assim, nos termos do artigo 2.º do Decreto-Lei n.º 128/93, de 22 de Abril:
+Manda o Governo, pelos Ministros da Economia e da Saúde, que sejam alterados nos termos seguintes os anexos I, II, IV e V da Portaria n.º 1131/93, de 4 de Novembro:
+1) Ao n.º 1.4 do anexo I, «Exigências essenciais de saúde e de segurança», são aditadas as alíneas h) e i), com a seguinte redacção:
+«1.4 - [...]
+a) [...]
+b) [...]
+c) [...]
+d) [...]
+e) [...]
+f) [...]
+g) [...]
+h) Às referências dos diplomas aplicados em conformidade com o n.º 5 do artigo 3.º-C do Decreto-Lei n.º 128/93, de 22 de Abril, com a redacção que lhe foi dada pelo n.º 2 do artigo 5.º do Decreto-Lei n.º 139/95, de 14 de Junho, se for o caso;
+i) Ao nome, morada e número de identificação dos organismos que intervêm na fase de concepção dos EPI.»
+2) Ao n.º 3.4 do anexo I, «Exigências essenciais de saúde e segurança», é aditado um parágrafo, com a seguinte redacção:
+«3.4 - Prevenção de afogamento (coletes de salvação, braçadeiras e fatos de salvação). - [...]
+Os EPI destinados à prevenção do afogamento devem poder trazer à superfície tão rapidamente quanto possível, sem prejudicar a saúde do utilizador eventualmente esgotado ou sem sentidos, mergulhado num meio líquido, e fazê-lo flutuar numa posição que lhe permita respirar enquanto aguarda socorro.
+[...]»
+3) No segundo parágrafo do n.º 3.8 do anexo I, «Exigências essenciais de saúde e segurança», a expressão «corrente de fuga média através da cobertura de protecção» é substituída por «corrente de fuga, medida através da cobertura de protecção».
+4) no anexo II é eliminado o último parágrafo do n.º 2.2, passando a epígrafe, bem como o n.º 1.1 e a alínea b) do n.º 4.2, a ter a seguinte redacção:
+«ANEXO II
+Procedimentos de comprovação complementar
+1.1 - O exame CE de tipo é o procedimento pelo qual um organismo de qualificação reconhecida para o efeito no âmbito do Sistema Português da Qualidade (SPQ), a que se refere o Decreto-Lei n.º 234/93, de 2 de Julho, verifica e certifica se um modelo de EPI satisfaz as disposições que lhe são aplicáveis no âmbito do presente diploma.
+4.2 - [...]
+a) [...]
+b) O organismo previsto no n.º 1 procederá periodicamente a auditorias e fornecerá um relatório de cada auditoria ao fabricante.»
+5) O anexo IV passa a ter a seguinte redacção:
+«ANEXO IV
+Declaração de conformidade CE
+1 - A declaração de conformidade CE é o procedimento pelo qual o fabricante ou o seu mandatário estabelecido na Comunidade emite uma declaração de acordo com o modelo constante do número seguinte, que atesta que o EPI está conforme com as disposições da presente portaria e do Decreto-Lei n.º 128/93, de 22 de Abril, a fim de a poder apresentar às autoridades competentes.
+2 - O modelo de declaração de conformidade CE é o seguinte:
+'O fabricante ou o seu mandatário estabelecido na CE ... (ver nota 1) declara que o EPI novo descrito a seguir: ... (ver nota 2) está conforme com as disposições do Decreto-Lei n.º 128/93, de 22 de Abril, que transpõe a Directiva n.º 89/686/CEE, com a norma nacional ..., que transpõe a norma harmonizada a nível europeu n.º ...; é idêntico ao EPI que foi objecto de certificado CE de tipo n.º ..., emitido por ... (ver nota 3); foi submetido ao procedimento referido nos n.os 3/4 (ver nota 4) do anexo II da Portaria n.º 1131/93, de 4 de Novembro, sob controlo de ... (ver nota 3).
+Feito em ... de ...
+(Assinatura) (ver nota 5).
+(nota 1) Firma, endereço completo, sendo mandatário, indicar também a firma e o endereço do fabricante.
+(nota 2) Descrição do EPI/marca, modelo, número de série, etc.
+(nota 3) Nome e endereço do organismo que efectuou o procedimento.
+(nota 4) Riscar o que não interessa.
+(nota 5) Nome e função do signatário com poderes para vincular o fabricante ou seu mandário.'»
+6) O anexo V passa a ter a seguinte redacção:
+«ANEXO V
+1 - Marcação CE de conformidade:
+1.2 - A marcação CE de conformidade é constituída pelas iniciais CE de acordo com o seguinte grafismo:
+(ver documento original)
+1.3 - No caso de redução ou de ampliação da marcação CE, devem ser respeitadas as proporções resultantes do grafismo graduado acima indicado.
+1.4 - Os diferentes elementos de marcação CE devem ter sensivelmente a mesma dimensão vertical, que não pode ser inferior a 5 mm, podendo ser prevista uma derrogação a esta dimensão mínima para os EPI de pequena dimensão.
+1.5 - Inscrições complementares:
+a) Os dois últimos algarismos do ano de aposição CE, não sendo esta inscrição necessária no caso dos EPI a que se refere o n.º 1.8 do anexo II do presente diploma;
+b) No caso de intervenção de organismo notificado, o número distintivo atribuído ao organismo.»
+Ministérios da Economia e da Saúde.
+Assinada em 29 de Fevereiro de 1996.
+O Ministro da Economia, Daniel Bessa Fernandes Coelho. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
