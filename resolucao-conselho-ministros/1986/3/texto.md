@@ -1,0 +1,39 @@
+Resolução do Conselho de Ministros n.º 3/86
+Considerando que pela resolução do Conselho de Ministros de 19 de Junho de 1984, publicada no Diário da República, 2.ª série, n.º 152, de 3 de Julho de 1984, foi autorizada a prestação do aval do Estado a um financiamento de USD 3000000 que um sindicato bancário concedeu ao Banco Nacional de São Tomé e Príncipe;
+Considerando a necessidade de proceder ao reescalonamento não só do referido empréstimo avalizado pelo Estado como de outras três operações destinadas ao pagamento de remessas documentárias de exportações efectuadas até 30 de Setembro de 1983 e a financiar obras de ampliação do Aeroporto de São Tomé:
+O Conselho de Ministros, reunido em 26 de Dezembro de 1985, resolveu, por força do disposto no Decreto-Lei n.º 159/75, de 27 de Março, e ao abrigo da Lei n.º 1/73, de 2 de Janeiro, e do artigo 4.º da Lei n.º 2-B/85, de 28 de Fevereiro, autorizar a prestação do aval do Estado a um financiamento, até ao montante de USD 11000000, a facultar por um sindicato bancário ao Banco Nacional de São Tomé e Príncipe, para reescalonamento das suas dívidas, nas condições constantes da ficha técnica anexa.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+Ficha técnica
+Mutuantes - Sindicato bancário integrado pelos seguintes bancos:
+Banco Borges & Irmão;
+Banco Espírito Santo e Comercial de Lisboa;
+Banco de Fomento Nacional;
+Banco Fonsecas & Burnay;
+Banco Nacional Ultramarino;
+Banco Pinto & Sotto Mayor;
+Banco Português do Atlântico;
+Banco Totta & Açores;
+Crédito Predial Português;
+União de Bancos Portugueses.
+Agentes:
+Banco de Fomento Nacional;
+Banco Nacional Ultramarino;
+Banco Pinto & Sotto Mayor;
+Crédito Predial Português.
+Mutuário - Banco Nacional de São Tomé e Príncipe/República Democrática de São Tomé e Príncipe.
+Montante - até USD 11000000.
+Finalidade:
+1) Reescalonamento das dívidas do Banco Nacional de São Tomé e Príncipe decorrentes de:
+Dois empréstimos contraídos junto de dois sindicatos bancários nos montantes de USD 3000000 e USD 2000000, assinados em 18 de Setembro de 1984 e destinados ao pagamento de remessas documentárias;
+Dois empréstimos contraídos junto do Banco de Fomento Nacional nos montantes iniciais de USD 3000000 e USD 2168810,52, assinados, respectivamente, em 24 de Julho de 1981 e em 5 de Abril de 1984 e destinados a financiar obras de ampliação do Aeroporto de São Tomé.
+2) Regularização do pagamento de juros vencidos em 18 de Março de 1985 e 18 de Setembro de 1985 efectuado pelo Estado do empréstimo de USD 3000000 avalizado pelo Estado.
+Prazo - 9 anos (até 18 de Setembro de 1994).
+Período de carência - 4 anos (só capital).
+Amortização - 11 amortizações semestrais e sucessivas a partir de 18 de Setembro de 1989 (inclusive).
+Taxa de juro - libor para USD a 6 meses + 1,5% spread.
+Pagamento de juros - semestral e postecipadamente, vencendo-se os primeiros juros em 18 de Março de 1986.
+Juros de mora - libor para USD a 6 meses + 3,5% spread.
+Comissão de agente - 3/8% flat sobre o montante.
+Comissão de reescalonamento - 3/8% flat sobre o montante, aos mutuantes segundo a sua participação.
+Garantia - aval do Estado Português.
