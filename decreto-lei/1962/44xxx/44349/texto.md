@@ -1,0 +1,15 @@
+Decreto-Lei n.º 44349
+Encontra-se concluído e vai ser entregue ao Ministério da Educação Nacional o edifício destinado ao Museu Monográfico de Conímbriga.
+Importa, por isso, tomar as disposições que permitam organizar e abrir ao público o referido Museu, o primeiro desse tipo em Portugal.
+Nestas condições:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É criado, na dependência administrativa e técnica da Direcção-Geral do Ensino Superior e das Belas-Artes, o Museu Monográfico de Conímbriga.
+Art. 2.º O quadro do pessoal do Museu é o seguinte:
+(ver documento original)
+§ único. Quando o director ocupar outro lugar remunerado nos quadros do Estado, corpos administrativos ou pessoas colectivas de utilidade pública administrativa, perceberá a gratificação mensal de 1200$00.
+Art. 3.º O director será escolhido pelo Ministro, ouvida a Junta Nacional da Educação, entre diplomados com um curso superior especializados em arqueologia clássica.
+Art. 4.º Os guardas e os serventes têm direito à concessão de fardamento, ficando, porém, sujeitos às condições que de futuro vierem a ser fixadas quanto ao seu pagamento.
+Art. 5.º Ao pessoal do Museu incumbe, além do serviço próprio desse estabelecimento, vigiar pela conservação e defesa das ruínas de Conímbriga.
+Art. 6.º Mediante decreto assinado pelos Ministros das Finanças e da Educação Nacional, serão promulgadas as alterações orçamentais que se reconheçam necessárias.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 14 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
