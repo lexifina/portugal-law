@@ -1,3 +1,5 @@
+## 2 - Caixa
+
 # Artigo 9.º
 
 ### Vedação da caixa

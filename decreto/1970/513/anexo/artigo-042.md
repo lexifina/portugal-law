@@ -1,3 +1,5 @@
+## 5 - Cabina e contrapeso
+
 # Artigo 42.º
 
 ### Dimensões e lotação da cabina dos ascensores

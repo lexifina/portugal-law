@@ -1,3 +1,5 @@
+## 4 - Portas de patamar
+
 # Artigo 32.º
 
 ### Disposições gerais

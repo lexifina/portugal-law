@@ -1,3 +1,5 @@
+## 7 - Guias, pára-choques e dispositivos de paragem
+
 # Artigo 69.º
 
 ### Guias

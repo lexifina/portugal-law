@@ -1,3 +1,5 @@
+## 16 - Disposições transitórias
+
 # Artigo 111.º
 
 ### Disposições aplicáveis aos elevadores existentes
