@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação da Embaixada da Suíça em Lisboa, o Grão-Ducado do Luxemburgo ratificou as Convenções internacionais relativas ao transporte por caminho de ferro de mercadorias (CIM) e de passageiros e bagagens (CIV), assinadas em Berna em 25 de Fevereiro de 1961, bem como os Protocolos A e B, aprovados pela conferência diplomática reunida para fazer entrar em vigor as mesmas Convenções e que tinham sido assinados sob reserva de ratificação pelo plenipotenciário do Luxemburgo, em Berna, em 29 de Abril último.
+De acordo com as disposições finais do Protocolo A, as convenções CIM e CIV, de 25 de Fevereiro de 1961, serão aplicáveis ao Luxemburgo a partir de 1 de Janeiro de 1965.
+Direcção-Geral dos Negócios Económicos e Consulares, 19 de Dezembro de 1964. - O Director-Geral, José Calvet de Magalhães.
