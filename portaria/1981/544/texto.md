@@ -1,0 +1,4 @@
+Portaria n.º 544/81
+de 2 de Julho
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, da Indústria e Energia e da Reforma Administrativa, que, ao abrigo do artigo 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, seja criado no quadro de pessoal da Secretaria-Geral, constante do anexo I à Portaria n.º 284/80, de 24 de Maio, 1 lugar de assessor, letra B, a prover pelo subdirector do Instituto Nacional de Investigação Industrial, de nomeação definitiva, o qual será extinto quando vagar.
+Ministérios das Finanças e do Plano, da Indústria e Energia e da Reforma Administrativa, 12 de Junho de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro da Indústria e Energia, Ricardo Manuel Simões Bayão Horta. - Pelo Ministro da Reforma Administrativa, José Queirós Lopes Raimundo, Secretário de Estado da Reforma Administrativa.
