@@ -1,0 +1,3 @@
+Aviso n.º 167/92
+Por ordem superior se torna público ter o Governo das Seicheles depositado junto do Secretário-Geral das Nações Unidas, em 5 de Maio de 1992, os instrumentos de adesão à Convenção Relativa à Escravatura, concluída em Genebra a 25 de Setembro de 1926, e à Convenção Suplementar Relativa à Abolição da Escravatura, do Tratamento dos Escravos e das Instituições e Práticas Análogas à Escravatura, concluída nos Serviços Europeus das Nações Unidas em Genebra a 7 de Setembro de 1956.
+Direcção-Geral dos Negócios Político-Económicos, 30 de Setembro de 1992. - O Director de Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
