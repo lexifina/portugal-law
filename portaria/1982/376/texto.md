@@ -1,0 +1,5 @@
+Portaria n.º 376/82
+de 15 de Abril
+Tendo em consideração o disposto no n.º 2 do artigo 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, e no n.º 11 do Despacho Normativo n.º 176-A/79, de 26 de Julho:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa, criar no quadro de pessoal do Instituto Português do Património Cultural, fixado pelo Decreto Regulamentar n.º 34/80, de 2 de Agosto, 1 lugar de assessor, letra B, o qual será extinto quando vagar.
+Ministérios das Finanças e do Plano, da Cultura e Coordenação Científica e da Reforma Administrativa, 25 de Março de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Cultura e Coordenação Científica, Francisco António Lucas Pires. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
