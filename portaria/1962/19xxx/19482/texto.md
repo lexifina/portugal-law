@@ -1,0 +1,3 @@
+Portaria n.º 19482
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § 1.º do artigo 4.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, reforçar com a importância de 190$00 a verba do artigo 13.º «Diversos encargos - Despesas de anos económicos findos», da tabela de despesa do orçamento privativo da Agência-Geral do Ultramar para o corrente ano, tomando como contrapartida as disponibilidades existentes na verba do artigo 11.º, n.º 8) «Diversos encargos - Outros encargos - Restituição de rendimentos indevidamente cobrados», da referida tabela de despesa.
+Ministério do Ultramar, 5 de Novembro de 1962. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
