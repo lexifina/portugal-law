@@ -1,0 +1,29 @@
+Portaria n.º 25/98
+de 10 de Janeiro
+Tendo em atenção que a realização de jogos de futebol às segundas-feiras, envolvendo as equipas que participam nas competições europeias, impede a inclusão das principais equipas portuguesas nos bilhetes dos concursos do totobola;
+Considerando que esse impedimento não é consentâneo com os objectivos da promoção e desenvolvimento das competições desportivas, constituindo estas o objecto dos concursos do totobola;
+Assim, ao abrigo do n.º 2 do artigo 3.º do Regulamento do Departamento de Jogos, aprovado pelo Decreto-Lei n.º 322/91, de 26 de Agosto:
+Manda o Governo, pelos Ministros da Saúde e da Solidariedade e Segurança Social, o seguinte:
+1.º Os artigos 5.º e 13.º do Regulamento Geral dos Concursos do Totobola, aprovado pela Portaria n.º 1327/93, de 31 de Dezembro, passam a ter a seguinte redacção:
+«Artigo 5.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+6 - ...
+7 - ...
+8 - Podem ser incluídos nos bilhetes do totobola os jogos de futebol que se realizem às segundas-feiras.
+9 - (Anterior n.º 8.)
+10 - (Anterior n.º 9.)
+Artigo 13.º
+[...]
+1 - ...
+2 - ...
+3 - Quando qualquer dos jogos não se realizar, for adiado para além do dia imediato ao da data do concurso ou se iniciar antes da microfilmagem referida no artigo anterior, o resultado válido é obtido por sorteio público, a realizar nos termos do artigo 14.º
+4 - ...»
+2.º A presente portaria entra em vigor na data da sua publicação.
+Ministérios da Saúde e da Solidariedade e Segurança Social.
+Assinada em 24 de Novembro de 1997.
+A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.
