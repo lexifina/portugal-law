@@ -1,0 +1,9 @@
+Portaria n.º 920/2004
+de 26 de Julho
+Pela Portaria n.º 454/2004, de 3 de Maio, foi concessionada à Associação de Caça e Pesca da Freguesia de Moreira de Rei a zona de caça associativa de Moreira de Rei II, processo n.º 3624-DGRF, situada nos municípios de Meda e Trancoso, com a área de 1819 ha.
+Verificou-se posteriormente que o prazo de validade da zona de caça constante na portaria acima referida é inferior ao prazo de vigência dos acordos dados pelas entidades titulares e gestoras dos prédios que fazem parte da zona de caça.
+Considerando que, nos termos do n.º 3 do artigo 2.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, o prazo da concessão deve corresponder ao prazo de validade dos acordos dados pelos respectivos titulares e gestores dos terrenos:
+Assim:
+Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, que o n.º 1.º da Portaria n.º 454/2004, de 3 de Maio, passe a ter a seguinte redacção:
+«1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por dois períodos iguais, à Associação de Caça e Pesca da Freguesia de Moreira de Rei, com o número de pessoa colectiva 506111422, com sede em Moreira de Rei, 6420-506 Moreira de Rei, a zona de caça associativa de Moreira de Rei II (processo n.º 3624-DGF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Carvalhal e Casteição, município de Meda, com a área de 273 ha, e na freguesia de Moreira de Rei, município, de Trancoso, com a área de 1546 ha, perfazendo um total de 1819 ha.»
+Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 2 de Julho de 2004.
