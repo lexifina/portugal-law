@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério da Administração Interna, o Despacho Normativo n.º 390/79, publicado no 16.º suplemento ao Diário da República, 1.ª série, n.º 300, de 31 de Dezembro de 1979, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Na observação (a) constante da tabela VI, onde se lê: «O máximo a comparticipar por períodos de vinte e quatro horas não poderá exceder 500$00 no primeiro período (primeiros quinze dias) ...», deverá ler-se: «O máximo a comparticipar por períodos de vinte e quatro horas não poderá exceder 800$00 no primeiro período (primeiros quinze dias) ...»
+Secretaria-Geral da Presidência do Conselho de Ministros, 25 de Março de 1980. - O Secretário-Geral, José António Bagulho França Martins.
