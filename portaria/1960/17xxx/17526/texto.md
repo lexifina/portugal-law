@@ -1,0 +1,4 @@
+Portaria n.º 17526
+Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional, das Finanças e do Exército, nos termos do artigo 6.º do Decreto-Lei n.º 41368, de 16 de Novembro de 1957, e do Decreto-Lei n.º 42046, de 23 de Dezembro de 1958, publicar os vencimentos e salários do pessoal civil contratado e assalariado do Centro Militar de Educação Física, Equitação e Desportos, em substituição dos que constam da Portaria n.º 15425, de 17 de Junho de 1955:
+(ver documento original)
+Presidência do Conselho e Ministérios das Finanças e do Exército, 9 de Janeiro de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz. - Pelo Ministro das Finanças, José Júlio Pizarro Beleza, Subsecretário de Estado do Orçamento. - O Ministro do Exército, Afonso Magalhães de Almeida Fernandes.
