@@ -1,0 +1,28 @@
+Decreto-Lei n.º 40/86
+de 4 de Março
+O Programa do X Governo Constitucional, a par de outras medidas relacionadas com o financiamento da Segurança Social portuguesa, prevê expressamente a «criação da taxa social única com unificação dos descontos para a Segurança Social e o Fundo de Desemprego».
+A taxa social única e a consequente extinção do Fundo de Desemprego serão propostas pelo Governo à Assembleia da República no contexto do Orçamento do Estado para 1986.
+Com o presente diploma criam-se as condições de natureza administrativa que permitem o estabelecimento da taxa social única, dando-se um passo decisivo para a racionalização do modelo de financiamento que vem sendo seguido pela Segurança Social em Portugal e para a simplificação da máquina administrativa do Estado.
+Tais condições passam pela extinção do Gabinete de Gestão do Fundo de Desemprego, com a integração das quotizações para o Fundo de Desemprego no orçamento da Segurança Social.
+Estas medidas permitirão que, quando for criada a taxa social única, apenas seja necessária a uniformização das bases de incidência das quotizações para a Segurança Social e para o Fundo de Desemprego, com a consequente utilização do aparelho administrativo da Segurança Social para o recebimento das contribuições.
+A solução encontrada para o financiamento do Instituto do Emprego e Formação Profissional é a que melhor se ajusta não só à lógica do presente diploma mas também ao objectivo de fundo que com ele se pretende concretizar.
+Finalmente, as medidas agora tornadas permitirão assegurar com a antecedência necessária a contribuição pública nacional exigida nos projectos a financiar pelo Fundo Social Europeu da Comunidade Económica Europeia.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º O Gabinete de Gestão do Fundo de Desemprego é extinto 120 dias após a data de entrada em vigor do presente diploma.
+Art. 2.º Passam para o Ministro do Trabalho e Segurança Social e para o Instituto de Gestão Financeira da Segurança Social as competências atribuídas pelo Decreto-Lei n.º 45080, de 26 de Junho de 1963, ao Ministro das Finanças e ao Gabinete de Gestão do Fundo de Desemprego, nos termos a definir em diploma a publicar.
+Art. 3.º A partir da entrada em vigor do presente diploma, o Gabinete de Gestão do Fundo de Desemprego depositará à ordem do Instituto de Gestão Financeira da Segurança Social todas as importâncias que por ele venham a ser arrecadadas, bem como os saldos existentes.
+Art. 4.º A partir da entrada em vigor do presente diploma, as importâncias arrecadadas pelas repartições de finanças destinadas ao Fundo de Desempreo serão depositadas à ordem do Instituto de Gestão Financeira da Segurança Social.
+Art. 5.º A partir da entrada em vigor do presente diploma, o Instituto de Gestão Financeira da Segurança Social assegurará o financiamento do Gabinete de Gestão do Fundo de Desemprego, de acordo com o disposto no Decreto Regulamentar n.º 24/77, de 1 de Abril.
+Art. 6.º As dotações anualmente fixadas para o Instituto do Emprego e Formação Profissional de acordo com o seu orçamento, elaborado nos termos do Decreto-Lei n.º 247/85, de 12 de Julho, serão justificadas com base em planos de tesouraria, sendo suportadas pelo orçamento da Segurança Social e asseguradas pelo Instituto de Gestão Financeira da Segurança Social.
+Art. 7.º As dotações anualmente necessárias à contribuição pública nacional das acções participadas financeiramente pelo Fundo Social Europeu serão fixadas por despacho conjunto dos Ministros das Finanças e do Trabalho e Segurança Social até 15 de Outubro do ano anterior ao da execução das referidas acções, sendo suportadas pelo orçamento da Segurança Social e asseguradas pelo Instituto de Gestão Financeira da Segurança Social.
+Art. 8.º - 1 - O pessoal ao serviço do Gabinete de Gestão do Fundo de Desemprego será integrado, com manutenção de todos os seus direitos, nos adequados serviços da Administração Pública, incluindo institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos dependentes, designadamente, dos Ministérios das Finanças e do Trabalho e Segurança Social.
+2 - A integração a que se refere o número anterior será feita por portaria conjunta dos Ministros das Finanças e do Trabalho e Segurança Social e dos ministros interessados, sendo os quadros de pessoal dos respectivos organismos alargados em conformidade.
+Art. 9.º Os bens móveis e imóveis, os créditos e demais direitos e deveres afectos ao Gabinete de Gestão do Fundo de Desemprego passam para a titularidade dos centros regionais de segurança social e do Instituto de Gestão Financeira da Segurança Social na data de entrada em vigor do presente decreto-lei.
+Art. 10.º A aplicação do disposto no presente diploma às Regiões Autónomas da Madeira e dos Açores fica dependente da publicação de diplomas legislativos das respectivas Regiões Autónomas.
+Visto e aprovado em Conselho de Ministros de 6 de Fevereiro de 1968. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral.
+Promulgado em 21 de Fevereiro de 1986.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 25 de Fevereiro de 1986.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
