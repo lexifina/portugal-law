@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros enviou à Embaixada da República Popular da Hungria uma nota verbal, datada de 6 de Maio de 1977, informando que a parte portuguesa dera cumprimento às formalidades constitucionais relativas à entrada em vigor do Acordo entre o Governo da República Portuguesa e o Governo da República Popular da Hungria sobre os Transportes Internacionais de Pessoas e Mercadorias por Estrada, assinado em Budapeste, em 13 de Maio de 1976, e publicado no Diário da República, 1.ª série, n.º 86, de 13 de Abril de 1977, em resposta a uma nota verbal daquela Embaixada, datada de 18 de Novembro de 1976, que informava estarem cumpridas aquelas formalidades pela parte húngara.
+Nesta conformidade, e segundo o disposto no seu artigo 17.º, o Acordo em apreço entrou em vigor em 6 de Maio de 1977.
+Direcção-Geral dos Negócios Económicos, 10 de Maio de 1977. - O Director-Geral Adjunto, Paulo Manuel Lage David Ennes.
