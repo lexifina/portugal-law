@@ -1,0 +1,4 @@
+Portaria n.º 302/83
+de 25 de Março
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Habitação, Obras Públicas e Transportes e da Reforma Administrativa, ao abrigo do n.º 2 do artigo 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, criar, no quadro de pessoal da Direcção-Geral das Construções Escolares, aprovado pela Portaria n.º 149/82, de 2 de Fevereiro, 1 lugar de engenheiro civil assessor, letra C, a extinguir quando vagar.
+Ministérios das Finanças e do Plano, da Habitação, Obras Públicas e Transportes e da Reforma Administrativa, 8 de Março de 1983. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Habitação, Obras Públicas e Transportes, José Carlos Pinto Soromenho Viana Baptista. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
