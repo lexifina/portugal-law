@@ -1,0 +1,35 @@
+Despacho Normativo n.º 27/2004
+A Resolução do Conselho de Ministros n.º 8/2004, de 6 de Fevereiro, alargou o âmbito de aplicação da intervenção prevista no n.º 4 do anexo à Resolução do Conselho de Ministros n.º 106-B/2003, de 11 de Agosto, à cortiça e aos sobreiros afectados pelos incêndios do Verão de 2003.
+Por este meio, garantiu-se a protecção da área de montado de sobro atingida por aqueles incêndios.
+O montado de sobro é um ecossistema, hoje particularmente fragilizado, necessitado de intervenções que promovam a remoção imediata dos sobreiros mortos ou não recuperáveis, assim como a extracção da cortiça queimada.
+Estas intervenções visam o restabelecimento da normalidade da produção de cortiça amadia e a preservação da imagem de excelência que os produtos de cortiça portugueses têm no mercado mundial.
+Deste modo, salvaguarda-se o regular funcionamento do mercado deste relevante segmento da economia portuguesa.
+Por outro lado, o sobreiro é uma espécie florestal cujas características determinam que só volvidos alguns meses após o fogo seja possível verificar a extensão dos danos provocados pelos incêndios, o estado de recuperação das árvores e por conseguinte o volume de cortiça afectado, pelo que só agora se torna viável concretizar as adequadas medidas de apoio.
+Na sequência das outras medidas já adoptadas e regulamentadas pelo Governo, nos termos do Despacho Normativo n.º 39/2003, de 25 de Setembro, com as alterações que lhe foram introduzidas pelo Despacho Normativo n.º 9/2004, de 1 de Março, estabelecem-se agora as normas de atribuição de apoios excepcionais à preservação do montado de sobro.
+Assim, ao abrigo da Resolução do Conselho de Ministros n.º 106-B/2003, de 11 de Agosto, com as alterações que lhe foram introduzidas pelas Resoluções do Conselho de Ministros n.os 123/2003, de 25 de Agosto, 161/2003, de 9 de Outubro, e 8/2004, de 6 de Fevereiro, determina-se o seguinte:
+1 - O n.º 1 do Despacho Normativo n.º 39/2003, de 25 de Setembro, com as alterações introduzidas pelo Despacho Normativo n.º 9/2004, de 1 de Março, passa a ter a seguinte redacção:
+«1 - São aprovadas as normas que, relativamente às medidas e apoios excepcionais previstos no n.º 1, nas alíneas b) e c) do n.º 2 e nos n.os 4 e 6 do anexo da Resolução do Conselho de Ministros n.º 106-B/2003, de 11 de Agosto, com a redacção dada pelas Resoluções do Conselho de Ministros n.os 123/2003, de 25 de Agosto, 161/2003, de 9 de Outubro, e 8/2004, de 6 de Fevereiro, e na resolução n.º 60/2003 (2.ª série), de 23 de Agosto, estabelecem os critérios de atribuição, a tramitação dos respectivos pedidos e a indicação dos organismos e entidades intervenientes nos processos, que constam dos anexos I, II, III, IV e V do presente despacho normativo.»
+2 - É aditado o anexo V ao Despacho Normativo n.º 39/2003, de 25 de Setembro, com as alterações introduzidas pelo Despacho Normativo n.º 9/2004, de 1 de Março, com a seguinte redacção:
+«ANEXO V
+Normas relativas à atribuição dos apoios excepcionais decorrentes da Resolução do Conselho de Ministros n.º 8/2004, de 6 de Fevereiro.
+Intervenção no montado de sobro
+1 - Beneficiários - agricultores e proprietários florestais cujos montados de sobro tenham sido atingidos pelos incêndios de 2003.
+2 - Entidades envolvidas - a Direcção-Geral dos Recursos Florestais, a Secretaria-Geral do Ministério da Agricultura, Desenvolvimento Rural e Pescas e as organizações de produtores florestais.
+3 - Apoios - apoio financeiro anual, calculado com base na quantidade de cortiça retirada dos montados de sobro afectados pelos incêndios de 2003, que seja entregue em unidades industriais, com vista à produção de aglomerado negro de cortiça.
+4 - Condições de atribuição - os beneficiários têm de cumprir as seguintes condições cumulativas:
+a) Proceder ao abate e remoção de todos os sobreiros inviáveis, ou irremediavelmente perdidos por efeito do fogo, e afectados por pragas ou doenças que representem um risco de degradação do estado fitossanitário do montado na sequência dos incêndios de 2003;
+b) Não vender qualquer quantidade de cortiça atingida pelos incêndios com destino diferente do previsto no n.º 3;
+c) As acções a realizar não ultrapassem o dia 30 de Setembro de 2008.
+5 - Valor dos apoios - o valor do apoio a atribuir é de (euro) 8 por arroba, com base nos respectivos registos quantitativos, de proveniência e propriedade.
+6 - Montante anual máximo de apoio por beneficiário - o estabelecido no regulamento de aplicação das subvenções concedidas pelo Fundo de Solidariedade da União Europeia.
+7 - Formalização de candidaturas - os beneficiários devem formalizar a sua candidatura junto da Direcção-Geral dos Recursos Florestais, até ao dia 30 de Junho de 2004, independentemente do ano a que se refira a pretensão de descortiçamento, através do impresso modelo C anexo a este despacho e que dele faz parte integrante, devidamente certificado pela associação de produtores da zona.
+8 - Obrigações acessórias - os beneficiários, em simultâneo com o previsto no n.º 7, requerem as autorizações previstas na legislação em vigor sobre a protecção do montado de sobro.
+9 - Pagamento do montante de apoio - após a conclusão dos trabalhos, até 31 de Outubro de cada ano, o beneficiário procede à entrega na Direcção-Geral dos Recursos Florestais do seguinte:
+i) Documento comprovativo, emitido pela unidade industrial transformadora de aglomerado negro, com indicação da zona de origem, períodos de entrega, identificação do beneficiário e quantidade de cortiça entregue;
+ii) Declaração emitida pelo beneficiário de cumprimento das condições de atribuição do apoio;
+iii) Apresentação das demais declarações exigidas por lei, para concessão de apoios públicos.
+10 - O não cumprimento de uma ou mais das obrigações previstas no presente despacho determina o não recebimento dos apoios e a devolução dos indevidamente recebidos.»
+3 - O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.
+Ministérios das Finanças, da Administração Interna e da Agricultura, Desenvolvimento Rural e Pescas, 12 de Maio de 2004. - A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Administração Interna, António Jorge de Figueiredo Lopes. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto.
+
+(ver modelo no documento original)
