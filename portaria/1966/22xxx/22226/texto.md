@@ -1,0 +1,5 @@
+Portaria n.º 22226
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos dos artigos 13.º e 16.º do Decreto n.º 35770, de 29 de Julho de 1946, que o Governo da Guiné abra um crédito especial de 2787761$00, tomando como contrapartida igual quantia a sair dos rendimentos de concessões petrolíferas, destinado a reforçar a verba do capítulo 1.º, artigo 1.º «Dívida da província - Encargos resultantes do empréstimo de 40000 contos concedido pelo Banco Nacional Ultramarino e autorizado pelo Decreto n.º 36857, de 5 de Maio de 1948, destinado à construção da ponte de Ensalmá, no Impernal, e da ponte-cais de Bissau, conforme escritura lavrada em 2 de Junho de 1948, à taxa de 3 1/2 por cento, pagável em semestralidades durante vinte anos - Amortização e juros da 34.ª e 35.ª semestralidades, vencíveis em 1 de Junho e 1 de Dezembro de 1966», da tabela de despesa ordinária do orçamento geral em vigor.
+Ministério do Ultramar, 26 de Setembro de 1966. - Pelo Ministro do Ultramar, Rui Manuel de Medeiros d'Espinay Patrício, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial da Guiné. - Rui Patrício.
