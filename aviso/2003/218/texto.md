@@ -1,0 +1,4 @@
+Aviso n.º 218/2003
+Por ordem superior se torna público que, em 20 de Agosto de 2003, a República Democrática de Timor-Leste e o Reino do Butão depositaram os seus instrumentos de adesão à Convenção Internacional de Combate à Desertificação nos Países Afectados pela Seca Grave e ou Desertificação, Particularmente em África (CNUCD), concluída em Paris em 17 de Junho de 1994.
+Portugal é Parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 41/95, publicado no Diário da República, 1.ª série-A, n.º 287, de 14 de Dezembro de 1995, tendo depositado o seu instrumento de ratificação em 1 de Abril de 1996, conforme o Aviso n.º 137/98 (Diário da República, 1.ª série-A, n.º 160, de 14 de Julho de 1998).
+Direcção-Geral dos Assuntos Multilaterais, 16 de Outubro de 2003. - A Directora de Serviços das Organizações Económicas Internacionais, Graça Gonçalves Pereira.
