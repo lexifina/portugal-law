@@ -1,0 +1,403 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "48",
+    "id": "19607",
+    "titulo": "Decreto-Lei n.º 57/2003, de 28 de Março, que altera pela segunda vez o Decreto-Lei n.º 122/98, de 9 de Maio, que aprova as 1.ª e 2.ª fases de reprivatização indirecta do Capital Social da Sociedade Transportes Aéreos Portugueses, SA."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2003-06-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2594",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2003-06-06",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-06-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145746",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5448-5450",
+                  "5457-5458"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5448?pgs=5448-5450,5457-5458&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 57/2003, de 28 de Março, que altera pela segunda vez o Decreto-Lei n.º 122/98, de 9 de Maio, que aprova as 1.ª e 2.ª fases de reprivatização indirecta do Capital Social da Sociedade Transportes Aéreos Portugueses, SA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "324",
+                "nome": "Fernando Pedro Moutinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145747",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5450-5452",
+                  "5458-5458"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5450?pgs=5450-5452,5458&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 57/2003, de 28 de Março, que altera pela segunda vez o Decreto-Lei n.º 122/98, de 9 de Maio, que aprova as 1.ª e 2.ª fases de reprivatização indirecta do Capital Social da Sociedade Transportes Aéreos Portugueses, SA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1407",
+                "nome": "Nelson Baltazar"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145748",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5452-5453"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5452?pgs=5452-5453&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 57/2003, de 28 de Março, que altera pela segunda vez o Decreto-Lei n.º 122/98, de 9 de Maio, que aprova as 1.ª e 2.ª fases de reprivatização indirecta do Capital Social da Sociedade Transportes Aéreos Portugueses, SA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145749",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5453-5454"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5453?pgs=5453-5454&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 57/2003, de 28 de Março, que altera pela segunda vez o Decreto-Lei n.º 122/98, de 9 de Maio, que aprova as 1.ª e 2.ª fases de reprivatização indirecta do Capital Social da Sociedade Transportes Aéreos Portugueses, SA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1698",
+                "nome": "Miguel Anacoreta Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145750",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5454-5455"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5454?pgs=5454-5455&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 57/2003, de 28 de Março, que altera pela segunda vez o Decreto-Lei n.º 122/98, de 9 de Maio, que aprova as 1.ª e 2.ª fases de reprivatização indirecta do Capital Social da Sociedade Transportes Aéreos Portugueses, SA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145751",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5455-5455"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5455?pgs=5455&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 57/2003, de 28 de Março, que altera pela segunda vez o Decreto-Lei n.º 122/98, de 9 de Maio, que aprova as 1.ª e 2.ª fases de reprivatização indirecta do Capital Social da Sociedade Transportes Aéreos Portugueses, SA.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E. DAS  OBRAS PÚBLICAS",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145752",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5455-5459"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5455?pgs=5455-5459&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 57/2003, de 28 de Março, que altera pela segunda vez o Decreto-Lei n.º 122/98, de 9 de Maio, que aprova as 1.ª e 2.ª fases de reprivatização indirecta do Capital Social da Sociedade Transportes Aéreos Portugueses, SA.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "156877",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2594",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-06-07",
+        "pubLeg": "IX",
+        "pubNr": "131",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
