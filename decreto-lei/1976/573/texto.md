@@ -1,0 +1,19 @@
+Decreto-Lei n.º 573/76
+de 20 de Julho
+Considerando que o Decreto-Lei n.º 228/76, de 1 de Abril, ao dar nova redacção ao artigo 12.º do Decreto-Lei n.º 561/75, de 2 de Outubro, deixou omissos alguns aspectos do funcionamento da comissão de reestruturação do denominado «Grupo CUF», que se torna necessário explicar;
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. O artigo 12.º do Decreto-Lei n.º 561/75, na redacção que lhe foi dada pelo Decreto-Lei n.º 228/76, de 1 de Abril, passa a ter a seguinte redacção:
+Art. 12.º - 1. ...
+a) ...
+b) ...
+c) ...
+d) ...
+2. ...
+3. As remunerações dos membros da comissão de reestruturação serão fixadas por despacho conjunto do Ministro das Finanças e do Ministro da Indústria e Tecnologia, observados os limites estabelecidos no Decreto-Lei n.º 446/74, de 13 de Setembro.
+4. A comissão de reestruturação do denominado «Grupo CUF» poderá requisitar pessoal ao serviço das sociedades nacionalizadas pertencentes a esse grupo e o apoio dos meios materiais das mesmas sociedades e será dotada com os meios financeiros necessários.
+5. A comissão de reestruturação poderá corresponder-se com quaisquer entidades públicas ou privadas e estabelecer com elas os contactos que considerar necessários, ficando umas e outras obrigadas a fornecer-lhe as informações de que necessitar para o desempenho das suas funções.
+6. Os encargos com o funcionamento da comissão de reestruturação serão suportados, rateadamente, pelas sociedades nacionalizadas pertencentes ao mencionado Grupo CUF, nos termos a definir pelo despacho conjunto do Ministro das Finanças e do Ministro da Indústria e Tecnologia.
+Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa - João Pedro Tomás Rosa.
+Promulgado em 8 de Julho de 1976.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
