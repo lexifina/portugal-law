@@ -1,0 +1,17 @@
+Portaria n.º 1/90
+de 4 de Janeiro
+O artigo 114.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro, impõe às entidades que paguem rendimentos sujeitos a retenção na fonte e pensões, com excepção das de alimentos, que comuniquem à administração fiscal a identificação fiscal das pessoas ou entidades a quem efectuaram os pagamentos, bem como a indicação dos montantes pagos ou colocados à disposição e das importâncias retidas.
+Por outro lado, tendo em vista utilizar, no cumprimento desta obrigação, as modernas tecnologias de informação, o artigo 135.º do mesmo Código permite a substituição do suporte pré-impresso por suportes magnéticos que obedeçam às características técnicas definidas pela Direcção-Geral das Contribuições e Impostos, sem necessidade de prévia autorização.
+Importa, pois, colocar à disposição de todas as entidades sobre as quais recai esta obrigação os meios indispensáveis ao seu cumprimento atempado.
+Assim:
+Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do artigo 8.º do Decreto-Lei n.º 442-A/88, de 30 de Novembro, o seguinte:
+1.º É aprovado o modelo de declaração de rendimentos a apresentar à Direcção-Geral das Contribuições e Impostos pelas entidades a ela obrigadas nos termos do artigo 114.º, n.º 1, alínea c), do Código do Imposto sobre o Rendimento das Pessoas Singulares, bem como as respectivas instruções de preenchimento, que dela fazem parte integrante.
+2.º A declaração a que se refere o número anterior não é de modelo exclusivo, sendo de reprodução livre, desde que observadas as suas características, em papel branco de formato A4.
+3.º São aprovadas as características técnicas dos suportes magnéticos que substituem a declaração a que se refere o n.º 1.º
+4.º A apresentação da declaração em suporte magnético não carece de autorização prévia da Direcção-Geral das Contribuições e Impostos.
+5.º Os suportes magnéticos, depois de recolhidos, serão devolvidos às entidades apresentantes, acompanhados de uma listagem do seu conteúdo em suporte de papel, que fica a constituir, para todos os efeitos, prova do conteúdo daqueles suportes.
+Ministério das Finanças.
+Assinada em 6 de Dezembro de 1989.
+O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.
+
+(ver documento original)
