@@ -1,0 +1,5 @@
+Aviso n.º 284/99
+Por ordem superior se torna público que, por nota de 7 de Dezembro de 1999, o director-geral da Organização Internacional do Trabalho, na sua qualidade de depositário da Convenção n.º 97 da OIT sobre Trabalhadores Migrantes (revista), adoptada em Genebra em 1 de Julho de 1949, comunicou ter o Governo de Portugal notificado, em 11 de Novembro de 1999, que a referida Convenção foi estendida ao território de Macau nos mesmos termos em que a ela está vinculado o Estado Português, à excepção da aplicação ao território dos anexos I e II à Convenção.
+Portugal é Parte da Convenção, que foi aprovada, para ratificação, pela Lei n.º 50/78, de 25 de Julho, publicada no Diário da República, 1.ª série, n.º 169, de 25 de Julho de 1978, e estendida a Macau pelo Decreto do Presidente da República n.º 217/99, de 9 de Novembro, publicado no Diário da República, 1.ª série-A, n.º 261, de 9 de Novembro de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 10 de Dezembro de 1999. - António Nunes de Carvalho Santana Carlos.
