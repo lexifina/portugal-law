@@ -1,0 +1,1203 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "110",
+    "id": "5550",
+    "titulo": "Revisão da legislação referente ao programa especial de realojamento nas áreas metropolitanas de Lisboa e do Porto (PER) e programas similares."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1996-05-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1406",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1996-05-15",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "5482",
+        "leg": "VII",
+        "nr": "30",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "180",
+            "obs": null,
+            "pag": [
+              "2277-2292"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1996-05-16",
+            "pubLeg": "VII",
+            "pubNr": "70",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2277?pgs=2277-2292&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Altera o decreto-lei n.º 163/93, de 7 de Maio (programa especial de realojamento nas áreas metropolitanas de Lisboa e do Porto)."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1996-05-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1217",
+                "nome": "Nuno Abecasis"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43863",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2291-2292"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2291?pgs=2291-2292&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43864",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2290-2290"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2290?pgs=2290&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1194",
+                "nome": "Lucília Ferra"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43865",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2290-2291"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2290?pgs=2290-2291&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43866",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2290-2290"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2290?pgs=2290&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1164",
+                "nome": "Miguel Coelho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43867",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2289-2289"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2289?pgs=2289&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1194",
+                "nome": "Lucília Ferra"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43868",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2287-2290"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2287?pgs=2287-2290&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1194",
+                "nome": "Lucília Ferra"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43869",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2287-2287"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2287?pgs=2287&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1159",
+                "nome": "Manuel Varges"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43870",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2286-2287"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2286?pgs=2286-2287&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "88",
+                "nome": "Macário Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43871",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2285-2286"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2285?pgs=2285-2286&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43872",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2285-2285"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2285?pgs=2285&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43873",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2285-2285"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2285?pgs=2285&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "281",
+                "nome": "Álvaro Amaro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43874",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2284-2285"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2284?pgs=2284-2285&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "324",
+                "nome": "Fernando Pedro Moutinho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43875",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2283-2284",
+                  "2287-2287"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2283?pgs=2283-2284,2287&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1163",
+                "nome": "Joaquim Raposo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43876",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2283-2283"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2283?pgs=2283&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43877",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2282-2283"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2282?pgs=2282-2283&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "281",
+                "nome": "Álvaro Amaro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43878",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2282-2282"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2282?pgs=2282&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43879",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2281-2282",
+                  "2289-2289"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2281?pgs=2281-2282,2289&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1154",
+                "nome": "Helena Roseta"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43880",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2281-2281"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2281?pgs=2281&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43881",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2280-2281"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2280?pgs=2280-2281&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1167",
+                "nome": "Natalina Tavares de Moura"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43882",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2279-2279"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2279?pgs=2279&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43883",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2277-2280"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2277?pgs=2277-2280&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO EQUIPAMENTO,  DO  PLANEAMENTO E DA  ADMINISTRAÇÃO DO TERRITÓRIO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Joao Cravinho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107611",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2280-2281"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2280?pgs=2280-2281&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO EQUIPAMENTO,  DO  PLANEAMENTO E DA  ADMINISTRAÇÃO DO TERRITÓRIO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Joao Cravinho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107612",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2285-2285"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-05-16",
+                "pubLeg": "VII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16/2285?pgs=2285&org=PLC"
+              }
+            ],
+            "sumario": "REALOJAMENTO: PROGRAMA ESPECIAL EM LISBOA E PORTO ",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "103793",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "110356",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-05-16",
+        "pubLeg": "VII",
+        "pubNr": "70",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/070/1996-05-16?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
