@@ -1,0 +1,850 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=WEUMi7%2fBtIIg%2fkHBDyZ%2fsil3BmWuButejMvPGkqNVyUfIJXddc1IDB3t8GXfBL3zSPQF%2bIyDi3AcWLUm0oL6crfUIOoirULFjyvRAul6J%2by6a6FDtpJuVrK3Y3rP8bCLGdxev%2bdUqQgc%2bXEDQI%2f8OLEsCv3IziG5WQHDSzFAl7qQApdhGho5obQdwDn6iwyWAFYt%2fzWn72d9GQ0G7zTxyKwsQjpKzhAqqYI6%2fCsSwtcK7MkwpbhLc%2bPOBViftzfwo0QY4%2b1hHCAUUDtd7wn2zRmIMG1aKMpZb8PUmWVGX9mCVPzhBcSom0%2boac5wXwR%2fcfo1uKTMHtBvk9eTSDfjfyy5P2leMqegA1xVPD5%2bIs%2bMWrsB8j6dH%2fUqNW7MrBr8&fich=PeticoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c7a8b036f2bb9420007f23598577186345f4c787fefe68382e6a1aac6e3b6ea3",
+  "legislatura": "VIII",
+  "id": "11177",
+  "numero": "74",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2001-09-24",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2003-03-26",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2002-05-08",
+        "DataArquivo": "2003-01-15",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2003-04-03",
+        "DataReaberta": "2002-05-08",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "106",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE ECONOMIA E FINANÇAS",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2002-05-21",
+            "gp": "PS",
+            "id": "1949",
+            "motivoCessacao": null,
+            "nome": "Maximiano Martins"
+          }
+        ],
+        "RelatorioFinal": [
+          "21598"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2003-01-15",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2003-03-26",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2003-02-13",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "111",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE AGRICULTURA, DESENVOLVIMENTO RURAL E PESCAS",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2002-05-14",
+            "gp": "PS",
+            "id": "197",
+            "motivoCessacao": null,
+            "nome": "Capoulas Santos"
+          }
+        ],
+        "RelatorioFinal": [
+          "21557"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2003-01-15",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "15",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE ECONOMIA, FINANÇAS E PLANO",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2002-01-15",
+        "DataArquivo": "2003-01-15",
+        "DataBaixaComissao": "2001-09-24",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2002-01-15",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2001-09-24",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c304e50545338784d554645556c41765247396a6457316c626e52766331426c64476c6a595738764f47457859324d354d7a4d745932466d597930304e54466a4c57466c4d5441744e54466a597a526b59546c684e7a45774c6e426b5a673d3d&fich=8a1cc933-cafc-451c-ae10-51cc4da9a710.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "33",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE AGRICULTURA, DESENVOLVIMENTO RURAL E PESCAS",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2002-01-15",
+            "gp": "PS",
+            "id": "1482",
+            "motivoCessacao": null,
+            "nome": "Gavino Paixão"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2003-04-09",
+    "Documentos": [
+      {
+        "DataDocumento": "2001-09-24",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379387a4e44686b4d5467355979316d4e7a4d314c5451304e7a4574596d557a4e7930795a544d35596a55324d32457a4d7a4d756347526d&fich=348d189c-f735-4471-be37-2e39b563a333.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145206",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4594-4594",
+                  "4596-4597"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4594?pgs=4594,4596-4597&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 74/VIII/3.ª - Apresentada pelo Senhor João Andrade Santos e outros, na qual solicitam a tomada de medidas de política que assegurem a concretização das potencialidades do Empreendimento de Fins Múltiplos do Alqueva",
+            "Teor": "Relatório da Comissão de Agricultura, Desenvolvimento Rural e Pescas"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145231",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4594-4594",
+                  "4599-4600"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4594?pgs=4594,4599-4600&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 74/VIII/3.ª - Apresentada pelo Senhor João Andrade Santos e outros, na qual solicitam a tomada de medidas de política que assegurem a concretização das potencialidades do Empreendimento de Fins Múltiplos do Alqueva",
+            "Teor": "Relatório da Comissão de Economia, Finanças e Plano"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145232",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4594-4595"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4594?pgs=4594-4595&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 74/VIII/3.ª - Apresentada pelo Senhor João Andrade Santos e outros, na qual solicitam a tomada de medidas de política que assegurem a concretização das potencialidades do Empreendimento de Fins Múltiplos do Alqueva",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145233",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4595-4595"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4595?pgs=4595&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 74/VIII/3.ª - Apresentada pelo Senhor João Andrade Santos e outros, na qual solicitam a tomada de medidas de política que assegurem a concretização das potencialidades do Empreendimento de Fins Múltiplos do Alqueva",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145234",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4597-4598"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4597?pgs=4597-4598&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 74/VIII/3.ª - Apresentada pelo Senhor João Andrade Santos e outros, na qual solicitam a tomada de medidas de política que assegurem a concretização das potencialidades do Empreendimento de Fins Múltiplos do Alqueva",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145235",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4598-4599"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4598?pgs=4598-4599&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 74/VIII/3.ª - Apresentada pelo Senhor João Andrade Santos e outros, na qual solicitam a tomada de medidas de política que assegurem a concretização das potencialidades do Empreendimento de Fins Múltiplos do Alqueva",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4599-4599"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4599?pgs=4599&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 74/VIII/3.ª - Apresentada pelo Senhor João Andrade Santos e outros, na qual solicitam a tomada de medidas de política que assegurem a concretização das potencialidades do Empreendimento de Fins Múltiplos do Alqueva",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145237",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4600-4600"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4600?pgs=4600&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 74/VIII/3.ª - Apresentada pelo Senhor João Andrade Santos e outros, na qual solicitam a tomada de medidas de política que assegurem a concretização das potencialidades do Empreendimento de Fins Múltiplos do Alqueva",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145238",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4601-4601"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4601?pgs=4601&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 74/VIII/3.ª - Apresentada pelo Senhor João Andrade Santos e outros, na qual solicitam a tomada de medidas de política que assegurem a concretização das potencialidades do Empreendimento de Fins Múltiplos do Alqueva",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145239",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4601-4601"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4601?pgs=4601&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 74/VIII/3.ª - Apresentada pelo Senhor João Andrade Santos e outros, na qual solicitam a tomada de medidas de política que assegurem a concretização das potencialidades do Empreendimento de Fins Múltiplos do Alqueva",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145240",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4601-4602"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4601?pgs=4601-4602&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 74/VIII/3.ª - Apresentada pelo Senhor João Andrade Santos e outros, na qual solicitam a tomada de medidas de política que assegurem a concretização das potencialidades do Empreendimento de Fins Múltiplos do Alqueva",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145241",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4602-4602"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4602?pgs=4602&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 74/VIII/3.ª - Apresentada pelo Senhor João Andrade Santos e outros, na qual solicitam a tomada de medidas de política que assegurem a concretização das potencialidades do Empreendimento de Fins Múltiplos do Alqueva",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11177",
+    "PetAssunto": "Solicitam a tomada de medidas de política que assegurem a concretização das potencialidades do Empreendimento de Fins Múltiplos do Alqueva.",
+    "PetDataEntrada": "2001-09-24",
+    "PeticoesAssociadas": null,
+    "PetId": "11177",
+    "PetLeg": "VIII",
+    "PetNr": "74",
+    "PetNrAssinaturas": "46000",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "136",
+        "obs": null,
+        "pag": [
+          "4594-4602"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-04-10",
+        "pubLeg": "IX",
+        "pubNr": "109",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4594?pgs=4594-4602&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "270848",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-05-25",
+        "pubLeg": "IX",
+        "pubNr": "5",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/005/2002-05-25?org=PLC"
+      }
+    ]
+  }
+}
