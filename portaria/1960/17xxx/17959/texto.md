@@ -1,0 +1,11 @@
+Portaria n.º 17959
+Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Previdência Social, que sejam aprovados, ao abrigo do artigo 1.º do Decreto-Lei n.º 42955, de 27 de Abril de 1960, as armas, o estandarte, a bandeira e o selo da Corporação da Pesca e Conservas, que têm a seguinte descrição:
+1) Armas. - De prata, três peixes de azul, de olhos, barbatanas e cauda de vermelho, postos em pala e colocados na posição 2-1. Elmo de prata, tauxiado de ouro e forrado de azul, colocado a três quartos. Virol e paquifes de prata e azul. Timbre: um navio antigo de prata realçado de negro, com dois mastros e velas de prata ferradas de vermelho e cordame de negro. Tudo disposto conforme à figura n.º 1 anexa a este diploma.
+2) Estandarte. - Dentro de um quadrado do esmalte predominante das figuras do brasão, as armas da Corporação nos seus esmaltes próprios; bordadura de prata ornamentada a ouro e azul. Cordões, borlas, franjas e passadeiras representados nos seus esmaltes, dispostos alternadamente segundo as regras da armaria. A haste, dourada, terá como remate o timbre das armas. Os acessórios da haste serão também dourados. Forma e proporções conforme ao modelo da figura n.º 2 anexa a este diploma.
+3) Bandeira. - Na forma e proporções da figura n.º 3 anexa a este diploma, é do esmalte do campo com as armas da Corporação na posição indicada na mesma figura. A bandeira de hastear é de filele com o número de panos proporcional à altura onde terá de ficar arvorada e à altura do mastro respectivo.
+4) Selo. - Dentro de listel circular, as armas da Corporação sem indicação dos esmaltes e com o nome do organismo inscrito no lintel, tudo ordenado conforme à figura n.º 4 anexa a este diploma.
+Ministério das Corporações e Previdência Social, 23 de Setembro de 1960. - O Ministro das Corporações e Previdência Social, Henrique Veiga de Macedo.
+
+Da Figura n.º 1 à Figura n.º 4
+(ver documento original)
+Ministério das Corporações e Previdência Social, 23 de Setembro de 1960. - O Ministro das Corporações e Previdência Social, Henrique Veiga de Macedo.
