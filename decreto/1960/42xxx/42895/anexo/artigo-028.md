@@ -1,0 +1,3 @@
+# Artigo 28.º
+
+Terra de protecção. - Circuito de terra a que são ligados todos os elementos condutores da instalação normalmente sem tensão ou com tensões não perigosas, mas sujeitos a uma passagem fortuita de corrente que provoque diferenças de potencial perigosas e não previstas entre esses elementos (solo incluído).Comentário. - O presente regulamento permite que, em instalações que satisfaçam a condições especificadas, a terra de protecção possa desempenhar as funções de terra de serviço de alta ou de baixa tensão ou até de ambas, simultâneamente (terra geral). Fora de tais condições todas estas terras serão distintas.
