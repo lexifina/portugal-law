@@ -6,4 +6,4 @@ Nas execuções por dívidas aos corpos administrativos servirão de juízes os 
 
 § 2.º Em casos devidamente justificados, pode o Ministro do Interior autorizar que os funcionários administrativos acumulem as funções dos seus cargos com as referidas no parágrafo anterior.
 
-§ 3.º Aos escrivães e oficiais de diligências que no final de cada trimestre se apure terem recebido de emolumentos importância total inferior a 600$00 e 300$00, respectivamente, ou, no caso de os lugares serem exercidos em regime de acumulação, 450$00 e 225$00, respectivamente, abonará a câmara as quantias necessárias para perfazer esses mínimos trimestrais.
+§ 3.º Aos escrivães e oficiais de diligências que no final de cada trimestre se apure terem recebido de emolumentos importância total inferior a 900$00 e 450$00, respectivamente, ou, no caso de os lugares serem exercidos em regime de acumulação, 650$00 e 350$00, respectivamente, abonará a câmara as quantias necessárias para perfazer esses mínimos trimestrais.

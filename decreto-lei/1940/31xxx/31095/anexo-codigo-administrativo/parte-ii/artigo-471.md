@@ -4,8 +4,6 @@
 
 # Artigo 471.º
 
-A promoção de uma para outra classe dentro dos quadros privativos faz-se mediante concurso realizado entre os funcionários com provimento definitivo no mesmo quadro e na classe inferior.
+A promoção à classe de escriturário-dactilógrafo de 1.ª classe faz-se mediante concurso entre os escriturários-dactilógrafos de 2.ª classe do mesmo quadro, com o mínimo de um ano de bom e efectivo serviço, e, no caso de se tratar de quadro de corpo administrativo, poderão ainda concorrer os propostos de tesoureiro e seus auxiliares que exerçam as funções com carácter de permanência, hajam sido providos com menos de 35 anos de idade, satisfaçam aos demais requisitos do artigo 460.º deste Código e tenham mais de dois anos de bom e efectivo serviço.
 
-§ 1.º Se nenhum dos candidatos obtiver aprovação, ou se o concurso ficar deserto, abrir-se-á novo concurso, a que poderão ser admitidos diplomados com um curso superior.
-
-§ 2.º Se o segundo concurso a que se refere o parágrafo antecedente ficar igualmente deserto, ou não der resultados positivos, abrir-se-á terceiro concurso, a que poderão concorrer funcionários de carteira de quaisquer quadros privativos.
+§ único. Se o concurso ficar deserto, nenhum dos candidatos obtiver aprovação ou o número de candidatos aprovados se revelar insuficiente para preencher as vagas que se verificarem dentro do prazo da respectiva validade, abrir-se-á novo concurso, a que poderão também candidatar-se funcionários nas condições do corpo deste artigo, mas pertencentes a outros quadros privativos das secretarias dos governos civis, administrações de bairro e corpos administrativos, bem como indivíduos estranhos aos quadros, com a habilitação do 2.º ciclo dos liceus ou equivalente.

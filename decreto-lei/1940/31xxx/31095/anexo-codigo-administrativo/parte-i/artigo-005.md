@@ -1,6 +1,6 @@
 # Artigo 5.º
 
-### Os distritos podem ser de 1.ª, 2.ª e 3.ª ordem.
+### Os distritos podem ser de 1.ª e 2.ª ordem.
 
 Os distritos podem ser de 1.ª, 2.ª e 3.ª ordem.
 

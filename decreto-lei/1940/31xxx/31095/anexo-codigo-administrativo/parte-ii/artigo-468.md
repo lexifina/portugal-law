@@ -1,7 +1,5 @@
 # Artigo 468.º
 
-Têm competência para fazer o provimento:
+§ 1.º Os candidatos aprovados poderão desistir do provimento na vaga para que sejam chamados, passando, nesse caso, para o último lugar da lista de classificação; a segunda desistência implica a perda dos direitos resultantes da aprovação no concurso.
 
-a) Das vagas dos quadros privativos dos governos civis e administrações dos bairros, o Ministro do Interior;
-
-b) Das vagas dos quadros privativos dos corpos administrativos, os respectivos corpos administrativos.
+§ 2.º A desistência deverá ser manifestada por escrito, mas, se o não for, resultará do facto de não serem apresentados os documentos a que se refere o § 3.º do artigo 460.º no prazo ali fixado.

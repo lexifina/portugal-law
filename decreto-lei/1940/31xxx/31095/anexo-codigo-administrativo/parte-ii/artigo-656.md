@@ -1,3 +1,3 @@
 # Artigo 656.º
 
-É aplicável ao pessoal menor, especializado e operário contratado e respectivos contratos o disposto nos artigos 626.º e 630.º e os seus ordenados são os constantes da tabela anexa a êste Código.
+Ao pessoal contratado do quadro do pessoal auxiliar, especializado e operário é aplicável, com as necessárias adaptações, o disposto nos artigos 625.º e 630.º

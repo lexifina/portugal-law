@@ -1,3 +1,3 @@
 # Artigo 661.º
 
-No assalariamento é permitido o mero ajuste verbal, quando não seja para lugares dos quadros, mas a remuneração será obrigatòriamente referida, em todos os casos, a cada dia útil de trabalho ou em relação a cada semana, considerando-se nesta hipótese como salário o cociente da divisão da retribuïção acordada pelo número de dias úteis.
+No assalariamento só é permitido o mero ajuste verbal para lugares que não pertençam aos quadros, e a remuneração será, nesses casos, obrigatòriamente referida a cada dia último de trabalho ou em relação a cada semana, considerando-se, nesta hipótese, como salário o quociente da divisão da retribuição acordada pelo número de dias úteis.
