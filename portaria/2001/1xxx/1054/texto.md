@@ -1,0 +1,62 @@
+Portaria n.º 1054/2001
+de 3 de Setembro
+Tendo em conta a legislação comunitária relativa ao regime de imposição suplementar no que diz respeito à criação de uma reserva nacional de quotas leiteiras, designadamente o disposto no artigo 5.º do Regulamento (CEE) n.º 3950/92, do Conselho, de 28 de Dezembro;
+Atendendo ainda à legislação nacional referente à aplicação do regime de imposição suplementar que se encontra estabelecida no Decreto-Lei n.º 80/2000, de 9 de Maio, e às regras de execução no que se refere à constituição e atribuição da reserva nacional, constantes da Portaria n.º 684/2000, de 30 de Agosto, cujo respectivo regime de candidatura e de distribuição da quota de referência (QR) da reserva nacional (RN) aí previsto se encontrava suspenso, nos termos do disposto na Portaria n.º 555/2001, de 1 de Junho;
+Por último, de acordo com a experiência entretanto adquirida com a aplicação da referida legislação num quadro de forte evolução da produção leiteira, interessa adequar e equilibrar, numa base regional, os mecanismos de captação e alocação das quantidades de referência disponíveis na reserva nacional face a uma realidade que se caracteriza pela necessidade de contenção da produção e de estabilidade do potencial produtivo regional.
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.
+Assim:
+Ao abrigo do disposto no n.º 1 do artigo 13.º do Decreto-Lei n.º 80/2000, de 9 de Maio, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º - 1 - A reserva nacional (RN), considerada quer para entregas quer para vendas directas, é constituída pela quantidade de referência (QR) obtida, nomeadamente através dos seguintes meios:
+a) Cessação da actividade;
+b) Transferência da QR, de acordo com o n.º 3 do artigo 13.º do Decreto-Lei n.º 80/2000, de 9 de Maio;
+c) Aumento da quantidade global garantida;
+d) Expropriação, de acordo com o n.º 3 do artigo 10.º do Decreto-Lei n.º 80/2000, de 9 de Maio.
+2 - Após constituição da RN, numa determinada campanha, de acordo com o disposto anteriormente, será retida uma quantidade igual a 3% da mesma, para eventuais correcções.
+3 - Caso não existam, para a campanha em causa, correcções que justifiquem a manutenção da quantidade retida ou esta tenha sido utilizada parcialmente, as quantidades remanescentes serão integradas na RN a atribuir na campanha seguinte.
+2.º - 1 - Serão aplicadas as seguintes retenções a favor da RN aquando da transferência de QR:
+a) 5% da QR transferida nos casos de transmissão de uma exploração, a título gratuito ou oneroso, e ou de uma cessação contratual total ou parcial da mesma;
+b) 7,5% da QR transferida nos casos de transferência definitiva de QR sem transmissão da exploração.
+2 - As retenções previstas no número anterior não são aplicáveis quando as transferências de QR tenham por destino:
+Descendentes e ascendentes em 1.º grau e irmãos;
+Cônjuge ou equiparado;
+Constituição de sociedades em que o produtor detenha pelo menos 50% do capital social;
+Constituição de sociedades de agricultura de grupo em que seja afecta a totalidade da QR do produtor.
+3.º - 1 - Uma quantidade igual a 75% das contribuições de QR para a RN, referidas no n.º 1.º, originadas numa determinada área geográfica e numa determinada campanha, será preferencialmente atribuída, na campanha seguinte, às candidaturas dos produtores cuja exploração leiteira se situe na área geográfica da direcção regional de agricultura (DRA) onde foi gerada essa contribuição.
+2 - Na Região Autónoma dos Açores uma quantidade igual a 75% das contribuições de QR para a RN provenientes dos seus produtores, numa determinada campanha, será atribuída preferencialmente, na campanha seguinte, às candidaturas da respectiva Região.
+3 - A QR disponível na RN, após a aplicação do disposto nos números anteriores, será distribuída proporcionalmente às quantidades produzidas na campanha anterior na Região Autónoma dos Açores e nas DRA do continente, calculadas separadamente no que diz respeito a entregas e a vendas directas.
+4 - Após a repartição regional definida nos números anteriores, a atribuição individual das QR deverá respeitar os critérios definidos no n.º 4.º para as candidaturas de produtores sediados nas DRA do continente e os critérios a definir regionalmente no caso dos produtores da Região Autónoma dos Açores.
+4.º - 1 - Sem prejuízo do disposto no n.º 3.º, a atribuição da QR disponível na RN será realizada de acordo com os critérios abaixo indicados, estando limitada a atribuição de QR por produtor a 100000 kg:
+a) Produtores com uma QR inicial anterior à candidatura inferior a 60000 kg e que proponha atingir uma QR após candidatura igual ou superior a 60000 kg - 2 pontos;
+b) Produtores que não tenham recebido QR da RN nos últimos três anos - 2 pontos;
+c) Produtores que não tenham transferido parte da sua QR nos últimos três anos - 2 pontos;
+d) Produtores ou cessionários de uma exploração com uma produção de pelo menos 85% da respectiva QR na última campanha - 2 pontos;
+e) Jovem agricultor em primeira instalação ou instalado há menos de cinco anos - 1 ponto;
+f) Jovem agricultor - 1 ponto;
+g) Exploração pertencente a uma zona desfavorecida - 1 ponto.
+2 - Para efeitos da ordenação dos candidatos, serão aplicados os critérios previstos no número anterior de forma cumulativa, sendo que cada candidatura é ponderada de acordo com o somatório de pontos atribuídos e as que obtenham pontuação mais elevada são prioritárias no acesso às QR disponíveis na RN.
+3 - Se, após a aplicação do número anterior, subsistirem situações de empate, serão consideradas prioritárias, pela seguinte ordem preferencial, as candidaturas em que:
+a) Os produtores solicitem menores aumentos de QR;
+b) Os produtores detenham menor QR.
+4 - Se ainda assim subsistirem situações de empate, proceder-se-á ao rateio das quantidades em questão com uma atribuição mínima, por candidato, de 1000 kg.
+5.º - 1 - As candidaturas à atribuição de uma QR ao abrigo da RN devem ser formalizadas junto das DRA entre o dia 1 de Abril e o dia 30 de Junho de cada campanha, sendo o prazo para a campanha de 2001-2002 alargado até ao dia 4 de Outubro de 2001.
+2 - Os produtores que apresentaram as suas candidaturas em data anterior à entrada em vigor da Portaria n.º 555/2001, de 1 de Junho, deverão proceder à apresentação de novas candidaturas, dentro do prazo fixado no número anterior.
+3 - Para efeitos da formalização das candidaturas, observar-se-ão os seguintes termos:
+a) O INGA fornecerá impresso próprio em que o pedido será elaborado, devendo o mesmo ser acompanhado do comprovativo de compra por parte do comprador relativamente ao nível de produção que o produtor pretende atingir, para o caso das entregas e da respectiva licença sanitária, no caso das vendas directas;
+b) As DRA remeterão mensalmente ao INGA uma listagem das candidaturas recebidas no mês anterior, juntamente com os respectivos impressos de candidatura, sendo que, para a campanha de 2001-2002 é fixado o dia 31 de Outubro de 2001 como data-limite para o envio das candidaturas;
+c) O INGA procederá à análise e atribuição de QR de acordo com os critérios previstos, até ao final do ano de formalização das candidaturas, informando directamente o interessado, bem como o comprador no caso das entregas, sendo que para a campanha de 2001-2002 o prazo limite para a atribuição da QR é ampliado para 31 de Janeiro de 2002;
+d) No âmbito da alínea anterior e para efeitos de emissão de parecer final sobre a candidatura, o INGA poderá exigir ao produtor a apresentação de justificativos relativamente às quantidades solicitadas.
+4 - Para efeitos da aplicação do regime previsto no presente diploma, a competência atribuída ao INGA nos números anteriores será exercida na Região Autónoma dos Açores pelo Instituto da Alimentação e Mercados Agrícolas (IAMA).
+5 - O IAMA remeterá ao INGA todas as informações relativas à atribuição de QR da RN aos produtores da Região Autónoma dos Açores, no prazo de 30 dias a contar da data da respectiva atribuição.
+6.º Na campanha correspondente à atribuição de uma QR no âmbito de uma candidatura à RN e nas duas campanhas seguintes, a QR atribuída não será considerada para efeitos da aplicação do regime geral das subutilizações descrito no n.º 3 do artigo 13.º do Decreto-Lei n.º 80/2000, de 9 de Maio.
+7.º Ficam excluídas do acesso à RN candidaturas em que se verifique alguma das seguintes situações:
+a) Candidatos que tenham beneficiado de resgate de quota leiteira;
+b) O somatório da QR inicial mais a QR da candidatura seja inferior a 40000 kg ou superior a 750000 kg;
+c) Produtores que tenham transferido, definitiva ou temporariamente, a totalidade da sua QR, sem que se tenha processado a transmissão da exploração nos últimos três anos;
+d) Produtores que não tenham destino para a totalidade da sua produção, designadamente um comprador no caso das entregas ou instalações para tratamento ou produção de produtos lácteos, devidamente licenciadas, no caso das vendas directas;
+e) Produtores que não tenham o seu efectivo inscrito no Sistema Nacional de Identificação e Registo de Bovinos (SNIRB), excepto nas primeiras instalações;
+f) Explorações localizadas em zonas vulneráveis do ponto de vista ambiental, conforme definida pelo artigo 4.º do Decreto-Lei n.º 235/97, de 3 de Setembro, à excepção dos processos acompanhados de parecer favorável da respectiva DRA, para produtores já instalados e apenas até ao quantitativo igual às entregas e ou vendas directas registadas em 1999-2000;
+g) Produtores da Região Autónoma da Madeira, enquanto o nível da produção regional se mantiver isento do regime de imposição suplementar, nos termos do n.º 3 do artigo 15.º do Regulamento (CE) n.º 1453/2001, do Conselho, de 28 de Junho.
+8.º O disposto na alínea b) do n.º 7.º não se aplica às candidaturas dos produtores da Região Autónoma dos Açores.
+9.º É revogada a Portaria n.º 684/2000, de 30 de Agosto.
+10.º O presente diploma entra em vigor a partir da data da sua publicação.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado da Agricultura, em 20 de Agosto de 2001.
