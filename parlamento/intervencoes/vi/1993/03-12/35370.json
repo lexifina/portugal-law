@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=rKtwshDyv1NBeu65K82ef9j6oFE3w%2fgAbqyUhooMpoSyQQ0pTyzibfD50gH%2baGhs1TrcG1r0l2bU1A0KAmFXPBoWqi6NY9nsxTw%2fxAs2r347ke8O86pD8UW0Vo24i8zPmfcPKM5y3XEB99eQAf1Ojm%2bemILgruHhJl9u7yVaplGsWPI0o%2bZUTUUBCanSa5007dUY7uakZ2EgL138SciEtNOWsIyqy66pG5Eu5crXojP8szj276fRrDhZdP6MEXFhdUelamzN3e1Rpwl8sPVmxdyANoDqpCtvpC0PXNmoyGF02wzb13ACPnwjTtn%2bPiN%2b1oG5E%2bkfl50yDwrf9Q4ck3XnT7zfIqh68Ee0O7Ap66U%3d&fich=IntervencoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "09dcb463dee20c5105fb36bc1a4e2274ee28613bb7bd19e9b953a0ed8eb5faf8",
+  "legislatura": "VI",
+  "id": "35370",
+  "tipo": "Intervenção",
+  "orador": "António Lobo Xavier (CDS-PP)",
+  "data_registo": "1993-03-12",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "162460",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "20340",
+        "tipo": "INI",
+        "titulo": "Inquérito Parlamentar - Sobre a extensão, natureza e implicações das irregularidades e operações de traficância política na gestão, pelo Governo e pela Administração Pública, de subsídios provenientes de fundos comunitários e outras verbas públicas destinadas à reconversão e modernização da agricultura portuguesa, bem como à intervenção nos mercados agrícolas."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1993-03-12",
+    "Debate": "INQ PARLAM 10-PS",
+    "Deputados": {
+      "GP": "CDS-PP",
+      "idCadastro": "613",
+      "nome": "António Lobo Xavier"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "35370",
+    "IdDebate": "3079",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação",
+        "id": "20340",
+        "tipo": "Inquérito Parlamentar"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "35370",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1717-1718"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-03-13",
+        "pubLeg": "VI",
+        "pubNr": "48",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/048/1993-03-13/1717?pgs=1717-1718&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "2",
+    "Sumario": "SUBSIDIOS PROVENIENTES DE FUNDOS COMUNITARIOS DESTINADOS ARECONVERSAO E MODERNIZACAO DA AGRICULTURA",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
