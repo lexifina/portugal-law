@@ -2,7 +2,7 @@
 
 ### (Cálculo da subvenção mensal vitalícia)
 
-1 - A subvenção mensal vitalícia referida no n.º 1 do artigo anterior é calculada à razão de 4% do vencimento base por ano de exercício, correspondente à data da cessação de funções em regime de exclusividade, até ao limite de 80%.
+1 - A subvenção mensal vitalícia referida no n.º 1 do artigo anterior é calculada à razão de 4% do vencimento base correspondente à data da cessação de funções do cargo em cujo desempenho o seu titular mais tempo tiver permanecido, por ano de exercício, até ao limite de 80%.
 
 2 - Quando o beneficiário da subvenção perfaça 60 anos de idade ou se encontre incapacitado, a percentagem referida no número anterior passará a ser de 8%.
 

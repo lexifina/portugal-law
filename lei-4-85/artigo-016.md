@@ -16,4 +16,4 @@
 
 5 - Os presidentes das comissões parlamentares permanentes e os vice-secretários da Mesa têm direito a um abono mensal para despesas de representação no montante de 15% do respectivo vencimento.
 
-6 - Os restantes deputados não referidos nos números anteriores têm direito a um abono mensal para despesas de representação no montante de 10% do respectivo vencimento, desde que desempenhem o respectivo mandato em regime de dedicação exclusiva.
+6 - Os restantes Deputados não referidos nos números anteriores têm direito a um abono mensal para despesas de representação no montante de 10% do respectivo vencimento, desde que declarem no registo de interesses que não exercem regularmente qualquer actividade económica, remunerada ou de natureza liberal.

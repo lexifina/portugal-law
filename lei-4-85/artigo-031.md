@@ -6,7 +6,7 @@
 
 ### (Subsídio de reintegração)
 
-1 - Aos titulares de cargos políticos em regime de exclusividade que não tiverem completado 12 anos de exercício das funções referidas no n.º 1 do artigo 24.º é atribuído um subsídio de reintegração, durante tantos meses quanto os semestres em que tiverem exercido esses cargos, de montante igual ao vencimento mensal do cargo à data da cessação de funções.
+1 - Aos titulares de cargos políticos que não tiverem completado 12 anos de exercício das funções referidas no n.º 1 do artigo 24.º é atribuído um subsídio de reintegração, durante tantos meses quantos os semestres em que tiverem exercido esses cargos, de montante igual ao vencimento mensal do cargo à data da cessação de funções.
 
 2 - O subsídio de reintegração previsto no n.º 1 só é processável a partir de 90 dias a contar da data da cessação de funções, e deixará de ser devido se entretanto o respectivo titular reassumir a função ou o cargo que tiver estado na base do correspondente direito, ou for designado para qualquer dos cargos referidos nos n.os 2 e 3 do artigo 26.º
 

@@ -25,3 +25,5 @@ d) Os ministros da República para as regiões autónomas;
 e) Os membros do Conselho de Estado.
 
 f) Governador e secretários adjuntos de Macau.
+
+3 - São equiparados a titulares de cargos políticos para efeitos da presente lei os juízes do tribunal Constitucional.
