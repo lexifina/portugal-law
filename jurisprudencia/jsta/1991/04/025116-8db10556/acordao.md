@@ -1,0 +1,55 @@
+# Acórdão do Supremo Tribunal Administrativo de 1991-04-30, processo 025116
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 025116
+
+**Data do Acordão:** 04/30/1991
+
+**Tribunal:** 2 SUBSECÇÃO DO CA
+
+**Relator:** FERREIRA DE ALMEIDA
+
+**Descritores:** EMPREITADA DE OBRAS PÚBLICAS; REVISÃO DE PREÇOS; CONTA DA EMPREITADA; ACEITAÇÃO; NOTIFICAÇÃO POR CARTA REGISTADA COM AVISO DE RECEPÇÃO; RECLAMAÇÃO
+
+**Nº Convencional:** JSTA00031863
+
+**Nº do Documento:** SA119910430025116
+
+**Data de Entrada:** 06/23/1987
+
+**Recorrente:** NASCIMENTO , JOSE
+
+**Recorrido 1:** CM DE SOBRAL DE MONTE AGRAÇO
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 91
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAC LISBOA.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR ADM CONT - CONTRATO.
+
+**Legislação Nacional:** DL 48871 DE 1969/02/19 ART31 ART173 ART176 ART192 ART194 ART195 A B C ART196 ART201.; DL 235/86 DE 1986/08/18 ART175 ART197 ART199.; CPC67 ART753 N1.
+
+**Jurisprudência Nacional:** AC STA PROC20693 DE 1990/12/13.
+
+**Referência a Doutrina:** MARCELLO CAETANO MANUAL DE DIREITO ADMINISTRATIVO TII 9ED PAG986.; MANUEL DE ANDRADE TEORIA GERAL DA RELAÇÃO JURÍDICA VII PAG138.; ESTEVES DE OLIVEIRA DIREITO ADMINISTRATIVO VI PAG519.; SÉRVULO CORREIA NOÇÕES DE DIREITO ADMINISTRATIVO VI PAG386.; Texto Integral
+
+## Sumário
+
+I - A conta final de empreitada - art. 195 do D. Lei 48 871 de 19-2-69 - constitui um registo final aposteriorístico da execução desse contrato, nela devendo ser incluídos os valores relativos à revisão de preços.
+
+II - Os ns. 3 e 4 do art. 196 do Dec-Lei n. 48 871 comtemplam situações de declaração de vontade ficta da aceitação da conta na falta de reclamação desta no prazo de 30 dias.
+
+III - O n. 1 do art. 196 do Dec-Lei citado institui uma formalidade essencial do processo gracioso da execução da empreitada - notificação da conta com entrega de cópia ao empreiteiro por carta registada com A/R, para que este, no prazo de 30 dias, a assine ou dela reclame.
+
+IV - A omissão dessa formalidade não pode ser suprida pelo acto de recebimento da quantia liquidada ou pela assinatura do auto de recepção definitiva da obra.
+
+V - Na ausência da notificação em forma legal não se inicia o prazo de contagem para a reclamação pelo que não tem lugar a declaração de vontade ficta ou presumida aludida em II.
