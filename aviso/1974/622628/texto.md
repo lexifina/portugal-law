@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Secretariado-Geral da Organização das Nações Unidas, o Governo da Suécia depositou, em 19 de Março de 1974, o seu instrumento de ratificação da Convenção de Viena sobre relações consulares, adoptado em 24 de Abril de 1963, com a seguinte reserva:
+Com respeito ao parágrafo 1 dos artigos 35.º e 58.º, a Suécia não concede aos postos consulares dirigidos por um funcionário consular honorário o direito de utilizar os correios diplomáticos ou consulares e a mala diplomática ou consular; não concede igualmente aos governos, missões diplomáticas e outros postos consulares o direito de utilizar estes meios para comunicação com os postos consulares dirigidos por um funcionário consular honorário, com excepção dos casos particulares em que a Suécia o possa ter consentido.
+Direcção-Geral dos Serviços Centrais, 15 de Maio de 1974. - O Director-Geral, Humberto Alves Morgado.
