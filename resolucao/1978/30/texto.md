@@ -1,0 +1,13 @@
+Resolução n.º 30/78
+De entre as rubricas de custo que determinam a formação dos preços revestem-se de particular relevância as referentes às remunerações salariais.
+Têm sido progressivamente introduzidos critérios de apreciação das estruturas de custos que permitem um mais uniforme contrôle da evolução dos preços por parte dos serviços competentes.
+Constitui preocupação do Governo assegurar a execução corrente de uma política anti-inflacionista global na qual se definam claramente as condições de admissibilidade das variações dos preços ao abrigo da legislação aplicável.
+Assim:
+Considerando que se não justifica que os preços ao consumidor reflictam os custos resultantes da imposição do pagamento de retroactivos salariais, muitas vezes motivados pela dilação dos processos de negociação salarial;
+Considerando que os serviços a quem cabe a execução da legislação sobre fixação e contrôle de preços necessitam de orientação concreta no que respeita ao tratamento a dar à componente salarial das estruturas de custo que servem de base à definição dos preços;
+Considerando a necessidade de articular devidamente a política salarial com os seus efeitos sobre a política de preços, evitando nomeadamente que certo tipo de regalias sectoriais ou empresariais sejam suportadas, sem vantagem, pelo consumidor:
+O Conselho de Ministros, reunido em 22 de Fevereiro de 1978, resolveu:
+1 - Não se deverão considerar como componentes de custo para efeitos de formação dos preços dos produtos ou empresas abrangidos pelo estabelecido nos Decretos-Leis n.os 329-A/74 e 75-Q/77 as remunerações salariais impostas com efeitos retroactivos por período superior a três meses que sejam estabelecidas por via contratual.
+2 - Não serão igualmente considerados como componentes de custo para efeitos de formação do preço dos produtos e empresas referidos em 1 os aumentos das remunerações salariais que excedam os determinados por via contratual ou administrativa.
+3 - Para efeitos do disposto no n.º 2 em relação àquelas empresas que presentemente pratiquem níveis salariais superiores aos que se encontram definidos por via contratual ou administrativa tomar-se-ão integralmente como componentes do custo, para efeitos de determinação dos preços, as remunerações salariais pagas a esta data. Contudo, não serão tomadas em consideração quaisquer aumentos de custos que resultem de níveis salariais superiores aos que vierem a ser definidos por via contratual ou administrativa para os sectores de actividade em que se inserem.
+Presidência do Conselho de Ministros, 22 de Fevereiro de 1978. - O Primeiro-Ministro, Mário Soares.
