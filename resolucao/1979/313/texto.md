@@ -1,0 +1,4 @@
+Resolução n.º 313/79
+Considerando que a Resolução do Conselho de Ministros n.º 79/79, publicada no Diário da República, 1.ª série, n.º 68, de 22 de Março de 1979, determinou a cessação da intervenção do Estado na Empresa de O Comércio do Porto, S. A. R. L., sem que todavia se fizesse acompanhar da fixação de medidas de saneamento económico-financeiro da Empresa, o Conselho de Ministros, reunido em 17 de Outubro de 1979, resolveu:
+Conceder um prazo de quarenta e cinco dias, a contar da data da publicação da presente resolução, para que a administração da Empresa de O Comércio do Porto, S. A. R. L., apresente à instituição bancária maior credora os elementos necessários à celebração de um contrato de viabilização, nos termos do Decreto-Lei n.º 124/77 e demais legislação subsequente.
+Presidência do Conselho de Ministros, 17 de Outubro de 1979. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo.
