@@ -1,0 +1,4 @@
+Aviso n.º 279/98
+Por ordem superior se torna público que Portugal depositou, em 5 de Agosto de 1998, na sede do Conselho da Europa, em Estrasburgo, o instrumento de ratificação da Convenção Europeia para a Protecção do Património Arqueológico (revista).
+A referida Convenção foi aberta à assinatura em La Valette, em 16 de Janeiro de 1992, e assinada por Portugal no mesmo dia, aprovada para ratificação pela Resolução da Assembleia da República n.º 71/97, publicada no Diário da República 1.ª série-A, n.º 289, de 16 de Dezembro de 1997, e ratificada pelo Decreto do Presidente da República n.º 74/97, publicado no Diário da República, 1.ª série-A, n.º 289, de 16 de Dezembro de 1997.
+Direcção-Geral dos Assuntos Multilaterais, 19 de Novembro de 1998. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
