@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação da Embaixada da Suíça em Lisboa, o Governo da República de Cuba depositou junto do Governo Suíço, em 24 de Julho de 1964, o instrumento de adesão ao Acordo de Madrid relativo à repressão das indicações de origem falsas ou falaciosas, de 14 de Abril de 1891, revisto, em Washington, em 2 de Junho de 1911, na Haia, em 6 de Novembro de 1925, em Londres, em 2 de Junho de 1934 e, em Lisboa, em 31 de Outubro de 1958.
+De acordo com o artigo 16.º da Convenção de Paris para protecção da propriedade industrial, para a qual remete a alínea 2 do artigo 6.º daquele Acordo, a referida adesão teve efeito em 11 de Outubro de 1964.
+Direcção-Geral dos Negócios Económicos e Consulares, 31 de Outubro de 1964. - O Director-Geral, José Tomás Cabral Calvet de Magalhães.
