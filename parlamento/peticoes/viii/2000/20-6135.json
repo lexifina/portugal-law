@@ -1,0 +1,458 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=WEUMi7%2fBtIIg%2fkHBDyZ%2fsil3BmWuButejMvPGkqNVyUfIJXddc1IDB3t8GXfBL3zSPQF%2bIyDi3AcWLUm0oL6crfUIOoirULFjyvRAul6J%2by6a6FDtpJuVrK3Y3rP8bCLGdxev%2bdUqQgc%2bXEDQI%2f8OLEsCv3IziG5WQHDSzFAl7qQApdhGho5obQdwDn6iwyWAFYt%2fzWn72d9GQ0G7zTxyKwsQjpKzhAqqYI6%2fCsSwtcK7MkwpbhLc%2bPOBViftzfwo0QY4%2b1hHCAUUDtd7wn2zRmIMG1aKMpZb8PUmWVGX9mCVPzhBcSom0%2boac5wXwR%2fcfo1uKTMHtBvk9eTSDfjfyy5P2leMqegA1xVPD5%2bIs%2bMWrsB8j6dH%2fUqNW7MrBr8&fich=PeticoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c7a8b036f2bb9420007f23598577186345f4c787fefe68382e6a1aac6e3b6ea3",
+  "legislatura": "VIII",
+  "id": "6135",
+  "numero": "20",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2000-03-01",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2000-07-03",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2000-07-05",
+        "DataArquivo": "2000-07-03",
+        "DataBaixaComissao": "2000-07-05",
+        "DataEnvioPAR": "2000-09-21",
+        "DataReaberta": "2000-07-05",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2000-03-01",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c304e505453383252564d765247396a6457316c626e52766331426c64476c6a59573876595745774e4756694d6a59744f5449325a5330304f446b324c546777597a55744f5459324e474a684e474e685a4749354c6e426b5a673d3d&fich=aa04eb26-926e-4896-80c5-9664ba4cadb9.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "18",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE EQUIPAMENTO SOCIAL",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2000-07-05",
+            "gp": "CDS-PP",
+            "id": "228",
+            "motivoCessacao": null,
+            "nome": "Manuel Queiró"
+          }
+        ],
+        "RelatorioFinal": [
+          "13561"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2000-11-30",
+    "Documentos": [
+      {
+        "DataDocumento": "2000-03-01",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793834595751794e7a6333597930774f575a6c4c54517a4d6d5174596d4d354d693032596a4d774e6a55794e7a55344d6d59756347526d&fich=8ad2777c-09fe-432d-bc92-6b306527582f.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2000-12-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137020",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1016-1017"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-02",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/026/2000-12-02/1016?pgs=1016-1017&org=PLC"
+              }
+            ],
+            "Sumario": "PROTESTAM A ANUNCIADA INTENÇÃO DA ADMINISTRAÇÃO DA CARRIS EM DESACTIVAR A CARREIRA DE ELÉCTRICOS Nº18-AJUDA",
+            "Teor": "Encontra-se no fim deste DAR uma declaração da Carris, enviada á mesa pelo Secretário de Estado dos Assuntos Parlamentares (José Magalhães)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2000-12-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137021",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1017-1017"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-02",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/026/2000-12-02/1017?pgs=1017&org=PLC"
+              }
+            ],
+            "Sumario": "PROTESTAM A ANUNCIADA INTENÇÃO DA ADMINISTRAÇÃO DA CARRIS EM DESACTIVAR A CARREIRA DE ELÉCTRICOS Nº18-AJUDA",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2000-12-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137022",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1017-1018"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-02",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/026/2000-12-02/1017?pgs=1017-1018&org=PLC"
+              }
+            ],
+            "Sumario": "PROTESTAM A ANUNCIADA INTENÇÃO DA ADMINISTRAÇÃO DA CARRIS EM DESACTIVAR A CARREIRA DE ELÉCTRICOS Nº18-AJUDA",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2000-12-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137023",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1018-1019"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-02",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/026/2000-12-02/1018?pgs=1018-1019&org=PLC"
+              }
+            ],
+            "Sumario": "PROTESTAM A ANUNCIADA INTENÇÃO DA ADMINISTRAÇÃO DA CARRIS EM DESACTIVAR A CARREIRA DE ELÉCTRICOS Nº18-AJUDA",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2000-12-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137024",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1019-1019"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-02",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/026/2000-12-02/1019?pgs=1019&org=PLC"
+              }
+            ],
+            "Sumario": "PROTESTAM A ANUNCIADA INTENÇÃO DA ADMINISTRAÇÃO DA CARRIS EM DESACTIVAR A CARREIRA DE ELÉCTRICOS Nº18-AJUDA",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2000-12-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137025",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1020-1020"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-02",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/026/2000-12-02/1020?pgs=1020&org=PLC"
+              }
+            ],
+            "Sumario": "PROTESTAM A ANUNCIADA INTENÇÃO DA ADMINISTRAÇÃO DA CARRIS EM DESACTIVAR A CARREIRA DE ELÉCTRICOS Nº18-AJUDA",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2000-12-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "José Magalhães"
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137026",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1020-1021"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-02",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/026/2000-12-02/1020?pgs=1020-1021&org=PLC"
+              }
+            ],
+            "Sumario": "PROTESTAM A ANUNCIADA INTENÇÃO DA ADMINISTRAÇÃO DA CARRIS EM DESACTIVAR A CARREIRA DE ELÉCTRICOS Nº18-AJUDA",
+            "Teor": "Entregou na mesa uma declaração da Carris, publicada no final deste DAR"
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "6135",
+    "PetAssunto": "Protestam a anunciada intenção da administração da Carris em desactivar a carreira de eléctricos nº18 - Ajuda.",
+    "PetDataEntrada": "2000-03-01",
+    "PeticoesAssociadas": null,
+    "PetId": "6135",
+    "PetLeg": "VIII",
+    "PetNr": "20",
+    "PetNrAssinaturas": "1856",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "ESTA PETIÇÃO NÃO TEM NUMERO DE ASSINATURAS PARA SUBIR A PLENÁRIO MAS A COMISSÃO DECIDIU QUE DEVIA DE IR A PLENÁRIO.",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "67",
+        "obs": null,
+        "pag": [
+          "1016-1021"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-12-02",
+        "pubLeg": "VIII",
+        "pubNr": "26",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/026/2000-12-02/1016?pgs=1016-1021&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
