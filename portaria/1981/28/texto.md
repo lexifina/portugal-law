@@ -1,0 +1,8 @@
+Portaria n.º 29/81
+de 13 de Janeiro
+A Junta de Freguesia de Ulme vem solicitar a desanexação de uma parcela de terreno com 30400 m2, destinado ao campo de futebol da povoação de Ulme, no prédio rústico Vale do Junco, sito na freguesia de Ulme, concelho da Chamusca, inscrito na respectiva matriz sob o artigo 1 das secções I e II, o qual foi expropriado pela Portaria n.º 32/76, de 26 de Janeiro.
+Ouvida a Direcção-Geral de Hidráulica e Engenharia Agrícola, esta é de parecer que os terrenos em causa têm capacidade de uso não defendida pelo Decreto-Lei n.º 308/79, de 20 de Agosto.
+Assim:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Agricultura e Pescas, que, ao abrigo do disposto no artigo 40.º da Lei n.º 77/77, de 29 de Setembro, seja desanexada, e transmitido o seu domínio a favor da Junta de Freguesia de Ulme para fins de utilidade pública, a área descrita na planta anexa, com 30400 m2, localizada na parcela n.º 57 do prédio rústico Vale do Junco, artigo 1, secção I, da freguesia de Ulme, do concelho da Chamusca, ao quilómetro 54 da estrada nacional n.º 243, confrontando a norte, sul e nascente com o prédio Casal do Junco e a poente com a estrada nacional n.º 243.
+A Junta de Freguesia de Ulme entregará oportunamente nos cofres do Tesouro uma importância proporcional à indemnização definitiva a pagar pelo Estado pela expropriação do prédio rústico denominado Vale do Junco, tendo em conta a área expropriada e a parte que por esta portaria lhe é transmitida.
+Ministérios das Finanças e do Plano e da Agricultura e Pescas, 23 de Dezembro de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.
