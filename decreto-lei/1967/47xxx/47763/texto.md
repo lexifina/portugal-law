@@ -1,0 +1,8 @@
+Decreto-Lei n.º 47763
+Atendendo a que a actual redacção do artigo 7.º do Decreto-Lei n.º 42978 não satisfaz inteiramente ao estipulado no artigo 8.º da Convenção n.º 68 da Organização Internacional do Trabalho, o qual foi integrado em direito interno pelo Decreto-Lei n.º 42978, de 14 de Maio de 1960;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. O artigo 7.º do Decreto-Lei n.º 42978, de 14 de Maio de 1960, passa a ter a seguinte redacção:
+Art. 7.º Sempre que haja queixa formulada pelo Grémio dos Armadores, pela União dos Sindicatos de Oficiais, Mestrança e Marinhagem da Navegação ou por membros da tripulação em número nunca inferior a 10 por cento da lotação, deve a autoridade marítima determinar uma inspecção extraordinária.
+§ único. Só serão consideradas as queixas que dêem entrada na repartição marítima pelo menos 24 horas antes da hora fixada para a partida do navio.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 24 de Junho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
