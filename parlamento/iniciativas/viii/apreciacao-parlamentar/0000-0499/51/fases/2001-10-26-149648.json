@@ -1,0 +1,725 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "51",
+    "id": "18734",
+    "titulo": "Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"altera os Decretos-Leis n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Leis n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2001-10-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2070",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2001-10-26",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "18744",
+        "leg": "VIII",
+        "nr": "52",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "611",
+            "obs": null,
+            "pag": [
+              "616-629"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-10-27",
+            "pubLeg": "VIII",
+            "pubNr": "18",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/616?pgs=616-629&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "A",
+        "titulo": "Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"Altera os Decretos-lei n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Lei n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho\".,"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-10-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "67",
+                "nome": "João Maçãs"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139646",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "616-617"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/616?pgs=616-617&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"altera os Decretos-Leis n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Leis n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho; Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"Altera os Decretos-lei n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Lei n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho\".,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1719",
+                "nome": "Rosado Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139647",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "617-618"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/617?pgs=617-618&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"altera os Decretos-Leis n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Leis n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho; Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"Altera os Decretos-lei n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Lei n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho\".,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "208",
+                "nome": "Agostinho Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139648",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "618-620"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/618?pgs=618-620&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"altera os Decretos-Leis n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Leis n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho; Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"Altera os Decretos-lei n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Lei n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho\".,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139649",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "620-620"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/620?pgs=620&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"altera os Decretos-Leis n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Leis n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho; Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"Altera os Decretos-lei n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Lei n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho\".,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "José Magalhães"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139650",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "620-620"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/620?pgs=620&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"altera os Decretos-Leis n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Leis n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho; Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"Altera os Decretos-lei n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Lei n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho\".,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139651",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "620-621"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/620?pgs=620-621&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"altera os Decretos-Leis n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Leis n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho; Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"Altera os Decretos-lei n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Lei n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho\".,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1212",
+                "nome": "Ana Catarina Mendonça"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139652",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "621-622"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/621?pgs=621-622&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"altera os Decretos-Leis n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Leis n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho; Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"Altera os Decretos-lei n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Lei n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho\".,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "149",
+                "nome": "António Martinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139653",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "622-624"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/622?pgs=622-624&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"altera os Decretos-Leis n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Leis n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho; Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"Altera os Decretos-lei n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Lei n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho\".,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADMINISTRA. INTERNA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Pereira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139654",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "624-629"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/624?pgs=624-629&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"altera os Decretos-Leis n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Leis n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho; Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"Altera os Decretos-lei n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Lei n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho\".,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "104",
+                "nome": "Castro de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139655",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "626-627"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/626?pgs=626-627&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"altera os Decretos-Leis n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Leis n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho; Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"Altera os Decretos-lei n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Lei n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho\".,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "208",
+                "nome": "Agostinho Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139656",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "627-627"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/627?pgs=627&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"altera os Decretos-Leis n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Leis n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho; Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"Altera os Decretos-lei n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Lei n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho\".,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1817",
+                "nome": "Alves Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139657",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "627-628"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/627?pgs=627-628&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"altera os Decretos-Leis n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Leis n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho; Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"Altera os Decretos-lei n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Lei n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho\".,",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139658",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "629-629"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/629?pgs=629&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"altera os Decretos-Leis n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Leis n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho; Decreto-Lei n.º 265-A/2001, de 28 de Setembro, que \"Altera os Decretos-lei n.ºs 114/94, de 3 de Maio, e 2/98, de 3 de Janeiro, bem como o Código da Estrada, e revoga os Decretos-Lei n.ºs 162/2001, de 22 de Maio, e 178-A/2001, de 12 de Junho\".,",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "149648",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "265929",
+        "obs": null,
+        "pag": [
+          "616--629"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-10-27",
+        "pubLeg": "VIII",
+        "pubNr": "18",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/616?pgs=616--629&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
