@@ -1,0 +1,53 @@
+Decreto-Lei n.º 301/83
+de 24 de Junho
+O Instituto de Apoio ao Retorno de Nacionais (IARN) foi criado, em 31 de Março de 1975, pelo Decreto-Lei n.º 169/75, com o objectivo de prestar apoio aos cidadãos regressados das ex-colónias portuguesas, vindo a ser extinto, pelo Decreto-Lei n.º 97/81, de 2 de Maio, por estarem preenchidos, no essencial, os objectivos que tinham norteado a sua acção.
+Com este último diploma abriu-se, assim, a fase da sua liquidação, transferindo-se para outros órgãos e serviços públicos as acções de apoio ainda em curso.
+Os serviços do IARN viram assim a sua acção restrita à prática de actos necessários e adequados a esta nova fase, tendo a tarefa da liquidação sido cometida a uma Comissão Liquidatária, nomeada pelo Ministro dos Assuntos Sociais em Maio de 1981.
+A par da prossecução destes objectivos genéricos houve, por parte da Comissão Liquidatária, a constante preocupação de subscrever soluções que apontassem para uma estabilização ou recolocação de todos os funcionários e agentes do IARN, que continuaram sob a dependência da referida Comissão Liquidatária.
+E tanto assim é que, para aqueles cuja acção deixou de se revelar necessária ao normal desenvolvimento das atribuições da Comissão Liquidatária, se fomentou e formalizou o seu reaproveitamento noutros ministérios, acabando por ficar uma pequena percentagem na dependência da Direcção-Geral de Integração Administrativa a aguardar colocação.
+Agora, que se mostra concluída a fase de liquidação iniciada em Maio de 1981, importa prover acerca da extinção da personalidade jurídica residual do IARN, bem como das situações emergentes dessa extinção.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+ARTIGO 1.º
+(Transferência de competências)
+A competência para a prossecução de actividades de carácter social que constituíram o objectivo do Instituto de Apoio ao Retorno de Nacionais (IARN) é transferida para os centros regionais de segurança social e para a Santa Casa da Misericórdia de Lisboa.
+ARTIGO 2.º
+(Transferência do património)
+1 - O património afecto ao exercício de competência referida no artigo anterior será atribuído aos centros regionais para os quais transitarem aquelas competências.
+2 - O património que, pela sua natureza ou por não se mostrar necessário à prossecução daqueles objectivos, não deva ser atribuído aos organismos referidos no artigo anterior terá o destino que lhe for fixado em despacho do Ministro de Estado e das Finanças e do Plano e do Ministro dos Assuntos Sociais.
+3 - A sucessão dos organismos referidos nos números anteriores no direito ao arrendamento de imóveis será comunicada aos respectivos senhorios.
+4 - Quando abranja bens sujeitos a registo, a transferência do património será comunicada aos respectivos conservadores, para que estes procedam oficiosamente aos necessários registos.
+5 - Os ficheiros do IARN que contenham dados relevantes de carácter histórico sobre a vinda para Portugal de desalojados das ex-colónias serão transferidos para organismos a determinar por despacho dos ministros competentes.
+ARTIGO 3.º
+(Integração do pessoal do IARN)
+1 - O pessoal do IARN afecto às acções daquele organismo transferidas ou a transferir para outros organismos e serviços será por estes integrado.
+2 - O pessoal que tenha a seu cargo o tratamento dos ficheiros a que se refere o n.º 5 do artigo anterior será integrado nos organismos para onde estes vierem a ser transferidos.
+3 - O pessoal do IARN que, à data da entrada em vigor deste diploma, desempenhe funções em qualquer serviço, instituição ou estabelecimento do Estado, bem como em institutos públicos, será por estes integrado, nos termos dos artigos seguintes, excepcionando-se desta obrigação a Direcção-Geral de Integração Administrativa.
+4 - O restante pessoal do IARN será colocado na dependência da Secretaria-Geral do Ministério dos Assuntos Sociais, sendo a sua colocação confiada à Direcção-Geral de Emprego e Formação, ao abrigo do disposto no Decreto-Lei n.º 167/82, de 10 de Maio.
+ARTIGO 4.º
+(Alargamento dos quadros)
+1 - Para efeitos da integração prevista no artigo anterior, serão os quadros ou mapas de pessoal aumentados automaticamente de tantos lugares quantos os funcionários a integrar.
+2 - O alargamento previsto no número anterior não fica sujeito às limitações constantes do n.º 2 do artigo 19.º do Decreto-Lei n.º 191-C/79, de 25 de Junho, e do n.º 2 do artigo 12.º do Decreto-Lei n.º 167/82, de 10 de Maio, e ainda do n.º 3 do artigo 15.º, n.º 2 do artigo 16.º e n.º 2 do artigo 19.º do Decreto-Lei n.º 466/79, de 7 de Dezembro.
+3 - Os lugares criados para além das densidades estabelecidas nos preceitos referidos no número anterior serão extintos à medida que vagarem.
+ARTIGO 5.º
+(Integração do pessoal)
+A integração a que se refere o presente diploma será feita em categoria igual ou equivalente à que o funcionário ou agente possui, devendo aquela equivalência ser aprovada, em tabelas, pelos Ministros da pasta, dos Assuntos Sociais e da Reforma Administrativa.
+ARTIGO 6.º
+(Manutenção de direitos)
+1 - Ao pessoal integrado nos termos do presente diploma é assegurada a inserção numa das carreiras em vigor da função pública e a contagem, para todos os efeitos legais, de todo o tempo de serviço prestado no IARN.
+2 - O tempo de serviço que cada funcionário ou agente tiver na categoria ou carreira à data da integração será considerado como efectivamente prestado na categoria e carreira para que transitar.
+ARTIGO 7.º
+(Formalidades)
+A integração do pessoal será feita por diploma individual de provimento, ou listas nominativas sujeitas, respectivamente, a visto ou anotação do Tribunal de Contas, consoante se verifique ou não mudança de situação jurídico-funcional, e com dispensa de outras formalidades, salvo a publicação no Diário da República.
+ARTIGO 8.º
+(Representação dos interesses do IARN)
+A competência para a representação dos interesses do IARN, quer em juízo, quer em transacções extrajudiciais, é atribuída aos conselhos directivos dos centros regionais de segurança social.
+ARTIGO 9.º
+(Relatório de actividades e prestação de contas)
+Até ao fim do presente ano económico, a Comissão Liquidatária desenvolverá as diligências necessárias ao efectivo encerramento das suas actividades, devendo delas apresentar relatório e prestar, nos termos da lei, contas finais de gerência.
+Visto e aprovado em Conselho de Ministros de 26 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Manuel Meneres Sampaio Pimentel.
+Promulgado em 8 de Junho de 1983.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 8 de Junho de 1983.
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
