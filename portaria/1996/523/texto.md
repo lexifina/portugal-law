@@ -1,0 +1,11 @@
+Portaria n.º 523/96
+de 30 de Setembro
+O Decreto-Lei n.º 197/95, de 29 de Julho, prevê no n.º 2 do artigo 1.º que os fogos a adquirir pelos municípios destinados ao realojamento de população residente em barracas ficam sujeitos a tipologias e preços máximos a fixar por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+Atendendo que se tem verificado que a evolução do mercado nacional tem dado origem a que, em alguns casos e em certas zonas do País, não se encontrem fogos disponíveis para aquisição cujos preços se enquadrem nos limites máximos de preços fixados naquela portaria, importa prever que, a título excepcional e em casos devidamente fundamentados, possa ser autorizada a aquisição de fogos pelos municípios que excedam os limites de preços fixados para as diferentes zonas do território nacional.
+Assim:
+Manda o Governo, pelos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, nos termos e em execução do n.º 2 do artigo 1.º do Decreto-Lei n.º 197/95, de 29 de Julho, que sejam aditados à Portaria n.º 352/96, de 13 de Agosto, os n.os 5.º e 6.º, com a seguinte redacção:
+«5.º Sem prejuízo do disposto nos números anteriores, a título excepcional e em casos devidamente fundamentados, poderá ainda ser admitida a aquisição de fogos pelos municípios cujos preços sejam superiores aos dos limites máximos fixados, mediante despacho conjunto de autorização dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.
+6.º O excesso verificado entre o valor de aquisição dos fogos e os limites de preços máximos fixados na presente portaria não releva em caso algum para efeitos de determinação do montante das comparticipações e financiamentos a conceder ao abrigo do Decreto-Lei n.º 226/87, de 6 de Junho, e do Decreto-Lei n.º 197/95, de 29 de Julho, devendo ser suportado na sua totalidade pelos municípios adquirentes.»
+Ministérios das Finanças e do Equipamento, do Planeamento e da Administração do Território:
+Assinada em 6 de Agosto de 1996.
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.
