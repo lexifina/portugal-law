@@ -1,0 +1,8 @@
+Resolução n.º 91/81
+Como é do conhecimento geral, o território nacional encontra-se localizado numa zona de actividade sísmica em consequência da sua proximidade relativamente às zonas de encontro de várias placas continentais. Constitui, por isso, preocupação do Governo dotar o País de estruturas e meios de protecção das populações que permitam fazer face a qualquer eventualidade de natureza sísmica que possa traduzir-se em perdas de vidas e bens.
+O Conselho de Ministros tomou conhecimento do programa de acções imediatas e a prazo para a minimização do risco sísmico na cidade de Lisboa, oportunamente aprovado pelo Ministério da Defesa Nacional e cuja implementação será progressivamente feita no decorrer deste ano.
+Dada, todavia, a necessidade de acelerar os trabalhos que vêm sendo realizados e reconhecendo que a multidisciplinaridade da problemática sísmica exige a participação colaborante dos departamentos, serviços, instituições e organismos que, para o efeito, vierem a ser solicitados:
+O Conselho de Ministros, reunido em 23 de Abril de 1981, resolveu:
+1 - Determinar que o Ministério da Defesa Nacional promova a elaboração urgente para a área metropolitana de Lisboa e barlavento algarvio de programas idênticos ao já aprovado e, numa fase posterior, de trabalhos semelhantes para as restantes áreas potencialmente perigosas do território nacional.
+2 - Determinar que as entidades que, de algum modo, têm um papel a desempenhar no desenvolvimento e na execução dos trabalhos referidos em 1 prestem, com a máxima prioridade, o apoio e a colaboração que lhes sejam solicitados pelo Serviço Nacional de Protecção Civil.
+Presidência do Conselho de Ministros, 23 de Abril de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
