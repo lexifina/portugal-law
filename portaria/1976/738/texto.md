@@ -1,0 +1,4 @@
+Portaria n.º 738/76
+de 14 de Dezembro
+Manda o Governo da República Portuguesa, pelos Ministros da Administração Interna, das Finanças e do Comércio e Turismo, que, ao abrigo do artigo 13.º do Decreto-Lei n.º 294/76, de 24 de Abril, e para cumprimento do artigo 5.º, n.os 1 e 2, do Decreto-Lei n.º 551/76, de 13 de Julho, seja criado um lugar de técnico principal supranumerário permanente ao quadro do pessoal da Direcção-Geral de Fiscalização Económica, com efeitos a partir da data da entrada em vigor do referido Decreto-Lei n.º 551/76.
+Ministérios da Administração Interna, das Finanças e do Comércio e Turismo, 4 de Dezembro de 1976. - O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro do Comércio e Turismo, António Miguel Morais Barreto.
