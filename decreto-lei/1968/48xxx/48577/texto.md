@@ -1,0 +1,8 @@
+Decreto-Lei n.º 48577
+Pelo Decreto-Lei n.º 48498, de 24 de Julho último, foram introduzidas modificações nos quadros do pessoal e na orgânica dos serviços do Ministério das Obras Públicas.
+Considerando que é intenção do Governo que tais providências se possam operar com a maior brevidade, o que é possibilitado pela existência de disponibilidades nas dotações dos correspondentes quadros de pessoal;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Cumprido que seja o disposto no artigo 12.º do Decreto-Lei n.º 48498, de 24 de Julho de 1968, e enquanto não se concretizem as providências de carácter orçamental em curso, poderão ser utilizadas, na satisfação dos encargos com pessoal resultantes daquele diploma, as disponibilidades das verbas orçamentais consignadas no orçamento do Ministério das Obras Públicas em execução ao pagamento do pessoal dos respectivos quadros aprovados por lei.
+Art. 2.º O presente decreto-lei entra imediatamente em vigor.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 13 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - António Manuel Gonçalves Rapazote - Mário Júlio de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Joaquim de Jesus Santos.
