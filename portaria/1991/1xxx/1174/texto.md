@@ -1,0 +1,60 @@
+Portaria n.º 1174/91
+de 20 de Novembro
+Tornando-se necessário efectuar a fusão dos quadros do pessoal civil do Instituto Hidrográfico e do pessoal civil da Comissão Executiva do Polígono de Acústica Submarina dos Açores num quadro único, com extinção dos anteriores, em concordância com o disposto no Decreto-Lei n.º 134/91, de 4 de Abril, sendo imperioso, para melhor adaptação às realidades actuais e garantia de evolução futura de acordo com os interesses nacionais, que se crie a carreira de investigação científica;
+Considerando que o Decreto-Lei n.º 323/88, de 23 de Setembro, veio tornar extensivo ao pessoal civil dos serviços departamentais das Forças Armadas o regime e estrutura das carreiras dos trabalhadores da administração pública central, regional e local decorrentes do Decreto-Lei n.º 248/85, de 15 de Julho, e do reajustamento estrutural operado pelos Decretos-Leis n.os 265/88, de 28 de Julho, e 23/91, de 11 de Janeiro;
+Considerando ainda que o Decreto Regulamentar n.º 25/89, de 17 de Agosto, veio alterar as carreiras e categorias do referido pessoal;
+Considerando, por outro lado, que o Decreto-Lei n.º 264/89, de 18 de Agosto, tornou aplicável ao pessoal civil dos serviços departamentais das Forças Armadas o regime jurídico respeitante aos funcionários e agentes da administração central;
+Considerando também as novas regras sobre o estatuto remuneratório dos funcionários e agentes da Administração Pública e a estrutura das remunerações base das carreiras e categorias contempladas no Decreto-Lei n.º 353-A/89, de 16 de Outubro;
+Nos termos do n.º 2 do artigo 23.º do Decreto-Lei n.º 134/91, de 4 de Abril, sob proposta do Chefe do Estado-Maior da Armada, ouvido o director-geral do Instituto Hidrográfico:
+Manda o Governo, pelos Ministros da Defesa Nacional e das Finanças, o seguinte:
+1.º O quadro do pessoal civil do Instituto Hidrográfico (QPCIH) é o constante dos mapas I e II do anexo I ao presente diploma, que dele faz parte integrante.
+2.º A extinção de lugares prevista nas várias categorias far-se-á da base para o topo, quando não existirem funcionários em condições de acesso.
+3.º A descrição do conteúdo funcional das carreiras de investigação, técnico superior de oceanografia, técnico de oceanografia, técnico de manutenção, técnico-adjunto de desenho de cartografia, técnico-adjunto de hidrografia, técnico-adjunto de laboratório, técnico-adjunto de oceanografia e técnico-adjunto de audio-visuais é a contante do anexo II ao presente diploma.
+4.º São revogadas, na parte aplicável, as Portarias n.os 86/84, de 7 de Fevereiro, e 703/85, de 21 de Setembro.
+Ministérios da Defesa Nacional e das Finanças.
+Assinada em 30 de Outubro de 1991.
+Pelo Ministro da Defesa Nacional, Eugénio Manuel dos Santos Ramos, Secretário de Estado Adjunto do Ministro da Defesa Nacional. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento.
+
+ANEXO I
+MAPA I
+Quadro do pessoal civil do Instituto Hidrográfico
+(ver documento original)
+MAPA II
+Categorias em extinção
+(ver documento original)
+
+ANEXO II
+1 - Conteúdos funcionais do pessoal técnico superior da carreira de investigação do Instituto Hidrográfico
+Em geral, compete ao investigador executar com carácter de regularidade actividade de investigação e desenvolvimento.
+Em especial, compete:
+a) Ao investigador-coordenador:
+Coordenar os projectos e respectivas equipas de investigação no âmbito das áreas científicas do Instituto Hidrográfico;
+Conceber programas de investigação e desenvolvimento, sua formulação e tradução em projectos;
+Desenvolver acções de formação no âmbito da metodologia da investigação e desenvolvimento;
+Contribuir para a definição da política científica do Instituto Hidrográfico, participando activamente na elaboração dos planos quinquenais e anuais de actividades;
+Assegurar a execução da política científica definida, designadamente através da apreciação científica dos diversos relatórios produzidos nos sectores científicos do Instituto Hidrográfico;
+b) Ao investigador principal:
+Participar na concepção de programas I&D e sua tradução em projectos na sua área;
+Coordenar e orientar a execução de projectos I&D na sua área;
+Desenvolver acções de formação no âmbito de metodologia I&D;
+Orientar e avaliar os trabalhos desenvolvidos pelos investigadores auxiliares;
+Contribuir para a definição da política científica do Instituto Hidrográfico, mediante a apresentação de projectos a incluir nos planos quinquenais e anuais;
+c) Ao investigador auxiliar:
+Participar na concepção, desenvolvimento e execução de projectos I&D;
+Orientar os trabalhos desenvolvidos no âmbito dos projectos a seu cargo;
+Colaborar no desenvolvimento de acções de formação;
+Apresentar sugestões como contribuição para a definição da política científica do Instituto Hidrográfico.
+2 - Conteúdos funcionais do técnico superior de oceanografia do quadro do pessoal civil do Instituto Hidrográfico
+Compete ao técnico superior de oceanografia a realização de estudos que envolvam medição, análise e interpretação de fenómenos oceanográficos, com o objectivo de descrever o oceano, nas suas manifestações físicas, geológicas, químicas e biológicas, com relevância para a manutenção dos recursos do mar, aproveitamento energético e interacção mar-atmosfera.
+O ingresso faz-se de entre licenciados em Ciências Físico-Químicas, Engenharia Mecânica, Electrotécnica, Química, Geologia e Geofísica, de preferência com especialização no âmbito das ciências do mar.
+3 - Conteúdos funcionais do técnico de oceanografia e técnico de manutenção do quadro do pessoal civil do Instituto Hidrográfico.
+a) Técnico de oceanografia - compete ao técnico de oceanografia proceder a todos os trabalhos inerentes à preparação e calibração dos equipamentos e materiais oceanográficos, assim como aquisição, validação e representação dos dados oceanográficos obtidos através de sensores instalados em plataformas ou navios ou em equipamentos e sistemas fundeados. O ingresso faz-se de entre indivíduos habilitados com curso superior que não confira grau de licenciatura, nomeadamente electrotecnia, mecânica e biologia, e pessoal habilitado com o curso de técnicos auxiliares, nos termos do Decreto n.º 47987, de 9 de Outubro de 1967, de preferência com especialização no âmbito das ciências do mar;
+b) Técnico de manutenção - compete ao técnico de manutenção coordenar, orientar, planificar, programar e executar trabalhos de manutenção e calibração de equipamentos e sistemas oceanográficos e manutenção da sua operacionalidade. O ingresso faz-se de entre indivíduos habilitados com curso superior que não configura grau de licenciatura, nomeadamente nas áreas de electrotecnia, mecânica ou equivalente.
+4 - Conteúdos funcionais do pessoal técnico- profissional do quadro do pessoal civil do Instituto Hidrográfico
+Em geral, compete aos técnicos profissionais de nível 4 o desempenho de funções de natureza executiva e de aplicação técnica, com base no conhecimento ou adaptação de métodos e processos enquadrados em directivas bem definidas.
+Em especial, compete:
+a) Aos técnicos-adjuntos de desenho de cartografia - executar desenho topográfico e cartográfico, segundo as normas técnicas específicas, a partir dos elementos fornecidos, executar ampliações e reduções de desenhos, bem como o cálculo de dimensões, áreas, volumes e outros factores relacionados com o desenho geométrico;
+b) Aos técnicos-adjuntos de hidrografia - executar trabalhos de apoio técnico, no campo e em gabinete, nas áreas da topografia e da hidrografia, que exijam conhecimentos técnicos, teóricos e práticos obtidos através de curso técnico-profissional;
+c) Aos técnicos-adjuntos de laboratório - recolher e preparar amostras de água, sedimentos e seres vivos segundo critérios preestabelecidos, executar análises e testes das amostras e respectivo arquivo, verificar, corrigir e arquivar os dados provenientes de tratamento informático, bem como operar, manter e conservar os instrumentos de laboratório e de outro equipamento;
+d) Aos técnicos-adjuntos de oceanografia - executar trabalhos de apoio técnico nas áreas da oceanografia física, operar equipamentos de aquisição de dados oceanográficos e efectuar a sua manutenção preventiva, processar informaticamente os dados obtidos, bem como executar outras actividades em laboratório em terra e a bordo;
+e) Aos técnicos-adjuntos operadores de áudio-visuais - operar equipamentos de projecção fixa e animada de fotografia, de som e de vídeo, preparar documentos gráficos, diapositivos, diaporamas e videoramas e manter o equipamento áudio-visual em condições de funcionamento.
