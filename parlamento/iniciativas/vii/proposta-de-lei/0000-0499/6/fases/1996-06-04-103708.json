@@ -1,0 +1,1733 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "6",
+    "id": "5611",
+    "titulo": "Subsídio de desemprego para as bordadeiras de casa."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1996-06-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1386",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1996-06-04",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Assembleia Legislativa da Região Autónoma da Madeira",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "5610",
+        "leg": "VII",
+        "nr": "5",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "190",
+            "obs": null,
+            "pag": [
+              "2632-2650"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1996-06-05",
+            "pubLeg": "VII",
+            "pubNr": "79",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2632?pgs=2632-2650&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "190",
+            "obs": null,
+            "pag": [
+              "2632-2650"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1996-06-05",
+            "pubLeg": "VII",
+            "pubNr": "79",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2632?pgs=2632-2650&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Alterações ao Decreto-lei n.º 398/91, de 16 de Outubro."
+      },
+      {
+        "autor": "Assembleia Legislativa da Região Autónoma da Madeira",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "5497",
+        "leg": "VII",
+        "nr": "26",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "190",
+            "obs": null,
+            "pag": [
+              "2632-2650"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1996-06-05",
+            "pubLeg": "VII",
+            "pubNr": "79",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2632?pgs=2632-2650&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "190",
+            "obs": null,
+            "pag": [
+              "2632-2650"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1996-06-05",
+            "pubLeg": "VII",
+            "pubNr": "79",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2632?pgs=2632-2650&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Direito de audição das regiões autónomas."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1996-06-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "84",
+                "nome": "Reis Leite"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42828",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2650-2650"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2650?pgs=2650&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42829",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2649-2650"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2649?pgs=2649-2650&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "542",
+                "nome": "Isabel Sena Lino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42830",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2648-2649"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2648?pgs=2648-2649&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42831",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2647-2648"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2647?pgs=2647-2648&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1272",
+                "nome": "Afonso Lobão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42832",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2647-2647"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2647?pgs=2647&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1468",
+                "nome": "Sérgio Ávila"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42834",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2646-2646"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2646?pgs=2646&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42835",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2646-2646"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2646?pgs=2646&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "539",
+                "nome": "Rita Pestana"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42836",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2645-2646"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2645?pgs=2645-2646&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42837",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2645-2645"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2645?pgs=2645&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42838",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2644-2644"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2644?pgs=2644&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "595",
+                "nome": "Nuno Correia da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42839",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2643-2643"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2643?pgs=2643&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "397",
+                "nome": "Correia de Jesus"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42840",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2643-2643"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2643?pgs=2643&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "595",
+                "nome": "Nuno Correia da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42841",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2642-2643"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2642?pgs=2642-2643&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1158",
+                "nome": "Barbosa de Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42842",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2641-2642"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2641?pgs=2641-2642&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "397",
+                "nome": "Correia de Jesus"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42843",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2641-2641"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2641?pgs=2641&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "539",
+                "nome": "Rita Pestana"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42844",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2641-2641"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2641?pgs=2641&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "397",
+                "nome": "Correia de Jesus"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42845",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2640-2641"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2640?pgs=2640-2641&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42846",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2640-2640"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2640?pgs=2640&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42847",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2640-2640"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2640?pgs=2640&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42848",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2640-2640"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2640?pgs=2640&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42849",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2639-2639"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2639?pgs=2639&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42850",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2638-2639"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2638?pgs=2638-2639&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1286",
+                "nome": "Silva Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2637-2638"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2637?pgs=2637-2638&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "539",
+                "nome": "Rita Pestana"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42852",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2637-2637"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2637?pgs=2637&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42853",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2637-2637"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2637?pgs=2637&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "539",
+                "nome": "Rita Pestana"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42854",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2636-2637"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2636?pgs=2636-2637&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42855",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2635-2636"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2635?pgs=2635-2636&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42857",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2634-2634"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2634?pgs=2634&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "152",
+                "nome": "António Braga"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42858",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2634-2634"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2634?pgs=2634&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42859",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2634-2634"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2634?pgs=2634&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42860",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2634-2634"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2634?pgs=2634&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHOBORDADEIRAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "595",
+                "nome": "Nuno Correia da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42865",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2632-2632"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-05",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05/2632?pgs=2632&org=PLC"
+              }
+            ],
+            "sumario": "REGIOES AUTONOMAS:DIREITO AUDICAO; REDUCAO TEMPO TRABALHODADEIRA DE TRABALHO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "103708",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "110309",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-06-05",
+        "pubLeg": "VII",
+        "pubNr": "79",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/079/1996-06-05?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
