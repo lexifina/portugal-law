@@ -1,0 +1,4 @@
+Portaria n.º 231/73
+de 31 de Março
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Tesouro e das Comunicações e Transportes, nos termos do n.º 3 do artigo 37.º do estatuto da empresa pública Correios e Telecomunicações de Portugal, anexo I ao Decreto-Lei n.º 49368, de 10 de Novembro de 1969, atendendo ao que por ela foi solicitado, autorizar a referida empresa a contrair na Caixa Geral de Depósitos, Crédito e Previdência um empréstimo até ao montante de 400000000$00, à taxa de juro de 7,5 por cento ao ano, com o período de utilização até 31 de Dezembro de 1973 e um ano de diferimento da amortização, que será efectuada em vinte e seis semestralidades, vencendo-se a primeira em 30 de Junho de 1975.
+Ministérios das Finanças e das Comunicações, 19 de Março de 1973. - O Secretário de Estado do Tesouro, José Luís Sapateiro. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
