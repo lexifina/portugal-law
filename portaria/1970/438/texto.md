@@ -1,0 +1,3 @@
+Portaria n.º 438/70
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Indústria, ouvido o Conselho de Normalização, aprovar, com as alterações propostas nos respectivos pareceres, a revisão das normas NP-5 - Ofício ou carta. Formato A(índice 4). Primeira página; NP-6 - Oficio ou carta. Formato A(índice 4). Páginas de continuação e NP-8 - Oficio ou carta. Formato A(índice 5). feitas nos termos do artigo 9.º do Estatuto de Normalização (Decreto-Lei n.º 38801, de 25 de Junho de 1952).
+Secretaria de Estado da Indústria, 31 de Agosto de 1970. - O Secretário de Estado da Indústria, Rogério da Conceição Serafim Martins.
