@@ -1,0 +1,6 @@
+Anúncio n.º 2/2000
+Pedido de declaração de ilegalidade de normas n.º 4115/00, 1.ª Secção do Contencioso Administrativo.
+Recorrente: Jorge Manuel de Soto-Maior Costa.
+Recorrido: Câmara dos Técnicos Oficiais de Contas.
+Faz-se saber que nos autos acima identificados são citados os recorridos particulares para contestarem, querendo, no prazo de 30 dias, finda a dilação de 30 dias, contada a partir da data de publicação deste edital, e que a falta de contestação não importa a confissão dos factos articulados pelo recorrente e que consiste no pedido de declaração de ilegalidade, com força obrigatória geral, dos artigos 1.º, n.º 1, alínea d), 2.º, n.º 1, e 3.º, n.º 1, do regulamento elaborado em 3 de Junho de 1998 pela comissão instaladora da Associação dos Técnicos Oficiais de Contas, actualmente Câmara dos Técnicos Oficiais de Contas, por violação dos artigos 1.º e 2.º, n.º 1, da Lei n.º 27/98, de 3 de Junho, publicado no Diário da República, 1.ª série-A, n.º 128, de 3 de Junho de 1998, conforme consta da petição inicial, cujo duplicado se encontra neste Tribunal à ordem dos citandos.
+Tribunal Central Administrativo, 4 de Abril de 2000. - O Juiz Desembargador, Coelho da Cunha. - A Escrivã-Adjunta, Maria da Luz Antunes Alves.
