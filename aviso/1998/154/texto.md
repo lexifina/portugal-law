@@ -1,0 +1,5 @@
+Aviso n.º 154/98
+Por ordem superior se torna público que, por nota de 7 de Julho de 1998, o director-geral da Organização Mundial da Propriedade Intelectual comunicou ter a República de Moçambique depositado, em 7 de Julho de 1998, o seu instrumento de adesão ao Protocolo Relativo ao Acordo de Madrid Referente ao Registo Internacional de Marcas, adoptado em Madrid em 27 de Junho de 1989 (Protocolo de Madrid, 1989).
+O referido Protocolo entrará em vigor para a República de Moçambique em 7 de Outubro de 1998.
+Este Protocolo foi aprovado, para ratificação, por Portugal nos termos do Decreto n.º 31/96, publicado no Diário da República, 1.ª série-A, n.º 248, de 25 de Outubro de 1996, tendo sido depositado o correspondente instrumento em 20 de Dezembro de 1996, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 22, de 27 de Janeiro de 1997.
+Direcção-Geral dos Assuntos Multilaterais, 13 de Agosto de 1998. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
