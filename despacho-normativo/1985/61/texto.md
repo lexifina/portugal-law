@@ -1,0 +1,6 @@
+Despacho Normativo n.º 61/85
+Considerando que as condições particulares da presente campanha de produção de cereais aconselham a que sejam incluídas no tipo I sementes não certificadas provenientes de searas devidamente verificadas pelos serviços competentes desde que as mesmas correspondam às variedades exigidas por lei, determina-se o seguinte:
+O n.º 2.º do Despacho Normativo n.º 158/84, de 19 de Outubro, passa a ter a seguinte redacção:
+2.º O trigo mole do tipo I integra o cereal das variedades Campodoro, Ímpeto, Mara, Nazereno, Strampelli, Anza, Caia, Mira e Tejo de searas devidamente verificadas pelos serviços regionais de agricultura ou pela EPAC.
+O trigo mole do tipo II integra o cereal proveniente de todas as restantes variedades actualmente cultivadas.
+Secretarias de Estado de Orçamento, do Comércio e Indústria Agrícolas, da Produção Agrícola e do Comércio Interno, 2 de Junho de 1985. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado do Comércio e Indústria Agrícolas, Carlos Alberto Antunes Filipe. - O Secretário de Estado da Produção Agrícola, Joaquim António Rosado Gusmão. - O Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade.
