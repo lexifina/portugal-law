@@ -1,0 +1,15 @@
+Decreto n.º 779/75
+de 31 de Dezembro
+Com fundamento no artigo 2.º do Decreto-Lei n.º 54/72, de 15 de Fevereiro;
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 300000000$00, destinado a reforçar a verba insuficientemente dotada e a prover à satisfação de encargos em conta do Orçamento Geral do Estado em vigor:
+Despesa extraordinária
+Ministério da Coordenação Interterritorial
+Capítulo 15.º «Direcção-Geral de Fazenda»:
+Artigo 161.º «Outras despesas correntes»:
+N.º 1 «Auxílio aos territórios ultramarinos e novos Estados independentes» ... 300000000$00
+Art. 2.º Para compensação do crédito mencionado no artigo anterior é aumentada igual quantia à verba descrita no capítulo 12.º, grupo 9, artigo 199.º «Crédito interno», do actual orçamento das receitas do Estado.
+José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Francisco Salgado Zenha.
+Promulgado em 31 de Dezembro de 1975.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
