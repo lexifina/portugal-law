@@ -1,0 +1,16 @@
+Portaria n.º 173/94
+de 28 de Março
+1 - O Conselho de Ministros, por deliberação de 26 de Agosto de 1993, aprovou diversas medidas de apoio à reestruturação da LISNAVE - Estaleiros Navais de Lisboa, S. A., no âmbito do acordo global envolvendo o Estado, as instituições credoras e a empresa.
+Entre essas medidas, inclui-se o apoio financeiro destinado a comparticipar os custos sociais do plano de reestruturação, especificamente a indemnização e reciclagem de trabalhadores, necessárias em consequência do encerramento definitivo do estaleiro da Margueira e da concentração da reparação naval no estaleiro da Mitrena.
+2 - Na sequência desta deliberação, a Lei n.º 71/93, de 26 de Novembro, que aprovou o orçamento suplementar ao Orçamento do Estado para 1993, autorizou o Governo, no âmbito do plano global de reestruturação e reconversão da LISNAVE, a praticar diversas medidas de acompanhamento.
+Nesse contexto, ficou o Governo autorizado a apoiar o plano social de racionalização de efectivos previsto para a LISNAVE, a SOLISNOR - Estaleiros Navais, S. A., e a SETENAVE - Estaleiros Navais de Setúbal, S. A.
+3 - Nestas circunstâncias, na concretização das medidas de apoio financeiro, importa conjugá-las com acções de política de emprego para prevenir e atenuar, na medida do possível, efeitos sociais negativos decorrentes da execução do plano de reestruturação que afecta o conjunto das empresas mencionadas.
+Assim:
+Manda o Governo, pelos Ministros das Finanças, da Indústria e Energia e do Emprego e da Segurança Social, ao abrigo do n.º 2 do artigo 5.º do Decreto-Lei n.º 206/87, de 16 de Maio, o seguinte:
+1.º - 1 - As empresas LISNAVE - Estaleiros Navais de Lisboa, S. A., SOLISNOR - Estaleiros Navais, S. A., e SETENAVE - Estaleiros Navais de Setúbal, S. A., como resulta do artigo 11.º da Lei n.º 71/93, de 26 de Novembro, encontram-se em reestruturação e reconversão, tendo em vista a adaptação tecnológica e o reequilíbrio económico-financeiro da actividade de reparação naval desenvolvida, mediante redução da capacidade instalada e redimensionamento dos efectivos de pessoal, para racionalização dos custos e melhoria da competitividade.
+2 - No desenvolvime nto do apoio ao plano social de racionalização de efectivos, previsto pelo n.º 5 do artigo 11.º da referida Lei n.º 71/93, de 26 de Novembro, são aplicáveis as medidas previstas no n.º 1 do artigo 12.º do Decreto-Lei n.º 261/91, de 25 de Julho.
+3 - Os trabalhadores abrangidos pelo referido plano social de racionalização de efectivos serão beneficiários, com prioridade, das medidas especiais de prevenção e combate ao desemprego previstas na Portaria n.º 1324/93, de 31 de Dezembro, que a respectiva situação justificar.
+2.º A presente portaria vigora até 31 de Dezembro de 1996, ou até à conclusão do plano de reestruturação e reconversão, se esta ocorrer primeiro.
+Ministérios das Finanças, da Indústria e Energia e do Emprego e da Segurança Social.
+Assinada em 14 de Março de 1994.
+Pelo Ministro das Finanças, António José Fernandes de Sousa, Secretário de Estado Adjunto e das Finanças. - Pelo Ministro da Indústria e Energia, Luís Filipe Alves Monteiro, Secretário de Estado da Indústria. - Pelo Ministro do Emprego e da Segurança Social, António Morgado Pinto Cardoso, Secretário de Estado do Emprego e Formação Profissional.
