@@ -1,0 +1,15 @@
+Portaria n.º 322/79
+de 5 de Julho
+1 - Tendo em conta que as tarifas em vigor aprovadas pelo Governo para o sector da energia eléctrica incluem já as anteriores taxas de aluguer de contadores e de disjuntores (estes, para além da função de controle de potência, poderão servir como aparelhos de corte da entrada das instalações de utilização), torna-se indispensável rever a Portaria n.º 704/75, de 28 de Novembro, que, entretanto, se desactualizou.
+2 - Aproveita-se a oportunidade para não só actualizar o valor da taxa de ligação das instalações de utilização de baixa tensão às respectivas entradas, incluindo a colocação da aparelhagem necessária, face ao agravamento dos custos da mão-de-obra e dos transportes, mas também disciplinar e regulamentar o encargo dos consumidores com a prestação de determinados serviços por parte do distribuidor.
+3 - As disposições agora fixadas têm carácter transitório, devendo ser revistas após a publicação do Regulamento do Serviço Público da EDP.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Energia e Indústrias de Base, com base no disposto no artigo 17.º do Decreto-Lei n.º 740/74, de 26 de Dezembro, o seguinte:
+1.º Pela ligação das instalações de utilização de baixa tensão às respectivas entradas, incluindo a colocação do equipamento de contagem de energia e do aparelho de corte da entrada, os distribuidores cobrarão uma taxa de 220$00.
+2.º Enquanto não for regulamentarmente obrigatória a instalação de disjuntor dotado de protecção sensível à corrente diferencial-residual, se o consumidor solicitar que o aparelho de corte da entrada seja um disjuntor desse tipo, o distribuidor terá direito a cobrar do consumidor o excesso de custo de tal aparelho em relação ao do correspondente disjuntor dotado apenas de protecção contra sobreintensidades.
+O pagamento do referido excesso de custo poderá ser feito em prestações.
+3.º Pela montagem de qualquer aparelho (relógio ou relais de telecomando, grupo de transformadores de intensidade, dispositivo de corte de potência interruptível, disjuntor, etc.) resultante de solicitação do consumidor, o distribuidor cobrará uma taxa de 80$00.
+4.º No caso de a ligação de uma instalação de utilização não dar lugar à colocação de qualquer dos aparelhos a que se refere o n.º 1.º, o distribuidor apenas cobrará uma taxa de 60$00.
+5.º Sempre que, por falta acidental de energia eléctrica na instalação de utilização de um consumidor de baixa tensão já ligado à rede, o distribuidor tiver que deslocar pessoal para proceder ao restabelecimento do fornecimento de energia, poderá cobrar do referido consumidor, quando a interrupção do fornecimento for da responsabilidade deste, uma taxa de 100$00, além do custo do material eventualmente danificado e substituído.
+6.º Fica revogada a Portaria n.º 704/75, de 28 de Novembro, em tudo quanto se oponha ao presente diploma.
+Ministério da Indústria e Tecnologia, 31 de Maio de 1979. - O Secretário de Estado da Energia e Indústrias de Base, Hugo Fernando de Jesus.
