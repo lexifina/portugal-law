@@ -1,3 +1,7 @@
+## Capítulo II
+
+## Estabelecimento das instalações eléctricas de serviço público
+
 # Artigo 21.º
 
 Logo que estejam cumpridas estas formalidades, ou logo que o projecto esteja devidamente instruído se não houver publicação de éditos, a secção de licenças da Repartição dos Serviços Eléctricos, tendo em vista as reclamações apresentadas, se as houver, e as prescrições técnicas de segurança, informará se o projecto está em condições de ser aprovado, se satisfaz todas as exigências dos regulamentos em vigor e se a execução do mesmo poderá vir a criar qualquer obstáculo à organização ou ao funcionamento dos serviços públicos ou outros autorizados nos termos legais e indicará quaisquer cláusulas que porventura convenha impor como condição para ser concedida a licença.
