@@ -1,0 +1,3 @@
+Despacho
+Dado que se mantêm, em parte, mau grado esforços feitos em contrário, os pressupostos com base nos quais foi preferido o despacho conjunto de 30 de Junho de 1976, que atribuiu aos trabalhadores portuários denominados «homens da rua» um subsídio especial de desemprego, ouvida a Secretaria de Estado da População e Emprego, o Ministro do Trabalho e o Ministro dos Assuntos Sociais, nos termos do artigo 1.º do Decreto-Lei n.º 269/76, de 10 de Abril, determinam a prorrogação até 31 de Dezembro de 1976 da vigência daquele despacho.
+Ministérios do Trabalho e dos Assuntos Sociais, 28 de Setembro de 1976. - O Ministro do Trabalho, Francisco Manuel Marcelo Monteiro Curto. - O Ministro dos Assuntos Sociais, Armando Bacelar.
