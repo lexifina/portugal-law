@@ -1,0 +1,4 @@
+Portaria n.º 555/74
+de 2 de Setembro
+Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado dos Assuntos Económicos, abrir, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, um crédito especial da importância de 50000$00, destinado a reforçar a verba do capítulo único, artigo 6.º, n.º 4) «Despesas com o material - Material de consumo corrente - Diversos não especificados, incluindo reagentes destinados à Secção de Nutrição e Laboratório de Análises Clínicas», do orçamento da despesa do Instituto de Higiene e Medicina Tropical em vigor, tomando como contrapartida disponibilidades do capítulo único, artigo 2.º, n.º 1, alínea e) «Despesas com o pessoal - Remunerações acidentais - Gratificações - De regência de disciplinas», do mesmo orçamento.
+Ministério da Coordenação Interterritorial, 23 de Agosto de 1974. - O Secretário de Estado dos Assuntos Económicos, Fernando de Castro Fontes.
