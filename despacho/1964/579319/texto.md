@@ -1,0 +1,8 @@
+Despacho
+1. A tendência actual, e em grande número de casos bem justificada, para o consumo de vinhos relativamente jovens e a generalização crescente da comercialização do vinho engarrafado faz aparecer a necessidade de evitar que sais tartáricos, fazendo parte da composição normal dos vinhos, formem cristalizações mal compreendidas e relutantemente aceites pelo consumidor.
+2. De entre as substâncias que a ciência enológica tem preconizado para inibir essas cristalizações, só uma, que vulgarmente é designada por ácido metatartárico, reúne o consenso geral de perfeita e total inocuidade alimentar e sem qualquer contra-indicação quanto a repercussões desvantajosas sobre a qualidade dos vinhos.
+3. Adopta-se a designação de significado comercial, hoje generalizada, de ácido metatartárico para o produto obtido por desidratação condicionada do ácido tartárico direito, pelo calor entre 50ºC e 170ºC, à pressão normal ou a pressão reduzida e em que os componentes activos do fenómeno inibidor das cristalizações são o mono e o diéster ditartáricos.
+4. A própria finalidade do emprego do ácido metatartárico indica a sua limitação aos vinhos engarrafados.
+Nestes termos e por proposta da Comissão Técnica Permanente de Viticultura e Enologia:
+Determino, com fundamento no § 2.º do artigo 13.º do Decreto-Lei n.º 35846, de 2 de Setembro de 1946, que seja considerado entre as substâncias a que se refere o mesmo artigo o produto designado por ácido metatartárico, sendo o seu emprego ùnicamente autorizado nos vinhos engarrafados e até à dose máxima de 100 mg por litro.
+Secretaria de Estado da Agricultura, 21 de Julho de 1964. - O Secretário de Estado da Agricultura, Luís Le Cocq de Albuquerque de Azevedo Coutinho.
