@@ -1,0 +1,19 @@
+Decreto-Lei n.º 169/79
+de 6 de Junho
+Às comissões de fiscalização e conselhos fiscais das empresas públicas e equiparadas incumbe um importante papel, designadamente como vigilantes de uma apropriada gestão e garantes da legalidade da vida daquelas empresas.
+A todos os membros das comissões de fiscalização e conselhos fiscais, ressalvada a posição hierárquica do presidente, cabem idênticas funções, podendo qualquer discriminação entre eles, nomeadamente em matéria de remuneração, ser geradora de injustiça.
+É necessário o respeito do salário máximo nacional, nos casos de acumulação de funções pelo exercício de actividade como membros das comissões de fiscalização e dos conselhos fiscais, nas empresas públicas, nacionalizadas, intervencionadas, de economia mista, bem como de empresas em que cessou a intervenção do Estado e que sejam sujeitas a reestruturação do conselho fiscal, em termos de, provisoriamente, um ou alguns dos seus membros serem designados pelo Ministro da Tutela e pelo Ministro das Finanças e do Plano.
+Por outro lado, entende-se conveniente estabelecer um limite ao exercício das funções referidas por parte dos funcionários e agentes, de modo a assegurar-se uma maior eficiência.
+Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Os n.os 2 e 4 do artigo 10.º do Decreto-Lei n.º 106/78, de 24 de Maio, passam a ter a seguinte redacção:
+Art. 10.º ...
+2 - O direito dos funcionários e agentes às remunerações como membros das comissões de fiscalização ou conselhos fiscais das empresas referidas no número anterior não é prejudicado pelas eventuais remunerações que os referidos membros aufiram em razão de emprego normal ou outra actividade legalmente acumulável, salvo as disposições legais que fixam o limite do salário máximo nacional.
+...
+4 - As situações dos funcionários e agentes abrangidos pelos n.os 1 e 3 deste artigo deverão ser regularizadas no prazo de noventa dias a partir da entrada em vigor deste diploma.
+...
+Art. 2.º Nas empresas em que cessou a intervenção do Estado, ficando sujeitas à reestruturação do conselho fiscal, em termos de serem nomeados, a título provisório, um ou alguns dos seus membros pelo Ministério da Tutela e pelo Ministério das Finanças e do Plano, os referidos membros não poderão auferir remunerações que, adicionadas às provenientes do emprego normal ou outra actividade acumulável, excedam o limite do salário máximo nacional.
+Art. 3.º Está vedado aos funcionários e agentes o exercício de funções de membros de comissões de fiscalização ou conselhos fiscais em mais de uma empresa, a não ser mediante expressa autorização do Ministro das Finanças e do Plano.
+Visto e aprovado em Conselho de Ministros de 18 de Abril de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
+Promulgado em 28 de Maio de 1979.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
