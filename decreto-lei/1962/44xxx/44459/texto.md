@@ -1,0 +1,8 @@
+Decreto-Lei n.º 44459
+Verificando-se que as necessidades resultantes da sustentação das forças militares extraordinárias no ultramar exigem um esforço financeiro em muito superior ao que foi previsto no orçamento em execução;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial de 1300000000$00, devendo a mesma importância ser adicionada à verba inscrita no artigo 292.º «Forças militares extraordinárias no ultramar», capítulo 11.º, do orçamento dos encargos gerais da Nação para o corrente ano económico.
+Art. 2.º Para compensação do crédito aludido no artigo precedente é adicionada igual quantia à verba inscrita no capítulo 9.º «Receita extraordinária», artigo 274.º «Produto da venda de títulos ou de empréstimos», do orçamento das receitas para o actual ano económico.
+Art. 3.º O presente diploma entra imediatamente em vigor.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 12 de Julho de 1962. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Alberto Marciano Gorjão Franco Nogueira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
