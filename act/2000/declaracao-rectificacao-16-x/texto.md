@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 16-X/2000
+Para os devidos efeitos se declara que o Decreto-Lei n.º 316-A/2000, publicado no Diário da República, 1.ª série, n.º 282 (suplemento), de 7 de Dezembro de 2000, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Nos Estatutos, no n.º 1 do artigo 6.º, onde se lê «O conselho directivo, adiante abreviadamente designado CD, é composto por 9 a sendo 1 presidente, 2 vice-presidentes e os restantes vogais.» deve ler-se «O conselho directivo, adiante abreviadamente designado por CD, é composto por 9 a 11 membros, sendo 1 presidente, 2 vice-presidentes e os restantes vogais.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 29 de Dezembro de 2000. - O Secretário-Geral, Alexandre Figueiredo.
