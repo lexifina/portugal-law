@@ -1,0 +1,9 @@
+Decreto-Lei n.º 42856
+A proposta do Governo sobre o abastecimento de água às populações rurais encontra-se ainda pendente na Assembleia Nacional.
+Assim, e porque terminou em 31 de Dezembro de 1959 o prazo de execução do Decreto-Lei n.º 42243, de 30 de Abril de 1959, torna-se necessário habilitar o Governo a conceder comparticipações, com base superior a 50 por cento, para abastecimentos de água sem distribuição domiciliária, para não atrasar o ritmo de execução do II Plano de Fomento neste sector.
+Em situação análoga se encontram as obras de viação rural, incluídas também no II Plano de Fomento.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É alargado até 31 de Dezembro de 1960 o prazo, fixado nos artigos 1.º e 4.º do Decreto-Lei n.º 36575, de 4 de Novembro de 1947, durante o qual as comparticipações do Estado nos encargos de construção e beneficiação de estradas e caminhos municipais e de obras de abastecimentos de água sem distribuição domiciliária poderão atingir 75 por cento, independentemente da importância da respectiva mão-de-obra.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 20 de Fevereiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
