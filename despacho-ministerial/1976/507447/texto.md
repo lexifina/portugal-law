@@ -1,0 +1,3 @@
+Despacho ministerial
+Usando da faculdade conferida pelo § único do artigo 1.º do Decreto-Lei n.º 36820, de 7 de Abril de 1948, e ao abrigo do disposto na base VI da Lei n.º 5/70, de 6 de Junho, autorizo que, enquanto não forem alterados os direitos de importação de tabaco nas ilhas adjacentes, se mantenham em vigor durante o ano de 1976, no distrito autónomo de Ponta Delgada, as taxas para assistência sobre o tabaco, constantes da tabela aprovada por despacho ministerial de 1 de Março de 1950, publicado no Diário do Governo, 1.ª série, n.º 42, de 1 de Março de 1950.
+Ministério das Finanças, 25 de Fevereiro de 1976. - O Ministro das Finanças, Francisco Salgado Zenha.
