@@ -1,0 +1,542 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "345",
+    "id": "5806",
+    "titulo": "Altera a Lei nº112/99 de 3 de Agosto."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-03-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1956",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-03-01",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5742",
+        "leg": "VIII",
+        "nr": "378",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "489",
+            "obs": null,
+            "pag": [
+              "2207-2215"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-03-02",
+            "pubLeg": "VIII",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2207?pgs=2207-2215&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Altera a Lei nº 112/99,de 3 de Agosto - aprova o regime disciplinar das federações desportivas."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-03-01",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "262",
+                "nome": "Laurentino Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136779",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2207-2207"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2207?pgs=2207&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.112/99 DE 3 DE AGOSTO; ALTERA A LEI N.112/99,DE 3 DE AGOSTO-APROVA O REGIME DISCIPLINAR DAS FEDERACOES DESPORTIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136780",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2207-2209"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2207?pgs=2207-2209&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.112/99 DE 3 DE AGOSTO; ALTERA A LEI N.112/99,DE 3 DE AGOSTO-APROVA O REGIME DISCIPLINAR DAS FEDERACOES DESPORTIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1287",
+                "nome": "Sílvio Rui Cervan"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136781",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2208-2208",
+                  "2210-2210"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2208?pgs=2208,2210&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.112/99 DE 3 DE AGOSTO; ALTERA A LEI N.112/99,DE 3 DE AGOSTO-APROVA O REGIME DISCIPLINAR DAS FEDERACOES DESPORTIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1569",
+                "nome": "Luís Miguel Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136782",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2208-2209"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2208?pgs=2208-2209&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.112/99 DE 3 DE AGOSTO; ALTERA A LEI N.112/99,DE 3 DE AGOSTO-APROVA O REGIME DISCIPLINAR DAS FEDERACOES DESPORTIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "262",
+                "nome": "Laurentino Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136783",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2209-2212"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2209?pgs=2209-2212&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.112/99 DE 3 DE AGOSTO; ALTERA A LEI N.112/99,DE 3 DE AGOSTO-APROVA O REGIME DISCIPLINAR DAS FEDERACOES DESPORTIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136784",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2211-2211"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2211?pgs=2211&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.112/99 DE 3 DE AGOSTO; ALTERA A LEI N.112/99,DE 3 DE AGOSTO-APROVA O REGIME DISCIPLINAR DAS FEDERACOES DESPORTIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "246",
+                "nome": "Hermínio Loureiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136785",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2212-2214"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2212?pgs=2212-2214&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.112/99 DE 3 DE AGOSTO; ALTERA A LEI N.112/99,DE 3 DE AGOSTO-APROVA O REGIME DISCIPLINAR DAS FEDERACOES DESPORTIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1653",
+                "nome": "Helena Neves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136786",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2214-2215"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2214?pgs=2214-2215&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.112/99 DE 3 DE AGOSTO; ALTERA A LEI N.112/99,DE 3 DE AGOSTO-APROVA O REGIME DISCIPLINAR DAS FEDERACOES DESPORTIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1287",
+                "nome": "Sílvio Rui Cervan"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136787",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2215-2215"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2215?pgs=2215&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.112/99 DE 3 DE AGOSTO; ALTERA A LEI N.112/99,DE 3 DE AGOSTO-APROVA O REGIME DISCIPLINAR DAS FEDERACOES DESPORTIVAS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "146564",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "261289",
+        "obs": null,
+        "pag": [
+          "2206--2215"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-03-02",
+        "pubLeg": "VIII",
+        "pubNr": "54",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2206?pgs=2206--2215&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
