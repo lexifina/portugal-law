@@ -1,0 +1,3 @@
+Aviso n.º 138/94
+Por ordem superior se torna público que São Vicente, as Grenadinas e o Tadjiquistão depositaram, junto do Secretário-Geral das Nações Unidas, a 3 de Novembro e 7 de Dezembro de 1993, respectivamente, o instrumento de adesão à Convenção Relativa ao Estatuto dos Refugiados, assinada em Genebra a 28 de Julho de 1951, e o Tadjiquistão depositou, a 7 de Dezembro de 1993, o instrumento de adesão ao Protocolo Relativo ao Estatuto dos Refugiados, concluído em Nova Iorque a 31 de Janeiro de 1967.
+Direcção-Geral dos Assuntos Multilaterais, 28 de Março de 1994. - A Directora de Serviços das Organizações Políticas Internacionais, Ana Maria Silva Marques Martinho.
