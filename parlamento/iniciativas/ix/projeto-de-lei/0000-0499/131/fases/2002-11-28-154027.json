@@ -1,0 +1,655 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "131",
+    "id": "19252",
+    "titulo": "Atribui às autarquias locais e as pessoas colectivas de utilidade pública direitos preferenciais na aquisição de imóveis do Estado."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2002-11-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2331",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2002-11-28",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-11-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142926",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2598-2600",
+                  "2605-2606"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-29",
+                "pubLeg": "IX",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/061/2002-11-29/2598?pgs=2598-2600,2605-2606&org=PLC"
+              }
+            ],
+            "sumario": "Atribui às autarquias locais e as pessoas colectivas de utilidade pública direitos preferenciais na aquisição de imóveis do Estado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142927",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2599-2599"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-29",
+                "pubLeg": "IX",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/061/2002-11-29/2599?pgs=2599&org=PLC"
+              }
+            ],
+            "sumario": "Atribui às autarquias locais e as pessoas colectivas de utilidade pública direitos preferenciais na aquisição de imóveis do Estado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1960",
+                "nome": "Rosário Cardoso Águas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142928",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2600-2602"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-29",
+                "pubLeg": "IX",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/061/2002-11-29/2600?pgs=2600-2602&org=PLC"
+              }
+            ],
+            "sumario": "Atribui às autarquias locais e as pessoas colectivas de utilidade pública direitos preferenciais na aquisição de imóveis do Estado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142929",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2601-2601"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-29",
+                "pubLeg": "IX",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/061/2002-11-29/2601?pgs=2601&org=PLC"
+              }
+            ],
+            "sumario": "Atribui às autarquias locais e as pessoas colectivas de utilidade pública direitos preferenciais na aquisição de imóveis do Estado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142930",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2602-2602"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-29",
+                "pubLeg": "IX",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/061/2002-11-29/2602?pgs=2602&org=PLC"
+              }
+            ],
+            "sumario": "Atribui às autarquias locais e as pessoas colectivas de utilidade pública direitos preferenciais na aquisição de imóveis do Estado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1863",
+                "nome": "Miguel Paiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142931",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2602-2603"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-29",
+                "pubLeg": "IX",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/061/2002-11-29/2602?pgs=2602-2603&org=PLC"
+              }
+            ],
+            "sumario": "Atribui às autarquias locais e as pessoas colectivas de utilidade pública direitos preferenciais na aquisição de imóveis do Estado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142932",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2603-2604"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-29",
+                "pubLeg": "IX",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/061/2002-11-29/2603?pgs=2603-2604&org=PLC"
+              }
+            ],
+            "sumario": "Atribui às autarquias locais e as pessoas colectivas de utilidade pública direitos preferenciais na aquisição de imóveis do Estado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142933",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2404-2404",
+                  "2606-2606"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-29",
+                "pubLeg": "IX",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/061/2002-11-29/2404?pgs=2404,2606&org=PLC"
+              }
+            ],
+            "sumario": "Atribui às autarquias locais e as pessoas colectivas de utilidade pública direitos preferenciais na aquisição de imóveis do Estado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142934",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2404-2404",
+                  "2606-2606"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-29",
+                "pubLeg": "IX",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/061/2002-11-29/2404?pgs=2404,2606&org=PLC"
+              }
+            ],
+            "sumario": "Atribui às autarquias locais e as pessoas colectivas de utilidade pública direitos preferenciais na aquisição de imóveis do Estado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142935",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2404-2405"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-29",
+                "pubLeg": "IX",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/061/2002-11-29/2404?pgs=2404-2405&org=PLC"
+              }
+            ],
+            "sumario": "Atribui às autarquias locais e as pessoas colectivas de utilidade pública direitos preferenciais na aquisição de imóveis do Estado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142936",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2407-2407"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-29",
+                "pubLeg": "IX",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/061/2002-11-29/2407?pgs=2407&org=PLC"
+              }
+            ],
+            "sumario": "Atribui às autarquias locais e as pessoas colectivas de utilidade pública direitos preferenciais na aquisição de imóveis do Estado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142937",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2407-2407"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-29",
+                "pubLeg": "IX",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/061/2002-11-29/2407?pgs=2407&org=PLC"
+              }
+            ],
+            "sumario": "Atribui às autarquias locais e as pessoas colectivas de utilidade pública direitos preferenciais na aquisição de imóveis do Estado.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "154027",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2331",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-11-29",
+        "pubLeg": "IX",
+        "pubNr": "61",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/061/2002-11-29?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
