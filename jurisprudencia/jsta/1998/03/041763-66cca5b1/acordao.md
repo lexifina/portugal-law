@@ -1,0 +1,47 @@
+# Acórdão do Supremo Tribunal Administrativo de 1998-03-03, processo 041763
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 041763
+
+**Data do Acordão:** 03/03/1998
+
+**Tribunal:** 2 SUBSECÇÃO DO CA
+
+**Relator:** ROSENDO JOSE
+
+**Descritores:** ACTO CONDICIONAL; ALTERAÇÃO DOS PRESSUPOSTOS DO ACTO; FAIXA COSTEIRA; REVOGAÇÃO DO ACTO ADMINISTRATIVO
+
+**Nº Convencional:** JSTA00049392
+
+**Nº do Documento:** SA119980303041763
+
+**Data de Entrada:** 02/18/1997
+
+**Recorrente:** SOC GESTORA DE CONSTRUÇÕES CORTAR LDA
+
+**Recorrido 1:** VEREADOR DA CM DE OVAR
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 98
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAC COIMBRA.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR URB. DIR ADM CONT - ACTO.
+
+**Legislação Nacional:** DL N445/91 DE 1991/11/20 ART23.; DL N208/82 DE 1982/05/26 ART4 N1.; DL N302/90 DE 1990/09/26 ART11.; DL N351/93 DE 1993/10/07 ART4 N1.; DL N100/84 DE 1984/03/29 ART77.; Texto Integral
+
+## Sumário
+
+I - A aprovação de construção condicionada à apresentação de outro projecto cumprindo determinadas exigências de volumetria e soluções arquitectónicas é acto sujeito a condição que, neste caso, funciona como elemento essencial sem a verificação daqueles requisitos, não existe a vontade de aprovar. Os elementos acessórios contidos na pronúncia são essenciais, devem ser nela inseridos, sob pena de a pronúncia não ter o conteúdo que depende da condição, ressalvado, um certo grau de discricionaridade da autoridade autorizante quanto ao conteúdo daqueles.
+
+II - Após a aprovação condicional referida em I, e antes da aprovação de projecto que cumprisse as condições impostas, entrou em vigor PDM do concelho, cujo acto de ratificação em Conselho de Ministros (Resolução n. 66/95, publicada em 10.7.95) excluiu a possibilidade de construção na faixa de 100 m a contar da linha de máxima praia mar de águas vivas equinociais, na qual se situava o local a edificar, pelo que se tornou impossível o efeito esperado da ocorrência da condição. Nestas circunstâncias, o indeferimento de mais um projecto, entretanto apresentado para dar cumprimento às condições, é acto primário legal, e não acto secundário revogatório de acto anterior, uma vez que não chegou a existir definição definitiva de situação favorável ao interessado.
+
+III - A aprovação, mesmo condicional, era também contrária ao disposto no Anexo ao DL 302/90, de 26.9, pelo que o PDM de Ovar estava vinculado a afastar a possibilidade de construção naquela zona de risco de erosão intensa e a CMO interdita de aprovar projectos de construção naquela área, considerada faixa costeira a proteger em termos de nela não ser permitida qualquer construção.
