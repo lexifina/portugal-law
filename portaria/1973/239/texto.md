@@ -1,0 +1,9 @@
+Portaria n.º 239/73
+de 5 de Abril
+Em determinadas épocas, como é o caso da Páscoa, de maiores fluxos de tráfego rodoviário, tem vindo o Ministério das Comunicações a desenvolver campanhas de prevenção apoiadas em limitações temporárias de velocidade.
+As anteriores campanhas de índole semelhante indicam dados que, apreciados de per si e em análise comparada, aconselham o prosseguimento de medidas deste género com vista à relativa e desejável imunização da taxa crescente de sinistralidade.
+Assim, afigura-se oportuno, para além da indispensável acção da Brigada de Trânsito da G. N. R., acompanhada de adequadas medidas de sensibilização do condutor, no que respeita ao cumprimento rigoroso das regras de trânsito, fixar, mais uma vez, limites máximos de velocidade nas estradas.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunicações e Transportes, ao abrigo do disposto no n.º 6 do artigo 7.º do Código da Estrada, que das O horas do dia 18 de Abril de 1973 às 24 horas do dia 23 de Abril de 1973 a velocidade máxima instantânea permitida para os motociclos simples e automóveis ligeiros de passageiros e mistos sem reboque seja de 90 km/h fora das localidades e em todas as estradas do continente, com excepção das auto-estradas, em que a velocidade máxima se fixa em 120 km/h.
+Os restantes veículos automóveis ficam sujeitos no mesmo período ao limite de velocidade máxima instantânea de 60 km/h, excepto nas auto-estradas, em que se mantêm os valores fixados na lei; todos estes limites são estabelecidos sem prejuízo de outros que lhes sejam inferiores, devidamente sinalizados ou genericamente impostos pelo Código da Estrada.
+Ministério das Comunicações, 24 de Março de 1973. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
