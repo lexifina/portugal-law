@@ -1,0 +1,292 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11206",
+  "numero": "14",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2002-07-15",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2002-09-17",
+        "DataArquivo": "2003-03-07",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2003-03-12",
+        "DataReaberta": "2002-09-17",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2002-07-15",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764f4652425579394562324e31625756756447397a5547563061574e68627938794e5464685a4467785969307a5a6d55324c5451774e474d7459544a6a4e433077596d526a5a6a4e6d4e4745304d6a45756347526d&fich=257ad81b-3fe6-404c-a2c4-0bdcf3f4a421.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "109",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE TRABALHO E DOS ASSUNTOS SOCIAIS",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2003-03-21",
+    "Documentos": [
+      {
+        "DataDocumento": "2002-07-15",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d765a6d5668596a557a59544574595445324e6930305a4755774c5468684e7a6b744d47597a597a417a4d7a417a597a67794c6e426b5a673d3d&fich=feab53a1-a166-4de0-8a79-0f3c03303c82.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2003-03-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144516",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4336-4336"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-22",
+                "pubLeg": "IX",
+                "pubNr": "103",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/103/2003-03-22/4336?pgs=4336&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM QUE O ÂMBITO DE APLICAÇÃO DA LEI Nº.9/2002, DE 11 DE FEVEREIRO, SEJA ALARGADO, POR FORMA A ABRANGER NO SEU ÂMBITO DE APLICAÇÃO TODOS OS EX-MILITARES, BEM COMO OS EMIGRANTES PORTUGUESES; SOLICITAM QUE OS EX-EXPEDICIONÁRIOS A TIMOR, NO PERÍODO ANTES DE 25 DE ABRIL DE 1974, SEJAM ABRANGIDOS NO ÂMBITO DE APLICAÇÃO DA LEI Nº.9/2002, DE 11 DE FEVEREIRO.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-03-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144517",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4336-4337"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-22",
+                "pubLeg": "IX",
+                "pubNr": "103",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/103/2003-03-22/4336?pgs=4336-4337&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM QUE O ÂMBITO DE APLICAÇÃO DA LEI Nº.9/2002, DE 11 DE FEVEREIRO, SEJA ALARGADO, POR FORMA A ABRANGER NO SEU ÂMBITO DE APLICAÇÃO TODOS OS EX-MILITARES, BEM COMO OS EMIGRANTES PORTUGUESES; SOLICITAM QUE OS EX-EXPEDICIONÁRIOS A TIMOR, NO PERÍODO ANTES DE 25 DE ABRIL DE 1974, SEJAM ABRANGIDOS NO ÂMBITO DE APLICAÇÃO DA LEI Nº.9/2002, DE 11 DE FEVEREIRO.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-03-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144518",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4337-4337"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-22",
+                "pubLeg": "IX",
+                "pubNr": "103",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/103/2003-03-22/4337?pgs=4337&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM QUE O ÂMBITO DE APLICAÇÃO DA LEI Nº.9/2002, DE 11 DE FEVEREIRO, SEJA ALARGADO, POR FORMA A ABRANGER NO SEU ÂMBITO DE APLICAÇÃO TODOS OS EX-MILITARES, BEM COMO OS EMIGRANTES PORTUGUESES; SOLICITAM QUE OS EX-EXPEDICIONÁRIOS A TIMOR, NO PERÍODO ANTES DE 25 DE ABRIL DE 1974, SEJAM ABRANGIDOS NO ÂMBITO DE APLICAÇÃO DA LEI Nº.9/2002, DE 11 DE FEVEREIRO.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-03-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144519",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4337-4338"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-22",
+                "pubLeg": "IX",
+                "pubNr": "103",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/103/2003-03-22/4337?pgs=4337-4338&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM QUE O ÂMBITO DE APLICAÇÃO DA LEI Nº.9/2002, DE 11 DE FEVEREIRO, SEJA ALARGADO, POR FORMA A ABRANGER NO SEU ÂMBITO DE APLICAÇÃO TODOS OS EX-MILITARES, BEM COMO OS EMIGRANTES PORTUGUESES; SOLICITAM QUE OS EX-EXPEDICIONÁRIOS A TIMOR, NO PERÍODO ANTES DE 25 DE ABRIL DE 1974, SEJAM ABRANGIDOS NO ÂMBITO DE APLICAÇÃO DA LEI Nº.9/2002, DE 11 DE FEVEREIRO.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11206",
+    "PetAssunto": "Solicitam que o âmbito de aplicação da Lei nº.9/2002, de 11 de Fevereiro, seja alargado, por forma a abranger no seu âmbito de aplicação todos os ex-militares, bem como os emigrantes portugueses.",
+    "PetDataEntrada": "2002-07-15",
+    "PeticoesAssociadas": null,
+    "PetId": "11206",
+    "PetLeg": "IX",
+    "PetNr": "14",
+    "PetNrAssinaturas": "11052",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "689",
+        "obs": null,
+        "pag": [
+          "4336-4338"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-03-22",
+        "pubLeg": "IX",
+        "pubNr": "103",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/103/2003-03-22/4336?pgs=4336-4338&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
