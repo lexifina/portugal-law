@@ -16,6 +16,6 @@ e) Autorizar o acesso à informação do FCPC ou o seu fornecimento, no respeito
 
 f) Exercer qualquer outra competência que lhe seja atribuída por lei.
 
-2 - A direcção do RNPC é assegurada, por períodos trienais, pelo conservador para o efeito designado por despacho do presidente do IRN, I. P.
+2 - A direcção do RNPC é assegurada, por períodos trienais, pelo conservador para o efeito designado por despacho do director-geral dos Registos e do Notariado.
 
 3 - O director pode delegar as suas competências nos conservadores e conservadores auxiliares.

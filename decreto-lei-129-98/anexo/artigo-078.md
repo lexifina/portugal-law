@@ -10,26 +10,26 @@
 
 ### Competência
 
-1 - Compete ao RNPC e aos serviços de registo designados em despacho do presidente do IRN, I. P.:
-
-a) Velar pela exactidão e actualidade da informação contida no FCPC, promovendo as correcções necessárias;
-
-b) Promover a inscrição no FCPC dos actos de constituição, modificação e dissolução das pessoas colectivas e entidades equiparadas;
-
-c) Emitir certificados de admissibilidade de firmas e denominações assegurando o cumprimento dos princípios da novidade e da verdade;
-
-d) Declarar a perda do direito ao uso de firma ou denominação nos termos do artigo 61.º
+1 - Compete ao RNPC identificar as pessoas colectivas e entidades equiparadas, inscrever a sua constituição, modificação e dissolução no FCPC e providenciar o respeito pelos princípios da exclusividade e da verdade das respectivas firmas e denominações.
 
 2 - Compete em especial ao RNPC:
 
-a) Estudar, planear e coordenar as tarefas necessárias à identificação das pessoas colectivas e entidades equiparadas;
+a) Estudar, planear e coordenar as tarefas necessárias à identificação das pessoas colectivas e entidades equiparadas e dos estabelecimentos económicos;
 
 b) Organizar, manter e explorar o FCPC, sem prejuízo do disposto no n.º 1 do artigo 30.º;
 
-c) Promover as acções necessárias à coordenação no sector público das bases de dados de pessoas colectivas e entidades equiparadas;
+c) Velar pela exactidão e actualidade da informação contida no FCPC, promovendo as necessárias acções de correcção;
 
-d) Coordenar, em conjunto com o IRN, I. P., a prestação dos serviços online e de balcão único disponibilizados nos serviços de registo;
+d) Promover a anotação no FCPC dos actos de constituição, modificação e dissolução das pessoas colectivas e, na medida do aplicável, das entidades equiparadas;
 
-e) Praticar actos de registo que venham a ser fixados por despacho do presidente do IRN, I. P.;
+e) Emitir cartões de identificação de pessoas colectivas, de entidades equiparadas e de estabelecimentos;
 
-f) Assegurar a participação portuguesa em reuniões internacionais sobre matérias da sua competência.
+f) Velar pelo respeito da exclusividade e verdade das firmas e denominações, bem como das demais formas de individualizar as pessoas colectivas e as entidades equiparadas;
+
+g) Emitir certificados de admissibilidade de firmas e denominações;
+
+h) Aplicar sanções ou promover o procedimento adequado, nos termos das disposições legais aplicáveis;
+
+i) Promover as acções necessárias à coordenação no sector público dos ficheiros automatizados de pessoas colectivas e entidades equiparadas;
+
+j) Assegurar, em coordenação com as demais entidades competentes, a participação portuguesa em reuniões internacionais sobre matérias da sua competência.

@@ -1,27 +1,23 @@
 ## Título IV
 
-## Impugnação de decisões
+## Direitos e garantias dos particulares
 
 ## Capítulo I
 
-## Recurso hierárquico e impugnação judicial
+## Recurso hierárquico
 
 # Artigo 63.º
 
 ### Admissibilidade
 
-1 - Podem ser impugnados mediante a interposição de recurso hierárquico para o presidente do IRN, I. P., ou mediante impugnação judicial para o tribunal do domicílio ou sede do recorrente:
+1 - Dos despachos finais que admitam ou indefiram firmas ou denominações, considerem haver ou não obstáculo legal ao registo de nome de estabelecimento ou declarem a perda do direito à exclusividade cabe recurso hierárquico para o director-geral dos Registos e do Notariado.
 
-a) Os despachos que admitam ou recusem firmas ou denominações;
+2 - Cabe ainda recurso hierárquico:
 
-b) Os despachos que declarem a perda do direito ao uso de firma ou denominação ou que indefiram o respectivo pedido;
+a) Da imposição de condições à validade do certificado de admissibilidade de firma ou denominação;
 
-c) A imposição de condições à validade do certificado de admissibilidade de firma ou denominação;
+b) Dos despachos que recusem a aceitação do pedido, exijam o cumprimento de certas formalidades ou o preenchimento de certos requisitos;
 
-d) Os despachos que recusem a aceitação do pedido, exijam o cumprimento de certas formalidades ou o preenchimento de certos requisitos;
+c) Dos despachos que neguem a invalidação de certificado ou a sua renovação;
 
-e) Os despachos que recusem a invalidação de certificado de admissibilidade de firma ou denominação;
-
-f) Os despachos que recusem ou admitam a inscrição definitiva de pessoas colectivas ou outras entidades no FCPC.
-
-2 - (Revogado).
+d) Dos despachos que recusem ou admitam a inscrição definitiva de pessoas colectivas ou outras entidades no FCPC.

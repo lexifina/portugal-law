@@ -2,7 +2,7 @@
 
 ### Falsificação
 
-1 - Praticam contra-ordenação e ficam sujeitas a coima, de (euro) 249,40 a (euro) 2493,99, tratando-se de pessoas singulares, e de (euro) 1496,39 a (euro) 14963,94, tratando-se de pessoas colectivas, as entidades que:
+1 - Praticam contra-ordenação e ficam sujeitas a coima, de 50000$00 a 500000$00, tratando-se de pessoas singulares, e de 300000$00 a 3000000$00, tratando-se de pessoas colectivas, as entidades que:
 
 a) Por qualquer forma, e com intuito fraudulento ou com ânimo de prejudicar terceiro, falsifiquem ou utilizem indevidamente documentos emanados do RNPC;
 

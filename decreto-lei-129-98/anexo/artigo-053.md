@@ -2,10 +2,10 @@
 
 ### Validade do certificado
 
-1 - O certificado de admissibilidade de firma ou denominação é válido pelo período de três meses, a contar da data da sua emissão, para a firma, sede, objecto, requerente e condições de validade nele indicadas.
+1 - O certificado é válido durante o prazo de 180 dias contado a partir da data da sua emissão.
 
-2 - (Revogado).
+2 - A validade do certificado fica dependente da verificação das condições nele expressas.
 
-3 - O certificado condicionado à participação de pessoa singular ou colectiva ou de titular de direito de propriedade industrial já registado só é válido quando utilizado por pessoa legitimada para o efeito.
+3 - O certificado deferido com fundamento na participação como constituinte de pessoa singular ou de titular de firma, denominação, nome de estabelecimento ou marca já registados só é válido quando utilizado por pessoa legitimada para o usar.
 
-4 - (Revogado).
+4 - O certificado pode ser revalidado por três vezes, mediante apresentação do respectivo original, desde que se mostre ainda dentro do respectivo prazo de validade.

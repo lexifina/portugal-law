@@ -10,6 +10,4 @@ b) Alteração do objecto ou capital;
 
 c) Alteração da localização da sede ou do endereço postal;
 
-d) A alteração do código de actividade económica (CAE);
-
-e) Elementos de identificação da entidade representada e suas alterações.
+d) Elementos de identificação da entidade representada e suas alterações.

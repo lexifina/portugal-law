@@ -6,4 +6,4 @@
 
 2 - O nome do titular pode ser abreviado, com os limites referidos no n.º 3 do artigo 38.º
 
-3 - Ao uso exclusivo da firma do estabelecimento individual de responsabilidade limitada é aplicável o disposto no n.º 4 do artigo 38.º
+3 - Ao uso exclusivo da firma do estabelecimento individual de responsabilidade limitada é aplicável o disposto nos n.os 4 e 5 do artigo 38.º

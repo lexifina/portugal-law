@@ -2,6 +2,6 @@
 
 ### Invalidação e desistência
 
-1 - O requerente do certificado de admissibilidade de firma ou denominação pode desistir do pedido de certificado e pode pedir a sua invalidação, desde que o certificado não tenha sido utilizado.
+1 - O requerente do certificado de admissibilidade de firma ou denominação pode requerer a sua invalidação ou a desistência do seu pedido, efectuando a entrega do original de certificado já emitido.
 
-2 - Os pedidos referidos no número anterior podem ser apresentados por qualquer uma das vias previstas no n.º 1 do artigo 46.º
+2 - A apresentação simultânea de novo pedido de certificado de admissibilidade da firma ou denominação anteriormente pedida só é admissível se o pedido de invalidação ou desistência for solicitado por quem requereu o primeiro certificado ou se mostre obtido o seu consentimento, ainda que por intermédio de mandatário.

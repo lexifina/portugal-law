@@ -14,16 +14,16 @@
 
 2 - Os elementos característicos das firmas e denominações, ainda quando constituídos por designações de fantasia, siglas ou composições, não podem sugerir actividade diferente da que constitui o objecto social.
 
-3 - Para efeitos do disposto neste artigo não deve ser efectuado o controlo da legalidade do objecto social, devendo somente ser assegurado o cumprimento do disposto nos números anteriores.
+3 - Os vocábulos de uso corrente e os topónimos, bem como qualquer indicação de proveniência geográfica, não são considerados de uso exclusivo.
 
 4 - Das firmas e denominações não podem fazer parte:
 
 a) Expressões que possam induzir em erro quanto à caracterização jurídica da pessoa colectiva, designadamente o uso, por entidades com fim lucrativo, de expressões correntemente usadas na designação de organismos públicos ou de associações sem finalidade lucrativa;
 
-b) Expressões proibidas por lei ou ofensivas da moral ou dos bons costumes;
+b) Expressões que sugiram de forma enganadora uma capacidade técnica, financeira ou âmbito de actuação manifestamente desproporcionados relativamente aos meios disponíveis ou que correspondam a qualidades ou excelências em detrimento de outrem;
 
-c) Expressões incompatíveis com o respeito pela liberdade de opção política, religiosa ou ideológica;
+c) Expressões proibidas por lei ou ofensivas da moral ou dos bons costumes;
 
-d) Expressões que desrespeitem ou se apropriem ilegitimamente de símbolos nacionais, personalidades, épocas ou instituições cujo nome ou significado seja de salvaguardar por razões históricas, patrióticas, científicas, institucionais, culturais ou outras atendíveis.
+d) Expressões incompatíveis com o respeito pela liberdade de opção política, religiosa ou ideológica;
 
-5 - Quando, por qualquer causa, deixe de ser associado ou sócio pessoa singular cujo nome figure na firma ou denominação de pessoa colectiva, deve tal firma ou denominação ser alterada no prazo de um ano, a não ser que o associado ou sócio que se retire ou os herdeiros do que falecer consintam por escrito na continuação da mesma firma ou denominação.
+e) Expressões que desrespeitem ou se apropriem ilegitimamente de símbolos nacionais, personalidades, épocas ou instituições cujo nome ou significado seja de salvaguardar por razões históricas, patrióticas, científicas, institucionais, culturais ou outras atendíveis.

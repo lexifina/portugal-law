@@ -1,5 +1,5 @@
 # Artigo 31.º
 
-### Dever de sigilo
+### Sigilo profissional
 
-Os responsáveis pelo tratamento de dados pessoais, bem como as pessoas que, no exercício das suas funções, tenham conhecimento dos dados pessoais registados na base de dados do FCPC, ficam obrigados a sigilo profissional, mesmo após o termo das suas funções.
+Aquele que, no exercício das suas funções, tome conhecimento de dados pessoais registados no FCPC fica obrigado ao sigilo profissional, nos termos do disposto no artigo 32.º da Lei n.º 10/91, de 29 de Abril.
