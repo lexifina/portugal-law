@@ -1,0 +1,19 @@
+Portaria n.º 70/80
+de 1 de Março
+Para execução do disposto no Decreto-Lei n.º 549/77, de 31 de Dezembro, ratificado pela Lei n.º 55/78, de 27 de Julho, e de acordo com o n.º 3 do artigo 1.º do Decreto n.º 79/79, de 2 de Agosto:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social:
+A norma I da Portaria n.º 644/79, de 4 de Dezembro, passa a ter a seguinte redacção.
+I
+São integrados no Centro Regional de Segurança Social do Porto os seguintes órgãos, serviços e instituições oficiais existentes na área do distrito:
+1) ...
+a) ...
+b) ...
+c) Dependentes do Instituto de Obras Sociais:
+O Jardim-de-Infância da Póvoa de Varzim;
+O Jardim-de-Infância de Lavadores;
+d) ...
+e) A delegação no Porto do Gabinete de Inspecção do ex-Comissariado para os Desalojados.
+2) ...
+...
+O Centro de Educação Especial do Porto.
+Ministério dos Assuntos Sociais, 5 de Fevereiro de 1980. - O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.
