@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que os Governos do Bangladesh, de Antígua e Barbuda, da República Árabe do Iémene e do México depositaram junto do director-geral da UNESCO, respectivamente em 3 de Agosto de 1983, 1 de Novembro de 1983, 25 de Janeiro de 1984 e 23 de Fevereiro de 1984, os respectivos instrumentos de aceitação ou de ratificação da Convenção Relativa à Protecção do Património Mundial Cultural e Natural, concluída em Paris em 16 de Novembro de 1972, e já ratificada por Portugal, conforme aviso publicado no Diário da República, de 14 de Novembro de 1980.
+De acordo com o artigo 33, a Convenção entra em vigor em relação a cada um dos Estados 3 meses após o depósito do respectivo instrumento de aceitação ou ratificação.
+Direcção-Geral das Relações Culturais Externas, 15 de Junho de 1984. - O Director-Geral, Nataniel Costa.
