@@ -1,0 +1,467 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "2",
+    "id": "18993",
+    "titulo": "Define regras orientadoras para a instalação de equipamentos que emitem campos electromagnéticos."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2002-06-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2167",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2002-06-06",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "19068",
+        "leg": "IX",
+        "nr": "18",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "629",
+            "obs": null,
+            "pag": [
+              "708-714"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-06-07",
+            "pubLeg": "IX",
+            "pubNr": "18",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/018/2002-06-07/708?pgs=708-714&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "629",
+            "obs": null,
+            "pag": [
+              "708-714"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-06-07",
+            "pubLeg": "IX",
+            "pubNr": "18",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/018/2002-06-07/708?pgs=708-714&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Código de boas práticas para a instalação de equipamentos que criam campos electromagnéticos."
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "19079",
+        "leg": "IX",
+        "nr": "22",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "629",
+            "obs": null,
+            "pag": [
+              "708-714"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-06-07",
+            "pubLeg": "IX",
+            "pubNr": "18",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/018/2002-06-07/708?pgs=708-714&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "629",
+            "obs": null,
+            "pag": [
+              "708-714"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-06-07",
+            "pubLeg": "IX",
+            "pubNr": "18",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/018/2002-06-07/708?pgs=708-714&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Estabelece medidas de protecção da saúde dos cidadãos quanto às radiações emitidas pelas antenas de telemóveis."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-06-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141020",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "708-709"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-07",
+                "pubLeg": "IX",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/018/2002-06-07/708?pgs=708-709&org=PLC"
+              }
+            ],
+            "sumario": "Define regras orientadoras para a instalação de equipamentos que emitem campos electromagnéticos;Código de boas práticas para a instalação de equipamentos que criam campos electromagnéticos; Estabelece medidas de protecção da saúde dos cidadãos quanto às radiações emitidas pelas antenas de telemóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1896",
+                "nome": "Massano Cardoso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141021",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "709-711"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-07",
+                "pubLeg": "IX",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/018/2002-06-07/709?pgs=709-711&org=PLC"
+              }
+            ],
+            "sumario": "Define regras orientadoras para a instalação de equipamentos que emitem campos electromagnéticos;Código de boas práticas para a instalação de equipamentos que criam campos electromagnéticos; Estabelece medidas de protecção da saúde dos cidadãos quanto às radiações emitidas pelas antenas de telemóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1627",
+                "nome": "Maria Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141022",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "711-712"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-07",
+                "pubLeg": "IX",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/018/2002-06-07/711?pgs=711-712&org=PLC"
+              }
+            ],
+            "sumario": "Define regras orientadoras para a instalação de equipamentos que emitem campos electromagnéticos;Código de boas práticas para a instalação de equipamentos que criam campos electromagnéticos; Estabelece medidas de protecção da saúde dos cidadãos quanto às radiações emitidas pelas antenas de telemóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141023",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "712-713"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-07",
+                "pubLeg": "IX",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/018/2002-06-07/712?pgs=712-713&org=PLC"
+              }
+            ],
+            "sumario": "Define regras orientadoras para a instalação de equipamentos que emitem campos electromagnéticos;Código de boas práticas para a instalação de equipamentos que criam campos electromagnéticos; Estabelece medidas de protecção da saúde dos cidadãos quanto às radiações emitidas pelas antenas de telemóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1921",
+                "nome": "Isabel Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141024",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "713-714"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-07",
+                "pubLeg": "IX",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/018/2002-06-07/713?pgs=713-714&org=PLC"
+              }
+            ],
+            "sumario": "Define regras orientadoras para a instalação de equipamentos que emitem campos electromagnéticos;Código de boas práticas para a instalação de equipamentos que criam campos electromagnéticos; Estabelece medidas de protecção da saúde dos cidadãos quanto às radiações emitidas pelas antenas de telemóveis.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141025",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "714-714"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-07",
+                "pubLeg": "IX",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/018/2002-06-07/714?pgs=714&org=PLC"
+              }
+            ],
+            "sumario": "Define regras orientadoras para a instalação de equipamentos que emitem campos electromagnéticos;Código de boas práticas para a instalação de equipamentos que criam campos electromagnéticos; Estabelece medidas de protecção da saúde dos cidadãos quanto às radiações emitidas pelas antenas de telemóveis.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "152187",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "271043",
+        "obs": null,
+        "pag": [
+          "708-714"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-06-07",
+        "pubLeg": "IX",
+        "pubNr": "18",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/018/2002-06-07/708?pgs=708-714&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
