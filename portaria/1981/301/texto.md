@@ -1,0 +1,12 @@
+Portaria n.º 301/81
+de 30 de Março
+Considerando o disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, e na alínea b) do n.º 3 do Despacho Normativo n.º 539/80, de 8 de Novembro;
+Considerando que no Gabinete de Planeamento criado pelo Decreto-Lei n.º 59/80, de 3 de Abril, não pode preencher-se o lugar de chefe da Divisão de Programação e Controle constante do respectivo quadro anexo ao Decreto Regulamentar n.º 19/80, de 26 de Maio, com a celeridade que impõe uma actuação imediata desse organismo no âmbito específico das suas atribuições, porquanto, como é natural, os quadros não se encontram ainda preenchidos por forma a dar-se cabal cumprimento ao preceituado na alínea b) do n.º 2 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho;
+Considerando ainda que ao titular daquele cargo se exigirá para o exercício das respectivas funções, antes de mais e necessariamente, uma formação profissional e uma experiência compatíveis com os requisitos exigíveis por este último preceito do citado Decreto-Lei n.º 191-F/79;
+Considerando que na chefia da Divisão de Programação e Controle se exige experiência em análise de projectos e domínio da problemática relativa à implementação de sistemas de planeamento, programação e orçamentação integrados;
+Considerando que à Divisão de Programação e Controle se exige a coordenação da preparação do plano de actividades da Secretaria de Estado da Cultura numa óptica de gestão por objectivos e propor a correspondente afectação de recursos;
+Considerando que à Divisão de Programação e Controle compete a avaliação dos programas de investimento e a definição de critérios para a sua avaliação e, por outro lado, o acompanhamento da execução dos programas da Secretaria de Estado da Cultura:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado da Cultura e da Reforma Administrativa, o seguinte:
+1.º É alargada a área de recrutamento para o lugar de chefe da Divisão de Programação e Controle do quadro de pessoal do Gabinete de Planeamento, que constitui o anexo I ao Decreto Regulamentar n.º 19/80, de 26 de Maio, aos técnicos superiores de 1.ª classe dos quadros da Administração Pública.
+2.º O despacho de nomeação será acompanhado, para efeitos de publicação, do currículo do nomeado.
+Presidência do Conselho de Ministros e Ministério da Reforma Administrativa, 17 de Março de 1981. - O Secretário de Estado da Cultura, António Manuel da Assumpção Braz Teixeira. - O Secretário de Estado da Reforma Administrativa, José Queirós Lopes Raimundo.
