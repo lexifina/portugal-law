@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Departamento de Estado Norte-Americano, a Tanzânia, os Emiratos Árabes Unidos e o Catar depositaram, respectivamente em 6 de Janeiro de 1976, 15 de Janeiro de 1976 e 27 de Fevereiro de 1976, os instrumentos de aceitação dos Estatutos da Agência Internacional de Energia Atómica, concluídos em 26 de Outubro de 1956, pelo que são desde a data do depósito daqueles instrumentos membros do referido organismo internacional.
+Direcção-Geral dos Negócios Económicos, 30 de Junho de 1976. - O Adjunto do Director-Geral, Alexandre Eduardo Lencastre da Veiga.
