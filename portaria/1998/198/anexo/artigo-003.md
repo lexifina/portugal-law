@@ -34,7 +34,7 @@ a) Enquadrarem-se no âmbito e nos objectivos do plano a que se refere o artigo 
 
 b) Terem início após a data de apresentação da candidatura, entendendo-se por data de início a data da factura mais antiga relativa a investimentos elegíveis em activos corpóreos efectuados no âmbito da mesma, devendo o início dos trabalhos ser previamente comunicado ao IFADAP;
 
-c) Envolverem um montante mínimo de investimento em activos fixos, elegíveis no âmbito da aplicação desta acção, de 20000 contos, excepto para o sector «Produtos silvícolas», para o subsector «Mel natural», para «criação de postos de recepção afectos ao lagar» do subsector «Oleaginosas (azeite)» ou quando o projecto respeite exclusivamente ao cumprimento de normativos sobre a protecção do ambiente ou sobre condições hígio-sanitárias ou à normalização/classificação de produtos, em que o montante mínimo é de 5000 contos;
+c) Envolverem um montante mínimo de investimento em activos fixos, elegíveis no âmbito da aplicação desta acção, de 20000 contos, excepto para o sector 'Produtos silvícolas', para o sector 'Mel natural', para 'criação de postos de recepção afectos ao lagar' do subsector 'Oleaginosas (azeite)' ou quando o projecto respeite exclusivamente ao cumprimento de normativos sobre condições hígio-sanitárias ou normalização/classificação de produtos, em que o montante mínimo é de 5000 contos, ou ao cumprimento de normativos sobre protecção de ambiente, em que o montante mínimo é de 3000 contos;
 
 d) Incluírem, para investimentos em activos fixos:
 
