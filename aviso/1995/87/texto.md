@@ -1,0 +1,4 @@
+Aviso n.º 87/95
+Por ordem superior se torna público que, por nota de 22 de Fevereiro de 1995 e nos termos do artigo 32.º da Convenção Europeia de Extradição, aberta à assinatura em Paris, em 13 de Dezembro de 1957, a Secretaria-Geral do Conselho da Europa notificou ter a Eslovénia, em 16 de Fevereiro de 1995, depositado o seu instrumento de adesão à mencionada Convenção. A Convenção entrará em vigor para a Eslovénia em 17 de Maio de 1995.
+Portugal é Parte na mesma Convenção, que foi aprovada, para adesão, pela Resolução da Assembleia da República n.º 23/89, de 21 de Agosto, tendo depositado o seu instrumento de ratificação, conforme aviso publicado no Diário da República, 1.ª série, n.º 76, de 31 de Março de 1990, com uma declaração e reservas.
+Departamento de Assuntos Jurídicos, 17 de Março de 1995. - O Director, José Maria Teixeira Leite Martins.
