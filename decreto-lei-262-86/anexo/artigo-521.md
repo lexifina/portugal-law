@@ -1,5 +1,5 @@
 # Artigo 521.º
 
-### (Relatórios)
+### Recusa ilícita de lavrar acta
 
-Os Ministros das Finanças e da Justiça, em portaria conjunta, podem completar o conteúdo obrigatório do relatório anual dos órgãos de administração ou de fiscalização e do revisor oficial de contas, sem prejuízo da imediata aplicação do disposto nesta lei.
+Aquele que, tendo o dever de redigir ou assinar acta de assembleia social, sem justificação o não fizer, ou agir de modo que outrem igualmente obrigado o não possa fazer, será punido, se pena mais grave não couber por força de outra disposição legal, com multa até 120 dias.

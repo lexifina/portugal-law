@@ -1,5 +1,7 @@
 # Artigo 511.º
 
-### (Firmas e denominações)
+### Amortização de quota não liberada
 
-As sociedades constituídas antes da entrada em vigor desta lei podem manter as firmas ou denominações que até então vinham legalmente usando, mas as sociedades anónimas passarão a usar a abreviatura S. A., em vez de S. A. R. L., independentemente de alteração do contrato.
+1 - O gerente de sociedade que, em violação da lei, amortizar, total ou parcialmente, quota não liberada será punido com multa até 120 dias.
+
+2 - Se for causado dano grave, material ou moral, e que o autor pudesse prever, a algum sócio que não tenha dado o seu assentimento para o facto, à sociedade, ou a terceiro, a pena será a da infidelidade.

@@ -1,11 +1,7 @@
 # Artigo 517.º
 
-### (Quotas amortizadas - Acções próprias)
+### Participação fraudulenta em assembleia social
 
-1 - As quotas amortizadas anteriormente à entrada em vigor desta lei podem continuar a figurar no balanço como tais, independentemente da existência de estipulação contratual.
+1 - Aquele que, em assembleia geral de sócios, assembleia especial de accionistas ou assembleia de obrigacionistas, se apresentar falsamente como titular de acções, quotas, partes sociais ou obrigações, ou como investido de poderes de representação dos respectivos titulares, e nessa falsa qualidade votar, será punido, se pena mais grave não for aplicável por força de outra disposição legal, com prisão até seis meses e multa até 90 dias.
 
-2 - As sociedades anónimas que, à data da entrada em vigor desta lei, possuírem acções próprias podem conservá-las durante cinco anos a contar da referida data.
-
-3 - As alienações de acções próprias a terceiros, durante os cinco anos referidos no número anterior, podem ser decididas pelo conselho de administração.
-
-4 - As acções próprias que a sociedade conservar ao fim dos cinco anos referidos no n.º 2 serão nessa data automaticamente anuladas na parte em que excedam 10% do capital.
+2 - Se algum dos membros dos órgãos de administração ou fiscalização da sociedade determinar outrem a executar o facto descrito no número anterior, ou auxiliar a execução, será punido como autor, se pena mais grave não for aplicável por força de outra disposição legal, com prisão de três meses a um ano e multa até 120 dias.
