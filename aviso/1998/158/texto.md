@@ -1,0 +1,4 @@
+Aviso n.º 158/98
+Por ordem superior se faz público que, segundo comunicação do Departamento Federal dos Negócios Estrangeiros da Suíça de 16 de Dezembro de 1996, o Governo da Irlanda depositou, em 4 de Dezembro de 1996, o instrumento de aceitação do Protocolo de Alterações à Convenção para o Estabelecimento de Uma Organização Europeia para a Exploração de Satélites Meteorológicos, concluído em Darmstadt em 5 de Junho de 1991.
+O referido Protocolo foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 22/94 e ratificado pelo Decreto do Presidente da República n.º 24/94, publicados no Diário da República, 1.ª série-A, n.º 109, de 11 de Maio de 1994, tendo sido depositado o correspondente instrumento em 7 de Fevereiro de 1996.
+Direcção-Geral dos Assuntos Multilaterais, 16 de Agosto de 1998. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
