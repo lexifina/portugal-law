@@ -1,0 +1,4 @@
+Resolução n.º 266/80
+Ao abrigo do disposto na alínea c) do artigo 146.º e no n.º 1 do artigo 281.º da Constituição, o Conselho da Revolução, a solicitação do Presidente da Assembleia da República e precedendo parecer da Comissão Constitucional, não se pronuncia pela inconstitucionalidade das normas constantes dos artigos 1.º a 6.º, 7.º (com excepção da parte em que dá nova redacção ao artigo 33.º do Código do Imposto Complementar, já declarada inconstitucional), 8.º, 11.º a 16.º, 17.º [com excepção da alínea f) do n.º 1, também já declarada inconstitucional] e 18.º do Decreto-Lei n.º 667/76, de 5 de Agosto, diploma que introduziu diversas alterações na legislação fiscal então em vigor.
+Aprovada em Conselho da Revolução em 9 de Julho de 1980.
+O Presidente do Conselho da Revolução, António Ramalho Eanes, general.
