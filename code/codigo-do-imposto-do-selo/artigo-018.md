@@ -1,0 +1,17 @@
+## Capítulo VI
+
+## Obrigações acessórias e fiscalização
+
+## Secção I
+
+## Obrigações declarativas e contabilísticas
+
+# Artigo 18.º
+
+### Declaração anual
+
+1 - Os sujeitos passivos do imposto ou os seus representantes legais são obrigados a apresentar anualmente declaração discriminativa do imposto do selo liquidado e do que constitua seu encargo nas operações e actos realizados no exercício da sua actividade.
+
+2 - A declaração a que se refere o número anterior é de modelo oficial e consta de anexo às declarações periódicas de rendimentos previstas no artigo 96.º do Código do IRC e no artigo 57.º do Código do IRS, sendo apresentada nos prazos estabelecidos no artigo 96.º do Código do IRC e artigo 60.º do Código do IRS.
+
+3 - Sempre que aos serviços da administração fiscal se suscitem dúvidas sobre quaisquer elementos constantes das declarações, notificarão os contribuintes para prestarem por escrito, no prazo que lhes for fixado, nunca inferior a 10 dias, os esclarecimentos necessários.
