@@ -1,0 +1,5 @@
+Aviso n.º 15/2002
+Por ordem superior se torna público que o Governo da República Federal da Jugoslávia informou, em 3 de Julho de 2001, que decidiu aceitar, enquanto Estado sucessor da República Socialista Federativa da Jugoslávia, a Convenção Relativa às Zonas Húmidas de Importância Internacional, especialmente como Habitat de Aves Aquáticas, adoptada em Ramsar em 2 de Fevereiro de 1971.
+Portugal é Parte da mesma Convenção, tendo depositado o instrumento de ratificação à Convenção em 24 de Novembro de 1980 (Decreto n.º 101/80, de 9 de Outubro).
+Nos termos do artigo 2.º da Convenção, as zonas húmidas a seguir referidas foram designadas pela República Federal da Jugoslávia para figurar na lista de zonas húmidas de importância internacional estabelecidas em virtude desta Convenção: Obedsha Bara, Ludasko Jezero, Skadarkso Jezero e Stari Begei (Reserva Natural Especial de Carska Bara).
+Direcção-Geral dos Assuntos Multilaterais, 18 de Fevereiro de 2002. - A Directora de Serviços das Organizações Económicas Internacionais, Graça Gonçalves Pereira.
