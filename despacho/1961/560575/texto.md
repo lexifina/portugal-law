@@ -1,0 +1,3 @@
+Despacho
+Mediante proposta do Ministro da Educação Nacional, o Conselho de Ministros resolve considerar adequada, nos termos do artigo 1.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, para efeito de provimento nos lugares de topógrafo de 3.ª classe das câmaras municipais, a habilitação de um dos seguintes cursos do ensino técnico profissional, regulados pelo Decreto n.º 37029, de 25 de Agosto de 1948: topógrafo auxiliar de obras públicas, construtor civil e encarregado de obras.
+Presidência do Conselho, 10 de Março de 1961. - Pelo Presidente do Conselho, o Ministro da Presidência, Pedro Theotónio Pereira.
