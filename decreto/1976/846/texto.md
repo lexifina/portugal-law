@@ -1,0 +1,39 @@
+Decreto n.º 846/76
+de 13 de Dezembro
+Com fundamento nas disposições do artigo 3.º do Decreto-Lei n.º 24914, de 10 de Janeiro de 1935, e mediante propostas aprovadas nos termos do mesmo artigo:
+O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Encargos Gerais da Nação
+Despesas dos anos de 1974 e 1975, respeitantes a outras despesas correntes - Serviço de Coordenação da Extinção da PIDE/DGS e LP, a satisfazer pelos Serviços de Apoio do Conselho da Revolução ... 1349506$10
+Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea
+Encargos dos anos de 1965 a 1967 e 1969 a 1975, referentes a vencimentos, gratificação de serviço aéreo, diuturnidades, pensões de reserva e de reforma e locação de bens, a satisfazer por diversos conselhos administrativos de unidades e estabelecimentos da Força Aérea ... 3317761$00
+Defesa Nacional - Departamento do Exército
+Despesas dos anos de 1969 a 1975, respeitantes a vencimentos, salários, prés, ajudas de custo, subsídio de deslocamento, pensões de invalidez, alimentação, gratificações, conservação e aproveitamento de bens, subsídio de guarnição e diuturnidades, a satisfazer pela Repartição de Oficiais da Direcção do Serviço de Pessoal e diversos conselhos administrativos de unidades e estabelecimentos militares ... 1035228$50
+Ministério da Cooperação (extinto)
+Encargos do ano de 1975, relativos a comunicações e encargos próprios das instalações, contraídos pela Secretaria-Geral ... 6589$00
+Ministério da Educação e Investigação Científica
+Despesas do ano de 1975, referentes a comunicações, a satisfazer pela Escola Industrial e Comercial de Espinho e Direcção do Distrito Escolar de Lisboa ... 19409$20
+Ministério do Comércio Externo (extinto)
+Encargos do ano de 1975, respeitantes a horas extraordinárias, contraídos pelo Gabinete do Secretário de Estado do Comércio Externo ... 7079$00
+Ministério dos Transportes e Comunicações
+Encargos dos anos de 1974 e 1975, referentes a gratificações variáveis ou eventuais e deslocações, a satisfazer pelos Aeroportos de Faro e de Ponta Delegada ... 21912$70
+Ministério da Comunicação Social (extinto)
+Despesas dos anos de 1972 a 1974, respeitantes a conservação e aproveitamento de bens, a pagar pela Secretaria-Geral ... 313$60
+Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas, inscritas nos orçamentos em vigor, as seguintes quantias:
+Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea
+Despesas do ano de 1974, relativas a compensação de encargos, a satisfazer pela Comissão de Manutenção de Infra-Estruturas NATO-COMIN, em conta da correspondente dotação do orçamento em vigor, inscrita no capítulo 9.º, artigo 150.º ... 53081$60
+Ministério da Cooperação (extinto)
+Encargos do ano de 1975, respeitantes a pensões, vencimentos, abono de família e subsídio de Natal, a satisfazer pela Direcção-Geral de Fazenda, em conta da verba inscrita no capítulo 16.º, artigo 132.º, n.º 1, consignada a «despesas com a descolonização ...» ... 21921923$60
+Art. 3.º Ficam também autorizados a satisfazer as quantias abaixo indicadas, pelas verbas consignadas a despesas de anos findos dos seus actuais orçamentos privativos, os seguintes serviços:
+Instituto Português de Oncologia de Francisco Gentil
+Despesas do ano de 1975, referentes a horas extraordinárias ... 222610$00
+Junta Autónoma dos Portos do Distrito de Angra do Heroísmo
+Encargos do ano de 1975, referentes a quotizações para a Associação Internacional Permanente dos Congressos de Navegação ... 70$00
+Administração dos Portos do Douro e Leixões
+Despesas do ano de 1975, respeitantes a comunicações e combate a incêndios ... 555139$10
+Serviço de Luta Antituberculosa
+Encargos dos anos de 1971 e 1974, respeitantes a vencimentos ... 20150$00
+Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Mário Firmino Miguel - António Francisco Barroso de Sousa Gomes - Manuel da Costa Brás - António de Almeida Santos - Henrique Medina Carreira - José Manuel de Medeiros Ferreira - António Miguel Morais Barreto - Walter Ruivo Pinto Gomes Rosa - Francisco Manuel Marcelo Monteiro Curto - Mário Augusto Sottomayor Leal Cardia - Armando Bacelar - Emílio Rui da Veiga Peixoto Vilar - João Orlindo de Almeida Pina - Eduardo Ribeiro Pereira.
+Promulgado em 24 de Novembro de 1976.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
