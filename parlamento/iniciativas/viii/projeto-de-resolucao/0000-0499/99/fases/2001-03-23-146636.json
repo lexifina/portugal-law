@@ -1,0 +1,634 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "99",
+    "id": "5815",
+    "titulo": "Recomendar ao Governo medidas concretas para resolver o problema da radio-actividade nos resíduos e nas minas de urânio abandonadas"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2001-03-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1979",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2001-03-23",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "5772",
+        "leg": "VIII",
+        "nr": "105",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "614",
+            "obs": null,
+            "pag": [
+              "2523-2532"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-03-24",
+            "pubLeg": "VIII",
+            "pubNr": "64",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2523?pgs=2523-2532&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Adopta um plano de emergência no perímetro das minas da Urgeiriça"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-03-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137301",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2523-2525"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2523?pgs=2523-2525&org=PLC"
+              }
+            ],
+            "sumario": "Plano de emergência no perímetro das minas da Urgeiriça ; medidas concretas para resolver o problema da radioactividade nos resíduos e nas minas de urânio abandonadas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "733",
+                "nome": "Miguel Ginestal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137302",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2524-2524"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2524?pgs=2524&org=PLC"
+              }
+            ],
+            "sumario": "Plano de emergência no perímetro das minas da Urgeiriça ; medidas concretas para resolver o problema da radioactividade nos resíduos e nas minas de urânio abandonadas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1612",
+                "nome": "Ana Manso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137303",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2525-2527",
+                  "2531-2532"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2525?pgs=2525-2527,2531-2532&org=PLC"
+              }
+            ],
+            "sumario": "Plano de emergência no perímetro das minas da Urgeiriça ; medidas concretas para resolver o problema da radioactividade nos resíduos e nas minas de urânio abandonadas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1368",
+                "nome": "Carlos Alberto Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137304",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2526-2526"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2526?pgs=2526&org=PLC"
+              }
+            ],
+            "sumario": "Plano de emergência no perímetro das minas da Urgeiriça ; medidas concretas para resolver o problema da radioactividade nos resíduos e nas minas de urânio abandonadas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137305",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2527-2527"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2527?pgs=2527&org=PLC"
+              }
+            ],
+            "sumario": "Plano de emergência no perímetro das minas da Urgeiriça ; medidas concretas para resolver o problema da radioactividade nos resíduos e nas minas de urânio abandonadas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1184",
+                "nome": "Joaquim Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137306",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2527-2528"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2527?pgs=2527-2528&org=PLC"
+              }
+            ],
+            "sumario": "Plano de emergência no perímetro das minas da Urgeiriça ; medidas concretas para resolver o problema da radioactividade nos resíduos e nas minas de urânio abandonadas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1719",
+                "nome": "Rosado Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137307",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2528-2529"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2528?pgs=2528-2529&org=PLC"
+              }
+            ],
+            "sumario": "Plano de emergência no perímetro das minas da Urgeiriça ; medidas concretas para resolver o problema da radioactividade nos resíduos e nas minas de urânio abandonadas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137308",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2529-2530"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2529?pgs=2529-2530&org=PLC"
+              }
+            ],
+            "sumario": "Plano de emergência no perímetro das minas da Urgeiriça ; medidas concretas para resolver o problema da radioactividade nos resíduos e nas minas de urânio abandonadas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1679",
+                "nome": "Renato Sampaio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137309",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2530-2530"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2530?pgs=2530&org=PLC"
+              }
+            ],
+            "sumario": "Plano de emergência no perímetro das minas da Urgeiriça ; medidas concretas para resolver o problema da radioactividade nos resíduos e nas minas de urânio abandonadas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO DO MINISTRO DA  ECONOMIA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Vitor Santos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137310",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2530-2532"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2530?pgs=2530-2532&org=PLC"
+              }
+            ],
+            "sumario": "Plano de emergência no perímetro das minas da Urgeiriça ; medidas concretas para resolver o problema da radioactividade nos resíduos e nas minas de urânio abandonadas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137311",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2531-2531"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2531?pgs=2531&org=PLC"
+              }
+            ],
+            "sumario": "Plano de emergência no perímetro das minas da Urgeiriça ; medidas concretas para resolver o problema da radioactividade nos resíduos e nas minas de urânio abandonadas",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "146636",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "269601",
+        "obs": null,
+        "pag": [
+          "2523--2532"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-03-24",
+        "pubLeg": "VIII",
+        "pubNr": "64",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2523?pgs=2523--2532&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
