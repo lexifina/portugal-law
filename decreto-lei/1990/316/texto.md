@@ -1,0 +1,35 @@
+Decreto-Lei n.º 316/90
+de 13 de Outubro
+A Reserva Ecológica Nacional constitui um instrumento fundamental, no domínio do ordenamento do território, para a preservação dos ecossistemas nacionais.
+Ora, com a recente criação do Ministério do Ambiente e Recursos Naturais justifica-se que, desde já, se proceda a actualização do Decreto-Lei n.º 93/90, de 19 de Março, a fim de permitir a este novo Ministério a sua intervenção numa área - a preservação dos ecossistemas - que, indiscutivelmente, se encontra ligada ao exercício das suas atribuições.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo único. Os artigos 3.º, 9.º, e 17.º do Decreto-Lei n.º 93/90, de 19 de Março, passam a ter a seguinte redacção:
+Artigo 3.º
+[...]
+1 - Compete aos Ministros do Planeamento e da Administração do Território, da Agricultura, Pescas e Alimentação, das Obras Públicas, Transportes e Comunicações, do Comércio e Turismo e do Ambiente e Recursos Naturais, ouvida a Comissão referida no artigo 8.º, aprovar, por portaria competente, as áreas a integrar e a excluir da REN.
+Artigo 9.º
+[...]
+1 - ...
+a) Ministério do Planeamento e da Administração do Território - dois representantes, um dos quais presidirá;
+b) ...
+c) ...
+d) ...
+e) ...
+f) Ministério do Comércio e Turismo - dois representantes;
+g) Ministério do Ambiente e Recursos Naturais - dois representantes;
+h) Associação Nacional dos Municípios Portugueses - um representante.
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+Artigo 17.º
+[...]
+...
+6 - No caso de indeferimento pela Comissão da REN, qualquer dos ministros com representantes naquela Comissão pode, no prazo de 30 dias, proceder à avocação do processo, para o sujeitar à aprovação, a prestar por despacho conjunto dos Ministros do Planeamento e da Administração do Território, das Obras Públicas, Transportes e Comunicações, da Agricultura, Pescas e Alimentação, do Comércio e Turismo e do Ambiente e Recursos Naturais.
+Visto e aprovado em Conselho de Ministros de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - José Manuel Nunes Liberato - Fernando Manuel Barbosa Faria de Oliveira - Fernando Nunes Ferreira Real.
+Promulgado em 28 de Setembro de 1990.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 3 de Outubro de 1990.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
