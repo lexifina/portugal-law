@@ -1,0 +1,7 @@
+Portaria n.º 22593
+Considerando que o troço do rio Mondego que atravessa o concelho de Penacova é de largo interesse turístico para a região;
+Considerando igualmente que o troço deste mesmo rio que banha Coimbra é de idêntico interesse turístico;
+Atendendo a que, nos citados troços, os caudais que se verificam no Estio são de tal modo diminutos que tornam as espécies piscícolas que se concentram nos pegos presa fácil quando se processa o exercício da pesca com redes, originando-se o seu rápido extermínio;
+Ouvida a secção aquícola do Conselho Técnico dos Serviços Florestais, que deu parecer favorável à solicitação da Comissão Regional de Pesca do Centro:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, nos termos do artigo, 31.º e sua alínea b) do regulamento da Lei n.º 2097, sobre o exercício da pesca nas águas interiores, aprovado pelo Decreto n.º 44623, de 10 de Outubro de 1962 proibir, a partir desta data, o exercício da pesca por todos os processos, com excepção da cana ou linha de mão, nos troços do rio Mondego compreendidos entre o sítio de Livraria do Mondego, em Entre Penedos, e o porto fluvial da Carvoeira, no concelho de Penacova, e entre a ponte da Portela e o porto fluvial de Montessão, no concelho de Coimbra.
+Secretaria de Estado da Agricultura, 25 de Março de 1967. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.
