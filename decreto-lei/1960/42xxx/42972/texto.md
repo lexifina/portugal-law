@@ -1,0 +1,8 @@
+Decreto-Lei n.º 42972
+Por reconhecida conveniência de serviço foram designados, no início do ano escolar, vários professores para a regência de turmas das escolas do magistério primário, portanto ainda antes da vigência do Decreto-Lei n.º 42624, de 31 de Outubro de 1959.
+Aqueles professores iniciaram imediatamente o exercício das suas funções, tornando-se assim necessário providenciar no sentido de lhe serem pagas as respectivas remunerações no período que decorre desde a data do início do exercício até à data da entrada em vigor daquele decreto-lei.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Os professores das escolas do magistério primário nomeados no corrente ano lectivo para o exercício das funções consideradas no Decreto-Lei n.º 42624, de 31 de Outubro de 1959, serão abonados dos vencimentos correspondentes às suas funções desde a data da entrada em exercício, ainda que esta se haja verificado anteriormente à entrada em vigor do referido decreto-lei.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 10 de Maio de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo.
