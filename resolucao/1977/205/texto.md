@@ -1,0 +1,3 @@
+Resolução n.º 205/77
+Nos termos da alínea a) do artigo 146.º e do n.º 4 do artigo 277.º da Constituição, conjugados com o n.º 4 do artigo 235.º, o Conselho da Revolução, precedendo parecer da Comissão Constitucional, não se pronuncia pela inconstitucionalidade do decreto da Assembleia Regional da Região Autónoma dos Açores, aprovado em 22 de Junho de 1977, sobre a proibição de condução de veículos automóveis, de velocípedes com ou sem motor e de veículos de tracção animal, bem como de animais, por indivíduos em estado de embriaguez.
+Aprovada em Conselho da Revolução em 3 de Agosto de 1977. - O Presidente do Conselho da Revolução, António Ramalho Eanes, general.
