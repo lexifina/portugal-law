@@ -18,7 +18,7 @@ b) Definir as contribuições obrigatórias;
 
 c) Executar as decisões de indemnização a suportar pelo fundo de garantia.
 
-3 - O regulamento do fundo é aprovado pela CMVM e define, designadamente:
+4 - O regulamento do fundo é aprovado pela CMVM e define, designadamente:
 
 a) O montante mínimo do património do fundo;
 
@@ -26,4 +26,4 @@ b) O processo de reclamação e decisão;
 
 c) O limite máximo das indemnizações.
 
-4 - A sociedade gestora do fundo e os titulares dos respectivos órgãos estão sujeitos a registo na CMVM.
+5 - A sociedade gestora do fundo e os titulares dos respectivos órgãos estão sujeitos a registo na CMVM.

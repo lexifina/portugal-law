@@ -20,4 +20,4 @@ a) Conta aberta junto de intermediário financeiro, integrada em sistema central
 
 b) Conta aberta junto de um único intermediário financeiro indicado pelo emitente; ou
 
-c) Conta aberta junto do emitente ou de intermediário financeiro que a representa.
+c) Conta aberta junto do emitente ou de intermediário financeiro que o representa.

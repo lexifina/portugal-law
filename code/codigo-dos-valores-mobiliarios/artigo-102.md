@@ -2,7 +2,7 @@
 
 ### Transmissão de valores mobiliários titulados nominativos
 
-1 - Os valores mobiliários titulados nominativos transmitem-se por declaração de transmissão, escrita no título, a favor do transmissário, seguida de registo junto do emitente ou junto de intermediário financeiro que a represente.
+1 - Os valores mobiliários titulados nominativos transmitem-se por declaração de transmissão, escrita no título, a favor do transmissário, seguida de registo junto do emitente ou junto de intermediário financeiro que o representa.
 
 2 - A declaração de transmissão entre vivos é efectuada:
 
