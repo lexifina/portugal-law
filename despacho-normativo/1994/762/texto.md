@@ -1,0 +1,9 @@
+Despacho Normativo n.º 762/94
+(IIDE0101CR)
+A Portaria n.º 934/94, de 21 de Outubro, declarou em reestruturação o sector constituído pelas empresas já existentes ou novas empresas resultantes da reestruturação, que exercem a actividade de cristalaria, incluída na subclasse 26132 da CAE - Rev. 2/93.
+De acordo com o disposto no n.º 2 do n.º 6.º da referida portaria, os projectos que cumpram as condiçeos de acesso podem beneficiar dos incentivos previstos no Regime de Apoio à Avaliação Empresarial do PEDIP II, regulamentado pelo Despacho Normativo n.º 546/94, de 29 de Julho (IIDE0101).
+Prevê ainda o n.º 3 do n.º 6.º da mencionada portaria que as condições de acesso a este tipo de apoios do PEDIP II serão definidas por despacho do Ministro da Indústria e Energia, em harmonia com o previsto no artigo 13.º do Decreto-Lei n.º 251/86, de 25 de Agosto, e nos termos do n.º 3 do artigo 2.º do Despacho Normativo n.º 545/94, de 29 de Julho (IIDG01) (SINDEPEDIP).
+Assim, nos termos do disposto no n.º 3 do artigo 2.º do Despacho Normativo n.º 545/94, de 29 de Julho (IIDG01), determina-se o seguinte:
+Os promotores de projectos, no âmbito da reestruturação da cristalaria, regulada pela Portaria n.º 934/94, de 21 de Outubro, que se candidatem ao Regime de Apoio à Avaliação Empresarial, regulamentado pelo Despacho Normativo n.º 546/94, de 29 de Julho (IIDE0101), deverão cumprir o nele previsto, com excepção, relativamente ao disposto na alínea d) do n.º 1 do seu artigo 5.º, do seguinte:
+Os promotores devem comprovar que iniciaram o processo conducente à regularização da sua situação contributiva perante o Estado e a segurança social, bem como que o iniciaram relativamente ao Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI).
+Ministério da Indústria e Energia, 6 de Outubro de 1994. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
