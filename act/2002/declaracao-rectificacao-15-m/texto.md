@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 15-M/2002
+Para os devidos efeitos se declara que a Resolução do Conselho de Ministros n.º 57/2002, publicada no Diário da República, 1.ª série, n.º 61, de 13 de Março de 2002, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 2, onde se lê «acções do capital realizável e a 847 acções do capital exigível.» deve ler-se «acções do capital exigível e a 847 acções do capital realizável.», no n.º 5, onde se lê «o n.º 2 do artigo 38.º do Acordo Constitutivo» deve ler-se «o n.º 1 do artigo 38.º do Acordo Constitutivo» e, no n.º 6, onde se lê «o n.º 1 do artigo 38.º do Acordo Constitutivo» deve ler-se «o n.º 2 do artigo 38.º do Acordo Constitutivo».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Março de 2002. - O Secretário-Geral, Alexandre Figueiredo.
