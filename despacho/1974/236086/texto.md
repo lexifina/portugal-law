@@ -1,0 +1,11 @@
+Despacho
+Ouvida a comissão liquidatária;
+Ao abrigo do disposto no artigo 1.º, n.º 2, do Decreto-Lei n.º 443/74, de 12 de Setembro, determino o seguinte:
+1.º A extinção do Grémio dos Armazenistas de Mercearia efectivar-se-á em 31 de Dezembro de 1974.
+2.º Os imóveis do Grémio, situados na Avenida da Liberdade, com o n.º 166, em Lisboa, e na Avenida do Infante D. Henrique, 30, no Porto, bem como os bens móveis que neles se encontram, são integrados no património do Estado, ficando o primeiro a ser ocupado pela Direcção-Geral de Preços e o segundo pela Direcção-Geral de Fiscalização Económica, até que outra decisão seja tomada.
+3.º O imóvel situado na Avenida de 24 de Julho, 68, em Lisboa, é integrado no património da Administração-Geral do Açúcar e do Álcool, para a qual são igualmente transferidos os restantes valores do activo e passivo, incluindo os emergentes de contratos de arrendamento, podendo estes últimos, de acordo com o disposto no artigo 3.º do Decreto-Lei n.º 443/74, ser desafectados a favor da associação representativa da classe que vier a constituir-se.
+4.º Em despacho do Secretário de Estado do Abastecimento e Preços será decidido o destino a dar aos arquivos do Grémio, que ficam, entretanto, à disposição da Direcção-Geral do Comércio Interno.
+5.º O pessoal do Grémio, com excepção do que transitar para a Direcção-Geral de Fiscalização Económica, ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 329-D/74, de 10 de Julho, ficará na situação de adido aos quadros da Administração-Geral do Açúcar e do Álcool, até que seja resolvida a sua situação, nos termos previstos no artigo 5.º do Decreto-Lei n.º 443/74, de 12 de Setembro.
+6.º Enquanto não houver uma solução definitiva sobre a situação do pessoal, cabe à Administração-Geral do Açúcar e do Álcool o pagamento das remunerações ao pessoal a que se refere a parte final do número anterior, bem como de outros encargos e os complementos das pensões de reforma que lhe vierem a ser atribuídos.
+7.º A comissão liquidatária deverá continuar em exercício pelo tempo indispensável até estar efectuado o balanço do exercício de 1974 e feita a transferência do património.
+Ministério da Economia, 28 de Dezembro de 1974. - O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.
