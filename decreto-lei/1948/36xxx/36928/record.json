@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1948/06/14300/05400541.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1948-06-22",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "c35e088fc7bd5d4563035961565914422e80b3aaa505f59b8c0b3c5b01330756",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.7,
+    "pages": 2,
+    "columns": [
+      4,
+      3
+    ],
+    "pdf_sha256": "1857bff8c169a934aa46c1d16e6b82f036dfafa2734aadce832d2fdcc110508f",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 364
 }
