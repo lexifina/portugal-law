@@ -1,0 +1,5 @@
+Portaria n.º 274/79
+de 11 de Junho
+Nos termos do n.º 2 do artigo 4.º do Decreto-Lei n.º 106/78, de 24 de Maio:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e do Comércio e Turismo e pelo Secretário de Estado da Administração Pública, que os lugares de chefe de secretaria constantes dos quadros de pessoal das Comissões Regionais de Turismo de Chaves, Leiria, Serra da Estrela e Algarve, aprovados pelas Portarias n.os 177/78, de 31 de Março, e 182/78, 183/78 e 184/78, de 4 de Abril, passem a ser remunerados pelo vencimento correspondente à letra I da tabela constante do n.º 1 do artigo 1.º do Decreto-Lei n.º 106/78, com efeitos desde 1 de Junho de 1978.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Comércio e Turismo, 29 de Maio de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.
