@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se faz público que Portugal depositou, em 30 de Outubro de 1985, o instrumento de confirmação e adesão à Convenção Internacional sobre Normas de Formação, de Certificação e de Serviços de Quartos para os Marítimos, de 1978.
+Até ao dia 1 de Setembro de 1985 eram partes na Convenção os seguintes Estados:
+África do Sul, Argentina, Austrália, Bahamas, Bangladesh, Bélgica, Brasil, Bulgária, Checoslováquia, China, Chipre, Colômbia, Dinamarca, Egipto, Emiratos Árabes Unidos, Espanha, Etiópia, Filipinas, Finlândia, França, Gabão, Grécia, Índia, Irlanda, Japão, Jugoslávia, Libéria, Líbia, México, Nigéria, Noruega, Países Baixos, Paquistão, Peru, Polónia, Reino Unido da Grã-Bretanha e Irlanda do Norte, República da Coreia, República Democrática Alemã, República Democrática Popular da Coreia, República Federal da Alemanha, Suécia, Tanzânia, Tuvalu e União das Repúblicas Socialistas Soviéticas e, como membro associado, Hong-Kong.
+Direcção-Geral dos Negócios Económicos, 21 de Novembro de 1985. - O Subdirector-Geral, Roberto Nuno de Oliveira e Silva Pereira de Sousa.
