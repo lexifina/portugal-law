@@ -1,0 +1,6 @@
+Aviso n.º 75/95
+Por ordem superior se faz público que, segundo comunicação da Embaixada de Portugal em Bruxelas, os Governos do Chipre, do Mali, da Lituânia e do Myanmar depositaram junto da Organização Mundial das Alfândegas, respectivamente em 21 de Março, 15 de Junho, 20 de Junho e 5 de Dezembro de 1994, os instrumentos de adesão à Convenção Internacional sobre o Sistema Harmonizado de Designação e Codificação de Mercadorias, concluída em Kyoto em 18 de Março de 1973 e revista pelo Protocolo de emenda à Convenção mencionada.
+A referida Convenção entrou em vigor para Chipre em 21 de Março de 1994, para a Lituânia e Myanmar em 1 de Janeiro de 1995 e para o Mali entrará em vigor em 1 de Janeiro de 1996, salvo se uma data mais próxima for especificada.
+A Organização Mundial das Alfândegas recebeu também a comunicação, em 23 de Novembro de 1992, da sucessão à referida Convenção da República da Eslovénia e, em 29 de Setembro de 1994, da sucessão da República da Croácia.
+A Convenção entrou em vigor, para a Eslovénia, em 23 de Novembro de 1992 e, para a Croácia, em 29 de Setembro de 1994.
+Direcção-Geral dos Assuntos Multilaterais, 27 de Fevereiro de 1995. - O Director de Serviços das Organizações Económicas Internacionais, João Luís Niza Pinheiro.
