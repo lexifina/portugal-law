@@ -1,0 +1,3 @@
+Despacho ministerial
+Usando da faculdade conferida pelo § único do artigo 1.º do Decreto-Lei n.º 36820, de 7 de Abril de 1948, autorizo que, para ocorrer às necessidades de assistência do distrito autónomo de Ponta Delgada, continue em vigor, durante o ano de 1965, a tabela aprovada por despacho ministerial de 1 de Março de 1950, com o aditamento autorizado por despacho ministerial de 2 de Janeiro de 1953, publicados, respectivamente, nos Diários do Governo n.os 42, 1.ª série, de 1 de Março de 1950, e 2, 1.ª série, de 6 de Janeiro de 1953.
+Ministério das Finanças, 21 de Dezembro de 1964. - O Ministro das Finanças, António Manuel Pinto Barbosa.
