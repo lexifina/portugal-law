@@ -1,0 +1,5 @@
+Portaria n.º 22684
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 20000$00 a verba do capítulo 10.º, artigo 286.º, n.º 1), alínea a) «Encargos gerais - Diversas despesas - Repatriação e socorros a indigentes - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Cabo Verde para o ano corrente, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 4.º, artigo 152.º, n.º 1), alínea a) «Administração geral e fiscalização - Segurança pública - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+Ministério do Ultramar, 17 de Maio de 1967. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Cabo Verde. - J. Cota.
