@@ -1,0 +1,399 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "14",
+    "id": "6247",
+    "titulo": "Transpõe para a Ordem Jurídica Interna a Directiva 96/71/CF do Parlamento Europeu e do Conselho de 16 de Dezembro de 1996 relativa ao destacamento de trabalhadores no âmbito de uma prestação de serviços"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-03-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5918",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-03-16",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-03-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "833",
+                "nome": "Vicente Merendas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28696",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1767-1767"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17/1767?pgs=1767&org=PLC"
+              }
+            ],
+            "sumario": "TRANSPOE PARA A ORDEM JURIDICA INTERNA A DIRECTIVA 96/71/CEDO PARLAMENTO EUROPEU E DO CONSELHO DE 16 DEZEMBRO DE 1996,RELATIVA AO DESTACAMENTO DE TRABALHADORES NO AMBITO DE UMA PRESTACAO DE SERVICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28697",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1766-1766"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17/1766?pgs=1766&org=PLC"
+              }
+            ],
+            "sumario": "TRANSPOE PARA A ORDEM JURIDICA INTERNA A DIRECTIVA 96/71/CEDO PARLAMENTO EUROPEU E DO CONSELHO DE 16 DEZEMBRO DE 1996,RELATIVA AO DESTACAMENTO DE TRABALHADORES NO AMBITO DE UMA PRESTACAO DE SERVICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "833",
+                "nome": "Vicente Merendas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28698",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1765-1766"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17/1765?pgs=1765-1766&org=PLC"
+              }
+            ],
+            "sumario": "TRANSPOE PARA A ORDEM JURIDICA INTERNA A DIRECTIVA 96/71/CEDO PARLAMENTO EUROPEU E DO CONSELHO DE 16 DEZEMBRO DE 1996,RELATIVA AO DESTACAMENTO DE TRABALHADORES NO AMBITO DE UMA PRESTACAO DE SERVICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1287",
+                "nome": "Sílvio Rui Cervan"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28699",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1765-1765"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17/1765?pgs=1765&org=PLC"
+              }
+            ],
+            "sumario": "TRANSPOE PARA A ORDEM JURIDICA INTERNA A DIRECTIVA 96/71/CEDO PARLAMENTO EUROPEU E DO CONSELHO DE 16 DEZEMBRO DE 1996,RELATIVA AO DESTACAMENTO DE TRABALHADORES NO AMBITO DE UMA PRESTACAO DE SERVICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1727",
+                "nome": "Alexandre Chaves"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28700",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1764-1765"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17/1764?pgs=1764-1765&org=PLC"
+              }
+            ],
+            "sumario": "TRANSPOE PARA A ORDEM JURIDICA INTERNA A DIRECTIVA 96/71/CEDO PARLAMENTO EUROPEU E DO CONSELHO DE 16 DEZEMBRO DE 1996,RELATIVA AO DESTACAMENTO DE TRABALHADORES NO AMBITO DE UMA PRESTACAO DE SERVICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1713",
+                "nome": "Bruno Vitorino"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28701",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1763-1764"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17/1763?pgs=1763-1764&org=PLC"
+              }
+            ],
+            "sumario": "TRANSPOE PARA A ORDEM JURIDICA INTERNA A DIRECTIVA 96/71/CEDO PARLAMENTO EUROPEU E DO CONSELHO DE 16 DEZEMBRO DE 1996,RELATIVA AO DESTACAMENTO DE TRABALHADORES NO AMBITO DE UMA PRESTACAO DE SERVICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TRABALHO E FORMAÇÃO",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Paulo Pedroso"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107372",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-17",
+                "pubLeg": "VIII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17?org=PLC"
+              }
+            ],
+            "sumario": "TRANSPOE PARA A ORDEM JURIDICA INTERNA A DIRECTIVA 96/71/CEDO PARLAMENTO EUROPEU E DO CONSELHO DE 16 DEZEMBRO DE 1996,RELATIVA AO DESTACAMENTO DE TRABALHADORES NO AMBITO DE UMA PRESTACAO DE SERVICOS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "249917",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5918",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-03-17",
+        "pubLeg": "VIII",
+        "pubNr": "43",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
