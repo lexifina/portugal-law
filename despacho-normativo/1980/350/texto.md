@@ -1,0 +1,8 @@
+Despacho Normativo n.º 350/80
+Considerando que à execução do meu Despacho Normativo n.º 272/80, de 31 de Julho, se têm deparado, quanto a alguns hospitais, graves dificuldades em organizar convenientemente os serviços de urgência, por força da exiguidade de meios humanos de que dispõem;
+Atendendo a que os concursos para especialistas dos hospitais distritais, ainda a decorrer, só conduzirão à colocação de médicos nesses hospitais em fins de Novembro ou em Dezembro próximos, e que só a partir de agora, após aprovação dos quadros, os hospitais podem fazer uma correcta admissão do pessoal técnico de que necessitam;
+Atendendo a que a maior parte dos hospitais, apesar dos condicionalismos apresentados, já funcionam em esquemas concordantes com as normas constantes daquele despacho normativo e que muito outros já tomaram as medidas necessárias para o seu cumprimento;
+Determino que:
+1 - Em relação aos hospitais que não tenham podido cumprir, justificadamente, o prazo estabelecido no n.º 12 do Despacho Normativo n.º 272/80, de 31 de Julho, será admitido, improrrogavelmente, o cumprimento daquele n.º 12 até ao dia 15 de Dezembro próximo.
+2 - Relativamente aos hospitais referidos no número anterior e àqueles em que a aplicação do despacho normativo dependa da colocação dos concorrentes ao concurso nacional de especialistas para hospitais distritais, poderá a Direcção-Geral dos Hospitais fixar data diversa da prevista no n.º 13 daquele despacho normativo, sem nunca exceder, porém, o primeiro dia do mês seguinte à efectiva colocação daqueles concorrentes.
+Ministério dos Assuntos Sociais, 29 de Outubro de 1980. - O Ministro dos Assuntos Sociais, João António de Morais Leitão.
