@@ -1,0 +1,6 @@
+Declaração de Rectificação n.º 14-P/97
+Segundo comunicação do Ministério da Saúde, a Portaria n.º 772-B/96, publicada no Diário da República, 1.ª série, n.º 302 (6.º suplemento), de 31 de Dezembro de 1996, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões que assim se rectificam:
+No quadro de pessoal da Administração Regional de Saúde do Alentejo, Sub-Região de Saúde de Portalegre, serviços de âmbito sub-regional, no grupo de pessoal técnico superior, carreira técnica superior de serviço social, no número de lugares, onde se lê «3» deve ler-se «(a) 3».
+No quadro de pessoal da Administração Regional de Saúde do Norte, Sub-Região de Saúde de Braga, a parte referente ao Centro de Saúde de Vila Nova de Famalicão II termina na carreira de auxiliar de apoio e vigilância, iniciando-se, a partir daí, a parte referente ao Centro de Saúde de Vila Verde.
+No quadro de pessoal da Administração Regional de Saúde do Norte, Sub-Região de Saúde de Viana do Castelo, Centro de Saúde de Viana do Castelo, na coluna do nível correspondente à carreira de técnico-adjunto de serviço social, do grupo de pessoal técnico-profissional, onde se lê «-» deve ler-se «4».
+Secretaria-Geral da Presidência do Conselho de Ministros, 20 de Agosto de 1997. - Pelo Secretário-Geral, a Directora dos Serviços de Apoio Técnico, Iolanda Oliveira.
