@@ -1,0 +1,7 @@
+Aviso n.º 142/98
+Por ordem superior se faz público que, segundo comunicação do Secretário-Geral das Nações Unidas de 9 de Janeiro de 1998, o Governo do Listenstaina depositou, em 19 de Novembro de 1997, o instrumento de adesão à Convenção sobre a Protecção e Utilização de Cursos de Água Transfronteiriços e Lagos Internacionais, concluída em Helsínquia em 17 de Março de 1992, com a seguinte declaração, cujo texto autêntico em língua inglesa seguidamente se transcreve:
+«Declaration concerning article 22:
+The Principality of Liechtenstein declares in accordance with article 22 paragraph 2 of the Convention on the Protection and Use of Transboundary Watercourses and International Lakes of 17 March 1992, that it accepts both of the means of dispute settlement mentioned in this paragraph as compulsory in relation to any party accepting the same obligation.»
+A Convenção entrou em vigor para o Listenstaina em 17 de Fevereiro de 1998.
+A referida Convenção foi aprovada, para ratificação, por Portugal nos termos do Decreto n.º 22/94, publicado no Diário da República, 1.ª série-A, n.º 171, de 26 de Julho de 1994, tendo sido depositado o correspondente instrumento em 12 de Dezembro de 1994, conforme o Aviso n.º 46/95, publicado no Diário da República, 1.ª série-A, n.º 34, de 9 de Fevereiro de 1995. A Convenção entrou em vigor, relativamente a Portugal, em 6 de Outubro de 1996.
+Direcção-Geral dos Assuntos Multilaterais, 2 de Julho de 1998. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
