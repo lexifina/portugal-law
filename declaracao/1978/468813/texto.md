@@ -1,0 +1,3 @@
+Declaração
+Segundo comunicação do Gabinete do Secretário de Estado da Coordenação Económica, as nomeações das licenciadas Maria Elsa Nunes Dores de Sousa Ferreira e Maria Isabel Cartaxo de Paula Nogueira Roque de Oliveira, a que se refere a Resolução n.º 276/77, publicada no Diário da República, 1.ª série, n.º 249, de 27 de Outubro de 1977, e cujo original se encontra arquivado nesta Secretaria-Geral, foram efectuadas em comissão de serviço, nos termos do artigo 32.º do Decreto-Lei n.º 260/76, de 8 de Abril, mantendo ambas as nomeadas o regime de previdência social de que eram beneficiárias na data da sua nomeação.
+Secretaria-Geral da Presidência do Conselho de Ministros, 14 de Dezembro de 1977. - Pelo Secretário-Geral, José Meneses.
