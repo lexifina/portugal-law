@@ -1,0 +1,120 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BCSSVGCAjuIOB9TM0zLN1MaTIqUGuyZG5KdMozMqIhz0HV3lihHZAL1CwunnWMXRny5c%2fGnGCZHzxAWlNWvriQl3h2wUQD%2bowHEAD9eFRyf2JdeqjyBaRNHhZe8gVkGI8mHwTOZENL4EKoCxEZGcqbJHnmvnktrZ4L%2bCcB8XDhcCIEzIVr5jrbsC3o5hptTbaMwBgoF68mV3RStIYJyvQOduog5%2fiGjrt1rykAbE6ZwjcV24oKkbnK9PzvNKat80j9hNRf25bAhE0BNfRW0lt5b5hM3muahpK8XuICAdwne8vQ2nXeVCLUrRt%2bdJWjM%2beniMeMyOwoBt8PVsAU3fA0MzFhD6d4IZoNU16Bo9GB0%3d&fich=IniciativasIII_json.txt&Inline=true",
+  "ficheiro_sha256": "8066d65f0f2dcaef0e8f116d49b73de6f6558c03e12923057ff44277a1828037",
+  "legislatura": "III",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "115",
+    "id": "29393",
+    "titulo": "Autoriza o Governo através do Ministro das Finanças e do Plano, a celebrar com o Governo dos E.U.A., contratos de empréstimo até ao montante de 55 milhões de dólares americanos para aquisição de material e equipamento de defesa provenientes dos Estados Unidos da América."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "1985-07-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "15245",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "1985-07-03",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "1985-07-03",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": null,
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "834",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "COMISSÃO DE ECONOMIA, FINANÇAS E PLANO",
+        "Numero": "834",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "3620-3620"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1985-07-09",
+            "pubLeg": "III",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/03/02/112/1985-07-09/3620?pgs=3620&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "3620-3620"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1985-07-09",
+            "pubLeg": "III",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/03/02/112/1985-07-09/3620?pgs=3620&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "1985-07-03",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "227185",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
