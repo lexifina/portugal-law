@@ -8,4 +8,4 @@ a) O início, alteração e cessação da actividade do comerciante individual;
 
 b) As modificações do seu estado civil e regime de bens;
 
-c) As mudanças de residência.
+c) A mudança de estabelecimento principal.

@@ -24,6 +24,14 @@ i) As acções especiais de recuperação da empresa e protecção dos credores;
 
 j) As deliberações das assembleias de credores de sociedades, cooperativas e agrupamentos que hajam aprovado, no respectivo processo judicial, a concordata, o acordo de credores ou a gestão controlada, bem como as respectivas sentenças de homologação ou rejeição, com trânsito em julgado.
 
-l) As sentenças declaratórias da falência de comerciantes individuais e de sociedades comerciais, bem como da insolvência de cooperativas, de agrupamentos complementares de empresas e de agrupamentos europeus de interesse económico e o seu trânsito em julgado;
+i) A acção especial de recuperação da empresa, bem como o despacho de prosseguimento da acção legalmente sujeito a registo;
 
-m) Os despachos, com trânsito em julgado, do levantamento da inibição e reabilitação do falido ou insolvente.
+j) As deliberações da assembleia de credores que hajam aprovado ou rejeitado as providências de recuperação da empresa, bem como as respectivas decisões de homologação ou não homologação;
+
+l) As decisões que, no decurso da acção especial de recuperação da empresa, declararem caducos os efeitos do despacho de prosseguimento da acção;
+
+m) As decisões que ponham termo à acção de recuperação da empresa;
+
+n) As sentenças declaratórias da falência de comerciantes individuais e de sociedades comerciais, bem como da insolvência de cooperativas, de agrupamentos complementares de empresas e de agrupamentos europeus de interesse económico e o seu trânsito em julgado;
+
+o) Os despachos, com trânsito em julgado, do levantamento da inibição e reabilitação do falido ou insolvente.

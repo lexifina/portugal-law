@@ -12,7 +12,7 @@ c) A certificação legal de contas;
 
 d) O parecer do órgão de fiscalização, quando exista.
 
-2 - O registo da prestação de contas consolidadas é feito com o depósito da acta de aprovação donde conste o montante dos resultados consolidados, acompanhada dos documentos seguintes:
+2 - O registo da prestação de contas consolidadas é feito com base nos documentos a seguir indicados e em declaração da qual conste que esses documentos foram presentes à sociedade consolidante:
 
 a) O relatório consolidado da gestão;
 
