@@ -1,0 +1,4 @@
+Declaração de rectificação n.º 26/91
+Segundo comunicação da Direcção-Geral da Contabilidade Pública (Ministério das Finanças), a declaração de abertura de créditos especiais publicada no Diário da República, 1.ª-B série, n.º 2, de 3 de Janeiro de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Na despesa: 10 - Ministério do Planeamento e da Administração do Território, no cap. 01, div. 05, subdiv 03, onde se lê «funcional 8.01.0, C. E. 02.03.10» deve ler-se «funcional 8.01.0, C. E. 02.03.10, alínea B»; 12 - Ministério da Indústria e Energia, onde se lê «cap. 01, div. 01» deve ler-se «cap. 01, div. 04», e 14 - Ministério da Educação, no cap. 50, div. 12, onde se lê «Subdiv. 19 - GEFME - Projecto Minerva» deve ler-se «Subdiv. 19 - GEPME - Projecto Minerva».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Janeiro de 1991. - O Secretário-Geral, França Martins.
