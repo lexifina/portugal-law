@@ -1,0 +1,3 @@
+Aviso
+Por ter sido irregularmente publicado no Diário da República, 1.ª série, n.º 199, de 29 de Agosto de 1988, um aviso relativo à denúncia do Acordo de Comércio a Longo Prazo entre o Governo da República Portuguesa e o Governo da República Popular da Bulgária, assinado em Sófia em 11 de Fevereiro de 1975, para os devidos efeitos se torna público que o mesmo continua em vigor nos termos em que foi publicado no Diário do Governo, 1.ª série, n.º 270, de 21 de Novembro de 1975.
+Direcção-Geral dos Negócios Político-Económicos, de 8 de Setembro de 1988. - O Subdirector-Geral, Gonçalo Aires de Santa Clara Gomes.
