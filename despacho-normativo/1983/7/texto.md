@@ -1,0 +1,11 @@
+Despacho Normativo n.º 7/83
+Considerando que o Decreto Regulamentar n.º 14/78, de 12 de Maio, veio estabelecer uma nova categoria de estabelecimentos destinados a fornecer alojamento, classificada de apartamentos turísticos;
+Considerando que o despacho normativo do Secretário de Estado do Turismo de 24 de Agosto de 1979, publicado no Diário da República, 2.ª série, n.º 201, de 31 de Agosto do mesmo ano, veio estabelecer critérios e categorias de classificação de tais apartamentos, bem como o procedimento a adoptar pelos serviços da Direcção-Geral do Turismo para atribuição dessas classificações;
+Convindo desde já rever a disciplina constante desse despacho normativo à luz da experiência colhida nos últimos anos sobre tal realidade turística e dos critérios seguidos internacionalmente:
+Nestes termos, e ao abrigo do disposto na alínea b) do n.º 1 do artigo 1.º e no artigo 10.º do Decreto-Lei n.º 49399, de 24 de Novembro de 1969, determina-se o seguinte:
+1 - Os apartamentos turísticos classificar-se-ão nas seguintes categorias: luxo, 1.ª e 2.ª
+2 - Os estabelecimentos serão classificados numa das categorias previstas no número anterior, consoante satisfaçam, respectivamente, os requisitos mínimos exigidos nas secções II, III e IV do capítulo VIII do Decreto n.º 61/70, de 24 de Fevereiro.
+3 - Os estabelecimentos não poderão usar nas suas relações comerciais classificação diferente da que lhes tenha sido atribuída de acordo com o estabelecido no presente despacho, em conformidade com o disposto na alínea b) do artigo 40.º do Decreto Regulamentar n.º 14/78.
+4 - Os apartamentos turísticos classificados de harmonia com o despacho normativo de 24 de Agosto de 1979 serão reclassificados oficiosamente pela Direcção-Geral do Turismo, segundo as categorias previstas no n.º 1, no prazo de seis meses, mediante prévia vistoria a realizar pelos serviços da Direcção-Geral do Turismo.
+5 - Fica revogado o despacho normativo de 24 de Agosto de 1979 do Secretário de Estado do Turismo, publicado no Diário da República, 2.ª série, n.º 201, de 31 de Agosto de 1979.
+Secretaria de Estado do Turismo, 22 de Dezembro de 1982. - O Secretário de Estado do Turismo, Luís Fernando Cardoso Nandim de Carvalho.
