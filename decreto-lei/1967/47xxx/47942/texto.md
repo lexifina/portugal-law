@@ -1,0 +1,14 @@
+Decreto-Lei n.º 47942
+Considerando que terminaram os trabalhos de reforma da tributação dos rendimentos na província de Moçambique e que a promulgação do correspondente diploma implicará a revogação de legislação emanada de órgãos legislativos com sede na metrópole;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governa decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º A partir da entrada em vigor, na província de Moçambique, do Código dos Impostos sobre o Rendimento, ficam extintos, na mesma província, os impostos de defesa e de rendimento criados pelos artigos 21.º e 96.º do Decreto n.º 30117, de 8 de Dezembro de 1939.
+Art. 2.º Sem prejuízo do disposto no artigo anterior, e enquanto não for revisto o regime geral de prestação de serviço ao Estado e às autarquias locais, em matéria de remunerações, ficam os órgãos competentes da província autorizados a manter a cobrança de imposto de defesa sobre as remunerações dos servidores do Estado e de quaisquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, e das autarquias locais e das pessoas colectivas de utilidade pública administrativa, e a alterar as respectivas taxas.
+§ único. A tributação prevista neste artigo não poderá abranger as pessoas isentas de imposto de defesa por diplomas emanados de órgãos legislativos com sede na metrópole.
+Art. 3.º Será consignada ao Fundo de Defesa Militar do Ultramar a importância correspondente a 25 por cento da receita do imposto complementar a criar naquela província.
+§ único. A percentagem referida no corpo do artigo, adicionada ao produto do imposto referido no artigo 2.º, não poderá, todavia, produzir receita inferior à totalidade do imposto de defesa arrecadado no ano económico de 1967.
+Art. 4.º Mantêm-se em vigor na mesma província os diplomas emanados de órgãos legislativos com sede na metrópole em que se prevejam ou concedam isenções de impostos ou redução das respectivas taxas.
+Ficam isentos de contribuição industrial, imposto sobre as explorações e imposto complementar os contribuintes a que, por diploma da mesma natureza, tenha sido concedida isenção de imposto de rendimento.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 15 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.
