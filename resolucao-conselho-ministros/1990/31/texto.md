@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 31/90
+Cabendo à empresa pública Aeroportos e Navegação Aérea - ANA, E. P., o serviço público de apoio à aviação civil, designadamente a orientação, direcção e controlo de tráfego aéreo, a sua falta de operacionalidade por motivos da greve dos técnicos de telecomunicações aeronáuticas põe em causa a passagem do referido tráfego, nacional e internacional, em todo o espaço aéreo sob responsabilidade portuguesa, porquanto, não podendo vir a ser garantidos os padrões de segurança exigidos, o mesmo terá de ser fechado ao fluxo comercial.
+Esta paralisação põe em causa o desenvolvimento das tarefas indispensáveis à preservação dos interesses e necessidades vitais do País e, bem assim, o respeito dos compromissos internacionais, designadamente o direito de sobrevoo do território nacional e das zonas cometidas à responsabilidade de Portugal pela International Civil Aviation Organization (ICAO).
+É de considerar ainda que, a verificarem-se condições atmosféricas adversas, o prolongamento da situação actual acarretará a impossibilidade de se assegurar a operacionalidade do tráfego aéreo com a Região Autónoma dos Açores.
+Acresce a esta situação o condicionalismo internacional actual no Médio Oriente, que tem motivado e continuará a motivar fluxos de tráfego excepcionais.
+Na vigência da greve que se está a verificar, e que já dura há 10 dias, os trabalhadores não têm vindo a assegurar os serviços indispensáveis à satisfação das necessidades sociais impreteríveis, violando, desse modo, a obrigação que decorre da própria Lei da Greve.
+Considerando o disposto no n.º 1 do artigo 4.º do Decreto-Lei n.º 637/74, de 20 de Novembro:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - Reconhecer a necessidade da requisição civil dos técnicos de telecomunicações aeronáuticas da empresa pública Aeroportos e Navegação Aérea - ANA, E. P., que se encontram em greve naquela empresa.
+2 - Autorizar os Ministros das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social a efectivarem, por portaria, a requisição civil dos trabalhadores referidos no número anterior, a qual pode ser efectivada faseadamente ou de uma só vez, consoante as necessidades o exijam.
+3 - A presente resolução produz efeitos imediatos.
+Presidência do Conselho de Ministros, 16 de Agosto de 1990. - Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
