@@ -1,0 +1,8 @@
+Despacho Normativo n.º 274/82
+Dando cumprimento ao disposto na Resolução do Conselho de Ministros n.º 61-A/81, de 30 de Março, o Ministro de Estado e das Finanças e do Plano e o Ministro da Agricultura, Comércio e Pescas determinam:
+1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1982 os projectos da SNAB - Sociedade Nacional dos Armadores de Bacalhau, S. A. R. L., a seguir discriminados:
+(ver documento original)
+2 - É atribuído à SNAB - Sociedade Nacional dos Armadores de Bacalhau, S. A. R. L., um subsídio não reembolsável no montante de 130 milhões de escudos, a realizar por conta da dotação de 11000 milhões de escudos inscrita no Orçamento Geral do Estado para 1982, que se destina à prossecução do equilíbrio da exploração da empresa. Até Julho de 1982 serão atribuídos 6 duodécimos, ficando a restante verba suspensa até à demonstração da viabilidade económica da empresa e da sua reestruturação.
+3 - No presente ano fica vedado à empresa lançar e financiar qualquer novo projecto de investimento não incluído no n.º 1.
+4 - A empresa deverá apresentar ao Ministro de Estado e das Finanças e do Plano e ao Ministro da Agricultura, Comércio e Pescas, no prazo de 30 dias a contar da data da publicação do presente despacho, os instrumentos previsionais de gestão para 1982, actualizados de acordo com as alterações decorrentes dos números anteriores.
+Ministérios das Finanças e do Plano e da Agricultura, Comércio e Pescas, 25 de Novembro de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.
