@@ -1,0 +1,16 @@
+Decreto-Lei n.º 65/82
+de 2 de Março
+Considerando que só agora podem ser melhor caracterizadas as funções que ao 2.º comandante-geral da Polícia de Segurança Pública (PSP) foram cometidas pelo artigo 2.º do Decreto-Lei n.º 395/74, de 28 de Agosto, que criou aquele cargo;
+Considerando que a eficiência dos serviços sob a sua responsabilidade sugere que a prossecução de algumas missões que lhe estão confiadas não seja afectada pela imposição legal de exercer outras funções que lhe estão cometidas:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. A alínea c) do artigo 2.º do Decreto-Lei n.º 395/74, de 28 de Agosto, passa a ter a seguinte redacção:
+Art. 2.º - ...
+a) ...
+b) ...
+c) Presidir à Junta Superior de Saúde e do Comando-Geral, podendo delegar essa competência em oficial superior.
+d) ...
+e) ...
+Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
+Promulgado em 15 de Fevereiro de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
