@@ -1,0 +1,9 @@
+Decreto-Lei n.º 43149
+Considerando que a publicação da nova pauta de importação torna necessário actualizar o Decreto-Lei n.º 39244, de 15 de Junho de 1953, no que respeita ao açúcar;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É autorizado o Ministro das Finanças a mandar aplicar ao açúcar originário e importado do Brasil por efeito de deficiência da produção nacional ou em contrapartida da saída de igual quantidade de açúcar português para os mercados externos os mesmos direitos a que está sujeita a importação do açúcar ultramarino.
+Art. 2.º A importação de açúcar em contrapartida de igual quantidade de açúcar português para os mercados externos deverá fazer-se por intermédio ou sob orientação e fiscalização da delegação do Governo junto dos grémios dos armazenistas e retalhistas de mercearia.
+§ único. A liquidação dos bilhetes de despacho de importação ficará pendente de prova iniludível da saída da quantidade correspondente de açúcar português.
+Art. 3.º É revogado o artigo 2.º do Decreto-Lei n.º 39244, de 15 de Junho de 1953.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 5 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
