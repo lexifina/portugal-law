@@ -1,0 +1,64 @@
+Portaria n.º 368/2004
+de 8 de Abril
+A requerimento da Maêutica - Cooperativa de Ensino Superior, C. R. L., entidade instituidora do Instituto Superior da Maia, reconhecido oficialmente, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo (Decreto-Lei n.º 271/89, de 19 de Agosto), pela Portaria n.º 1006/91, de 2 de Outubro;
+Instruído, organizado e apreciado o processo nos termos dos artigos 57.º e 59.º do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo Decreto-Lei n.º 16/94, de 22 de Janeiro, alterado, por ratificação, pela Lei n.º 37/94, de 11 de Novembro, e pelo Decreto-Lei n.º 94/99, de 23 de Março);
+Colhido o parecer da comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto;
+Ao abrigo do disposto no artigo 64.º do referido Estatuto:
+Manda o Governo, pela Ministra da Ciência e do Ensino Superior, o seguinte:
+1.º
+Autorização de funcionamento
+É autorizado o funcionamento do curso de Gestão de Recursos Humanos no Instituto Superior da Maia nas instalações que estejam autorizadas nos termos da lei.
+2.º
+Duração do curso
+O curso tem a duração de quatro anos.
+3.º
+Duração do ano e semestres lectivos
+1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.
+2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.
+4.º
+Plano de estudos
+É aprovado o plano de estudos do curso nos termos do anexo à presente portaria.
+5.º
+Grau
+A conclusão com aproveitamento de todas as unidades curriculares que integram o plano de estudos do curso confere o direito à atribuição do grau de licenciado.
+6.º
+Condições de acesso
+As condições de acesso ao curso são as fixadas nos termos da lei.
+7.º
+Número máximo de alunos
+1 - O número de novos alunos a admitir anualmente não pode exceder 75.
+2 - A frequência global do curso não pode exceder 300 alunos.
+8.º
+Início de funcionamento do curso
+O curso inicia o seu funcionamento a partir do ano lectivo 2004-2005, inclusive.
+9.º
+Condicionamento
+A autorização e o reconhecimento operados pelo presente diploma não prejudicam, sob pena de revogação do mesmo, a obrigação dos órgãos responsáveis da entidade instituidora e do estabelecimento de ensino de cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Ciência e do Ensino Superior, quer por não cumprimento dos pressupostos de autorização e reconhecimento quer em consequência das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo.
+10.º
+Disposição revogatória
+1 - Com a entrada em funcionamento do curso, cessa a ministração do curso bietápico de licenciatura em Gestão de Recursos Humanos, cujo funcionamento foi autorizado pela Portaria n.º 457-A/98, de 29 de Julho, alterada pela Portaria n.º 680-A/98, de 31 de Agosto, com o plano de estudos aprovado pela Portaria n.º 1126/2001, de 24 de Setembro.
+2 - A transição entre o curso bietápico de licenciatura em Gestão de Recursos Humanos e o curso de licenciatura em Gestão de Recursos Humanos opera-se nos termos fixados pelo órgão legal e estatutariamente competente do estabelecimento de ensino.
+3 - Findo o processo de transição fixado nos termos do número anterior, caduca a autorização de funcionamento do curso bietápico de licenciatura em Gestão de Recursos Humanos.
+A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 22 de Março de 2004.
+
+ANEXO
+Instituto Superior da Maia
+Curso de Gestão de Recursos Humanos
+Grau de licenciado
+QUADRO N.º 1
+1.º ano
+(ver quadro no documento original)
+QUADRO N.º 2
+2.º ano
+(ver quadro no documento original)
+QUADRO N.º 3
+3.º ano
+(ver quadro no documento original)
+Ramo de Administração Pública e Autárquica
+QUADRO N.º 4
+4.º ano
+(ver quadro no documento original)
+Ramo de Empresas
+QUADRO N.º 5
+4.º ano
+(ver quadro no documento original)
