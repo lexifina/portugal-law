@@ -1,0 +1,1071 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "76",
+    "id": "18559",
+    "titulo": "Altera o Decreto-Lei n.º 275-A/2000, de 9 de Novembro, (Lei Orgânica da Polícia Judiciária)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-06-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1932",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-06-21",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "18550",
+        "leg": "VIII",
+        "nr": "77",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "519",
+            "obs": null,
+            "pag": [
+              "3859-3874"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-22",
+            "pubLeg": "VIII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3874&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "519",
+            "obs": null,
+            "pag": [
+              "3859-3874"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-22",
+            "pubLeg": "VIII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3874&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "519",
+            "obs": null,
+            "pag": [
+              "3859-3874"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-22",
+            "pubLeg": "VIII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3874&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "519",
+            "obs": null,
+            "pag": [
+              "3859-3874"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-22",
+            "pubLeg": "VIII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3874&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Altera o regime penal do tráfico e detenção de armas"
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "18551",
+        "leg": "VIII",
+        "nr": "78",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "519",
+            "obs": null,
+            "pag": [
+              "3859-3874"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-22",
+            "pubLeg": "VIII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3874&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "519",
+            "obs": null,
+            "pag": [
+              "3859-3874"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-22",
+            "pubLeg": "VIII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3874&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "519",
+            "obs": null,
+            "pag": [
+              "3859-3874"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-22",
+            "pubLeg": "VIII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3874&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "519",
+            "obs": null,
+            "pag": [
+              "3859-3874"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-22",
+            "pubLeg": "VIII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3874&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Altera a Lei n.º 144/99, de 31 de Agosto (Lei da Cooperação Judiciária Internacional em Matéria Penal)"
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "18560",
+        "leg": "VIII",
+        "nr": "79",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "519",
+            "obs": null,
+            "pag": [
+              "3859-3874"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-22",
+            "pubLeg": "VIII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3874&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "519",
+            "obs": null,
+            "pag": [
+              "3859-3874"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-22",
+            "pubLeg": "VIII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3874&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "519",
+            "obs": null,
+            "pag": [
+              "3859-3874"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-22",
+            "pubLeg": "VIII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3874&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "519",
+            "obs": null,
+            "pag": [
+              "3859-3874"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-22",
+            "pubLeg": "VIII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3874&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Regime jurídico das acções encobertas para fins de prevenção e investigação criminal"
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Resolução",
+        "id": "18561",
+        "leg": "VIII",
+        "nr": "58",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "519",
+            "obs": null,
+            "pag": [
+              "3859-3874"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-22",
+            "pubLeg": "VIII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3874&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "519",
+            "obs": null,
+            "pag": [
+              "3859-3874"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-22",
+            "pubLeg": "VIII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3874&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "519",
+            "obs": null,
+            "pag": [
+              "3859-3874"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-22",
+            "pubLeg": "VIII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3874&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "519",
+            "obs": null,
+            "pag": [
+              "3859-3874"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-22",
+            "pubLeg": "VIII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3874&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "S",
+        "titulo": "Aprova, para ratificação, a Convenção relativa ao auxílio judiciário mútuo em matéria penal entre os Estados-Membros da União Europeia, asinado em Bruxelas a 29 de Maio de 2000"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-06-21",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138837",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3859-3866",
+                  "3873-3874"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-22",
+                "pubLeg": "VIII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3866,3873-3874&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Decreto-Lei n.º 275-A/2000, de 9 de Novembro, (Lei Orgânica da Polícia Judiciária); Altera o regime penal do tráfico e detenção de armas; Altera a Lei n.º 144/99, de 31 de Agosto (Lei da Cooperação Judiciária Internacional em Matéria Penal); Regime jurídico das acções encobertas para fins de prevenção e investigação criminal;Aprova, para ratificação, a Convenção relativa ao auxílio judiciário mútuo em matéria penal entre os Estados-Membros da União Europeia, asinado em Bruxelas a 29 de Maio de 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138838",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3861-3862"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-22",
+                "pubLeg": "VIII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3861?pgs=3861-3862&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Decreto-Lei n.º 275-A/2000, de 9 de Novembro, (Lei Orgânica da Polícia Judiciária); Altera o regime penal do tráfico e detenção de armas; Altera a Lei n.º 144/99, de 31 de Agosto (Lei da Cooperação Judiciária Internacional em Matéria Penal); Regime jurídico das acções encobertas para fins de prevenção e investigação criminal;Aprova, para ratificação, a Convenção relativa ao auxílio judiciário mútuo em matéria penal entre os Estados-Membros da União Europeia, asinado em Bruxelas a 29 de Maio de 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138839",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3862-3863"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-22",
+                "pubLeg": "VIII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3862?pgs=3862-3863&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Decreto-Lei n.º 275-A/2000, de 9 de Novembro, (Lei Orgânica da Polícia Judiciária); Altera o regime penal do tráfico e detenção de armas; Altera a Lei n.º 144/99, de 31 de Agosto (Lei da Cooperação Judiciária Internacional em Matéria Penal); Regime jurídico das acções encobertas para fins de prevenção e investigação criminal;Aprova, para ratificação, a Convenção relativa ao auxílio judiciário mútuo em matéria penal entre os Estados-Membros da União Europeia, asinado em Bruxelas a 29 de Maio de 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138840",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3863-3863"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-22",
+                "pubLeg": "VIII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3863?pgs=3863&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Decreto-Lei n.º 275-A/2000, de 9 de Novembro, (Lei Orgânica da Polícia Judiciária); Altera o regime penal do tráfico e detenção de armas; Altera a Lei n.º 144/99, de 31 de Agosto (Lei da Cooperação Judiciária Internacional em Matéria Penal); Regime jurídico das acções encobertas para fins de prevenção e investigação criminal;Aprova, para ratificação, a Convenção relativa ao auxílio judiciário mútuo em matéria penal entre os Estados-Membros da União Europeia, asinado em Bruxelas a 29 de Maio de 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138841",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3864-3865"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-22",
+                "pubLeg": "VIII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3864?pgs=3864-3865&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Decreto-Lei n.º 275-A/2000, de 9 de Novembro, (Lei Orgânica da Polícia Judiciária); Altera o regime penal do tráfico e detenção de armas; Altera a Lei n.º 144/99, de 31 de Agosto (Lei da Cooperação Judiciária Internacional em Matéria Penal); Regime jurídico das acções encobertas para fins de prevenção e investigação criminal;Aprova, para ratificação, a Convenção relativa ao auxílio judiciário mútuo em matéria penal entre os Estados-Membros da União Europeia, asinado em Bruxelas a 29 de Maio de 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138842",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3865-3866"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-22",
+                "pubLeg": "VIII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3865?pgs=3865-3866&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Decreto-Lei n.º 275-A/2000, de 9 de Novembro, (Lei Orgânica da Polícia Judiciária); Altera o regime penal do tráfico e detenção de armas; Altera a Lei n.º 144/99, de 31 de Agosto (Lei da Cooperação Judiciária Internacional em Matéria Penal); Regime jurídico das acções encobertas para fins de prevenção e investigação criminal;Aprova, para ratificação, a Convenção relativa ao auxílio judiciário mútuo em matéria penal entre os Estados-Membros da União Europeia, asinado em Bruxelas a 29 de Maio de 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1436",
+                "nome": "Joaquim Sarmento"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138844",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3866-3867"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-22",
+                "pubLeg": "VIII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3866?pgs=3866-3867&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Decreto-Lei n.º 275-A/2000, de 9 de Novembro, (Lei Orgânica da Polícia Judiciária); Altera o regime penal do tráfico e detenção de armas; Altera a Lei n.º 144/99, de 31 de Agosto (Lei da Cooperação Judiciária Internacional em Matéria Penal); Regime jurídico das acções encobertas para fins de prevenção e investigação criminal;Aprova, para ratificação, a Convenção relativa ao auxílio judiciário mútuo em matéria penal entre os Estados-Membros da União Europeia, asinado em Bruxelas a 29 de Maio de 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1736",
+                "nome": "Fernando Seara"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138845",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3867-3867"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-22",
+                "pubLeg": "VIII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3867?pgs=3867&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Decreto-Lei n.º 275-A/2000, de 9 de Novembro, (Lei Orgânica da Polícia Judiciária); Altera o regime penal do tráfico e detenção de armas; Altera a Lei n.º 144/99, de 31 de Agosto (Lei da Cooperação Judiciária Internacional em Matéria Penal); Regime jurídico das acções encobertas para fins de prevenção e investigação criminal;Aprova, para ratificação, a Convenção relativa ao auxílio judiciário mútuo em matéria penal entre os Estados-Membros da União Europeia, asinado em Bruxelas a 29 de Maio de 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138846",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3867-3868"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-22",
+                "pubLeg": "VIII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3867?pgs=3867-3868&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Decreto-Lei n.º 275-A/2000, de 9 de Novembro, (Lei Orgânica da Polícia Judiciária); Altera o regime penal do tráfico e detenção de armas; Altera a Lei n.º 144/99, de 31 de Agosto (Lei da Cooperação Judiciária Internacional em Matéria Penal); Regime jurídico das acções encobertas para fins de prevenção e investigação criminal;Aprova, para ratificação, a Convenção relativa ao auxílio judiciário mútuo em matéria penal entre os Estados-Membros da União Europeia, asinado em Bruxelas a 29 de Maio de 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138847",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3868-3869"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-22",
+                "pubLeg": "VIII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3868?pgs=3868-3869&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Decreto-Lei n.º 275-A/2000, de 9 de Novembro, (Lei Orgânica da Polícia Judiciária); Altera o regime penal do tráfico e detenção de armas; Altera a Lei n.º 144/99, de 31 de Agosto (Lei da Cooperação Judiciária Internacional em Matéria Penal); Regime jurídico das acções encobertas para fins de prevenção e investigação criminal;Aprova, para ratificação, a Convenção relativa ao auxílio judiciário mútuo em matéria penal entre os Estados-Membros da União Europeia, asinado em Bruxelas a 29 de Maio de 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138848",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3869-3870"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-22",
+                "pubLeg": "VIII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3869?pgs=3869-3870&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Decreto-Lei n.º 275-A/2000, de 9 de Novembro, (Lei Orgânica da Polícia Judiciária); Altera o regime penal do tráfico e detenção de armas; Altera a Lei n.º 144/99, de 31 de Agosto (Lei da Cooperação Judiciária Internacional em Matéria Penal); Regime jurídico das acções encobertas para fins de prevenção e investigação criminal;Aprova, para ratificação, a Convenção relativa ao auxílio judiciário mútuo em matéria penal entre os Estados-Membros da União Europeia, asinado em Bruxelas a 29 de Maio de 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1180",
+                "nome": "Dias Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138849",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3870-3871"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-22",
+                "pubLeg": "VIII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3870?pgs=3870-3871&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Decreto-Lei n.º 275-A/2000, de 9 de Novembro, (Lei Orgânica da Polícia Judiciária); Altera o regime penal do tráfico e detenção de armas; Altera a Lei n.º 144/99, de 31 de Agosto (Lei da Cooperação Judiciária Internacional em Matéria Penal); Regime jurídico das acções encobertas para fins de prevenção e investigação criminal;Aprova, para ratificação, a Convenção relativa ao auxílio judiciário mútuo em matéria penal entre os Estados-Membros da União Europeia, asinado em Bruxelas a 29 de Maio de 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1643",
+                "nome": "José de Matos Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3871-3873"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-22",
+                "pubLeg": "VIII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3871?pgs=3871-3873&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Decreto-Lei n.º 275-A/2000, de 9 de Novembro, (Lei Orgânica da Polícia Judiciária); Altera o regime penal do tráfico e detenção de armas; Altera a Lei n.º 144/99, de 31 de Agosto (Lei da Cooperação Judiciária Internacional em Matéria Penal); Regime jurídico das acções encobertas para fins de prevenção e investigação criminal;Aprova, para ratificação, a Convenção relativa ao auxílio judiciário mútuo em matéria penal entre os Estados-Membros da União Europeia, asinado em Bruxelas a 29 de Maio de 2000",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "146300",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "262832",
+        "obs": null,
+        "pag": [
+          "3859-3874"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-06-22",
+        "pubLeg": "VIII",
+        "pubNr": "99",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/099/2001-06-22/3859?pgs=3859-3874&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
