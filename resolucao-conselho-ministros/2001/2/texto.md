@@ -1,0 +1,10 @@
+Resolução do Conselho de Ministros n.º 2/2001
+Considerando a necessidade de assegurar às Intervenções Operacionais de Acessibilidades e Transportes regionalmente desconcentradas a necessária independência relativamente aos organismos potencialmente beneficiários, revela-se de todo necessário introduzir algumas correcções ao modelo actual.
+Com a adopção deste novo modelo pretende-se essencialmente assegurar a independência orgânico-funcional dos coordenadores relativamente aos organismos de que dependem, bem como permitir a sua dedicação exclusiva a estas tarefas.
+Tal solução decorre do facto de os serviços potencialmente habilitados para assumirem as tarefas de coordenação das medidas anteriormente referidas serem, em alguns casos, também beneficiários directos dos financiamentos a conceder no contexto das mesmas.
+Assim sucede, com efeito, com os serviços do Instituto das Estradas de Portugal e do Instituto para a Conservação e Exploração da Rede Rodoviária, havendo, portanto, necessidade de dotar os coordenadores das medidas sectoriais regionalmente desconcentradas de autonomia orgânico-funcional em relação aos serviços daqueles Institutos. Esta medida justifica-se pela necessidade de guardar observância aos princípios da transparência de gestão e da imparcialidade na decisão.
+Tanto mais quanto da sua acção está dependente a capacidade do Estado Português de, no âmbito do 3.º Quadro Comunitário de Apoio, executar despesa pública de elevado montante.
+Assim, nos termos das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Os coordenadores das Intervenções Operacionais de Acessibilidades e Transportes regionalmente desconcentradas das Regiões do Norte, do Centro, do Alentejo e do Algarve são equiparados para efeitos remuneratórios, incluindo despesas de representação, a subdirector-geral, sendo os encargos suportados pelo Instituto das Estradas de Portugal.
+2 - A presente resolução produz efeitos a 1 de Outubro de 2000.
+Presidência do Conselho de Ministros, 21 de Dezembro de 2000. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
