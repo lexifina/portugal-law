@@ -1,0 +1,776 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "232",
+    "id": "20204",
+    "titulo": "Sobre o futuro do Centro Materno-Infantil do Norte."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2004-03-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3074",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2004-03-18",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "20136",
+        "leg": "IX",
+        "nr": "221",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "781",
+            "obs": null,
+            "pag": [
+              "3660-3670"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-03-20",
+            "pubLeg": "IX",
+            "pubNr": "66",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3660?pgs=3660-3670&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "781",
+            "obs": null,
+            "pag": [
+              "3660-3670"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-03-20",
+            "pubLeg": "IX",
+            "pubNr": "66",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3660?pgs=3660-3670&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "781",
+            "obs": null,
+            "pag": [
+              "3660-3670"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-03-20",
+            "pubLeg": "IX",
+            "pubNr": "66",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3660?pgs=3660-3670&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Criação do Centro Materno-infantil do Porto."
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "20140",
+        "leg": "IX",
+        "nr": "226",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "781",
+            "obs": null,
+            "pag": [
+              "3660-3670"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-03-20",
+            "pubLeg": "IX",
+            "pubNr": "66",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3660?pgs=3660-3670&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "781",
+            "obs": null,
+            "pag": [
+              "3660-3670"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-03-20",
+            "pubLeg": "IX",
+            "pubNr": "66",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3660?pgs=3660-3670&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "781",
+            "obs": null,
+            "pag": [
+              "3660-3670"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-03-20",
+            "pubLeg": "IX",
+            "pubNr": "66",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3660?pgs=3660-3670&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Criação do Centro Materno-infantil do Norte."
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "19817",
+        "leg": "IX",
+        "nr": "176",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "781",
+            "obs": null,
+            "pag": [
+              "3660-3670"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-03-20",
+            "pubLeg": "IX",
+            "pubNr": "66",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3660?pgs=3660-3670&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "781",
+            "obs": null,
+            "pag": [
+              "3660-3670"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-03-20",
+            "pubLeg": "IX",
+            "pubNr": "66",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3660?pgs=3660-3670&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "781",
+            "obs": null,
+            "pag": [
+              "3660-3670"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-03-20",
+            "pubLeg": "IX",
+            "pubNr": "66",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3660?pgs=3660-3670&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Constituição de uma comissão tripartida para a definição da instalação do Centro Materno-Infantil do Norte."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-03-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1975",
+                "nome": "Alda Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148959",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3660-3661"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-20",
+                "pubLeg": "IX",
+                "pubNr": "66",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3660?pgs=3660-3661&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão tripartida para a definição da instalação do Centro Materno-Infantil do Norte; Criação dos Centros Materno-infantis do Porto e do Norte; Sobre o futuro do Centro Materno-Infantil do Norte",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148960",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3661-3662"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-20",
+                "pubLeg": "IX",
+                "pubNr": "66",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3661?pgs=3661-3662&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão tripartida para a definição da instalação do Centro Materno-Infantil do Norte; Criação dos Centros Materno-infantis do Porto e do Norte; Sobre o futuro do Centro Materno-Infantil do Norte",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148961",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3663-3665"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-20",
+                "pubLeg": "IX",
+                "pubNr": "66",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3663?pgs=3663-3665&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão tripartida para a definição da instalação do Centro Materno-Infantil do Norte; Criação dos Centros Materno-infantis do Porto e do Norte; Sobre o futuro do Centro Materno-Infantil do Norte",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1679",
+                "nome": "Renato Sampaio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148962",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3664-3665"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-20",
+                "pubLeg": "IX",
+                "pubNr": "66",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3664?pgs=3664-3665&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão tripartida para a definição da instalação do Centro Materno-Infantil do Norte; Criação dos Centros Materno-infantis do Porto e do Norte; Sobre o futuro do Centro Materno-Infantil do Norte",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1290",
+                "nome": "Álvaro Castello-branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148963",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3665-3667"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-20",
+                "pubLeg": "IX",
+                "pubNr": "66",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3665?pgs=3665-3667&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão tripartida para a definição da instalação do Centro Materno-Infantil do Norte; Criação dos Centros Materno-infantis do Porto e do Norte; Sobre o futuro do Centro Materno-Infantil do Norte",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148964",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3667-3668"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-20",
+                "pubLeg": "IX",
+                "pubNr": "66",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3667?pgs=3667-3668&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão tripartida para a definição da instalação do Centro Materno-Infantil do Norte; Criação dos Centros Materno-infantis do Porto e do Norte; Sobre o futuro do Centro Materno-Infantil do Norte",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148965",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3669-3669"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-20",
+                "pubLeg": "IX",
+                "pubNr": "66",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3669?pgs=3669&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão tripartida para a definição da instalação do Centro Materno-Infantil do Norte; Criação dos Centros Materno-infantis do Porto e do Norte; Sobre o futuro do Centro Materno-Infantil do Norte",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148966",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3669-3669"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-20",
+                "pubLeg": "IX",
+                "pubNr": "66",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3669?pgs=3669&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão tripartida para a definição da instalação do Centro Materno-Infantil do Norte; Criação dos Centros Materno-infantis do Porto e do Norte; Sobre o futuro do Centro Materno-Infantil do Norte",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1290",
+                "nome": "Álvaro Castello-branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148967",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3669-3670"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-20",
+                "pubLeg": "IX",
+                "pubNr": "66",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3669?pgs=3669-3670&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão tripartida para a definição da instalação do Centro Materno-Infantil do Norte; Criação dos Centros Materno-infantis do Porto e do Norte; Sobre o futuro do Centro Materno-Infantil do Norte",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1290",
+                "nome": "Álvaro Castello-branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148968",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3670-3670"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-20",
+                "pubLeg": "IX",
+                "pubNr": "66",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3670?pgs=3670&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão tripartida para a definição da instalação do Centro Materno-Infantil do Norte; Criação dos Centros Materno-infantis do Porto e do Norte; Sobre o futuro do Centro Materno-Infantil do Norte",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "162380",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "288494",
+        "obs": null,
+        "pag": [
+          "3660-3671"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-03-20",
+        "pubLeg": "IX",
+        "pubNr": "66",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/066/2004-03-20/3660?pgs=3660-3671&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
