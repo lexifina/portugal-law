@@ -6,7 +6,7 @@
 
 ### Contra-ordenações
 
-1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
+1 - Constituem contra-ordenações puníveis com coima de 2000000$00 a 20000000$00:
 
 a) A comercialização de direito real de habitação periódica não validamente constituído;
 
@@ -26,19 +26,19 @@ h) A não prestação da caução prevista no artigo 31.º;
 
 i) A realização de publicidade ou promoção do direito real de habitação periódica ou de direito de habitação turística em infracção ao disposto nos artigos 43.º e 44.º;
 
-j) A comercialização de direitos de habitação turística em infracção ao disposto nos n.os 1 e 4 do artigo 46.º;
+j) A comercialização de direitos de habitação turística em infracção do disposto nos n.os 1 e 2 do artigo 46.º;
 
-l) A infracção do disposto nos n.os 5 e 6 do artigo 48.º;
+l) A infracção ao disposto nos n.os 3 e 4 do artigo 48.º;
 
 m) A não prestação das cauções previstas no artigo 52.º;
 
 n) O incumprimento do disposto no n.º 5 do artigo 60.º
 
-2 - Constitui contraordenação económica grave, punível nos termos do RJCE:
+2 - Constituem contra-ordenações puníveis com coimas de 1000000$00 a 10000000$00:
 
-a) A infracção ao disposto no n.º 3 do artigo 4.º;
+a) A infracção ao disposto no n.º 2 do artigo 4.º;
 
-b) A infracção ao disposto nos n.os 1, 2 e 3 do artigo 9.º;
+b) A infracção ao disposto nos n.os 1 e 2 do artigo 9.º;
 
 c) A infracção ao disposto no n.º 2 do artigo 11.º;
 
@@ -48,16 +48,14 @@ e) A falta de conservação e limpeza das unidades de alojamento objecto do dire
 
 f) O incumprimento do disposto nos n.os 1 a 3 do artigo 32.º, no artigo 33.º e nos n.os 1 e 4 do artigo 34.º;
 
-g) A infração ao disposto nos n.os 1 a 6 do artigo 47.º-A;
+g) A infracção ao disposto no n.º 1 do artigo 48.º, quando o vendedor tenha intervindo no exercício do comércio;
 
-h) A infracção ao disposto no n.º 1 do artigo 48.º, quando o vendedor tenha intervindo no exercício do comércio;
+h) A infracção ao disposto no n.º 2 do artigo 48.º;
 
-i) A infracção ao disposto no n.º 2 do artigo 48.º;
+i) A infracção ao disposto no artigo 49.º;
 
-j) A violação dos direitos garantidos pelos n.os 1, 7 e 8 do artigo 16.º e pelo artigo 49.º;
+j) A infracção ao disposto no n.º 2 do artigo 50.º;
 
-k) A infracção ao disposto no n.º 2 do artigo 50.º;
+l) O incumprimento do disposto no n.º 4 do artigo 60.º
 
-l) A infracção ao disposto nos n.os 1 a 4 do artigo 50.º-A.
-
-3 - A tentativa e a negligência são puníveis nos termos do RJCE.
+3 - A negligência e a tentativa são puníveis.

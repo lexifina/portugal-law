@@ -4,7 +4,7 @@
 
 1 - Do certificado predial devem constar:
 
-a) A data em que foi realizado o acto de constituição do direito real de habitação periódica;
+a) A data e o cartório notarial em que foi celebrada a escritura pública de constituição do direito real de habitação periódica;
 
 b) Os elementos do título de constituição do direito real de habitação periódica referidos nas alíneas a) a c) do n.º 2 do artigo 5.º;
 
@@ -20,42 +20,36 @@ g) A indicação dos ónus ou encargos existentes.
 
 2 - O certificado predial deve mencionar a seguir aos elementos previstos no número anterior a existência de um documento complementar que contenha os seguintes elementos:
 
-a) A menção das informações previstas nos n.os 2 e 3 do artigo 9.º que deve ter total correspondência com o formulário normalizado de informação;
+a) A menção das informações previstas no n.º 2 do artigo 9.º;
 
-b) (Revogada.)
+b) A data a partir da qual o adquirente pode exercer o direito objecto do contrato;
 
 c) O valor relativo do direito, de acordo com o disposto na alínea n) do n.º 2 do artigo 5.º;
 
 d) A indicação de que a aquisição do direito real de habitação periódica não acarreta quaisquer despesas, encargos ou obrigações para além dos estipulados no contrato;
 
-e) (Revogada.)
+e) A indicação dos encargos legais obrigatórios, nomeadamente os impostos ou taxas que o adquirente tenha de suportar;
 
-f) (Revogada.)
+f) O valor da prestação periódica devida pelo titular do direito real de habitação periódica;
 
-g) (Revogada.)
+g) A possibilidade de participar ou não num sistema de troca e ou de revenda do direito real de habitação periódica, bem como os eventuais custos quando o sistema de troca e ou de revenda seja organizado pelo vendedor ou por terceiro por este designado, mencionando-se expressamente que a venda desse direito não é assegurada a um preço ou dentro de um período de tempo determinado;
 
-h) (Revogada.)
+h) A descrição especificada dos móveis e utensílios que constituem o equipamento da unidade de alojamento a que se refere o direito;
 
 i) A declaração do proprietário do empreendimento turístico que ateste que este foi ou será construído de acordo com o regime jurídico da instalação e do funcionamento dos empreendimentos turísticos, aprovado pelo Decreto-Lei n.º 167/97, de 4 de Julho, e que obedece aos requisitos das instalações, classificação e funcionamento previstos nos regulamentos a que se refere o n.º 3 do artigo 1.º daquele diploma;
 
 j) A identificação da entidade responsável pela exploração e administração do empreendimento;
 
-l) (Revogada.)
+l) Os mecanismos adoptados com vista à participação do adquirente na administração do empreendimento;
 
 m) A indicação das garantias prestadas para cumprir o disposto nos artigos 15.º e 31.º
 
 3 - Os elementos previstos no número anterior fazem parte integrante do contrato e completam os elementos previstos no n.º 1, devendo o adquirente declarar por escrito ter recebido aquele documento e compreendido o seu teor.
 
-4 - O certificado predial e o documento complementar devem estar redigidos de forma clara e precisa, com caracteres facilmente legíveis, em português, devendo ser entregue pelo vendedor ao adquirente uma tradução, na língua ou numa das línguas do Estado membro de residência ou da nacionalidade do consumidor à escolha deste, desde que se trate de uma das línguas oficiais da Comunidade, acompanhada de uma tradução do contrato na língua do Estado em que se situe o imóvel.
+4 - O certificado predial e o documento complementar devem estar redigidos de forma clara e precisa, com caracteres facilmente legíveis, em português, devendo ser entregue pelo vendedor ao adquirente uma tradução, efectuada nos termos da lei notarial, para, de entre as línguas oficiais da União Europeia, a ou uma das línguas do Estado membro de residência do adquirente ou, se este assim o preferir, a ou uma das línguas do Estado membro de que ele é nacional.
 
-5 - No espaço do certificado predial imediatamente anterior ao destinado a assinaturas deve constar:
-
-a) A menção relativa à existência do direito de resolução sem necessidade de indicação do motivo e sem quaisquer encargos, no prazo de 14 dias seguidos a contar da data da entrega do certificado predial;
-
-b) A menção sobre a proibição de quaisquer pagamentos antecipados directa ou indirectamente relacionados com o negócio jurídico a celebrar.
+5 - No espaço do certificado predial imediatamente anterior ao destinado a assinaturas deve constar a menção de que nos contratos de alienação do direito real de habitação periódica o adquirente pode resolver o contrato, sem indicar o motivo e sem quaisquer encargos, no prazo de 10 dias úteis a contar da data em que lhe for entregue o certificado predial, salvo se a aquisição tiver sido precedida de contrato-promessa.
 
 6 - No espaço previsto no número anterior, o adquirente deve ainda declarar ter recebido a tradução do certificado e do documento complementar, que constitui parte integrante do contrato para todos os efeitos legais.
 
-7 - O certificado predial deve incluir o formulário de resolução do contrato.
-
-8 - O modelo do certificado predial e o formulário de resolução do contrato são aprovados pelo despacho conjunto a que se refere o n.º 7 do artigo 9.º
+7 - O modelo do certificado predial é aprovado por despacho conjunto dos Ministros da Economia e da Justiça.

@@ -4,7 +4,7 @@
 
 1 - Nos contratos-promessa o promitente-adquirente goza do direito de resolução após a sua assinatura, nos termos do disposto no artigo 16.º, contando-se o respectivo prazo da data de assinatura do contrato-promessa.
 
-2 - Se na pendência do prazo previsto no número anterior for realizado o acto de constituição do direito real de habitação periódica, o prazo para o adquirente do direito real de habitação periódica resolver o respectivo contrato de aquisição, previsto no n.º 1 do artigo 16.º, conta-se a partir da data da assinatura do contrato-promessa.
+2 - Se na pendência do prazo previsto no número anterior for celebrada a escritura pública de constituição do direito real de habitação periódica, o prazo para o adquirente do direito real de habitação periódica resolver o respectivo contrato de aquisição, previsto no n.º 1 do artigo 16.º, conta-se a partir da data da assinatura do contrato-promessa.
 
 3 - O promitente-vendedor, quando seja proprietário do empreendimento ou cessionário da sua exploração, deve prestar caução nos contratos-promessa que garanta:
 

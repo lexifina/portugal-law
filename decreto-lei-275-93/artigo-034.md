@@ -20,7 +20,7 @@ f) Deliberar sobre qualquer assunto do interesse dos titulares de direitos reais
 
 3 - A assembleia geral é convocada pela entidade responsável pela administração do empreendimento, salvo o disposto no n.º 5.
 
-4 - A assembleia geral deve ser convocada por carta registada, ou por envio de e-mail com recibo de leitura para o endereço electrónico do titular do direito e publicação da convocatória no sítio da empresa na internet, pelo menos 30 dias antes da data prevista para a reunião, no 1.º trimestre de cada ano, para os efeitos, pelo menos, das matérias referidas nas alíneas b) a d) e f) do n.º 2.
+4 - A assembleia geral deve ser convocada por carta registada, enviada pelo menos 30 dias antes da data prevista para a reunião, no 1.º trimestre de cada ano, para os efeitos, pelo menos, das matérias referidas nas alíneas b) a d) e f) do n.º 2.
 
 5 - A assembleia geral deve ser convocada pelo presidente sob proposta de titulares de direitos reais de habitação periódica que representem 5% dos votos correspndentes aos direitos transmitidos.
 

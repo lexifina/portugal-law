@@ -2,7 +2,7 @@
 
 ### Modificação do título de constituição do direito real de habitação periódica
 
-1 - Salvo o disposto em lei especial, o título de constituição do direito real de habitação periódica pode ser modificado por escritura pública ou por documento particular autenticado, havendo acordo dos titulares de direitos reais de habitação periódica cuja posição seja afectada.
+1 - O título de constituição do direito real de habitação periódica pode ser modificado por escritura pública, havendo acordo dos titulares de direitos reais de habitação periódica cuja posição seja afectada.
 
 2 - A aprovação da modificação pode ser judicialmente suprida, em caso de recusa injustificada.
 

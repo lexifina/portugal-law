@@ -2,4 +2,4 @@
 
 ### Destino das coimas
 
-O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
+As importâncias das coimas reverterão em 60% para os cofres do Estado e em 40% para a Direcção-Geral do Turismo.
