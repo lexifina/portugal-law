@@ -1,0 +1,12 @@
+Decreto n.º 43481
+1. O Decreto-Lei n.º 43037, de 29 de Junho de 1960, autorizou o Governo a contrair um empréstimo interno, amortizável, denominado «V Centenário do Infante D. Henrique - 1960», até à importância total nominal de 1 milhão de contos, destinado a absorver os capitais de aplicação condicionada e outros meios disponíveis que não podiam ser utilizados na aquisição de títulos da dívida pública amortizável em virtude da escassez destes títulos no mercado.
+2. O mesmo decreto-lei autorizou desde logo a emissão da obrigação geral correspondente às cinco primeiras séries, no total de 500000 contos.
+3. Pelo presente decreto fica autorizada a emissão da obrigação geral correspondente às restantes cinco séries, também no total de 500000 contos.
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É autorizada a Direcção-Geral da Fazenda Pública a emitir a obrigação geral correspondente às cinco últimas séries do empréstimo interno, amortizável, denominado «V Centenário do Infante D. Henrique - 1960», cujas características se encontram definidas no Decreto-Lei n.º 43037, de 29 de Junho de 1960, podendo ainda excepcionalmente ser provisórios os respectivos títulos, fazendo-se a sua substituição, no prazo máximo de um ano, por títulos definitivos.
+Art. 2.º O primeiro juro das obrigações destas cinco últimas séries vence-se em 15 de Julho de 1961 e a primeira amortização terá lugar em 15 de Abril de 1966.
+Art. 3.º Poderá o Ministro das Finanças contratar com a Caixa Geral de Depósitos, Crédito e Previdência ou com outras instituições de crédito nacionais a colocação, no todo ou em parte, dos títulos ou fazê-la por subscrição pública ou por venda no mercado, não devendo, porém, o encargo efectivo do empréstimo, excluídas as despesas da sua representação, exceder 3 3/4 por cento.
+Art. 4.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos das novas séries a emitir.
+Art. 5.º As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças inscritas no orçamento do ano económico em curso.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 24 de Janeiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.
