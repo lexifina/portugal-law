@@ -28,10 +28,14 @@ c) Direcção de Serviços de Administração;
 
 D) Técnico-normativos:
 
-a) Gabinete para as Relações Aduaneiras Internacionais;
+a) Direcção de Serviços de Cooperação Aduaneira Internacional, Regimes Aduaneiros e Procedimentos Administrativos;
 
-b) Direcção de Serviços de Prevenção e Repressão da Fraude;
+b) Direcção de Serviços de Nomenclatura, Política Pautal, Origens e Relações Externas;
 
-c) Direcção de Serviços de Tráfego, Armazenagem e Benefícios Fiscais.
+c) Direcção de Serviços de Circulação de Mercadorias e de Polícia Agrícola;
+
+d) Direcção de Serviços de Prevenção e Repressão da Fraude;
+
+e) Direcção de Serviços de Tráfego, Armazenagem e Benefícios Fiscais.
 
 2 - Junto da DGA funcionam tribunais técnico-aduaneiros, aos quais serão afectos os processos de carácter técnico que se suscitem nas alfândegas.

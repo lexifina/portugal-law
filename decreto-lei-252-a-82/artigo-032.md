@@ -1,13 +1,15 @@
 # Artigo 32.º
 
-### (Divisão da Integração Económica - Atribuições)
+### (Divisão dos Regimes Aduaneiros e Procedimentos Administrativos - Atribuições)
 
-São atribuições da Divisão de Integração Económica:
+São atribuições da Divisão dos Regimes Aduaneiros e Procedimentos Administrativos a elaboração de estudos, formulação de propostas e definição de normas e técnicas de actuação no âmbito dos seus objectivos, designadamente:
 
-a) Estudar os processos de integração do País em espaços económicos internacionais, uniões aduaneiras ou zonas de comércio livre, pronunciando-se, no âmbito da sua competência, sobre os problemas de natureza aduaneira, designadamente os relacionados com a origem das mercadorias;
+1) Aplicação da legislação comunitária em matéria de:
 
-b) Participar na elaboração e acompanhar a execução de acordos preferenciais;
+a) Regimes aduaneiros: zonas francas, entrepostos, depósitos provisórios, tráficos de aperfeiçoamento activo e passivo, transformação de mercadorias sob controle aduaneiro, importação temporária, regime de retorno, franquias, etc.;
 
-c) Elaborar instruções para as alfândegas relativamente às matérias visadas nas alíneas a) e b);
+b) Procedimentos administrativos: dívida aduaneira, procedimentos de exportação, draubaque, etc.;
 
-d) Elaborar normas de aplicação das regras e meios de prova de origem no plano nacional.
+2) Elaboração e difusão de instruções para os serviços;
+
+3) Participação nos trabalhos dos comités comunitários.

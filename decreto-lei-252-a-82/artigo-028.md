@@ -2,7 +2,7 @@
 
 ### (Secretarias e núcleos de apoio administrativo)
 
-1 - Junto do Gabinete para as Relações Aduaneiras Internacionais e das Direcções de Serviços de Prevenção e Repressão da Fraude e de Tráfego, Armazenagem e Benefícios Fiscais são desde já criadas secretarias próprias, incumbidas:
+1 - Junto das Direcções de Serviços de Cooperação Aduaneira Internacional, Regimes Aduaneiros e Procedimentos Administrativos, de Nomenclatura, Política Pautal, Origens e Relações Externas, de Circulação de Mercadorias e de Política Agrícola, de Prevenção e Repressão da Fraude e de Tráfego, Armazenagem e Benefícios Fiscais são desde já criadas secretarias próprias, incumbidas:
 
 a) Da recepção, classificação, registo e distribuição da correspondência e demais documentação dirigida aos respectivos órgãos e serviços;
 
