@@ -1,0 +1,3 @@
+Despacho Normativo n.º 57/77
+Até fixação das normas previstas na nova redacção do corpo do artigo 14.º do Regulamento de Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca, dada pela Portaria n.º 85/77, de 19 de Fevereiro, fica suspensa a inscrição marítima nos casos que não estejam mencionados no § único do mesmo artigo.
+Ministérios da Agricultura e Pescas e dos Transportes e Comunicações, 17 de Fevereiro de 1977. - O Secretário de Estado das Pescas, Pedro Amadeu de Albuquerque Santos Coelho. - O Secretário de Estado da Marinha Mercante, António José Borrani Crisóstomo Teixeira.
