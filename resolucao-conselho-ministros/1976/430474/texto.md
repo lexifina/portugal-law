@@ -1,0 +1,7 @@
+Resolução do Conselho de Ministros
+Considerando que, pelo Decreto-Lei n.º 214/76, de 24 de Março, foi autorizada e determinada, relativamente à colheita vinícola de 1975, uma operação de intervenção da Junta Nacional dos Vinhos, por compra à lavoura, para a qual aquele organismo carece de avultado financiamento;
+Tendo em conta a urgência de tal operação, mas mostrando-se indispensável, simultaneamente, assegurar a correcta e normal liquidação do financiamento necessário;
+Tendo em conta a relativa precaridade da organização contabilística e financeira da Junta, situação de há muito existente e que levará ainda algum tempo a corrigir:
+1. Determina-se o esclarecimento da situação financeira global e apresentação por parte da Junta Nacional dos Vinhos de um plano de tesouraria, devidamente fundamentado em termos de origens e aplicação dos recursos e pelo período indispensável, garantindo desde já que a recuperação do apoio que o sistema bancário venha a prestar será assegurado através do reembolso dos créditos que a Junta obtiver ou, em último caso, através de adequada cobertura orçamental.
+2. Autoriza-se, entretanto, a realização de uma operação bancária intercalar até ao montante de 75000 contos, considerado suficiente para possibilitar a intervenção da Junta Nacional dos Vinhos nos meses de Abril e Maio do ano corrente, condicionada à apresentação de documentos justificativos da respectiva utilização.
+Presidência do Conselho de Ministros, 7 de Julho de 1976. - O Primeiro-Ministro Interino, Vasco Fernando Leote de Almeida e Costa.
