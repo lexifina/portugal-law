@@ -1,0 +1,5 @@
+Portaria n.º 18305
+Após a publicação da Portaria n.º 18005, que nomeou a comissão reorganizadora da indústria das tintas preparadas, verificou-se a vantagem de dar uma mais ampla representação à indústria e incluir também na comissão um delegado do Laboratório Nacional de Engenharia Civil.
+Nestas condições:
+Manda o Governo da República Portuguesa, pelo Ministro da Economia, que a comissão reorganizadora da indústria das tintas preparadas seja constituída, além do presidente e dos membros agregados previstos na lei, por um representante de cada uma das entidades seguintes: Direcção-Geral dos Serviços Industriais; Comissão Reguladora dos Produtos Químicos e Farmacêuticos; Laboratório Nacional de Engenharia Civil; empresas industriais com produção anual comprovadamente superior a 1000 t; empresas industriais com produção anual inferior a 1000 t; unidades trabalhando em regime caseiro e familiar autónomo. Os três últimos vogais deverão ser indicados pela Corporação da Indústria.
+Ministério da Economia, 6 de Março de 1961. - O Ministro da Economia, José do Nascimento Ferreira Dias Júnior.
