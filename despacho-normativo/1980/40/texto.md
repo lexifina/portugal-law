@@ -1,0 +1,3 @@
+Despacho Normativo n.º 40/80
+Delego no Secretário de Estado da Administração Interna, Dr. José Luís da Cruz Vilaça, todas as competências referentes à Secretaria-Geral do Ministério, ao Gabinete de Informação e Relações Públicas, ao Secretariado Técnico dos Assuntos para o Processo Eleitoral, à Auditoria Jurídica e aos governos civis, bem como os poderes de orientação e coordenação dos trabalhos conducentes à elaboração das propostas da lei eleitoral, da lei dos partidos políticos, da lei da nacionalidade, da lei dos estrangeiros e da lei quadro do referendo, a apresentar à Assembleia da República.
+Ministério da Administração Interna, 11 de Janeiro de 1980. - O Ministro da Administração Interna, Eurico de Melo.
