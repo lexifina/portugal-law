@@ -1,0 +1,21 @@
+Portaria n.º 18664
+Manda o Governo da República Portuguesa, pelos Ministros do Interior, das Finanças e do Ultramar, nos termos do artigo 1.º do Decreto-Lei n.º 43603, de 15 de Abril de 1961, o seguinte:
+1.º O Corpo de Polícia de Segurança Pública de Angola é reforçado com três companhias móveis, que ficarão dependentes do respectivo comandante.
+2.º Os quadros e os vencimentos do pessoal destas companhias móveis são os que vêm descritos nos mapas I e II anexos à presente portaria.
+3.º Ao pessoal das companhias móveis a recrutar nos termos do n.º 1.º da presente portaria é aplicável o disposto nos §§ únicos dos artigos 1.º e 2.º e artigos 3.º, 4.º, 5.º e 6.º do Decreto n.º 43080, de 19 de Julho de 1960.
+4.º O pessoal das companhias móveis beneficia dos direitos e regalias consignados na presente portaria a partir da data do seu recrutamento.
+5.º Fica o governador-geral de Angola autorizado no corrente ano:
+a) A reforçar as verbas do Corpo de Polícia de Segurança Pública, quer por meio de transferências, quer por meio de abertura de créditos especiais, com as importâncias necessárias ao pagamento de vencimentos e remunerações necessárias do pessoal das companhias móveis, utilizando como contrapartida recursos orçamentais;
+b) A abrir os créditos especiais necessários ao pagamento do material das companhias móveis e, bem assim, ao pagamento das demais despesas da instalação dos serviços da Polícia de Segurança Pública, utilizando como contrapartida os saldos de contas de exercícios findos.
+Ministérios do Interior, das Finanças e do Ultramar, 14 de Agosto de 1961. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro do Ultramar, Adriano José Alves Moreira.
+
+Para ser publicada no Boletim Oficial de Angola. - A. Moreira.
+
+MAPA I
+Pessoal e vencimentos da 2.ª companhia móvel do Corpo de Polícia de Segurança Pública da província de Angola
+(ver documento original)
+
+MAPA II
+Pessoal e vencimentos das 3.ª e 4.ª companhias móveis do Corpo de Polícia de Segurança Pública da província de Angola
+(ver documento original)
+Ministérios do Interior, das Finanças e do Ultramar, 14 de Agosto de 1961. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro do Ultramar, Adriano José Alves Moreira.
