@@ -2,7 +2,7 @@
 
 ### Garantia em caso de prestação indevida
 
-1 - O devedor que, para suspender a execução, ofereça garantia bancária ou equivalente será indemnizado total ou parcialmente pelos prejuízos resultantes da sua prestação, caso a tenha mantido por período superior a dois anos em proporção do vencimento em recurso administrativo, impugnação ou oposição à execução que tenham como objecto a dívida garantida.
+1 - O devedor que, para suspender a execução, ofereça garantia bancária ou equivalente será indemnizado total ou parcialmente pelos prejuízos resultantes da sua prestação, caso a tenha mantido por período superior a três anos em proporção do vencimento em recurso administrativo, impugnação ou oposição à execução que tenham como objecto a dívida garantida.
 
 2 - O prazo referido no número anterior não se aplica quando se verifique, em reclamação graciosa ou impugnação judicial, que houve erro imputável aos serviços na liquidação do tributo.
 

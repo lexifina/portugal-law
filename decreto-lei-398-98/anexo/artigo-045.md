@@ -12,6 +12,6 @@
 
 3 - Em caso de ter sido efectuado reporte de prejuízos, o prazo de caducidade é o do exercício desse direito.
 
-4 - O prazo de caducidade conta-se, nos impostos periódicos, a partir do termo do ano em que se verificou o facto tributário e, nos impostos de obrigação única, a partir da data em que o facto tributário ocorreu.
+4 - O prazo de caducidade conta-se, nos impostos periódicos, a partir do termo do ano em que se verificou o facto tributário e, nos impostos de obrigação única, a partir da data em que o facto tributário ocorreu, excepto no imposto sobre o valor acrescentado, caso em que aquele prazo se conta a partir do início do ano civil seguinte àquele em que se verificou a exigibilidade do imposto.
 
-5 - Instaurado o procedimento de inspecção tributária, o direito de liquidar os tributos incluídos no âmbito da inspecção caduca no prazo de seis meses após o termo do prazo fixado para a sua conclusão, sem prejuízo das prorrogações previstas na lei reguladora daquele procedimento, a não ser que antes dessa ocorra a caducidade prevista no prazo geral fixado no n.º 1.
+5 - (Eliminado).

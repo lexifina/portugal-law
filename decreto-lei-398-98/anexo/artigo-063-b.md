@@ -30,6 +30,6 @@ d) Quando seja necessário, para fins fiscais, comprovar a aplicação de subsí
 
 8 - O regime previsto nos números anteriores não prejudica a legislação aplicável aos casos de investigação por infracção penal e só pode ter por objecto operações e movimentos bancários realizados após a sua entrada em vigor, sem prejuízo do regime vigente para as situações anteriores.
 
-9 - Os actos praticados ao abrigo da competência prevista no n.º 1 devem ser objecto de comunicação ao Defensor do Contribuinte.
+9 - (Revogado).
 
 10 - Para os efeitos desta lei, considera-se documento bancário qualquer documento ou registo, independentemente do respectivo suporte, em que se titulem, comprovem ou registem operações praticadas por instituições de crédito ou sociedades financeiras no âmbito da respectiva actividade, incluindo os referentes a operações realizadas mediante utilização de cartões de crédito.
