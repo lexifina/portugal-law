@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2furkWvc0lKdq20ak2KlHOmirXJXFYm74sABWT32jiDLN0U8f%2fPEtMfn8RnKJ0uGruwmBNe3jwMO37t%2fiSCQ9aculmRkJeIKwr%2fOiOzMziHJAnUHHtOwdh287ngLEtCriB2WWEC7LYWi1fowW8ns7Xdb7ZeW1KZ%2fh4MoxhR77APfbIk6lGh2Xrj7umHYAgvxBKomL8r%2b7w%2bcVlag%2bST%2fprrlUOE0u%2b6qHwbnvIQKfKeygiUNrSNiI04zccBV4YEQPPfynibRRVQMmV0H0WPDuRcSm80sGGQgNyTsUcq3R2DGZQtkpt%2bs4PaWOTvEOy%2b0HxZFhxj0gLaLBKCcha3mTRy2bCNMZep%2b9wDXb88fyVXk%3d&fich=IntervencoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6a76c73abc08ffed4c44b15f3f36f3269364cf06e4b7f2d6259e2b14d6049817",
+  "legislatura": "VIII",
+  "id": "57689",
+  "tipo": "Intervenção",
+  "orador": "Álvaro Castello-branco (CDS-PP)",
+  "data_registo": "2000-11-03",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "56582",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "5859",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Altera a Lei nº 42/98 de 6 de Agosto,\"Lei das finanças locais¿."
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "5867",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Altera os artigos 9º,10º,12º,14º,17º,18º,e 24º e adita os artigos 10º-A e 14º-A à Lei nº.42/98, de 6 de Agosto (Lei das Finanças Locais)"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2000-11-03",
+    "Debate": "PJL n.º 321/VIII/2; PPL n.º 49/VIII/2",
+    "Deputados": {
+      "GP": "CDS-PP",
+      "idCadastro": "1290",
+      "nome": "Álvaro Castello-branco"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "57689",
+    "IdDebate": "1612",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "57689",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "681-682"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-11-04",
+        "pubLeg": "VIII",
+        "pubNr": "19",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/019/2000-11-04/681?pgs=681-682&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Ao deputado Honorio Novo (PCP)",
+    "Sessao": "2",
+    "Sumario": "Lei das Finanças Locais",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
