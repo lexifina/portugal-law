@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério das Finanças, a declaração de rectificação à Portaria n.º 2/90, publicada no Diário da República, 1.ª série, n.º 26 (2.º suplemento), de 31 de Janeiro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Onde se lê «Aprova a declaração modelo n.º 1, o anexo D e o anexo 'Benefícios fiscais' a que se refere a alínea a) do n.º 1 do artigo 57.º do Código do IRS» deve ler-se «Aprova o modelo n.º 1 e anexos D e 'Benefícios fiscais' de declaração de rendimentos a que se refere a alínea a) do n.º 1 do artigo 57.º de Código do Imposto sobre o Rendimento das Pessoas Singulares».
+Secretaria-Geral da Presidência do Conselho de Ministros, 19 de Fevereiro de 1990. - O Secretário-Geral, França Martins.
