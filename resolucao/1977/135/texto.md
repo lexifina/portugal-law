@@ -1,0 +1,19 @@
+Resolução n.º 135/77
+Considerando que, por resolução do Conselho de Ministros datada de 15 de Maio de 1975, publicada no Diário do Governo, 1.ª série, n.º 146, de 27 de Junho de 1975, foi determinada a intervenção do Estado na Tinturaria Cambournac, ao abrigo do Decreto-Lei n.º 660/74, de 25 de Novembro;
+Considerando que, para os efeitos do Decreto-Lei n.º 907/76, de 31 de Dezembro, e por despacho conjunto dos Ministros do Plano e Coordenação Económica, das Finanças e da Indústria e Tecnologia, publicado no Diário da República, 2.ª série, n.º 73, de 8 de Março de 1977, foi nomeada uma comissão interministerial que elaborou um relatório sobre a empresa, nos termos previstos no diploma legal atrás citado, e para elaboração do qual procedeu à audiência das partes interessadas, nomeadamente dos trabalhadores, através da respectiva comissão;
+Considerando que o relatório atrás mencionado refere que:
+A intervenção na empresa foi feita a pedido do proprietário;
+Na inspecção levada a efeito pela Inspecção-Geral de Finanças não foram detectados procedimentos fraudulentos com prejuízo para a empresa ou para o Estado;
+A empresa se situa no mercado utilizador de fibras têxteis artificiais e, portanto, se enquadra no esquema petroquímico nacional;
+A empresa dispõe de equipamento fabril aperfeiçoado e operacional e de recursos de mão-de-obra que seria altamente lesivo do interesse nacional continuarem inactivos;
+O projecto de consolidação financeira da empresa apresentado pelos proprietários assegura a manutenção de todos os postos de trabalho e, ainda que com adaptações, se verifica economicamente viável, dando possibilidade aos credores de virem a recuperar os seus créditos, embora em prazos dilatados;
+São os próprios trabalhadores a defender a restituição da empresa à entidade patronal.
+O Conselho de Ministros, reunido em 8 de Junho de 1977, resolveu:
+a) Determinar, com efeitos a partir de 15 de Junho de 1977, a cessação da intervenção do Estado instituída na Tinturaria Cambournac, ao abrigo do Decreto-Lei n.º 660/74, de 25 de Novembro, e a restituição aos respectivos titulares, conforme previsto na alínea d) do n.º 1 do artigo 24.º do Decreto-Lei n.º 422/76, de 29 de Maio;
+b) Dar por findas, a partir da mesma data acima referida, as funções da comissão administrativa nomeada por resolução do Conselho de Ministros que determinou a intervenção do Estado na empresa;
+c) Fixar o prazo de noventa dias para a entidade patronal proceder às seguintes actuações:
+1) Transformar a empresa em nome individual numa sociedade por quotas, mantendo integrado no seu património os bens imóveis actualmente incluídos no inventário da empresa;
+2) Apresentar à instituição de crédito nacional sua maior credora os elementos necessários à apreciação de um contrato de viabilização, a celebrar nos termos do n.º 1 do artigo 1.º de Decreto-Lei n.º 124/77, de 1 de Abril, para o que é desde já reconhecida à empresa a prioridade prevista no n.º 6 do artigo 2.º do mesmo diploma;
+d) O Ministério das Finanças recomendará ao sistema bancário, desde já, o apoio financeiro transitório destinado à constituição de um fundo de maneio até ao montante indispensável ao funcionamento da empresa durante o período a correr até à decisão sobre o dossier de viabilização a apresentar pela entidade patronal, devendo tal apoio basear-se, se necessário, em consignação de receitas, penhor mercantil sobre equipamento e hipoteca sobre os terrenos, instalações e mais bens imobiliários constantes do activo da empresa, e cujos valores livres, devidamente reavaliados, poderão perfazer, no seu conjunto, cobertura bastante para os riscos desta operação intercalar.
+Este financiamento transitório será oportunamente integrado no contrato de viabilização a celebrar nos termos do disposto na alínea 2) anterior.
+Presidência do Conselho de Ministros, 8 de Junho de 1977. - O Primeiro-Ministro, Mário Soares.
