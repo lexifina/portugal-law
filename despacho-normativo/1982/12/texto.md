@@ -1,0 +1,3 @@
+Despacho Normativo n.º 12/82
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 2 (produtos fitofarmacêuticos), é autorizada a alteração do teor de substância activa de 800 g/l + 30 g/l para 750 g/l + 30 g/l, respectivamente, relativamente aos produtos fitofarmacêuticos com base em óleo de verão + paratião, formulado em concentrado para emulsão.
+Secretarias de Estado da Produção Agrícola e do Comércio, 20 de Janeiro de 1982. - O Secretário de Estado da Produção Agrícola, José Vicente Carvalho Cardoso. - O Secretário de Estado do Comércio, António Escaja Gonçalves.
