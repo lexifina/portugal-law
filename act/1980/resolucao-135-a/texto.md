@@ -1,0 +1,12 @@
+Resolução n.º 135-A/80
+A exploração e transformação de combustíveis no quadro dos serviços de energia desempenha uma função social relevante pelas implicações na actividade industrial e comercial e, particularmente, na satisfação das necessidades básicas da população.
+A Empresa Petróleos de Portugal, E. P. - Petrogal ocupa uma posição estratégica no quadro do processo de produção de energia, pelo que a sua paralisação, sem que se encontre assegurada a prestação de serviços mínimos, provoca graves prejuízos económicos e sociais.
+Considerando em particular que, sob pretexto de greve, o pessoal da Direcção de Produção da Direcção-Geral de Refinaria de Lisboa da Petrogal ilegitimamente procedeu ao corte de fornecimento de gás à Empresa de Petroquímica e Gás, E. P.;
+Considerando que o corte de fornecimento de gás impede a utilização de meios domésticos de satisfação de necessidades sociais elementares da população de Lisboa e cria graves perturbações nos estabelecimentos hospitalares e unidades hoteleiras para as quais não existem quaisquer sucedâneos;
+Considerando que tal situação provoca ainda grave risco para os cidadãos, pela eventualidade de verificação de explosões e casos de intoxicação;
+Considerando, também, que a despressurização das caldeiras e condutas leva a danificações de equipamento industrial de montante incalculável e que põem em causa, a curto prazo, o normal fornecimento de gás domiciliário:
+Nestes termos e de harmonia com o disposto no artigo 4.º do Decreto-Lei n.º 637/74, de 20 de Novembro, o Conselho de Ministros, reunido em 17 de Abril de 1980, resolveu:
+1.º Reconhecer, ao abrigo dos n.os 1, 2, alínea d), e 4 do artigo 8.º da Lei n.º 65/77 e artigo 3.º, n.º 1, alínea e), do Decreto-Lei n.º 637/74, a necessidade de proceder à requisição civil do pessoal da Direcção de Produção da Direcção-Geral da Refinaria de Lisboa de Petróleos de Portugal, E. P. - Petrogal de modo a prevenir e assegurar o normal fornecimento de gás à Empresa de Petroquímica e Gás, E. P.
+2.º Autorizar os Ministros da Indústria e Energia e do Trabalho a promover a requisição civil daqueles trabalhadores.
+3.º Determinar a abertura de inquérito ao corte de fornecimento de gás à Empresa de Petroquímica e Gás, E. P., com vista ao apuramento das responsabilidades disciplinares, sem prejuízo da subsequente participação criminal.
+Presidência do Conselho de Ministros, 17 de Abril de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
