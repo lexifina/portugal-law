@@ -1,0 +1,5 @@
+Aviso n.º 96/99
+Por ordem superior se torna público que, em 12 de Maio e em 14 de Julho de 1999, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros romeno e pelo Ministério dos Negócios Estrangeiros português, em que se comunica terem sido cumpridas as formalidades exigidas pelos ordenamentos jurídicos de ambos os países para aprovação da Convenção entre a República Portuguesa e a Roménia para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento e o Capital e o respectivo Protocolo, assinada em Bucareste em 17 de Setembro de 1997.
+A presente Convenção foi aprovada pela Resolução da Assembleia da República n.º 56/99 e pelo Decreto do Presidente da República n.º 164/99, publicados no Diário da República, 1.ª série-A, n.º 159, de 10 de Julho de 1999.
+Em conformidade com o n.º 2 do artigo 29.º da citada Convenção, esta entrou em vigor em 14 de Julho de 1999.
+Direcção-Geral das Relações Bilaterais, 19 de Julho de 1999. - O Director-Geral, José Caetano de Campos Andrada da Costa Pereira.
