@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação recebida da Embaixada de França, a Embaixada da Grã-Bretanha em Paris informou o Ministério dos Negócios Estrangeiros francês que, de acordo com a reserva feita pelo Governo do Reino Unido no momento da assinatura da Convenção estabelecendo a Repartição Internacional de Epizootias, assinada em Paris em 25 de Janeiro de 1924, a sua adesão à referida Convenção estende-se à Rodésia do Sul, tendo a Federação das Rodésias e da Niassalândia deixado de existir.
+Direcção-Geral dos Negócios Económicos e Consulares, 12 de Marco de 1964. - O Director-Geral, Albano Pires Fernandes Nogueira.
