@@ -1,0 +1,8 @@
+Portaria n.º 343/81
+de 18 de Abril
+Continuando a verificar-se casos de fuga ao pagamento do imposto de transacções quer na importação quer na comercialização de cafés, em grão e moído, prática que se impõe combater, por afectar não só os interesses do Estado mas sobretudo os dos contribuintes honestos;
+Na sequência das providências recentemente adoptadas em matéria de fiscalização do imposto:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, nos termos e para os efeitos do disposto nos §§ 1.º e 2.º do artigo 66.º do Código do Imposto de Transacções, o seguinte:
+1.º Nas transacções de café efectuadas com dispensa de liquidação do imposto mediante a apresentação das declarações de responsabilidade, modelos n.os 5 ou 6, nos termos dos artigos 64.º e 65.º do referido Código, competirá aos produtores e grossistas fornecedores a verificação da identidade dos adquirentes, devendo para o efeito conferir as mencionadas declarações com os números de certificado de comerciante e de contribuinte através dos respectivos cartões de identificação ou documentos substitutivos, se aqueles não tiverem ainda sido processados.
+2.º No caso de inobservância do disposto no número anterior, e verificando-se que os adquirentes das referidas mercadorias não foram devidamente identificados, ficam os produtores ou grossistas fornecedores obrigados ao pagamento do imposto devido e da multa porventura aplicável, nos termos do § 2.º do artigo 66.º do Código do Imposto de Transacções.
+Ministério das Finanças e do Plano, 3 de Abril de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão.
