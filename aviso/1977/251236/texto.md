@@ -1,0 +1,6 @@
+Aviso
+Por ordem superior se torna público que, de harmonia com a notificação do Departamento Político Federal da Suíça, o Governo do Irão depositou, em 31 de Março de 1977, um instrumento de adesão:
+A Convenção Adicional à Convenção Internacional Respeitante ao Transporte de Passageiros e Bagagens por Caminho de Ferro (CIV), de 25 de Fevereiro de 1961, Relativa à Responsabilidade do Caminho de Ferro por Morte e Ferimentos de Passageiros, celebrada em Berna em 26 de Fevereiro de 1966; e
+Ao Protocolo II, estabelecido pela Conferência diplomática reunida com vista à entrada em vigor das Convenções Internacionais sobre o Transporte por Caminho de Ferro de Mercadorias (CIM) e de Passageiros e Bagagens (CIV), de 7 de Fevereiro de 1970, respeitante ao prolongamento da duração da validade da Convenção Adicional à CIV de 1961, Relativo à Responsabilidade do Caminho de Ferro por Morte e Ferimentos de Passageiros, assinada em 26 de Fevereiro de 1966 e entrada em vigor em 1 de Janeiro de 1973.
+A adesão à Convenção Adicional modificada pelo Protocolo II entrou em vigor, conforme o artigo 26.º, alínea 2, da referida Convenção, a partir de 7 de Maio de 1977.
+Direcção-Geral dos Negócios Económicos, 30 de Julho de 1977. - O Director-Geral, Alexandre Eduardo Lencastre da Veiga.
