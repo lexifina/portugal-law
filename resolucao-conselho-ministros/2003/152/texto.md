@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 152/2003
+Sob proposta da Câmara Municipal, a Assembleia Municipal da Covilhã aprovou, em 21 de Fevereiro de 2003, a prorrogação do prazo de vigência por mais um ano das medidas preventivas para a área de intervenção da revisão do Plano de Pormenor da Palmeira, no município da Covilhã, ratificadas pela Resolução do Conselho de Ministros n.º 78/2002, publicada no Diário da República, 1.ª série-B, n.º 85, de 11 de Abril de 2002.
+Nos termos do disposto no n.º 9 do artigo 112.º do Decreto-Lei n.º 380/99, de 22 de Setembro, a prorrogação das medidas preventivas está sujeita às regras aplicáveis ao seu estabelecimento.
+O estabelecimento das medidas preventivas para a área de intervenção da revisão do Plano de Pormenor da Palmeira obedeceu ao disposto nos artigos 107.º e seguintes do Decreto-Lei n.º 380/99, de 22 de Setembro.
+A prorrogação do prazo de vigência das medidas preventivas destina-se a continuar a evitar a alteração das circunstâncias e das condições de facto existentes que possam limitar, comprometer ou onerar as propostas contidas na revisão do referido Plano de Pormenor, ainda em elaboração.
+Importa referir que a prorrogação do prazo de vigência das medidas preventivas determina a continuação da suspensão da eficácia do Plano de Pormenor da Palmeira, ratificado pela Portaria n.º 494/97, publicada no Diário da República, 1.ª série-B, n.º 163, de 17 de Julho de 1997, na área abrangida por aquelas medidas, por força do disposto no n.º 2 do artigo 107.º do Decreto-Lei n.º 380/99, de 22 de Setembro.
+Por falta de fixação do prazo de vigência inicial das medidas preventivas, o mesmo só pode ser prorrogado por mais seis meses, nos termos do disposto no n.º 2 do artigo 112.º do Decreto-Lei n.º 380/99, de 22 de Setembro.
+Considerando o disposto nos n.os 2 e 9 do artigo 112.º e 3 do artigo 109.º do Decreto-Lei n.º 380/99, de 22 de Setembro:
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Ratificar a prorrogação por mais seis meses, contados a partir de 16 de Abril de 2003, do prazo de vigência das medidas preventivas estabelecidas para a área de intervenção da revisão do Plano de Pormenor da Palmeira, no município da Covilhã, ratificadas pela Resolução do Conselho de Ministros n.º 78/2002, de 11 de Abril.
+Presidência do Conselho de Ministros, 4 de Setembro de 2003. - O Primeiro-Ministro, José Manuel Durão Barroso.
