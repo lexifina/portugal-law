@@ -1,0 +1,2003 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "169",
+    "id": "28911",
+    "titulo": "Lei orgânica da Assembleia da República"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1988-02-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4582",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1988-02-04",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28960",
+        "leg": "V",
+        "nr": "142",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei orgânica da Assembleia da República"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-02-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210359",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1621-1621"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1621?pgs=1621&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210360",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1621-1621"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1621?pgs=1621&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210361",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1621-1624",
+                  "1630-1630",
+                  "1630-1630"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1621?pgs=1621-1624,1630,1630&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210362",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1624-1625",
+                  "1625-1625"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1624?pgs=1624-1625,1625&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210363",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1625-1626",
+                  "1626-1626"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1625?pgs=1625-1626,1626&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210364",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1626-1626",
+                  "1626-1627"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1626?pgs=1626,1626-1627&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210365",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1627-1627"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1627?pgs=1627&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210366",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1627-1627"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1627?pgs=1627&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210367",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1627-1628",
+                  "1628-1628"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1627?pgs=1627-1628,1628&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210368",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1628-1628",
+                  "1628-1628"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1628?pgs=1628,1628&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210369",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1629-1629",
+                  "1629-1629"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1629?pgs=1629,1629&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210370",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1629-1630"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1629?pgs=1629-1630&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210377",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1630-1630"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1630?pgs=1630&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210379",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1630-1631"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1630?pgs=1630-1631&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210381",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1631-1631"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1631?pgs=1631&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210382",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1631-1631"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1631?pgs=1631&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210385",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1631-1631"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1631?pgs=1631&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210387",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1632-1632",
+                  "1632-1632"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1632?pgs=1632,1632&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210389",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1632-1632",
+                  "1632-1632"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1632?pgs=1632,1632&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210390",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1632-1632"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1632?pgs=1632&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210392",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1632-1632"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1632?pgs=1632&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210394",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1632-1632"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1632?pgs=1632&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210397",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1632-1632"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1632?pgs=1632&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210399",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1632-1632"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1632?pgs=1632&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210401",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1633-1634",
+                  "1635-1635",
+                  "1635-1635"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1633?pgs=1633-1634,1635,1635&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210406",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1635-1635"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1635?pgs=1635&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210407",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1635-1635"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1635?pgs=1635&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210408",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1636-1637",
+                  "1638-1639"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1636?pgs=1636-1637,1638-1639&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210409",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1637-1638"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1637?pgs=1637-1638&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210410",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1638-1638"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1638?pgs=1638&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210411",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1638-1638"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1638?pgs=1638&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210412",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1639-1640",
+                  "1641-1642"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1639?pgs=1639-1640,1641-1642&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210413",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1640-1640"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1640?pgs=1640&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210414",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1640-1641"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1640?pgs=1640-1641&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210415",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1641-1641"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1641?pgs=1641&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210416",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1641-1641"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1641?pgs=1641&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210417",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1642-1643"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1642?pgs=1642-1643&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210418",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1643-1645",
+                  "1646-1646",
+                  "1647-1647"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1643?pgs=1643-1645,1646,1647&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210419",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1645-1645",
+                  "1647-1647"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1645?pgs=1645,1647&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210420",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1646-1646"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1646?pgs=1646&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210421",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1647-1649",
+                  "1650-1651",
+                  "1651-1651"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1647?pgs=1647-1649,1650-1651,1651&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210422",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1649-1650",
+                  "1651-1651"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1649?pgs=1649-1650,1651&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210423",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1651-1651"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05/1651?pgs=1651&org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210424",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-05",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05?org=PLC"
+              }
+            ],
+            "sumario": "Lei orgânica da Assembleia da República",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "221949",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "331706",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-02-05",
+        "pubLeg": "V",
+        "pubNr": "49",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/049/1988-02-05?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "331709",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-02-12",
+        "pubLeg": "V",
+        "pubNr": "51",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/051/1988-02-12?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
