@@ -1,0 +1,3 @@
+Despacho Normativo n.º 204/82
+Ao abrigo do disposto no artigo 28.º do Decreto Regulamentar n.º 32/82, de 3 de Junho, esclarece-se que o n.º 4 do seu artigo 25.º abrange todo aquele que actualmente e a qualquer título desempenhe as funções de inspector técnico de 2.ª classe, independentemente do respectivo vínculo.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Reforma Administrativa, 1 de Setembro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa. - O Secretário de Estado do Turismo, Luís Fernando Cardoso Nandim de Carvalho.
