@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal Administrativo de 2004-05-03, processo 02012/03
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 02012/03
+
+**Data do Acordão:** 05/03/2004
+
+**Tribunal:** 2 SUBSECÇÃO DO CA
+
+**Relator:** ALBERTO AUGUSTO OLIVEIRA
+
+**Descritores:** RECURSO HIERÁRQUICO.; INDEFERIMENTO TÁCITO.; ACTO COMPLEXO.; DESPACHO CONJUNTO.; DEVER LEGAL DE DECIDIR.
+
+**Nº Convencional:** JSTA00060588
+
+**Nº do Documento:** SA12004050302012
+
+**Data de Entrada:** 12/17/2003
+
+**Recorrente:** A...
+
+**Recorrido 1:** MINTRAB E SOLIDARIEDADE
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC CONT.
+
+**Objecto:** ACTO TÁCITO MINTRAB E SOLIDARIEDADE SOCIAL.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR ADM CONT - ACTO.
+
+**Legislação Nacional:** CPA91 ART109 N1.; DL 404-A/98 DE 1998/12/18 ART21 N5.
+
+**Jurisprudência Nacional:** AC STA DE 2002/05/08 IN AD N488 PAG489.; AC STA PROC24729 DE 1989/06/06.
+
+## Sumário
+
+I - Prevendo o artigo 21.º, n.º 5 do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, um recurso hierárquico a ser resolvido por "despacho conjunto dos ministros da tutela, das Finanças e do membro do Governo responsável pela Administração Pública", deve ser considerado correctamente formulado o recurso hierárquico dirigido ao ministro da tutela, com a referência expressa de que o mesmo é interposto nos termos do referido preceito legal, e no qual se conclui por pedir que sejam produzidos os actos necessários à satisfação da pretensão formulada;
+
+II - A inacção do ministro da tutela, no fim do prazo a que alude o artigo 109.º, n.º 2 do CPA, tem o valor de indeferimento da pretensão, pelo que, dada a necessidade de despacho conjunto das três entidades, ela significa, só por si, o indeferimento tácito dessa mesma pretensão, o qual deve ser imputável às três entidades governamentais a quem cabia a prolação do despacho conjunto
