@@ -1,0 +1,5 @@
+Portaria n.º 771/81
+de 8 de Setembro
+Tendo em atenção o disposto nos n.os 1 e 2 do artigo 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, e artigo 13.º do Decreto-Lei n.º 180/80, de 3 de Junho:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e dos Assuntos Sociais e pelo Secretário de Estado da Reforma Administrativa, que seja criado no quadro de pessoal da Secretaria-Geral do Ministério dos Assuntos Sociais, a que se refere o mapa II (tabela B) anexo ao Decreto Regulamentar n.º 39/77, de 15 de Junho, com as modificações introduzidas pela Portaria n.º 158-A/81, de 31 de Janeiro, 1 lugar de assessor, letra B, que será extinto quando vagar.
+Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, 2 de Agosto de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro dos Assuntos Sociais, Carlos Matos Chaves de Macedo. - O Secretário de Estado da Reforma Administrativa, José Cândido Sousa Carrusca Robin de Andrade.
