@@ -1,9 +1,13 @@
 # Artigo 41.º
 
-### (Ex-cônjuge e pessoa em união de facto)
+### (Cônjuge e ex-cônjuge)
 
-1 - Os divorciados ou separados judicialmente de pessoas e bens só se considerarão herdeiros hábeis para efeitos de pensão de sobrevivência se tiverem direito a receber do contribuinte à data da sua morte pensão de alimentos fixada ou homologada judicialmente.
+1. O cônjuge viúvo só terá direito à pensão de sobrevivência:
 
-2 - O direito à pensão de sobrevivência por parte das pessoas que vivam em união de facto está dependente da prova da existência dessa união que deverá ser efectuada nos termos definidos na Lei n.º 7/2001, de 11 de Maio, que adopta medidas de protecção das uniões de facto.
+a) Se existirem filhos do casamento com o contribuinte, ainda que nascituros;
 
-3 - A pensão será devida a partir do início do mês seguinte ao do falecimento do beneficiário, quando requerida pelo membro sobrevivo nos seis meses posteriores.
+b) Se, não existindo filhos do casamento, este houver durado um ano, pelo menos, ou a morte do contribuinte tiver resultado de acidente.
+
+2. Os divorciados ou separados judicialmente de pessoas e bens só se considerarão herdeiros hábeis para efeitos de pensão de sobrevivência se houverem sido casados pelo menos um ano com o contribuinte falecido e tiverem direito a receber dele à data da sua morte pensão de alimentos fixada ou homologada judicialmente.
+
+3. Se o interessado for o cônjuge ou ex-cônjuge marido, só terá direito à pensão se, além de se verificarem os requisitos para cada caso exigidos pelos números anteriores, sofrer de incapacidade permanente e total para o trabalho ou tiver completado 65 anos à data do falecimento da contribuinte.

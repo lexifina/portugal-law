@@ -6,9 +6,9 @@
 
 ### (Herdeiros hábeis)
 
-1 - Têm direito à pensão de sobrevivência como herdeiros hábeis dos contribuintes, verificados os requisitos que se estabelecem nos artigos seguintes:
+1. Têm direito à pensão de sobrevivência, como herdeiros hábeis dos contribuintes, verificados os requisitos que se estabelecem nos artigos seguintes:
 
-a) Os cônjuges sobrevivos, os divorciados ou separados de pessoas e bens e as pessoas que vivam em união de facto;
+a) Os cônjuges sobrevivos e os divorciados;
 
 b) Os filhos, incluindo os nascituros e os adoptados plenamente;
 

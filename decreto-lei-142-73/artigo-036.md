@@ -2,6 +2,6 @@
 
 ### (Arquivo de documentos)
 
-1 - A Caixa deve conservar em arquivo todos os documentos que compõem o processo individual do subscritor, incluindo o registo de comunicações, enquanto forem os mesmos necessários para a constituição de direitos do próprio ou dos seus herdeiros.
+1. O Montepio não é obrigado a conservar em arquivo por mais de três anos os documentos comprovativos do pagamento de pensões ou dotes.
 
-2 - Os processos em formato digital têm valor probatório idêntico e substituem para todos os efeitos os correspondentes em papel, que a Caixa está dispensada de conservar.
+2. Decorrido esse prazo, não será admitida reclamação alguma relativamente aos pagamentos a que os mesmos documentos se referem.

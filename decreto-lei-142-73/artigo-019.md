@@ -12,6 +12,4 @@ a) À dedução no tempo de inscrição do período por que durar a mora;
 
 b) Ao pagamento das quotas em atraso com juros compostos à taxa de 4% ao ano.
 
-b) Ao pagamento das quotas em atraso, com acréscimo de juros à taxa de 4% ao ano.
-
 4. A sanção prevista na alínea a) do número precedente só se aplicará se o contribuinte, notificado, para o efeito, por carta registada com aviso de recepção, ou, se a sua morada for desconhecida, por aviso no Diário do Governo, não proceder, no prazo de trinta dias, ao pagamento integral da importância em dívida acrescida dos juros estabelecidos na alínea b).

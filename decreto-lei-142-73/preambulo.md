@@ -1,3 +1,7 @@
+Decreto-Lei n.º 142/73
+
+de 31 de Março
+
 1. O regime em vigor de pensão de sobrevivência do funcionalismo público, instituído pelo Decreto-Lei n.º 24046, de 21 de Junho de 1934, corresponde, nas suas origens, a uma concepção de previdência em que esta era deixada à iniciativa, e ficava essencialmente a cargo, dos próprios interessados, no quadro de fórmulas jurídicas mais ou menos próximas da do seguro de vida.
 
 Daí os traços fundamentais do sistema: o seu carácter predominantemente facultativo; a sua onerosidade (com quotas que representavam 10% da pensão mensal subscrita); a larga gama de soluções, de custo diverso, que se oferecia à escolha dos subscritores;

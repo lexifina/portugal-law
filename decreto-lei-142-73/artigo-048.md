@@ -1,9 +1,17 @@
 # Artigo 48.º
 
-### (Subsídio de casamento)
+### (Dote)
 
-1 - Têm direito à concessão de um subsídio, quando pelo casamento perderem o direito à pensão, os descendentes de ambos os sexos, incluindo os filhos adoptados plenamente e ainda os viúvos e os divorciados, desde que uns e outros não estejam abrangidos pelas disposições legais sobre prestações complementares criadas pelo Decreto-Lei n.º 197/77, de 17 de Maio.
+1. Têm direito à concessão de um dote quando, pelo casamento, perderem o direito à pensão:
 
-2 - O subsídio será pago de uma só vez e é igual à prestação complementar da mesma natureza prevista no referido decreto-lei.
+a) Os descendentes de ambos os sexos, incluindo os filhos adoptados plenamente;
 
-3 - O subsídio deve ser requerido no prazo de seis meses a contar da data do casamento.
+b) As viúvas e divorciadas com menos de 45 anos de idade à data do casamento.
+
+2. O dote será pago de uma só vez pelo Montepio e é igual a vinte e quatro mensalidades da respectiva pensão ou ao número de mensalidades ainda por vencer, se for menor.
+
+3. Se o pensionista estiver a receber mais de uma pensão, só haverá lugar a dote pela maior delas.
+
+4. O dote responde por qualquer dívida do pensionista ao Montepio e, quando esta for de montante superior ao daquele, o remanescente será pago por força do acréscimo de que beneficiarem os restantes pensionistas com a nova distribuição da pensão a que alude o artigo 46.º
+
+5. O dote deve ser requerido no prazo de seis meses, a contar da data do casamento.
