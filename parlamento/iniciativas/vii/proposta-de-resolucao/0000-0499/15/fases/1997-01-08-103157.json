@@ -1,0 +1,303 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "15",
+    "id": "5377",
+    "titulo": "Aprova para ratificação o tratado de amizade, boa vizinhança e cooperação entre a República Portuguesa e o Reino de Marrocos, assinado em Rabat, em 30 de Maio de 1994."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1997-01-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1311",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1997-01-08",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1997-01-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "581",
+                "nome": "Ferreira Ramos"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50099",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "916-916"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-01-09",
+                "pubLeg": "VII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/023/1997-01-09/916?pgs=916&org=PLC"
+              }
+            ],
+            "sumario": "REPUBLICA PORTUGUESA E REINO DE MARROCOS: TRATADO DE AMIZADECOOPERACAO ASSINADO EM RABAT A 30 DE MAIO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "161",
+                "nome": "Carlos Luís"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50100",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "915-915"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-01-09",
+                "pubLeg": "VII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/023/1997-01-09/915?pgs=915&org=PLC"
+              }
+            ],
+            "sumario": "REPUBLICA PORTUGUESA E REINO DE MARROCOS: TRATADO DE AMIZADECOOPERACAO ASSINADO EM RABAT A 30 DE MAIO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "273",
+                "nome": "Carlos Pinto"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50101",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "915-915"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-01-09",
+                "pubLeg": "VII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/023/1997-01-09/915?pgs=915&org=PLC"
+              }
+            ],
+            "sumario": "REPUBLICA PORTUGUESA E REINO DE MARROCOS: TRATADO DE AMIZADECOOPERACAO ASSINADO EM RABAT A 30 DE MAIO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1164",
+                "nome": "Miguel Coelho"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50103",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "914-914"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-01-09",
+                "pubLeg": "VII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/023/1997-01-09/914?pgs=914&org=PLC"
+              }
+            ],
+            "sumario": "REPUBLICA PORTUGUESA E REINO DE MARROCOS: TRATADO DE AMIZADECOOPERACAO ASSINADO EM RABAT A 30 DE MAIO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS   EUROPEUS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Seixas Da Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107904",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "914-915"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-01-09",
+                "pubLeg": "VII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/023/1997-01-09/914?pgs=914-915&org=PLC"
+              }
+            ],
+            "sumario": "REPUBLICA PORTUGUESA E REINO DE MARROCOS: TRATADO DE AMIZADECOOPERACAO ASSINADO EM RABAT A 30 DE MAIO 1994",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "103157",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1311",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1997-01-09",
+        "pubLeg": "VII",
+        "pubNr": "23",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/023/1997-01-09?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
