@@ -1,0 +1,384 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "6",
+    "id": "6350",
+    "titulo": "Decreto-lei nº 380/99,de 22 de Setembro, que\"estabelece o regime jurídico dos instrumentos de gestão territorial¿."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2000-01-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1784",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2000-01-28",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-01-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29124",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1244-1245"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-29",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/033/2000-01-29/1244?pgs=1244-1245&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC.LEI 380/99, DE 22 DE SETEMBRO, QUE ESTABELECE O REGIME JURIDICO DOS INSTRUMENTOS DE GESTAO TERRITORIAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1675",
+                "nome": "Agostinho Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29126",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1242-1243"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-29",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/033/2000-01-29/1242?pgs=1242-1243&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC.LEI 380/99, DE 22 DE SETEMBRO, QUE ESTABELECE O REGIME JURIDICO DOS INSTRUMENTOS DE GESTAO TERRITORIAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1184",
+                "nome": "Joaquim Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29127",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1241-1242"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-29",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/033/2000-01-29/1241?pgs=1241-1242&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC.LEI 380/99, DE 22 DE SETEMBRO, QUE ESTABELECE O REGIME JURIDICO DOS INSTRUMENTOS DE GESTAO TERRITORIAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1243",
+                "nome": "Maria do Céu Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29128",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1240-1241"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-29",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/033/2000-01-29/1240?pgs=1240-1241&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC.LEI 380/99, DE 22 DE SETEMBRO, QUE ESTABELECE O REGIME JURIDICO DOS INSTRUMENTOS DE GESTAO TERRITORIAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29129",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1239-1240",
+                  "1245-1245"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-29",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/033/2000-01-29/1239?pgs=1239-1240,1245&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC.LEI 380/99, DE 22 DE SETEMBRO, QUE ESTABELECE O REGIME JURIDICO DOS INSTRUMENTOS DE GESTAO TERRITORIAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Fausto Correia"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "105838",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1245-1245"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-29",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/033/2000-01-29/1245?pgs=1245&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC.LEI 380/99, DE 22 DE SETEMBRO, QUE ESTABELECE O REGIME JURIDICO DOS INSTRUMENTOS DE GESTAO TERRITORIAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORDENAMENTO DO TERRITÓRIO  E  DA  CONSERVAÇÃO  DA  NATUREZA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Manuel Silva Pereira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "105839",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1243-1245"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-29",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/033/2000-01-29/1243?pgs=1243-1245&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC.LEI 380/99, DE 22 DE SETEMBRO, QUE ESTABELECE O REGIME JURIDICO DOS INSTRUMENTOS DE GESTAO TERRITORIAL",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105636",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1784",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-01-29",
+        "pubLeg": "VIII",
+        "pubNr": "33",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/033/2000-01-29?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
