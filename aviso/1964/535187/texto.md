@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que o Governo da Hungria depositou, a 28 de Outubro de 1964, junto do secretário-geral das Nações Unidas, o instrumento de adesão à Convenção sobre a solução do cheque e respectivo protocolo, à Convenção sobre a solução de certos conflitos de leis relacionadas com cheques e respectivo protocolo e à Convenção sobre a lei do selo aplicável ao cheque e respectivo protocolo, concluídas em Genebra a 19 de Março de 1931, com a reserva de que a lei uniforme não será aplicável aos tipos especiais de cheques utilizados no comércio terrestre entre organizações económicas socialistas.
+De harmonia com as respectivas disposições, estas Convenções entrarão em vigor na Hungria 90 dias depois da data do depósito do instrumento de adesão, isto é, em 26 de Janeiro de 1965.
+Direcção-Geral dos Negócios Económicos e Consulares, 10 de Dezembro de 1964. - O Director-Geral, José Tomás Cabral Calvet de Magalhães.
