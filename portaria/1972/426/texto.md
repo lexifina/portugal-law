@@ -1,0 +1,16 @@
+Portaria n.º 426/72
+de 3 de Agosto
+Tendo em vista o disposto no n.º 1 do artigo 127.º do Decreto n.º 47847, de 14 de Agosto de 1967, e no n.º 1 do artigo 118.º do mesmo diploma, com a redacção dada pelo Decreto-Lei n.º 231/71, de 28 de Maio:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, o seguinte:
+1.º As áreas máximas, por concelho, que podem ser sujeitas ao regime de coutada, em percentagem das respectivas superfícies, são as seguintes:
+a) 75 por cento para os concelhos de Barrancos e Mértola;
+b) 60 por cento para os concelhos de 1.ª prioridade;
+c) 40 por cento para os concelhos de 2.ª prioridade;
+d) 30 por cento para os restantes concelhos.
+2.º Os pedidos de concessão de coutada, formulados para propriedades que tenham 80 por cento da totalidade da sua área com solos de capacidades de uso D e E definidas pelo Serviço de Reconhecimento e de Ordenamento Agrário, consideram-se:
+a) De 1.ª prioridade, os que se situem ao norte do rio Tejo ou a sul deste rio, nos concelhos de Alandroal, Alcoutim, Almodôvar, Barrancos, Castelo de Vide, Castro Marim (freguesias do Azinhal e Odeleite), Castro Verde, Gavião, Marvão, Moura (freguesias de Amareleja e Santo Aleixo), Mourão, Nisa, Reguengos de Monsaraz (freguesia de S. Marcos do Campo), Serpa (freguesias de Vila Verde de Ficalho, Aldeia Nova de S. Bento, S. Salvador e Santa Maria) e Tavira freguesias de Cachopo, Conceição, Santa Catarina da Fonte do Bispo e Santo Estêvão);
+b) De 2.ª prioridade, os que se situem nos concelhos de Albufeira, Aljezur, Aljustrel, Alportel, Arronches, Castro Marim (excepto as freguesias do Azinhal e Odeleite), Crato, Faro, Ferreira do Alentejo, Grândola, Lagoa, Lagos, Loulé, Monchique, Moura (excepto as freguesias de Amareleja e Santo Aleixo), Odemira, Olhão, Ourique, Portalegre, Portel, Portimão, Reguengos de Monsaraz (excepto a freguesia de S. Marcos do Campo), Santiago do Cacém, Serpa (excepto as freguesias de Vila Verde de Ficalho, Aldeia Nova de S. Bento, S. Salvador e Santa Maria), Silves, Sines, Tavira (excepto as freguesias de Cachopo, Conceição, Santa Catarina da Fonte do Bispo e Santo Estêvão), Vila do Bispo, Vila Real de Santo António e Vila Viçosa.
+3.º Os pedidos de concessão de coutadas serão submetidos a despacho ministerial, de acordo com a ordem estabelecida no artigo 118.º do Decreto n.º 47847, com redacção dada pelo Decreto-Lei n.º 231/71, tendo ainda em conta as prioridades definidas no artigo anterior.
+4.º Para aplicação da 1.ª e 2.ª prioridades, os prédios deverão ter a área mínima de 100 ha ao norte do rio Tejo e de 250 ha a sul deste rio.
+5.º Os pedidos de concessão de «coutadas comunitárias», formulados ao abrigo das alíneas e) e f) do n.º 1 do artigo 116.º do Decreto n.º 47847, com a redacção dada pelo Decreto-Lei n.º 231/71, têm prioridade absoluta e não ficam sujeitos às limitações estabelecidas nos artigos 2.º e 4.º da presente portaria.
+Secretaria de Estado da Agricultura, 17 de Julho de 1972. - O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.
