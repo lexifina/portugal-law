@@ -1,0 +1,7 @@
+Despacho Normativo n.º 149/84
+Considerando que a prática implementada e a experiência colhidas com a publicação do Despacho Normativo n.º 67/83, publicado no Diário da República, 1.ª série, n.º 64, de 18 de Março de 1983, não aconselham a sua manutenção;
+Tendo ainda em conta que o interesse decorrente de uma maior celeridade dos serviços não deve prevalecer sobre a certeza e segurança, particularmente no que respeita ao processo de importação de mercadorias:
+Determino, ao abrigo do disposto no artigo único do Decreto n.º 17/76, de 14 de Janeiro, que seja introduzida a seguinte alteração ao Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de 1941:
+Art. 245.º A declaração compreende a especificação das mercadorias conforme os artigos e taxas pautais que lhes correspondam, com indicação, por extenso e em algarismos, do número de unidades tributáveis e de harmonia com os preceitos que regulam a estatística e bem assim a contagem dos direitos e demais imposições, devendo o total da importância a pagar, quando se trate das sedes das alfândegas e estâncias aduaneiras para este fim indicadas pelos directores e aprovados pela Direcção-Geral, ser também inscrito, por picotagem, no bilhete, duplicado e recibo, utilizando-se para isso máquinas adequadas.
+§ único. Nos despachos de exportação será dispensada a inscrição por picotagem a que se refere a parte final do presente artigo.
+Secretaria de Estado do Orçamento, 30 de Agosto de 1984. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias.
