@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal Administrativo de 1993-12-14, processo 028739
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 028739
+
+**Data do Acordão:** 12/14/1993
+
+**Tribunal:** PLENO DA SECÇÃO DO CA
+
+**Relator:** PAYAN MARTINS
+
+**Descritores:** PRAZO DE RECURSO CONTENCIOSO; PRAZO SUBSTANTIVO
+
+**Nº Convencional:** JSTA00040142
+
+**Nº do Documento:** SAP19931214028739
+
+**Data de Entrada:** 06/27/1991
+
+**Recorrente:** GOMES , JOÃO
+
+**Recorrido 1:** SEA DO MINJ
+
+**Votação:** MAIORIA COM 1 VOT VENC
+
+**Ano da Publicação:** 93
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC 1 SECÇÃO DE 1991/05/16.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM CONT - ACTO.
+
+**Legislação Nacional:** CONST76 ART205 ART206 ART209.; CONST89 ART211 N1 B ART215.; CONST82 ART268 N3.; CPC67 ART144 N3 ART145 N5.; CCIV66 ART276 ART279 ART332.; LPTA85 ART25 N1 ART28 N2.
+
+**Jurisprudência Nacional:** AC STA PROC29956 DE 1992/03/05.; AC STAP DE 1942/05/26 IN COL AC VIV PAG78.; AC STAP DE 1955/07/28 IN COL AC PAG280.; AC STAP DE 1983/06/22 IN AD N266 PAG225.; AC STAP DE 1985/02/05 IN AD N290 PAG196.; AC STA PROC23990 DE 1986/10/29.; AC STA PROC23668 DE 1987/01/20.; AC STA PROC24357 DE 1987/02/26.; AC STA PROC24101 DE 1987/10/08.; AC STA PROC25483 DE 1988/03/17.; AC STA PROC25902 DE 1988/07/05.; AC STA PROC29330 DE 1992/05/28.; AC STAPLENO DE 1993/06/23 IN AD N266 PAG230-231.
+
+**Referência a Doutrina:** GOMES CANOTILHO E VITAL MOREIRA CONSTITUIÇÃO DA REPÚBLICA PORTUGUESA ANOTADA 3ED PAG807.; AFONSO QUEIRÓ IN RLJ ANO115 PAG181-182.; VAZ SERRA PRESCRIÇÃO EXTINTIVA E CADUCIDADE 1961 PAG540.; ROGÉRIO SOARES A PROPÓSITO DE UM PROJECTO LEGISLATIVO - O CHAMADO CÓDIGO DE PROCESSO ADMINISTRATIVO GRACIOSO IN RLJ ANO115 PAG295-297.; Texto Integral
+
+## Sumário
+
+I - Após a entrada em vigor da L.P.T.A., os prazos de interposição dos recursos contenciosos tem natureza substantiva.
+
+II - Assim é inaplicável à interposição daqueles recursos, o disposto nos arts. 144/3 e 145/5 do Código de Processo Civil.
