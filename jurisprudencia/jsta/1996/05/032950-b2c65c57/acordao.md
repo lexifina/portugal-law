@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal Administrativo de 1996-05-30, processo 032950
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 032950
+
+**Data do Acordão:** 05/30/1996
+
+**Tribunal:** PLENO DA SECÇÃO DO CA
+
+**Relator:** MARIO TORRES
+
+**Descritores:** COMPETÊNCIA DOS TRIBUNAIS ADMINISTRATIVOS; RESPONSABILIDADE POR ACTO JUDICIAL; PRISÃO PREVENTIVA; ACÇÃO DE INDEMNIZAÇÃO
+
+**Nº Convencional:** JSTA00044579
+
+**Nº do Documento:** SAP19960530032950
+
+**Data de Entrada:** 10/04/1994
+
+**Recorrente:** FIGUEIREDO , ANTONIO
+
+**Recorrido 1:** ESTADO PORTUGUES
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 96
+
+**Privacidade:** 01
+
+**Meio Processual:** REC OPOS JULGADOS.
+
+**Objecto:** AC STA DE 1995/02/21 PROC32950 E AC STA DE 1988/01/12 PROC25101.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM CONT.
+
+**Legislação Nacional:** CONST89 ART22 ART27 N5 ART214 N3.; ETAF84 ART3 ART4 ART51 N1 H.; L 38/87 DE 1987/12/23 ART28 N3 B ART41 N1 B ART211 ART213 N1 ART205 N1 ART205 N2 ART206 ART218 ART208 N2 ART3168 N1 Q.; CPC67 ART66.
+
+**Jurisprudência Nacional:** AC STA DE 1988/01/12 PROC25101 IN BMJ373 PAG349.; AC STA DE 1991/05/07 PROC29120 IN BMJ407 PAG236.; AC STA DE 1993/01/26 IN BMJ423 PAG285.; AC STA DE 1994/07/07 PROC33042.; AC STAP DE 1995/06/27 PROC31327.; AC TC DE 1996/01/18 PROC278.; AC TC DE 1996/02/22 PROC260.; AC STJ DE 1987/06/11 PROC75360 IN BMJ368 PAG494.; AC STA DE 1994/05/10 PROC32422.; AC STA DE 1993/07/08 PROC30099.; AC TC DE 1994/05/12 PROC266.; AC TC DE 1966/03/14 PROC296.; AC TCONST DE1994/10/26 N579/94.; AC TCONST DE 1994/11/22 N630/94.
+
+**Referência a Pareceres:** P DA PGR DE 1992/03/30 N12/92.
+
+**Referência a Doutrina:** GOMES CANOTILHO E OUTRO CONSTITUIÇÃO DA REPÚBLICA PORTUGUESA ANOTADA 3ED PAG814.; RUI MACHETE A CONSTITUIÇÃO O TRIBUNAL CONSTITUCIONAL E O PROCESSO ADMINISTRATIVO PAG160.; VIEIRA DE ANDRADE DIREITO ADMINISTRATIVO E FISCAL PAG10.; SÉRVULO CORREIA IN BFDL ANO1995 PAG254.; Texto Integral
+
+## Sumário
+
+Os tribunais administrativos são incompetentes, em razão da matéria, para conhecer de acção de responsabilidade civil do Estado para reparação dos danos emergentes de prisão preventiva ilegal ou injustificada, decretada e mantida por despachos judiciais em processo criminal.
