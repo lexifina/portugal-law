@@ -1,0 +1,12 @@
+Portaria n.º 87/2005
+de 25 de Janeiro
+Pela Portaria n.º 526/97, de 23 de Julho, foi concessionada à PAPELACO - Agro-Industrial, Lda., a zona de caça turística do Maranhão (processo n.º 1714-DGRF), situada no município de Avis, válida até 18 de Abril de 2004.
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+Cumpridos os preceitos legais, com fundamento no disposto no n.º 3 do artigo 164.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, e no n.º 8 do artigo 44.º, em articulação com o disposto na alínea a) do n.º 2 do artigo 36.º, do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, e ouvido o Conselho Cinegético Municipal:
+Manda o Governo, pelos Ministros da Agricultura, Pescas e Florestas e do Turismo, o seguinte:
+1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística do Maranhão (processo n.º 1714-DGRF), abrangendo vários prédios rústicos sitos na freguesia de Alcôrrego, município de Avis, com a área de 884 ha.
+2.º A Direcção-Geral do Turismo (DGT) emitiu, ao abrigo do disposto no n.º 3 do artigo 34.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, parecer favorável condicionado à emissão de parecer favorável ao projecto de arquitectura do pavilhão de caça apresentado em 17 de Junho de 2004, sem prejuízo do seu licenciamento pelas entidades competentes, à conclusão da obra no prazo de 12 meses a contar da data de notificação da aprovação do projecto, à verificação da conformidade da obra com o projecto aprovado e à comprovação junto da DGT da legalização do alojamento turístico previsto no interior da zona de caça turística.
+3.º A presente renovação é condicionada à apresentação de comprovativo da habilitação da entidade requerente para gerir zonas de caça turísticas no prazo de seis meses após a publicação da presente portaria.
+4.º É revogada a Portaria n.º 481/2004, de 4 de Maio.
+5.º A presente portaria produz efeitos a partir do dia 19 de Abril de 2004.
+Pelo Ministro da Agricultura, Pescas e Florestas, Luís António Pires Pinheiro, Secretário de Estado das Florestas, em 29 de Dezembro de 2004. - Pelo Ministro do Turismo, Carlos José das Neves Martins, Secretário de Estado Adjunto do Ministro do Turismo, em 3 de Janeiro de 2005.
