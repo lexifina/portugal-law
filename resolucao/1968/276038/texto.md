@@ -1,0 +1,7 @@
+Resolução
+Tendo-se suscitado dúvidas quanto à classificação das faltas dadas ao serviço por funcionários do sexo feminino em casos anormais de gestação, designadamente interrupções de gravidez e casos de parto prematuro;
+Considerando que a tendência dominante na legislação portuguesa tem sido no sentido de considerar como faltas devidas a maternidade as ocorridas por ocasião do parto, conforme resulta, designadamente, do disposto nas alíneas b), c) e d) do artigo 115.º do Decreto-Lei n.º 47032, de 27 de Maio de 1966 (novo regime jurídico do contrato de trabalho);
+Considerando que só existe parto quando não há abortamento e que o aborto não provocado apenas pode ser equiparado ao parto quando lei especial o determine;
+Atendendo aos conceitos em matéria de mortinatalidade e de abortamento, consagrados pelo Decreto-Lei n.º 44128, de 28 de Dezembro de 1961:
+O Conselho de Ministros resolve, ao abrigo do artigo 18.º do Decreto-Lei n.º 42800, de 11 de Janeiro de 1960, que o regime de faltas por motivo de maternidade, previsto no artigo 5.º deste diploma, só é de aplicar no caso de haver nascimento de criança com vida (artigo 2.º do mencionado Decreto-Lei n.º 44128) ou no de a morte fetal ser tardia, isto é, se a gravidez houver durado, neste caso, pelo menos, 28 semanas completas (artigos 1.º e 4.º, § único, do mesmo decreto-lei).
+Presidência do Conselho, 1 de Agosto de 1968. - Pelo Presidente do Conselho, o Ministro de Estado adjunto do Presidente do Conselho, António Jorge Martins da Mota Veiga.
