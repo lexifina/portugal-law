@@ -1,0 +1,9 @@
+Portaria n.º 19394
+Tendo em consideração a necessidade de antecipar o ingresso nos quadros do serviço de material de engenheiros militares formados nos termos do disposto no artigo 38.º do Decreto-Lei n.º 42151, de 12 de Fevereiro de 1959;
+Considerando que alguns dos oficiais que concluem aqueles cursos já possuem do antecedente uma preparação técnica e experiência que permite dispensar, sem qualquer inconveniente para a sua eficiência profissional, a frequência de algumas disciplinas dos cursos e respectivos tirocínios;
+Usando da faculdade conferida pelo artigo 1.º do Decreto-Lei n.º 43805, de 19 de Julho de 1961:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Exército:
+1.º Os oficiais dos quadros permanentes que até ao ano de 1960-1961 foram matriculados nos cursos de Engenharia Mecânica ou Engenharia Electrotécnica da Academia Militar, ao abrigo do disposto no artigo 38.º do Decreto-Lei n.º 42151, de 12 de Fevereiro de 1959, para terem passagem aos respectivos quadros de engenheiros do serviço de material, tendo em vista as funções desempenhadas anteriormente, podem ser dispensados da frequência da 11.ª, 34.ª e 44.ª cadeiras e, bem assim, dos respectivos tirocínios, se o requererem.
+Estes oficiais ficam, para todos os efeitos, ao abrigo do referido artigo 38.º do Decreto-Lei n.º 42151.
+2.º Os oficiais que de futuro requererem para frequentar os cursos de Engenharia Mecânica e Electrotécnica do Serviço de Material deverão frequentar as referidas cadeiras, embora possam ser dispensados dos tirocínios, mediante requerimento; se se verificar que a natureza das funções que entretanto tenham desempenhado pode justificar essa dispensa, com vista a uma mais rápida passagem aos referidos quadros permanentes de oficiais do serviço de material.
+Ministérios das Finanças e do Exército, 15 de Setembro de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro do Exército, Mário José Pereira da Silva.
