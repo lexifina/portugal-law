@@ -1,0 +1,6 @@
+Despacho Normativo n.º 4/89
+Tendo presente a necessidade de intensificar o combate à fraude e evasão fiscais, importa dotar a fiscalização tributária de pessoal mais qualificado para os fins em vista.
+Considerando, todavia, a normal morosidade do processo de recrutamento e selecção de pessoal, acrescida da circunstância de não existirem nos quadros funcionários de categorias inferiores que reúnam as condições necessárias para aquelas qualificadas funções, importa ultrapassar os condicionalismos existentes de forma expedita, possibilitando a admissão atempada do pessoal que viabilize as projectadas acções no domínio da fraude e evasão fiscais.
+Nestes termos, determina-se, ao abrigo dos artigos 12.º e 13.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, que o n.º 4 do Despacho Normativo n.º 72/88, de 18 de Agosto, passe a ter a seguinte redacção:
+4 - Os departamentos ministeriais não poderão utilizar as respectivas quotas para a admissão de pessoal além dos quadros fora dos casos expressamente previstos nas alíneas b) a d) do artigo 14.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, e nos artigos 1.º e 2.º do Decreto-Lei n.º 200/85, de 25 de Junho.
+Ministério das Finanças, 22 de Dezembro de 1988. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
