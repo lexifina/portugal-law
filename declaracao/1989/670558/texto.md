@@ -1,0 +1,6 @@
+Declaração
+Para os devidos efeitos se declara que a Resolução do Conselho de Ministros n.º 17/89, publicada no Diário da República, 1.ª série, n.º 95, de 24 de Abril de 1989, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 7, onde se lê «financiamento a que se refere o n.º 4.» deve ler-se «financiamento a que se refere o n.º 6.»
+No n.º 3.4, onde se lê «para saneamento financeiro atribuídas a Indústrias Nacionais de Defesa, E. P., e à Sociedade Concessionária da Doca de Pesca, S. A.,» deve ler-se «para saneamento financeiro atribuídas à Sociedade Concessionária da Doca de Pesca, S. A.,».
+No ponto 4, onde se lê «Determinar que os subsídios atribuídos à RTP, RDP e LUSA ao abrigo do OE 88, no valor de 600 mil contos, se destinam exclusivamente à cooperação no domínio da comunicação social com os países africanos de língua oficial portuguesa.» deve ler-se «Determinar que os subsídios atribuídos à RTP, RDP e LUSA, ao abrigo do Orçamento do Estado para 1988, no valor de 600000 contos, abranjam igualmente a cooperação no domínio da comunicação social com os países africanos de língua oficial portuguesa.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 26 de Maio de 1989. - O Secretário-Geral, França Martins.
