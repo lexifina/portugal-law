@@ -1,0 +1,2299 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "10",
+    "id": "27782",
+    "titulo": "Alterações ao Regimento da Assembleia da República"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1988-04-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3898",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1988-04-29",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "28032",
+        "leg": "V",
+        "nr": "5",
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Alterações ao Regimento da Assembleia da República"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "27833",
+        "leg": "V",
+        "nr": "9",
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Revisão do Regimento da Assembleia da República"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-04-29",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3008-33308",
+                  "3308-3308",
+                  "3308-3308",
+                  "3308-3308",
+                  "3314-3314",
+                  "3315-3315",
+                  "3315-3315",
+                  "3316-3316",
+                  "3316-3316",
+                  "3317-3317",
+                  "3318-3318",
+                  "3323-3323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3008?pgs=3008-33308,3308,3308,3308,3314,3315,3315,3316,3316,3317,3318,3323&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205080",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3308-3308",
+                  "3308-3308",
+                  "3308-3308",
+                  "3308-3308",
+                  "3315-3315",
+                  "3315-3315",
+                  "3316-3316",
+                  "3316-3316",
+                  "3318-3318"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3308?pgs=3308,3308,3308,3308,3315,3315,3316,3316,3318&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205081",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3308-3308",
+                  "3314-3314",
+                  "3315-3315",
+                  "3315-3315",
+                  "3316-3316",
+                  "3317-3317",
+                  "3317-3317",
+                  "3319-3319",
+                  "3319-3319",
+                  "3321-3321",
+                  "3323-3323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3308?pgs=3308,3314,3315,3315,3316,3317,3317,3319,3319,3321,3323&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205084",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3315-3315",
+                  "3315-3315",
+                  "3317-3317",
+                  "3319-3319",
+                  "3319-3319",
+                  "3323-3323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3315?pgs=3315,3315,3317,3319,3319,3323&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205087",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3308-3308",
+                  "3316-3316"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3308?pgs=3308,3316&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205089",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3308-3308"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3308?pgs=3308&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205219",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3308-3309",
+                  "3309-3309",
+                  "3315-3315",
+                  "3316-3316",
+                  "3319-3319",
+                  "3323-3323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3308?pgs=3308-3309,3309,3315,3316,3319,3323&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205221",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3309-3309",
+                  "3309-3309",
+                  "3309-3309",
+                  "3312-3312",
+                  "3313-3313",
+                  "3315-3315",
+                  "3315-3315",
+                  "3317-3317",
+                  "3319-3319"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3309?pgs=3309,3309,3309,3312,3313,3315,3315,3317,3319&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205224",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3309-3309",
+                  "3309-3309",
+                  "3318-3319"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3309?pgs=3309,3309,3318-3319&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205227",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3309-3309",
+                  "3309-3309",
+                  "3310-3310",
+                  "3316-3316",
+                  "3317-3317",
+                  "3325-3326"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3309?pgs=3309,3309,3310,3316,3317,3325-3326&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205229",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3309-3309",
+                  "3319-3319"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3309?pgs=3309,3319&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205232",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3310-3310",
+                  "3310-3310",
+                  "3310-3311"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3310?pgs=3310,3310,3310-3311&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205234",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3310-3310"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3310?pgs=3310&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3310-3310"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3310?pgs=3310&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205237",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3311-3311"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3311?pgs=3311&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205239",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3312-3312",
+                  "3313-3313",
+                  "3318-3318",
+                  "3322-3322"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3312?pgs=3312,3313,3318,3322&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205242",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3312-3313"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3312?pgs=3312-3313&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205244",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3313-3313",
+                  "3313-3313",
+                  "3322-3322",
+                  "3326-3326",
+                  "3326-3327"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3313?pgs=3313,3313,3322,3326,3326-3327&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205246",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3313-3314",
+                  "3314-3314",
+                  "3317-3317",
+                  "3317-3317"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3313?pgs=3313-3314,3314,3317,3317&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205248",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3314-3314",
+                  "3322-3322",
+                  "3329-3329"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3314?pgs=3314,3322,3329&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205249",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3315-3315",
+                  "3315-3315",
+                  "3329-3329",
+                  "3329-3330"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3315?pgs=3315,3315,3329,3329-3330&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205250",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3329-3329",
+                  "3330-3330"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3329?pgs=3329,3330&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205251",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3316-3316"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3316?pgs=3316&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205252",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3318-3318"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3318?pgs=3318&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205253",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3318-3318",
+                  "3319-3319"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3318?pgs=3318,3319&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205254",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3319-3320"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3319?pgs=3319-3320&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205256",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3320-3320"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3320?pgs=3320&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205259",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3320-3321"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3320?pgs=3320-3321&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205260",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3320-3320"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3320?pgs=3320&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205262",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3321-3321",
+                  "3321-3321"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3321?pgs=3321,3321&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205263",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3321-3321"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3321?pgs=3321&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205264",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3321-3322",
+                  "3322-3322"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3321?pgs=3321-3322,3322&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205266",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3322-3322"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3322?pgs=3322&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205268",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3323-3323",
+                  "3323-3323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3323?pgs=3323,3323&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205270",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3323-3323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3323?pgs=3323&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205308",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3323-3324",
+                  "3324-3324"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3323?pgs=3323-3324,3324&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205309",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3324-3324"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3324?pgs=3324&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205310",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3324-3324"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3324?pgs=3324&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205311",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3324-3324",
+                  "3325-3325"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3324?pgs=3324,3325&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205312",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3324-3325"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3324?pgs=3324-3325&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205313",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3325-3326",
+                  "3326-3326",
+                  "3327-3327"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3325?pgs=3325-3326,3326,3327&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205314",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3327-3327",
+                  "3327-3328",
+                  "3328-3328"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3327?pgs=3327,3327-3328,3328&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205315",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3328-3328"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3328?pgs=3328&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205316",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3329-3329",
+                  "3329-3329"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3329?pgs=3329,3329&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205317",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3329-3329"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3329?pgs=3329&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205318",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3329-3329"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3329?pgs=3329&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205319",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3329-3329"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-30",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30/3329?pgs=3329&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "213178",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "335427",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-03-04",
+        "pubLeg": "V",
+        "pubNr": "58",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/058/1988-03-04?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "335428",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-03-26",
+        "pubLeg": "V",
+        "pubNr": "67",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/067/1988-03-26?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "335429",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-04-14",
+        "pubLeg": "V",
+        "pubNr": "72",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/072/1988-04-14?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "335430",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-04-22",
+        "pubLeg": "V",
+        "pubNr": "77",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/077/1988-04-22?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "335431",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-04-30",
+        "pubLeg": "V",
+        "pubNr": "82",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/082/1988-04-30?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "335432",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-05-20",
+        "pubLeg": "V",
+        "pubNr": "90",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/090/1988-05-20?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "335433",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-06-09",
+        "pubLeg": "V",
+        "pubNr": "98",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/098/1988-06-09?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
