@@ -1,0 +1,339 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=WEUMi7%2fBtIIg%2fkHBDyZ%2fsil3BmWuButejMvPGkqNVyUfIJXddc1IDB3t8GXfBL3zSPQF%2bIyDi3AcWLUm0oL6crfUIOoirULFjyvRAul6J%2by6a6FDtpJuVrK3Y3rP8bCLGdxev%2bdUqQgc%2bXEDQI%2f8OLEsCv3IziG5WQHDSzFAl7qQApdhGho5obQdwDn6iwyWAFYt%2fzWn72d9GQ0G7zTxyKwsQjpKzhAqqYI6%2fCsSwtcK7MkwpbhLc%2bPOBViftzfwo0QY4%2b1hHCAUUDtd7wn2zRmIMG1aKMpZb8PUmWVGX9mCVPzhBcSom0%2boac5wXwR%2fcfo1uKTMHtBvk9eTSDfjfyy5P2leMqegA1xVPD5%2bIs%2bMWrsB8j6dH%2fUqNW7MrBr8&fich=PeticoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c7a8b036f2bb9420007f23598577186345f4c787fefe68382e6a1aac6e3b6ea3",
+  "legislatura": "VIII",
+  "id": "6117",
+  "numero": "52",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2001-02-23",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2001-04-04",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2001-02-23",
+        "DataArquivo": "2001-04-04",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2001-05-02",
+        "DataReaberta": "2001-02-23",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2001-02-23",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c304e505453383051553955554578424c305276593356745a57353062334e515a585270593246764c7a41335a4463334e4464684c54526d5a5441744e44426a4e4331684f5463324c575a694e4451305a54557a4e32566a4d7935775a47593d&fich=07d7747a-4fe0-40c4-a976-fb444e537ec3.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "12",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE ADMINISTRAÇAO E ORDENAMENTO DO TERRITORIO, P. LOCAL E AMBIENTE",
+        "NotasAdmissibilidade": null,
+        "Numero": "4",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2001-03-20",
+            "gp": "PSD",
+            "id": "108",
+            "motivoCessacao": null,
+            "nome": "Manuel Moreira"
+          }
+        ],
+        "RelatorioFinal": [
+          "21316"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2001-10-12",
+    "Documentos": [
+      {
+        "DataDocumento": "2001-02-23",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938775957517a4d7a45304f53316b4e7a677a4c54526c4d4459744f5751334e5331695a6d4d7959574d7a5a47566d4d6d51756347526d&fich=0ad33149-d783-4e06-9d75-bfc2ac3def2d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2001-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139541",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "424-425"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-13",
+                "pubLeg": "VIII",
+                "pubNr": "12",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/012/2001-10-13/424?pgs=424-425&org=PLC"
+              }
+            ],
+            "Sumario": "PEDEM MEDIDAS CONDUCENTES À CRIAÇÃO DO CONCELHO DE FÁTIMA",
+            "Teor": "FATIMA"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2001-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139542",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "425-426"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-13",
+                "pubLeg": "VIII",
+                "pubNr": "12",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/012/2001-10-13/425?pgs=425-426&org=PLC"
+              }
+            ],
+            "Sumario": "PEDEM MEDIDAS CONDUCENTES À CRIAÇÃO DO CONCELHO DE FÁTIMA",
+            "Teor": "FATIMA"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2001-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139543",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "426-427"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-13",
+                "pubLeg": "VIII",
+                "pubNr": "12",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/012/2001-10-13/426?pgs=426-427&org=PLC"
+              }
+            ],
+            "Sumario": "PEDEM MEDIDAS CONDUCENTES À CRIAÇÃO DO CONCELHO DE FÁTIMA",
+            "Teor": "FATIMA"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2001-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139544",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "427-428"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-13",
+                "pubLeg": "VIII",
+                "pubNr": "12",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/012/2001-10-13/427?pgs=427-428&org=PLC"
+              }
+            ],
+            "Sumario": "PEDEM MEDIDAS CONDUCENTES À CRIAÇÃO DO CONCELHO DE FÁTIMA",
+            "Teor": "FATIMA"
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "6117",
+    "PetAssunto": "Pedem medidas conducentes à criação do Concelho de Fátima.",
+    "PetDataEntrada": "2001-02-23",
+    "PeticoesAssociadas": null,
+    "PetId": "6117",
+    "PetLeg": "VIII",
+    "PetNr": "52",
+    "PetNrAssinaturas": "5053",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "123",
+        "obs": null,
+        "pag": [
+          "424-428"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-10-13",
+        "pubLeg": "VIII",
+        "pubNr": "12",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/012/2001-10-13/424?pgs=424-428&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "263819",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-03-24",
+        "pubLeg": "VIII",
+        "pubNr": "22",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/022/2001-03-24?org=PLC"
+      }
+    ]
+  }
+}
