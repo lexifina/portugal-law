@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Governo do Níger depositou, em 7 de Março de 1986, junto do Secretário-Geral das Nações Unidas o instrumento de adesão ao Pacto Internacional sobre Direitos Económicos, Sociais e Culturais, ao Pacto Internacional sobre Direitos Civis e Políticos, bem como ao Protocolo Facultativo ao Pacto sobre Direitos Civis e Políticos, adoptados pela Assembleia Geral das Nações Unidas em 16 de Dezembro de 1966.
+Direcção-Geral dos Negócios Político-Económicos, 8 de Julho de 1986. - O Director de Serviços dos Assuntos Multilaterais, Marcello de Zaffiri Duarte Mathias.
