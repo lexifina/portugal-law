@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=rKtwshDyv1NBeu65K82ef9j6oFE3w%2fgAbqyUhooMpoSyQQ0pTyzibfD50gH%2baGhs1TrcG1r0l2bU1A0KAmFXPBoWqi6NY9nsxTw%2fxAs2r347ke8O86pD8UW0Vo24i8zPmfcPKM5y3XEB99eQAf1Ojm%2bemILgruHhJl9u7yVaplGsWPI0o%2bZUTUUBCanSa5007dUY7uakZ2EgL138SciEtNOWsIyqy66pG5Eu5crXojP8szj276fRrDhZdP6MEXFhdUelamzN3e1Rpwl8sPVmxdyANoDqpCtvpC0PXNmoyGF02wzb13ACPnwjTtn%2bPiN%2b1oG5E%2bkfl50yDwrf9Q4ck3XnT7zfIqh68Ee0O7Ap66U%3d&fich=IntervencoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "09dcb463dee20c5105fb36bc1a4e2274ee28613bb7bd19e9b953a0ed8eb5faf8",
+  "legislatura": "VI",
+  "id": "134590",
+  "tipo": "Leitura",
+  "orador": "João Salgado (PSD)",
+  "data_registo": "1993-03-31",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "3661",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "3661",
+        "tipo": "VOT",
+        "titulo": "Voto de Saudação ou Homenagem - Saudação e respeito ao Sr. Presidente da Assembleia da República, repúdiando os ataques que lhe têm sido dirigidos a propósito do Regulamento de Acesso, Circulação e Permanência no Palácio de São Bento."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1993-03-31",
+    "Debate": "VOTO 75-PSD",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "63",
+      "nome": "João Salgado"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "PAOD",
+    "Id": "134590",
+    "IdDebate": "3661",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "134590",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1879-1880"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-04-01",
+        "pubLeg": "VI",
+        "pubNr": "55",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/055/1993-04-01/1879?pgs=1879-1880&org=PLC"
+      }
+    ],
+    "Qualidade": "Sec. Mesa",
+    "Resumo": "* BARBOSA DE MELO .  LEITURA DO VOTO 75-PSD, DE SAUDACAO E RESPEITO AO SENHOR PRESIDENTE DA A.R., REPUDIANDO OS ATAQUES QUE LHE TEM SIDO DIRIGIDOS A PROPOSITO DO REGULAMENTO DE ACESSO, CIRCULACAO E PERMANENCIA NO PALACIO DE S. BENTO.",
+    "Sessao": "2",
+    "Sumario": "REGULAMENTO DE ACESSO, CIRCULACAO E PERMANENCIA NO PALACIODE S. BENTO",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Leitura"
+  }
+}
