@@ -1,0 +1,372 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jvMQgL4qeojTXYc%2byhcz5p3ic3xODuK0iUO0Y2y2ClcTtFB9k3sD%2b9wQveZYSd8NZLsCb9yzJniqsFTagd7CbMNr9RiU3i%2bk3rmuobGx84PbCdMXEaO2tAt4ls9fukmsItoX60VYYqS8JyucRXeNK4DfI799g%2blbezfSJpZ8w7%2baZYMBqfv1VesnUx6bJSW47suQTEZztwlqhsheF%2fV6CayXq9XylkeKBdMS4k0WpFeGsJUrYs53Ga%2fzv4nbFZSlZiCimHdTEOsH%2b%2fNcwjWayb61QyVSstj3ODN9XM8DB46f%2bPQ7wSP1KSIrsnu6vc0NN5UqeG88nqFw4kPOlzPTpz7DVHur%2fsRBhn0B8NlVzMX2nw7jDBVCKY54B7pyG%2fWe&fich=PeticoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "a0b19d1767819df1af646741c024bf367ae6532369315672414b384340a05bf4",
+  "legislatura": "VI",
+  "id": "10923",
+  "numero": "265",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1994-04-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "1997-05-22",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "1997-05-22",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "1997-06-05",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "14",
+        "Legislatura": "VII",
+        "Nome": "COMISSÃO DE ECONOMIA, FINANÇAS E PLANO",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1997-04-30",
+            "gp": "PS",
+            "id": "1209",
+            "motivoCessacao": null,
+            "nome": "Matos Leitão"
+          }
+        ],
+        "RelatorioFinal": [
+          "21773"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "1996-07-10",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "1997-05-22",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "1996-11-04",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "23",
+        "Legislatura": "VII",
+        "Nome": "COMISSÃO DE TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1996-02-15",
+            "gp": "PSD",
+            "id": "1241",
+            "motivoCessacao": null,
+            "nome": "Pedro da Vinha Costa"
+          }
+        ],
+        "RelatorioFinal": [
+          "21772"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1994-05-05",
+        "DataArquivo": "1997-05-22",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": "1994-05-05",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4",
+        "Legislatura": "VI",
+        "Nome": "COMISSÃO PETIÇÕES",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1994-05-31",
+            "gp": "PS",
+            "id": "233",
+            "motivoCessacao": null,
+            "nome": "Oliveira e Silva"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "1994-04-27",
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "1994-04-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "37281",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2116-2117"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-04-28",
+                "pubLeg": "VI",
+                "pubNr": "64",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/064/1994-04-28/2116?pgs=2116-2117&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM MEDIDAS LEGISLATIVAS PARA PROIBICAO DA CACA DURANTE O MES DE FEVEREIRO COM O OBJECTIVO DE SALVAGUARDARA VIDA DO POMBO CORREIO",
+            "Teor": "INTERVEM NO DEBATE."
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1994-04-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "37282",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2116-2116"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-04-28",
+                "pubLeg": "VI",
+                "pubNr": "64",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/064/1994-04-28/2116?pgs=2116&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM MEDIDAS LEGISLATIVAS PARA PROIBICAO DA CACADURANTE O MES DE FEVEREIRO COM O OBJECTIVO DE SALVAGUARDARA VIDA DO POMBO CORREIO",
+            "Teor": "INTERVEM NO DEBATE. "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1994-04-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "37283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2115-2118"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-04-28",
+                "pubLeg": "VI",
+                "pubNr": "64",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/064/1994-04-28/2115?pgs=2115-2118&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM MEDIDAS LEGISLATIVAS PARA PROIBICAO DA CACADURANTE O MES DE FEVEREIRO COM O OBJECTIVO DE SALVAGUARDARA VIDA DO POMBO CORREIO",
+            "Teor": "INTERVEM NO DEBATE. "
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "10923",
+    "PetAssunto": "Solicita que seja revista a sua situação remuneratória resultante da aplicação do NSR.",
+    "PetDataEntrada": "1994-04-19",
+    "PeticoesAssociadas": null,
+    "PetId": "10923",
+    "PetLeg": "VI",
+    "PetNr": "265",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "ESTA PETIÇAO TEM IDENTIDADE DE OBJECTO DAS PETIÇOES 94-135-189-190-191-192-194/VI/2a",
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1",
+        "obs": null,
+        "pag": [
+          "2115-2118"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1994-04-28",
+        "pubLeg": "VI",
+        "pubNr": "64",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/064/1994-04-28/2115?pgs=2115-2118&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
