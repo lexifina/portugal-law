@@ -1,0 +1,5 @@
+Aviso n.º 52/2001
+Por ordem superior se torna público que, por nota de 19 de Março de 2001 e nos termos do artigo 25.º da Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia em 5 de Outubro de 1961, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos comunicou ter o Ministério dos Negócios Estrangeiros da Turquia informado, por carta datada de 15 de Abril de 2000, que, em conformidade com o artigo 11.º da Convenção, a Turquia designou a seguinte autoridade central:
+Director for International Law and Foreign Relations of the Ministry of Justice.
+Portugal é Parte na Convenção, que foi aprovada, para ratificação, pelo Decreto-Lei n.º 48494, publicado no Diário do Governo, 1.ª série, n.º 172, de 22 de Julho de 1968, tendo depositado o seu instrumento de ratificação em 6 de Dezembro de 1968, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 20, de 24 de Janeiro de 1969. A autoridade central em Portugal é o Instituto de Reinserção Social.
+Departamento de Assuntos Jurídicos, 20 de Abril de 2001. - A Directora, Maria Margarida Aleixo Antunes Rei.
