@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 21/98
+Para os devidos efeitos, se declara que a Lei n.º 68/98, de 26 de Outubro, que determina a entidade que exerce as funções de instância nacional de controlo e a forma de nomeação dos representantes do Estado Português na instância comum de controlo previstas na Convenção fundamentada no artigo k.3 do Tratado da União Europeia Que Cria Um Serviço Europeu de Polícia (EUROPOL), publicada no Diário da República, 1.ª série-A, n.º 247, de 26 de Outubro de 1998, saiu com as seguintes incorrecções, que assim se rectificam:
+Nos artigos 2.º e 3.º, onde se lê: «Comissão Nacional de Protecção de Dados Pessoais Informatizados» deve ler-se «Comissão Nacional de Protecção de Dados».
+Assembleia da República, 30 de Outubro de 1998. - A Secretária-Geral, Adelina Sá Carvalho.
