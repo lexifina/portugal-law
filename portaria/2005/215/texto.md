@@ -1,0 +1,10 @@
+Portaria n.º 215/2005
+de 24 de Fevereiro
+Pela Portaria n.º 42/99, de 21 de Janeiro, alterada pelas Portarias n.os 571/2000 e 905/2000, respectivamente de 8 de Agosto e 29 de Setembro, foi concessionada à Sociedade Cinegética de Mombeja a zona de caça turística da Herdade do Outeiro (processo n.º 2137-DGRF), situada nos municípios de Beja e Ferreira do Alentejo, válida até 21 de Janeiro de 2005.
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+Cumpridos os preceitos legais, com fundamento no disposto no n.º 3 do artigo 164.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, e no n.º 8 do artigo 44.º, em articulação com o disposto na alínea a) do n.º 2 do artigo 36.º, do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, e ouvidos os Conselhos Cinegéticos Municipais:
+Manda o Governo, pelos Ministros da Agricultura, Pescas e Florestas e do Turismo, o seguinte:
+1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística da Herdade do Outeiro (processo n.º 2137-DGRF), abrangendo vários prédios rústicos sitos nas freguesias de Mombeja e Ferreira do Alentejo, municípios de Beja e Ferreira do Alentejo, com a área total de 1424 ha.
+2.º A presente renovação mereceu, por parte da Direcção-Geral do Turismo, parecer condicionado à emissão de parecer favorável ao projecto de alterações do pavilhão de caça apresentado em 23 de Julho de 2004, sem prejuízo do seu licenciamento pelas entidades competentes, à conclusão da obra no prazo de seis meses contado a partir da data de notificação da aprovação do projecto e à verificação da conformidade da obra com o projecto aprovado.
+3.º A presente portaria produz efeitos a partir do dia 22 de Janeiro de 2005.
+Pelo Ministro da Agricultura, Pescas e Florestas, Luís António Pires Pinheiro, Secretário de Estado das Florestas, em 17 de Janeiro de 2005. - Pelo Ministro do Turismo, Carlos José das Neves Martins, Secretário de Estado Adjunto do Ministro do Turismo, em 31 de Janeiro de 2005.
