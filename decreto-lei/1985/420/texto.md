@@ -1,0 +1,21 @@
+Decreto-Lei n.º 420/85
+de 22 de Outubro
+Considerando que através do Decreto-Lei n.º 356/77, de 31 de Agosto, foi reconhecido aos funcionários do Estado e dos corpos administrativos de Timor o direito ao ingresso no quadro geral de adidos;
+Considerando que com a extinção daquele quadro, determinada pelo Decreto-Lei n.º 42/84, de 3 de Fevereiro, importa prever o destino a dar aos funcionários de Timor, o que poderá ser feito conferindo-lhes o estatuto de excedente e integrando-os no quadro de efectivos interdepartamentais, criado junto da Direcção-Geral de Emprego e Formação da Administração Pública pelo artigo 9.º do mesmo diploma:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º É reconhecido o direito ao ingresso no quadro de efectivos interdepartamentais (QEI), criado pelo artigo 9.º do Decreto-Lei n.º 42/84, de 3 de Fevereiro, junto da Direcção-Geral de Emprego e Formação da Administração Pública, aos funcionários do Estado e dos corpos administrativos de Timor que reúnam, cumulativamente, os seguintes requisitos:
+a) Serem cidadãos portugueses;
+b) Estarem vinculados àquelas entidades em 22 de Janeiro de 1975;
+c) Possuírem nessa data 1 ano de serviço efectivo como nomeados ou contratados dos quadros;
+d) Residirem em Portugal.
+Art. 2.º Os funcionários a que se reporta o artigo precedente que entre 1 de Julho de 1984 e a data da entrada em vigor deste diploma hajam requerido o ingresso no quadro geral de adidos ou no QEI ingressarão neste último, mediante despacho do Secretário de Estado da Administração Pública, com efeitos a partir da data da entrada do respectivo requerimento.
+Art. 3.º - 1 - Os mesmos funcionários que, após a data de entrada em vigor do presente diploma, venham para Portugal deverão requerer o seu ingresso no QEI no prazo de 60 dias contados da data da sua chegada a Portugal, sob pena de indeferimento liminar.
+o ingresso no quadro geral de adidos ou no QEI deverá ser dirigido ao Secretário de Estado da Administração Pública, far-se-á acompanhar de toda a documentação necessária a comprovar os requisitos legais a que se refere o artigo 1.º e será entregue na Direcção-Geral de Emprego e Formação da Administração Pública.
+3 - Sempre que os processos referidos no número anterior não se encontrem devidamente instruídos, deverão os candidatos completá-los no prazo máximo de 30 dias a contar da notificação, sob pena de indeferimento liminar.
+Art. 4.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Jaime José Matos da Gama - Ernâni Rodrigues Lopes
+Promulgado em 10 de Outubro de 1985.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 14 de Outubro de 1985.
+O Primeiro-Ministro, Mário Soares.
