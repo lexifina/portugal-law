@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1938/02/03400/04520452.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1938-02-11",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "66aa4c0268ce1eb317b14571ba3dc28cd1de40280fb6f88039a6a255e2d14a61",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 97.4,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "d7e9348a4b1adb87612475235946716345080ef9ad244a405d1f0eb02791bc41",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 211
 }
