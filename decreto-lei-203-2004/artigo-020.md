@@ -12,4 +12,4 @@
 
 5 - Sem prejuízo do disposto no n.º 1, durante a frequência do ano comum, os internos são remunerados pelo valor correspondente ao índice 73.
 
-6 - (Revogado).
+6 - A aplicação do número anterior cessa de harmonia com o disposto no n.º 7 do artigo 30.º
