@@ -1,0 +1,7 @@
+Despacho Normativo n.º 718/94
+Considerando que o inspector superior de aviação civil, área de engenharia, licenciado Manuel Vieira Conde e Silva, cessou em 20 de Outubro de 1993 a comissão de serviço como chefe de divisão da Direcção-Geral da Aviação Civil;
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma:
+Determina-se o seguinte:
+1 - É criado no quadro de pessoal da Direcção-Geral da Aviação Civil, aprovado pela Portaria n.º 222/88, de 13 de Abril, e com as alterações introduzidas pelo Decreto-Lei n.º 318/88, de 9 de Setembro, Decreto Regulamentar n.º 29/89, de 17 de Outubro, Decreto-Lei n.º 434/89, de 16 de Dezembro, Portaria n.º 36/90, de 16 de Janeiro, Decreto-Lei n.º 373/91, de 8 de Outubro, e Portaria n.º 1226/91, de 31 de Dezembro, um lugar de inspector superior principal da carreira de inspecção superior de aviação civil, na área funcional de engenharia, a extinguir quando vagar.
+2 - A criação do lugar referido no número anterior produz efeitos desde 20 de Outubro de 1993.
+Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações, 23 de Setembro de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.
