@@ -1,0 +1,4 @@
+Aviso n.º 9/2003
+Por ordem superior se torna público que em 23 de Janeiro e 3 de Outubro de 2002 foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros português e pela Embaixada da República da Hungria em Lisboa, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo sobre a Readmissão de Pessoas em Situação Irregular, entre os Governos da República Portuguesa e da República da Hungria, assinado em Lisboa em 28 de Janeiro de 2000.
+Por parte de Portugal o Acordo foi aprovado pela Resolução da Assembleia da República n.º 62/2001, publicada no Diário da República, 1.ª série-A, n.º 232, de 6 de Outubro de 2001.
+Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas, 3 de Janeiro de 2003. - O Director-Geral, José Duarte Sequeira e Serpa.
