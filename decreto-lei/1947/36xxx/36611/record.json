@@ -17,9 +17,30 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1947/11/27300/11781187.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1947-11-24",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "111595f16bcf5fa77d4fe408cfd241012731e10348cd98367fdd70ae9cc86abd",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each page read whole (Tesseract page layout)",
+    "agreement_pct": 90.0,
+    "pages": 10,
+    "columns": [
+      3,
+      3,
+      3,
+      5,
+      5,
+      1,
+      3,
+      1,
+      1,
+      3
+    ],
+    "pdf_sha256": "5fafc22378bcbb86ffba0c3e0ac09a98636d9e16499415a6a4ff44007ecf8611",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 4957
 }
