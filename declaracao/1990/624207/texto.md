@@ -1,0 +1,5 @@
+Declaração
+Segundo comunicação da Direcção-Geral da Contabilidade Pública, Ministério das Finanças, a declaração de abertura de créditos especiais publicada no Diário da República, 1.ª série, n.º 156, de 9 de Julho de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Na despesa, onde se lê «10 - Ministério do Planeamento e da Administração do Território - Cap. 04 - Serviços da área do ordenamento do território, ambiente e consumidor - Div. 04 - Direcção-Geral dos Recursos Naturais» deve ler-se «18 - Ministério do Ambiente e dos Recursos Naturais - Cap. 03 - Outros serviços das áreas do ambiente e do consumidor - Div. 01 - Direcção-Geral dos Recursos Naturais».
+Na receita, no cap. 15, onde se lê «Grupo 06 - Planeamento e Administração do Território» deve ler-se «Grupo 14 - Ambiente e dos Recursos Naturais».
+Secretaria-Geral da Presidência do Conselho de Ministros, 10 de Outubro de 1990. - O Secretário-Geral, França Martins.
