@@ -1,0 +1,6 @@
+Despacho Normativo n.º 94/84
+Em 9 de Março de 1984 foi publicada a nomeação do júri indicado para proceder à avaliação curricular dos candidatos ao provimento dos lugares da carreira de investigação do quadro único do ex-Ministério da Agricultura, Comércio e Pescas, afecta ao INIP - Instituto Nacional de Investigação das Pescas.
+Nos termos do n.º 13 do Despacho Normativo n.º 134/80, de 18 de Abril, é de 30 dias o prazo dentro do qual o referido júri deverá fazer a apreciação curricular e reunir para decidir.
+Acontece que, no caso concreto, se afigura vantajoso que aquele prazo seja prorrogado.
+Nestes termos, ao abrigo do artigo 202.º, alínea c), da Constituição, determino que seja prorrogado por 60 dias o prazo fixado no n.º 13 do Despacho Normativo n.º 134/80, de 18 de Abril, para apreciação curricular e reunião pelo júri nomeado pelo despacho conjunto dos Ministérios da Educação e do Mar, publicado no Diário da República, 2.ª série, n.º 58, de 9 de Março de 1984, para proceder à avaliação curricular dos candidatos ao provimento dos lugares da carreira de investigação do quadro único do ex-Ministério da Agricultura, Comércio e Pescas, afecta ao INIP - Instituto Nacional de Investigação das Pescas.
+Ministério do Mar, 6 de Abril de 1984. - O Ministro do Mar, Carlos Montez Melancia.
