@@ -1,0 +1,3 @@
+Despacho Normativo n.º 78/80
+Para efeitos de execução do Despacho Normativo n.º 59/80, de 11 de Fevereiro, os diferenciais entre os preços fixados pelo referido despacho para os cereais a fornecer pela EPAC e os preços reais de aquisição por aquela empresa pública serão suportados pelo Fundo de Abastecimento.
+Secretarias de Estado do Orçamento, do Comércio e Indústrias Agrícolas e do Comércio Interno, 14 de Fevereiro de 1980. - O Secretário de Estado do Orçamento, António Jorge de Figueiredo Lopes. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Francisco Manuel Durão Lino. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
