@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em 4 de Fevereiro de 1981 a República Árabe do Egipto depositou junto do Ministério dos Negócios Estrangeiros dos Países Baixos o instrumento de adesão à Convenção Relativa ao Processo Civil, concluída na Haia em 1 de Março de 1954, com duas reservas previstas nos artigos 1.º a 7.º da mesma Convenção, de que Portugal já é parte. Aquele instrumento diplomático entrará em vigor, com referência àquele país, em 16 de Novembro de 1981.
+Secretaria-Geral do Ministério, 31 de Março de 1981. - O Director-Geral dos Serviços Jurídicos e de Tratados, Carlos Augusto Fernandes.
