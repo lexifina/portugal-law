@@ -1,0 +1,11 @@
+Portaria n.º 442/99
+de 18 de Junho
+O Decreto-Lei n.º 11/98, de 24 de Janeiro, que estabelece o regime jurídico da organização médico-legal, prevê que os quadros de pessoal dos institutos de medicina legal sejam aprovados por portaria conjunta.
+Nestes termos, ao abrigo do artigo 55.ª do Decreto-Lei n.º 11/98, de 24 de Janeiro:
+Manda o Governo, pelos Ministro das Finanças, Adjunto e da Justiça, que seja aprovado o quadro de pessoal do Instituto de Medicina Legal do Porto, constante do mapa anexo à presente portaria, da qual faz parte integrante.
+Em 31 de Maio de 1999.
+Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - Pelo Ministro da Justiça, José Luís Lopes da Mota, Secretário de Estado da Justiça.
+
+ANEXO
+Quadro de pessoal do Instituto de Medicina Legal do Porto
+(ver quadro no documento original)
