@@ -1,0 +1,4 @@
+Rectificações
+Tendo sido publicado com inexactidão no Diário do Governo, 1.ª série, n.º 165, de 17 de Julho, pelo Ministério das Comunicações, Administração dos Portos do Douro e Leixões, o Decreto n.º 341/70, determino que se façam as seguintes rectificações:
+No artigo único, na nova redacção dada ao n.º 3 do artigo 67.º do Regulamento de Tarifas da Administração dos Portos do Douro e Leixões, onde se lê: «Quando para navios de arqueação bruta inferior a 10 t ...», deve ler-se: «Quando para navios de arqueação bruta inferior a 10000 t ...», e na nova redacção dada ao n.º 2 do artigo 71.º-A do mesmo Regulamento, onde se lê: «O aumento será de 100$00 ...», deve ler-se: «O aumento será de 100 por cento ...».
+Presidência do Conselho, 7 de Agosto de 1970. - O Presidente do Conselho, Marcello Caetano.
