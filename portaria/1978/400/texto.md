@@ -1,0 +1,27 @@
+Portaria n.º 400/78
+de 21 de Julho
+Tendo a experiência demonstrado conveniência de serem introduzidas alterações à Portaria n.º 210/78, de 15 de Abril, algumas das quais satisfazem pretensões dos estudantes do Ano Propedêutico:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, nos termos do artigo 5.º do Decreto-Lei n.º 491/77, de 23 de Novembro, com a redacção que lhe foi dada pela Lei n.º 33/78, de 22 de Junho:
+Artigo 1.º À Portaria n.º 210/78, de 15 de Abril, são acrescentados os seguintes pontos:
+1.º-A
+Inscrição
+1 - A primeira inscrição no Ano Propedêutico realiza-se obrigatoriamente nas cinco disciplinas previstas no n.º 2 do artigo 3.º do Decreto-Lei n.º 491/77, de 23 de Novembro, com a redacção que lhe foi dada pela Lei n.º 33/78, de 22 de Junho.
+2 - Os alunos que não obtenham, numa ou mais das disciplinas em que se encontram inscritos, os mínimos previstos no artigo 18.º desta portaria, poderão inscrever-se apenas nessas disciplinas em anos subsequentes.
+3 - Em caso de inscrição nos termos do número anterior não haverá lugar ao pagamento de propina de matrícula, caso o aluno tenha estado inscrito no ano transacto no Ano Propedêutico.
+A propina de inscrição por disciplina será de 160$00 e poderá ser paga em duas prestações de 80$00, nos termos do artigo 15.º do Decreto-Lei n.º 491/77, de acordo com a redacção que lhe foi dada pela Lei n.º 33/78, de 22 de Junho.
+4 - Poderão ser feitas inscrições para melhoria de nota, nos termos dos n.os 2 e 3, mas apenas uma vez para cada disciplina, sendo neste caso considerada a mais alta classificação obtida num dos anos, nas duas provas da respectiva disciplina, nomeadamente, para efeitos da candidatura à matrícula no ensino superior
+5 - Nenhum aluno poderá inscrever-se mais de três vezes na mesma disciplina do Ano Propedêutico.
+18.º-A
+Admissão a segundo conjunto de provas
+A não obtenção do domínio previsto na alínea d) do número anterior no primeiro conjunto de provas não impede a realização das provas do segundo conjunto nas disciplinas em que tal mínimo foi atingido.
+Art. 2.º O ponto 9.º da Portaria n.º 210/78 passa a ter a seguinte redacção:
+9.º
+Faltas
+A falta às duas chamadas de uma prova de uma disciplina determina a reprovação nessa disciplina.
+Art. 3.º Ao ponto 12.º da Portaria n.º 210/78 é adicionado o seguinte:
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - Cada prova poderá ser classificada, total ou parcialmente, por meios informáticos, desde que adequada a esse método e tal seja solicitado pela equipa responsável, decorrendo, neste caso, o processo de classificação sob a responsabilidade directa do serviço de apoio ao Ano Propedêutico, salvaguardado o disposto no ponto seguinte.
+Ministério da Educação e Cultura, 19 de Junho de 1978. - O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia.
