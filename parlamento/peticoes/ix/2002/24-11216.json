@@ -1,0 +1,426 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11216",
+  "numero": "24",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2002-12-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": null,
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2003-04-11",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "102",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE ASSUNTOS CONSTITUCIONAIS, DIREITOS, LIBERDADES E GARANTIAS",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2003-09-26",
+            "dataResposta": "2003-12-03",
+            "entidades": [
+              "Ministério da Administração Interna"
+            ],
+            "nrOficio": "3118/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2004-01-20",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2003-05-06",
+        "DataArquivo": "2004-01-27",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2004-01-29",
+        "DataReaberta": "2003-05-06",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2002-12-19",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764f4652425579394562324e31625756756447397a5547563061574e68627938325a574e6d4d7a426d59693168595749344c54526c59546b7459544d784e4330314e6d566b4e324d34596a6c695a5445756347526d&fich=6ecf30fb-aab8-4ea9-a314-56ed7c8b9be1.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "109",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE TRABALHO E DOS ASSUNTOS SOCIAIS",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2003-05-06",
+            "gp": "PS",
+            "id": "1631",
+            "motivoCessacao": null,
+            "nome": "Custódia Fernandes"
+          }
+        ],
+        "RelatorioFinal": [
+          "21824"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2004-02-06",
+    "Documentos": [
+      {
+        "DataDocumento": "2002-12-19",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d764e6a45345a6d59314e7a51744f444a6b4e6930305a6a517a4c57457a4d5445744f4445355a6a49304d6a6779596a4e6c4c6e426b5a673d3d&fich=618ff574-82d6-4f43-a311-819f24282b3e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2004-02-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148316",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2758-2758"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-07",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/049/2004-02-07/2758?pgs=2758&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam iniciativa legislativa, por forma a consagrar o horário de serviço de 35 horas semanais na G.N.R.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-02-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148317",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2758-2759"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-07",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/049/2004-02-07/2758?pgs=2758-2759&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam iniciativa legislativa, por forma a consagrar o horário de serviço de 35 horas semanais na G.N.R.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-02-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148318",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2759-2761"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-07",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/049/2004-02-07/2759?pgs=2759-2761&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam iniciativa legislativa, por forma a consagrar o horário de serviço de 35 horas semanais na G.N.R.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-02-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148319",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2761-2761"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-07",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/049/2004-02-07/2761?pgs=2761&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam iniciativa legislativa, por forma a consagrar o horário de serviço de 35 horas semanais na G.N.R.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-02-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148320",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2761-2762"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-07",
+                "pubLeg": "IX",
+                "pubNr": "49",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/049/2004-02-07/2761?pgs=2761-2762&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam iniciativa legislativa, por forma a consagrar o horário de serviço de 35 horas semanais na G.N.R.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11216",
+    "PetAssunto": "Solicitam iniciativa legislativa, por forma a consagrar o horário de serviço de 35 horas semanais na G.N.R.",
+    "PetDataEntrada": "2002-12-19",
+    "PeticoesAssociadas": null,
+    "PetId": "11216",
+    "PetLeg": "IX",
+    "PetNr": "24",
+    "PetNrAssinaturas": "13169",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "155",
+        "obs": null,
+        "pag": [
+          "2758-2762"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-02-07",
+        "pubLeg": "IX",
+        "pubNr": "49",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/049/2004-02-07/2758?pgs=2758-2762&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "279887",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-05-17",
+        "pubLeg": "IX",
+        "pubNr": "43",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/043/2003-05-17?org=PLC"
+      }
+    ]
+  }
+}
