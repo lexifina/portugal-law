@@ -6,4 +6,6 @@ Canabis, resina de - resina separada, em bruto ou purificada, obtida a partir da
 
 Canabis, óleo de - óleo separado, em bruto ou purificado, obtido a partir da planta Cannabis.
 
+Cannabis - sementes não destinadas a sementeira da planta Canabis sativa L.
+
 Consideram-se inscritos nesta tabela todos os sais destes compostos, desde que a sua existência seja possível.

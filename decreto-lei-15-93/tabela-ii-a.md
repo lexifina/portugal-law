@@ -44,6 +44,8 @@ Para-hexilo - 3-hexilo-1-hidroxi-7,8,9,10-tetraidro-6,6,9-trimetil-6H-dibenzo (b
 
 PMA - 4 (alfa)-metoxi-metilfeniletilamina.
 
+PMMA - [parametoximetilanfetamina ou N-metil-1-(4-metixifenil)-2-aminopropano]
+
 Psilocibina - fosfatodiidrogenado de 3-(2-dimetilaminoetil)-4-indolilo.
 
 Psilocina - 3-(-2-dimetilaminoetil)-4-(hidroxi-indol).
