@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, mediante proposta do Ministério da Educação Nacional e em aditamento ao despacho publicado no suplemento ao Diário do Governo n.º 66, 1.ª série, de 19 de Março de 1965, é declarada a habilitação dos cursos de feitor agrícola ou de agente rural, professados nas escolas técnicas profissionais, como suficiente, em paralelo com a do curso geral dos liceus, para efeito de provimento nos lugares de encarregado geral ou de encarregado do serviço de higiene e limpeza a que se refere o n.º 2.º do artigo 651.º do Código Administrativo.
+Presidência do Conselho, 3 de Julho de 1969. - Pelo Presidente do Conselho, o Ministro de Estado, Alfredo de Queirós Ribeiro Vaz Pinto.
