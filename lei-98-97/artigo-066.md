@@ -4,7 +4,7 @@
 
 1 - O Tribunal pode ainda aplicar multas nos casos seguintes:
 
-a) Pela remessa intempestiva e injustificada das contas ao Tribunal;
+a) Pela falta injustificada de remessa de contas ao Tribunal, pela falta injustificada da sua remessa tempestiva ou pela sua apresentação com deficiências tais que impossibilitem ou gravemente dificultem a sua verificação;
 
 b) Pela falta injustificada de prestação tempestiva de documentos que a lei obrigue a remeter;
 
@@ -16,6 +16,6 @@ e) Pela inobservância dos prazos legais de remessa ao Tribunal dos processos re
 
 f) Pela introdução nos processos de elementos que possam induzir o Tribunal em erro nas suas decisões ou relatórios.
 
-2 - As multas referidas no número anterior têm como limite mínimo o montante que corresponde a 5 UC e como limite máximo o correspondente a 40 UC.
+2 - As multas previstas no n.º 1 deste artigo têm como limite mínimo o montante de 50000$00 e como limite máximo o montante de 500000$00.
 
-3 - Se as infrações previstas no presente artigo forem cometidas por negligência, o limite máximo é reduzido a metade, podendo ser relevada a responsabilidade nos termos do n.º 9 do artigo anterior.
+3 - Se as infracções previstas neste artigo forem cometidas por negligência, o limite máximo será reduzido a metade.

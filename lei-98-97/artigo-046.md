@@ -2,24 +2,14 @@
 
 ### Incidência da fiscalização prévia
 
-1 - Estão sujeitos à fiscalização prévia do Tribunal de Contas, nos termos da alínea c) do n.º 1 do artigo 5.º:
+1 - Devem ser remetidos ao Tribunal de Contas para efeitos de fiscalização prévia, nos termos do artigo 5.º, n.º 1, alínea c), os documentos que representem, titulem ou dêem execução aos actos e contratos seguintes:
 
-a) Todos os actos de que resulte o aumento da dívida pública fundada dos serviços e fundos do Estado e das Regiões Autónomas com autonomia administrativa e financeira, e das demais entidades referidas nas alíneas c) a e) do n.º 1 do artigo 2.º, bem como os actos que modifiquem as condições gerais de empréstimos visados;
+a) Todos os actos de que resulte aumento da dívida pública fundada dos serviços e fundos de Estado com autonomia administrativa e financeira, e das demais entidades referidas nas alíneas b) a e) do n.º 1 do artigo 2.º, bem como os actos que modifiquem as condições gerais de empréstimos visados;
 
-b) Os contratos de obras públicas, aquisição de bens e serviços, bem como outras aquisições patrimoniais que impliquem despesa nos termos do artigo 48.º, quando reduzidos a escrito por força da lei;
+b) Os contratos reduzidos a escrito de obras públicas, aquisição de bens e serviços, bem como outras aquisições patrimoniais que impliquem despesa;
 
-c) As minutas dos contratos de valor igual ou superior ao fixado nas leis do Orçamento nos termos do artigo 48.º, cujos encargos, ou parte deles, tenham de ser satisfeitos no acto da sua celebração.
+c) As minutas de contratos de valor igual ou superior fixados nas leis do orçamento nos termos do artigo 48.º que venham a celebrar-se por escritura pública e cujos encargos tenham de ser satisfeitos no acto da sua celebração.
 
-d) Os actos ou contratos que formalizem modificações objectivas a contratos visados e que impliquem um agravamento dos respectivos encargos financeiros ou responsabilidades financeiras;
+2 - O Tribunal e os seus serviços de apoio exercem as respectivas competências de fiscalização prévia de modo integrado com as formas de fiscalização concomitante e sucessiva, procurando flexibilizar o seu exercício e promovendo a sua progressiva selectividade, em conformidade com o disposto nos artigos 38.º e 48.º
 
-e) Os actos ou contratos que formalizem modificações objectivas a contratos não visados que impliquem um agravamento dos respectivos encargos financeiros ou responsabilidades financeiras em valor superior ao previsto no artigo 48.º
-
-2 - Para efeitos das alíneas b), c), d) e e) do número anterior, consideram-se contratos os acordos, protocolos, apostilhas ou outros instrumentos de que resultem ou possam resultar encargos financeiros ou patrimoniais.
-
-3 - Para efeitos da alínea e) do n.º 1, considera-se que o valor superior ao do previsto no artigo 48.º deve resultar da soma do valor inicial e ao de anteriores modificações objectivas.
-
-4 - O Tribunal e os seus serviços de apoio exercem as respectivas competências de fiscalização prévia de modo integrado com as formas de fiscalização concomitante e sucessiva.
-
-5 - A fiscalização prévia exerce-se através do visto ou da declaração de conformidade, sendo devidos emolumentos em ambos os casos.
-
-6 - Para efeitos do n.º 1, são remetidos ao Tribunal de Contas os documentos que representem, titulem ou dêem execução aos actos e contratos ali enumerados.
+3 - A fiscalização prévia exerce-se através do visto ou da declaração de conformidade, sendo devidos emolumentos em ambos os casos.

@@ -1,14 +1,14 @@
 # Artigo 15.º
 
-### Secções ou câmaras especializadas
+### Secções especializadas
 
-1 - O Tribunal de Contas compreende na sede as seguintes secções especializadas, às quais cabe exercer as competências previstas na presente lei:
+1 - O Tribunal de Contas tem na sede três secções especializadas:
 
-a) 1.ª Secção;
+a) A 1.ª Secção, encarregada da fiscalização prévia, podendo, em certos casos, exercer fiscalização concomitante;
 
-b) 2.ª Secção;
+b) A 2.ª Secção, encarregada da fiscalização concomitante e sucessiva de verificação, controlo e auditoria;
 
-c) 3.ª Secção.
+c) A 3.ª Secção, encarregada do julgamento dos processos de efectivação de responsabilidades e de multa.
 
 2 - O número de juízes das secções é fixado por deliberação do plenário geral.
 
@@ -17,5 +17,3 @@ c) 3.ª Secção.
 4 - Devem prioritariamente ser colocados na 3.ª Secção os juízes do Tribunal oriundos das magistraturas.
 
 5 - Salvo razões ponderosas de natureza pessoal ou funcional, um juiz só pode mudar de secção após três anos de permanência na mesma.
-
-6 - Nos casos de vacatura, ausência ou impedimento, o Presidente do Tribunal, ouvida a comissão permanente e os interessados, pode afetar temporariamente, em acumulação, juízes de outras secções para permitir o regular funcionamento da secção em causa.

@@ -6,4 +6,4 @@
 
 2 - As decisões jurisdicionais do Tribunal de Contas são obrigatórias para todas as entidades públicas e privadas.
 
-3 - A execução das decisões condenatórias, bem como dos emolumentos e demais encargos fixados pelo Tribunal de Contas ou pela Direcção-Geral, é da competência dos tribunais tributários de 1.ª instância e observa o processo de execução fiscal.
+3 - A execução das sentenças condenatórias, bem como dos emolumentos e demais encargos fixados pelo Tribunal de Contas ou pela Direcção-Geral, é da competência dos tribunais tributários de 1.ª instância e observa o processo de execução fiscal.

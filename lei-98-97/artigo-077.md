@@ -8,7 +8,7 @@ a) Julgar os recursos das decisões das subsecções, das secções regionais e 
 
 b) Aprovar as instruções sobre a organização dos processos de fiscalização prévia a remeter ao Tribunal;
 
-c) Propor ao plenário geral as normas do seu funcionamento para aprovação e inclusão no Regulamento do Tribunal;
+c) Aprovar o regulamento do seu funcionamento interno;
 
 d) Aprovar os relatórios das auditorias quando não haja unanimidade na subsecção ou quando, havendo, embora, tal unanimidade, o Presidente entenda dever alargar a discussão para uniformizar critérios;
 
@@ -28,4 +28,4 @@ d) Comunicar ao Ministério Público os casos de infracções financeiras detect
 
 3 - Em sessão diária de visto os juízes de turno, estando de acordo, podem conceder ou reconhecer a isenção ou dispensa de visto, bem como solicitar elementos adicionais ou informações aos respectivos serviços ou organismos.
 
-4 - Compete aos juízes da 1.ª Secção aplicar as multas referidas no n.º 1 do artigo 66.º relativamente aos processos de que sejam relatores.
+4 -(Revogado).

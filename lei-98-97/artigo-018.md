@@ -8,8 +8,6 @@
 
 3 - Podem ser abertos concursos especiais para selecção dos juízes das secções regionais.
 
-4 - Devem prioritariamente ser colocados nas Secções Regionais juízes oriundos das magistraturas.
+4 - Os juízes colocados nas secções regionais têm preferência na colocação na primeira vaga que ocorra na sede, após dois anos de exercício de funções.
 
-5 - Os juízes colocados nas secções regionais têm preferência na colocação na primeira vaga que ocorra na sede, após dois anos de exercício de funções.
-
-6 - O plenário geral pode determinar, em caso de urgente necessidade, que um juiz da sede desempenhe transitoriamente funções na secção regional, por período não superior a seis meses, em ordem a suprir a falta de juiz próprio, com a anuência do interessado.
+5 - O plenário geral pode determinar, em caso de urgente necessidade, que um juiz da sede desempenhe transitoriamente funções na secção regional, por período não superior a seis meses, em ordem a suprir a falta de juiz próprio, com a anuência do interessado.

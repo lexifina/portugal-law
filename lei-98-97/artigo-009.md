@@ -2,7 +2,7 @@
 
 ### Publicidade de actos
 
-1 - São publicados na 1.ª série do Diário da República os acórdãos que fixem jurisprudência.
+1 - São publicados na 1.ª série-A do Diário da República os acórdãos que fixem jurisprudência.
 
 2 - São publicados na 2.ª série do Diário da República:
 
@@ -14,7 +14,7 @@ c) O relatório anual de actividades do Tribunal de Contas;
 
 d) As instruções e regulamentos do Tribunal de Contas;
 
-e) Os valores e a relação das entidades a que se refere a alínea a) do artigo 40.º;
+e) Os valores e as relações das entidades a que se referem respectivamente os artigos 38.º, n.º 1, alíneas a) e b), e 40.º, alínea a);
 
 f) Os relatórios e decisões que o Tribunal de Contas entenda deverem ser publicados, após comunicação às entidades interessadas.
 

@@ -10,13 +10,13 @@ b) A Assembleia da República;
 
 c) Os tribunais;
 
-d) As assembleias legislativas das Regiões Autónomas;
+d) As assembleias legislativas regionais;
 
 e) Outros órgãos constitucionais;
 
 f) Os serviços do Estado e das Regiões Autónomas, incluindo os localizados no estrangeiro, personalizados ou não, qualquer que seja a sua natureza jurídica, dotados de autonomia administrativa ou de autonomia administrativa e financeira, incluindo os fundos autónomos e organismos em regime de instalação;
 
-g) O Estado-Maior-General das Forças Armadas e respectivos ramos;
+g) O Estado-Maior-General das Forças Armadas e respectivos ramos, bem como as unidades militares;
 
 h) A Santa Casa da Misericórdia e o seu Departamento de Jogos;
 
@@ -41,8 +41,6 @@ a) Os serviços que exerçam funções de caixa da Direcção-Geral do Tesouro, 
 b) Os estabelecimentos com funções de tesouraria;
 
 c) Os cofres de qualquer natureza de todos os organismos e serviços públicos, seja qual for a origem e o destino das suas receitas.
-
-d) As entidades obrigadas à elaboração de contas consolidadas, sem prejuízo da prestação de contas separadas pelas entidades previstas no artigo 2.º que integram os respetivos perímetros de consolidação.
 
 3 - O plenário geral da 2.ª Secção poderá fixar o montante anual de receita ou de despesa abaixo do qual as entidades referidas nos números anteriores ficam dispensadas de remeter as contas ao Tribunal.
 

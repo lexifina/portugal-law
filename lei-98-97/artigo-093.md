@@ -2,6 +2,4 @@
 
 ### Audiência de discussão e julgamento
 
-1 - A audiência de discussão e julgamento é marcada no prazo de 30 dias e decorre perante juiz singular.
-
-2 - A presença do demandado em julgamento não é obrigatória.
+À audiência de discussão e julgamento aplica-se o regime do processo sumário do Código de Processo Civil, com as necessárias adaptações.

@@ -16,6 +16,4 @@ b) Pela morte do responsável;
 
 c) Pela amnistia;
 
-d) Pelo pagamento;
-
-e) Pela relevação da responsabilidade nos termos do n.º 9 do artigo 65.º
+d) Pelo pagamento na fase jurisdicional.

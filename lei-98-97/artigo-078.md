@@ -8,7 +8,7 @@ a) Ordenar a verificação externa de contas ou a realização de auditorias que
 
 b) Ordenar as auditorias solicitadas pela Assembleia da República ou pelo Governo e aprovar os respectivos relatórios;
 
-c) Propor ao plenário geral as normas do seu funcionamento para aprovação e inclusão no Regulamento do Tribunal;
+c) Aprovar o regulamento do seu funcionamento;
 
 d) Aprovar os manuais de auditoria e dos procedimentos de verificação a adoptar pelos respectivos serviços de apoio;
 
@@ -41,5 +41,3 @@ b) Ordenar e, sendo caso disso, presidir às diligências necessárias à instru
 c) Apresentar proposta fundamentada à subsecção no sentido de ser solicitada a coadjuvação dos órgãos de controlo interno ou o recurso a empresas de auditoria ou de consultadoria técnica;
 
 d) Coordenar a elaboração do projecto de relatório de verificação externa de contas e das auditorias a apresentar à aprovação da subsecção.
-
-e) Aplicar as multas referidas no n.º 1 do artigo 66.º

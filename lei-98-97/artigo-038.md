@@ -10,6 +10,6 @@ b) A relação dos serviços ou organismos que nesse ano serão objecto de fisca
 
 2 - A dispensa de fiscalização prévia prevista na alínea a) do número anterior pode ser revogada a todo o tempo com fundamento na falta de fiabilidade do sistema de decisão e controlo interno do serviço ou organismo constatada em auditorias realizadas pelo Tribunal.
 
-3 - (Revogado).
+3 - A dispensa de fiscalização prévia não prejudica a fiscalização concomitante ou sucessiva das despesas emergentes da execução dos respectivos actos ou contratos nem a eventual responsabilidade financeira.
 
-4 - (Revogado).
+4 - A atribuição aos juízes da direcção das auditorias a que se refere a alínea b) do n.º 1 é feita por sorteio.

@@ -4,7 +4,7 @@
 
 1 - Nos casos sujeitos à sua apreciação, o Tribunal de Contas ouve os responsáveis individuais e os serviços, organismos e demais entidades interessadas e sujeitas aos seus poderes de jurisdição e controlo financeiro.
 
-2 - É assegurado aos responsáveis, previamente à instauração dos processos de efectivação de responsabilidades, bem como dos processos de multa, o direito de serem ouvidos sobre os factos que lhes são imputados, a respectiva qualificação, o regime legal e os montantes a repor ou a pagar, tendo, para o efeito, acesso à informação disponível nas entidades ou organismos respectivos.
+2 - Aos responsáveis nos processos de efectivação de responsabilidades, bem como nos processos de multa, é assegurado o direito de previamente serem ouvidos sobre os factos que lhes são imputados, a respectiva qualificação, o regime legal e os montantes a repor ou a pagar.
 
 3 - A audição faz-se antes de o Tribunal formular juízos públicos de simples apreciação, censura ou condenação.
 

@@ -12,6 +12,6 @@
 
 5 - O recurso das decisões finais de condenação por responsabilidade financeira reintegratória só tem efeito suspensivo se for prestada caução.
 
-6 - Nos recursos, é sempre obrigatória a constituição de advogado.
+6 - Não é obrigatória a constituição de advogado, salvo nos recursos da competência da 3.ª Secção.
 
 7 - Não há lugar a preparos, mas são devidos emolumentos, no caso de improcedência do recurso.

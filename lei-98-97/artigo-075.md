@@ -10,7 +10,7 @@ b) Aprovar o relatório anual do Tribunal;
 
 c) Aprovar os projectos de orçamento e os planos de acção trienais;
 
-d) Aprovar o Regulamento do Tribunal, sob proposta das secções na parte respetiva, bem como as instruções que não sejam da competência de cada uma das secções;
+d) Aprovar os regulamentos internos e instruções do Tribunal que não sejam da competência de cada uma das secções;
 
 e) Exercer o poder disciplinar sobre os juízes;
 
