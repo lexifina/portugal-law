@@ -12,6 +12,6 @@ b) Por professor, catedrático ou associado, de outro grupo ou disciplina da mes
 
 3 - O requerimento será dirigido ao Ministro da Educação, que ouvirá a escola onde se verifica a vaga.
 
-4 - É condição de deferimento do pedido de transferência o parecer favorável da escola consultada, aprovado por quatro quintos do conselho científico, do qual será dado público conhecimento na respectiva escola.
+4 - É condição de deferimento do pedido de transferência o parecer favorável da escola consultada, aprovado por dois terços dos membros do conselho científico, do qual será dado público conhecimento na respectiva escola.
 
 5 - Quando, porém, um elemento do pessoal docente da escola em que existe a vaga reunir as condições legais para concorrer a esta, poderá o Ministro da Educação, a pedido desse elemento, determinar que o processo de transferência seja imediatamente arquivado e se abra concurso.

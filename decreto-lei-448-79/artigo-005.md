@@ -8,13 +8,11 @@ a) Reger disciplinas dos cursos de licenciatura, disciplinas em cursos de pós-g
 
 b) Dirigir as respectivas aulas práticas ou teórico-práticas, bem como trabalhos de laboratório ou de campo, não lhe sendo, no entanto, normalmente exigido serviço docente em aulas ou trabalhos dessa natureza;
 
-c) Supervisar a actividade pedagógica e científica dos professores associados, dos professores auxiliares e dos assistentes da respectiva disciplina e, quando para tal for designado, coordenar aquela actividade a nível do respectivo grupo de disciplinas ou departamento;
+c) Coordenar, com os restantes professores do seu grupo ou departamento, os programas, o estudo e a aplicação de métodos de ensino e investigação relativos às disciplinas desse grupo ou departamento;
 
-d) Coordenar, com os restantes professores do seu grupo ou departamento, os programas, o estudo e a aplicação de métodos de ensino e investigação relativos às disciplinas desse grupo ou departamento;
+d) Dirigir e realizar trabalhos de investigação;
 
-e) Dirigir e realizar trabalhos de investigação;
-
-f) Substituir, nas suas faltas ou impedimentos, os restantes professores catedráticos do seu grupo.
+e) Substituir, nas suas faltas ou impedimentos, os restantes professores catedráticos do seu grupo.
 
 2 - Ao professor associado é atribuída a função de coadjuvar os professores catedráticos, competindo-lhe, além disso, nomeadamente:
 

@@ -1,17 +1,21 @@
 # Artigo 90.º
 
-### (Professores auxiliares e equiparados com doutoramento)
+### (Apreciação curricular)
 
-1 - Os actuais professores auxiliares, incluindo os providos com base no n.º 5 do artigo 58.º do Decreto-Lei n.º 132/70, de 30 de Março, e os actuais equiparados a professor auxiliar, habilitados, uns e outros, com o grau de doutor ou equivalente, desde que optem pelo regime de tempo integral, serão providos na categoria e em lugares de professor associado, ficando a sua nomeação definitiva, após um quinquénio de bom e efectivo serviço, dependente da satisfação das condições fixadas nos artigos 20.º e 21.º
+1 - Para efeitos das apreciações curriculares referidas nos artigos 87.º, 88.º e 89.º deverão os interessados apresentar, no prazo máximo de trinta dias, na reitoria da respectiva Universidade, cinco exemplares do seu currículo científico e pedagógico, acompanhados de um exemplar de cada um dos trabalhos nele mencionados, o qual será devolvido ao interessado após apreciação.
 
-2 - Para efeitos do número anterior, contar-se-á o tempo de serviço prestado na categoria de professor auxiliar ou na situação de equiparado a professor auxiliar até à data da entrada em vigor deste diploma.
+2 - Nas reuniões do conselho científico que se realizem para efeitos das apreciações curriculares referidas nos artigos 87.º, 88.º e 89.º apenas se poderão pronunciar os professores de categoria igual ou superior às dos respectivos interessados.
 
-3 - Os docentes da categoria ou na situação referidas e com igual habilitação que exerçam funções em instituições de ensino universitário em período de instalação, caso optem pelo regime de tempo integral, transitam para a categoria de professor associado, em cujos lugares serão providos de acordo com o disposto nos números anteriores, logo que, sob proposta das comissões instaladoras, sejam publicados, dentro do prazo fixado no n.º 4 do artigo 87.º, os respectivos quadros.
+3 - Das reuniões do conselho científico referidas no número anterior serão elaboradas actas, donde constarão os pareceres e deliberações devidamente fundamentados.
 
-4 - A opção pelo regime de tempo parcial envolve para os docentes a que se referem os n.os 1 e 3 a sua contratação como professores associados convidados.
+4 - Os conselhos científicos deverão emitir os pareceres a que se referem os artigos 87.º, 88.º e 89.º no prazo máximo de sessenta dias, contados a partir do termo do prazo fixado no n.º 1 do presente artigo.
 
-5 - Quando o número de professores associados a prover nos termos dos n.os 1 e 3 exceda o número de vagas inscrito no respectivo quadro, os excedentários, atenta a distribuição dos lugares por disciplinas ou grupos de disciplinas, serão providos, como supranumerários, de acordo com a sua ordenação por antiguidade.
+5 - Os júris mencionados nos artigos 87.º, 88.º e 89.º serão constituídos por três a cinco especialistas, nomeados pelo reitor da Universidade no prazo de trinta dias, a contar do termo do prazo fixado no n.º 1 do presente artigo, os quais não poderão escusar-se à colaboração requerida.
 
-6 - Para efeitos do disposto no artigo 40.º, contar-se-á aos professores associados e associados convidados o tempo de serviço prestado na categoria de professor auxiliar ou na situação de equiparado a professor auxiliar, desde que habilitados, em ambos os casos, com o grau de doutor ou equivalente.
+6 - O despacho de nomeação dos membros do júri será publicado no Diário da República.
 
-7 - Quando dois ou mais professores auxiliares ou equiparados a professor auxiliar tenham tomado posse no mesmo dia, a ordenação prevista no n.º 5 será determinada pela antiguidade do grau de doutor, e, se esta for também a mesma, pela data dos despachos de autorização dos contratos.
+7 - O júri funcionará nos termos previstos no artigo 50.º
+
+8 - No prazo máximo de trinta dias, contados a partir da data da publicação do despacho de nomeação, o júri deverá emitir parecer fundamentado.
+
+9 - Das reuniões dos júris serão elaboradas actas, de que constarão todos os pareceres e deliberações devidamente fundamentados.

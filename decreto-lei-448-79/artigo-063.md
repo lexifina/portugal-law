@@ -16,12 +16,12 @@ c) Orientar e contribuir activamente para a formação científica e pedagógica
 
 d) Manter actualizados e desenvolver os seus conhecimentos culturais e científicos e efectuar trabalhos de investigação, numa procura constante do progresso científico e da satisfação das necessidades sociais;
 
-e) Desempenhar activa e empenhadamente as suas funções, promovendo, nomeadamente, a publicação de lições ou de outros trabalhos didácticos permanentemente actualizados, de acordo com o progresso da ciência e do saber;
+e) Desempenhar activamente as suas funções, nomeadamente elaborando e pondo à disposição dos alunos lições ou outros trabalhos didácticos actualizados;
 
 f) Cooperar interessadamente nas actividades de extensão da escola, como forma de apoio ao desenvolvimento da sociedade em que essa acção se projecta;
 
 g) Prestar o seu contributo ao funcionamento eficiente e produtivo da escola, assegurando o exercício das funções para que hajam sido eleitos ou designados ou dando cumprimento às acções que lhes hajam sido cometidas pelos órgãos competentes, dentro do seu horário de trabalho e no domínio científico-pedagógico em que a sua actividade se exerça;
 
-h) Conduzir com imparcial rigor científico a análise de problemas históricos, sociais e políticos, sem prejuízo da liberdade de orientação e de opinião científica consagrada no artigo seguinte;
+h) Conduzir com rigor científico a análise de todas as matérias, sem prejuízo da liberdade de orientação e de opinião consagrada no artigo seguinte;
 
 i) Colaborar com as autoridades competentes e com os órgãos interessados no estudo e desenvolvimento do ensino e da investigação, com vista a uma constante satisfação das necessidades e fins conducentes ao progresso da sociedade portuguesa.

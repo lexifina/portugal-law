@@ -2,12 +2,12 @@
 
 ### (Recrutamento de assistentes)
 
-1 - Os assistentes são recrutados de entre assistentes estagiários com, pelo menos, dois anos de exercício na categoria ou de entre outras individualidades que obedeçam, em ambos os casos, a uma das seguintes condições:
+1 - Os assistentes são recrutados de entre:
 
-a) Terem concluído, com aproveitamento, numa Universidade portuguesa, em especialidade adequada à disciplina ou grupo de disciplinas para que são propostos, um curso de mestrado, em termos a regulamentar, ou outro que lhe seja legalmente equivalente;
+a) Assistentes estagiários ou assistentes convidados possuidores do grau de mestrado ou equivalente ou que, após dois anos de exercício na categoria, tenham obtido aprovação nas provas de aptidão pedagógica e capacidade científica previstas nos artigos 53.º e 60.º;
 
-b) Terem concluído, com aproveitamento, numa Universidade estrangeira, em domínio adequado à disciplina ou grupo de disciplinas para que são propostos, um curso de mestrado, ao qual, a seu pedido, tenha sido concedida equivalência nos termos legalmente previstos;
+b) Outras individualidades possuidoras do grau de mestrado ou equivalente.
 
-c) Terem obtido aprovação nas provas de aptidão pedagógica e capacidade científica reguladas nos artigos 53.º a 60.º
+2 - A aquisição por parte do assistente estagiário ou convidado de qualquer das condições referidas na alínea a) do n.º 1 confere-lhe direito à sua imediata contratação como assistente.
 
-2 - O recrutamento é feito mediante proposta fundamentada da comissão do conselho científico do grupo ou departamento respectivo, que deverá ser aprovada pelo conselho científico da escola funcionando em plenário ou, havendo-a, em comissão coordenadora.
+3 - O recrutamento como assistente das individualidades referidas na alínea b) do n.º 1 é feito mediante deliberação do conselho científico ou, havendo-a, da respectiva comissão coordenadora, sob proposta da comissão do conselho científico do grupo ou departamento interessado.

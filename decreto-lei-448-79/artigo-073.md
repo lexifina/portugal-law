@@ -24,7 +24,11 @@ i) Docência ou investigação no estrangeiro, em missão oficial ou, por tempo 
 
 j) Funções directivas em institutos de investigação nacionais ou estrangeiros, quando, respectivamente, em comissão de serviço, requisição ou destacamento, ou em missão oficial ou com autorização do Ministro da Educação;
 
-l) Prestação de serviço na Direcção-Geral do Ensino Superior, nos termos do artigo 16.º do Decreto-Lei n.º 581/73, de 5 de Novembro.
+l) Prestação de serviço na Direcção-Geral do Ensino Superior, nos termos do artigo 16.º do Decreto-Lei n.º 581/73, de 5 de Novembro;
+
+m) Presidente de câmara municipal e vereador a tempo inteiro;
+
+n) Governador civil e adjunto.
 
 2 - O tempo de serviço prestado nas situações constantes do número anterior suspende, a requerimento dos interessados, a contagem dos prazos previstos neste diploma para a apresentação de relatórios curriculares pelos professores das categorias mencionadas no artigo 2.º, bem como a dos prazos dos contratos de professores convidados, assistentes, assistentes estagiários e assistentes convidados.
 

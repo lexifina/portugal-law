@@ -1,8 +1,8 @@
 # Artigo 26.º
 
-### (Provimento de assistente)
+### (Provimento de assistentes)
 
-1 - Os assistentes são providos por contrato quinquenal prorrogável por um biénio.
+1 - Os assistentes são providos por um período de seis anos, prorrogável por um biénio.
 
 2 - A prorrogação só pode ser autorizada mediante proposta fundamentada do conselho científico, baseada em relatório do professor responsável pela disciplina, grupo de disciplinas ou departamento respectivo, e desde que o assistente tenha em fase adiantada de realização o trabalho de investigação conducente à elaboração da dissertação de doutoramento.
 

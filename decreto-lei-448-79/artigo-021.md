@@ -6,4 +6,4 @@
 
 2 - O conselho científico remeterá, nos oito dias seguintes, ao Ministério da Educação um relatório final, instruído com as demais peças do processo, que dê conta dos fundamentos da decisão proferida.
 
-3 - Se a decisão for favorável, o relatório referido no n.º 2 do artigo anterior será publicado no Diário da República, juntamente com o despacho de nomeação.
+3 - Se a decisão for favorável, as conclusões do relatório referido no n.º 2 do artigo anterior serão publicadas no Diário da República, juntamente com o despacho de nomeação.
