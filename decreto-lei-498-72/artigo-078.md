@@ -1,7 +1,11 @@
 # Artigo 78.º
 
-### (Incompatibilidades)
+### Incompatibilidades
 
-1. Os aposentados não podem exercer funções remuneradas ao serviço do Estado, dos institutos públicos, incluindo os organismos de coordenação económica, das províncias ultramarinas, das autarquias locais e das empresas públicas, salvo em regime de mera prestação de serviços, nas condições previstas na alínea a) do n.º 2 do artigo 1.º, e nos demais casos permitidos pela lei, quer directamente, quer mediante autorização do Conselho de Ministros.
+1 - Os aposentados ou reservistas das Forças Armadas não podem exercer funções públicas ou a prestação de trabalho remunerado nas empresas públicas, excepto se se verificar algumas das seguintes circunstâncias:
 
-2. A inobservância do disposto no número anterior sujeita solidàriamente os responsáveis à reposição do que tiver sido pago pelo exercício das funções, sem prejuízo de procedimento disciplinar.
+a) Quando exerçam funções em regime de prestação de serviços nas condições previstas na alínea a) do n.º 2 do artigo 1.º;
+
+b) Quando haja lei que o permita;
+
+c) Quando, sob proposta do membro do Governo que tenha o poder hierárquico ou tutela sobre a entidade onde prestará o seu trabalho o aposentado ou reservista, o Primeiro-Ministro, por despacho, o autorize, constando do despacho o regime jurídico a que ficará sujeito e a remuneração atribuída.
