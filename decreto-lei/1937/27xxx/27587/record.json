@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1937/03/06400/02560257.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1937-03-18",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "9366ed42d9853af27e6408368d4cba5f9020c4397aa45cb30933c6c7f41f137b",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.6,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "c7706dfb80c0341b39010ff22f9c877d07eae2aab28109e5b03d791699e71e64",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 833
 }
