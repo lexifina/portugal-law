@@ -1,0 +1,6 @@
+Decreto-Lei n.º 43970
+Atendendo aos altos serviços prestados ao País pelo Dr. Jerónimo Salvador Constantino Sócrates da Costa; Considerando as precárias circunstâncias económicas em que se encontra a sua viúva, D. Maria Adosinda Guimarães Mendes da Costa;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É concedida a D. Maria Adosinda Guimarães Mendes da Costa uma pensão vitalícia da quantia mensal de 5000$00, com vencimento desde 1 de Setembro do corrente ano.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 19 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda - Vasconcelos Martins de Carvalho.
