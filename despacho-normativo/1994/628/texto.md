@@ -1,0 +1,8 @@
+Despacho Normativo n.º 628/94
+Considerando que a licenciada Maria José Craveiro Direitinho La Salette exerceu, até à data da entrada em vigor do Decreto Regulamentar n.º 37/93, de 21 de Outubro, em comissão de serviço, o cargo de chefe de divisão no extinto Centro Regional de Segurança Social de Évora e que reúne os requisitos legais necessários para provimento na categoria de assessor principal da carreira técnica superior;
+Considerando o disposto na primitiva redacção do n.º 2 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, mantida transitoriamente em vigor pelo artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e o disposto nos n.os 6 e 8 do mesmo artigo 18.º, na redacção dada pelo artigo 1.º do citado Decreto-Lei n.º 34/93, de 13 de Fevereiro;
+Considerando ainda o disposto no artigo 29.º do Decreto-Lei n.º 260/93, de 23 de Julho:
+Determina-se o seguinte:
+1 - É criado no quadro de pessoal do Centro Regional de Segurança Social do Alentejo, aprovado pela Portaria n.º 1057/93, de 21 de Outubro, um lugar de assessor principal da carreira técnica superior, a extinguir quando vagar.
+2 - A criação do lugar referido no número anterior produz efeitos desde 26 de Outubro de 1993.
+Ministérios das Finanças e do Emprego e da Segurança Social, 20 de Julho de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, José Frederico de Lemos Salter Cid, Secretário de Estado da Segurança Social.
