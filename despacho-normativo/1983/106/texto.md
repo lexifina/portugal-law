@@ -1,0 +1,3 @@
+Despacho Normativo n.º 106/83
+Tendo-se suscitado algumas dúvidas em redor da interpretação do artigo 3.º do Decreto-Lei n.º 341/82, de 25 de Agosto, e convindo, desde já, deixar perfeitamente definido o processo de integração do pessoal do Hospital da Sant'Ana, na Parede, nos quadros de pessoal da Santa Casa da Misericórdia de Lisboa, ao abrigo do disposto no artigo 6.º deste diploma, esclarece-se que o pessoal a que se refere o artigo 3.º do Decreto-Lei n.º 341/82, de 25 de Agosto, ingressará nos quadros de pessoal da Santa Casa da Misericórdia de Lisboa com a categoria que possui à data da sua efectiva colocação nestes quadros.
+Ministério dos Assuntos Sociais, 15 de Abril de 1983. - O Ministro dos Assuntos Sociais, Luís Eduardo da Silva Barbosa.
