@@ -1,0 +1,5 @@
+Aviso n.º 370/96
+Por ordem superior se torna público que, por nota de 6 de Junho de 1996 e agindo na sua qualidade de depositário das Convenções de Genebra de 12 de Agosto de 1949 para a Protecção das Vítimas da Guerra e dos Protocolos Adicionais I e II, adoptados em Genebra em 8 de Junho de 1977, o Conselho Federal Suíço notificou ter a Comunidade da Domínica, em 25 de Abril de 1996, depositado o seu instrumento de adesão aos Protocolos Adicionais I e II.
+Nos termos das suas disposições finais, os Protocolos entraram em vigor para a Comunidade da Domínica seis meses após o depósito do instrumento de adesão, isto é, em 25 de Outubro de 1996.
+Portugal é Parte nos mesmos dois Protocolos, que foram aprovados, para ratificação, pela Resolução da Assembleia da República n.º 10/92, de 1 de Abril, tendo depositado o seu instrumento de ratificação em 27 de Maio de 1992, conforme os Avisos n.os 100/92, de 17 de Julho, e 277/94, de 28 de Outubro, tornando pública a declaração facultativa referente ao artigo 90.º do I Protocolo.
+Departamento de Assuntos Jurídicos, 21 de Novembro de 1996. - O Director, José Maria Teixeira Leite Martins.
