@@ -1,0 +1,7 @@
+Portaria n.º 479/81
+de 11 de Junho
+Tornando-se conveniente criar condições susceptíveis de contribuírem para que sejam regularmente preenchidas, na generalidade das classes, as vagas fixadas para frequência do curso de formação de oficiais técnicos, em conformidade com as normas aprovadas pelo Despacho n.º 24/78, de 13 de Março;
+Considerando que uma das vias ao alcance para atingir este objectivo é prever a ampliação do número de candidatos a admitir ao concurso a que se refere o n.º 25.º da Portaria n.º 671/76, de 13 de Novembro, ajustando, sempre que necessário, as condições actualmente estabelecidas para aquele concurso:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, que o n.º 22.º da Portaria n.º 671/76, de 13 de Novembro, passe a ter a seguinte redacção:
+22.º O CFOT é frequentado pelos sargentos-ajudantes e pelos primeiros-sargentos que satisfaçam às condições de promoção a sargento-ajudante. Porém, quando as vagas fixadas para cada classe, nos termos do n.º 23.º não puderem ser preenchidas por falta de candidatos com as condições antes estabelecidas, poderá o Chefe do Estado-Maior da Armada determinar, por despacho, para efeitos de admissão ao concurso a que se refere o n.º 25.º, a redução, até metade, do tempo de permanência no posto de primeiro-sargento fixada como condição de promoção.
+Estado-Maior da Armada, 15 de Maio de 1981. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante.
