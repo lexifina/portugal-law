@@ -1,0 +1,15 @@
+Portaria n.º 63-L/86
+de 1 de Maio
+Considerando que o sistema de preços institucionais criados pelo artigo 5.º do Decreto-Lei n.º 516/85, de 31 de Dezembro, para o sector da carne de suíno visa garantir rendimentos aceitáveis à produção, sem, contudo, provocar níveis de preços especulativos ao consumidor, de forma a permitir o equilíbrio do mercado;
+Considerando que para uma integração progressiva do mercado nacional do suíno no respectivo mercado comunitário, o cálculo dos preços nacionais deverá, desde já, pautar-se pelos níveis de preços praticados na Comunidade;
+Considerando, ainda, que, de acordo com a data da entrada em vigor do Acto de Adesão para os mercados agrícolas, a campanha de comercialização para o sector da carne de suíno terá início no ano em curso em 1 de Março de 1986:
+Ouvidos os Governos das Regiões Autónomas dos Açores e da Madeira:
+Manda o Governo da República Portuguesa, pelos Ministros da Agricultura, Pescas e Alimentação e da Indústria e Comércio, ao abrigo do n.º 6 do artigo 5.º do Decreto-Lei n.º 516/85, de 31 de Dezembro, o seguinte:
+1.º Na organização do mercado para o sector da carne de suíno, o preço de base e o preço de compra são fixados para a categoria extra B da grelha nacional de classificação de carcaças em vigor.
+2.º A campanha de comercialização para o ano em curso tem início em 1 de Março e termina em 31 de Outubro.
+3.º O nível do preço de base que corresponde ao nível do preço de base comunitário fixado para a campanha 1985-1986, corrigido para a categoria de referência extra B, é de 336$00.
+4.º O preço de compra é fixado em 260$00 por quilograma de carcaça, referente à categoria extra B.
+5.º Esta portaria entra em vigor no dia 1 de Março de 1986.
+Ministérios da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
+Assinada em 28 de Fevereiro de 1986.
+Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.
