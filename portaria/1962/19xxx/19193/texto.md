@@ -1,0 +1,6 @@
+Portaria n.º 19193
+Pela Portaria n.º 18947, de 12 de Janeiro de 1962, foi nomeada uma nova comissão reorganizadora da indústria de produtos farmacêuticos, com o objectivo de propor concretamente as medidas a adoptar para se conseguir, agora que já se encontram esclarecidos os aspectos científicos e técnicos da modalidade, a resolução dos problemas de carácter industrial, sem prejuízo da legislação já existente sobre o caso específico da indústria farmacêutica.
+Verificou-se, entretanto, que, dada a maneira como se deverá processar esta reorganização, será vantajoso dar uma mais ampla representação aos organismos directamente ligados à indústria.
+Nestas condições:
+Manda o Governo da República Portuguesa, pelos Ministros da Economia e da Saúde e Assistência e pelo Secretário de Estado da Indústria, que seja agregado à nova comissão reorganizadora da indústria de produtos farmacêuticos, sem direito a voto, um representante das farmácias preparadoras de produtos especializados, a indicar pelo Grémio Nacional das Farmácias.
+Ministérios da Economia e da Saúde e Assistência, 18 de Maio de 1962. - O Ministro da Economia, José do Nascimento Ferreira Dias Júnior. - O Ministro da Saúde a Assistência, Henrique de Miranda Vasconcelos Martins de Carvalho. - O Secretário de Estado da Indústria, Edgar Maria da Silva Antunes de Oliveira.
