@@ -1,0 +1,5 @@
+Aviso n.º 32/2002
+Por ordem superior se torna público que o Governo da República Portuguesa depositou, em 19 de Dezembro de 2001, junto da International Civil Aviation Organization (ICAO), depositária do Protocolo para a Repressão de Actos Ilícitos de Violência em Aeroportos ao Serviço da Aviação Civil Internacional, assinado em 24 de Fevereiro de 1988 em Montreal, o seu instrumento de ratificação deste Protocolo internacional.
+O referido Protocolo foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 32/98, de 17 de Junho, e ratificado pelo Decreto do Presidente da República n.º 22/98, ambos publicados no Diário da República, 1.ª série-A, n.º 137, de 17 de Junho de 1998.
+Nos termos do n.º 3 do seu artigo VII, o referido Protocolo entrará em vigor para o Estado Português 30 dias após a data do depósito do instrumento de ratificação, aceitação ou aprovação.
+Direcção de Serviços das Organizações Políticas Internacionais, 12 de Março de 2002. - O Director de Serviços, Rui Filipe Monteiro Belo Macieira.
