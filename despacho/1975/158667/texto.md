@@ -1,0 +1,4 @@
+Despacho
+O Decreto n.º 41448, de 18 de Dezembro de 1957, será remodelado em breve. Porque urge resolver problemas pendentes e em relação com o número e a qualidade das especialidades farmacêuticas, determino que, no prazo de vinte dias, os laboratórios preparadores e os importadores forneçam à Direcção-Geral de Saúde lista dos produtos, nas suas várias formas farmacêuticas, que têm no mercado há mais de dez anos, com indicação dos que pretendem retirar do mercado, devendo os restantes ser submetidos à apreciação da Comissão Técnica dos Novos Medicamentos, quanto ao seu actual interesse terapêutico.
+Ficam abrangidos todos os medicamentos existentes no mercado à data da publicação do Decreto n.º 41448.
+Secretaria de Estado da Saúde, 3 de Janeiro de 1975. - O Secretário de Estado da Saúde, Carlos Octávio Torres Cruz e Oliveira.
