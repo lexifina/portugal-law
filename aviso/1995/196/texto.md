@@ -1,0 +1,4 @@
+Aviso n.º 196/95
+Por ordem superior se torna público que se encontra concluído por ambas as partes o processo de aprovação do Acordo entre o Governo da República Portuguesa e o Governo da República da Venezuela sobre Prevenção, Controlo, Fiscalização e Repressão do Consumo Indevido e Tráfico Ilícito de Estupefacientes e Substâncias Psicotrópicas, assinado em Caracas em 17 de Junho de 1994, publicado no Diário da República, n.º 99, de 28 de Abril de 1995.
+Nesta conformidade, e segundo interpretação do disposto no n.º 1 do seu artigo 14.º, foi acordado, por troca de notas, entre o Ministério dos Negócios Estrangeiros da República Portuguesa e a Embaixada da Venezuela em Lisboa que o Acordo em apreço entrou em vigor em 8 de Maio de 1995.
+Direcção-Geral das Relações Bilaterais, 17 de Julho de 1995. - O Director de Serviços da América do Sul e Central, Luís Filipe de Castro Mendes.
