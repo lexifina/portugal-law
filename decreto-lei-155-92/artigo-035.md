@@ -4,7 +4,7 @@
 
 # Artigo 35.º
 
-### Restituições ou reembolsos
+### Restituições
 
 1 - Devem ser restituídas as importâncias de quaisquer receitas que tenham dado entrada nos cofres do Estado sem direito a essa arrecadação.
 
@@ -14,8 +14,4 @@
 
 4 - O decurso do prazo a que se refere o número anterior interrompe-se ou suspende-se por acção das causas gerais de interrupção ou suspensão da prescrição.
 
-5 - Quando o montante a restituir não exceda o limite estabelecido no regime jurídico para a realização de despesas públicas para a autorização de despesas pelo membro do Governo responsável pela área setorial, a competência para autorização do respetivo processamento e pagamento cabe à entidade competente nos termos do mesmo diploma.
-
-6 - Quando o montante a restituir exceda o limite estabelecido no número anterior, a competência para autorização do respetivo processamento e pagamento cabe ao membro do Governo responsável pela área das finanças.
-
-7 - As restituições ou reembolsos serão processados por abate à receita, sendo os respetivos procedimentos definidos por instruções da Direção-Geral do Orçamento.
+5 - A restituição será processada e paga de acordo com as normas gerais aplicáveis ao processamento e pagamento das despesas públicas, com ressalva do que eventualmente se disponha em lei especial para certas categorias de receitas a reembolsar e a restituir.
