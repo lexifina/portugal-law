@@ -1,0 +1,5 @@
+Portaria n.º 22879
+Pelo Decreto-Lei n.º 40520, de 2 de Fevereiro de 1956, foram estabelecidas as condições de utilização de antioxidantes ou antioxigénios em gorduras de origem animal, margarinas e outras gorduras plásticas e ainda em alimentos que contenham qualquer dos produtos, tendo em vista aumentar o seu período de estabilidade, retardando o desenvolvimento do ranço, por auto-oxidação.
+Nestes termos, por proposta da Inspecção-Geral dos Produtos Agrícolas e Industriais, depois de obtidos pareceres favoráveis da Direcção-Geral de Saúde e da Comissão Técnica dos Métodos Químicos-Analíticos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Indústria, autorizar a Knorr Portuguesa - Produtos Alimentares, S. A. R. L., de harmonia com o § 2.º do artigo 4.º do Decreto-Lei n.º 40520, a utilizar nas sopas e caldos produzidos na sua fábrica os antioxidantes palatos de propilo, octilo e dodecilo na quantidade máxima de 0,010 mg por 100 g de gordura.
+Secretaria de Estado da Indústria, 8 de Setembro de 1967. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa.
