@@ -1,0 +1,6 @@
+Despacho
+Mostrando-se conveniente regular o período de prestação de serviço remunerado ao Estado, incluindo os organismos de coordenação económica, e aos corpos administrativos, por parte de aposentados e reformados, nos casos em que a lei excepcionalmente a admite, o Conselho de Ministros resolve o seguinte:
+1.º A autorização do Conselho de Ministros, a que se refere o artigo 9.º do Decreto-Lei n.º 39843, de 7 de Outubro de 1954, com a nova redacção dada pelo artigo 1.º do Decreto-Lei n.º 43285, de 3 de Novembro de 1960, entende-se concedida pelo prazo de dois anos, quando outro não seja fixado pelo mesmo Conselho ou não resulte de disposição legal aplicável;
+2.º Sob proposta fundamentada do Ministro que superintender no departamento onde o aposentado ou reformado haja sido autorizado a prestar serviço, poderá o prazo referido no n.º 1.º ser prorrogado, nos termos que forem estabelecidos pelo Conselho de Ministros, mas sem exceder o limite de tempo inicialmente fixado;
+3.º Relativamente às autorizações já concedidas sem fixação de prazo, o limite de dois anos será contado a partir da data do presente despacho.
+Presidência do Conselho, 13 de Janeiro de 1966. - Pelo Presidente do Conselho, o Ministro de Estado, António Jorge Martins da Mota Veiga.
