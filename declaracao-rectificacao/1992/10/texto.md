@@ -1,0 +1,5 @@
+Declaração de rectificação n.º 10/92
+Segundo comunicação do Ministério da Justiça, a Portaria n.º 1223-A/91, publicada no Diário da República, 1.ª série, n.º 300 (suplemento), de 2 de Janeiro de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Na tabela II, onde se lê «Macedo de Cavaleiros - MDC» deve ler-se «Macedo de Cavaleiros - MCD» e onde se lê «Portimão - PIM» deve ler-se «Portimão - PTM».
+Na tabela IV, onde se lê «GF/FRECINT - Batalhão n.º 1 da Guarda Fiscal/Lisboa/FDLSB» deve ler-se «GF/SIPCO Bat. 1 G. Fiscal/Lisboa/FDLSB», onde se lê «FRECINT - 1.ª Companhia do Batalhão n.º 1/Lisboa/FFLSB» deve ler-se «GF/COMP. OP. NORTE TEJO/Lisboa/FFLSB», onde se lê «GF/Sec. Pedrouços/Lisboa/FGLSB» deve ler-se «GF/Sec. Investigação Fiscal/Lisboa/FGLSB», onde se lê «GF/Sec. Sacavém/Lisboa/FTLSB» deve ler-se «GF/Frecint Sec. Sacavém/Lisboa/FTLSB» e onde se lê «GNR/Comando-General, Lisboa» deve ler-se «GNR/Comando-Geral, Lisboa».
+Secretaria-Geral da Presidência do Conselho de Ministros, 26 de Fevereiro de 1992. - O Secretário-Geral, França Martins.
