@@ -1,0 +1,9 @@
+# Artigo 49.º-A
+
+### Grandes projectos de investimento
+
+1 - Aos projectos de investimento em unidades produtivas de valor global superior a 10 milhões de contos, dirigidos predominantemente para a exportação e com impacte positivo excepcional na balança de pagamentos, incluindo os correspondentes efeitos directos e indirectos, poderão ser concedidos benefícios fiscais no âmbito do IRC, sisa, contribuição autárquica e imposto do selo, em regime contratual, desde que sejam efectivamente determinantes para a concorrência entre localizações alternativas.
+
+2 - A concessão dos incentivos ficará subordinada à celebração de um contrato entre o Estado e a entidade promotova do projecto, a aprovar pelo Governo, mediante resolução do Conselho de Ministros, no qual serão fixados os objectivos, as metas, os incentivos a conceder e as penalizações para o caso de incumprimento.
+
+3 - A concessão de incentivos nos termos dos números anteriores será objecto de proposta do Ministro das Finanças.
