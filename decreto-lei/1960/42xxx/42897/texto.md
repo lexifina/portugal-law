@@ -1,0 +1,11 @@
+Decreto-Lei n.º 42897
+Considerando as funções que presentemente cabem à Secretaria-Geral do Ministério do Interior e atendendo a que, em virtude da criação do Ministério da Saúde e Assistência, se verificou redução no volume do serviço a seu cargo, reconhece-se a possibilidade de ser extinto um dos lugares de terceiro-oficial, que recentemente vagou.
+Por outro lado, torna-se indispensável a criação de novo lugar de dactilógrafo na Direcção-Geral de Administração Política e Civil, para ser utilizado, especialmente, no serviço da Inspecção Administrativa, de modo a evitar que um dos subinspectores se encontre permanentemente ocupado com trabalhos de dactilografia, impróprios da sua categoria, com prejuízo das funções que lhe cabem.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É extinto um dos lugares de terceiro-oficial do quadro da Secretaria-Geral do Ministério do Interior, aprovado pelo Decreto-Lei n.º 36601, de 24 de Novembro de 1947.
+Art. 2.º O quadro do pessoal da Direcção-Geral de Administração Política e Civil do Ministério do Interior, aprovado pelo diploma a que se refere o artigo antecedente, considera-se aumentado de um dactilógrafo, devendo o respectivo encargo ser suportado no ano em curso pelas sobras das verbas para pessoal da mesma Direcção-Geral.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 2 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.
