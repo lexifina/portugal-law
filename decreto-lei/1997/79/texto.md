@@ -1,0 +1,132 @@
+Decreto-Lei n.º 79/97
+de 8 de Abril
+A Empresa de Electricidade dos Açores, E. P., abreviadamente designada por EDA, E. P., foi criada pelo Decreto Regional n.º 16/80/A, de 21 de Agosto, e tem por objecto a produção, transporte e distribuição de energia eléctrica na Região Autónoma dos Açores.
+A EDA, E. P., integra-se no património da Região Autónoma dos Açores, cabendo os poderes de tutela ao respectivo Governo Regional.
+Em conformidade com o seu Programa, entende o Governo da Região Autónoma dos Açores que chegou a altura de dotar a EDA, E. P., de um estatuto flexível, por forma que possa adaptar-se às novas condições do mercado e prosseguir um programa de expansão e modernização que é necessário ao desenvolvimento regional.
+Foi ouvida a comissão de trabalhadores da Empresa.
+Foram ouvidos os órgãos de governo próprio da Região Autónoma dos Açores.
+Assim:
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 11/90, de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+1 - A Empresa de Electricidade dos Açores (EDA), E. P., empresa pública criada pelo Decreto Regional n.º 16/80/A, de 21 de Agosto, e pelo Decreto Regulamentar Regional n.º 34/81/A, de 18 de Julho, é transformada, a partir da entrada em vigor do presente diploma, em sociedade anónima, com a denominação de Electricidade dos Açores, S. A., abreviadamente designada pela sigla EDA, S. A.
+2 - A EDA, S. A., rege-se pelo presente diploma, pelos seus estatutos e pelas normas reguladoras das sociedades anónimas.
+Artigo 2.º
+1 - A EDA, S. A., continua a personalidade jurídica da EDA, E. P., conservando a universalidade dos direitos e obrigações que constituem o património desta no momento da transformação.
+2 - O presente diploma constitui título bastante para a comprovação do disposto no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, mediante simples comunicação subscrita por dois membros do conselho de administração da EDA, S. A.
+Artigo 3.º
+1 - As acções da EDA, S. A., pertencem à Região Autónoma dos Açores e só poderão ser transmitidas para entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da Lei n.º 71/88, de 24 de Maio.
+2 - As acções representativas do capital subscrito pela Região Autónoma dos Açores são detidas pelo Governo Regional dos Açores, ao qual compete deliberar sobre a sua transmissão para outros entes públicos.
+3 - Os direitos da Região Autónoma dos Açores como accionista da EDA, S. A., são exercidos por representante designado por despacho conjunto dos membros do Governo Regional da Região Autónoma dos Açores com competência nas matérias de finanças e de energia.
+4 - Enquanto a totalidade das acções da EDA, S. A., pertencer à Região Autónoma dos Açores, sempre que a lei ou os estatutos exijam deliberação da assembleia geral, bastará que o representante designado nos termos do número anterior exare a deliberação no livro de actas da sociedade.
+Artigo 4.º
+O capital social inicial da EDA, S. A., é de 9500000000$00, correspondendo ao valor do capital estatutário da EDA, E. P., e encontra-se realizado pelos valores que integram o património da sociedade.
+Artigo 5.º
+1 - São aprovados os estatutos da EDA, S. A., publicados em anexo ao presente diploma.
+2 - A criação da EDA, S. A., e os respectivos estatutos produzem efeitos relativamente a terceiros, independentemente de registo, o qual, no entanto, deve ser efectuado oficiosamente, sem taxas ou emolumentos, nos 90 dias seguintes à data da entrada em vigor deste diploma.
+Artigo 6.º
+1 - Nos 30 dias seguintes à data da entrada em vigor do presente diploma, reunir-se-á, ao abrigo do artigo 54.º do Código das Sociedades Comerciais, a assembleia geral da sociedade, a fim de serem eleitos os membros dos órgãos sociais.
+2 - Enquanto não forem eleitos os membros dos órgãos sociais, os membros do conselho de administração e os membros da comissão de fiscalização da empresa pública mantêm-se em funções.
+Artigo 7.º
+1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos accionistas, o conselho de administração enviará aos membros do Governo Regional da Região Autónoma dos Açores competentes nas matérias de finanças e de energia, pelo menos 30 dias antes da data da assembleia geral anual, o seguinte:
+a) O relatório de gestão e as contas do exercício;
+b) Quaisquer elementos adequados à compreensão integral da situação económica e financeira da empresa, eficiência da gestão e perspectivas da sua evolução.
+2 - O fiscal único enviará, trimestralmente, aos membros do Governo Regional da Região Autónoma dos Açores competentes nas matérias de finanças e de energia um relatório sucinto, em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
+Artigo 8.º
+1 - Os trabalhadores e pensionistas da EDA, E. P., mantêm todos os direitos, obrigações e regalias que detiverem à data da entrada em vigor do presente diploma.
+2 - Os funcionários da administração central, regional e local, dos institutos públicos, das empresas públicas e de capital exclusiva ou maioritariamente público podem ser autorizados a exercer funções, em regime de comissão de serviço, na EDA, S. A., conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outras regalias.
+3 - A situação dos trabalhadores da EDA, S. A., que sejam chamados a ocupar cargos nos órgãos da sociedade, bem como a dos que sejam requisitados para exercer funções em outras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o mandato ou o termo de requisição.
+Artigo 9.º
+São isentos de taxas e emolumentos devidos a quaisquer entidades de âmbito nacional ou local, designadamente ao Registo Nacional de Pessoas Colectivas e às conservatórias do registo predial ou comercial, todos os actos a praticar para execução do disposto no presente diploma, incluindo os registos das nomeações dos primeiros membros para os órgãos sociais, designadamente de administração, da EDA, S. A.
+Artigo 10.º
+O Governo Regional da Região Autónoma dos Açores mantém todas as obrigações para com terceiros resultantes de qualquer forma de garantia prestada à EDA, E. P., em contratos por esta celebrados com instituições financeiras ou outras, não podendo o presente diploma ser invocado como alteração de circunstâncias para efeitos daqueles contratos.
+Artigo 11.º
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 30 de Janeiro de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim.
+Promulgado em 14 de Março de 1997.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 19 de Março de 1997.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+ANEXO
+Estatuto da Electricidade dos Açores, S. A
+CAPÍTULO I
+Firma, sede e objecto
+Artigo 1.º
+A sociedade anónima adopta a denominação de Electricidade dos Açores, S. A., e rege-se pelo Decreto-Lei n.º 79/97, de 8 de Abril, pelos presentes estatutos e pelas normas reguladoras das sociedades anónimas.
+Artigo 2.º
+A sociedade tem sede na Rua do Engenheiro José Cordeiro, 6, 9500 Ponta Delgada.
+Artigo 3.º
+1 - O objecto principal da sociedade é a produção, a aquisição, o transporte, a distribuição e a venda de energia eléctrica, bem como o exercício de outras actividades relacionadas com aquelas.
+2 - Para o exercício do objecto definido no número anterior, a sociedade pode:
+a) Adquirir participações em sociedades de responsabilidade limitada;
+b) Participar em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico;
+c) Constituir sociedades anónimas de cujas acções ela seja inicialmente a única titular, nos termos do n.º 1 do artigo 488.º do Código das Sociedades Comerciais;
+d) Criar novas sociedades de acordo com o estabelecido no Código das Sociedades Comerciais relativamente à cisão.
+CAPÍTULO II
+Capital social e acções
+Artigo 4.º
+1 - O capital da sociedade é de 9500000000$00 e encontra-se totalmente realizado pelos valores integrantes do património da sociedade.
+2 - O capital social é representado por 9500000 acções, com o valor nominal de 1000$00 cada uma.
+Artigo 5.º
+1 - As acções são nominativas, não podendo ser convertidas em acções ao portador.
+2 - As acções podem revestir forma escritural.
+3 - Podem ser emitidos títulos de 1, 5, 10, 50 e 100 acções e múltiplos de 100, até 100000 acções.
+CAPÍTULO III
+Órgãos sociais
+Artigo 6.º
+1 - São órgãos sociais a assembleia geral e o conselho de administração.
+2 - Os membros dos órgãos sociais exercem as suas funções por períodos de três anos, podendo ser reconduzidos para novos mandatos.
+3 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no exercício das suas funções até à eleição de quem deva substituí-los.
+4 - Os membros dos órgãos sociais são dispensados de prestar caução pelo exercício dos seus cargos.
+5 - A fiscalização das contas da sociedade é exercida por fiscal único, nos termos do Decreto-Lei n.º 26-A/96, de 27 de Março.
+SECÇÃO I
+Assembleia geral
+Artigo 7.º
+1 - A assembleia geral é composta pelo accionista ou accionistas com direito a voto.
+2 - A cada 100 acções corresponde um voto.
+Artigo 8.º
+A mesa da assembleia geral será constituída por um presidente, um vice-presidente e um secretário, cujas faltas serão supridas nos termos da lei.
+Artigo 9.º
+No aviso convocatório da assembleia geral pode ser fixado um prazo, não superior a oito dias antes da reunião da assembleia, para a recepção, pelo presidente da mesa, dos instrumentos de representação de accionistas e, bem assim, da indicação dos representantes de pessoas colectivas.
+Artigo 10.º
+1 - Para que a assembleia geral possa reunir e deliberar em primeira convocação é indispensável a presença ou representação de accionistas que detenham pelo menos 51% do capital, devendo um deles ser a Região Autónoma dos Açores.
+2 - Tanto em primeira como em segunda convocação da assembleia geral, as deliberações sobre alterações dos estatutos, fusão, cisão ou transformação da sociedade devem ser aprovadas por 51% dos votos correspondentes ao capital, incluindo sempre os votos das acções pertencentes à Região Autónoma dos Açores.
+SECÇÃO II
+Conselho de administração
+Artigo 11.º
+1 - O conselho de administração é composto por três ou cinco administradores, conforme deliberado em assembleia geral.
+2 - O presidente do conselho de administração é escolhido, de entre os administradores, pela assembleia geral que eleger aquele órgão.
+Artigo 12.º
+1 - O conselho de administração pode delegar poderes, nos termos do artigo 407.º do Código das Sociedades Comerciais.
+2 - A aquisição, alienação e oneração de participações sociais não se incluem nos actos delegáveis.
+Artigo 13.º
+1 - A sociedade obriga-se:
+a) Pela assinatura de dois administradores;
+b) Pela assinatura de um dos administradores, dentro dos limites da delegação de poderes conferida pelo conselho;
+c) Pela assinatura de procuradores, quanto aos actos ou categorias de actos definidos nas correspondentes procurações.
+2 - O conselho de administração poderá deliberar, nos termos e dentro dos limites legais, que certos documentos da sociedade sejam assinados por processos mecânicos ou chancela.
+3 - Em assuntos de mero expediente bastará a assinatura de um administrador.
+Artigo 14.º
+1 - O conselho de administração não pode deliberar sem que esteja presente ou representada a maioria dos seus membros.
+2 - Não é permitida a representação de mais de um administrador em cada reunião.
+Artigo 15.º
+1 - As remunerações dos administradores serão fixadas pela assembleia geral.
+2 - A remuneração pode consistir parcialmente numa percentagem, que não poderá exceder globalmente 1% dos lucros do exercício, deduzidos da importância destinada a reserva legal.
+Artigo 16.º
+Os administradores terão direito a reforma por velhice ou invalidez, ou a complementos de pensão de reforma, nos termos que vierem a constar de regulamentos a aprovar pela assembleia geral.
+CAPÍTULO IV
+Aplicação dos resultados
+Artigo 17.º
+Os lucros de exercício, apurados em conformidade com a lei, terão, sucessivamente, a seguinte aplicação:
+a) Cobertura de prejuízos de exercícios anteriores;
+b) Constituição e eventualmente reintegração da reserva legal e de outras reservas que a lei determinar;
+c) Remuneração dos administradores e gratificação a atribuir aos trabalhadores, se disso for caso, segundo critério a definir em assembleia geral;
+d) Constituição, reforço ou reintegração de outras reservas, conforme a assembleia geral deliberar;
+e) Dividendos a distribuir aos accionistas;
+f) Outras finalidades que a assembleia geral deliberar.
+CAPÍTULO V
+Dissolução e liquidação
+Artigo 18.º
+1 - A sociedade dissolve-se quando para isso haja causa legal.
+2 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral.
