@@ -18,6 +18,6 @@ e) (Revogada).
 
 § 3.º Se a vaga a prover pertencer aos governos civis ou administrações de bairro, o processo do concurso será apresentado ao Ministro do Interior, e se a vaga pertencer a um corpo administrativo será aquele remetido ao respectivo presidente pelo director-geral.
 
-§ 4.º Aos concursos de provimento dos lugares de secretários de governos civis, chefes de secretarias, agentes do Ministério Público junto das auditorias e, bem assim, dos que envolvam exercício de funções de autoridade só podem ser admitidos candidatos do sexo masculino.
+§ 4.º Revogado.
 
 § 5.º Não poderão ser admitidos aos concursos de provimento de lugares de chefia os funcionários que tiverem habilitações inferiores ao 2.º ciclo dos liceus ou equivalente, bem como os que, embora com essas habilitações, tiverem menos de cinco anos de bom e efectivo serviço no quadro geral administrativo ou em quadros privativos, salvo se forem diplomados com curso superior.
