@@ -1,0 +1,17 @@
+Portaria n.º 21054
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 19.º do Decreto de 20 de Setembro de 1906 que regula a pesquisa e a lavra de minas nas províncias ultramarinas, e de harmonia com o disposto na base XI da Lei Orgânica do Ultramar Português, conceder ao súbdito britânico James Kapnek uma licença de exclusivo de pesquisas para todos os minérios, com excepção de diamantes, hidrocarbonetos, radioactivos e seus afins, numa área da província de Moçambique, cujos limites, termos e condições são definidos nos seguintes números:
+1.º A licença é válida para uma área do distrito de Manica e Sofala compreendida entre os paralelos 18º 55' e 19º 24' de latitude sul e os meridianos 33º 34' e 34º 09' este Greenwich.
+§ único. O concessionário da presente licença obriga-se a respeitar todos os direitos mineiros já existentes à data desta concessão.
+2.º O concessionário fica sujeito à lei geral e em especial às disposições do Decreto de 20 de Setembro de 1906.
+3.º Esta licença de exclusivo de pesquisas na área definida no n.º 1.º é válida por um período de três anos, a contar da data da sua publicação no Boletim Oficial da província, e pode ser prorrogada por um período de dois anos, se o concessionário satisfizer todas as condições da lei e fizer pesquisas intensivas durante os primeiros três anos.
+§ 1.º Consideram-se pesquisas intensivas as que forem feitas sob planos prèviamente aprovados e se traduzirem em dispêndio mínimo efectivo, na metrópole e na província, de uma importância anual mínima de 1000000$00.
+§ 2.º Os planos serão apresentados todos os anos, dentro dos primeiros três meses de cada um deles, devendo o primeiro plano de trabalho ser apresentado até seis meses depois da data da publicação desta portaria.
+4.º O concessionário terá de depositar nos cofres do Estado, dentro de seis meses, a contar da data da publicação desta portaria, a quantia de 500000$00 como caução reembolsável, nos termos da alínea a) do artigo 19.º do Decreto de 20 de Setembro de 1906, podendo esta quantia ser substituída por garantia bancária devidamente aceite.
+5.º Os direitos emergentes desta licença deverão ser transferidos, no prazo de quatro meses, a contar da data da publicação da presente portaria, para uma sociedade a constituir com um capital mínimo de 3000000$00, o que, a não verificar-se, acarretará a caducidade desta licença.
+§ único. A província de Moçambique receberá sem qualquer desembolso 10 por cento do total das acções emitidas ou a emitir, seja qual for a sua natureza, com direito a todos os dividendos e participações que lhe caibam ou venham a caber. Estas acções serão entregues à província, inteiramente liberadas, seis meses depois de constituída a sociedade ou de se realizar qualquer aumento de capital.
+6.º As disposições da alínea a) do artigo 19.º do Decreto de 20 de Setembro de 1906 abrangem as transmissões de todos e quaisquer direitos mineiros.
+7.º A presente licença para pesquisas não é transmissível sem autorização prévia do Governo, que poderá recusá-la quando não reconheça a idoneidade do pretendente a concessionário.
+8.º Serão aplicáveis ao concessionário as disposições de ordem geral que venham a ser tomadas pelo Governo Central ou pelo Governo-Geral de Moçambique sobre pesquisa, exploração e venda de minérios.
+Ministério do Ultramar, 21 de Janeiro de 1965. - O Ministro do Ultramar, António Augusto Peixoto Correia.
+
+Para ser publicada no Boletim Oficial de Moçambique. - Peixoto Correia.
