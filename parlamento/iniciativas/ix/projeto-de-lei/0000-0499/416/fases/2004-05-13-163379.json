@@ -1,0 +1,836 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "416",
+    "id": "20153",
+    "titulo": "Terceira alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de Enquadramento Orçamental)."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2004-05-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3177",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2004-05-13",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "20451",
+        "leg": "IX",
+        "nr": "440",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "793",
+            "obs": null,
+            "pag": [
+              "4812-4828"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-05-14",
+            "pubLeg": "IX",
+            "pubNr": "88",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/088/2004-05-14/4812?pgs=4812-4828&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "3.ª alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de Enquadramento Orçamental)."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-05-13",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "459",
+                "nome": "João Cravinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149749",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4812-4814",
+                  "4816-4817"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-14",
+                "pubLeg": "IX",
+                "pubNr": "88",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/088/2004-05-14/4812?pgs=4812-4814,4816-4817&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de enquadramento orçamental)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1924",
+                "nome": "Paulo Veiga"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149750",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4814-4814"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-14",
+                "pubLeg": "IX",
+                "pubNr": "88",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/088/2004-05-14/4814?pgs=4814&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de enquadramento orçamental)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149751",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4815-4815"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-14",
+                "pubLeg": "IX",
+                "pubNr": "88",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/088/2004-05-14/4815?pgs=4815&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de enquadramento orçamental)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149752",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4816-4816"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-14",
+                "pubLeg": "IX",
+                "pubNr": "88",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/088/2004-05-14/4816?pgs=4816&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de enquadramento orçamental)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149753",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4817-4819"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-14",
+                "pubLeg": "IX",
+                "pubNr": "88",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/088/2004-05-14/4817?pgs=4817-4819&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de enquadramento orçamental)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149754",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4818-4819"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-14",
+                "pubLeg": "IX",
+                "pubNr": "88",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/088/2004-05-14/4818?pgs=4818-4819&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de enquadramento orçamental)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149755",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4819-4820"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-14",
+                "pubLeg": "IX",
+                "pubNr": "88",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/088/2004-05-14/4819?pgs=4819-4820&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de enquadramento orçamental)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149756",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4820-4822"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-14",
+                "pubLeg": "IX",
+                "pubNr": "88",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/088/2004-05-14/4820?pgs=4820-4822&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de enquadramento orçamental)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149757",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4822-4823"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-14",
+                "pubLeg": "IX",
+                "pubNr": "88",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/088/2004-05-14/4822?pgs=4822-4823&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de enquadramento orçamental)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149758",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4823-4825"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-14",
+                "pubLeg": "IX",
+                "pubNr": "88",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/088/2004-05-14/4823?pgs=4823-4825&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de enquadramento orçamental)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149759",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4825-4826"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-14",
+                "pubLeg": "IX",
+                "pubNr": "88",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/088/2004-05-14/4825?pgs=4825-4826&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de enquadramento orçamental)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1916",
+                "nome": "Daniel Rebelo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149760",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4826-4827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-14",
+                "pubLeg": "IX",
+                "pubNr": "88",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/088/2004-05-14/4826?pgs=4826-4827&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de enquadramento orçamental)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149761",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4827-4828"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-14",
+                "pubLeg": "IX",
+                "pubNr": "88",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/088/2004-05-14/4827?pgs=4827-4828&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de enquadramento orçamental)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1966",
+                "nome": "Maria João Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149762",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4828-4828"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-14",
+                "pubLeg": "IX",
+                "pubNr": "88",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/088/2004-05-14/4828?pgs=4828&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de enquadramento orçamental)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149763",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4828-4828"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-14",
+                "pubLeg": "IX",
+                "pubNr": "88",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/088/2004-05-14/4828?pgs=4828&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de enquadramento orçamental)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "163379",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "290404",
+        "obs": null,
+        "pag": [
+          "4812-4828"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-05-14",
+        "pubLeg": "IX",
+        "pubNr": "88",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/088/2004-05-14/4812?pgs=4812-4828&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
