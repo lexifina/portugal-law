@@ -1,0 +1,8 @@
+Portaria n.º 656/77
+de 24 de Outubro
+Considerando que a reestruturação dos cursos ministrados no Instituto Superior Naval de Guerra não permitiu, nos últimos anos, habilitar os oficiais da Armada com a condição especial de promoção a que se refere a alínea d) do artigo 146.º do Estatuto do Oficial da Armada.
+Considerando que no ano lectivo de 1977-1978 será reiniciada, em regime normal, a frequência do curso geral naval de guerra, que constitui condição especial de promoção aos postos de oficial superior:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, nos termos dos artigos 3.º e 4.º do Decreto-Lei n.º 312/77, de 5 de Agosto, o seguinte:
+1.º São dispensados da condição especial de promoção a que se refere a alínea d) do artigo 146.º do Estatuto do Oficial da Armada, aprovado e posto em execução pelo Decreto n.º 46960, de 14 de Abril de 1966, os oficiais da Armada das diversas classes dos quadros do activo aos quais venha a competir promoção a postos das categorias de oficial superior e de oficial general sem estarem habilitados, respectivamente, com os cursos geral e superior naval de guerra.
+2.º O disposto no número anterior não é aplicável, no que respeita ao curso geral naval de guerra, aos oficiais nomeados ou a nomear para a frequência dos cursos que venham a ser ministrados no Instituto Superior Naval de Guerra a partir do ano lectivo de 1977-1978, inclusive, e aos oficiais mais modernos que qualquer daqueles, nas respectivas classes.
+Estado-Maior da Armada, 28 de Setembro de 1977. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante.
