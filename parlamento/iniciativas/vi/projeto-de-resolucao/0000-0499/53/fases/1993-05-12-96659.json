@@ -1,0 +1,605 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "53",
+    "id": "3874",
+    "titulo": "Criação de uma comissão para a reforma do ordenamento administrativo do país."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1993-05-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "422",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1993-05-12",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1993-05-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34570",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2222-2222"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-05-13",
+                "pubLeg": "VI",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/069/1993-05-13/2222?pgs=2222&org=PLC"
+              }
+            ],
+            "sumario": "CRIACAO DE UMA COMISSAO PARA A REFORMA DO ORDENAMENTOADMINISTRATIVO DO PAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "188",
+                "nome": "Gameiro dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34571",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2221-2221"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-05-13",
+                "pubLeg": "VI",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/069/1993-05-13/2221?pgs=2221&org=PLC"
+              }
+            ],
+            "sumario": "CRIACAO DE UMA COMISSAO PARA A REFORMA DO ORDENAMENTOADMINISTRATIVO DO PAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "588",
+                "nome": "Freitas do Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34572",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2220-2220"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-05-13",
+                "pubLeg": "VI",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/069/1993-05-13/2220?pgs=2220&org=PLC"
+              }
+            ],
+            "sumario": "CRIACAO DE UMA COMISSAO PARA A REFORMA DO ORDENAMENTOADMINISTRATIVO DO PAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34573",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2217-2221"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-05-13",
+                "pubLeg": "VI",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/069/1993-05-13/2217?pgs=2217-2221&org=PLC"
+              }
+            ],
+            "sumario": "CRIACAO DE UMA COMISSAO PARA A REFORMA DO ORDENAMENTOADMINISTRATIVO DO PAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "82",
+                "nome": "Falcão e Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34574",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2216-2217",
+                  "2220-2220"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-05-13",
+                "pubLeg": "VI",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/069/1993-05-13/2216?pgs=2216-2217,2220&org=PLC"
+              }
+            ],
+            "sumario": "CRIACAO DE UMA COMISSAO PARA A REFORMA DO ORDENAMENTOADMINISTRATIVO DO PAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "40",
+                "nome": "Duarte Lima"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2216-2216"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-05-13",
+                "pubLeg": "VI",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/069/1993-05-13/2216?pgs=2216&org=PLC"
+              }
+            ],
+            "sumario": "CRIACAO DE UMA COMISSAO PARA A REFORMA DO ORDENAMENTOADMINISTRATIVO DO PAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "588",
+                "nome": "Freitas do Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2215-2217"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-05-13",
+                "pubLeg": "VI",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/069/1993-05-13/2215?pgs=2215-2217&org=PLC"
+              }
+            ],
+            "sumario": "CRIACAO DE UMA COMISSAO PARA A REFORMA DO ORDENAMENTOADMINISTRATIVO DO PAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "230",
+                "nome": "André Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2213-2214"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-05-13",
+                "pubLeg": "VI",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/069/1993-05-13/2213?pgs=2213-2214&org=PLC"
+              }
+            ],
+            "sumario": "CRIACAO DE UMA COMISSAO PARA A REFORMA DO ORDENAMENTOADMINISTRATIVO DO PAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "188",
+                "nome": "Gameiro dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34581",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2213-2213"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-05-13",
+                "pubLeg": "VI",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/069/1993-05-13/2213?pgs=2213&org=PLC"
+              }
+            ],
+            "sumario": "CRIACAO DE UMA COMISSAO PARA A REFORMA DO ORDENAMENTOADMINISTRATIVO DO PAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "568",
+                "nome": "Raúl Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34582",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2212-2213"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-05-13",
+                "pubLeg": "VI",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/069/1993-05-13/2212?pgs=2212-2213&org=PLC"
+              }
+            ],
+            "sumario": "CRIACAO DE UMA COMISSAO PARA A REFORMA DO ORDENAMENTOADMINISTRATIVO DO PAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "82",
+                "nome": "Falcão e Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "34598",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2210-2212",
+                  "2214-2215"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-05-13",
+                "pubLeg": "VI",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/069/1993-05-13/2210?pgs=2210-2212,2214-2215&org=PLC"
+              }
+            ],
+            "sumario": "CRIACAO DE UMA COMISSAO PARA A REFORMA DO ORDENAMENTOADMINISTRATIVO DO PAIS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "96659",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "422",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-05-13",
+        "pubLeg": "VI",
+        "pubNr": "69",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/069/1993-05-13?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
