@@ -1,0 +1,13 @@
+Declaração
+Declara-se, para os devidos efeitos, que entre o original, arquivado nesta Secretaria-Geral, e o texto do Decreto n.º 46421, publicado, pelo Ministério do Ultramar, Gabinete do Ministro, no Diário do Governo n.º 147, 1.ª série, de 5 de Julho último, existe a seguinte divergência que assim se rectifica:
+No mapa II, em pessoal auxiliar de administração, onde se lê:
+...
+Dactilógrafo com menos de 10 anos de serviço ... V
+Contínuo de 1.ª classe ... U
+...
+deve ler-se:
+...
+Dactilógrafo com menos de 10 anos de serviço ... U
+Contínuo de 1.ª classe ... V
+...
+Secretaria-Geral da Presidência do Conselho, 13 de Dezembro de 1965. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
