@@ -1,0 +1,5 @@
+Portaria n.º 20140
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+1.º Nos termos do § 1.º do artigo 4.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, reforçar com a importância de 7800$00 a verba do capítulo único, artigo 12.º «Abono de família», da tabela de despesa do orçamento privativo da Agência-Geral do Ultramar para o corrente ano, tomando como contrapartida as disponibilidades existentes na verba do mesmo capítulo, artigo 11.º, n.º 1) «Outros encargos - Despesas com o armazém, incluindo o pagamento a pessoal operário», da mesma tabela de despesa.
+2.º Nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial de 60000$00, em adicional à tabela de despesa do orçamento privativo em vigor na Agência-Geral do Ultramar, sob a designação «Encargos com dezasseis bolsas de estudo de que trata a Portaria n.º 20012, de 16 de Agosto de 1963», tomando como contrapartida a receita referida na mesma portaria.
+Ministério do Ultramar, 31 de Outubro de 1963. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
