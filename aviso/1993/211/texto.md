@@ -1,0 +1,3 @@
+Aviso n.º 211/93
+Por ordem superior se torna público ter o Governo Francês, na sua qualidade de depositário, notificado os Estados membros do Bureau International des Expositions (BIE) que a Tailândia e a República Popular da China aderiram, em 24 de Março e 3 de Maio de 1993, respectivamente, à Convenção Relativa às Exposições Internacionais, adoptada em Paris em 22 de Novembro de 1928, bem como ao Protocolo de Modificação de 30 de Novembro de 1972 e à Emenda de 24 de Junho de 1982.
+Direcção-Geral dos Negócios Político-Económicos, 9 de Agosto de 1993. - O Subdirector-Geral, Vasco Bramão Ramos.
