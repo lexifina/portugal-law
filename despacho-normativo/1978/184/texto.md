@@ -1,0 +1,7 @@
+Despacho Normativo n.º 184/78
+Tendo surgido dúvidas quanto à correcta interpretação e alcance do disposto no artigo 67.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM) quanto à exigência, para efeitos de obtenção da categoria de mestre do tráfego local, de quatro anos como marinheiro de 1.ª classe do tráfego local;
+Considerando que marinheiro de 1.ª classe do tráfego local corresponde apenas a mera alteração da designação, mas com o mesmo conteúdo funcional e técnico, da anterior categoria de marinheiro do tráfego local;
+Considerando que ficariam frustradas as expectativas do acesso relativamente aos inscritos marítimos, que, no âmbito do § 4.º do artigo 131.º do RIM, podem eventualmente exercer a sua actividade nas embarcações do tráfego local:
+Determino, ao abrigo do artigo 309.º do RIM, o seguinte:
+O tempo de tirocínio estipulado no artigo 67.º do RIM para obtenção da categoria de mestre do tráfego local deve entender-se como segue: independentemente da categoria, o inscrito marítimo necessita de ter servido nas embarcações de comércio empregadas nesse género de navegação durante oito anos, dos quais, pelo menos, quatro, indistintamente, como marinheiro do tráfego local e ou marinheiro de 1.ª classe do tráfego local.
+Secretaria de Estado da Marinha Mercante, 25 de Julho de 1978. - O Secretário de Estado da Marinha Mercante, Luís António Penedo Correia Maltês.
