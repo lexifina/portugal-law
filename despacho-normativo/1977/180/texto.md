@@ -1,0 +1,3 @@
+Despacho Normativo n.º 180/77
+Nos termos do disposto na alínea c) do n.º 1.º do Despacho Normativo n.º 60/77, publicado no Diário da República, de 16 de Março de 1977, é atribuído o subsídio de 818$00 por tonelada de cianamida cálcica a 20,5%, em pó, oleosa, vendida para o mercado interno desde 28 de Novembro de 1976 até 30 de Junho de 1977, a pagar pelo Fundo de Abastecimento ao fabricante daquele adubo.
+Secretarias de Estado do Orçamento, da Indústria Ligeira e do Comércio Interno, 2 de Setembro de 1977. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado da Indústria Ligeira, Fernando Santos Martins. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
