@@ -1,0 +1,3 @@
+Declaração
+Declara-se, para os devidos efeitos, que o Decreto n.º 594/74, inserto no Diário do Governo, 1.ª série, n.º 247, de 23 do corrente, contém, além das assinaturas do Primeiro-Ministro e dos Ministros da Administração Interna, do Equipamento Social e do Ambiente e da Educação e Cultura, também as assinaturas do Secretário de Estado do Orçamento, António de Seixas da Costa Leal, e do Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar, e não como, por lapso, se publicou.
+Secretaria-Geral da Presidência do Conselho de Ministros, 24 de Outubro de 1974. - O Secretário-Geral, Diogo de Paiva Brandão.
