@@ -1,0 +1,6 @@
+Portaria n.º 18294
+As comissões venatórios concelhias abaixo indicadas não estão em condições Legais de efectuar despesas em virtude de não terem submetido à aprovação em tempo competente os seus orçamentos ou por estes não terem merecido a aprovação do respectivo governo civil.
+Para que nestes concelhos não deixe de ser exercida a necessária acção de defesa e fomento da caça:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, que, nos termos do artigo 2.º do Decreto n.º 30335, de 29 de Março de 1940, e para os fins do § único do mesmo artigo, sejam autorizadas as transferências para a Comissão Venatória Regional do Sul das quantias depositadas nos termos do mesmo decreto e de todas as que se destinam ao fundo especial das comissões venatórias dos concelhos da Batalha, Bombarral, Marinha Grande, Porto de Mós, Campo Maior, Elvas, Monforte, Ponte de Sor, Alpiarça, Cartaxo, Entroncamento, Salvaterra de Magos, Torres Novas, Cascais, Mafra, Alcochete, Almada, Barreiro, Moita, Montijo, Palmela, Santiago do Cacém e Sines.
+A Comissão Venatória Regional do Sul só poderá aplicar as quantias referidas depois da aprovação do orçamento, que deve ser elaborado de acordo com as disposições legais.
+Ministério da Economia, 2 de Março de 1961. - O Secretário de Estado da Agricultura, Luís Quartin Graça.
