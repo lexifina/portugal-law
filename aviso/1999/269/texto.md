@@ -1,0 +1,5 @@
+Aviso n.º 269/99
+Por ordem superior se torna público que, por nota de 2 de Dezembro de 1999, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, na sua qualidade de depositário da Convenção sobre o Reconhecimento dos Divórcios e Separação de Pessoas, concluída na Haia, em 1 de Junho de 1970, comunicou ter o Governo de Portugal notificado, em 17 de Outubro de 1999, que a referida Convenção foi estendida ao território de Macau, nos mesmos termos em que a ela se encontra vinculado o Estado Português.
+Portugal é Parte na Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 23/84, em 4 de Outubro, publicada no Diário da República, 1.ª série, n.º 275, de 27 de Novembro de 1984, e foi estendida ao território de Macau pelo Decreto do Presidente da República n.º 208/99, de 9 de Novembro, publicado no Diário da República, 1.ª série-A, n.º 261, de 9 de Novembro de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 9 de Dezembro de 1999. - António Nunes de Carvalho Santana Carlos.
