@@ -1,0 +1,24 @@
+Decreto-Lei n.º 284/83
+de 21 de Junho
+Pelo Decreto n.º 333/76, de 10 de Maio, foi criado o Hospital Psiquiátrico de S. João de Deus de Galizes, em Oliveira do Hospital, destinado ao internamento, tratamento e recuperação de menores do sexo masculino portadores de doença ou anomalia mental.
+A dificuldade em obter a colaboração do pessoal técnico, dificuldade agravada pela distância a que o Hospital se encontra dos grandes centros urbanos, impediu que o estabelecimento viesse a funcionar nos termos em que havia sido concebido.
+Por outro lado, manter em funcionamento o estabelecimento em condições e para fins diferentes daquele a que inicialmente se destinava traduzir-se-ia numa injustificável dispersão de meios, nomeadamente de recursos humanos.
+Entende-se, por isso, que deve ser extinto o Hospital Psiquiátrico de S. João de Deus de Galizes.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º É extinto o Hospital Psiquiátrico de S. João de Deus de Galizes.
+Art. 2.º - 1 - O pessoal actualmente ao serviço do Hospital Psiquiátrico de S. João de Deus de Galizes será colocado na mesma categoria que resultar da aplicação do Decreto n.º 109/80, de 20 de Outubro, e do Decreto-Lei n.º 305/81, de 12 de Novembro, sem perda de quaisquer direitos ou regalias, nos lugares constantes dos mapas anexos, lugares que se consideram acrescidos aos mapas ou quadros de pessoal dos estabelecimentos ou serviços nele referidos.
+2 - A colocação do pessoal nos termos do número anterior será feita por lista nominativa aprovada por despacho do Ministro dos Assuntos Sociais, a publicar no Diário da República, com dispensa de quaisquer outras formalidades, salvo a anotação do Tribunal de Contas.
+Art. 3.º O Instituto de Assistência Psiquiátrica, através da sua Delegação da Zona Centro, sucede nos direitos e obrigações do Hospital Psiquiátrico de S. João de Deus de Galizes, cabendo-lhe distribuir por serviços oficiais de assistência psiquiátrica os bens do respectivo inventário.
+Art. 4.º A partir da data de entrada em vigor deste diploma ficam revogados os acordos e despachos com base nos quais foi feita a cessão ao Hospital Psiquiátrico de S. João de Deus de Galizes dos edifícios, terrenos e anexos utilizados por este.
+Art. 5.º Este diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 28 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - Luís Eduardo da Silva Barbosa - José Manuel Meneres Sampaio Pimentel.
+Promulgado em 26 de Maio de 1983.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 30 de Maio de 1983.
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
+
+Mapa a que se refere o n.º 1 do artigo 2.º
+(Lugares a acrescer ao quadro de pessoal)
+(ver documento original)
