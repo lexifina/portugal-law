@@ -1,0 +1,9 @@
+Despacho Normativo n.º 30/78
+Precedendo resolução do Conselho de Ministros de aprovação de um programa de importações de produtos de consumo essencial para 1978 e reafirmando os princípios estabelecidos na Resolução n.º 29/77, de 13 de Janeiro, reconhece-se indispensável autorizar desde já os organismos responsáveis pelas importações a proceder às aquisições necessárias ao regular abastecimento do País no 1.º trimestre de 1978.
+Neste sentido, determina-se:
+a) São autorizados os organismos responsáveis pelas importações de produtos de consumo essencial a promover desde já as aquisições até ao limite de 60% do valor máximo em contos fixado pela Resolução n.º 273/77, de 3 de Agosto (Programa de importações de 1977, revisto);
+b) A distribuição dos produtos não poderá exceder, em princípio em cada mês do 1.º trimestre de 1978, as quantidades definidas pelos critérios em vigor durante o ano de 1977, nem as quantidades médias do último trimestre de 1977, no caso de estas quantidades excederem os valores médios mensais do Programa de 1977 revisto;
+c) A distribuição em qualquer dos meses do 1.º trimestre de 1978 de quantidades superiores às resultantes do determinado na alínea b), de algum dos produtos, terá de ser sancionada previamente por despacho ministerial, sob proposta dos organismos correspondentes;
+d) A importação deverá obedecer às normas de política de crédito externo determinadas pelo Banco de Portugal;
+e) Mantêm-se em vigor as determinações do Despacho Normativo n.º 104/77, de 31 de Março.
+Ministérios do Plano e Coordenação Económica, das Finanças, da Agricultura e Pescas e do Comércio e Turismo, 16 de Janeiro de 1978. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Agricultura e Pescas, António Miguel Morais Barreto. - O Ministro do Comércio e Turismo, Carlos Alberto da Mota Pinto.
