@@ -1,0 +1,47 @@
+# Acórdão do Supremo Tribunal Administrativo de 1997-06-11, processo 41150A
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 41150A
+
+**Data do Acordão:** 06/11/1997
+
+**Tribunal:** 2 SUBSECÇÃO DO CA
+
+**Relator:** BARATA FIGUEIRA
+
+**Descritores:** SUSPENSÃO DE EFICÁCIA; RECURSO JURISDICIONAL; RECURSO PARA O PLENO DA SECÇÃO; GRAU DE JURISDIÇÃO; INCONSTITUCIONALIDADE ORGÂNICA; INCONSTITUCIONALIDADE MATERIAL
+
+**Nº Convencional:** JSTA00047430
+
+**Nº do Documento:** SA11997061141150A
+
+**Data de Entrada:** 10/15/1996
+
+**Recorrente:** CORPORFIN-COMP PORTUGUESA DE ENGENHARIA FINANCEIRA SA E OUTRA
+
+**Recorrido 1:** SE DOS RECURSOS NATURAIS
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 97
+
+**Privacidade:** 01
+
+**Meio Processual:** RECLAMAÇÃO.
+
+**Objecto:** DESP 1 SECÇÃO PROC41150-A.
+
+**Decisão:** INDEFERIMENTO.
+
+**Área Temática 1:** DIR ADM CONT - REC JURISDICIONAL / MEIO PROC ACESSÓRIO SUSPEFIC.
+
+**Área Temática 2:** DIR CONST - DIR FUND.
+
+**Legislação Nacional:** CONST89 ART1 ART2 ART3 ART9 A ART13 N2 ART17 ART18 ART20 N1 ART66 N2 ART168 N1 B ART205 ART206 ART207 ART268 N4.; LPTA85 ART103 N1 C D.
+
+**Jurisprudência Nacional:** AC STAPLENO PROC27757 DE 1991/11/16.; AC STA PROC30275-A DE 1992/04/07.; AC STA PROC40864 DE 1996/12/16.; AC STA PROC41582-A DE 1997/03/20.; AC STA PROC41388-A DE 1997/04/02.; AC TC 65/88 DE 1988/03/23 IN BMJ N375 PAG178-191 IN DR 192 IIS 1988/08/20 PAG7591.; AC TC 202/90 DE 1990/06/19 IN BMJ N389 PAG142-151 IN DR 17 IIS 1991/01/21 PAG701 IN ACTC V16 PAG505.; AC TC 447/93 DE 1993/07/15 IN ACTC V25 PAG673 IN DR 95 IIS 1994/04/23 PAG673.; AC TC 249/94 IN DR 298 IIS 1994/08/27.; Texto Integral
+
+## Sumário
+
+O art. 103, al d) da L.P.T.A. não é inconstitucional, pelo que da decisão final do incidente de suspensão de eficácia só cabe recurso no caso de oposição de acórdãos.
