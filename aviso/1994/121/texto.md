@@ -1,0 +1,6 @@
+Aviso n.º 121/94
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos emitiu uma notificação, nos termos do artigo 25 da Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção dos Menores, concluída na Haia em 5 de Outubro de 1961, informando que o Luxemburgo e o Reino dos Países Baixos, por si e pelas Antilhas Neerlandesas, declararam aceitar a adesão da República da Polónia à Convenção acima mencionada, respectivamente, em 27 de Julho de 1993, 12 de Agosto de 1993 e 24 de Setembro de 1993.
+Em conformidade com o artigo 21, a Convenção entrou em vigor entre a República da Polónia e os países acima mencionados, respectivamente, em 25 de Setembro de 1993, 11 de Outubro de 1993 e 23 de Novembro de 1993.
+Relativamente a Portugal, a Convenção foi aprovada, para ratificação, pelo Decreto-Lei n.º 48494, conforme Diário do Governo, 1.ª série, n.º 172, de 22 de Julho de 1968.
+A Convenção entrou em vigor para Portugal em 4 de Fevereiro de 1969, segundo o Diário do Governo, 1.ª série, de 24 de Janeiro de 1969.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 24 de Fevereiro de 1994. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
