@@ -1,0 +1,5 @@
+Despacho Normativo n.º 1/84
+O Estatuto da Inspecção-Geral do Trabalho, aprovado pelo Decreto-Lei n.º 327/83, de 8 de Julho, instituiu para este departamento um regime de autonomia administrativa. A entrada em vigor desse regime está prevista, em princípio, para 1 de Janeiro de 1984, nos termos do n.º 1 do artigo 3.º do citado diploma.
+Havendo, no entanto, que tomar algumas medidas relativas ao funcionamento da Inspecção-Geral do Trabalho, que, a bem da própria autonomia administrativa, deverão preceder a sua entrada em vigor, entende-se que deve ser prorrogado em termos razoáveis o prazo fixado para o seu início de vigência.
+Nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 327/83, de 8 de Julho, determino que o regime de autonomia administrativa da Inspecção-Geral do Trabalho, estabelecido no respectivo Estatuto, entre em vigor no dia 1 de Julho de 1984.
+Ministério do Trabalho e Segurança Social, 22 de Dezembro de 1983. - O Ministro do Trabalho e Segurança Social, Amândio Anes de Azevedo.
