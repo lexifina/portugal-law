@@ -1,0 +1,7 @@
+Resolução do Conselho de Ministros n.º 8/2004
+A Resolução do Conselho de Ministros n.º 106-B/2003, de 11 de Agosto, com as alterações introduzidas pelas Resoluções do Conselho de Ministros n.os 123/2003, de 25 de Agosto, e 161/2003, de 9 de Outubro, respondeu à urgência de que se revestia uma intervenção excepcional na extracção da madeira de pinho com baixo valor comercial e na limpeza dos pinhais atingidos, nomeadamente por via da disponibilização dos meios públicos necessários para a identificação, a avaliação e a venda do material lenhoso atingido pelos incêndios.
+Alguns meses volvidos, é já possível verificar que a extensão, as características dos povoamentos e o estado de recuperação dos sobreiros atingidos pelos incêndios - e, como tal, o volume de cortiça afectado pelo fogo - são susceptíveis de pôr em causa um importante segmento da economia suberícola, nomeadamente no que diz respeito à normalidade da produção de cortiça amadia e à excelência com que os produtos de cortiça natural se apresentam no mercado mundial.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Alargar o âmbito de aplicação da intervenção prevista no n.º 4 do anexo à Resolução do Conselho de Ministros n.º 106-B/2003, de 11 de Agosto, à cortiça e aos sobreiros afectados pelos incêndios.
+Presidência do Conselho de Ministros, 17 de Janeiro de 2004. - O Primeiro-Ministro, José Manuel Durão Barroso.
