@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, conforme comunicação da Embaixada da Polónia em Londres, transmitida pelo Ministério dos Negócios Estrangeiros do Reino Unido, a Tunísia e a Bulgária depositaram em 15 de Novembro de 1963 e em 14 de Dezembro de 1963, respectivamente, junto do Governo da Polónia, os seus instrumentos de adesão ao Protocolo da Haia, assinado em 28 de Setembro de 1955, emendando a Convenção sobre a unificação de certas normas relativas ao transporte aéreo internacional, assinada em Varsóvia em 12 de Outubro de 1929.
+Na mesma comunicação informa-se que o Governo da Nigéria declarou numa nota, com data de 9 de Outubro de 1963, que se considera vinculado pelas disposições da Convenção de Varsóvia de 1929, cuja aplicação tinha sido extensiva ao seu território antes da independência.
+Direcção-Geral dos Negócios Económicos e Consulares, 19 de Dezembro de 1964. - O Director-Geral, José Calvet de Magalhães.
