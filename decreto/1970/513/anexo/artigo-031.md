@@ -4,7 +4,7 @@
 
 1. Os locais de rodas de desvio, quando não integrados na casa das máquinas, deverão obedecer ao disposto nos artigos 22.º, n.os 1 e 2, 23.º, 25.º, n.os 2 e 3, 26.º e 28.º
 
-2. Os locais de rodas de desvio serão dimensionados por forma a permitirem o acesso seguro e fácil a todos os órgãos, devendo o pé-direito, assim como a altura de acesso, quando exista, ser igual ou superior a 1,20 m.
+2. Os locais de rodas de desvio serão dimensionados por forma a permitirem o acesso seguro e fácil a todos os órgãos, devendo o pé-direito, assim como a altura da porta de acesso, quando exista, ser igual ou superior a 1,20 m.
 
 3. Deverá instalar-se nos locais de rodas de desvio um interruptor que permita imobilizar e manter imobilizado o elevador.
 

@@ -2,7 +2,7 @@
 
 ### Avisos na cabina ou junto às portas de patamar dos monta-cargas
 
-1. Na cabina ou junto a cada porta de patamar dos monta-cargas deverá afixar-se um aviso indicando a carga máxima, em quilogramas, que é permitida transportar e, com excepção dos monta-cargas de dimensões muito pequenas, o aviso seguinte:
+1. Na cabina ou junto a cada porta de patamar dos monta-cargas deverá afixar-se um aviso indicando a carga máxima, em quilogramas, que é permitido transportar e, com excepção dos monta-cargas de dimensões muito pequenas, o aviso seguinte:
 
 MONTA-CARGAS - PROIBIDO O ACESSO A PESSOAS
 

@@ -12,7 +12,7 @@ c) Admitir-se-á o desencravamento da porta, ou portas, do patamar de destino da
 
 d) Nos monta-cargas em que a soleira da porta de patamar se encontre a, pelo menos, 0,60 m acima do pavimento admitir-se-á a saída da cabina do patamar com a porta desse patamar não encravada, mas o encravamento deverá ter lugar antes de a soleira da cabina sair da zona de desencravamento correspondente.
 
-2. A zona de desencravamento terá a extensão máxima de 2 cm x 30 cm ou 2 cm x 17 cm, conforme as portas tiverem ou não, respectivamente, movimento automático.
+2. A zona de desencravamento terá a extensão máxima de 2 x 30 cm ou 2 x 17 cm, conforme as portas tiverem ou não, respectivamente, movimento automático.
 
 3. Os ferrolhos deverão ser instalados por forma que a gravidade não possa favorecer o desencravamento das portas.
 

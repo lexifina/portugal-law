@@ -4,7 +4,7 @@
 
 1. Os elevadores deverão possuir pára-choques que suportem sem deformação permanente o impacto da cabina e do contrapeso no fundo da caixa.
 
-2. Nos elevadores de tambor de enrolamento ou de cadeias de suspensão deverão ainda instalar-se pára-choques que suportem sem deformação permanente o impacto da cabina e do contrapeso ao tecto da caixa.
+2. Nos elevadores de tambor de enrolamento ou de cadeias de suspensão deverão ainda instalar-se pára-choques que suportem sem deformação permanente o impacto da cabina e do contrapeso no tecto da caixa.
 
 3. Os pára-choques dos ascensores deverão possuir amortecedores:
 

@@ -12,6 +12,6 @@
 
 5. Haverá um dispositivo que promova a paragem da cabina na descida, se o alçapão não fechou completamente, e actue por forma que a cobertura da cabina não fique a mais de 17 cm do nível do pavimento.
 
-6. Antes do início do movimento da abertura do alçapão e até este estar completamente fechado a cabina só poderá deslocar-se por pressão contínua num botão instalado no último patamar e com velocidade não superior a 0,25 m/s.
+6. Antes do início do movimento de abertura do alçapão e até este estar completamente fechado a cabina só poderá deslocar-se por pressão contínua num botão instalado no último patamar e com velocidade não superior a 0,25 m/s.
 
 7. Os comandos do último patamar deverão situar-se em local donde o alçapão seja perfeitamente visível.
