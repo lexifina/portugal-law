@@ -1,0 +1,119 @@
+# Acórdão do Tribunal Constitucional n.º 272/1988, de 1988-11-30
+
+**Acórdão:** 272/88
+
+**Processo:** 227/88
+
+**Formação:** 1ª Secção
+
+**Espécie:** Recurso
+
+**Data:** 30.11.1988
+
+**Relator:** Cons. Monteiro Diniz
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/acordaos/19880272.html
+
+## Texto integral
+
+ACÓRDÃO N.º 272/88
+
+Processo n.º 227/88
+
+1ª Secção
+
+Relator: Conselheiro Monteiro Diniz
+
+Acordam no Tribunal Constitucional:
+
+I. A questão.
+
+1 - O Ministério Público junto do Tribunal do Trabalho de Braga, fez apresentar em juízo o processo de contra-ordenação laboral organizado pela delegação de Braga da Inspecção-Geral do Trabalho contra a A., SA, com sede na …, …, da cidade do Porto, em virtude de esta entidade, nos termos dos artigos 59.º e sgts. do Decreto-Lei n.º 433/82, de 27 de Outubro, haver interposto recurso da coima que administrativamente lhe fora imposta.
+
+Ao apreciar o respectivo processo (a apresentação pelo Ministério Público ao juiz dos autos organizados pela autoridade administrativa vale como acusação, nos termos do artigo 62.º, n.º 2 daquele diploma legal) o juiz daquele tribunal do trabalho, por despacho de 15 de Abril de 1988, considerou organicamente inconstitucional a norma do artigo 57.º do Decreto-Lei n.º 491/85, de 26 de Novembro e, por se julgar incompetente em razão da matéria para conhecer da acusação, determinou a remessa dos autos ao tribunal judicial da comarca de Braga, a fim de aí seguirem os ulteriores termos legais.
+
+2 - Em obediência ao disposto nos artigos 280.º, n.ºs 1, alínea a) e n.º 2 da Constituição e 70.º, n.ºs 1, alínea a), 72.º, n.ºs 1, alínea a) e 3, da Lei n.º 28/82, de 15 de Novembro, interpôs o Ministério Público, daquele despacho, recurso de constitucionalidade em ordem à apreciação e julgamento daquela desaplicação normativa.
+
+Nas alegações produzidas pelo Exmo. Procurador-Geral da República Adjunto conclui-se no sentido de se dever "julgar inconstitucional a norma constante do artigo 57.º do Decreto-Lei n.º 491/85, de 26 de Novembro, por violação das alíneas d) e q) do n.º 1 do artigo 168.º da Constituição" confirmando-se, em consequência, na parte impugnada, a decisão recorrida.
+
+Não foi oferecida contralegação pelo recorrido.
+
+Passados os vistos legais cabe agora apreciar e decidir.
+
+II. A fundamentação.
+
+1 - Dispõe-se no artigo 57.º do Decreto-Lei n.º 491/85 – diploma que introduziu o ilícito de mera ordenação social no âmbito do direito laboral – que as decisões das autoridades referidas no artigo 46.º, n.º 2 (inspector-geral do Trabalho, inspectores-de1egados e inspectores-subde1egados), que apliquem uma coima são passíveis de impugnação judicial mediante recurso a interpor para o tribunal competente em matéria laboral com jurisdição na área onde foi cometida a infracção.
+
+Esta disciplina envolve modificação substantiva do regime geral que rege esta matéria e está consubstanciado no Decreto-Lei n.º 433/82, pois que, enquanto por força do disposto no artigo 61.º, n.º 1, deste diploma legal, o tribunal competente para conhecer o recurso é o tribunal da comarca em cuja área tem a sua sede a autoridade que aplicou a coima, o artigo 57.º do Decreto-Lei n.º 491/85, veio atribuir competência para conhe­cer da impugnação judicial, ao tribunal competente em matéria laboral com jurisdição na área onde foi cometida a infracção.
+
+2 - Após a publicação do Decreto-Lei n.º 411-A/79, de 1 de Outubro, o regime das contra-ordenações, introduzido pelo Decreto-Lei n.º 232/79, de 24 de Julho, ficou desprovido de qualquer eficácia própria.
+
+Todavia, as transformações entretanto operadas tanto no plano da realidade político-social e económica como no ordenamento no ordenamento jurídico português vieram tornar mais instante a necessidade de reafirmar a vigência do direito de ordenação social, havendo, em consequência, sido editado o Decreto-Lei n.º 433/82, como via de concretização de semelhante objectivo.
+
+Posteriormente, o Decreto-Lei n.º 491/85, ponderando que "o direito laboral é uma área da ordem jurídica na qual bem se compreende a pertinência do direito das contra-ordenações", veio, na esteira de uma doutrina já assumida, prosseguir a tarefa de integração no direito de mera ordenação social do ilícito contravencional.
+
+Analisando o conjunto de normas que o diploma consagra, verifica-se que, em vez da automática conversão das contravenções em contra-ordenações, procurou o legislador modelar as tipificações ex novo, conferindo-lhes uma maior clareza, isto não esquecendo que a regra da tipicidade vale com inteira eficácia e rigidez para o domínio das contra-ordenações.
+
+E a esta mutação substancialmente qualitativa das infracções associaram-se alterações a nível adjectivo e processual.
+
+A competência no que respeita ao processamento das contra-ordenações laborais foi deferida à Inspecção do Trabalho para aplicação das coimas ali previstas, com a faculdade de delegação em inspectores-delegados e inspectores-subdelegados (cfr. artigo 46.º, n.ºs 1 e 2).
+
+As decisões destas autoridades, quando apliquem coimas, são passíveis de impugnação judicial, mediante recurso a interpor para o tribunal competente em matéria laboral com jurisdição na área onde foi cometida a infracção (cfr. artigo 57.º).
+
+Traduz este normativo, como já se assinalou, um desvio à regra geral contida no artigo 61.º, n.º 1, do Decreto-Lei n.º 433/82, envolvendo um sentido material e um outro territorial: sentido material, porque o conhecimento da causa pertence ao tribunal competente em matéria laboral, e não ao tribunal comum; sentido territorial, porque a determinação do tribunal territorialmente competente depende do local onde foi cometida a infracção, e não já do lugar da sede da autoridade que aplicou a coima objecto de impugnação.
+
+Neste quadro legal se inscreve a decisão recorrida, que, na situação concreta observada no processo, houve a norma do artigo 57.º do Decreto-Lei n.º 491/85 por organicamente inconstitucional, enquanto, à revelia da indispensável credencial parlamentar, veio reger sobre matéria reservada à competência da Assembleia da República.
+
+Aqui chegados, cumpre averiguar do fundado de semelhante entendimento.
+
+3 - O texto vigente da Constituição dispõe no artigo 168.º, n.º 1, al. q) – talqualmente acontecia na versão originária, no artigo 167.º, al. j), ser da exclusiva competência da Assembleia da República legislar, salvo autorização ao Governo, sobre "organização e competência dos tribunais".
+
+A jurisprudência constitucional, por diversas vezes já, teve ensejo de definir o exacto alcance desta locução normativa (cfr. os pareceres da Comissão Constitucional n.º 2/77, 6/77, 16/77 e 4/81, in Pareceres da Comissão Constitucional, respectivamente, vol. 1.º, pp. 57 e 101 e ss., vol. 2.º, pp. 101 e ss., e vol. 4.º, pp. 205 e ss., e os Acórdãos do Tribunal Constitucional n.ºs 230/86 e 36/87, ambos proferidos em processos de fiscalização sucessiva e publicados no Diário da República, I série, de 12 de Setembro de 1986, e 4 de Março de 1987, e os Acórdãos n.ºs 289/86 e 32/87, tirados em processos de fiscalização concreta e publicados no Diário da República, II série, de 7 de Janeiro de 1987, e 7 de Abril de 1987), outrotanto sucedendo no campo doutrinal (cfr. Gomes Canotilho e Vital Moreira, Constituição da República Portuguesa Anotada, 2ª edição, 2.º vol., 1985, pp. 197 e ss.).
+
+E, se no citado parecer n.º 4/81 foi sustentado que "a interpretação mais aceitável da al. j) do artigo 167.º poderá levar à conclusão de que está reservada à Assembleia da República apenas a fixação dos princípios básicos de competên­cia dos tribunais, os grande quadros de competência que integram a organização judiciária", defendem, em sentido contrário, aque­les autores que o alcance da reserva de competência legislativa da Assembleia da República no seu nível mais exigente onde se inclui a al. q) impõe que toda a regulamentação legislativa da matéria seja atribuída ao Parlamento, acrescendo que, por força da preeminência legislativa da Assembleia da República, cujo fundamento é o próprio princípio democrático-representativo, em caso de dúvida, deve definir-se a interpretação mais favorável ao alargamento da sua competência reservada (cfr. ob. cit., loc. cit.).
+
+Tem-se por mais rigoroso este entendimento, cuja doutrina agora se perfilha.
+
+4 - A Lei n.º 82/77, de 6 de Dezembro (Lei Orgânica dos Tribunais Judiciais), conferia aos tribunais do trabalho, tribunais de competência especializada, a competência contravencional enunciada no seu artigo 67.º, não lhes atribuindo, porém, qualquer competência em matéria de contra-ordenações, desde logo pela evidente razão de o regime destas infracções só haver sido introduzido no nosso ordenamento jurídico no ano de 1979, mais concretamente após a entrada em vigor do Decreto-Lei n.º 232/79.
+
+Todavia, a Lei n.º 38/87, de 23 de Dezembro, que veio substituir a anterior Lei Orgânica dos Tribunais Judiciais, e foi regulamentada pelo Decreto-Lei n.º 214/88, de 17 de Junho, dispõe já, no seu artigo 66.º, competir "aos tribunais do tra­balho julgar os recursos das decisões das autoridades administra­tivas em processos de contra-ordenação nos domínios laboral e da Segurança Social", não importando, porém, a sua disciplina para a solução da questão em apreço, já que apenas há-de ser decidida na moldura do Decreto-Lei n.º 491 /85.
+
+A competência atribuída por este último diploma aos tribunais do trabalho no domínio contra-ordenacional filiou-se, assim, na necessidade de preencher uma lacuna normativa especificamente situada na área do direito laboral.
+
+Na verdade, para além de se transmudar um vasto conjunto de transgressões laborais em contra-ordenações, com modelações diversas, mas de ordem essencialmente clarificadas na área das tipificações, introduziram-se alterações no domínio da "competência dos tribunais".
+
+E estas alterações da competência traduzem-se em dois planos, com dimensões bem diversificadas.
+
+Assim:
+
+De um lado, a desgraduação de contravenções em contra-ordenações implicou que os tribunais deixem de intervir em primeira instância (assim sucede no julgamento das contravenções), para passarem apenas a conhecer em segunda instância, ao julgar os "recursos" das decisões administrativas que apliquem as coimas;
+
+De outro lado, retirou-se aos tribunais de comarca a competência que, por força do ordenamento preexistente, lhes pertencia neste domínio, transferindo-se depois para os tribunais do trabalho (competência material), do mesmo passo que se modificou a regra definidora da competência territorial.
+
+Poderá afirmar-se que toda, ou ao menos parte, desta cirurgia legislativa colide com o texto constitucional, nomeadamente com o preceito invocado na decisão recorrida?
+
+Tem-se por pacífico ser da competência concorrente da Assembleia da República e do Governo, e admitindo hipoteticamente a subsistência constitucional da figura da contravenção após a revisão de 1982, a definição, dentro dos limites do regime geral, de contravenções não puníveis com pena restritiva de liberdade e contra-ordenações, a alteração e eliminação de uma e de outras e a modificação da sua punição, e também a desgraduação de contravenções não puníveis com pena restritiva de liberdade em contra-ordenações, desde que respeitado o quadro geral traçado no Decreto-Lei n.º 433/82 (cfr. neste sentido, o Acórdão n.º 56/84, in Diário da República, I série, de 9 de Agosto de 1984).
+
+Todavia, a desgraduação de contravenções em contra-ordenações foi acompanhada, no caso em presença, de modificação das regras de competência judiciárias preexistentes, pois que se transferiu para os tribunais do trabalho a apreciação e conhecimento de uma matéria antes incluída na esfera de competência dos tribunais de comarca.
+
+E esta transferência, além de colidir com regra de competência dos tribunais, envolveu, outrossim, modificação ao "regime geral dos actos ilícitos de mera ordenação social e do respectivo processo", matéria ainda incluída no âmbito da reserva parlamentar, por força do disposto na al. d) do n.º 1 do artigo 168.º da Constituição.
+
+Na verdade, há-de considerar-se que a disciplina contida no Decreto-Lei n.º 433/82, a propósito do recurso e processo judiciais (cap. IV, artigos 59.º a 75.º) representa o regime geral do processo dos actos ilícitos de mera ordenação social, pois que contém os princípios básicos ordenadores da respectiva matéria.
+
+Ora, ao transmudar a competência dos tribunais de comarca para os tribunais do trabalho, o Decreto-Lei n.º 491/85 operou simultaneamente uma alteração na esfera da competência dos tribunais e no quadro do regime processual das contra-ordenações, pelo que a impugnação da autoridade administrativa que aplicou uma coima é apreciada por um diverso tribunal (de competência especializada, e não de competência comarca e, eventualmente, de circunscrição territorial diferente).
+
+E, à luz das considerações anteriores, entende-se que o Governo, despojado de credencial parlamentar, não dispunha de legitimidade constitucional para introduzir esta inovação na ordem jurídica vigente.
+
+III. A decisão.
+
+Nestes termos, decide-se julgar inconstitucional, por violação do disposto nas alíneas d) e q) do artigo 168.º da Constituição, a norma do artigo 57.º do Decreto-Lei n.º 491/85, de 26 de Novembro, confirmando-se consequentemente, a decisão recorrida.
+
+Lisboa, 30 de Novembro de 1988.
+
+Antero Alves Monteiro Diniz
+
+Raul Mateus (não subscrevo, no entanto, a afirmação de que, em caso de dúvida, se deverá optar sempre pela interpretação do artigo 168.º da Constituição da República Portuguesa que mais alargue a área da competência legislativa reservada da Assembleia da República).
+
+Vital Moreira
+
+Armando Manuel Marques Guedes
