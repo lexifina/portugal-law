@@ -1,0 +1,7 @@
+Portaria n.º 496/99
+de 13 de Julho
+Considerando que os lugares da categoria de clínico geral previstos no quadro de pessoal da Administração Regional de Saúde do Centro, aprovado pela Portaria n.º 772-B/96, de 31 de Dezembro, serão extintos à medida que vagarem, em conformidade com o disposto no Decreto-Lei n.º 73/90, de 6 de Março;
+Considerando que a clínica geral Maria de Lourdes Oliveira, que se encontra na situação de licença sem vencimento de longa duração desde 1 de Janeiro de 1992, requereu o seu regresso ao serviço e que o direito de reingresso prevalece sobre as normas que determinam a extinção de lugares à medida que vagarem:
+Ao abrigo do disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro:
+Manda o Governo, pelos Ministros das Finanças, Adjunto e da Saúde, que no quadro de pessoal da Administração Regional de Saúde do Centro, Sub-Região de Saúde de Castelo Branco, Centro de Saúde de Oleiros, aprovado pela Portaria n.º 772-B/96, de 31 de Dezembro, seja criado, na carreira médica de clínica geral, um lugar de clínico geral, a extinguir quando vagar.
+Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento, em 17 de Junho de 1999. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa, em 7 de Agosto de 1998. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina, em 24 de Junho de 1998.
