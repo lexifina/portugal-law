@@ -1,0 +1,7 @@
+Despacho
+Para execução do disposto nos artigos 2.º, 3.º, 5.º e 6.º do Decreto-Lei n.º 885/76, de 29 de Dezembro, determina-se o seguinte:
+1 - Para efeitos da cobertura dos encargos resultantes da diferença entre os custos de importação do arroz, em reserva, adquirido pelo Instituto dos Cereais, bem como do a adquirir pelo mesmo organismo na campanha de 1976-1977, acrescidos de 300$00 por tonelada, e os respectivos preços de venda, deverá o Fundo de Abastecimento inscrever uma verba de 450000 contos no seu orçamento para o ano de 1977.
+2 - Em relação às despesas com a remessa do arroz para as regiões autónomas da Madeira e dos Açores, deverá igualmente o Fundo de Abastecimento inscrever uma verba de 10000 contos no seu orçamento para o ano de 1977.
+3 - Para os efeitos da cobertura dos encargos resultantes da execução do disposto no artigo 2.º do Decreto-Lei n.º 885/76, de 29 de Dezembro, deverá o Fundo de Abastecimento inscrever no seu orçamento para o ano de 1977 a verba de 130000 contos.
+4 - Este despacho entra em vigor na data da sua publicação.
+Ministérios das Finanças, da Agricultura e Pescas e do Comércio e Turismo, 28 de Dezembro de 1976. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Carlos Alberto Antunes Filipe. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
