@@ -1,0 +1,11 @@
+Decreto-Lei n.º 319/74
+de 9 de Julho
+A actual redacção do artigo 341.º, n.º 1, do Estatuto Judiciário, na sua forma actual, exigindo para o provimento dos lugares de ajudante de escrivão «classificação superior à de Bom» é a causa de numerosas interinidades que constituem grande perturbação dos serviços das secretarias judiciais e insegurança dos concorrentes.
+Nestes termos:
+Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. A redacção do artigo 341.º, n.º 1, do Estatuto Judiciário passa a ser a seguinte:
+1. Os lugares de ajudante de escrivão são providos em escriturários-dactilógrafos de 1.ª classe com, pelo menos, dois anos de serviço na classe e classificação não inferior à de Bom.
+Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Francisco Salgado Zenha.
+Promulgado em 3 de Julho de 1974.
+Publique-se.
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
