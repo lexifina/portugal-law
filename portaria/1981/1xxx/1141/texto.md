@@ -1,0 +1,10 @@
+Portaria n.º 1141/81
+de 31 de Dezembro
+Extinta pelo Decreto n.º 162/79, de 29 de Dezembro, a Empresa Pública do Jornal O Século, agora em liquidação, vem transportando a responsabilidade do pagamento das indemnizações aos trabalhadores cujos contratos de trabalho caducaram nos termos do n.º 1 do artigo 2.º daquele diploma.
+Na vigência do VI e VII Governos Constitucionais, foi por aqueles assumido o compromisso público de, aos trabalhadores da EPJS, serem pagas as indemnizações devidas pelo despedimento colectivo, pagamentos esses a serem directamente assumidos pelo Estado, solução que a letra e o espírito do referido texto legal não comportam.
+Foi assim que o VIII Governo Constitucional, pela Resolução n.º 249/81, publicada na 1.ª série do Diário da República, de 9 de Dezembro, nos seus n.os 1 a 3, resolveu que o Estado assuma directamente o pagamento das indemnizações devidas aos trabalhadores da EPJS, por encerramento da empresa, sendo os montantes calculados de acordo com o disposto no artigo 20.º do Decreto-Lei n.º 372-A/75, de 16 de Julho, cabendo o processamento e a efectiva liquidação das quantias à Comissão Liquidatária da EPJS e substituindo-se o Estado aos trabalhadores nas suas posições credoras para com a empresa com a graduação que, por lei, àqueles competia.
+Nestes termos:
+Manda o Governo da República Portuguesa, através dos Secretários de Estado Adjunto do Primeiro-Ministro e do Orçamento, o seguinte:
+1 - A efectiva liquidação das quantias a que se referem os n.os 1 e 2 da Resolução n.º 249/81, de 9 de Dezembro, fica a competir à Comissão Liquidatária da EPJS, através de rateio proporcional a processar em prestações iguais e sucessivas, durante os meses de Dezembro de 1981 e Junho e Dezembro de 1982, 1983 e 1984.
+2 - Este diploma entra imediatamente em vigor.
+Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 21 de Dezembro de 1981. - O Secretário de Estado Adjunto do Primeiro-Ministro, José Carlos Alfaia Pinto Pereira. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias.
