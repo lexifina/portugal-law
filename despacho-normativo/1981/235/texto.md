@@ -1,0 +1,9 @@
+Despacho Normativo n.º 235/81
+Tendo em conta os trabalhos desenvolvidos pelo grupo de trabalho criado pelo Despacho n.º 8/81 do Ministro das Finanças e do Plano, dando cumprimento ao disposto na Resolução n.º 89/81, de 23 de Abril, do Conselho de Ministros, os Ministros das Finanças e do Plano e do Comércio e Turismo determinam:
+1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1981 os projectos da Gel-Mar - Empresa Distribuidora de Produtos Alimentares a seguir discriminados:
+(ver documento original)
+2 - No presente ano, para além das operações financeiras necessárias à actividade corrente, fica vedado à Empresa e às instituições de crédito lançar e financiar qualquer novo projecto de investimento não contemplado no n.º 1.
+3 - É atribuída uma dotação para capital social no montante de 27,3 milhões de escudos, a realizar por conta da dotação de 18000 milhões de escudos inscrita no Orçamento Geral do Estado para 1981, que se destina ao saneamento da estrutura financeira da Empresa e que será complementada oportunamente por acções de consolidação do passivo e de reavaliação do activo, conforme projecto de ASEF.
+4 - As despesas de investimento referidas no n.º 1 serão financiadas por uma dotação para capital da Empresa no montante de 72,7 milhões de escudos, a realizar por conta da dotação de 18000 milhões de escudos inscrita no Orçamento Geral do Estado para 1981.
+5 - Para completar o financiamento das despesas de investimento referidas no n.º 1 fica a Empresa autorizada a recorrer ao mercado interno para a obtenção do capital alheio a médio ou longo prazo necessário à concretização dos projectos incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1981.
+Ministérios das Finanças e do Plano e do Comércio e Turismo, 27 de Agosto de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro do Comércio e Turismo, Alexandre de Azeredo Vaz Pinto.
