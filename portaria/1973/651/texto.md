@@ -1,0 +1,15 @@
+Portaria n.º 651/73
+de 28 de Setembro
+Considerando que em algumas lotas se procura racionalizar os métodos administrativos da venda de peixe na passagem dos respectivos documentos de compra e venda, utilizando processos mecanográficos; e mostrando-se necessária a actualização das multas por infracção previstas e punidas na Portaria n.º 18113, de 10 de Dezembro de 1960, dentro da orientação que se tem vindo a processar nos últimos tempos, com vista ao reajustamento eficaz das penas de multa, designadamente a que presidiu à publicação do Decreto-Lei n.º 340/73, de 6 de Julho:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, o seguinte:
+1.º Ao n.º 13.º da Portaria n.º 18113, de 10 de Dezembro de 1960, são acrescentados os seguintes §§ 3.º, 4.º e 5.º:
+13.º ...
+§ 1.º ...
+§ 2.º ...
+§ 3.º Em todas as lotas que venham a adoptar novos processos mecanográficos na passagem dos documentos de compra e venda de peixe o nome das respectivas espécies bem como o do comprador poderão ser substituídos por números correspondentes a um código previamente estabelecido e aprovado pela Inspecção-Geral das Actividades Económicas.
+§ 4.º Consideram-se inexistentes os documentos de compra e venda que não contenham todos os elementos referidos neste n.º 13.º
+§ 5.º A não apresentação do aludido documento pelo comprador (grossista ou retalhista), designadamente por lhe não ter sido passado pelo vendedor (lota ou grossista) ou por se ter extraviado, não constitui para aquele circunstância dirimente da sua responsabilidade criminal.
+2.º A alínea c) do n.º 19.º da portaria mencionada no número anterior passa a ter a seguinte redacção:
+c) A falta de passagem bem como a não apresentação pelos comerciantes (grossistas ou retalhistas) do documento de compra e venda em conformidade com o disposto no n.º 13.º
+3.º Os limites mínimos e máximos das penas de multa estabelecidos pelos n.os 18.º e 19.º da Portaria n.º 18113 são elevados, respectivamente, para 1000$00 e 10000$00.
+Secretaria de Estado do Comércio, 10 de Setembro de 1973. - O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto.
