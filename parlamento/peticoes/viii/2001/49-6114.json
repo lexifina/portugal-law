@@ -1,0 +1,215 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=WEUMi7%2fBtIIg%2fkHBDyZ%2fsil3BmWuButejMvPGkqNVyUfIJXddc1IDB3t8GXfBL3zSPQF%2bIyDi3AcWLUm0oL6crfUIOoirULFjyvRAul6J%2by6a6FDtpJuVrK3Y3rP8bCLGdxev%2bdUqQgc%2bXEDQI%2f8OLEsCv3IziG5WQHDSzFAl7qQApdhGho5obQdwDn6iwyWAFYt%2fzWn72d9GQ0G7zTxyKwsQjpKzhAqqYI6%2fCsSwtcK7MkwpbhLc%2bPOBViftzfwo0QY4%2b1hHCAUUDtd7wn2zRmIMG1aKMpZb8PUmWVGX9mCVPzhBcSom0%2boac5wXwR%2fcfo1uKTMHtBvk9eTSDfjfyy5P2leMqegA1xVPD5%2bIs%2bMWrsB8j6dH%2fUqNW7MrBr8&fich=PeticoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c7a8b036f2bb9420007f23598577186345f4c787fefe68382e6a1aac6e3b6ea3",
+  "legislatura": "VIII",
+  "id": "6114",
+  "numero": "49",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2001-01-30",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2004-05-28",
+            "dataResposta": "2004-07-05",
+            "entidades": [
+              "Secretaria de Estado da Administração Publica"
+            ],
+            "nrOficio": "4982/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2004-07-29",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2004-09-23",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2004-09-22",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "109",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE TRABALHO E DOS ASSUNTOS SOCIAIS",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2002-05-22",
+            "gp": "PS",
+            "id": "1359",
+            "motivoCessacao": null,
+            "nome": "Maria do Carmo Romão"
+          }
+        ],
+        "RelatorioFinal": [
+          "21579"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2001-12-21",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério Justiça"
+            ],
+            "nrOficio": "2009/COM",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2002-06-21",
+                "dataResposta": null,
+                "nrOficio": "505/COM",
+                "oficioResposta": null
+              },
+              {
+                "dataOficio": "2004-05-28",
+                "dataResposta": null,
+                "nrOficio": "4982/COM",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2001-12-21",
+            "dataResposta": null,
+            "entidades": [
+              "Ordem dos Advogados"
+            ],
+            "nrOficio": "2009/COM",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2002-06-21",
+                "dataResposta": null,
+                "nrOficio": "502/COM",
+                "oficioResposta": null
+              },
+              {
+                "dataOficio": "2004-05-28",
+                "dataResposta": null,
+                "nrOficio": "4982/COM",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2001-12-21",
+            "dataResposta": "2002-02-01",
+            "entidades": [
+              "Secretaria de Estado da Administração Publica"
+            ],
+            "nrOficio": "2009/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2001-12-20",
+        "DataArquivo": "2004-09-23",
+        "DataBaixaComissao": "2001-01-30",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2001-12-20",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2001-01-30",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c304e505453383556464e545579394562324e31625756756447397a5547563061574e686279396a4e6a497a4e6a59314d4330354e44526d4c5451774e4451744f4455344e69316d4f5452684f474a684e7a4577597a51756347526d&fich=c6236650-944f-4044-8586-f94a8ba710c4.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "27",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2001-01-30",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396d4e546c6d4d54526a4e4330345a54686c4c5451314d5445744f4451355a69307a5a4755355a574a6b5a4455314e546b756347526d&fich=f59f14c4-8e8e-4511-849f-3de9ebdd5559.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "6114",
+    "PetAssunto": "Solicita que a Assembleia da República revogue o artº.3º e a alínea e) do artº.69º do Decreto-Lei nº 84/84, de 16 de Março (Estatuto da Ordem dos Advogados), que altere o Estatuto dos Funcionários de Justiça (Decreto-Lei nº.343/99 de 26 de Agosto) e que interceda junto dos órgãos da Administração Central competente no sentido de serem alterados os mecanismos inerentes à requisição e comissão de serviço, dando maior transparência a essas formas de mobilidade de pessoal.",
+    "PetDataEntrada": "2001-01-30",
+    "PeticoesAssociadas": null,
+    "PetId": "6114",
+    "PetLeg": "VIII",
+    "PetNr": "49",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
