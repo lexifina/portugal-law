@@ -1,0 +1,71 @@
+# Acórdão do Supremo Tribunal Administrativo de 1975-01-31, processo 002197
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 002197
+
+**Data do Acordão:** 01/31/1975
+
+**Tribunal:** PLENO
+
+**Relator:** RUI PESTANA
+
+**Descritores:** OLEOS COMESTIVEIS; INSTITUTO DO AZEITE E PRODUTOS OLEAGINOSOS; JUNTA NACIONAL DO AZEITE; ORGANISMO DE COORDENAÇÃO ECONOMICA; IMPOSTO; TAXA; LEI FISCAL; ELEMENTOS ESSENCIAIS DO IMPOSTO; REGULAMENTO INDEPENDENTE; INCONSTITUCIONALIDADE MATERIAL; PRINCIPIO DA LEGALIDADE; RECEITA PARAFISCAL
+
+**Nº Convencional:** JSTA00001404
+
+**Nº do Documento:** SAP19750131002197
+
+**Data de Entrada:** 01/17/1974
+
+**Recorrente:** MINISTERIO PUBLICO
+
+**Recorrido 1:** COMP UNIÃO FABRIL SARL
+
+**Votação:** MAIORIA COM 1 DEC VOT E 3 VOT VENC
+
+**Ano da Publicação:** 0
+
+**Página:** 0
+
+**Apêndice:** DG
+
+**Data do Apêndice:** 10/15/1976
+
+**1ª Pág. de Publicação do Acordão:** 4
+
+**Referência Publicação 1:** AD N167 ANOXIV PAG1478
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC 1 SECÇÃO PROC8748.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR FISC - IMPOSTOS / RECEITA PARAFISCAL / TAXA.
+
+**Área Temática 2:** DIR CONST - DIR FUND / SISTEM FINANC FISC.
+
+**Recusa Aplicação:** PORT 21883 DE 1966/02/21.
+
+**Legislação Nacional:** CONST33 ART8 N16 ART27 ART63 ART69 ART70 PAR1 ART107 ART109 N2 PAR1 PAR3 ART93 PAR1 ART123 PAR2.; DL 30021 DE 1939/11/03 ART15.; LOSTA56 ART15 N1.; DL 45835 DE 1964/07/27 ART2.; DL 426/72 DE 1972/10/31 ART29 N1 A C ART40 N1.; DL 283/72.; DL 26757 DE 1936/07/08 ART1.
+
+**Jurisprudência Nacional:** AC STA DE 1968/10/18 IN AD N87 PAG339.; AC STA PROC8683 DE 1973/11/15.; AC STA PROC8863 DE 1973/11/15.; AC STA PROC9044 DE 1974/03/14.; AC STAP PROC2130 DE 1974/06/21.; AC STA PROC9101 DE 1974/03/14.; AC STA PROC9075 DE 1974/03/28.; AC STAP PROC2112 DE 1974/02/19.; AC STAP PROC2119 DE 1974/03/15.; AC STAP PROC2120 DE 1974/03/15.; AC STAP PROC2128 DE 1974/03/15.; AC STAP PROC2142 DE 1974/03/15.
+
+**Referência a Pareceres:** P PGR 25/57 DE 1957/05/09 IN BMJ N70 PAG261.; P CCORP IN PARECERES ANO1951 VII PAG362-363.; P CC IN DIARIO DAS SESSÕES ANO1971 PAG1970.; P CCORP IN PARECERES ANO1949-1950 PAG95.
+
+**Referência a Doutrina:** CARDOSO DA COSTA CURSO DE DIREITO FISCAL 2ED PAG4-12 PAG46-47 PAG165 PAG178-180 PAG186-187.; TEIXEIRA RIBEIRO FINANÇAS LIÇÕES PROFERIDAS NO ANO DE 1970-1971 PAG21PAG99 PAG383-390.; TEIXEIRA RIBEIRO PRINCIPIOS CONSTITUCIONAIS DA FISCALIDADE PORTUGUESA PAG8-9 PAG11.; ALBERTO XAVIER MANUAL DE DIREITO FISCAL VI 1974ED PAG73-75 PAG64-66 PAG109 PAG136 CONCEITO E NATUREZA DO ACTO TRIBUTARIO PAG281-307.; ARMINDO MONTEIRO INTRODUÇÃO AO ESTUDO DO DIREITO FISCAL IN RJ ANOVI PAG95.; ALEXANDRE AMARAL DIREITO FISCAL 1959 PAG63-69 PAG144-145.; Texto Integral
+
+## Sumário
+
+I - Constitui imposto, e não taxa, a receita criada para a
+
+Junta Nacional do Azeite pela Portaria n. 21883, de 21 de Fevereiro de 1966, sobre o lançamento, no mercado, de oleos comestiveis.
+
+II - O principio da legalidade do imposto, estabelecido no artigo 70 e paragrafo 1 da Constituição, abrange os impostos para os organismos de coordenação economica.
+
+III - Esta ferida de inconstitucionalidade, por criar um imposto com violação daquele principio, a referida Portaria n. 21883.
+
+IV - Tal inconstitucionalidade converte-se em material, por envolver ofensa do n. 16 do artigo 8 da Constituição.
