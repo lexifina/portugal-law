@@ -1,0 +1,19 @@
+Despacho Normativo n.º 3/86
+O artigo 20.º do Decreto-Lei n.º 248/85, de 15 de Julho, estruturou em dois níveis as carreiras do grupo de pessoal técnico-profissional em estreita ligação com os níveis de formação existentes no ensino técnico profissional implementado desde 1983, considerando na alínea c) do n.º 1 os cursos técnico-profissionais e na alínea b) do n.º 2 os cursos profissionais, criados nos termos do Despacho Normativo n.º 194-A/83, de 19 de Outubro, e sequentes.
+O n.º 3 do referido artigo determina que, além das habilitações referidas na alínea c) do n.º 1 e na alínea b) do n.º 2, o reconhecimento de outras habilitações como adequadas ao provimento em lugares das carreiras técnico-profissionais será feito mediante despacho do Ministro da Educação e do membro do Governo que tiver a seu cargo a Administração Pública.
+Nestes termos:
+1 - Para além dos cursos técnico-profissionais criados no âmbito do ensino técnico profissional a partir de 1983, nos termos do Despacho Normativo n.º 194-A/83, de 19 de Outubro, e sequentes, reconhecem-se como adequadas ao provimento em lugares de carreiras técnico-profissionais, nível 4, nos termos do n.º 3 do artigo 20.º do Decreto-Lei n.º 248/85, de 15 de Julho, as seguintes habilitações:
+1.1 - Os cursos da via profissionalizante do 12.º ano de escolaridade criados ao abrigo das disposições do Decreto-Lei n.º 240/80, de 19 de Julho.
+1.2 - O curso de educador social criado pela Portaria n.º 1017/81, de 25 de Novembro.
+1.3 - O curso técnico de agricultura (ramos de agro-pecuária, silvicultura e indústrias alimentares) a que se refere a Portaria n.º 1056/82, de 13 de Novembro.
+2 - Reconhecem-se ainda como habilitações adequadas ao provimento em lugares das carreiras técnico-profissionais, nível 4, por um período transitório de 2 anos de duração contados a partir da data da publicação deste despacho, as seguintes:
+2.1 - Os cursos de formação técnico-profissional complementar expressamente referenciados no mapa anexo ao Decreto-Lei n.º 377/79, de 13 de Setembro.
+2.2 - As habilitações anteriormente reconhecidas, mediante despacho conjunto do Ministro da Educação e do Secretário de Estado da Administração Pública, nos termos do Despacho Normativo n.º 1/80, de 17 de Dezembro, como cursos de formação técnico-profissional complementar.
+2.3 - Os cursos complementares do ensino secundário técnico criados ao abrigo do Decreto-Lei n.º 47587, de 10 de Março de 1967.
+2.4 - As habilitações previstas nas leis orgânicas dos serviços para ingresso nas carreiras de pessoal técnico-profissional complementar nos termos do n.º 4 do artigo 10.º do Decreto-Lei n.º 191-C/79, de 25 de Junho.
+3 - Para além dos cursos profissionais criados no âmbito do ensino técnico profissional a partir de 1983, nos termos do Despacho Normativo n.º 194-A/83, de 19 de Outubro, e sequentes, reconhecem-se como adequadas ao provimento em lugares das carreiras técnico-profissionais, nível 3, nos termos do n.º 3 do artigo 20.º do Decreto-Lei n.º 248/85, de 15 de Julho, as seguintes habilitações:
+3.1 - Os cursos complementares do ensino secundário técnico criados ao abrigo do Decreto-Lei n.º 47587, de 10 de Março de 1967.
+3.2 - O curso técnico de agricultura criado pelo Despacho Normativo n.º 317/80, de 2 de Setembro.
+3.3 - As saídas profissionais intermédias dos cursos técnico-profissionais previstas no n.º 3 do Despacho Normativo n.º 194-A/83, de 19 de Outubro.
+4 - Poderão ainda ser reconhecidas como habilitações adequadas ao provimento nas carreiras técnico-profissionais, níveis 3 e 4, outros cursos mediante parecer favorável emitido conjuntamente pela Direcção-Geral do Ensino Secundário e pela Direcção-Geral da Administração e da Função Pública.
+Ministério da Educação, 5 de Novembro de 1985. - O Ministro da Educação, João de Deus Rogado Salvador Pinheiro. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
