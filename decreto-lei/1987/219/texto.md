@@ -1,0 +1,16 @@
+Decreto-Lei n.º 219/87
+de 29 de Maio
+A Reserva Natural da Berlenga, criada pelo Decreto-Lei n.º 264/81, de 3 de Setembro, abrange uma área de reserva marinha definida pelas águas que envolvem a ilha até à batimétrica dos 30 m, área oceânica de grande interesse para a prática do mergulho científico ou recreativo, onde, nos termos do citado diploma, se protege a fauna e flora subaquáticos.
+Verificando-se a necessidade de estabelecer os mecanismos legais que possibilitem a efectiva preservação da fauna aquática:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. Ao Decreto-Lei n.º 264/81, de 3 de Setembro, é aditado um artigo 6.º-A, com a seguinte redacção:
+Artigo 6.º-A - 1 - Na área da reserva marinha é proibido:
+a) Fazer caça submarina;
+b) Transportar ou deter armas ou outros meios destinados à prática da caça submarina.
+2 - A violação do disposto no número anterior constitui contra-ordenação punível com coima de 5000$00 a 50000$00.
+Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Eurico Silva Teixeira de Melo - José António da Silveira Godinho - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo.
+Promulgado em 15 de Maio de 1987.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 18 de Maio de 1987.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
