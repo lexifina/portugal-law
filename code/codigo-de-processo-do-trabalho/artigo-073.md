@@ -1,3 +1,7 @@
+## Secção VI
+
+## Sentença
+
 # Artigo 73.º
 
 ### Sentença

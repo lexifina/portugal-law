@@ -1,3 +1,7 @@
+## Secção V
+
+## Discussão e julgamento da causa
+
 # Artigo 68.º
 
 ### Instrução, discussão e julgamento da causa

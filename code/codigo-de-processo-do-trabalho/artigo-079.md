@@ -1,3 +1,7 @@
+## Secção VII
+
+## Recursos
+
 # Artigo 79.º
 
 ### Decisões que admitem recurso

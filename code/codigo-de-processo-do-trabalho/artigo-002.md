@@ -1,7 +1,3 @@
-## Anexo
-
-## CÓDIGO DE PROCESSO DO TRABALHO Disposições fundamentais
-
 ## Livro I
 
 ## Do processo civil
