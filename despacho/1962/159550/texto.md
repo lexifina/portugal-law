@@ -1,0 +1,6 @@
+Despacho
+Por despacho ministerial de 22 de Junho de 1945, publicado no Diário do Governo, 1.ª série, de 3 de Julho do mesmo ano, foram fixadas as taxas a cobrar pela Junta Nacional dos Produtos Pecuários, entre as quais uma de $14 sobre cada quilograma de carne de gado abatido para consumo.
+Reconhecendo-se a conveniência de isentar do pagamento dessa taxa os estabelecimentos e outros serviços de assistência oficial e instituições de assistência particular, nomeadamente as Santas Casas da Misericórdia, atendendo à finalidade altruísta que se propõem, determino o seguinte:
+Ficam isentos do pagamento da taxa de $14 a que se refere o despacho ministerial de 22 de Junho de 1945 os estabelecimentos e outros serviços de assistência oficial do Ministério da Saúde e Assistência, nomeadamente as Santas Casas da Misericórdia, e instituições de assistência particular que abatam gado para consumo próprio.
+Esta isenção será concedida de acordo com a informação prestada pela Direcção-Geral da Assistência sobre requerimento feito pela entidade interessada e dirigido à Junta Nacional dos Produtos Pecuários.
+Secretaria de Estado do Comércio, 3 de Setembro de 1962. - O Secretário de Estado do Comércio, Samuel Rodrigues Sanches.
