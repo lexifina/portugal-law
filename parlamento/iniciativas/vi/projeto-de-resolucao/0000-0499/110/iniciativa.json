@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "tipo": "Projeto de Resolução",
+  "numero": "110",
+  "id": "3523",
+  "fases": 5,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1994-04-22",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1994-10-14",
+    "DataInicioleg": "1993-10-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PCP",
+        "idCadastro": "216",
+        "nome": "Luís Sá"
+      },
+      {
+        "GP": "Indep",
+        "idCadastro": "568",
+        "nome": "Raúl Castro"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "213",
+        "nome": "José Manuel Maia"
+      },
+      {
+        "GP": "PEV",
+        "idCadastro": "230",
+        "nome": "André Martins"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PCP"
+      },
+      {
+        "GP": "PEV"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": [
+      {
+        "assunto": "Decreto-Lei nº 379/93, de 5 de Novembro, que permite o acesso de capitais privados às actividades económicas de captação, tratamento e rejeição de efluentes e recolha e tratamento de resíduos sólidos.",
+        "dcl": null,
+        "descTipo": "Ratificação",
+        "id": "3674",
+        "legislatura": "VI",
+        "numero": "106",
+        "sessao": "3",
+        "tipo": "F"
+      },
+      {
+        "assunto": "Decreto-lei nº 379/93, de 5 de Novembro, que - permite o acesso de capitais privados as actividades económicas de captação, tratamento e rejeição de efluentes e recolha e tratamento de resíduos sólidos.",
+        "dcl": null,
+        "descTipo": "Ratificação",
+        "id": "3675",
+        "legislatura": "VI",
+        "numero": "105",
+        "sessao": "3",
+        "tipo": "F"
+      }
+    ],
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "3523",
+    "IniLeg": "VI",
+    "IniLinkTexto": "",
+    "IniNr": "110",
+    "IniObs": "(Vide ratificações nºs 105/VI e 106/VI).",
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Recusa a ratificação do Decreto-lei nº 379/93 de 5 de Novembro, que \"permite o acesso de capitais privados as actividades económicas de captação, tratamento e rejeição de efluentes e recolha e tratamento de resíduos sólidos¿.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
