@@ -1,0 +1,10 @@
+Portaria n.º 786/92
+de 13 de Agosto
+O Regulamento da Classificação de Serviço na Função Pública, instituído pelo Decreto Regulamentar n.º 44-A/83, de 1 de Junho, aplicável aos serviços e organismos da administração central e dos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos, prevê, no seu artigo 25.º, as regras de constituição da comissão paritária, que é o órgão consultivo do dirigente com competência para homologar classificações de serviço.
+Sucede que a específica situação dos Institutos de Medicina Legal de Lisboa, Porto e Coimbra não permite, em muitos casos, a constituição de uma comissão paritária com a composição exigida pelo n.º 1 do artigo 25.º do Decreto Regulamentar n.º 44-A/83, de 1 de Junho, por nem sempre existirem funcionários ou agentes em número suficiente e nas condições exigidas susceptíveis de possibilitar a constituição de uma comissão paritária nos moldes previstos no artigo 25.º do mesmo diploma legal.
+Nestes termos, impõe-se uma adaptação à situação concreta daquele organismo do sistema de classificação de serviço estabelecido no decreto regulamentar referido, no que respeita à designação dos vogais representantes da Administração na mencionada comissão paritária.
+Assim:
+Manda o Governo, pelos Ministros das Finanças e da Justiça, ao abrigo do estabelecido no artigo 40.º do Decreto Regulamentar n.º 44-A/83, de 1 de Junho, que, sempre que nos Institutos de Medicina Legal de Lisboa, Porto e Coimbra se revele a impossibilidade de aplicação do disposto no n.º 1 do artigo 25.º do mesmo diploma legal, os vogais representantes da Administração na comissão paritária prevista no n.º 1 do artigo 24.º sejam designados de entre funcionários pertencentes ao grupo de pessoal médico ou ao grupo de pessoal técnico superior.
+Ministérios das Finanças e da Justiça.
+Assinada em 17 de Julho de 1992.
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.
