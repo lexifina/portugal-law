@@ -1,0 +1,5 @@
+Aviso n.º 268/99
+Por ordem superior se torna público que, por nota de 30 de Novembro de 1999, o Ministério dos Negócios Estrangeiros da República Francesa, na sua qualidade de depositário da Convenção Internacional Relativa a Exposições Internacionais, de 22 de Novembro de 1928, na versão do Protocolo que a modifica, concluída em Paris, em 30 de Novembro de 1972, comunicou ter o Governo de Portugal notificado, em 23 de Novembro de 1999, que o referido Protocolo foi estendido ao território de Macau, nos mesmos termos em que a ele se encontra vinculado o Estado Português.
+O Protocolo que modifica a Convenção foi aprovado, para ratificação, pelo Decreto do Governo n.º 72/83, de 6 de Setembro, publicado no Diário da República, 1.ª série, n.º 205, de 6 de Setembro de 1983, e foi estendido ao território de Macau pelo Decreto do Presidente da República n.º 222/99, de 16 de Novembro, publicado no Diário da República, 1.ª série-A, n.º 267, de 16 de Novembro de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 9 de Dezembro de 1999. - António Nunes de Carvalho Santana Carlos.
