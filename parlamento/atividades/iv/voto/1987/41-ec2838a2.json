@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=zCf3pLUnSmZYZX75EXna7bozwDJvel1Eo7m9B%2bTyppMqgrBud7yXCBtYvIfIiaU0j8yG3XhnRgbu%2b%2bw6LGbWTuH%2fh3%2bHuB7LDaDmux6OzyGr37Rv9t%2fBly9xwL%2fWBIMuo84ZkRDZbKGQajPp7ZMnUOTGBcqLG9l%2fkHNebFvC%2btZLG1NMCbyXKIg%2fbEZTgGmHku9Scl3KNP%2fifndwy5wABkhnK%2bmpa4XGgwXtFtNWOrSGh6pOtC4ybJU8GajkhFYX8y8HNYcOvc17ww9YDfKBdKjz5CK1S7%2fqFmRodOBiq%2b4mhKfgQEra1b%2fxkcxUf6ID3Y6MFkovcE7XkWIvg3djZOz4VwPza84xmATgjwFGM3j%2f19nBwJXKx885HiCQGQqH&fich=AtividadesIV_json.txt&Inline=true",
+  "ficheiro_sha256": "55c5e31aa442a8ab5d93de2c7379f495e1b09ba5b5abb8b9876b79bc9bd85874",
+  "legislatura": "IV",
+  "tipo": "Voto",
+  "numero": "41",
+  "data_registo": "1987-02-03",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Passagem de mais um aniversário do regicídio, a AR exprime o seu profundo repúdio por tal tipo de violência e relembra a este propósito o penúltimo Chefe de Estado Português do período do constitucionalismo monárquico.",
+    "AutoresGP": [
+      "Borges de Carvalho (Indep)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "1987-02-03",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "IV",
+    "Numero": "41",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "348718",
+        "obs": null,
+        "pag": [
+          "1512-1512"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1987-02-04",
+        "pubLeg": "IV",
+        "pubNr": "39",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/02/039/1987-02-04/1512?pgs=1512&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Deputados",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "1987-02-03",
+        "descricao": null,
+        "detalhe": "A Favor: <I>CDS</I>, <I> MDP/CDE</I>, <I> PSD</I>, <I> PRD</I>, <I> Borges De Carvalho (Indep)</I>, <I> Gonçalo Ribeiro Telles (Indep)</I><BR>Contra:<I>PS</I>, <I> PRD</I>, <I> PCP</I>, <I> PSD</I><BR>Abstenção:<I>CDS</I>",
+        "id": "48557",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "348719",
+            "obs": null,
+            "pag": [
+              "1512-1533"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1987-02-04",
+            "pubLeg": "IV",
+            "pubNr": "39",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/02/039/1987-02-04/1512?pgs=1512-1533&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "39",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
