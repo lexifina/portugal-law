@@ -1,0 +1,3 @@
+Portaria n.º 23595
+Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional e dos Negócios Estrangeiros, nos termos do artigo 12.º do Decreto-Lei n.º 48515, de 5 de Agosto de 1968, extinguir, na data da presente portaria, a missão militar em Washington, criada pelo artigo 3.º do Decreto-Lei n.º 39315, de 14 de Agosto de 1953, e entrar em funcionamento, a partir da mesma data, a Missão Militar N. A. T. O., criada pelo artigo 2.º do Decreto-Lei n.º 48515, de 5 de Agosto de 1968.
+Presidência do Conselho e Ministério dos Negócios Estrangeiros, 7 de Setembro de 1968. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.
