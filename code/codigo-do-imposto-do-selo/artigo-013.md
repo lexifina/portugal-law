@@ -20,7 +20,7 @@ e) Nas letras emitidas no estrangeiro, no momento em que forem aceites, endossad
 
 f) Nas letras e livranças em branco, no momento em que possam ser preenchidas nos termos da respectiva convenção de preenchimento;
 
-g) Nas operações de crédito, no momento em que forem realizadas; se o crédito for utilizado sob a forma de conta corrente, descoberto bancário ou qualquer outro meio em que o prazo não seja determinado nem determinável, no último dia de cada mês; em caso de prorrogação do contrato de concessão de crédito de que resulte, em virtude do alargamento do prazo, a obrigação do pagamento do imposto do selo, no momento em que se efectue;
+g) Nas operações de crédito, no momento em que forem realizadas; se o crédito for utilizado sob a forma de conta corrente, descoberto bancário ou qualquer outro meio em que o prazo não seja determinado nem determinável, no último dia de cada mês;
 
 h) Nas operações realizadas por ou com intermediação de instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas, no momento da cobrança dos juros, prémios, comissões e outras contraprestações, considerando-se efectivamente cobrados, sem prejuízo do disposto no n.º 1 do artigo 34.º, os juros e comissões debitados em contas correntes à ordem de quem a eles tiver direito;
 

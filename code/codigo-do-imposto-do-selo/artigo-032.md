@@ -1,5 +1,5 @@
 # Artigo 32.º
 
-### Juros compensatórios e indemnizatórios
+### Matérias não reguladas
 
-À anulação oficiosa do imposto do selo e outras matérias não reguladas na presente lei aplica-se a Lei Geral Tributária e, subsidiariamente, o disposto no Código do IRC.
+Às matérias não reguladas no presente Código aplica-se a lei geral tributária e, subsidiariamente, o disposto no Código do IRC.

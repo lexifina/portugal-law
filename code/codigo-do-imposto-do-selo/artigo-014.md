@@ -4,7 +4,7 @@
 
 A liquidação e o pagamento do imposto competem às seguintes entidades:
 
-a) Notários, conservadores dos registos civil, comercial, predial e de bens móveis e outras entidades públicas, incluindo os estabelecimentos e organismos do Estado, relativamente aos actos, contratos e outros factos em que sejam intervenientes, e quando, nos termos da alínea n) do artigo anterior, os contratos ou documentos lhes sejam apresentados para qualquer efeito legal;
+a) Notários, conservadores dos registos civil, comercial, predial e de bens móveis e outras entidades públicas, incluindo os estabelecimentos e organismos do Estado, relativamente aos actos, contratos e outros factos em que sejam intervenientes, com excepção dos celebrados perante notários relativos a crédito e garantias concedidos por instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas e por quaisquer outras instituições financeiras, e quando, nos termos da alínea n) do artigo anterior, os contratos ou documentos lhes sejam apresentados para qualquer efeito legal;
 
 b) Entidades concedentes do crédito e da garantia ou credoras dos juros, prémios, comissões e outras contraprestações;
 
@@ -14,13 +14,13 @@ d) Entidades mutuárias, beneficiárias da garantia ou devedoras dos juros, comi
 
 e) Empresas seguradoras relativamente à soma do prémio do seguro, custo da apólice e quaisquer outras importâncias cobradas em conjunto ou em documento separado, bem como às comissões pagas a mediadores, líquidas de imposto;
 
-f) Entidades emitentes de letras, livranças e outros títulos de crédito, entidades editantes de cheques ou, no caso de títulos emitidos no estrangeiro, a primeira entidade que intervenha na negociação ou pagamento;
+f) Entidades emitentes de letras e outros títulos de crédito, entidades editantes de cheques e livranças ou, no caso de títulos emitidos no estrangeiro, a primeira entidade que intervenha na negociação ou pagamento;
 
 g) Locador e sublocador, nos arrendamentos e subarrendamentos;
 
 h) Outras entidades que intervenham nos actos e contratos ou emitam ou utilizem os documentos, livros, títulos ou papéis;
 
-i) Representantes que, para o efeito, são obrigatoriamente nomeados em Portugal, pelas entidades emitentes das apólices dos seguros realizadas no território de outros Estados membros da Comunidade Europeia cujo risco ocorra em território português;
+i) Representantes que, para o efeito, são obrigatoriamente nomeados em Portugal, pelas entidades emitentes de apólices de seguros efectuados no território de outros Estados membros da União Europeia ou fora desse território, cujo risco ocorra em território português;
 
 j) Representantes que, para o efeito, são obrigatoriamente nomeados em Portugal pelas instituições de crédito ou sociedades financeiras que, no território português, realizam operações financeiras em regime de livre prestação de serviços que não sejam intermediadas por instituições de crédito ou sociedades financeiras domiciliadas em Portugal;
 
