@@ -1,0 +1,4 @@
+Despacho Normativo n.º 272/81
+Dado o atraso na publicação do Despacho Normativo n.º 207/81, de 20 de Julho, publicado no Diário da República, 1.ª série, n.º 188, de 18 de Agosto, torna-se praticamente impossível aos interessados cumprir o prazo que aí se estabelecia para entrega dos boletins de inscrição exigidos para efeitos da atribuição da bonificação por hectare de arroz.
+Nestes termos, ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 885/76, de 29 de Dezembro, determina-se a prorrogação do prazo fixado no n.º 3 do Despacho Normativo n.º 207/81 por mais quinze dias, a contar da data da publicação do presente despacho normativo.
+Ministérios das Finanças e do Plano, da Agricultura e Pescas e do Comércio e Turismo, 19 de Agosto de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha. - O Ministro do Comércio e Turismo, Alexandre de Azeredo Vaz Pinto.
