@@ -1,0 +1,2298 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "367",
+    "id": "5108",
+    "titulo": "Finanças locais."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1997-05-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1207",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1997-05-28",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5154",
+        "leg": "VII",
+        "nr": "328",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "248",
+            "obs": null,
+            "pag": [
+              "2637-2674"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1997-05-30",
+            "pubLeg": "VII",
+            "pubNr": "77",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2637?pgs=2637-2674&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "248",
+            "obs": null,
+            "pag": [
+              "2637-2674"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1997-05-30",
+            "pubLeg": "VII",
+            "pubNr": "77",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2637?pgs=2637-2674&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Lei das finanças locais."
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5099",
+        "leg": "VII",
+        "nr": "369",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "248",
+            "obs": null,
+            "pag": [
+              "2637-2674"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1997-05-30",
+            "pubLeg": "VII",
+            "pubNr": "77",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2637?pgs=2637-2674&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "248",
+            "obs": null,
+            "pag": [
+              "2637-2674"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1997-05-30",
+            "pubLeg": "VII",
+            "pubNr": "77",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2637?pgs=2637-2674&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Lei das finanças locais."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1997-05-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1086",
+                "nome": "Jorge Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47020",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2677-2677"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2677?pgs=2677&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1131",
+                "nome": "Francisco Torres"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47021",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2676-2676"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2676?pgs=2676&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47022",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2677-2677"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2677?pgs=2677&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47023",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2674-2674"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2674?pgs=2674&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47025",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2674-2674"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2674?pgs=2674&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1401",
+                "nome": "Artur Torres Pereira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47026",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2673-2674"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2673?pgs=2673-2674&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47028",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2673-2673"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2673?pgs=2673&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47029",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2672-2673"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2672?pgs=2672-2673&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1217",
+                "nome": "Nuno Abecasis"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47030",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2672-2672"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2672?pgs=2672&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "336",
+                "nome": "Luís Filipe Menezes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47035",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2670-2670"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2670?pgs=2670&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47037",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2669-2669"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2669?pgs=2669&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47040",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2668-2668"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2668?pgs=2668&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "281",
+                "nome": "Álvaro Amaro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47041",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2667-2667"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2667?pgs=2667&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47043",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2666-2666"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2666?pgs=2666&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47044",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2666-2666"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2666?pgs=2666&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47045",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2665-2666"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2665?pgs=2665-2666&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47046",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2665-2665"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2665?pgs=2665&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "129",
+                "nome": "Pedro Passos Coelho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47047",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2664-2664"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2664?pgs=2664&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47048",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2660-2664",
+                  "2667-2667",
+                  "2669-2670"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2660?pgs=2660-2664,2667,2669-2670&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1401",
+                "nome": "Artur Torres Pereira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47049",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2658-2659"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2658?pgs=2658-2659&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47051",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2657-2658"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2657?pgs=2657-2658&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47052",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2656-2657"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2656?pgs=2656-2657&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1341",
+                "nome": "José Gama"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47053",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2656-2656"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2656?pgs=2656&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47057",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2653-2660"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2653?pgs=2653-2660&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "689",
+                "nome": "Jorge Rato"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47059",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2652-2652"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2652?pgs=2652&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47060",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2652-2652"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2652?pgs=2652&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47062",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2650-2652"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2650?pgs=2650-2652&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47063",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2649-2650"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2649?pgs=2649-2650&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "581",
+                "nome": "Ferreira Ramos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47064",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2648-2648"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2648?pgs=2648&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47068",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2646-2648",
+                  "2650-2650"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2646?pgs=2646-2648,2650&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "287",
+                "nome": "Ferreira do Amaral"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47069",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2645-2645"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2645?pgs=2645&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47070",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2645-2645"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2645?pgs=2645&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1269",
+                "nome": "Júlio Faria"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47071",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2644-2644"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2644?pgs=2644&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1288",
+                "nome": "Augusto Boucinha"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47072",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2643-2643"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2643?pgs=2643&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47073",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2641-2642"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2641?pgs=2641-2642&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "460",
+                "nome": "Acácio Barreiros"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2641-2641"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2641?pgs=2641&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2640-2640"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2640?pgs=2640&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "287",
+                "nome": "Ferreira do Amaral"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2637-2640",
+                  "2642-2644"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2637?pgs=2637-2640,2642-2644&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47093",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2637-2637"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2637?pgs=2637&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO EQUIPAMENTO,  DO  PLANEAMENTO E DA  ADMINISTRAÇÃO DO TERRITÓRIO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Joao Cravinho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2637-2637"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2637?pgs=2637&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO EQUIPAMENTO,  DO  PLANEAMENTO E DA  ADMINISTRAÇÃO DO TERRITÓRIO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Joao Cravinho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2660-2664",
+                  "2667-2667",
+                  "2669-2670"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2660?pgs=2660-2664,2667,2669-2670&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO EQUIPAMENTO,  DO  PLANEAMENTO E DA  ADMINISTRAÇÃO DO TERRITÓRIO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Joao Cravinho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2674-2674"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2674?pgs=2674&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2671-2672"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2671?pgs=2671-2672&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO EQUIPAMENTO,  DO  PLANEAMENTO E DA  ADMINISTRAÇÃO DO TERRITÓRIO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Joao Cravinho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2665-2665"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2665?pgs=2665&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO EQUIPAMENTO,  DO  PLANEAMENTO E DA  ADMINISTRAÇÃO DO TERRITÓRIO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Joao Cravinho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2666-2666"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-30",
+                "pubLeg": "VII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30/2666?pgs=2666&org=PLC"
+              }
+            ],
+            "sumario": "LEI DAS FINANCAS LOCAIS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "102724",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "109761",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1997-05-30",
+        "pubLeg": "VII",
+        "pubNr": "77",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/077/1997-05-30?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
