@@ -1,0 +1,1190 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Ratificação",
+    "numero": "63",
+    "id": "28190",
+    "titulo": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo"
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "1989-05-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4018",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "1989-05-09",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-05-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226135",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3667-3669",
+                  "3671-3672"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3667?pgs=3667-3669,3671-3672&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226136",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3669-3670"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3669?pgs=3669-3670&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226137",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3670-3671"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3670?pgs=3670-3671&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226138",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3672-3674",
+                  "3675-3675"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3672?pgs=3672-3674,3675&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226139",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3674-3675"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3674?pgs=3674-3675&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226140",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3675-3675"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3675?pgs=3675&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226141",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3676-3677",
+                  "3677-3677"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3676?pgs=3676-3677,3677&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226142",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3677-3677"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3677?pgs=3677&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226143",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3677-3678",
+                  "3680-3681"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3677?pgs=3677-3678,3680-3681&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226144",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3678-3679"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3678?pgs=3678-3679&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226145",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3679-3680"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3679?pgs=3679-3680&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226146",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3680-3680"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3680?pgs=3680&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO DO MINISTRO DO EMPREGO  E  DA  SEGURANÇA SOCIAL",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Almeida Seabra"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226147",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3681-3684",
+                  "3685-3685"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3681?pgs=3681-3684,3685&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226148",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3684-3684"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3684?pgs=3684&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226149",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3684-3685"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3684?pgs=3684-3685&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226150",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3685-3685"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3685?pgs=3685&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226151",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3685-3686"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3685?pgs=3685-3686&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO DO MINISTRO DO EMPREGO  E  DA  SEGURANÇA SOCIAL",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Almeida Seabra"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226152",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3686-3686"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3686?pgs=3686&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3686-3686"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3686?pgs=3686&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226154",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3686-3686"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3686?pgs=3686&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3686-3686"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3686?pgs=3686&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226156",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3686-3686"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3686?pgs=3686&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226157",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3686-3686"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3686?pgs=3686&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226158",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3686-3686",
+                  "3686-3686",
+                  "3687-3687"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3686?pgs=3686,3686,3687&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226159",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3686-3686",
+                  "3686-3687"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3686?pgs=3686,3686-3687&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226160",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3687-3688"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-10",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10/3687?pgs=3687-3688&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 64-A/89, de 27 de Fevereiro que aprova o regime jurídico da cessação do contrato individual de trabalho, incluindo as condições de celebração e caducidade do contrato de trabalho a termo.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "215872",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4018",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-05-10",
+        "pubLeg": "V",
+        "pubNr": "76",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/076/1989-05-10?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
