@@ -1,0 +1,500 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "8",
+    "id": "27949",
+    "titulo": "Constituição de uma comissão eventual para apreciação dos projectos de revisão constitucional"
+  },
+  "fase": "Votação Deliberação",
+  "codigo_fase": "335",
+  "data_registo": "1988-01-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12138",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "335",
+    "Comissao": null,
+    "DataFase": "1988-01-19",
+    "EvtId": "73",
+    "Fase": "Votação Deliberação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-01-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208315",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1356-1356",
+                  "1356-1356"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-01-20",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/042/1988-01-20/1356?pgs=1356,1356&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão  eventual para apreciação dos projectos de revisão constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208316",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1356-1356",
+                  "1356-1356"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-01-20",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/042/1988-01-20/1356?pgs=1356,1356&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão  eventual para apreciação dos projectos de revisão constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208317",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1356-1356"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-01-20",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/042/1988-01-20/1356?pgs=1356&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão  eventual para apreciação dos projectos de revisão constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208318",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1356-1356"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-01-20",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/042/1988-01-20/1356?pgs=1356&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão  eventual para apreciação dos projectos de revisão constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208319",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1356-1356",
+                  "1357-1357"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-01-20",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/042/1988-01-20/1356?pgs=1356,1357&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão  eventual para apreciação dos projectos de revisão constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208320",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1356-1356"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-01-20",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/042/1988-01-20/1356?pgs=1356&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão  eventual para apreciação dos projectos de revisão constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208321",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1356-1357",
+                  "1357-1357",
+                  "1357-1357"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-01-20",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/042/1988-01-20/1356?pgs=1356-1357,1357,1357&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão  eventual para apreciação dos projectos de revisão constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208322",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1357-1357",
+                  "1357-1357"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-01-20",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/042/1988-01-20/1357?pgs=1357,1357&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão  eventual para apreciação dos projectos de revisão constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208323",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1361-1361"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-01-20",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/042/1988-01-20/1361?pgs=1361&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão  eventual para apreciação dos projectos de revisão constitucional",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208324",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1361-1361"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-01-20",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/042/1988-01-20/1361?pgs=1361&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão  eventual para apreciação dos projectos de revisão constitucional",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "326993",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "12138",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-01-20",
+        "pubLeg": "V",
+        "pubNr": "42",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/042/1988-01-20?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
