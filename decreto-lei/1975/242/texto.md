@@ -1,0 +1,11 @@
+Decreto-Lei n.º 242/75
+de 21 de Maio
+Considerando que se verificam significativos atrasos nas transferências para os Serviços Sociais da Polícia de Segurança Pública de avultadas importâncias de quotização descontadas ao pessoal da Polícia de Segurança Pública da Metrópole em serviço nas companhias móveis de polícia;
+Considerando que tais importâncias foram depositadas nas Direcções Provinciais dos Serviços de Finanças da Guiné, Angola, Moçambique e Cabo Verde, depois de descontadas nos ordenados do pessoal da Polícia de Segurança Pública em serviço no ultramar;
+Considerando que os atrasos nas transferências dão origem a graves prejuízos para o modesto orçamento da Caixa Económica dos Serviços Sociais da Polícia de Segurança Pública;
+Usando da faculdade conferida pelo artigo 6.º, n.º 1, da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. As transferências das importâncias de quotização descontadas ao pessoal da Polícia de Segurança Pública em serviço nas companhias móveis de polícia para os Serviços Sociais da Polícia de Segurança Pública passam a fazer-se através dos serviços da Agência Militar.
+Visto e aprovado em Conselho da Revolução.
+Promulgado em 16 de Maio de 1975.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
