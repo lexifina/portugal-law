@@ -1,0 +1,13 @@
+Portaria n.º 676/74
+de 17 de Outubro
+A Portaria n.º 770/73, de 7 de Novembro, nos termos do n.º 1 do Decreto-Lei n.º 479/73, de 27 de Setembro, integrou na Previdência os porteiros dos prédios pertencentes a entidades particulares.
+Trata-se de uma categoria profissional vinculada à entidade patronal por contrato de trabalho especial, no qual assume particular relevância em relação à Previdência a inexistência de um salário real. Daí que tenha surgido a necessidade de fixar um salário convencional que pudesse servir de base ao cálculo das prestações pecuniárias que iriam ser inseridas no respectivo esquema de previdência.
+Há, porém, pessoas colectivas de direito privado que, sendo já contribuintes de instituições de previdência, são proprietárias de prédios de rendimento, cujos porteiros auferem uma remuneração que, não sendo exclusivamente em dinheiro, é susceptível de ser determinada, razão por que se julgou ser de afastar em relação aos mesmos a aplicação das normas da Portaria n.º 770/73, de 7 de Novembro, e antes abranger estes trabalhadores no regime geral da Previdência.
+Por outro lado, entendeu-se também ser oportuno pelo presente diploma estender o regime geral da Previdência aos porteiros dos prédios pertencentes a pessoas colectivas de direito público, visto que estão nas mesmas condições dos porteiros dos prédios que são propriedade de pessoas colectivas de direito privado.
+Nestes termos, ao abrigo do n.º 1 do Decreto-Lei n.º 479/73, de 27 de Setembro:
+Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado da Segurança Social:
+1. São integrados no regime geral da Previdência, na qualidade de beneficiários, os porteiros dos prédios pertencentes a pessoas colectivas de direito privado ou público e, na qualidade de contribuintes, as pessoas colectivas de direito privado ou público proprietárias dos mesmos.
+2. No cômputo da remuneração a considerar como passível de contribuições deverá atender-se ao valor atribuído ao alojamento como parte integrante da remuneração do beneficiário, nos termos do despacho de 7 de Junho de 1974.
+3. As entidades patronais e os porteiros ao seu serviço serão inscritos nas qualidades referidas na norma n.º 1 na instituição de previdência de que as pessoas colectivas de direito privado ou público sejam contribuintes pelo exercício da actividade principal, desde que essa instituição não seja a Caixa Geral de Aposentações. O âmbito destas instituições, bem como o da Caixa Nacional de Pensões, considera-se alargado de forma correspondente.
+4. A presente portaria produz efeitos a partir de 1 de Outubro de 1974.
+Ministério dos Assuntos Sociais, 30 de Setembro de 1974. - O Secretário de Estado da Segurança Social, Henrique Santa Clara Gomes.
