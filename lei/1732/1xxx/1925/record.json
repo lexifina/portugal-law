@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1925/01/01600/00810081.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1925-01-21",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "97448282fa60d3b1d3639491864d2ec1e2d5faa2a0ad128dc83d1358d6d513ad",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 96.8,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "9bc9aa3a6a8f8b18e8ff4d895e150c23eecb60ecb081858eff4ea9360132b909",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 247
 }
