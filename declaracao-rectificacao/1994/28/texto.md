@@ -1,0 +1,4 @@
+Declaração de rectificação n.º 28/94
+Segundo comunicação do Ministério das Obras Públicas, Transportes e Comunicações, a Portaria n.º 1027/93, publicada no Diário da República, 1.ª série, n.º 241, de 14 de Outubro de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No mapa I, onde se lê no grupo de pessoal «técnico-profissional», na área funcional «biblioteca e documentação» e na carreira «técnico-adjunto de biblioteca e documentação» deve ler-se no grupo de pessoal «técnico-profissional», na área funcional «biblioteca e documentação ou arquivo» e na carreira «técnico-adjunto de biblioteca e documentação ou arquivo».
+Secretaria-Geral da Presidência do Conselho de Ministros, 21 de Fevereiro de 1994. - O Secretário-Geral, França Martins.
