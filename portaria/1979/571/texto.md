@@ -1,0 +1,7 @@
+Portaria n.º 571/79
+de 29 de Outubro
+Manda o Governo da República Portuguesa, pelo Ministro da Habitação e Obras Públicas, ao abrigo do disposto no artigo 2.º do Decreto-Lei n.º 48741, de 5 de Dezembro de 1968, alterar do seguinte modo as importâncias referidas na Portaria n.º 78/77, de 16 de Fevereiro, com efeitos a partir da data da publicação no Diário da República:
+a) É elevado para 500000$00 o limite estabelecido no § 1.º do artigo 3.º do Decreto-Lei n.º 31271, de 17 de Maio de 1941, referente às obras eventuais de pequenas reparações, conservação e de simples arranjo que os serviços de outros Ministérios, além do da Habitação e Obras Públicas, podem executar directamente nos edifícios que ocupem;
+b) Os valores dos orçamentos a que se refere a alínea b) do artigo 4.º do referido Decreto-Lei n.º 31271 passam a ser de 500000$00 para as obras de faróis do Ministério da Marinha e de 1000000$00 para as obras de construção de casas de guarda das matas nacionais e de pequenas construções necessárias à exploração agrícola de propriedades do Estado;
+c) Os projectos das obras indicadas na alínea antecedente que respeitem a construções de novos edifícios e tenham orçamento superior a 800000$00 carecem de aprovação do Ministério da Habitação e Obras Públicas.
+Ministério da Habitação e Obras Públicas, 9 de Outubro de 1979. - O Ministro da Habitação e Obras Públicas, Mário Adriano de Moura e Castro Brandão Fernandes de Azevedo.
