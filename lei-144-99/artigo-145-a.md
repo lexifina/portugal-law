@@ -29,5 +29,3 @@ c) Para evitar uma ameaça grave e imediata à segurança pública, e sem preju�
 d) Para outros efeitos, desde que exista acordo dos Estados que criaram a equipa.
 
 8 - Pode ser permitida, por acordo, a participação nas equipas de investigação conjuntas de pessoas que não sejam representantes dos Estados que as criaram, de acordo com a legislação nacional ou outro instrumento jurídico aplicável, não gozando estas pessoas dos direitos conferidos aos membros destacados pelos Estados, salvo acordo expresso em contrário.
-
-9 - As informações utilizadas para os fins referidos nas alíneas b), c) e d) do n.º 7 que incluam dados pessoais só podem ser tratadas nos termos da Diretiva (UE) 2016/680 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, transposta para a ordem jurídica interna pela Lei n.º 59/2019, de 8 de agosto.
