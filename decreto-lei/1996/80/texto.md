@@ -1,0 +1,66 @@
+Decreto-Lei n.º 80/96
+de 21 de Junho
+O Decreto-Lei n.º 55/95, de 29 de Março, veio introduzir profundas modificações ao regime de realização de despesas e contratação públicas.
+A sua entrada em vigor tem suscitado inúmeras dificuldades e perplexidades, com consequências negativas para o bom funcionamento da Administração.
+Torna-se urgente a reformulação global do diploma, nomeadamente tendo em conta a experiência adquirida com a sua aplicação.
+Sem prejuízo dessa reformulação global, que é intenção do Governo levar a cabo no prazo de 180 dias, torna-se imperioso, porém, e desde já, aliviar os procedimentos mais simples, aumentando para valores razoáveis, com as devidas garantias, os limites a que estão sujeitos. Procedem-se ainda a alterações de pormenor, tendo em vista esclarecer dúvidas e omissões de regulamentação.
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Os artigos 31.º, 32.º, 33.º, 89.º, 90.º, 92.º e 93.º do Decreto-Lei n.º 55/95, de 29 de Março, passam a ter a seguinte redacção:
+«Artigo 31.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+6 - O ajuste directo não implica a consulta a vários prestadores de serviços ou fornecedores de bens, quando o valor dos serviços ou dos bens em causa for inferior a 500 contos.
+7 - Quando o valor da despesa exceda 500 contos, deverão ser consultados, pelo menos, dois prestadores de serviços ou fornecedores de bens.
+Artigo 32.º
+[...]
+1 - ...
+a) ...
+b) Procedimento por negociação com publicação prévia de anúncio, quando tal valor seja superior a 7500 contos;
+c) Procedimento por negociação sem publicação prévia de anúncio, ou concurso limitado sem apresentação de candidaturas, quando tal valor seja igual ou superior a 2500 contos;
+d) Ajuste directo, quando tal valor seja inferior a 2500 contos.
+2 - ...
+Artigo 33.º
+[...]
+1 - ...
+2 - As aquisições de bens a que se refere o número anterior, de valor compreendido entre 2500 contos e o limiar estabelecido no Acordo Geral sobre Pautas Aduaneiras e Comércio, Acordo GATT, são antecedidas de parecer vinculativo favorável a emitir, no prazo de 15 dias, pela Direcção-Geral do Património do Estado, a quem para o efeito deve ser remetida proposta de adjudicação elaborada nos termos do n.º 2 do artigo 51.º
+3 - ...
+4 - ...
+5 - Se no prazo referido no n.º 2 não for emitido parecer pela Direcção-Geral do Património do Estado, considera-se autorizado o procedimento por ajuste directo, desde que o fornecimento de bens não ultrapasse o valor de 7500 contos e pelo adjudicatário seja prestada declaração, sob compromisso de honra, nos termos e para os efeitos previstos nos artigos 44.º a 48.º
+6 - ...
+7 - ...
+Artigo 89.º
+[...]
+1 - ...
+a) ...
+b) A data limite de recepção de propostas, que não pode ser inferior a cinco dias úteis, contados a partir do envio do convite;
+c) ...
+2 - ...
+Artigo 90.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - A falta de comparência injustificada do interessado na data e local que lhe sejam indicados determina a sua exclusão do procedimento.
+Artigo 92.º
+[...]
+1 - O procedimento por negociação, sem publicação prévia de anúncio, inicia-se por carta dirigida aos eventuais participantes, sempre que possível no mínimo de três, convidando-os a apresentar proposta num prazo que não pode ser inferior a cinco dias úteis.
+2 - O procedimento prossegue nos termos dos artigos 89.º, n.º 2, 90.º e 91.º
+Artigo 93.º
+[...]
+1 - No ajuste directo em que haja consulta a mais de um participante, a proposta de aquisição ou fornecimento deve ser devidamente fundamentada.
+2 - ...»
+Artigo 2.º
+O presente diploma entra em vigor no dia imediato ao da sua publicação e não se aplica aos concursos e procedimentos iniciados em data anterior à sua entrada em vigor.
+Visto e aprovado em Conselho de Ministros de 18 de Abril de 1996. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
+Promulgado em 4 de Junho de 1996.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 5 de Junho de 1996.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
