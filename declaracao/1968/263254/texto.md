@@ -1,0 +1,3 @@
+Declaração
+Para o efeito do disposto no n.º 2 do artigo 24.º do Decreto-Lei n.º 41204, de 24 de Julho de 1957, se declara que, de acordo com o despacho de S. Ex.ª o Secretário de Estado do Comércio de 5 do corrente, é fixado em 13$00 por quilograma o preço de venda aos armazenistas do óleo obtido da industrialização de 2200 t de semente de linho a importar do Canadá no presente mês, mantendo-se as margens actualmente em vigor para os armazenistas e retalhistas, respectivamente, de $80 e 1$20 por quilograma.
+Comissão de Coordenação Económica, 14 de Novembro de 1968. - O Presidente, Henrique de Carvalho Costa.
