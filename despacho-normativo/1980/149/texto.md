@@ -1,0 +1,8 @@
+Despacho Normativo n.º 149/80
+Para execução do disposto nos artigos 2.º, 3.º, 5.º e 6.º do Decreto-Lei n.º 885/76, de 29 de Dezembro, e do artigo 1.º do Decreto-Lei n.º 85/80, de 19 de Abril, determina-se o seguinte:
+1 - Para efeitos da cobertura dos encargos resultantes da diferença entre os custos de importação do arroz em reserva adquirido pela Empresa Pública de Abastecimento de Cereais, bem como do a adquirir pela mesma empresa na campanha de 1979-1980, acrescidos de 390$00 por tonelada, e os respectivos preços de venda, deverá o Fundo de Abastecimento inscrever uma verba de 512000 contos no seu orçamento para o ano de 1980.
+2 - Em relação às despesas com a remessa do arroz para as Regiões Autónomas da Madeira e dos Açores, deverá igualmente o Fundo de Abastecimento inscrever uma verba de 10000 contos no seu orçamento para o ano de 1980.
+3 - Para efeitos da cobertura dos encargos resultantes da execução do disposto no artigo 2.º do Decreto-Lei n.º 885/76, de 29 de Dezembro, deverá o Fundo de Abastecimento inscrever uma verba de 170400 contos no seu orçamento para o ano de 1980.
+4 - Fica revogado o Despacho Normativo n.º 70/79, de 6 de Abril, das Secretarias de Estado do Orçamento, do Comércio e Indústrias Agrícolas e do Comércio Interno.
+5 - Este despacho entra em vigor no dia seguinte ao da sua publicação.
+Secretarias de Estado do Orçamento, do Comércio e Indústrias Agrícolas e do Comércio Interno, 11 de Fevereiro de 1980. - O Secretário de Estado do Orçamento, António Jorge de Figueiredo Lopes. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Francisco Manuel Durão Lino. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
