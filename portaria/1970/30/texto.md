@@ -1,0 +1,4 @@
+Portaria n.º 30/70
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Negócios Estrangeiros, nos termos do artigo 3.º do Decreto-Lei n.º 38728, de 24 de Abril de 1952, que o n.º 3) da Portaria n.º 13965, de 10 de Maio de 1952, alterado pela Portaria n.º 24219, de 4 de Agosto de 1969, passe a ter a seguinte redacção:
+3) Pessoal assalariado - três arquivistas, um dos quais do Ministério do Exército, quatro funcionários do quadro administrativo da Secretaria de Estado de qualquer categoria entre terceiro-oficial, escriturário ou dactilógrafo, uma telefonista, um motorista e dois porteiros.
+Ministérios das Finanças e dos Negócios Estrangeiros, 14 de Janeiro de 1970. - O Presidente do Conselho e Ministro dos Negócios Estrangeiros, interino, Marcello Caetano. - O Ministro das Finanças, João Augusto Dias Rosas.
