@@ -4,7 +4,7 @@
 
 São impedimentos impedientes, além de outros designados em leis especiais:
 
-a) A falta de autorização dos pais ou do tutor para o casamento do nubente menor, quando não suprida judicialmente;
+a) A falta de autorização dos pais ou do tutor para o casamento do nubente menor, quando não suprida pelo conservador do registo civil;
 
 b) O prazo internupcial;
 
