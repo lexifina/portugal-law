@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que o Governo Português decidiu retirar a reserva que fizera ao § 2.º do artigo 37 da Convenção de Viena sobre Relações Diplomáticas, de 18 de Abril de 1961, formulada por ocasião do depósito do instrumento de adesão por parte de Portugal daquele instrumento diplomático. O texto daquela reserva relativa à não extensão de imunidades e privilégios ao pessoal administrativo e técnico das missões diplomáticas foi inserido no aviso publicado no Diário do Governo, 1.ª série, de 26 de Outubro de 1968, que tornou pública aquela adesão.
+A retirada daquela reserva entrou em vigor no dia 1 de Junho de 1972, data em que foi recebida, por parte do Secretariado-Geral das Nações Unidas, a notificação feita pelo Governo Português sobre o assunto.
+Secretaria-Geral, 4 de Dezembro de 1972. - O Secretário-Geral, José Tomás Cabral Calvet de Magalhães.
