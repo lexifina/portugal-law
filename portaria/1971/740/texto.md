@@ -1,0 +1,4 @@
+Portaria n.º 740/71
+de 31 de Dezembro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § 1.º do artigo 4.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, reforçar com a importância de 10000$00 a verba do capítulo único, artigo 10.º, n.º 2) «Diversos encargos - Encargos administrativos - Pagamento de serviços e encargos não especificados», do orçamento da despesa para o ano económico em curso do Centro de Documentação Técnico-Económica, tomando como contrapartida igual importância a sair das disponibilidades da verba do capítulo único, artigo 12.º «Diversos encargos - Participação em congressos e reuniões internacionais», do mesmo orçamento.
+Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
