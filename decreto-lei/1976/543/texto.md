@@ -1,0 +1,12 @@
+Decreto-Lei n.º 543/76
+de 10 de Julho
+Considerando a necessidade de rever algumas disposições do Decreto-Lei n.º 422/76, de 29 de Maio, em ordem a adoptá-las às necessidades que, correntemente, se verificam nos casos de intervenção governamental em empresas privadas;
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Os artigos 20.º e 21.º, n.º 1, do Decreto-Lei n.º 422/76, de 29 de Maio, passam a ter a seguinte redacção:
+Art. 20.º - 1. A cessação da intervenção deverá ser precedida das medidas que forem necessárias ao justificado saneamento económico-financeiro da empresa, incluindo, nomeadamente, a sua transformação em empresa de economia mista ou toda e qualquer operação de fusão, cisão, transformação, aumento ou redução de capital, designadamente através da conversão de créditos em capital, emissão de obrigações, independentemente dos limites do artigo 196.º do Código Comercial, imposição de moratórias ou outras que se tomem necessárias para aquele efeito.
+2. Quando não seja possível executar, antes da cessação da intervenção, as operações de fusão, cisão, transformação, aumento ou redução de capital social ou emissão de obrigações previstas no número anterior, serão as mesmas objecto de disposição precisa na resolução que determinar a cessação da intervenção na empresa, fixando-se o prazo para o seu cumprimento obrigatório, sob pena de se enquadrar no regime previsto na alínea b) do n.º 1 do artigo 24.º e de os seus titulares ou gerentes incorrerem em responsabilidade pelas perdas e danos emergentes desse incumprimento.
+Art. 21.º - 1. A aprovação das medidas previstas no artigo anterior e dos respectivos instrumentos será da competência do Conselho de Ministros, sob proposta dos Ministros da Tutela e das Finanças.
+Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Ribeiro Constâncio.
+Promulgado em 30 de Junho de 1976.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
