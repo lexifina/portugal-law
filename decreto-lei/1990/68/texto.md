@@ -1,0 +1,30 @@
+Decreto-Lei n.º 68/90
+de 1 de Março
+O Decreto-Lei n.º 34/87, de 20 de Janeiro, que estabeleceu a disciplina a que obedece o transporte marítimo de mercadorias entre portos nacionais, prevê, no n.º 1 do seu artigo 8.º, um regime transitório, para vigorar até 31 de Dezembro de 1989, segundo o qual o tráfego entre os portos do continente e das regiões autónomas, ou entre os portos destas, continuaria até àquela data a ser explorado apenas pelos armadores que efectuem serviços regulares entre aqueles portos.
+Encontrando-se praticamente decorrido o período do regime transitório, verifica-se, porém, que ainda não estão reunidas as condições necessárias à aplicação da política de livre prestação de serviços que inclua o tráfego não regular, designadamente pela falta de infra-estruturas portuárias.
+Por outro lado, o Governo Regional dos Açores pronunciou-se no sentido de haver conveniência em manter a prática de uma tarifa comum a todo o arquipélago quando se trate de tráfego entre o continente e aquela Região Autónoma.
+Acresce que o actual sistema, desde há alguns anos para cá, tem proporcionado não só uma progressiva adequação entre a oferta e a procura de transporte, como a não necessidade do pagamento de indemnizações compensatórias por um serviço interilhas, que assume aspectos de serviço público essencial à vida das populações ali residentes.
+Sendo conveniente não sobrecarregar o erário público com indemnizações compensatórias e proceder à racionalização dos transportes marítimos entre o continente e os Açores, entende o Governo que o interesse público justifica que se afaste por mais algum tempo, mas sempre com carácter transitório, a completa liberalização deste segmento de mercado.
+Foram ouvidos os órgãos de governo próprio das regiões autónomas.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º Os artigos 8.º e 10.º do Decreto-Lei n.º 34/87, de 20 de Janeiro, passam a ter a seguinte redacção:
+Art. 8.º - 1 - A partir de 1 de Janeiro e até 31 de Dezembro de 1990, o tráfego entre os portos do continente e das regiões autónomas, ou entre portos destas, pode ser explorado por quaisquer armadores que efectuem serviço regular entre aqueles portos.
+2 - Para efeitos do disposto no número anterior, considera-se serviço regular aquele que:
+a) Tenha frequência quinzenal;
+b) Tenha como objecto o transporte de carga geral convencional ou contentorizada;
+c) Tenha itinerário previamente estabelecido e aprovado.
+3 - No que respeita ao tráfego continente-Açores-continente, o itinerário deve incluir a escala em, pelo menos, cinco ilhas e será estabelecido de forma a assegurar uma gestão operacional que garanta as normais ligações entre todas as ilhas da Região Autónoma dos Açores.
+4 - Os armadores interessados submeterão as condições da operação, fixadas de acordo com os números anteriores, à aprovação do ministro responsável pelos transportes marítimos, que decidirá após audição dos órgãos de governo próprio das regiões autónomas.
+Art. 10.º - 1 - Quem, em violação do disposto nos artigos 1.º, 2.º e 3.º, importar ou transportar por via marítima mercadorias essenciais ao abastecimento do País e, bem assim, quem infringir o disposto nos artigos 4.º, n.º 1, 7.º, n.º 1, e 8.º incorre em contra-ordenação punível com coima de 600000$00 a 6000000$00, no caso de pessoas colectivas, ou de 200000$00 a 500000$00, no caso de pessoas singulares.
+2 - A violação do dever de informação previsto no artigo 9.º constitui contra-ordenação punível com coima de 250000$00 a 750000$00, no caso de pessoas colectivas, ou de 200000$00 a 500000$00, no caso de pessoas singulares.
+3 - ...
+4 - ...
+5 - ...
+Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1990, excepto no que respeita à nova redacção do artigo 10.º do Decreto-Lei n.º 34/87, de 20 de Janeiro, que apenas produz efeitos a partir da data da entrada em vigor do Decreto-Lei n.º 356/89, de 17 de Outubro.
+Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - João Maria Leitão de Oliveira Martins.
+Promulgado em 13 de Fevereiro de 1990.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 14 de Fevereiro de 1990.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
