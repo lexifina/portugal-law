@@ -1,0 +1,15 @@
+Decreto-Lei n.º 400/71
+de 22 de Setembro
+A criação de novas escolas do magistério primário tem vindo a fazer-se à medida que as necessidades do ensino primário o vão exigindo.
+Assim, após a reabertura determinada pelo Decreto-Lei n.º 32243, de 5 de Setembro de 1942, das Escolas de Lisboa, Porto, Coimbra e Braga, cujo funcionamento se suspendera pelo artigo 7.º do Decreto-Lei n.º 27279, de 24 de Novembro de 1936, foram sendo sucessivamente publicados os Decretos-Lei n.os 33019, de 1 de Setembro de 1943, 35070, de 26 de Outubro de 1945, 35227, de 7 de Dezembro de 1945, 36839, de 19 de Abril de 1948, 41978, de 27 de Novembro de 1958, e 42452, de 17 de Agosto de 1959, com base nos quais se criaram as Escolas do Magistério Primário do Funchal, Ponta Delgada, Évora, Viseu, Faro, Guarda, Bragança, Vila Real, Horta, Angra do Heroísmo, Leiria e Portalegre.
+A crescente expansão do ensino primário, com a escolaridade ampliada de quatro para seis classes pelo Decreto-Lei n.º 45810, de 9 de Julho de 1964, aconselha a criação de novos centros de formação de pessoal docente, quer por se impor o descongestionamento de escolas superlotadas, quer para facilitar a maior número de candidatos a carreira de professorado primário.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º - 1. São criadas seis novas escolas do magistério primário, que funcionarão nos termos do Decreto-Lei n.º 32243, de 5 de Setembro de 1942, e legislação complementar.
+2. O local e o início de funcionamento de cada escola serão fixados por despacho do Ministro da Educação Nacional.
+Art. 2.º - 1. Os quadros do pessoal administrativo e do pessoal auxiliar de cada uma das escolas criadas pelo artigo 1.º serão fixados e poderão ser remodelados pela forma prescrita no artigo 25.º do Decreto-Lei n.º 43369, de 2 de Dezembro de 1960.
+2. O pessoal administrativo e o pessoal auxiliar que há pelo menos cinco anos exerça funções em escolas particulares do magistério primário ingressará nos quadros das novas escolas oficiais das mesmas localidades, se o requerer no prazo de quinze dias após a publicação do despacho a que se refere o n.º 2 do artigo 1.º e satisfizer às exigências legais estabelecidas para o provimento, com excepção das do artigo 4.º do Decreto n.º 16563, de 5 de Março de 1929, das dos artigos 6.º e 7.º do Decreto-Lei n.º 45249, de 16 de Setembro de 1963, e das dos artigos 25.º, 27.º e 28.º do Decreto-Lei n.º 49410, de 24 de Novembro de 1969.
+Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
+Promulgado em 13 de Setembro de 1971.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
