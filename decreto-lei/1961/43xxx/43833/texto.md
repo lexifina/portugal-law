@@ -1,0 +1,7 @@
+Decreto-Lei n.º 43833
+Considerando que a localização da Escola Naval no Alfeite não permite que os professores civis que nela prestam serviço possam deslocar-se às suas residências por motivo da refeição do almoço;
+Atendendo a que o regime de vencimentos e de gratificações dos mesmos professores é idêntico ao dos professores militares quando aqueles não acumulam as suas funções na Escola Naval com outras funções públicas estranhas à mesma Escola;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Aos professores civis da Escola Naval pode ser autorizado, pelo Ministro da Marinha, o abono de um subsídio para alimentação, em condições idênticas às fixadas para os professores militares.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 29 de Julho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
