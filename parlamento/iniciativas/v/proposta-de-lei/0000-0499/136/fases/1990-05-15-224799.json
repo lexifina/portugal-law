@@ -1,0 +1,496 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "136",
+    "id": "29137",
+    "titulo": "Autoriza o Governo a legislar em matéria fiscal, no sentido de isentar de sisa e de imposto de selo algumas providências adoptadas no processo especial de recuperação de empresas, regulado pelo Decreto-lei nº 177/86, de 2 de Julho"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1990-05-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "17996",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1990-05-15",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1990-05-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO MINISTRO DA  JUSTIÇA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Borges Soeiro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267470",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2510-2510"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-05-16",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/075/1990-05-16/2510?pgs=2510&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria fiscal, no sentido de isentar de sisa e de imposto de selo algumas providências adoptadas no processo especial de recuperação de empresas, regulado pelo Decreto-lei nº 177/86, de 2 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267472",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2510-2510"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-05-16",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/075/1990-05-16/2510?pgs=2510&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria fiscal, no sentido de isentar de sisa e de imposto de selo algumas providências adoptadas no processo especial de recuperação de empresas, regulado pelo Decreto-lei nº 177/86, de 2 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267473",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2510-2511"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-05-16",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/075/1990-05-16/2510?pgs=2510-2511&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria fiscal, no sentido de isentar de sisa e de imposto de selo algumas providências adoptadas no processo especial de recuperação de empresas, regulado pelo Decreto-lei nº 177/86, de 2 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267474",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2511-2511"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-05-16",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/075/1990-05-16/2511?pgs=2511&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria fiscal, no sentido de isentar de sisa e de imposto de selo algumas providências adoptadas no processo especial de recuperação de empresas, regulado pelo Decreto-lei nº 177/86, de 2 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO MINISTRO DA  JUSTIÇA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Borges Soeiro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267476",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2511-2511"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-05-16",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/075/1990-05-16/2511?pgs=2511&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria fiscal, no sentido de isentar de sisa e de imposto de selo algumas providências adoptadas no processo especial de recuperação de empresas, regulado pelo Decreto-lei nº 177/86, de 2 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267478",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2511-2512"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-05-16",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/075/1990-05-16/2511?pgs=2511-2512&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria fiscal, no sentido de isentar de sisa e de imposto de selo algumas providências adoptadas no processo especial de recuperação de empresas, regulado pelo Decreto-lei nº 177/86, de 2 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO MINISTRO DA  JUSTIÇA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Borges Soeiro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267479",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2512-2512"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-05-16",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/075/1990-05-16/2512?pgs=2512&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria fiscal, no sentido de isentar de sisa e de imposto de selo algumas providências adoptadas no processo especial de recuperação de empresas, regulado pelo Decreto-lei nº 177/86, de 2 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267480",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2512-2513"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-05-16",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/075/1990-05-16/2512?pgs=2512-2513&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria fiscal, no sentido de isentar de sisa e de imposto de selo algumas providências adoptadas no processo especial de recuperação de empresas, regulado pelo Decreto-lei nº 177/86, de 2 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267481",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2513-2514"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-05-16",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/075/1990-05-16/2513?pgs=2513-2514&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria fiscal, no sentido de isentar de sisa e de imposto de selo algumas providências adoptadas no processo especial de recuperação de empresas, regulado pelo Decreto-lei nº 177/86, de 2 de Julho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267482",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2514-2514"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1990-05-16",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/075/1990-05-16/2514?pgs=2514&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria fiscal, no sentido de isentar de sisa e de imposto de selo algumas providências adoptadas no processo especial de recuperação de empresas, regulado pelo Decreto-lei nº 177/86, de 2 de Julho",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "224799",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "17043",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "2510-2514"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1990-05-16",
+        "pubLeg": "V",
+        "pubNr": "75",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/075/1990-05-16/2510?pgs=2510-2514&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
