@@ -1,9 +1,9 @@
 # Artigo 35.º
 
-### (Excepções)
+### (Dispensa de inscrição intermédia)
 
-A inscrição prévia em nome do transmitente é dispensada para os registos de:
+É dispensada a inscrição intermédia em nome dos titulares de bens ou direitos que façam parte de herança indivisa para o registo de:
 
-a) Negócios jurídicos de aquisição nos casos em que tenha havido justificação do direito;
+a) Aquisição de bens operada em execução ou em inventário, para pagamento de dívidas da herança;
 
-b) Negócios jurídicos de aquisição titulados antes de 1 de Janeiro de 1984.
+b) Aquisição em cumprimento de contrato-promessa de alienação ou em sua execução específica.
