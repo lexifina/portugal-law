@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o secretário executivo da Comissão Económica para a Europa das Nações Unidas foi notificado, em 25 de Abril de 1975, da aceitação, por parte do Governo Português, das Resoluções n.os 34 e 35 adoptadas pelo Grupo de Peritos dos Problemas Aduaneiros Relativos a Transportes, em 31 de Janeiro de 1975, cujos textos foram tornados públicos sob a forma de aviso, inseridos, respectivamente, na 1.ª série do Diário do Governo, n.º 50, de 28 de Fevereiro de 1975, e na 1.ª série do Diário do Governo, n.º 44, de 21 de Fevereiro de 1975.
+Direcção-Geral dos Negócios Económicos, 31 de Julho de 1975. - O Adjunto do Director-Geral, Alexandre Eduardo Lencastre da Veiga.
