@@ -1,0 +1,11 @@
+Decreto n.º 45817
+No prosseguimento dos seus planos de trabalho para a expansão e modernização da rede de telecomunicações, carece a Administração-Geral dos Correios, Telégrafos e Telefones de estabelecer uma instalação radioeléctrica transorizonte para ligações a grande distância.
+Realizadas as formalidades conducentes à adjudicação do fornecimento dos materiais e realização dos trabalhos de montagem com a intervenção da Comissão de Financiamento da Ponte sobre o Tejo, conclui-se que o encargo se reparte por mais de um ano económico.
+Não se verificando, porém, as circunstâncias previstas no artigo 12.º do Decreto-Lei n.º 41597, de 24 de Abril de 1958, há que dar cumprimento ao disposto no artigo 22.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957.
+Nestes termos:
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
+Antigo 1.º Fica a Administração-Geral dos Correios, Telégrafos e Telefones autorizada, nos termos e para os efeitos do artigo 22.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957, a celebrar com a firma francesa Compagnie Française Thomson Houston contrato para o fornecimento e montagem do material destinado a uma instalação radioeléctrica transorizonte para ligações a grande distância, seus acessórios e peças sobresselentes. O custo do fornecimento é de 23396871$00, ressalvadas as variações de cotação de matérias-primas e salários, conforme fórmulas de correcção constantes do contrato.
+Art. 2.º Para o pagamento da importância referida no artigo anterior a efectuar ao fornecedor, por intermédio do Banco Seligman & Co., nos termos com este acordados no âmbito de protocolo de 10 de Maio de 1962, não poderá a Administração-Geral dos Correios, Telégrafos e Telefones, em cada ano económico, despender mais do que as seguintes importâncias: em 1964, 14038122$60; em 1965, 9358748$40, e em 1966, o que restar como saldo das importâncias anteriores.
+Estas importâncias serão acrescidas das correspondentes ao agravamento do custo resultante da aplicação das fórmulas de correcção referidas no artigo 1.º
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 14 de Julho de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.
