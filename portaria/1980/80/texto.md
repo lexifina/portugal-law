@@ -1,0 +1,4 @@
+Portaria n.º 80/80
+de 1 de Março
+Manda o Governo da República Portuguesa, pelo Ministro da Indústria e Energia, nos termos do artigo 12.º do Regulamento de 23 de Março de 1869 e para efeitos do Decreto n.º 30295, de 22 de Fevereiro de 1940, designar a letra G para servir durante o período que decorre de 1 de Maio do corrente ano a 30 de Abril de 1981 no afilamento de todos os pesos, medidas e mais instrumentos de pesar ou medir, executados em todos os concelhos do País, à excepção do de Lisboa, onde a mesma letra principiará a ser empregada em 1 de Março, data em que no dito concelho tem início a época de aferição, conforme o que está estabelecido no § único do artigo 1.º do citado Decreto n.º 30295, de 22 de Fevereiro de 1940.
+Ministério da Indústria e Energia, 31 de Janeiro de 1980. - O Ministro da Indústria e Energia, Álvaro Roque de Pinho Bissaia Barreto.
