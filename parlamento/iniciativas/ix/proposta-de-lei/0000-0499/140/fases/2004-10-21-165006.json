@@ -1,0 +1,1529 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "140",
+    "id": "20589",
+    "titulo": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2004-10-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3281",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2004-10-21",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "20606",
+        "leg": "IX",
+        "nr": "505",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "813",
+            "obs": null,
+            "pag": [
+              "749-784"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-10-22",
+            "pubLeg": "IX",
+            "pubNr": "15",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/749?pgs=749-784&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "813",
+            "obs": null,
+            "pag": [
+              "749-784"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-10-22",
+            "pubLeg": "IX",
+            "pubNr": "15",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/749?pgs=749-784&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Regime jurídico do arrendamento urbano para habitação."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "20614",
+        "leg": "IX",
+        "nr": "508",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "813",
+            "obs": null,
+            "pag": [
+              "749-784"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-10-22",
+            "pubLeg": "IX",
+            "pubNr": "15",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/749?pgs=749-784&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "813",
+            "obs": null,
+            "pag": [
+              "749-784"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-10-22",
+            "pubLeg": "IX",
+            "pubNr": "15",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/749?pgs=749-784&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-10-21",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150949",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "749-749",
+                  "781-782",
+                  "784-784"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/749?pgs=749,781-782,784&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS CIDADES,  ADMINISTRAÇÃO  LOCAL,  HABITAÇÃO E  DESENVOLVIMENTO  REGIONAL",
+              "governo": "XVI GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Luis Arnaut"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150950",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "749-753",
+                  "756-757",
+                  "760-761",
+                  "764-765",
+                  "774-774"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/749?pgs=749-753,756-757,760-761,764-765,774&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150951",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "753-753"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/753?pgs=753&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150952",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "754-754"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/754?pgs=754&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150953",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "754-755"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/754?pgs=754-755&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150954",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "757-758"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/757?pgs=757-758&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS CIDADES,  ADMINISTRAÇÃO  LOCAL,  HABITAÇÃO E  DESENVOLVIMENTO  REGIONAL",
+              "governo": "XVI GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Luis Arnaut"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150955",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "758-758"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/758?pgs=758&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1164",
+                "nome": "Miguel Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150956",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "758-759"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/758?pgs=758-759&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150957",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "759-759"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/759?pgs=759&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "324",
+                "nome": "Fernando Pedro Moutinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150958",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "760-760"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/760?pgs=760&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1863",
+                "nome": "Miguel Paiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150959",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "762-762"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/762?pgs=762&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "183",
+                "nome": "José Apolinário"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150960",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "762-763"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/762?pgs=762-763&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1930",
+                "nome": "Vítor Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150961",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "763-764"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/763?pgs=763-764&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150962",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "765-766",
+                  "783-784"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/765?pgs=765-766,783-784&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150963",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "766-768"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/766?pgs=766-768&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "645",
+                "nome": "Carlos Sousa Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150964",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "768-770"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/768?pgs=768-770&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150965",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "770-772"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/770?pgs=770-772&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1930",
+                "nome": "Vítor Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150966",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "772-772"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/772?pgs=772&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "1785",
+                "nome": "Francisco Madeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150967",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "773-774"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/773?pgs=773-774&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "195",
+                "nome": "Leonor Coutinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150968",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "775-776"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/775?pgs=775-776&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150969",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "776-776",
+                  "782-782"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/776?pgs=776,782&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1930",
+                "nome": "Vítor Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151007",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "776-778"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/776?pgs=776-778&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XVI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Gomes Da Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151023",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "778-778"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/778?pgs=778&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151024",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "778-778"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/778?pgs=778&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "155",
+                "nome": "António José Seguro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151025",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "779-780"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/779?pgs=779-780&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151026",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "780-780"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/780?pgs=780&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "155",
+                "nome": "António José Seguro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151027",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "781-781"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/781?pgs=781&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XVI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Gomes Da Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151028",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "783-783"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-22",
+                "pubLeg": "IX",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/783?pgs=783&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o regime jurídico do arrendamento urbano; Regime jurídico do arrendamento urbano para habitação; Institui bolsas de habitação a nível concelhio, adoptando medidas que incentivem o arrendamento de fogos devolutos",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "165006",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "292833",
+        "obs": null,
+        "pag": [
+          "749-784"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-10-22",
+        "pubLeg": "IX",
+        "pubNr": "15",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/015/2004-10-22/749?pgs=749-784&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
