@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 1.ª Delegação da Direcção-Geral da Contabilidade Pública (Presidência do Conselho de Ministros), a declaração publicada no Diário da República, 1.ª série, n.º 48, de 27 de Fevereiro de 1980, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê: «Cap. 06, div. 29, C. E. 01.42 - Pessoal dos quadros aprovados por lei» e «Cap. 50, div. 01, subdiv. 02, C. E. 57.00 - Transferências - Instalações particulares», deve ler-se: «Cap. 06, div. 29, C. E. 01.02 - Pessoal dos quadros aprovados por lei» e «Cap. 50, div. 01, subdiv. 02, C. E. 57.00 - Transferências - Instituições particulares».
+Secretaria-Geral da Presidência do Conselho de Ministros, 21 de Março de 1980. - O Secretário-Geral, José António Bagulho França Martins.
