@@ -1,0 +1,4 @@
+Portaria n.º 19128
+Sendo necessário fixar as dimensões dos cartões de identidade para oficiais e sargentos da Armada nas situações do activo, reserva e reforma, reguladas pelo Decreto-Lei n.º 37692, de 28 de Dezembro de 1949, e Portaria n.º 18903, de 22 de Dezembro de 1961, de acordo com os formatos normalizados de papel estabelecidos segundo o Decreto n.º 42852, de 17 de Dezembro de 1960:
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que as dimensões dos cartões de identidade para oficiais e sargentos da Armada, nas situações do activo, reserva e reforma, estabelecidas pela legislação acima referida, sejam alteradas para as do formato 2 1/4 A8, que são de 74 mm x 118 mm, sem prejuízo do modelo e desenho dos cartões em vigor.
+Ministério da Marinha, 13 de Abril de 1962. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
