@@ -1,0 +1,7 @@
+Despacho Normativo n.º 216/93
+Considerando que em 24 de Janeiro de 1993 foi dada por finda, nos termos do n.º 3 do artigo 5.º do Decreto-Lei n.º 323/89, de 26 de Setembro, a comissão de serviço que Maria Manuela Machado Duarte Rodrigues vinha exercendo como chefe de divisão na Direcção-Geral dos Ensinos Básico e Secundário;
+Considerando o disposto na alínea a) do n.º 2 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, e nos n.os 6 e 8 do mesmo artigo e diploma, com a nova redacção dada pelo Decreto-Lei n.º 34/93, de 13 de Fevereiro:
+Determina-se o seguinte:
+1 - É criado no quadro de pessoal do Centro Regional de Segurança Social de Lisboa, aprovado pela Portaria n.º 957-B/91, de 23 de Setembro, com as alterações introduzidas pela Portaria n.º 1163/92, de 18 de Dezembro, e pela Declaração de rectificação n.º 10/93, publicada no Diário da República, 1.ª série, n.º 25, de 30 de Janeiro de 1993, um lugar de assessor principal da carreira técnica superior, a extinguir quando vagar.
+2 - A criação do lugar referido no número anterior produz efeitos a partir de 25 de Janeiro de 1993.
+Ministérios das Finanças e do Emprego e da Segurança Social, 28 de Junho de 1993. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, José Luís Campos Vieira de Castro, Secretário de Estado da Segurança Social.
