@@ -1,0 +1,4 @@
+Portaria n.º 259/82
+de 11 de Março
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano, autorizar, nos termos do § 2.º do artigo 6.º do Decreto-Lei n.º 42641, de 12 de Novembro de 1959, aplicável por força do disposto no artigo 3.º do Decreto-Lei n.º 46302, de 22 de Abril de 1965, a Walter E. Heller Factoring Portuguesa, S. A. R. L., com sede em Lisboa, a alterar os seus estatutos, de harmonia com o projecto arquivado no Banco de Portugal, e a elevar de 10000 para 100000 contos o seu capital social, mediante subscrição pelos actuais accionistas na proporção das acções quê possuem, mantendo-se a correlação: 50% de capital nacional, 50% de capital estrangeiro.
+Ministério das Finanças e do Plano, 22 de Fevereiro de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
