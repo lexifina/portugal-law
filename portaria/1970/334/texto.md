@@ -1,0 +1,3 @@
+Portaria n.º 334/70
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial da importância de 3218$00, a inscrever em adicional à tabela de despesa do orçamente privativo do Gabinete de Planeamento e Integração Económica para o ano em curso, destinado a encargos administrativos, tomando como contrapartida igual quantia a sair das disponibilidades existentes na verba do capítulo único, artigo 5.º, n.º 1) «Despesas com o material - Despesas de conservação e aproveitamento do material - De imóveis - Prédios urbanos», da referida tabela de despesa.
+Ministério do Ultramar, 4 de Julho de 1970. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
