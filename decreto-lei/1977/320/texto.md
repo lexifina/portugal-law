@@ -1,0 +1,12 @@
+Decreto-Lei n.º 320/77
+de 6 de Agosto
+A crise da indústria têxtil e, bem assim, a absorção dos trabalhadores provindos de extintos organismos corporativos, os aumentos de vencimentos e os acréscimos das contribuições para a segurança social tiveram sérios reflexos no equilíbrio financeiro do Instituto dos Têxteis. Com efeito, este Instituto viu-se sobrecarregado com despesas de pessoal, sem que, paralelamente, tivessem aumentado as suas receitas, quer porque não foi julgada oportuna a actualização das taxas que lhe são devidas, quer pelo atraso verificado na cobrança respectiva, em consequência das dificuldades financeiras dos industriais do ramo.
+Porque uma tal situação deficitária não se pode manter indefinidamente, surge a necessidade de se envidarem acções orientadas no sentido de se obter o reequilíbrio financeiro do Instituto, nomeadamente por via de uma actualização do valor das taxas a cobrar, complementada pela diminuição dos encargos de pessoal.
+Até, porém, que tal se consiga urge providenciar os meios que permitam cobrir o deficit orçamental do Instituto - o que, no momento presente, só é possível por via da concessão, pelo Orçamento Geral do Estado, de um subsídio.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. É autorizado o Governo a conceder ao Instituto dos Têxteis, pela Secretaria de Estado do Comércio Externo, no ano de 1977 e nos termos que forem estabelecidos pelo Ministro das Finanças, subsídios até ao montante de 30000000$00, destinados a facultar ao organismo os meios indispensáveis ao seu reequilíbrio financeiro e ao cabal desempenho da sua missão.
+Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Carlos Alberto da Mota Pinto.
+Promulgado em 22 de Julho de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
