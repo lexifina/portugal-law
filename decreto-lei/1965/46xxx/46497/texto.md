@@ -1,0 +1,9 @@
+Decreto-Lei n.º 46497
+A insuficiência da produção nacional de bacalhau perante as solicitações da procura impõe a necessidade de recurso à importação do estrangeiro como forma de garantir o conveniente e regular abastecimento do País.
+Considerando que as cotações internacionais daquele produto excedem consideràvelmente os preços máximos fixados para a venda no mercado interno, justifica-se a isenção dos respectivos direitos aduaneiros, a fim de minorar os prejuízos que resultam daquelas importações.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Fica autorizado o Ministro das Finanças, até 31 de Dezembro de 1965, mediante prévia informação favorável do Secretário de Estado do Comércio, a isentar de direitos as importações de bacalhau salgado, verde ou seco, indispensáveis para assegurar a regularidade do abastecimento público, quando realizadas pela Comissão Reguladora do Comércio de Bacalhau ou pelo Grémio dos Armazenistas de Mercearia.
+Art. 2.º O disposto no artigo anterior é aplicável às importações que no decurso de 1965 foram já efectuadas nas condições previstas no mesmo artigo.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 19 de Agosto de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
