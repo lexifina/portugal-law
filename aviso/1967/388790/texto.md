@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que a Embaixada de Portugal em Londres depositou, em 28 de Março de 1967, junto da Organização Intergovernamental Consultiva de Navegação Marítima a carta de confirmação e adesão, por parte de Portugal, à Convenção Internacional para a Prevenção da Poluição das Águas do Mar pelos óleos, assinada em Londres em 12 de Maio de 1954, não se considerando abrangidos pelas disposições do artigo 7.º da Convenção os navios que, tendo mais de 16 anos de idade à entrada em vigor da Convenção relativamente a Portugal, não estejam em condições de passar a próxima reclassificação (to comply with the next special survey).
+Segundo o artigo XV da Convenção, esta entrou em vigor em relação ao nosso país três meses após a data do depósito da carta de confirmação e adesão, ou seja em 28 de Junho de 1967.
+Direcção-Geral dos Negócios Económicos, 19 de Outubro de 1967. - O Director-Geral, José Calvet de Magalhães.
