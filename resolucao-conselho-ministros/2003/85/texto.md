@@ -1,0 +1,24 @@
+Resolução do Conselho de Ministros n.º 85/2003
+O Decreto-Lei n.º 248-A/99, de 6 de Julho, aprovou as bases da concessão atribuída ao consórcio AENOR - Auto-Estradas do Norte, S. A., para a concepção, projecto, construção, financiamento, exploração e conservação dos lanços de auto-estradas e conjuntos viários associados na zona norte de Portugal.
+Pelo artigo 3.º do citado decreto-lei, os Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território ficaram autorizados a subscrever o contrato de concessão, em nome e representação do Estado, de acordo com a minuta a aprovar por resolução do Conselho de Ministros.
+A Resolução do Conselho de Ministros n.º 67-A/99, de 6 de Julho, aprovou a minuta do contrato de concessão, a celebrar entre o Estado Português, na qualidade de concedente, e o consórcio AENOR - Auto-Estradas do Norte, S. A., na qualidade de concessionária, cuja outorga ocorreu em 9 de Julho de 1999.
+Todavia, por motivos não imputáveis à concessionária, decorrentes, designadamente, de questões relacionadas com a avaliação de impacte ambiental, não está a ser cumprido o disposto na base XXV, relativa às datas limite de entrada em serviço dos lanços referidos no n.º 1 da base II da concessão, o que originou atrasos no cumprimento do programa de trabalhos e do programa de estudos e projectos em vigor.
+Neste contexto, a concessionária AENOR - Auto-Estradas do Norte, S. A., apresentou ao concedente um pedido de alteração do programa de trabalhos e do programa de estudos e projectos, submetendo à sua apreciação o programa de estudos, projecto e construção de recuperação, visando, essencialmente, recuperar atrasos verificados no cumprimento do primeiro programa.
+Em 31 de Outubro de 2001, o Estado Português aprovou o programa de estudos, projecto e construção de recuperação, que deve passar a constituir o anexo n.º 10 ao contrato de concessão, em substituição do programa de trabalhos e do programa de estudos e projectos.
+Todavia, de acordo com o programa de estudos, projecto e construção de recuperação acima referido, a entrada em serviço da totalidade das auto-estradas ocorre em momento posterior à data limite inicialmente prevista, termos em que se tornou necessário proceder a uma alteração das bases da concessão e dos termos do respectivo contrato de concessão.
+O Decreto-Lei n.º 127/2003, de 24 de Junho, aprovou a alteração da base XXV das bases da concessão, autorizando os Ministros das Finanças e das Obras Públicas, Transportes e Habitação a subscrever, em nome e representação do Estado, a alteração ao n.º 28 do capítulo VII do contrato de concessão, de acordo com a redacção a aprovar por resolução do Conselho de Ministros.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar a substituição do anexo n.º 8 do anexo n.º 1 ao contrato de concessão, relativo ao contrato de projecto e construção e, ainda, do anexo n.º 10 ao contrato de concessão, relativo ao programa de trabalhos, os quais passam a ser constituídos pelo programa de estudos, projecto e construção de recuperação, aprovado pelo concedente em 31 de Outubro de 2001.
+2 - Todas as referências ao programa de trabalhos e ao programa de estudos e projectos no contrato de concessão aprovado pela Resolução do Conselho de Ministros n.º 67-A/99, de 6 de Julho, entendem-se feitas ao programa de estudos, projecto e construção de recuperação.
+3 - O n.º 28 do capítulo VII do contrato de concessão aprovado pela Resolução do Conselho de Ministros n.º 67-A/99, de 6 de Julho, passa a ter a seguinte redacção:
+«28 - Programa de execução das Auto-Estradas:
+28.1 - As datas limite de entrada em serviço de cada um dos Lanços referidos no n.º 5.1 são as seguintes:
+(ver tabela no documento original)
+28.2 - As datas de entrada em serviço e, bem assim, as datas de início da construção de cada um dos Lanços referidos no número anterior constam do Programa de Estudos, Projecto e Construção de Recuperação, que constitui o anexo n.º 10 do presente contrato.
+28.3 - Sem prejuízo do disposto no número seguinte, em quaisquer alterações ao Programa de Estudos, Projecto e Construção de Recuperação, ainda que permitidas ao abrigo das disposições do Contrato de Concessão, deve a Concessionária respeitar os seguintes prazos limite:
+a) As obras de construção do primeiro Lanço devem iniciar-se no prazo máximo de 22 meses a contar da data de assinatura do Contrato de Concessão;
+b) A entrada em serviço do primeiro Lanço a construir deve ter lugar no prazo máximo de 43 meses a contar da data referida na alínea anterior;
+c) No prazo máximo de 80 meses a contar da data da assinatura do Contrato de Concessão, deve encontrar-se em serviço a totalidade das Auto-Estradas.
+28.4 - ...»
+Presidência do Conselho de Ministros, 24 de Abril de 2003. - O Primeiro-Ministro, José Manuel Durão Barroso.
