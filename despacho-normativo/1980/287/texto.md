@@ -1,0 +1,3 @@
+Despacho Normativo n.º 287/80
+Ao abrigo do disposto no artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, em aditamento à tabela n.º 1, «Produtos fitofarmacêuticos», é autorizado o teor em substância activa de 500 g/l relativamente aos produtos fitofarmacêuticos com base em clordano formulados em concentrado para emulsão. Consideram-se, para o efeito, as mesmas capacidades de embalagens, autorizadas para este tipo de formulação, com o teor em substância activa expresso em percentagem.
+Secretarias de Estado do Fomento Agrário e do Comércio Interno, 20 de Junho de 1980. - O Secretário de Estado do Fomento Agrário, José Vicente de Jesus de Carvalho Cardoso. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
