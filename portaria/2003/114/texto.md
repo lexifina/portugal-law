@@ -1,0 +1,13 @@
+Portaria n.º 114/2003
+de 29 de Janeiro
+Pela Portaria n.º 446/87, de 27 de Maio, foi homologado o protocolo que criou o Centro de Formação Profissional para o Sector Alimentar (CFPSA), outorgado entre o Instituto do Emprego e Formação Profissional (IEFP) e um conjunto de associações patronais e sindicais do ramo alimentar.
+Aquela portaria foi posteriormente alterada pela Portaria n.º 354/97, de 26 de Maio, e pela Portaria n.º 669/99, de 18 de Agosto, alterando o protocolo pela rectificação das entidades a considerar no seu texto introdutório.
+Torna-se de novo necessário proceder à alteração daquela portaria, uma vez que a denominação social de alguns outorgantes foi entretanto modificada.
+Assim:
+No uso dos poderes conferidos pelos n.os 2 e 3 do artigo 10.º do Decreto-Lei n.º 165/85, de 16 de Maio:
+Manda o Governo, pelo Ministro da Segurança Social e do Trabalho, o seguinte:
+1.º É alterado o n.º 1.º da Portaria n.º 446/87, de 27 de Maio, alterada pela Portaria n.º 354/97, de 26 de Maio, e pela Portaria n.º 669/99, de 18 de Agosto, nos seguintes termos:
+«1.º É homologado o protocolo que criou o Centro de Formação Profissional para o Sector Alimentar (CFPSA), outorgado entre o Instituto do Emprego e Formação Profissional (IEFP) e a Associação Portuguesa de Geladeiros Artesanais (ARTOGEL), a Associação dos Industriais de Panificação, Pastelaria e Similares do Norte (AIPAN), a Associação do Centro dos Industriais de Panificação e Pastelaria (ACIP), a Associação dos Comerciantes de Carnes do Concelho de Lisboa e Outros (ACCCLO), a Associação da Restauração e Similares de Portugal (ARESP) e o Sindicato dos Trabalhadores de Escritório, Comércio, Hotelaria e Serviços (SITESE).»
+2.º É alterado o texto introdutório do protocolo do Centro de Formação Profissional para o Sector Alimentar nos seguintes termos:
+«O Instituto do Emprego e Formação Profissional (IEFP), a Associação Portuguesa de Geladeiros Artesanais (ARTOGEL), a Associação dos Industriais de Panificação, Pastelaria e Similares do Norte (AIPAN), a Associação do Centro dos Industriais de Panificação e Pastelaria (ACIP), a Associação dos Comerciantes de Carnes do Concelho de Lisboa e Outros (ACCCLO), a Associação da Restauração e Similares de Portugal (ARESP) e o Sindicato dos Trabalhadores de Escritório, Comércio, Hotelaria e Serviços (SITESE) adoptam o protocolo que criou o Centro de Formação Profissional para o Sector Alimentar (CFPSA) de harmonia com as cláusulas seguintes:»
+Pelo Ministro da Segurança Social e do Trabalho, Luís Miguel Pais Antunes, Secretário de Estado do Trabalho, em 26 de Dezembro de 2002.
