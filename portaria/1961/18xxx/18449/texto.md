@@ -1,0 +1,5 @@
+Portaria n.º 18449
+Verificando-se a necessidade de se proceder, independentemente da oportuna revisão geral do problema, à alteração do número de lugares de directores de clínicas dos Hospitais da Universidade de Coimbra, de acordo com a reforma do ensino médico-cirúrgico promulgada pelo Decreto-Lei n.º 40360, de 20 de Outubro de 1955;
+Nos termos do artigo 24.º, n.º 19.º, do Decreto-Lei n.º 35108, de 7 de Novembro de 1945, na nova redacção dada pelo Decreto-Lei n.º 41723, de 8 de Julho de 1958:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde e Assistência, que o número de directores de clínica previsto no quadro do pessoal de direcção e chefia dos Hospitais da Universidade de Coimbra, aprovado pela Portaria n.º 13051, de 21 de Janeiro de 1950, seja aumentado para vinte.
+Ministérios das Finanças e da Saúde e Assistência, 2 de Maio de 1961. - Pelo Ministro das Finanças, José Júlio Pizarro Beleza, Subsecretário de Estado do Orçamento. - O Ministro da Saúde e Assistência, Henrique de Miranda Vasconcelos Martins de Carvalho.
