@@ -1,0 +1,7 @@
+Aviso
+Por ordem superior se torna público que em 19 de Novembro de 1985 foi recebida no Ministério dos Negócios Estrangeiros dos Países Baixos carta do Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte declarando que, conforme o artigo 40.º, alínea 2, da Convenção sobre Obtenção de Provas no Estrangeiro no Domínio Civil e Comercial, concluída na Haia aos 18 de Março de 1970, esta Convenção se estenderá à ilha de Guernesey, entrando em vigor em relação a esta aos 18 de Janeiro de 1986.
+Em conformidade com o artigo 35.º da Convenção, o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte mais declara que:
+a) Conforme os artigos 8.º e 25.º da Convenção, «the Bailiff», «Deputy Bailiff», todo o «Jurat of the Court of Guernesey», «the Chairman of the Court of Alderney» ou «a Jurat of the Court of Alderney» e «the Seneschal of the Court of the Seneschal of Sark» ou «the Deputy Seneschal of the Court of the Seneschal of Sark» foram designados por Guernesey como sendo as autoridades competentes;
+b) Conforme o artigo 23.º da Convenção, Guernesey não executará as cartas rogatórias que tenham por objecto o processo conhecido nos países de common law como «pre-trial discovery of documents».
+Portugal já é parte neste instrumento diplomático.
+Secretaria-Geral do Ministério, 10 de Janeiro de 1986. - O Director dos Serviços Jurídicos e de Tratados, Francisco Manuel dos Reis Caldeira.
