@@ -1,0 +1,4 @@
+Aviso n.º 212/93
+Por ordem superior torna-se público que se encontram cumpridas as formalidades exigidas em Portugal e na Venezuela para a entrada em vigor da Convenção sobre Segurança Social entre a República Portuguesa e a República da Venezuela, concluída em 21 de Julho de 1989.
+A Convenção, aprovada, para ratificação, pelo Decreto n.º 27/92, de 2 de Junho, publicado no Diário da República, n.º 127, de 2 de Junho de 1992, entrou em vigor, nos termos do disposto no artigo 34.º da Convenção, em 1 de Janeiro de 1993, 1.º dia do 2.º mês seguinte à data da última comunicação sobre o cumprimento daquelas formalidades, a qual foi efectuada em 16 de Novembro de 1992.
+Ministério dos Negócios Estrangeiros, 7 de Junho de 1993. - O Chefe do Gabinete do Secretário de Estado das Comunidades Portuguesas, Manuel dos Santos Moreira de Andrade.
