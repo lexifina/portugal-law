@@ -1,0 +1,5 @@
+Despacho
+1. Para execução do disposto no n.º 1 do artigo 4.º do Decreto-Lei n.º 220/71, de 26 de Maio, e considerando a disciplina estabelecida no n.º 2 do artigo 3.º do Decreto-Lei n.º 49410, de 24 de Novembro de 1969, os farmacêuticos e veterinários civis ao serviço dos Ministérios do Exército e da Marinha e da Secretaria de Estado da Aeronáutica passam a ter direito às seguintes gratificações mensais máximas, mediante a prestação de quatro horas de serviço diário:
+(ver documento original)
+2. Nas unidades e estabelecimentos militares onde, pelos efectivos existentes, não seja necessária a prestação de quatro horas de serviço diário, a gratificação será proporcional ao número de horas de serviço prestado, calculada nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 49410, de 24 de Novembro de 1969.
+Presidência do Conselho e Ministério das Finanças, 2 de Abril de 1973. - O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - Pelo Ministro das Finanças, Augusto Victor Coelho, Secretário de Estado do Orçamento.
