@@ -1,0 +1,3 @@
+Portaria n.º 17897
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, de harmonia com o preceituado no n.º 1.º do artigo 9.º do Decreto-Lei n.º 42637, de 7 de Novembro de 1959, que, para os efeitos do disposto no § 1.º do artigo 3.º do Decreto-Lei n.º 39843, de 7 de Outubro de 1954, apenas sejam consideradas as importâncias de 2000$00, 800$00 e 600$00 das respectivas gratificações atribuídas aos secretários de finanças de 1.ª, 2.ª e 3.ª classes nomeados, nos termos dos artigos 6.º e parágrafos e 8.º do referido Decreto-Lei n.º 42637, para o quadro do pessoal técnico do serviço de informações fiscais, criado pelo artigo 1.º do mesmo diploma.
+Ministério das Finanças, 13 de Agosto de 1960. - O Ministro das Finanças, António Manuel Pinto Barbosa.
