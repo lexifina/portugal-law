@@ -1,0 +1,21 @@
+Portaria n.º 234/97
+de 4 de Abril
+A implantação do gasóleo colorido e marcado para a agricultura é um projecto de âmbito nacional, ao qual foi emprestado interesse renovado pelas recentes determinações comunitárias relativas à necessidade de colorir e marcar os produtos que beneficiem de isenção ou de redução da taxa do imposto sobre os produtos petrolíferos (ISP). Tendo em vista a disponibilização, tão cedo quanto possível, do produto aos agricultores, sob proposta do grupo de trabalho criado pelos Despachos A-89/96-XIII e A-126/96-XIII, procede-se à fixação do valor do factor de compensação (FC) previsto no Decreto-Lei n.º 15/97, de 17 de Janeiro, e ao estabelecimento do sistema de funcionamento da futura rede de venda ao público do produto.
+Assim:
+Manda o Governo, pelos Ministros das Finanças, da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas, em cumprimento do determinado no artigo 4.º do Decreto-Lei n.º 15/97, de 17 de Janeiro, o seguinte:
+1.º O valor unitário do factor de compensação (FC) do gasóleo colorido e marcado, previsto na fórmula de cálculo do preço máximo de venda ao público dos produtos petrolíferos, constante da Portaria n.º 224-B/96, de 24 de Junho, é superior em 2$50 por litro ao valor do respectivo factor estabelecido para o gasóleo rodoviário.
+2.º A bomba do gasóleo colorido e marcado a instalar nos postos de venda ao público apresentará, obrigatoriamente, o aspecto e características previstos no anexo à presente portaria, que dela faz parte integrante.
+3.º As empresas petrolíferas que detenham, ou venham a deter, o estatuto de depositário autorizado ou de operador registado, previstos no Decreto-Lei n.º 52/93, de 26 de Fevereiro, e no Decreto-Lei n.º 123/94, de 18 de Maio, poderão comercializar o gasóleo colorido e marcado destinado a usos agrícolas a partir da data em que o produto estiver disponível no mercado nacional.
+4.º A faculdade referida no número anterior fica condicionada à celebração de um contrato entre o Estado e a empresa candidata, no qual esta se comprometerá a disponibilizar a venda ao público de gasóleo colorido e marcado, na proporção de, pelo menos, um posto de abastecimento por cada 600000 l de gasóleo vendido à agricultura em 1995.
+5.º As empresas petrolíferas que já outorgaram contratos com o Estado no âmbito do anterior sistema de isenção parcial do imposto sobre os produtos petrolíferos (ISP) para o gasóleo destinado à agricultura somente necessitarão de celebrar um aditamento a esses contratos, relativo à rede mínima de postos de venda ao público do novo produto.
+6.º Os contratos referidos no número anterior serão celebrados no prazo máximo de 30 dias contados a partir da data da entrada em vigor da presente portaria.
+7.º Os proprietários ou os responsáveis legais pela exploração dos postos autorizados para a venda ao público do gasóleo colorido e marcado só poderão vender o produto aos titulares de cartões com microcircuito, emitidos sob a responsabilidade do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, sendo responsáveis pelo pagamento do ISP e respectivo IVA resultantes da diferença entre a taxa do imposto aplicável ao gasóleo rodoviário e a taxa do imposto aplicável ao gasóleo colorido e marcado em relação às quantidades que venderem e que não fiquem documentadas no movimento contabilístico do posto.
+8.º O controlo das quantidades vendidas pelos postos de abastecimento previstos no número anterior é da competência da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo e terá por base a informação constante dos sistemas informáticos relativos ao gasóleo agrícola geridos pela Sociedade Interbancária de Serviços (SIBS) e pela empresa Petróleos de Portugal - Petrogal, S. A.
+Ministérios das Finanças, da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
+Assinada em 17 de Março de 1997.
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.
+
+ANEXO
+Identificação de bomba de gasóleo agrícola
+Normas de aplicação
+(ver documento original)
