@@ -1,0 +1,5 @@
+Declaração de Rectificação n.º 87/2004
+Segundo comunicação do Ministério das Actividades Económicas e do Trabalho, a Portaria n.º 1053/2004, publicada no Diário da República, 1.ª série, n.º 195, de 19 de Agosto de 2004, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+1 - No mapa anexo, no grupo de pessoal técnico superior, na col. «Área funcional», onde se lê «Geologia, Engenharia de Minas, Jurídica, Organização, Economia, Gestão, Planeamento e Documentação» deve ler-se «Geologia, Engenharia, Jurídica, Organização, Economia, Gestão, Planeamento e Documentação».
+2 - E no grupo de pessoal técnico, na col. «Área funcional», onde se lê «Geologia, Engenharia de Minas, Jurídica, Organização, Economia, Gestão, Planeamento e Documentação» deve ler-se «Geologia, Engenharia, Organização, Planeamento e Documentação».
+Secretaria-Geral da Presidência do Conselho de Ministros, 27 de Setembro de 2004. - O Secretário-Geral, José M. Sousa Rego.
