@@ -14,4 +14,4 @@
 
 2 - No caso previsto no n.º 2 do artigo anterior, o segundo sufrágio realizar-se-á no vigésimo primeiro dia posterior ao primeiro.
 
-3 - Tanto o primeiro como o eventual segundo sufrágios realizar-se-ão entre o 60.º e o 30.º dias anteriores ao termo do mandato do Presidente da República cessante ou entre o 60.º e o 90.º dia posteriores à vagatura do cargo.
+3 - Tanto o primeiro como o eventual segundo sufrágio realizar-se-ão nos 60 dias anteriores ao termo do mandato do Presidente da República cessante, ou nos 60 dias posteriores à vagatura do cargo.

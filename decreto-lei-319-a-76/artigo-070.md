@@ -14,7 +14,7 @@
 
 ### Presencialidade e pessoalidade do voto
 
-1 - O direito de voto é exercido presencialmente no território nacional, sem prejuízo do disposto nos artigos 70.º-A, 70.º-B e 70.º-C.
+1 - O direito de voto é exercido presencialmente, sem prejuízo do disposto nos artigos 70.º-A, 70.º-B, 70.º-C e 70.º-D.
 
 2 - O direito de voto é exercido directamente pelo cidadão eleitor.
 

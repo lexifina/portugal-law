@@ -15,3 +15,5 @@
 6. O número de boletins de voto remetidos, em sobrescrito fechado e lacrado, será igual ao número de eleitores inscritos na assembleia ou secção de voto mais 20%.
 
 7. O presidente da câmara ou da comissão administrativa municipal ou, nos concelhos onde existirem bairros administrativos, o administrador de bairro e os presidentes das assembleias ou secções de voto prestarão contas ao governador civil dos boletins de voto que receberam, devendo os presidentes das assembleias ou secções de voto devolver-lhe, no dia seguinte ao da eleição, os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores.
+
+8 - Tratando-se de assembleias de voto que reúnam fora do território nacional, as competências do presidente da câmara municipal entender-se-ão deferidas ao presidente da comissão recenseadora.

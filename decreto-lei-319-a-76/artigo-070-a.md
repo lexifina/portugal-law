@@ -14,6 +14,18 @@ d) Os eleitores que por motivo de doença se encontrem internados ou presumivelm
 
 e) Os eleitores que se encontrem presos e não privados de direitos políticos.
 
-2 - Só são considerados os votos recebidos na sede da junta de freguesia correspondente à assembleia de voto em que o eleitor deveria votar até ao dia anterior ao da realização da eleição.
+2 - Podem ainda votar antecipadamente os seguintes eleitores recenseados no território nacional e deslocados no estrangeiro:
 
-3 - As candidaturas concorrentes à eleição podem nomear, nos termos gerais, delegados para fiscalizar as operações de voto antecipado, os quais gozam de todas as imunidades e direitos previstos nos artigos 40.º-A e 41.º-A.
+a) Militares, agentes militarizados e civis integrados em operações de manutenção de paz, cooperação técnico-militar ou equiparadas;
+
+b) Médicos, enfermeiros e outros cidadãos integrados em missões humanitárias, como tal reconhecidas pelo Ministério dos Negócios Estrangeiros;
+
+c) Investigadores e bolseiros em instituições universitárias ou equiparadas, como tal reconhecidas pelo ministério competente;
+
+d) Estudantes de escolas superiores, ao abrigo de programas de intercâmbio.
+
+3 - Podem ainda votar antecipadamente os cidadãos eleitores cônjuges ou equiparados, parentes ou afins que vivam com os eleitores mencionados no número anterior.
+
+4 - Só são considerados os votos recebidos na sede da junta de freguesia correspondente à assembleia de voto em que o eleitor deveria votar até ao dia anterior ao da realização da eleição.
+
+5 - As candidaturas concorrentes à eleição podem nomear, nos termos gerais, delegados para fiscalizar as operações de voto antecipado, os quais gozam de todas as imunidades e direitos previstos nos artigos 40.º-A e 41.º-A.
