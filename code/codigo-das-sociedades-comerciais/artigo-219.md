@@ -14,7 +14,7 @@
 
 2 - Em caso de divisão de quotas ou de aumento de capital, a cada sócio só pode caber uma nova quota. Na última hipótese, todavia, podem ser atribuídas ao sócio tantas quotas quantas as que já possuía.
 
-3 - Os valores nominais das quotas podem ser diversos, mas nenhum pode ser inferior a 20000$00, salvo quando a lei o permitir.
+3 - Os valores nominais das quotas podem ser diversos, mas nenhum pode ser inferior a 100 euros, salvo quando a lei o permitir.
 
 4 - A quota primitiva de um sócio e as que posteriormente adquirir são independentes. O titular pode, porém, unificá-las, desde que estejam integralmente liberadas e lhes não correspondam, segundo o contrato de sociedade, direitos e obrigações diversos.
 

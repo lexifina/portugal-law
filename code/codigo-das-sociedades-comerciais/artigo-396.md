@@ -2,7 +2,7 @@
 
 ### (Caução)
 
-1 - A responsabilidade de cada administrador deve ser caucionada por alguma das formas admitidas por lei, na importância que for fixada pelo contrato de sociedade, mas não inferior a 500000$00.
+1 - A responsabilidade de cada administrador deve ser caucionada por alguma das formas admitidas por lei, na importância que for fixada pelo contrato de sociedade, num valor nunca inferior a 5000 euros.
 
 2 - A caução pode ser substituída por um contrato de seguro, a favor da sociedade, cujos encargos não podem ser suportados por esta, salvo na parte em que a indemnização exceda o mínimo fixado no número anterior.
 

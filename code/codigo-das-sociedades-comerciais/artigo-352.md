@@ -24,4 +24,4 @@ i) A série, se disso for caso.
 
 2 - O título de obrigação deve ser assinado por um ou mais administradores ou directores, podendo as assinaturas ser de chancela por eles autorizada, ou por mandatários da sociedade para o efeito designados.
 
-3 - O valor nominal da obrigação deve ser expresso em moeda portuguesa, salvo se, nos termos da legislação em vigor, for autorizado o pagamento em moeda estrangeira.
+3 - O valor nominal da obrigação deve ser expresso em moeda com curso legal em Portugal, salvo se, nos termos da legislação em vigor, for autorizado o pagamento em moeda diversa.
