@@ -1,0 +1,10 @@
+Portaria n.º 37/2000
+de 28 de Janeiro
+Com fundamento no disposto no artigo 20.º da Lei n.º 30/86, de 27 de Agosto, e no Decreto-Lei n.º 251/92, de 12 de Novembro, foi, pela Portaria n.º 882/95, de 14 de Julho, concessionada uma zona de caça turística à TURIPERDIZ - Turismo, Pesca, Caça e Turismo de Habitação, Lda., abrangendo vários prédios rústicos sitos nas freguesias de Fiães do Rio, Paradela do Rio e Contim, município de Montalegre, com uma área de 1990 ha, válida até 14 de Julho de 2003.
+Considerando que a entidade concessionária não cumpriu o plano de aproveitamento turístico aprovado, porquanto não procedeu à implementação do alojamento previsto no mesmo e, consequentemente, não diligenciou a sua legalização nem tão-pouco instalou o pavilhão de caça dentro do prazo fixado, violando o disposto na alínea b) do artigo 73.º do Decreto-Lei n.º 136/96, de 14 de Agosto;
+Considerando que a entidade concessionária não cumpriu o plano de ordenamento e exploração cinegético aprovado, porquanto não procedeu à instalação de culturas para a caça, em violação também do disposto na alínea b) do citado artigo 73.º;
+Considerando que a entidade concessionária deixou de assegurar, desde 1997, a fiscalização da zona de caça turística do rio Cávado por um guarda florestal auxiliar, a que estava obrigada nos termos do n.º 6.º da Portaria n.º 882/95, de 14 de Julho;
+Com fundamento no disposto na alínea b) do n.º 1 do artigo 86.º do Decreto-Lei n.º 136/96, de 14 de Agosto:
+Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas, que seja extinta a concessão do regime cinegético especial atribuída, pela Portaria n.º 882/95, de 14 de Julho, à TURIPERDIZ - Turismo, Pesca, Caça e Turismo de Habitação, Lda. (processo n.º 1834-DGF).
+Em 13 de Dezembro de 1999.
+Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.
