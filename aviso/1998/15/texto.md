@@ -1,0 +1,5 @@
+Aviso n.º 15/98
+Por ordem superior se torna público que, em 10 de Dezembro de 1997 e em 12 de Novembro de 1997, foram remetidas notas, respectivamente por Portugal e pela Venezuela, em que se comunica terem sido cumpridas as formalidades requeridas pelos ordenamentos jurídicos de ambos os países para a aprovação da Convenção entre a República Portuguesa e a República da Venezuela para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento e respectivo Protocolo, assinados em Lisboa em 23 de Abril de 1996.
+A presente Convenção foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 68/97 e ratificada pelo Decreto do Presidente da República n.º 71/97, publicados no Diário da República, 1.ª série-A, n.º 281/97, de 5 de Dezembro.
+Em conformidade com o artigo 29.º da Convenção, esta entrou em vigor em 8 de Janeiro de 1998.
+Direcção-Geral das Relações Bilaterais, 31 de Dezembro de 1997. - O Director-Geral, João Manuel Guerra Salgueiro.
