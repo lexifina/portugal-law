@@ -1,0 +1,7 @@
+Decreto n.º 48107
+Tendo havido necessidade de escolher terreno diferente do inicialmente previsto para a implantação do edifício destinado ao Instituto Superior de Higiene do Dr. Ricardo Jorge, considerou-se conveniente estabelecer novo programa e suspender a elaboração do respectivo projecto, não tendo assim sido dado cumprimento aos prazos previstos no Decreto n.º 46444, de 16 de Julho de 1965, que abrangia o citado ano e o de 1966;
+Considerando que se torna, por outro lado, conveniente adicionar ao contrato celebrado com o arquitecto António Pedro Pardal Monteiro, a que respeita o aludido decreto, o custo do projecto resultante da nova orientação e prorrogar o seu prazo de elaboração até ao ano de 1970;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo único. É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a alterar o limite e a distribuição dos encargos a satisfazer com a elaboração do projecto do Instituto Superior de Higiene do Dr. Ricardo Jorge e respectiva assistência técnica, a que se refere o Decreto n.º 46444, de 16 de Julho de 1965, para 584683$00, podendo liquidar-se no corrente ano a quantia de 273351$00; em 1968, 155666$00; em 1969, 77833$00, e, em 1970, a importância de 77833$00, ou o que se apurar como saldo.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 13 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - José Albino Machado Vaz.
