@@ -1,0 +1,18 @@
+Aviso n.º 193/98
+Por ordem superior se torna público que, por nota de 7 de Abril de 1998 e nos termos do artigo 32.º da Convenção Europeia de Extradição, aberta à assinatura em Paris em 13 de Dezembro de 1957, a Secretaria-Geral do Conselho da Europa notificou ter a Ucrânia, em 11 de Março de 1998, depositado o seu instrumento de ratificação da mencionada Convenção, com as seguintes declarações e reservas:
+«Article 1. - Ukraine reserves the right to refuse extradition if the person whose extradition is requested cannot, on account of his/her state of health, be extradited without damage to his/her health.
+Article 2, paragraph 1. - Ukraine shall grant extradition only for offences which are punishable by imprisonment for a maximum period of not less than one year or by a more severe penalty.
+Article 4. - The extradition in respect of general criminal offences which are also military offences may only be granted provided that the person whose extradition is requested will not be subject to criminal prosecution in accordance with martial law.
+Article 6, paragraph 1, subparagraphs a) and b). - Ukraine will not extradite citizens of Ukraine to another State. For the purposes of this Convention, any person is considered to be a citizen of Ukraine who, in accordance with the laws of Ukraine at the time when the decision to extradite is taken, is a citizen of Ukraine.
+Article 21, paragraph 5. - Ukraine shall allow transit through its territory of persons who are extradited on the same conditions as those on which extradition is granted.
+Article 23. - Requests for extradition and documents appended thereto shall be sent to Ukraine together with a translation into Ukrainian or into one of the official languages of the Council of Europe unless they are drawn up in those languages.»
+Tradução
+«Artigo 1.º - A Ucrânia reserva-se o direito de recusar a extradição se a pessoa cuja extradição é requerida não puder, devido ao seu estado de saúde, ser extraditada sem dano para a sua saúde.
+Artigo 2.º, parágrafo 1.º - A Ucrânia concederá a extradição apenas para crimes que sejam puníveis com pena de prisão por um período máximo de pelo menos um ano ou com pena mais grave.
+Artigo 4.º - A extradição respeitante a crimes comuns que sejam também crimes militares apenas pode ser concedida se a pessoa cuja extradição é pedida não for sujeita a procedimento criminal nos termos de lei marcial.
+Artigo 6.º, parágrafo 1.º, subparágrafos a) e b). - A Ucrânia não extraditará cidadãos da Ucrânia para outro Estado. Para efeitos da presente Convenção, é considerado como sendo cidadão da Ucrânia quem, segundo as leis da Ucrânia vigentes no momento em que a decisão de extraditar é tomada, for cidadão da Ucrânia.
+Artigo 21.º, parágrafo 5.º - A Ucrânia autorizará o trânsito através do seu território de pessoas que sejam extraditadas nas mesmas condições em que a extradição é concedida.
+Artigo 23.º - Os pedidos de extradição e os documentos apensos a estes serão enviados para a Ucrânia acompanhados de tradução para ucraniano ou para uma das línguas oficiais do Conselho da Europa, a menos que tenham sido redigidos nessas línguas.»
+A Convenção entrou em vigor para a Ucrânia em 9 de Junho de 1998.
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 23/89, de 21 de Agosto, tendo depositado o seu instrumento de ratificação conforme aviso publicado no Diário da República, 1.ª série, n.º 76, de 31 de Março de 1990, com uma declaração e reservas.
+Departamento de Assuntos Jurídicos, 21 de Setembro de 1998. - O Director, José Maria Teixeira Leite Martins.
