@@ -1,0 +1,10 @@
+Decreto-Lei n.º 43293
+Considerando que, nos termos do § único do artigo 9.º do Decreto-Lei n.º 43077, de 18 de Julho de 1960, compete ao chefe do Estado-Maior General das Forças Armadas assumir, quando tal seja julgado conveniente, a chefia directa de operações militares;
+Tornando-se necessário definir a competência administrativa para autorização de despesas que à mesma entidade deve caber quando desempenhar essas funções;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O chefe do Estado-Maior General das Forças Armadas, no caso de assumir a chefia directa de operações militares, a que se refere o § único do artigo 9.º do Decreto-Lei n.º 43077, de 18 de Julho de 1960, superintende na administração, preparação, disciplina e eficiência das tropas.
+Art. 2.º Nos termos do artigo anterior, é fixada nos seguintes limites a competência administrativa para autorização de despesas do chefe do Estado-Maior General das Forças Armadas:
+a) Até 250000$00, para as despesas a efectuar com dispensa de realização de concurso, público ou limitado, e da celebração de contrato escrito;
+b) Até 500000$00, para as despesas com obras ou com a aquisição de material a efectuar pelos serviços de si dependentes sujeitas à realização de concurso, público ou limitado, e à celebração de contrato escrito.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 5 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
