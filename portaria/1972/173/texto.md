@@ -1,0 +1,12 @@
+Portaria n.º 173/72
+de 27 de Março
+Tendo em atenção o disposto no artigo 50.º do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, promulgado pelo Decreto n.º 566/71, de 20 de Dezembro:
+Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional, do Exército e da Marinha e pelo Secretário de Estado da Aeronáutica, para execução nas forças armadas:
+1.º A concessão da medalha comemorativa das campanhas das forças armadas portuguesas de terra, mar e ar é feita a todos os militares ou equiparados e elementos das forças militarizadas, da metrópole ou do ultramar, que, a partir de 20 de Dezembro de 1971, tenham pertencido ou venham a pertencer às forças de terra, mar e ar em actuação nas províncias da Guiné, Angola e Moçambique, nas zonas definidas ou a definir com referência ao artigo 1.º do Decreto-Lei n.º 46451, de 26 de Julho de 1965.
+Igualmente é feita a concessão da mesma medalha a todos os militares ou equiparados e elementos das forças militarizadas, da metrópole ou do ultramar, que, tendo iniciado a actuação nas zonas atrás referidas antes de 20 de Dezembro de 1971, a tenham concluído nesta data ou venham a concluí-la em data posterior.
+2.º A insígnia da medalha referida no número anterior é a constante do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, levando na passadeira da fita de suspensão o nome da província e o ano ou anos em que o agraciado se manteve na situação que lhe dá direito à concessão da medalha.
+3.º A referida concessão terá lugar em conformidade com o estabelecido nos artigos 49.º, 51.º, 65.º, 73.º, 75.º, 85.º, 87.º e 88.º do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas.
+4.º A concessão desta medalha a elementos das forças militarizadas ou equiparados a militares é da competência dos Ministros do Exército e da Marinha e do Secretário de Estado da Aeronáutica, conforme apoiem forças de terra, mar e ar ou com elas cooperem.
+5.º Os estudantes universitários que tiverem direito à medalha comemorativa a que se refere a presente portaria poderão ostentá-la ao peito, do lado esquerdo, quando façam uso do vestuário tradicional de capa e batina.
+As miniaturas da medalha podem, igualmente, ser usadas por todos os agraciados, quando façam uso do traje civil, na lapela do casaco, do lado esquerdo.
+O Ministro da Defesa Nacional e do Exército, Horácio José de Sá Viana Rebelo. - O Ministro da Marinha, Manuel Pereira Crespo. - O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.
