@@ -12,4 +12,6 @@ b) As operações de crédito realizadas e as garantias prestadas por instituiç
 
 c) Os juros, as comissões e outras contraprestações cobrados por instituições de crédito ou sociedades financeiras sediadas no estrangeiro ou por filiais ou sucursais no estrangeiro de instituições de crédito ou sociedades financeiras sediadas no território nacional a quaisquer entidades domiciliadas neste território, considerando-se domicílio a sede, filial, sucursal ou estabelecimento estável das entidades que intervenham na realização das operações;
 
-d) Os seguros efectuados noutros Estados membros da União Europeia, cujo risco objecto do seguro tenha lugar no território nacional, não sendo devido, no entanto, quanto aos seguros efectuados em Portugal cujo risco ocorra noutro Estado membro da União Europeia.
+d) Os seguros efectuados noutros Estados membros da União Europeia, cujo risco objecto do seguro tenha lugar no território nacional, não sendo devido, no entanto, quanto aos seguros efectuados em Portugal cujo risco ocorra noutro Estado membro da União Europeia;
+
+e) Os seguros efectuados fora da União Europeia, cujo risco objecto do seguro tenha lugar no território nacional.

@@ -16,8 +16,6 @@
 
 7 - A aquisição das letras é efectuada mediante requisição de modelo oficial que contém a identificação fiscal da entidade adquirente, bem como da tipografia, ficando esta sujeita relativamente ao registo e comunicação às mesmas obrigações aplicáveis à impressão das facturas com as adaptações necessárias.
 
-8 - As entidades que emitam letras devem possuir registo de onde conste o número sequencial, a data de emissão e o valor da letra, bem como o valor e a data de liquidação do imposto.
+8 - As entidades que emitam letras e livranças devem possuir registo onde conste o número sequencial, a data de emissão e o valor da letra ou livrança, bem como o valor e a data de liquidação do imposto.
 
-9 - As letras oficialmente editadas são requisitadas nos serviços locais da administração fiscal da respectiva área ou noutros estabelecimentos que aquela autorize.
-
-10 - As livranças são exclusivamente editadas pelas instituições de crédito e sociedades financeiras.
+9 - As letras oficialmente editadas são requisitadas nos serviços locais da administração fiscal ou noutros estabelecimentos que aquela autorize.

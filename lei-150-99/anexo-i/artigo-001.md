@@ -12,4 +12,4 @@
 
 1 - O imposto do selo incide sobre todos os actos, contratos, documentos, títulos, livros, papéis e outros factos previstos na Tabela Geral.
 
-2 - Não estão sujeitas a imposto as operações abrangidas pela incidência do imposto sobre o valor acrescentado e dele não isentas.
+2 - Os modelos de impressos exigidos para dar cumprimento às obrigações impostas pelo Código serão aprovados por portaria do Ministro das Finanças.

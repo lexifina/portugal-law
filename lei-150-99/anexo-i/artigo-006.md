@@ -12,9 +12,9 @@ c) Os escritos de quaisquer contratos que devam ser celebrados no âmbito das op
 
 d) As garantias inerentes às operações a prazo realizadas, registadas, liquidadas ou compensadas através da bolsa e que tenham por objecto, directa ou indirectamente, valores mobiliários, de natureza real ou teórica, direitos a eles equiparados, contratos de futuros, taxas de juro, divisas ou índices sobre valores mobiliários, taxas de juro ou divisas;
 
-e) Os juros cobrados e a utilização de crédito concedido por instituições de crédito e sociedades financeiras a instituições, sociedades ou entidades cuja forma e objecto preencham os tipos de instituições de crédito e sociedades financeiras previstas na legislação comunitária, umas e outras domiciliadas nos Estados membros da União Europeia, ou em qualquer Estado cumpridor dos princípios decorrentes do Código de Conduta aprovado pela Resolução do Conselho da União Europeia, de 1 de Dezembro de 1997;
+e) Os juros cobrados e a utilização de crédito concedido por instituições de crédito e sociedades financeiras a instituições, sociedades ou entidades cuja forma e objecto preencham os tipos de instituições de crédito e sociedades financeiras previstas na legislação comunitária, umas e outras domiciliadas nos Estados membros da União Europeia, ou em qualquer Estado, com excepção das domiciliadas em territórios com regime fiscal privilegiado a definir por portaria do Ministro das Finanças;
 
-f) As comissões cobradas por instituições de crédito a outras instituições da mesma natureza ou entidades cuja forma e objecto preencham os tipos de instituições de crédito previstos na legislação comunitária, domiciliadas nos Estados membros da União Europeia, ou em qualquer Estado cumpridor dos princípios decorrentes do Código de Conduta aprovado pela Resolução do Conselho da União Europeia, de 1 de Dezembro de 1997;
+f) As comissões cobradas por instituições de crédito a outras instituições da mesma natureza ou entidades cuja forma e objecto preencham os tipos de instituições de crédito previstos na legislação comunitária, domiciliadas nos Estados membros da União Europeia, ou em qualquer Estado, com excepção das domiciliadas em territórios com regime fiscal privilegiado a definir por portaria do Ministro das Finanças;
 
 g) As operações financeiras, incluindo os respectivos juros, por prazo não superior a um ano, desde que exclusivamente destinadas à cobertura de carências de tesouraria e efectuadas por sociedades gestoras de participações sociais (SGPS) a favor de sociedades por elas dominadas ou a sociedades em que detenham participações previstas no n.º 2 do artigo 1.º e nas alíneas b) e c) do n.º 3 do artigo 3.º do Decreto-Lei n.º 495/88, de 30 de Dezembro, e, bem assim, efectuadas em benefício da sociedade gestora de participações sociais pelas sociedades que com ela se encontrem em relação de domínio ou de grupo;
 
@@ -34,6 +34,8 @@ o) O crédito concedido por meio de «conta poupança-ordenado», na parte em qu
 
 p) Os actos, contratos e operações em que as instituições comunitárias ou o Banco Europeu de Investimentos sejam intervenientes ou destinatárias;
 
-q) O jogo do bingo e os jogos organizados por instituições de solidariedade social, pessoas colectivas legalmente equiparadas ou pessoas colectivas de utilidade pública que desempenhem única e exclusiva ou predominantemente fins de caridade, assistência ou beneficência, quando a receita se destine aos seus fins estatutários ou, nos termos da lei, reverta obrigatoriamente a favor de outras entidades.
+q) Os jogos organizados por institutos de solidariedade social, pessoas colectivas legalmente equiparadas ou pessoas colectivas de utilidade pública que desempenhem exclusiva ou predominantemente fins de caridade, assistência ou beneficência, quando a receita se destine aos seus fins estatutários ou, nos termos da lei, reverta obrigatoriamente a favor de outras entidades.
 
-2 - O disposto nas alíneas g) e h) não se aplica quando qualquer dos intervenientes não tenha sede ou direcção efectiva no território nacional.
+2 - O disposto nas alíneas e) e f) apenas se aplica às operações financeiras directamente destinadas à concessão de crédito, no âmbito da actividade exercida pelas instituições e entidades referidas naquelas alíneas.
+
+3 - O disposto nas alíneas g) e h) não se aplica quando qualquer dos intervenientes não tenha sede ou direcção efectiva no território nacional.
