@@ -1,0 +1,5 @@
+Aviso n.º 182/2004
+Por ordem superior se torna público que, em 9 de Agosto de 2004, o Quiribati depositou o seu instrumento de adesão às Emendas introduzidas ao Protocolo de Montreal sobre as Substâncias Que Empobrecem a Camada de Ozono, adoptadas na 2.ª Reunião das Partes Contratantes do Protocolo.
+Portugal é Parte das mesmas Emendas, aprovadas, para ratificação, pelo Decreto n.º 39/92, de 20 de Agosto, publicado no Diário da República, 1.ª série-A, n.º 191, de 20 de Agosto de 1992, tendo depositado o seu instrumento de ratificação em 24 de Novembro de 1992, conforme o Aviso n.º 88/93 (Diário da República, 1.ª série-A, n.º 94, de 22 de Abril de 1993), e tendo as Emendas entrado em vigor para Portugal em 22 de Fevereiro de 1993 (Diário da República, 1.ª série-A, n.º 150, de 2 de Julho de 1998).
+As Emendas entraram em vigor para o Quiribati em 7 de Novembro de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 10 de Novembro de 2004. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
