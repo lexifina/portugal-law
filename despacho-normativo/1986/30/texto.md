@@ -1,0 +1,3 @@
+Despacho Normativo n.º 30/86
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, em aditamento à tabela n.º 2 - Produtos fitoformacêuticos, aprovada pelo Despacho Normativo n.º 346/80, publicado no Diário da República, 1.ª série, n.º 250, de 28 de Outubro de 1980, é autorizado o lançamento no mercado de uma nova embalagem com o conteúdo líquido de 15 kg para os produtos fitofarmacêuticos com base na substância activa cumatetralil, com o teor de 0,75% (p/p), formulado em pó.
+Secretarias de Estado da Agricultura e do Comércio Interno, 3 de Abril de 1986. - O Secretário de Estado da Agricultura, Joaquim António Rosado Gusmão. - O Secretário de Estado do Comércio Interno, Jorge Manuel Águas da Ponte Silva Marques.
