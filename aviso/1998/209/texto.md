@@ -1,0 +1,4 @@
+Aviso n.º 209/98
+Por ordem superior se faz público que, segundo comunicação do Secretário-Geral das Nações Unidas de 7 de Agosto de 1998, o Governo de Tongo depositou, em 6 de Julho de 1998, o instrumento de aceitação à Emenda ao Protocolo de Montreal sobre Substâncias Que Esgotam a Camada de Ozono, adoptada na quarta reunião das Partes, em Copenhaga, a 25 de Novembro de 1992.
+A referida Emenda foi aprovada, para ratificação, por Portugal, nos termos do Decreto n.º 27/97, publicado no Diário da República, 1.ª série-A, n.º 128, de 4 de Junho de 1997, tendo sido depositado o correspondente instrumento em 24 de Fevereiro de 1998, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 120, de 25 de Maio de 1998.
+Direcção-Geral dos Assuntos Multilaterais, 6 de Outubro de 1998. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
