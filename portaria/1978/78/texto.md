@@ -1,0 +1,6 @@
+Portaria n.º 78/78
+de 9 de Fevereiro
+O Decreto-Lei n.º 236-B/76, de 5 de Abril, veio definir, como área de intervenção a que se referia o n.º 1 do artigo 1.º do Decreto-Lei n.º 406-A/75, de 29 de Julho, na sua nova redacção, exclusivamente, as seguintes circunscrições administrativas do distrito de Castelo Branco: concelhos de Castelo Branco, Idanha-a-Nova e Vila Velha de Ródão. Pela Portaria n.º 776/75 foi expropriado o prédio rústico denominado «Granja de Penha Garcia», propriedade da Companhia Agrícola Penha Garcia, S. A. R. L., parte do qual situado fora daquela zona.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura e Pescas, que, ao abrigo da alínea b) do artigo 1.º do Decreto-Lei n.º 236-B/76, seja derrogada a Portaria n.º 776/75, de 27 de Dezembro, no que concerne à expropriação de 438,500 ha do prédio rústico da Companhia Agrícola Penha Garcia, S. A. R. L., denominado «Granja da Penha Garcia, S. A. R. L.», inscrito na matriz predial rústica sob o artigo 5772, freguesia e concelho de Penamacor, situados fora da zona de intervenção da Reforma Agrária.
+Ministério da Agricultura e Pescas, 26 de Janeiro de 1978. - O Ministro da Agricultura e Pescas, António Miguel Morais Barreto.
