@@ -1,19 +1,13 @@
 # Artigo 95.º
 
-### (Proibição da presença de não eleitores)
+### (Proibição de presença de força armada e casos em que pode comparecer)
 
-1 - O presidente da assembleia eleitoral deve mandar sair do local onde ela estiver reunida os cidadãos que aí não possam votar, salvo se se tratar de candidatos e mandatários ou delegados das listas.
+1 - Salvo o disposto nos números seguintes, nos locais onde se reunirem as assembleias de voto, e num raio de 100 m, é proibida a presença de força armada.
 
-2 - Exceptuam-se deste princípio os agentes dos órgãos de comunicação social, que podem deslocar-se às assembleias ou secções de voto para obtenção de imagens ou de outros elementos de reportagem.
+2 - Quando for necessário pôr termo a algum tumulto ou obstar a qualquer agressão ou violência, quer dentro do edifício da assembleia ou secção de voto, quer na sua proximidade, ou ainda em caso de desobediência às suas ordens, pode o presidente da mesa, consultada esta, requisitar a presença de força armada, sempre que possível por escrito, ou, no caso de impossibilidade, com menção na acta eleitoral das razões da requisição e do período da presença da força armada.
 
-3 - Os agentes dos órgãos de comunicação social devem:
+3 - O comandante da força armada que possua indícios seguros de que se exerce sobre os membros da mesa coacção física ou psíquica que impeça o presidente de fazer a requisição pode intervir por iniciativa própria, a fim de assegurar a genuinidade do processo eleitoral, devendo retirar-se logo que pelo presidente, ou por quem o substitua, lhe seja formulado pedido nesse sentido, ou quando verifique que a sua presença já não se justifica.
 
-a) Identificar-se perante a mesa antes de iniciarem a sua actividade, exibindo documento comprovativo da sua profissão e credencial do órgão que representam;
+4 - Quando o entenda necessário, o comandante da força armada, ou um seu delegado credenciado, pode visitar, desarmado e por um período máximo de dez minutos, a assembleia ou secção de voto, a fim de estabelecer contacto com o presidente da mesa ou com quem o substitua.
 
-b) Não colher imagens nem de qualquer modo aproximar-se das câmaras de voto a ponto de poderem comprometer o carácter secreto do sufrágio;
-
-c) Não obter outros elementos de reportagem que possam violar o segredo do voto, quer no interior da assembleia de voto, quer no exterior dela, até à distância de 500 m;
-
-d) De um modo geral não perturbar o acto eleitoral.
-
-4 - As imagens ou outros elementos de reportagem obtidos nos termos referidos no número anterior só podem ser transmitidos após o encerramento das assembleias ou secções de voto.
+5 - Nos casos previstos nos n.os 2 e 3, as operações eleitorais na assembleia ou secção de voto são suspensas, sob pena de nulidade da eleição, até que o presidente da mesa considere verificadas as condições para que possam prosseguir.

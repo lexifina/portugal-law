@@ -2,11 +2,11 @@
 
 ### (Inelegibilidades gerais)
 
-São inelegíveis para a Assembleia Legislativa da Região Autónoma dos Açores:
+São inelegíveis para a Assembleia Legislativa Regional:
 
 a) O Presidente da República;
 
-b) Os Representantes da República;
+b) Os Ministros da República;
 
 c) Os governadores civis e vice-governadores em exercício de funções;
 

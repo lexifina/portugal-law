@@ -1,7 +1,5 @@
 # Artigo 114.º
 
-### Termo do apuramento geral
+### (Proclamação e publicação dos resultados)
 
-1 - O apuramento geral estará concluído até ao 10.º dia posterior à eleição, sem prejuízo do disposto no número seguinte.
-
-2 - Em caso de adiamento ou declaração de nulidade da votação em qualquer assembleia ou secção de voto, a assembleia de apuramento geral reunirá no dia seguinte ao da votação ou ao do reconhecimento da sua impossibilidade, nos termos do n.º 3 do artigo 90.º, para completar as operações de apuramento do círculo.
+Os resultados do apuramento geral são proclamados pelo presidente e, em seguida, publicados por meio de edital afixado à porta do edifício do membro do Governo Regional com competência em matéria eleitoral.

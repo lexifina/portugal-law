@@ -1,5 +1,5 @@
 # Artigo 126.º
 
-### (Punição da tentativa e do crime frustrado)
+### (Não suspensão ou substituição das penas)
 
-A tentativa e o crime frustrado são punidos da mesma forma que o crime consumado.
+As penas aplicadas por infracções eleitorais dolosas não podem ser suspensas nem substituídas por qualquer outra pena.

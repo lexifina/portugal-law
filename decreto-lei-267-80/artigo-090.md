@@ -1,7 +1,9 @@
 # Artigo 90.º
 
-### (Ordem de votação)
+### (Continuidade das operações eleitorais e encerramento da votação)
 
-1 - Os eleitores votam pela ordem de chegada à assembleia de voto, dispondo-se para o efeito em fila.
+1 - A assembleia eleitoral funciona ininterruptamente até serem concluídas todas as operações de votação e apuramento.
 
-2 - Os presidentes das assembleias ou secções de voto devem permitir que os membros das mesas e delegados de candidatura em outras assembleias ou secções de voto exerçam o seu direito de sufrágio logo que se apresentem e exibam o alvará ou credencial respectivos.
+2 - A admissão de eleitores na assembleia de voto faz-se até às 19 horas. Depois desta hora apenas podem votar os eleitores presentes.
+
+3 - O presidente declara encerrada a votação logo que tiverem votado todos os eleitores inscritos ou, depois das 19 horas, logo que tiverem votado todos os eleitores presentes na assembleia de voto.

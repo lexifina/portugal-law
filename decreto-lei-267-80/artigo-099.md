@@ -1,17 +1,17 @@
 # Artigo 99.º
 
-### Voto dos eleitores com deficiência
+### (Voto em branco ou nulo)
 
-1 - O eleitor afectado por doença ou deficiência física notórias, que a mesa verifica não poder praticar os actos descritos no artigo 98.º, vota acompanhado de outro eleitor por si escolhido, que garanta a fidelidade de expressão do seu voto e que fica obrigado a sigilo absoluto.
+1 - Considera-se voto em branco o do boletim de voto que não tenha sido objecto de qualquer tipo de marca.
 
-2 - Se a mesa deliberar que não se verifica a notoriedade da doença ou deficiência física, exige que lhe seja apresentado no acto de votação atestado comprovativo da impossibilidade da prática dos actos referidos no número anterior, emitido pelo médico que exerça poderes de autoridade sanitária na área do município e autenticado com selo do respectivo serviço.
+2 - Considera-se voto nulo o do boletim de voto:
 
-3 - Para efeitos do número anterior, devem os centros de saúde manter-se abertos no dia da eleição, durante o período de funcionamento das assembleias eleitorais.
+a) No qual tenha sido assinalado mais de um quadrado ou quando haja dúvidas sobre qual o quadrado assinalado;
 
-4 - Sem prejuízo da decisão da mesa sobre a admissibilidade do voto, qualquer dos respectivos membros ou dos delegados dos partidos políticos ou coligação pode lavrar protesto.
+b) No qual tenha sido assinalado o quadrado correspondente a uma lista que tenha desistido das eleições ou não tenha sido admitida;
 
-5 - Os eleitores com deficiência visual podem, caso o pretendam, requerer à mesa a disponibilização de matriz do boletim de voto em braille que lhes permita, sozinhos, praticar os atos descritos no artigo 98.º
+c) No qual tenha sido feito qualquer corte, desenho ou rasura ou quando tenha sido escrita qualquer palavra.
 
-6 - Os presidentes de mesa devem anunciar, no início do ato eleitoral, a existência de matrizes do boletim de voto em braille disponíveis para consulta e utilização no interior da assembleia ou secção de voto.
+3 - Não se considera voto nulo o do boletim de voto no qual a cruz, embora não perfeitamente desenhada ou excedendo os limites do quadrado, assinale inequivocamente a vontade do eleitor.
 
-7 - Os membros das mesas de voto devem receber formação prévia sobre o manuseamento e disponibilização das matrizes do boletim de voto em braille, bem como sobre a comunicação acessível a pessoas com deficiência visual.
+4 - Considera-se ainda como voto nulo o voto antecipado quando o boletim de voto não chega ao seu destino nas condições previstas nos artigos 78.º a 80.º ou seja recebido em sobrescrito que não esteja devidamente fechado.

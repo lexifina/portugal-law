@@ -1,5 +1,5 @@
 # Artigo 157.º
 
-### (Denúncia caluniosa)
+### (Recusa de receber reclamações, protestos ou contraprotestos)
 
-Aquele que dolosamente imputar a outrem, sem fundamento, a prática de qualquer infracção prevista na presente lei será punido com as penas aplicáveis à denúncia caluniosa.
+O presidente da mesa da assembleia eleitoral que ilegitimamente se recusar a receber reclamação, protesto ou contraprotesto será punido com prisão até um ano e multa de 1000$00 a 5000$00.

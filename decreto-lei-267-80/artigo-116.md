@@ -1,7 +1,7 @@
 # Artigo 116.º
 
-### (Acta do apuramento geral)
+### (Destino da documentação)
 
-1 - Do apuramento geral é imediatamente lavrada acta, donde constem os resultados das respectivas operações, as reclamações, os protestos e os contraprotestos apresentados de harmonia com o disposto no n.º 3 do artigo 110.º e as decisões que sobre eles tenham recaído.
+1 - Os cadernos eleitorais e demais documentação presente à assembleia de apuramento geral são entregues ao membro do Governo Regional com competência em matéria eleitoral, que os conserva e guarda sob sua responsabilidade.
 
-2 - Nos dois dias posteriores àquele em que se concluiu o apuramento geral, o presidente envia, por seguro do correio ou por próprio, contra recibo, dois exemplares da acta à Comissão Nacional de Eleições e ao membro do Governo Regional com competência em matéria eleitoral.
+2 - Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o membro do Governo Regional com competência em matéria eleitoral remete às comissões de recenseamento os cadernos de recenseamento das freguesias respectivas e procede à destruição dos restantes documentos, com excepção das actas das assembleias eleitorais.

@@ -1,15 +1,11 @@
-## Título VI
-
-## Ilícito eleitoral
-
-## Capítulo I
-
-## Princípios gerais
-
 # Artigo 124.º
 
-### (Concorrência com crimes mais graves e responsabilidade disciplinar)
+### (Circunstâncias agravantes gerais)
 
-1 - As sanções cominadas nesta lei não excluem a aplicação de outras mais graves pela prática de qualquer crime previsto na legislação penal.
+Para além das previstas na lei penal, constituem circunstâncias agravantes gerais do ilícito eleitoral:
 
-2 - As infracções previstas nesta lei constituem também falta disciplinar quando cometidas por agente sujeito a essa responsabilidade.
+a) O facto de a infracção influir no resultado da votação;
+
+b) O facto de a infracção ser cometida por membro da mesa de assembleia ou secção de voto ou agente da administração eleitoral;
+
+c) O facto de o agente ser candidato, delegado de partido político ou mandatário de lista.

@@ -1,5 +1,11 @@
+## Secção II
+
+## Votação
+
 # Artigo 87.º
 
-### Informação sobre o local de exercício de sufrágio
+### (Abertura da votação)
 
-Os eleitores podem obter informação sobre o local onde exercer o seu direito de voto na sua junta de freguesia, aberta para esse efeito no dia da eleição, para além de outras formas de acesso à referida informação disponibilizadas pela administração eleitoral.
+1 - Constituída a mesa, o presidente declara iniciadas as operações eleitorais, manda afixar o edital a que se refere o n.º 2 do artigo 48.º, procede com os restantes membros da mesa e os delegados das listas à revista da câmara de voto e dos documentos de trabalho da mesa e exibe a urna perante os eleitores, para que todos se possam certificar de que se encontra vazia.
+
+2 - Não havendo nenhuma irregularidade, votam imediatamente o presidente, os vogais e os delegados das listas, desde que se encontrem inscritos nessa assembleia ou secção de voto.

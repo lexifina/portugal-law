@@ -1,7 +1,15 @@
+## Título VI
+
+## Ilícito eleitoral
+
+## Capítulo I
+
+## Princípios gerais
+
 # Artigo 123.º
 
-### (Verificação de poderes)
+### (Concorrência com crimes mais graves e responsabilidade disciplinar)
 
-1 - A Assembleia Legislativa da Região Autónoma dos Açores verifica os poderes dos candidatos proclamados eleitos.
+1 - As sanções cominadas nesta lei não excluem a aplicação de outras mais graves pela prática de qualquer crime previsto na legislação penal.
 
-2 - Para efeitos do número anterior, o membro do Governo Regional com competência em matéria eleitoral envia à Assembleia Legislativa da Região Autónoma dos Açores um exemplar da acta de apuramento geral.
+2 - As infracções previstas nesta lei constituem também falta disciplinar quando cometidas por agente sujeito a essa responsabilidade.

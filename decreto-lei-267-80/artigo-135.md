@@ -1,13 +1,11 @@
 # Artigo 135.º
 
-### Suspensão do direito de antena
+### Processo de suspensão do exercício do direito de antena
 
-1 - É suspenso o exercício do direito de antena da candidatura que:
+1 - A suspensão do exercício do direito de antena é requerida ao Tribunal Constitucional pelo Ministério Público, por iniciativa deste ou a solicitação da Comissão Nacional de Eleições ou de qualquer outro partido ou coligação interveniente.
 
-a) Use expressões ou imagens que possam constituir crime de difamação ou injúria, ofensa às instituições democráticas, apelo à desordem ou à insurreição ou incitamento ao ódio, à violência ou à guerra;
+2 - O órgão competente da candidatura cujo direito de antena tenha sido objecto de pedido de suspensão é imediatamente notificado por telecópia para contestar, querendo, no prazo de vinte e quatro horas.
 
-b) Faça publicidade comercial.
+3 - O Tribunal Constitucional requisita às estações de rádio ou de televisão os registos das emissões que se mostrarem necessários, os quais lhe são imediatamente facultados.
 
-2 - A suspensão é graduada entre um dia e o número de dias que a campanha ainda durar, consoante a gravidade da falta e o seu grau de frequência, e abrange o exercício do direito de antena em todas as estações de rádio e televisão, mesmo que o facto que a determinou se tenha verificado apenas numa delas.
-
-3 - A suspensão é independente da responsabilidade civil ou criminal.
+4 - O Tribunal Constitucional decide no prazo de um dia e, no caso de ordenar a suspensão do direito de antena, notifica logo a decisão às respectivas estações de rádio e de televisão para cumprimento imediato.

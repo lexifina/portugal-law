@@ -1,7 +1,13 @@
 # Artigo 112.º
 
-### (Operação preliminar)
+### (Operações do apuramento geral)
 
-1 - No início dos seus trabalhos a assembleia de apuramento decide sobre os boletins de voto em relação aos quais tenha havido reclamação ou protesto, corrigindo, se for caso disso, o apuramento da respectiva assembleia de voto.
+O apuramento geral consiste:
 
-2 - A assembleia verifica os boletins de voto considerados nulos e, reapreciados estes segundo um critério uniforme, corrige, se for caso disso, o apuramento em cada uma das assembleias de voto.
+a) Na verificação do número total de eleitores inscritos e de votantes em cada círculo eleitoral;
+
+b) Na verificação, em cada círculo, do número total de votos obtidos por cada lista, do número de votos em branco e do número de votos nulos;
+
+c) Na distribuição de mandatos de Deputados pelas diversas listas em cada círculo;
+
+d) Na determinação, em cada círculo, dos candidatos eleitos por cada lista.

@@ -1,7 +1,19 @@
 # Artigo 117.º
 
-### (Destino da documentação)
+### (Mapa nacional da eleição)
 
-1 - Os cadernos eleitorais e demais documentação presente à assembleia de apuramento geral são entregues ao membro do Governo Regional com competência em matéria eleitoral, que os conserva e guarda sob sua responsabilidade.
+Nos oito dias subsequentes à recepção da acta do apuramento geral, a Comissão Nacional de Eleições elabora e faz publicar no Diário da República, 1.ª série, um mapa oficial com o resultado das eleições, de que conste:
 
-2 - Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o membro do Governo Regional com competência em matéria eleitoral remete às comissões de recenseamento os cadernos de recenseamento das freguesias respectivas e procede à destruição dos restantes documentos, com excepção das actas das assembleias eleitorais.
+a) Número dos eleitores inscritos, por círculos e total;
+
+b) Número de votantes, por círculos e total;
+
+c) Número de votos em branco, por círculos e total;
+
+d) Número de votos nulos, por círculos e total;
+
+e) Número, com a respectiva percentagem, de votos atribuídos a cada partido ou coligação, por círculos e total;
+
+f) Número de mandatos atribuídos a cada partido ou coligação, por círculos e total;
+
+g) Nomes dos Deputados eleitos, por círculos e por partidos ou coligações.

@@ -1,13 +1,5 @@
-## Título VIII
-
-## Disposições finais e transitórias
-
 # Artigo 160.º
 
-### (Certidões)
+### (Não cumprimento do dever de participação no processo eleitoral)
 
-São obrigatoriamente passadas, a requerimento de qualquer interessado, no prazo de três dias:
-
-a) As certidões necessárias para instrução do processo de apresentação das candidaturas;
-
-b) As certidões de apuramento geral.
+Aquele que for nomeado para fazer parte da mesa da assembleia eleitoral e, sem motivo justificado, não assumir ou abandonar essas funções será punido com multa de 1000$00 a 20000$00.

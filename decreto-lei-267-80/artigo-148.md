@@ -1,5 +1,7 @@
 # Artigo 148.º
 
-### (Abuso de funções públicas ou equiparadas)
+### (Violação do segredo de voto)
 
-O cidadão investido de poder público, o funcionário ou agente do Estado ou de outra pessoa colectiva pública e o ministro de qualquer culto que, abusando das suas funções ou no exercício das mesmas, se servir delas para constranger ou induzir os eleitores a votar em determinada ou determinadas listas, ou a abster-se de votar nelas, são punidos com prisão de 6 meses a 2 anos e multa de (euro) 1000 a (euro) 10000.
+1 - Aquele que na assembleia de voto ou nas suas imediações até 500 m usar de coacção ou artifício de qualquer natureza ou se servir do seu ascendente sobre o eleitor para obter a revelação do voto será punido com prisão até seis meses.
+
+2 - Aquele que na assembleia de voto ou nas suas imediações até 500 m revelar em que lista vai votar ou votou será punido com multa de 100$00 a 1000$00.

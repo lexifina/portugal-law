@@ -1,5 +1,5 @@
 # Artigo 86.º
 
-### (Local de exercício de sufrágio)
+### (Extravio do cartão de eleitor)
 
-O direito de voto é exercido, em regra, junto da mesa de voto correspondente ao local por onde o eleitor está recenseado, salvo o disposto quanto aos modos de exercício do voto antecipado.
+No caso de extravio do cartão de eleitor, os eleitores têm o direito de obter informação sobre o seu número de inscrição no recenseamento na junta de freguesia, que para o efeito está aberta no dia das eleições.

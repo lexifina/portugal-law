@@ -1,13 +1,13 @@
+## Título VII
+
+## Disposições finais e transitórias
+
 # Artigo 164.º
 
-### (Entrada em vigor)
+### (Certidões)
 
-Este diploma entra em vigor na data imediata à da sua publicação.
+São obrigatoriamente passadas, a requerimento de qualquer interessado, no prazo de três dias:
 
-Visto e aprovado em Conselho de Ministros de 30 de Julho de 1980. - Diogo Pinto de Freitas do Amaral.
+a) As certidões necessárias para instrução do processo de apresentação das candidaturas;
 
-Promulgado em 5 de Agosto de 1980
-
-Publique-se.
-
-O Presidente da República, ANTÓNIO RAMALHO EANES.
+b) As certidões de apuramento geral.

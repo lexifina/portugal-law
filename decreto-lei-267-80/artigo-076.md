@@ -16,6 +16,6 @@
 
 1 - O direito de voto é exercido directamente pelo cidadão eleitor.
 
-2 - Sem prejuízo do disposto no artigo 99.º, não é admitida nenhuma forma de representação ou delegação no exercício do direito de sufrágio.
+2 - Sem prejuízo do disposto no artigo 98.º, não é admitida nenhuma forma de representação ou delegação no exercício do direito de sufrágio.
 
-3 - O direito de voto é exercido presencialmente pelo cidadão eleitor, sem prejuízo das particularidades previstas nos artigos 77.º a 81.º
+3 - O direito de voto é exercido presencialmente pelo cidadão eleitor, salvo o disposto nos artigos 77.º, 78.º, 79.º e 80.º

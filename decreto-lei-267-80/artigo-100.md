@@ -1,17 +1,11 @@
 # Artigo 100.º
 
-### (Voto em branco ou nulo)
+### (Dúvidas, reclamações, protestos e contraprotestos)
 
-1 - Considera-se voto em branco o do boletim de voto que não tenha sido objecto de qualquer tipo de marca.
+1 - Qualquer eleitor inscrito na assembleia de voto ou qualquer dos delegados das listas pode suscitar dúvidas e apresentar, por escrito, reclamação, protesto ou contraprotesto relativos às operações eleitorais da mesma assembleia e instruí-los com os documentos convenientes.
 
-2 - Considera-se voto nulo o do boletim de voto:
+2 - A mesa não pode negar-se a receber as reclamações, os protestos e os contraprotestos, devendo rubricá-los e apensá-los às actas.
 
-a) No qual tenha sido assinalado mais de um quadrado ou quando haja dúvidas sobre qual o quadrado assinalado;
+3 - As reclamações, os protestos e os contraprotestos têm de ser objecto de deliberação da mesa, que pode tomá-la no final, se entender que isso não afecta o andamento normal da votação.
 
-b) No qual tenha sido assinalado o quadrado correspondente a uma lista que tenha desistido das eleições ou não tenha sido admitida;
-
-c) No qual tenha sido feito qualquer corte, desenho ou rasura ou quando tenha sido escrita qualquer palavra.
-
-3 - Não se considera voto nulo o do boletim de voto no qual a cruz, embora não perfeitamente desenhada ou excedendo os limites do quadrado, assinale inequivocamente a vontade do eleitor.
-
-4 - Considera-se ainda como voto nulo o voto antecipado quando o boletim de voto não chega ao seu destino nas condições previstas nos artigos 77.º-A a 81.º ou seja recebido em sobrescrito que não esteja devidamente fechado.
+4 - Todas as deliberações da mesa são tomadas por maioria absoluta dos membros presentes e fundamentadas, tendo o presidente voto de desempate.

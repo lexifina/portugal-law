@@ -1,5 +1,5 @@
 # Artigo 85.º
 
-### (Requisitos do exercício do direito de voto)
+### (Local de exercício de sufrágio)
 
-Para que o eleitor seja admitido a votar deve estar inscrito no caderno eleitoral e ser reconhecida pela mesa a sua identidade.
+O direito de voto é exercido apenas na assembleia eleitoral correspondente ao local por onde o eleitor esteja recenseado.

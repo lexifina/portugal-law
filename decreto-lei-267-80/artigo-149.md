@@ -1,7 +1,9 @@
 # Artigo 149.º
 
-### (Não exibição da urna)
+### (Coacção e artifício fraudulento sobre o eleitor ou o candidato)
 
-1 - O presidente da mesa de assembleia ou secção de voto que não exibir a urna perante os eleitores antes do início da votação é punido com multa de (euro) 100 a (euro) 1000.
+1 - Aquele que usar de violência ou ameaça sobre qualquer eleitor ou que usar de enganos, artifícios fraudulentos, falsas notícias ou de qualquer outro meio ilícito para o constranger ou induzir a votar em determinada lista ou a abster-se de votar será punido com prisão de seis meses a dois anos.
 
-2 - Se se verificar que na urna não exibida se encontravam boletins de voto, o presidente é também punido com pena de prisão até 6 meses, sem prejuízo do disposto no artigo seguinte.
+2 - Aquele que usar de violência ou ameaça sobre qualquer candidato ou usar de enganos, artifícios fraudulentos, falsas notícias ou de qualquer outro meio ilícito para o constranger ou induzir a desistir de se candidatar em determinada lista será punido com prisão de seis meses a dois anos.
+
+3 - Será agravada a pena prevista nos números anteriores se a ameaça for cometida com uso de arma ou a violência for exercida por duas ou mais pessoas.

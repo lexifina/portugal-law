@@ -2,7 +2,7 @@
 
 ### Modo de exercício do direito de voto antecipado por doentes internados e por presos
 
-1 - Qualquer eleitor que esteja nas condições previstas nas alíneas e) e f) do n.º 1 do artigo 77.º pode requerer ao presidente da câmara do município em que se encontre recenseado, por meios eletrónicos ou por via postal, até ao vigésimo dia anterior ao da eleição, a documentação necessária ao exercício do direito de voto, indicando o seu número de identificação civil e juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direção do estabelecimento hospitalar, ou emitido pelo diretor do estabelecimento prisional, conforme os casos.
+1 - Qualquer eleitor que esteja nas condições previstas nas alíneas e) e f) do n.º 1 do artigo 79.º-A pode requerer ao presidente da câmara do município em que se encontre recenseado, até ao 20.º dia anterior ao da eleição, a documentação necessária ao exercício do direito de voto, enviando fotocópias autenticadas do seu bilhete de identidade e do seu cartão de eleitor e juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direcção do estabelecimento hospitalar, ou emitido pelo director do estabelecimento prisional, conforme os casos.
 
 2 - O presidente da câmara envia, por correio registado com aviso de recepção, até ao 17.º dia anterior ao da eleição:
 
@@ -14,7 +14,7 @@ b) Ao presidente da câmara do município onde se encontrem eleitores nas condi�
 
 4 - A nomeação de delegados das listas deve ser transmitida ao presidente da câmara até ao 14.º dia anterior ao da eleição.
 
-5 - Entre o décimo terceiro e o décimo dias anteriores ao da eleição, o presidente da câmara municipal em cuja área se encontre situado o estabelecimento hospitalar ou prisional com eleitores nas condições do n.º 1, em dia e hora previamente anunciados ao respetivo diretor e aos delegados das listas, desloca-se ao mesmo estabelecimento a fim de ser dado cumprimento, com as necessárias adaptações ditadas pelos constrangimentos dos regimes hospitalares ou prisionais, ao disposto nos n.os 10 a 18 do artigo 77.º-A.
+5 - Entre o 13.º e o 10.º dias anteriores ao da eleição, o presidente da câmara municipal em cuja área se encontre situado o estabelecimento hospitalar ou prisional com eleitores nas condições do n.º 1, em dia e hora previamente anunciados ao respectivo director e aos delegados das listas, desloca-se ao mesmo estabelecimento a fim de ser dado cumprimento, com as necessárias adaptações ditadas pelos constrangimentos dos regimes hospitalares ou prisionais, ao disposto nos n.os 3, 4, 5, 6, 7 e 8 do artigo 79.º-B.
 
 6 - O presidente da câmara pode excepcionalmente fazer-se substituir, para o efeito da diligência prevista no número anterior, por qualquer vereador do município, devidamente credenciado.
 
