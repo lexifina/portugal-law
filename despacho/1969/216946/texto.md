@@ -1,0 +1,13 @@
+Despacho
+Depois de um ano de vigência da orientação definida, para a aquisição de figo destinado à produção de álcool, no despacho de 14 de Outubro de 1968, publicado no Diário do Governo, 1.ª série, de 22 do mesmo mês, julga-se apenas conveniente introduzir no sistema então estabelecido, além de pequenos ajustamentos nas taxas de laboração, o princípio de que são consideradas excedentárias, para efeito do preço de aquisição, independentemente do volume da produção, todas as quantidades de figo provenientes da província do Algarve postas à disposição da Administração-Geral do Álcool depois de 31 de Janeiro.
+Assim, ao abrigo do disposto no n.º 1.º do artigo 11.º do Estatuto da Administração-Geral do Álcool, aprovado pelo Decreto-Lei n.º 47338, de 24 de Novembro de 1966, e sob proposta da Administração-Geral do Álcool, determino, para vigorar na campanha de 1969-1970, o seguinte:
+1.º O preço de figo industrial posto nas destilarias indicadas pela Administração-Geral do Álcool, isento de impureza e com um grau de humidade normal, é fixado em 31$80 por arroba, relativamente ao contingente de 1800000 arrobas.
+2.º Este contingente será distribuído em função da média dos últimos dez anos das entregas para a produção de álcool de cada uma das regiões tradicionais.
+3.º As quantidades de figo que excedam o contingente fixado no n.º 1.º serão pagas, nas condições referidas no mesmo, ao preço de 27$50 por arroba.
+4.º São consideradas excedentárias, para efeitos do número anterior, todas as quantidades de figo provenientes da província do Algarve postas à disposição da Administração-Geral do Álcool depois de 31 de Janeiro de 1970.
+5.º Sempre que o figo apresente impurezas ou grau de humidade anormal, os preços fixados sofrerão descontos proporcionais à incidência desses factores.
+6.º O preço da aguardente de figo na base de 50.º x 15.º, posta na fábrica de álcool, é de 4$135 por litro.
+7.º A taxa de laboração da aguardente na base de 50.º x 15.º, posta nas rectificadoras a indicar pela Administração-Geral do Álcool, tendo em consideração o rendimento mínimo de 8,75 l por arroba de figo, é de $50 por litro.
+8.º Relativamente ao figo produzido nos concelhos de Abrantes, Almeirim, Alpiarça, Alvaiázere, Azambuja, Cartaxo, Constância, Coruche, Ferreira do Zêzere, Mação, Montemor-o-Novo, Palmela, Ponte de Sor, Rio Maior, Salvaterra de Magos e Sardoal, o rendimento mantém o índice de 8,25 l.
+9.º A taxa de laboração para a indústria do álcool é, relativamente ao álcool puro (95,5.º) e ao álcool desnaturado (90,5.º), respectivamente, de 2$685 e 2$52 por litro.
+Secretaria de Estado do Comércio, 29 de Outubro de 1969. - O Secretário de Estado do Comércio, Valentim Xavier Pintado.
