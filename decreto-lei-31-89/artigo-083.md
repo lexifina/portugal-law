@@ -4,7 +4,7 @@ A isenção relativa ao combustível contido nos reservatórios normais dos veí
 
 a) Quando o veículo provém de um país terceiro, a 200 l por veículo e por viagem;
 
-b) Quando o veículo provém de outro Estado membro:
+b) (Revogada);
 
 i) A 200 l por veículo e por viagem, no caso de veículos aptos e destinados ao transporte, com ou sem remuneração, de mercadorias;
 
