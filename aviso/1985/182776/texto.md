@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, por nota datada de 3 de Maio de 1985 e recebida no Ministério dos Negócios Estrangeiros do Reino dos Países Baixos em 8 de Maio de 1985, a Embaixada do Reino Unido da Grã-Bretanha e Irlanda do Norte na Haia notificou ao Ministério dos Negócios Estrangeiros, conforme o artigo 6, alínea 2, da Convenção da Haia Que Suprime a Exigência da Legalização de Actos Públicos Estrangeiros, uma modificação na designação da autoridade na ilha de Man.
+A autoridade designada como competente para apor a apostilha prevista no artigo 3, primeira alínea, da Convenção para a ilha de Man é, presentemente, com efeito a partir de 1 de Junho de 1985, Sua Excelência o Governador da Ilha de Man.
+Secretaria-Geral do Ministério, 20 de Junho de 1985. - O Director dos Serviços Jurídicos e de Tratados, Francisco Manuel dos Reis Caldeira.
