@@ -1,0 +1,6 @@
+Resolução n.º 354/80
+Pela Resolução n.º 195/79, de 27 de Junho, foi posto termo à intervenção do Estado nas empresas Handy Angle Portuguesa - Cantoneiras Metálicas, Lda., e Masola - Sociedade de Madeiras e Alumínios, Lda., encontrando-se prestes a concretizar-se a entrega, ao banco maior credor, da proposta de contrato de viabilização da empresa resultante da fusão daquelas duas empresas, conforme o disposto nos n.os 3 e 7 da resolução do Conselho de Ministros supramencionada.
+Considerando que, não obstante a sensível recuperação já verificada nestas empresas, subsistem ainda graves problemas de natureza financeira, cuja solução depende da celebração do contrato de viabilização;
+Considerando, porém, que a empresa tudo deverá fazer no sentido de melhorar as condições económicas de funcionamento, através da implantação de medidas imediatas que lhe permitam desagravar a sua estrutura de custos em todas as suas componentes, sob pena de não perfazer os requisitos exigidos pela lei para a celebração de contratos de viabilização:
+O Conselho de Ministros, reunido em 20 de Agosto de 1980, resolveu prorrogar o prazo fixado no n.º 5 da Resolução n.º 195/79, de 27 de Junho, até 31 de Janeiro de 1981.
+Presidência do Conselho de Ministros, 20 de Agosto de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
