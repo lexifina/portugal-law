@@ -1,0 +1,8 @@
+Aviso n.º 199/2000
+Por ordem superior se torna público que, por nota de 9 de Junho de 2000 e nos termos do artigo 45.º da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a Turquia, em 31 de Maio de 2000, nos termos do artigo 37.º, segundo parágrafo, depositado o seu instrumento de ratificação, com a seguinte reserva:
+«In accordance with paragraph 3 of article 26 the Republic of Turkey shall not be bound to assume any costs and expenses of the proceedings or, where applicable, those arising from the participation of legal counsel or advisers and those of returning the child.»
+Tradução:
+«Nos termos do terceiro parágrafo do artigo 26.º a República da Turquia, não fica vinculada a assumir quaisquer custas e despesas decorrentes do processo ou, quando aplicável, da participação de advogado ou consultor jurídico, ou decorrentes do retorno da criança.»
+Nos termos do artigo 43.º, a Convenção entrou em vigor para a Turquia em 1 de Agosto de 2000.
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pelo Decreto do Governo n.º 33/83, de 11 de Maio, tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984. A autoridade central em Portugal é o Instituto de Reinserção Social, conforme o Aviso n.º 302/95, de 18 de Outubro.
+Departamento de Assuntos Jurídicos, 8 de Agosto de 2000. - A Directora, Maria Margarida Aleixo Antunes Rei.
