@@ -8,7 +8,7 @@
 
 1 - Se não for possível suprir, nos termos especialmente previstos neste Código, a omissão de registo não oportunamente lavrado, deve a mesma ser suprida por uma das formas seguintes:
 
-a) Tratando-se de registo que deva ser lavrado por inscrição, o registo omitido é efectuado mediante decisão judicial passada em julgado;
+a) Tratando-se de registo que deva ser lavrado por inscrição, o registo omitido é efectuado mediante decisão do conservador em processo de justificação administrativa;
 
 b) Se o registo tiver de ser feito por transcrição, o conservador deve requisitar à entidade competente o título necessário para o lavrar;
 
