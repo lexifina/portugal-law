@@ -1,0 +1,4 @@
+Aviso n.º 204/98
+Por ordem superior se torna público que a França depositou, a 1 de Junho de 1994, o seu instrumento de ratificação da Convenção Relativa à Lei Uniforme sobre a Forma de Um Testamento Internacional, concluída em Washington a 26 de Outubro de 1973.
+Relativamente a Portugal, a Convenção foi aprovada, para adesão, pelo Decreto n.º 292/75, de 23 de Maio, conforme Diário do Governo, 1.ª série, n.º 119, de 23 de Maio de 1975. Segundo o aviso de 9 de Setembro de 1973, publicado no Diário da República, 1.ª série, n.º 219, de 21 de Setembro de 1977, Portugal, o Canadá, a Jugoslávia, a Líbia e o Níger aderiram a esta Convenção, tendo sido o quinto instrumento de adesão depositado em 9 de Agosto de 1977, pelo que, nos termos do artigo X, a Convenção entrou em vigor para aqueles Estados em 9 de Fevereiro de 1978.
+Departamento de Assuntos Jurídicos, 23 de Setembro de 1998. - O Director, José Maria Leite Martins.
