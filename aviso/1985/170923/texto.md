@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Governo da Suíça notificou a Organização das Nações Unidas, em 9 de Outubro de 1985, de que o instrumento de ratificação do Acordo para a Importação de Objectos de Carácter Educativo, Científico ou Cultural, concluído em Lake Sucess, Nova Iorque, em 22 de Novembro de 1950, e ao qual Portugal aderiu, conforme Resolução da Assembleia da República publicada no Diário da República, 1.ª série, n.º 51, de 29 de Fevereiro de 1984, depositado por aquele Governo em 29 de Abril de 1953, é também aplicável ao Listenstaina.
+Direcção-Geral das Relações Culturais Externas, 12 de Novembro de 1985. - O Director-Geral, Mendes da Luz.
