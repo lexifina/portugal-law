@@ -1,0 +1,9 @@
+Despacho Normativo n.º 82/98
+O Despacho Normativo n.º 9/98, de 4 de Fevereiro, com as alterações introduzidas pelo Despacho Normativo n.º 32/98, de 11 de Maio, ao abrigo da regulamentação legal aplicável, estabeleceram as datas e os prazos de candidaturas referentes aos pedidos de ajuda do Sistema Integrado de Gestão e Controlo na campanha de 1998-1999.
+O regime de ajudas a favor da agricultura de montanha e de outras zonas desfavorecidas, respeitantes às indemnizações compensatórias, incluído no SIGC foi assim abrangido pelas disposições dos despachos supracitados.
+O Regulamento (CE) n.º 2331/98, do Conselho, de 22 de Outubro, veio alterar as condições de elegibilidade das indemnizações compensatórias, determinando a possibilidade de estas serem concedidas aos agricultores que explorem pelo menos 1 ha de superfície agrícola útil em Portugal continental. Foi ainda estipulado o âmbito de aplicação e produção de efeitos desta disposição, isto é, de 1 de Janeiro de 1998 até 31 de Dezembro de 1999.
+Assim, a fim de possibilitar a aplicação e produção de efeitos do Regulamento (CE) n.º 2331/98, do Conselho, de 22 de Outubro, vem o presente despacho normativo determinar:
+Excepcionalmente, poderão os produtores agrícolas que explorem entre 1 ha e 2 ha de SAU apresentar o seu pedido de ajuda às indemnizações compensatórias (modelos E e ou A) até 31 de Dezembro do presente ano, caso não o tenham efectuado nos períodos previstos pelos despachos em epígrafe.
+As organizações com as quais o INGA celebrou protocolos, AJAP, CAP, CNA e CONFAGRI, procederão, no decurso daquele período, à recepção dos pedidos de ajuda. Os referidos pedidos deverão ser enviados ao INGA até 15 de Janeiro de 1999.
+O presente despacho normativo entra imediatamente em vigor.
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 9 de Dezembro de 1998. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
