@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que o Acordo de Exploração da Organização Internacional de Telecomunicações por Satélite (INTELSAT) foi assinado, a 14 de Setembro de 1987, pelo Instituto Nacional de Telecomunicações do Panamá, a 13 de Outubro de 1987, pela Syarikat Telecom Malaysia Berhard e, a 19 de Janeiro de 1988, pelo Instituto Nicaraguense de Telecomunicaciones y Correos, em substituição dos anteriores signatários, respectivamente a Intercontinental de Comunicaciones por Satélite, o Departamento de Telecomunicações da Malásia e a Companhia Nicaraguense de Telecomunicações por Satélite.
+Direcção-Geral dos Negócios Político-Económicos, 22 de Março de 1988. - O Director de Serviços dos Assuntos Multilaterais, Marcelo de Zaffiri Duarte Mathias.
