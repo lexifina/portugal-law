@@ -1,0 +1,391 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11226",
+  "numero": "33",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2003-02-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2004-10-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          },
+          {
+            "data": "2004-10-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2003-04-20",
+        "DataArquivo": "2004-10-14",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2004-11-03",
+        "DataReaberta": "2003-04-20",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2003-02-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764f55395156454d765247396a6457316c626e52766331426c64476c6a595738764e5751775a6d4931593245745a444979596930305954557a4c574977595451744e446b774d7a51355a4749784e32566d4c6e426b5a673d3d&fich=5d0fb5ca-d22b-4a53-b0a4-490349db17ef.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "110",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE OBRAS PÚBLICAS, TRANSPORTES E COMUNICAÇÕES",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2003-10-02",
+            "dataNomeacao": "2003-04-22",
+            "gp": "PSD",
+            "id": "1983",
+            "motivoCessacao": null,
+            "nome": "Paula Carloto"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2003-10-02",
+            "gp": "PSD",
+            "id": "1931",
+            "motivoCessacao": null,
+            "nome": "Rodrigo Ribeiro"
+          }
+        ],
+        "RelatorioFinal": [
+          "21831",
+          "21863"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2004-12-09",
+    "Documentos": [
+      {
+        "DataDocumento": "2003-02-20",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d7659575931595467344d544d744f5745325a4330304d6d55324c546b774e6d51745a47517a4e4749324f544a6b597a51774c6e426b5a673d3d&fich=af5a8813-9a6d-42e6-906d-dd34b692dc40.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2004-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151288",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1301-1301"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1301?pgs=1301&org=PLC"
+              }
+            ],
+            "Sumario": "Defesa dos direitos dos cidadãos habilitados com licenciatura em Urbanismo e Planeamento Regional e Urbano; fixação de regras relativas ao acesso e ao exercício da profissão de urbanista",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151289",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1301-1302"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1301?pgs=1301-1302&org=PLC"
+              }
+            ],
+            "Sumario": "Defesa dos direitos dos cidadãos habilitados com licenciatura em Urbanismo e Planeamento Regional e Urbano; fixação de regras relativas ao acesso e ao exercício da profissão de urbanista",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151290",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1302-1302"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1302?pgs=1302&org=PLC"
+              }
+            ],
+            "Sumario": "Defesa dos direitos dos cidadãos habilitados com licenciatura em Urbanismo e Planeamento Regional e Urbano; fixação de regras relativas ao acesso e ao exercício da profissão de urbanista",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151291",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1302-1303"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1302?pgs=1302-1303&org=PLC"
+              }
+            ],
+            "Sumario": "Defesa dos direitos dos cidadãos habilitados com licenciatura em Urbanismo e Planeamento Regional e Urbano; fixação de regras relativas ao acesso e ao exercício da profissão de urbanista",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151292",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1303-1303"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1303?pgs=1303&org=PLC"
+              }
+            ],
+            "Sumario": "Defesa dos direitos dos cidadãos habilitados com licenciatura em Urbanismo e Planeamento Regional e Urbano; fixação de regras relativas ao acesso e ao exercício da profissão de urbanista",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11226",
+    "PetAssunto": "Defesa dos direitos dos cidadãos habilitados com licenciatura em Urbanismo e Planeamento Regional e Urbano.",
+    "PetDataEntrada": "2003-02-20",
+    "PeticoesAssociadas": null,
+    "PetId": "11226",
+    "PetLeg": "IX",
+    "PetNr": "33",
+    "PetNrAssinaturas": "382",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "Tem apensa a Petição 12/IX/1ª.",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "821",
+        "obs": null,
+        "pag": [
+          "1301-1303"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-12-10",
+        "pubLeg": "IX",
+        "pubNr": "21",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1301?pgs=1301-1303&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
