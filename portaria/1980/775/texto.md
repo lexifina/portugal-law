@@ -1,0 +1,10 @@
+Portaria n.º 775/80
+de 3 de Outubro
+Considerando o disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho;
+Considerando que na Direcção-Geral da Acção Cultural, criada pelo Decreto-Lei n.º 59/80, de 3 de Abril, não pode preencher-se o lugar de chefe de divisão constante do respectivo quadro anexo ao Decreto Regulamentar n.º 19/80, de 26 de Maio, com a celeridade que impõe uma actuação imediata desse organismo no âmbito específico das suas atribuições, porquanto, como é natural, os quadros não se encontram ainda preenchidos por forma a dar-se cabal cumprimento ao preceituado na alínea a) do n.º 2 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho;
+Considerando que ao titular daquele cargo se exigirá para o exercício das respectivas funções, antes de mais e necessariamente, uma formação profissional e uma experiência específicas que não poderão compadecer-se exclusivamente com os requisitos exigíveis por este último preceito do citado Decreto-Lei n.º 191-F/79;
+Considerando que o quadro único comum às Secretarias de Estado da Cultura e da Comunicação Social não permitiu a integração de funcionários qualificados, como também não foi reestruturado de molde a permitir a normal progressão na carreira;
+Considerando ainda que a função de chefe de divisão de Teatro e Circo exige qualificação adequada, para além da formação profissional, que não se compadece com as carreiras existentes na função pública:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado da Cultura e da Reforma Administrativa, o seguinte:
+É alargada a área de recrutamento para os lugares de chefe de divisão de Teatro e Circo, de Actividades Sócio-Culturais e de Formação do quadro de pessoal da Direcção-Geral da Acção Cultural, que constitui o anexo I ao Decreto Regulamentar n.º 19/80, de 26 de Maio, aos técnicos superiores de 1.ª classe e aos professores efectivos do ensino secundário.
+Secretarias de Estudo da Cultura e da Reforme Administrativa, 22 de Setembro de 1980. - O Secretário de Estado da Cultura, Vasco Pulido Valente. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
