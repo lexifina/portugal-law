@@ -1,0 +1,10 @@
+Portaria n.º 82/81
+de 19 de Janeiro
+Considerando o disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho;
+Considerando que na Direcção-Geral dos Serviços Veterinários, criada pelo Decreto-Lei n.º 68-C/79, de 26 de Dezembro, ainda não foram providos os lugares de chefe da Divisão de Epizootologia e Administração Sanitária, de chefe da Divisão de Meios de Defesa Sanitária, de chefe da Divisão de Avaliação de Reprodutores e de chefe da Divisão de Identificação Animal, Livros Genealógicos e Registos Zootécnicos;
+Considerando que aos titulares daqueles lugares se exige para o exercício das respectivas funções, além de conhecimentos científicos e técnicos, uma experiência profissional complementar que não poderá compadecer-se, exclusivamente, com os requisitos exigidos na alínea b) do n.º 2 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho;
+Considerando ainda a necessidade urgente do preenchimento dos lugares, a fim de se poder assegurar continuidade de solução para os problemas inadiáveis da responsabilidade daquela Direcção-Geral:
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura e Pescas e pelo Secretário de Estado da Reforma Administrativa, o seguinte:
+1.º É alargada a área de recrutamento para o provimento das vagas de chefe da Divisão de Epizootologia e Administração Sanitária, de chefe da Divisão de Meios de Defesa Sanitária, de chefe da Divisão de Avaliação de Reprodutores e de chefe da Divisão de Identificação Animal, Livros Genealógicos e Registos Zootécnicos a funcionários habilitados com licenciatura em Medicina Veterinária que sejam possuidores de elevada preparação técnica, experiência comprovada e efectiva prática do desempenho das respectivas funções.
+2.º O despacho de nomeação deverá ser acompanhado, para publicação, do currículo do nomeado.
+Presidência do Conselho de Ministros e Ministério da Agricultura e Pescas, 22 de Dezembro de 1980. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
