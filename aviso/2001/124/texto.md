@@ -1,0 +1,5 @@
+Aviso n.º 124/2001
+Por ordem superior se faz público que, segundo comunicação do Governo Belga de 27 de Setembro de 2001, o Governo da República Francesa depositou, em 27 de Setembro de 2001, o instrumento de aprovação referente ao Acordo sobre os Estatutos das Missões e dos Representantes dos Estados Terceiros junto da Organização do Tratado do Atlântico Norte, assinado em Bruxelas em 14 de Setembro de 1994. Este Acordo entrou em vigor para a República Francesa em 27 de Setembro de 2001.
+O referido Acordo foi ratificado por Portugal nos termos do Decreto do Presidente da República n.º 62/95, de 1 de Agosto, publicado no Diário da República, 1.ª série-A, n.º 176, de 1 de Agosto de 1995, tendo sido depositado o correspondente instrumento em 26 de Junho de 2000, conforme o Aviso n.º 214/2000, publicado no Diário da República, 1.ª série-A, n.º 264, de 15 de Novembro de 2000.
+O Acordo entrou em vigor relativamente a Portugal em 26 de Junho de 2000.
+Direcção-Geral dos Assuntos Multilaterais, 20 de Novembro de 2001. - O Director de Serviços das Organizações de Segurança e Defesa, Manuel Cansado Carvalho.
