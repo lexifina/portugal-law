@@ -1,0 +1,18 @@
+Decreto n.º 46404
+Considerando de interesse que as responsabilidades respeitantes à execução dos trabalhos e exploração das instalações eléctricas dos agentes técnicos de engenharia que exercem a sua profissão nas províncias ultramarinas não sejam inferiores às que lhes são atribuídas quando trabalham na metrópole;
+Considerando que o Regulamento de Licenças para Instalações Eléctricas, em vigor na metrópole, aprovado pelo Decreto n.º 26852, de 30 de Julho de 1936, no que respeita a responsabilidades técnicas pelas instalações eléctricas, estabelece limites de competência para os agentes técnicos de electrotecnia diferentes dos que estabelece o Regulamento das Concessões de Licenças para o Estabelecimento e Exploração de Instalações Eléctricas nas Províncias Ultramarinas, aprovado pelo Decreto n.º 27071, de 7 de Outubro de 1936, com as alterações introduzidas pelo Decreto n.º 36963, de 10 de Julho de 1948;
+Tendo em vista que os limites de potência e de tensão fixados no Regulamento de Licenças para Instalações Eléctricas, aprovado pelo Decreto n.º 26852, às instalações de serviço público da competência dos agentes técnicos de electrotecnia se consideram pouco amplos para as instalações eléctricas de serviço público nas províncias ultramarinas;
+Reconhecendo-se ser recomendável evitar que indivíduos responsáveis pela exploração das instalações eléctricas residam fora da província ultramarina em que estão estabelecidas;
+Nestes termos:
+Ouvido o Conselho Ultramarino;
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º Os projectos e termos de responsabilidade pela execução dos trabalhos e pela exploração das instalações eléctricas previstas no § 2.º do artigo 35.º do Regulamento de Concessões de Licenças para o Estabelecimento e Exploração de Instalações Eléctricas nas Províncias Ultramarinas, aprovado pelo Decreto n.º 27071, de 7 de Outubro de 1936, poderão ser assinados por indivíduos diplomados com o curso de electrotecnia dos institutos industriais, sempre que a potência e a tensão não sejam superiores a 500 kVA e 30000 V.
+Art. 2.º Os projectos e termos de responsabilidade pela execução dos trabalhos e pela exploração das instalações eléctricas previstas no § 1.º do artigo 53.º do regulamento referido no artigo 1.º do presente decreto poderão ser assinados por indivíduos diplomados com o curso de electrotecnia dos institutos industriais.
+Art. 3.º Sempre que o técnico responsável pela exploração de uma instalação eléctrica for diferente do técnico responsável pela execução dos trabalhos de estabelecimento deverão ser apresentados termos de responsabilidade distintos, sendo no entanto obrigatório que o responsável pela exploração resida no distrito em que a instalação esteja estabelecida.
+§ único. Se o proprietário, concessionário ou explorador da instalação apresentar motivos ponderosos, como tal reconhecidos pelo governo da respectiva província, poderá ser aceite como responsável pela exploração um técnico que não resida no distrito em que ela esteja estabelecida mas nunca fora da província.
+Art. 4.º A assistência às instalações prevista no § único do artigo 85.º do regulamento referido no artigo 1.º do presente decreto poderá ser confiada a indivíduos diplomados com o curso de electrotecnia dos institutos industriais.
+Art. 5.º É revogado o Decreto n.º 36963, de 10 de Julho de 1948.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 26 de Junho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.
