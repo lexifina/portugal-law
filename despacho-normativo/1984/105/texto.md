@@ -1,0 +1,44 @@
+Despacho Normativo n.º 105/84
+Considerando que o Programa do Governo reconhece que «a educação na actual crise económica, social e moral constitui um factor decisivo para a reconstrução do País, pois dela depende a preparação da juventude através do saber, da criação e do trabalho, pelo que importa adaptá-la, com realismo, às nossas circunstâncias concretas, tornando-a um factor de desenvolvimento, progresso e equilíbrio»;
+Considerando que é urgente contribuir para a resolução do problema social do acesso da grande maioria dos jovens ao mundo do trabalho, fornecendo-lhes uma formação adequada ao desempenho de uma profissão qualificada;
+Considerando que pelo Despacho Normativo n.º 194-A/83, de 21 de Outubro, foi criada, em termos de experiência pedagógica, uma estrutura para o ensino técnico-profissional e profissional, e que o Decreto-Lei n.º 47587 prevê a realização de experiências pedagógicas em «estabelecimentos de ensino particular que assim o solicitem e ofereçam as necessárias garantias»;
+Considerando que o ensino particular e cooperativo pode dar um contributo importante ao lançamento do ensino profissional e técnico-profissional, devido à sua história e às suas características específicas, que o vocacionam para a inovação pedagógica;
+Considerando a oportunidade de dar viabilidade à «liberdade de aprender e ensinar» consagrada no artigo 43.º da Constituição da República Portuguesa;
+Considerando a experiência e a capacidade pedagógica do Externato de Nossa Senhora do Perpétuo Socorro, no Porto, já reconhecidas pela concessão progressiva de paralelismo pedagógico há mais de 5 anos;
+Considerando que é notória a falta de pessoal qualificado, de nível não superior, no campo da electrónica e dos têxteis:
+Ao abrigo do disposto no artigo 5.º do Decreto-Lei n.º 47587, de 10 de Março de 1967:
+Determino:
+1 - É autorizado, no Externato de Nossa Senhora do Perpétuo Socorro, no Porto, como experiência pedagógica a desenvolver nos termos do presente despacho, o funcionamento dos seguintes cursos:
+Curso técnico de electrónica;
+Curso técnico de têxtil:
+Especialização em acabamentos, tinturaria e estamparia e ultimação;
+Curso técnico de têxtil:
+Especialização em estilismo, colorismo e confecção.
+2 - Os cursos referidos no número anterior visam a formação de profissionais qualificados de nível intermédio, na área da Electrónica e na área dos Têxteis, simultaneamente com uma preparação geral equivalente à do ensino secundário complementar.
+3 - Estes cursos exigem como habilitação de ingresso o 9.º ano de escolaridade ou equivalente, têm a duração de 4 anos e são constituídos por 2 ciclos de 2 anos.
+4 - Os planos de estudo provisórios do primeiro ciclo dos cursos autorizados pelo presente despacho constam dos quadros anexos.
+5 - Até 31 de Maio de 1984 serão apresentados à Direcção-Geral do Ensino Particular e Cooperativo os planos de estudo definitivos dos 2 ciclos destes cursos, os quais serão aprovados por despacho ministerial, que definirá as possibilidades de prosseguimento de estudos no ensino secundário e superior.
+6 - Os cursos autorizados no n.º 1 conferirão, em cada um dos ciclos, diplomas comprovativos da qualificação profissional obtida, para efeito de ingresso no mundo do trabalho.
+7 - Os cursos poderão também conferir diplomas de estudos secundários desde que os respectivos planos de estudo, a aprovar nos termos do n.º 5 do presente despacho, incluam, além da componente de formação profissional:
+a) Uma componente de formação geral que possa considerar-se globalmente equivalente à componente de formação geral do ensino secundário complementar;
+b) Uma componente de formação específica que, nos termos da legislação vigente, permita o prosseguimento de estudos em, pelo menos, um curso do ensino secundário ou superior.
+8 - Os cursos autorizados no n.º 1 do presente despacho funcionarão em regime de autonomia pedagógica, nos termos do n.º 1 do artigo 35.º do Decreto-Lei n.º 553/80, de 21 de Novembro; assim, para estes cursos, o Externato de Nossa Senhora do Perpétuo Socorro gozará de independência relativamente aos regimes em vigor para as escolas públicas quanto a:
+a) Orientação metodológica e adaptação de instrumentos escolares;
+b) Conteúdos programáticos;
+c) Avaliação de conhecimentos, incluindo a dispensa de exames e ou a sua realização;
+d) Prazos e regras de matrícula;
+e) Calendário escolar;
+f) Emissão de diplomas e certificado de matrícula, de aproveitamento e de habilitações.
+9 - As orientações referidas no n.º 8 do presente despacho, assim como as possíveis alterações, serão submetidas ao parecer da Direcção-Geral do Ensino Particular e Cooperativo.
+10 - O Externato de Nossa Senhora do Perpétuo Socorro elaborará um relatório detalhado sobre o funcionamento da experiência pedagógica criada pelo presente despacho, para apreciação pela Direcção-Geral do Ensino Particular e Cooperativo.
+Ministério da Educação, 24 de Janeiro de 1984. - O Ministro da Educação, José Augusto Seabra.
+
+Anexo ao Despacho Normativo n.º 105/84, desta data
+Curso técnico de electrónica
+(ver documento original)
+Curso técnico de têxtil
+Especialização em acabamentos, tinturaria e estamparia e ultimação
+(ver documento original)
+Curso técnico de têxtil
+Especialização em estilismo, colorismo e confecção
+(ver documento original)
