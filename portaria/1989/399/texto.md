@@ -1,0 +1,12 @@
+Portaria n.º 399/89
+de 6 de Junho
+Em execução do disposto no Decreto-Lei n.º 549/77, de 31 de Dezembro, ratificado pela Lei n.º 55/78, de 27 de Julho, o Decreto-Lei n.º 136/83, de 21 de Março, fixou a orgânica e funcionamento dos centros regionais de segurança social, institutos públicos que, segundo o artigo 2.º deste diploma, revestem a natureza de serviços personalizados do Estado, com autonomia administrativa, financeira e patrimonial.
+Com a publicação do Regulamento do Cento Regional de Segurança Social de Santarém, aprovado pela Portaria n.º 389/85, de 26 de Junho, o conselho directivo responsável pela administração do referido Centro é composto por um presidente e dois vogais, cujo provimento se rege pelas normas constantes do Decreto-Lei n.º 191-F/79, de 26 de Junho. Tendo presente que o citado instituto público constitui o sector operacional, a nível regional, do aparelho administrativo do sistema de segurança social, assume especial relevância o desempenho dos referidos cargos, de reconhecida responsabilidade e importância, para uma eficiente gestão e um eficaz funcionamento das estruturas e do próprio sistema.
+É indispensável, assim, preencher os correspondentes lugares, designadamente os de vogal do mesmo órgão, com elementos possuidores do perfil que as exigências da função determinam. Para o efeito impõe-se alargar a respectiva área de recrutamento a funcionários dotados de conhecimentos, capacidade de direcção e de decisão, bem como de elevado nível de sentido de responsabilidade, exigidos para o exercício do cargo.
+Nestes termos, ao abrigo do disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho:
+Manda o Governo, pelos Secretários de Estado do Orçamento e da Segurança Social, o seguinte:
+1.º É alargada a área de recrutamento para o lugar de vogal do conselho directivo do Centro Regional de Segurança Social de Santarém aos funcionários de reconhecida competência que ocupem, nas respectivas carreiras, lugares a que corresponda letra de vencimento não inferior à letra E, possuidores de licenciatura e pertencentes a qualquer quadro dos organismo e serviços da Administração Pública.
+2.º O despacho de nomeação nos termos do número anterior será acompanhado, para publicação, do currículo do nomeado.
+Secretarias de Estado do Orçamento e da Segurança Social.
+Assinada em 18 de Maio de 1989.
+O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado da Segurança Social, Arlindo Gomes de Carvalho.
