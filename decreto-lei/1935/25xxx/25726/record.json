@@ -17,9 +17,23 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1935/08/18300/11811183.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1935-08-09",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "817d72cb67af0b2b69697610acd30359e3c1d6fa3d8e388ae64b35df4c71c58b",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.6,
+    "pages": 3,
+    "columns": [
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "5138da003d01fc3ba5940573ba28e302293115b86be51b3b10ff5ea32cec0862",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 863
 }
