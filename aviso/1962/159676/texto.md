@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se rectifica a informação constante do aviso publicado no Diário do Governo n.º 140, 1.ª série, de 20 de Junho de 1962, segundo a qual o Governo dos Países Baixos teria procedido, em 11 de Maio de 1962, ao depósito dos instrumentos de ratificação da Convenção de Nice relativa à classificação internacional de produtos e serviços aos quais se aplicam as marcas de fábrica ou de comércio.
+Nos termos da rectificação solicitada à Embaixada de Portugal em Paris pelo Ministério dos Negócios Estrangeiros francês, a ratificação do Governo Holandês reporta-se na realidade ao texto revisto em Nice, em 15 de Junho de 1957, do Acordo de Madrid relativo ao registo internacional das marcas de fábrica ou de comércio.
+Direcção-Geral dos Negócios Económicos e Consulares, 23 de Agosto de 1962. - O Director-Geral Adjunto, Armando Ramos de Paula Coelho.
