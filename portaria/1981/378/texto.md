@@ -1,0 +1,7 @@
+Portaria n.º 378/81
+de 9 de Maio
+Considerando que a carreira militar do pessoal da classe de mergulhadores passou, pelo Decreto-Lei n.º 386/77, de 14 de Setembro, a obedecer às normas básicas estabelecidas para a maioria das restantes classes de sargentos e praças da Armada;
+Tendo em conta as disposições do artigo 12.º do Regulamento do Serviço de Mergulhadores da Armada, aprovado e posto em vigor pela Portaria n.º 635/79, de 3 de Dezembro, no que respeita à classificação das praças da classe de mergulhadores por categorias;
+Atendendo a que, face às disposições do decreto e portaria antes mencionados, se torna necessário actualizar, em conformidade, as condições especiais de promoção da classe que tem vindo a ser referida:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo do disposto no artigo 231.º do Estatuto dos Sargentos e Praças da Armada (ESPA), aprovado e posto em execução pelo Decreto n.º 44884, de 18 de Fevereiro de 1963, que no quadro n.º 2 a que se refere o artigo 169.º do ESPA, com a redacção que lhe foi dada pela Portaria n.º 27/75, de 17 de Janeiro, alterada pela Portaria n.º 281/80, de 24 de Maio, seja eliminada, na classe de mergulhadores, para a promoção a segundo-sargento, a condição da classificação na 1.ª categoria.
+Estado-Maior da Armada, 21 de Abril de 1981. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante.
