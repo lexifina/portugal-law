@@ -4,7 +4,7 @@
 
 I
 
-Ordenados dos governadores civis e vice-governadores civis
+Vencimentos dos governadores e vice-governadores civis
 
 (ver documento original)
 
