@@ -1,0 +1,24 @@
+Aviso
+Por ordem superior se faz público que em 1 de Maio de 1968 se celebrou, em Lisboa, um acordo por troca de notas entre o Governo Português e o Governo dos Estados Unidos da América, pelo qual, com base em reciprocidade, os cidadãos portugueses que beneficiem dos privilégios de segurança social daquele país poderão continuar a usufruir desses privilégios mesmo que tenham fixado residência fora do território americano. O Acordo por troca de notas cujos textos são transcritos a seguir entrou imediatamente em vigor em 1 de Maio de 1968.
+Direcção-Geral dos Negócios Económicos, 26 de Fevereiro de 1971. - O Director-Geral-Adjunto, Manuel Rodrigues de Almeida Coutinho.
+
+No. 249
+Lisbon, May 1, 1968
+Excellency:
+I have the honor to refer to the United States Social Security ammendments of 1967 which will have the effect of depriving Portuguese citizens resident outside the United States of Social Security benefits unless Portugal's social insurance system meets the requirements of 202 (T) (2) of the United States Social Security Act. In order to avoid the suspension of payments I have the honor to propose the following Agreement.
+With respect to social insurance benefits which are paid by the Government of Portugal on account of old age, retirement or death, and without an examination of the financial need of the beneficiary, the Government of Portugal agrees that otherwise qualified citizens and nationals of the United States may apply for and be paid such benefits while absent from Portugal without regard to the duration of such absence and without reduction because of such absence. On its part, the Government of the United States agrees that the social insurance system of Portugal meets the conditions of Section 202 (T) (2) of the United States Social Security Act [42 USC 402 (T) (2)], and consequently comparable benefits authorized in Sections 202 (A) through 202 (I) inclusive, and 223 (A) of the Social Security Act of the United States [42 USC 402 (A) - 402 (I) and 423 (A)], may be paid to otherwise qualified Portuguese citizens without regard to the limitations of Section 202 (T) (I) of the United States Social Security Act [32 USC 402 (T) (I)].
+If this proposal is acceptable to the Government of Portugal, this note and Your Excellency's reply concurring therein shall constitute an Agreement between our two governments which shall enter into force on the date of Your Excellency's reply.
+Accept, Excellency, the renewed assurances of my highest consideration.
+His Excellency Dr. Alberto Marciano Gorjão Franco Nogueira, Minister of Foreign Affairs, Lisboa.
+
+N.º 1495
+Lisboa, 1 de Maio de 1968
+Sr. Embaixador:
+Tenho a honra de acusar a recepção da nota de V.Ex.ª datada de hoje, do teor seguinte:
+I have the honor to refer to the United States Social Security amendments of 1967 which will have the effect of depriving Portuguese citizens resident outside the United States of Social Security benefits unless Portugal's social insurance system meets the requirements of 202 (T) (2) of the United States Social Security Act. In order to avoid the suspension of payments I have the honor to propose the following Agreement.
+With respect to social insurance benefits which are paid by the Government of Portugal on account of old age, retirement or death, and without an examination of the financial need of the beneficiary, the Government of Portugal agrees that otherwise qualified citizens and nationals of the United States may apply for and be paid such benefits while absent from Portugal without regard to the duration of such absence and without reduction because of such absence. On its part, the Government of the United States agrees that the social insurance system of Portugal meets the conditions of Section 202 (T)(2) of the United States Social Security Act [42 USC 402 (T) (2)], and consequently comparable benefits authorized in Sections 202 (A) through 202 (I) inclusive, and 223 (A) of the Social Security Act of the United States [42 USC 402 (A) - 402 (I) and 423 (A)], may be paid to otherwise qualified Portuguese citizens without regard to the limitations of Section 202 (T) (I) of the United States Social Security Act [42 USC 402 (T) (I)].
+If this proposal is acceptable to the Government of Portugal, this note and Your Excellency's reply concurring therein shall constitute an Agreement between our two governments which shall enter into force on the date of Your Excellency's reply.
+Tenho a honra de comunicar a V.Ex.ª que o Governo Português está de acordo com o teor da nota de V.EX.ª e que a nota de V.Ex.ª e esta resposta constituem um acordo formal entre os nossos dois países a partir de hoje.
+Aproveito a oportunidade para apresentar a V.Ex.ª os protestos da minha mais alta consideração.
+A. Franco Nogueira.
+His Excellency W. Tapley Bennett Jr. Ambassador of the United States of America, Lisboa.
