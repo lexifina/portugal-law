@@ -1,0 +1,18 @@
+Portaria n.º 160/70
+Tornando-se necessário regulamentar as condições em que se processa a reintegração dos militares da Força Aérea reabilitados ao abrigo do instituto de revisão dos processos disciplinares, bem como a promoção dos mesmos aos diferentes postos;
+Considerando o disposto nos artigos 8.º e 9.º do Decreto-Lei n.º 46001, de 2 de Novembro de 1964:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáutica, o seguinte:
+1.º - 1. O militar da Força Aérea que for reintegrado no activo, nos termos do Decreto-Lei n.º 46001, de 2 de Novembro de 1964, reocupa o seu lugar na escala do respectivo quadro, mas, se lhe competir posto superior ao que tinha à data da sua punição, a promoção a esse posto efectua-se progressivamente, devendo, para efeito de readaptação ao serviço e de identificação com as funções do novo posto, satisfazer, consoante aplicável, às seguintes condições:
+a) Prestar o mínimo de seis meses de serviço no posto que tinha à data da punição, salvo se se tratar de soldado ou de furriel e segundo-sargento, casos em que o referido tempo será prestado nos postos de primeiro-cabo ou de primeiro-sargento, respectivamente;
+b) Permanecer pelo período mínimo de um ano nos postos de capitão, tenente-coronel e coronel;
+c) Realizar com aproveitamento os cursos que constituem condição de promoção aos postos por que transita ou ascende;
+d) Satisfazer as condições especiais de promoção legalmente estabelecidas para os postos por que transita ou a que ascende, compatíveis com as fixadas nas alíneas anteriores, devendo as mesmas ser definidas para cada caso por despacho do Secretário de Estado da Aeronáutica, mediante proposta do chefe do Estado-Maior da Força Aérea.
+2. A promoção progressiva referida no n.º 1 deste número só é feita posto a posto quando for necessário o cumprimento das condições aí estabelecidas.
+3. Os períodos de permanência em cada posto referidos no n.º 1 só serão ultrapassados quando necessário para satisfação das condições especiais de promoção estabelecidas no mesmo número, sendo contado como de serviço prestado nos postos o tempo de frequência dos cursos ou de realização de outras condições.
+2.º - 1. A reintegração na situação de reserva dos militares abrangidos pelo Decreto-Lei n.º 46001 efectua-se nas seguintes condições:
+a) O militar que à data da punição já estava habilitado com o curso ou concurso a que se refere o artigo 9.º do Decreto-Lei n.º 46001, que seja condição de promoção para o posto que lhe competir ou para qualquer dos postos intermédios, é reintegrado naquele posto;
+b) O militar que não obedeça à condição expressa na alínea anterior é reintegrado, conforme os casos, no posto máximo de primeiro-sargento, de capitão ou de coronel, podendo vir a ser promovido ao posto que lhe competir se obtiver aproveitamento nos referidos cursos.
+2. Os programas, duração e demais condições a observar na realização dos cursos referidos na alínea b) do n.º 1 deste número são fixados por despacho do Secretário de Estado da Aeronáutica, devendo os militares que os desejarem frequentar requerer nesse sentido.
+3.º O militar reintegrado a que, já na situação de reforma, vier a ser aplicado o disposto no artigo 7.º do Decreto-Lei n.º 46001 é promovido ao posto que lhe competir, em conformidade com o artigo 10.º do mesmo diploma, por portaria do Secretário de Estado da Aeronáutica.
+4.º As dúvidas e casos omissos serão resolvidos por despacho do Secretário de Estado da Aeronáutica.
+Secretaria de Estado da Aeronáutica, 26 de Março de 1970. - O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.
