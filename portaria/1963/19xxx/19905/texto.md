@@ -1,0 +1,5 @@
+Portaria n.º 19905
+Considerando que o serviço de vacinação contra doenças infecto-contagiosas (tropicais e gerais) criado no Instituto de Medicina Tropical pelo artigo 1.º do Decreto n.º 36689, de 23 de Dezembro de 1947, foi dotado pelo artigo 8.º do Decreto-Lei n.º 44786, de 7 de Dezembro de 1962, com um lugar de médico chefe de serviço;
+Atendendo a que, por lapso, foi incluída no quadro do pessoal contratado do orçamento daquele organismo para o corrente ano, aprovado pela Portaria n.º 19655, de 25 de Janeiro último, a categoria de médico para serviço de vacinações em lugar de médico chefe de serviço, o que se torna necessário rectificar:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, alterar para «1 médico chefe de serviço» a designação de «1 médico para serviço de vacinações» constante do quadro do pessoal contratado do orçamento do Instituto de Medicina Tropical para o ano de 1963, aprovado pela Portaria n.º 19655, de 25 de Janeiro do mesmo ano.
+Ministério do Ultramar, 19 de Junho de 1963. - O Ministro do Ultramar, António Augusto Peixoto Correia.
