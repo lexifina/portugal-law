@@ -1,0 +1,11 @@
+Portaria n.º 1105/2000
+de 25 de Novembro
+A Portaria n.º 621/89, de 5 de Agosto, alterada pela Portaria n.º 987/98, de 24 de Novembro, define os termos e condições que permitem aos bombeiros abrangidos pelos regimes contributivos de segurança social a concretização do direito à bonificação das pensões de reforma por invalidez e velhice e de sobrevivência, prevista no Decreto-Lei n.º 241/89, de 3 de Agosto, que regulamentou o Estatuto Social do Bombeiro, aprovado pela Lei n.º 21/87, de 20 de Junho.
+Nos termos do n.º 5.º da Portaria n.º 621/89, a efectivação do direito à bonificação depende de requerimento do beneficiário e do pagamento pelo mesmo das respectivas contribuições adicionais, cujo pedido de bonificação, face ao estabelecido no n.º 6.º da referida portaria, deve constar do requerimento da pensão, sem prejuízo da sua consideração, se apresentado posteriormente.
+Deste modo, face à actual legislação, não é permitido aos familiares dos bombeiros falecidos na situação de activos, ou de pensionistas que não tenham requerido a bonificação, exercer aquele direito.
+Assim, tendo em vista minimizar os efeitos decorrentes da limitação existente, uma vez que está em causa proporcionar uma melhor protecção social, foi considerado tornar extensiva aquela faculdade aos familiares sobrevivos com direito à pensão de sobrevivência, medida que é introduzida pela presente portaria, tornando-se necessário aditar um número ao n.º 5.º da Portaria n.º 621/89, de 5 de Agosto, alterada pela Portaria n.º 987/98, de 24 de Novembro.
+Assim, ao abrigo do disposto no artigo 22.º do Decreto-Lei n.º 241/89, de 3 de Agosto:
+Manda o Governo, pelos Ministros da Administração Interna e do Trabalho e da Solidariedade, que seja aditado ao n.º 5.º da referida portaria o seguinte n.º 2:
+«2 - Nos casos em que a morte do beneficiário ocorra antes do pedido de bonificação, o requerimento a que se refere o número anterior pode ser apresentado a todo o tempo pelo conjunto dos familiares sobrevivos com direito à pensão de sobrevivência.»
+Em 18 de Outubro de 2000.
+Pelo Ministro da Administração Interna, Luís Manuel Santos Silva Patrão, Secretário de Estado da Administração Interna. - Pelo Ministro do Trabalho e da Solidariedade, José António Fonseca Vieira da Silva, Secretário de Estado da Segurança Social.
