@@ -1,0 +1,2725 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "306",
+    "id": "5888",
+    "titulo": "Reforma dos impostos sobre o rendimento."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-10-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2123",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-10-11",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5862",
+        "leg": "VIII",
+        "nr": "309",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Altera o Código do Imposto sobre o Rendimento das Pessoas Colectivas (CIRC)."
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "5858",
+        "leg": "VIII",
+        "nr": "46",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Reforma a tributação do rendimento e adopta medidas para combater a fraude e a evasão fiscais alterando o Código do IRS, o Código do IRC, o Estatuto dos Benefícios Fiscais, a Lei Geral Tributária, o Estatuto dos Tribunais Administrativos e Fiscais, o Código de Procedimento e Processo Tibutário e legislação avulsa"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6298",
+        "leg": "VIII",
+        "nr": "54",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Revê o regime de sigilo bancário"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6287",
+        "leg": "VIII",
+        "nr": "62",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reforma dos impostos sobre o rendimento"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5923",
+        "leg": "VIII",
+        "nr": "283",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o Código do Imposto Sobre o Rendimento das Pessoas Singulares (IRS)"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5921",
+        "leg": "VIII",
+        "nr": "285",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Revê o regime de sigilo bancário nos casos de entidades patronais devedoras ao sistema de segurança social"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5920",
+        "leg": "VIII",
+        "nr": "286",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o Código do Imposto Sobre o Rendimento das Pessoas Colectivas (IRC)"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5919",
+        "leg": "VIII",
+        "nr": "287",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Revê o regime de sigilo bancário nos casos de entidades que se candidatam a subsídios públicos"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5915",
+        "leg": "VIII",
+        "nr": "291",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "452",
+            "obs": null,
+            "pag": [
+              "294-329"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "9",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-329&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o regime geral das instituições de crédito e sociedades financeiras (decreto-lei nº 298/92 de 31 de Dezembro)"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-10-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30617",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "330-330"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/330?pgs=330&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30619",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "321-324"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/321?pgs=321-324&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30620",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "320-320"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/320?pgs=320&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30621",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "319-320",
+                  "327-327"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/319?pgs=319-320,327&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30622",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "318-319"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/318?pgs=318-319&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Pina Moura"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30623",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "314-321"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/314?pgs=314-321&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30624",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "313-313",
+                  "326-326"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/313?pgs=313,326&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30625",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "311-312"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/311?pgs=311-312&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30626",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "310-311",
+                  "323-323",
+                  "327-328"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/310?pgs=310-311,323,327-328&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30627",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "310-310"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/310?pgs=310&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30628",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "310-310"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/310?pgs=310&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "José Magalhães"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30629",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "309-310"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/309?pgs=309-310&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30630",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "306-309",
+                  "314-314",
+                  "328-329"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/306?pgs=306-309,314,328-329&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30631",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "302-306"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/302?pgs=302-306&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30632",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "298-302"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/298?pgs=298-302&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30633",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "298-298"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/298?pgs=298&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30634",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "297-297",
+                  "301-301",
+                  "317-318"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/297?pgs=297,301,317-318&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30635",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "294-298"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294-298&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Ricardo Sa Fernandes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "108466",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "324-328"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/324?pgs=324-328&org=PLC"
+              }
+            ],
+            "sumario": "REFORMA FISCAL",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "150280",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "267337",
+        "obs": null,
+        "pag": [
+          "294--331"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-10-12",
+        "pubLeg": "VIII",
+        "pubNr": "9",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/009/2000-10-12/294?pgs=294--331&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
