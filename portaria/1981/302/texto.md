@@ -1,0 +1,5 @@
+Portaria n.º 302/81
+de 30 de Março
+Tendo Antenor Patiño e sua esposa, Beatrice Rivera Patiño, dado o amor que têm à terra portuguesa, solicitado autorização para serem sepultados, quando os seus dias chegarem ao fim, na capela privativa da Quinta Patiño, sita em Alcoitão, concelho de Cascais, de que são proprietários:
+Manda o Governo da República Portuguesa, pelos Ministros da Justiça e da Administração Interna, que, ao abrigo das alíneas b) e c) do n.º 2 do artigo 251.º do Código do Registo Civil, obtidos os pareceres favoráveis da autoridade sanitária e da Câmara Municipal de Cascais, autorizar o enterramento na capela privativa da Quinta Patiño, sita em Alcoitão, concelho de Cascais, dos respectivos proprietários, Antenor Patiño e Beatrice Rivera Patiño, quando ocorrer o seu decesso.
+Ministérios da Administração Interna e da Justiça, 23 de Fevereiro de 1981. - O Ministro da Administração Interna, Fernando Monteiro do Amaral. - O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel.
