@@ -1,0 +1,64 @@
+Portaria n.º 440/2002
+de 22 de Abril
+A preocupação com a análise e utilização de informação de natureza económica esteve sempre presente nas normas reguladoras do Instituto Nacional da Farmácia e do Medicamento (INFARMED).
+A Lei Orgânica do INFARMED, aprovada pelo Decreto-Lei n.º 495/99, de 18 de Novembro, alínea c) do n.º 1 do artigo 20.º, prevê a existência de uma comissão de farmacoeconomia, como órgão consultivo do INFARMED «à qual compete, genericamente, sempre que solicitada, apreciar os estudos de avaliação económica apresentados pelos requerentes ao INFARMED e propor as medidas mais adequadas aos objectivos do estudo de acordo com os superiores interesses da saúde pública e do Serviço Nacional de Saúde».
+Deste modo, impõe-se regulamentar a comissão técnica especializada no domínio da farmacoeconomia, no que se refere à sua composição e funcionamento.
+Assim, nos termos do n.º 4 do artigo 20.º do Decreto-Lei n.º 495/99, de 18 de Novembro:
+Manda o Governo, pelo Ministro da Saúde, aprovar o Regulamento da Comissão de Farmacoeconomia, anexo a esta portaria, e que dela faz parte integrante.
+Pelo Ministro da Saúde, Francisco Ventura Ramos, Secretário de Estado da Saúde, em 15 de Março de 2002.
+
+ANEXO
+REGULAMENTO DA COMISSÃO DE FARMACOECONOMIA
+Artigo 1.º
+Natureza
+A Comissão de Farmacoeconomia, adiante designada por Comissão, é um órgão consultivo do Instituto Nacional da Farmácia e do Medicamento (INFARMED) em matéria de farmacoeconomia.
+Artigo 2.º
+Composição
+1 - A Comissão é composta por técnicos e personalidades de reconhecido mérito nos domínios das ciências médicas, farmacêuticas, económicas e estatísticas.
+2 - Sempre que sejam necessários pareceres em áreas de diferentes especialidades, a Comissão pode consultar peritos dessas áreas.
+3 - Nas reuniões da Comissão poderão participar técnicos das direcções operacionais ou de outros serviços do INFARMED, nos termos do respectivo regulamento interno e sempre que tal se revele necessário.
+Artigo 3.º
+Nomeação
+Os membros da Comissão e os seus peritos são nomeados, sob proposta do presidente do conselho de administração do INFARMED, por despacho do Ministro da Saúde ou, se pertencerem a outros ministérios, por despacho conjunto do Ministro da Saúde e dos respectivos ministros da tutela.
+Artigo 4.º
+Competência da Comissão
+Compete à Comissão, a solicitação do conselho de administração do INFARMED, pronunciar-se em matérias do âmbito da farmacoeconomia e, designadamente, sobre:
+a) Os estudos de avaliação económica apresentados ao INFARMED por titulares de autorizações de introdução no mercado de medicamentos;
+b) Os estudos de avaliação económica apresentados ao INFARMED por titulares de autorizações de colocação no mercado de produtos de saúde;
+c) Os desenvolvimentos científicos no domínio da avaliação económica de medicamentos e produtos de saúde, na medida em que possam ter implicações no regime interno a aplicar aos estudos de avaliação económica referidos nas alíneas anteriores.
+Artigo 5.º
+Direcção
+1 - A Comissão funciona sob a direcção de um presidente, a designar pelo conselho de administração do INFARMED, de entre os seus membros.
+2 - O presidente da Comissão é substituído, nas suas faltas ou impedimentos, pelo membro referido na alínea a) do n.º 2 do artigo 7.º do presente diploma, ou, quando este último for o presidente, por um vice-presidente designado nos termos do número anterior.
+Artigo 6.º
+Competência do presidente
+Compete ao presidente da Comissão:
+a) Representar a Comissão e responder directamente perante o conselho de administração do INFARMED sobre a sua actividade;
+b) Propor à aprovação prévia da Comissão o respectivo regulamento interno, que será depois submetido à homologação do conselho de administração do INFARMED;
+c) Estabelecer o programa de actividades da Comissão, fixando as prioridades a observar em função da natureza dos trabalhos a realizar e das acções a desenvolver;
+d) Efectuar a distribuição de tarefas pelos membros da Comissão;
+e) Elaborar o relatório anual de funcionamento da Comissão, a apresentar ao conselho de administração do INFARMED;
+f) Convocar as reuniões da Comissão e dirigir os respectivos trabalhos.
+Artigo 7.º
+Funcionamento
+1 - A Comissão articula-se funcionalmente com a Direcção Operacional de Avaliação Económica e Farmacoterapêutica, do INFARMED.
+2 - Para além dos membros podem participar, nas reuniões plenárias da Comissão, por inerência de funções, os responsáveis pelas seguintes direcções operacionais do INFARMED:
+a) Direcção Operacional de Avaliação Económica e Farmacoterapêutica;
+b) Direcção Operacional de Avaliação de Medicamentos de Uso Humano;
+c) Direcção Operacional de Avaliação de Produtos de Saúde.
+3 - A Comissão poderá funcionar quando esteja presente ou representada a maioria dos membros nomeados e em efectividade de funções. Cada membro só poderá representar um outro membro da Comissão.
+4 - A Comissão delibera por maioria absoluta dos votos expressos.
+5 - O apoio de secretariado e logístico é assegurado pelo gabinete técnico de apoio às comissões previsto no regulamento interno do INFARMED.
+Artigo 8.º
+Pedidos de informação
+A Comissão pode solicitar aos titulares de autorização de introdução no mercado de medicamentos, médicos, directores técnicos de farmácia, outros profissionais de saúde e instituições de saúde todas as informações que julgue necessárias ao exercício das suas atribuições, estando aqueles obrigados a fornecê-las por razões de garantia e salvaguarda da saúde pública.
+Artigo 9.º
+Confidencialidade e declaração de interesses
+Os membros, peritos e técnicos da Comissão de Farmacoeconomia estão sujeitos ao regime de confidencialidade em relação aos assuntos de que tenham conhecimento no exercício das sua funções e não podem ter interesses financeiros ou outros na indústria farmacêutica que possam afectar a sua imparcialidade no exercício das funções, devendo quaisquer interesses indirectos relacionados com aquela indústria ser declarados e registados no INFARMED.
+Artigo 10.º
+Remuneração
+1 - Os membros da Comissão de Farmacoeconomia, bem como os peritos, são remunerados nos termos a fixar por despacho conjunto dos Ministros das Finanças e da Saúde e do membro do Governo responsável pela Administração Pública.
+2 - Aos membros e peritos é aplicável, conforme os casos, o disposto no artigo 70.º do Decreto-Lei n.º 448/79, de 13 de Novembro, alterado, por ratificação, pela Lei n.º 19/80, de 16 de Julho, e com a redacção dada pelo artigo 2.º do Decreto-Lei n.º 145/87, de 24 de Março, e no n.º 2 do artigo 52.º do Decreto-Lei n.º 124/99, de 20 de Abril.
+Artigo 11.º
+Regime subsidiário
+Em tudo o que não estiver previsto no presente Regulamento, são aplicáveis as disposições do Código do Procedimento Administrativo relativas aos órgãos colegiais.
