@@ -1,0 +1,417 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "415",
+    "id": "4982",
+    "titulo": "Criação do concelho de Vizela e elevação a cidade"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "1998-06-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "904",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "1998-06-18",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "4885",
+        "leg": "VII",
+        "nr": "454",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "322",
+            "obs": null,
+            "pag": [
+              "2849-2853"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-06-19",
+            "pubLeg": "VII",
+            "pubNr": "82",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2849?pgs=2849-2853&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "322",
+            "obs": null,
+            "pag": [
+              "2849-2853"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-06-19",
+            "pubLeg": "VII",
+            "pubNr": "82",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2849?pgs=2849-2853&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Cria o município de Vizela"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "4864",
+        "leg": "VII",
+        "nr": "471",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "322",
+            "obs": null,
+            "pag": [
+              "2849-2853"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-06-19",
+            "pubLeg": "VII",
+            "pubNr": "82",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2849?pgs=2849-2853&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "322",
+            "obs": null,
+            "pag": [
+              "2849-2853"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-06-19",
+            "pubLeg": "VII",
+            "pubNr": "82",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2849?pgs=2849-2853&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Criação do município de Vizela"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1998-06-18",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51095",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2853-2853"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-19",
+                "pubLeg": "VII",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2853?pgs=2853&org=PLC"
+              }
+            ],
+            "sumario": "CRIACAO DO MUNICIPIO DE VIZELA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51096",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2852-2853"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-19",
+                "pubLeg": "VII",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2852?pgs=2852-2853&org=PLC"
+              }
+            ],
+            "sumario": "CRIACAO DO MUNICIPIO DE VIZELA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51097",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2852-2852"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-19",
+                "pubLeg": "VII",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2852?pgs=2852&org=PLC"
+              }
+            ],
+            "sumario": "CRIACAO DO MUNICIPIO DE VIZELA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51098",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2851-2852"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-19",
+                "pubLeg": "VII",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2851?pgs=2851-2852&org=PLC"
+              }
+            ],
+            "sumario": "CRIACAO DO MUNICIPIO DE VIZELA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51099",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2849-2850"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-19",
+                "pubLeg": "VII",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19/2849?pgs=2849-2850&org=PLC"
+              }
+            ],
+            "sumario": "CRIACAO DO MUNICIPIO DE VIZELA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "100598",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1998-06-18",
+        "descricao": "Texto final.",
+        "detalhe": "A Favor: <I>PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> Alberto Marques (PS)</I>, <I> Sónia Fertuzinhos (PS)</I>",
+        "id": "23320",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "108646",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-06-19",
+            "pubLeg": "VII",
+            "pubNr": "82",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/082/1998-06-19?org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "82",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
