@@ -19,3 +19,5 @@ e) As autorizações concedidas a negócios entre a sociedade e os seus administ
 f) Uma proposta de aplicação de resultados devidamente fundamentada.
 
 g) A existência de sucursais da sociedade.
+
+h) Os objectivos e as políticas da sociedade em matéria de gestão dos riscos financeiros, incluindo as políticas de cobertura de cada uma das principais categorias de transacções previstas para as quais seja utilizada a contabilização de cobertura, e a exposição por parte da sociedade aos riscos de preço, de crédito, de liquidez e de fluxos de caixa, quando materialmente relevantes para a avaliação dos elementos do activo e do passivo, da posição financeira e dos resultados, em relação com a utilização dos instrumentos financeiros.
