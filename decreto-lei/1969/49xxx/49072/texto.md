@@ -1,0 +1,27 @@
+Decreto-Lei n.º 49072
+Considerando que as especiais dificuldades que se deparam no recrutamento de pessoal docente para o ensino secundário nas províncias ultramarinas aconselham a que nas Universidades de Luanda e de Lourenço Marques passe a ministrar-se o ensino da parte geral das licenciaturas em Filologia Românica, História e Geografia, a que corresponde o grau de bacharel;
+Considerando que, extintas as categorias de professores adjuntos do 8.º e do 11.º grupos do ensino profissional, deixam de ter justificação os cursos organizados pelo Decreto n.º 37087, de 6 de Outubro de 1948;
+Considerando que a instituição de novos cursos nas Universidades de Luanda e de Lourenço Marques impõe se altere a constituição dos respectivos senados;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Passa a ser professada nas Universidades de Luanda e de Lourenço Marques a parte geral das licenciaturas em Filologia Românica, História e Geografia, a que corresponde o grau de bacharel.
+Art. 2.º São extintos nas Universidades de Coimbra, Lisboa, Luanda e Lourenço Marques os cursos de preparação de professores adjuntos do 8.º e do 11.º grupos do ensino profissional.
+§ único. Os alunos que frequentarem os cursos do 8.º e do 11.º grupos do ensino profissional poderão concluir esses cursos de harmonia com a legislação em vigor à data do presente diploma ou ingressar na parte geral, respectivamente, das licenciaturas em Filologia Românica e Geografia, mediante planos a estabelecer pela Direcção-Geral do Ensino Superior e das Belas-Artes, sob proposta das Universidades.
+Art. 3.º Os senados das Universidades de Luanda e de Lourenço Marques passam a ser constituídos:
+a) Pelo reitor, que é presidente nato;
+b) Pelo vice-reitor;
+c) Pelo director dos cursos de Filologia Românica, História, Geografia e Ciências Pedagógicas;
+d) Pelo director do curso médico-cirúrgico;
+e) Pelo director dos cursos de Matemática, Física, Química, Geologia e Biologia;
+f) Pelo director dos cursos de Engenharia Civil, de Minas, Mecânica, Electrotécnica e Químico-Industrial;
+g) Pelo director dos cursos de Agronomia e Silvicultura;
+h) Pelo director do curso de Medicina Veterinária;
+i) Por um delegado dos professores catedráticos de cada um dos grupos de cursos referidos nas alíneas c) a i);
+j) Por um representante dos professores extraordinários, encarregados de curso e incumbidos de regência da Universidade;
+k) Por um representante dos assistentes da Universidade.
+§ único. Na falta de professores catedráticos, os vogais referidos na alínea i) serão eleitos de entre os elementos docentes mais categorizados do respectivo grupo de cursos.
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - José Hermano Saraiva.
+Promulgado em 4 de Junho de 1969.
+Publique-se.
+Presidência da República, 20 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.
