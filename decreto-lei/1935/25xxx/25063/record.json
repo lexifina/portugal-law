@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1935/02/04100/02990299.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1935-02-20",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "726ac10fa40e1d2f7df412932d269005a5b9f3236369ba364cdf2bc8b5a6af35",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.7,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "8b3a8c31db25d5dfb538fa4a547782c936b124ac20bec9fa626c5062a66e49ba",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 456
 }
