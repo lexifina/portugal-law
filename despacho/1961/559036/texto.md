@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 1.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, o Conselho de Ministros resolve declarar como adequada, para efeito de provimento nos lugares de encarregado geral do serviço de abastecimento de águas ou seu adjunto e de chefe ou subchefe de canalizadores dos serviços técnicos ou especiais das câmaras municipais, quando a tais lugares corresponda remuneração superior à do grupo T da escala geral do funcionalismo, a habilitação dos cursos de serralheiro e de topógrafo auxiliar de obras públicas professados nas escolas técnicas profissionais.
+Presidência do Conselho, 28 de Março de 1961. - Pelo Presidente do Conselho, o Ministro da Presidência, Pedro Theotónio Pereira.
