@@ -1,0 +1,4 @@
+Portaria n.º 1217/82
+de 27 de Dezembro
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Agricultura, Comércio e Pescas e da Reforma Administrativa, ao abrigo do disposto no artigo 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, criar no quadro da Direcção-Geral do Comércio Alimentar, a que se refere a alínea c) da Portaria n.º 955/80, de 10 de Novembro, 2 lugares de assessor, letra C, os quais serão extintos quando vagarem.
+Ministérios das Finanças e do Plano, da Agricultura, Comércio e Pescas e da Reforma Administrativa, 9 de Dezembro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
