@@ -1,0 +1,30 @@
+Portaria n.º 24168
+Para execução do previsto no artigo 69.º do Decreto-Lei n.º 42151, de 12 de Fevereiro de 1959, foi publicada a Portaria n.º 18043, de 8 de Novembro de 1960, alterada pela Portaria n.º 22120, de 19 de Julho de 1966, que estabelece e regula a atribuição de prémios escolares destinados a galardoar os alunos da Academia Militar que mais se distingam nos aspectos de aptidão e aproveitamento intelectual ou físico.
+Todavia, não foi considerado, para a atribuição daqueles prémios escolares, um importante aspecto da formação dos futuros oficiais - o seu aprumo e a sua apresentação militar.
+Por se reconhecer que é de justiça e se torna vantajoso, para estímulo dos alunos, galardoar os que mais se distingam pelo seu aprumo e pela sua apresentação militar:
+Manda o Governo da República Portuguesa, pelo Ministro do Exército, que se observe o seguinte:
+1.º Além dos prémios escolares estabelecidos pela Portaria n.º 18043, de 8 de Novembro de 1960, alterada pela Portaria n.º 22120, de 19 de Julho de 1966, são instituídos, na Academia Militar, prémios de aprumo e apresentação militar.
+2.º Os prémios de aprumo e apresentação militar são, anualmente, em número de quatro, um por cada companhia do corpo de alunos, e dão lugar a louvor em Ordem de Serviço da Academia Militar e à concessão de um diploma e de um medalhão com os dizeres dos modelos anexos.
+3.º Cada um dos quatro alunos a considerar em cada ano lectivo para a concessão do Prémio de Aprumo e Apresentação Militar deve satisfazer às seguintes condições gerais:
+a) Ter classificação de exemplar comportamento, conforme regulamentação interna, no dia da abertura das aulas do ano lectivo imediato àquele a que os prémios dizem respeito;
+b) Não ter pendente auto de corpo de delito ou de averiguações naquele mesmo dia;
+c) Não ser repetente no ano a que respeitem os prémios, salvo se a repetição tiver sido exclusivamente devida a faltas por motivo de doença ou de desastre em serviço;
+d) Ter sido proposto pelo comandante do corpo de alunos, mediante informação dos respectivos comandantes de companhia e batalhão.
+4.º São factores a considerar pelos comandantes de companhia e de batalhão e pelo comandante do corpo de alunos, nas informações e propostas do Prémio de Aprumo e Apresentação Militar:
+Respeito absoluto pelos regulamentos militares;
+Atitude de impecável correcção militar;
+Respeito absoluto pelo plano de uniformes;
+Camaradagem;
+Trato social;
+Educação, nos aspectos de civilidade e urbanidade.
+5.º A concessão dos prémios de aprumo e apresentação militar compete ao comandante da Academia Militar, sob proposta do comandante do corpo de alunos, ouvidos os directores dos cursos dos alunos propostos.
+6.º Ao comandante da Academia Militar compete resolver os casos especiais que se suscitarem na aplicação das disposições deste diploma.
+7.º Os prémios instituídos por esta portaria são atribuídos a partir do ano lectivo de 1968-1969 e são distribuídos, normalmente, na sessão solene de abertura do ano lectivo imediato àquele a que dizem respeito.
+Ministério do Exército, 7 de Julho de 1969. - O Ministro do Exército, José Manuel Bethencourt Conceição Rodrigues.
+
+Anexo n.º 1 à Portaria n.º 24168
+(ver documento original)
+
+Anexo n.º 2 à Portaria n.º 24168
+(ver documento original)
+Ministério do Exército, 7 de Julho de 1969. - O Ministro do Exército, José Manuel Bethencourt Conceição Rodrigues.
