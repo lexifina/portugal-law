@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1948/08/18800/08090810.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1948-08-13",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "4ed4453984337069ae49bfe08f86060e8d8082fb50977acfd1e181515c58c57b",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.4,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "a293078eb857807e1eef2c421aee22e290548b126bdade88f3a827786c25a66c",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 944
 }
