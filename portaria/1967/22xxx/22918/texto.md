@@ -1,0 +1,12 @@
+Portaria n.º 22918
+Manda o Governo da República Portuguesa, pelos Ministros da Marinha e da Saúde e Assistência, ao abrigo do disposto no n.º 2 do artigo 4.º e no artigo 72.º do Regulamento da Indústria Ostreícola, aprovado pelo Decreto n.º 47326, de 21 de Novembro de 1966, estabelecer as condições de salubridade a que devem satisfazer, os bancos de ostras, os estabelecimentos ostreícolas e as ostras.
+1.º Bancos de ostras. Deverão:
+a) Estar fora da influência de fontes de poluição não eliminável, lesiva para os consumidores de ostras;
+b) Não estar povoados por ostras afectadas por doenças e ou parasitas susceptíveis de serem transmitidos a outros bancos ou estabelecimentos ostreícolas quando aquelas ostras forem transplantadas ou neles depositadas;
+c) Estar situados em locais em que o número mais provável (NMP) de bacilos coliformes (colis) da água ambiente não exceda, em média de duas amostras mensais, 50 em 100 cm3 e em nenhuma delas mais de 100 em 100 cm3.
+2.º Estabelecimentos ostreícolas de crescimento e engorda (estabulação), de afinação e de depósito. Deverão satisfazer às mesmas condições dos bancos.
+3.º Estabelecimentos ostreícolas de depuração. Deverão adoptar processos de depuração e cumprir regulamento interno que hajam sido aprovados por despacho do Ministro da Marinha, ouvidos o Instituto de Biologia Marítima e a Direcção-Geral de Saúde.
+4.º Ostras para estabulação. Devem ser provenientes de bancos ou de estabelecimentos ostreícolas salubres. Excepcional e condicionalmente, mediante parecer justificativo e favorável do Instituto de Biologia Marítima, poderão ser provenientes de bancos ou de estabelecimentos não salubres.
+5.º Ostras para consumo, não depuradas. Devem ser provenientes de bancos ou de estabelecimentos ostreícolas salubres, de cujos locais ou proximidades amostras sucessivas, colhidas no decurso do ano, hajam revelado um NMP não superior a um coli por grama de carne de ostras e não acusem outra poluição lesiva para os consumidores.
+6.º Ostras depuradas. Não deverão revelar um NMP superior a um coli por grama de carne, só podendo ser submetidas a depuração as ostras que satisfizerem ao preceituado no regulamento interno do estabelecimento depuração.
+Ministérios da Marinha e da Saúde e Assistência, 22 do Setembro de 1967. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.
