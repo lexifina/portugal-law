@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Governo da República das Seychelles depositou, em 11 de Novembro de 1980, junto do Ministério dos Negócios Estrangeiros do Reino dos Países Baixos o instrumento de adesão à Convenção Relativa à Citação e Notificação no Estrangeiro dos Actos Judiciários e Extrajudiciários em Matéria Civil ou Comercial, de que Portugal é parte. Nos termos do artigo 28.º, alínea 3, a Convenção entrou em vigor para a República das Seychelles em 1 de Julho de 1981.
+Secretaria-Geral do Ministério, 22 de Julho de 1981. - O Director-Geral dos Serviços Jurídicos e de Tratados, Carlos Augusto Fernandes.
