@@ -1,0 +1,784 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "177",
+    "id": "19350",
+    "titulo": "Lei de Bases da Reforma do Serviço Público de Registo e Notariado."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2003-01-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2422",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2003-01-22",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "19331",
+        "leg": "IX",
+        "nr": "35",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "672",
+            "obs": null,
+            "pag": [
+              "3245-3264"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-01-23",
+            "pubLeg": "IX",
+            "pubNr": "77",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/077/2003-01-23/3245?pgs=3245-3264&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Autoriza o Governo a aprovar o novo regime jurídico do Notariado e a criar a Ordem dos Notários."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-01-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Maria Celeste Cardona"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143809",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3245-3252",
+                  "3263-3263"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-23",
+                "pubLeg": "IX",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/077/2003-01-23/3245?pgs=3245-3252,3263&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o novo regime jurídico do notariado e a criar a ordem dos notários",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143810",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3247-3247"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-23",
+                "pubLeg": "IX",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/077/2003-01-23/3247?pgs=3247&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o novo regime jurídico do notariado e a criar a ordem dos notários",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143811",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3247-3248",
+                  "3256-3256"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-23",
+                "pubLeg": "IX",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/077/2003-01-23/3247?pgs=3247-3248,3256&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o novo regime jurídico do notariado e a criar a ordem dos notários",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1928",
+                "nome": "Isilda Pegado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143812",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3249-3249"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-23",
+                "pubLeg": "IX",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/077/2003-01-23/3249?pgs=3249&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o novo regime jurídico do notariado e a criar a ordem dos notários",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143813",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3249-3250",
+                  "3259-3259"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-23",
+                "pubLeg": "IX",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/077/2003-01-23/3249?pgs=3249-3250,3259&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o novo regime jurídico do notariado e a criar a ordem dos notários",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143814",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3251-3252"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-23",
+                "pubLeg": "IX",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/077/2003-01-23/3251?pgs=3251-3252&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o novo regime jurídico do notariado e a criar a ordem dos notários",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143815",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3252-3257",
+                  "3263-3264"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-23",
+                "pubLeg": "IX",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/077/2003-01-23/3252?pgs=3252-3257,3263-3264&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o novo regime jurídico do notariado e a criar a ordem dos notários",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1022",
+                "nome": "Eugénio Marinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143816",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3254-3256"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-23",
+                "pubLeg": "IX",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/077/2003-01-23/3254?pgs=3254-3256&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o novo regime jurídico do notariado e a criar a ordem dos notários",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143817",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3257-3258"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-23",
+                "pubLeg": "IX",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/077/2003-01-23/3257?pgs=3257-3258&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o novo regime jurídico do notariado e a criar a ordem dos notários",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1245",
+                "nome": "António Montalvão Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143818",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3258-3260"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-23",
+                "pubLeg": "IX",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/077/2003-01-23/3258?pgs=3258-3260&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o novo regime jurídico do notariado e a criar a ordem dos notários",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143819",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3260-3260"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-23",
+                "pubLeg": "IX",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/077/2003-01-23/3260?pgs=3260&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o novo regime jurídico do notariado e a criar a ordem dos notários",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143820",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3260-3262"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-23",
+                "pubLeg": "IX",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/077/2003-01-23/3260?pgs=3260-3262&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o novo regime jurídico do notariado e a criar a ordem dos notários",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1863",
+                "nome": "Miguel Paiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143821",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3262-3262"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-23",
+                "pubLeg": "IX",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/077/2003-01-23/3262?pgs=3262&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o novo regime jurídico do notariado e a criar a ordem dos notários",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143822",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3264-3264"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-23",
+                "pubLeg": "IX",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/077/2003-01-23/3264?pgs=3264&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar o novo regime jurídico do notariado e a criar a ordem dos notários",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "154715",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "275802",
+        "obs": null,
+        "pag": [
+          "3245-3264"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-01-23",
+        "pubLeg": "IX",
+        "pubNr": "77",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/077/2003-01-23/3245?pgs=3245-3264&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
