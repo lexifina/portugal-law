@@ -1,0 +1,3 @@
+Declaração
+Declara-se, para os devidos efeitos, que o original, arquivado nesta Secretaria-Geral, do aviso publicado pelo Ministério da Economia, Secretaria de Estado do Comércio, Comissão de Coordenação Económica, no Diário do Governo n.º 37, 1.ª série, de 15 do corrente mês, contém a assinatura de S. Ex.ª o Subsecretário de Estado do Comércio, Dr. João Augusto Dias Rosas, e não a de S. Ex.ª o Secretário de Estado do Comércio, Dr. José Gonçalo da Cunha Sottomayor Correia de Oliveira, conforme consta do referido Diário do Governo.
+Secretaria-Geral da Presidência do Conselho, 22 de Fevereiro de 1960. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
