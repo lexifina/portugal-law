@@ -1,0 +1,626 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Ratificação",
+    "numero": "147",
+    "id": "27125",
+    "titulo": "Decreto-lei nº 321-B/90, de 15 de Outubro, que aprova o regime de arrendamento urbano"
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "1991-02-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5194",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "1991-02-01",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1991-02-01",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158952",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1244-1247"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1244?pgs=1244-1247&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 321-B/90, de 15 de Outubro, que aprova o regime de arrendamento urbano",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158953",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1246-1246",
+                  "1250-1250"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1246?pgs=1246,1250&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 321-B/90, de 15 de Outubro, que aprova o regime de arrendamento urbano",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158954",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1246-1246",
+                  "1248-1248"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1246?pgs=1246,1248&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 321-B/90, de 15 de Outubro, que aprova o regime de arrendamento urbano",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158955",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1247-1248"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1247?pgs=1247-1248&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 321-B/90, de 15 de Outubro, que aprova o regime de arrendamento urbano",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158956",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1248-1248",
+                  "1252-1252"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1248?pgs=1248,1252&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 321-B/90, de 15 de Outubro, que aprova o regime de arrendamento urbano",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158957",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1249-1249"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1249?pgs=1249&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 321-B/90, de 15 de Outubro, que aprova o regime de arrendamento urbano",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158958",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1249-1251"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1249?pgs=1249-1251&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 321-B/90, de 15 de Outubro, que aprova o regime de arrendamento urbano",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158959",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1250-1250"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1250?pgs=1250&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 321-B/90, de 15 de Outubro, que aprova o regime de arrendamento urbano",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158960",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1251-1253"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1251?pgs=1251-1253&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 321-B/90, de 15 de Outubro, que aprova o regime de arrendamento urbano",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158961",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1252-1252"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1252?pgs=1252&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 321-B/90, de 15 de Outubro, que aprova o regime de arrendamento urbano",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  OBRAS PÚB.TRANS.E COMUNIC.",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Ferreira do Amaral"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158962",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1253-1255"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1253?pgs=1253-1255&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 321-B/90, de 15 de Outubro, que aprova o regime de arrendamento urbano",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158963",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1254-1254"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1254?pgs=1254&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 321-B/90, de 15 de Outubro, que aprova o regime de arrendamento urbano",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "158964",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1255-1255"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-02",
+                "pubLeg": "V",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1255?pgs=1255&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 321-B/90, de 15 de Outubro, que aprova o regime de arrendamento urbano",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "230874",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5194",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-02-02",
+        "pubLeg": "V",
+        "pubNr": "38",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
