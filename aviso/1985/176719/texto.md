@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que o Governo do Brunei decidiu tornar-se parte da Convenção Relativa à Luta contra a Discriminação no Domínio da Educação, concluída em Paris em 14 de Dezembro de 1960 e já ratificada por Portugal, conforme aviso publicado no Diário da República, de 27 de Março de 1981.
+O Governo do Brunei decidiu igualmente tornar-se parte do Protocolo que cria uma Comissão de Conciliação e de Bons Ofícios encarregada de encontrar a solução para diferendos que possam surgir entre os Estados partes na Convenção contra a Discriminação no Domínio da Educação, adoptado em Paris a 12 de Dezembro de 1962 e já ratificado por Portugal, conforme aviso publicado no Diário da República, de 10 de Setembro de 1981.
+Direcção-Geral das Relações Culturais Externas, 4 de Junho de 1985. - O Director-Geral, Nataniel Costa.
