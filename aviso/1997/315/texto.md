@@ -1,0 +1,4 @@
+Aviso n.º 315/97
+Por ordem superior se torna público que pela Resolução da Assembleia da República n.º 25/97, ratificada pelo Decreto do Presidente da República n.º 22/97, publicado no Diário da República, 1.ª série-A, de 8 de Maio de 1997, foi aprovada a Convenção entre a República Portuguesa e a República da Coreia para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Imposto sobre o Rendimento, assinada em Seul em 26 de Janeiro de 1996.
+A troca dos instrumentos de ratificação, prevista no artigo 28.º da Resolução da Assembleia da República n.º 25/97, foi efectuada em 21 de Novembro de 1997, pelo que, nos termos do mesmo artigo 28.º, a Convenção entrará em vigor em 21 de Dezembro de 1997.
+Direcção-Geral das Relações Bilaterais, 27 de Novembro de 1997. - O Director, João Manuel Guerra Salgueiro.
