@@ -1,0 +1,6 @@
+Portaria n.º 117/83
+de 2 de Fevereiro
+A produção de plantas pela Direcção-Geral das Florestas constitui uma das suas tarefas que importa manter, dada a necessidade de apoiar todas as acções de beneficiação florestal, quer públicas, quer privadas, pelo que se considera de toda a conveniência conservar os actuais viveiros instalados em terrenos arrendados.
+Nestes termos, e tendo em vista o disposto no n.º 1 do artigo 10.º do Decreto-Lei n.º 211/79, de 12 de Julho:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelo Ministro da Agricultura, Comércio e Pescas, autorizar a Direcção-Geral das Florestas a celebrar novo contrato com Manuel José Martins Lobo Ferreira para o arrendamento de uma parcela de terreno da sua propriedade sita no local denominado «Mouco», freguesia de Bornes, concelho de Macedo de Cavaleiros, por um prazo de 6 anos, renovável por iguais e sucessivos períodos de 3 anos se isso convier às partes contratantes, sendo a renda fixada em 20000$00 anuais.
+Ministérios das Finanças e do Plano e da Agricultura, Comércio e Pescas, 21 de Janeiro de 1983. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.
