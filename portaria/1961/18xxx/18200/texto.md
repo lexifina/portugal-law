@@ -1,0 +1,5 @@
+Portaria n.º 18200
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, e do artigo 5.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir na Guiné um crédito especial da importância de 75000$00, para reforçar a verba do capítulo 12.º, artigo 280.º, n.º 1), alínea b) «Despesa extraordinária - Outras despesas extraordinárias - Diversos - Recenseamento populacional e agrícola», da tabela de despesa extraordinária do orçamento geral para 1960, tomando como contrapartida as disponibilidades existentes na verba do capítulo 10.º, artigo 272.º, n.º 1), alínea a) «Encargos gerais - Diversas despesas - Despesas com valores selados - A pagar na metrópole», da tabela de despesa ordinária do referido orçamento.
+Ministério do Ultramar, 10 de Janeiro de 1961. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial da Guiné. - A. Moreira.
