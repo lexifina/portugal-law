@@ -1,0 +1,8 @@
+Despacho
+Os Estaleiros Navais de Viana do Castelo, nacionalizados pelo Decreto-Lei n.º 478/75, de 1 de Setembro, e estando em vias de aprovação os novos estatutos de empresa pública apresentam, com a conclusão das obras de ampliação, um imobilizado bruto da ordem dos 700000 contos. Todavia, o capital social da empresa é de, apenas, 37250 contos, estando as reservas, de 22000 contos, absorvidas pelos prejuízos de 65000 contos respeitantes aos exercícios de 1974 e 1975.
+Para a insuficiência de libertação de meios contribuem os efeitos do agravamento da concorrência provocada pela crise mundial dos estaleiros e do aumento dos custos efectivos da mão-de-obra.
+A inexistência de capitais próprios - em substituição dos quais se tem recorrido ao crédito, as taxas de juro que têm de considerar-se onerosas -, pela rigidez que introduz nos encargos, igualmente tem contribuído para a difícil situação da empresa.
+Nestes termos, e na linha das conclusões decorrentes do rlatório oportunamente apresentado, é aumentado o capital dos Estaleiros Navais de Viana do Castelo, de 37250 contos para 330000 contos, por força de dotação do Estado de forma a permitir a escalonada amortização de créditos a curto prazo, e a realizar, de acordo com o plano de tesouraria apresentado:
+100000 contos, imediatamente;
+100000 contos, durante o mês de Setembro; e o restante no início do exercício de 1977.
+Ministérios das Finanças e da Indústria e Tecnologia, 11 de Junho de 1976. - O Secretário de Estado dos Investimentos Públicos, António Francisco Barroso de Sousa Gomes. - O Secretário de Estado da Indústria Pesada, Alfredo Jorge Nobre da Costa.
