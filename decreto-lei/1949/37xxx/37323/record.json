@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1949/03/04400/01410141.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1949-03-05",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "2380d9a1936ee7e8d54a4bed5182762930e17b67b968e073f59f721e9d1d6e07",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.5,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "8f4adfb03b3d4ae57867f4d1e1f33760f182b6a003aaf92b2e1aa34f8d37f4a8",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 323
 }
