@@ -1,0 +1,23 @@
+Portaria n.º 551/72
+de 23 de Setembro
+O grande número de crianças portuguesas em idade escolar residentes no estrangeiro impõe a necessidade de nomeação de professores portugueses para que lhes seja ministrado o ensino da nossa língua.
+As disposições da Portaria n.º 17789, de 4 de Julho de 1960, sobre as formalidades a cumprir para ingresso no quadro de professores agregados, não contempla o caso especial dos professores a nomear para esse efeito.
+Havendo, por isso, a maior conveniência em simplificar os trâmites processuais da nomeação de professores portugueses para o ensino no estrangeiro:
+Manda o Governo da República Portuguesa, pelos Ministros dos Negócios Estrangeiros e da Educação Nacional, que para o ingresso ou reingresso nos quadros de professores agregados do ensino primário de indivíduos de nacionalidade portuguesa residentes no estrangeiro se observem as seguintes normas:
+I) Em qualquer altura do ano podem requerer o ingresso ou reingresso no quadro de professores agregados de um dos distritos escolares do continente e ilhas adjacente os candidatos que se encontrem numa das seguintes condições:
+a) Estejam habilitados com diploma do magistério primário oficial e em relação aos quais não se verifique qualquer incapacidade para o exercício de funções públicas, mesmo que nunca tenham pertencido ao quadro;
+b) Tenham pertencido ao quadro geral ou de agregados e hajam sido exonerados a seu pedido, independentemente do prazo decorrido desde essa exoneração;
+c) Hajam pertencido ao quadro de agregados e que tenham sido exonerados por falta de posse ou por não terem entrado em exercício nos lugares para que foram nomeados, independentemente do prazo decorrido desde a sua nomeação.
+II) - 1. Os requerentes deverão enviar ao director-geral do Ensino Básico, directamente ou por intermédio dos consulados da área da sua residência, os seguintes documentos:
+a) Boletim de admissão, devidamente preenchido;
+b) Certidão de registo de nascimento;
+c) Certidão de habilitação legal;
+d) Atestado de bom comportamento moral e civil passado pelo consulado da respectiva área de residência;
+e) Documento comprovativo de haverem satisfeito as leis do recrutamento militar;
+f) Atestado de saúde, traduzido e visado pelo respectivo consulado.
+2. Será dispensada a apresentação dos documentos mencionados nas alíneas b), c) e e) quando o requerente tenha pertencido aos quadros geral ou de agregados.
+III) - 1. O despacho de nomeação dos professores para o quadro de agregados de um dos distritos do continente ou ilhas adjacentes indicará o curso de ensino básico português no estrangeiro onde os referidos professores ficarão colocados em comissão de serviço.
+2. Os professores nomeados nos termos do número anterior deverão tomar posse no consulado da respectiva área de residência no prazo de sessenta dias a contar da data da publicação do despacho de nomeação no Diário do Governo.
+3. Salvo indicação em contrário no despacho de nomeação, a data da tomada de posse será considerada a data do início do exercício de funções.
+4. Os consulados deverão informar, directamente, a Direcção-Geral do Ensino Básico da data em que se verificou a posse.
+Ministérios dos Negócios Estrangeiros e da Educação Nacional, 15 de Setembro de 1972. - O Ministro dos Negócios Estrangeiros, Rui Manuel de Medeiros d'Espiney Patrício. - O Ministro da Educação Nacional, José Veiga Simão.
