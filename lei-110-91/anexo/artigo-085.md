@@ -2,6 +2,6 @@
 
 ### Prazo para as alegações
 
-1 - O prazo para alegações é de 15 dias.
+1 - O prazo para as alegações é de 20 dias.
 
-2 - No caso de justo impedimento, que será invocado nas alegações com indicação das provas que o sustentem, o relator pode aceitar essas alegações fora de prazo.
+2 - No caso de justo impedimento, é lícito ao relator aceitar as alegações apresentadas extemporaneamente.

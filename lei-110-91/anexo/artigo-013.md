@@ -4,15 +4,15 @@
 
 São direitos dos médicos dentistas:
 
-a) Solicitar ao conselho directivo a sua inscrição na OMD e recorrer da deliberação que a indefira;
+a) Solicitar ao conselho directivo a sua inscrição na APMD e recorrer da deliberação que a indefira;
 
-b) Eleger e ser eleitos para os órgãos da OMD;
+b) Eleger e ser eleitos para os órgãos da APMD;
 
-c) Frequentar as instalações da OMD;
+c) Frequentar as instalações da APMD;
 
-d) Participar na vida da OMD, nomeadamente nas reuniões dos seus grupos de trabalho e nas suas assembleias, discutindo, votando, requerendo e apresentando as moções e propostas que entenderem convenientes;
+d) Participar na vida da APMD, nomeadamente nas reuniões dos seus grupos de trabalho e nas suas assembleias, discutindo, votando, requerendo e apresentando as moções e propostas que entenderem convenientes;
 
-e) Solicitar o patrocínio da OMD sempre que dele careçam para defesa dos seus interesses profissionais ou quando haja ofensa dos seus direitos e garantias, enquanto médicos dentistas, bem como para defesa dos legítimos interesses da classe;
+e) Solicitar o patrocínio da APMD sempre que dele careçam para defesa dos seus interesses profissionais ou quando haja ofensa dos seus direitos e garantias, enquanto médicos dentistas, bem como para defesa dos legítimos interesses da classe;
 
 f) Requerer a convocação das assembleias, nos termos do presente Estatuto;
 
@@ -28,7 +28,7 @@ l) Requerer os títulos de especialidade nos termos deste Estatuto e regulamento
 
 m) Solicitar a comprovação da sua qualificação profissional;
 
-n) Receber informação de toda a actividade da OMD e as publicações, periódicas ou extraordinárias, editadas pela mesma;
+n) Receber informação de toda a actividade da APMD e as publicações, periódicas ou extraordinárias, editadas pela mesma;
 
 o) Beneficiar da isenção de quotas nos períodos de incapacidade total para o trabalho que ultrapassem 60 dias e após a reforma, desde que não exerçam a profissão;
 

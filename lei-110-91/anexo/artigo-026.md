@@ -2,7 +2,7 @@
 
 ### Vacatura dos órgãos
 
-1 - Verifica-se a vacatura de um órgão colegial quando, em relação à maioria dos seus membros com direito de voto, ocorrer, simultaneamente, qualquer das circunstâncias a que se referem os artigos 21.º, 22.º e 23.º deste Estatuto, ou a morte dos seus membros.
+1 - Verifica-se a vacatura de um órgão colegial quando em relação à maioria dos seus membros com direito de voto ocorrer, simultaneamente, qualquer das circunstâncias a que se referem os artigos 21.º, 22.º e 23.º deste Estatuto.
 
 2 - Vagando o conselho directivo, os membros deliberativos e não deliberativos que se mantenham em funções elegerão de entre estes aqueles que passarão a ocupar os lugares deixados vagos.
 

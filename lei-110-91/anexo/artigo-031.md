@@ -10,7 +10,7 @@
 
 4 - A assembleia geral extraordinária destinada à deliberação prevista no artigo 28.º, alínea c), carece de prévio parecer favorável do conselho directivo.
 
-5 - As convocatórias, contendo a ordem de trabalhos, a data e o local da reunião, fazem-se por meio de cartas dirigidas para os domicílios profissionais de todos os médicos dentistas com inscrição em vigor, com, pelo menos, 20 dias de antecedência em relação à data designada para a reunião da assembleia.
+5 - As convocatórias fazem-se por meio de anúncios, dos quais constem a ordem de trabalhos, publicados em quatro jornais diários de grande circulação, sendo um de Lisboa, um do Porto, um do Funchal e outro de Ponta Delgada, com, pelo menos, 20 dias de antecedência em relação à data designada para a reunião da assembleia, a qual se realiza na sede da APMD ou noutro local designado na própria convocatória.
 
 6 - Quando a assembleia geral se destine à discussão e aprovação do orçamento ou à discussão e votação do relatório de contas, são enviadas para as residências ou para os consultórios de todos os médicos dentistas com inscrição em vigor fotocópias dos ditos documentos, bem como da respectiva convocatória, dentro do prazo referido no n.º 5.
 

@@ -2,7 +2,7 @@
 
 ### Termo da instrução
 
-1 - A instrução deverá concluir-se no prazo de quatro meses.
+1 - A instrução não pode durar mais de dois meses.
 
 2 - A instrução termina quando o relator se pronuncie com:
 

@@ -14,12 +14,14 @@ d) Deliberar sobre perdas de cargos na APMD por parte dos seus membros;
 
 e) Deliberar sobre a substituição dos seus membros;
 
-f) Deliberar sobre a validade da justificação do motivo apresentado pelos representantes das regiões nos termos do artigo 46.º, n.º 2, alínea c);
+f) Comunicar ao médico dentista com as quotas em dívida relativas ao período de 1 ano para que, no prazo de 30 dias, satisfaça esse seu débito, sob pena de lhe ser instaurado um processo de execução por custas;
 
-g) Elaborar os pareceres que lhe sejam cometidos;
+g) Deliberar sobre a validade da justificação do motivo apresentado pelos representantes das regiões nos termos do artigo 46.º, n.º 2, alínea c);
 
-h) Elaborar o Código Deontológico bem como quaisquer propostas de sua alteração e apresentá-los a votação da assembleia geral;
+h) Elaborar os pareceres que lhe sejam cometidos pelo secretário-geral;
 
-i) Resolver todas as dúvidas suscitadas pela interpretação e aplicação deste Estatuto e do Código Deontológico.
+i) Elaborar o código deontológico e apresentá-lo a votação da assembleia geral.
 
-2 - O conselho deontológico e de disciplina será assistido por um assessor jurídico escolhido pelo presidente da APMD.
+2 - No processo de execução por custas referido na alínea f) do número anterior servirão de título executivo os recibos das quotas em débito pelo médico dentista.
+
+3 - O conselho deontológico e de disciplina será assistido por um assessor jurídico escolhido pelo presidente da APMD.

@@ -1,7 +1,9 @@
 # Artigo 84.º
 
-### Alterações
+### Alegações
 
-1 - O prazo para alegações é de 15 dias.
+1 - Quando sejam realizadas quaisquer diligências, nos termos dos artigos anteriores, o interessado e o arguido são notificados para alegarem por escrito.
 
-2 - No caso de justo impedimento, que será invocado nas alegações com indicação das provas que o sustentem, o relator pode aceitar essas alegações fora de prazo.
+2 - A notificação faz-se nos termos e no prazo previstos no artigo 72.º, dela dependendo o início do prazo para as alegações.
+
+3 - Para efeitos do início da contagem do prazo da notificação, tem-se em conta a data de realização da última diligência.

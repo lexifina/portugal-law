@@ -6,6 +6,6 @@
 
 2 - Com a defesa deve o arguido apresentar o rol de testemunhas, juntar documentos e requerer quaisquer diligências.
 
-3 - Não podem ser indicadas mais de 3 testemunhas por cada facto e o seu total não pode exceder o número de 10.
+3 - As diligências requeridas nos termos do número anterior podem ser recusadas pelo relator quando se mostrem manifestamente impertinentes ou desnecessárias para o apuramento da verdade.
 
-4 - As diligências requeridas podem ser recusadas pelo relator, em despacho fundamentado, quando se mostrem impertinentes ou desnecessárias para o apuramento da verdade, assim como quando sejam a repetição de outras já realizadas na fase de instrução.
+4 - Não podem ser indicadas mais de três testemunhas por cada facto e o seu total não pode exceder o número de 20, sem prejuízo do disposto no artigo seguinte.
