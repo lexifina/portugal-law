@@ -1,0 +1,1594 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "364",
+    "id": "5111",
+    "titulo": "Altera o decreto-lei n° 48/95,de 15 de Março, que aprova o Código Penal."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1997-05-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1210",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1997-05-22",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "5220",
+        "leg": "VII",
+        "nr": "79",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "247",
+            "obs": null,
+            "pag": [
+              "2585-2613"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1997-05-23",
+            "pubLeg": "VII",
+            "pubNr": "75",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2585?pgs=2585-2613&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "247",
+            "obs": null,
+            "pag": [
+              "2585-2613"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1997-05-23",
+            "pubLeg": "VII",
+            "pubNr": "75",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2585?pgs=2585-2613&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Autoriza o Governo a estabelecer medidas que viabilizam a aplicação e a execução das penas de prestação de trabalho a favor da comunidade."
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "5200",
+        "leg": "VII",
+        "nr": "80",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "247",
+            "obs": null,
+            "pag": [
+              "2585-2613"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1997-05-23",
+            "pubLeg": "VII",
+            "pubNr": "75",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2585?pgs=2585-2613&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "247",
+            "obs": null,
+            "pag": [
+              "2585-2613"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1997-05-23",
+            "pubLeg": "VII",
+            "pubNr": "75",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2585?pgs=2585-2613&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Alterações ao Código Penal"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1997-05-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "590",
+                "nome": "Luís Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48142",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2613-2613"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2613?pgs=2613&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vera Jardim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48143",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2613-2613"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2613?pgs=2613&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1343",
+                "nome": "Calvão da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48144",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2613-2613"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2613?pgs=2613&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48145",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2612-2613"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2612?pgs=2612-2613&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vera Jardim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48146",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2611-2612"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2611?pgs=2611-2612&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48147",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2610-2611"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2610?pgs=2610-2611&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48149",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2609-2609"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2609?pgs=2609&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48150",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2608-2609"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2608?pgs=2608-2609&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48152",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2608-2608"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2608?pgs=2608&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2607-2608"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2607?pgs=2607-2608&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48154",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2606-2607"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2606?pgs=2606-2607&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "590",
+                "nome": "Luís Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2605-2605"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2605?pgs=2605&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1436",
+                "nome": "Joaquim Sarmento"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48156",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2603-2605"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2603?pgs=2603-2605&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "590",
+                "nome": "Luís Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48157",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2600-2600"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2600?pgs=2600&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48158",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2600-2600"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2600?pgs=2600&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vera Jardim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48159",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2600-2600"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2600?pgs=2600&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48160",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2598-2609",
+                  "2603-2603"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2598?pgs=2598-2609,2603&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48161",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2596-2597"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2596?pgs=2596-2597&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48162",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2596-2596"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2596?pgs=2596&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "614",
+                "nome": "Celeste Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48163",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2596-2596"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2596?pgs=2596&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48164",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2595-2595"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2595?pgs=2595&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48165",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2591-2592"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2591?pgs=2591-2592&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2590-2591",
+                  "2598-2600",
+                  "2603-2603"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2590?pgs=2590-2591,2598-2600,2603&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO FORADAS COMUNIDADES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "590",
+                "nome": "Luís Queiró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2589-2590",
+                  "2593-2594"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2589?pgs=2589-2590,2593-2594&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO FORADAS COMUNIDADES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vera Jardim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2585-2589",
+                  "2592-2594",
+                  "2595-2596",
+                  "2597-2598"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2585?pgs=2585-2589,2592-2594,2595-2596,2597-2598&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO FORADAS COMUNIDADES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vera Jardim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107790",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2600-2600"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2600?pgs=2600&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107791",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2610-2610"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2610?pgs=2610&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107792",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2608-2609"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2608?pgs=2608-2609&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vera Jardim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107793",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2613-2613"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2613?pgs=2613&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vera Jardim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107794",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2611-2612"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-23",
+                "pubLeg": "VII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23/2611?pgs=2611-2612&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A ESTABELECER MEDIDAS QUE VIABILIZAM A APLICACAO E A EXECUCAO DAS PENAS DE PRESTACAO DE TRABALHO A FAVOR DA COMUNIDADE",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "102736",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "109767",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1997-05-23",
+        "pubLeg": "VII",
+        "pubNr": "75",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/075/1997-05-23?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
