@@ -1,0 +1,3 @@
+Declaração n.º 9/99
+Para os devidos efeitos se declara que o texto publicado no Diário da República, 1.ª série-A, n.º 219, de 18 de Setembro de 1999, como Lei n.º 167/99, sobre «Primeira alteração, por apreciação parlamentar, do Decreto-Lei n.º 251/98, de 11 de Agosto, que regulamenta o acesso à actividade e ao mercado dos transportes em táxi» deve ser considerado como se não tivesse sido publicado, em virtude de o mesmo haver sido já objecto de publicação no Diário da República, 1.ª série-A, n.º 215, de 14 de Setembro de 1999, como Lei n.º 156/99.
+Assembleia da República, 24 de Setembro de 1999. - A Secretária-Geral, Adelina Sá Carvalho.
