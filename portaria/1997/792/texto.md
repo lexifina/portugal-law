@@ -1,0 +1,9 @@
+Portaria n.º 792/97
+de 29 de Agosto
+A Portaria n.º 129/96, de 23 de Abril, que definiu os incentivos especiais à formação profissional, ao emprego e ao desenvolvimento de programas ocupacionais, bem como as medidas especiais de protecção social aplicáveis aos trabalhadores que se encontrem em situação de desemprego involuntário, provenientes de empresas dos sectores têxtil e de vestuário situadas nos concelhos de Fafe, Guimarães, Santo Tirso e Vila Nova de Famalicão, cessa o seu período de vigência em 30 de Junho do ano em curso, nos termos do disposto na Portaria n.º 78/97, de 1 de Fevereiro.
+Admitindo-se que subsistem desajustamentos na realidade social envolvida e considerando que não se possuem ainda elementos conclusivos de análise dessa mesma realidade que permitam definir, com rigor, os parâmetros da mais eficaz intervenção;
+Tendo, por outro lado, em atenção a entrada em vigor do novo regime jurídico de protecção nos encargos familiares que institui o subsídio familiar a crianças e jovens, cuja filosofia selectiva torna desajustada a majoração prevista para o abono de família no capítulo IV da Portaria n.º 129/96, de 23 de Abril:
+Manda o Governo, pelos Ministros para a Qualificação e o Emprego e da Solidariedade e Segurança Social, nos termos do artigo 8.º do Decreto-Lei n.º 291/91, de 10 de Agosto, que o disposto na Portaria n.º 129/96, de 23 de Abril, se mantenha em vigor até 31 de Dezembro de 1997, com excepção da medida especial respeitante ao abono de família, prevista no artigo 3.º e regulada no capítulo IV daquela portaria.
+Ministérios para a Qualificação e o Emprego e da Solidariedade e Segurança Social.
+Assinada em 5 de Agosto de 1997.
+A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues. - O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.
