@@ -1,0 +1,4 @@
+Aviso n.º 1/99
+Por ordem superior se torna público que a República Checa depositou, em 24 de Junho de 1998, os instrumentos de ratificação da Convenção Europeia Relativa à Supressão da Legislação dos Actos Exarados por Agentes Diplomáticos ou Consulares, aberta para assinatura, em Londres, em 7 de Junho de 1968.
+Portugal é Parte nesta Convenção, que foi aprovada para ratificação pelo Decreto do Presidente da República n.º 99/82, publicado no Diário da República, 1.ª série, n.º 197, de 26 de Agosto de 1982, tendo depositado o seu instrumento de ratificação em 15 de Dezembro de 1982, conforme aviso publicado no Diário da República, 1.ª série, n.º 15, de 19 de Janeiro de 1983.
+Direcção-Geral dos Assuntos Multilaterais, 27 de Novembro de 1998. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
