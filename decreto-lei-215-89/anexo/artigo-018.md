@@ -1,6 +1,6 @@
 ## Parte II
 
-## Dos benefícios fiscais nos impostos sobre o rendimento
+## Dos benefícios fiscais
 
 ## Capítulo I
 

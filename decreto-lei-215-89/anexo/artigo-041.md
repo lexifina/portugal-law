@@ -18,4 +18,6 @@
 
 6 - São isentos de IRS ou de IRC os rendimentos pagos por entidades instaladas nas zonas francas a utentes dos seus serviços, desde que não residentes em território português.
 
-7 - O regime fiscal previsto nos n.os 1 a 4, salvo a data indicada no n.º 2, que será 31 de Dezembro de 2017, será aplicado à empresa concessionária da exploração da zona franca, aos respectivos sócios ou titulares e aos actos e operações por ela praticados conexos com o seu objecto.
+7 - São isentos de selo os documentos, livros, papéis, contratos, operações, actos e produtos previstos na Tabela Geral do Imposto do Selo respeitantes a entidades licenciadas nas zonas francas da Madeira e da ilha de Santa Maria, salvo quando tenham por intervenientes ou destinatários entidades residentes em território nacional.
+
+8 - O regime fiscal previsto nos n.os 1 a 4, salvo a data indicada no n.º 2, que será 31 de Dezembro de 2017, será aplicado à empresa concessionária da exploração da zona franca, aos respectivos sócios ou titulares e aos actos e operações por ela praticados conexos como o seu objecto.
