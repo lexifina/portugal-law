@@ -1,0 +1,6 @@
+Portaria n.º 17826
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar e pelo Secretário de Estado do Comércio, ouvidas a Comissão Reguladora do Comércio do Algodão em Rama e a Junta de Exportação do Algodão, nos termos do artigo 49.º do Decreto-Lei n.º 40405, de 24 de Novembro de 1955, o seguinte:
+1.º Mantêm-se para o algodão ultramarino da colheita de 1960 os preços C. I. F. presentemente em vigor, que são os seguintes, por quilograma: tipo I, 18$20; tipo II, 17$70; tipo III, 16$55; tipo IV, 15$50; tipo V, 14$00; tipo VI, 12$95.
+2.º Estes preços serão eventualmente modificados na medida em que o for o custo dos fretes marítimos de transporte do algodão do ultramar para a metrópole.
+3.º Os importadores da metrópole são obrigados a adquirir para abastecimento das necessidades normais de laboração da indústria a quantidade máxima de 47000 t de algodão ultramarino da colheita de 1960, sendo fixado em 4500 t o limite máximo de algodão dos tipos V e VI, a adquirir, dentro do mesmo contingente, pelos referidos importadores.
+Ministérios do Ultramar e da Economia, 15 de Julho de 1960. - Pelo Ministro do Ultramar, Carlos Krus Abecasis, Subsecretário de Estado do Fomento Ultramarino. - Pelo Secretário de Estado do Comércio, João Augusto Dias Rosas, Subsecretário de Estado do Comércio.
