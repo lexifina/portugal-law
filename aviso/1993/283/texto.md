@@ -1,0 +1,3 @@
+Aviso n.º 283/93
+Por ordem superior se torna público ter o Governo Francês, na sua qualidade de depositário, notificado os Estados membros do Bureau International des Expositions (BIE) de que a República Eslovaca, as Filipinas e a África do Sul aderiram, em 8 de Julho, 12 de Agosto e 1 de Setembro de 1993, respectivamente, à Convenção Relativa às Exposições Internacionais, adoptada em Paris em 22 de Novembro de 1928, aos Protocolos de 10 de Maio de 1948 e 16 de Novembro de 1966, bem como ao Protocolo de Modificação de 30 de Novembro de 1972, e às Emendas de 24 de Junho de 1982 e 31 de Maio de 1988.
+Direcção-Geral dos Negócios Político-Económicos, 9 de Dezembro de 1993. - O Subdirector-Geral, António Nunes de Carvalho Santana Carlos.
