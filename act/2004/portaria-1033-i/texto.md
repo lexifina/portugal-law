@@ -1,0 +1,9 @@
+Portaria n.º 1033-I/2004
+de 10 de Agosto
+Pela Portaria n.º 1222/2003, de 20 de Outubro, foi renovada a zona de caça turística da Herdade do Galisteu (processo n.º 627-DGRF), situada no município de Castelo Branco, com a área de 1439,70 ha, concessionada à CELBI - Celulose Beira Industrial, S. A.
+Verificou-se posteriormente que o prazo de validade da zona de caça constante na portaria acima referida é inferior ao prazo constante no requerimento e de vigência dos acordos dados pelas entidades titulares e gestoras dos prédios que fazem parte da zona de caça.
+Considerando que, nos termos do n.º 3 do artigo 32.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, o prazo da concessão deve corresponder ao prazo de validade dos acordos dados pelos respectivos titulares e gestores dos terrenos:
+Assim:
+Manda o Governo, pelos Ministros da Economia, da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente, que o n.º 1.º da Portaria n.º 1222/2003, de 20 de Outubro, passe a ter a seguinte redacção:
+«1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística da Herdade do Galisteu (processo n.º 627-DGRF), abrangendo o prédio rústico denominado Herdade do Galisteu, sito na freguesia de Malpica do Tejo, município de Castelo Branco, com a área de 1439,70 ha.»
+Pelo Ministro da Economia, Luís Manuel Miguel Correia da Silva, Secretário de Estado do Turismo, em 5 de Julho de 2004. - Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 2 de Julho de 2004. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Arlindo Marques da Cunha, em 12 de Julho de 2004.
