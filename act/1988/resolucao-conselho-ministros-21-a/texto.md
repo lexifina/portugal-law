@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros n.º 21-A/88
+Com a recente aprovação pela Assembleia da República da lei de alienações das participações ou bens do Estado em empresas de comunicação social, ficou criado o quadro jurídico necessário à reestruturação do sector, nomeadamente no respeitante à imprensa estatizada.
+Em cumprimento do estabelecido no Programa do Governo, há que avançar com as medidas que os estudos atempadamente realizados apontam como mais correctas à salvaguarda integral dos interesses sociais e patrimoniais em presença.
+Assim:
+Ao abrigo do disposto no n.º 1 do artigo 4.º do Decreto-Lei n.º 358/86, de 27 de Outubro, e nos termos da alínea d) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - Autorizar a Empresa Pública dos Jornais Notícias e Capital a alienar o título do jornal A Capital conjuntamente com o respectivo estabelecimento.
+2 - A alienação referida no número anterior far-se-á mediante concurso público, nos termos do n.º 4 do artigo 4.º do Decreto-Lei n.º 358/86, de 27 de Outubro.
+3 - Autorizar a Empresa Pública dos Jornais Notícias e Capital a alienar, por traspasse, o estabelecimento Conde da Ponte - Oficinas Gráficas, sito em Lisboa, na Rua de Rodrigues Faria, 103.
+4 - A alienação referida no número anterior far-se-á mediante concurso limitado, nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 358/86, de 27 de Outubro.
+5 - O membro do Governo responsável pela área da comunicação social dará execução ao disposto nos números anteriores, após a audição dos trabalhadores da empresa nos termos da lei.
+Presidência do Conselho de Ministros, 3 de Junho de 1988. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
