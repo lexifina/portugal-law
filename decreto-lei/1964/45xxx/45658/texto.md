@@ -1,0 +1,9 @@
+Decreto-Lei n.º 45658
+O Decreto-Lei n.º 42518, de 21 de Setembro de 1959, prorrogou a vigência do Fundo de Renovação e de Apetrechamento da Indústria da Pesca, criado pelo Decreto-Lei n.º 39283, de 20 de Julho de 1953, e autorizou o mesmo Fundo a contrair, durante os anos de 1959 a 1964, um empréstimo interno amortizável até 300000 contos.
+O Decreto-Lei n.º 45109, de 3 de Julho de 1963, fixou aquele limite em 420000 contos.
+A fim de prosseguir no ritmo julgado conveniente o desenvolvimento das actividades piscatórias e das industrias a elas inerentes, verifica-se agora a necessidade de elevar aquele limite para 444000 contos.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É elevado de 24000 contos o limite fixado no artigo 11.º do Decreto-Lei n.º 42518, de 21 de Setembro de 1959, e alterado pelo Decreto-Lei n.º 45109, de 3 de Julho de 1963, com destino ao financiamento, nos termos do artigo 15.º do mesmo diploma, de empreendimentos que se encontrem incluídos no II Plano de Fomento e sejam devidamente aprovados.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 13 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
