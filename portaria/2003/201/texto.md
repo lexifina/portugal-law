@@ -1,0 +1,14 @@
+Portaria n.º 201/2003
+de 26 de Fevereiro
+Com o objectivo de prevenção do ruído e de controlo da poluição sonora para a salvaguarda da saúde e do bem-estar das populações, foi publicado o Decreto-Lei n.º 292/2000, de 14 de Novembro, que prevê, no seu artigo 17.º, n.º 1, relativamente ao tráfego aéreo, a proibição, nos aeroportos e aeródromos, de aterragens ou descolagens de aeronaves civis entre as 0 e as 6 horas, salvo por motivo de força maior.
+Tendo em conta situações de reconhecido interesse público, o n.º 2 desse mesmo artigo permitiu a possibilidade de não ser aplicada a proibição em apreço a aeroportos em que se encontre instalado e em funcionamento um sistema de monitorização do ruído, através de portaria dos Ministros das Obras Públicas, Transportes e Habitação e das Cidades, Ordenamento do Território e Ambiente, diploma esse que terá de estabelecer, em cada caso, o quantitativo máximo de movimentos aéreos permitidos entre as 0 e as 6 horas, bem como as características técnicas das aeronaves abrangidas, na parte relativa à protecção contra a poluição sonora.
+Deste modo, a Portaria n.º 545/2002, de 29 de Maio, determina o número máximo de movimentos aéreos autorizados entre as 0 e as 6 horas nos aeroportos de Lisboa e Porto e, de acordo com o n.º 6.º da referida portaria, a mesma vigora até 14 de Maio de 2003.
+Considerando que a actividade de coordenação de faixas horárias está dependente da capacidade declarada pelos aeroportos coordenados, a qual é afectada pela existência de restrições como as referidas anteriormente e tendo presente o carácter mundial desta actividade e as regras pelas quais se rege;
+Considerando ainda que toda a actividade decorre de acordo com períodos de programação horária a que correspondem o Verão ou o Inverno IATA e que as transportadoras aéreas programam os seus horários de acordo com esse calendário, o qual é coordenado nas conferências da IATA, torna-se absolutamente indispensável o conhecimento da capacidade aeroportuária para o próximo período de programação de horários:
+Assim, ao abrigo do disposto no n.º 2 do artigo 17.º do Decreto-Lei n.º 292/2000, de 14 de Novembro:
+Manda o Governo, pelos Ministros das Obras Públicas, Transportes e Habitação e das Cidades, Ordenamento do Território e Ambiente, o seguinte:
+1.º O n.º 6.º da Portaria n.º 545/2002, de 29 de Maio, passa a ter a seguinte redacção:
+«6.º A presente portaria vigora até 26 de Outubro de 2003, momento em que serão redefinidos os valores indicados no quadro anexo, no sentido de reduzir o número de movimentos aéreos a autorizar, podendo este prazo ser prorrogado.»
+2.º A presente portaria produz efeitos a partir do dia seguinte ao da sua publicação.
+Em 6 de Fevereiro de 2003.
+Pelo Ministro das Obras Públicas, Transportes e Habitação, José Luís Campos Vieira de Castro, Secretário de Estado das Obras Públicas. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Isaltino Afonso de Morais.
