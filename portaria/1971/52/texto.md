@@ -1,0 +1,6 @@
+Portaria n.º 52/71
+de 3 de Fevereiro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § único do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, conjugado com o artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, e artigo 3.º do aludido Decreto n.º 35770 e sua alínea e), com a nova redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir um crédito especial da importância de 50000$00, destinado a reforçar a verba do capítulo 10.º, artigo 304.º, n.º 4), alínea a) «Encargos gerais - Diversas despesas - Passagens e auxilio a necessitados - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Timor, para o ano económico de 1970, tomando como contrapartida o excesso de cobrança sobre a previsão da receita do capítulo 1.º, artigo 1.º, alínea a) «Impostos directos gerais - Contribuição industrial - Por lançamento», do orçamento da receita ordinária para o mesmo ano económico.
+Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Timor. - Sacramento Monteiro.
