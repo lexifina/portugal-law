@@ -1,0 +1,49 @@
+Portaria n.º 1265/2004
+de 1 de Outubro
+Na sequência da revisão intercalar do Programa AGRO, foi aprovado o novo Regulamento de Aplicação da Medida n.º 2, «Transformação e Comercialização de Produtos Agrícolas».
+Tendo em vista a clarificação de algumas das suas disposições, nomeadamente dos termos de concessão do prémio susceptível de atribuição a projectos do tipo 2, bem como a flexibilização dos prazos de execução dos investimentos no caso de projectos do tipo 3, há que proceder à alteração do referido Regulamento.
+Assim:
+Ao abrigo do disposto no n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A/2000, de 27 de Julho:
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Florestas, o seguinte:
+1.º O n.º 3.º da Portaria n.º 949/2004, de 28 de Julho, passa a ter a seguinte redacção:
+«3.º Os promotores abrangidos pelo disposto na Portaria n.º 937/2003, de 4 de Setembro, e no n.º 2.º da Portaria n.º 562/2004, de 26 de Maio, devem formalizar as respectivas candidaturas ao abrigo do Regulamento referido no n.º 1.º até 30 de Setembro do corrente ano, caso em que a data da elegibilidade das despesas correspondente à comunicada ao Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas para início da execução dos investimentos.»
+2.º Os artigos 8.º, 17.º e 18.º, bem como o anexo IV do Regulamento aprovado pela Portaria n.º 949/2004, de 28 de Julho, passam a ter a seguinte redacção:
+«Artigo 8.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+a) ...
+b) Tipo 2 - incentivo não reembolsável e incentivo reembolsável à taxa de juro 0, na proporção respectivamente 70% e 30% do valor da ajuda calculado nos termos dos números anteriores, não podendo a parte de incentivo não reembolsável ultrapassar (euro) 1750000 e o valor total da ajuda exceder (euro) 3750000;
+c) ...
+5 - Quando, no quadro da apreciação do relatório previsto na alínea g) do artigo 16.º, tenham sido integralmente cumpridos os objectivos definidos no anexo V, 10 pontos percentuais do incentivo reembolsável previsto na alínea b) do número anterior podem converter-se em incentivo não reembolsável a título de prémio, não podendo ser ultrapassado o limite de (euro) 1750000 aí previsto.
+6 - ...
+Artigo 17.º
+[...]
+1 - ...
+2 - Em casos excepcionais e devidamente justificados, o IFADAP pode autorizar a prorrogação dos prazos indicados no contrato de atribuição de ajudas.
+3 - O disposto no n.º 1 não se aplica aos projectos do tipo 3, caso em que os prazos de início e conclusão dos investimentos são definidos no âmbito do processo negocial aplicável.
+Artigo 18.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+6 - ...
+a) ...
+b) Tratando-se de estabelecimentos comerciais enquadrados no Decreto-Lei n.º 370/99, de 18 de Setembro, ser detentor de alvará de licença de utilização actualizado e, se for caso disso, de licença sanitária;
+c) Nos casos não abrangidos pelas alíneas anteriores, ser detentor de alvará de licença de utilização actualizado, quando for caso disso.
+7 - O pedido de pagamento de saldo das ajudas deverá dar entrada no IFADAP o mais tardar 27 meses após a assinatura do contrato, excepto no caso previsto no n.º 2 do artigo 17.º, em que o pedido de pagamento do saldo deverá ser presente ao IFADAP até 3 meses após o fim do prazo de prorrogação autorizado.
+ANEXO IV
+[...]
+[...]
+Critério 2 [...]
+... Percentagem
+Projectos relativos a actividades prioritárias ... 5
+Critério 4 [...]
+Acréscimo de produtividade, quando:
+VABpm/L (maior que) VAB sectorial/L sectorial
+[...]»
+O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves, em 9 de Setembro de 2004.
