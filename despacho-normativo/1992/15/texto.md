@@ -1,0 +1,3 @@
+Despacho Normativo n.º 15/92
+Encontrando-se comprometida a verba orçamentada para o Subprograma n.º 1.2 - Infra-Estruturas Tecnológicas do Programa n.º 1 - Infra-Estruturas de Base e Tecnológicas do PEDIP, regulamentado pelos Despachos Normativos n.os 83/89, de 31 de Agosto, e 22/90, de 28 de Fevereiro, determina-se o encerramento do referido subprograma, pelo que a partir da data do presente despacho não poderão ser aceites quaisquer candidaturas apresentadas no seu âmbito.
+Ministérios do Planeamento e da Administração do Território e da Indústria e Energia, 30 de Novembro de 1991. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
