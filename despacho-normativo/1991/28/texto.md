@@ -1,0 +1,5 @@
+Despacho Normativo n.º 28/91
+Considerando que o n.º 4 do artigo 135.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, anexo ao Decreto-Lei n.º 139-A/90, de 28 de Abril, permite a integração destes docentes na carreira técnica superior dos quadros dos organismos junto dos quais se encontram requisitados, determina-se o seguinte:
+1 - O quadro de pessoal da Direcção-Geral da Acção Cultural, constante do Decreto Regulamentar n.º 19/90, de 26 de Maio, alterado pela Portaria n.º 157/88, de 15 de Março, é acrescido de um lugar de técnico superior principal e de um lugar de técnico superior de 1.ª classe, ambos da carreira técnica superior, a extinguir quando vagarem.
+2 - Os efeitos do presente despacho normativo reportam-se ao dia 1 de Setembro de 1990.
+Presidência do Conselho de Ministros e Ministério das Finanças, 17 de Janeiro de 1991. - O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - A Secretária de Estado do Orçamento, Maria Manuela Dias Ferreira Leite.
