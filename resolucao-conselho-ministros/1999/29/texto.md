@@ -1,0 +1,9 @@
+Resolução do Conselho de Ministros n.º 29/99
+A política seguida pelo Governo da República Federativa da Jugoslávia para o Kosovo levou, num curto espaço de tempo, a que a população aí residente procurasse refúgio no Montenegro e nos países limítrofes, em especial na Albânia e na Macedónia (FYROM), criando uma situação que ultrapassa em muito as capacidades de acolhimento disponíveis na região e originando uma tragédia humana de consequências imprevisíveis, que exige uma resposta imediata da parte da comunidade internacional, enquanto não estiverem criadas as condições para o regresso dos refugiados.
+Portugal, país profundamente humanista, não pode ficar indiferente a tão grande tragédia, pelo que, para além de outras medidas de carácter humanitário que serão tomadas em coordenação com as instâncias internacionais competentes, decidiu também contribuir, na medida das suas possibilidades, com uma ajuda humanitária de emergência, através do envio de bens de primeira necessidade por meios de transporte aéreos militares.
+Assim, nos termos da alínea g) do artigo 199.º da Constituição, o Governo resolveu:
+1 - Mandatar o vice-presidente do Conselho Nacional de Planeamento Civil de Emergência para, com o apoio dos membros do grupo operacional criado pela Resolução do Conselho de Ministros n.º 80/98, de 7 de Julho, de que é coordenador executivo, concretizar a ajuda humanitária de emergência aos refugiados do Kosovo nos Balcãs, nos moldes definidos pelo Governo.
+2 - As despesas com a ajuda humanitária de emergência são suportadas pela dotação provisional do Ministério das Finanças.
+3 - O mandato concedido pela presente resolução extingue-se por despacho do Primeiro-Ministro.
+4 - A presente resolução produz efeitos imediatos.
+Presidência do Conselho de Ministros, 6 de Abril de 1999. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
