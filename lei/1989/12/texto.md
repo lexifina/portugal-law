@@ -1,0 +1,25 @@
+Lei n.º 12/89
+de 16 de Junho
+Autorização ao Governo para legislar sobre o trabalho temporário
+A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 168.º, n.º 1, alínea b), e 169.º, n.º 2, da Constituição o seguinte:
+Artigo 1.º É o Governo autorizado a estabelecer a disciplina jurídica do trabalho temporário.
+Art. 2.º O regime jurídico a estabelecer pelo Governo, nos termos do artigo anterior, assentará nos seguintes princípios fundamentais:
+a) Condicionamento do exercício da actividade de prestação de trabalho temporário, bem como a sua sujeição à constituição de caução adequada às responsabilidades inerentes a obrigações a assumir para com os trabalhadores e a Segurança Social;
+b) Tipificação das situações que legitimam o recurso a esta forma de trabalho, bem como a sua delimitação temporal;
+c) Exigência de forma escrita e de indicação da circunstância justificativa para a celebração do contrato de utilização e do contrato de trabalho temporário;
+d) Proibição da rotação de trabalhadores temporários no mesmo posto de trabalho para além dos prazos previstos para a duração do contrato de utilização;
+e) Aplicação do regime jurídico dos contratos a termo às situações de trabalho temporário, com as especificidades que a natureza da prestação de trabalho impõe;
+f) Estabelecimento de um regime de co-responsabilização de entidades empregadoras, sediadas no País, com o utilizador temporário, se não for nacional, por forma a garantir a protecção social devida ao trabalhador temporário colocado no estrangeiro, bem como o seu imediato repatriamento, no caso de cessação do contrato;
+g) Uniformização de tratamento entre os trabalhadores temporários e os trabalhadores da empresa utilizadora no que respeita à retribuição e a outras condições da prestação de trabalho;
+h) Assumpção pela empresa utilizadora da posição contratual na relação de trabalho quando a nulidade do contrato de utilização acarrete a nulidade do contrato de trabalho temporário;
+i) Consagração da liberdade de celebração de contrato de trabalho entre o trabalhador temporário e a empresa utilizadora, sem prejuízo da execução do contrato de utilização celebrado com a empresa de trabalho temporário;
+j) Estabelecimento de um regime sancionatório adequado, através da aplicação de coimas graduadas em função da importância social da regra violada e da situação económica do infractor, bem como através da aplicação de sanções acessórias, nomeadamente a suspensão do exercício da actividade;
+l) Regulamentação da cedência ocasional de trabalhadores, com especificação das situações que a legitimam, no pressupostos de que os trabalhadores cedidos estejam vinculados à empresa cedente por contrato sem termo e manifestem, por escrito, o seu acordo.
+Art. 3.º A presente autorização legislativa tem a duração de 90 dias.
+Aprovada em 11 de Abril de 1989.
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
+Promulgada em 19 de Maio de 1989.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendada em 30 de Maio de 1989.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
