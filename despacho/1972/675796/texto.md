@@ -1,0 +1,4 @@
+Despacho
+Com vista a definir o sentido do termo «unidades» usado nos artigos 6.º, 17.º e 24.º do Regulamento da Medalha Militar, aprovado pelo Decreto n.º 560/71, de 20 de Dezembro, esclarece-se que o mesmo engloba, para efeitos do referido diploma, todas as unidades a partir de nível companhia independente (ou equivalente) e, excepcionalmente, companhia enquadrada (ou equivalente), inclusive. Ainda para os mesmos efeitos, consideram-se também abrangidos pela designação «unidades» os comandos operacionais a que se refere o Decreto-Lei n.º 49107, de 25 de Junho de 1909.
+A fim de possibilitar a aplicação da última parte do n.º 2 do artigo 68.º do Regulmento da Medalha Militar, os ramos das forças armadas que ainda não disponham de guião de mérito deverão promover a sua criação.
+Presidência do Conselho, 6 de Julho de 1972. - O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.
