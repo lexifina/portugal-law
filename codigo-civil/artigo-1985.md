@@ -1,5 +1,7 @@
 # Artigo 1985.º
 
-### (Segredo da identidade do adoptante)
+### Segredo da identidade
 
-O adoptante pode opor-se a que a sua identidade seja revelada aos pais naturais do adoptado se este tiver sido declarado abandonado ou confiado a um estabelecimento público ou particular de assistência.
+1 - A identidade do adoptante não pode ser revelada aos pais naturais do adoptado, salvo se aquele declarar expressamente que não se opõe a essa revelação.
+
+2 - Os pais naturais do adoptado podem opor-se, mediante declaração expressa, a que a sua identidade seja revelada ao adoptante.
