@@ -1,0 +1,12 @@
+Despacho Normativo n.º 117/82
+Dando cumprimento ao disposto no artigo 13.º do Decreto-Lei n.º 260/76, de 8 de Abril, com a nova redacção introduzida pelo Decreto-Lei n.º 25/79, de 19 de Fevereiro, e à Resolução do Conselho de Ministros n.º 61-A/81, de 10 de Fevereiro, o Ministro de Estado e das Finanças e do Plano e o Ministro da Indústria, Energia e Exportação determinam:
+1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1982 os projectos de Petróleos de Portugal, E. P. - PETROGAL, a seguir discriminados:
+(ver documento original)
+2 - Considera-se bloqueado, nos termos definidos no n.º 10 da Resolução do Conselho de Ministros n.º 61-A/80, o projecto a seguir discriminado:
+(ver documento original)
+3 - O projecto incluído no n.º 2 só poderá ser lançado e financiado após publicação de despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Indústria, Energia e Exportação, conforme o disposto no n.º 10 da Resolução do Conselho de Ministros n.º 61-A/81.
+4 - É atribuída uma dotação para capital no montante de 500 milhões de escudos, a realizar por conta da dotação de 17000 milhões de escudos inscrita no Orçamento Geral do Estado para 1982, que se destina ao reembolso do crédito intercalar eventualmente mobilizado para execução dos projectos inscritos no PISEE/81, de acordo com o Despacho Normativo n.º 251/81, de 30 de Junho.
+5 - No financiamento da actividade da empresa, o recurso ao crédito interno não poderá exceder o montante de 2100 milhões de escudos.
+6 - No presente ano fica vedado à empresa lançar e financiar qualquer novo projecto de investimento não incluído nos n.os 1 e 2.
+7 - A empresa deverá apresentar ao Ministro de Estado e das Finanças e do Plano e ao Ministro da Indústria, Energia e Exportação, no prazo de 30 dias a contar da data da publicação do presente despacho, os instrumentos previsionais de gestão para 1982, actualizados de acordo com as alterações decorrentes dos números anteriores e outras que, no entretanto, lhe tenham sido comunicadas de acordo com o artigo 13.º do Decreto-Lei n.º 260/76, de 8 de Abril, com a nova redacção introduzida pelo Decreto-Lei n.º 25/79, de 19 de Fevereiro.
+Ministérios das Finanças e do Plano e da Indústria, Energia e Exportação, 31 de Maio de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - Pelo Ministro da Indústria, Energia e Exportação, João Nuno Boulain de Carvalho Carreira, Secretário de Estado da Indústria.
