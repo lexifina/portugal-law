@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1949/05/11000/03650366.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1949-05-24",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "19ba3ebbc1f0fde75c689df3e0041bb6e55d429f7528d7bd01360fef3e521633",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.8,
+    "pages": 2,
+    "columns": [
+      3,
+      1
+    ],
+    "pdf_sha256": "a644ea063b1f2ce0b482ee617b373a89b6ff038f63aad522535136fdaa0ceccc",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 182
 }
