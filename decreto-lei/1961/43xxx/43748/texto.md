@@ -1,0 +1,22 @@
+Decreto-Lei n.º 43748
+O volume de trabalho exigido à Presidência do Conselho mostra a necessidade de dividir por dois Ministros as atribuições que até agora têm cabido ao Ministro da Presidência.
+Por outro lado, mostra-se também aconselhável, pela importância das funções que lhe estão atribuídas e como passo para conveniente estruturação dos serviços ligados à defesa nacional, elevar à categoria de Secretaria de Estado o actual Subsecretariado de Estado da Aeronáutica.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É extinto o cargo de Ministro da Presidência, criado pelo artigo 2.º do Decreto-Lei n.º 37909, de 1 de Agosto de 1950, e são criados dois lugares de Ministros de Estado adjuntos do Presidente do Conselho.
+§ 1.º A um dos Ministros de Estado incumbirão as funções de natureza económica, até agora a Cargo do Ministro da Presidência, e, nomeadamente:
+1.º Cumulativamente com o Presidente do Conselho, a superintendência e despacho respectivos dos seguintes serviços:
+a) Comissão Técnica de Cooperação Económica Externa, incluindo as funções atribuídas à Secretaria de Estado do Comércio pelo Decreto-Lei n.º 43286, de 3 de Novembro de 1960;
+b) Inspecção Superior do Plano de Fomento, criada pelo artigo 3.º do Decreto-Lei n.º 41383, de 22 de Novembro de 1957;
+c) Instituto Nacional de Estatística;
+d) Outros serviços que o Presidente do Conselho designar por despacho.
+2.º As atribuições conferidas ao Ministro da Presidência pelo n.º 1 da base III da Lei n.º 2058, de 29 de Dezembro de 1952.
+3.º As atribuições mencionadas nas alíneas c) e e) do artigo 3.º do Decreto-Lei n.º 37909, de 1 de Agosto de 1950.
+§ 2.º Ao outro Ministro de Estado caberá, cumulativamente com o Presidente do Conselho, superintender e despachar sobre assuntos relativos a serviços dependentes da Presidência e não mencionados no parágrafo anterior.
+§ 3.º O Presidente do Conselho definirá por despacho as atribuições de cada um dos Ministros de Estado nas matérias referidas nas alíneas b), d) e f) do já mencionado artigo 3.º do Decreto-Lei n.º 37909.
+§ 4.º Quando esteja nomeado apenas um Ministro de Estado, caber-lhe-ão todas as funções a que se referem os parágrafos anteriores.
+Art. 2.º São extintos os lugares de Subsecretário de Estado da Aeronáutica e Subsecretário de Estado do Comércio, criados, respectivamente, pelos Decretos-Leis n.º 37909, de 1 de Agosto de 1950, e n.º 42486, de 2 de Setembro de 1959.
+Art. 3.º É criada a Secretaria de Estado da Aeronáutica, que funcionará com os serviços até agora a cargo do extinto Subsecretariado de Estado, na directa dependência do Ministro da Defesa Nacional.
+Art. 4.º Este decreto entra imediatamente em vigor.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 22 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda de Vasconcelos Martins de Carvalho.
