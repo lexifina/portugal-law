@@ -1,3 +1,13 @@
 # Artigo 23.º
 
-Os serviços da Academia são definidos no Regulamento da Academia.
+São serviços da Academia:
+
+a) A biblioteca;
+
+b) O museu;
+
+c) O serviço de publicações;
+
+d) O serviço do património;
+
+e) O serviço administrativo.

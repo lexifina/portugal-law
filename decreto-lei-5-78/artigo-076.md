@@ -1,5 +1,5 @@
 # Artigo 76.º
 
-1 - Os presentes Estatutos devem ser revistos no prazo de 10 anos após a sua entrada em vigor.
+Os presentes Estatutos devem ser revistos no prazo de três anos após a sua entrada em vigor, podendo as classes, ou qualquer dos seus membros, dirigir ao secretário-geral da Academia todas as propostas e sugestões relativas à sua correcção e aperfeiçoamento.
 
-2 - A Academia fica autorizada a pôr em vigor, em regime experimental e provisório, as normas e disposições regulamentares que considerar mais aptas à eficiência dos seus serviços.
+§ único. A Academia fica autorizada a pôr em vigor, em regime experimental e provisório, as normas e disposições regulamentares que considerar mais aptas à eficiência dos seus serviços.
