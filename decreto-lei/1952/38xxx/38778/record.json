@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1952/06/12900/06380638.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1952-06-11",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "50b91d26b3f3809d6462e6cbe20d5bdfe31eb9923badbad8da87b1cb0a71f746",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.9,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "c647b46b7ae4dc13c073a822ca0145dbf7dc2afef6ec42543ac12e2dbe1ecd6a",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 214
 }
