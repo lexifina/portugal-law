@@ -1,0 +1,9 @@
+Decreto-Lei n.º 43905
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É autorizado o Ministro das Finanças a mandar anular as anuidades da taxa militar ainda não pagas que respeitem a civis mortos em defesa da Pátria, ou vitimados por actos de terrorismo, em qualquer parcela do ultramar português.
+§ único. Se a taxa militar tiver sido remida, fica também o Ministro das Finanças autorizado a mandar restituir as importâncias que proporcionalmente corresponderem ao período posterior à morte.
+Art. 2.º Os pedidos com vista à anulação ou restituição permitidas pelo artigo antecedente deverão ser instruídos com certificados comprovativos dos factos alegados, passados pelas autoridades administrativas ou militares da província onde a morte tiver ocorrido.
+Art. 3.º A restituição a que alude o § único do artigo 1.º só será autorizada a favor da viúva, dos descendentes ou ascendentes do falecido.
+Art. 4.º As petições e os documentos que as instruírem são isentos de quaisquer imposições, designadamente do imposto do selo.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 12 de Setembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
