@@ -1,0 +1,13 @@
+Declaração
+Declara-se, para os devidos efeitos, que entre o original arquivado nesta Secretaria-Geral e o texto do Decreto n.º 48348, publicado, pelo Ministério das Finanças, Direcção-Geral da Contabilidade Pública, no Diário do Governo n.º 98, 1.ª série, de 24 de Abril de 1968, existem as seguintes divergências, que assim se rectificam:
+No artigo 1.º, onde se lê:
+...
+Artigo 70.º-A «Remunerações certas ao pessoal em exercício»:
+...
+N.º 2) «Outro pessoal assalariado» ... 14000$00
+deve ler-se:
+...
+Artigo 70.º-A «Remunerações certas ao pessoal em exercício»:
+...
+Alínea 2 «Outro pessoal assalariado» ... 14000$00
+Secretaria-Geral da Presidência do Conselho, 5 de Fevereiro de 1969. - O Secretário-Geral, Diogo de Paiva Brandão.
