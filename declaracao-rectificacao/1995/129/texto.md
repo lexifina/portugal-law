@@ -1,0 +1,4 @@
+Declaração de rectificação n.º 129/95
+Para os devidos efeitos se declara que o Decreto-Lei n.º 178/95, de 26 de Julho, publicado no Diário da República, n.º 171, de 26 de Julho de 1995, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No preâmbulo, segundo parágrafo, onde se lê «alterar as condições em que é atribuído o abono do vencimento de exercício perdido, consagrar que as faltas por conta do período de férias e com perda de vencimento podem ser dadas em meios dias, alargar o limite máximo da licença para o exercício de funções com carácter precário em organismos internacionais» deve ler-se «alterar as condições em que é atribuído o abono do vencimento de exercício perdido, alargar o limite máximo da licença para o exercício precário em organismos internacionais».
+Secretaria-Geral da Presidência do Conselho de Ministros, 20 de Outubro de 1995. - O Secretário-Geral, França Martins.
