@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Governo da República Portuguesa e o Governo da República de Cabo Verde procederam, em 18 de Maio de 1987, à troca dos instrumentos de ratificação do Protocolo Adicional ao Acordo de Cooperação Consular Celebrado entre a República Portuguesa e a República de Cabo Verde, assinado em Lisboa aos 30 dias do mês de Novembro de 1979, aprovado pelo Decreto n.º 99/80, publicado no Diário da República, 1.ª série, n.º 232, de 7 de Outubro de 1980, e ratificado em 20 de Novembro de 1980.
+Secretaria-Geral do Ministério, 4 de Junho de 1987. - O Director do Serviço Jurídico e de Tratados, Fernão Manuel Homem de Gouveia Fávila Vieira.
