@@ -1,0 +1,8 @@
+Despacho Normativo n.º 13/89
+Em Julho do ano findo foram publicados os valores definitivos das instituições de crédito e no respectivo despacho normativo referia-se que o processo das indemnizações, no cumprimento de firme disposição do Governo, se aproximava do fim.
+Dá-se agora um novo e importante passo para aquela conclusão, publicando-se os valores definitivos das sociedades de seguros.
+Os valores definitivos de indemnização contidos neste despacho derivam da concordância com os valores indicados nos relatórios finais das firmas que procederam à avaliação patrimonial de cada uma das empresas nacionalizadas, de harmonia com a legislação aplicável e, designadamente, com o caderno de encargos aprovado pela Resolução do Conselho de Ministros n.º 40/82, de 2 de Fevereiro, e ainda de concordância com as propostas finais da Comissão Coordenadora das Avaliações Patrimoniais. Fica por concluir apenas um número muito reduzido de valores relativos a empresas que apresentavam particularidades especiais que dificultam a sua avaliação, obstáculos esses que se está a diligenciar remover com a maior brevidade.
+Assim:
+Nos termos expostos e ao abrigo do disposto no artigo 14.º da Lei n.º 80/77, de 26 de Outubro, e demais legislação aplicável ao processo para cálculo das indemnizações, determino que sejam fixados os seguintes valores definitivos para as indemnizações das empresas que a seguir se indicam:
+(ver documento original)
+Secretaria de Estado do Tesouro e das Finanças, 26 de Janeiro de 1989. - O Secretário de Estado do Tesouro e das Finanças, Fernando Manuel Barbosa Faria de Oliveira.
