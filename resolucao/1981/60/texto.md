@@ -1,0 +1,3 @@
+Resolução n.º 60/81
+Nos termos do Tratado entre a República Federal da Alemanha e a República de Portugal Relativo à Extradição e à Assistência Judiciária em Matéria Penal de 8 de Abril de 1965, e do artigo 24.º, n.º 2, do Decreto-Lei n.º 437/75, de 16 de Agosto, o Conselho de Ministros, reunido em 5 de Março de 1981, resolveu deferir o pedido de extradição apresentado pelas autoridades da República Federal da Alemanha referente ao seu súbdito Jurgen Erich Dreier, condenado pela prática de vários crimes de roubo, furto de veículos e condução sem carta.
+Presidência do Conselho de Ministros, 5 de Março de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
