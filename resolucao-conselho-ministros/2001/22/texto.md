@@ -1,0 +1,16 @@
+Resolução do Conselho de Ministros n.º 22/2001
+Uma das áreas em que as tecnologias de informação e comunicação contribuem para um melhor e mais eficaz desempenho das missões que incumbem à Administração Pública é a do seu relacionamento com os cidadãos e com outras instituições.
+O objectivo essencial a qualquer Estado democrático de aproximar o Estado dos cidadãos adquire com as tecnologias de informação possibilidades alargadas de concretização.
+São múltiplas as formas em que aquelas tecnologias podem contribuir para tal desiderato. Uma delas é através da disponibilização pelos organismos públicos de páginas na Internet.
+Nestas pode ser facultada informação muito relevante para os cidadãos que seja por aqueles detida, o que, aliás, foi, em relação a determinadas categorias, tornado obrigatório pela Resolução do Conselho de Ministros n.º 95/99, de 25 de Agosto.
+À maior facilidade de acesso, traduzida em maior rapidez e menor burocracia, acrescem as novas possibilidades de cruzamento e exploração da informação que a forma digital de disponibilização da informação permite.
+Importa, por tudo isto, que as páginas da Administração Pública na Internet revistam a qualidade indispensável à plena concretização do potencial que as mesmas encerram. Só essa qualidade assegurará os benefícios que para todos os que com a Administração se relacionam delas podem retirar e só ela garantirá os ganhos de eficácia e produtividade para a própria Administração resultantes da operação de páginas na Internet.
+Importa, por isso, instituir mecanismos de avaliação sistemática das páginas da Administração Pública na Internet que, nomeadamente, afiram da sua compatibilidade com critérios básicos de qualidade. Trata-se de um objectivo já identificado na Iniciativa Internet, aprovada pela Resolução do Conselho de Ministros n.º 110/2000, de 22 de Agosto, correspondendo igualmente a uma preocupação da Comissão Interministerial para a Sociedade da Informação, que propôs ao Governo adopção de medidas nesta área.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - As páginas na Internet dos organismos integrados na administração directa e indirecta do Estado são sujeitas a avaliação periódica.
+2 - A avaliação referida no número anterior visa, nomeadamente, aferir o grau de actualização da informação disponibilizada, a clareza da forma como é apresentada, a facilidade de pesquisa da informação e o cumprimento das disposições legais relativas ao conteúdo e forma de apresentação das páginas dos organismos públicos, designadamente a sua acessibilidade por cidadãos com necessidades especiais.
+3 - As avaliações objecto da presente resolução são tornadas públicas.
+4 - O objectivo da avaliação objecto da presente resolução é a produção de recomendações tendentes ao aperfeiçoamento e melhoria da qualidade das páginas avaliadas, bem como a divulgação de boas práticas.
+5 - As formas concretas de avaliação das páginas dos organismos referidos no n.º 1, nomeadamente no que se refere à sua periodicidade e à competência para a levar a cabo, serão objecto de definição no seio da Comissão Interministerial para a Sociedade da Informação.
+Presidência do Conselho de Ministros, 7 de Fevereiro de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
