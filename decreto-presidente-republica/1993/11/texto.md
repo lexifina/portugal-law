@@ -1,0 +1,7 @@
+Decreto do Presidente da República n.º 11/93
+de 22 de Abril
+O Presidente da República decreta, nos termos da alínea c) do n.º 2 do artigo 29.º da Lei n.º 29/82, de 11 de Dezembro, e da alínea d) do n.º 6 do artigo 6.º da Lei n.º 111/91, de 29 de Agosto, o seguinte:
+É nomeado, por iniciativa do Chefe do Estado-Maior-General das Forças Armadas e sob proposta aprovada pelo Conselho Superior de Defesa Nacional, para o cargo de comandante da 1.ª Brigada Mista Independente o brigadeiro Carlos Alberto da Fonseca Cabrinha.
+Assinado em 12 de Abril de 1993.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
