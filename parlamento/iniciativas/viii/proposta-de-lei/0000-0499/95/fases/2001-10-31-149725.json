@@ -1,0 +1,465 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "95",
+    "id": "18676",
+    "titulo": "Aprova o Regime da Responsabilidade Civil Extracontratual do estado (Revoga o Decreto-Lei n.º 48051, de 21 de Novembro de 1967)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-10-31",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2076",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-10-31",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "18673",
+        "leg": "VIII",
+        "nr": "92",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "613",
+            "obs": null,
+            "pag": [
+              "685-702"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-11-02",
+            "pubLeg": "VIII",
+            "pubNr": "19",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/019/2001-11-02/685?pgs=685-702&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "613",
+            "obs": null,
+            "pag": [
+              "685-702"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-11-02",
+            "pubLeg": "VIII",
+            "pubNr": "19",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/019/2001-11-02/685?pgs=685-702&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Aprova o Código de Processo nos Tribunais Administrativos (revoga o Decreto-Lei n.º 267/85, de 16 de Julho)."
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "18674",
+        "leg": "VIII",
+        "nr": "93",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "613",
+            "obs": null,
+            "pag": [
+              "685-702"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-11-02",
+            "pubLeg": "VIII",
+            "pubNr": "19",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/019/2001-11-02/685?pgs=685-702&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "613",
+            "obs": null,
+            "pag": [
+              "685-702"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-11-02",
+            "pubLeg": "VIII",
+            "pubNr": "19",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/019/2001-11-02/685?pgs=685-702&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Aprova o Estatuto dos Tribunais Administrativos e Fiscais ( revoga o Decreto-Lei n.º 129/84, de 27 de Abril)."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-10-31",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139723",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "685-687",
+                  "698-701"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-02",
+                "pubLeg": "VIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/019/2001-11-02/685?pgs=685-687,698-701&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código de Processo nos Tribunais Administrativos (revoga o Decreto-Lei n.º 267/85, de 16 de Julho); Aprova o Estatuto dos Tribunais Administrativos e Fiscais ( revoga o Decreto-Lei n.º 129/84, de 27 de Abril); Aprova o Regime da Responsabilidade Civil Extracontratual do estado (Revoga o Decreto-Lei n.º 48051, de 21 de Novembro de 1967)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139726",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "687-688"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-02",
+                "pubLeg": "VIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/019/2001-11-02/687?pgs=687-688&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código de Processo nos Tribunais Administrativos (revoga o Decreto-Lei n.º 267/85, de 16 de Julho); Aprova o Estatuto dos Tribunais Administrativos e Fiscais ( revoga o Decreto-Lei n.º 129/84, de 27 de Abril); Aprova o Regime da Responsabilidade Civil Extracontratual do estado (Revoga o Decreto-Lei n.º 48051, de 21 de Novembro de 1967)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139727",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "688-689"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-02",
+                "pubLeg": "VIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/019/2001-11-02/688?pgs=688-689&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código de Processo nos Tribunais Administrativos (revoga o Decreto-Lei n.º 267/85, de 16 de Julho); Aprova o Estatuto dos Tribunais Administrativos e Fiscais ( revoga o Decreto-Lei n.º 129/84, de 27 de Abril); Aprova o Regime da Responsabilidade Civil Extracontratual do estado (Revoga o Decreto-Lei n.º 48051, de 21 de Novembro de 1967)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139728",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "690-692",
+                  "701-702"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-02",
+                "pubLeg": "VIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/019/2001-11-02/690?pgs=690-692,701-702&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código de Processo nos Tribunais Administrativos (revoga o Decreto-Lei n.º 267/85, de 16 de Julho); Aprova o Estatuto dos Tribunais Administrativos e Fiscais ( revoga o Decreto-Lei n.º 129/84, de 27 de Abril); Aprova o Regime da Responsabilidade Civil Extracontratual do estado (Revoga o Decreto-Lei n.º 48051, de 21 de Novembro de 1967)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139729",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "692-694",
+                  "698-698",
+                  "701-701"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-02",
+                "pubLeg": "VIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/019/2001-11-02/692?pgs=692-694,698,701&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código de Processo nos Tribunais Administrativos (revoga o Decreto-Lei n.º 267/85, de 16 de Julho); Aprova o Estatuto dos Tribunais Administrativos e Fiscais ( revoga o Decreto-Lei n.º 129/84, de 27 de Abril); Aprova o Regime da Responsabilidade Civil Extracontratual do estado (Revoga o Decreto-Lei n.º 48051, de 21 de Novembro de 1967)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139730",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "697-698"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-02",
+                "pubLeg": "VIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/019/2001-11-02/697?pgs=697-698&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Código de Processo nos Tribunais Administrativos (revoga o Decreto-Lei n.º 267/85, de 16 de Julho); Aprova o Estatuto dos Tribunais Administrativos e Fiscais ( revoga o Decreto-Lei n.º 129/84, de 27 de Abril); Aprova o Regime da Responsabilidade Civil Extracontratual do estado (Revoga o Decreto-Lei n.º 48051, de 21 de Novembro de 1967)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "149725",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "266077",
+        "obs": null,
+        "pag": [
+          "685-702"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-11-02",
+        "pubLeg": "VIII",
+        "pubNr": "19",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/019/2001-11-02/685?pgs=685-702&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
