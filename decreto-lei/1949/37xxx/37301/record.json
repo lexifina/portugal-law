@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1949/02/02700/00770077.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1949-02-12",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "e4f6f44a6bdecdf880aa6c697d2a9179772c848f1874a9bbd48a6225dc440047",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.9,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "f6c57b773f8089c3c62ad3888cd3633d304cbda1daa9a9464dcb10579e5d1966",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 491
 }
