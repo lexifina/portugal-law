@@ -1,0 +1,16 @@
+Portaria n.º 445/73
+de 29 de Junho
+Sendo conveniente tornar extensivo às províncias ultramarinas o regime de pagamentos, em matéria de expropriações, instituído pelo Decreto n.º 332/72, de 23 de Agosto;
+Usando da faculdade conferida pelo n.º 3 da base LXXVI da Lei Orgânica do Ultramar Português:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar:
+1.º É tornado extensivo às províncias ultramarinas o Decreto n.º 332/72, de 23 de Agosto, com as adaptações a seguir mencionadas.
+2.º - 1. As referências a «Governo» consideram-se feitas a «Governador, ouvida a Junta Consultiva Provincial».
+2. As referências a «Caixa Geral de Depósitos» consideram-se feitas a «Instituto de Crédito ou estabelecimento onde devam fazer-se, segundo a lei, os depósitos obrigatórios».
+3.º O n.º 1 do artigo 7.º passará a ter a seguinte redacção:
+Art. 7.º - 1. Admitido pelas partes ou por decisão judicial o pagamento da indemnização em prestações e ainda o modo como estas deverão ser satisfeitas, será notificado o expropriante, quando for o Estado, para, no prazo de sessenta dias, por termo nos autos, entregar aos interessados os respectivos certificados de dívida pública amortizável ou de outras formas de pagamento que tenham sido convencionadas, salvo se já estiver feita a prova, por documento, da entrega extrajudicial.
+4.º A redacção do n.º 1 do artigo 9.º passará a ser:
+Art. 9.º - 1. No caso de o pagamento da indemnização dever ser feito em prestações, e se a expropriação não for urgentíssima, o expropriante só será investido na posse e propriedade dos bens expropriados depois da entrega dos certificados da dívida pública ou de se mostrar garantido o pagamento das prestações, nos termos dos artigos 7.º e 8.º
+5.º A entrada em vigor, no todo ou em parte, da presente portaria na província de Macau fica sujeita ao critério e decisão do respectivo Governador, através de decreto provincial.
+Ministério do Ultramar, 15 de Junho de 1973. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
