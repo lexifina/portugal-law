@@ -1,0 +1,5 @@
+Portaria n.º 23324
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 40000$00 a verba do capítulo 10.º, artigo 306.º, n.º 25) «Encargos gerais - Diversas despesas - Remunerações a abonar nos termos do Decreto n.º 44732, de 26 de Novembro de 1962», da tabela de despesa ordinária do orçamento geral da província de Cabo Verde para o ano económico de 1968, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 4.º, artigo 126.º, n.º 1, alínea a) «Administração geral e fiscalização - Serviço de saúde e assistência - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+Ministério do Ultramar, 22 de Abril de 1968. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Cabo Verde. - J. Cota.
