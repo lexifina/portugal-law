@@ -1,0 +1,6 @@
+Aviso
+As medidas especiais instituídas pelos Decretos-Leis n.os 402/74, 528/75 e 412/76 traduziram-se, na prática, pela entrada em Portugal de grande número de veículos vindos das antigas colónias e veículos importados do estrangeiro, especialmente da Europa, adquiridos mediante utilização de passaportes emitidos nas ex-colónias.
+A importação de veículos adquiridos no estrangeiro e naquelas condições tem sido possível mediante a emissão dos correspondentes boletins de registo de importação, sem dispêndio de divisas, o que implica a prévia consulta do Banco de Portugal.
+O tempo já decorrido sobre o termo do processo de descolonização e o facto de continuarem a surgir novos casos levam a providenciar no sentido de obstar à importação de tais veículos.
+Nestes termos, o Banco de Portugal informa que a partir desta data emitirá parecer desfavorável às importações sem dispêndio de divisas de veículos automóveis adquiridos no estrangeiro por retornados, em regime de trânsito temporário, sem que os interessados, para além da documentação legalmente exigida, apresentem certificado de residência, à data da aquisição do veículo automóvel, numa ex-colónia, devidamente confirmado pela respectiva embaixada ou consulado no nosso país.
+Ministério das Finanças e do Plano, 17 de Fevereiro de 1978. - O Secretário de Estado do Tesouro, Herlânder dos Santos Estrela.
