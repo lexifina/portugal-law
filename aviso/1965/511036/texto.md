@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, conforme comunicação da Embaixada da Polónia em Londres, transmitida através do Ministério dos Negócios Estrangeiros do Reino Unido, a Grécia e a Tanzânia depositaram em 23 de Junho e 7 de Abril de 1965 os instrumentos de ratificação e de acessão à Convenção para a unificação de certas regras relativas ao transporte aéreo internacional, assinada em Varsóvia a 12 de Outubro de 1929, cujo texto foi publicado no Diário do Governo n.º 185, 1.ª série, de 10 de Agosto de 1948.
+Direcção-Geral dos Negócios Económicos e Consulares, 22 de Outubro de 1965. - O Director-Geral, José Calvet de Magalhães.
