@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=htpYpETdXfgHmO4bgl5XKGQk%2bkZ1UWePwKPL0a952OEb3q68QQJu%2fuE3NuR8L9cT16ct5X3RKqJkceDCyhfVGNPxhHXgbN1eGmi%2f%2fdU0g60yGc2cs%2bn1DMAEwQhj%2bKKB5yX47cODyxeVMUfaXI003Z9keT2kp2rW%2f7kxaUXxrVSf%2brEumAdcCbsQWmtnV66GATPJkIrBDauZqW%2fTWFG8va1dk%2bkmTLKSlM5McQDTmE0NcJE1JnQKMHMv4M0dnjHF6CV6z0vn0bWDxqqYFeDaU5FrwkU826iJw3qNEXisf524qng2dAL%2fTUTvJ5%2b5vdrQNfCO0dMi3U4dP2xTk2nscBJCzFAYe7g9Oj019EJl5HstUW53s7KuzZRGevOeN9LIKt96NeIqRpBfgUg0UQzT5g%3d%3d&fich=RequerimentosVII_json.txt&Inline=true",
+  "ficheiro_sha256": "c4242ebf0e6e244b5787c9940684dff06969f806e8cf9a27eebd15d714e35117",
+  "legislatura": "VII",
+  "id": "16056",
+  "tipo": "Requerimento",
+  "numero": "247",
+  "data_registo": "1996-01-12",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "ACESSO DOS FISCAIS MUNICIPAIS A CARREIRA NOS SERVICOS MUNICIPAIS DE POLICIA",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "216",
+        "nome": "Luís Sá"
+      }
+    ],
+    "DataEnvio": "1996-01-15",
+    "Destinatarios": [
+      {
+        "dataEnvio": "1996-01-15",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministério do Planeamento e da Administração do Territorio",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": null,
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "1996-01-12",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a6b354e44526c4e3251334c5449774e6d59744e47493459793169597a45324c545668593251355a474a6d4d444933597935775a47593d&fich=9944e7d7-206f-4b8c-bc16-5acd9dbf027c.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "16056",
+    "Legislatura": "VII",
+    "Nr": "247",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "26473",
+        "obs": "40-(11)",
+        "pag": [
+          "40-(11)-40-(11)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "1996",
+        "pubLeg": "VII",
+        "pubNr": "9",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/01/009S1/1996-01-11/40-(11)?pgs=40-(11)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": [
+      {
+        "dataResposta": null,
+        "docRemetida": null,
+        "entidade": "Ministério do Equipamento, do Planeamento e da Adm. do Ter.",
+        "ficheiro": "",
+        "ficheiroComTipo": null,
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "164126",
+            "obs": "148-(65)",
+            "pag": [
+              "148-(65)-148-(65)"
+            ],
+            "pagFinalDiarioSupl": "2º Supl.",
+            "pubdt": "1996",
+            "pubLeg": "VII",
+            "pubNr": "32",
+            "pubSL": "1",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": "2º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/01/032S2/1996-07-20/148-(65)?pgs=148-(65)&org=PLC"
+          }
+        ]
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
