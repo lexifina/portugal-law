@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal Administrativo de 1996-05-07, processo 023836
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 023836
+
+**Data do Acordão:** 05/07/1996
+
+**Tribunal:** PLENO DA SECÇÃO DO CA
+
+**Relator:** DIMAS DE LACERDA
+
+**Descritores:** RECURSO HIERÁRQUICO; RECURSO CONTENCIOSO; RECURSO HIERÁRQUICO NECESSÁRIO; ACTO ADMINISTRATIVO; COMPETÊNCIA SEPARADA; REEXAME; ACTO VERTICALMENTE DEFINITIVO
+
+**Nº Convencional:** JSTA00044276
+
+**Nº do Documento:** SAP19960507023836
+
+**Data de Entrada:** 01/16/1992
+
+**Recorrente:** MINISTERIO PUBLICO
+
+**Recorrido 1:** PONTES , LINO
+
+**Votação:** UNANIMIDADE COM 1 DEC VOT
+
+**Ano da Publicação:** 96
+
+**Privacidade:** 01
+
+**Meio Processual:** REC OPOS JULGADOS.
+
+**Objecto:** AC 2 SUBSECÇÃO DO CA PROC23836 DE 1991/10/29 - AC .. SUBSECÇÃO DO CA ....?
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM CONT - ACTO. DIR PROC ADM GRAC - REC HIERÁRQUICO.
+
+**Área Temática 2:** DIR CONST - DIR FUNDAM / GARANTIAS ADMI.
+
+**Legislação Nacional:** CONST82 ART18 ART20 N1 ART268 N2 N4.; DL 44/84 DE 1984/03/02 ART34 ART35 N1.; CPA91 ART170 N2.; ETAF84 ART24 N1 B C ART102.; CPC61 ART684 N2 N3 N4 ART766 N3.; DL 256-A/77 DE 1977/06/17 ART1 N1 ART2 ART3.
+
+**Jurisprudência Nacional:** AC STA PROC26377 DE 1991/04/30 IN AP-DR PAG2557.; AC STA PROC30135 DE 1995/11/30.; AC STA PROC30122 DE 1994/04/19.; AC STA PROC36163 DE 1996/03/12.; AC STAPLENO PROC28197 DE 1993/01/21.; AC STAPLENO PROC28774 DE 1995/12/19.
+
+**Referência a Doutrina:** FREITAS DO AMARAL CONCEITO E NATUREZA DO RECURSO HIERáRQUCO VI PAG249 - 251.; FREITAS DO AMARAL DIREITO ADMINISTRATIVO 1988 VIV PAG50.; CASTANHEIRA NEVES O INSTITUTO DOS ASSENTOS E A FUNÇÃO JURÍDICA DOS SUPREMOS TRIBUNAIS COIMBRA 1983 PAG71 - 73.; ALBERTO DOS REIS CÓDIGO DE PROCESSO CIVIL ANOTADO VVI COIMBRA 1952 PAG266.; Texto Integral
+
+## Sumário
+
+O recorrente pode arguir, no recurso contencioso do acto do superior que decide sobre recurso hierárquico, vícios do acto hierarquicamente impugnado e não arguidos neste.
