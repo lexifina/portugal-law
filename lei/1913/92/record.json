@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1913/12/29500/47644764.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1913-12-18",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "fc4497eaf96aac269a6aea714f676ecdd5c6ca35bd28d4f3537804dde0130a9a",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.3,
+    "pages": 1,
+    "columns": [
+      4
+    ],
+    "pdf_sha256": "88a5e6a927398f92183dc42f438b1532a9a2ed887549a6994bfe3e971247494c",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 160
 }
