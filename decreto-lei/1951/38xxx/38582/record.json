@@ -17,9 +17,23 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1951/12/27200/11781180.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1951-12-29",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "616504a2a0a6b922e6f5d096b88bc98d6e775d7a65b3f512fa30da9c36b8977f",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.4,
+    "pages": 3,
+    "columns": [
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "9bd580c6e12c7bbe66a3a9f7d8d96d816f0ac59c1cd6877e619da02091103779",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 2681
 }
