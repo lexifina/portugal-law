@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1914/05/08400/03170317.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1914-05-28",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "48ecd172162fc556c9375c13797f496de54a7bdfb55dc9af850aa58cb7ead7c2",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.2,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "9bd42060ec8fa4f2a85f649a03e0508f26a44ef118e7a4181a9a62efd8694378",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 127
 }
