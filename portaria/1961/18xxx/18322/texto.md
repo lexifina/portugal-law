@@ -1,0 +1,81 @@
+Portaria n.º 18322
+Considerando que o empréstimo da metrópole fixado para cobertura de despesas previstas no programa de execução do II Plano de Fomento da província da Guiné aprovado para 1960 pode ser substituído por recursos da mesma província, sem afectar a execução dos programas estabelecidos;
+Atendendo à autorização dada pelo Conselho Económico, em sessão de 3 do corrente:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos da alínea c) do n.º 5.º do n.º I da base XI da Lei Orgânica do Ultramar Português, aprovada pela Lei n.º 2066, de 27 de Junho de 1953:
+1.º Eliminar as receitas previstas no capítulo 9.º, artigos 92.º, 93.º e 94.º, do orçamento da receita extraordinária do orçamento geral de 1960 e substituí-las pelas seguintes:
+Artigo 92.º «Rendimento das concessões petrolíferas a aplicar a»:
+I) «Aproveitamento de recursos»:
+1) «Agricultura, silvicultura e pecuária»:
+a) «Fomento agrário» ... 6356427$17
+b) «Fomento pecuário» ... 2000000$00
+c) «Constituição de celeiros, armazenagem e conservação de produtos» ... 1000000$00
+2) «Electricidade e indústria»:
+a) «Pesca» ... 740000$00
+II) «Comunicações e transportes»:
+1) «Execução do plano rodoviário» ... 3916786$30
+2) «Transportes fluviais (obras e meios de transporte)» ... 2078209$00
+3) «Aeroportos e material aeronáutico» ... 6500000$00
+4) «Telecomunicações» ... 5350000$00
+III) «Instrução»:
+1) «Construção e apetrechamento de instalações escolares» ... 2280000$00
+IV) «Equipamento de serviços públicos»:
+1) «Mecanização da conservação de estradas e melhoramento de oficinas de obras públicas» ... 7648504$70
+... 37869927$17
+Artigo 93.º «Empréstimo da metrópole, autorizado pelo Decreto-Lei n.º 39179, de 21 de Abril de 1953, a aplicar a»:
+I) «Aproveitamento de recursos»:
+1) «Agricultura, silvicultura e pecuária»:
+a) «Fomento agrário» ... 485000$00
+b) «Constituição de celeiros, armazenagem e conservação de produtos» ... 540000$00
+II) «Comunicações e transportes»:
+1) «Execução do plano rodoviário» ... 644493$72
+... 1669493$72
+Artigo 94.º «Saldos das contas de exercícios findos a aplicar a»:
+I) «Aproveitamento de recursos»:
+1) «Agricultura, silvicultura e pecuária»:
+a) «Fomento agrário» ... 1025000$00
+11) «Comunicações e transportes:
+1) «Aeroportos e material aeronáutico» ... 3170575$10
+... 4195570$10
+... 43734990$99
+2.º Eliminar e substituir pelas que se indicam as despesas do capítulo 12.º, artigo 279.º, da tabela de despesa extraordinária do mesmo orçamento geral:
+Artigo 279.º «II Plano de Fomento - Programa de execução, 1960»:
+I) «Aproveitamento de recursos»:
+1) «Agricultura, silvicultura e pecuária»:
+a) «Fomento agrário»:
+1.ª «Do rendimento de concessões petrolíferas» ... 6356427$17
+2.ª «Dos saldos das contas de exercícios findos» ... 1025000$00
+3.ª «Do empréstimo da metrópole, autorizado pelo Decreto-Lei n.º 39179» ... 485000$00
+... 7866427$17
+b) «Fomento pecuário»:
+1.ª «Do rendimento de concessões petrolíferas» ... 2000000$00
+c) «Constituição de celeiros, armazenagem e conservação de produtos»:
+1.ª «Do rendimento de concessões petrolíferas» ... 1000000$00
+2.ª «Do empréstimo da metrópole, autorizado pelo Decreto-Lei n.º 39179» ... 540000$00
+... 1540000$00
+2) «Electricidade e indústrias»:
+a) «Estudos e projectos de energia eléctrica» ... -$00-
+b) «Pesca»:
+1.ª «Do rendimento de concessões petrolíferas» ... 740000$00
+II) «Comunicações e transportes:
+1) «Execução do plano rodoviário:
+1.ª «Do rendimento de concessões petrolíferas» ... 3916786$30
+2.ª «Do empréstimo da metrópole, autorizado pelo Decreto-Lei n.º 39179» ... 644493$72
+... 4561280$02
+2) «Transportes fluviais (obras e meios de transporte)»:
+1.ª «Do rendimento de concessões petrolíferas» ... 2078209$00
+3) «Aeroportos e material aeronáutico»:
+1.ª «Do rendimento de concessões petrolíferas» ... 6500000$00.
+2.ª «Dos saldos das contas de exercícios findos» ... 3170570$10
+... 9670570$10
+4) «Telecomunicações»:
+1.ª «Do rendimento de concessões petrolíferas» ... 5350000$00
+III) «Instrução»:
+1) «Construção e apetrechamento de instalações escolares»:
+1.ª «Do rendimento de concessões petrolíferas» ... 2280000$00
+IV) «Equipamento dos serviços públicos»:
+1) «Mecanização da conservação de estradas e melhoramento de oficinas de obras públicas»:
+1.ª «Do rendimento de concessões petrolíferas» ... 7648504$70
+... 43734990$99
+Ministério do Ultramar, 14 de Março de 1961. - Pelo Ministro do Ultramar, Manuel Rafael Amaro da Costa, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial da Guiné. - A. da Costa.
