@@ -1,0 +1,15 @@
+Portaria n.º 362-C/91
+de 24 de Abril
+O Decreto-Lei n.º 193/87, de 30 de Abril, prevê, na alínea b) do n.º 1 do seu artigo 5.º, o provimento em lugares da mesma classe da carreira técnica dos funcionários integrados, por força deste diploma, na carreira técnico-profissional, nível 4, que tenham frequentado com aproveitamento um curso de formação profissional adequado.
+Considerando que, no âmbito do Ministério da Educação, o curso de formação profissional exigido, aprovado pelo Despacho Normativo n.º 17/91, publicado no Diário da República, 1.ª série, n.º 18, de 22 de Janeiro de 1991, já se realizou, tendo sido concluído com aproveitamento, conforme lista homologada por despacho de 18 de Março de 1991 do Secretário de Estado Adjunto do Ministro da Educação, por 12 técnicos-adjuntos especialistas de 1.ª classe, 1 técnico-adjunto especialista e 1 técnico-adjunto principal, do quadro único de pessoal dos organismos e serviços centrais e regionais;
+Considerando, ainda, que o n.º 2 do citado artigo 5.º preceitua que, para os provimentos a efectuar nos termos do n.º 1, os quadros de pessoal dos respectivos serviços e organismos serão aumentados dos correspondentes lugares da carreira técnica, os quais serão extintos quando vagarem:
+Ao abrigo do artigo 6.º do Decreto-Lei n.º 193/87 de 30 de Abril:
+Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
+1.º O quadro único de pessoal dos organismos e serviços centrais e regionais do Ministério da Educação, aprovado pela Portaria n.º 226-A/88, de 13 de Abril é aumentado dos lugares da carreira técnica constantes do mapa anexo à presente portaria.
+2.º Os lugares criados serão extintos à medida que vagarem.
+Ministérios das Finanças e da Educação.
+Assinada em 24 de Abril de 1991.
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Educação, José Augusto Perestrello de Alarcão Troni, Secretário de Estado Adjunto do Ministro da Educação.
+
+MAPA
+(ver documento original)
