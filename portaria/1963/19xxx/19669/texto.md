@@ -1,0 +1,33 @@
+Portaria n.º 19669
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+1.º Nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933:
+a) Reforçar com as quantias que se indicam as verbas a seguir discriminadas da tabela de despesa ordinária do orçamento geral de Cabo Verde para o ano económico de 1962:
+CAPÍTULO 10.º
+Encargos gerais
+Artigo 258.º «Deslocações de pessoal»:
+N.º 4) «Passagens de ou para o exterior»:
+Alínea a) «Por motivo de licença graciosa - A pagar na metrópole» ... 25000$00
+Alínea b) «Por quaisquer outros motivos - A pagar na metrópole» ... 30000$00
+... 55000$00
+tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 5.º, artigo 180.º, n.º 3) «Serviços das alfândegas - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal assalariado», da referida tabela de despesa.
+b) Reforçar com a quantia de 50000$00 a verba do capítulo 10.º, artigo 1424.º, n.º 5), alínea a) «Encargos gerais - Deslocações do pessoal - Passagens de ou para o exterior por quaisquer outros motivos - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral de Angola para o ano económico de 1962, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 10.º, artigo 1425.º, n.º 6), alínea a) «Encargos gerais - Diversas despesas - Despesas com assistência médica, tratamento e internamento de casos de tuberculose, câncer, alienação mental e lepra em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo aposentados e operários do Estado e de colonos pobres das províncias ultramarinas - A pagar na metrópole», da mencionada tabela de despesa.
+2.º Nos termos do § único do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, conjugado com o artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, e a alínea e) do artigo 3.º do mesmo diploma, com a nova redacção que lhe foi dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir em Timor um crédito especial de 219000$00 para reforçar com as importâncias que se indicam as seguintes verbas da tabela de despesa ordinária do orçamento geral de Timor para o ano económico de 1962:
+CAPÍTULO 10.º
+Encargos gerais
+Artigo 222.º «Deslocações de pessoal»:
+N.º 4) «Passagens de ou para o exterior»:
+Alínea a) «Por motivo de licença graciosa»:
+1) «A pagar na metrópole» ... 60000$00
+Alínea b) «Por quaisquer outros motivos»:
+1) «A pagar na metrópole» ... 50000$00
+Artigo 223.º «Diversas despesas»:
+N.º 3) «Repatriação e socorros a indigentes»:
+Alínea a) «A pagar na metrópole» ... 49000$00
+N.º 8) «Despesas eventuais»:
+Alínea b) «Não especificadas»:
+1) «A pagar na metrópole» ... 60000$00
+... 219000$00
+tomando como contrapartida igual quantia a sair do excesso de cobrança sobre a previsão da receita da verba do capítulo 4.º, artigo 28.º, alínea a), «Taxas - Rendimento de diversos serviços - Receitas eventuais não especificadas - Diversas», do orçamento da receita ordinária para o referido ano.
+Ministério do Ultramar, 30 de Janeiro de 1963. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Cabo Verde, Angola e Timor. - Silva Cunha.
