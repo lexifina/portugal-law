@@ -1,0 +1,680 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Ratificação",
+    "numero": "37",
+    "id": "3994",
+    "titulo": "Decreto-lei n° 184/92, de 22 de Agosto, que Reestrutura o Secretariado Nacional de Reabilitação"
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "1993-01-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "480",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "1993-01-15",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Ratificação",
+        "id": "3988",
+        "leg": "VI",
+        "nr": "39",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "546",
+            "obs": null,
+            "pag": [
+              "1069-1075"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1993-01-16",
+            "pubLeg": "VI",
+            "pubNr": "30",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/030/1993-01-16/1069?pgs=1069-1075&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "F",
+        "titulo": "Decreto-lei n° 184/92, de 22 de Agosto que reestrutura o Secretariado Nacional de Reabilitação"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1993-01-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "11",
+                "nome": "Branco Malveiro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35738",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1074-1075"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-01-16",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/030/1993-01-16/1074?pgs=1074-1075&org=PLC"
+              }
+            ],
+            "sumario": "REESTRUTURACAO DO SECRETARIADO NACIONAL DE REABILITACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "617",
+                "nome": "Apolónia Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35739",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1074-1074"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-01-16",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/030/1993-01-16/1074?pgs=1074&org=PLC"
+              }
+            ],
+            "sumario": "REESTRUTURACAO DO SECRETARIADO NACIONAL DE REABILITACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "158",
+                "nome": "Armando Vara"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35740",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1074-1074"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-01-16",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/030/1993-01-16/1074?pgs=1074&org=PLC"
+              }
+            ],
+            "sumario": "REESTRUTURACAO DO SECRETARIADO NACIONAL DE REABILITACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "615",
+                "nome": "Raul Rêgo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35742",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1074-1074"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-01-16",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/030/1993-01-16/1074?pgs=1074&org=PLC"
+              }
+            ],
+            "sumario": "REESTRUTURACAO DO SECRETARIADO NACIONAL DE REABILITACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "158",
+                "nome": "Armando Vara"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35744",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1073-1073"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-01-16",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/030/1993-01-16/1073?pgs=1073&org=PLC"
+              }
+            ],
+            "sumario": "REESTRUTURACAO DO SECRETARIADO NACIONAL DE REABILITACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "226",
+                "nome": "Nogueira de Brito"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35745",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1073-1073"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-01-16",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/030/1993-01-16/1073?pgs=1073&org=PLC"
+              }
+            ],
+            "sumario": "REESTRUTURACAO DO SECRETARIADO NACIONAL DE REABILITACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "617",
+                "nome": "Apolónia Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35746",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1072-1073"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-01-16",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/030/1993-01-16/1072?pgs=1072-1073&org=PLC"
+              }
+            ],
+            "sumario": "REESTRUTURACAO DO SECRETARIADO NACIONAL DE REABILITACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35747",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1072-1072"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-01-16",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/030/1993-01-16/1072?pgs=1072&org=PLC"
+              }
+            ],
+            "sumario": "REESTRUTURACAO DO SECRETARIADO NACIONAL DE REABILITACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "205",
+                "nome": "Rui Cunha"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35748",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1072-1072"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-01-16",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/030/1993-01-16/1072?pgs=1072&org=PLC"
+              }
+            ],
+            "sumario": "REESTRUTURACAO DO SECRETARIADO NACIONAL DE REABILITACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "617",
+                "nome": "Apolónia Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35750",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1070-1071"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-01-16",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/030/1993-01-16/1070?pgs=1070-1071&org=PLC"
+              }
+            ],
+            "sumario": "REESTRUTURACAO DO SECRETARIADO NACIONAL DE REABILITACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "205",
+                "nome": "Rui Cunha"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35752",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1069-1070"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-01-16",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/030/1993-01-16/1069?pgs=1069-1070&org=PLC"
+              }
+            ],
+            "sumario": "REESTRUTURACAO DO SECRETARIADO NACIONAL DE REABILITACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  SEGURANÇA SOCIAL",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Vieira De Castro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "108290",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1071-1074"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-01-16",
+                "pubLeg": "VI",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/030/1993-01-16/1071?pgs=1071-1074&org=PLC"
+              }
+            ],
+            "sumario": "REESTRUTURACAO DO SECRETARIADO NACIONAL DE REABILITACAO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "96974",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "106815",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-01-16",
+        "pubLeg": "VI",
+        "pubNr": "30",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/030/1993-01-16?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
