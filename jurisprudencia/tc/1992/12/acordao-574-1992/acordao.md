@@ -1,0 +1,41 @@
+# Acórdão do Tribunal Constitucional n.º 574/1992, de 1992-12-15
+
+**Acórdão:** 574/92
+
+**Processo:** 214/92
+
+**Formação:** 1ª Secção
+
+**Espécie:** Recurso
+
+**Data:** 15.12.1992
+
+**Relator:** Cons. Tavares da Costa
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/acordaos/19920574.html
+
+## Texto integral
+
+ACÓRDÃO Nº 574/92
+
+Processo nº 214/92
+
+1ª Secção
+
+Rel. Cons. Tavares da Costa
+
+Acordam na 1ª Secção do Tribunal Constitucional
+
+Nos presentes autos em que é recorrente o Ministério Público e recorrido A., concordando-se com a expo­sição prévia oportunamente elabo­rada e tendo em con­ta os funda­mentos aduzidos no Acórdão deste Tribunal nº 331/92, publi­cado no Diário da República, II Série, de 14 de Novembro de 1992, decide-se não julgar inconstitucional a norma constante do artigo 9º, nº 1, do Decreto-Lei nº 154/91, de 23 de Abril, por si ou em conju­gação com o seu nº 2 e, em con­sequência, determinar a refor­ma da decisão impugnada em conformi­dade com o presente juízo so­bre a questão de constitucionalidade.
+
+Lisboa, 15 de Dezembro de 1992
+
+Alberto Tavares da Costa
+
+Vítor Nunes de Almeida
+
+Armindo Ribeiro Mendes
+
+Antero Alves Monteiro Dinis
+
+José Manuel Cardoso da Costa
