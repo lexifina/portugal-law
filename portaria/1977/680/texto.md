@@ -1,0 +1,32 @@
+Portaria n.º 680/77
+de 9 de Novembro
+A ervilha congelada entrou definitivamente na dieta alimentar dos Portugueses, tendo o seu consumo aumentado significativamente nos últimos anos.
+A procura do produto tem sido de tal ordem que obriga a recorrer sistematicamente à importação.
+Numa perspectiva de proceder à substituição de importações e de fomentar as actividades produtivas nacionais, os serviços oficiais têm realizado, nos últimos anos, campanhas de fomento da ervilha com base numa política de crédito adequada e de garantia dos preços à produção.
+Assim, para a campanha do corrente ano, o preço da ervilha verde, em grão, a granel, a fornecer à indústria transformadora foi fixado em 11$50/kg à porta da fábrica, com a possibilidade de ser acrescida a bonificação de $50/kg para qualidade e distância, nos termos da Portaria n.º 442/77, de 18 de Julho.
+Também foram fornecidas sementes seleccionadas à agricultura e facilitou-se o crédito à indústria.
+Contudo, a produção nacional de ervilha, acrescida das importações, tem sido inferior às necessidades do consumo, dando azo ao aparecimento de preços especulativos no consumidor sem qualquer benefício relevante para os agricultores.
+Com o intuito de fazer face à referida situação, decidiu o Governo fixar preços máximos de venda ao público da ervilha congelada.
+Nestes termos:
+Ao abrigo do disposto no artigo 2.º do Decreto-Lei n.º 45835, de 27 de Julho de 1964, e no artigo 1.º do Decreto-Lei n.º 75-Q/77, de 28 de Fevereiro:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno:
+1.º A ervilha congelada, quer de origem nacional, quer importada, fica sujeita ao regime de preços máximos a que se refere a alínea a) do n.º 1 do artigo 1.º do Decreto-Lei n.º 329-A/74, de 10 de Julho.
+2.º O preço máximo de venda ao público, as margens máximas de comercialização e o preço máximo de venda à porta da fábrica da ervilha congelada, quer de origem nacional, quer importada, são os constantes do quadro anexo à presente portaria.
+3.º É obrigatória a indicação, por forma bem legível, nas embalagens de ervilha congelada destinadas à venda ao público do seguinte:
+a) A designação «ervilha congelada»;
+b) O preço máximo de venda ao público;
+c) O peso líquido de cada embalagem;
+d) A designação da entidade embaladora;
+e) A data de embalamento;
+f) Instruções sumárias sobre a conservação do produto;
+g) Instruções sumárias sobre a descongelação do produto.
+4.º Fica proibida a venda ao público de ervilha congelada a granel.
+5.º As disposições da presente portaria aplicam-se apenas ao continente.
+6.º As dúvidas suscitadas na aplicação da presente portaria serão resolvidas por despacho do Secretário de Estado do Comércio Interno.
+7.º Esta portaria entra em vigor no dia seguinte ao da sua publicação.
+Secretaria de Estado do Comércio Interno, 17 de Outubro de 1977. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
+
+Quadro anexo
+Preços máximos de venda ao público, margens máximas de comercialização e preço máximo de venda à porta da fábrica da ervilha congelada, a que se refere o n.º 2.º
+(ver documento original)
+O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
