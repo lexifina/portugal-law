@@ -1,0 +1,3 @@
+Portaria n.º 24056
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, tendo-se ouvido a Direcção-Geral das Alfândegas e o Comando-Geral da Guarda Fiscal, que seja extinto o posto de despacho de Esposende e que passe a considerar-se habilitado a despachar com a competência limitada à cobrança do imposto de pescado o posto fiscal daquela localidade, devendo ser feitas as correspondentes rectificações nos mapas I e II anexos à Reforma Aduaneira, promulgada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, sob a rubrica «Alfândega do Porto».
+Ministério das Finanças, 3 de Maio de 1969. - Pelo Ministro das Finanças, Augusto Victor Coelho, Secretário de Estado do Orçamento.
