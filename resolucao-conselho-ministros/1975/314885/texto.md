@@ -1,0 +1,5 @@
+Resolução do Conselho de Ministros
+Considerando os termos do despacho conjunto de 1 de Abril de 1975 do Primeiro-Ministro e do Ministro da Comunicação Social que determina a constituição de uma comissão para apreciar a actual situação administrativa e financeira das empresas jornalísticas portuguesas e propor medidas que permitam, no mais breve prazo, introduzir na imprensa portuguesa a cargo do Estado a política de austeridade que o País inadiavelmente exige;
+Considerando os termos e as conclusões do relatório apresentado por aquela comissão:
+O Conselho de Ministros resolveu, ao abrigo e para os efeitos do n.º 4 do artigo 2.º do Decreto-Lei n.º 292/75, de 16 de Junho, declarar em crise o sector da imprensa diária a cargo do Estado, devendo as consequências desta declaração ser definidas em portaria conjunta dos Ministros para o Planeamento e Coordenação Económica, das Finanças, do Trabalho e da Comunicação Social.
+Presidência do Conselho de Ministros, 12 de Agosto de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
