@@ -1,0 +1,7 @@
+Portaria n.º 20035
+Considerando o que foi proposto pelo Governo da província de Timor, no sentido de ser reforçada a dotação atribuída no programa de execução do II Plano de Fomento a «Comunicações e transportes - Execução e apetrechamento do porto de Díli» de forma a suportar os encargos contratuais relativos à conclusão das obras em curso;
+Tendo em vista a autorização concedida pelo Conselho de Ministros para os Assuntos Económicos, em 16 de Julho findo:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos dos artigos 13.º e 16.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugados com o disposto no artigo 5.º do Decreto n.º 40712, de 1 de Agosto de 1956, que o Governo de Timor abra, tomando como contrapartida igual quantia a sair do subsídio da metrópole, autorizado pelo Decreto-Lei n.º 42479, de 31 de Agosto de 1959, um crédito especial de 10000000$00, destinado a reforçar a verba do capítulo 12.º, artigo 235.º, n.º II, n.º 2) «Plano de Fomento - Programa de execução da 2.ª fase - 1963 - Comunicações e transportes - Execução e apetrechamento do porto de Díli», da tabela de despesa extraordinária do orçamento geral em vigor.
+Ministério do Ultramar, 29 de Agosto de 1963. - Pelo Ministro do Ultramar, Mário Ângelo Morais de Oliveira, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial de Timor. - Mário de Oliveira.
