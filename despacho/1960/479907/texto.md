@@ -1,0 +1,3 @@
+Despacho
+Para os devidos efeitos se publica que, por despacho de S. Ex.ª o Secretário de Estado do Comércio de 30 de Dezembro de 1960, foi determinado que, para vigorarem de 1 de Janeiro a 31 de Março de 1961, sejam mantidos os preços de venda ao público dos combustíveis líquidos (gasolina, petróleo, gasóleo e fuel-oil), fixados pelo despacho de S. Ex.ª o Secretário de Estado do Comércio de 27 de Setembro de 1960, publicado no Diário do Governo n.º 242, 1.ª série, de 18 de Outubro de 1960.
+Direcção-Geral dos Combustíveis, 31 de Dezembro de 1960. - O Director-Geral, Francisco Gonçalves Cavaleiro de Ferreira.
