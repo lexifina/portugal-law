@@ -1,0 +1,8 @@
+Portaria n.º 354/70
+Em virtude das condições anormais que caracterizaram o mercado da prata durante a II Guerra Mundial, e no intuito de dotar a indústria com a matéria-prima necessária à sua laboração ameaçada de paralisar, os Grémios dos Industriais de Ourivesaria do Norte e do Sul efectuaram importações de regularização do abastecimento interno, cujos prejuízos eventuais o Governo autorizou fossem suportados mediante a cobrança temporária de uma taxa destinada a constituir o respectivo fundo de compensação. Trata-se de matéria regulada pelas Portarias n.os 10650, de 21 de Abril de 1944, 10660, de 11 de Maio de 1944, e 10867, de 15 de Fevereiro de 1945.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Economia e das Corporações e Previdência Social, o seguinte:
+1.º É extinta a taxa criada e mantida, respectivamente, pelas Portarias n.os 10650, de 21 de Abril de 1944, e 10867, de 15 de Fevereiro de 1945.
+2.º Os Grémios dos Industriais de Ourivesaria do Norte e do Sul submeterão à aprovação do Ministro das Corporações e Previdência Social as contas respeitantes a esta operação devidamente documentadas, nos termos do n.º 3 da Portaria n.º 10650, de 21 de Abril de 1944, no prazo máximo de noventa dias.
+3.º Ao saldo do fundo de compensação, se o houver, será dado o destino previsto no final do n.º 2 da Portaria n.º 10650, de 21 de Abril de 1944.
+Ministérios das Finanças, da Economia e das Corporações e Previdência Social, 15 de Julho de 1970. - O Ministro das Finanças e da Economia, João Augusto Dias Rosas. - O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.
