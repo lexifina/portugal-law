@@ -1,0 +1,5 @@
+Aviso n.º 33/95
+Por ordem superior se torna público que o representante permanente da República Portuguesa em Estrasburgo depositou junto do Secretário-Geral do Conselho da Europa, a 16 de Novembro de 1994, o instrumento de ratificação da Convenção Europeia para a Vigilância de Pessoas Condenadas ou Libertadas Condicionalmente, aberta à assinatura em Estrasburgo a 30 de Novembro de 1964, assinada por Portugal a 23 de Fevereiro de 1979 e aprovada, para ratificação, pela Resolução da Assembleia da República n.º 50/94, de 3 de Março, publicada no Diário da República, 1.ª série, n.º 186, de 12 de Agosto de 1994.
+A 16 de Novembro de 1994 eram os seguintes os Estados que ratificaram a referida Convenção: Áustria, Bélgica, França, Itália, Luxemburgo, Países Baixos, Eslovénia, Suécia, Croácia e antiga República Jugoslava da Macedónia.
+A Convenção Europeia para a Vigilância de Pessoas Condenadas ou Libertadas Condicionalmente entrará em vigor para Portugal a 17 de Fevereiro de 1995.
+Direcção-Geral dos Assuntos Multilaterais, 3 de Janeiro de 1995. - A Directora de Serviços das Organizações Políticas Internacionais, Ana Maria Marques Martinho.
