@@ -1,0 +1,9 @@
+Despacho Normativo n.º 227/81
+O Decreto-Lei n.º 191-C/79, de 25 de Junho, dispôs que tanto o ingresso nas várias carreiras de pessoal como o acesso às categorias superiores terão lugar mediante critérios ou métodos de selecção e que a regulamentação das respectivas provas será estabelecida em decreto regulamentar a publicar.
+Na ausência deste diploma regulamentar, e porque vários serviços deste Ministério têm necessidade inadiável de movimentar o seu pessoal, foi publicado, entretanto, e com carácter transitório, no Diário da República, 1.ª série, n.º 183, de 11 de Agosto de 1981, o Despacho Normativo n.º 199/81, aplicável aos quadros geridos pela Secretaria-Geral.
+Sem prejuízo do princípio de que as características especiais de cada departamento podem tornar conveniente a adopção de regulamentos próprios, estende-se, todavia, supletivamente, pelo presente despacho, a aplicabilidade a todos os serviços do Ministério do despacho normativo por que se regula a referida Secretaria-Geral.
+Nestes termos, determino o seguinte:
+1 - Enquanto não for publicado o decreto regulamentar a que se refere o artigo 3.º do Decreto-Lei n.º 191-C/79, de 25 de Junho, ou regulamento próprio de iniciativa dos serviços do Ministério da Indústria e Energia, é-lhes aplicável o Despacho Normativo n.º 199/81, publicado no Diário da República, 1.ª série, n.º 183, de 11 de Agosto de 1981, competindo aos respectivos dirigentes o que, naquele despacho normativo, é cometido ao secretário-geral.
+2 - Na aplicação do presente despacho normativo ao Laboratório Nacional de Engenharia e Tecnologia Industrial e ao Instituto de Apoio às Pequenas e Médias Empresas Industriais deve considerar-se salvaguardada a legislação específica destes organismos.
+3 - O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.
+Ministério da Indústria e Energia, 13 de Agosto de 1981. - O Ministro da Indústria e Energia, Ricardo Manuel Simões Bayão Horta.
