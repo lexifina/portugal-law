@@ -1,0 +1,1586 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "80",
+    "id": "3710",
+    "titulo": "Orçamento do Estado para 1994"
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "1993-11-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "331",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "1993-11-29",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "3711",
+        "leg": "VI",
+        "nr": "79",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "581",
+            "obs": null,
+            "pag": [
+              "533-540"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1993-11-30",
+            "pubLeg": "VI",
+            "pubNr": "17",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/533?pgs=533-540&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "P",
+        "titulo": "Grandes Opções do Plano para 1994"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1993-11-29",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "774",
+                "nome": "Paulo Trindade"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36730",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "545-545"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/545?pgs=545&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994: ART 22-A)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "131",
+                "nome": "Rui Carp"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36731",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "544-544"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/544?pgs=544&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994: ART NOVO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36732",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "543-543"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/543?pgs=543&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994: ART 35-A)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "131",
+                "nome": "Rui Carp"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36733",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "543-543"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/543?pgs=543&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994: ART 35-A)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36734",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "543-543"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/543?pgs=543&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994: ART 35-A)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "163",
+                "nome": "Eduardo Ferro Rodrigues"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36735",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "543-543"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/543?pgs=543&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994: ART 35-A)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36736",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "543-543"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/543?pgs=543&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994: ART 35-A)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36737",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "542-542"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/542?pgs=542&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994: ART NOVO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36738",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "542-542"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/542?pgs=542&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994: ART NOVO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "151",
+                "nome": "Domingues Azevedo"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36739",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "542-542"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/542?pgs=542&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994: ART NOVO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "832",
+                "nome": "Paulo Rodrigues"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36740",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "541-541"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/541?pgs=541&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994: ART 21-A) LEI DAS PROPINAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36741",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "540-540"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/540?pgs=540&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994: ART 21-A) LEI DAS PROPINAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36742",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "540-540"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/540?pgs=540&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994: ART 21-A) LEI DAS PROPINAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36743",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "539-540"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/539?pgs=539-540&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994: ART 21-A) LEI DAS PROPINAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "815",
+                "nome": "José Calçada"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36744",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "539-539"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/539?pgs=539&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994GRANDES OPCOES DO PLANO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "815",
+                "nome": "José Calçada"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36745",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "538-538"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/538?pgs=538&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994GRANDES OPCOES DO PLANO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "533",
+                "nome": "José Paulo Casaca"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36746",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "538-538"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/538?pgs=538&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994GRANDES OPCOES DO PLANO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "149",
+                "nome": "António Martinho"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36747",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "537-538"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/537?pgs=537-538&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994GRANDES OPCOES DO PLANO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36748",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "537-537"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/537?pgs=537&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994GRANDES OPCOES DO PLANO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "174",
+                "nome": "João Proença"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36749",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "537-537"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/537?pgs=537&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994GRANDES OPCOES DO PLANO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36750",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "535-536"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/535?pgs=535-536&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994GRANDES OPCOES DO PLANO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "131",
+                "nome": "Rui Carp"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36751",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "536-536"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/536?pgs=536&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994GRANDES OPCOES DO PLANO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "175",
+                "nome": "Ferraz de Abreu"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36752",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "536-536"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/536?pgs=536&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994GRANDES OPCOES DO PLANO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "774",
+                "nome": "Paulo Trindade"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36753",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "535-536"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/535?pgs=535-536&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994GRANDES OPCOES DO PLANO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "163",
+                "nome": "Eduardo Ferro Rodrigues"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36754",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "535-536"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/535?pgs=535-536&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994GRANDES OPCOES DO PLANO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "151",
+                "nome": "Domingues Azevedo"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36755",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "535-535"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/535?pgs=535&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994GRANDES OPCOES DO PLANO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "175",
+                "nome": "Ferraz de Abreu"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36756",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "534-535"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/534?pgs=534-535&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994GRANDES OPCOES DO PLANO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "533",
+                "nome": "José Paulo Casaca"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36757",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "534-534"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/534?pgs=534&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994GRANDES OPCOES DO PLANO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36758",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "534-534"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/534?pgs=534&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994GRANDES OPCOES DO PLANO 1994",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "194",
+                "nome": "Júlio Henriques"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36759",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "533-533"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-11-30",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30/533?pgs=533&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1994GRANDES OPCOES DO PLANO 1994",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "95608",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "106060",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-11-30",
+        "pubLeg": "VI",
+        "pubNr": "17",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/017/1993-11-30?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "106061",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-12-02",
+        "pubLeg": "VI",
+        "pubNr": "18",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/018/1993-12-02?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
