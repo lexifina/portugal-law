@@ -1,0 +1,12 @@
+Convénio
+Torna-se urgente dinamizar as estruturas actuais directamente ligadas ao desenvolvimento da política de ambiente e ordenamento biofísico do território na Região Autónoma dos Açores para a promoção de efectivas condições de melhor qualidade de vida para as suas populações.
+Essa política implica a realização de acções nos seguintes campos:
+O ordenamento biofísico do território, com vista ao estabelecimento de um plano dinâmico de aptidões do espaço físico regional que melhor possibilite o desenvolvimento económico e social e das infra-estruturas, minimizando o impacte sobre o ambiente;
+O combate às diferentes formas de degradação do meio ambiente;
+A gestão racional dos recursos naturais renováveis e não renováveis e a protecção dos factores fundamentais do ambiente: ar, água, solo, flora e fauna;
+A defesa das paisagens e do património cultural, como suportes de actividades de lazer e de cultura da população.
+As estruturas regionais de que os Açores dispõem para fazer face à política do ambiente são a Direcção Regional da Habitação, Urbanismo e Ambiente e a Comissão Regional de Ambiente, cujos meios técnicos e humanos são ainda insuficientes para alcançar os objectivos acima indicados.
+Desta forma, torna-se conveniente estabelecer relações de colaboração e intercâmbio entre os organismos da Secretaria de Estado do Ordenamento e Ambiente e da Secretaria Regional do Equipamento Social da Região Autónoma dos Açores, com o objectivo de obter a melhor utilização dos apoios técnicos, quer em meios humanos quer materiais, indispensáveis a uma adequada política de ambiente.
+Nestes termos, a Secretaria de Estado do Ordenamento e Ambiente e a Secretaria Regional do Equipagamento Social acordam na assinatura do presente convénio, com base no qual, sempre que necessário, serão desencadeadas acções de colaboração entre organismos das duas Secretarias para abordar problemas de interesse mútuo, acções que serão, em cada caso, objecto de protocolo específico a celebrar entre os organismos intervenientes.
+Esses protocolos dirão respeito aos projectos a realizar em cada ano e deverão ser propostos à aprovação superior.
+Presidência do Conselho de Ministros e Governo Regional dos Açores, 11 de Julho de 1980. - Pelo Primeiro-Ministro, Diogo Pinto de Freitas do Amaral. - O Secretário de Estado do Ordenamento e Ambiente, Aurora Margarida de Carvalho Santos Borges de Carvalho. - O Presidente do Governo Regional, João Bosco Mota Amaral. - O Secretário Regional do Equipamento Social, João Bernardo Pacheco Rodrigues.
