@@ -1,0 +1,12 @@
+Portaria n.º 21050
+Tendo sido atribuídas ao Instituto Hidrográfico as funções da extinta Direcção de Hidrografia e Navegação, e atendendo ao exposto nos artigos 8.º e 27.º do Regulamento do Serviço de Cartas, Publicações e Instrumentos Náuticos de Que Devem Ser Munidas as Embarcações Mercantes, de Pesca e de Recreio, aprovado pelo Decreto-Lei n.º 43015, de 8 de Junho de 1960:
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
+1.º A partir de 1 de Março de 1965, nas embarcações portuguesas não poderão ser instaladas agulhas magnéticas ou electromagnéticas, quer estas sejam de fabrico nacional, quer de fabrico estrangeiro, sem que tenham sido prèviamente submetidas a exame em banco de provas. Se as embarcações forem construídas no estrangeiro, este exame deverá ser efectuado na oportunidade mais conveniente e antes da primeira compensação realizada em Portugal.
+2.º O exame das agulhas será efectuado na sede do Instituto Hidrográfico, que procederá à selagem da caixa do morteiro e da bitácula e passará o respectivo certificado, no caso de merecerem aprovação.
+3.º Além do exame inicial a que se refere o n.º 1.º desta portaria, os morteiros das agulhas instaladas nas embarcações dos grupos c) e d) referidas no artigo 2.º do regulamento citado devem ser sujeitos a exame periódico, com um intervalo não superior a quatro anos.
+4.º O exame das bitáculas pode ser efectuado depois da sua instalação a bordo, se os planos que servirem para a sua construção forem prèviamente aprovados pelo Instituto Hidrográfico.
+5.º Para efeitos do estabelecido no n.º 4.º, os fornecedores de bitáculas podem solicitar ao Instituto Hidrográfico a aprovação dos planos de determinado tipo de bitácula, enviando, em duplicado, os desenhos e as descrições que permitam ajuizar perfeitamente todos os pormenores da construção. Para efeitos de referência, é necessário que em cada bitácula conste o nome do fabricante e a designação do tipo (letra, número, etc.).
+6.º Os morteiros das agulhas que já estiverem instaladas nas embarcações à data da publicação desta portaria devem ser submetidos a exame dentro do prazo de dois anos.
+7.º As remunerações devidas por estes serviços constituem alteração ao n.º 6 da tabela anexa à Portaria n.º 17786, que a seguir se discrimina:
+(ver documento original)
+Ministério da Marinha, 19 de Janeiro de 1965. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
