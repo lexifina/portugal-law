@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=htpYpETdXfgHmO4bgl5XKGQk%2bkZ1UWePwKPL0a952OEb3q68QQJu%2fuE3NuR8L9cT16ct5X3RKqJkceDCyhfVGNPxhHXgbN1eGmi%2f%2fdU0g60yGc2cs%2bn1DMAEwQhj%2bKKB5yX47cODyxeVMUfaXI003Z9keT2kp2rW%2f7kxaUXxrVSf%2brEumAdcCbsQWmtnV66GATPJkIrBDauZqW%2fTWFG8va1dk%2bkmTLKSlM5McQDTmE0NcJE1JnQKMHMv4M0dnjHF6CV6z0vn0bWDxqqYFeDaU5FrwkU826iJw3qNEXisf524qng2dAL%2fTUTvJ5%2b5vdrQNfCO0dMi3U4dP2xTk2nscBJCzFAYe7g9Oj019EJl5HstUW53s7KuzZRGevOeN9LIKt96NeIqRpBfgUg0UQzT5g%3d%3d&fich=RequerimentosVII_json.txt&Inline=true",
+  "ficheiro_sha256": "c4242ebf0e6e244b5787c9940684dff06969f806e8cf9a27eebd15d714e35117",
+  "legislatura": "VII",
+  "id": "19150",
+  "tipo": "Requerimento",
+  "numero": "957",
+  "data_registo": "1996-06-05",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "INQUERITO AO CENTRO DE ASSISTENCIA SOCIAL DE ESMORIZ",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "1488",
+        "nome": "Afonso Candal"
+      }
+    ],
+    "DataEnvio": "1996-06-08",
+    "Destinatarios": [
+      {
+        "dataEnvio": "1996-06-08",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Secretaria de Estado da Insercao Social",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": null,
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "1996-06-05",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a67324d6a5931595445324c544e6a4d3259744e444532597931684d446b334c5451355a6d466a59544d304d32526d595335775a47593d&fich=86265a16-3c3f-416c-a097-49faca343dfa.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "19150",
+    "Legislatura": "VII",
+    "Nr": "957",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "33390",
+        "obs": "114-(15)",
+        "pag": [
+          "114-(15)-114-(15)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "1996",
+        "pubLeg": "VII",
+        "pubNr": "26",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/01/026S1/1996-06-14/114-(15)?pgs=114-(15)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": [
+      {
+        "dataResposta": null,
+        "docRemetida": null,
+        "entidade": "Secretaria de Estado da Insercao Social",
+        "ficheiro": "",
+        "ficheiroComTipo": null,
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "166780",
+            "obs": "218-(54)",
+            "pag": [
+              "218-(54)-218-(54)"
+            ],
+            "pagFinalDiarioSupl": "2º Supl.",
+            "pubdt": "1996",
+            "pubLeg": "VII",
+            "pubNr": "35",
+            "pubSL": "1",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": "2º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/01/035S2/1996-09-28/218-(54)?pgs=218-(54)&org=PLC"
+          }
+        ]
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
