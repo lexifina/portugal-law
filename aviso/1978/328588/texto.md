@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Secretário-Geral da Organização das Nações Unidas, o Governo da República do Níger depositou, em 21 de Junho de 1978, os seus instrumentos de adesão ao Protocolo Facultativo da Convenção de Viena sobre Relações Consulares Relativo à Aquisição da Nacionalidade, celebrado em Viena em 24 de Abril de 1963, e ratificou o Protocolo Facultativo da Convenção de Viena sobre Relações Consulares Relativo à Resolução Obrigatória dos Diferendos, celebrado também em Viena na mesma data.
+Direcção-Geral dos Serviços Centrais, 13 de Setembro de 1978. - O Director-Geral, Francisco Grainha do Vale.
