@@ -1,0 +1,23 @@
+Portaria n.º 287-A/79
+de 20 de Junho
+Ao abrigo da alínea a) do n.º 1 do artigo 1.º do Decreto-Lei n.º 3/79, de 11 de Janeiro:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano e pelos Secretários de Estado da Presidência do Conselho de Ministros e da Administração Pública, o seguinte:
+Os cargos de secretário nacional e de secretário-adjunto do quadro de pessoal do Secretariado Nacional de Reabilitação são equiparados aos de director-geral e subdirector-geral, respectivamente.
+Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 6 de Abril de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Secretário de Estado da Presidência do Conselho de Ministros, José Guilherme Xavier de Basto. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.
+
+ANEXO
+Descrição dos conteúdos funcionais dos cargos de secretário nacional e de secretário-adjunto do Secretariado Nacional de Reabilitação
+I - Secretário nacional:
+1) Representar o Secretariado em juízo ou fora dele;
+2) Convocar e presidir, com voto de qualidade, ao Conselho Nacional de Reabilitação e ao conselho administrativo;
+3) Orientar a actividade do Secretariado, dirigir todos os serviços, assegurar a adopção das medidas necessárias à prossecução dos seus fins e, de um modo geral, garantir o desempenho das suas funções;
+4) Aprovar as instituições e regulamentos internos necessários ao bom funcionamento dos serviços;
+5) Exercer, relativamente ao pessoal do Secretariado, todos os poderes atribuídos na função pública aos directores-gerais quanto ao pessoal dos respectivos serviços;
+6) Autorizar despesas nos termos e até aos limites estabelecidos para os dirigentes dos organismos dotados de autonomia financeira e administrativa;
+7) Submeter à apreciação do Conselho Nacional de Reabilitação os programas e relatórios de actividades, o orçamento e a conta de gerência do Secretariado;
+8) Solicitar a comparência nas reuniões do Conselho Nacional de Reabilitação de representantes de instituições e serviços, sempre que a sua audição se revele útil em função das matérias a tratar;
+9) Promover, de acordo com a natureza dos assuntos a estudar, a participação de serviços, instituições e sectores profissionais;
+10) Submeter a despacho do Primeiro-Ministro os assuntos que requeiram a sua apreciação.
+II - Secretário-adjunto:
+Compete aos secretários-adjuntos coadjuvar o secretário nacional no exercício das suas funções, um dos quais o substituirá nas suas ausências e impedimentos, bem como exercer as competências que neles forem delegadas pelo secretário nacional - artigos 11.º e 12.º do Decreto-Lei n.º 346/77, de 20 de Agosto (Lei Orgânica do Secretariado Nacional de Reabilitação).
+O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.
