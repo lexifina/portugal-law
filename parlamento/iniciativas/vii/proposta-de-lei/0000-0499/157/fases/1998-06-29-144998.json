@@ -1,0 +1,541 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "157",
+    "id": "4699",
+    "titulo": "Altera o Código de Processo Penal."
+  },
+  "fase": "Votação requerimento avocação plenário",
+  "codigo_fase": "290",
+  "data_registo": "1998-06-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1846",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "290",
+    "Comissao": null,
+    "DataFase": "1998-06-29",
+    "EvtId": "16",
+    "Fase": "Votação requerimento avocação plenário",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1998-06-29",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51549",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3008-3019"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-30",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/086/1998-06-30/3008?pgs=3008-3019&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO DE PROCESSO PENAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "462",
+                "nome": "Alberto Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51550",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3008-3019"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-30",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/086/1998-06-30/3008?pgs=3008-3019&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO DE PROCESSO PENAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51551",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3008-3019"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-30",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/086/1998-06-30/3008?pgs=3008-3019&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO DE PROCESSO PENAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51558",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2999-3000"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-30",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/086/1998-06-30/2999?pgs=2999-3000&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO DE PROCESSO PENAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51559",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2998-3000"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-30",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/086/1998-06-30/2998?pgs=2998-3000&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO DE PROCESSO PENAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1447",
+                "nome": "Francisco Peixoto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51560",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2998-2998"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-30",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/086/1998-06-30/2998?pgs=2998&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO DE PROCESSO PENAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51561",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2997-2998",
+                  "3000-3000"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-30",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/086/1998-06-30/2997?pgs=2997-2998,3000&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO DE PROCESSO PENAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51562",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2997-2997"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-30",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/086/1998-06-30/2997?pgs=2997&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO DE PROCESSO PENAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51563",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2997-2997"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-30",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/086/1998-06-30/2997?pgs=2997&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O CODIGO DE PROCESSO PENAL",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "144998",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1846",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1998-06-30",
+        "pubLeg": "VII",
+        "pubNr": "86",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/086/1998-06-30?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": [
+      "PS",
+      "PSD"
+    ],
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1998-06-29",
+        "descricao": "requerimentos de avocação dos artº 40º, 86º e 391º-A - aprovada proposta de aditamento ao artº 40º e rejeitadas outras propostas de alteração",
+        "detalhe": null,
+        "id": "27658",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "172830",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-06-30",
+            "pubLeg": "VII",
+            "pubNr": "86",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/086/1998-06-30?org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "86",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
