@@ -1,0 +1,8 @@
+Portaria n.º 507/82
+de 21 de Maio
+Considerando que o Instituto Nacional de Emergência Médica, criado pelo Decreto-Lei n.º 234/81, de 3 de Agosto, é um organismo recente, cujo quadro de pessoal não se encontra preenchido por forma a dar cumprimento ao preceituado na alínea a) do n.º 2 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho;
+Considerando ser da máxima urgência preencher os lugares de director de serviços para uma actuação imediata deste organismo no âmbito das suas atribuições;
+Considerando que o Instituto Nacional de Emergência Médica desenvolve a sua actividade no campo da saúde e, como tal, aos titulares daqueles cargos deverá exigir-se uma formação profissional específica naquela área, tanto mais necessária pelo facto de os mesmos desempenharem funções de administração e gestão, porque vogais de conselho de direcção, nos termos dos artigos 5.º e 6.º do Decreto-Lei n.º 234/81, de 3 de Agosto;
+Considerando, finalmente, o disposto no n.º 4 do artigo 2.º do já referido Decreto-Lei n.º 191-F/79, de 26 de Junho:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado da Saúde e da Reforma Administrativa, alargar a área de recrutamento para o preenchimento de lugares de director de serviços do quadro de pessoal do Instituto Nacional de Emergência Médica, anexo ao Decreto-Lei n.º 234/81, de 3 de Agosto, a administradores hospitalares e a chefes de clínica.
+Secretarias de Estado da Saúde e da Reforma Administrativa, 5 de Maio de 1982. - O Secretário de Estado da Saúde, Adalberto Paulo da Fonseca Mendo. - O Secretário de Estado da Reforma Administrativa, António Jorge de Figueiredo Lopes.
