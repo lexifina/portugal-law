@@ -1,0 +1,40 @@
+# Informação-Parecer do Conselho Consultivo da Procuradoria-Geral da República n.º 28/1982, de 1982-03-19
+
+**Fonte:** https://www.ministeriopublico.pt/pareceres-pgr/7072
+
+**Número do Parecer:** 28/1982, de 19.03.1982
+
+**Data de Assinatura:** 19-03-1982
+
+**Tipo de Parecer:** Informação-Parecer
+
+**Iniciativa:** Governo
+
+**Entidade:** Ministério da Justiça
+
+**Relator:** LOPES ROCHA
+
+## Descritores
+
+TERRORISMO
+COMITE DE MINISTROS DO CONSELHO DA EUROPA
+COOPERAÇÃO INTERNACIONAL
+
+## Legislação
+
+L 19/81 DE 1981/08/18.
+L 24/81 DE 1981/08/22.
+
+## Referências Complementares
+
+DIR CRIM / DIR INT PUBL * TRATADOS.*****
+CONV EUR PARA A REPRESSÃO DO TERRORISMO DE 1981/12/14
+CONV EUR DE EXTRADIÇÃO CE PARIS 1957/12/13
+PROT AD CONV EUR DE EXTRADIÇÃO CE ESTRASBURGO 1975/10/15
+PROT AD CONV EUR DE EXTRADIÇÃO CE ESTRASBURGO 1978/03/17
+CONV EUR ENTREAJUDA JUDICIARIA EM MATERIA PENAL CE ESTRASBURGO 1959/04/20
+* CONT REF/COMP*****
+* CONT REFINT
+PROT AD CONV EUR ENTREAJUDA JUDICIARIA EM MATERIA PENAL CE ESTRASBURGO 1978/03/17
+CONV EUR TRANSMISSÃO PROCESSOS CRIMINAIS CE ESTRASBURGO 1972/05/15
+###
