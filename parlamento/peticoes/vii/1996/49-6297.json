@@ -1,0 +1,426 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=tKfXsA%2fENKNnp0LKqSGHXsjkrRl7S077Q3%2bDShtNlJSfDEIxb29heS60fekSU9Mh%2bOaOxN93u5lJXhXrF20O3GwJrwgX%2b0YU%2bhQwCIVqWOtg4qLdCOsovw17HpQ%2b61GwzRT0xyKc0H%2fa9DQdlP4PkB2kdgun9cM%2f%2fx7V2KVgyAwbUtpLdjftXVCgqJHGFNGYlFDP1m8Jzr0rp%2bkkIm21JfRb4lD2mU2lj506V%2fnSNSb2tR3%2bEDlK3FCGtu7ykpvS5%2bJJC%2frUbEM2mltYb1VfVOgZIDgJPPhSuZN2zIxPp9%2f2OdtvhAO8Vt2qGCJv%2bMWDKcdwAI%2fMSsLsMJfNmLa7xtfsjI6y%2ft3q%2btijdCCXBQfnO9%2b8PHRu402cRBtkKANn&fich=PeticoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "6041edea08a28f8315a7bbbffd2127aaa9493aac12482c88a108bc6b12f7d746",
+  "legislatura": "VII",
+  "id": "6297",
+  "numero": "49",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1996-05-21",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2000-06-16",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2000-06-16",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2000-07-14",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "27",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1996-07-17",
+            "gp": "PS",
+            "id": "159",
+            "motivoCessacao": null,
+            "nome": "Artur Penedos"
+          }
+        ],
+        "RelatorioFinal": [
+          "21445"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1996-07-17",
+        "DataArquivo": "2000-06-16",
+        "DataBaixaComissao": "1996-07-17",
+        "DataEnvioPAR": null,
+        "DataReaberta": "1996-07-17",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "23",
+        "Legislatura": "VII",
+        "Nome": "COMISSÃO DE TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1996-07-17",
+            "gp": "PS",
+            "id": "159",
+            "motivoCessacao": null,
+            "nome": "Artur Penedos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2001-01-03",
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2001-01-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135632",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1373-1374"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-04",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/034/2001-01-04/1373?pgs=1373-1374&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita a adopção de medidas de politica salarial e legislativa que garantam a estabilidade de emprego",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2001-01-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135633",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1374-1375"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-04",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/034/2001-01-04/1374?pgs=1374-1375&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita a adopção de medidas de politica salarial e legislativa que garantam a estabilidade de emprego",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2001-01-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135634",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1375-1375"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-04",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/034/2001-01-04/1375?pgs=1375&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita a adopção de medidas de politica salarial e legislativa que garantam a estabilidade de emprego",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2001-01-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135635",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1375-1376"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-04",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/034/2001-01-04/1375?pgs=1375-1376&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita a adopção de medidas de politica salarial e legislativa que garantam a estabilidade de emprego",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2001-01-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": "S.E.  DA  ADMINISTRAÇÃO PÚBLICA  E  DA  MODERNIZAÇÃO  ADMINISTRATIVA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Alexandre Rosa"
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135636",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1376-1377"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-04",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/034/2001-01-04/1376?pgs=1376-1377&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita a adopção de medidas de politica salarial e legislativa que garantam a estabilidade de emprego",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "6297",
+    "PetAssunto": "Solicita adopção de medidas de política salarial e medidas legislativas que garantam a estabilidade do emprego.",
+    "PetDataEntrada": "1996-05-21",
+    "PeticoesAssociadas": null,
+    "PetId": "6297",
+    "PetLeg": "VII",
+    "PetNr": "49",
+    "PetNrAssinaturas": "63314",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "121",
+        "obs": null,
+        "pag": [
+          "1373-1377"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-01-04",
+        "pubLeg": "VIII",
+        "pubNr": "34",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/034/2001-01-04/1373?pgs=1373-1377&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "121568",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-10-12",
+        "pubLeg": "VII",
+        "pubNr": "37",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/01/037/1996-10-12?org=PLC"
+      }
+    ]
+  }
+}
