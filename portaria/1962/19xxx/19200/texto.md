@@ -1,0 +1,11 @@
+Portaria n.º 19200
+As dúvidas suscitadas pela execução das Portarias n.os 17965 e 18460, de 23 de Setembro de 1960 e de 4 de Maio de 1961, respectivamente, que asseguram aos reformados por invalidez ou velhice das caixas sindicais de previdência e de reforma ou de previdência a concessão do abono de família nos mesmos termos que se estivessem na actividade, mostram ser conveniente esclarecer algumas das suas disposições, de harmonia com o disposto no § 1.º do artigo 3.º do Decreto-Lei n.º 33512, de 2 de Janeiro de 1944, com a nova redacção que lhe foi dada pelo recente Decreto-Lei n.º 44061, de 27 de Novembro de 1961.
+Com efeito, neste diploma legal reafirma-se o princípio, já exposto na citada Portaria n.º 18460, de ser conveniente ampliar a manutenção do direito ao abono de família a todos os pensionistas por invalidez e velhice, não apenas àqueles que de futuro venham a reformar-se.
+Com esse objectivo e tendo presente a utilidade de reunir numa única portaria toda esta matéria, a tanto se destina o presente diploma.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Previdência Social:
+1) É mantido o direito ao abono de família a todos os beneficiários das caixas sindicais de previdência e de reforma ou de previdência que beneficiem de pensões de velhice ou invalidez em relação aos familiares em favor dos quais auferiam abonos de família na altura em que passaram à situação de pensionistas.
+2) O disposto no número anterior não se aplica nos casos em que os pensionistas por invalidez ou velhice, por exercerem profissão remunerada, tenham direito ao abono de família por tal actividade.
+3) Os efeitos do disposto na presente portaria quanto ao pagamento do abono de família contam-se a partir de 1 de Janeiro de 1961.
+4) Ficam revogados os n.os 3.º, 4.º e 5.º da Portaria n.º 17965, de 23 de Setembro de 1960, e os n.os 1.º, 2.º e 5.º da Portaria n.º 18460, de 4 de Maio de 1961, no que respeita à manutenção do direito ao abono de família aos beneficiários reformados por invalidez ou velhice.
+Ministério das Corporações e Previdência Social, 24 de Maio de 1962. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.
