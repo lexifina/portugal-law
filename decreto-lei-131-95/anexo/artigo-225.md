@@ -2,7 +2,7 @@
 
 ### Forma das citações e notificações
 
-1 - A citação e a notificação são efectuadas nos termos da lei processual civil.
+1 - As citações e notificações podem fazer-se pessoalmente ou por carta registada e, quando devam ser feitas pessoalmente, podem sê-lo por termo no processo ou por mandado do conservador.
 
 2 - Se o citando ou notificando residir fora da área da conservatória, a diligência pode ser requisitada por meio de ofício precatório dirigido ao conservador competente.
 

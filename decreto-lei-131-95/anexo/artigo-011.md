@@ -2,26 +2,24 @@
 
 ### Conservatória dos Registos Centrais
 
-1 - Compete à Conservatória dos Registos Centrais lavrar os registos:
+1 - Compete à Conservatória dos Registos Centrais lavrar os seguintes registos:
 
-a) De nascimento, de declaração de maternidade e de perfilhação, respeitantes a portugueses, quando ocorridos no estrangeiro, com excepção dos nascimentos ocorridos em unidades de saúde no estrangeiro, ao abrigo de protocolo celebrado com o Estado Português;
+a) De todos os factos sujeitos a registo, respeitantes a portugueses, quando ocorridos no estrangeiro, salvo o disposto no n.º 1 do artigo 7.º;
 
-b) De nascimento ocorrido em viagem, a bordo de navio ou aeronave portugueses;
+b) De nascimento e de óbito ocorridos em viagem, a bordo de navio ou aeronave portugueses;
 
-c) Revogada;
+c) De casamento urgente contraído em campanha, no estrangeiro, por militares portugueses;
 
-d) Revogada;
+d) De casamento urgente, em viagem a bordo de navio ou aeronave portugueses, qualquer que seja a nacionalidade dos nubentes;
 
-e) Revogada;
+e) De transcrição de actos de registo, realizados no estrangeiro perante as autoridades locais, referentes a estrangeiros;
 
-f) Revogada;
+f) De transcrição das decisões proferidas pelos tribunais estrangeiros, nos termos do n.º 2 do artigo 7.º;
 
-g) Revogada;
+g) Em geral, de todos os factos sujeitos a registo para o qual não seja competente nenhuma outra conservatória do registo civil.
 
-h) De transcrição das decisões proferidas pelos tribunais estrangeiros, nos termos do n.º 2 do artigo 7.º;
+2 - Se os assentos correspondentes aos factos previstos na alínea a) do número anterior forem previamente lavrados pelos agentes diplomáticos ou consulares portugueses, compete à Conservatória dos Registos Centrais a integração desses assentos.
 
-i) Revogada.
+3 - Os actos relativos ao estado civil lavrados no estrangeiro, perante as autoridades locais, que devam ser averbados aos assentos das conservatórias do registo civil, são previamente registados, por meio de assento, na Conservatória dos Registos Centrais, exceptuados os casos previstos no n.º 1 do artigo 190.º
 
-2 - Compete também à Conservatória dos Registos Centrais a integração dos assentos correspondentes aos factos previstos na alínea a) do número anterior, nos termos do n.º 3 do artigo 5.º, se estes tiverem sido lavrados pelos agentes diplomáticos ou consulares portugueses.
-
-3 - Compete ainda à Conservatória dos Registos Centrais o registo, por meio de assento, das decisões judiciais que devam ser averbadas a assento de nascimento cujo registo não seja obrigatório.
+4 - O regime estabelecido no número anterior é aplicável às decisões judiciais que devam ser averbadas a assento de nascimento cujo registo não seja obrigatório.

@@ -1,17 +1,7 @@
 # Artigo 154.º
 
-### Intervenientes
+### Pessoas que devem intervir
 
-1 - No acto da celebração do casamento devem estar presentes os nubentes, ou um deles e o procurador do outro, e o conservador.
+1 - No acto da celebração do casamento devem estar presentes os nubentes ou um deles e o procurador do outro, o conservador e duas testemunhas.
 
-2 - No mesmo acto podem intervir entre duas a quatro testemunhas.
-
-3 - A presença de duas testemunhas é obrigatória sempre que a identidade de qualquer dos nubentes ou do procurador não seja verificada por uma das seguintes formas:
-
-a) Pelo conhecimento pessoal do conservador;
-
-b) Pela exibição dos respectivos documentos de identificação;
-
-c) Pela exibição do título ou autorização de residência, do passaporte ou documento equivalente, se os nubentes forem estrangeiros.
-
-4 - Considera-se celebrado na presença do funcionário do registo civil o casamento realizado perante quem, não tendo competência funcional para o acto, exerça publicamente as respectivas funções, salvo se ambos os nubentes conheciam, no momento da celebração, a falta daquela competência.
+2 - Considera-se celebrado na presença do funcionário do registo civil o casamento realizado perante quem, não tendo competência funcional para o acto, exerça publicamente as respectivas funções, salvo se ambos os nubentes conheciam, no momento da celebração, a falta daquela competência.

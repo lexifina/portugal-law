@@ -2,4 +2,4 @@
 
 ### Regime da nulidade
 
-A nulidade do registo só pode ser invocada depois de declarada por decisão do conservador.
+A nulidade do registo só pode ser invocada depois de declarada por decisão judicial.

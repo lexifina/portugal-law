@@ -2,10 +2,8 @@
 
 ### Averbamentos omissos
 
-1 - A omissão de averbamento deve ser suprida oficiosamente, qualquer que seja a data da verificação do facto a averbar, solicitando-se a remessa dos documentos necessários, se for caso disso.
+1 - A omissão de averbamento deve ser suprida oficiosamente, qualquer que seja a data da verificação do facto a averbar, solicitando-se a remessa dos boletins ou dos documentos necessários.
 
-2 - A omissão pode ser suprida por iniciativa dos interessados em face do documento que comprove o facto a averbar.
+2 - Se o averbamento omisso tiver de ser realizado noutra conservatória, deve a esta ser comunicada a omissão.
 
-3 - (Revogado.)
-
-4 - Para efeitos do disposto no número anterior, pode ser apresentada certidão do assento consular do casamento ou do óbito ocorrido no estrangeiro, ainda que não integrado nos termos do artigo 5.º
+3 - A omissão pode ser suprida por iniciativa dos interessados, mediante a apresentação de documento que comprove o facto a averbar, devendo, neste caso, ser comunicada a feitura do averbamento à conservatória onde são lançadas as cotas de referência.

@@ -6,12 +6,10 @@
 
 ### Fundamentos
 
-1 - O registo juridicamente inexistente, nulo ou irregular deve ser cancelado ou rectificado mediante processo de justificação ou por simples despacho do conservador.
+1 - O registo que enferme de alguma irregularidade, deficiência ou inexactidão que o não torne juridicamente inexistente ou nulo deve ser rectificado, por simples despacho do conservador ou mediante processo de justificação.
 
-2 - É obrigatória a promoção oficiosa da rectificação sempre que a irregularidade a sanar seja da responsabilidade dos serviços.
+2 - É obrigatória a promoção oficiosa da rectificação sempre que a irregularidade, deficiência ou inexactidão a sanar seja da responsabilidade dos serviços.
 
-3 - Se esta responsabilidade não existir, devem os interessados requerer a rectificação e, se o não fizerem, poderá a mesma ser promovida pelo conservador.
+3 - Se esta responsabilidade não existir, devem os interessados requerer a rectificação e, se o não fizerem, pode a mesma ser promovida pelo conservador, a expensas daqueles.
 
-4 - A rectificação é feita por averbamento.
-
-5 - Tratando-se de registo lavrado por inscrição, se a rectificação se mostrar necessária logo após a aposição do nome do funcionário, deve fazer-se imediatamente por meio de declaração lavrada pelo conservador ou oficial no seguimento do registo, com aposição do respectivo nome.
+4 - A rectificação é feita por averbamento, salvo se, tratando-se de registo lavrado por inscrição, se mostrar necessária logo após a assinatura deste, devendo fazer-se, neste caso, em acto contínuo, por meio de declaração lavrada pelo conservador no seguimento do registo, e assinada por ele e pelos demais intervenientes no acto.

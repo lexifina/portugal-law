@@ -6,7 +6,7 @@ Na sanção prevista no artigo anterior incorre o funcionário do registo civil 
 
 a) Der causa a que o casamento não se celebre ou a que o casamento católico não seja transcrito dentro do prazo legal, quando para isso não exista motivo justificado;
 
-b) Celebrar o casamento ou passar o certificado para a celebração do casamento católico sem prévia organização do processo de casamento;
+b) Celebrar o casamento ou passar o certificado para a celebração do casamento católico sem prévia organização do processo de publicações, salvo se a lei o permitir;
 
 c) Celebrar o casamento ou passar o certificado para a celebração do casamento católico depois de haver sido denunciado algum impedimento, enquanto a declaração não for considerada sem efeito, ou o impedimento não for julgado improcedente;
 

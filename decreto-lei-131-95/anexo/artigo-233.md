@@ -10,8 +10,8 @@
 
 ### Domínio de aplicação
 
-1 - O processo de justificação judicial é aplicável à rectificação de registo irregular nos termos do artigo 94.º e às situações de óbito ocorrido nos termos dos n.os 2 e 3 do artigo 204.º e dos artigos 207.º e 208.º
+1 - Ao suprimento da omissão do registo ou à sua reconstituição avulsa, bem como à declaração da sua inexistência jurídica ou nulidade, deve proceder-se mediante processo de justificação, que corre seus termos na conservatória detentora desse registo ou competente para o lavrar e julgado, a final, pelo juiz de direito da comarca.
 
-2 - O processo referido no número anterior é autuado, instruído e informado na conservatória requerida e é julgado no tribunal de 1.ª instância competente na área da circunscrição a que pertence a conservatória.
+2 - O processo de justificação é igualmente aplicável à rectificação das inexactidões, deficiências ou irregularidades do registo insanáveis por via administrativa, mas que o não tornem juridicamente inexistente ou nulo.
 
 3 - O disposto nos números anteriores não obsta a que o pedido de rectificação ou de cancelamento do registo seja formulado em acção de processo ordinário, cumulativamente com outro a que corresponda esta forma de processo, desde que dele seja dependente.

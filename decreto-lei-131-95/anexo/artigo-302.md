@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Emolumentos e demais encargos
-
 ## Capítulo V
 
 ## Disposições transitórias

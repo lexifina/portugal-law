@@ -1,14 +1,10 @@
-## Subsecção III
-
-## Consentimento para o casamento de menores
-
 # Artigo 150.º
 
 ### Forma de prestar o consentimento
 
 1 - O consentimento, prestado pessoalmente ou por procurador, pode revestir uma das formas seguintes:
 
-a) Auto lavrado por conservador ou oficial de registos;
+a) Auto lavrado por conservador ou ajudante;
 
 b) Auto lavrado por pároco, na presença de duas testemunhas;
 

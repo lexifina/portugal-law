@@ -1,4 +1,4 @@
-## Subsecção II
+## Subsecção III
 
 ## Averbamentos
 
@@ -6,6 +6,4 @@
 
 ### Averbamentos em geral
 
-1 - As alterações ao conteúdo dos assentos que devam ser registadas são lançadas na sequência do texto, por meio de averbamento.
-
-2 - (Revogado).
+As alterações ao conteúdo dos assentos que devam ser registadas são lançadas, à sua margem, por meio de averbamento.

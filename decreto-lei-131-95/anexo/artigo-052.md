@@ -12,4 +12,6 @@ c) Os assentos de nascimento e de óbito ocorridos em viagem a bordo de navio ou
 
 d) Os assentos de declaração de maternidade e de perfilhação, quando prestadas perante o funcionário do registo civil e não constem do registo de nascimento;
 
-e) Os assentos de casamento civil não urgente, celebrado em território português ou realizado no estrangeiro perante agente diplomático ou consular português.
+e) Os assentos de casamento civil não urgente, celebrado em território português ou realizado no estrangeiro perante agente diplomático ou consular português;
+
+f) Os assentos de morte fetal.

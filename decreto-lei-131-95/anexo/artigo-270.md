@@ -6,10 +6,8 @@
 
 a) De nascimento de estrangeiro nascido em território ao tempo considerado português;
 
-b) De óbito do cônjuge anterior, dentro do processo de casamento;
+b) De óbito do cônjuge anterior ou de algum dos pais do nubente menor, dentro do processo de casamento;
 
-c) (Revogado).
+c) De casamento dos pais do registando, dentro do processo a que se referem os artigos 283.º e seguintes.
 
 2 - A conservatória competente para a passagem dos certificados de notoriedade previstos no número anterior é aquela onde correrem os processos que os mesmos devam instruir.
-
-3 - Quando não haja processo a correr em qualquer conservatória do registo civil é competente para a passagem do certificado a Conservatória dos Registos Centrais.

@@ -2,10 +2,8 @@
 
 ### Prazo para a celebração
 
-1 - Se o despacho do conservador for favorável, o casamento deve celebrar-se dentro dos seis meses seguintes.
+1 - Se o despacho do conservador for favorável, o casamento deve celebrar-se dentro dos 90 dias seguintes.
 
-2 - Se o casamento não for celebrado no prazo referido no número anterior, o processo pode ser revalidado.
+2 - Se o casamento não for celebrado no prazo referido no número anterior, o processo pode ser revalidado mediante a junção dos documentos que tenham excedido o prazo de validade e nova afixação de editais.
 
-3 - Se os documentos de identificação referidos na alínea a) do n.º 1 do artigo 137.º tiverem excedido o prazo de validade, devem ser novamente apresentados.
-
-4 - A revalidação só pode ter lugar dentro do prazo de um ano contado da data do despacho final.
+3 - A revalidação só pode ter lugar dentro do prazo de um ano contado da data do despacho final.

@@ -1,7 +1,5 @@
 # Artigo 268.º
 
-### Diligências subsequentes
+### Termos ulteriores
 
-1 - Apresentada a petição e realizadas as diligências que se revelem necessárias à instrução do processo, o conservador defere ou indefere a passagem do certificado.
-
-2 - O acto previsto no número anterior é da exclusiva competência do conservador.
+Apresentada a petição, observa-se, na parte aplicável, o disposto nos artigos 263.º e seguintes.

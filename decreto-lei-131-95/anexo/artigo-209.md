@@ -4,13 +4,11 @@
 
 # Artigo 209.º
 
-### Depósito do certificado médico de morte fetal
+### Registo de morte fetal
 
-1 - Sempre que ocorrer morte fetal com tempo de gestação de 22 semanas ou superior deve ser apresentado e depositado em qualquer conservatória do registo civil o respectivo certificado médico.
+1 - O feto, com o tempo de gestação de 22 semanas ou superior, é registado no livro de assentos de morte fetal.
 
-2 - (Revogado).
-
-3 - O requerente do depósito deve ser ouvido em auto, nele devendo constar os seguintes elementos:
+2 - Do assento devem constar os seguintes elementos:
 
 a) Sexo;
 
@@ -20,8 +18,8 @@ c) Nome completo e residência habitual da parturiente e, sendo casada, o nome d
 
 d) Data e lugar do parto;
 
-e) Cemitério onde vai ser ou foi sepultado.
+e) Cemitério onde vai ser sepultado.
 
-4 - São aplicáveis ao depósito do certificado médico de morte fetal os preceitos relativos ao assento de óbito, com as necessárias adaptações.
+3 - São aplicáveis ao assento de morte fetal, com as necessárias adaptações, os preceitos relativos ao assento de óbito.
 
-5 - (Revogado).
+4 - O conteúdo do assento, salvo se a declaração for feita pela parturiente ou pelo marido, é, sempre que possível, comunicado a esta, por meio de carta registada.

@@ -9,5 +9,3 @@
 3 - Dos livros de extractos só podem ser extraídas certidões no caso de extravio ou destruição dos originais.
 
 4 - A requerimento escrito e fundamentado do interessado, pode o conservador autorizar a emissão de certidão de um registo cancelado.
-
-5 - No caso de registo cancelado decorrente de procedimento de mudança de sexo considera-se interessado apenas o próprio, os seus herdeiros e as autoridades judiciais ou policiais para efeitos de investigação ou instrução criminal.

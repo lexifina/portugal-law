@@ -1,19 +1,29 @@
 ## Capítulo IV
 
-## Suportes dos actos e sua reconstituição
+## Livros e arquivos
 
 ## Secção I
 
-## Suportes e reconstituição de actos e processos de registo
+## Livros de registo civil
 
 # Artigo 14.º
 
-### Suportes dos actos das conservatórias
+### Livros de assentos das conservatórias
 
-1 - Os actos e processos de registo civil, bem como os restantes procedimentos que corram termos nas conservatórias são lavrados em suporte informático, nos termos a regulamentar por portaria do membro do Governo responsável pela área da justiça.
+1 - Os livros das conservatórias do registo civil, especialmente destinados a actos de registo, são os seguintes:
 
-2 - As comunicações e notificações, a apresentação de requerimentos e pedidos e o envio de documentos previstos no presente Código podem ser efectuados por via electrónica, nos termos a regulamentar por portaria do membro do Governo responsável pela área da justiça.
+a) Livro de assentos de nascimento;
 
-3 - (Revogado).
+b) Livro de assentos de declaração de maternidade e de perfilhação;
 
-4 - (Revogado).
+c) Livro de assentos de casamento;
+
+d) Livro de assentos de óbito;
+
+e) Livro de assentos de morte fetal;
+
+f) Livro de transcrição de assentos.
+
+2 - Os livros referidos no número anterior podem ser desdobrados, sempre que o movimento da conservatória o justifique.
+
+3 - São anuais os livros de assentos de nascimento, de casamento e de óbito.

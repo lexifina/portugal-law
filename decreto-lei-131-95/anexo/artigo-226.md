@@ -8,7 +8,7 @@
 
 3 - Só é admitido um adiamento da inquirição por falta das testemunhas.
 
-4 - As testemunhas residentes fora da área da conservatória instrutora do processo são ouvidas, por ofício precatório, na conservatória da área da sua residência ou noutra conservatória por elas escolhida, salvo se a parte se obrigar a apresentá-las.
+4 - As testemunhas residentes fora da área da conservatória instrutora do processo são ouvidas, por ofício precatório, na conservatória da área da sua residência, salvo se a parte se obrigar a apresentá-las.
 
 5 - Os ofícios precatórios são acompanhados de cópia do requerimento ou da oposição e devem ser cumpridos e devolvidos dentro do prazo de 10 dias a contar da data da sua recepção.
 

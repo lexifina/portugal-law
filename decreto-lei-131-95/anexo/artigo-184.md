@@ -6,7 +6,7 @@
 
 ### Registo consular
 
-1 - O casamento celebrado no estrangeiro entre dois portugueses, ou entre português e estrangeiro, é registado no consulado competente.
+1 - O casamento celebrado no estrangeiro entre dois portugueses, ou entre português e estrangeiro, é registado no livro próprio do consulado competente.
 
 2 - O registo é lavrado por inscrição, nos termos dos artigos 180.º e seguintes, se o casamento for celebrado perante o agente diplomático ou consular português, e, nos outros casos, por transcrição do documento comprovativo do casamento, passado de harmonia com a lei do lugar da celebração.
 

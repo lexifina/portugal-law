@@ -1,11 +1,9 @@
 # Artigo 13.º
 
-### Intermediação com a Conservatória dos Registos Centrais
+### Conservatórias intermediárias
 
-1 - Os requerimentos, declarações e documentos para a instrução de actos e processos de registo destinados à Conservatória dos Registos Centrais podem ser apresentados por intermédio de qualquer conservatória do registo civil, a qual procede ao seu envio imediato, por via informática.
+1 - Os requerimentos e documentos para os actos de registo ou para a instrução dos respectivos processos podem ser apresentados directamente na conservatória competente ou por intermédio de qualquer outra conservatória.
 
-2 - As declarações previstas no número anterior são reduzidas a escrito, sendo lidas na presença simultânea de todos os intervenientes pelo conservador ou pelo oficial de registos da conservatória.
+2 - Igual regime é aplicável à prestação das declarações, incluindo as destinadas à realização de novos registos e à requisição de certidões.
 
-3 - Recebida a declaração, a Conservatória dos Registos Centrais lavra o respectivo assento, no prazo de um dia.
-
-4 - Se as declarações tiverem deficiências, a conservatória referida no número anterior solicita, de imediato, a sua rectificação aos interessados sem o pagamento de encargos adicionais, podendo a rectificação ser promovida em qualquer conservatória do registo civil.
+3 - Os autos de declarações, requerimentos e demais documentos apresentados nas conservatórias intermediárias devem ser enviados à conservatória competente no prazo de dois dias.

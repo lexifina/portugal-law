@@ -10,10 +10,8 @@ b) Identificação das partes e de outros intervenientes;
 
 c) Designação da conservatória e indicação do dia, mês e ano em que são lavrados;
 
-d) Menção de que as declarações que serviram de base ao assento foram prestadas perante oficial público;
+d) Assinatura das partes ou menção de que não sabem ou não podem assinar, assinatura das testemunhas, intérprete e procurador, se os houver, e do conservador, precedida da designação do cargo.
 
-e) Aposição do nome do conservador ou oficial de registos, precedida da designação do cargo ou categoria.
+2 - Quando não seja o conservador a subscrever o assento, a assinatura do funcionário que o substitui é precedida da indicação da respectiva categoria e da menção de que intervém em substituição legal.
 
-2 - A intervenção de intérprete e de procurador é mencionada no texto do assento, com indicação do nome completo.
-
-3 - (Revogado.)
+3 - A intervenção de intérprete e de procurador é mencionada no texto do assento, com indicação do nome completo.

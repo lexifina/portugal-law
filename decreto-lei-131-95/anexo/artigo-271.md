@@ -6,6 +6,4 @@
 
 ### Requerimento
 
-1 - O processo de divórcio ou de separação de pessoas e bens é instaurado mediante requerimento assinado pelos cônjuges ou seus procuradores, apresentado em qualquer conservatória do registo civil.
-
-2 - (Revogado).
+O processo de divórcio ou de separação de pessoas e bens é instaurado mediante requerimento dirigido ao conservador do registo civil da área da residência de um dos cônjuges e assinada por ambos ou pelos seus procuradores.

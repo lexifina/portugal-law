@@ -4,7 +4,7 @@
 
 1 - Organizado e instruído o processo, o conservador profere decisão fundamentada, de facto e de direito, sobre a concessão ou denegação da dispensa.
 
-2 - [Revogado.]
+2 - Se algum dos nubentes for menor, são ouvidos os pais ou o tutor, sempre que possível.
 
 3 - A decisão é da exclusiva competência do conservador.
 

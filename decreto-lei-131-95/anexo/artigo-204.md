@@ -8,7 +8,7 @@
 
 1 - Se em viagem a bordo de navio ou aeronave portugueses ocorrer algum falecimento, deve observar-se, com as necessárias adaptações, o disposto nos artigos 109.º e seguintes.
 
-2 - No caso de falecimento com queda à água ou no espaço, sem que o cadáver seja encontrado, a competente autoridade de bordo deve lavrar, na presença de duas testemunhas, um auto de ocorrência e remetê-lo a qualquer conservatória do registo civil, incumbindo a esta promover a respectiva justificação judicial.
+2 - No caso de falecimento com queda à água ou no espaço, sem que o cadáver seja encontrado, a competente autoridade de bordo deve lavrar, na presença de duas testemunhas, um auto da ocorrência e remetê-lo à Conservatória dos Registos Centrais, incumbindo a esta promover a respectiva justificação judicial.
 
 3 - Quando o óbito se verifique em pequenas embarcações, o auto da ocorrência é substituído por auto de averiguações lavrado na capitania competente.
 

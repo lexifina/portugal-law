@@ -6,10 +6,8 @@
 
 ### Elementos que as conservatórias devem fornecer
 
-1 - Aos funcionários do registo compete assegurar o registo e o envio dos dados relativos à actividade das conservatórias e à caracterização dos actos por estas praticados, designadamente os dados relativos aos assentos de nascimento, casamento, óbito, depósito de morte fetal, bem como os relativos aos processos de divórcio e separação de pessoas e bens por mútuo consentimento decididos nas conservatórias.
+1 - Aos funcionários do registo civil compete preencher, logo após a realização do registo, os verbetes estatísticos demográficos relativos aos assentos de nascimento, casamento, óbito e morte fetal.
 
-2 - O registo e o envio dos dados são efectuados de forma electrónica e automática, com observância das instruções emanadas dos serviços estatísticos competentes.
+2 - Os verbetes são enviados ao Instituto Nacional de Estatística, com observância das instruções emanadas deste organismo.
 
-3 - (Revogado).
-
-4 - (Revogado).
+3 - Nas conservatórias intermediárias são preenchidos verbetes provisórios dos nascimentos, óbitos e morte fetal aí declarados, os quais devem ser enviados, com os autos de declaração, às conservatórias competentes.
