@@ -1,0 +1,12 @@
+Portaria n.º 1012-L/82
+de 29 de Outubro
+Atendendo à reestruturação das carreiras do pessoal civil dos serviços departamentais das Forças Armadas levada a efeito pelo Decreto-Lei n.º 271/81, de 26 de Setembro, regulamentado pela Portaria n.º 962/81, de 10 de Novembro, torna-se necessário reajustar o quadro único do pessoal dos Serviços Prisionais Militares, aprovado pelo Decreto-Lei n.º 256/77, de 17 de Junho, na parte respeitante ao pessoal civil, por forma a adequá-lo aos princípios definidos naqueles diplomas.
+Nestes termos:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior-General das Forças Armadas e pelos Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea, nos termos do n.º 1 do artigo 18.º do Decreto-Lei n.º 271/81, de 26 de Setembro, o seguinte:
+1.º O quadro único dos Serviços Prisionais Militares, aprovado pelo Decreto-Lei n.º 256/77, de 17 de Junho, na parte respeitante ao pessoal civil, é o constante do quadro anexo ao presente diploma, que dele faz parte integrante.
+2.º Nas carreiras em que, por aplicação do disposto no n.º 20.º da Portaria n.º 962/81, de 10 de Novembro, se verifique a existência de supranumerários, o recrutamento para as categorias de ingresso só se verificará quando, no seu cômputo geral, o número de lugares fixados para as várias categorias dessas carreiras seja superior ao número de lugares ocupados acrescidos dos supranumerários que nelas subsistam.
+Estado-Maior-General das Forças Armadas, 20 de Outubro de 1982. - O Chefe do Estado-Maior-General das Forças Armadas Interino e Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante. - O Chefe do Estado-Maior do Exército Interino, José Lopes Alves, general.
+
+ANEXO
+Quadro do pessoal civil dos Serviços Prisionais Militares, nos termos do artigo 18.º do Decreto-Lei n.º 271/81, de 26 de Setembro
+(ver documento original)
