@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que o Despacho Normativo n.º 33-A/87, publicado no Diário da República, 1.ª série, n.º 76 (suplemento), de 1 de Abril de 1987, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Onde se lê «Convém, no entanto, distingui-las no tempo das que agora, e nestes termos, se determinam:» deve ler-se «Convém, no entanto, distingui-las no tempo das que agora, e nestes termos, no uso dos poderes delegados pelo Despacho do Primeiro-Ministro n.º 20/85, de 14 de Novembro, publicado no Diário da República, 2.ª série, de 23 de Novembro de 1985, e ao abrigo do disposto no artigo 40.º do Decreto-Lei n.º 333/81, de 7 de Dezembro, se determinam:».
+Secretaria-Geral da Presidência do Conselho de Ministros, 2 de Abril de 1987. - O Secretário-Geral, França Martins.
