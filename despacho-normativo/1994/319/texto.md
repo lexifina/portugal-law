@@ -1,0 +1,6 @@
+Despacho Normativo n.º 319/94
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6, 7 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma;
+Considerando que a licenciada Maria de Lurdes Carneiro Vieira da Silva Pereira Lopes, técnica superior do quadro de pessoal da Comissão de Coordenação da Região do Alentejo, em exercício de funções dirigentes, reúne os requisitos legais para acesso à categoria de assessor principal e requereu, ao abrigo do n.º 7 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, a criação do necessário lugar:
+Determina-se o seguinte:
+É criado no quadro de pessoal da Comissão de Coordenação da Região do Alentejo, a que se refere o mapa anexo XIX ao Decreto-Lei n.º 272/91, de 7 de Agosto, um lugar de assessor principal da carreira técnica superior, a extinguir quando vagar.
+Ministérios das Finanças e do Planeamento e da Administração do Território, 12 de Abril de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
