@@ -1,0 +1,11 @@
+Decreto-Lei n.º 47725
+Pelo Decreto-Lei n.º 47502, de 21 de Janeiro último, foram as câmaras municipais autorizadas a contratar com o Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas, criado pelo Decreto-Lei n.º 46893, de 9 de Março de 1966, a venda ou troca dos terrenos necessários a fins habitacionais.
+Não foi, porém, esclarecido que tais transacções se efectuariam com isenção de impostos, como acontece nos casos de cessões de terrenos ao referido Cofre efectuadas pelo Estado através do Ministério das Finanças, ao abrigo do disposto no § 1.º do artigo 2.º do citado Decreto-Lei n.º 47502.
+Dados os objectivos daqueles diplomas, em perfeita concordância com a política do Governo da Nação em relação aos servidores do Estado, impõe-se rever não só a omissão que se refere, como outras que de igual modo dificultam a acção do Cofre.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Ao Decreto-Lei n.º 47502, de 21 de Janeiro do corrente ano, é aditado o seguinte novo artigo:
+Art. 4.º O Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas está isento de custas e selos em todos os processos em que for parte ou interessado e de quaisquer emolumentos, taxas, contribuições ou impostos e beneficia de todas as facilidades conferidas por lei às instituições oficiais de assistência.
+§ único. O disposto no corpo deste artigo é aplicável aos processos em que o Cofre já teve intervenção.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 22 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
