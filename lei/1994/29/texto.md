@@ -1,0 +1,91 @@
+Lei n.º 29/94
+de 29 de Agosto
+Regime da prática do naturismo e da criação dos espaços de naturismo
+A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:
+Artigo 1.º
+Objecto
+A presente lei define o regime da prática do naturismo e da criação dos espaços de naturismo.
+Artigo 2.º
+Naturismo
+Entende-se por naturismo, para os efeitos da presente lei, o conjunto das práticas de vida ao ar livre em que é utilizado o nudismo como forma de desenvolvimento da saúde física e mental dos cidadãos, através da sua plena integração na Natureza.
+Artigo 3.º
+Prática do naturismo
+A prática do naturismo é permitida nos termos da presente lei, desde que desacompanhada de atitudes susceptíveis de provocarem escândalo.
+Artigo 4.º
+Espaços de naturismo
+São espaços de prática de naturismo as praias, campos, piscinas e unidades hoteleiras e similares em que é permitido o naturismo nos termos do presente diploma.
+Artigo 5.º
+Autorização
+1 - A autorização para utilização dos espaços de naturismo compete às assembleias municipais dos concelhos da sua localização, sob proposta da respectiva câmara municipal e tendo esta obtido parecer fundamentado da região de turismo ou da Direcção-Geral do Turismo, onde aquela não exista.
+2 - No caso de o espaço a utilizar se situar em mais de um município, o processo respectivo correrá na câmara municipal do concelho que abranja maior área desse espaço.
+3 - Nas Regiões Autónomas o parecer previsto no n.º 1 é emitido pelos correspondentes órgãos de governo próprio.
+Artigo 6.º
+Requerimento
+Os requerimentos para exploração naturista são apresentados na câmara municipal, contendo todos os elementos sobre a localização do espaço, forma de sinalização e, se for caso disso, fixação da época ou horário da sua utilização.
+Artigo 7.º
+Licenciamento
+1 - Nos casos em que a lei o imponha, os espaços de naturismo serão licenciados pela autoridade administrativa competente na respectiva área para o licenciamento de empreendimentos não naturistas de idêntica natureza.
+2 - Para os efeitos do número anterior a câmara municipal comunicará à entidade licenciadora a deliberação da assembleia municipal.
+Artigo 8.º
+Acesso aos espaços naturistas
+O acesso aos espaços de prática do naturismo é livre quando estes pertençam ao domínio público.
+Artigo 9.º
+Delimitação e sinalização
+Os espaços de prática de naturismo serão devidamente delimitados e sinalizados no limite ou principal acesso pela afixação de indicação, escrita ou figurativa, de se tratar de zona de naturismo.
+Artigo 10.º
+Organização dos espaços
+A organização dos espaços da prática do naturismo é da responsabilidade do titular da respectiva autorização ou licença.
+Artigo 11.º
+Praias
+1 - Em cada município poderá ser autorizada a utilização naturista de uma praia do litoral marítimo e de uma praia de margem de rio ou de lago, desde que, à data da respectiva deliberação da assembleia municipal, aqueles preencham simultaneamente os seguintes requisitos:
+a) Ofereçam, pelas suas condições naturais, isolamento adequado relativamente ao exterior;
+b) Guardar distância suficiente, em regra não inferior a 1500 m, do mais próximo aglomerado urbano, estabelecimento de ensino, colónia de férias, convento ou santuário em que, ainda que de forma intermitente, seja celebrado o culto religioso;
+c) ão esteja na sua área concessionado ou licenciado pelas autoridades competentes qualquer estabelecimento balnear.
+2 - A autorização para utilização naturista de praias situadas a menos de 1500 m de estabelecimentos hoteleiros ou de parques de campismo cuja localização esteja aprovada pela entidade competente à data da deliberação da assembleia municipal depende de prévio consentimento, por escrito, dos proprietários e exploradores daqueles estabelecimentos.
+Artigo 12.º
+Utilização
+A utilização de praias para a prática naturista é requerida e organizada por associações naturistas, por empresas turísticas, pelas entidades licenciadas para a exploração de actividade comercial na respectiva área ou ainda pela própria câmara municipal.
+Artigo 13.º
+Campos
+1 - Denominam-se «campos de naturismo» os parques de campismo destinados à prática naturista.
+2 - Os campos de naturismo serão vedados, de forma a impedir a intrusão visual do exterior.
+3 - Os campos de naturismo são reservados aos titulares de carta ou licença de naturista, emitida por organização nacional ou internacional devidamente registada.
+Artigo 14.º
+Utilização e licenciamento
+1 - A autorização de utilização como campos de aturismo de zonas demarcadas de parques de campismo públicos depende de requerimento da respectiva direcção.
+2 - A abertura dos campos de naturismo depende de licenciamento da câmara municipal, após vistoria.
+Artigo 15.º
+Piscinas
+1 - As piscinas abertas ao público podem ser exploradas em regime de permanência ou em períodos preestabelecidos, desde que reúnam as condições para a prática naturista.
+2 - Reúnem condições para a prática permanente do naturismo as piscinas localizadas em espaços naturistas e as instaladas ao ar livre com relativo isolamento do recinto em relação ao exterior.
+Artigo 16.º
+Utilização
+A autorização de utilização naturista das piscinas é requerida pela entidade proprietária ou exploradora, devendo o requerimento conter a descrição dos limites do recinto, a sinalização adoptada, o regulamento interno e ainda, sendo caso disso, a calendarização e o horário a adoptar.
+Artigo 17.º
+Unidades hoteleiras e similares
+1 - Os hotéis, aldeamentos turísticos e outros estabelecimentos hoteleiros e similares, ou suas partes individualizadas, devidamente legalizados, podem ser reservados à prática de naturismo, quando implantados em zonas que proporcionem uma plena integração na Natureza.
+2 - A prática de naturismo nestas unidades pode ser limitada a determinadas épocas do ano, a requerimento dos respectivos proprietários ou entidade exploradora.
+Artigo 18.º
+Licenças
+Nenhuma entidade pode recusar a passagem de licença da sua competência para a instalação e funcionamento dos espaços de naturismo, desde que tenham sido concedidas as necessárias autorizações.
+Artigo 19.º
+Dos prazos
+1 - As remessas, as comunicações e os pareceres para os quais a lei não fixe outros terão lugar num prazo de 30 dias.
+2 - A não emissão do parecer naquele prazo é entendida como inexistência de oposição ao solicitado.
+3 - O decurso do prazo de 60 dias sobre a entrada na câmara municipal do requerimento referido no artigo 6.º sem que a deliberação seja tomada equivale ao seu deferimento, para efeitos de prosseguimento do processo.
+Artigo 20.º
+Fiscalização
+A fiscalização do cumprimento da presente lei é da competência do Ministério do Ambiente e Recursos Naturais, da Direcção-Geral do Turismo, da Direcção-Geral de Saúde e das autoridades policiais.
+Artigo 21.º
+Encerramento ou suspensão
+As câmara municipais são ouvidas quando da legislação aplicável possa resultar o encerramento ou suspensão do funcionamento dos espaços autorizados ou licenciados em virtude da prática de infracções.
+Artigo 22.º
+Recurso
+Das deliberações ou actos dos órgãos ou entidades administrativas previstas nesta lei cabe reclamação ou recurso, nos termos gerais de direito.
+Aprovada em 7 de Julho de 1994.
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
+Promulgada em 5 de Agosto de 1994.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendada em 12 de Agosto de 1994.
+Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
