@@ -1,0 +1,32 @@
+Portaria n.º 20795
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, ao abrigo do § único do artigo 2.º do Decreto-Lei n.º 45900, de 1 de Setembro de 1964, o seguinte:
+1.º Para os efeitos da alínea c) do artigo 2.º do Decreto-Lei n.º 45900, de 1 de Setembro de 1964, será considerado «trigo rijo de grão claro» o «trigo rijo» (Triticum durum) de coloração entre amarelo-ambarino e amarelo-acastanhado.
+2.º Distinguem-se para este tipo de trigo três classes, que terão de satisfazer as condições a seguir indicadas quanto a grau de enrijamento do grão e pureza em relação a presença de grãos de outros tipos de trigo:
+a) Grau de enrijamento [determinado consoante a alínea c) do n.º 3.º desta portaria]:
+Classe A - Igual ou superior a 60 por cento;
+Classe B - Entre 40 e 59 por cento;
+Classe C - Inferior a 40 por cento.
+b) Grãos de outros tipos de trigo:
+1) O trigo que contiver mais de 10 por cento de grão de «trigo rijo escuro» será classificado como «trigo rijo de grão escuro ou comum»;
+2) O trigo das classes A e B poderá conter até 10 por cento de grãos de «trigo rijo escuro» (Triticum durum) e «mole» (Triticum aestivum);
+3) Quando o número dos grãos de trigo indicados na alínea anterior ultrapassar aquele limite, o trigo será classificado na classe C, desde que não se verifique a existência de mais de 10 por cento de grãos de «trigo rijo escuro».
+O trigo desta classe C poderá, assim, conter até 10 por cento de grãos de «trigo rijo escuro», independentemente da existência de «trigo mole».
+3.º Serão usados os seguintes métodos de análise e classificação do trigo:
+a) Procede-se à homogeneização da amostra, de modo a que o trigo a analisar corresponda bem ao lote que a amostra representa.
+b) Separam-se, em seguida, 100 grãos, de preferência utilizando um conta-grãos, e verifica-se a existência de grãos de «trigo rijo escuro» e «mole».
+Uma vez identificados, contam-se e agrupam-se em separado, atendendo-se, para fins de classificação, ao seguinte:
+1) Se o número de grãos de «trigo rijo escuro» é superior a 10 por cento, o trigo é classificado de «rijo de grão escuro ou comum».
+2) Será classificado de «rijo de grão claro» se esse limite não for ultrapassado.
+3) Para discriminação das classes A, B e C a atribuir ao «trigo rijo de grão claro» definido em 2), adicionam-se os grãos de «trigo rijo escuro» e «mole»;
+Se a soma não ultrapassar 10 por cento, o trigo será da classe A, desde que o grau de enrijamento não seja inferior a 60 por cento, sendo da classe B se o grau de enrijamento variar entre 40 e 59 por cento;
+Se a soma for superior a 10 por cento, o trigo terá de ser classificado na classe C, que abrange também todo o «trigo rijo de grão claro» de grau de enrijamento inferior a 40 por cento.
+c) Para determinação do grau de enrijamento cortam-se seguidamente os 100 grãos numa guilhotina e contam-se:
+1) Os grãos de fractura totalmente vítrea;
+2) Os grãos de fractura intermédia (vítrea-farinosa). Considera-se também neste tipo de fractura a que, não acusando zonas distintas vítreas e farinosas, apresenta uma superfície de corte homogénea mas sem o espelhamento característico do grão rijo;
+3) O grau de enrijamento (G. E.) será dado pela fórmula G. E. = A + 0,5B, sendo
+A - a percentagem de grãos de fractura totalmente vítrea, e
+B - a percentagem de grãos de fractura intermédia.
+d) Na análise para determinação da cor do trigo e fractura do grão, deve proceder-se a ensaios em duplicado, considerando-se como valores representativos a média das duas determinações.
+Se esses valores estiverem muito próximo dos limites que ficam definidos, deverá repetir-se a análise, e no caso de os resultados das duas não serem concordantes efectua-se uma terceira, considerando-se, então, como valores representativos as médias dos resultados das três análises.
+4.º O disposto nesta portaria aplica-se aos trigos da colheita de 1965, ficando, portanto, revogada a Portaria n.º 19956, de 20 de Julho de 1963.
+Secretaria de Estado do Comércio, 9 de Setembro de 1964. - O Secretário de Estado do Comércio, Armando Ramos de Paula Coelho.
