@@ -1,4 +1,4 @@
-# Artigo 524.º
+# Artigo 545.º
 
 ### (Equiparação ao Estado)
 

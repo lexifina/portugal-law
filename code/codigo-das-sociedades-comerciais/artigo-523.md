@@ -1,5 +1,5 @@
 # Artigo 523.º
 
-### (Perda de metade do capital)
+### Violação do dever de propor dissolução da sociedade ou redução do capital
 
-Enquanto não entrar em vigor o artigo 35.º desta lei, os credores de uma sociedade anónima podem requerer a sua dissolução, provando que, posteriormente à época dos seus contratos, metade do capital social está perdido, mas a sociedade pode opor-se à dissolução, sempre que dê as necessárias garantias de pagamento aos seus credores.
+O gerente, administrador ou director de sociedade que, verificando pelas contas de exercício estar perdida metade do capital, não der cumprimento ao disposto no artigo 35.º, n.os 1 e 2, deste Código será punido com prisão até três meses e multa até 90 dias.

@@ -1,5 +1,9 @@
 # Artigo 515.º
 
-### (Sociedades de revisores oficiais de contas exercendo funções de conselho fiscal)
+### Irregularidade na convocação de assembleias sociais
 
-As sociedades de revisores oficiais de contas que, ao abrigo do artigo 4.º do Decreto-Lei n.º 49381, de 15 de Novembro de 1969, estiverem, à data da entrada em vigor desta lei, a exercer funções de conselho fiscal manterão essas funções até que a sociedade tenha conselho fiscal ou conselho geral, devendo a respectiva eleição ser realizada até ao fim do ano civil seguinte ao da entrada em vigor desta Lei.
+1 - Aquele que, competindo-lhe convocar assembleia geral de sócios, assembleia especial de accionistas ou assembleia de obrigacionistas, omitir ou fizer omitir por outrem a convocação nos prazos da lei ou do contrato social, ou a fizer ou mandar fazer sem cumprimento dos prazos ou das formalidades estabelecidos pela lei ou pelo contrato social, será punido com multa até 30 dias.
+
+2 - Se tiver sido presente ao autor do facto, nos termos da lei ou do contrato social, requerimento de convocação de assembleia que devesse ser deferido, a pena será de multa até 90 dias.
+
+3 - Se for causado dano grave, material ou moral, e que o autor pudesse prever, a algum sócio que não tenha dado o seu assentimento para o facto, à sociedade, ou a terceiro, a pena será a da infidelidade.
