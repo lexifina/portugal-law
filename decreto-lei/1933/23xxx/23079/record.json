@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1933/10/22700/17101710.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1933-10-06",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "9e26bda5a567c2ce401375e5bcce363c1fc344826ada2bdd9a4d5548990657ce",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.5,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "f8396ec6261c5dfc533b8088b3e66ce5d9cb262ed1e4a9d045fb52c1a8134530",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 182
 }
