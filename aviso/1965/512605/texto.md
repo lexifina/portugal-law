@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação do Departamento de Estado Norte-Americano, o Governo do Uganda depositou a 15 de Abril de 1965 instrumento de adesão à Convenção sobre o trânsito rodoviário e seus anexos e Protocolo relativo aos países ou territórios actualmente ocupados e ao Protocolo sobre sinalização e avisos de estradas, concluídos em Genebra a 19 de Setembro de 1949.
+De harmonia com o disposto no seu artigo 29.º, a Convenção entrou em vigor para o Uganda 30 dias depois da data do depósito do instrumento de adesão, isto é, em 15 de Maio de 1965, e o Protocolo sobre sinalização de estradas e avisos em 15 de Julho de 1965.
+Direcção-Geral dos Negócios Económicos e Consulares, 12 de Novembro de 1965. - O Adjunto do Director-Geral, Fernando de Magalhães Cruz.
