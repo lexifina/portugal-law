@@ -1,0 +1,4 @@
+Despacho
+Nos termos do artigo 1.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional, declarar como adequada, para efeito de provimento nos lugares de fiscal-informador de obras particulares das câmaras municipais, a habilitação do curso de construtor civil, regulado pelo Decreto n.º 37029, de 25 de Agosto de 1948, ou de outro que, em organizações anteriores do ensino profissional, lhe corresponda.
+Na falta de candidatos com a referida habilitação, poderão ser providos nos mesmos lugares candidatos habilitados com o curso de topógrafo auxiliar de obras públicas ou de encarregado de obras.
+Presidência do Conselho, 13 de Março de 1962. - Pelo Presidente do Conselho, o Ministro de Estado, José Gonçalo da Cunha Sottomayor Correia de Oliveira.
