@@ -1,0 +1,507 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11200",
+  "numero": "8",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2002-06-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2002-11-06",
+            "dataResposta": "2002-12-06",
+            "entidades": [
+              "Câmara Municipal de Póvoa de Varzim"
+            ],
+            "nrOficio": "4457/DSC",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2002-11-06",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério Saúde"
+            ],
+            "nrOficio": "1192/COM",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2003-01-09",
+                "dataResposta": null,
+                "nrOficio": "1597/DSC",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2003-05-26",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2002-07-08",
+        "DataArquivo": "2003-06-03",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2003-06-17",
+        "DataReaberta": "2002-07-08",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2002-06-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764e46424d543152424c305276593356745a57353062334e515a585270593246764c325a6c4e57566c4d5455354c54526c596d55744e47566c597931694e6d59774c574d324e7a686a4e4441774d474d34597935775a47593d&fich=fe5ee159-4ebe-4eec-b6f0-c678c4000c8c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "105",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE PODER LOCAL, ORDENAMENTO DO TERRITÓRIO E AMBIENTE",
+        "NotasAdmissibilidade": null,
+        "Numero": "4",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2002-07-08",
+            "gp": "PSD",
+            "id": "1959",
+            "motivoCessacao": null,
+            "nome": "Diogo Luz"
+          }
+        ],
+        "RelatorioFinal": [
+          "21592"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2003-11-28",
+    "Documentos": [
+      {
+        "DataDocumento": "2002-06-20",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d764d446b315a6a4a6c4e546774596a637a5a4330305a6d49784c5749305a6a4174595459344d7a6469596a63784e6a45794c6e426b5a673d3d&fich=095f2e58-b73d-4fb1-b4f0-a6837bb71612.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2003-11-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147590",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1548-1548"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-29",
+                "pubLeg": "IX",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/026/2003-11-29/1548?pgs=1548&org=PLC"
+              }
+            ],
+            "Sumario": "Pagamento de estacionamento nos parques junto aos hospitais; regulamentação das profissões ligadas às medicinas não convencionais; extensão de saúde da Cruz de Pau, Amora; medidas do Estado para que assuma as suas responsabilidades perante o défice do fundo de pensões dos CTT ou o regresso dos trabalhadores à Caixa Geral de Aposentações",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-11-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147591",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1548-1549"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-29",
+                "pubLeg": "IX",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/026/2003-11-29/1548?pgs=1548-1549&org=PLC"
+              }
+            ],
+            "Sumario": "Pagamento de estacionamento nos parques junto aos hospitais; regulamentação das profissões ligadas às medicinas não convencionais; extensão de saúde da Cruz de Pau, Amora; medidas do Estado para que assuma as suas responsabilidades perante o défice do fundo de pensões dos CTT ou o regresso dos trabalhadores à Caixa Geral de Aposentações",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-11-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147592",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1549-1550"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-29",
+                "pubLeg": "IX",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/026/2003-11-29/1549?pgs=1549-1550&org=PLC"
+              }
+            ],
+            "Sumario": "Pagamento de estacionamento nos parques junto aos hospitais; regulamentação das profissões ligadas às medicinas não convencionais; extensão de saúde da Cruz de Pau, Amora; medidas do Estado para que assuma as suas responsabilidades perante o défice do fundo de pensões dos CTT ou o regresso dos trabalhadores à Caixa Geral de Aposentações",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-11-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147593",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1550-1551"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-29",
+                "pubLeg": "IX",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/026/2003-11-29/1550?pgs=1550-1551&org=PLC"
+              }
+            ],
+            "Sumario": "Pagamento de estacionamento nos parques junto aos hospitais; regulamentação das profissões ligadas às medicinas não convencionais; extensão de saúde da Cruz de Pau, Amora; medidas do Estado para que assuma as suas responsabilidades perante o défice do fundo de pensões dos CTT ou o regresso dos trabalhadores à Caixa Geral de Aposentações",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-11-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147594",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1551-1552"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-29",
+                "pubLeg": "IX",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/026/2003-11-29/1551?pgs=1551-1552&org=PLC"
+              }
+            ],
+            "Sumario": "Pagamento de estacionamento nos parques junto aos hospitais; regulamentação das profissões ligadas às medicinas não convencionais; extensão de saúde da Cruz de Pau, Amora; medidas do Estado para que assuma as suas responsabilidades perante o défice do fundo de pensões dos CTT ou o regresso dos trabalhadores à Caixa Geral de Aposentações",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-11-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147595",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1552-1553"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-29",
+                "pubLeg": "IX",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/026/2003-11-29/1552?pgs=1552-1553&org=PLC"
+              }
+            ],
+            "Sumario": "Pagamento de estacionamento nos parques junto aos hospitais; regulamentação das profissões ligadas às medicinas não convencionais; extensão de saúde da Cruz de Pau, Amora; medidas do Estado para que assuma as suas responsabilidades perante o défice do fundo de pensões dos CTT ou o regresso dos trabalhadores à Caixa Geral de Aposentações",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-11-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147596",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1553-1553"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-11-29",
+                "pubLeg": "IX",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/026/2003-11-29/1553?pgs=1553&org=PLC"
+              }
+            ],
+            "Sumario": "Pagamento de estacionamento nos parques junto aos hospitais; regulamentação das profissões ligadas às medicinas não convencionais; extensão de saúde da Cruz de Pau, Amora; medidas do Estado para que assuma as suas responsabilidades perante o défice do fundo de pensões dos CTT ou o regresso dos trabalhadores à Caixa Geral de Aposentações",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11200",
+    "PetAssunto": "Fim do pagamento das taxas de estacionamento nos parques situados junto dos hospitais.",
+    "PetDataEntrada": "2002-06-20",
+    "PeticoesAssociadas": null,
+    "PetId": "11200",
+    "PetLeg": "IX",
+    "PetNr": "8",
+    "PetNrAssinaturas": "4943",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "748",
+        "obs": null,
+        "pag": [
+          "1548-1553"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-11-29",
+        "pubLeg": "IX",
+        "pubNr": "26",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/026/2003-11-29/1548?pgs=1548-1553&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "272640",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": "2º Supl.",
+        "pubdt": "2002-08-03",
+        "pubLeg": "IX",
+        "pubNr": "10",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "2º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/010S2/2002-08-03?org=PLC"
+      }
+    ]
+  }
+}
