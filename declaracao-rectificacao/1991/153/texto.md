@@ -1,0 +1,9 @@
+Declaração de rectificação n.º 153/91
+Segundo comunicação do Ministério das Finanças, Direcção dos Serviços Gerais do Orçamento, da Direcção-Geral da Contabilidade Pública, a Declaração n.º 86/91, publicada no Diário da República, n.º 127, de 4 de Junho de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Em 02 - Ministério da Defesa Nacional, onde se lê «Cap. 05, div. 03» deve ler-se «Cap. 05, div. 03, subdiv. 01 - Despesas gerais da Força Aérea».
+Em 08 - Ministério da Justiça, onde se lê «Cap. 04, div. 01, C. F. 1.10.0» deve ler-se «Cap. 04, div. 01, C. F. 1.03.0».
+Em 10 - Ministério do Planeamento e da Administração do Território, onde se lê «Cap. 02, div. 01, subdiv. 02, C. F. 0.01.0, C. E. 04.01.03 - F» deve ler-se «Cap. 02, div. 01, subdiv. 02, C. F. 1.01.0, C. E. 04.01.03 - F».
+Em 11 - Ministério da Agricultura, Pescas e Alimentação, onde se lê «Cap. 01, div. 04, subdiv 01, C. F. 8.01.1, C. E. 01.01.07 - Gratificações» deve ler-se «Cap. 01, div. 04, subdiv. 01, C. F. 8.02.1, C. E. 01.01.07 - Gratificações» e onde se lê «Cap. 01, div. 05, subdiv. 01, C. F. 8.02.2, C. E. 02.03.02 - Abono de família» deve ler-se «Cap. 01, div. 05, subdiv. 01, C. F. 8.02.2, C. E. 01.03.02 - Abono de família».
+Em 14 - Ministério da Educação, onde se lê «Cap. 03, div. 16, subdiv. 11, C. F. 3.02.0, C. E. 01.01.01 - Pessoal além dos quadros» deve ler-se «Cap. 03, div. 16, subdiv. 11, C. F. 3.02.0, C. E. 01.01.02 - Pessoal além dos quadros».
+Em 15 - Ministério da Saúde, onde se lê «Cap. 03, div. 01, subdiv. 01, C. F. 4.01.0, C. E. 01.01.01 - Pessoal dos quadros - 2177 contos» deve ler-se «Cap. 03, div. 01, subdiv. 01 C. F. 4.01.0, C. E. 01.01.01 - Pessoal dos quadros - 2117 contos»
+Secretaria-Geral da Presidência do Conselho de Ministros, 27 de Junho de 1991. - O Secretário-Geral, França Martins.
