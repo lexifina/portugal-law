@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 3 de Junho de 1981, o Governo do Estado do Luxemburgo depositou, junto do Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, o instrumento de aceitação de adesão do Governo de Barbados à Convenção sobre a Obtenção de Provas no Estrangeiro em Matéria Civil e Comercial, concluída na Haia em 18 de Março de 1970, de que Portugal já é parte. Aquele instrumento diplomático entrará em vigor entre o Governo de Barbados e o do Luxemburgo em 4 de Agosto de 1981.
+Secretaria-Geral do Ministério, 30 de Julho de 1981. - O Director-Geral dos Serviços Jurídicos e de Tratados, Carlos Augusto Fernandes.
