@@ -1,0 +1,17 @@
+Resolução do Conselho de Ministros n.º 120/2004
+Sob proposta da Câmara Municipal, a Assembleia Municipal de Gondomar aprovou, em 28 de Abril de 2003, o Plano de Urbanização de São Pedro da Cova, no município de Gondomar.
+A elaboração do Plano de Urbanização de São Pedro da Cova decorreu na vigência do Decreto-Lei n.º 69/90, de 2 de Março, tendo sido cumpridas todas as formalidades legais, nomeadamente a discussão pública prevista no artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção conferida pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro.
+O município de Gondomar dispõe de Plano Director Municipal, ratificado pela Resolução do Conselho de Ministros n.º 48/95, de 18 de Maio.
+O presente Plano de Urbanização encontra-se sujeito a ratificação, na medida em que altera o Plano Director Municipal em vigor, nomeadamente no que respeita à delimitação da própria área de intervenção, à reclassificação do uso do solo de espaços não urbanizáveis para urbanizáveis com repercussões na edificabilidade permitida, à requalificação do uso do solo de espaços urbanos e urbanizáveis e por último à modificação de disposições regulamentares.
+Verifica-se a conformidade do Plano de Urbanização de São Pedro da Cova com as disposições legais e regulamentares em vigor, com excepção das disposições relativas à área predominantemente residencial de moradia unifamiliar, à área predominantemente residencial de habitação multifamiliar, à zona de construção condicionada, à zona industrial ou de armazenagem, à zona de equipamento e áreas verdes de recreio e à zona verde, compreendidas na área de sobreposição com a Rede Natura 2000 (sítio PTCON0024), identificada na planta de zonamento, uma vez que não se encontram definidas as medidas necessárias para a conservação dos valores para os quais o referido sítio foi designado.
+De referir ainda que a zona de indústria ou armazenagem condicionada não se encontra delimitada na planta de zonamento, pelo que os artigos 52.º e 53.º do Regulamento são objecto de exclusão de ratificação.
+O Plano de Urbanização foi objecto de parecer favorável da ex-Direcção Regional do Ambiente e do Ordenamento do Território - Norte.
+Considerando o disposto na alínea d) do n.º 3 e no n.º 8 do artigo 80.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção conferida pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro:
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Ratificar parcialmente o Plano de Urbanização de São Pedro da Cova, no município de Gondomar, cujo Regulamento, planta de zonamento e planta de condicionantes se publicam em anexo à presente resolução, dela fazendo parte integrante.
+2 - Excluir de ratificação as disposições relativas à área predominantemente residencial de moradia unifamiliar, à área predominantemente residencial de habitação multifamiliar, à zona de construção condicionada, à zona industrial ou de armazenagem, à zona de equipamento e áreas verdes de recreio e à zona verde, compreendidas na área de sobreposição com a Rede Natura 2000 (sítio PTCON0024), identificada na planta de zonamento, bem como os artigos 52.º e 53.º do Regulamento.
+3 - Na área de intervenção do presente instrumento de gestão territorial, ficam revogadas as disposições do Plano Director Municipal de Gondomar contrárias ao disposto no Plano de Urbanização.
+Presidência do Conselho de Ministros, 15 de Julho de 2004. - Pelo Primeiro-Ministro, Maria Manuela Dias Ferreira Leite.
+
+(ver plantas no documento original)
