@@ -1,0 +1,5 @@
+Aviso n.º 193/2003
+Por ordem superior se torna público que, em 7 de Maio e em 4 de Julho de 2003, foram emitidas notas, respectivamente pelo Ministério das Relações Exteriores da República Bolivariana da Venezuela e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, em que se comunica terem sido cumpridas as respectivas formalidades exigidas pela respectiva ordem jurídica interna de aprovação do Acordo entre a República Portuguesa e a República Bolivariana da Venezuela sobre Supressão de Vistos em Passaportes Diplomáticos, de Serviços e Especiais, assinado em Lisboa em 18 de Outubro de 2001.
+Por parte de Portugal, o Acordo foi aprovado pelo Decreto n.º 37/2002, do Governo, publicado no Diário da República, 1.ª série-A, n.º 262, de 13 de Novembro de 2002.
+Nos termos do artigo 12.º, n.º 1, do Acordo, este entrará em vigor no dia 4 de Agosto de 2003.
+Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas, 4 de Julho de 2003. - O Director-Geral, José Duarte Sequeira e Serpa.
