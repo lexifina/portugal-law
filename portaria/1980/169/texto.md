@@ -1,0 +1,61 @@
+Portaria n.º 169/80
+de 11 de Abril
+Nos termos do disposto no artigo 7.º do Decreto n.º 48689, de 16 de Novembro de 1968, com a redacção que lhe foi dada pela Portaria n.º 262/79, de 6 de Junho:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguinte:
+1.º A Direcção do Serviço de Saúde Naval (DSSN) é o organismo da Superintendência dos Serviços do Pessoal (SSP) que tem por missão tratar de todos os assuntos relativos à saúde do pessoal militar e militarizado da Marinha e às condições sanitárias e higiénicas das respectivas instalações.
+2.º A DSSN exerce também acção sobre o pessoal civil da Marinha nos termos das disposições próprias em vigor.
+3.º No âmbito da sua missão compete à DSSN:
+a) Definir e propor as grandes linhas da política da saúde da Marinha;
+b) Planear, organizar, orientar e fiscalizar do ponto de vista técnico os serviços de saúde dos comandos, forças, unidades e serviços;
+c) Emitir normas de saneamento de instalações e ambientes;
+d) Estudar e informar os assuntos que lhe são próprios;
+e) Estudar e fixar normas técnicas para aquisição de equipamento sanitário e orientar a sua distribuição pelos serviços de saúde da Marinha de acordo com as respectivas necessidades e prioridades, tendo em vista as verbas a esse fim destinadas;
+f) Estudar os tipos de alimentação a utilizar na Marinha em colaboração com a Direcção de Abastecimento e estabelecer as normas dietéticas a utilizar no Hospital da Marinha ou em outros estabelecimentos da Marinha;
+g) Colaborar num melhor aproveitamento comum de pessoal, instalações e equipamentos com os serviços de saúde dos outros ramos das forças armadas;
+h) Colaborar com a ADMA e com os SSFA no sentido de se tornar eficaz a assistência sanitária e social aos beneficiários.
+4.º A DSSN compreende:
+a) O director;
+b) O subdirector;
+c) A secretaria;
+d) A 1.ª Repartição;
+e) A 2.ª Repartição;
+f) A 3.ª Repartição.
+5.º No âmbito da DSSN e na dependência do seu director funcionam os seguintes órgãos:
+a) Junta de Saúde Naval;
+b) Hospital da Marinha;
+c) Laboratório de Análises Fármaco-Toxicológicas da Marinha.
+6.º Como órgão de consulta do director do Serviço de Saúde Naval funciona a Comissão Técnica de Saúde Naval (CTSN).
+7.º No âmbito da DSSN funciona ainda a Comissão de Revisão e Actualização das Tabelas de Medicamentos e Apósitos.
+8.º O director do Serviço de Saúde Naval é um contra-almirante da classe dos médicos navais, ao qual compete dirigir superiormente a DSSN e exercer os demais poderes que lhe são conferidos nos termos da lei em vigor, nomeadamente inspeccionar e fiscalizar, quer por sua iniciativa, quer por determinação do superintendente dos Serviços do Pessoal da Armada, e como seu delegado, os serviços de saúde dos comandos, forças, unidades e serviços da Marinha e observar as condições sanitárias e higiénicas das respectivas instalações.
+9.º A inspecção e fiscalização a que se refere o número anterior, quando deva recair sobre organismo comandado, chefiado ou dirigido por oficial mais antigo que o director do Serviço de Saúde Naval, será realizada por determinação do Chefe do Estado-Maior da Armada, com indicação do oficial que por sua delegação presidirá a essa diligência.
+10.º O director do Serviço de Saúde Naval poderá delegar nos oficiais sob as suas ordens a execução de tarefas exteriores relacionadas com a missão da DSSN.
+11.º O subdirector do Serviço de Saúde Naval é o mais antigo dos capitães-de-mar-e-guerra médicos ou farmacêuticos navais que prestam serviço na DSSN, competindo-lhe substituir o director nos seus impedimentos e desempenhar as funções que por ele lhe forem determinadas, em acumulação com as de chefe de uma das repartições.
+12.º À secretaria incumbe o registo e as demais tarefas que se prendem com o expediente da DSSN e ainda exercer em relação ao pessoal que na DSSN presta serviço as funções que normalmente competem às secretarias das unidades.
+13.º O chefe da secretaria é um oficial OT enfermeiro.
+14.º À 1.ª Repartição incumbe:
+a) Estudar e elaborar os projectos de diplomas relativos ao âmbito da saúde naval e bem assim manter actualizada a respectiva legislação;
+b) Estudar e informar os relatórios dos chefes dos serviços de saúde e autos de ocorrência por acidentes ou doenças adquiridas em serviço;
+c) Elaborar e manter actualizado o quadro de situação dos médicos navais, de acordo com as suas qualificações, com vista ao seu melhor aproveitamento;
+d) Elaborar instruções para os serviços de saúde dos comandos, forças, unidades, serviços e órgãos de execução de serviços;
+e) Emitir, directamente ou por delegação, certificados de vacinação de validade internacional ou outros documentos relativos ao SSN;
+f) Manter actualizado o sistema de registos sanitários individuais do pessoal da Armada;
+g) Estabelecer as normas de profilaxia e higiene a adoptar em tempo de paz e de guerra, particularmente no que respeita à guerra nuclear, biológica, química e psicológica.
+15.º O chefe da 1.ª Repartição é um capitão-de-mar-e-guerra da classe de médicos navais.
+16.º À 2.ª Repartição incumbe:
+a) Estudar todos os problemas relativos a material sanitário e instalações que respeitem ou interessem ao SSN;
+b) Estudar e informar os relatórios dos chefes dos serviços de saúde e autos de ocorrência por acidentes ou doenças adquiridas em serviço;
+c) Elaborar normas gerais sobre os procedimentos que devem ser adoptados no tratamento dos feridos em combate e na evacuação de baixas;
+d) Estudar os problemas relativos à obtenção, conservação, acondicionamento e transporte de material sanitário.
+17.º O chefe da 2.ª Repartição é um oficial superior da classe de médicos navais.
+18.º À 3.ª Repartição incumbe:
+a) Orientar e coordenar toda a actividade do âmbito farmacêutico naval, designadamente a que pertence ao Laboratório de Análises Fármaco-Toxicológicas da Marinha, à Farmácia do Hospital da Marinha e às delegações farmacêuticas;
+b) Estudar e elaborar os projectos de diplomas e regulamentos relativos à actividade farmacêutica naval e bem assim manter actualizada a respectiva legislação;
+c) Estudar todos os problemas relativos a rações alimentares, medicamentos, apósitos, formulários farmacêuticos e dietéticos que respeitem ou interessem ao SSN;
+d) Estudar os meios necessários para garantir o saneamento do meio ambiente das unidades;
+e) Estudar os problemas relativos à guerra nuclear, biológica e química que caibam dentro da sua especialidade;
+f) Estudar os problemas relativos à obtenção, conservação e distribuição de medicamentos e apósitos;
+g) Estudar todos os problemas relativos a material e instalações farmacêuticas que respeitem ou interessem ao SSN.
+19.º O chefe da 3.ª Repartição é um capitão-de-mar-e-guerra da classe de farmacêuticos navais.
+20.º A missão, composição e funcionamento da Junta de Saúde Naval, da Comissão Técnica de Saúde Naval e da Comissão de Revisão e Actualização das Tabelas de Medicamentos e Apósitos são, respectivamente, os fixados no Regulamento das Juntas Médicas da Armada e os que constarão de despacho próprio do Chefe do Estado-Maior da Armada.
+21.º A missão, organização e funcionamento do Hospital da Marinha e do Laboratório de Análises Fármaco-Toxicológicas da Marinha são fixados nos regulamentos respectivos a aprovar por despacho do Chefe do Estado-Maior da Armada.
+Estado-Maior da Armada, 26 de Março de 1980. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante.
