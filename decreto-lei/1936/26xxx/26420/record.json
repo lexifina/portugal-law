@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/03/06100/03030304.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-03-14",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "813569403c256c6988e8ea2fb6646c2a391c558c120e98f6136ffb50e4e4f8df",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.0,
+    "pages": 2,
+    "columns": [
+      3,
+      4
+    ],
+    "pdf_sha256": "b16856b046a9a420ad79f33e56f55999e80adf59fe389f91d3dc97df92fa6f9a",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 447
 }
