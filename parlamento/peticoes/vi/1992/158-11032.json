@@ -1,0 +1,371 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jvMQgL4qeojTXYc%2byhcz5p3ic3xODuK0iUO0Y2y2ClcTtFB9k3sD%2b9wQveZYSd8NZLsCb9yzJniqsFTagd7CbMNr9RiU3i%2bk3rmuobGx84PbCdMXEaO2tAt4ls9fukmsItoX60VYYqS8JyucRXeNK4DfI799g%2blbezfSJpZ8w7%2baZYMBqfv1VesnUx6bJSW47suQTEZztwlqhsheF%2fV6CayXq9XylkeKBdMS4k0WpFeGsJUrYs53Ga%2fzv4nbFZSlZiCimHdTEOsH%2b%2fNcwjWayb61QyVSstj3ODN9XM8DB46f%2bPQ7wSP1KSIrsnu6vc0NN5UqeG88nqFw4kPOlzPTpz7DVHur%2fsRBhn0B8NlVzMX2nw7jDBVCKY54B7pyG%2fWe&fich=PeticoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "a0b19d1767819df1af646741c024bf367ae6532369315672414b384340a05bf4",
+  "legislatura": "VI",
+  "id": "11032",
+  "numero": "158",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1992-10-28",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "1993-11-02",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1993-01-06",
+        "DataArquivo": "1993-11-02",
+        "DataBaixaComissao": "1993-10-12",
+        "DataEnvioPAR": "1993-12-07",
+        "DataReaberta": "1993-01-06",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4",
+        "Legislatura": "VI",
+        "Nome": "COMISSÃO PETIÇÕES",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "1993-11-02",
+            "dataNomeacao": "1993-10-12",
+            "gp": "PSD",
+            "id": "8",
+            "motivoCessacao": null,
+            "nome": "Álvaro Viegas"
+          }
+        ],
+        "RelatorioFinal": [
+          "21074"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "1994-02-23",
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "1994-02-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "38482",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1347-1349"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-02-24",
+                "pubLeg": "VI",
+                "pubNr": "40",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/040/1994-02-24/1347?pgs=1347-1349&org=PLC"
+              }
+            ],
+            "Sumario": "NAO RESIDENTES: PRETENDEM RECONHECIMENTO DOS SEUS DIREITOSNA CONSTITUICAO E LEIS ELEITORAIS",
+            "Teor": "INTERVEM NO DEBATE "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1994-02-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "38483",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1346-1347"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-02-24",
+                "pubLeg": "VI",
+                "pubNr": "40",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/040/1994-02-24/1346?pgs=1346-1347&org=PLC"
+              }
+            ],
+            "Sumario": "NAO RESIDENTES: PRETENDEM RECONHECIMENTO DOS SEUS DIREITOSNA CONSTITUICAO E LEIS ELEITORAIS",
+            "Teor": "INTERVEM NO DEBATE "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1994-02-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "38484",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1345-1346"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-02-24",
+                "pubLeg": "VI",
+                "pubNr": "40",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/040/1994-02-24/1345?pgs=1345-1346&org=PLC"
+              }
+            ],
+            "Sumario": "NAO RESIDENTES: PRETENDEM RECONHECIMENTO DOS SEUS DIREITOSNA CONSTITUICAO E LEIS ELEITORAIS",
+            "Teor": "INTERVEM NO DEBATE "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1994-02-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "38485",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1344-1345"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-02-24",
+                "pubLeg": "VI",
+                "pubNr": "40",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/040/1994-02-24/1344?pgs=1344-1345&org=PLC"
+              }
+            ],
+            "Sumario": "NAO RESIDENTES: PRETENDEM RECONHECIMENTO DOS SEUS DIREITOSNA CONSTITUICAO E LEIS ELEITORAIS",
+            "Teor": "INTERVEM NO DEBATE "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1994-02-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "38486",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1342-1344"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-02-24",
+                "pubLeg": "VI",
+                "pubNr": "40",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/040/1994-02-24/1342?pgs=1342-1344&org=PLC"
+              }
+            ],
+            "Sumario": "NAO RESIDENTES: PRETENDEM RECONHECIMENTO DOS SEUS DIREITOSNA CONSTITUICAO E LEIS ELEITORAIS",
+            "Teor": "INTERVEM NO DEBATE "
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11032",
+    "PetAssunto": "Solicitam reconhecimento na Constituição e nas leis eleitorais, os direitos constitucionais e políticos dos portugueses residentes no estrangeiro, sem esquecer a importância do direito à igualdade de tratamento nos aspectos culturais, sociais e económicos.",
+    "PetDataEntrada": "1992-10-28",
+    "PeticoesAssociadas": null,
+    "PetId": "11032",
+    "PetLeg": "VI",
+    "PetNr": "158",
+    "PetNrAssinaturas": "10524",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "Petiçao apensa a 141/VI/1a.",
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "597",
+        "obs": null,
+        "pag": [
+          "1342-1349"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1994-02-24",
+        "pubLeg": "VI",
+        "pubNr": "40",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/040/1994-02-24/1342?pgs=1342-1349&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "169535",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-01-29",
+        "pubLeg": "VI",
+        "pubNr": "14",
+        "pubSL": "2",
+        "pubTipo": "DAR II série C",
+        "pubTp": "C",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2c/06/02/014/1993-01-29?org=PLC"
+      }
+    ]
+  }
+}
