@@ -1,0 +1,3 @@
+Despacho Normativo n.º 144/77
+Tendo em atenção que as compras de fabricantes estrangeiros nos mercados internacionais não se processam sempre directamente, mas, por vezes, através de empresas do grupo em que se integram (holding), determina-se que a expressão «fabricante estrangeiro», constante da nova redacção do n.º 4.º da Portaria n.º 99-A/77, abranja não só o fabricante fornecedor, mas também a empresa do grupo através da qual procede às aquisições destinadas às suas unidades industriais.
+Ministérios das Finanças e do Comércio e Turismo, 3 de Junho de 1977. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro do Comércio e Turismo, Carlos Alberto da Mota Pinto.
