@@ -1,0 +1,4 @@
+Portaria n.º 20079
+Atendendo ao que foi proposto pela Comissão Venatória Regional do Norte, nos termos do n.º 11.º acrescentado ao artigo 55.º do Decreto n.º 23461, de 17 de Janeiro de 1934, pelo Decreto n.º 24441, de 30 de Agosto do mesmo ano:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, que, na presente época venatória, no concelho de Penafiel seja proibida a caça da perdiz; no concelho de Vila Nova de Gaia seja proibida a caça da perdiz, na área situada a poente da estrada nacional n.º 222, de Gaia, Avintes, Sandim a Canedo até ao litoral, por motivo de repovoamento; no concelho de Amares o encerramento do período de caça à perdiz seja antecipado para o dia 30 de Novembro.
+Secretaria de Estado da Agricultura, 20 de Setembro de 1963. - O Secretário de Estado da Agricultura, Luís Le Cocq de Albuquerque de Azevedo Coutinho.
