@@ -1,0 +1,494 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "37",
+    "id": "5960",
+    "titulo": "Autoriza o Governo a aprovar um regime jurídico para a concessão intermunicipal do serviço público de gestão urbana de uma área compreendida nos limites da zona de intervenção da Exposição Mundial de Lisboa (EXPO98)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-01-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1583",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-01-04",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-01-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "José Magalhães"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135741",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1442-1442"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-05",
+                "pubLeg": "VIII",
+                "pubNr": "35",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/035/2001-01-05/1442?pgs=1442&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A APROVAR UM REGIME JURIDICO PARA A CONCESSAO INTERMUNICIPAL DO SERVIÇO PUBLICO DE GESTAO URBANA DE UMA AREA COMPREENDIDA NOS LIMITES DA ZONA DE INTERVENCAO DA EXPOSICAO MUNDIAL DE LISBOA(EXPO98)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  AMBIENTE",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Goncalves"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135742",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1442-1445",
+                  "1449-1450"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-05",
+                "pubLeg": "VIII",
+                "pubNr": "35",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/035/2001-01-05/1442?pgs=1442-1445,1449-1450&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A APROVAR UM REGIME JURIDICO PARA A CONCESSAO INTERMUNICIPAL DO SERVIÇO PUBLICO DE GESTAO URBANA DE UMA AREA COMPREENDIDA NOS LIMITES DA ZONA DE INTERVENCAO DA EXPOSICAO MUNDIAL DE LISBOA(EXPO98)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1639",
+                "nome": "José Eduardo Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135743",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1443-1443"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-05",
+                "pubLeg": "VIII",
+                "pubNr": "35",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/035/2001-01-05/1443?pgs=1443&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A APROVAR UM REGIME JURIDICO PARA A CONCESSAO INTERMUNICIPAL DO SERVIÇO PUBLICO DE GESTAO URBANA DE UMA AREA COMPREENDIDA NOS LIMITES DA ZONA DE INTERVENCAO DA EXPOSICAO MUNDIAL DE LISBOA(EXPO98)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135744",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1443-1444"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-05",
+                "pubLeg": "VIII",
+                "pubNr": "35",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/035/2001-01-05/1443?pgs=1443-1444&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A APROVAR UM REGIME JURIDICO PARA A CONCESSAO INTERMUNICIPAL DO SERVIÇO PUBLICO DE GESTAO URBANA DE UMA AREA COMPREENDIDA NOS LIMITES DA ZONA DE INTERVENCAO DA EXPOSICAO MUNDIAL DE LISBOA(EXPO98)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135745",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1445-1445"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-05",
+                "pubLeg": "VIII",
+                "pubNr": "35",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/035/2001-01-05/1445?pgs=1445&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A APROVAR UM REGIME JURIDICO PARA A CONCESSAO INTERMUNICIPAL DO SERVIÇO PUBLICO DE GESTAO URBANA DE UMA AREA COMPREENDIDA NOS LIMITES DA ZONA DE INTERVENCAO DA EXPOSICAO MUNDIAL DE LISBOA(EXPO98)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1552",
+                "nome": "Margarida Rocha Gariso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135746",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1445-1446"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-05",
+                "pubLeg": "VIII",
+                "pubNr": "35",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/035/2001-01-05/1445?pgs=1445-1446&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A APROVAR UM REGIME JURIDICO PARA A CONCESSAO INTERMUNICIPAL DO SERVIÇO PUBLICO DE GESTAO URBANA DE UMA AREA COMPREENDIDA NOS LIMITES DA ZONA DE INTERVENCAO DA EXPOSICAO MUNDIAL DE LISBOA(EXPO98)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1639",
+                "nome": "José Eduardo Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135747",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1446-1447"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-05",
+                "pubLeg": "VIII",
+                "pubNr": "35",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/035/2001-01-05/1446?pgs=1446-1447&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A APROVAR UM REGIME JURIDICO PARA A CONCESSAO INTERMUNICIPAL DO SERVIÇO PUBLICO DE GESTAO URBANA DE UMA AREA COMPREENDIDA NOS LIMITES DA ZONA DE INTERVENCAO DA EXPOSICAO MUNDIAL DE LISBOA(EXPO98)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1176",
+                "nome": "Casimiro Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135748",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1447-1448"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-05",
+                "pubLeg": "VIII",
+                "pubNr": "35",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/035/2001-01-05/1447?pgs=1447-1448&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A APROVAR UM REGIME JURIDICO PARA A CONCESSAO INTERMUNICIPAL DO SERVIÇO PUBLICO DE GESTAO URBANA DE UMA AREA COMPREENDIDA NOS LIMITES DA ZONA DE INTERVENCAO DA EXPOSICAO MUNDIAL DE LISBOA(EXPO98)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135749",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1448-1449"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-05",
+                "pubLeg": "VIII",
+                "pubNr": "35",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/035/2001-01-05/1448?pgs=1448-1449&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A APROVAR UM REGIME JURIDICO PARA A CONCESSAO INTERMUNICIPAL DO SERVIÇO PUBLICO DE GESTAO URBANA DE UMA AREA COMPREENDIDA NOS LIMITES DA ZONA DE INTERVENCAO DA EXPOSICAO MUNDIAL DE LISBOA(EXPO98)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104554",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1583",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-01-05",
+        "pubLeg": "VIII",
+        "pubNr": "35",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/035/2001-01-05?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
