@@ -1,0 +1,76 @@
+Portaria n.º 749/83
+de 4 de Julho
+Sob proposta da Universidade Técnica de Lisboa;
+Ao abrigo do disposto nos Decretos-Leis n.os 173/80, de 29 de Maio, e 263/80 e 264/80, ambos de 7 de Agosto:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:
+1.º
+(Criação)
+A Universidade Técnica de Lisboa, através da Escola Superior de Medicina Veterinária, concede o grau de mestre em Produção Animal.
+2.º
+(Organização do curso)
+O curso especializado conducente ao mestrado em Produção Animal, adiante simplesmente designado por curso, organiza-se pelo sistema de unidade de crédito.
+3.º
+(Convénios)
+1 - A Universidade Técnica de Lisboa poderá celebrar convénios com outras instituições tendo em vista a realização e organização do curso.
+2 - Os convénios referidos no ponto anterior fixarão as formas de participação dessas instituições na coordenação do curso.
+4.º
+(Coordenação)
+O curso será coordenado por uma comissão científica composta por representantes designados do conselho científico da Escola Superior de Medicina Veterinária e por representantes de outras instituições, nos termos do número anterior.
+5.º
+(Área científica)
+A área científica do curso é a Produção Animal.
+6.º
+(Duração normal)
+A duração normal do curso é de 1 ano lectivo.
+7.º
+(Áreas científicas e unidades de crédito)
+As áreas científicas e as unidades de crédito necessárias à obtenção do curso distribuem-se da seguinte forma:
+Nutrição e Alimentação Animal ... 8,5
+Melhoramento Genético ... 6
+Saúde Animal ... 1,5
+Reprodução Animal ... 2,5
+Economia Pecuária ... 2
+Alojamentos ... 1
+Sistemas e Técnicas de Produção Animal ... 10
+Computação, Estatística e Experimentação Animal ... 1
+Total ... 32,5
+8.º
+(Precedências)
+A tabela e o regime de precedências serão fixados pelo conselho científico.
+9.º
+(Habilitações de acesso)
+1 - São admitidos à candidatura à matrícula no curso os titulares da licenciatura em Medicina Veterinária ou áreas afins ou titulares de habilitações legalmente equivalentes com a classificação mínima de 14 valores.
+2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no ponto 1 tenham classificação inferior a 14 valores.
+3 - Excepcionalmente, em casos devidamente justificados, e nos termos do ponto 4 do n.º 11.º, o conselho científico poderá admitir à candidatura à matrícula no curso os titulares de outra licenciatura pelas universidades portuguesas, ou legalmente equivalente, cujo currículo demonstre uma adequada preparação científica de base.
+4 - Cabe ao conselho científico definir quais os cursos a incluir nas áreas afins referidas no ponto 1.
+10.º
+(«Numerus clausus»)
+1 - O numerus clausus do curso será fixado anualmente por despacho do Ministro da Educação.
+2 - Uma percentagem do numerus clausus, a fixar igualmente no despacho a que se refere o número anterior, será reservada a docentes de estabelecimentos de ensino superior.
+3 - Poderá igualmente ser fixado no mesmo despacho um número mínimo de inscrições indispensável ao funcionamento do curso.
+4 - Cada proposta do numerus clausus deverá ser acompanhada de um relatório comprovativo de estarem satisfeitas as condições referidas no n.º 15.º
+11.º
+(Critérios de selecção)
+1 - Os candidatos à matrícula no curso serão seleccionados pelo conselho científico tendo em consideração os seguintes critérios:
+a) Classificação da licenciatura a que se refere o n.º 9.º ou de outros graus já obtidos pelos candidatos;
+b) Currículo académico, científico e técnico;
+c) Experiência docente.
+2 - Será igualmente tida em consideração nomeadamente para as vagas referidas no ponto 2 do n.º 10.º, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino.
+3 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção para avaliação do nível daqueles nas áreas científicas de base correspondentes ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco de licenciaturas ou outras, como condição prévia para a candidatura à matrícula no curso.
+4 - Os candidatos a que se refere o ponto 3 do n.º 9.º só serão considerados após a selecção dos candidatos a que se referem os pontos 1 e 2 do mesmo número.
+5 - A selecção a que se refere o presente número será feita pelo conselho científico, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.
+12.º
+(Regime geral)
+As regras de matricula e inscrição, bem como o regime de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram o curso, serão as previstas na lei para os cursos de licenciatura naquilo em que não forem contrariadas pelo disposto na presente portaria e pela natureza do curso.
+13.º
+(Calendário)
+Os prazos de candidatura e da inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o n.º 10.º
+14.º
+(Dispensa das provas complementares de doutoramento)
+Os titulares de aprovação no curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do Decreto-Lei n.º 388/70, de 18 de Agosto, para a obtenção do grau de doutor em Ciências Veterinárias, na especialidade de Produção Animal e Zootecnia.
+15.º
+(Início de funcionamento)
+O início de funcionamento do curso ficará dependente da reunião pela Universidade dos recursos humanos e materiais adequados à sua completa concretização.
+Ministério da Educação.
+Assinada em 3 de Junho de 1983.
+O Ministro da Educação, João José Fraústo da Silva.
