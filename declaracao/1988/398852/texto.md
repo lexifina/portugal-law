@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto Legislativo Regional n.º 1/88/A, publicado no Diário da República, 1.ª série, n.º 9, de 12 de Janeiro de 1988, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No capítulo V, artigo 28.º, n.º 2, onde se lê «O recrutamento de encarregados de bar/snack de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria ou, na sua falta, de entre habilitados com o curso e experiência profissionais adequados.» deve ler-se «O recrutamento de encarregados de bar/snack far-se-á entre empregados de bar/snack de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria ou, na sua falta, de entre habilitados com o curso e experiência profissionais adequados.»
+Secretaria-Geral da Presidência do Conselho de Ministros, 19 de Fevereiro de 1988. - O Secretário-Geral, França Martins.
