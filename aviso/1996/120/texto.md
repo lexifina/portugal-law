@@ -1,0 +1,4 @@
+Aviso n.º 120/96
+Por ordem superior se torna público que, por nota verbal de 21 de Fevereiro de 1995 e nos termos do parágrafo 4.º do Acordo por Troca de Notas de 24 e 27 de Fevereiro de 1961 entre o Governo de Portugal e o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte, relativo à aceitação do passaporte britânico de visitante para viagens entre Portugal, incluindo Açores e Madeira, e o Reino Unido, a Embaixada Britânica em Lisboa notificou o Ministério dos Negócios Estrangeiros de Portugal da denúncia do Acordo em apreço, com efeitos a partir de 1 de Janeiro de 1996.
+O Acordo tinha sido tornado público por aviso publicado no Diário do Governo, 1.ª série, n.º 65, de 20 de Março de 1961.
+Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas, 15 de Abril de 1996. - O Director-Geral, Manuel Moreia de Andrade.
