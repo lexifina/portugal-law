@@ -1,0 +1,196 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "25",
+    "id": "5884",
+    "titulo": "Decreto-lei nº 183/2000 de 10 de Agosto que\"altera o código de processo civil na redacção que lhe foi dada pelo decreto-lei nº 329-A/95 de 12 de Dezembro pelo Decreto-lei nº180/96 de 25 de Setembro e pelo Decreto-lei nº 375-A/99 de 20 de Setembro e o Decreto-lei nº 269/98 de 1 de Setembro na redacção que lhe foi dada pelo Decreto-lei nº 383/99 de 23 de Setembro¿."
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2000-11-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1600",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2000-11-30",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-11-30",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1245",
+                "nome": "António Montalvão Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57842",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "997-997"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-02",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/026/2000-12-02/997?pgs=997&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.183/2000 DE 10 DE AGOSTO QUE\"ALTERA O CODIGO DE PROCESSO CIVIL NA REDACCAO QUE LHE FOI DADA PELO DECRETOLEI N.329-A/95 DE 12 DE DEZEMBRO PELO DECRETO-LEI N.180/96 DE 25 DE SETEMBRO E PELO DECRETO-LEI N.375-A/99 DE 20 DE SETEMBRO E O DECRETO-LEI N.269/98 DE 1 DE SETEMBRO NA REDACCAO QUE LHE FOI DADA PELO DECRETO-LEI N.383/99 DE 23 DE SETEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57843",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "998-998"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-02",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/026/2000-12-02/998?pgs=998&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.183/2000 DE 10 DE AGOSTO QUE\"ALTERA O CODIGO DE PROCESSO CIVIL NA REDACCAO QUE LHE FOI DADA PELO DECRETOLEI N.329-A/95 DE 12 DE DEZEMBRO PELO DECRETO-LEI N.180/96 DE 25 DE SETEMBRO E PELO DECRETO-LEI N.375-A/99 DE 20 DE SETEMBRO E O DECRETO-LEI N.269/98 DE 1 DE SETEMBRO NA REDACCAO QUE LHE FOI DADA PELO DECRETO-LEI N.383/99 DE 23 DE SETEMBRO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104683",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1600",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-12-02",
+        "pubLeg": "VIII",
+        "pubNr": "26",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/026/2000-12-02?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2000-11-30",
+        "descricao": "(texto final)",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> Daniel Campelo (Indep)</I><BR>Abstenção:<I>BE</I>",
+        "id": "24609",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "110833",
+            "obs": null,
+            "pag": [
+              "997-997"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-12-02",
+            "pubLeg": "VIII",
+            "pubNr": "26",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/026/2000-12-02/997?pgs=997&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "26",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
