@@ -1,5 +1,7 @@
 # Artigo 25.º
 
+### Obrigação de registo ou de declarações de alterações para o Estado e demais pessoas colectivas e para os sujeitos passivos isentos
+
 1 - Os sujeitos passivos mencionados nas alíneas b) e c) do n.º 1 do artigo 2.º deverão entregar a declaração a que se refere o artigo 30.º do Código do IVA ou, caso se encontrem registados, a declaração prevista no artigo 31.º do mesmo Código:
 
 a) Até ao fim do mês seguinte àquele em que tenham excedido o valor global das aquisições previsto na alínea c) do n.º 1 do artigo 5.º;
@@ -12,7 +14,7 @@ c) Antes de efectuarem aquisições intracomunitárias de bens, no caso de exerc
 
 3 - Os sujeitos passivos abrangidos pelo disposto no n.º 1 do artigo 5.º que apenas efectuem aquisições intracomunitárias de bens mencionados na alínea c) do artigo 1.º estão dispensados da entrega das declarações referidas no n.º 1.
 
-4 - Os sujeitos passivos a que se refere o n.º 1 cujas aquisições intracomunitárias de bens não excedam durante um ano civil o montante de 1800000$00 poderão voltar a beneficiar do disposto no n.º 1 do artigo 5.º, devendo para esse efeito entregar a declaração a que se refere o artigo 31.º do Código do IVA.
+4 - Os sujeitos passivos a que se refere o n.º 1, cujas aquisições intracomunitárias de bens não excedam durante um ano civil o montante de (euro) 10000, poderão voltar a beneficiar do disposto no n.º 1 do artigo 5.º, devendo para esse efeito entregar a declaração a que se refere o artigo 31.º do Código do IVA.
 
 5 - Os sujeitos passivos que exerceram a opção mencionada no n.º 3 do artigo 5.º e que, decorrido o prazo de dois anos, pretendam voltar a beneficiar do disposto no n.º 1 do mesmo artigo, caso se verifiquem os condicionalismos nele previstos, deverão entregar a declaração a que se refere o artigo 31.º do Código do IVA.
 

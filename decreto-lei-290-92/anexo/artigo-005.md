@@ -1,12 +1,14 @@
 # Artigo 5.º
 
+### Derrogação ao regime de sujeição das aquisições intracomunitárias de bens
+
 1 - Não obstante o disposto nas alíneas a) e d) do artigo 1.º, não estão sujeitas a imposto as aquisições intracomunitárias de bens quando se verifiquem, simultaneamente, as seguintes condições:
 
 a) Sejam efectuadas por um sujeito passivo dos referidos nas alíneas b) e c) do n.º 1 do artigo 2.º;
 
 b) Os bens não sejam meios de transporte novos nem bens sujeitos a impostos especiais de consumo;
 
-c) O valor global das aquisições, líquido de IVA, devido ou pago nos Estados membros onde se inicia a expedição ou transporte dos bens, não tenha excedido no ano civil anterior ou no ano civil em curso o montante de 1800000$00 ou, tratando-se de uma única aquisição, não exceda esse montante.
+c) O valor global das aquisições, líquido do IVA devido ou pago nos Estados membros onde se inicia a expedição ou transporte dos bens, não tenha excedido, no ano civil anterior ou no ano civil em curso, o montante de (euro) 10000 ou, tratando-se de uma única aquisição, não exceda esse montante.
 
 2 - Para efeitos do disposto na alínea c) do número anterior, o valor global das aquisições será determinado com exclusão do valor das aquisições de meios de transporte novos e de bens sujeitos a impostos especiais de consumo.
 
