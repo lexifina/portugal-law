@@ -1,0 +1,5 @@
+Aviso n.º 336/94
+Por ordem superior se torna público que, por notificação de 15 de Abril de 1993, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos comunicou ter estabelecido o dia 1 de Abril de 1993 como a data em que os governos de todos os Estados membros aceitaram a República Checa como membro da Conferência da Haia de Direito Internacional Privado e do seu Estatuto, concluído na Haia, em 31 de Outubro de 1951.
+O Ministério dos Negócios Estrangeiros do Reino dos Países Baixos conclui que a República Checa se tornou membro da Conferência em 1 de Abril de 1993, com efeito retroactivo a 28 de Janeiro de 1993, data na qual a nota pela qual a República Checa se declarou vinculada pelo Estatuto foi recebida no Ministério.
+Relativamente a Portugal, o Estatuto da Conferência da Haia de Direito Internacional Privado foi aprovado pelo Decreto-Lei n.º 41378, conforme Diário do Governo, 1.ª série, n.º 262, de 19 de Novembro de 1957, rectificado pela declaração publicada no Diário da República, 1.ª série, 217, de 13 de Setembro de 1968.
+Departamento de Assuntos Jurídicos, 22 de Novembro de 1994. - O Director, José Maria Teixeira Leite Martins.
