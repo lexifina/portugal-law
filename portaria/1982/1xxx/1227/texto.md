@@ -1,0 +1,7 @@
+Portaria n.º 1227/82
+de 30 de Dezembro
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelo Ministro da Agricultura, Comércio e Pescas, ao abrigo do disposto no artigo 40.º da Lei n.º 77/77, de 29 de Setembro, desanexar e transmitir o seu domínio a favor da Câmara Municipal de Alvito, para fins de construção de um parque desportivo municipal, parte do prédio rústico denominado «Carrascal, Marco e Tapadinha», com a área de 3,9750 ha, conforme planta anexa, sito na freguesia e concelho de Alvito e inscrito na matriz predial rústica sob o artigo 47 da secção H, o qual foi mandado expropriar pela Portaria n.º 442/76, de 22 de Julho, a Joaquim Toscano Sampaio.
+No acto da transmissão do terreno, a Câmara Municipal de Alvito entregará nos cofres do Tesouro, como retribuição pela cessão, uma importância proporcional à indemnização provisória resultante da expropriação do prédio rústico denominado «Carrascal, Marco e Tapadinha», tendo em conta a parte expropriada e a parte que por esta portaria lhe é transmitida, importância que será oportunamente acrescida em proporção com o acréscimo que resultar da fixação da indemnização definitiva.
+Ministérios das Finanças e do Plano e da Agricultura, Comércio e Pescas, 6 de Dezembro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, José Cândido Sousa Carrusca Robin de Andrade, Secretário de Estado das Finanças. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.
+
+(ver documento original)
