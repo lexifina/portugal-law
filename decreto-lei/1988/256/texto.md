@@ -1,0 +1,25 @@
+Decreto-Lei n.º 256/88
+de 22 de Julho
+Considerando a necessidade da reconversão e modernização do Exército, por forma a adapta-lo às emissões que ora lhe estão atribuídas e ao plano de forças da componente terrestre, torna-se necessária a existência de uma unidade territorial de artilharia antiaérea com capacidade para aprontar e manter forças de artilharia antiaérea, contribuindo, assim, para a defesa integrada do espaço aéreo de interesse nacional;
+Considerando que o Regimento de Infantaria de Queluz foi transferido para o aquartelamento da serra da Carregueira, tendo ficado sediado nas instalações do aquartelamento de Queluz um destacamento do Centro de Instrução de Artilharia Antiaérea de Cascais, que satisfaz, em termos de infra-estruturas, as exigências de uma unidade territorial de artilharia antiaérea;
+Considerando que esta unidade será organizada dentro dos actuais quadros aprovados por lei de oficiais, sargentes, praças e pessoal civil, não implicando, por isso, aumento de encargos;
+Considerando que esta unidade será estruturada dentro dos actuais quadros de oficiais, sargentes, praças e pessoal civil aprovados por lei, não implicando, por isso, aumento de encargos:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º É criado o Regimento de Artilharia Antiaérea n.º 1 (RAA1) na Região Militar de Lisboa, com sede no aquartelamento de Queluz, com direito ao uso do Estandarte Nacional, que tem como missões primárias:
+a) Aprontar e manter forças de artilharia antiaérea para a protecção aérea de unidades terrestres;
+b) Aprontar e manter forças de artilharia antiaérea para colaborarem na defesa integrada do espaço aéreo de interesse nacional.
+Art. 2.º O RAA1 compreende os seguintes órgãos:
+a) Comando;
+b) Grupos de baterias;
+c) Órgãos de comando, incluindo a secção de pessoal, de logística e financeira;
+d) Órgãos de apoio.
+Art. 3.º O RAA1 herda as condecorações, louvores e tradições históricas do Regimento de Artilharia Antiaérea Fixa.
+Art. 4.º O quadro orgânico do RAA1 será fixado por portaria do Chefe do Estado-Maior do Exército, sem alteração dos quadros das armas e serviços do Exército aprovado por lei.
+Art. 5.º O Ministro da Defesa Nacional, ouvido o Chefe do Estado-Maior do Exército, regulamentará, mediante portaria, a estrutura e normas de funcionamento do RAA1.
+Art. 6.º O Regimento de Infantaria de Queluz passa a ser designado por Regimento de Infantaria n.º 1 (RI1), com sede no aquartelamento da serra da Carregueira, na Região Militar de Lisboa.
+Visto e aprovado em Conselho de Ministros de 16 de Junho de 1988. - Eurico Silva Teixeira de Melo - Eurico Silva Teixeira de Melo.
+Promulgado em 8 de Julho de 1988.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 11 de Julho de 1988.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
