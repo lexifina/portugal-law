@@ -1,0 +1,425 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "77",
+    "id": "19403",
+    "titulo": "Sobre o Programa de Estabilidade e Crescimento para o período 2003-2006."
+  },
+  "fase": "Votação Deliberação",
+  "codigo_fase": "335",
+  "data_registo": "2003-01-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2378",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "335",
+    "Comissao": null,
+    "DataFase": "2003-01-09",
+    "EvtId": "73",
+    "Fase": "Votação Deliberação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "19405",
+        "leg": "IX",
+        "nr": "79",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "670",
+            "obs": null,
+            "pag": [
+              "3062-3067"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-01-10",
+            "pubLeg": "IX",
+            "pubNr": "72",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/072/2003-01-10/3062?pgs=3062-3067&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "670",
+            "obs": null,
+            "pag": [
+              "3062-3067"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-01-10",
+            "pubLeg": "IX",
+            "pubNr": "72",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/072/2003-01-10/3062?pgs=3062-3067&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Sobre o Pacto de Estabilidade e Crescimento e sobre o Programa de Estabilidade e Crescimento (2003-2006)."
+      },
+      {
+        "autor": "PSD, PS, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "19411",
+        "leg": "IX",
+        "nr": "80",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "670",
+            "obs": null,
+            "pag": [
+              "3062-3067"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-01-10",
+            "pubLeg": "IX",
+            "pubNr": "72",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/072/2003-01-10/3062?pgs=3062-3067&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "670",
+            "obs": null,
+            "pag": [
+              "3062-3067"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-01-10",
+            "pubLeg": "IX",
+            "pubNr": "72",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/072/2003-01-10/3062?pgs=3062-3067&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Revisão do Programa de Estabilidade e Crescimento (2003-2006)."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-01-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143415",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3062-3062"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-10",
+                "pubLeg": "IX",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/072/2003-01-10/3062?pgs=3062&org=PLC"
+              }
+            ],
+            "sumario": "Sobre o Programa de Estabilidade e Crescimento para o período 2003-2006; Sobre o Pacto de Estabilidade e Crescimento e sobre o Programa de Estabilidade e Crescimento (2003-2006); Revisão do Programa de Estabilidade e Crescimento (2003-2006).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143426",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3062-3063"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-10",
+                "pubLeg": "IX",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/072/2003-01-10/3062?pgs=3062-3063&org=PLC"
+              }
+            ],
+            "sumario": "Sobre o Programa de Estabilidade e Crescimento para o período 2003-2006; Sobre o Pacto de Estabilidade e Crescimento e sobre o Programa de Estabilidade e Crescimento (2003-2006); Revisão do Programa de Estabilidade e Crescimento (2003-2006).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143427",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3063-3064"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-10",
+                "pubLeg": "IX",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/072/2003-01-10/3063?pgs=3063-3064&org=PLC"
+              }
+            ],
+            "sumario": "Sobre o Programa de Estabilidade e Crescimento para o período 2003-2006; Sobre o Pacto de Estabilidade e Crescimento e sobre o Programa de Estabilidade e Crescimento (2003-2006); Revisão do Programa de Estabilidade e Crescimento (2003-2006).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Marques Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143428",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3066-3067"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-10",
+                "pubLeg": "IX",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/072/2003-01-10/3066?pgs=3066-3067&org=PLC"
+              }
+            ],
+            "sumario": "Sobre o Programa de Estabilidade e Crescimento para o período 2003-2006; Sobre o Pacto de Estabilidade e Crescimento e sobre o Programa de Estabilidade e Crescimento (2003-2006); Revisão do Programa de Estabilidade e Crescimento (2003-2006).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143429",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3067-3067"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-01-10",
+                "pubLeg": "IX",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/072/2003-01-10/3067?pgs=3067&org=PLC"
+              }
+            ],
+            "sumario": "Sobre o Programa de Estabilidade e Crescimento para o período 2003-2006; Sobre o Pacto de Estabilidade e Crescimento e sobre o Programa de Estabilidade e Crescimento (2003-2006); Revisão do Programa de Estabilidade e Crescimento (2003-2006).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "154529",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "275412",
+        "obs": null,
+        "pag": [
+          "3062-3067"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-01-10",
+        "pubLeg": "IX",
+        "pubNr": "72",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/072/2003-01-10/3062?pgs=3062-3067&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2003-01-09",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PS</I>",
+        "id": "29585",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "70",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
