@@ -1,0 +1,1800 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "16",
+    "id": "6230",
+    "titulo": "Orçamento do Estado para 2000"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-02-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5913",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-02-17",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "6231",
+        "leg": "VIII",
+        "nr": "15",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "414",
+            "obs": null,
+            "pag": [
+              "1386-1437"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-02-18",
+            "pubLeg": "VIII",
+            "pubNr": "37",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1386?pgs=1386-1437&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Grandes Opções do Plano para 2000"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-02-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "438",
+                "nome": "Carlos Zorrinho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28914",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1435-1437"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1435?pgs=1435-1437&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28915",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1434-1435"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1434?pgs=1434-1435&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28916",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1433-1434"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1433?pgs=1433-1434&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1709",
+                "nome": "António Pires de Lima"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28917",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1429-1430"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1429?pgs=1429-1430&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28918",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1427-1435"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1427?pgs=1427-1435&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28919",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1425-1427"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1425?pgs=1425-1427&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1673",
+                "nome": "Luísa Vasconcelos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28920",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1424-1425"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1424?pgs=1424-1425&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28921",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1423-1425"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1423?pgs=1423-1425&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28922",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1422-1422"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1422?pgs=1422&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28923",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1418-1423"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1418?pgs=1418-1423&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28924",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1418-1418"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1418?pgs=1418&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28925",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1417-1433"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1417?pgs=1417-1433&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28926",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1416-1417",
+                  "1431-1432"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1416?pgs=1416-1417,1431-1432&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28927",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1415-1416"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1415?pgs=1415-1416&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28928",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1413-1418"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1413?pgs=1413-1418&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1551",
+                "nome": "Rui Marqueiro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28929",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1412-1413"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1412?pgs=1412-1413&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28930",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1410-1413"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1410?pgs=1410-1413&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "370",
+                "nome": "Luís Marques Mendes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28931",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1410-1410"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1410?pgs=1410&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28932",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1407-1408"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1407?pgs=1407-1408&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28933",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1405-1407",
+                  "1409-1409"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1405?pgs=1405-1407,1409&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28934",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1404-1404"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1404?pgs=1404&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "192",
+                "nome": "José Penedos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28935",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1403-1404"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1403?pgs=1403-1404&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28936",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1402-1403"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1402?pgs=1402-1403&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28937",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1401-1402"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1401?pgs=1401-1402&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28938",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1400-1401"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1400?pgs=1400-1401&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28939",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1397-1398",
+                  "1431-1431"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1397?pgs=1397-1398,1431&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28940",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1397-1405"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1397?pgs=1397-1405&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "383",
+                "nome": "Durão Barroso"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28941",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1396-1397"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1396?pgs=1396-1397&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "383",
+                "nome": "Durão Barroso"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28942",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1394-1395"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1394?pgs=1394-1395&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "236",
+                "nome": "Carlos Carvalhas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28943",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1392-1393"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1392?pgs=1392-1393&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "314",
+                "nome": "António Capucho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28944",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1392-1392"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1392?pgs=1392&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28945",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1386-1397",
+                  "1399-1404"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1386?pgs=1386-1397,1399-1404&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "PRIMEIRO-MINISTRO",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio Guterres"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107401",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1386-1397",
+                  "1399-1404"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1386?pgs=1386-1397,1399-1404&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  FINANÇAS E DA ECONOMIA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Pina Moura"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107402",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1427-1435"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1427?pgs=1427-1435&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "PRIMEIRO-MINISTRO",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio Guterres"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107403",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1397-1405"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1397?pgs=1397-1405&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  FINANÇAS E DA ECONOMIA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Pina Moura"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107404",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1433-1434"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1433?pgs=1433-1434&org=PLC"
+              }
+            ],
+            "sumario": "GRANDES OPCOES DO PLANO, ORCAMENTO GERAL DO ESTADO PARA 2000",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "249866",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
