@@ -1,0 +1,450 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "103",
+    "id": "5103",
+    "titulo": "Altera o regime jurídico aplicável ao pessoal das instituições da Segurança Social."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1997-07-31",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1130",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1997-07-31",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1997-07-31",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "35",
+                "nome": "Carlos Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "14:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4056-4056"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-08-01",
+                "pubLeg": "VII",
+                "pubNr": "105",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/105/1997-08-01/4056?pgs=4056&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: ALTERACAO DO REGIME JURIDICO DO PESSOAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "165",
+                "nome": "Elisa Damião"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "14:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47242",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4056-4056"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-08-01",
+                "pubLeg": "VII",
+                "pubNr": "105",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/105/1997-08-01/4056?pgs=4056&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: ALTERACAO DO REGIME JURIDICO DO PESSOAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "14:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47244",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4055-4056"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-08-01",
+                "pubLeg": "VII",
+                "pubNr": "105",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/105/1997-08-01/4055?pgs=4055-4056&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: ALTERACAO DO REGIME JURIDICO DO PESSOAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "14:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47245",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4054-4054"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-08-01",
+                "pubLeg": "VII",
+                "pubNr": "105",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/105/1997-08-01/4054?pgs=4054&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: ALTERACAO DO REGIME JURIDICO DO PESSOAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "14:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47246",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4054-4055"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-08-01",
+                "pubLeg": "VII",
+                "pubNr": "105",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/105/1997-08-01/4054?pgs=4054-4055&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: ALTERACAO DO REGIME JURIDICO DO PESSOAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "14:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47247",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4053-4056"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-08-01",
+                "pubLeg": "VII",
+                "pubNr": "105",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/105/1997-08-01/4053?pgs=4053-4056&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: ALTERACAO DO REGIME JURIDICO DO PESSOAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "14:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47248",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4052-4053"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-08-01",
+                "pubLeg": "VII",
+                "pubNr": "105",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/105/1997-08-01/4052?pgs=4052-4053&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: ALTERACAO DO REGIME JURIDICO DO PESSOAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1485",
+                "nome": "Rodeia Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "14:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "47249",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4051-4052"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-08-01",
+                "pubLeg": "VII",
+                "pubNr": "105",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/105/1997-08-01/4051?pgs=4051-4052&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: ALTERACAO DO REGIME JURIDICO DO PESSOAL",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "101735",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1130",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1997-08-01",
+        "pubLeg": "VII",
+        "pubNr": "105",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/105/1997-08-01?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
