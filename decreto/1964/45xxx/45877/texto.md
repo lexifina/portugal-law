@@ -1,0 +1,8 @@
+Decreto n.º 45877
+Com fundamento no artigo 2.º do Decreto-Lei n.º 24914, de 10 de Janeiro de 1935, mediante proposta aprovada pelo Ministro das Finanças, nos termos do mencionado artigo 2.º
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
+Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério da Saúde e Assistência, um crédito especial no montante de 7000000$00, devendo a mesma importância ser inscrita na alínea 10 do n.º 1) do artigo 65.º, capítulo 4.º, do orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios, sob a rubrica de «Fundo de Socorro Social».
+Art. 2.º Como compensação do crédito designado no artigo anterior, é anulada igual quantia na verba do capítulo 1.º, artigo 12.º, do actual orçamento do Ministério das Finanças.
+Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o § único do artigo 36.º do Decreto n.º 18381, de 24 de Maio de 1930.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 19 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela -António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
