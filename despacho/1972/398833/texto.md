@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, mediante proposta do Ministério da Educação Nacional, ouvido o Conselho Permanente da Acção Educativa, é declarada a habilitação do curso de comércio, regulado pelo Decreto n.º 20420, de 20 de Outubro de 1931, como suficiente, em paralelo com o curso geral dos liceus, para efeito de provimento em lugares de terceiro-oficial, segundo-oficial e primeiro-oficial das secretarias das escolas do ensino técnico profissional e de terceiro-oficial das escolas do ciclo preparatório do ensino secundário.
+Presidência do Conselho, 24 de Fevereiro de 1972. - Pelo Presidente do Conselho, João Mota Pereira de Campos, Ministro de Estado adjunto do Presidente do Conselho.
