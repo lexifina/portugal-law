@@ -1,0 +1,8 @@
+Aviso
+Por ordem superior se torna público que a República da Áustria depositou, em 9 de Julho de 1985, junto do Governo Suíço o instrumento de ratificação da Convenção Relativa à Emissão de Um Certificado de Capacidade Matrimonial, concluída em Munique em 5 de Setembro de 1980.
+No momento do depósito do instrumento de ratificação, a República da Áustria declarou que a conservatória do registo civil em cuja área de jurisdição um dos noivos tem a sua residência ou estada é competente para emitir o certificado de capacidade matrimonial de que necessite um emigrante austríaco para contrair casamento no estrangeiro.
+Se algum dos noivos não tiver o seu domicílio ou estada na Áustria, é competente a conservatória do registo civil em cuja área de jurisdição algum dos noivos teve o seu último domicílio na Áustria.
+Se tal não acontecer, é competente a Conservatória do Registo Civil Wien Innere Stadt.
+Se ambos os noivos forem emigrantes austríacos, será suficiente que o certificado de capacidade matrimonial seja emitido pela conservatória do registo civil austríaco competente de acordo com as disposições anteriores, mesmo no caso de ambos os noivos não terem o seu domicílio ou estada ou não terem tido o seu domicílio na área de jurisdição da mesma conservatória do registo civil.
+Em conformidade com o artigo 12.º, parágrafo 2, a Convenção Relativa à Emissão de um Certificado de Capacidade Matrimonial enviará em vigor para a República da Áustria em 1 de Outubro de 1985.
+Secretaria-Geral do Ministério, 3 de Outubro de 1985. - O Director dos Serviços Jurídicos e de Tratados, Francisco Manuel dos Reis Caldeira.
