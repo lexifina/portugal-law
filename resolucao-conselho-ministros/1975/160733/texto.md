@@ -1,0 +1,3 @@
+Resolução do Conselho de Ministros
+Na sequência da decisão deste Conselho de 5 do corrente, que determinou a nomeação de uma comissão administrativa para a Sociedade de Construções Joaquim Francisco dos Santos, Lda., e em face das dificuldades processuais resultantes da estrita aplicação do estipulado no n.º 3 da citada resolução, delibera o Conselho de Ministros autorizar o Ministro das Finanças a conceder-lhe um aval até ao montante de 10000000$00, de forma a permitir a imediata mobilização dos recursos indispensáveis ao pagamento dos salários e normal funcionamento da empresa.
+Presidência do Conselho de Ministros, 28 de Fevereiro de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
