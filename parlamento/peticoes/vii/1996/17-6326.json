@@ -1,0 +1,420 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=tKfXsA%2fENKNnp0LKqSGHXsjkrRl7S077Q3%2bDShtNlJSfDEIxb29heS60fekSU9Mh%2bOaOxN93u5lJXhXrF20O3GwJrwgX%2b0YU%2bhQwCIVqWOtg4qLdCOsovw17HpQ%2b61GwzRT0xyKc0H%2fa9DQdlP4PkB2kdgun9cM%2f%2fx7V2KVgyAwbUtpLdjftXVCgqJHGFNGYlFDP1m8Jzr0rp%2bkkIm21JfRb4lD2mU2lj506V%2fnSNSb2tR3%2bEDlK3FCGtu7ykpvS5%2bJJC%2frUbEM2mltYb1VfVOgZIDgJPPhSuZN2zIxPp9%2f2OdtvhAO8Vt2qGCJv%2bMWDKcdwAI%2fMSsLsMJfNmLa7xtfsjI6y%2ft3q%2btijdCCXBQfnO9%2b8PHRu402cRBtkKANn&fich=PeticoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "6041edea08a28f8315a7bbbffd2127aaa9493aac12482c88a108bc6b12f7d746",
+  "legislatura": "VII",
+  "id": "6326",
+  "numero": "17",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1996-02-13",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          },
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1996-05-15",
+        "DataArquivo": "1996-07-27",
+        "DataBaixaComissao": "1996-05-15",
+        "DataEnvioPAR": "1996-07-27",
+        "DataReaberta": "1996-05-15",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "2",
+        "Legislatura": "VII",
+        "Nome": "COMISSÃO DE ASSUNTOS CONSTITUCIONAIS, DIR., LIBERD. E GARANTIAS",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "1996-04-13",
+            "dataNomeacao": "1996-05-15",
+            "gp": "PS",
+            "id": "1525",
+            "motivoCessacao": null,
+            "nome": "João Palmeiro"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1996-05-15",
+            "gp": "PSD",
+            "id": "1243",
+            "motivoCessacao": null,
+            "nome": "Maria do Céu Ramos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "1996-07-10",
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "1996-07-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42109",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3234-3234"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-11",
+                "pubLeg": "VII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/094/1996-07-11/3234?pgs=3234&org=PLC"
+              }
+            ],
+            "Sumario": "AMNISTIA, PERDAO PARCIAL DE PENAS",
+            "Teor": "AMNISTIA "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1996-07-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42110",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3233-3234"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-11",
+                "pubLeg": "VII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/094/1996-07-11/3233?pgs=3233-3234&org=PLC"
+              }
+            ],
+            "Sumario": "AMNISTIA, PERDAO PARCIAL DE PENAS",
+            "Teor": "AMNISTIA "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1996-07-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42111",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3232-3233"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-11",
+                "pubLeg": "VII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/094/1996-07-11/3232?pgs=3232-3233&org=PLC"
+              }
+            ],
+            "Sumario": "AMNISTIA, PERDAO PARCIAL DE PENAS",
+            "Teor": "AMNISTIA "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1996-07-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42112",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3231-3232"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-11",
+                "pubLeg": "VII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/094/1996-07-11/3231?pgs=3231-3232&org=PLC"
+              }
+            ],
+            "Sumario": "AMNISTIA, PERDAO PARCIAL DE PENAS",
+            "Teor": "AMNISTIA FP-25 "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1996-07-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42113",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3231-3231"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-11",
+                "pubLeg": "VII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/094/1996-07-11/3231?pgs=3231&org=PLC"
+              }
+            ],
+            "Sumario": "AMNISTIA, PERDAO PARCIAL DE PENAS",
+            "Teor": "L6/96 AMNISTIA FP-25 "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1996-07-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42114",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3230-3231"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-11",
+                "pubLeg": "VII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/094/1996-07-11/3230?pgs=3230-3231&org=PLC"
+              }
+            ],
+            "Sumario": "AMNISTIA, PERDAO PARCIAL DE PENAS",
+            "Teor": "AMNISTIA "
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "6326",
+    "PetAssunto": "Solicitam à Assembleia da República que aprove uma Lei de Amnistia que preveja um perdão parcial de penas.",
+    "PetDataEntrada": "1996-02-13",
+    "PeticoesAssociadas": null,
+    "PetId": "6326",
+    "PetLeg": "VII",
+    "PetNr": "17",
+    "PetNrAssinaturas": "9239",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "193",
+        "obs": null,
+        "pag": [
+          "3230-3234"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-07-11",
+        "pubLeg": "VII",
+        "pubNr": "94",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/094/1996-07-11/3230?pgs=3230-3234&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
