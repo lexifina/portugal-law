@@ -1,0 +1,6 @@
+Aviso n.º 99/99
+Por ordem superior se torna público que, por intermédio da Missão Permanente de Portugal junto dos Organismos e Organizações Internacionais, em Genebra, foi notificado o director-geral da Organização Mundial da Propriedade Intelectual, na sua qualidade de depositário do Acordo de Nice Relativo à Classificação Internacional dos Produtos e Serviços aos Quais se Aplicam as Marcas de Fábrica ou de Comércio, de 15 de Julho de 1957 (tal como revisto pelo Acto de Genebra em 13 de Maio de 1977), de que a Convenção é aplicável ao território de Macau.
+Por nota de 23 de Junho de 1999, o director-geral da Organização Mundial da Propriedade Intelectual comunicou que, nos termos da Convenção, esta entrará em vigor para Macau em 23 de Setembro de 1999.
+A Convenção foi aprovada, para ratificação, pelo Decreto n.º 138/81, de 5 de Novembro, publicado no Diário da República, 1.ª série, n.º 255, de 5 de Novembro de 1981, e foi estendido a Macau pelo Decreto do Presidente da República n.º 135/90, de 22 de Abril, publicado no Diário da República, 1.ª série-A, n.º 94, de 22 de Abril de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 20 de Julho de 1999. - António Nunes de Carvalho Santana Carlos.
