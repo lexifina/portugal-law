@@ -1,0 +1,5 @@
+Portaria n.º 639/82
+de 26 de Junho
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Educação e das Universidades e da Reforma Administrativa, que, face ao disposto no n.º 1 do artigo 20.º do Decreto-Lei n.º 191-C/79, de 25 de Junho, o quadro de pessoal do Instituto Superior de Ciências do Trabalho e da Empresa, aprovado pelo Decreto-Lei n.º 522/72, de 15 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 225/74, de 28 de Maio, e pela Portaria n.º 110/82, de 26 de Janeiro, passe a ter a seguinte composição:
+(ver documento original)
+Ministérios das Finanças e do Plano, da Educação e das Universidades e da Reforma Administrativa, 11 de Junho de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Educação e das Universidades, Vítor Pereira Crespo. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
