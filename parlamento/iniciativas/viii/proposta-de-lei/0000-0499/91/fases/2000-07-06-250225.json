@@ -1,0 +1,456 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "91",
+    "id": "18672",
+    "titulo": "Altera o regime jurídico dos crimes de tráfico de influência e de corrupção"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-07-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5959",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-07-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-07-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "542",
+                "nome": "Isabel Sena Lino"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27134",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3465-3465"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3465?pgs=3465&org=PLC"
+              }
+            ],
+            "sumario": "VALOR MINIMO DAS PENSOES REGULAMENTARES DE INVALIDEZ E DE VELHICE REGIME GERAL DA SEGURANCA SOCIAL (ALRM)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27135",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3464-3464"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3464?pgs=3464&org=PLC"
+              }
+            ],
+            "sumario": "VALOR MINIMO DAS PENSOES REGULAMENTARES DE INVALIDEZ E DE VELHICE REGIME GERAL DA SEGURANCA SOCIAL (ALRM)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27136",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3463-3463"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3463?pgs=3463&org=PLC"
+              }
+            ],
+            "sumario": "VALOR MINIMO DAS PENSOES REGULAMENTARES DE INVALIDEZ E DE VELHICE REGIME GERAL DA SEGURANCA SOCIAL (ALRM)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1158",
+                "nome": "Barbosa de Oliveira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27137",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3462-3463"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3462?pgs=3462-3463&org=PLC"
+              }
+            ],
+            "sumario": "VALOR MINIMO DAS PENSOES REGULAMENTARES DE INVALIDEZ E DE VELHICE REGIME GERAL DA SEGURANCA SOCIAL (ALRM)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27138",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3462-3464"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3462?pgs=3462-3464&org=PLC"
+              }
+            ],
+            "sumario": "VALOR MINIMO DAS PENSOES REGULAMENTARES DE INVALIDEZ E DE VELHICE REGIME GERAL DA SEGURANCA SOCIAL (ALRM)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "159",
+                "nome": "Artur Penedos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27140",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3462-3462"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3462?pgs=3462&org=PLC"
+              }
+            ],
+            "sumario": "VALOR MINIMO DAS PENSOES REGULAMENTARES DE INVALIDEZ E DE VELHICE REGIME GERAL DA SEGURANCA SOCIAL (ALRM)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27141",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3462-3462"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3462?pgs=3462&org=PLC"
+              }
+            ],
+            "sumario": "VALOR MINIMO DAS PENSOES REGULAMENTARES DE INVALIDEZ E DE VELHICE REGIME GERAL DA SEGURANCA SOCIAL (ALRM)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27156",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3461-3462"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3461?pgs=3461-3462&org=PLC"
+              }
+            ],
+            "sumario": "VALOR MINIMO DAS PENSOES REGULAMENTARES DE INVALIDEZ E DE VELHICE REGIME GERAL DA SEGURANCA SOCIAL (ALRM)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "250225",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5959",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-07-07",
+        "pubLeg": "VIII",
+        "pubNr": "87",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
