@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2furkWvc0lKdq20ak2KlHOmirXJXFYm74sABWT32jiDLN0U8f%2fPEtMfn8RnKJ0uGruwmBNe3jwMO37t%2fiSCQ9aculmRkJeIKwr%2fOiOzMziHJAnUHHtOwdh287ngLEtCriB2WWEC7LYWi1fowW8ns7Xdb7ZeW1KZ%2fh4MoxhR77APfbIk6lGh2Xrj7umHYAgvxBKomL8r%2b7w%2bcVlag%2bST%2fprrlUOE0u%2b6qHwbnvIQKfKeygiUNrSNiI04zccBV4YEQPPfynibRRVQMmV0H0WPDuRcSm80sGGQgNyTsUcq3R2DGZQtkpt%2bs4PaWOTvEOy%2b0HxZFhxj0gLaLBKCcha3mTRy2bCNMZep%2b9wDXb88fyVXk%3d&fich=IntervencoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6a76c73abc08ffed4c44b15f3f36f3269364cf06e4b7f2d6259e2b14d6049817",
+  "legislatura": "VIII",
+  "id": "136156",
+  "tipo": "Intervenção",
+  "orador": "Manuel Frexes (PSD)",
+  "data_registo": "2001-01-26",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "104380",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "5961",
+        "tipo": "INI",
+        "titulo": "Proposta de Resolução - Aprova, para ratificação, o Protocolo que consolida a Convenção Internacional de Cooperação para a Segurança da Navegação Aérea \"Eurocontrol\" de 13 de Dezembro de 1960 na sequência de diversas modificações introduzidas e adoptado em conferência diplomática reunida, em Bruxelas, em 27 de Junho de 1997 e respectivo Protocolo adicional referente à substituição do Acordo Multilateral Relativo a Taxas de Rota de 12 de Fevereiro de 1981, ratificado, em Portugal, em 2 de Maio de 1983"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2001-01-26",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "1434",
+      "nome": "Manuel Frexes"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "136156",
+    "IdDebate": "1564",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação",
+        "id": "5961",
+        "tipo": "Proposta de Resolução"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "136156",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1696-1697"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-01-27",
+        "pubLeg": "VIII",
+        "pubNr": "42",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/042/2001-01-27/1696?pgs=1696-1697&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "2",
+    "Sumario": "Aprova, para ratificação, o Protocolo que consolida a Convenção Internacional de Cooperação para a Segurança da Navegação Aérea (EUROCONTROL), de 13 de Dezembro de 1960, na sequência de diversas modificações introduzidas, e adoptado em Conferência Diplomática reunida em Bruxelas em 27 de Junho de 1997, e respectivo Protocolo Adicional, referente à substituição do Acordo Multilateral relativo a taxas de rota, de 12 de Fevereiro de 1981, ratificado por Portugal em 2 de Maio de 1983",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
