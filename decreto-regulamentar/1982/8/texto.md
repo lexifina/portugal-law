@@ -1,0 +1,20 @@
+Decreto Regulamentar n.º 8/82
+de 27 de Fevereiro
+Encontra-se aprovada a localização das novas instalações para a Faculdade de Medicina da Universidade de Coimbra na área definida na planta anexa ao presente diploma.
+Tendo em conta o lapso de tempo que decorrerá até à aprovação do projecto de execução, torna-se necessário sujeitar a referida área a medidas preventivas, destinadas a evitar alteração das circunstâncias e condições existentes que possa comprometer a execução do empreendimento ou torná-la mais difícil ou onerosa.
+Nestes termos:
+Ao abrigo do disposto no artigo 7.º do Decreto-Lei n.º 794/76, de 5 de Novembro, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+Artigo 1.º - 1 - Durante o prazo de 2 anos, fica dependente de autorização do Ministro da Habitação, Obras Públicas e Transportes, e sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática, na área definida na planta anexa a este diploma, dos actos ou actividades seguintes:
+a) Construção, reconstrução ou ampliação de edifícios ou de outras instalações;
+b) Instalação de explorações ou ampliação das já existentes;
+c) Alterações importantes, por meio de aterros ou escavações, à configuração geral do terreno;
+d) Derrube de árvores em maciço, com qualquer área;
+e) Destruição do solo vivo ou coberto vegetal.
+2 - É aplicável o disposto nos artigos 11.º a 13.º do Decreto-Lei n.º 794/76, de 5 de Novembro.
+Art. 2.º Este decreto entra em vigor no dia seguinte ao da sua publicação.
+Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
+Promulgado em 11 de Fevereiro de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+(ver documento original)
