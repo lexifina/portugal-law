@@ -1,0 +1,810 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "21",
+    "id": "6348",
+    "titulo": "Violência contra a mulher na família \"crime publico\" (altera o artigo 152° do código penal, revisto pela lei n°65/98)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-01-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1799",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-01-13",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6294",
+        "leg": "VIII",
+        "nr": "58",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "409",
+            "obs": null,
+            "pag": [
+              "1005-1013"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-01-14",
+            "pubLeg": "VIII",
+            "pubNr": "26",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1005?pgs=1005-1013&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "409",
+            "obs": null,
+            "pag": [
+              "1005-1013"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-01-14",
+            "pubLeg": "VIII",
+            "pubNr": "26",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1005?pgs=1005-1013&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reforça as medidas de protecção às mulheres vítimas de violência"
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "6275",
+        "leg": "VIII",
+        "nr": "21",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "409",
+            "obs": null,
+            "pag": [
+              "1005-1013"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-01-14",
+            "pubLeg": "VIII",
+            "pubNr": "26",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1005?pgs=1005-1013&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "409",
+            "obs": null,
+            "pag": [
+              "1005-1013"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-01-14",
+            "pubLeg": "VIII",
+            "pubNr": "26",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1005?pgs=1005-1013&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Concretização de medidas de protecção das vítimas de violência doméstica."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-01-13",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29263",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1012-1013"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-14",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1012?pgs=1012-1013&org=PLC"
+              }
+            ],
+            "sumario": "VITIMAS DE VIOLENCIA DOMESTICA: REFORCO DE MEDIDAS DE PROTECCAO ESPECIAL PARA A MULHER",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29264",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1012-1012"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-14",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1012?pgs=1012&org=PLC"
+              }
+            ],
+            "sumario": "VITIMAS DE VIOLENCIA DOMESTICA: REFORCO DE MEDIDAS DE PROTECCAO ESPECIAL PARA A MULHER",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1620",
+                "nome": "José António Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29265",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1010-1012"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-14",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1010?pgs=1010-1012&org=PLC"
+              }
+            ],
+            "sumario": "VITIMAS DE VIOLENCIA DOMESTICA: REFORCO DE MEDIDAS DE PROTECCAO ESPECIAL PARA A MULHER",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1028",
+                "nome": "Sónia Fertuzinhos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29266",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1009-1010"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-14",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1009?pgs=1009-1010&org=PLC"
+              }
+            ],
+            "sumario": "VITIMAS DE VIOLENCIA DOMESTICA: REFORCO DE MEDIDAS DE PROTECCAO ESPECIAL PARA A MULHER",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29267",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1008-1009"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-14",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1008?pgs=1008-1009&org=PLC"
+              }
+            ],
+            "sumario": "VITIMAS DE VIOLENCIA DOMESTICA: REFORCO DE MEDIDAS DE PROTECCAO ESPECIAL PARA A MULHER",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29268",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1006-1008"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-14",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1006?pgs=1006-1008&org=PLC"
+              }
+            ],
+            "sumario": "VITIMAS DE VIOLENCIA DOMESTICA: REFORCO DE MEDIDAS DE PROTECCAO ESPECIAL PARA A MULHER",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29269",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1005-1006"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-14",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1005?pgs=1005-1006&org=PLC"
+              }
+            ],
+            "sumario": "VITIMAS DE VIOLENCIA DOMESTICA: REFORCO DE MEDIDAS DE PROTECCAO ESPECIAL PARA A MULHER",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "147",
+                "nome": "António de Almeida Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29247",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1023-1023"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-14",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1023?pgs=1023&org=PLC"
+              }
+            ],
+            "sumario": "CONCRETIZACAO DE MEDIDAS DE PROTECCAO DAS VITIMAS VIOLENCIADOMESTICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29248",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1023-1023"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-14",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1023?pgs=1023&org=PLC"
+              }
+            ],
+            "sumario": "CONCRETIZACAO DE MEDIDAS DE PROTECCAO DAS VITIMAS VIOLENCIADOMESTICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "314",
+                "nome": "António Capucho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29249",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1022-1022"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-14",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1022?pgs=1022&org=PLC"
+              }
+            ],
+            "sumario": "CONCRETIZACAO DE MEDIDAS DE PROTECCAO DAS VITIMAS VIOLENCIADOMESTICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29250",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1022-1023"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-14",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1022?pgs=1022-1023&org=PLC"
+              }
+            ],
+            "sumario": "CONCRETIZACAO DE MEDIDAS DE PROTECCAO DAS VITIMAS VIOLENCIADOMESTICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29251",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1021-1022"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-14",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1021?pgs=1021-1022&org=PLC"
+              }
+            ],
+            "sumario": "CONCRETIZACAO DE MEDIDAS DE PROTECCAO DAS VITIMAS VIOLENCIADOMESTICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29252",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1021-1023"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-14",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1021?pgs=1021-1023&org=PLC"
+              }
+            ],
+            "sumario": "CONCRETIZACAO DE MEDIDAS DE PROTECCAO DAS VITIMAS VIOLENCIADOMESTICA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105701",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "111388",
+        "obs": null,
+        "pag": [
+          "1005-1013"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-01-14",
+        "pubLeg": "VIII",
+        "pubNr": "26",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/026/2000-01-14/1005?pgs=1005-1013&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
