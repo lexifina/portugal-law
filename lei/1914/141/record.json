@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1914/04/06000/02330233.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1914-04-20",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "232fbf6b3f2b2ff5ae72174a6445e9057f3ee3dc4024cd49c6f8955419346d56",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.4,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "4164bbd30d0d5e53bd72f4055b1d3b13db4ceca06f9c36c50f409c21c35a027f",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 311
 }
