@@ -1,0 +1,596 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jICRzj3KB1Bmg3m8DVSHnpi8rXpapb3j4jMO5BtN2LbfPF3esMoTH6fDrsMuFJ9lPAZvTPAWxS9PFAt7bzMiuI04fWuRpEaIxl4mcW%2fcx1acNCntIvb5NLRRHaPebnKKry6IchvGghYnV5lkvxQk495hFB7swBEB4rvnhCoTOeXflL%2foNK7o0b4dy592StEdZmQVtVkruElsfWncCV%2b%2bpavK9g3VZy%2bP4cmQ40z%2f0a69tQcMqoIjKHap%2bFpAkJMgbKcIQykqLjBLupnXrNjLuRZ30Ox0rp%2fdoXYbf5r3SXm4%2fEbMutFiFUX0sUvjGKIZ7ZqNfVf38E4D2PhkYxEZx9pZ7GwemaRdvkVkJ4JulFaJGzWdDjdFCx4KRpH%2bqN7s&fich=IntervencoesV_json.txt&Inline=true",
+  "ficheiro_sha256": "e07157b1d50033e077d4f054f931a3450edfcc0fcd53456e529928b3d3af1eae",
+  "legislatura": "V",
+  "id": "221200",
+  "tipo": "Explicações",
+  "orador": "Vitor Crespo (PSD)",
+  "data_registo": "1989-06-30",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "107935",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28635",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação de Branca à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28632",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de Loriga à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28634",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação de Pias à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28666",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Montes no concelho de Alcobaça"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28667",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Assentiz no concelho de Rio Maior"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28663",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação de Pêro Pinheiro à  categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28655",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de Alhadas à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28653",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Cantar-Galo no concelho da Covilhã"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28684",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de São João de Ver, no concelho de Santa Maria da Feira, à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28649",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de Mozelos, no concelho de Santa Maria da Feira, à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28678",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Cortes no concelho de Monção"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28673",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de Forte da Casa a vila no concelho de Vila Franca de Xira"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28671",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Montes no concelho de Alcobaça"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28669",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Comporta no concelho de Alcácer do Sal"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28706",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação de São Vicente de Alfena, no município de Valongo, à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28707",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de Fânzeres, no município de Gondomar, à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28691",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Usseira"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28687",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de Pedroso à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28690",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de Pedroso do munícipio de Vila Nova de Gaia"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28727",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Olival Basto no munícipio de Loures"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28719",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Bobadela no munícipio de Loures"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28720",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia da Ramada no munícipio de Loures"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28721",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Famões no munícipio de Loures"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28715",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Comporta"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28716",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de Pedroso, no concelho de Vila Nova de Gaia, à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28718",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Prior Velho no munícipio de Loures"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28712",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia  de Carreira no concelho de Leiria"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28713",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Alteração da designação do concelho de Vila Nova de Ourém, da freguesia de Vila Nova de Ourém e da freguesia de Ourém"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28747",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação de Forte da Casa à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28744",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Usseira no concelho de Óbidos"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28745",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação de Eixo à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28738",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação de Vila Chã de São Roque à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28732",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Enxames no concelho do Fundão"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28731",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Chainça no concelho de Leiria"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28763",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação de Pias à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28783",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Dornelas no concelho de Sever do Vouga"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28776",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Nossa Senhora do Ó de Aguim, no concelho de Anadia"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28773",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de São João do Campo, do concelho de Coimbra, à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28807",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Alteração da designação das freguesias das Caldas da Rainha e de Santo Onofre, do concelho das Caldas da Rainha"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28799",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação a vila da povoação de Fânzeres no concelho de Gondomar"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28794",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de Amora, no concelho do Seixal, à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28797",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação de Paranhos da Beira à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28827",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de Paião, à categoria de vila, no concelho da Figueira da Foz"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28813",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia da Borda do Campo no concelho da Figueira da Foz"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28846",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de Amora, no concelho do Seixal, à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28843",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Ribeira do Farrio do concelho de Vila Nova de Ourém"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28854",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de São Pedro da Cova, no concelho de Gondomar, à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28853",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Altera os limites da freguesia de Pereiras-Gare, no concelho de Odemira"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28833",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Ribeira do Fárrio, no concelho de Vila Nova de Ourém"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28834",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de São Pedro da Cova à categoria de vila, no concelho de Gondomar"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28885",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da freguesia de Cacia à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28882",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação de Oiã à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28872",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia da Ilha, no concelho de Pombal"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28907",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Zambujeira do Mar, no concelho de Odemira"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28908",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Santo António dos Cavaleiros, no concelho de Loures"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28904",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação de Aldeia do Carvalho à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28910",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Santo António dos Cavaleiros no concelho de Loures"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28900",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Luzianes-Gare, no concelho de Odemira"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28889",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Santo António dos Cavaleiros, no concelho de Loures"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28941",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Zambujeira do Mar no concelho de Odemira"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28937",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Luzianes-Gare no concelho de Odemira"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28933",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de Forjães à categoria de vila, no concelho de Esposende"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28934",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de \"3 Bairros\", no concelho do Montijo (freguesia de Afonsoeiro)"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28963",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação de Paul à categoria de vila, no concelho da Covilhã"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28958",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de São Vicente de Alfena à categoria de vila, no concelho de Valongo"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28956",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Ribafria, no concelho de Alenquer"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28966",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da feguesia de Fradelos no concelho de Braga"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28946",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação de Paul à categoria de vila, no concelho da Covilhã"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28992",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da freguesia de São Vicente de Alfena à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "29022",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Alteração ao artigo 2º da Lei nº 81/85, de 4 de Outubro (limites da freguesia da Lapa do Lobo no concelho de Nelas)"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "29016",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Criação da freguesia de Olival de Basto, no concelho de Loures"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "29013",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de Torre Dona Chama a vila, no concelho de Mirandela"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "29009",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da freguesia de Amora, no concelho do Seixal à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "29068",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de Loriga, do concelho de Seia, à categoria de vila"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "29063",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Elevação da povoação de Paranhos da Beira à categoria de vila"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1989-06-30",
+    "Debate": "PJL n.º 108/V/1; PJL n.º 118/V/1; PJL n.º 119/V/1; PJL n.º 126/V/1; PJL n.º 140/V/1; PJL n.º 144/V/1; PJL n.º 149/V/1; PJL n.º 150/V/1; PJL n.º 156/V/1; PJL n.º 162/V/1; PJL n.º 168/V/1; PJL n.º 18/V/1; PJL n.º 186/V/1; PJL n.º 189/V/1; PJL n.º 192/V/1; PJL n.º 193/V/1; PJL n.º 196/V/1; PJL n.º 204/V/1; PJL n.º 207/V/1; PJL n.º 21/V/1; PJL n.º 213/V/1; PJL n.º 214/V/1; PJL n.º 232/V/1; PJL n.º 233/V/1; PJL n.º 247/V/1; PJL n.º 250/V/1; PJL n.º 260/V/1; PJL n.º 261/V/1; PJL n.º 270/V/1; PJL n.º 273/V/1; PJL n.º 275/V/1; PJL n.º 282/V/1; PJL n.º 285/V/1; PJL n.º 289/V/1; PJL n.º 295/V/1; PJL n.º 308/V/2; PJL n.º 317/V/2; PJL n.º 319/V/2; PJL n.º 325/V/2; PJL n.º 330/V/2; PJL n.º 332/V/2; PJL n.º 334/V/2; PJL n.º 341/V/2; PJL n.º 342/V/2; PJL n.º 344/V/2; PJL n.º 345/V/2; PJL n.º 346/V/2; PJL n.º 347/V/2; PJL n.º 348/V/2; PJL n.º 349/V/2; PJL n.º 350/V/2; PJL n.º 356/V/2; PJL n.º 359/V/2; PJL n.º 360/V/2; PJL n.º 373/V/2; PJL n.º 374/V/2; PJL n.º 376/V/2; PJL n.º 380/V/2; PJL n.º 382/V/2; PJL n.º 386/V/2; PJL n.º 390/V/2; PJL n.º 393/V/2; PJL n.º 397/V/2; PJL n.º 399/V/2; PJL n.º 408/V/2; PJL n.º 411/V/2; PJL n.º 412/V/2; PJL n.º 415/V/2; PJL n.º 416/V/2; PJL n.º 418/V/2; PJL n.º 51/V/1; PJL n.º 54/V/1; PJL n.º 74/V/1; PJL n.º 81/V/1; PJL n.º 94/V/1",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "140",
+      "nome": "Vitor Crespo"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "221200",
+    "IdDebate": "4328",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "V",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "221200",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "4835-4835"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-07-01",
+        "pubLeg": "V",
+        "pubNr": "99",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/099/1989-07-01/4835?pgs=4835&org=PLC"
+      }
+    ],
+    "Qualidade": "P.A.R.",
+    "Resumo": "Ao Deputado Barbosa da Costa (PRD)",
+    "Sessao": "2",
+    "Sumario": "Criação da freguesia de Bobadela no munícipio de Loures; Criação da freguesia de Famões no munícipio de Loures; Criação da freguesia de Comporta; Elevação da freguesia de São Vicente de Alfena à categoria de vila; Elevação da povoação de Pedroso, no concelho de Vila Nova de Gaia, à categoria de vila; Criação da freguesia de Dornelas no concelho de Sever do Vouga; Criação da freguesia de Prior Velho no munícipio de Loures; Criação da freguesia  de Carreira no concelho de Leiria; Alteração da designação do concelho de Vila Nova de Ourém, da freguesia de Vila Nova de Ourém e da freguesia de Ourém; Criação da freguesia de Olival de Basto, no concelho de Loures; Criação da freguesia de Usseira no concelho de Óbidos; Elevação de Eixo à categoria de vila; Elevação de Vila Chã de São Roque à categoria de vila; Criação da freguesia de Enxames no concelho do Fundão; Alteração ao artigo 2º da Lei nº 81/85, de 4 de Outubro (limites da freguesia da Lapa do Lobo no concelho de Nelas); Criação da freguesia de Nossa Senhora do Ó de Aguim, no concelho de Anadia; Elevação da povoação de São João do Campo, do concelho de Coimbra, à categoria de vila; Elevação da povoação de Torre Dona Chama a vila, no concelho de Mirandela; Elevação da freguesia de Mora, no concelho do Seixal à categoria de vila; Alteração da designação das freguesias das Caldas da Rainha e de Santo Onofre, do concelho das Caldas da Rainha; Elevação a vila da povoação de Fânzeres no concelho de Gondomar; Elevação da povoação de Paranhos da Beira à categoria de vila; Elevação da freguesia de Cacia à categoria de vila; Criação da freguesia de Montes no concelho de Alcobaça; Elevação de Oiã à categoria de vila; Elevação de Branca à categoria de vila; Elevação de Paul à categoria de vila, no concelho da Covilhã; Elevação da povoação de Pedroso do munícipio de Vila Nova de Gaia; Elevação da povoação de Loriga à categoria de vila; Elevação de Pias à categoria de vila; Criação da freguesia de Montes no concelho de Alcobaça; Criação da freguesia de Santo António dos Cavaleiros, no concelho de Loures; Criação da freguesia de Luzianes-Gare no concelho de Odemira; Elevação da povoação de Forjães à categoria de vila, no concelho de Esposende; Criação da freguesia de Assentiz no concelho de Rio Maior; Criação da freguesia de \"3 Bairros\", no concelho do Montijo (freguesia de Afonseiro); Elevação de Pias à categoria de vila; Elevação da povoação de Forte da Casa a vila no concelho de Vila Franca de Xira; Elevação da povoação de São Pedro da Cova à categoria de vila, no concelho de Gondomar; Elevação da povoação de Amora, no concelho do Seixal, à categoria de vila; Criação da freguesia da Ramada no munícipio de Loures;Criação da freguesia de Ribeira do Farrio do concelho de Vila Nova de Ourém; Elevação da povoação de São Pedro da Cova, no concelho de Gondomar, à categoria de vila; Altera os limites da freguesia de Pereiras-Gare, no concelho de Odemira; Criação da freguesia de Ribeira do Fárrio, no concelho de Vila Nova de Ourém; Elevação de Pêro Pinheiro à  categoria de vila; Elevação da povoação de Alhadas à categoria de vila; Criação da freguesia de Santo António dos Cavaleiros, no concelho de Loures; Elevação de Aldeia do Carvalho à categoria de vila; Criação da freguesia de Cantar-Galo no concelho da Covilhã; Criação da freguesia da Borda do Campo no concelho da Figueira da Foz; Elevação da povoação de Mozelos, no concelho de Santa Maria da Feira, à categoria de vila; Criação da freguesia de Cortes no concelho de Monção; Elevação da povoação de São Vicente de Alfena à categoria de vila, no concelho de Valongo; Criação da freguesia de Santo António dos Cavaleiros no concelho de Loures; Criação da feguesia de Fradelos no concelho de Braga; Criação da freguesia de Luzianes-Gare, no concelho de Odemira; Elevação de Forte da Casa à categoria de vila; Criação da freguesia de Zambujeira do Mar no concelho de Odemira; Elevação de Paranhos da Beira à categoria de vila; Elevação da povoação de Paião,",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Explicações"
+  }
+}
