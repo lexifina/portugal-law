@@ -1,0 +1,8 @@
+Portaria n.º 736-A/93
+de 13 de Agosto
+Em execução do acórdão proferido em 22 de Junho de 1993 na 1.ª Secção do Supremo Tribunal Administrativo (processo n.º 31102), o prédio rústico denominado «São Martinho de Baixo», descrito na Conservatória do Registo Predial de Ponte de Sor sob o n.º 3720, a fl. 36 v.º do livro B-8, e inscrito na matriz predial rústica sob os artigos 80, 85 e 87 da secção BBB, da freguesia de Montargil, concelho de Ponte de Sor, explorado por Manuel Nunes Dias, deverá ser excluído da zona de caça associativa da Herdade do Beirão e outras, criada e delimitada pelas Portarias n.os 1038/90, de 12 de Outubro, e 713/92, de 11 de Julho, e concedida ao Clube de Caçadores e Pescadores de Montargil.
+Nestes termos, em obediência ao determinado no acórdão do Supremo Tribunal Administrativo acima identificado e com fundamento no artigo 21.º da Lei n.º 30/86, de 27 de Agosto:
+Manda o Governo, pelo Ministro da Agricultura, que pelo presente diploma seja revogada parcialmente a Portaria n.º 713/92, de 11 de Julho, devendo o prédio rústico denominado «São Martinho de Baixo», descrito na Conservatória do Registo Predial de Ponte de Sor sob o n.º 3720, a fl. 36 v.º do livro B-8, e inscrito na matriz predial rústica sob os artigos 80, 85 e 87 da secção BBB, da freguesia de Montargil, concelho de Ponte de Sor, ter-se por não incluído, para todos os efeitos legais, na zona de caça associativa da Herdade do Beirão e outras, concessionada ao Clube de Caçadores e Pescadores de Montargil pelas Portarias n.os 1038/90, de 12 de Outubro, e 713/92, de 11 de Julho.
+Ministério da Agricultura.
+Assinada em 12 de Agosto de 1993.
+Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
