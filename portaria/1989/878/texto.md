@@ -1,0 +1,23 @@
+Portaria n.º 878/89
+de 11 de Outubro
+1. As principais reformas estruturais em curso na economia portuguesa passam pelo Ministério das Finanças, que assim tem de aprofundar o seu próprio processo de reestruturação, cuja matriz orgânica se encontra no Decreto-Lei n.º 229/86, de 14 de Agosto.
+De idêntica reestruturação orgânica carece a sua Secretaria-Geral, cujas funções vêm sendo sucessivamente alargadas, impondo um substancial reforço dos seus meios humanos e materiais e uma sua eficaz organização.
+2. A delicadeza da reforma orgânica, que, não obstante, se encontra já em adiantada preparação, obriga a que de momento se proceda apenas aos ajustamentos considerados indispensáveis, nomeadamente em matéria de pessoal.
+Acrescentam-se assim alguns lugares ao seu quadro, designadamente para integração de funcionários oriundos do QEI e do extinto Instituto do Investimento Estrangeiro, do mesmo passo o alterando no que se refere ao pessoal técnico-profissional.
+3. Através da Portaria n.º 603/87, de 15 de Julho, foi decidida a integração na Secretaria-Geral do Ministério das Finanças do pessoal do Centro de Edições e Artes Gráficas do extinto Centro de Informação Científica e Técnica da Reforma Administrativa, para tanto se aumentando o respectivo quadro. A solução ficou, porém, pendente de execução, dado terem surgido dúvidas sobre o melhor enquadramento orgânico desse Centro, tendo então a Portaria n.º 741/87, de 29 de Agosto, mandado afectar transitoriamente o pessoal em causa à Direcção-Geral da Administração Pública.
+Impõe-se acabar com tal situação provisória, afigurando-se que a solução inicial é a mais correcta, já que aquele Centro deve vocacionar-se para o apoio a todo o Ministério, sendo assim caso de integração na sua Secretaria-Geral. É o que pelo presente diploma se vem também dispor.
+Nestes termos:
+Manda o Governo, pelo Ministro das Finanças, ao abrigo do n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro, e do disposto no Decreto-Lei n.º 229/86, de 14 de Agosto, o seguinte:
+1.º O quadro da Secretaria-Geral do Ministério das Finanças, constante da Portaria n.º 689/86, de 18 de Novembro, é acrescido dos lugares constantes do mapa I anexo ao presente diploma.
+2.º Considerando-se alterada a respectiva nota, passam a ser extintos, quando vagarem, 7 dos 17 lugares previstos para as categorias de auxiliar administrativo de 1.ª ou de 2.ª classe.
+3.º O mesmo quadro é alterado quanto ao pessoal técnico-profissional nos termos do mapa II anexo ao presente diploma.
+4.º É revogado o n.º 1.º da Portaria n.º 741/87, de 29 de Agosto, retomando assim plena eficácia a Portaria n.º 603/87, de 15 de Julho.
+Ministério das Finanças.
+Assinada em 22 de Setembro de 1989.
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
+
+Mapa I a que se refere o n.º 1.º da Portaria n.º 878/89, de 11 de Outubro
+(ver documento original)
+
+Mapa II a que se refere o n.º 3.º da Portaria n.º 878/89, de 11 Outubro
+(ver documento original)
