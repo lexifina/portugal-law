@@ -1,0 +1,9 @@
+Portaria n.º 790/81
+de 11 de Setembro
+Considerando que no quadro de pessoal da Secretaria-Geral (Finanças), constante do mapa anexo à Portaria n.º 250/80, de 15 de Maio, elaborada ao abrigo e para efeitos do disposto no artigo 20.º do Decreto-Lei n.º 191-C/79, de 25 de Junho, e nos artigos 2.º e 12.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, foram omitidas, por lapso, 2 unidades com a categoria de porteiro, sendo uma no grupo de pessoal operário e auxiliar e outra, como porteiro de 1.ª classe supranumerário, no grupo de pessoal supra-numerário;
+Considerando que se impõe regularizar a situação daquelas duas unidades no que respeita apenas ao período que decorre entre a entrada em vigor do Decreto-Lei n.º 191-C/79, de 25 de Junho, e a data em que os mesmos foram providos em lugares do quadro;
+Considerando que os 2 porteiros foram remunerados, durante o período a que se refere o número anterior, nos termos do artigo 1.º do Decreto-Lei n.º 377/79, de 13 de Setembro, pelo que não houve lugar a quaisquer encargos adicionais:
+Nestes termos:
+Ao abrigo do disposto no artigo 20.º do Decreto-Lei n.º 191-C/79, de 25 de Junho:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano e pelo Secretário de Estado da Reforma Administrativa, aditar 2 lugares de categoria de porteiro ao quadro constante do mapa anexo à Portaria n.º 250/80, de 15 de Maio, os quais se integram nesse quadro para todos os efeitos legais, sendo um no grupo sócio-profissional de pessoal operário e auxiliar e outro, como porteiro de 1.ª classe supranumerário, no grupo de pessoal supranumerário.
+Ministérios das Finanças e do Plano e da Reforma Administrativa, 1 de Setembro de 1981. - Pelo Ministro das Finanças e do Plano, António José Nunes Loureiro Borges, Secretário de Estado Adjunto do Ministro das Finanças e do Plano. - O Secretário de Estado da Reforma Administrativa, José Cândido Sousa Carrusca Robin de Andrade.
