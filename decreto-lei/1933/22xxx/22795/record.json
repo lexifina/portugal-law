@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1933/07/14600/13331333.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1933-07-01",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "f997ff9741fe8f1dec9e3d3fc60d60e1143305e3cfff6fe6f7b2c4b3fd97d3a4",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.9,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "e7874a7de0c70b61a404d59b9ac620200eddbe3fed268c67d873e2f53621d361",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 151
 }
