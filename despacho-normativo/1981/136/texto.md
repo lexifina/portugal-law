@@ -1,0 +1,9 @@
+Despacho Normativo n.º 136/81
+Considerando a divergência de quadros da ex-administração ultramarina face aos quadros da Administração Pública Portuguesa;
+Considerando ainda que para o exercício de funções idênticas eram distintas as habilitações académicas exigidas, o que levou à necessidade de proceder a uma reclassificação dos ex-funcionários ultramarinos para uma categoria diferente da que eram possuidores na ex-administração ultramarina;
+Considerando, finalmente, que as categorias contempladas nos Despachos Normativos n.os 335/79, de 9 de Novembro, 202/80, de 27 de Junho, 293/80, de 11 de Agosto, e 355/80, de 8 de Novembro, não esgotam as categorias que são merecedoras de ser contempladas pelos benefícios consignados nos Decretos-Leis n.os 191-C/79, 377/79 e 465/80:
+Determino, ao abrigo do n.º 2 do artigo 9.º do Decreto-Lei n.º 377/79, com referência ao artigo 8.º do Decreto-Lei n.º 465/80:
+1 - Aos funcionários adidos que foram reclassificados ou integrados nos quadros dos serviços ou organismos utilizadores com as categorias de escriturário-dactilógrafo e catalogador será contado, para efeitos dos n.os 1 e 3 do artigo 12.º do Decreto-Lei n.º 191-C/79 e do artigo 6.º do Decreto-Lei n.º 465/80, o tempo de serviço prestado na anterior categoria de professor de posto escolar.
+2 - A produção dos efeitos resultantes da presente alteração só será considerada a partir dos prazos consignados no n.º 4 do artigo 4.º do Decreto-Lei n.º 377/79 e no artigo 13.º do Decreto-Lei n.º 465/80, se a prova da contagem de tempo de serviço tiver sido apresentada na Direcção-Geral de Recrutamento e Formação até 30 de Maio de 1981.
+3 - O disposto nos preceitos anteriores aplica-se ao pessoal oriundo do quadro geral de adidos que já se encontre integrado nos quadros da Administração.
+Ministério da Reforma Administrativa, 20 de Abril de 1981. - O Ministro da Reforma Administrativa, Eusébio Marques de Carvalho.
