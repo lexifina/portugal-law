@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal Administrativo de 2000-10-04, processo 035311
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 035311
+
+**Data do Acordão:** 10/04/2000
+
+**Tribunal:** 3 SUBSECÇÃO DO CA
+
+**Relator:** ANSELMO RODRIGUES
+
+**Descritores:** PROT.; PLANO REGIONAL DE ORDENAMENTO DO TERRITÓRIO DO ALGARVE.; INCONSTITUCIONALIDADE.; FUNDAMENTAÇÃO DO ACTO ADMINISTRATIVO.; DECLARAÇÃO DE INCOMPATIBILIDADE.; PODER VINCULADO.; AUDIÊNCIA DO INTERESSADO .
+
+**Nº Convencional:** JSTA00055559
+
+**Nº do Documento:** SA120001004035311
+
+**Data de Entrada:** 07/05/1994
+
+**Recorrente:** MANTAL-CONSTRUÇÃO COMPRA E VENDA DE IMÓVEIS LDA
+
+**Recorrido 1:** SE DA ADMINISTRAÇÃO LOCAL E ORDENAMENTO DO TERRITÓRIO
+
+**Recorrido 2:** SE DO TURISMO
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC CONT.
+
+**Objecto:** DESP CONJUNTO SE DA ADMINISTRAÇÃO LOCAL E DO ORDENAMENTO DO TERRITÓRIO E SE DO TURISMO DE 1994/04/21.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR URB.; DIR ADM CONT - ACTO.
+
+**Área Temática 2:** DIR CONST - DIR FUND / GARANTIAS ADMI / PODER POL.
+
+**Legislação Nacional:** CONST89 ART140 N1 B ART141 ART267 N4.; CONST82 ART6 N1 ART9 D E ART18 N2 ART62 N1 N2 ART65 N1 N2 A ART66 ART168 N1 B L R S N2 ART237 ART288 N1 N.; DL 351/93 DE 1993/10/07 ART2 N2 ART4 N1.; DL 176-A/88 DE 1988/05/18.; DL 448/91 DE 1991/11/29 ART4 N2.; DL 367/90 DE 1990/11/26.; DL 249/94 DE 1994/10/12.; DL 309/95 DE 1995/11/20.; DL 48051 DE 1967/11/21 ART9 N1.; DRGU 11/91 DE 1991/03/21 ART14 N2.; CCIV66 ART279.; CPA91 ART72 ART98 N1 ART100 ART124 N1 A C ART125 N1 ART133 N2 D ART141 N1.
+
+**Jurisprudência Nacional:** AC STA PROC34981 DE 1999/02/18.; AC STA PROC35820 DE 1995/11/09.; AC TC 329/99 DE 1999/07/02.; AC TC 517/99 DE 1999/09/22.; AC STA PROC35338 DE 1999/02/18.; AC TC 423/93 DE 1993/07/13 IN DR 1993/03/18.; AC TC 626/96 DE 1999/11/09.; AC TC 329/99 DE 1999/06/02.; AC TC 517/99 DE 1999/09/22.; AC STA PROC35388 DE 1999/02/18.; AC STA PROC35820 DE 1998/06/04.
+
+**Referência a Doutrina:** REBELO DE SOUSA IN REVISTA JURÍDICA DO AMBIENTE E URBANISMO N1 PAG131.; ALVES CORREIA PLANO URBANÍSTICO E PRINCÍPIO DA IGUALDADE PAG491.; RUI MACHETE IN REVISTA JURÍDICA DO AMBIENTE E URBANISMO N1 PAG253.
+
+## Sumário
+
+"I - Os planos do ordenamento do território regulados pelo DL 176-A/88, de 18/5, não sofrem de qualquer vício, designadamente, do vício de inconstitucionalidade material, orgânica ou formal daquele diploma legal.
+
+II - A declaração de incompatibilidade com base no nº 4 do art. 1º do DL 351/93, na medida em que sendo praticada no exercício de um poder vinculado, não podia ser outra, não impunha o cumprimento do art. 100º do CPA."
