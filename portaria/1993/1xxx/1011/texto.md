@@ -1,0 +1,29 @@
+Portaria n.º 1011/93
+de 12 de Outubro
+Sob proposta da comissão instaladora do Instituto Politécnico de Lisboa;
+Considerando o disposto na Portaria n.º 1072/91, de 23 de Outubro;
+Ao abrigo do disposto no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+1.º
+Vagas - 1993-1994
+Para o ano lectivo de 1993-1994, o número de vagas para o curso de estudos superiores especializados em Educação Especial - Educação Pré-Escolar e Ensino Básico (1.º Ciclo) ministrado pela Escola Superior de Educação do Instituto Politécnico de Lisboa é fixado em 25, assim distribuído pelas suas opções e contingentes:
+(ver documento original)
+2.º
+Reversão de vagas entre contingentes
+Em cada uma das opções a que se refere o n.º 1.º as vagas eventualmente não ocupadas de um contingente reverterão para o outro contingente.
+3.º
+Vagas sobrantes
+1 - As vagas eventualmente sobrantes de uma opção serão afectadas às outras opções pela seguinte ordem de prioridade:
+a) Problemas Motores Profundos:
+Contingente da alínea b) do n.º 1 do n.º 6.º da Portaria n.º 1072/91;
+Contingente da alínea a) do n.º 1 do n.º 6.º da Portaria n.º 1072/91;
+b) Problemas Graves de Comunicação:
+Contingente da alínea b) do n.º 1 do n.º 6.º da Portaria n.º 1072/91;
+Contingente da alínea a) do n.º 1 do n.º 6.º da Portaria n.º 1072/91;
+c) Necessidades Educativas Ligeiras:
+Contingente da alínea b) do n.º 1 do n.º 6.º da Portaria n.º 1072/91;
+Contingente da alínea a) do n.º 1 do n.º 6.º da Portaria n.º 1072/91.
+2 - As vagas eventualmente sobrante desta operação não serão utilizáveis para qualquer fim.
+Ministério da Educação.
+Assinada em 20 de Setembro de 1993.
+O Ministro da Educação, António Fernando Couto dos Santos.
