@@ -17,9 +17,25 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1937/02/03600/01300134.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1937-02-13",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "36539358d5440e52c655eb86594dcfb6075cb4ae1179efd0ac58e986f69984f7",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.3,
+    "pages": 5,
+    "columns": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "3a7014b93b6cc6711dbd4683f836c0a5cad6acec4d47f12f25bf4514f9611d29",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 4242
 }
