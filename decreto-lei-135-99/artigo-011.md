@@ -15,7 +15,3 @@
 4 - Sempre que possível e se justifique, o serviço deve ponderar a instalação de linhas de atendimento específico de custos reduzidos ou nulos para o utente.
 
 5 - A existência destas linhas de atendimento é de referência obrigatória em todas as comunicações e suportes informativos externos, bem como nos anuários telefónicos.
-
-6 - Sempre que possível e adequado, os sistemas de atendimento telefónico aos cidadãos devem ser alargados de forma a poder incluir comunicações por chat em plataformas eletrónicas ou por teleconferência, nomeadamente através de VoIP.
-
-7 - As comunicações referidas no número anterior dependem de consentimento do cidadão.

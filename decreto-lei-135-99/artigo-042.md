@@ -2,11 +2,9 @@
 
 ### Relatório da modernização administrativa
 
-1 - Compete às secretarias-gerais ou aos serviços de cada ministério com atribuições e competências nas áreas de inovação, modernização e política de qualidade, a elaboração de relatórios anuais de avaliação das medidas de modernização administrativa executadas no âmbito dos respetivos ministérios, a enviar ao membro do Governo competente, com cópia dirigida à AMA, I. P., para os efeitos previstos no artigo 43.º
+1 - Compete às secretarias-gerais ou aos serviços de organização e pessoal de cada ministério a elaboração de relatórios anuais de avaliação das medidas de modernização administrativa executadas no âmbito dos respectivos ministérios, a enviar ao membro do Governo competente, com cópia dirigida ao Secretariado para a Modernização Administrativa, para os efeitos previstos no artigo 43.º
 
-2 - Na administração local, compete à Direção-Geral das Autarquias Locais a elaboração do relatório anual de avaliação das medidas de modernização administrativa executadas no âmbito das autarquias locais, do qual deve ser remetida cópia à AMA, I. P., para os efeitos previstos no artigo 43.º
-
-3 - Os relatórios de avaliação referidos nos números anteriores incidem, obrigatoriamente, sobre os seguintes aspetos:
+2 - Na administração local, compete à Direcção-Geral das Autarquias Locais a elaboração do relatório anual de avaliação das medidas de modernização administrativa executadas no âmbito das autarquias locais, cópia dos quais deve ser remetida ao Secretariado para a Modernização Administrativa, para os efeitos previstos no artigo 43.º
 
 3 - Os relatórios de avaliação referidos no número anterior incidem, obrigatoriamente, sobre os seguintes aspectos:
 
@@ -22,8 +20,4 @@ e) Disponibilização de suportes informativos;
 
 f) Inovações tecnológicas introduzidas;
 
-g) Avaliação global do conjunto dos elogios, sugestões e das reclamações e síntese das medidas adotadas em consequência dos mesmos;
-
-h) Valor global estimado da redução de custos de contexto para os cidadãos e agentes económicos decorrente das medidas de simplificação e modernização administrativa adotadas;
-
-i) Valor global estimado das poupanças decorrentes das medidas de modernização e simplificação administrativa adotadas.
+g) Avaliação global do conjunto das reclamações e síntese das medidas correctivas adoptadas.

@@ -1,9 +1,9 @@
 # Artigo 49.º
 
-### Sistema de pesquisa online de informação pública
+### Apontador universal
 
-1 - É criado o sistema de pesquisa online de informação pública que indexa todos os conteúdos públicos dos sítios na Internet das entidades públicas.
+1 - É criado o apontador universal Res publica, via Internet, para todos os endereços electrónicos de páginas de entidades públicas.
 
-2 - A informação pública referida no número anterior corresponde à informação que pela sua natureza e nos termos da lei possa ser disponibilizada ao público.
+2 - O endereço mencionado no número anterior é criado no Secretariado para a Modernização Administrativa.
 
-3 - Esse sistema é gerido pela AMA, I. P., e é disponibilizado nos portais de entrada da Administração Pública.
+3 - Progressivamente e à medida das disponibilidades tecnológicas, o apontador universal deve permitir a ligação a sistemas de informação e a bases de dados específicos com interesse para os cidadãos e agentes económicos.
