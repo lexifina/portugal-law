@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que foram trocados, em Lisboa, em 15 de Junho de 1972, entre o Ministro dos Negócios Estrangeiros de Portugal e o Embaixador da República Federal da Alemanha em Lisboa, os instrumentos de ratificação do Tratado entre a República Portuguesa e a República Federal da Alemanha sobre a Utilização das Águas e dos Portos Portugueses pelo N/N Otto Hahn, assinado em Bona em 29 de Janeiro de 1971 e aprovado, para ratificação, pelo Decreto-Lei n.º 104/71, de 25 de Março.
+Direcção-Geral dos Negócios Económicos, 18 de Junho de 1972. - O Director-Geral Interino, Tomás de Melo Breyner Andresen.
