@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1914/03/04100/01690169.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1914-03-18",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "8160582dd4379f2324b7b1e2793780339bf5463118fe36df26abba90e43e9bf6",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 97.1,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "a5251a1087fdc60606e5839bfc4292e6a32f539e5cd8dab467fe1ccfc9a5ee01",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 229
 }
