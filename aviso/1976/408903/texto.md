@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que a Embaixada de Portugal em Bucareste enviou ao Ministério dos Negócios Estrangeiros romeno uma nota verbal, datada de 26 de Julho de 1976, informando que a Parte Portuguesa deu já cumprimento às formalidades constitucionais relativas à assinatura e entrada em vigor do Acordo entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia sobre Cooperação no Domínio do Turismo, assinado em Lisboa em 15 de Março de 1975 e publicado no Diário do Governo, 1.ª série, n.º 227, de 1 de Outubro de 1975, em resposta a uma nota verbal daquele Ministério, datada de 23 de Fevereiro de 1976, que informava estarem cumpridas aquelas formalidades pela Parte Romena.
+Nesta conformidade, e segundo o disposto no seu artigo 13, o Acordo em apreço entrou em vigor em 26 de Julho de 1976.
+Direcção-Geral dos Negócios Económicos, 8 de Setembro de 1976. - O Director-Geral Adjunto, Paulo Manuel Lage David Ennes.
