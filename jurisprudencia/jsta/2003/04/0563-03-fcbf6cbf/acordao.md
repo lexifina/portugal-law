@@ -1,0 +1,51 @@
+# Acórdão do Supremo Tribunal Administrativo de 2003-04-09, processo 0563/03
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0563/03
+
+**Data do Acordão:** 04/09/2003
+
+**Tribunal:** 2 SUBSECÇÃO DO CA
+
+**Relator:** ALBERTO AUGUSTO OLIVEIRA
+
+**Descritores:** FORNECIMENTO DE BENS.; CONCURSO PÚBLICO.; RECURSO CONTENCIOSO.; PRAZO.; RECURSO JURISDICIONAL.; ALEGAÇÕES.; PROCESSO URGENTE.
+
+**Nº Convencional:** JSTA00059096
+
+**Nº do Documento:** SA1200304090563
+
+**Data de Entrada:** 03/14/2003
+
+**Recorrente:** A...
+
+**Recorrido 1:** PRES DO CONSELHO ADMINISTRATIVO DA DIRECÇÃO GERAL DE VETERINÁRIA
+
+**Votação:** UNANIMIDADE COM 1 DEC VOT
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** DESP TAC LISBOA DE 2002/11/28.
+
+**Decisão:** PROVIDO.
+
+**Indicações Eventuais:** JURISPRUDÊNCIA MAIORITÁRIA.
+
+**Área Temática 1:** DIR ADM ECON - CONCURSO PARA FORNECIMENTO DE BENS.; DIR ADM CONT - REC JURISDICIONAL.
+
+**Legislação Nacional:** LPTA85 ART6 ART12 ART18 ART24 A B ART43 ART78 ART102 ART106 ART109 ART113 N2 ART114 ART115 N2.; DL 134/98 DE 1998/05/15 ART4 ART5 N5 N6.; CPC96 ART144 N1 ART382 ART687 N4 ART706 ART727 ART749 ART762 ART765 ART767 ART771.; DL 329-A/95 DE 1995/12/12 NA REDACÇÃO DO DL 180/96 DE 1996/09/25 ART6 E.; L 4-A/2003 ART5.; CPTA02 ART101.; ETAF96 ART51.; CJM77 ART431 N2.; DL 18096 DE 1996/09/25 ART4.; LTC82 ART79.; CADM40 ART848 PARÚNICO.; RSTA57 ART34 ART67.
+
+**Legislação Comunitária:** DIR CONS CEE 89/665 DE 1989/12/21 NA REDACÇÃO DA DIR CONS CEE 92/50 DE 1992/06/18 ART1 N1 ART2 N1 N2 ART5 N5.
+
+**Jurisprudência Nacional:** AC STA PROC47432 DE 2001/05/30.; AC STAPLENO PROC432/02 DE 2003/02/19.; AC STA PROC349/03 DE 2003/03/12.; AC STA PROC189/2003 DE 2003/02/19.; AC STA PROC1353/02 DE 2002/09/04.; AC STA PROC1245/02 DE 2002/08/21.; AC STA PROC982/02 DE 2002/07/10.; AC STA PROC48303 DE 2002/01/09.; AC TC 92/01 DE 2001/03/13 IN ACTC V49 PAG329.; AC TC 13/98 IN DR IS-A 1998/02/07.
+
+**Jurisprudência Internacional:** AC TRIJ PROC C-470/99 DE 2002/12/12 IN HTTP//:WWW.EUROPA.EU.INT/.; AC TRIJ PROC C-327/00 IN HTTP//:WWW.EUROPA.EU.INT/.
+
+**Referência a Doutrina:** BERNARDO DINIZ DE AYALA A TUTELA CONTENCIOSA IN CJA N14 PAG3-4.; ISABEL CELESTE FONSECA INTRODUÇÃO AO ESTUDO SISTEMÁTICO DA TUTELA CAUTELAR NO PROCESSO ADMINISTRATIVO NOTA1082.
+
+## Sumário
+
+I - O termo "alegações" constante da alínea a) do n.º 4 do artigo 4.º do DL 134/98, de 15 de Maio, reporta-se, exclusivamente, às alegações na fase contenciosa do recurso.
+
+II - Ao prazo para as alegações de recurso (de agravo) de decisão proferida no âmbito dos recursos contenciosos regidos por aquele diploma aplica-se o disposto no artigo 106.º da LPTA, correndo, no entanto, sem suspensão em férias judiciais.
