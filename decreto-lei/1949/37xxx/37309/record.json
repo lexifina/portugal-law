@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1949/02/03200/00870087.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1949-02-18",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "0272d6c4de60461d96da129e61a3566396cfd95a8f9247f8d9978c77b8ca92dd",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.5,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "5c5f06d0e07b33797a5fcf06b73368d09c88b2a20b96b61167c01ded4b002b17",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 180
 }
