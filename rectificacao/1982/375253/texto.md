@@ -1,0 +1,3 @@
+Rectificação
+Declara-se, para os devidos efeitos, que a Lei Constitucional n.º 1/82, de 30 de Setembro, foi publicada com uma divergência em relação ao original arquivado na Assembleia da República, tendo sido impressas a assinatura do Presidente da Assembleia da República e a promulgação do Presidente da República no final do texto revisto da Constituição, anexo à lei, e não no final desta, pelo que se procede deste modo à devida rectificação, publicando-se, na íntegra, o texto da lei assinado pelo Presidente da Assembleia da República e promulgado pelo Presidente da República, seguido do anexo assinado pelo Presidente da Assembleia da República.
+Palácio de S. Bento, 30 de Setembro de 1982. - O Secretário-Geral da Assembleia da República, Octávio de Carvalho Cruz.
