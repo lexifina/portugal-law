@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o representante permanente de Portugal junto das Comunidades Europeias em Bruxelas depositou junto do Conselho das Comunidades, em 8 de Novembro de 1977, o instrumento de ratificação, por parte de Portugal, do Protocolo Adicional ao Acordo entre a República Portuguesa e a Comunidade Económica Europeia de 22 de Julho de 1972 e do Protocolo Financeiro entre a República Portuguesa e a Comunidade Económica Europeia, concluídos em Bruxelas em 20 de Setembro de 1976.
+Direcção-Geral dos Negócios Económicos, 30 de Novembro de 1977. - O Director-Geral, Alexandre Eduardo Lencastre da Veiga.
