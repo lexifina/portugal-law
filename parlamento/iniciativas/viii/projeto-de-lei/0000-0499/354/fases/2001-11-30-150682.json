@@ -1,0 +1,886 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "354",
+    "id": "5800",
+    "titulo": "Alterações a Lei nº 169/99, de 18 de Setembro, bem como a Lei nº 29/87, de 30 de Junho, na parte relativa ao funcionamento das assembleias municipais."
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "2001-11-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2134",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "2001-11-30",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5797",
+        "leg": "VIII",
+        "nr": "357",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "621",
+            "obs": null,
+            "pag": [
+              "1067-1080"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-12-03",
+            "pubLeg": "VIII",
+            "pubNr": "26",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1067?pgs=1067-1080&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "621",
+            "obs": null,
+            "pag": [
+              "1067-1080"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-12-03",
+            "pubLeg": "VIII",
+            "pubNr": "26",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1067?pgs=1067-1080&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "621",
+            "obs": null,
+            "pag": [
+              "1067-1080"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-12-03",
+            "pubLeg": "VIII",
+            "pubNr": "26",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1067?pgs=1067-1080&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Lei eleitoral para as autarquias locais."
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5786",
+        "leg": "VIII",
+        "nr": "370",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "621",
+            "obs": null,
+            "pag": [
+              "1067-1080"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-12-03",
+            "pubLeg": "VIII",
+            "pubNr": "26",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1067?pgs=1067-1080&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "621",
+            "obs": null,
+            "pag": [
+              "1067-1080"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-12-03",
+            "pubLeg": "VIII",
+            "pubNr": "26",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1067?pgs=1067-1080&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "621",
+            "obs": null,
+            "pag": [
+              "1067-1080"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-12-03",
+            "pubLeg": "VIII",
+            "pubNr": "26",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1067?pgs=1067-1080&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Alteração à Lei nº 169/99, de 18 de Setembro, em que se estabelece o quadro de competências, assim como o regime jurídico de funcionamento dos órgãos dos municípios e das freguesias."
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "5987",
+        "leg": "VIII",
+        "nr": "32",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "621",
+            "obs": null,
+            "pag": [
+              "1067-1080"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-12-03",
+            "pubLeg": "VIII",
+            "pubNr": "26",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1067?pgs=1067-1080&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "621",
+            "obs": null,
+            "pag": [
+              "1067-1080"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-12-03",
+            "pubLeg": "VIII",
+            "pubNr": "26",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1067?pgs=1067-1080&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "621",
+            "obs": null,
+            "pag": [
+              "1067-1080"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-12-03",
+            "pubLeg": "VIII",
+            "pubNr": "26",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1067?pgs=1067-1080&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Altera a Lei n.º169/99 de 18 de Setembro que estabelece o quadro de competências assim como o Regime Jurídico de Funcionamento dos Órgãos dos Municípios e das Freguesias bem como a Lei n.º 27/96 de 1 de Agosto que regula o Regime Jurídico da Tutela Administrativa e a Lei n.29/87 de 30 de Junho que define o Estatuto dos Eleitos Locais"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-11-30",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140414",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1067-1068"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-03",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1067?pgs=1067-1068&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.169/99 DE 18 DE SETEMBRO QUE ESTABELECE O QUADRO DE COMPETENCIAS ASSIM COMO O REGIME JURIDICO DE FUNCIONAMENTO DOS ORGAOS DOS MUNICIPIOS E DAS FREGUESIAS BEM COMO A LEI N. 27/96 DE 1 DE AGOSTO QUE REGULA O REGIME JURIDICO DA TUTELA ADMINISTRATIVA E A LEI N.29/87 DE 30 DE JUNHO QUE DEFINE O ESTATUTO DOS ELEITOS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140415",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1068-1068",
+                  "1071-1072"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-03",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1068?pgs=1068,1071-1072&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.169/99 DE 18 DE SETEMBRO QUE ESTABELECE O QUADRO DE COMPETENCIAS ASSIM COMO O REGIME JURIDICO DE FUNCIONAMENTO DOS ORGAOS DOS MUNICIPIOS E DAS FREGUESIAS BEM COMO A LEI N. 27/96 DE 1 DE AGOSTO QUE REGULA O REGIME JURIDICO DA TUTELA ADMINISTRATIVA E A LEI N.29/87 DE 30 DE JUNHO QUE DEFINE O ESTATUTO DOS ELEITOS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140416",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1068-1068",
+                  "1072-1079"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-03",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1068?pgs=1068,1072-1079&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.169/99 DE 18 DE SETEMBRO QUE ESTABELECE O QUADRO DE COMPETENCIAS ASSIM COMO O REGIME JURIDICO DE FUNCIONAMENTO DOS ORGAOS DOS MUNICIPIOS E DAS FREGUESIAS BEM COMO A LEI N. 27/96 DE 1 DE AGOSTO QUE REGULA O REGIME JURIDICO DA TUTELA ADMINISTRATIVA E A LEI N.29/87 DE 30 DE JUNHO QUE DEFINE O ESTATUTO DOS ELEITOS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1337",
+                "nome": "António Saleiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140417",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1069-1069"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-03",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1069?pgs=1069&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.169/99 DE 18 DE SETEMBRO QUE ESTABELECE O QUADRO DE COMPETENCIAS ASSIM COMO O REGIME JURIDICO DE FUNCIONAMENTO DOS ORGAOS DOS MUNICIPIOS E DAS FREGUESIAS BEM COMO A LEI N. 27/96 DE 1 DE AGOSTO QUE REGULA O REGIME JURIDICO DA TUTELA ADMINISTRATIVA E A LEI N.29/87 DE 30 DE JUNHO QUE DEFINE O ESTATUTO DOS ELEITOS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140418",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1069-1070",
+                  "1077-1077"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-03",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1069?pgs=1069-1070,1077&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.169/99 DE 18 DE SETEMBRO QUE ESTABELECE O QUADRO DE COMPETENCIAS ASSIM COMO O REGIME JURIDICO DE FUNCIONAMENTO DOS ORGAOS DOS MUNICIPIOS E DAS FREGUESIAS BEM COMO A LEI N. 27/96 DE 1 DE AGOSTO QUE REGULA O REGIME JURIDICO DA TUTELA ADMINISTRATIVA E A LEI N.29/87 DE 30 DE JUNHO QUE DEFINE O ESTATUTO DOS ELEITOS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1351",
+                "nome": "Manuel Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140419",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1070-1070",
+                  "1074-1074",
+                  "1077-1077"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-03",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1070?pgs=1070,1074,1077&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.169/99 DE 18 DE SETEMBRO QUE ESTABELECE O QUADRO DE COMPETENCIAS ASSIM COMO O REGIME JURIDICO DE FUNCIONAMENTO DOS ORGAOS DOS MUNICIPIOS E DAS FREGUESIAS BEM COMO A LEI N. 27/96 DE 1 DE AGOSTO QUE REGULA O REGIME JURIDICO DA TUTELA ADMINISTRATIVA E A LEI N.29/87 DE 30 DE JUNHO QUE DEFINE O ESTATUTO DOS ELEITOS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140420",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1070-1070",
+                  "1073-1073",
+                  "1078-1078"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-03",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1070?pgs=1070,1073,1078&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.169/99 DE 18 DE SETEMBRO QUE ESTABELECE O QUADRO DE COMPETENCIAS ASSIM COMO O REGIME JURIDICO DE FUNCIONAMENTO DOS ORGAOS DOS MUNICIPIOS E DAS FREGUESIAS BEM COMO A LEI N. 27/96 DE 1 DE AGOSTO QUE REGULA O REGIME JURIDICO DA TUTELA ADMINISTRATIVA E A LEI N.29/87 DE 30 DE JUNHO QUE DEFINE O ESTATUTO DOS ELEITOS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140421",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1070-1071"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-03",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1070?pgs=1070-1071&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.169/99 DE 18 DE SETEMBRO QUE ESTABELECE O QUADRO DE COMPETENCIAS ASSIM COMO O REGIME JURIDICO DE FUNCIONAMENTO DOS ORGAOS DOS MUNICIPIOS E DAS FREGUESIAS BEM COMO A LEI N. 27/96 DE 1 DE AGOSTO QUE REGULA O REGIME JURIDICO DA TUTELA ADMINISTRATIVA E A LEI N.29/87 DE 30 DE JUNHO QUE DEFINE O ESTATUTO DOS ELEITOS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1180",
+                "nome": "Dias Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140422",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1071-1071",
+                  "1073-1073",
+                  "1076-1076",
+                  "1079-1080"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-03",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1071?pgs=1071,1073,1076,1079-1080&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.169/99 DE 18 DE SETEMBRO QUE ESTABELECE O QUADRO DE COMPETENCIAS ASSIM COMO O REGIME JURIDICO DE FUNCIONAMENTO DOS ORGAOS DOS MUNICIPIOS E DAS FREGUESIAS BEM COMO A LEI N. 27/96 DE 1 DE AGOSTO QUE REGULA O REGIME JURIDICO DA TUTELA ADMINISTRATIVA E A LEI N.29/87 DE 30 DE JUNHO QUE DEFINE O ESTATUTO DOS ELEITOS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1373",
+                "nome": "Osvaldo de Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140423",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1071-1072"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-03",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1071?pgs=1071-1072&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.169/99 DE 18 DE SETEMBRO QUE ESTABELECE O QUADRO DE COMPETENCIAS ASSIM COMO O REGIME JURIDICO DE FUNCIONAMENTO DOS ORGAOS DOS MUNICIPIOS E DAS FREGUESIAS BEM COMO A LEI N. 27/96 DE 1 DE AGOSTO QUE REGULA O REGIME JURIDICO DA TUTELA ADMINISTRATIVA E A LEI N.29/87 DE 30 DE JUNHO QUE DEFINE O ESTATUTO DOS ELEITOS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140424",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1072-1073",
+                  "1075-1076",
+                  "1078-1080"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-03",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1072?pgs=1072-1073,1075-1076,1078-1080&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.169/99 DE 18 DE SETEMBRO QUE ESTABELECE O QUADRO DE COMPETENCIAS ASSIM COMO O REGIME JURIDICO DE FUNCIONAMENTO DOS ORGAOS DOS MUNICIPIOS E DAS FREGUESIAS BEM COMO A LEI N. 27/96 DE 1 DE AGOSTO QUE REGULA O REGIME JURIDICO DA TUTELA ADMINISTRATIVA E A LEI N.29/87 DE 30 DE JUNHO QUE DEFINE O ESTATUTO DOS ELEITOS LOCAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "14:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140425",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1080-1080"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-03",
+                "pubLeg": "VIII",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1080?pgs=1080&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI N.169/99 DE 18 DE SETEMBRO QUE ESTABELECE O QUADRO DE COMPETENCIAS ASSIM COMO O REGIME JURIDICO DE FUNCIONAMENTO DOS ORGAOS DOS MUNICIPIOS E DAS FREGUESIAS BEM COMO A LEI N. 27/96 DE 1 DE AGOSTO QUE REGULA O REGIME JURIDICO DA TUTELA ADMINISTRATIVA E A LEI N.29/87 DE 30 DE JUNHO QUE DEFINE O ESTATUTO DOS ELEITOS LOCAIS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "150682",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "267794",
+        "obs": null,
+        "pag": [
+          "1067--1080"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-12-03",
+        "pubLeg": "VIII",
+        "pubNr": "26",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/026/2001-12-03/1067?pgs=1067--1080&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
