@@ -1,0 +1,3 @@
+Declaração
+Para o efeito do disposto no n.º 2.º do artigo 24.º do Decreto-Lei n.º 41204, de 24 de Julho de 1957, se declara que, por despacho de S. Ex.ª o Secretário de Estado do Comércio de 29 de Junho de 1961, são mantidos para a campanha de 1961-1962 os preços e características do bacalhau salgado seco nacional e de procedência estrangeira, constantes da declaração publicada no Diário do Governo n.º 263, 1.ª série, de 12 de Novembro de 1960, e fixados, respectivamente, pelas Portarias n.º 13492, de 3 de Abril de 1951, n.º 14199, de 19 de Dezembro de 1952, n.º 17469, de 16 de Dezembro de 1959, e n.º 17415, de 31 de Outubro de 1959.
+Comissão de Coordenação Económica, 1 de Agosto de 1961. - Pelo Presidente, António Fezas Vital.
