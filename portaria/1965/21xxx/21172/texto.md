@@ -1,0 +1,7 @@
+Portaria n.º 21172
+Dispõe o Decreto-Lei n.º 46135, de 31 de Dezembro de 1964, que compete ao Instituto de Meios Áudio-Visuais de Ensino promover a aquisição, produção, troca e distribuição de material de cinema, projecção fixa, fotografia e gravação sonora para fins didácticos e culturais e orientar a sua utilização [artigo 2.º, alínea c)], e que esse material deve revestir as modalidades adequadas aos fins a que se destina (artigo 5.º).
+Traduzem estes preceitos o compreensível propósito de disciplinar a aquisição, produção, troca, distribuição e utilização do material áudio-visual destinado a fins didácticos e culturais, em obediência a uma ideia de economia e de eficiência técnica.
+Em conformidade com o espírito dos mesmos preceitos e para cabal realização dos seus objectivos, deve considerar-se necessário o parecer favorável do mencionado Instituto para todas as aquisições do material em referência que sejam efectuadas por serviços dependentes do Ministério da Educação Nacional.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, que toda e qualquer aquisição, por parte de serviços dependentes do Ministério da Educação Nacional, de material áudio-visual destinado a fins didácticos ou culturais, deverá ser precedida de parecer favorável do Instituto de Meios Áudio-Visuais de Ensino.
+Ministério da Educação Nacional, 17 de Março de 1965. - O Ministro da Educação Nacional, Inocêncio Galvão Teles.
