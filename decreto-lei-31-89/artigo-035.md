@@ -1,15 +1,3 @@
-## Título V
-
-## Importações de determinados produtos agrícolas ou destinados à agricultura
-
-## Capítulo I
-
-## Produtos obtidos por agricultores nacionais em propriedades situadas em Espanha
-
-## Capítulo II
-
-## Sementes, adubos e produtos para o tratamento do solo e das culturas
-
 ## Título VI
 
 ## Importações de substâncias terapêuticas, medicamentos, animais de laboratório e substâncias biológicas ou químicas
@@ -26,7 +14,7 @@ a) Os animais especialmente preparados para uso laboratorial;
 
 b) As substâncias biológicas ou químicas:
 
-i) (Revogada);
+i) Importadas a título gratuito, provenientes de outro Estado membro; ou
 
 ii) Importadas de países situados fora da Comunidade, de que não exista produção equivalente no território aduaneiro da Comunidade e que sejam importadas exclusivamente para fins não comerciais, desde que constem da lista anexa ao Regulamento (CEE) n.º 2288/83, da Comissão, de 29 de Julho de 1983.
 

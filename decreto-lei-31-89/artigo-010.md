@@ -2,7 +2,7 @@
 
 1 - Na importação de bens sujeitos a limites quantitativos no âmbito da legislação em vigor relativa ao tráfego internacional de viajantes provenientes de países terceiros, a isenção prevista no artigo 1.º só será concedida até às quantidades fixadas naquela legislação, sem prejuízo do disposto no artigo 5.º
 
-2 -(Eliminado).
+2 - Na importação de velocípedes, motociclos, veículos automóveis de uso privado e seus reboques, caravanas de campismo, barcos de recreio e aviões de turismo, a isenção só será concedida a uma unidade de cada espécie.
 
 3 - Na importação de veículos rodoviários a motor, de barcos de recreio e de aviões de turismo, a isenção só será concedida se o particular interessado estiver legalmente habilitado para a sua condução, governo ou pilotagem, respectivamente.
 

@@ -4,7 +4,7 @@
 
 2 - Para efeitos do presente diploma, entende-se por:
 
-a) «Importação», a importação definida no artigo 5.º do Código do Imposto sobre o Valor Acrescentado;
+a) «Importação», a importação definida no artigo 5.º do Código do Imposto sobre o Valor Acrescentado, assim como a introdução de bens no consumo depois de terem estado sujeitos a um dos regimes previstos na alínea a) do n.º 1 do artigo 15.º do referido Código ou a um regime de importação temporário, de aperfeiçoamento activo, de transformação sob controlo aduaneiro ou de trânsito;
 
 b) «Bens pessoais», os bens afectos ao uso pessoal dos interessados ou às necessidades do seu agregado familiar e que pela sua natureza ou quantidade não traduzam qualquer preocupação de ordem comercial nem se destinem a uma actividade económica na acepção da alínea a) do n.º 1 do artigo 2.º do Código do Imposto sobre o Valor Acrescentado;
 
