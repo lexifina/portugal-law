@@ -1,0 +1,3 @@
+Portaria n.º 19989
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, de harmonia com o disposto no artigo 96.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo Decreto-Lei n.º 37754, de 18 de Fevereiro de 1950, manter em vigor as tarifas provisórias da Junta Autónoma dos Portos de Barlavento do Algarve, aprovadas pela Portaria n.º 15497, de 9 de Agosto de 1955, com as alterações introduzidas pelas Portarias n.os 15974 e 18147, respectivamente, de 18 de Setembro de 1956 e 23 de Dezembro de 1960.
+Ministério das Comunicações, 2 de Agosto de 1963. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.
