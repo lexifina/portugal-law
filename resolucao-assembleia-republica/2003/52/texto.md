@@ -1,0 +1,13 @@
+Resolução da Assembleia da República n.º 52/2003
+Direito à arquitectura - Revogação do Decreto n.º 73/73, de 28 de Fevereiro
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, o seguinte:
+I - Em 8 de Abril de 2003 a Comissão de Obras Públicas, Transportes e Comunicação aprovou por unanimidade as conclusões e o parecer do relatório final sobre a petição n.º 22/IX (1.ª) (Direito à arquitectura e revogação do Decreto n.º 73/73, de 28 de Fevereiro), elaborado pela Sr.ª Deputada Isabel Gonçalves. Entre essas conclusões figuram as que seguidamente se transcrevem:
+«1) O objecto da petição em causa tem fundamento e a sua concretização trará benefícios para a qualidade de vida de cada cidadão e da sua comunidade;
+2) O direito à arquitectura é uma consequência lógica dos direitos à habitação e urbanismo e ao ambiente e qualidade de vida consagrados na Constituição da República Portuguesa;
+3) A manutenção do regime transitório consagrado pelo Decreto n.º 73/73, de 28 de Fevereiro, implica a existência de uma incoerência técnico-profissional e jurídica, com uma demissão do Estado no que respeita à regulação do sector da construção e da qualidade arquitectónica, para a protecção do ambiente e do património, impedindo o exercício da profissão de arquitecto num ambiente de concorrência legal;
+4) A manutenção deste decreto é incompatível com a Directiva n.º 85/384/CEE, do Conselho, de 10 de Junho de 1985, e com o Decreto-Lei n.º 176/98, de 3 de Julho, comprometendo a coerência de todo o sistema, sendo urgente um novo regime de qualificação profissional no domínio da construção, para a regulação de um sector de actividade de importância vital para o País;
+5) Importa, por último, reflectir também sobre a posição dos profissionais com outras qualificações, que, actualmente salvaguardados pelo Decreto n.º 73/73, de 28 de Fevereiro, podem subscrever projectos de arquitectura, a quem deve ser conferido um tempo de adaptação e a possibilidade de serem reencaminhados para as tarefas que, de acordo com as respectivas qualificações, estão materialmente aptos a desempenhar;
+6) Não havendo direitos adquiridos nem expectativas legítimas a proteger, deverá, no entanto, recomendar-se que seja definido um período razoável de transição, para reencaminhamento dos profissionais reconhecidos pelo Decreto n.º 73/73, de 28 de Fevereiro.»
+II - Tendo presentes estas conclusões, a Assembleia da República recomenda ao Governo que as tenha em devida consideração e tome as medidas adequadas à sua concretização.
+Aprovada em 22 de Maio de 2003.
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
