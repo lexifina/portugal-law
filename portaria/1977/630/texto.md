@@ -1,0 +1,4 @@
+Portaria n.º 630/77
+de 3 de Outubro
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Investigação Científica, de acordo com a resolução do Conselho de Ministros n.º 223/77, de 10 de Agosto, publicada no Diário da República, 1.ª série, n.º 213, de 14 de Setembro de 1977, proceder à requisição administrativa do prédio inscrito na matriz predial urbana da freguesia de Carrazeda de Ansiães sob o artigo 518, abrangendo tal requisição o imóvel principal sito na Rua do Marechal Gomes da Costa, em Carrazeda de Ansiães, bem como as construções anexas e todo o terreno circundante que integra o mesmo prédio, para que nele seja instalada a Escola Preparatória de D. Lopo Vaz de Sampaio.
+Ministério da Educação e Investigação Científica, 15 de Setembro de 1977. - O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Leal Cardia.
