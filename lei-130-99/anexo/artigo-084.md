@@ -1,0 +1,11 @@
+# Artigo 84.º
+
+### Assinatura e veto
+
+1 - No prazo de 15 dias, contados da recepção de qualquer decreto da Assembleia Legislativa Regional que lhe haja sido enviado para assinatura, ou da publicação da decisão do Tribunal Constitucional que não se pronuncie pela inconstitucionalidade de norma dele constante, deve o Ministro da República assiná-lo ou exercer o direito de veto, solicitando nova apreciação do diploma em mensagem fundamentada.
+
+2 - Se a Assembleia Legislativa Regional confirmar o voto por maioria absoluta dos seus membros em efectividade de funções, o Ministro da República deve assinar o diploma no prazo de oito dias a contar da sua recepção.
+
+3 - No prazo de 20 dias, contados da recepção de qualquer decreto do Governo Regional que lhe tenha sido enviado para assinatura, deve o Ministro da República assiná-lo ou recusar a assinatura, comunicando por escrito o sentido dessa recusa ao Governo Regional, o qual poderá converter o decreto em proposta a apresentar à Assembleia Legislativa Regional.
+
+4 - O Ministro da República exerce ainda o direito de veto, nos termos dos artigos 278.º e 279.º da Constituição.

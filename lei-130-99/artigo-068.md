@@ -1,0 +1,19 @@
+# Artigo 68.º
+
+O artigo 77.º da Lei n.º 13/91, de 5 de Junho, passa a artigo 145.º, com aditamento de duas alíneas, nos termos seguintes:
+
+«...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) Os bens doados à Região;
+
+g) Os bens que, na Região, sejam declarados perdidos a favor do Estado e a que lei especial, em virtude da razão que determine tal perda, não dê outro destino.»

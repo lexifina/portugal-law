@@ -1,0 +1,7 @@
+# Artigo 5.º
+
+### Autonomia política, administrativa, financeira, económica e fiscal
+
+1 - A autonomia política, administrativa, financeira, económica e fiscal da Região Autónoma da Madeira não afecta a integridade da soberania do Estado e exerce-se no quadro da Constituição e deste Estatuto.
+
+2 - A autonomia da Região Autónoma da Madeira visa a participação democrática dos cidadãos, o desenvolvimento económico e social integrado do arquipélago e a promoção e defesa dos valores e interesses do seu povo, bem como o reforço da unidade nacional e dos laços de solidariedade entre todos os portugueses.
