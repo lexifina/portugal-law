@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, de harmonia com uma comunicação do Departamento de Estado dos Estados Unidos da América, o Governo da Bulgária depositou, em 21 de Agosto de 1972, os instrumentos de aceitação da Convenção Internacional de Pescarias do Noroeste do Atlântico, concluída em Washington em 8 de Fevereiro de 1949, e do Protocolo a esta Convenção Relativo aos Membros dos Panels e às Medidas de Regulamentação, concluído em Washington em 1 de Outubro de 1969.
+Direcção-Geral dos Negócios Económicos, 15 de Dezembro de 1972. - O Adjunto do Director-Geral, José Joaquim de Mena e Mendonça.
