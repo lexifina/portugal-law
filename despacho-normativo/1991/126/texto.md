@@ -1,0 +1,16 @@
+Despacho Normativo n.º 126/91
+Considerando que pelo Decreto-Lei n.º 93/90, de 19 de Março, foi criada, no Ministério do Planeamento e da Administração do Território, a Comissão da Reserva Ecológica Nacional, para a qual foram estipuladas apenas as suas competências e composição:
+Considerando ainda que é necessário, também, definir com rigor o seu modo de funcionamento, em complemento do estabelecido nos artigos 8.º e 9.º do mesmo decreto-lei, determina-se o seguinte:
+1 - A Comissão da Reserva Ecológica Nacional, também designada por Comissão da REN e adiante referida apenas por Comissão, tem a composição que lhe foi definida por lei.
+2 - Os vogais da Comissão são aqueles que para o efeito forem designados pelas entidades que dela fazem parte.
+3 - Cada vogal da Comissão poderá ter um suplente, que o substituirá nos seus impedimentos, com as mesmas competências.
+4 - A Comissão reúne ordinariamente em data previamente acordada entre o presidente e os vogais e extraordinariamente a convocação do presidente, por sua própria iniciativa ou a solicitação de, pelo menos, três vogais.
+5 - A presidência das reuniões da Comissão da REN, quando não puder ser assegurada pelo director-geral do Ordenamento do Território, por impedimento deste, sê-lo-á pelo outro representante do Ministério do Planeamento e da Administração do Território.
+6 - As reuniões da Comissão não serão iniciadas sem ser confirmada a existência de quórum, podendo, entretanto, prosseguir até conclusão da ordem de trabalhos aprovada para essa reunião, qualquer que seja o número de vogais presentes, se estes concordarem com tal procedimento.
+7 - Considerar-se-á haver quórum para as reuniões da Comissão quando estiver representada pelo menos metade das entidades indicadas no n.º 1 do artigo 9.º do Decreto-Lei n.º 93/90, de 19 de Março, com a redacção dada pelo Decreto-Lei n.º 316/90, de 13 de Outubro.
+8 - Quando, no decurso de uma reunião da Comissão, houver necessidade de recorrer a votação, as decisões serão tomadas por maioria dos votos dos vogais presentes, só contando o voto dos vogais suplentes na falta dos vogais que substituam, e tendo o presidente, em caso de empate, voto de qualidade.
+9 - Os vogais da Comissão poderão participar nas reuniões acompanhados de técnicos que os apoiem na sua decisão, mas que não contarão para efeitos de quórum nem terão direito a voto.
+10 - Das reuniões da Comissão serão lavradas actas, que, embora sucintas, deverão discriminar os processos aprovados e as decisões tomadas.
+11 - Para informar o seu processo de decisão, poderá a Comissão, no seu conjunto ou através de um ou mais dos seus vogais, proceder à audição de pessoas e ou de entidades e a visitas a locais, quando tal for considerado necessário, sendo, no último caso, os encargos de deslocação suportados pelas entidades representadas pelos vogais que se desloquem.
+12 - Para melhor e mais expedito exercício das suas competências, pode a Comissão constituir subcomissões ou grupos de trabalho, necessariamente compostos apenas por vogais da Comissão, aplicando-se também às subcomissões o disposto neste regimento.
+Ministério do Planeamento e da Administração do Território, 16 de Abril de 1991. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
