@@ -36,4 +36,10 @@ n) No reporte, ao primeiro alienante;
 
 o) Nos seguros, ao tomador, e, na actividade de mediação, ao mediador;
 
-p) Em quaisquer outros actos, contratos e operações, ao requerente, ao requisitante, ao primeiro signatário, ao beneficiário ou ao destinatário dos mesmos.
+p) Na constituição de uma sociedade de capitais, à sociedade de constituir;
+
+q) No aumento de capital de uma sociedade de capitais, à sociedade cujo capital é aumentado;
+
+r) Na transferência de sede estatutária ou de direcção efectiva de uma sociedade de capitais, à sociedade cuja sede ou direcção efectiva é transferida;
+
+s) Em quaisquer outros actos, contratos e operações, ao requerente, ao requisitante, ao primeiro signatário, ao beneficiário ou ao destinatário dos mesmos.
