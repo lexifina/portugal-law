@@ -1,0 +1,11 @@
+Decreto-Lei n.º 252/79
+de 26 de Julho
+Considerando que grande número de educadores e orientadores sociais e de educadores-adjuntos e orientadores sociais-adjuntos de nomeação interina não têm podido, por dificuldades que lhes não são imputáveis, frequentar o curso adequado do instituto de Formação Profissional do Ministério da Justiça e que sem aproveitamento nesse curso a nomeação não pode converter-se em definitiva;
+Considerando os graves inconvenientes, para os funcionários e para os próprios Serviços, resultantes da manutenção da interinidade por períodos demasiado longos;
+Considerando ainda que a experiência profissional é uma boa escola de preparação e permite avaliar devidamente da aptidão para o exercício dos cargos:
+O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
+Artigo único. Os educadores e orientadores sociais e os educadores-adjuntos e orientadores sociais-adjuntos de nomeação interina com pelo menos três anos de bom e efectivo serviço na categoria que, por dificuldades que não lhes sejam imputáveis, não puderem concluir o curso adequado do Instituto de Formação Profissional do Ministério da Justiça podem ser providos definitivamente mediante despacho do Ministro da Justiça.
+Carlos Alberto da Mota Pinto - Eduardo Enriques da Silva Correia - António Jorge de Figueiredo Lopes.
+Promulgado em 9 de Julho de 1979.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
