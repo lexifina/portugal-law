@@ -1,0 +1,3 @@
+Despacho Normativo n.º 288/78
+Nos termos do artigo 14.º, alínea a), do Decreto-Lei n.º 221/77, de 28 de Maio, delego nos actuais Secretários de Estado do Fomento Agrário e das Florestas e da Estruturação Agrária, respectivamente engenheiro Francisco de Paula Ferreira Moniz Borba e Dr. Augusto Martins Ferreira do Amaral, a competência que me é conferida pelo n.º 1 do artigo 7.º do mesmo diploma, no âmbito da competência das respectivas Secretarias de Estado, passando os directores regionais de Agricultura a despachar directamente com aqueles membros do Governo.
+Ministério da Agricultura e Pescas, 9 de Outubro de 1978. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.
