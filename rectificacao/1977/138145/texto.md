@@ -1,0 +1,2 @@
+Rectificação
+Por ter sido publicado com inexactidão no 4.º suplemento ao Diário da República, n.º 303, de 31 de Dezembro de 1976, o número do decreto-lei, emanado do Ministério das Finanças, que dá nova redacção a algumas disposições do Decreto-Lei n.º 48953, de 5 de Abril de 1969, e do regulamento aprovado pelo Decreto n.º 694/70, de 31 de Dezembro, rectifica-se que, no sumário e no texto correspondente, onde se lê: «Decreto-Lei n.º 947/76:», deve ler-se «Decreto-Lei n.º 948/76:»
