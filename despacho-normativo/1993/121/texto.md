@@ -1,0 +1,3 @@
+Despacho Normativo n.º 121/93
+Tornando-se necessário fixar o prazo para a apresentação ou envio ao Instituto Nacional de Intervenção e Garantia Agrícola ou às direcções regionais de agricultura da notificação conjunta, pelo produtor que transfere e ou cede os direitos ao prémio à vaca aleitante e pelo que os recebe, nos termos do n.º 2 do artigo 34.º do Regulamento (CEE) n.º 3886/92 da Comissão, de 23 de Dezembro, determino que esse prazo termine no dia 15 de Julho de 1993.
+Ministério da Agricultura, 3 de Junho de 1993. - Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.
