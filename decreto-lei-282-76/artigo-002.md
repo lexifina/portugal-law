@@ -1,16 +1,16 @@
 # Artigo 2.º
 
-1. O QPMM compreende os seguintes grupos:
+1 - O QPMM compreende o pessoal pertencente aos seguintes grupos:
 
-a) Grupo 1 - Corpo de Polícia Marítima;
+a) Grupo 1 - Polícia Marítima;
 
-b) Grupo 2 - Corpo de Polícia dos Estabelecimentos de Marinha;
+b) Grupo 2 - Polícia dos Estabelecimentos de Marinha;
 
 c) Grupo 3 - Cabos-de-mar;
 
 d) Grupo 4 - Troço do mar;
 
-e) Grupo 5 - Práticos da costa do Algarve;
+e) Grupo 5 - Práticos da Costa do Algarve;
 
 f) Grupo 6 - Faroleiros.
 
