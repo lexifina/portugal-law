@@ -1,0 +1,5 @@
+Declaração de Rectificação n.º 10-BN/99
+Segundo comunicação do Ministério da Economia, a Portaria n.º 443/99, publicada no Diário da República, 1.ª série, n.º 140, de 18 de Junho de 1999, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No mapa II, no quadro de pessoal da Direcção Regional do Centro (DRE-Centro), onde se lê «Chefe de divisão - 8» deve ler-se «Chefe de divisão - 11» e onde se lê «Telefonista - 3» deve ler-se «Telefonista - 2».
+Na nota (b) de pé de página, onde se lê «Cinco lugares a extinguir quando vagarem (Despacho Normativo n.º 533/94, de 21 de Julho, e Portaria n.º 210/99, de 15 de Março).» deve ler-se «Cinco lugares a extinguir quando vagarem (Despacho Normativo n.º 533/94, de 21 de Julho, Portaria n.º 62/95, de 25 de Fevereiro, Portaria n.º 123/95, de 13 de Abril, Portaria n.º 662/98, de 17 de Julho, e Portaria n.º 210/99, de 15 de Março).».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Julho de 1999. - O Secretário-Geral, Alexandre Figueiredo.
