@@ -1,0 +1,6 @@
+Despacho
+Ponderada a conveniência de esclarecer a natureza dos preços do pão a que se referem os artigos 19.º, 20.º e 21.º do Decreto-Lei n.º 491/70, de 22 de Outubro;
+Considerando que em matéria de preços o citado decreto-lei teve em vista a defesa do interesse do consumidor em relação àqueles tipos de pão que se entendeu deverem continuar tabelados, visto que a indústria de panificação poderá encontrar remuneração adicional nos outros diversos tipos e formatos cujo preço foi tornado livre:
+Nos termos do artigo 39.º do Decreto-Lei n.º 491/70, de 22 de Outubro, esclareço que os preços do pão a que se referem os artigos 19.º, 20.º e 21.º do mesmo diploma são preços máximos; as empresas de panificação são livres de praticar os preços que entenderem para os vários tipos e formatos de pão, excepto que, em relação aos tipos e formatos considerados naqueles artigos, não podem exceder os limites superiores neles estabelecidos.
+Os grémios de industriais de panificação ou quaisquer outros organismos não podem, portanto, por circular, regulamento ou qualquer outro meio, fixar preços mínimos ou impedir descontos ou reduções aos seus agremiados, por tal prática contrariar o Decreto-Lei n.º 491/70.
+Ministério da Economia, 12 de Fevereiro de 1971. - Ministro da Economia, João Augusto Dias Rosas.
