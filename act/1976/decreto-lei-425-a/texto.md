@@ -1,0 +1,18 @@
+Decreto-Lei n.º 425-A/76
+de 31 de Maio
+Considerando que, nos termos do ponto 9.º do Acordo celebrado em Argel, em 26 de Novembro de 1974, entre o Estado Português e o Movimento de Libertação de S. Tomé e Príncipe, o primeiro se com prometeu a transferir para o Banco Central a criar em S. Tomé e Príncipe o activo e o passivo do departamento de S. Tomé e Príncipe do Banco Nacional Ultramarino;
+Considerando que, em cumprimento do disposto no referido ponto 9.º do mencionado Acordo de Argel, foi assinado em Lisboa, em 23 de Março de 1976, entre o Governo Português e o Governo de S. Tomé e Príncipe um Acordo sobre a transferência do departamento do Banco Nacional Ultramarino em S. Tomé e Príncipe;
+Considerando que, de acordo com o disposto no n.º 3 do artigo 1.º desse Acordo, cumpre ao Governo Português pôr em vigor o diploma legal concedendo a necessária autorização a essa transferência;
+Nestes termos:
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º - 1. É autorizada a transferência das atribuições, do activo e do passivo, do departamento de S. Tomé e Príncipe do Banco Nacional Ultramarino para o Banco Nacional de S. Tomé e Príncipe.
+2. O património a transferir é constituído pelos valores «activos e passivos» existentes à data da transferência efectivamente afectos ao departamento de S. Tomé e Príncipe do Banco Nacional Ultramarino, quer os referentes ao privilégio emissor no território do Estado de S. Tomé e Príncipe, quer os respeitantes à actividade comercial do mesmo departamento, independentemente do local onde se encontrem, e nos termos do Acordo celebrado em 23 de Março de 1976 entre o Governo Português e o Governo de S. Tomé e Príncipe.
+Art. 2.º A autorizada transferência será efectuada mediante escritura pública, a celebrar entre o Banco Nacional Ultramarino, representado nos termos estatutários, e o Banco Nacional de S. Tomé e Príncipe.
+Art. 3.º A transferência dos elementos do activo e do passivo do departamento de S. Tomé e Príncipe do Banco Nacional Ultramarino opera-se automaticamente por efeito da escritura pública referida no procedente artigo 2.º e nos exactos termos dela constantes.
+Art. 4.º Pelos actos de transferência não são devidos em Portugal quaisquer impostos, taxas, selos ou emolumentos.
+Art. 5.º A cessação das actividades do departamento de S. Tomé e Príncipe do Banco Nacional Ultramarino não constitui justa causa para despedimento por parte dos trabalhadores, uma vez que lhes são asseguradas garantias de emprego.
+Art. 6.º Este diploma entra em vigor na data da sua publicação.
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Francisco Salgado Zenha.
+Promulgado em 31 de Maio de 1975.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
