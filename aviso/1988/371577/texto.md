@@ -1,0 +1,7 @@
+Aviso
+Por ordem superior se torna público ter o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificado, em conformidade com o artigo 45 da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, assinada na Haia a 25 de Outubro de 1980, que o Governo Canadiano, por Nota datada de 25 de Janeiro de 1988, recebida no Ministério dos Negócios Estrangeiros do Reino dos Países Baixos a 26 de Janeiro de 1988, declarou, ao abrigo do artigo 40 da mesma Convenção, que a sua vigência foi alargada aos Territórios do Noroeste do Canadá. Assim, a Convenção alargou agora a sua vigência a todas as unidades territoriais do Canadá.
+A declaração de extensão contém a declaração e a reserva seguintes:
+Autoridade Central. - Conforme às disposições do artigo 6, parágrafo 2, o Ministro da Justiça dos Territórios do Noroeste foi designado como Autoridade Central para os Territórios do Noroeste.
+Reserva. - Conforme às disposições do artigo 42 e do artigo 26, parágrafo 3, o Governo Canadiano declara que, no que concerne aos pedidos dizendo respeito aos Territórios do Noroeste, o Canadá só assegurará os encargos referidos no parágrafo 2 do artigo 26 na medida em que esses encargos sejam cobertos pelo sistema de ajuda jurídica dos Territórios do Noroeste.
+Portugal é Parte na Convenção em apreço.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 17 de Maio de 1988. - O Chefe do Serviço Jurídico e de Tratados, Fernão Manuel Homem de Gouveia Favila Vieira.
