@@ -1,0 +1,69 @@
+Portaria n.º 728/2004
+de 24 de Junho
+A requerimento da Cooperativa de Ensino Superior Artístico do Porto, C. R. L., entidade instituidora da Escola Superior Artística do Porto, cuja criação foi autorizada ao abrigo do Decreto-Lei n.º 100-B/85, de 8 de Abril, pelo despacho n.º 129/MEC/86, publicado no Diário da República, 2.ª série, de 28 de Junho de 1986, com a denominação alterada pela Portaria n.º 830/89, de 20 de Setembro;
+Instruído, organizado e apreciado o processo nos termos dos artigos 57.º e 59.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo Decreto-Lei n.º 16/94, de 22 de Janeiro, alterado, por ratificação, pela Lei n.º 37/94, de 11 de Novembro, e pelo Decreto-Lei n.º 94/99, de 23 de Março;
+Colhido o parecer da comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto;
+Considerando o disposto no Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela Portaria n.º 413-A/98, de 17 de Julho, alterada pela Portaria n.º 533-A/99, de 22 de Julho;
+Ao abrigo do disposto no artigo 64.º do referido Estatuto:
+Manda o Governo, pela Ministra da Ciência e do Ensino Superior, o seguinte:
+1.º
+Autorização de funcionamento
+É autorizado o funcionamento do curso bietápico de licenciatura em Cine-Vídeo na Escola Superior Artística do Porto, nas instalações que estejam autorizadas nos termos da lei.
+2.º
+Duração do 2.º ciclo
+O 2.º ciclo do curso tem a duração de um ano lectivo.
+3.º
+Plano de estudos
+É aprovado o plano de estudos do curso nos termos do anexo da presente portaria.
+4.º
+Unidades curriculares de opção
+O elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente do estabelecimento de ensino.
+5.º
+Estágio
+A unidade curricular «Estágio» realiza-se nos termos fixados por regulamento a aprovar pelo órgão legal e estatutariamente competente do estabelecimento de ensino.
+6.º
+Reconhecimento dos graus
+1 - A conclusão com aproveitamento de todas as unidades curriculares que integram o plano de estudos do 1.º ciclo confere o direito à atribuição do grau de bacharel.
+2 - A conclusão com aproveitamento de todas as unidades curriculares que integram o plano de estudos do 2.º ciclo confere o direito à atribuição do grau de licenciado.
+7.º
+Condições de acesso
+As condições de acesso ao curso são as fixadas nos termos da lei.
+8.º
+Número máximo de alunos
+1 - O número de novos alunos a admitir anualmente não pode exceder 30.
+2 - A frequência global do curso não pode exceder 120 alunos.
+9.º
+Regulamentação
+O curso bietápico de licenciatura cujo funcionamento é autorizado pela presente portaria rege-se pelo disposto no Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela Portaria n.º 413-A/98, de 17 de Julho, alterada pela Portaria n.º 533-A/99, de 22 de Julho.
+10.º
+Início de funcionamento do curso
+O curso pode iniciar o seu funcionamento a partir do ano lectivo de 2004-2005, inclusive.
+11.º
+Inscrição no 2.º ciclo
+Ao curso ora autorizado aplica-se o disposto nas alíneas b2) e b3) do n.º 1 do artigo 13.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela Portaria n.º 413-A/98, de 17 de Julho, alterada pela Portaria n.º 533-A/99, de 22 de Julho.
+12.º
+Condicionamento
+A autorização e o reconhecimento operados pelo presente diploma não prejudicam, sob pena de revogação do mesmo, a obrigação dos órgãos responsáveis da entidade instituidora e do estabelecimento de ensino do cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Ciência e do Ensino Superior, quer por não cumprimento dos pressupostos de autorização e reconhecimento quer em consequência das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo.
+13.º
+Disposição revogatória
+1 - Com a entrada em funcionamento do curso, cessa a ministração do curso de bacharelato em Cine-Vídeo, cujo funcionamento foi autorizado pelo despacho n.º 129/MEC/86, publicado no Diário da República, 2.ª série, de 18 de Junho de 1986, alterado pela Portaria n.º 882/89, de 12 de Outubro, nos termos fixados pelo órgão legal e estatutariamente competente do estabelecimento de ensino.
+2 - Findo o processo de transição fixado nos termos do número anterior, caduca a autorização de funcionamento do curso de bacharelato em Cine-Vídeo ministrado pela Escola Superior Artística do Porto.
+A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 6 de Junho de 2004.
+
+ANEXO
+Escola Superior Artística do Porto
+Curso de Cine-Vídeo
+1.º ciclo - Grau de bacharel
+QUADRO N.º 1
+1.º ano
+(ver quadro no documento original)
+QUADRO N.º 2
+2.º ano
+(ver quadro no documento original)
+QUADRO N.º 3
+3.º ano
+(ver quadro no documento original)
+2.º ciclo - Grau de licenciado
+QUADRO N.º 4
+1.º ano
+(ver quadro no documento original)
