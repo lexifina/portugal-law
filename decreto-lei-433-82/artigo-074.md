@@ -2,7 +2,7 @@
 
 ### (Regime do recurso)
 
-1 - O recurso deverá ser interposto no prazo de 5 dias a partir da sentença ou do despacho ou da sua notificação ao arguido, caso a decisão tenha ocorrido na sua ausência.
+1 - O recurso deve ser interposto no prazo de 10 dias a partir da sentença ou do despacho, ou da sua notificação ao arguido, caso a decisão tenha sido proferida sem a presença deste.
 
 2 - Nos casos previstos no n.º 2 do artigo 73.º, o requerimento deve seguir junto ao recurso, antecedendo-o.
 

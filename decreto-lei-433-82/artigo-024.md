@@ -1,7 +1,5 @@
 # Artigo 24.º
 
-### (Efeitos de apreensão)
+### Efeitos da perda
 
-1 - O trânsito em julgado da decisão de apreensão determina a transferência da propriedade para o Estado ou para a entidade pública que a lei determinar.
-
-2 - Serão nulos os negócios jurídicos de alienação dos objectos posteriores ao trânsito em julgado da decisão de apreensão.
+O carácter definitivo ou o trânsito em julgado da decisão de perda determina a transferência da propriedade para o Estado ou outra entidade pública, instituição particular de solidariedade social ou pessoa colectiva de utilidade pública que a lei preveja.

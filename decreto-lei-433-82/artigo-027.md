@@ -6,8 +6,8 @@
 
 ### (Prescrição do procedimento)
 
-1 - O procedimento por contra-ordenação extingue-se por efeito da prescrição logo que sobre a prática da contra-ordenação hajam decorrido os seguintes prazos:
+O procedimento por contra-ordenação extingue-se por efeito da prescrição logo que sobre a prática da contra-ordenação hajam decorrido os seguintes prazos:
 
-a) 2 anos, quando se trate de contra-ordenações a que seja aplicável uma coima superior a 100000$00;
+a) Dois anos, quando se trate de contra-ordenação a que seja aplicável uma coima superior ao montante máximo previsto no n.º 1 do artigo 17.º;
 
-b) 1 ano, nos restantes casos.
+b) Um ano, nos restantes casos.

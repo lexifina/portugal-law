@@ -2,8 +2,8 @@
 
 ### (Aplicação no espaço)
 
-A presente lei é aplicável:
+Salvo tratado ou convenção internacional em contrário, são puníveis as contra-ordenações:
 
-a) A factos praticados em território português, seja qual for a nacionalidade do agente;
+a) Praticadas em território português, seja qual for a nacionalidade do agente;
 
-b) A factos praticados a bordo de navios ou aeronaves portuguesas, salvo tratado ou convenção internacional em contrário.
+b) Praticadas a bordo de aeronaves ou navios portugueses.

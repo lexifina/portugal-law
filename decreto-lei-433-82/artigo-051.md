@@ -1,9 +1,7 @@
 # Artigo 51.º
 
-### (Processo de advertência)
+### Admoestação
 
-1 - Em caso de contra-ordenação ligeira poderão as autoridades administrativas competentes decidir-se por uma advertência acompanhada da exigência do pagamento de uma soma pecuniária nunca superior a 500$00.
+1 - Quando a reduzida gravidade da infracção e da culpa do agente o justifique, pode a entidade competente limitar-se a proferir uma admoestação.
 
-2 - Este processo só terá lugar quando o arguido, informado do direito de o recusar, com ele se conformar e se dispuser a pagar a respectiva soma pecuniária imediatamente ou no prazo de 5 dias.
-
-3 - Nos casos referidos nos n.os 1 e 2 não pode o facto voltar a ser apreciado e sancionado como contra-ordenação.
+2 - A admoestação é proferida por escrito, não podendo o facto voltar a ser apreciado como contra-ordenação.

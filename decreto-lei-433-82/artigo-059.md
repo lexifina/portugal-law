@@ -10,4 +10,4 @@
 
 2 - O recurso de impugnação poderá ser interposto pelo arguido ou pelo seu defensor.
 
-3 - O recurso será feito por escrito e apresentado à autoridade administrativa que aplicou a coima, no prazo de oito dias após o seu conhecimento pelo arguido, devendo constar de alegações sumárias e conclusões.
+3 - O recurso é feito por escrito e apresentado à autoridade administrativa que aplicou a coima no prazo de 20 dias após o seu conhecimento pelo arguido, devendo constar de alegações e conclusões.

@@ -6,7 +6,7 @@
 
 a) For aplicada ao arguido uma coima superior a 50000$00;
 
-b) A condenação do arguido abranger sanções acessórias, salvo se estas consistirem em prestações pecuniárias inferiores a 50000$00;
+b) A condenação do arguido abranger sanções acessórias;
 
 c) O arguido for absolvido ou o processo for arquivado em casos em que a autoridade administrativa tenha aplicado uma coima superior a 50000$00 ou em que tal coima tenha sido reclamada pelo Ministério Público;
 

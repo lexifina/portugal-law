@@ -4,8 +4,8 @@
 
 1 - É territorialmente competente a autoridade administrativa em cuja área de actuação:
 
-a) A infracção foi praticada ou descoberta;
+a) Se tiver consumado a infracção ou, caso a infracção não tenha chegado a consumar-se, se tiver praticado o último acto de execução ou, em caso de punibilidade dos actos preparatórios, se tiver praticado o último acto de preparação;
 
-b) O arguido tem a sua residência ao tempo do início ou durante qualquer fase do processo.
+b) O arguido tem o seu domicílio ao tempo do início ou durante qualquer fase do processo.
 
-2 - Se a infracção for cometida a bordo de navio ou avião português, fora do âmbito de eficácia espacial desta lei, será competente a autoridade em cuja circunscrição se situe o porto ou aeroporto que primeiro for escalado depois do cometimento da infracção.
+2 - Se a infracção for cometida a bordo de aeronave ou navio português, fora do território nacional, será competente a autoridade em cuja circunscrição se situe o aeroporto ou porto português que primeiro for escalado depois do cometimento da infracção.

@@ -2,4 +2,4 @@
 
 ### (Competência do tribunal)
 
-Nos casos referidos nos n.os 1 e 2 do artigo anterior a aplicação da coima caberá ao juiz competente para o julgamento do crime.
+No caso referido no n.º 1 do artigo anterior, a aplicação da coima e das sanções acessórias cabe ao juiz competente para o julgamento do crime.

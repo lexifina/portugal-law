@@ -2,6 +2,8 @@
 
 ### (Concurso de contra-ordenações)
 
-1 - Se o mesmo facto violar várias leis pelas quais deve ser punido como contra-ordenação, ou uma daquelas leis várias vezes, aplicar-se-á uma única coima.
+1 - Quem tiver praticado várias contra-ordenações é punido com uma coima cujo limite máximo resulta da soma das coimas concretamente aplicadas às infracções em concurso.
 
-2 - Se forem violadas várias leis, aplicar-se-á a lei que comine a coima mais elevada, podendo, todavia, ser aplicadas as sanções acessórias previstas na outra lei.
+2 - A coima aplicável não pode exceder o dobro do limite máximo mais elevado das contra-ordenações em concurso.
+
+3 - A coima a aplicar não pode ser inferior à mais elevada das coimas concretamente aplicadas às várias contra-ordenações.
