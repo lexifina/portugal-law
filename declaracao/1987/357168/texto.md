@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério da Agricultura, Pescas e Alimentação, a Portaria n.º 724/86, publicada no Diário da República, 1.ª série, n.º 276, de 29 de Novembro de 1986, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Nas instruções em anexo, no ponto I, b), onde se lê «permitam a produção em conjunto, [...] à produção de pelo menos dez ovelhas» deve ler-se «permitam a exploração em conjunto, [...] à exploração de pelo menos dez ovelhas» e no ponto III, onde se lê «considera-se ovelha elegível:» deve ler-se «considera-se ovelha elegível ou cabra elegível:» e onde se lê «Toda a fêmea da espécie ovina (e caprina)» deve ler-se «Toda a fêmea da espécie ovina ou da espécie caprina,».
+Secretaria-Geral da Presidência do Conselho de Ministros, 25 de Fevereiro de 1987. - O Secretário-Geral, França Martins.
