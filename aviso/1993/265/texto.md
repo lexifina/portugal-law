@@ -1,0 +1,3 @@
+Aviso n.º 265/93
+Por ordem superior se torna público que a Bulgária e a República Checa depositaram junto do Secretário-Geral das Nações Unidas, a 12 e 11 de Maio de 1993, respectivamente, o instrumento de adesão e notificação de sucessão relativamente à Convenção Relativa ao Estatuto dos Refugiados, assinada em Genebra em 28 de Julho de 1951, e ao Protocolo Relativo ao Estatuto dos Refugiados, concluído em Nova Iorque em 31 de Janeiro de 1967.
+Direcção-Geral dos Negócios Político-Económicos, 23 de Novembro de 1993. - O Director de Serviços dos Assuntos Multilaterais, António Raul Freitas Monteiro Portugal.
