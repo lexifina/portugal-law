@@ -1,0 +1,965 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "567",
+    "id": "4673",
+    "titulo": "Lei de bases da Segurança Social"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1998-09-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "870",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1998-09-23",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "4674",
+        "leg": "VII",
+        "nr": "565",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "332",
+            "obs": null,
+            "pag": [
+              "96-125"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-09-24",
+            "pubLeg": "VII",
+            "pubNr": "4",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/96?pgs=96-125&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "332",
+            "obs": null,
+            "pag": [
+              "96-125"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-09-24",
+            "pubLeg": "VII",
+            "pubNr": "4",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/96?pgs=96-125&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "332",
+            "obs": null,
+            "pag": [
+              "96-125"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-09-24",
+            "pubLeg": "VII",
+            "pubNr": "4",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/96?pgs=96-125&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Lei de bases da Segurança Social"
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "4768",
+        "leg": "VII",
+        "nr": "528",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "332",
+            "obs": null,
+            "pag": [
+              "96-125"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-09-24",
+            "pubLeg": "VII",
+            "pubNr": "4",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/96?pgs=96-125&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "332",
+            "obs": null,
+            "pag": [
+              "96-125"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-09-24",
+            "pubLeg": "VII",
+            "pubNr": "4",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/96?pgs=96-125&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "332",
+            "obs": null,
+            "pag": [
+              "96-125"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-09-24",
+            "pubLeg": "VII",
+            "pubNr": "4",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/96?pgs=96-125&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Cria as bases do sistema nacional de segurança social."
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "4739",
+        "leg": "VII",
+        "nr": "185",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "332",
+            "obs": null,
+            "pag": [
+              "96-125"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-09-24",
+            "pubLeg": "VII",
+            "pubNr": "4",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/96?pgs=96-125&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "332",
+            "obs": null,
+            "pag": [
+              "96-125"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-09-24",
+            "pubLeg": "VII",
+            "pubNr": "4",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/96?pgs=96-125&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "332",
+            "obs": null,
+            "pag": [
+              "96-125"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-09-24",
+            "pubLeg": "VII",
+            "pubNr": "4",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/96?pgs=96-125&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "P",
+        "titulo": "Aprova as bases gerais do sistema de solidariedade e de segurança social."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1998-09-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1272",
+                "nome": "Afonso Lobão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57124",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "122-123"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-24",
+                "pubLeg": "VII",
+                "pubNr": "4",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/122?pgs=122-123&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: LEI DE BASES E BASES GERAIS DO SISTEMA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1011",
+                "nome": "Filomena Bordalo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57125",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "120-122"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-24",
+                "pubLeg": "VII",
+                "pubNr": "4",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/120?pgs=120-122&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: LEI DE BASES E BASES GERAIS DO SISTEMA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "165",
+                "nome": "Elisa Damião"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57127",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "116-120"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-24",
+                "pubLeg": "VII",
+                "pubNr": "4",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/116?pgs=116-120&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: LEI DE BASES E BASES GERAIS DO SISTEMA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1241",
+                "nome": "Pedro da Vinha Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57128",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "113-116"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-24",
+                "pubLeg": "VII",
+                "pubNr": "4",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/113?pgs=113-116&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: LEI DE BASES E BASES GERAIS DO SISTEMA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57129",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "109-113"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-24",
+                "pubLeg": "VII",
+                "pubNr": "4",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/109?pgs=109-113&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: LEI DE BASES E BASES GERAIS DO SISTEMA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1289",
+                "nome": "Moura e Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57130",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-24",
+                "pubLeg": "VII",
+                "pubNr": "4",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24?org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: LEI DE BASES E BASES GERAIS DO SISTEMA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "595",
+                "nome": "Nuno Correia da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57131",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "107-107"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-24",
+                "pubLeg": "VII",
+                "pubNr": "4",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/107?pgs=107&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: LEI DE BASES E BASES GERAIS DO SISTEMA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57132",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "105-105"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-24",
+                "pubLeg": "VII",
+                "pubNr": "4",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/105?pgs=105&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: LEI DE BASES E BASES GERAIS DO SISTEMA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57133",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "104-112"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-24",
+                "pubLeg": "VII",
+                "pubNr": "4",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/104?pgs=104-112&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: LEI DE BASES E BASES GERAIS DO SISTEMA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57134",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "99-109"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-24",
+                "pubLeg": "VII",
+                "pubNr": "4",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/99?pgs=99-109&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: LEI DE BASES E BASES GERAIS DO SISTEMA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "165",
+                "nome": "Elisa Damião"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57135",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "99-99"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-24",
+                "pubLeg": "VII",
+                "pubNr": "4",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/99?pgs=99&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: LEI DE BASES E BASES GERAIS DO SISTEMA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57136",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "105-106",
+                  "119-120",
+                  "98-99"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-24",
+                "pubLeg": "VII",
+                "pubNr": "4",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/98?pgs=98-99,105-106,119-120&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: LEI DE BASES E BASES GERAIS DO SISTEMA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "165",
+                "nome": "Elisa Damião"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57137",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "97-98"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-24",
+                "pubLeg": "VII",
+                "pubNr": "4",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/97?pgs=97-98&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: LEI DE BASES E BASES GERAIS DO SISTEMA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57138",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "124-125",
+                  "96-99"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-24",
+                "pubLeg": "VII",
+                "pubNr": "4",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24/96?pgs=96-99,124-125&org=PLC"
+              }
+            ],
+            "sumario": "SEGURANCA SOCIAL: LEI DE BASES E BASES GERAIS DO SISTEMA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "100351",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "108530",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1998-09-24",
+        "pubLeg": "VII",
+        "pubNr": "4",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/004/1998-09-24?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
