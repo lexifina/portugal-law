@@ -1,0 +1,355 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jvMQgL4qeojTXYc%2byhcz5p3ic3xODuK0iUO0Y2y2ClcTtFB9k3sD%2b9wQveZYSd8NZLsCb9yzJniqsFTagd7CbMNr9RiU3i%2bk3rmuobGx84PbCdMXEaO2tAt4ls9fukmsItoX60VYYqS8JyucRXeNK4DfI799g%2blbezfSJpZ8w7%2baZYMBqfv1VesnUx6bJSW47suQTEZztwlqhsheF%2fV6CayXq9XylkeKBdMS4k0WpFeGsJUrYs53Ga%2fzv4nbFZSlZiCimHdTEOsH%2b%2fNcwjWayb61QyVSstj3ODN9XM8DB46f%2bPQ7wSP1KSIrsnu6vc0NN5UqeG88nqFw4kPOlzPTpz7DVHur%2fsRBhn0B8NlVzMX2nw7jDBVCKY54B7pyG%2fWe&fich=PeticoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "a0b19d1767819df1af646741c024bf367ae6532369315672414b384340a05bf4",
+  "legislatura": "VI",
+  "id": "10983",
+  "numero": "205",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1993-05-28",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "1994-01-05",
+            "dataResposta": "1994-01-11",
+            "entidades": [
+              "Comissão de Saúde"
+            ],
+            "nrOficio": "05/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "1993-12-16",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério Saúde "
+            ],
+            "nrOficio": "1983/COM",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "1994-02-24",
+                "dataResposta": null,
+                "nrOficio": "307/COM",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "1994-02-16",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1993-06-09",
+        "DataArquivo": "1994-02-16",
+        "DataBaixaComissao": "1993-11-04",
+        "DataEnvioPAR": "1994-12-05",
+        "DataReaberta": "1993-06-09",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4",
+        "Legislatura": "VI",
+        "Nome": "COMISSÃO PETIÇÕES",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "1994-11-02",
+            "dataNomeacao": "1993-11-04",
+            "gp": "PS",
+            "id": "171",
+            "motivoCessacao": null,
+            "nome": "Gustavo Pimenta"
+          }
+        ],
+        "RelatorioFinal": [
+          "21099"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "1996-05-31",
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "1996-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43935",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2605-2606"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-01",
+                "pubLeg": "VII",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/078/1996-06-01/2605?pgs=2605-2606&org=PLC"
+              }
+            ],
+            "Sumario": "SERVICO NACIONAL DE SAUDE: REVOGACAO DO ACTUAL ESTATUTO",
+            "Teor": "INTERVEM NO DEBATE ESTATUTO DO SNS "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1996-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43936",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2605-2605"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-01",
+                "pubLeg": "VII",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/078/1996-06-01/2605?pgs=2605&org=PLC"
+              }
+            ],
+            "Sumario": "SERVICO NACIONAL DE SAUDE: REVOGACAO DO ACTUAL ESTATUTO",
+            "Teor": "INTERVEM NO DEBATE ESTATUTO DO SNS "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1996-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43937",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2604-2604"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-01",
+                "pubLeg": "VII",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/078/1996-06-01/2604?pgs=2604&org=PLC"
+              }
+            ],
+            "Sumario": "SERVICO NACIONAL DE SAUDE: REVOGACAO DO ACTUAL ESTATUTO",
+            "Teor": "INTERVEM NO DEBATE ESTATUTO DO SNS "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1996-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43938",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2603-2603"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-01",
+                "pubLeg": "VII",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/078/1996-06-01/2603?pgs=2603&org=PLC"
+              }
+            ],
+            "Sumario": "SERVICO NACIONAL DE SAUDE: REVOGACAO DO ACTUAL ESTATUTO",
+            "Teor": "INTERVEM NO DEBATE ESTATUTO DO SNS "
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "10983",
+    "PetAssunto": "Solicitam que a Assembleia da República tome iniciativas parlamentares com vista à revogação do Decreto-Lei 11/93, de 15 de Janeiro, sobre o novo estatuto do Serviço Nacional de Saúde.",
+    "PetDataEntrada": "1993-05-28",
+    "PeticoesAssociadas": null,
+    "PetId": "10983",
+    "PetLeg": "VI",
+    "PetNr": "205",
+    "PetNrAssinaturas": "8800",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "14",
+        "obs": null,
+        "pag": [
+          "2603-2606"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-06-01",
+        "pubLeg": "VII",
+        "pubNr": "78",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/078/1996-06-01/2603?pgs=2603-2606&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "169508",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-06-25",
+        "pubLeg": "VI",
+        "pubNr": "32",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/06/02/032/1993-06-25?org=PLC"
+      }
+    ]
+  }
+}
