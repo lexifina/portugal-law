@@ -1,0 +1,7 @@
+Declaração de rectificação n.º 132/95
+Para os devidos efeitos se declara que o Decreto-Lei n.º 190/95, publicado no Diário da República, n.º 173, de 28 de Julho de 1995, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 1.º, alínea c), onde se lê «descrito na Conservatória do Registo Predial de Aveiro sob os n.os 27536, a fl. 45 v.º do livro B-74, [...] e 23368, [...] a fl. 46 v.º do livro G-19, a favor do Estado [...] n.º 19815, a fl. 123 v.º do livro G-25, e 47941, a fl. 87 v.º do livro B-125, com inscrição a favor do Estado n.º 38304, a fl. 65 do livro G-48,» deve ler-se «descrito na Conservatória do Registo Predial de Aveiro sob o n.º 01233/260195, da referida freguesia, com as inscrições G-1, G-2 e G-3 a favor do Estado,».
+No artigo 1.º, alínea j), onde se lê «omisso na Conservatória do Registo Predial de Estremoz,» deve ler-se «descrito na Conservatória do Registo Predial de Estremoz sob o n.º 00522/100595, com a inscrição G-1 a favor do Estado,».
+No artigo 1.º, alínea m), onde se lê «e parte não descrita,» deve ler-se «e parte descrita na Conservatória do Registo Predial de Idanha-a-Nova sob o n.º 21296, a fl. 109 do livro B-54, e inscrita a favor do Estado sob o n.º 8272, a fl. 24 do livro G-9,».
+No artigo 1.º, alínea s), onde se lê «Forca» deve ler-se «Força».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Outubro de 1995. - O Secretário-Geral, França Martins.
