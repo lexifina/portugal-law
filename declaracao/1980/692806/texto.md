@@ -1,0 +1,12 @@
+Declaração
+Segundo comunicação do Ministério da Educação, o Decreto-Lei n.º 519-T1/79, publicado no 7.º suplemento ao Diário da República, 1.ª série, n.º 299, de 29 de Dezembro de 1979, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No preâmbulo, onde se lê: «A criação de um órgão central de planeamento e coordenação das actividades do formação do pessoal docente do ensino superior», deve ler-se: «A criação de um órgão central de planeamento e coordenação das actividades de formação do pessoal docente do ensino não superior;».
+No n.º 4 do artigo 4.º, onde se lê: «... por despacho normativo do ...», deve ler-se: «... por despacho do ...»
+No n.º 2 do artigo 10.º, onde se lê: «... nas condições da alínea c) do n.º 1 do artigo 2.º do presente diploma», deve ler-se: «... nas condições da alínea c) do artigo 2.º do presente diploma».
+No n.º 1 do artigo 16.º, onde se lê: «... e dela caberá recurso hierárquico, a interpor no prazo ...», deve ler-se: «... e dela caberá exclusivamente recurso hierárquico a interpor no prazo ...»
+Na alínea a) do n.º 1 do artigo 26.º, onde se lê: «... em alguma das situações previstas nas alíneas b) a c) do artigo 3.º deste diploma;», deve ler-se: «... em algumas das situações previstas nas alíneas b) a e) do artigo 3.º deste diploma;».
+No artigo 44.º, onde se lê: «... despacho referido no artigo 55.º do presente diploma», deve ler-se: «... despacho referido no artigo 54.º do presente diploma.»
+No artigo 49.º, onde se lê: «... as regras a que obedecerão os contratos com os professores referidos na alínea c) do n.º 1 do artigo 2.º deste diploma, ...», deve ler-se: «... as regras a que obedecerão os contratos com os professores referidos na alínea c) do artigo 2.º deste diploma, ...»
+No artigo 52.º, onde se lê: «... nos artigos 7.º e 16.º do presente diploma e nas condições e regras nele definidas», deve ler-se: «... nos artigos 7.º a 16.º do presente diploma e nas condições e regras nele definidas».
+No mapa I a que se refere o n.º 3 do artigo 4.º do Decreto-Lei n.º 519-T1/79, de 29 de Dezembro, no grupo de escolas correspondentes ao círculo Damaia-Queluz, onde se lê: «Alfragide, Amora, Damaia e Massamá», deve ler-se: «Alfragide, Amadora, Damaia e Massamá».
+Secretaria-Geral da Presidência do Conselho de Ministros, 4 de Fevereiro de 1980. - Pelo Secretário-Geral, Joaquim Brandão.
