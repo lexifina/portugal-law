@@ -1,0 +1,18 @@
+Decreto-Lei n.º 345/84
+de 29 de Outubro
+O Decreto-Lei n.º 214/84, de 3 de Julho, veio regular o funcionamento da comissão a que se refere o n.º 2 do artigo 52.º do Decreto-Lei n.º 28/84, de 20 de Janeiro, e designada por Comissão de Aplicação de Coimas em Matéria Económica.
+Considera-se conveniente, por um lado, definir com maior precisão alguns aspectos relacionados com o apoio administrativo à Comissão e com o pessoal da secretaria privativa e, por outro lado, atribuem-se ao juiz que preside à Comissão e ao escrivão que chefia a secretaria categorias específicas; finalmente, determina-se a competência da Comissão para aplicar coimas e sanções acessórias aos processos instruídos ao abrigo do Decreto-Lei n.º 191/83, de 16 de Maio, e sobre os quais não recaiu decisão.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Os artigos 1.º e 2.º, n.os 1 e 2, e 3.º, n.os 1 e 2, do Decreto-Lei n.º 214/84, de 3 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º A comissão a que se refere o n.º 2 do artigo 52.º do Decreto-Lei n.º 28/84, de 20 de Janeiro, é designada por Comissão de Aplicação de Coimas em Matéria Económica, adiante referida por Comissão, tem a sede em Lisboa, funciona nas instalações do Ministério do Comércio e Turismo e receberá da Secretaria-Geral deste Ministério todo o apoio administrativo de que carecer para o pleno desempenho das suas funções, sendo os encargos daí resultantes suportados por verba própria a inscrever no respectivo orçamento.
+Art. 2.º - 1 - A Comissão, constituída por 1 presidente e 2 vogais, é uma autoridade administrativa com competência para aplicar coimas e sanções acessórias, nos termos do Decreto-Lei n.º 28/84, de 20 de Janeiro, e ainda as relativas aos processos instruídos ao abrigo do Decreto-Lei n.º 191/83, de 16 de Maio.
+2 - O presidente é um juiz de direito, que vencerá como juiz presidente de círculo, nomeado por despacho conjunto dos Ministros da Justiça, do Comércio e Turismo e da Agricultura, Florestas e Alimentação, mediante prévia autorização do Conselho Superior da Magistratura, sendo os vogais o director-geral de Inspecção Económica e o director de Qualidade Alimentar.
+Art. 3.º - 1 - A Comissão disporá de uma secretaria privativa, chefiada por um funcionário de justiça que deverá ser um escrivão de direito, que vencerá como escrivão de tribunal superior ou secretário judicial, nomeado mediante proposta do presidente, em regime de comissão de serviço, por despacho conjunto dos Ministros da Justiça, do Comércio e Turismo e da Agricultura, Florestas e Alimentação.
+2 - Por despacho conjunto dos Ministros da Justiça, do Comércio e Turismo e da Agricultura, Florestas e Alimentação, mediante proposta do presidente da Comissão, serão designados os funcionários que constituirão a secretaria privativa, exercendo as respectivas funções em comissão de serviço.
+Visto e aprovado em Conselho de Ministros de 27 de Setembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Álvaro Roque de Pinho Bissaia Barreto - Jacinto José Montalvão de Santos e Silva Marques.
+Promulgado em 17 de Outubro de 1984.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 18 de Outubro de 1984.
+O Primeiro-Ministro, Mário Soares.
