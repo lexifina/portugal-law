@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Secretariado da Conferência de Direito Internacional Privado da Haia, o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte informou o Ministério dos Negócios Estrangeiros dos Países Baixos de que, nos termos da alínea 2 do artigo 6.º da Convenção Destinada a Suprimir a Exigência da Legalização dos Actos Públicos Estrangeiros, assinada em 5 de Outubro de 1961, a autoridade competente nas ilhas Baamas para efectuar a denominada «apostilha» é: the Permanent Secretary, Ministry of Home Affairs.
+Secretaria-Geral do Ministério, 1 de Fevereiro de 1973. - O Secretário-Geral, José Tomás Cabral Calvet de Magalhães.
