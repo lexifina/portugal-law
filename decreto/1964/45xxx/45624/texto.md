@@ -1,0 +1,9 @@
+Decreto n.º 45624
+Considerando o solicitado pelo Governo-Geral de Angola;
+Tendo presente a urgência de providenciar nesse sentido e ao abrigo do preceituado no § 1.º do artigo 150.º da Constituição Política e na alínea a) do n.º III da base X da Lei Orgânica do Ultramar Português;
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+Artigo único. São consideradas livres para pesquisas de alfaltos e de carvões betuminosos as áreas definidas nas alíneas a) e b) do artigo 1.º do Decreto n.º 33989, de 29 de Setembro de 1944, ressalvados os direitos anteriormente adquiridos.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 27 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
+
+Para ser publicado no Boletim Oficial de Angola. - Peixoto Correia.
