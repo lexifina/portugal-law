@@ -1,0 +1,6 @@
+Portaria n.º 1103-A/93
+de 30 de Outubro
+Manda o Governo, pelos Ministros das Finanças, da Indústria e Energia, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo, ouvido o Conselho Económico e Social, através da sua Comissão Permanente de Concertação Social, que, em conformidade com o disposto no artigo 32.º do Regime do Arrendamento Urbano, aprovado pelo Decreto-Lei n.º 321-B/90, de 15 de Outubro, que o coeficiente de actualização das rendas dos contratos em regime de renda livre, condicionada e para comércio, indústria ou para o exercício de profissões liberais, para vigorar no ano civil de 1994, seja de 1,0675.
+Ministérios das Finanças, da Indústria e Energia, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
+Assinada em 29 de Outubro de 1993.
+Pelo Ministro das Finanças, José Monteiro Fernandes Braz, Secretário de Estado do Tesouro. - Pelo Ministro da Indústria e Energia, Luís Filipe Alves Monteiro, Secretário de Estado da Indústria. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado da Distribuição e Concorrência.
