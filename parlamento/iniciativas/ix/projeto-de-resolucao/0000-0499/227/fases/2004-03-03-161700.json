@@ -1,0 +1,762 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "227",
+    "id": "20141",
+    "titulo": "Propõe a realização de um referendo sobre a descriminalização da interrupção voluntária da gravidez."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2004-03-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3015",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2004-03-03",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "20092",
+        "leg": "IX",
+        "nr": "203",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "775",
+            "obs": null,
+            "pag": [
+              "3236-3256"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-03-04",
+            "pubLeg": "IX",
+            "pubNr": "58",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/058/2004-03-04/3236?pgs=3236-3256&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "775",
+            "obs": null,
+            "pag": [
+              "3236-3256"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-03-04",
+            "pubLeg": "IX",
+            "pubNr": "58",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/058/2004-03-04/3236?pgs=3236-3256&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Propõe a realização de um referendo sobre a descriminalização da interrupção voluntária da gravidez realizada nas primeiras dez semanas."
+      },
+      {
+        "autor": "ACDLG",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "20159",
+        "leg": "IX",
+        "nr": "230",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "775",
+            "obs": null,
+            "pag": [
+              "3236-3256"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-03-04",
+            "pubLeg": "IX",
+            "pubNr": "58",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/058/2004-03-04/3236?pgs=3236-3256&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "775",
+            "obs": null,
+            "pag": [
+              "3236-3256"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-03-04",
+            "pubLeg": "IX",
+            "pubNr": "58",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/058/2004-03-04/3236?pgs=3236-3256&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Propõe a realização de um referendo sobre a descriminalização da interrupção voluntária da gravidez."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-03-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1969",
+                "nome": "Manuela Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148722",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3236-3239"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-04",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/058/2004-03-04/3236?pgs=3236-3239&org=PLC"
+              }
+            ],
+            "sumario": "Realização de um referendo sobre a descriminalização da interrupção voluntária da gravidez realizada nas primeiras dez semanas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1975",
+                "nome": "Alda Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148723",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3239-3239"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-04",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/058/2004-03-04/3239?pgs=3239&org=PLC"
+              }
+            ],
+            "sumario": "Realização de um referendo sobre a descriminalização da interrupção voluntária da gravidez realizada nas primeiras dez semanas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148724",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3240-3244",
+                  "3246-3247"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-04",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/058/2004-03-04/3240?pgs=3240-3244,3246-3247&org=PLC"
+              }
+            ],
+            "sumario": "Realização de um referendo sobre a descriminalização da interrupção voluntária da gravidez realizada nas primeiras dez semanas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148725",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3244-3245"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-04",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/058/2004-03-04/3244?pgs=3244-3245&org=PLC"
+              }
+            ],
+            "sumario": "Realização de um referendo sobre a descriminalização da interrupção voluntária da gravidez realizada nas primeiras dez semanas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148726",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3245-3246"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-04",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/058/2004-03-04/3245?pgs=3245-3246&org=PLC"
+              }
+            ],
+            "sumario": "Realização de um referendo sobre a descriminalização da interrupção voluntária da gravidez realizada nas primeiras dez semanas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148727",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3247-3250"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-04",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/058/2004-03-04/3247?pgs=3247-3250&org=PLC"
+              }
+            ],
+            "sumario": "Realização de um referendo sobre a descriminalização da interrupção voluntária da gravidez realizada nas primeiras dez semanas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148728",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3250-3252"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-04",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/058/2004-03-04/3250?pgs=3250-3252&org=PLC"
+              }
+            ],
+            "sumario": "Realização de um referendo sobre a descriminalização da interrupção voluntária da gravidez realizada nas primeiras dez semanas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148729",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3252-3254"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-04",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/058/2004-03-04/3252?pgs=3252-3254&org=PLC"
+              }
+            ],
+            "sumario": "Realização de um referendo sobre a descriminalização da interrupção voluntária da gravidez realizada nas primeiras dez semanas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148730",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3254-3255"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-04",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/058/2004-03-04/3254?pgs=3254-3255&org=PLC"
+              }
+            ],
+            "sumario": "Realização de um referendo sobre a descriminalização da interrupção voluntária da gravidez realizada nas primeiras dez semanas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148731",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3255-3256"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-04",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/058/2004-03-04/3255?pgs=3255-3256&org=PLC"
+              }
+            ],
+            "sumario": "Realização de um referendo sobre a descriminalização da interrupção voluntária da gravidez realizada nas primeiras dez semanas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148732",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3256-3256"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-04",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/058/2004-03-04/3256?pgs=3256&org=PLC"
+              }
+            ],
+            "sumario": "Realização de um referendo sobre a descriminalização da interrupção voluntária da gravidez realizada nas primeiras dez semanas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148733",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3256-3256"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-04",
+                "pubLeg": "IX",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/058/2004-03-04/3256?pgs=3256&org=PLC"
+              }
+            ],
+            "sumario": "Realização de um referendo sobre a descriminalização da interrupção voluntária da gravidez realizada nas primeiras dez semanas",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "161700",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "286243",
+        "obs": null,
+        "pag": [
+          "3236-3255"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-03-04",
+        "pubLeg": "IX",
+        "pubNr": "58",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/058/2004-03-04/3236?pgs=3236-3255&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
