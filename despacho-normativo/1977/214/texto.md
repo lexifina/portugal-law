@@ -1,0 +1,3 @@
+Despacho Normativo n.º 214/77
+Tendo-se suscitado dúvidas quanto ao âmbito pessoal de aplicação do Decreto-Lei n.º 923/76, de 31 de Dezembro, esclarece-se, ao abrigo do artigo 6.º do mesmo diploma, que os vencimentos fixados no respectivo artigo 1.º são devidos, com efeitos desde 1 de Janeiro de 1977, aos trabalhadores das pessoas colectivas de direito privado e utilidade pública administrativa com fins de saúde e assistência.
+Presidência do Conselho de Ministros e Ministério das Finanças, 28 de Outubro de 1977. - O Ministro das Finanças, Henrique Medina Carreira. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais.
