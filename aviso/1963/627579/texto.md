@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, conforme comunicação do Departamento de Estado dos Estados Unidos da América à Embaixada de Portugal em Washington, o Governo de Trinidad e Tobago, em 13 de Março de 1963, notificou àquele Departamento de Estado a sua adesão a Convenção da aviação civil internacional de 7 de Dezembro de 1944 e a sua aceitação do Acordo relativo ao trânsito dos serviços aéreos internacionais de 7 de Dezembro de 1944. Os referidos Acordos entrarão em vigor em relação àquele país em 13 de Abril de 1963.
+Direcção-Geral dos Negócios Económicos e Consulares, 31 de Maio de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
