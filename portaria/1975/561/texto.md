@@ -1,0 +1,22 @@
+Portaria n.º 561/75
+de 17 de Setembro
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura e Pescas, nos termos do n.º 1 do artigo 10.º do Decreto-Lei n.º 407-A/75, de 30 de Julho, nomear para os perímetros de aproveitamento hidroagrícola referidos no artigo 1.º daquele decreto-lei as seguintes comissões de gestão transitória:
+1) Comissão de Gestão Transitória do Perímetro de Aproveitamento Hidroagrícola do Caia:
+Presidente, director do Centro Regional de Reforma Agrária de Portalegre; engenheiro silvicultor Mário José Pinto Esteves Tavares; engenheiro agrónomo Daniel António Barbosa Bárrio Vieira; agente rural José António Ruivo de Oliveira, e tirocinante do curso de engenheiro agrónomo Ernesto Emílio Andrade Ferreira.
+2) Comissão de Gestão Transitória dos Perímetros de Aproveitamento Hidroagrícola de Campilhas, S. Domingos e Alto Sado:
+Presidente, director do Centro Regional de Reforma Agrária de Setúbal; engenheiro agrónomo Firmino Mendes Ramos; engenheiro agrónomo Elvídio Francisco José Estevam Ave Maria de Meneses, e regente agrícola João Alegre Baltasar.
+3) Comissão de Gestão Transitória do Perímetro de Aproveitamento Hidroagrícola do Divor:
+Presidente, director do Centro Regional de Reforma Agrária de Évora; engenheiro agrónomo José Elias Romão Martins, e regente agrícola Jaime do Carmo.
+4) Comissão de Gestão Transitória do Perímetro de Aproveitamento Hidroagrícola de Loures:
+Presidente, director do Centro Regional de Reforma Agrária de Lisboa; regente agrícola José da Costa Guilherme, e agente rural Armindo Calado Alves da Maia.
+5) Comissão de Gestão Transitória do Perímetro de Aproveitamento Hidroagrícola da Idanha:
+Presidente, director do Centro Regional de Reforma Agrária de Castelo Branco; engenheiro agrónomo Raul Antunes Capelo, e regente agrícola Ernest Daehnhardt.
+6) Comissão de Gestão Transitória do Perímetro de Aproveitamento Hidroagrícola do Mira:
+Presidente, director do Centro Regional de Reforma Agrária de Beja; engenheiro agrónomo Rodrigo António Ramalho Gusmão; engenheiro agrónomo Manuel Guilherme Alves da Silva; tirocinantes do curso de engenheiro agrónomo Gilberto Fernandes da Conceição Chora, e regente agrícola Armando da Glória Xavier Sequeira.
+7) Comissão de Gestão Transitória dos Perímetros de Aproveitamento Hidroagrícola de Odivelas e Roxo:
+Presidente, director do Centro Regional de Reforma Agrária de Beja; engenheiro agrónomo Luís Manuel Júdice da Gama Pinto; engenheiro agrónomo Gonçalo Arlindo Alves da Silva Araújo, e regente agrícola Francisco Barbosa Martins Branco.
+8) Comissão de Gestão Transitória do Perímetro de Aproveitamento Hidroagrícola do Vale do Sado:
+Presidente, director do Centro Regional de Reforma Agrária de Setúbal; engenheiro silvicultor Tito Virgulino Marques da Costa; engenheiro agrónomo Manuel da Costa Sobral; assistente social Tília Rodrigues da Fonseca, e licenciado em Ciências Geológicas José Joaquim Parrança Gonçalves.
+9) Comissão de Gestão Transitória do Perímetro de Aproveitamento Hidroagrícola do Vale do Sorraia:
+Presidente, director do Centro Regional de Reforma Agrária de Santarém; engenheiro agrónomo Nuno Manuel da Silva Nogueira Jordão; engenheiro agrónomo José Neves de Sousa; engenheiro agrónomo João Carlos Durão Lopes Saraiva, e tirocinante do curso de engenheiro agrónomo António José Madeira Lopes.
+Ministério da Agricultura e Pescas, 30 de Julho de 1975. - O Ministro da Agricultura e Pescas, Fernando Oliveira Baptista.
