@@ -1,0 +1,12 @@
+Portaria n.º 1033-L/2004
+de 10 de Agosto
+Pela Portaria n.º 561/92, de 24 de Junho, alterada pela Portaria n.º 897/2001, de 30 de Julho, foi concessionada à Santa Iria - Empreendimentos Turísticos e Cinegéticos, Lda., a zona de caça turística do Peixoto (processo n.º 925-DGRF), situada no município de Serpa, válida até 24 de Junho de 2004.
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+Cumpridos os preceitos legais, com fundamento no disposto no n.º 8 do artigo 44.º, em articulação com o disposto na alínea a) do n.º 2 do artigo 36.º e no n.º 2 do artigo 114.º, do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, ouvido o Conselho Cinegético Municipal:
+Manda o Governo, pelos Ministros da Economia, da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente, o seguinte:
+1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística do Peixoto (processo n.º 925-DGRF), abrangendo vários prédios rústicos sitos nas freguesias de Salvador e Santa Maria, município de Serpa, com a área de 2730 ha.
+2.º A Direcção-Geral do Turismo emitiu, ao abrigo do disposto no n.º 3 do artigo 34.º do citado diploma, parecer favorável condicionado ao cumprimento das beneficiações indicadas no ofício DSEAP/DPT/2004/202, de 30 de Janeiro, de modo a melhorar a qualidade de funcionamento do pavilhão de caça.
+3.º A actividade cinegética em terrenos incluídos na área classificada - sítio Guadiana - poderá ser interdita, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza, até um máximo de 10% da área total da zona de caça.
+4.º É revogada a Portaria n.º 718/2004, de 24 de Junho.
+5.º A presente portaria produz efeitos a partir do dia 25 de Junho de 2004.
+Pelo Ministro da Economia, Luís Manuel Miguel Correia da Silva, Secretário de Estado do Turismo, em 8 de Julho de 2004. - Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 5 de Julho de 2004. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Arlindo Marques da Cunha, em 12 de Julho de 2004.
