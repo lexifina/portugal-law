@@ -1,11 +1,11 @@
 # Artigo 45.º
 
-### Substituição da prisão por multa
+### Prisão por dias livres
 
-1 - A pena de prisão aplicada em medida não superior a um ano é substituída por pena de multa ou por outra pena não privativa da liberdade aplicável, exceto se a execução da prisão for exigida pela necessidade de prevenir o cometimento de futuros crimes. É correspondentemente aplicável o disposto no artigo 47.º
+1 - A pena de prisão aplicada em medida não superior a 3 meses, que não deva ser substituída por multa ou por outra pena não privativa da liberdade, é cumprida em dias livres sempre que o tribunal concluir que, no caso, esta forma de cumprimento realiza de forma adequada e suficiente as finalidades da punição.
 
-2 - Se a multa não for paga, o condenado cumpre a pena de prisão aplicada na sentença. É correspondentemente aplicável o disposto no n.º 3 do artigo 49.º
+2 - A prisão por dias livres consiste numa privação da liberdade por períodos correspondentes a fins-de-semana, não podendo exceder 18 períodos.
 
-3 - (Revogado.)
+3 - Cada período tem a duração mínima de trinta e seis horas e a máxima de quarenta e oito, equivalendo a 5 dias de prisão contínua.
 
-4 - (Revogado.)
+4 - Os dias feriados que antecederem ou se seguirem imediatamente a um fim-de-semana podem ser utilizados para execução da prisão por dias livres, sem prejuízo da duração máxima estabelecida para cada período.

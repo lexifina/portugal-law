@@ -14,4 +14,4 @@
 
 a) O agente que, com o facto, procurar ao mesmo tempo evitar que contra si seja aplicada ou executada pena ou medida de segurança;
 
-b) O cônjuge, os adoptantes ou adoptados, os parentes ou afins até ao 2.º grau ou a pessoa, de outro ou do mesmo sexo, que viva em situação análoga à dos cônjuges com aquela em benefício da qual se actuou.
+b) O cônjuge, os adoptantes ou adoptados, os parentes ou afins até ao segundo grau da pessoa em benefício da qual se actuou ou quem com esta viva em situação análoga à dos cônjuges.

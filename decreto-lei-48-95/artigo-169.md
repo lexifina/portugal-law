@@ -1,17 +1,5 @@
 # Artigo 169.º
 
-### Lenocínio
+### Tráfico de pessoas
 
-1 - Quem, profissionalmente ou com intenção lucrativa, fomentar, favorecer ou facilitar o exercício por outra pessoa de prostituição é punido com pena de prisão de seis meses a cinco anos.
-
-2 - Se o agente cometer o crime previsto no número anterior:
-
-a) Por meio de violência ou ameaça grave;
-
-b) Através de ardil ou manobra fraudulenta;
-
-c) Com abuso de autoridade resultante de uma relação familiar, de tutela ou curatela, ou de dependência hierárquica, económica ou de trabalho; ou
-
-d) Aproveitando-se de incapacidade psíquica ou de situação de especial vulnerabilidade da vítima;
-
-é punido com pena de prisão de um a oito anos.
+Quem, por meio de violência, ameaça grave, ardil ou manobra fraudulenta, levar outra pessoa à prática em país estrangeiro da prostituição ou de actos sexuais de relevo, explorando a sua situação de abandono ou de necessidade, é punido com pena de prisão de 2 a 8 anos.

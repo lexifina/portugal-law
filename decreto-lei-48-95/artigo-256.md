@@ -4,23 +4,17 @@
 
 # Artigo 256.º
 
-### Falsificação ou contrafacção de documento
+### Falsificação de documento
 
-1 - Quem, com intenção de causar prejuízo a outra pessoa ou ao Estado, de obter para si ou para outra pessoa benefício ilegítimo, ou de preparar, facilitar, executar ou encobrir outro crime:
+1 - Quem, com intenção de causar prejuízo a outra pessoa ou ao Estado, ou de obter para si ou para outra pessoa benefício ilegítimo:
 
-a) Fabricar ou elaborar documento falso, ou qualquer dos componentes destinados a corporizá-lo;
+a) Fabricar documento falso, falsificar ou alterar documento, ou abusar da assinatura de outra pessoa para elaborar documento falso;
 
-b) Falsificar ou alterar documento ou qualquer dos componentes que o integram;
+b) Fizer constar falsamente de documento facto juridicamente relevante; ou
 
-c) Abusar da assinatura de outra pessoa para falsificar ou contrafazer documento;
+c) Usar documento a que se referem as alíneas anteriores, fabricado ou falsificado por outra pessoa;
 
-d) Fizer constar falsamente de documento ou de qualquer dos seus componentes facto juridicamente relevante;
-
-e) Usar documento a que se referem as alíneas anteriores; ou
-
-f) Por qualquer meio, facultar ou detiver documento falsificado ou contrafeito;
-
-é punido com pena de prisão até três anos ou com pena de multa.
+é punido com pena de prisão até 3 anos ou com pena de multa.
 
 2 - A tentativa é punível.
 

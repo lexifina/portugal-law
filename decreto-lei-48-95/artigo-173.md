@@ -1,9 +1,15 @@
 # Artigo 173.º
 
-### Actos sexuais com adolescentes
+### Abuso sexual de adolescentes e dependentes
 
-1 - Quem, sendo maior, praticar ato sexual de relevo com menor entre 14 e 16 anos, ou levar a que ele seja praticado por este com outrem, abusando da sua inexperiência, é punido com pena de prisão até 2 anos.
+1 - Quem praticar ou levar a praticar os actos descritos nos n.os 1 ou 2 do artigo 172.º, relativamente:
 
-2 - Se o ato sexual de relevo consistir em cópula, coito oral, coito anal ou introdução vaginal ou anal de partes do corpo ou objetos, o agente é punido com pena de prisão até 3 anos.
+a) A menor entre 14 e 16 anos que lhe tenha sido confiado para educação ou assistência; ou
 
-3 - A tentativa é punível.
+b) A menor entre 16 e 18 anos que lhe tenha sido confiado para educação ou assistência, com abuso da função que exerce ou da posição que detém;
+
+é punido com pena de prisão de 1 a 8 anos.
+
+2 - Quem praticar acto descrito nas alíneas do n.º 3 do artigo 172.º, relativamente a menor compreendido nas alíneas do número anterior deste artigo e nas condições aí descritas, é punido com pena de prisão até 1 ano.
+
+3 - Quem praticar ou levar a praticar os actos descritos no número anterior com intenção lucrativa é punido com pena de prisão até 3 anos.

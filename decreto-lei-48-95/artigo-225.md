@@ -1,18 +1,8 @@
 # Artigo 225.º
 
-### Abuso de cartão de garantia ou de cartão, dispositivo ou dados de pagamento
+### Abuso de cartão de garantia ou de crédito
 
-1 - Quem, com intenção de obter para si ou para terceiro enriquecimento ilegítimo, usar:
-
-a) Cartão de garantia;
-
-b) Cartão de pagamento;
-
-c) Qualquer outro dispositivo, corpóreo ou incorpóreo, que permita o acesso a sistema ou a meio de pagamento;
-
-d) Dados registados, incorporados ou respeitantes a cartão de pagamento ou a qualquer outro dispositivo, corpóreo ou incorpóreo, que permita o acesso a sistema ou a meio de pagamento;
-
-determinando o depósito, a transferência, o levantamento ou, por qualquer outra forma, o pagamento de moeda, incluindo a escritural, a eletrónica ou a virtual, e causar, desse modo, prejuízo patrimonial a outra pessoa, é punido com pena de prisão até 3 anos ou com pena de multa.
+1 - Quem, abusando da possibilidade, conferida pela posse de cartão de garantia ou de crédito, de levar o emitente a fazer um pagamento, causar prejuízo a este ou a terceiro é punido com pena de prisão até 3 anos ou com pena de multa.
 
 2 - A tentativa é punível.
 

@@ -12,12 +12,10 @@ b) For precedida ou acompanhada de ofensa à integridade física grave, tortura 
 
 c) For praticada com o falso pretexto de que a vítima sofria de anomalia psíquica;
 
-d) Tiver como resultado suicídio ou ofensa à integridade física grave da vítima.
+d) For praticada simulando o agente autoridade pública, ou com abuso grosseiro dos poderes inerentes às suas funções públicas; ou
 
-e) For praticada contra pessoa particularmente indefesa, em razão de idade, deficiência, doença ou gravidez;
-
-f) For praticada contra uma das pessoas referidas na alínea l) do n.º 2 do artigo 132.º, no exercício das suas funções ou por causa delas;
-
-g) For praticada mediante simulação de autoridade pública ou por funcionário com grave abuso de autoridade.
+e) Tiver como resultado suicídio ou ofensa à integridade física grave da vítima.
 
 3 - Se da privação da liberdade resultar a morte da vítima o agente é punido com pena de prisão de 3 a 15 anos.
+
+4 - Se a pessoa sequestrada for uma das referidas na alínea h) do n.º 2 do artigo 132.º, no exercício das suas funções ou por causa delas, as penas referidas nos números anteriores são agravadas de um terço nos seus limites mínimos e máximos.

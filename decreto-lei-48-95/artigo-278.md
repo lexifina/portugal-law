@@ -2,26 +2,14 @@
 
 ### Danos contra a natureza
 
-1 - Quem, não observando disposições legais, regulamentares ou obrigações impostas pela autoridade competente em conformidade com aquelas disposições:
+1 - Quem, não observando disposições legais ou regulamentares, eliminar exemplares de fauna ou flora ou destruir habitat natural ou esgotar recursos do subsolo, de forma grave, é punido com pena de prisão até 3 anos ou com pena de multa até 600 dias.
 
-a) Eliminar, destruir ou capturar exemplares de espécies protegidas da fauna ou da flora selvagens ou eliminar exemplares de fauna ou flora em número significativo;
+2 - Para os efeitos do número anterior o agente actua de forma grave quando:
 
-b) Destruir ou deteriorar significativamente habitat natural protegido ou habitat natural não protegido causando a este perdas em espécies protegidas da fauna ou da flora selvagens ou em número significativo; ou
+a) Fizer desaparecer ou contribuir decisivamente para fazer desaparecer uma ou mais espécies animais ou vegetais de certa região;
 
-c) Afectar gravemente recursos do subsolo;
+b) Da destruição resultarem perdas importantes nas populações de espécies de fauna ou flora selvagens legalmente protegidas;
 
-é punido com pena de prisão até 5 anos.
+c) Esgotar ou impedir a renovação de um recurso do subsolo em toda uma área regional.
 
-2 - Quem, não observando disposições legais, regulamentares ou obrigações impostas pela autoridade competente em conformidade com aquelas disposições, comercializar ou detiver para comercialização exemplar de espécies protegidas da fauna ou da flora selvagens, vivo ou morto, bem como qualquer parte ou produto obtido a partir daquele, é punido com pena de prisão até 2 anos ou com pena de multa até 360 dias.
-
-3 - Quem, não observando disposições legais, regulamentares ou obrigações impostas pela autoridade competente em conformidade com aquelas disposições, possuir ou detiver exemplar de espécies protegidas da fauna ou da flora selvagens, vivo ou morto, é punido com pena de prisão até 1 ano ou com pena de multa até 240 dias.
-
-4 - A conduta referida no número anterior não é punível quando:
-
-a) A quantidade de exemplares detidos não for significativa; e
-
-b) O impacto sobre a conservação das espécies em causa não for significativo.
-
-5 - Se a conduta referida no n.º 1 for praticada por negligência, o agente é punido com pena de prisão até 2 anos ou com pena de multa até 360 dias.
-
-6 - Se as condutas referidas nos n.os 2 e 3 forem praticadas por negligência, o agente é punido com pena de multa até 240 dias.
+3 - Se a conduta referida no n.º 1 for praticada por negligência, o agente é punido com pena de prisão até 1 ano ou com pena de multa.

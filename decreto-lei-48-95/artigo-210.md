@@ -2,7 +2,7 @@
 
 ### Roubo
 
-1 - Quem, com ilegítima intenção de apropriação para si ou para outra pessoa, subtrair, ou constranger a que lhe seja entregue, coisa móvel ou animal alheios, por meio de violência contra uma pessoa, de ameaça com perigo iminente para a vida ou para a integridade física, ou pondo-a na impossibilidade de resistir, é punido com pena de prisão de 1 a 8 anos.
+1 - Quem, com ilegítima intenção de apropriação para si ou para outra pessoa, subtrair, ou constranger a que lhe seja entregue, coisa móvel alheia, por meio de violência contra uma pessoa, de ameaça com perigo iminente para a vida ou para a integridade física, ou pondo-a na impossibilidade de resistir, é punido com pena de prisão de 1 a 8 anos.
 
 2 - A pena é a de prisão de 3 a 15 anos se:
 

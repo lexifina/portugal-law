@@ -1,19 +1,21 @@
+## Secção II
+
+## Crimes contra a autodeterminação sexual
+
 # Artigo 172.º
 
-### Abuso sexual de menores dependentes ou em situação particularmente vulnerável
+### Abuso sexual de crianças
 
-1 - Quem praticar ou levar a praticar ato descrito nos n.os 1 ou 2 do artigo anterior, relativamente a menor entre 14 e 18 anos:
+1 - Quem praticar acto sexual de relevo com ou em menor de 14 anos, ou o levar a praticá-lo consigo ou com outra pessoa, é punido com pena de prisão de 1 a 8 anos.
 
-a) Em relação ao qual exerça responsabilidades parentais ou que lhe tenha sido confiado para educação ou assistência; ou
+2 - Se o agente tiver cópula ou coito anal com menor de 14 anos é punido com pena de prisão de 3 a 10 anos.
 
-b) Abusando de uma posição de manifesta confiança, de autoridade ou de influência sobre o menor; ou
+3 - Quem:
 
-c) Abusando de outra situação de particular vulnerabilidade do menor, nomeadamente por razões de saúde ou deficiência;
+a) Praticar acto de carácter exibicionista perante menor de 14 anos; ou
 
-é punido com pena de prisão de 1 a 8 anos.
+b) Actuar sobre menor de 14 anos, por meio de conversa obscena ou de escrito, espectáculo ou objecto pornográficos, ou o utilizar em fotografia, filme ou gravação pornográficos;
 
-2 - Quem praticar acto descrito nas alíneas do n.º 3 do artigo anterior, relativamente a menor compreendido no número anterior deste artigo e nas condições aí descritas, é punido com pena de prisão até um ano.
+é punido com pena de prisão até 3 anos.
 
-3 - Quem praticar os atos descritos no número anterior com intenção lucrativa é punido com pena de prisão até 5 anos.
-
-4 - A tentativa é punível.
+4 - Quem praticar os actos descritos no número anterior com intenção lucrativa é punido com pena de prisão de 6 meses a 5 anos.

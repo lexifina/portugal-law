@@ -2,4 +2,4 @@
 
 ### Âmbito do objecto da receptação
 
-São equiparados às coisas e aos animais referidos no artigo 231.º os valores ou produtos com eles diretamente obtidos.
+São equiparados às coisas referidas no artigo 231.º os valores ou produtos com elas directamente obtidos.

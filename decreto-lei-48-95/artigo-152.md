@@ -1,37 +1,21 @@
 # Artigo 152.º
 
-### Violência doméstica
+### Maus tratos ou sobrecarga de menores, de incapazes ou do cônjuge
 
-1 - Quem, de modo reiterado ou não, infligir maus tratos físicos ou psíquicos, incluindo castigos corporais, privações da liberdade, ofensas sexuais ou impedir o acesso ou fruição aos recursos económicos e patrimoniais próprios ou comuns:
+1 - Quem, tendo ao seu cuidado, à sua guarda, sob a responsabilidade da sua direcção ou educação, ou como subordinado por relação de trabalho, pessoa menor, incapaz, ou diminuída por razão de idade, doença, deficiência física ou psíquica e:
 
-a) Ao cônjuge ou ex-cônjuge;
+a) Lhe infligir maus tratos físicos ou psíquicos ou a tratar cruelmente;
 
-b) A pessoa de outro ou do mesmo sexo com quem o agente mantenha ou tenha mantido uma relação de namoro ou uma relação análoga à dos cônjuges, ainda que sem coabitação;
+b) A empregar em actividades perigosas, desumanas ou proibidas; ou
 
-c) A progenitor de descendente comum em 1.º grau; ou
+c) A sobrecarregar com trabalhos excessivos;
 
-d) A pessoa particularmente indefesa, nomeadamente em razão da idade, deficiência, doença, gravidez ou dependência económica, que com ele coabite;
+é punido com pena de prisão de 1 a 5 anos, se o facto não for punível pelo artigo 144.º
 
-e) A menor que seja seu descendente ou de uma das pessoas referidas nas alíneas a), b) e c), ainda que com ele não coabite;
+2 - A mesma pena é aplicável a quem infligir ao cônjuge ou a quem com ele conviver em condições análogas às dos cônjuges maus tratos físicos ou psíquicos. O procedimento criminal depende de queixa.
 
-é punido com pena de prisão de um a cinco anos, se pena mais grave lhe não couber por força de outra disposição legal.
+3 - Se dos factos previstos nos números anteriores resultar:
 
-2 - No caso previsto no número anterior, se o agente:
+a) Ofensa à integridade física grave, o agente é punido com pena de prisão de 2 a 8 anos;
 
-a) Praticar o facto contra menor, na presença de menor, no domicílio comum ou no domicílio da vítima; ou
-
-b) Difundir através da Internet ou de outros meios de difusão pública generalizada, dados pessoais, designadamente imagem ou som, relativos à intimidade da vida privada de uma das vítimas sem o seu consentimento;
-
-é punido com pena de prisão de dois a cinco anos.
-
-3 - Se dos factos previstos no n.º 1 resultar:
-
-a) Ofensa à integridade física grave, o agente é punido com pena de prisão de dois a oito anos;
-
-b) A morte, o agente é punido com pena de prisão de três a dez anos.
-
-4 - Nos casos previstos nos números anteriores, incluindo aqueles em que couber pena mais grave por força de outra disposição legal, podem ser aplicadas ao arguido as penas acessórias de proibição de contacto com a vítima e de proibição de uso e porte de armas, pelo período de seis meses a cinco anos, e de obrigação de frequência de programas específicos de prevenção da violência doméstica.
-
-5 - A pena acessória de proibição de contacto com a vítima deve incluir o afastamento da residência ou do local de trabalho desta e o seu cumprimento deve ser fiscalizado por meios técnicos de controlo à distância.
-
-6 - Quem for condenado por crime previsto no presente artigo pode, atenta a concreta gravidade do facto e a sua conexão com a função exercida pelo agente, ser inibido do exercício de responsabilidades parentais, da tutela ou do exercício de medidas relativas a maior acompanhado por um período de 1 a 10 anos.
+b) A morte, o agente é punido com pena de prisão de 3 a 10 anos.

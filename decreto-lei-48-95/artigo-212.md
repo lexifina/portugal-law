@@ -2,7 +2,7 @@
 
 ### Dano
 
-1 - Quem destruir, no todo ou em parte, danificar, desfigurar ou tornar não utilizável coisa ou animal alheios, é punido com pena de prisão até três anos ou com pena de multa.
+1 - Quem destruir, no todo ou em parte, danificar, desfigurar ou tornar não utilizável coisa alheia, é punido com pena de prisão até 3 anos ou com pena de multa.
 
 2 - A tentativa é punível.
 

@@ -1,9 +1,13 @@
 # Artigo 222.º
 
-### Burla relativa a trabalho ou emprego
+### Extorsão
 
-1 - Quem, com intenção de obter para si ou para terceiro enriquecimento ilegítimo, causar a outra pessoa prejuízo patrimonial, através de aliciamento ou promessa de trabalho ou emprego no estrangeiro, é punido com pena de prisão até 5 anos ou com pena de multa até 600 dias.
+1 - Quem, com intenção de conseguir para si ou para terceiro enriquecimento ilegítimo, constranger outra pessoa, por meio de violência ou de ameaça com mal importante, a uma disposição patrimonial que acarrete, para ela ou para outrem, prejuízo é punido com pena de prisão até 5 anos.
 
-2 - Com a mesma pena é punido quem, com intenção de obter para si ou para terceiro enriquecimento ilegítimo, causar a pessoa residente no estrangeiro prejuízo patrimonial, através de aliciamento ou promessa de trabalho ou emprego em Portugal.
+2 - Se a ameaça consistir na revelação, por meio da comunicação social, de factos que possam lesar gravemente a reputação da vítima ou de outra pessoa, o agente é punido com pena de prisão de 6 meses a 5 anos.
 
-3 - É correspondentemente aplicável o disposto nos n.os 2 e 3 do artigo 206.º e no n.º 2 do artigo 218.º
+3 - Se se verificarem os requisitos referidos:
+
+a) Nas alíneas a), f) ou g) do n.º 2 do artigo 204.º, ou na alínea a) do n.º 2 do artigo 210.º, o agente é punido com pena de prisão de 3 a 15 anos;
+
+b) No n.º 3 do artigo 210.º, o agente é punido com pena de prisão de 8 a 16 anos.

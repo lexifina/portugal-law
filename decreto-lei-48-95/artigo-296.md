@@ -1,5 +1,5 @@
 # Artigo 296.º
 
-### Utilização de menor na mendicidade
+### Exploração de menor na mendicidade
 
-Quem utilizar menor ou pessoa psiquicamente incapaz na mendicidade é punido com pena de prisão até três anos.
+Quem explorar menor de 16 anos ou pessoa psiquicamente incapaz, utilizando-o para mendigar, é punido com pena de prisão até 3 anos.

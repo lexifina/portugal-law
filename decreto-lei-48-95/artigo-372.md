@@ -8,10 +8,12 @@
 
 # Artigo 372.º
 
-### Recebimento ou oferta indevidos de vantagem
+### Corrupção passiva para acto ilícito
 
-1 - O funcionário que, no exercício das suas funções ou por causa delas, por si, ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, vantagem patrimonial ou não patrimonial, que não lhe seja devida, é punido com pena de prisão até cinco anos ou com pena de multa até 600 dias.
+1 - O funcionário que por si, ou por interposta pessoa com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, sem que lhe seja devida, vantagem patrimonial ou não patrimonial, ou a sua promessa, como contrapartida de acto ou de omissão contrários aos deveres do cargo, é punido com pena de prisão de 1 a 8 anos.
 
-2 - Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, der ou prometer a funcionário, ou a terceiro por indicação ou conhecimento daquele, vantagem patrimonial ou não patrimonial, que não lhe seja devida, no exercício das suas funções ou por causa delas, é punido com pena de prisão até três anos ou com pena de multa até 360 dias.
+2 - Se o facto não for executado, o agente é punido com pena de prisão até 3 anos ou com pena de multa.
 
-3 - Excluem-se dos números anteriores as condutas socialmente adequadas e conformes aos usos e costumes.
+3 - Se o agente, antes da prática do facto, voluntariamente repudiar o oferecimento ou a promessa que aceitara, ou restituir a vantagem, ou, tratando-se de coisa fungível, o seu valor, é dispensado de pena.
+
+4 - A pena pode ser especialmente atenuada se o agente auxiliar concretamente na recolha das provas decisivas para a identificação ou a captura de outros responsáveis.

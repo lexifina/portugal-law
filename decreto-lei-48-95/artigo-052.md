@@ -2,15 +2,7 @@
 
 ### Regras de conduta
 
-1 - O tribunal pode impor ao condenado o cumprimento, pelo tempo de duração da suspensão, de regras de conduta de conteúdo positivo, susceptíveis de fiscalização e destinadas a promover a sua reintegração na sociedade, nomeadamente:
-
-a) Residir em determinado lugar;
-
-b) Frequentar certos programas ou actividades;
-
-c) Cumprir determinadas obrigações.
-
-2 - O tribunal pode, complementarmente, impor ao condenado o cumprimento de outras regras de conduta, designadamente:
+1 - O tribunal pode impor ao condenado o cumprimento, pelo tempo de duração da suspensão, de regras de conduta destinadas a facilitar a sua reintegração na sociedade, nomeadamente:
 
 a) Não exercer determinadas profissões;
 
@@ -22,8 +14,10 @@ d) Não acompanhar, alojar ou receber determinadas pessoas;
 
 e) Não frequentar certas associações ou não participar em determinadas reuniões;
 
-f) Não ter em seu poder objectos capazes de facilitar a prática de crimes.
+f) Não ter em seu poder objectos capazes de facilitar a prática de crimes;
 
-3 - O tribunal pode ainda, obtido o consentimento prévio do condenado, determinar a sua sujeição a tratamento médico ou a cura em instituição adequada.
+g) Apresentar-se periodicamente perante o tribunal, o técnico de reinserção social ou entidades não policiais.
 
-4 - É correspondentemente aplicável o disposto nos n.os 2, 3 e 4 do artigo anterior.
+2 - O tribunal pode ainda, obtido o consentimento prévio do condenado, determinar a sua sujeição a tratamento médico ou a cura em instituição adequada.
+
+3 - É correspondentemente aplicável o disposto nos n.os 2 e 3 do artigo anterior.

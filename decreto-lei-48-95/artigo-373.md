@@ -1,7 +1,7 @@
 # Artigo 373.º
 
-### Corrupção passiva
+### Corrupção passiva para acto lícito
 
-1 - O funcionário que por si, ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, vantagem patrimonial ou não patrimonial, ou a sua promessa, para a prática de um qualquer acto ou omissão contrários aos deveres do cargo, ainda que anteriores àquela solicitação ou aceitação, é punido com pena de prisão de um a oito anos.
+1 - O funcionário que por si, ou por interposta pessoa com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, sem que lhe seja devida, vantagem patrimonial ou não patrimonial, ou a sua promessa, como contrapartida de acto ou de omissão não contrários aos deveres do cargo, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
 
-2 - Se o acto ou omissão não forem contrários aos deveres do cargo e a vantagem não lhe for devida, o agente é punido com pena de prisão de um a cinco anos.
+2 - É correspondentemente aplicável o disposto na alínea b) do artigo 364.º e nos n.os 3 e 4 do artigo anterior.

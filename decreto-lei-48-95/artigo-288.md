@@ -12,10 +12,8 @@ c) Dando falso aviso ou sinal; ou
 
 d) Praticando acto do qual possa resultar desastre;
 
-é punido com pena de prisão de um a oito anos.
+e criar deste modo perigo para a vida ou para a integridade física de outrem, ou para bens patrimoniais alheios de valor elevado, é punido com pena de prisão de 3 a 10 anos.
 
-2 - Se, através da conduta referida no número anterior, o agente criar perigo para a vida ou para a integridade física de outrem, ou para bens patrimoniais alheios de valor elevado, é punido com pena de prisão de três a dez anos.
+2 - Se o perigo referido no número anterior for criado por negligência, o agente é punido com pena de prisão de 1 a 8 anos.
 
-3 - Se o perigo referido no número anterior for criado por negligência, o agente é punido com pena de prisão de dois a oito anos.
-
-4 - Se a conduta referida no n.º 2 for praticada por negligência, o agente é punido com pena de prisão até cinco anos.
+3 - Se a conduta referida no n.º 1 for praticada por negligência, o agente é punido com pena de prisão até 5 anos.

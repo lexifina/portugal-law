@@ -1,3 +1,7 @@
+## Subsecção III
+
+## Dos crimes contra Estados estrangeiros e organizações internacionais
+
 # Artigo 322.º
 
 ### Crimes contra pessoa que goze de protecção internacional

@@ -8,10 +8,8 @@ a) Pagar dentro de certo prazo, no todo ou na parte que o tribunal considerar po
 
 b) Dar ao lesado satisfação moral adequada;
 
-c) Entregar a instituições, públicas ou privadas, de solidariedade social ou ao Estado, uma contribuição monetária ou prestação de valor equivalente.
+c) Entregar a instituições, públicas ou privadas, de solidariedade social ou ao Estado, uma contribuição monetária ou prestação em espécie de valor equivalente.
 
 2 - Os deveres impostos não podem em caso algum representar para o condenado obrigações cujo cumprimento não seja razoavelmente de lhe exigir.
 
 3 - Os deveres impostos podem ser modificados até ao termo do período de suspensão sempre que ocorrerem circunstâncias relevantes supervenientes ou de que o tribunal só posteriormente tiver tido conhecimento.
-
-4 - O tribunal pode determinar que os serviços de reinserção social apoiem e fiscalizem o condenado no cumprimento dos deveres impostos.

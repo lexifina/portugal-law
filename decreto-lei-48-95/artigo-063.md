@@ -1,11 +1,5 @@
 # Artigo 63.º
 
-### Liberdade condicional em caso de execução sucessiva de várias penas
+### Regime
 
-1 - Se houver lugar à execução de várias penas de prisão, a execução da pena que deva ser cumprida em primeiro lugar é interrompida quando se encontrar cumprida metade da pena.
-
-2 - Nos casos previstos no número anterior, o tribunal decide sobre a liberdade condicional no momento em que possa fazê-lo, de forma simultânea, relativamente à totalidade das penas.
-
-3 - Se a soma das penas que devam ser cumpridas sucessivamente exceder 6 anos de prisão, o tribunal coloca o condenado em liberdade condicional, se dela não tiver antes aproveitado, logo que se encontrarem cumpridos cinco sextos da soma das penas.
-
-4 - O disposto nos números anteriores não é aplicável ao caso em que a execução da pena resultar de revogação da liberdade condicional.
+É correspondentemente aplicável à liberdade condicional o disposto no artigo 52.º, nos n.os 1 e 2 do artigo 53.º, no artigo 54.º e nas alíneas a), b) e c) do artigo 55.º

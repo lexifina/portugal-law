@@ -2,7 +2,7 @@
 
 ### Dispensa de pena
 
-1 - Quando o crime for punível com pena de prisão não superior a 6 meses, ou só com multa não superior a 120 dias, pode o tribunal declarar o arguido culpado mas não aplicar qualquer pena se:
+1 - Quando o crime for punível com pena de prisão não superior a 6 meses, ou só com multa não superior a 120 dias, pode o tribunal declarar o réu culpado mas não aplicar qualquer pena se:
 
 a) A ilicitude do facto e a culpa do agente forem diminutas;
 

@@ -8,6 +8,6 @@ a) Os títulos de crédito nacionais e estrangeiros constantes, por força da le
 
 b) Os bilhetes ou fracções da lotaria nacional; e
 
-c) Os cartões de garantia.
+c) Os cartões de garantia ou de crédito.
 
 2 - O disposto no número anterior não abrange a falsificação relativamente a elementos a cuja garantia e identificação especialmente se não destine o uso do papel ou da impressão.

@@ -6,6 +6,6 @@
 
 2 - O consentimento pode ser expresso por qualquer meio que traduza uma vontade séria, livre e esclarecida do titular do interesse juridicamente protegido, e pode ser livremente revogado até à execução do facto.
 
-3 - O consentimento só é eficaz se for prestado por quem tiver mais de 16 anos e possuir o discernimento necessário para avaliar o seu sentido e alcance no momento em que o presta.
+3 - O consentimento só é eficaz se for prestado por quem tiver mais de 14 anos e possuir o discernimento necessário para avaliar o seu sentido e alcance no momento em que o presta.
 
 4 - Se o consentimento não for conhecido do agente, este é punível com a pena aplicável à tentativa.

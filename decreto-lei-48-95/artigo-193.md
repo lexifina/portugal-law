@@ -1,5 +1,7 @@
 # Artigo 193.º
 
-### Devassa através de meio de comunicação social, da Internet ou de outros meios de difusão pública generalizada
+### Devassa por meio de informática
 
-Quem, sem consentimento, disseminar ou contribuir para a disseminação, através de meio de comunicação social, da Internet ou de outros meios de difusão pública generalizada, de imagens, fotografias ou gravações que devassem a vida privada das pessoas, designadamente a intimidade da vida familiar ou sexual, é punido com pena de prisão até 5 anos.
+1 - Quem criar, mantiver ou utilizar ficheiro automatizado de dados individualmente identificáveis e referentes a convicções políticas, religiosas ou filosóficas, à filiação partidária ou sindical, à vida privada, ou a origem étnica, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
+
+2 - A tentativa é punível.

@@ -1,5 +1,7 @@
 # Artigo 170.º
 
-### Importunação sexual
+### Lenocínio
 
-Quem importunar outra pessoa, praticando perante ela atos de carácter exibicionista, formulando propostas de teor sexual ou constrangendo-a a contacto de natureza sexual, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias, se pena mais grave lhe não couber por força de outra disposição legal.
+1 - Quem, profissionalmente ou com intenção lucrativa, fomentar, favorecer ou facilitar o exercício por outra pessoa de prostituição ou a prática de actos sexuais de relevo, explorando situações de abandono ou de necessidade económica, é punido com pena de prisão de 6 meses a 5 anos.
+
+2 - Se o agente usar de violência, ameaça grave, ardil ou manobra fraudulenta, ou se aproveitar de incapacidade psíquica da vítima, é punido com pena de prisão de 1 a 8 anos.

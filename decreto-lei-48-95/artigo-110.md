@@ -1,15 +1,9 @@
 # Artigo 110.º
 
-### Perda de vantagens
+### Objectos pertencentes a terceiro
 
-1 - São declaradas perdidas a favor do Estado as vantagens de facto ilícito típico, considerando-se como tal todos os bens ou direitos que constituam vantagem económica, direta ou indiretamente resultante desse facto, para o agente ou para outrem.
+1 - Sem prejuízo do disposto nos números seguintes, a perda não tem lugar se os objectos não pertencerem, à data do facto, a nenhum dos agentes ou beneficiários, ou não lhes pertencerem no momento em que a perda foi decretada.
 
-2 - O disposto no número anterior abrange a recompensa dada ou prometida aos agentes de um facto ilícito típico, já cometido ou a cometer, para eles ou para outrem.
+2 - Ainda que os objectos pertençam a terceiro, é decretada a perda quando os seus titulares tiverem concorrido, de forma censurável, para a sua utilização ou produção, ou do facto tiverem retirado vantagens; ou ainda quando os objectos forem, por qualquer título, adquiridos após a prática do facto, conhecendo os adquirentes a sua proveniência.
 
-3 - A perda das vantagens referidas nos números anteriores tem lugar ainda que as mesmas tenham sido objeto de eventual transformação ou reinvestimento posterior, abrangendo igualmente quaisquer ganhos quantificáveis que daí tenham resultado.
-
-4 - Se as vantagens referidas nos números anteriores não puderem ser apropriadas em espécie, a perda é substituída pelo pagamento ao Estado do respetivo valor, podendo essa substituição operar a todo o tempo, mesmo em fase executiva, com os limites previstos no artigo 112.º-A.
-
-5 - [Revogado.]
-
-6 - O disposto no presente artigo não prejudica os direitos do lesado.
+3 - Se os objectos consistirem em inscrições, representações ou registos lavrados em papel, noutro suporte ou meio de expressão audiovisual, pertencentes a terceiro de boa fé, não terá lugar a perda, procedendo-se à restituição depois de apagadas as inscrições, representações ou registos que integrarem o facto ilícito típico. Não sendo isso possível, o tribunal ordena a destruição, havendo lugar à indemnização nos termos da lei civil.

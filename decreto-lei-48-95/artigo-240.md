@@ -1,25 +1,19 @@
 # Artigo 240.º
 
-### Discriminação e incitamento ao ódio e à violência
+### Discriminação racial
 
 1 - Quem:
 
-a) Fundar ou constituir organização ou desenvolver atividades de propaganda que incitem ou encorajem à discriminação, ao ódio ou à violência contra pessoa ou grupo de pessoas em razão da sua origem étnico-racial, origem nacional ou religiosa, cor, nacionalidade, ascendência, território de origem, religião, língua, sexo, orientação sexual, identidade ou expressão de género ou características sexuais, deficiência física ou psíquica; ou
+a) Fundar ou constituir organização ou desenvolver actividades de propaganda organizada que incitem à discriminação, ao ódio ou à violência raciais, ou que a encoragem; ou
 
-b) Participar nas organizações referidas na alínea anterior, nas atividades por elas empreendidas ou lhes prestar assistência, incluindo o seu financiamento;
+b) Participar na organização ou nas actividades referidas na alínea anterior ou lhes prestar assistência, incluindo o seu financiamento;
 
 é punido com pena de prisão de 1 a 8 anos.
 
-2 - Quem, publicamente, por qualquer meio destinado a divulgação, nomeadamente através da apologia, negação ou banalização grosseira de crimes de genocídio, guerra ou contra a paz e a humanidade:
+2 - Quem, em reunião pública, por escrito destinado a divulgação ou através de qualquer meio de comunicação social:
 
-a) Provocar atos de violência contra pessoa ou grupo de pessoas por causa da sua origem étnico-racial, origem nacional ou religiosa, cor, nacionalidade, ascendência, território de origem, religião, língua, sexo, orientação sexual, identidade ou expressão de género ou características sexuais, deficiência física ou psíquica;
+a) Provocar actos de violência contra pessoa ou grupo de pessoas por causa da sua raça, cor ou origem étnica; ou
 
-b) Difamar ou injuriar pessoa ou grupo de pessoas por causa da sua origem étnico-racial, origem nacional ou religiosa, cor, nacionalidade, ascendência, território de origem, religião, língua, sexo, orientação sexual, identidade ou expressão de género ou características sexuais, deficiência física ou psíquica;
+b) Difamar ou injuriar pessoa ou grupo de pessoas por causa da sua raça, cor ou origem étnica;
 
-c) Ameaçar pessoa ou grupo de pessoas por causa da sua origem étnico-racial, origem nacional ou religiosa, cor, nacionalidade, ascendência, território de origem, religião, língua, sexo, orientação sexual, identidade ou expressão de género ou características sexuais, deficiência física ou psíquica; ou
-
-d) Incitar à discriminação, ao ódio ou à violência contra pessoa ou grupo de pessoas por causa da sua origem étnico-racial, origem nacional ou religiosa, cor, nacionalidade, ascendência, território de origem, religião, língua, sexo, orientação sexual, identidade ou expressão de género ou características sexuais, deficiência física ou psíquica;
-
-é punido com pena de prisão de 6 meses a 5 anos.
-
-3 - Quando os crimes previstos nos números anteriores forem cometidos através de sistema informático, o tribunal pode ordenar a eliminação de dados informáticos ou conteúdos.
+com a intenção de incitar à discriminação racial ou de a encorajar, é punido com pena de prisão de 6 meses a 5 anos.
