@@ -1,0 +1,12 @@
+Despacho Normativo n.º 203/83
+Considerando que:
+a) Pelo Decreto-Lei n.º 526/80, de 5 de Novembro, foi criado o Instituto de Análise da Conjuntura e Estudos de Planeamento (IACEP), como instituto de investigação aplicada, de apoio técnico e de acompanhamento da conjuntura económica do ministério responsável pelo planeamento, o qual passou a integrar o ex-Centro de Estudos de Planeamento e o ex-Grupo de Estudos Básicos de Economia Industrial;
+b) Nos termos dos artigos 24.º e 25.º do referido diploma está previsto um período de transição para proceder à integração das estruturas do ex-CEP e do ex-GEBEI, durante o qual o IACEP é gerido por uma comissão de gestão transitória nomeada pelo Ministro das Finanças e do Plano;
+c) Esta comissão veio a ser nomeada pelo Despacho Normativo n.º 228/81, de 12 de Agosto;
+d) Algumas disposições do Decreto-Lei n.º 526/80 necessitariam de revisão, por forma a melhor ao adequar aos objectivos que presidiriam à criação do IACEP, foi aquela comissão, para além das competências que legalmente lhe são atribuídas, especialmente incumbida de apresentar propostas de reformulação do mesmo diploma;
+e) A mesma comissão deu cumprimento ao mandato mencionado na alínea anterior, mediante a apresentação de um projecto de decreto-lei que se encontra pendente de aprovação governamental;
+f) A possível morosidade inerente à apreciação e aprovação de um novo diploma poderá acarretar sucessivas prorrogações do denominado «período de transição» com evidente prejuízo da consolidação e normal funcionamento dos órgãos do IACEP:
+Determino o seguinte:
+1 - Sem prejuízo da apreciação do projecto de revisão global do Decreto-Lei n.º 526/80, de 5 de Novembro, bem como dos procedimentos conducentes à sua eventual aprovação e publicação, e tendo em conta a alteração do quadro de pessoal prevista no n.º 2 do artigo 20.º e o preceituado nas alíneas a), b) e c) do artigo 26.º daquele diploma, deve a actual Comissão de Gestão Transitória do IACEP apresentar superiormente propostas que viabilizem, a curto prazo, a completa regularização das situações do pessoal que presta serviço no mesmo Instituto.
+2 - Tendo em vista permitir o cumprimento do determinado no número anterior, é desde já prorrogado o período de transição previsto no n.º 1 do artigo 24.º do Decreto-Lei n.º 526/80 até 31 de Dezembro do corrente ano.
+Ministério das Finanças e do Plano, 21 de Outubro de 1983. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.
