@@ -1,0 +1,11 @@
+Portaria n.º 61/88
+de 1 de Fevereiro
+A reforma fiscal em curso, que teve os primeiros resultados práticos com a implantação do imposto sobre o valor acrescentado, a que se seguirá a implantação do imposto único sobre o rendimento das pessoas físicas e das pessoas colectivas, tem exigido alterações no âmbito da Direcção-Geral das Contribuições e Impostos, quer estruturais, quer de funcionamento, as quais, por sua vez, implicam necessidades de recursos humanos que não podem ser satisfeitas através do seu quadro de pessoal.
+Justifica-se, assim, que o referido departamento tenha ao seu serviço pessoal pertencente a outros organismos, a maior parte do qual destacado ou requisitado no âmbito da política de reafectação de pessoal da função pública prosseguida pelo Governo.
+A situação em que se encontra o referido pessoal está sujeita a limites temporais que não se coadunam com a continuidade das tarefas que lhe estão cometidas, com especial relevo para as que se relacionam com o tratamento automático da informação. Por isso, e dado que não é ainda previsível o momento a partir do qual a Direcção-Geral das Contribuições e Impostos poderá adequar o seu quadro de pessoal às novas exigências, torna-se necessária a adopção de uma solução que, temporariamente, possibilite a permanência do pessoal destacado e requisitado para além dos limites temporais fixados na lei.
+Nestes termos:
+Usando da faculdade prevista no n.º 2 do artigo 32.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, com a redacção que lhe foi dada pelo artigo 2.º do Decreto-Lei n.º 160/86, de 26 de Junho:
+Manda o Governo da República Portuguesa, pelo Primeiro-Ministro e pelo Ministro das Finanças, que durante dois anos as situações de destacamento e requisição de funcionários e agentes na Direcção-Geral das Contribuições e Impostos não estejam sujeitas aos prazos fixados nos artigos 24.º e 25.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, com a redacção dada pelo artigo 1.º do Decreto-Lei n.º 160/86, de 26 de Junho.
+Presidência do Conselho de Ministros e Ministério das Finanças.
+Assinada em 14 de Janeiro de 1988.
+O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
