@@ -1,0 +1,3 @@
+Resolução n.º 23/81
+Atendendo a que a libertação dos reféns americanos até agora detidos no Irão vem pôr termo à situação que levou o Governo Português a decretar sanções económicas contra aquele país, o Conselho de Ministros, reunido em 29 de Janeiro de 1981, resolveu levantar as medidas restritivas impostas pela Resolução n.º 143/80, de 17 de Abril, publicada no suplemento ao Diário da República, 1.ª série, n.º 93, de 21 de Abril de 1980. A cessação dos efeitos das referidas sanções produz-se a partir do dia 29 de Janeiro de 1981.
+Presidência do Conselho de Ministros, 29 de Janeiro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
