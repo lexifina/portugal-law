@@ -1,0 +1,5 @@
+Resolução n.º 23/80
+Pela Resolução n.º 385/79, de 14 de Dezembro, publicada no Diário da República, de 31 de Dezembro de 1979, foi concedido o aval do Estado à operação de crédito, no valor de 250000 contos, a contrair entre a Cive - Companhia Industrial Vidreira, S. A. R. L., e o Banco de Fomento Nacional, para financiamento de novos investimentos previstos no contrato de viabilização.
+A mesma resolução determina ainda que o aval só se torne efectivo após a homologação da proposta final da comissão de apreciação, relativa ao mesmo contrato de viabilização.
+Considerando, por um lado, o disposto na Resolução do Conselho de Ministros n.º 1/80 e, por outro, a necessidade de não entravar o processo de celebração do contrato de viabilização, agora iminente, da Cive, o Conselho de Ministros, reunido em 29 de Janeiro de 1980, resolveu confirmar a concessão do aval em questão, nos mesmos termos em que foi decidida em 14 de Dezembro de 1979.
+Presidência do Conselho de Ministros, 29 de Janeiro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
