@@ -1,0 +1,10 @@
+Portaria n.º 467/82
+de 5 de Maio
+1 - A Portaria n.º 821/81, de 22 de Setembro, publicada no Diário da República, 1.ª série, da mesma data, expropriou a Ceres Martins Gomes o prédio rústico denominado «Herdade da Boavista e Sampaio», artigo 1, secção B a B-4, freguesia de Santiago, concelho de Alcácer do Sal, na parte excedentária à área de reserva do expropriado.
+2 - No processo de reserva de Ceres Martins Gomes, devidamente organizado, verificou-se que, por escritura pública celebrada em 28 de Abril de 1975, este doou a Belarmino Freitas dos Reis uma parcela do prédio referido com a área aproximada de 50 ha, devidamente demarcada e identificada. Este acto foi registado na Conservatória do Registo Predial em 11 de Junho de 1975.
+Apurou-se ainda no processo de reserva que aquela área tem uma pontuação equivalente a 3327,4 pontos.
+A doação foi considerada plenamente eficaz em relação ao donatário e autorizada a demarcação da respectiva parcela a seu favor, e ineficaz em relação aos demais donatários, pelo despacho do Secretário de Estado da Estruturação Agrária de 4 de Novembro de 1977, exarado no parecer do CRRA de Setúbal de 2 de Novembro de 1977.
+Apurou-se, igualmente, que o donatário e mulher não possuem qualquer outro prédio rústico na ZIRA.
+Nestes termos e nos previstos nos artigos 26.º e 27.º do Decreto-Lei n.º 81/78, de 29 de Abril:
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Comércio e Pescas, derrogar a Portaria n.º 821/81, de 22 de Setembro, publicada no Diário da República, 1.ª série, da mesma data, na parte em que esta expropria a parcela doada a Belarmino Freitas dos Reis, sita no prédio descrito sob o n.º 8841, a fl. 104, do livro B-21 da Conservatória do Registo Predial de Alcácer do Sal (prédio rústico com a área aproximada de 50 ha, equivalente a 3327,4 pontos, sito na Herdade da Boavista e Sampaio, freguesia de Santiago, inscrito na respectiva matriz cadastral rústica sob parte do artigo 1, secção B-B, 1-B, 2-B, 3-B e 4-B).
+Ministério da Agricultura, Comércio e Pescas, 31 de Março de 1982. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.
