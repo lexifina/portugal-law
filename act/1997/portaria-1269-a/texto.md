@@ -1,0 +1,12 @@
+Portaria n.º 1269-A/97
+de 23 de Dezembro
+O recente comportamento do mercado internacional do petróleo bruto permite uma ligeira actualização das taxas do ISP da gasolina com chumbo e da gasolina sem chumbo, mantendo-se, contudo, o preço máximo de venda ao público dos referidos produtos.
+Nestes termos:
+Manda o Governo, pelos Ministros das Finanças e da Economia, em cumprimento do n.º 1 do artigo 1.º do Decreto-Lei n.º 124/94, de 18 de Maio, o seguinte:
+1.º Os n.os 1.º e 2.º da Portaria n.º 1031-A/97, de 29 de Setembro, passam a ter a seguinte redacção:
+«1.º A taxa do imposto sobre os produtos petrolíferos (ISP) aplicável à gasolina com teor de chumbo igual ou inferior a 0,013 g por litro, classificada pelos códigos NC 2710 00 27 a 2710 00 32, é igual a 90500$00 por 1000 l.
+2.º A taxa do imposto sobre os produtos petrolíferos (ISP) aplicável à gasolina com teor de chumbo superior a 0,013 g por litro, classificada pelos códigos NC 2710 00 34 a 2710 00 39, é igual a 96300$00 por 1000 l.»
+2.º A presente portaria entra em vigor em 25 de Dezembro de 1997.
+Ministérios das Finanças e da Economia.
+Assinada em 23 de Dezembro de 1997.
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura.
