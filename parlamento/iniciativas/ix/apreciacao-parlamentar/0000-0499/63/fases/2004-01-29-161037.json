@@ -1,0 +1,502 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "63",
+    "id": "20012",
+    "titulo": "Decreto-Lei n.º 268/2003, de 28 de Outubro, que \"Cria a Autoridade Metropolitana de Transportes de Lisboa e a Autoridade Metropolitana de Transportes do Porto, no uso da autorização legislativa concedida pela Lei n.º 26/2002, de 2 de Novembro\"."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2004-01-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2963",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2004-01-29",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-01-29",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148145",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2512-2513",
+                  "2524-2525"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-30",
+                "pubLeg": "IX",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/045/2004-01-30/2512?pgs=2512-2513,2524-2525&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 268/2003, de 28 de Outubro, que \"Cria a Autoridade Metropolitana de Transportes de Lisboa e a Autoridade Metropolitana de Transportes do Porto, no uso da autorização legislativa concedida pela Lei n.º 26/2002, de 2 de Novembro\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "324",
+                "nome": "Fernando Pedro Moutinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148146",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2513-2517"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-30",
+                "pubLeg": "IX",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/045/2004-01-30/2513?pgs=2513-2517&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 268/2003, de 28 de Outubro, que \"Cria a Autoridade Metropolitana de Transportes de Lisboa e a Autoridade Metropolitana de Transportes do Porto, no uso da autorização legislativa concedida pela Lei n.º 26/2002, de 2 de Novembro\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1679",
+                "nome": "Renato Sampaio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148147",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2516-2516"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-30",
+                "pubLeg": "IX",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/045/2004-01-30/2516?pgs=2516&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 268/2003, de 28 de Outubro, que \"Cria a Autoridade Metropolitana de Transportes de Lisboa e a Autoridade Metropolitana de Transportes do Porto, no uso da autorização legislativa concedida pela Lei n.º 26/2002, de 2 de Novembro\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1164",
+                "nome": "Miguel Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148148",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2517-2518",
+                  "2524-2524"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-30",
+                "pubLeg": "IX",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/045/2004-01-30/2517?pgs=2517-2518,2524&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 268/2003, de 28 de Outubro, que \"Cria a Autoridade Metropolitana de Transportes de Lisboa e a Autoridade Metropolitana de Transportes do Porto, no uso da autorização legislativa concedida pela Lei n.º 26/2002, de 2 de Novembro\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148149",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2518-2519"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-30",
+                "pubLeg": "IX",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/045/2004-01-30/2518?pgs=2518-2519&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 268/2003, de 28 de Outubro, que \"Cria a Autoridade Metropolitana de Transportes de Lisboa e a Autoridade Metropolitana de Transportes do Porto, no uso da autorização legislativa concedida pela Lei n.º 26/2002, de 2 de Novembro\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1921",
+                "nome": "Isabel Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148150",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2519-2521"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-30",
+                "pubLeg": "IX",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/045/2004-01-30/2519?pgs=2519-2521&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 268/2003, de 28 de Outubro, que \"Cria a Autoridade Metropolitana de Transportes de Lisboa e a Autoridade Metropolitana de Transportes do Porto, no uso da autorização legislativa concedida pela Lei n.º 26/2002, de 2 de Novembro\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E. DOS  TRANSPORTES",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Francisco Seabra"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148151",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2521-2523",
+                  "2525-2525"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-30",
+                "pubLeg": "IX",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/045/2004-01-30/2521?pgs=2521-2523,2525&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 268/2003, de 28 de Outubro, que \"Cria a Autoridade Metropolitana de Transportes de Lisboa e a Autoridade Metropolitana de Transportes do Porto, no uso da autorização legislativa concedida pela Lei n.º 26/2002, de 2 de Novembro\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148152",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2522-2522"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-30",
+                "pubLeg": "IX",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/045/2004-01-30/2522?pgs=2522&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 268/2003, de 28 de Outubro, que \"Cria a Autoridade Metropolitana de Transportes de Lisboa e a Autoridade Metropolitana de Transportes do Porto, no uso da autorização legislativa concedida pela Lei n.º 26/2002, de 2 de Novembro\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "195",
+                "nome": "Leonor Coutinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2522-2523"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-30",
+                "pubLeg": "IX",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/045/2004-01-30/2522?pgs=2522-2523&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 268/2003, de 28 de Outubro, que \"Cria a Autoridade Metropolitana de Transportes de Lisboa e a Autoridade Metropolitana de Transportes do Porto, no uso da autorização legislativa concedida pela Lei n.º 26/2002, de 2 de Novembro\".",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "161037",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2963",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-01-30",
+        "pubLeg": "IX",
+        "pubNr": "45",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/045/2004-01-30?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
