@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 16 de Abril de 1980, o Governo da Grã-Bretanha e Irlanda depositou junto do Ministério dos Negócios Estrangeiros dos Países Baixos o instrumento de extensão à ilha de Man da Convenção Relativa à Obtenção de Provas no Estrangeiro em Matéria Civil e Comercial, concluída na Haia em 18 de Março de 1970, de que Portugal já é parte. Aquele instrumento diplomático entrou em vigor, com referência àquele ilha, em 15 de Junho de 1980.
+Secretaria-Geral do Ministério, 15 de Setembro de 1980. - O Chefe dos Serviços Jurídicos e de Tratados, Rui Eduardo Barbosa de Medina.
