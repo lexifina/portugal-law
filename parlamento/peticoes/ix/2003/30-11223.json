@@ -1,0 +1,939 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11223",
+  "numero": "30",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2003-02-21",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2003-06-18",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2003-03-11",
+        "DataArquivo": "2003-06-25",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2003-07-11",
+        "DataReaberta": "2003-03-11",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2003-02-21",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764e46424d543152424c305276593356745a57353062334e515a585270593246764c7a4a6d4f5755305a6a5a6d4c5749314d324d744e474e6a4f4331694d6d4a6a4c57466d4e54466c4d5445345a446b34597935775a47593d&fich=2f9e4f6f-b53c-4cc8-b2bc-af51e118d98c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "105",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE PODER LOCAL, ORDENAMENTO DO TERRITÓRIO E AMBIENTE",
+        "NotasAdmissibilidade": null,
+        "Numero": "4",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2003-03-11",
+            "gp": "PS",
+            "id": "682",
+            "motivoCessacao": null,
+            "nome": "José Miguel Medeiros"
+          }
+        ],
+        "RelatorioFinal": [
+          "21655"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2004-01-09",
+    "Documentos": [
+      {
+        "DataDocumento": "2003-02-21",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d76595455304e6a426a4d544d745a5463304e5330304d6a49794c5749334e7a51745a6a55324e7a41314e5451355a57526d4c6e426b5a673d3d&fich=a5460c13-e745-4222-b774-f56705549edf.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2004-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147911",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2115-2116"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-10",
+                "pubLeg": "IX",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2115?pgs=2115-2116&org=PLC"
+              }
+            ],
+            "Sumario": "REPOSIÇÃO DOS REGIMES DE CRÉDITO BONIFICADO CONSTANTES DO DEC.LEI Nº.349/98, DE 11 DE SETEMBRO; SOLICITA QUE SEJA IMPLEMENTADA UMA MEDIDA LEGISLATIVA QUE CORRIJA AS INJUSTIÇAS E AS ANOMALIAS A QUE ESTÃO SUJEITOS HÁ QUASE UM QUARTO DE SÉCULO, OS EX-DOCENTES, ACTUAIS TÉCNICOS DE ACÇÃO SOCIAL ESCOLAR; CRIAÇÃO/RESTAURAÇÃO DO CONCELHO DE SAMORA CORREIA; SOLICITAM MEDIDAS QUE SE REVELAM NECESSÁRIAS PARA VIABILIZAR O SUBSECTOR DOS TRANSPORTES RODOVIÁRIOS EM AUTOMÓVEIS LIGEIROS",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147912",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2116-2117",
+                  "2123-2124"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-10",
+                "pubLeg": "IX",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2116?pgs=2116-2117,2123-2124&org=PLC"
+              }
+            ],
+            "Sumario": "REPOSIÇÃO DOS REGIMES DE CRÉDITO BONIFICADO CONSTANTES DO DEC.LEI Nº.349/98, DE 11 DE SETEMBRO; SOLICITA QUE SEJA IMPLEMENTADA UMA MEDIDA LEGISLATIVA QUE CORRIJA AS INJUSTIÇAS E AS ANOMALIAS A QUE ESTÃO SUJEITOS HÁ QUASE UM QUARTO DE SÉCULO, OS EX-DOCENTES, ACTUAIS TÉCNICOS DE ACÇÃO SOCIAL ESCOLAR; CRIAÇÃO/RESTAURAÇÃO DO CONCELHO DE SAMORA CORREIA; SOLICITAM MEDIDAS QUE SE REVELAM NECESSÁRIAS PARA VIABILIZAR O SUBSECTOR DOS TRANSPORTES RODOVIÁRIOS EM AUTOMÓVEIS LIGEIROS",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147913",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2117-2117"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-10",
+                "pubLeg": "IX",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2117?pgs=2117&org=PLC"
+              }
+            ],
+            "Sumario": "REPOSIÇÃO DOS REGIMES DE CRÉDITO BONIFICADO CONSTANTES DO DEC.LEI Nº.349/98, DE 11 DE SETEMBRO; SOLICITA QUE SEJA IMPLEMENTADA UMA MEDIDA LEGISLATIVA QUE CORRIJA AS INJUSTIÇAS E AS ANOMALIAS A QUE ESTÃO SUJEITOS HÁ QUASE UM QUARTO DE SÉCULO, OS EX-DOCENTES, ACTUAIS TÉCNICOS DE ACÇÃO SOCIAL ESCOLAR; CRIAÇÃO/RESTAURAÇÃO DO CONCELHO DE SAMORA CORREIA; SOLICITAM MEDIDAS QUE SE REVELAM NECESSÁRIAS PARA VIABILIZAR O SUBSECTOR DOS TRANSPORTES RODOVIÁRIOS EM AUTOMÓVEIS LIGEIROS",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147914",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2117-2118"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-10",
+                "pubLeg": "IX",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2117?pgs=2117-2118&org=PLC"
+              }
+            ],
+            "Sumario": "REPOSIÇÃO DOS REGIMES DE CRÉDITO BONIFICADO CONSTANTES DO DEC.LEI Nº.349/98, DE 11 DE SETEMBRO; SOLICITA QUE SEJA IMPLEMENTADA UMA MEDIDA LEGISLATIVA QUE CORRIJA AS INJUSTIÇAS E AS ANOMALIAS A QUE ESTÃO SUJEITOS HÁ QUASE UM QUARTO DE SÉCULO, OS EX-DOCENTES, ACTUAIS TÉCNICOS DE ACÇÃO SOCIAL ESCOLAR; CRIAÇÃO/RESTAURAÇÃO DO CONCELHO DE SAMORA CORREIA; SOLICITAM MEDIDAS QUE SE REVELAM NECESSÁRIAS PARA VIABILIZAR O SUBSECTOR DOS TRANSPORTES RODOVIÁRIOS EM AUTOMÓVEIS LIGEIROS",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147915",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2118-2120"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-10",
+                "pubLeg": "IX",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2118?pgs=2118-2120&org=PLC"
+              }
+            ],
+            "Sumario": "REPOSIÇÃO DOS REGIMES DE CRÉDITO BONIFICADO CONSTANTES DO DEC.LEI Nº.349/98, DE 11 DE SETEMBRO; SOLICITA QUE SEJA IMPLEMENTADA UMA MEDIDA LEGISLATIVA QUE CORRIJA AS INJUSTIÇAS E AS ANOMALIAS A QUE ESTÃO SUJEITOS HÁ QUASE UM QUARTO DE SÉCULO, OS EX-DOCENTES, ACTUAIS TÉCNICOS DE ACÇÃO SOCIAL ESCOLAR; CRIAÇÃO/RESTAURAÇÃO DO CONCELHO DE SAMORA CORREIA; SOLICITAM MEDIDAS QUE SE REVELAM NECESSÁRIAS PARA VIABILIZAR O SUBSECTOR DOS TRANSPORTES RODOVIÁRIOS EM AUTOMÓVEIS LIGEIROS",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147916",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2120-2120"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-10",
+                "pubLeg": "IX",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2120?pgs=2120&org=PLC"
+              }
+            ],
+            "Sumario": "REPOSIÇÃO DOS REGIMES DE CRÉDITO BONIFICADO CONSTANTES DO DEC.LEI Nº.349/98, DE 11 DE SETEMBRO; SOLICITA QUE SEJA IMPLEMENTADA UMA MEDIDA LEGISLATIVA QUE CORRIJA AS INJUSTIÇAS E AS ANOMALIAS A QUE ESTÃO SUJEITOS HÁ QUASE UM QUARTO DE SÉCULO, OS EX-DOCENTES, ACTUAIS TÉCNICOS DE ACÇÃO SOCIAL ESCOLAR; CRIAÇÃO/RESTAURAÇÃO DO CONCELHO DE SAMORA CORREIA; SOLICITAM MEDIDAS QUE SE REVELAM NECESSÁRIAS PARA VIABILIZAR O SUBSECTOR DOS TRANSPORTES RODOVIÁRIOS EM AUTOMÓVEIS LIGEIROS",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147917",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2120-2121",
+                  "2125-2126"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-10",
+                "pubLeg": "IX",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2120?pgs=2120-2121,2125-2126&org=PLC"
+              }
+            ],
+            "Sumario": "REPOSIÇÃO DOS REGIMES DE CRÉDITO BONIFICADO CONSTANTES DO DEC.LEI Nº.349/98, DE 11 DE SETEMBRO; SOLICITA QUE SEJA IMPLEMENTADA UMA MEDIDA LEGISLATIVA QUE CORRIJA AS INJUSTIÇAS E AS ANOMALIAS A QUE ESTÃO SUJEITOS HÁ QUASE UM QUARTO DE SÉCULO, OS EX-DOCENTES, ACTUAIS TÉCNICOS DE ACÇÃO SOCIAL ESCOLAR; CRIAÇÃO/RESTAURAÇÃO DO CONCELHO DE SAMORA CORREIA; SOLICITAM MEDIDAS QUE SE REVELAM NECESSÁRIAS PARA VIABILIZAR O SUBSECTOR DOS TRANSPORTES RODOVIÁRIOS EM AUTOMÓVEIS LIGEIROS",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147918",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2121-2121"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-10",
+                "pubLeg": "IX",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2121?pgs=2121&org=PLC"
+              }
+            ],
+            "Sumario": "REPOSIÇÃO DOS REGIMES DE CRÉDITO BONIFICADO CONSTANTES DO DEC.LEI Nº.349/98, DE 11 DE SETEMBRO; SOLICITA QUE SEJA IMPLEMENTADA UMA MEDIDA LEGISLATIVA QUE CORRIJA AS INJUSTIÇAS E AS ANOMALIAS A QUE ESTÃO SUJEITOS HÁ QUASE UM QUARTO DE SÉCULO, OS EX-DOCENTES, ACTUAIS TÉCNICOS DE ACÇÃO SOCIAL ESCOLAR; CRIAÇÃO/RESTAURAÇÃO DO CONCELHO DE SAMORA CORREIA; SOLICITAM MEDIDAS QUE SE REVELAM NECESSÁRIAS PARA VIABILIZAR O SUBSECTOR DOS TRANSPORTES RODOVIÁRIOS EM AUTOMÓVEIS LIGEIROS",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147919",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2121-2122"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-10",
+                "pubLeg": "IX",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2121?pgs=2121-2122&org=PLC"
+              }
+            ],
+            "Sumario": "REPOSIÇÃO DOS REGIMES DE CRÉDITO BONIFICADO CONSTANTES DO DEC.LEI Nº.349/98, DE 11 DE SETEMBRO; SOLICITA QUE SEJA IMPLEMENTADA UMA MEDIDA LEGISLATIVA QUE CORRIJA AS INJUSTIÇAS E AS ANOMALIAS A QUE ESTÃO SUJEITOS HÁ QUASE UM QUARTO DE SÉCULO, OS EX-DOCENTES, ACTUAIS TÉCNICOS DE ACÇÃO SOCIAL ESCOLAR; CRIAÇÃO/RESTAURAÇÃO DO CONCELHO DE SAMORA CORREIA; SOLICITAM MEDIDAS QUE SE REVELAM NECESSÁRIAS PARA VIABILIZAR O SUBSECTOR DOS TRANSPORTES RODOVIÁRIOS EM AUTOMÓVEIS LIGEIROS",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147920",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2122-2123"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-10",
+                "pubLeg": "IX",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2122?pgs=2122-2123&org=PLC"
+              }
+            ],
+            "Sumario": "REPOSIÇÃO DOS REGIMES DE CRÉDITO BONIFICADO CONSTANTES DO DEC.LEI Nº.349/98, DE 11 DE SETEMBRO; SOLICITA QUE SEJA IMPLEMENTADA UMA MEDIDA LEGISLATIVA QUE CORRIJA AS INJUSTIÇAS E AS ANOMALIAS A QUE ESTÃO SUJEITOS HÁ QUASE UM QUARTO DE SÉCULO, OS EX-DOCENTES, ACTUAIS TÉCNICOS DE ACÇÃO SOCIAL ESCOLAR; CRIAÇÃO/RESTAURAÇÃO DO CONCELHO DE SAMORA CORREIA; SOLICITAM MEDIDAS QUE SE REVELAM NECESSÁRIAS PARA VIABILIZAR O SUBSECTOR DOS TRANSPORTES RODOVIÁRIOS EM AUTOMÓVEIS LIGEIROS",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147921",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2124-2124"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-10",
+                "pubLeg": "IX",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2124?pgs=2124&org=PLC"
+              }
+            ],
+            "Sumario": "REPOSIÇÃO DOS REGIMES DE CRÉDITO BONIFICADO CONSTANTES DO DEC.LEI Nº.349/98, DE 11 DE SETEMBRO; SOLICITA QUE SEJA IMPLEMENTADA UMA MEDIDA LEGISLATIVA QUE CORRIJA AS INJUSTIÇAS E AS ANOMALIAS A QUE ESTÃO SUJEITOS HÁ QUASE UM QUARTO DE SÉCULO, OS EX-DOCENTES, ACTUAIS TÉCNICOS DE ACÇÃO SOCIAL ESCOLAR; CRIAÇÃO/RESTAURAÇÃO DO CONCELHO DE SAMORA CORREIA; SOLICITAM MEDIDAS QUE SE REVELAM NECESSÁRIAS PARA VIABILIZAR O SUBSECTOR DOS TRANSPORTES RODOVIÁRIOS EM AUTOMÓVEIS LIGEIROS",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147922",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2124-2124"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-10",
+                "pubLeg": "IX",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2124?pgs=2124&org=PLC"
+              }
+            ],
+            "Sumario": "REPOSIÇÃO DOS REGIMES DE CRÉDITO BONIFICADO CONSTANTES DO DEC.LEI Nº.349/98, DE 11 DE SETEMBRO; SOLICITA QUE SEJA IMPLEMENTADA UMA MEDIDA LEGISLATIVA QUE CORRIJA AS INJUSTIÇAS E AS ANOMALIAS A QUE ESTÃO SUJEITOS HÁ QUASE UM QUARTO DE SÉCULO, OS EX-DOCENTES, ACTUAIS TÉCNICOS DE ACÇÃO SOCIAL ESCOLAR; CRIAÇÃO/RESTAURAÇÃO DO CONCELHO DE SAMORA CORREIA; SOLICITAM MEDIDAS QUE SE REVELAM NECESSÁRIAS PARA VIABILIZAR O SUBSECTOR DOS TRANSPORTES RODOVIÁRIOS EM AUTOMÓVEIS LIGEIROS",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147923",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2125-2125"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-10",
+                "pubLeg": "IX",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2125?pgs=2125&org=PLC"
+              }
+            ],
+            "Sumario": "REPOSIÇÃO DOS REGIMES DE CRÉDITO BONIFICADO CONSTANTES DO DEC.LEI Nº.349/98, DE 11 DE SETEMBRO; SOLICITA QUE SEJA IMPLEMENTADA UMA MEDIDA LEGISLATIVA QUE CORRIJA AS INJUSTIÇAS E AS ANOMALIAS A QUE ESTÃO SUJEITOS HÁ QUASE UM QUARTO DE SÉCULO, OS EX-DOCENTES, ACTUAIS TÉCNICOS DE ACÇÃO SOCIAL ESCOLAR; CRIAÇÃO/RESTAURAÇÃO DO CONCELHO DE SAMORA CORREIA; SOLICITAM MEDIDAS QUE SE REVELAM NECESSÁRIAS PARA VIABILIZAR O SUBSECTOR DOS TRANSPORTES RODOVIÁRIOS EM AUTOMÓVEIS LIGEIROS",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147924",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2125-2125"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-10",
+                "pubLeg": "IX",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2125?pgs=2125&org=PLC"
+              }
+            ],
+            "Sumario": "REPOSIÇÃO DOS REGIMES DE CRÉDITO BONIFICADO CONSTANTES DO DEC.LEI Nº.349/98, DE 11 DE SETEMBRO; SOLICITA QUE SEJA IMPLEMENTADA UMA MEDIDA LEGISLATIVA QUE CORRIJA AS INJUSTIÇAS E AS ANOMALIAS A QUE ESTÃO SUJEITOS HÁ QUASE UM QUARTO DE SÉCULO, OS EX-DOCENTES, ACTUAIS TÉCNICOS DE ACÇÃO SOCIAL ESCOLAR; CRIAÇÃO/RESTAURAÇÃO DO CONCELHO DE SAMORA CORREIA; SOLICITAM MEDIDAS QUE SE REVELAM NECESSÁRIAS PARA VIABILIZAR O SUBSECTOR DOS TRANSPORTES RODOVIÁRIOS EM AUTOMÓVEIS LIGEIROS",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147925",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2126-2127"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-10",
+                "pubLeg": "IX",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2126?pgs=2126-2127&org=PLC"
+              }
+            ],
+            "Sumario": "REPOSIÇÃO DOS REGIMES DE CRÉDITO BONIFICADO CONSTANTES DO DEC.LEI Nº.349/98, DE 11 DE SETEMBRO; SOLICITA QUE SEJA IMPLEMENTADA UMA MEDIDA LEGISLATIVA QUE CORRIJA AS INJUSTIÇAS E AS ANOMALIAS A QUE ESTÃO SUJEITOS HÁ QUASE UM QUARTO DE SÉCULO, OS EX-DOCENTES, ACTUAIS TÉCNICOS DE ACÇÃO SOCIAL ESCOLAR; CRIAÇÃO/RESTAURAÇÃO DO CONCELHO DE SAMORA CORREIA; SOLICITAM MEDIDAS QUE SE REVELAM NECESSÁRIAS PARA VIABILIZAR O SUBSECTOR DOS TRANSPORTES RODOVIÁRIOS EM AUTOMÓVEIS LIGEIROS",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147926",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2127-2127"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-10",
+                "pubLeg": "IX",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2127?pgs=2127&org=PLC"
+              }
+            ],
+            "Sumario": "REPOSIÇÃO DOS REGIMES DE CRÉDITO BONIFICADO CONSTANTES DO DEC.LEI Nº.349/98, DE 11 DE SETEMBRO; SOLICITA QUE SEJA IMPLEMENTADA UMA MEDIDA LEGISLATIVA QUE CORRIJA AS INJUSTIÇAS E AS ANOMALIAS A QUE ESTÃO SUJEITOS HÁ QUASE UM QUARTO DE SÉCULO, OS EX-DOCENTES, ACTUAIS TÉCNICOS DE ACÇÃO SOCIAL ESCOLAR; CRIAÇÃO/RESTAURAÇÃO DO CONCELHO DE SAMORA CORREIA; SOLICITAM MEDIDAS QUE SE REVELAM NECESSÁRIAS PARA VIABILIZAR O SUBSECTOR DOS TRANSPORTES RODOVIÁRIOS EM AUTOMÓVEIS LIGEIROS",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147927",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2127-2128"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-10",
+                "pubLeg": "IX",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2127?pgs=2127-2128&org=PLC"
+              }
+            ],
+            "Sumario": "REPOSIÇÃO DOS REGIMES DE CRÉDITO BONIFICADO CONSTANTES DO DEC.LEI Nº.349/98, DE 11 DE SETEMBRO; SOLICITA QUE SEJA IMPLEMENTADA UMA MEDIDA LEGISLATIVA QUE CORRIJA AS INJUSTIÇAS E AS ANOMALIAS A QUE ESTÃO SUJEITOS HÁ QUASE UM QUARTO DE SÉCULO, OS EX-DOCENTES, ACTUAIS TÉCNICOS DE ACÇÃO SOCIAL ESCOLAR; CRIAÇÃO/RESTAURAÇÃO DO CONCELHO DE SAMORA CORREIA; SOLICITAM MEDIDAS QUE SE REVELAM NECESSÁRIAS PARA VIABILIZAR O SUBSECTOR DOS TRANSPORTES RODOVIÁRIOS EM AUTOMÓVEIS LIGEIROS",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11223",
+    "PetAssunto": "Criação/Restauração do concelho de Samora Correia.",
+    "PetDataEntrada": "2003-02-21",
+    "PeticoesAssociadas": null,
+    "PetId": "11223",
+    "PetLeg": "IX",
+    "PetNr": "30",
+    "PetNrAssinaturas": "4731",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "757",
+        "obs": null,
+        "pag": [
+          "2115-2128"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-01-10",
+        "pubLeg": "IX",
+        "pubNr": "37",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/037/2004-01-10/2115?pgs=2115-2128&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "276889",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-03-15",
+        "pubLeg": "IX",
+        "pubNr": "36",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/036/2003-03-15?org=PLC"
+      }
+    ]
+  }
+}
