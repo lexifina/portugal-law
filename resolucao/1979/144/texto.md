@@ -1,0 +1,9 @@
+Resolução n.º 144/79
+Considerando que existem actualmente armazenadas perto de 855 t de concentrados de urânio, das quais pertencem ao Estado 700 t e à ENU - Empresa Nacional de Urânio, E. P., 155 t;
+Sabendo-se que os programas de actividade da ENU apontam para crescentes produções de urânio em função do esforço de prospecção e valorização dos índices de urânio encarados pela Empresa;
+Não se prevendo que a marcha industrial de uma primeira central nuclear portuguesa se verifique antes de 1987-1988, ainda que uma decisão sobre um programa de centrais nucleares venha a ser tomada durante o corrente ano;
+Sendo indispensável que esteja, no entanto, assegurado o acesso ao urânio português quando venha a concretizar-se a implementação de uma primeira central nuclear e unidades subsequentes nos quantitativos necessários à sua operação;
+Mas havendo igualmente conveniência em que, intercalarmente, se procurem os benefícios financeiros possíveis a partir da mobilização dos stocks de concentrados de urânio já constituídos, em termos tais que fique acautelado o seu atempado retorno e com salvaguarda dos compromissos internacionais assumidos por Portugal, nomeadamente os que decorrem da adesão ao Tratado de não Proliferação de Armas Nucleares;
+O Conselho de Ministros, reunido em 18 de Abril de 1979, resolveu:
+Autorizar a Empresa Nacional de Urânio, E. P., devidamente acompanhada pelo Ministério da Indústria e Tecnologia através dos seus órgãos tecnicamente competentes para o efeito, a desenvolver as necessárias acções com vista a apresentar ao Governo propostas concretas quanto à efectivação de operações de comercialização do concentrado de urânio existente em armazém - seja o que é pertença do Estado, seja o produzido pela Empresa - nas modalidades de venda/compra a termo e/ou de empréstimo.
+Presidência do Conselho de Ministros, 18 de Abril de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.
