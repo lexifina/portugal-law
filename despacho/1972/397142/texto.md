@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, mediante proposta do Ministério da Educação Nacional, ouvido o Conselho Permanente da Acção Educativa, é declarada a habilitação do curso de mestrança de construtor civil ou a do curso de mestrança de topógrafo auxiliar de obras públicas, ambos com a organização do Decreto n.º 37029, de 25 de Agosto de 1948, como suficiente, em paralelo com o curso geral dos liceus, para efeito de provimento no cargo de desenhador de 2.ª classe da Força Aérea.
+Presidência do Conselho, 7 de Abril de 1972. - Pelo Presidente do Conselho, João Mota Pereira de Campos, Ministro de Estado adjunto do Presidente do Conselho.
