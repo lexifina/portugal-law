@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1947/12/28100/12351235.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1947-12-04",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "30db173794e26d26f97c2bb229ab24df6a2b9aaece48a8624cdbcdbdffa2698c",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.1,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "0ddb122b0d09eee7c92db21cbcaefbe77f0d3d60e86bfadd5ee4a3c8eb1f60ed",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 243
 }
