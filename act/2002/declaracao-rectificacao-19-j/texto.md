@@ -1,0 +1,5 @@
+Declaração de Rectificação n.º 19-J/2002
+Para os devidos efeitos se declara que o Decreto-Lei n.º 77/2002, publicado no Diário da República, 1.ª série, n.º 72, de 26 de Março de 2002, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 1 do artigo 3.º, onde se lê «A TomarPolis é constituída com um capital social de (euro) 2431640, realizado em numerário.» deve ler-se «A TomarPolis é constituída com um capital social de (euro) 2432000, realizado em numerário.».
+Nos estatutos da sociedade TomarPolis, Sociedade para o Desenvolvimento do Programa Polis em Tomar, S. A., no n.º 1 do artigo 5.º, onde se lê «O capital social é de (euro) 2431640, subscrito na proporção de 60% pelo Estado e de 40% pelo município de Tomar, encontrando-se realizado, na mesma proporção, em (euro) 243164,» deve ler-se «O capital social é de (euro) 2432000, subscrito na proporção de 60% pelo Estado e de 40% pelo município de Tomar, encontrando-se realizado, na mesma proporção, em (euro) 243200,».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Abril de 2002. - O Secretário-Geral, Alexandre Figueiredo.
