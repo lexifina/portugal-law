@@ -1,0 +1,12 @@
+Portaria n.º 283/83
+de 17 de Março
+As portarias que aprovaram os quadros de pessoal dos estabelecimentos do Instituto de Assistência Psiquiátrica salvaguardaram, em nota, as remunerações mensais para falhas que vinham sendo abonadas aos funcionários administrativos que desempenhavam as funções de tesoureiro.
+No entanto, e relativamente a estabelecimentos da zona centro, verificou-se que houve alteração indevida desse abono para falhas. Especificamente, foi reduzido na Portaria n.º 864/81, de 28 de Setembro, que aprovou o quadro da Delegação da Zona Centro, na Portaria n.º 826/81, de 23 de Setembro, que aprovou o quadro do Centro de Saúde Mental Infantil de Coimbra, e na Portaria n.º 866/81, de 28 de Setembro, que aprovou o quadro da Colónia Agrícola de Arnes, e foi aumentado na Portaria n.º 752-B/81, de 2 de Setembro, que aprovou o quadro do Centro de Saúde Mental de Leiria.
+Torna-se necessário, portanto, introduzir alteração às notas anexas a esta portaria, por forma a repor os quantitativos dos abonos que, de acordo com os anteriores mapas de pessoal, vinham sendo processados.
+Atento o exposto:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros dos Assuntos Sociais e da Reforma Administrativa, o seguinte:
+1.º As notas anexas às Portarias n.os 864/81, de 28 de Setembro, 826/81, de 23 de Setembro, e 866/81, de 28 de Setembro, passam a ter a seguinte redacção:
+Nota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá a actual remuneração de 500$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos da lei geral aplicável.
+2.º A nota anexa à Portaria n.º 752-B/81, de 2 de Setembro, passa a ter a seguinte redacção:
+Nota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá a actual remuneração de 400$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos da lei geral aplicável.
+Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, 4 de Março de 1983. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
