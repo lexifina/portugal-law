@@ -1,0 +1,5 @@
+Aviso n.º 72/93
+Por ordem superior se torna público que, por nota de 26 de Janeiro de 1993, o Departamento Federal dos Negócios Estrangeiros da Suíça notificou ter a Eslovénia, em 1 de Dezembro de 1992, depositado o seu instrumento de adesão à Convenção sobre a Emissão de Certidões Multilingues de Actos do Registo Civil, concluída em Viena, a 8 de Setembro de 1976.
+Nos termos do artigo 17.º da Convenção, esta entrou em vigor para a República da Eslovénia em 31 de Dezembro de 1992.
+Portugal é Parte na mesma Convenção, que foi aprovada pelo Decreto do Governo n.º 34/83, de 12 de Maio, tendo notificado, em 30 de Junho de 1983, o Departamento Federal dos Negócios Estrangeiros da Suíça de terem sido cumpridas as formalidades constitucionais para que a Convenção pudesse ser aplicável em Portugal, conforme avisos publicados no Diário da República, 1.ª série, n.os 169, de 25 de Julho de 1983, e 174, de 30 de Julho de 1983.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 9 de Fevereiro de 1993. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
