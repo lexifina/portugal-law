@@ -1,0 +1,18 @@
+Decreto n.º 45903
+O Decreto n.º 34076, de 2 de Novembro de 1944, integrou, no ultramar, as caixas económicas postais nos serviços dos correios, telégrafos e telefones, mas uma imperfeita interpretação do que nele se contém deu, nalgumas províncias, origem a uma irregular e, por isso, indesejável desigualdade de situação do pessoal comummente designado por privativo das caixas económicas postais em relação ao restante pessoal dos correios, telégrafos e telefones do ultramar.
+Por outro lado, tendo as caixas económicas postais administração autónoma, considera-se inconveniente que não contribuam, dentro do que as suas receitas possibilitem, para as despesas que os correios, telégrafos e telefones do ultramar suportam com o pessoal que nelas trabalha.
+Nesta conformidade;
+Ouvido o Conselho Ultramarino:
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+Artigo 1.º O pessoal em serviço nas caixas económicas postais recrutado directamente pelas respectivas comissões administrativas é, para todos os efeitos, considerado como tendo sido admitido nos termos do artigo 218.º do Decreto n.º 34076, de 2 de Novembro de 1944, e, assim, pertencente aos quadros do pessoal dos serviços dos correios, telégrafos e telefones, em que aquelas caixas económicas postais estão integradas.
+Art. 2.º Os vencimentos e outras remunerações do pessoal colocado nas caixas económicas postais constituem encargo, no todo ou em parte, dos orçamentos privativos das mesmas caixas, em conformidade com as possibilidades permitidas pelas receitas.
+§ único. As verbas inscritas nos orçamentos das caixas económicas postais, nos termos do disposto no corpo deste artigo, devem figurar, como receita, nos orçamentos privativos dos respectivos correios, telégrafos e telefones.
+Art. 3.º Os governos das províncias devem promover a revisão dos vencimentos e salários do pessoal referido no artigo 1.º de modo a integrá-lo dentro das categorias previstas no Estatuto do Funcionalismo Ultramarino.
+Art. 4.º Os governos das províncias podem autorizar que os agentes que venham prestando serviços há mais de dois anos nas caixas económicas postais, e que o requeiram, transitem para os lugares permanentes dos serviços dos correios, telégrafos e telefones que, à data da publicação deste decreto, se encontrem vagos, em conformidade com as suas categorias e seus conhecimentos profissionais, com dispensa de habilitações, concurso e limites de idade estabelecidos na legislação em vigor, desde que tenham boas informações e não existam concorrentes a esses lugares já aprovados em concurso.
+§ único. Os agentes que, por falta de lugares vagos, não possam transitar para os quadros permanentes dos correios, telégrafos e telefones do ultramar podem ser admitidos aos primeiros concursos que venham a realizar-se para esses lugares.
+Art. 5.º Os encargos para aposentação, correspondentes ao tempo de serviço que, nos termos do Estatuto do Funcionalismo Ultramarino, venha a ser contado ao pessoal referido no artigo 1.º, devem ser satisfeitos conforme determina o artigo 438.º do mesmo Estatuto do Funcionalismo Ultramarino.
+Art. 6.º É assegurado o direito a aposentação aos agentes em serviço nas caixas económicas postais que se encontrem já em condições de serem desligados do serviço por terem atingido os limites de idade previstos para os servidores do Estado.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 4 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Peixoto Correia.
