@@ -1,0 +1,25 @@
+Decreto-Lei n.º 633/75
+de 14 de Novembro
+1. O Decreto-Lei n.º 261/74, de 18 de Junho, instituiu um novo sistema de designação do Conselho Superior Judiciário sem, porém, revogar por inteiro, na parte respectiva, o disposto no artigo 130.º do Estatuto Judiciário. Agora se procede a esse ajustamento.
+2. A intercomunicabilidade consagrada na lei entre as magistraturas judicial e do Ministério Público constitui uma das questões mais controvertidas sempre que se enfrenta o problema da reestruturação do sistema judicial português.
+O novo Estatuto Judiciário - que se deseja ver publicado tão cedo quanto possível - terá de regular essa matéria com o desenvolvimento e realismo necessários às actuais e novas coordenadas da vida nacional. Contudo, e sem antecipar soluções que hão-de previamente obter o consenso de todos quantos trabalham na administração da justiça, importa corrigir de imediato aqueles pontos cuja alteração corresponda aos amplos anseios de qualquer das magistraturas.
+Nestes termos:
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Os artigos 130.º e 226.º do Estatuto Judiciário passam a ter a seguinte redacção:
+Art. 130.º - 1. Os cargos de corregedor, inspector judicial, sindicante ou inquiridor, membro dos júris de admissão para cargos judiciais e quaisquer outros em que igualmente devam ser providos magistrados judiciais não podem ser recusados pelos nomeados.
+O disposto neste número não se aplica aos presidentes do Supremo Tribunal de Justiça e das Relações e ao vice-presidente do Conselho Superior Judiciário.
+2. ...
+3. Os cargos a que se refere o n.º 1, com excepção da presidência do Supremo Tribunal de Justiça e da designação para actos ou diligências isolados, como inquéritos ou sindicâncias, são desempenhados em comissão de serviço por períodos renováveis de três anos.
+Decorrido, porém, o primeiro triénio, podem os nomeados requerer a cessação da comissão.
+O cargo de corregedor só pode ser provido entre os juízes propostos pelo Conselho.
+...
+Art. 226.º ...
+1. ...
+2. A nomeação é feita por três anos, prorrogáveis por novos triénios.
+3. ...
+4. Para efeitos de vencimentos os adjuntos do procurador da República são equiparados a juízes de direito de 2.ª classe, salvo quando sejam já juízes de direito de 1.ª classe.
+Art. 2.º O presente diploma entra em vigor na data da publicação.
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha.
+Promulgado em 4 de Novembro de 1975.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
