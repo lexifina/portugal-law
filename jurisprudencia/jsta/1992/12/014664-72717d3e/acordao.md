@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal Administrativo de 1992-12-02, processo 014664
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 014664
+
+**Data do Acordão:** 12/02/1992
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** RODRIGUES PARDAL
+
+**Descritores:** IMPOSTO DE SELO; LIQUIDAÇÃO; IMPUGNAÇÃO JUDICIAL; COMPETÊNCIA DOS TRIBUNAIS TRIBUTÁRIOS DE 1 INSTÂNCIA; INTERPRETAÇÃO DA LEI
+
+**Nº Convencional:** JSTA00036364
+
+**Nº do Documento:** SA219921202014664
+
+**Data de Entrada:** 06/24/1992
+
+**Recorrente:** JOSE GOMES LDA
+
+**Recorrido 1:** FAZENDA PUBLICA
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 92
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TT1INST BRAGA PER SALTUM.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR FISC - SELO. DIR PROC TRIBUT CONT - IMPUGN JUDICIAL.
+
+**Legislação Nacional:** RIS26 ART251 ART257-A.; ETAF84 ART62 N1 A ART121 N1.; DL 154/91 DE 1991/04/23 ART11.; CPTRIB91 ART1 ART118 N2 A.
+
+**Jurisprudência Nacional:** AC STA DE 1971/06/17 IN AP-DG 1972/10/23.; AC STA DE 1972/07/13 IN AD N133 PAG123.; AC STA DE 1987/10/14 IN AD N314 PAG216.; AC STA DE 1989/03/01 IN AP-DR 1991/10/12 PAG241.; AC STA PROC13374 DE 1991/05/15.; AC STA PROC13436 DE 1991/06/26.; AC STA PROC13969 DE 1992/04/01.
+
+**Referência a Doutrina:** MOUTEIRA GUERREIRO IMPOSTO DO SELO 4ED PAG215.; LAURENTINO ARAÚJO RESTITUIÇÃO DO IMPOSTO DO SELO (PROCESSO) PAG5.; ALBERTO XAVIER ASPECTOS FUNDAMENTAIS DO CONTENCIOSO TRIBUTÁRIO IN CTF N157-158 PAG122-127.; ALBERTO XAVIER ASPECTOS FUNDAMENTAIS DO CONTENCIOSO TRIBUTÁRIO IN CTF N103 SEPARATA PAG116.; MADEIRA CURVELO E CARDOSO DOS SANTOS IMPOSTO DO SELO PAG225-231.; RUBEN CARVALHO E RODRIGUES PARDAL CÓDIGO DE PROCESSO DAS CONTRIBUIÇÕES E IMPOSTOS ANOTADO 2ED VI PAG80.; Texto Integral
+
+## Sumário
+
+I - O art. 251 do Regulamento do Imposto de Selo foi revogado pelo art. 121, n.1, do ETAF e substituído pelo art. 62, n. 1, alínea a), do mesmo diploma.
+
+II - Da liquidação do imposto de selo de verba cabe impugnação judicial, da competência do tribunal tributário de 1 instância.
