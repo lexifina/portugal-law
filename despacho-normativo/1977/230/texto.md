@@ -1,0 +1,3 @@
+Despacho Normativo n.º 230/77
+Ao abrigo do disposto no artigo 24.º do Decreto-Lei n.º 485/77, de 17 de Novembro, esclarecendo dúvidas suscitadas após a publicação deste diploma legal, determino que a Comissão Instaladora da Comissão da Condição Feminina, a que se refere o n.º 1 da Portaria n.º 777-A/76, de 30 de Dezembro, nos termos do n.º 3 da mesma portaria, se mantenha em exercício de funções até à posse do presidente da Comissão da Condição Feminina, nomeado em conformidade com o artigo 19.º, n.º 1, do referido Decreto-Lei n.º 485/77.
+Presidência do Conselho de Ministros, 22 de Novembro de 1977. - O Primeiro-Ministro em Exercício, Henrique Teixeira Queirós de Barros.
