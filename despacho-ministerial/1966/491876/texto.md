@@ -1,0 +1,6 @@
+Despacho ministerial
+Nos termos do artigo 7.º do Decreto-Lei n.º 44995, de 24 de Abril de 1963, esclarece-se o seguinte:
+a) As disposições de tal diploma e da Portaria n.º 21776, de 7 de Janeiro de 1966, serão aplicáveis aos militares que, embora oportunamente considerados aptos para todo o serviço, venham posteriormente a contrair qualquer lesão relacionada com lesões ou ferimentos recebidos por motivo de campanha ou de manutenção de ordem pública e que constem da tabela anexa à citada portaria;
+b) Os militares nas condições da alínea a) do presente despacho baixarão obrigatòriamente a um hospital militar para observação e posterior apresentação à junta hospitalar de inspecção, seguindo-se os trâmites indicados na Portaria n.º 21776, de 7 de Janeiro de 1966;
+c) Esclarece-se que, na aplicação do artigo 6.º do Decreto-Lei n.º 44995, de 24 de Abril de 1963, são considerados primeiros-cabos dos quadros permanentes sòmente os primeiros-cabos readmitidos e que, como tal, descontam para a Caixa Geral de Aposentações.
+Presidência do Conselho e Ministério do Exército, 17 de Fevereiro de 1966. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo. - O Ministro do Exército, Joaquim da Luz Cunha.
