@@ -1,10 +1,10 @@
 # Artigo 53.º
 
-### (Cálculo da pensão)
+### Cálculo da pensão
 
-1 - A pensão de aposentação é igual à trigésima sexta parte da remuneração que lhe serve de base multiplicada pela expressão em anos do número de meses de serviço contados para a aposentação, até ao limite máximo de trinta e seis anos.
+1 - A pensão de aposentação é igual à trigésima sexta parte da remuneração mensal relevante, deduzida da percentagem da quota para efeitos de aposentação e de pensão de sobrevivência, multiplicada pela expressão em anos do número de meses de serviço contados para a aposentação, com o limite máximo de 36 anos.
 
-2 - A pensão não pode, em caso algum, exceder o montante da remuneração a que se refere o número anterior.
+2 - A pensão não pode, em caso algum, exceder o montante da remuneração líquida a que se refere o n.º 1.
 
 3 - Concorrendo tempo de serviço nas condições previstas no artigo 15.º, a pensão será a soma das seguintes parcelas, calculadas separadamente:
 
