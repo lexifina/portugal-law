@@ -1,43 +1,11 @@
 # Artigo 22.º
 
-### Formação profissional
+### (Ensino português no estrangeiro)
 
-1 - A formação profissional, para além de complementar a preparação para a vida activa iniciada no ensino básico, visa uma integração dinâmica no mundo do trabalho pela aquisição de conhecimentos e de competências profissionais, por forma a responder às necessidades nacionais de desenvolvimento e à evolução tecnológica.
+1 - O Estado promoverá a divulgação e o estudo da língua e da cultura portuguesa no estrangeiro mediante acções e meios diversificados que visem, nomeadamente, a sua inclusão nos planos curriculares de outros países e a criação e a manutenção de leitorados de português, sob orientação de professores portugueses, em universidades estrangeiras.
 
-2 - Têm acesso à formação profissional:
+2 - Será incentivada a criação de escolas portuguesas nos países de língua oficial portuguesa e junto das comunidades de emigrantes portugueses.
 
-a) Os que tenham concluído a escolaridade obrigatória;
+3 - O ensino da língua e da cultura portuguesas aos trabalhadores emigrantes e seus filhos será assegurado através de cursos e actividades promovidos nos países de imigração em regime de integração ou de complementaridade relativamente aos respectivos sistemas educativos.
 
-b) Os que não concluíram a escolaridade obrigatória até à idade limite desta;
-
-c) Os trabalhadores que pretendam o aperfeiçoamento ou a reconversão profissionais.
-
-3 - A formação profissional estrutura-se segundo um modelo institucional e pedagógico suficientemente flexível que permita integrar os alunos com níveis de formação e características diferenciados.
-
-4 - A formação profissional estrutura-se por forma a desenvolver acções de:
-
-a) Iniciação profissional;
-
-b) Qualificação profissional;
-
-c) Aperfeiçoamento profissional;
-
-d) Reconversão profissional.
-
-5 - A organização dos cursos de formação profissional deve adequar-se às necessidades conjunturais nacionais e regionais de emprego, podendo integrar módulos de duração variável e combináveis entre si, com vista à obtenção de níveis profissionais sucessivamente mais elevados.
-
-6 - O funcionamento dos cursos e módulos pode ser realizado segundo formas institucionais diversificadas, designadamente:
-
-a) Utilização de escolas de ensino básico e secundário;
-
-b) Protocolos com empresas e autarquias;
-
-c) Apoios a instituições e iniciativas estatais e não estatais;
-
-d) Dinamização de acções comunitárias e de serviços à comunidade;
-
-e) Criação de instituições específicas.
-
-7 - A conclusão com aproveitamento de um módulo ou curso de formação profissional confere direito à atribuição da correspondente certificação.
-
-8 - Serão estabelecidos processos que favoreçam a recorrência e a progressão no sistema de educação escolar dos que completarem cursos de formação profissional.
+4 - Serão incentivadas e apoiadas pelo Estado as iniciativas de associações de portugueses e as de entidades estrangeiras, públicas e privadas, que contribuam para a prossecução dos objectivos enunciados neste artigo.

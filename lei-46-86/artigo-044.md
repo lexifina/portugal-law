@@ -1,21 +1,17 @@
 # Artigo 44.º
 
-### Recursos educativos
+### (Níveis de administração)
 
-1 - Constituem recursos educativos todos os meios materiais utilizados para conveniente realização da actividade educativa.
+1 - Leis especiais regulamentarão a delimitação e articulação de competências entre os diferentes níveis de administração, tendo em atenção que serão da responsabilidade da administração central, designadamente, as funções de:
 
-2 - São recursos educativos privilegiados, a exigirem especial atenção:
+a) Concepção, planeamento e definição normativa do sistema educativo, com vista a assegurar o seu sentido de unidade e de adequação aos objectivos de âmbito nacional;
 
-a) Os manuais escolares;
+b) Coordenação global e avaliação da execução das medidas da política educativa a desenvolver de forma descentralizada ou desconcentrada;
 
-b) As bibliotecas e mediatecas escolares;
+c) Inspecção e tutela, em geral, com vista, designadamente, a garantir a necessária qualidade do ensino;
 
-c) Os equipamentos laboratoriais e oficinais;
+d) Definição dos critérios gerais de implantação de rede escolar, da tipologia das escolas e seu apetrechamento, bem como das normas pedagógicas a que deve obedecer a construção de edifícios escolares;
 
-d) Os equipamentos para educação física e desportos;
+e) Garantia da qualidade pedagógica e técnica dos vários meios didácticos, incluindo os manuais escolares.
 
-e) Os equipamentos para educação musical e plástica;
-
-f) Os centros regionais de recursos educativos.
-
-3 - Para o apoio e complementaridade dos recursos educativos existentes nas escolas e ainda com o objectivo de racionalizar o uso dos meios disponíveis será incentivada a criação de centros regionais que disponham de recursos apropriados e de meios que permitam criar outros, de acordo com as necessidades de inovação educativa.
+2 - A nível regional, e com o objectivo de integrar, coordenar e acompanhar a actividade educativa, será criado em cada região um departamento regional de educação, em termos a regulamentar por decreto-lei.

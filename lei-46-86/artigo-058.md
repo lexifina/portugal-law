@@ -1,7 +1,7 @@
 # Artigo 58.º
 
-### Articulação com a rede escolar
+### (Intervenção do Estado)
 
-1 - Os estabelecimentos do ensino particular e cooperativo que se enquadrem nos princípios gerais, finalidades, estruturas e objectivos do sistema educativo são considerados parte integrante da rede escolar.
+1 - O Estado fiscaliza e apoia pedagógica e tecnicamente o ensino particular e cooperativo.
 
-2 - No alargamento ou no ajustamento da rede o Estado terá também em consideração as iniciativas e os estabelecimentos particulares e cooperativos, numa perspectiva de racionalização de meios, de aproveitamento de recursos e de garantia de qualidade.
+2 - O Estado apoia financeiramente as iniciativas e os estabelecimentos de ensino particular e cooperativo quando, no desempenho efectivo de uma função de interesse público, se integrem no plano de desenvolvimento da educação, fiscalizando a aplicação das verbas concedidas.

@@ -1,21 +1,13 @@
 # Artigo 48.º
 
-### Administração e gestão dos estabelecimentos de educação e ensino
+### (Ocupação dos tempos livres e desporto escolar)
 
-1 - O funcionamento dos estabelecimentos de educação e ensino, nos diferentes níveis, orienta-se por uma perspectiva de integração comunitária, sendo, nesse sentido, favorecida a fixação local dos respectivos docentes.
+1 - As actividades curriculares dos diferentes níveis de ensino devem ser complementadas por acções orientadas para a formação integral e a realização pessoal dos educandos no sentido da utilização criativa e formativa dos seus tempos livres.
 
-2 - Em cada estabelecimento ou grupo de estabelecimentos de educação e ensino a administração e gestão orientam-se por princípios de democraticidade e de participação de todos os implicados no processo educativo, tendo em atenção as características específicas de cada nível de educação e ensino.
+2 - Estas actividades de complemento curricular visam, nomeadamente, o enriquecimento cultural e cívico, a educação física e desportiva, a educação artística e a inserção dos educandos na comunidade.
 
-3 - Na administração e gestão dos estabelecimentos de educação e ensino devem prevalecer critérios de natureza pedagógica e científica sobre critérios de natureza administrativa.
+3 - As actividades de complemento curricular podem ter âmbito nacional, regional ou local e, nos dois últimos casos, ser da iniciativa de cada escola ou grupo de escolas.
 
-4 - A direcção de cada estabelecimento ou grupo de estabelecimentos dos ensinos básico e secundário é assegurada por órgãos próprios, para os quais são democraticamente eleitos os representantes de professores, alunos e pessoal não docente, e apoiada por órgãos consultivos e por serviços especializados, num e noutro caso segundo modalidades a regulamentar para cada nível de ensino.
+4 - As actividades de ocupação dos tempos livres devem valorizar a participação e o envolvimento das crianças e dos jovens na sua organização, desenvolvimento e avaliação.
 
-5 - A participação dos alunos nos órgãos referidos no número anterior circunscreve-se ao ensino secundário.
-
-6 - A direcção de todos os estabelecimentos de ensino superior orienta-se pelos princípios de democraticidade e representatividade e de participação comunitária.
-
-7 - Os estabelecimentos de ensino superior gozam de autonomia científica, pedagógica e administrativa.
-
-8 - As universidades gozam ainda de autonomia financeira, sem prejuízo da acção fiscalizadora do Estado.
-
-9 - A autonomia dos estabelecimentos de ensino superior será compatibilizada com a inserção destes no desenvolvimento da região e do País.
+5 - O desporto escolar visa especificamente a promoção da saúde e condição física, a aquisição de hábitos e condutas motoras e o entendimento do desporto como factor de cultura, estimulando sentimentos de solidariedade, cooperação, autonomia e criatividade, devendo ser fomentada a sua gestão pelos estudantes praticantes, salvaguardando-se a orientação por profissionais qualificados.

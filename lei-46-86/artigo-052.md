@@ -1,7 +1,7 @@
 # Artigo 52.º
 
-### Avaliação do sistema educativo
+### (Estruturas de apoio)
 
-1 - O sistema educativo deve ser objecto de avaliação continuada, que deve ter em conta os aspectos educativos e pedagógicos, psicológicos e sociológicos, organizacionais, económicos e financeiros e ainda os de natureza político-administrativa e cultural.
+1 - O Governo criará estruturas adequadas que assegurem e apoiem actividades de desenvolvimento curricular, de fomento de inovação e de avaliação do sistema e das actividades educativas.
 
-2 - Esta avaliação incide, em especial, sobre o desenvolvimento, regulamentação e aplicação da presente lei.
+2 - Estas estruturas devem desenvolver a sua actividade em articulação com as escolas e com as instituições de investigação em educação e de formação de professores.

@@ -1,5 +1,7 @@
 # Artigo 49.º
 
-### Conselho Nacional de Educação
+### (Avaliação do sistema educativo)
 
-É instituído o Conselho Nacional de Educação, com funções consultivas, sem prejuízo das competências próprias dos órgãos de soberania, para efeitos de participação das várias forças sociais, culturais e económicas na procura de consensos alargados relativamente à política educativa, em termos a regular por lei.
+1 - O sistema educativo deve ser objecto de avaliação continuada, que deve ter em conta os aspectos educativos e pedagógicos, psicológicos e sociológicos, organizacionais, económicos e financeiros e ainda os de natureza político-administrativa e cultural.
+
+2 - Esta avaliação incide, em especial, sobre o desenvolvimento, regulamentação e aplicação da presente lei.

@@ -1,11 +1,7 @@
-## Capítulo III
-
-## Apoios e complementos educativos
-
 # Artigo 27.º
 
-### Promoção do sucesso escolar
+### (Acção social escolar)
 
-1 - São estabelecidas e desenvolvidas actividades e medidas de apoio e complemento educativos visando contribuir para a igualdade de oportunidades de acesso e sucesso escolar.
+1 - São desenvolvidos, no âmbito da educação pré-escolar e da educação escolar, serviços de acção social escolar, concretizados através da aplicação de critérios de discriminação positiva que visem a compensação social e educativa dos alunos economicamente mais carenciados.
 
-2 - Os apoios e complementos educativos são aplicados prioritariamente na escolaridade obrigatória.
+2 - Os serviços de acção social escolar são traduzidos por um conjunto diversificado de acções, em que avultam a comparticipação em refeições, serviços de cantina, transportes, alojamento, manuais e material escolar, e pela concessão de bolsas de estudo.

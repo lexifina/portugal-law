@@ -1,5 +1,5 @@
 # Artigo 28.º
 
-### Apoios a alunos com necessidades educativas específicas
+### (Apoio de saúde escolar)
 
-Nos estabelecimentos de ensino básico e secundário e nas instituições de ensino superior é assegurada a existência de atividades de acompanhamento e complemento pedagógicos, de modo positivamente diferenciado, a alunos com necessidades educativas específicas.
+Será realizado o acompanhamento do saudável crescimento e desenvolvimento dos alunos, o qual é assegurado, em princípio, por serviços especializados dos centros comunitários de saúde em articulação com as estruturas escolares.

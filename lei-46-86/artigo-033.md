@@ -1,27 +1,9 @@
-## Capítulo IV
-
-## Recursos humanos
-
 # Artigo 33.º
 
-### Princípios gerais sobre a formação de educadores e professores
+### (Qualificação para outras funções educativas)
 
-1 - A formação de educadores e professores assenta nos seguintes princípios:
+1 - Adquirem qualificação para a docência em educação especial os educadores de infância e os professores do ensino básico e secundário com prática de educação ou de ensino regular ou especial que obtenham aproveitamento em cursos especialmente vocacionados para o efeito realizados em estabelecimentos de ensino superior que disponham de recursos próprios nesse domínio.
 
-a) Formação inicial de nível superior, proporcionando aos educadores e professores de todos os níveis de educação e ensino a informação, os métodos e as técnicas científicos e pedagógicos de base, bem como a formação pessoal e social adequadas ao exercício da função;
+2 - Nas instituições de formação referidas nos n.os 3 e 5 do artigo 31.º podem ainda ser ministrados cursos especializados de administração e inspecção escolares, de animação sócio-cultural, de educação de base de adultos e outros necessários ao desenvolvimento do sistema educativo.
 
-b) Formação contínua que complemente e actualize a formação inicial numa perspectiva de educação permanente;
-
-c) Formação flexível que permita a reconversão e mobilidade dos educadores e professora dos diferentes níveis de educação e ensino, nomeadamente o necessário complemento de formação profissional;
-
-d) Formação integrada quer no plano da preparação científico-pedagógica quer no da articulação teórico-prática;
-
-e) Formação assente em práticas metodológicas afins das que o educador e o professor vierem a utilizar na prática pedagógica;
-
-f) Formação que, em referência à realidade social, estimule uma atitude simultaneamente crítica e actuante;
-
-g) Formação que favoreça o estimule a inovação e a investigação, nomeadamente em relação com a actividade educativa;
-
-h) Formação participada que conduza a uma prática reflexiva e continuada de auto-informação e auto-aprendizagem.
-
-2 - A orientação e as actividades pedagógicas na educação pré-escolar são asseguradas por educadores de infância, sendo a docência em todos os níveis e ciclos de ensino assegurada por professores detentores de diploma que certifique a formação profissional específica com que se encontram devidamente habilitados para o efeito.
+3 - São qualificados para o exercício das actividades de apoio educativo os indivíduos habilitados com formação superior adequada.

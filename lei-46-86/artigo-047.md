@@ -1,17 +1,21 @@
+## Capítulo VII
+
+## Desenvolvimento e avaliação do sistema educativo
+
 # Artigo 47.º
 
-### Níveis de administração
+### (Desenvolvimento curricular)
 
-1 - Leis especiais regulamentarão a delimitação e articulação de competências entre os diferentes níveis de administração, tendo em atenção que serão da responsabilidade da administração central, designadamente, as funções de:
+1 - A organização curricular da educação escolar terá em conta a promoção de uma equilibrada harmonia, nos planos horizontal e vertical, entre os níveis de desenvolvimento físico e motor, cognitivo, afectivo, estético, social e moral dos alunos.
 
-a) Concepção, planeamento e definição normativa do sistema educativo, com vista a assegurar o seu sentido de unidade e de adequação aos objectivos de âmbito nacional;
+2 - Os planos curriculares do ensino básico incluirão em todos os ciclos e de forma adequada uma área de formação pessoal e social, que pode ter como componentes a educação ecológica, a educação do consumidor, a educação familiar, a educação sexual, a prevenção de acidentes, a educação para a saúde, a educação para a participação nas instituições, serviços cívicos e outros do mesmo âmbito.
 
-b) Coordenação global e avaliação da execução das medidas da política educativa a desenvolver de forma descentralizada ou desconcentrada;
+3 - Os planos curriculares dos ensinos básico e secundário integram ainda o ensino da moral e da religião católica, a título facultativo, no respeito dos princípios constitucionais da separação das igrejas e do Estado e da não confessionalidade do ensino público.
 
-c) Inspecção e tutela, em geral, com vista, designadamente, a garantir a necessária qualidade do ensino;
+4 - Os planos curriculares do ensino básico devem ser estabelecidos à escala nacional, sem prejuízo de existência de conteúdos flexíveis integrando componentes regionais.
 
-d) Definição dos critérios gerais de implantação de rede escolar, da tipologia das escolas e seu apetrechamento, bem como das normas pedagógicas a que deve obedecer a construção de edifícios escolares;
+5 - Os planos curriculares do ensino secundário terão uma estrutura de âmbito nacional, podendo as suas componentes apresentar características de índole regional e local, justificadas nomeadamente pelas condições sócio-económicas e pelas necessidades em pessoal qualificado.
 
-e) Garantia da qualidade pedagógica e técnica dos vários meios didácticos, incluindo os manuais escolares.
+6 - Os planos curriculares do ensino superior respeitam a cada uma das instituições de ensino que ministram os respectivos cursos estabelecidos, ou a estabelecer, de acordo com as necessidades nacionais e regionais e com uma perspectiva de planeamento integrado da respectiva rede.
 
-2 - A nível regional, e com o objectivo de integrar, coordenar e acompanhar a actividade educativa, será criado em cada região um departamento regional de educação, em termos a regulamentar por decreto-lei.
+7 - O ensino-aprendizagem da língua materna deve ser estruturado de forma que todas as outras componentes curriculares dos ensinos básico e secundário contribuam de forma sistemática para o desenvolvimento das capacidades do aluno ao nível da compreensão e produção de enunciados orais e escritos em português.

@@ -10,30 +10,20 @@
 
 2 - São objectivos do ensino superior:
 
-a) Estimular a criação cultural e o desenvolvimento do espírito científico e empreendedor, bem como do pensamento reflexivo;
+a) Estimular a criação cultural e o desenvolvimento do espírito científico e do pensamento reflexivo;
 
-b) Formar diplomados nas diferentes áreas de conhecimento, aptos para a inserção em sectores profissionais e para a participação no desenvolvimento da sociedade, e colaborar na sua formação contínua;
+b) Formar diplomados nas diferentes áreas de conhecimento, aptos para a inserção em sectores profissionais e para a participação no desenvolvimento da sociedade portuguesa, e colaborar na sua formação contínua;
 
-c) Incentivar o trabalho de pesquisa e investigação científica, visando o desenvolvimento da ciência e da tecnologia, das humanidades e das artes, e a criação e difusão da cultura e, desse modo, desenvolver o entendimento do homem e do meio em que se integra;
+c) Incentivar o trabalho de pesquisa e investigação científica, visando o desenvolvimento da ciência e da tecnologia e a criação e difusão da cultura, e, desse modo, desenvolver o entendimento do homem e do meio em que vive;
 
-d) Promover a divulgação de conhecimentos culturais, científicos e técnicos, que constituem património da humanidade, e comunicar o saber através do ensino, de publicações ou de outras formas de comunicação;
+d) Promover a divulgação de conhecimentos culturais, científicos e técnicos que constituem património da humanidade e comunicar o saber através do ensino, de publicações ou de outras formas de comunicação;
 
-e) Suscitar o desejo permanente de aperfeiçoamento cultural e profissional e possibilitar a correspondente concretização, integrando os conhecimentos que vão sendo adquiridos numa estrutura intelectual sistematizadora do conhecimento de cada geração, na lógica de educação ao longo da vida e de investimento geracional e intergeracional, visando realizar a unidade do processo formativo;
+e) Suscitar o desejo permanente de aperfeiçoamento cultural e profissional e possibilitar a correspondente concretização, integrando os conhecimentos que vão sendo adquiridos numa estrutura intelectual sistematizadora do conhecimento de cada geração;
 
-f) Estimular o conhecimento dos problemas do mundo de hoje, num horizonte de globalidade, em particular os nacionais, regionais e europeus, prestar serviços especializados à comunidade e estabelecer com esta uma relação de reciprocidade;
+f) Estimular o conhecimento dos problemas do mundo de hoje, em particular os nacionais e regionais, prestar serviços especializados à comunidade e estabelecer com esta um relação de reciprocidade;
 
-g) Continuar a formação cultural e profissional dos cidadãos pela promoção de formas adequadas de extensão cultural;
+g) Continuar a formação cultural e profissional dos cidadãos pela promoção de formas adequadas de extensão cultural.
 
-h) Promover e valorizar a língua e a cultura portuguesas;
+3 - O ensino universitário visa assegurar uma sólida preparação científica e cultural e proporcionar uma formação técnica que habilite para o exercício de actividades profissionais e culturais e fomente o desenvolvimento das capacidades de concepção, de inovação e de análise crítica.
 
-i) Promover o espírito crítico e a liberdade de expressão e de investigação;
-
-j) Garantir o pleno acesso à formação superior e à consequente inserção no mercado de trabalho dos jovens com necessidades educativas específicas.
-
-3 - O ensino superior organiza-se num sistema binário flexível, integrando instituições de natureza universitária e de natureza politécnica, articulando esforços e competências de ensino e de investigação em função das respetivas missões, predominando:
-
-a) Nas instituições de ensino superior de natureza universitária, o ensino e a formação académica, centrados em estudos gerais de artes, humanidades e ciências e na investigação básica;
-
-b) Nas instituições de ensino superior de natureza politécnica, o ensino e a formação técnica avançada, baseados na investigação aplicada, no desenvolvimento tecnológico e na inovação, com forte ligação ao tecido económico e social.
-
-4 - [Revogado.]
+4 - O ensino politécnico visa proporcionar uma sólida formação cultural e técnica de nível superior, desenvolver a capacidade de inovação e de análise crítica e ministrar conhecimentos científicos de índole teórica e prática e as suas aplicações com vista ao exercício de actividades profissionais.
