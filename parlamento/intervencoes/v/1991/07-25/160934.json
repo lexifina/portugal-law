@@ -1,0 +1,93 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jICRzj3KB1Bmg3m8DVSHnpi8rXpapb3j4jMO5BtN2LbfPF3esMoTH6fDrsMuFJ9lPAZvTPAWxS9PFAt7bzMiuI04fWuRpEaIxl4mcW%2fcx1acNCntIvb5NLRRHaPebnKKry6IchvGghYnV5lkvxQk495hFB7swBEB4rvnhCoTOeXflL%2foNK7o0b4dy592StEdZmQVtVkruElsfWncCV%2b%2bpavK9g3VZy%2bP4cmQ40z%2f0a69tQcMqoIjKHap%2bFpAkJMgbKcIQykqLjBLupnXrNjLuRZ30Ox0rp%2fdoXYbf5r3SXm4%2fEbMutFiFUX0sUvjGKIZ7ZqNfVf38E4D2PhkYxEZx9pZ7GwemaRdvkVkJ4JulFaJGzWdDjdFCx4KRpH%2bqN7s&fich=IntervencoesV_json.txt&Inline=true",
+  "ficheiro_sha256": "e07157b1d50033e077d4f054f931a3450edfcc0fcd53456e529928b3d3af1eae",
+  "legislatura": "V",
+  "id": "160934",
+  "tipo": "Intervenção",
+  "orador": "Antunes da Silva (PSD)",
+  "data_registo": "1991-07-25",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "80190",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "32875",
+        "tipo": "INI",
+        "titulo": "Projeto de Deliberação - Comissão eventual para análise e reflexão da problemática dos incêndios em Portugal."
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "32876",
+        "tipo": "INI",
+        "titulo": "Projeto de Deliberação - Declaração de calamidade pública."
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "32877",
+        "tipo": "INI",
+        "titulo": "Projeto de Deliberação - Realização de uma reunião da Comissão Permanente para análise da problemática dos incêndios com a presença dos Ministros da Agricultura, Pescas e Alimentação, do Ambiente e Recursos Naturais e da Administração Interna."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1991-07-25",
+    "Debate": "PJD n.º 145/V/4; PJD n.º 146/V/4; PJD n.º 147/V/4",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "54",
+      "nome": "Antunes da Silva"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "160934",
+    "IdDebate": "5233",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "V",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "160934",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "3401-3401",
+          "3403-3404"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-07-26",
+        "pubLeg": "V",
+        "pubNr": "98",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/098/1991-07-26/3401?pgs=3401,3403-3404&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Responde aos deputados António Campos (PS), Jorge Lacão (PS) e Lino de Carvalho (PCP).",
+    "Sessao": "4",
+    "Sumario": "Comissão eventual para análise e reflexão da problemática dos incêndios em Portugal.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
