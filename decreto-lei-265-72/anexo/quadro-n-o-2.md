@@ -54,6 +54,8 @@ Póvoa de Varzim ... PV
 
 Quarteira ... Q
 
+Régua ... RE
+
 Ribeira Grande ... RG
 
 S. Martinho do Porto ... SM
