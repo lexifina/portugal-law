@@ -1,0 +1,15 @@
+Decreto-Lei n.º 48405
+
+A execução dos diplomas que constituem o regime tributário actualmente em vigor tem revelado, cada vez com maior acuidade e urgência, a necessidade de se introduzirem algumas modificações na estrutura e funcionamento dos serviços de administração fiscal, muito especialmente no que se refere ao recrutamento e à preparação dos seus funcionários.
+
+Num sistema em que prevalece o rigor da técnica jurídica na base de correspondentes e essenciais garantias do Estado e dos contribuintes e em que o factor económico assume igualmente um papel decisivo no próprio condicionamento da acção dos serviços, não poderiam deixar de constituir elemento de cuidada preocupação as formas como se deva proceder ao recrutamento e à preparação dos seus servidores.
+
+Não poderá, é certo, deixar de se ter em conta que algumas das realidades sujeitas à acção dos serviços fiscais não exigem, da parte dos respectivos agentes, em nível de preparação, e em imputação de responsabilidade, qualidades ou implicações específicas que devam superar aquelas que normalmente respeitam aos funcionários de mera execução. Tal não acontece, porém, com o exercício daquelas funções que tenham por objecto o julgamento, a avaliação dos factos tributáveis, a decisão e a interpretação, a aplicação das leis e a exigência e verificação do seu cumprimento. Trata-se, então, de estádios de tão decisivo interesse na vida das relações públicas que os seus efeitos não podem deixar de ser considerados factores essenciais da actividade do Estado, nem deixar de ser vistos pelo ângulo em que criam, àqueles que os executam, ónus especiais de responsabilidade funcional.
+
+Daí que se devam estabelecer, neste sector, duas ordens de agentes administrativos em matéria de exigibilidade de preparação e de gravidade das respectivas funções: a dos que exercem uma acção específica de administração técnico-fiscal - compreendendo a direcção, a decisão, a prevenção, a promoção da justiça fiscal, a interpretação das leis, a preparação e a garantia de realização da política tributária - e a dos que se limitam a funções gerais administrativas de mera execução, ou de responsabilidade geralmente diminuta em relação aos primeiros. O facto impõe que se procure distribuir por cada um dos serviços, segundo critérios de prudente equilíbrio e segundo a premência dos interesses, os funcionários destas duas ordens.
+
+A reorganização, em exacto sentido, do sector da administração fiscal só deverá fazer-se quando se tornar praticável a integração dos vários serviços na reforma geral da administração pública. E será nesse sentido que se deverá caminhar, necessàriamente.
+
+Entretanto, a premência das circunstâncias que se verificam no sector responsável pela arrecadação dos réditos do Estado obriga a tomar medidas imediatas que se situem, de resto, dentro das linhas já definidas para essa reforma ou que não prejudiquem as soluções definitivas que venham a ser adoptadas.
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:

@@ -1,0 +1,3 @@
+# Artigo 19.º
+
+Sempre que a instalação dos serviços concelhios de administração fiscal não corresponda aos requisitos estabelecidos no artigo 34.º do Decreto-Lei n.º 22728, de 24 de Junho de 1933, e aos que se julguem indispensáveis para a sua boa eficiência e dignidade e para a comodidade dos contribuintes, será adoptado o procedimento aí estabelecido, podendo ainda o Ministério das Finanças, nas localidades onde funcionem serviços em desdobramento ou descentralização, acordar com as câmaras municipais a edificação ou adaptação de imóveis para o efeito, e estabelecer as condições e prazos para o respectivo reembolso.

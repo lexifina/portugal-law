@@ -1,0 +1,5 @@
+# Artigo 7.º
+
+O acesso aos lugares de primeiro, segundo e terceiro-oficial é feito por nomeação mediante concurso, sendo admitidos aos de segundo e primeiro-oficial os oficiais de categoria imediatamente inferior com habilitações não inferiores ao 2.º ciclo liceal e aos de terceiro-oficial os escriturários de qualquer dos sexos com três anos de serviço quando habilitados com o 2.º ciclo liceal ou equivalente, bem como os escriturários com oito anos de bom e efectivo serviço se possuírem como habilitação o 1.º ciclo liceal ou equivalente e ainda os aspirantes concursados que pretendam optar pela carreira de oficial e não possuam o 1.º grau do curso para secretários de finanças.
+
+§ único. A chefia de serviços correspondentes à extinta categoria de chefe de secção compete, na Direcção-Geral e nas Direcções de Lisboa, Porto e Coimbra, a subdirectores de finanças e, nas restantes direcções, a subdirectores e secretários de finanças de 1.ª, 2.ª e 3.ª classes do sexo masculino, conforme os mapas anexos ao diploma a que se refere o artigo 2.º, § 1.º, deste decreto-lei.

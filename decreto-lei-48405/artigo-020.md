@@ -1,0 +1,7 @@
+# Artigo 20.º
+
+Aos funcionários da Direcção-Geral das Contribuições e Impostos inscritos na Caixa Geral de Aposentações será levado em conta, para efeitos de aposentação, todo o tempo de serviço prestado ao Estado e seus serviços autónomos ou aos corpos administrativos anteriormente à sua inscrição na Caixa, aplicando-se ao cálculo do pagamento da indemnização devida o disposto no artigo 12.º e seus §§ 1.º e 2.º do Decreto-Lei n.º 26503, de 6 de Abril de 1936, e no artigo 11.º e seu § único do Decreto-Lei n.º 41387, de 22 de Novembro de 1957.
+
+§ 1.º Aos antigos escrivães das execuções fiscais que a partir da entrada em vigor do Decreto-Lei n.º 44181, de 9 de Fevereiro de 1962, ingressaram nos quadros da Direcção-Geral com mais de 55 anos de idade é autorizada a inscrição na Caixa Geral de Aposentações, desde que tenham prestado ou possam prestar quinze anos de serviço, pelo menos, contados nos termos permitidos pelo presente artigo até atingirem o limite de idade.
+
+§ 2.º É concedido o prazo de 180 dias, contado a partir da entrada em vigor deste diploma, a todo o pessoal cujo direito à aposentação desde a data em que começou a prestar serviço ao Estado e seus serviços autónomos ou aos corpos administrativos se confere pelo presente diploma, para requerer a contagem de todo o tempo de serviço já prestado em qualquer situação. Os pedidos de contagem serão dirigidos à Caixa Geral de Aposentações, instruídos com os documentos comprovativos.
