@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que os Governos da Nova Zelândia e da República da África do Sul depositaram, respectivamente em 8 de Junho de 1969 e 24 de Setembro de 1969, junto do Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte os instrumentos de ratificação do Acordo Relativo ao Salvamento dos Astronautas, Regresso dos Astronautas e Restituição dos Objectos Lançados no Espaço Extra-Atmosférico, aberto para assinatura em Londres, Moscovo e Washington em 22 de Abril de 1968. A Suécia depositou igualmente junto do Governo do Reino Unido os instrumentos de adesão àquela Convenção.
+Direcção-Geral dos Negócios Políticos, 18 de Novembro de 1969. - O Director-Geral, J. Caldeira Coelho.
