@@ -1,0 +1,4 @@
+Declaração
+Para efeito do disposto no n.º 8 do artigo 4.º do Decreto-Lei n.º 47470, de 31 de Dezembro de 1966, aplicável aos anos subsequentes por força do artigo 1.º do Decreto-Lei n.º 48032, de 10 de Novembro de 1967, se declara que, por despacho do Subsecretário de Estado do Comércio de 24 de Novembro de 1970, foi fixado em 2000 l, acrescidos de 5 por cento da restante produção manifestada, o limite para autoconsumo das casas agrícolas dos produtores.
+Mais se declara que, nos termos do mesmo despacho, este limite se aplica aos anos de 1967 e seguintes, tendo igualmente sido determinado que a Junta Nacional do Vinho restituísse aos produtores as importâncias cobradas em 1967 com base num limite de 1000 l, acrescidos de 5 por cento da restante produção manifestada.
+Comissão de Coordenação Económica, 16 de Junho de 1972. - O Presidente, Henrique de Carvalho Costa.
