@@ -17,3 +17,11 @@ e) A formulação de pedidos de registo de marcas quando destinadas a assinalar 
 f) A manutenção de patentes que tenham sido concedidas há menos de três anos relativamente à data da apresentação da candidatura;
 
 g) A concepção, estudo e execução de protótipos ou de instalações experimentais.
+
+h) No âmbito do apoio ao registo de medicamentos:
+
+Formulação de pedidos de AIM no estrangeiro junto das respectivas autoridades nacionais;
+
+Formulação de pedidos de AIM via procedimento comunitário centralizado;
+
+Formulação de pedidos de AIM via procedimento comunitário descentralizado.

@@ -12,4 +12,12 @@ c) Respeitar a estrutura constante do anexo A ao presente despacho, e que deste 
 
 d) Demonstrar que se encontram asseguradas as fontes de financiamento do projecto;
 
-e) Obedecer aos requisitos legais de protecção.
+2 - Os projectos no âmbito das alíneas a) a g) do artigo 2.º deverão ainda obedecer aos requisitos legais de protecção.
+
+3 - Os projectos a que se refere a alínea h) do artigo 2.º deverão ainda inserir-se na estratégia de médio prazo do promotor, fundamentando as opções efectuadas em termos dos produtos/mercados seleccionados para efeitos de registo.
+
+4 - Exceptuam-se do disposto na alínea a) do n.º 1 os projectos que, tendo sido propostos a incentivos ao abrigo do Despacho Normativo n.º 354-B/93, de 9 de Novembro:
+
+a) Não tenham recebido apoios por razões não imputáveis ao promotor;
+
+b) Apresentem declaração de desistência à candidatura apresentada ao abrigo daquele despacho normativo.

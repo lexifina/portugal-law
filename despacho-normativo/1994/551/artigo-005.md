@@ -20,6 +20,8 @@ g) Encontrar-se registados para efeitos do cadastro industrial ou comprometerem-
 
 h) Ter licenciadas todas as unidades industriais pertencentes à empresa ou comprometer-se a regularizá-las, devendo apresentar comprovativo de licenciamento à data de realização do contrato;
 
-i) Ter direito legal à patente, ao modelo de utilidade, ao modelo ou desenho industrial ou à marca e, pretendendo, a protecção do Sistema de Propriedade Industrial;
+2 - Os promotores de projectos no âmbito das alíneas a) a g) do artigo 2.º deverão ainda ter direito legal à patente, ao modelo de utilidade, ao modelo ou desenho industrial ou à marca e pretender a protecção do Sistema da Propriedade Industrial.
 
-2 - As empresas cujo acto de constituição se tenha verificado nos 60 dias úteis anteriores à data da apresentação da candidatura apenas estão obrigadas ao cumprimento da condição prevista na alínea a) do número anterior, devendo, contudo, comprovar que já requereram a sua inscrição na conservatória do registo comercial competente, sem prejuízo da oportuna comprovação do preenchimento das restantes condições.
+3 - Os promotores de projectos no âmbito da alínea h) do artigo 2.º deverão ainda demonstrar que têm capacidade financeira para o desenvolvimento da sua actividade, cumprindo, nomeadamente, a condição de cobertura do activo líquido pelos capitais próprios superior a 25%.
+
+4 - As empresas cujo acto de constituição se tenha verificado nos 60 dias úteis anteriores à data da apresentação da candidatura apenas estão obrigadas ao cumprimento da condição prevista na alínea a) do n.º 1, devendo, contudo, comprovar que já requereram a sua inscrição na conservatória do registo comercial competente, sem prejuízo da oportuna comprovação do preenchimento das restantes condições.

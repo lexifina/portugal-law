@@ -27,3 +27,15 @@ c) Ferramentas;
 d) Aquisição de serviços;
 
 e) Matérias-primas e componentes.
+
+4 - No que se refere à alínea h) do artigo 2.º:
+
+a) Taxas relativas à fase de pedido;
+
+b) Assistência técnica externa na organização dos dossiers, incluindo, nomeadamente:
+
+Honorários de consultadoria;
+
+Traduções;
+
+c) Análises laboratoriais e ensaios realizados no exterior da empresa, a efectuar por exigência das autoridades competentes em matéria de AIM.
