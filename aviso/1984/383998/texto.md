@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que a Embaixada dos Estados Unidos da América na Haia comunicou, através de uma nota datada de 28 de Junho de 1978 e enviada ao Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, que a partir daquela data os Estados Unidos da América deixaram de cobrar, em certas condições, as custas que vinham exigindo para o cumprimento de notificações e citações no seu território, em execução da Convenção da Haia de 15 de Novembro de 1965 Relativa à Citação e Notificação no Estrangeiro de Actos Judiciais e Extrajudiciais em Matéria Civil e Comercial.
+É do seguinte teor, em língua inglesa, aquela nota:
+As of June 28, 1978, the United States will not charge a fee for service of judicial documents which it receives from any State party to the Convention which does not impose a charge for the service of documents sent from the United States for service under the Convention.
+Secretaria-Geral do Ministério, 10 de Maio de 1984. - O Director dos Serviços Jurídicos e de Tratados, Carlos Augusto Fernandes.
