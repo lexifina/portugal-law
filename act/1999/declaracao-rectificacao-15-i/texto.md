@@ -1,0 +1,11 @@
+Declaração de Rectificação n.º 15-I/99
+Para os devidos efeitos se declara que o Decreto Legislativo Regional n.º 23/99/M, publicado no Diário da República, 1.ª série, n.º 199, de 26 de Agosto de 1999, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No grupo de pessoal de chefia, nos escalões correspondentes à categoria de tesoureiro-chefe, onde se lê «450 - 460 - 475 - 495 - 520 - 545» deve ler-se «510 - 550 - 580 - 640 - 650 - 660».
+No grupo de pessoal operário, no elenco das categorias da carreira de cozinheiro, onde se lê «Cozinheiro-chefe - 185 - 190 - 195 - 205 - 215 - 230; Ajudante de cozinha - 125 - 135 - 145 - 155 - 165 - 175; Cozinheiro - 150 - 160 - 170 - 180 - 195 - 210» deve ler-se «Cozinheiro-chefe - 185 - 190 - 195 - 205 - 215 - 230; Cozinheiro - 150 - 160 - 170 - 180 - 195 - 210; Ajudante de cozinha - 125 - 135 - 145 - 155 - 165 - 175».
+No grupo de pessoal auxiliar, onde se lê «Chefe de armazém/encarregado do armazém» deve ler-se «Chefe de armazém/encarregado de armazém».
+No grupo de pessoal auxiliar, na coluna de observações da categoria de chefe de armazém/encarregado de armazém, onde se lê «Categoria com o mesmo desenvolvimento» deve ler-se «Categorias com o mesmo desenvolvimento».
+No grupo de pessoal auxiliar, nos escalões correspondentes à categoria de chefe de economato, onde se lê «270 - 280 - 290 - 300» deve ler-se «260 - 270 - 280 - 290» e na coluna de observações da referida categoria, actualmente sem comentários, deve fundir-se com a observação da categoria de chefe de armazém/encarregado de armazém.
+No grupo de pessoal auxiliar, onde se lê «Encarregado de armazém (2)» deve ler-se «Encarregado de armazéns (2)».
+No grupo de pessoal auxiliar, na coluna de observações da categoria de preparador de anatomia patológica auxiliar, onde se lê «Categoria com o mesmo desenvolvimento» deve ler-se «Categorias com o mesmo desenvolvimento».
+No grupo de pessoal auxiliar, na categoria de radiologista auxiliar, a coluna de observações, actualmente sem comentários, deve fundir-se com a observação da categoria de preparador de anatomia patológica auxiliar.
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Setembro de 1999. - Pelo Secretário-Geral, a Secretária-Geral-Adjunta, Iolanda Oliveira.
