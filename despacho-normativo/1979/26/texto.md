@@ -1,0 +1,8 @@
+Despacho Normativo n.º 26/79
+Determino que no Despacho Normativo n.º 275/78, de 19 de Setembro, publicado no Diário da República, 1.ª série, n.º 235, de 12 de Outubro de 1978, sejam introduzidas as seguintes alterações:
+1 - O n.º 8 do referido despacho normativo passa a ter a seguinte redacção:
+8 - Poderá concorrer à categoria de assessor da respectiva carreira o pessoal de categoria remunerada pela letra E com, pelo menos, seis anos de serviço nessa categoria ou, pelo menos, nove anos de serviço acumulado em categorias remuneradas pelas letras E e F, o pessoal de categoria remunerada pela letra F com, pelo menos, nove anos de serviço nessa categoria e o pessoal de categorias remuneradas pelas letras E e F com, pelo menos, vinte anos de serviço na carreira.
+2 - São aditados ao referido despacho normativo os números seguintes:
+16 - O pessoal com as condições exigidas pelos n.os 8 e 9 poderá antecipadamente ser submetido, desde que o requeira, à avaliação curricular mencionada no n.º 7, se se encontrar na situação de ser aposentado, por imposição do limite de idade, em data anterior à da concretização do concurso previsto no mesmo n.º 7.
+17 - O pessoal com as condições exigidas pelos n.os 8 e 9 poderá antecipadamente ser submetido, desde que o requeira, à avaliação curricular mencionada no n.º 7, se tiver requerido a sua aposentação, com base em incapacidade física, em data anterior à da concretização do concurso previsto no mesmo n.º 7, com a condição do provimento resultante dessa avaliação ser anulado se a entidade legalmente competente não conceder a aposentação requerida.
+Ministério da Agricultura e Pescas, 16 de Janeiro de 1979. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.
