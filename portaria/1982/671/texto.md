@@ -1,0 +1,7 @@
+Portaria n.º 671/82
+de 7 de Julho
+Considerando que o Serviço Nacional de Protecção Civil, criado pelo Decreto-Lei n.º 78/75, de 22 de Fevereiro, só recentemente foi estruturado, com a aprovação da sua lei orgânica pelo Decreto-Lei n.º 510/80, de 25 de Outubro, pelo que não se encontra preenchido convenientemente o seu quadro de pessoal;
+Considerando ser da máxima urgência preencher o lugar de director de serviços da Direcção dos Serviços de Planeamento e Operações de Protecção Civil para uma actuação pronta deste Serviço Nacional no âmbito das suas atribuições;
+Considerando o disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 25 de Junho:
+Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional e da Reforma Administrativa, alargar a área de recrutamento para o preenchimento do lugar de director de serviços da Direcção dos Serviços de Planeamento e Operações de Protecção Civil, do quadro de pessoal anexo ao Decreto-Lei n.º 510/80, de 25 de Outubro, a técnico superior de 1.ª classe em desempenho efectivo de funções correspondentes ao lugar a prover, há mais de 1 ano, devendo o despacho da nomeação ser acompanhado, para publicação, de currículo do nomeado.
+Ministérios da Defesa Nacional e da Reforma Administrativa, 25 de Junho de 1982. - Pelo Ministro da Defesa Nacional, Carlos José Sanches Vaz Pardal, Secretário de Estado da Defesa Nacional. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
