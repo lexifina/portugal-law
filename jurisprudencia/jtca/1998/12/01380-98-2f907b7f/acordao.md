@@ -1,0 +1,25 @@
+# Acórdão do Tribunal Central Administrativo Sul de 1998-12-17, processo 01380/98
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 01380/98
+
+**Secção:** Secção do Contencioso Administrativo - Tribunal Central Administrativo
+
+**Data do Acordão:** 12/17/1998
+
+**Relator:** António São Pedro
+
+**Descritores:** PODER DISCRICIONÁRIO; PODER VINCULADO; ERRO NOS PRESSUPOSTOS DE FACTO; DESVIO DE PODER
+
+**Aditamento:** 1
+
+## Sumário
+
+1. É discricionário o poder exercido pela Administração ao definir as situações excepcionais em que pode ser praticado um horário em regime de "jornada contínua" (artigo 15°, n.0 4° do Dec. Lei 187/88, de 27/05). Ainda que a Administração, através de um Regulamente Interno, tenha determinado genericamente os casos a que se aplica o horário em regime de jornada contínua, não afasta a possibilidade de, caso a caso, e por "razões excepcionais" devidamente fundamentadas atribuir tal regime de horário.
+
+2. O erro nos pressupostos de facto ocorrido em acto praticado no exercício do poder discricionário é
+
+um vício autónomo que se traduz na escolha de motivos de facto constantes da fundamentação do acto, que não sejam verdadeiros (divergência entre os motivos de factos e a verdade). Não existe erro de facto no despacho que se fundamenta no facto do interessado não pertencer ao pessoal dos laboratórios, nem ter feito uma declaração escrita de disponibilidade para dar apoio em dois serviços distintos, se, esse interessado não integra o pessoal dos laboratórios e se limitou a fazer uma declaração por escrito manifestando a sua disponibilidade para apenas um dos serviços.
+
+3. O desvio do poder consiste na prática de um acto visando uma finalidade não consentida na lei. Não existe desvio do poder se a Administração faz cessar um horário em regime de jornada contínua (das 8 às 14 horas), porque pretendia que o interessado tivesse a parte da tarde disponível para se dedicar a um dos serviços inerentes às suas atribuições. Os prejuízos que o interessado possa ter decorrentes da alteração do horário, embora sejam sempre sua consequência, só fundamentariam o vicio de desvio do poder se tivessem sido a causa determinante do acto, isto é, se a Administração praticasse o acto com o fim de causar prejuízos ao interessado.
