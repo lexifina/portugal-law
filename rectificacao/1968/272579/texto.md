@@ -1,0 +1,13 @@
+Rectificação
+Tendo sido publicado com inexactidão no Diário do Governo n.º 84, 1.ª série, de 8 de Abril findo, pelo Ministério do Ultramar, Direcção-Geral da Educação, o Decreto n.º 48324, determino que se faça a seguinte rectificação:
+No mapa C a que se refere o artigo 3.º, onde se lê:
+Pessoal assalariado:
+...
+6 auxiliares de administração de 3.ª classe ... U
+...
+deve ler-se:
+Pessoal assalariado
+...
+6 auxiliares de administração de 3.ª classe ... V
+...
+Presidência do Conselho, 24 de Maio de 1968. - O Presidente do Conselho, António de Oliveira Salazar.
