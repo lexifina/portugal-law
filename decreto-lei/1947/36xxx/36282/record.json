@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1947/05/11100/04260426.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1947-05-16",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "71d01a3e0f307b66ae85794668616575430bdbc2bb0a190b0cd22258842008ab",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.4,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "e6a62d818bb90be911ad975da3cc42b813c3007654e016c9b662b20ca8b60452",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 236
 }
