@@ -1,0 +1,9 @@
+Aviso n.º 59/91
+Por ordem superior se torna público que, por nota de 1 de Março de 1991 e nos termos do artigo 31.º da Convenção sobre o Reconhecimento dos Divórcios e das Separações de Pessoas, concluída na Haia a 1 de Junho de 1990, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter o Luxemburgo depositado o seu instrumento de ratificação da mesma Convenção em 13 de Fevereiro de 1991 e nos termos do artigo 26.º, parágrafo 2.º
+O instrumento de ratificação contém a seguinte reserva:
+Peut ne pas être reconnu un divorce ou une séparation de corps entre deux époux qui, au moment ou il a été acquis, avaient exclusivament la nationalité luxembourgeoise lorsqu'une loi autre que celle désignée par la règle luxembourgeoise de droit international privé a été appliquée, à moins que cette application n'ait abouti au même résultat que si l'on avait observé cette dernière loi.
+Tradução:
+Pode não ser reconhecido um divórcio ou uma separação de pessoas entre dois cônjuges que, no momento em que foi declarado, tinham exclusivamente a nacionalidade luxemburguesa, desde que uma lei diferente da declarada competente pela regra luxemburguesa de direito internacional privado tenha sido aplicada, a menos que dessa aplicação resulte o mesmo que se se tivesse observado esta última lei.
+Nos termos do artigo 27.º, parágrafo 2.º, a Convenção entra em vigor para o Luxemburgo em 14 de Abril de 1991.
+Portugal é Parte na mesma Convenção, que foi aprovada para ratificação pela Resolução da Assembleia da República n.º 23/84, de 27 de Novembro, tendo depositado o seu instrumento de ratificação em 10 de Maio de 1985, conforme aviso publicado no Diário da República, 1.ª série, n.º 164, de 19 de Julho de 1985, e encontrando-se a Convenção em vigor para Portugal desde 9 de Julho de 1985.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 21 de Março de 1991. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
