@@ -1,0 +1,6 @@
+Aviso n.º 124/99
+Por ordem superior se torna público que, por nota de 28 de Julho de 1999, o Secretário-Geral das Nações Unidas, na qualidade de depositário da Convenção das Nações Unidas contra o Tráfico Ilícito de Estupefacientes e Substâncias Psicotrópicas, concluída em Viena em 20 de Dezembro de 1988, comunicou ter o Governo de Portugal, nos termos do artigo 7.º, parágrafo 8, da Convenção, notificado que a autoridade do território de Macau designada para dar cumprimento às obrigações impostas pela Convenção é a seguinte:
+Ministério Público de Macau, Praceta de 25 de Abril, Macau [telefone: (853) 326736; fax: (853) 326747].
+Portugal é parte na Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 29/91, publicada no Diário da República 1.ª série-A, n.º 205, de 6 de Setembro de 1991, e estendida a Macau pelo Decreto do Presidente da República n.º 29/98, de 14 de Julho, publicado no Diário da República, 1.ª série-A, n.º 160, de 14 de Julho de 1998, e no Boletim Oficial de Macau, 1.ª série, n.º 13, de 29 de Março de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 26 de Agosto de 1999. - António Nunes de Carvalho Santana Carlos.
