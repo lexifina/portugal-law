@@ -1,0 +1,3 @@
+Aviso n.º 319/96
+Por ordem superior se torna público que o Turquemenistão declarou, em 4 de Junho de 1996, suceder à ex-União das Repúblicas Socialistas Soviéticas no que se refere à Convenção Regional sobre o Reconhecimento de Estudos, Diplomas e Graus do Ensino Superior na Ásia e no Pacífico, adoptada em 16 de Dezembro de 1993, e à Convenção sobre o Reconhecimento de Estudos e Diplomas Relativos ao Ensino Superior nos Estados da Região Europa, adoptada em 21 de Dezembro de 1979.
+Direcção de Serviços das Organizações Políticas Internacionais, 3 de Setembro de 1996. - O Director de Serviços, João José Caetano da Silva.
