@@ -1,0 +1,5 @@
+Portaria n.º 18842
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § único do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, conjugado com o artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, e alínea e) do artigo 3.º do mesmo diploma, com a redacção que lhe foi dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, reforçar com a quantia de 300000$00 a verba do capítulo 10.º, artigo 464.º, n.º 4), alínea b), 1.ª «Encargos gerais - Deslocações do pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - Na metrópole», da tabela de despesa ordinária do orçamento geral do Estado da Índia para o corrente ano, tomando como contrapartida o excesso de cobrança sobre a previsão da verba do capítulo 2.º, artigo 11.º «Impostos directos - Direitos de importação», do orçamento da receita ordinária em vigor.
+Ministério do Ultramar, 27 de Novembro de 1961. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial do Estado da Índia. - J. Costa Freitas.
