@@ -1,0 +1,9 @@
+Decreto-Lei n.º 44051
+Verificando-se que o serviço de secretaria do Governo Civil do distrito autónomo de Angra do Heroísmo tem tido grande incremento nos últimos anos, pelo que se justifica igualar o respectivo quadro do pessoal de carteira ao da generalidade das secretarias dos governos civis de distritos de 2.ª ordem;
+Tornando-se necessário que a guarda e conservação do palácio do Governo Civil do mesmo distrito e do valioso património mobiliário que nele se contém se confiem à responsabilidade permanente de serventuário próprio;
+Considerando o parecer favorável da Junta Geral, que terá de suportar as despesas derivadas dos novos cargos;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É criado um lugar de aspirante no quadro do pessoal maior da secretaria do Governo Civil do distrito autónomo de Angra do Heroísmo.
+Art. 2.º Além do lugar de porteiro, a que se refere o artigo 32.º da lei orgânica aprovada pelo Decreto-Lei n.º 30214, de 22 de Dezembro de 1939, poderá ser assalariado permanentemente um vigilante do palácio do Governo Civil do distrito autónomo de Angra do Heroísmo, com a remuneração que vier a ser fixada pelo Ministro do Interior, sob proposta do governador do distrito.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 22 de Novembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
