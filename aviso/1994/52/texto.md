@@ -1,0 +1,6 @@
+Aviso n.º 52/94
+Por ordem superior se torna público que o Governo das ilhas Baamas depositou o seu instrumento de adesão à Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980, junto do Ministério dos Negócios Estrangeiros do Reino dos Países Baixos em 1 de Outubro de 1993.
+Em conformidade com o artigo 38, parágrafo 3, a Convenção entrou em vigor para as ilhas Baamas em 1 de Janeiro de 1994.
+A adesão só produzirá efeitos nas relações entre as ilhas Baamas e os Estados contratantes que aceitarem aquela adesão.
+Relativamente a Portugal, a Convenção foi aprovada, para ratificação, pelo Decreto do Governo n.º 33/83, conforme Diário da República, 1.ª série, n.º 108, de 11 de Agosto de 1983. O depósito do instrumento de ratificação foi feito em 29 de Setembro de 1983, conforme Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984. A autoridade central portuguesa é a Direcção-Geral dos Serviços Judiciários (Diário da República, 1.ª série, n.º 165, de 20 de Junho de 1985).
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 18 de Janeiro de 1994. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
