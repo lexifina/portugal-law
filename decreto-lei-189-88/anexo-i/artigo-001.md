@@ -14,4 +14,4 @@ b) Ao director-geral da Energia, no caso de instalações com potência até 1 M
 
 2 - Para efeitos do disposto no número anterior, o interessado deverá apresentar o respectivo pedido na DGE, o qual será acompanhado do projecto das instalações e demais elementos previstos no presente Regulamento e demais disposições aplicáveis.
 
-3 - No caso de aproveitamentos hidroeléctricos, a autorização prevista neste artigo só será concedida depois de obtida a autorização para utilização da água, nos termos do Decreto-Lei n.º 46/94, de 22 de Fevereiro.
+3 - (Revogado.)
