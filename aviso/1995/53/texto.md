@@ -1,0 +1,5 @@
+Aviso n.º 53/95
+Por ordem superior se torna público que o representante permanente da República Portuguesa em Estrasburgo depositou junto do Secretário-Geral do Conselho da Europa, a 27 de Janeiro de 1995, o instrumento de ratificação do Protocolo Adicional à Convenção Europeia de Auxílio Mútuo em Matéria Penal, aberto à assinatura dos Estados membros do Conselho da Europa a 17 de Março de 1978, assinado por Portugal a 12 de Agosto de 1980 e aprovado, para ratificação, pela Resolução da Assembleia da República n.º 49/94, de 17 de Março, publicada no Diário da República, n.º 186, de 12 de Agosto de 1994.
+A 27 de Janeiro de 1995 eram os seguintes os Estados que ratificaram o referido Protocolo: Áustria, Bulgária, Dinamarca, Finlândia, França, Alemanha, Grécia, Hungria, Islândia, Itália, Países Baixos, Noruega, Espanha, Suécia, Turquia e Reino Unido.
+O Protocolo Adicional à Convenção Europeia de Auxílio Mútuo em Matéria Penal entrará em vigor para Portugal a 27 de Abril de 1995.
+Direcção-Geral dos Assuntos Multilaterais, 9 de Fevereiro de 1995. - A Directora de Serviços das Organizações Políticas Internacionais, Ana Maria Marques Martinho.
