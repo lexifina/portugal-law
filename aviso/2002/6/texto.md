@@ -1,0 +1,9 @@
+Aviso n.º 6/2002
+Por ordem superior se torna público que, por nota de 21 de Novembro de 2001, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a República da Letónia, nos termos do artigo 45.º, depositado, em 15 de Novembro de 2001, o seu instrumento de adesão à Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980.
+De acordo com o artigo 38.º, terceiro parágrafo, a Convenção entrará em vigor para a República da Letónia em 1 de Fevereiro de 2002. Em conformidade com o artigo 38.º, quarto parágrafo, a adesão apenas surtirá efeitos entre a República da Letónia e os Estados Contratantes que tenham declarado aceitar esta adesão.
+Com o depósito do instrumento de ratificação, a República da Letónia emitiu as seguintes reserva e declaração:
+«Em conformidade com o disposto no artigo 42.º e no artigo 43.º, segunda alínea, da Convenção, a República da Letónia declara que aceitará unicamente o uso da língua inglesa em todos os pedidos, comunicações ou outros documentos dirigidos à sua autoridade central.
+Em conformidade com o artigo 6.º da Convenção, a República da Letónia declara que a autoridade central é a seguinte:
+National Center for the Rights of the Child, Brivibas iela 85, Riga, LV-1001, Latvia (telefone:+3717315700; fax:+3717314914; e-mail: centrs@vbtac.lv).»
+Portugal é Parte na Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 33/83, de 11 de Maio, tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 254, de 4 de Novembro de 1983. A autoridade central em Portugal é o Instituto de Reinserção Social, conforme aviso publicado no Diário da República, 1.ª série, n.º 46, de 24 de Fevereiro de 1997.
+Departamento de Assuntos Jurídicos, 10 de Janeiro de 2002. - O Director de Serviços, António Vilhena de Carvalho.
