@@ -12,4 +12,6 @@
 
 5 - É proibida a utilização de artes de arrastar e emalhar.
 
-6 - Na área da Reserva Natural é proibida a prática da caça submarina, a captura do mero Epinephelus marginatus, bem como a apanha de algas e de invertebrados marinhos, em particular de moluscos, equinodermes e crustáceos.
+6 - Na área da Reserva Natural é proibida a prática da caça submarina, a captura do mero Epinephelus marginatus e a apanha de algas.
+
+7 - A apanha do percebe Pollicipes pollicipes na área da Reserva Natural das Berlengas é estabelecida em regulamento, a aprovar por portaria conjunta dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.

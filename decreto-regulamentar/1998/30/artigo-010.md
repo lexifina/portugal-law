@@ -20,7 +20,7 @@ g) A remoção e ou dano de quaisquer substratos marinhos;
 
 h) O lançamento de águas residuais de uso doméstico e outras susceptíveis de causarem poluição no mar, no solo ou no subsolo;
 
-i) A prática de actividades susceptíveis de perturbar e deteriorar os factores naturais da área localizada entre as Buzinas e a Pedra Negra no período compreendido entre 1 de Fevereiro e 1 de Julho, nomeadamente o trânsito ou permanência de qualquer embarcação no período compreendido entre 1 de Fevereiro e 1 de Julho a uma distância inferior a 250 m da linha de costa;
+i) A prática de actividades susceptíveis de perturbar e deteriorar os factores naturais da área localizada entre as Buzinas e a Pedra Negra, nomeadamente a navegação de embarcações de recreio com motor no Carreiro Maldito e no rio da Poveira, no período compreendido entre 1 de Fevereiro e 1 de Julho;
 
 j) A prática de actividades desportivas susceptíveis de provocarem poluição ou ruído ou de deteriorarem os factores naturais da área, nomeadamente a motonáutica competitiva e a utilização de motos de água e similares;
 
@@ -30,7 +30,7 @@ m) A permanência de embarcações atracadas nos cais do Carreiro do Mosteiro e 
 
 n) A utilização de aparelhos de amplificação sonora e receptores de radiodifusão, excepto quando usados no interior dos edifícios e das embarcações, desde que não sejam audíveis do exterior, ou quando usados como objectos estritamente militares ou de sinalização sonora de auxílio à navegação;
 
-o) A utilização de quaisquer veículos terrestres motorizados e de motores, com excepção dos adstritos às actividades da Reserva Natural, Câmara Municipal de Peniche, Direcção de Faróis e outros serviços públicos;
+o) A utilização de quaisquer veículos terrestres motorizados e de motores de combustão na área terrestre da Reserva, com excepção dos adstritos às actividades da Reserva Natural, da Câmara Municipal de Peniche, Direcção de Faróis e outros serviços públicos;
 
 p) A prática de foguear, excepto nas áreas com infra-estruturas a isso destinadas;
 
