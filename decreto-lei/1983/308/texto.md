@@ -1,0 +1,18 @@
+Decreto-Lei n.º 308/83
+de 1 de Julho
+Considerando de inteira justiça que aos familiares dos militares e dos funcionários e agentes do Estado e das demais pessoas colectivas de direito público falecidos na efectividade de serviço, quando ausentes do País ou do seu domicílio necessário, consoante os casos, por razões de serviço, seja garantido o pagamento das despesas respeitantes à transladação dos seus corpos ou cinzas:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º O presente diploma aplica-se aos militares e aos funcionários e agentes da administração central e local e dos institutos públicos nas modalidades de serviços personalizados e de fundos públicos.
+Art. 2.º - 1 - Em relação ao pessoal referido no artigo anterior que vier a falecer na efectividade de serviço, as pessoas com legitimidade para requerer, nos termos do artigo 255.º do Código de Registo Civil, a transladação dos respectivos corpos ou cinzas serão compensadas de todas as despesas normais efectuadas com aquela, entre outras com a urna e seu transporte, do seguinte modo:
+a) Relativamente aos militares e aos funcionárias e agentes colocados no estrangeiro, desde que o óbito aí tenha ocorrido e a transladação se faça para a localidade escolhida pelos interessados em território nacional;
+b) Relativamente ao restante pessoal, desde que o óbito tenha ocorrido em localidade diferente da do seu domicílio necessário, donde se encontravam deslocados em serviço, e a transladação se faça para localidade escolhida pelos interessados em território nacional.
+2 - O conceito de domicílio necessário, referido no número anterior, encontra-se definido no artigo 87.º do Código Civil.
+Art. 3.º - 1 - A compensação prevista no artigo 2.º será feita mediante requerimento do interessado, dirigido ao chefe do estado-maior do respectivo ramo das Forças Armadas se se tratar de militares ou ao director-geral ou entidades equiparadas caso se trate do restante pessoal, sendo inacumulável com o subsídio de funeral previsto nas normas em vigor.
+2 - As despesas respeitantes à transladação poderão ser pagas antecipadamente às pessoas com legitimidade para os requerer ou directamente à empresa ou serviço encarregado da mesma, mediante regulamentação interna de cada ramo das Forças Armadas, a definir pelos respectivos chefes de estado-maior, no caso de se tratar de militares ou através de despacho do Primeiro-Ministro caso se trate do restante pessoal.
+Art. 4.º As despesas com a transladação serão custeadas, tratando-se de militares, pelo respectivo ramo das Forças Armadas e pelas direcções-gerais ou organismos equiparados no respeitante ao restante pessoal.
+Visto e aprovado em Conselho de Ministros de 12 de Maio de 1983. - Gonçalo Pereira Ribeiro Teles - Carlos José Sanches Vaz Pardal - João Maurício Fernandes Salgueiro - José Ângelo Ferreira Correia António Jorge de Figueiredo Lopes.
+Promulgado em 7 de Junho de 1983.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 8 de Junho de 1983.
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
