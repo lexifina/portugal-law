@@ -1,0 +1,27 @@
+Despacho Normativo n.º 12/96
+Apoios destinados a minorar graves situações de carência das vítimas das cheias, inundações e temporais
+Na sequência da publicação do Decreto-Lei n.º 11/96, de 29 de Fevereiro, e da Resolução do Conselho de Ministros n.os 41/96, da mesma data, determina-se o seguinte:
+1 - O Serviço Nacional de Protecção Civil (SNPC) estudará e apreciará, nos termos estabelecidos no presente despacho normativo, os pedidos de apoio apresentados por pessoas singulares ou agregados familiares que, em consequência das cheias, inundações e temporais ocorridos no período de 25 de Dezembro de 1995 até 15 de Fevereiro de 1996, tenham sido colocados em situação de carência grave.
+2 - Estes apoios serão atribuídos até ao montante global de 300000000$00, a liquidar pela conta especial de emergência, constituída ao abrigo do Decreto-Lei n.º 231/86, de 14 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 11/96, de 29 de Fevereiro.
+3 - Os apoios a atribuir no âmbito deste despacho normativo destinam-se a pessoas singulares e agregados familiares de baixos recursos económicos, vítimas das situações descritas e que tenham ficado em situação de grande dificuldade para normalização das suas condições de vida.
+4 - Podem justificar a atribuição de apoio os danos totais ou parciais sofridos na primeira habitação e seu recheio, bem como as perdas de salário por motivo de os carenciados viverem em povoações que sofreram isolamento prolongado, derivado de situações de inundação e que não tenham sido compensadas por qualquer outro sistema de apoio, ou ainda de instrumentos de trabalho.
+5 - São expressamente excluídos da concessão de qualquer apoio, no âmbito deste despacho normativo, todos os bens não incluídos no número anterior.
+6 - Os pedidos de apoio serão formulados pelos requerentes em impresso próprio, elaborado pelo SNPC e colocado gratuitamente nos governos civis, câmaras municipais e juntas de freguesia através das delegações distritais de protecção civil.
+7 - O impresso referido no número anterior deve ser integralmente preenchido pelo requerente, na parte aplicável, e completado com a anexação dos seguintes documentos:
+7.1 - Documentos obrigatórios para todos os requerentes:
+Fotocópia do bilhete de identidade;
+Fotocópia do cartão de contribuinte;
+Fotocópia da declaração de IRS referente a 1994 (todas as páginas) ou declaração das finanças competente, certificando a não apresentação daquela declaração por não haver lugar à mesma;
+7.2 - Documentos a apresentar quando o pedido se baseie em danos em edificações:
+Fotocópia da caderneta predial da propriedade atingida;
+Quando não seja possível obter o documento anterior, pode ser apresentada declaração do próprio sobre a titularidade da edificação, sob compromisso de honra e autenticada pelo presidente da junta de freguesia.
+8 - O processo, depois de completamente instruído, deve ser presente ao presidente da junta de freguesia onde a habitação atingida se situa até 30 de Abril de 1996.
+9 - O presidente da junta de freguesia completa o preenchimento na parte aplicável, devendo o processo ser enviado à câmara municipal até 15 de Maio de 1996.
+10 - O presidente da câmara municipal completa o preenchimento na parte aplicável, remetendo o processo para o governo civil até 31 de Maio de 1996.
+11 - O governador civil dispõe de 20 dias, contados consecutivamente, para confirmar e eventualmente esclarecer todo o processo, designadamente no que se refere às suas condições de admissibilidade e à data de ocorrência do prejuízo invocado, nos termos do disposto nos números anteriores, ouvido o chefe da delegação distrital de protecção civil, sendo os processos admitidos enviados, de imediato, ao SNPC e os restantes devolvidos às câmaras municipais, com sumária indicação dos motivos da rejeição.
+12 - Todos os processos deverão dar entrada no SNPC até 30 de Junho de 1996, fazendo fé a data do correio ou a data de recepção no SNPC quando a entrega for feita em mão.
+13 - Os pedidos serão analisados no SNPC de forma global, sendo os apoios atribuídos de uma única vez e remetidos a cada governador civil, acompanhados de listagem de beneficiários e correspondentes valores dos apoios a atribuir.
+14 - Não serão liquidados apoios, no âmbito deste despacho normativo, de montante inferior a metade do valor do salário mínimo nacional nem superior ao valor de 25 salários mínimos nacionais, à data de 1 de Março, tal como consta do modelo do impresso de declaração de danos e pedido de apoio.
+15 - O critério de aferição do preenchimento dos requisitos dos baixos recursos económicos, referidos no n.º 3, e ainda dos apoios por motivo de perdas de salários, bem como a tabela de valorização, ambos referidos no n.º 4 deste despacho normativo, serão aprovados por despacho do presidente do SNPC.
+16 - Será dado conhecimento às autoridades policiais ou judiciais de todos os casos em que se verifiquem indícios de declarações fraudulentas, sendo suspensa a atribuição de quaisquer apoios no âmbito deste despacho normativo.
+Ministério da Administração Interna, 8 de Março de 1996. - O Ministro da Administração Interna, Alberto Bernardes Costa.
