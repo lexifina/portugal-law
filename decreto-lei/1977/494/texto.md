@@ -1,0 +1,18 @@
+Decreto-Lei n.º 494/77
+de 25 de Novembro
+Tornando-se necessário regular a forma de proceder à cobrança coerciva das taxas devidas aos serviços da Direcção-Geral de Saúde por motivos sanitários:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º A cobrança das taxas em dívida à Direcção-Geral de Saúde, qualquer que seja a sua proveniência e forma de liquidação e cobrança, quando não pagas no prazo de cobrança à boca do cofre ou no prazo fixado no aviso ou carta-postal registada, far-se-á pelo processo das execuções fiscais através dos Serviços de Justiça Fiscal.
+Art. 2.º - 1 - O processo terá por base certidão passada pelos serviços ou entidades competentes, nos termos da legislação respectiva, e da qual constem os elementos seguintes:
+a) Indicação do preceito ou preceitos legais que conferem competência à entidade participante para formular a participação;
+b) Nome ou denominação e domicílio ou sede do devedor, consoante se trate, respectivamente, de pessoa singular ou colectiva;
+c) Proveniência da dívida e indicação, por extenso, do seu montante;
+d) Data a partir da qual são devidos juros de mora;
+e) Data em que a própria participação é formulada;
+f) Assinatura da entidade participante, devidamente autenticada com o selo branco ou carimbo do serviço respectivo.
+2 - A mora do devedor, a que alude a alínea d) do número anterior, conta-se a partir da data em que aquele, avisado por escrito para efectuar o pagamento da taxa, não promova tal pagamento por causa que lhe seja imputável.
+Art. 3.º O disposto no presente diploma aplica-se, salva a hipótese de prescrição, a todas as taxas actualmente em dívida.
+Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Armando Bacelar.
+Promulgado em 15 de Novembro de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
