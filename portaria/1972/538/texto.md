@@ -1,0 +1,8 @@
+Portaria n.º 538/72
+de 18 de Setembro
+Reconhecendo-se que podem suscitar-se dúvidas quanto à aplicação da regra que se contém na observação c) à Portaria n.º 632/71, de 19 de Novembro;
+Considerando que idêntico problema surge em todos os casos em que a pensão ou parte dela é diferida, designadamente nos casos expressamente previstos na lei, e não apenas nos da mencionada observação c) da Portaria n.º 632/71:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, nos termos do artigo 1.º, § único, do Decreto-Lei n.º 26095, de 23 de Novembro de 1935, estabelecer as seguintes regras para boa execução da Portaria n.º 632/71, de 19 de Novembro:
+1.º Serão calculadas de harmonia com a observação c) à referida portaria as reservas matemáticas das pensões de acidentes de trabalho e doenças profissionais, não só nos casos em que o tribunal do trabalho suspenda a pensão, mas também naqueles em que, por alteração da pensão a partir de certa idade, seja diferida no tempo a parte acrescida;
+2.º A Inspecção-Geral de Crédito e Seguros prestará a sua colaboração aos tribunais do trabalho para o cálculo das reservas matemáticas das pensões de acidentes de trabalho e doenças profissionais, sempre que os referidos tribunais ou os respectivos agentes do Ministério Público o solicitem, enviando à Inspecção-Geral, para esse efeito, os elementos necessários (sexo, idade e grau de parentesco dos pensionistas em relação ao sinistrado, montantes das pensões, com indicação de serem vitalícias ou temporárias, até que idade, neste último caso, e o prazo de diferimento).
+Ministério das Finanças, 6 de Setembro de 1972. - Pelo Ministro das Finanças, José Luís Sapateiro, Secretário de Estado do Tesouro.
