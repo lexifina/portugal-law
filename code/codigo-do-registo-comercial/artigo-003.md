@@ -10,7 +10,7 @@ b) A deliberação da assembleia geral, nos casos em que a lei a exige, para aqu
 
 c) A unificação, divisão e transmissão de quotas de sociedades por quotas, bem como de partes sociais de sócios comanditários de sociedades em comandita simples;
 
-d) A promessa de alienação ou de oneração de partes de capital de sociedades em nome colectivo e de sociedades em comandita simples, e de quotas de sociedades por quotas e os pactos de preferência, a que, em disposição de última vontade, o testador tenha atribuído igual eficácia;
+d) A promessa de alienação ou de oneração de partes de capital de sociedades em nome colectivo e de sociedades em comandita simples e de quotas de sociedades por quotas, bem como os pactos de preferência, se tiver sido convencionado atribuir-lhes eficácia real, e a obrigação de preferência a que, em disposição de última vontade, o testador tenha atribuído igual eficácia;
 
 e) A transmissão de partes sociais de sociedades em nome colectivo, de partes sociais de sócios comanditados de sociedades em comandita simples, a constituição de direitos reais de gozo ou de garantia sobre elas e a sua transmissão, modificação e extinção, bem como a penhora dos direitos aos lucros e à quota de liquidação;
 
@@ -30,9 +30,9 @@ m) A designação e cessação de funções, por qualquer causa que não seja o 
 
 n) A prestação de contas das sociedades anónimas e em comandita por acções, bem como das sociedades por quotas quando houver lugar a depósito;
 
-o) A mudança ou deslocação da sede da sociedade;
+o) A mudança da sede da sociedade;
 
-p) O projecto de fusão e de cisão de sociedades, a deliberação que o aprovar, a deliberação de redução do capital social da sociedade, bem como a deliberação de aumento do capital social de sociedades anónimas;
+p) O projecto de fusão e de cisão de sociedades e a deliberação que o aprovar, bem como a deliberação de redução do capital social da sociedade;
 
 q) A prorrogação, fusão, cisão, transformação e dissolução das sociedades, bem como o aumento, redução ou reintegração do capital social e qualquer outra alteração ao contrato de sociedade;
 

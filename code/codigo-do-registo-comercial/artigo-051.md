@@ -10,4 +10,4 @@
 
 4 - O imposto sobre as sucessões e doações presume-se assegurado desde que se mostre instaurado o respectivo processo de liquidação e dele conste a quota ou parte social a que o registo se refere.
 
-5 - Tendo havido inventário judicial, presume-se assegurado o pagamento dos direitos correspondentes às transmissões nele operadas.
+5 - Presume-se assegurado o pagamento dos direitos correspondentes às transmissões operadas em inventário judicial e em escrituras de doação, bem como às que tenham ocorrido há mais de vinte anos.
