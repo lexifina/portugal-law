@@ -1,0 +1,4 @@
+Aviso n.º 58/2001
+Por ordem superior se torna público que o Governo da Nigéria depositou, em 2 de Outubro de 2001, o seu instrumento de adesão à Convenção Relativa a Zonas Húmidas de Importância Internacional (RAMSAR-1971), tal como emendada pelo Protocolo de Paris (1982). Portugal é parte da mesma Convenção, tendo depositado o instrumento de ratificação à referida Convenção em 24 de Novembro de 1980 (Diário da República, 1.ª série, n.º 33, de 9 de Fevereiro de 1981) e adoptou as emendas do Protocolo de Paris através do Decreto-Lei n.º 33/83 (Diário da República, 1.ª série, n.º 158, de 10 de Maio de 1984).
+Nos termos do artigo 10.º (2), a Convenção tal como emendada pelo Protocolo entra em vigor na Nigéria a 2 de Fevereiro de 2001.
+Direcção-Geral dos Assuntos Multilaterais, 30 de Maio de 2001. - A Directora de Serviços das Organizações Económicas Internacionais, Liliana Araújo.
