@@ -1,0 +1,6 @@
+Resolução n.º 319/79
+Pela Resolução do Conselho de Ministros n.º 32/79, publicada no Diário da República, 1.ª série, n.º 24, de 29 de Janeiro de 1979, foi declarada a cessação do regime provisório de gestão a que se encontrava submetida a Livraria Moraes Editores, S. A. R. L.
+Constatando não ter a referida resolução enumerado as medidas de saneamento económico-financeiro que devem acompanhar a cessação da intervenção do Estado na gestão das empresas privadas, nos termos do Decreto-Lei n.º 422/76, de 29 de Maio;
+Considerando indispensável facultar à Livraria Moraes Editores, S. A. R. L., os instrumentos legais necessários à celebração de um contrato de viabilização, de acordo com o disposto no Decreto-Lei n.º 120/78, de 1 de Junho, o Conselho de Ministros, reunido em 17 de Outubro de 1979, resolveu:
+Conceder o prazo limite de quarenta e cinco dias, contados a partir da data de publicação da presente resolução, para a administração da Livraria Moraes Editores, S. A. R. L., apresentar à instituição bancária maior credora os elementos necessários à celebração de um contrato de viabilização, nos termos do disposto no Decreto-Lei n.º 124/77, de 1 de Abril, e demais legislação aplicável.
+Presidência do Conselho de Ministros, 17 de Outubro de 1979. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo.
