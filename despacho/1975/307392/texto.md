@@ -1,0 +1,5 @@
+Despacho
+Considerando que se encontra prestes a findar o prazo previsto na alínea c) do n.º 1 do artigo 14.º da Lei da Nacionalidade da República Popular de Moçambique, urge esclarecer o âmbito de aplicação dos artigos 1.º e 2.º do Decreto-Lei n.º 308-A/75, de 24 de Junho, com referência especial ao n.º 2 do primeiro preceito, sem prejuízo de ulterior correcção ou esclarecimento do diploma em apreço.
+Nesta conformidade, e ao abrigo do disposto no artigo 10.º do Decreto-Lei n.º 308-A/75, se determina o seguinte:
+Conservam a nacionalidade portuguesa todos os indivíduos nascidos em território ultramarino tornado independente e domiciliados fora dele que sejam descendentes até ao terceiro grau dos portugueses referidos nas alíneas a), c) e d), primeira parte, do n.º 1 do artigo 1.º do Decreto-Lei n.º 308-A/75, de 24 de Junho.
+Presidência do Conselho de Ministros e Ministério da Justiça, 8 de Setembro de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves. - O Ministro da Justiça, Joaquim Pinto da Rocha e Cunha.
