@@ -1,0 +1,9 @@
+Resolução n.º 165/77
+Considerando que, por despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia, publicado no Diário da República, 2.ª série, n.º 67, de 21 de Março de 1977, foi determinada a cessação do regime provisório de gestão instituído na Mevil - Metalomecânica Vila-Franquense, Lda., ao abrigo do Decreto-Lei n.º 597/75, de 28 de Outubro;
+Considerando que até à data não foi possível dar cumprimento ao despacho atrás referido, em virtude de sucessivas alterações da composição da comissão interministerial nomeada nos termos e para os efeitos do Decreto-Lei n.º 907/76, de 31 de Dezembro, para as empresas do grupo TMT, que deveria analisar simultaneamente a situação da Mevil e a sua possível associação com o referido grupo;
+Considerando que se impõe assegurar a continuidade do funcionamento da Mevil - Metalomecânica Vila-Franquense, Lda., a manutenção de cerca de 200 postos de trabalho e a colaboração com as comissões administrativas das empresas do grupo TMT e com a respectiva comissão interministerial;
+Considerando que se encontra preenchido o condicionalismo previsto no n.º 3 do artigo 1.º do Decreto-Lei n.º 76-C/75, de 21 de Fevereiro:
+O Conselho de Ministros, reunido em 15 de Junho de 1977, resolveu:
+a) Nomear administradores por parte do Estado na Mevil - Metalomecânica Vila-Franquense, Lda., ao abrigo do n.º 3 do artigo 1.º do Decreto-Lei n.º 76-C/75, de 21 de Fevereiro, o licenciado Manuel Bernardino Basílio e o engenheiro Eduardo José Rosa Guimarães Marques, que durante o regime provisório de gestão faziam parte da comissão de gestão;
+b) Aos administradores por parte do Estado agora nomeados caberá assegurar a gestão corrente da empresa até que, nos termos do despacho conjunto atrás referido, seja tomada uma decisão sobre o futuro da empresa.
+Presidência do Conselho de Ministros, 15 de Junho de 1977. - O Primeiro-Ministro, Mário Soares.
