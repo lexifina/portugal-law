@@ -18,6 +18,6 @@ d) Pela ilicitude superveniente do objecto contratual;
 
 e) Pela declaração de falência da sociedade.
 
-f) Pela perda de metade do capital social, nos termos do n.º 4 do artigo 35.º
+f) (Revogada).
 
-2 - No caso da dissolução imediata prevista nas alíneas a), c), d) e f) do n.º 1, podem os sócios deliberar, por maioria simples dos votos produzidos em assembleia, o reconhecimento da dissolução e, bem assim, pode qualquer sócio, sucessor de sócio, credor da sociedade ou credor de sócio de responsabilidade ilimitada, promover a justificação notarial da dissolução.
+2 - No caso da dissolução imediata prevista nas alíneas a), c) e d) do n.º 1, podem os sócios deliberar, por maioria simples dos votos produzidos em assembleia, o reconhecimento da dissolução, e, bem assim, pode qualquer sócio, sucessor de sócio, credor da sociedade ou credor de sócio de responsabilidade ilimitada promover a justificação notarial da dissolução.
