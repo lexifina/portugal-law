@@ -1,0 +1,4 @@
+Declaração
+Declara-se, para os devidos efeitos, que entre o original, arquivado nesta Secretaria-Geral, e o texto da declaração que aprova as tabelas de preços de arroz em casa e descascado para a campanha de 1961-1962, publicada pelo Ministério da Economia, Secretaria de Estado do Comércio, Comissão de Coordenação Económica, no Diário do Governo n.º 208, 1.ª série, de 7 do corrente mês, existe a seguinte divergência, que assim se rectifica:
+Onde se lê: «..., por despacho de S. Ex.ª o Subsecretário de Estado do Comércio de 16 do corrente mês, ...», deve ler-se: «..., por despachos de S. Ex.ª o Subsecretário de Estado do Comércio e de S. Ex.ª o Secretário de Estado do Comércio, respectivamente de 30 de Janeiro e 16 de Agosto de 1961, ...»
+Secretaria-Geral da Presidência do Conselho, 22 de Setembro de 1961. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
