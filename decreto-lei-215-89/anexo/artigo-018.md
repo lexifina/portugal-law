@@ -8,7 +8,7 @@
 
 # Artigo 18.º
 
-### Mais-valias e menos-valias - reinvestimento dos valores de realização
+### Mais-valias e menos-valias - Reinvestimentos dos valores de realização
 
 1 - O disposto no artigo 44.º do Código do IRC é aplicável, com as limitações indicadas nos números seguintes, não só às mais-valias e menos-valias no mesmo mencionadas, mas também às realizadas mediante transmissão onerosa de imobilizações financeiras, sempre que o respectivo valor de realização seja reinvestido, total ou parcialmente, no prazo mencionado naquele artigo, na aquisição, fabricação ou construção de elementos do activo imobilizado corpóreo, na aquisição de quotas ou acções de sociedades comerciais ou civis sob forma comercial com sede ou direcção efectiva em território português ou ainda em títulos do Estado Português.
 
@@ -24,7 +24,7 @@ c) Sem prejuízo do disposto no n.º 2, às transmissões onerosas de quotas, ac
 
 4 - Para beneficiarem do disposto no n.º 1, as quotas, acções ou títulos do Estado Português objecto do reinvestimento deverão permanecer na titularidade do adquirente até ao fim do segundo período de tributação posterior ao da sua aquisição, aplicando-se, com as necessárias adaptações, o disposto no n.º 5 do artigo 44.º do Código do IRC sempre que se verifique a sua transmissão antes dessa data, salvo em consequência de fusão ou cisão da sociedade participada.
 
-5 - No caso de se ter verificado transformação de sociedades por quotas em sociedades anónimas:
+5 - No caso de se ter verificado transformação de sociedades por quotas em sociedades anónimas ou de aquisição de valores mobiliários cuja propriedade tenha sido adquirida pelo sujeito passivo por incorporação de reservas ou por substituição daqueles, designadamente por alteração do seu valor nominal ou modificação do objecto social da sociedade emitente:
 
 a) Considera-se data de aquisição das acções para efeitos do disposto na alínea a) do n.º 3 a data de aquisição das quotas que lhes deram origem;
 
