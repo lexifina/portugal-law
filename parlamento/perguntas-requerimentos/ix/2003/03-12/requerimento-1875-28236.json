@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ktYqpeS%2ft%2bZbliS4sHhftatFgOONJZv%2b0jwNSKIew1t0xo7wpSD4Wuod7wOpHm6JnVumY%2fcLg1QEJ6QuXOoI0mCZg8Now%2fNFrlqr4xaPyukQAb7VOIDJycUu8LgcqeBWkrLalvQbJNVVjYrmyeKurhYgJ88b%2bTAHUhqae0PG2tWw6wd9S%2fB1oSkkszdy9OWFhN3wUjxq5HmVweG9RQH09rl4k2N5tPgs%2fzprZm2tzFHnHSctshbR2DfX7RwTBfcB1zHFUq7rfF1ywAQTHCnkTEnmy8XmgIMFNpTZggbLiolv7UH6aQ9wXzrJpNDVBZQItckByiVODO72lKf0LysofiwVHTL6an5RgmBfpD1TjRRanKSw%2fu9%2bMNyeFb2ozzbOeEiwgdJpFNYQkXLYkgJujw%3d%3d&fich=RequerimentosIX_json.txt&Inline=true",
+  "ficheiro_sha256": "234acc6bf0a22a14e4ad1370daea559258a1b7960a20d3feebcabf91a9366690",
+  "legislatura": "IX",
+  "id": "28236",
+  "tipo": "Requerimento",
+  "numero": "1875",
+  "data_registo": "2003-03-12",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Plano de Ordenamento do Parque Natural do Vale do Guadiana",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "1864",
+        "nome": "Luís Miranda"
+      }
+    ],
+    "DataEnvio": "2003-03-18",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2003-03-18",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DAS CIDADES,  ORDENAMENTO DO TERRITÓRIO E  AMBIENTE",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2004-07-08",
+            "docRemetida": null,
+            "entidade": "MIN.  DAS CIDADES,  ORDENAMENTO DO TERRITÓRIO E  AMBIENTE",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077765a6a59774f57526a4d4755745a574a6c4e5330304d325a6d4c574a6a4f4445744e57513059575a6d4d54637a4d32466a4c6e426b5a673d3d&fich=f609dc0e-ebe5-43ff-bc81-5d4aff1733ac.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2003-03-12",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764e5455775a6d59324f4455744e6d55774e4330305a44466d4c57497a4e6d45744e7a64694e4751304f57566d4e324d344c6e426b5a673d3d&fich=550ff685-6e04-4d1f-b36a-77b4d49ef7c8.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "28236",
+    "Legislatura": "IX",
+    "Nr": "1875",
+    "Observacoes": "Comissão Técnica de Acompanhamento",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "277971",
+        "obs": "256-(9)",
+        "pag": [
+          "256-(9)-256-(9)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2003",
+        "pubLeg": "IX",
+        "pubNr": "37",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/037S1/2003-03-22/256-(9)?pgs=256-(9)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
