@@ -1,0 +1,59 @@
+# Acórdão do Supremo Tribunal de Justiça de 1987-06-30, processo 073469
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 073469
+
+**Nº Convencional:** JSTJ00012477
+
+**Relator:** AURELIO FERNANDES
+
+**Descritores:** INSTANCIA; CAUSA DE PEDIR; AMPLIAÇÃO DO PEDIDO; PEDIDO CIVEL; PEDIDO PRINCIPAL; REPLICA; COLIGAÇÃO PASSIVA; LITISCONSORCIO; CUMULAÇÃO DE PEDIDOS; LETRA; ACEITANTE; SACADOR; ENDOSSO; MUTUO; DESCONTO BANCARIO; CONCEITO; DESCONTARIO; DESCONTADOR; BANCO; USURA; DAÇÃO EM PAGAMENTO; RELAÇÃO CAMBIARIA; OBRIGAÇÃO SUBJACENTE; PRESCRIÇÃO; PRAZO; SOLIDARIEDADE
+
+**Nº do Documento:** SJ198706300734691
+
+**Data do Acordão:** 06/30/1987
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** NEGADA A REVISTA.
+
+**Indicações Eventuais:** V SERRA RLJ ANO106 PAG329. F OLAVO DESCONTO BANCARIO PAG172 PAG173.; V SERRA RLJ ANO101 P350 ANO103 P442. F CORREIA LIÇ DIR COM V3 P52.
+
+**Área Temática:** DIR PROC CIV.; DIR COM - TIT CREDITO. DIR CIV - TEORIA GERAL.
+
+## Sumário
+
+I - Citado o reu, a instancia deve manter-se a mesma quanto as pessoas, ao pedido e a causa de pedir, salvo as possibilidades de modificação consideradas na lei.
+
+II - O pedido e a causa de pedir podem ser alterados ou ampliados na replica, ainda que falte o acordo das partes.
+
+III - A coligação passiva verifica-se quando se demandar conjuntamente varios reus por pedidos diferentes.
+
+Resulta da combinação da pluralidade de litigantes com a cumulação de pedidos.
+
+IV - Nada impede que se formule um pedido principal com base em causas de pedir diversas.
+
+V - Na demanda de mais que um reu com um pedido unico, havendo apenas divergencias quanto aos pedidos acessorios, o facto destes serem diferentes não e suficiente para caracterizar uma verdadeira coligação de reus.
+
+VI - Trata-se, nesta hipotese de litisconsorcio passivo, com a particularidade de serem diferentes os pedidos acessorios formulados contra os respectivos litisconsortes.
+
+VII - Tendo sido os reus demandados um como aceitante e o outro como sacador das letras accionadas, e alterando o autor, na replica a causa de pedir, fundamentando o pedido nos contratos de mutuo bancario celebrados com o aceitante, não poderia haver fonte de solidariedade entre as duas obrigações - a cartular e a extracartular, so podendo cada um dos reus ser condenado de acordo com as causas de pedir contra ele invocado.
+
+VIII - O desconto bancario, na sua configuração, tipica, define-se como o contrato por virtude do qual o portador de uma letra (o descontario), mediante determinada remuneração, recebe do descontador (o banco descontante) o montante do seu credito cambiario sobre terceiro e que transita, por meio de endosso, todos os direitos dele emergentes.
+
+IX - Esta operação reconduz-se, assim, a um contrato misto de mutuo retribuido ou usura e dação pro-solvendo, coordenando, entre si, estes dois elementos para a realização de uma função unitaria caracteristica.
+
+X - Trata-se, de um contrato autonomo, e independente da relação cambiaria que o titulo representa, não obstante as estreitas relações de complementariedade ou acessoriedade entre ambos existente.
+
+XI - Por isso, a exigibilidade do credito, com base na obrigação fundamental ou no contrato de desconto não pode considerar-se prejudicada pela prescrição que, porventura, pudesse ser oposta a obrigação cautelar decorrente da operação de endosso.
+
+XII - Portanto, não sera aplicavel o prazo prescricional da
+
+Lei Uniforme Sobre Letras e Livranças, mas o normal que, no caso de se tratar de obrigações derivadas de mutuo, e de vinte anos.
