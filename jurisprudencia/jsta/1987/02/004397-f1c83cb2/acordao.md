@@ -1,0 +1,55 @@
+# Acórdão do Supremo Tribunal Administrativo de 1987-02-18, processo 004397
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 004397
+
+**Data do Acordão:** 02/18/1987
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** ANTONIO GOMES
+
+**Descritores:** JUNTA NACIONAL DO VINHO; OPOSIÇÃO A EXECUÇÃO; INCONSTITUCIONALIDADE MATERIAL; TAXA; IMPOSTO
+
+**Nº Convencional:** JSTA00011469
+
+**Nº do Documento:** SA219870218004397
+
+**Data de Entrada:** 12/18/1986
+
+**Recorrente:** FAZENDA NACIONAL
+
+**Recorrido 1:** CATARINO , EDUARDO
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 0
+
+**Página:** 0
+
+**Apêndice:** DR
+
+**Data do Apêndice:** 03/21/1988
+
+**1ª Pág. de Publicação do Acordão:** 278
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TT1INST PER SALTUM.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - OPOSIÇÃO. DIR FISC - IMPOSTOS / TAXA.
+
+**Área Temática 2:** DIR CONST - SISTEM FINANC FISC.
+
+**Legislação Nacional:** CONST76 ART106 ART108 N1 A ART168 N1 H ART202 ART293.; CONST33.; DL 47470 DE 1966/12/31 ART2.; CPCI63 ART176 A.; ETAF84 ART32 N1 A.
+
+**Jurisprudência Nacional:** AC STA DE 1984/04/09 IN AD N278 PAG177.; AC STA PROC2214 DE 1987/02/04.; Texto Integral
+
+## Sumário
+
+Qualifiquem-se como meras taxas ou antes como verdadeiros impostos as receitas previstas no artigo 2 do Decreto-Lei 47470, sempre este preceito tera de haver-se por constitucional face ao artigo 293 da Constituição da Republica Portuguesa (CRP) de 1976.
