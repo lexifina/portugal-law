@@ -1,0 +1,5 @@
+Portaria n.º 20224
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com a alínea e) do artigo 3.º do mesmo diploma, com a nova redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir em Moçambique um crédito especial de 1000000$00, destinado a reforçar a verba do capítulo 10.º, artigo 2598.º, n.º 4), alínea b), 2.ª «Encargos gerais - Deslocações de pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na província», da tabela de despesa ordinária do orçamento geral em vigor na província, tomando como contrapartida o excesso de cobrança sobre a previsão da receita da verba do capítulo 7.º, artigo 115.º «Reembolsos e reposições - Reembolsos, reposições e indemnizações à Fazenda Nacional, não especificados», do orçamento da receita ordinária para o ano em curso.
+Ministério do Ultramar, 5 de Dezembro de 1963. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - Silva Cunha.
