@@ -1,0 +1,7 @@
+Resolução do Conselho de Ministros n.º 60/86
+Na sequência da aprovação da Lei Orgânica do Ministério do Plano e da Administração do Território pelo Decreto-Lei n.º 130/86, de 7 de Junho, e considerando que à Comissão para a Investigação Urbana e Regional - CIUR, criada pela Resolução n.º 209/77, de 24 de Agosto, tem competido e deve competir uma actividade mais de estudo do que de investigação e desenvolvimento, o Conselho de Ministros, reunido em 10 de Julho de 1986, resolveu:
+1 - A Comissão para a Investigação Urbana e Regional - CIUR, criada pela Resolução n.º 209/77, de 24 de Agosto, passa a ser designada por Comissão Interministerial de Estudos Urbanos e Regionais - CEUR, funcionando na dependência do Ministério do Plano e da Administração do Território.
+2 - As alíneas a) e d) do n.º 2 da Resolução n.º 209/77, de 24 de Agosto, passarão a ter a seguinte redacção:
+a) Coordenar os programas nacionais de estudos urbanos e regionais, promovendo, designadamente, a informação mútua e pronta sobre programas de estudo em curso, a análise dos seus resultados, a difusão dos documentos produzidos, a detecção de carências e consequente proposta de áreas novas de estudos ou iniciativas de estudo interentidades e análise e eventual proposta de financiamento e suas fontes;
+d) Emitir pareceres, quando solicitados, sobre programas de cooperação externa no domínio dos estudos urbanos e regionais.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
