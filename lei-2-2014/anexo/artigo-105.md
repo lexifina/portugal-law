@@ -19,5 +19,3 @@
 a) Os pagamentos por conta a efetuar após a ocorrência do facto determinante da cessação do regime são efetuados por cada uma das sociedades do grupo e calculados da forma indicada no número anterior;
 
 b) Os pagamentos por conta já efetuados pela sociedade dominante à data da ocorrência da cessação do regime são tomados em consideração para efeito do cálculo da diferença que tiver a pagar ou que deva ser-lhe reembolsada nos termos do artigo 104.º
-
-8 - No caso em que uma sociedade (nova sociedade dominante) adquira o domínio de uma sociedade dominante de um grupo de sociedades (anterior sociedade dominante), os pagamentos por conta relativos ao primeiro período de tributação em que as sociedades do grupo da anterior sociedade dominante sejam incluídas no grupo da nova sociedade dominante são calculados nos termos do n.º 1 com base na soma do imposto liquidado à nova sociedade dominante, ou ao respetivo grupo, e ao grupo da anterior sociedade dominante, relativamente ao período de tributação imediatamente anterior.

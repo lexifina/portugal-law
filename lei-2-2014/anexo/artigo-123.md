@@ -12,14 +12,14 @@ b) As operações devem ser registadas cronologicamente, sem emendas ou rasuras,
 
 3 - Não são permitidos atrasos na execução da contabilidade superiores a 90 dias, contados do último dia do mês a que as operações respeitam.
 
-4 - (Revogado.)
+4 - Os livros, registos contabilísticos e respetivos documentos de suporte devem ser conservados em boa ordem durante o prazo de 12 anos.
 
-5 - (Revogado.)
+5 - Quando a contabilidade for estabelecida por meios informáticos, a obrigação de conservação referida no número anterior é extensiva à documentação relativa à análise, programação e execução dos tratamentos informáticos.
 
-6 - (Revogado.)
+6 - Os documentos de suporte previstos no n.º 4 que não sejam documentos autênticos ou autenticados podem, decorridos três períodos de tributação após aquele a que se reportam e obtida autorização prévia do diretor-geral da Autoridade Tributária e Aduaneira, ser substituídos, para efeitos fiscais, por microfilmes que constituam sua reprodução fiel e obedeçam às condições que forem estabelecidas.
 
-7 - (Revogado.)
+7 - É ainda permitido o arquivamento em suporte eletrónico das faturas ou documentos equivalentes, dos talões de venda ou de quaisquer outros documentos com relevância fiscal emitidos pelo sujeito passivo, desde que processados por computador, nos termos definidos no n.º 7 do artigo 52.º do Código do IVA.
 
-8 - As entidades referidas no n.º 1 devem dispor de capacidade de exportação de ficheiros nos termos e formatos a definir por portaria do Ministro das Finanças.
+8 - As entidades referidas no n.º 1 que organizem a sua contabilidade com recurso a meios informáticos devem dispor de capacidade de exportação de ficheiros nos termos e formatos a definir por portaria do membro do Governo responsável pela área das finanças.
 
-9 - (Revogado.)
+9 - Os programas e equipamentos informáticos de faturação dependem da prévia certificação pela Autoridade Tributária e Aduaneira, sendo de utilização obrigatória, nos termos a definir por portaria do membro do Governo responsável pela área das finanças.

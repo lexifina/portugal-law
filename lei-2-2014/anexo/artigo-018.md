@@ -26,7 +26,7 @@ c) Os réditos e os gastos de contratos de construção devem ser periodizados t
 
 9 - Os ajustamentos decorrentes da aplicação do justo valor não concorrem para a formação do lucro tributável, sendo imputados como rendimentos ou gastos no período de tributação em que os elementos ou direitos que lhes deram origem sejam alienados, exercidos, extintos ou liquidados, exceto quando:
 
-a) Respeitem a instrumentos financeiros reconhecidos pelo justo valor através de resultados, desde que, quando se trate de instrumentos de capital próprio, tenham um preço formado num mercado regulamentado e o sujeito passivo não detenha, direta ou indiretamente, uma participação no capital igual ou superior a 5% do respetivo capital social; ou
+a) Respeitem a instrumentos financeiros reconhecidos pelo justo valor através de resultados, desde que, quando se trate de instrumentos do capital próprio, tenham um preço formado num mercado regulamentado e o sujeito passivo não detenha, direta ou indiretamente, uma participação no capital igual ou superior a 5 % do respetivo capital social; ou
 
 b) Tal se encontre expressamente previsto neste Código.
 

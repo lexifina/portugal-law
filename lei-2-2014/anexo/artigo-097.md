@@ -8,7 +8,7 @@ a) Juros e quaisquer outros rendimentos de capitais, com exceção de lucros e r
 
 b) Juros ou quaisquer acréscimos de crédito pecuniário, resultantes da dilação do respetivo vencimento ou de mora no seu pagamento, quando aqueles créditos sejam consequência de vendas ou prestações de serviços de pessoas coletivas ou outras entidades sujeitas, em relação aos mesmos, a IRC, embora dele isentas;
 
-c) Lucros e reservas distribuídos a que seja aplicável o regime estabelecido no n.º 1 do artigo 51.º, desde que a participação no capital tenha permanecido na titularidade da mesma entidade, de modo ininterrupto, durante o ano anterior à data da sua colocação à disposição;
+c) Lucros e reservas distribuídos a entidades a que seja aplicável o regime estabelecido no n.º 1 do artigo 51.º, desde que a participação no capital tenha permanecido na titularidade da mesma entidade, de modo ininterrupto, durante o ano anterior à data da sua colocação à disposição;
 
 d) Rendimentos referidos nas alíneas b) e g) do n.º 1 do artigo 94.º, quando obtidos por pessoas coletivas ou outras entidades sujeitas, relativamente aos mesmos, a IRC, embora dele isentas;
 
@@ -19,10 +19,6 @@ f) Remunerações referidas na alínea d) do n.º 1 do artigo 94.º, quando aufe
 g) Rendimentos prediais referidos na alínea c) do n.º 1 do artigo 94.º, quando obtidos por sociedades que tenham por objeto a gestão de imóveis próprios e não se encontrem sujeitas ao regime de transparência fiscal, nos termos da alínea c) do n.º 1 do artigo 6.º, e, bem assim, quando obtidos por fundos de investimento imobiliários;
 
 h) Juros e outros rendimentos resultantes de contratos de suprimento, de papel comercial ou obrigações, de que seja devedora sociedade cujo capital social com direito de voto seja detido pelo sujeito passivo em mais de 10 %, diretamente, ou indiretamente através de outras sociedades em que o sujeito passivo seja dominante, desde que a participação no capital social tenha permanecido na sua titularidade, de modo ininterrupto, durante o ano anterior à data da sua colocação à disposição.
-
-i) Rendimentos provenientes da propriedade intelectual referidos na alínea a) do n.º 1 do artigo 94.º, quando obtidos por sociedades que tenham por objeto a criação, edição, produção, promoção, licenciamento, gestão ou distribuição de obras ou prestações ou outros conteúdos protegidos por direitos de autor e conexos, incluindo publicações de imprensa;
-
-j) Sempre que o montante de cada retenção seja inferior a € 25.
 
 2 - Não existe ainda obrigação de efetuar a retenção na fonte de IRC, no todo ou em parte, consoante os casos, quando os sujeitos passivos beneficiem de isenção, total ou parcial, relativa a rendimentos que seriam sujeitos a essa retenção na fonte, feita que seja a prova, perante a entidade pagadora, da isenção de que aproveitam, até ao termo do prazo estabelecido para a entrega do imposto que deveria ter sido deduzido.
 

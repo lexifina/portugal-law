@@ -12,7 +12,7 @@ a) Tenham obtido, no período de tributação imediatamente anterior, um montant
 
 b) O total do seu balanço relativo ao período de tributação imediatamente anterior não exceda (euro) 500 000;
 
-c) Não estejam legalmente obrigados à revisão legal das contas;
+c) Não estejam legalmente obrigados à revisão legal de contas;
 
 d) O respetivo capital social não seja detido em mais de 20 %, direta ou indiretamente, nos termos do n.º 6 do artigo 69.º, por entidades que não preencham alguma das condições previstas nas alíneas anteriores, exceto quando sejam sociedades de capital de risco ou investidores de capital de risco;
 

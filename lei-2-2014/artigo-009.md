@@ -8,9 +8,7 @@ a) A sociedade beneficiária seja qualificada como micro, pequena ou média empr
 
 b) Os sócios que participem na constituição da sociedade ou no aumento do capital social sejam exclusivamente pessoas singulares, sociedades de capital de risco ou investidores de capital de risco;
 
-c) As instituições de segurança social e previdência a que se referem os artigos 94.º e 106.º da Lei n.º 4/2007, de 16 de janeiro;
-
-d) Os fundos de capitalização e os rendimentos de capitais administrados pelas instituições de segurança social e de previdência a que se referem os artigos 94.º e 106.º da Lei n.º 4/2007, de 16 de janeiro.
+c) O seu lucro tributável não seja determinado por métodos indiretos.
 
 2 - A dedução a que se refere o número anterior:
 
@@ -18,4 +16,4 @@ a) Aplica-se exclusivamente às entradas, no âmbito da constituição de socied
 
 b) É efetuada no apuramento do lucro tributável do período de tributação relativo ao período de tributação em que ocorram as mencionadas entradas e nos três períodos de tributação seguintes.
 
-3 - O benefício fiscal previsto no presente artigo limita-se aos (euro) 200 000 por entidade beneficiária, durante um período de três anos, não podendo ultrapassar os limites resultantes das regras europeias aplicáveis aos auxílios de minimis.
+3 - O benefício fiscal previsto no presente artigo limita-se aos (euro) 200 000 por entidade beneficiária, durante um período de três anos, não podendo ultrapassar os limites resultantes das regras comunitárias aplicáveis aos auxílios de minimis definidos pelo Regulamento (CE) n.º 1998/2006, da Comissão, de 15 de dezembro de 2006.

@@ -12,16 +12,16 @@ a) As que se destinem a fazer face a obrigações e encargos derivados de proces
 
 b) As que se destinem a fazer face a encargos com garantias a clientes previstas em contratos de venda e de prestação de serviços;
 
-c) (Revogada.)
+c) As provisões técnicas constituídas obrigatoriamente, por força de normas emanadas pelo Instituto de Seguros de Portugal, de caráter genérico e abstrato, pelas empresas de seguros sujeitas à sua supervisão e pelas sucursais em Portugal de empresas seguradoras com sede em outro Estado membro da União Europeia;
 
-d) As constituídas com o objetivo de fazer face aos encargos com a reparação dos danos de caráter ambiental dos locais afetos à exploração, sempre que tal seja obrigatório nos termos da legislação aplicável e após a cessação desta.
+d) As que, constituídas pelas empresas pertencentes ao setor das indústrias extrativas ou de tratamento e eliminação de resíduos, se destinem a fazer face aos encargos com a reparação dos danos de caráter ambiental dos locais afetos à exploração, sempre que tal seja obrigatório e após a cessação desta, nos termos da legislação aplicável.
 
 2 - A determinação das provisões referidas no número anterior deve ter por base as condições existentes no final do período de tributação.
 
 3 - Quando a provisão for reconhecida pelo valor presente, os gastos resultantes do respetivo desconto ficam igualmente sujeitos a este regime.
 
-4 - As provisões a que se referem as alíneas a) e b) do n.º 1 que não devam subsistir por não se terem verificado os eventos a que se reportam e as que forem utilizadas para fins diversos dos expressamente previstos no presente artigo consideram-se rendimentos do respetivo período de tributação.
+4 - As provisões a que se referem as alíneas a) a c) do n.º 1 que não devam subsistir por não se terem verificado os eventos a que se reportam e as que forem utilizadas para fins diversos dos expressamente previstos neste artigo consideram-se rendimentos do respetivo período de tributação.
 
 5 - O montante anual da provisão para garantias a clientes a que refere a alínea b) do n.º 1 é determinado pela aplicação às vendas e prestações de serviços sujeitas a garantia efetuadas no período de tributação de uma percentagem que não pode ser superior à que resulta da proporção entre a soma dos encargos derivados de garantias a clientes efetivamente suportados nos últimos três períodos de tributação e a soma das vendas e prestações de serviços sujeitas a garantia efetuadas nos mesmos períodos.
 
-6 - (Revogado.)
+6 - O montante anual acumulado das provisões técnicas, referidas na alínea c) do n.º 1, não deve ultrapassar os valores mínimos que resultem da aplicação das normas emanadas da entidade de supervisão.

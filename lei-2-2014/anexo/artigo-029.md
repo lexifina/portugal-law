@@ -10,7 +10,7 @@
 
 a) Os ativos fixos tangíveis e os ativos intangíveis;
 
-b) Os ativos biológicos não consumíveis e as propriedades de investimento contabilizados ao custo de aquisição.
+b) Os ativos biológicos que não sejam consumíveis e as propriedades de investimento contabilizados ao custo de aquisição.
 
 2 - Para efeitos do disposto no número anterior consideram-se sujeitos a deperecimento os ativos que, com caráter sistemático, sofram perdas de valor resultantes da sua utilização ou do decurso do tempo.
 

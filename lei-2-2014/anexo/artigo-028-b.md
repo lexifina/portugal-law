@@ -30,6 +30,4 @@ c) Os créditos sobre pessoas singulares ou coletivas que detenham, direta ou in
 
 d) Os créditos sobre empresas participadas, direta ou indiretamente, nos termos do n.º 6 do artigo 69.º, em mais de 10 % do capital, salvo nos casos previstos nas alíneas a) e b) do n.º 1.
 
-e) Os créditos entre empresas detidas, direta ou indiretamente, nos termos do n.º 6 do artigo 69.º, em mais de 10 % do capital pela mesma pessoa singular ou coletiva, salvo nos casos previstos nas alíneas a) e b) do n.º 1.
-
 4 - As percentagens previstas no n.º 2 aplicam-se, igualmente, aos juros pelo atraso no cumprimento das obrigações, em função da mora dos créditos a que correspondam.

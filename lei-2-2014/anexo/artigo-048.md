@@ -2,9 +2,9 @@
 
 ### Reinvestimento dos valores de realização
 
-1 - Para efeitos da determinação do lucro tributável, a diferença positiva entre as mais-valias e as menos-valias, calculadas nos termos dos artigos anteriores, realizadas mediante a transmissão onerosa de ativos fixos tangíveis, ativos intangíveis e ativos biológicos não consumíveis, detidos por um período não inferior a um ano, ainda que qualquer destes ativos tenha sido reclassificado como ativo não corrente detido para venda, ou em consequência de indemnizações por sinistros ocorridos nestes elementos, é considerada em metade do seu valor, quando:
+1 - Para efeitos da determinação do lucro tributável, a diferença positiva entre as mais-valias e as menos-valias, calculadas nos termos dos artigos anteriores, realizadas mediante a transmissão onerosa de ativos fixos tangíveis, ativos intangíveis e ativos biológicos que não sejam consumíveis, detidos por um período não inferior a um ano, ainda que qualquer destes ativos tenha sido reclassificado como ativo não corrente detido para venda, ou em consequência de indemnizações por sinistros ocorridos nestes elementos, é considerada em metade do seu valor, quando:
 
-a) O valor de realização correspondente à totalidade dos referidos ativos seja reinvestido na aquisição, produção ou construção de ativos fixos tangíveis, de ativos intangíveis ou, de ativos biológicos não consumíveis, no período de tributação anterior ao da realização, no próprio período de tributação ou até ao fim do 2.º período de tributação seguinte;
+a) O valor de realização correspondente à totalidade dos referidos ativos seja reinvestido na aquisição, produção ou construção de ativos fixos tangíveis, de ativos intangíveis ou, de ativos biológicos que não sejam consumíveis, no período de tributação anterior ao da realização, no próprio período de tributação ou até ao fim do 2.º período de tributação seguinte;
 
 b) Os bens em que seja reinvestido o valor de realização:
 
@@ -27,5 +27,3 @@ b) Os bens em que seja reinvestido o valor de realização:
 8 - O disposto nos n.os 1 e 2 não é aplicável aos ativos intangíveis adquiridos ou alienados a entidades com as quais existam relações especiais nos termos do n.º 4 do artigo 63.º
 
 9 - O disposto nos n.os 1 e 2 não é aplicável às mais e menos-valias realizadas pelas sociedades fundidas, cindidas ou contribuidoras no âmbito de operações de fusão, cisão ou entrada de ativos, bem como às mais e menos-valias realizadas na afetação permanente de bens a fins alheios à atividade exercida pelo sujeito passivo ou realizadas pelas sociedades em liquidação.
-
-10 - Não são suscetíveis de beneficiar deste regime as propriedades de investimento, ainda que reconhecidas na contabilidade como ativo fixo tangível.

@@ -16,18 +16,6 @@ d) Os previstos nos artigos 19.º e 32.º-A do Estatuto dos Benefícios Fiscais.
 
 e) O regime fiscal de apoio ao investimento (RFAI), previsto no Código Fiscal do Investimento.
 
-f) (Revogada.)
+f) O regime de dedução por lucros retidos e reinvestidos (DLRR), previsto no Código Fiscal do Investimento;
 
 g) O regime de remuneração convencional do capital social previsto no artigo 41.º-A do Estatuto dos Benefícios Fiscais.
-
-h) (Revogada).
-
-i) O regime fiscal de incentivo à capitalização das empresas, previsto no artigo 43.º-D do Estatuto dos Benefícios Fiscais.
-
-j) O regime de incentivo fiscal à valorização salarial, previsto no artigo 19.º-B do Estatuto dos Benefícios Fiscais;
-
-k) O benefício fiscal à criação líquida de postos de trabalho, previsto no n.º 6 do artigo 41.º-B do Estatuto dos Benefícios Fiscais;
-
-l) Os donativos de bens alimentares efetuados ao Estado, a instituições particulares de solidariedade social e a organizações não governamentais sem fins lucrativos, ao abrigo do artigo 62.º do Estatuto dos Benefícios Fiscais.
-
-3 - Sem prejuízo no disposto no n.º 1, não se consideram abrangidos por este artigo os benefícios fiscais constantes do presente Código.

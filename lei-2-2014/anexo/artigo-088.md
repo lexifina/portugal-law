@@ -6,13 +6,13 @@
 
 2 - A taxa referida no número anterior é elevada para 70 % nos casos em que tais despesas sejam efetuadas por sujeitos passivos total ou parcialmente isentos, ou que não exerçam, a título principal, atividades de natureza comercial, industrial ou agrícola e ainda por sujeitos passivos que aufiram rendimentos enquadráveis no artigo 7.º
 
-3 - São tributados autonomamente os encargos efetuados ou suportados por sujeitos passivos que não beneficiem de isenções subjetivas e que exerçam, a título principal, atividade de natureza comercial, industrial ou agrícola, relacionados com viaturas ligeiras de passageiros, viaturas ligeiras de mercadorias referidas na alínea b) do n.º 1 do artigo 7.º do Código do Imposto sobre Veículos, motos ou motociclos, às seguintes taxas:
+3 - São tributados autonomamente os encargos efetuados ou suportados por sujeitos passivos que não beneficiem de isenções subjetivas e que exerçam, a título principal, atividade de natureza comercial, industrial ou agrícola, relacionados com viaturas ligeiras de passageiros, motos ou motociclos, excluindo os veículos movidos exclusivamente a energia elétrica, às seguintes taxas:
 
-a) 8 % no caso de viaturas com um custo de aquisição inferior a 37 500 €;
+a) 10 % no caso de viaturas com um custo de aquisição inferior a (euro) 25 000;
 
-b) 25 % no caso de viaturas com um custo de aquisição igual ou superior a 37 500 € e inferior a 45 000 €;
+b) 27,5 % no caso de viaturas com um custo de aquisição igual ou superior a (euro) 25 000, e inferior a (euro) 35 000;
 
-c) 32 % no caso de viaturas com um custo de aquisição igual ou superior a 45 000 €.
+c) 35 % no caso de viaturas com um custo de aquisição igual ou superior a (euro) 35 000.
 
 4 - (Revogado.)
 
@@ -24,11 +24,11 @@ a) Viaturas ligeiras de passageiros, motos e motociclos, afetos à exploração 
 
 b) Viaturas automóveis relativamente às quais tenha sido celebrado o acordo previsto no n.º 9) da alínea b) do n.º 3 do artigo 2.º do Código do IRS.
 
-7 - São tributados autonomamente à taxa de 10 % os encargos efetuados ou suportados relativos a despesas de representação, considerando-se como tal, nomeadamente, as despesas suportadas com receções, refeições, viagens e passeios oferecidos no País ou no estrangeiro a clientes ou fornecedores ou ainda a quaisquer outras pessoas ou entidades.
+7 - São tributados autonomamente à taxa de 10 % os encargos dedutíveis relativos a despesas de representação, considerando-se como tal, nomeadamente, as despesas suportadas com receções, refeições, viagens, passeios e espetáculos oferecidos no País ou no estrangeiro a clientes ou fornecedores ou ainda a quaisquer outras pessoas ou entidades.
 
-8 - São sujeitas ao regime dos n.os 1 ou 2, consoante os casos, sendo as taxas aplicáveis, respetivamente, 35 % ou 55 %, as despesas correspondentes a importâncias pagas ou devidas, a qualquer título, a pessoas singulares ou coletivas residentes fora do território português e aí submetidas a um regime fiscal claramente mais favorável a que se refere o n.º 1 do artigo 63.º-D da Lei Geral Tributária, ou cujo pagamento seja efetuado em contas abertas em instituições financeiras aí residentes ou domiciliadas, salvo se o sujeito passivo puder provar que correspondem a operações efetivamente realizadas e não têm um caráter anormal ou um montante exagerado.
+8 - São sujeitas ao regime do n.º 1 ou do n.º 2, consoante os casos, sendo as taxas aplicáveis, respetivamente, 35 % ou 55 %, as despesas correspondentes a importâncias pagas ou devidas, a qualquer título, a pessoas singulares ou coletivas residentes fora do território português e aí submetidas a um regime fiscal claramente mais favorável, tal como definido nos termos do Código, salvo se o sujeito passivo puder provar que correspondem a operações efetivamente realizadas e não têm um caráter anormal ou um montante exagerado.
 
-9 - São ainda tributados autonomamente, à taxa de 5 %, os encargos efetuados ou suportados relativos a ajudas de custo e à compensação pela deslocação em viatura própria do trabalhador, ao serviço da entidade patronal, não faturados a clientes, escriturados a qualquer título, exceto na parte em que haja lugar a tributação em sede de IRS na esfera do respetivo beneficiário.
+9 - São ainda tributados autonomamente, à taxa de 5 %, os encargos dedutíveis relativos a ajudas de custo e à compensação pela deslocação em viatura própria do trabalhador, ao serviço da entidade patronal, não faturados a clientes, escriturados a qualquer título, exceto na parte em que haja lugar a tributação em sede de IRS na esfera do respetivo beneficiário, bem como os encargos não dedutíveis nos termos da alínea h) do n.º 1 do artigo 23.º-A suportados pelos sujeitos passivos que apresentem prejuízo fiscal no período de tributação a que os mesmos respeitam.
 
 10 - (Revogado.)
 
@@ -44,20 +44,6 @@ b) Os gastos ou encargos relativos a bónus e outras remunerações variáveis p
 
 14 - As taxas de tributação autónoma previstas no presente artigo são elevadas em 10 pontos percentuais quanto aos sujeitos passivos que apresentem prejuízo fiscal no período a que respeitem quaisquer dos factos tributários referidos nos números anteriores relacionados com o exercício de uma atividade de natureza comercial, industrial ou agrícola não isenta de IRC.
 
-15 - O disposto no número anterior não é aplicável no período de tributação de início de atividade e no seguinte.
+15 - As taxas de tributação autónoma previstas nos n.os 7, 9, 11 e 13, bem como o disposto no número anterior, não são aplicáveis aos sujeitos passivos a que se aplique o regime simplificado de determinação da matéria coletável.
 
-16 - As taxas de tributação autónoma previstas nos n.os 7, 9, 11 e 13, bem como o disposto no número anterior, não são aplicáveis aos sujeitos passivos a que se aplique o regime simplificado de determinação da matéria coletável.
-
-17 - O disposto no presente artigo não é aplicável relativamente às despesas ou encargos de estabelecimento estável situado fora do território português e relativos à atividade exercida por seu intermédio.
-
-18 - No caso de viaturas ligeiras de passageiros híbridas plug-in, cuja bateria possa ser carregada através de ligação à rede elétrica e que tenham uma autonomia mínima, no modo elétrico, de 50 km e emissões oficiais inferiores a 50 gCO (índice 2)/km ou, quando homologadas de acordo com a norma de emissões ‘Euro 6e-bis’, nos termos do Regulamento (UE) 2023/443 da Comissão, de 8 de fevereiro de 2023, que altera o Regulamento (UE) 2017/1151 no que diz respeito aos procedimentos de homologação das emissões dos veículos ligeiros de passageiros e comerciais, a 80 gCO (índice 2)/km, e de viaturas ligeiras de passageiros movidas a gás natural veicular (GNV), as taxas referidas nas alíneas a), b) e c) do n.º 3 são, respetivamente, de 2,5 %, 7,5 % e 15 %.
-
-19 - (Revogado.)
-
-20 - Os encargos relacionados com veículos movidos exclusivamente a energia elétrica apenas são sujeitos a tributação, à taxa autónoma de 10 %, caso o custo de aquisição destes veículos exceda o definido na portaria a que se refere a alínea e) do n.º 1 do artigo 34.º e não se encontrem excluídos de tributação pelo n.º 6.
-
-21 - No caso de se verificar o incumprimento de qualquer das condições previstas na parte final da alínea b) do n.º 13, o montante correspondente à tributação autónoma que deveria ter sido liquidada é adicionado ao valor do IRC liquidado relativo ao período de tributação em que se verifique aquele incumprimento.
-
-22 - Para efeitos do disposto no n.º 14, quando seja aplicável o regime especial de tributação dos grupos de sociedades estabelecido no artigo 69.º, é considerado o prejuízo fiscal apurado nos termos do artigo 70.º
-
-23 - A liquidação das tributações autónomas em IRC é efetuada nos termos previstos no artigo 89.º e tem por base os valores e as taxas que resultem do disposto nos números anteriores, não sendo efetuadas quaisquer deduções ao montante global apurado, ainda que essas deduções resultem de legislação especial.
+16 - O disposto no presente artigo não é aplicável relativamente às despesas ou encargos de estabelecimento estável situado fora do território português e relativos à atividade exercida por seu intermédio.

@@ -34,7 +34,7 @@ e) Adotem um período de tributação não coincidente com o da sociedade domina
 
 f) (Revogada.)
 
-g) Não assumam a forma jurídica de sociedade por quotas, sociedade anónima ou sociedade em comandita por ações, salvo o disposto no n.º 11.
+g) Não assumam a forma jurídica de sociedade por quotas, sociedade anónima ou sociedade em comandita por ações, salvo o disposto no n.º 10.
 
 5 - Para a determinação do nível de participação exigido de, pelo menos, 75 %, consideram-se as participações detidas diretamente ou indiretamente através de:
 
@@ -42,7 +42,7 @@ a) Sociedades residentes em território português que reúnam os requisitos leg
 
 b) Sociedades residentes noutro Estado membro da União Europeia ou do Espaço Económico Europeu, neste caso desde que exista obrigação de cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia, que sejam detidas, direta ou indiretamente, em, pelo menos, 75 % pela sociedade dominante através de sociedades referidas na alínea anterior ou na primeira parte desta alínea.
 
-6 - Quando a participação ou os direitos de voto são detidos de forma indireta, a percentagem efetiva da participação ou de direitos de voto é obtida pelo processo da multiplicação sucessiva das percentagens de participação e dos direitos de voto em cada um dos níveis e, havendo participações ou direitos de voto numa sociedade detidos de forma direta e indireta, a percentagem efetiva de participação ou de direitos de voto resulta da soma das percentagens das participações ou dos direitos de voto.
+6 - Quando a participação ou os direitos de voto são detidos de forma indireta, a percentagem efetiva da participação ou dos direitos de voto é obtida pelo processo da multiplicação sucessiva das percentagens de participação e dos direitos de voto em cada um dos níveis e, havendo participações ou direitos de voto numa sociedade detidos de forma direta e indireta, a percentagem efetiva de participação ou direitos de voto resulta da soma das percentagens das participações ou dos direitos de voto.
 
 7 - A opção mencionada no n.º 1, as alterações na composição do grupo e a renúncia ou a cessação da aplicação no presente regime devem ser comunicadas à Autoridade Tributária e Aduaneira pela sociedade dominante através do envio, por transmissão eletrónica de dados, da competente declaração prevista no artigo 118.º, nos seguintes prazos:
 
@@ -52,7 +52,7 @@ b) No caso de alterações na composição do grupo:
 
 1) Até ao fim do 3.º mês do período de tributação em que deva ser efetuada a inclusão de novas sociedades que satisfaçam os requisitos legalmente exigidos;
 
-2) Até ao fim do 3.º mês do período de tributação seguinte àquele em que ocorra a saída de sociedades do grupo por alienação da participação ou por incumprimento das demais condições, ou outras alterações na composição do grupo motivadas nomeadamente por fusões ou cisões, exceto se a alteração ocorrer por cessação da atividade de sociedade do grupo, caso em que a comunicação só tem lugar se não se verificar a dispensa prevista no n.º 7 do artigo 118.º, devendo ser feita no prazo previsto no n.º 6 do mesmo artigo;
+2) Até ao fim do 3.º mês do período de tributação seguinte àquele em que ocorra a saída de sociedades do grupo por alienação da participação ou por incumprimento das demais condições, ou outras alterações na composição do grupo motivadas nomeadamente por fusões ou cisões, exceto se a alteração ocorrer por cessação da atividade de sociedade do grupo, caso em que a comunicação deve ser feita até ao final do prazo previsto para a entrega da correspondente declaração de cessação;
 
 c) No caso de renúncia, até ao fim do 3.º mês do período de tributação em que se pretende renunciar à aplicação do regime;
 
@@ -60,7 +60,7 @@ d) No caso de cessação, até ao fim do 3.º mês do período de tributação s
 
 8 - O regime especial de tributação dos grupos de sociedades cessa a sua aplicação nos seguintes casos:
 
-a) Deixe de se verificar algum dos requisitos referidos no n.º 3 relativamente à sociedade dominante, sem prejuízo dos casos em que seja exercida a opção prevista no n.º 10;
+a) Deixe de se verificar algum dos requisitos referidos no n.º 3 relativamente à sociedade dominante, sem prejuízo do disposto no n.º 10;
 
 b) Se verifique alguma das situações referidas nas alíneas a), b), d) ou g) do n.º 4 relativamente à sociedade dominante;
 
@@ -78,16 +78,12 @@ b) (Revogada.)
 
 c) Ao final do período de tributação anterior ao da verificação de qualquer dos factos previstos no n.º 8.
 
-10 - Nos casos em que a sociedade dominante passe a ser considerada dominada de uma outra sociedade residente em território português que reúna os requisitos, com exceção do previsto na alínea c) do n.º 4, para ser qualificada como dominante, esta última pode optar pela continuidade da aplicação do regime especial de tributação dos grupos de sociedades através de comunicação à Autoridade Tributária e Aduaneira, efetuada até ao fim do 3.º mês do período de tributação seguinte à data em que se verifique esse facto, passando aquele grupo a incluir a nova sociedade dominante.
+10 - Nos casos em que a sociedade dominante passe a ser considerada dominada de uma outra sociedade residente em território português que reúna os requisitos, com exceção do previsto na alínea c) do n.º 4, para ser qualificada como dominante, esta última pode optar pela continuidade da aplicação do regime especial de tributação dos grupos de sociedades através de comunicação à Autoridade Tributária e Aduaneira, efetuada nos 30 dias seguintes à data em que se verifique esse facto, passando aquele grupo a incluir a nova sociedade dominante.
 
 11 - As entidades públicas empresariais, que satisfaçam os requisitos relativos à qualidade de sociedade dominante exigidos pelo presente artigo, podem optar pela aplicação deste regime ao respetivo grupo.
 
 12 - Compete à sociedade dominante fazer a prova do preenchimento das condições de aplicação do regime especial de tributação de grupos de sociedades.
 
-13 - O requisito temporal referido na alínea b) do n.º 3 não é aplicável quando se trate de sociedades constituídas há menos de um ano pela sociedade dominante ou por outra sociedade que integre o grupo, desde que o nível de participação exigido nos termos do n.º 2 seja detido desde a data da constituição.
+13 - O requisito temporal referido na alínea b) do n.º 3 não é aplicável quando se trate de sociedades constituídas pela sociedade dominante, ou por outra sociedade que integre o grupo há menos de um ano, desde que o nível de participação exigido nos termos do n.º 2 seja detido desde a data da constituição.
 
 14 - Para efeitos da contagem dos prazos previstos na alínea b) do n.º 3, bem como do previsto na alínea c) do n.º 4, nos casos em que a participação tiver sido adquirida no âmbito de processo de fusão, cisão ou entrada de ativos, considera-se o período durante o qual a participação tiver permanecido na titularidade das sociedades fundidas, cindidas ou da sociedade contribuidora, respetivamente.
-
-15 - A renúncia à taxa referida na alínea d) do n.º 4 deve ser mantida por um período mínimo de três anos.
-
-16 - Nas situações em que todas as sociedades do grupo tenham a sua sede e direção efetiva numa mesma região autónoma e não possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica própria noutra circunscrição, o requisito previsto na parte final da alínea a) do n.º 3 considera-se cumprido quando todas as sociedades do grupo estejam sujeitas à taxa de IRC mais elevada aplicável na região autónoma respetiva.

@@ -8,7 +8,7 @@ a) O IRC, incluindo as tributações autónomas, e quaisquer outros impostos que
 
 b) As despesas não documentadas;
 
-c) Os encargos cuja documentação não cumpra o disposto nos n.os 3 e 4 do artigo 23.º, bem como os encargos evidenciados em documentos emitidos por sujeitos passivos com número de identificação fiscal inexistente ou inválido, por sujeitos passivos cuja cessação de atividade tenha sido declarada oficiosamente nos termos do n.º 6 do artigo 8.º ou por sujeitos passivos que não tenham entregue a declaração de inscrição, prevista na alínea a) do n.º 1 do artigo 117.º;
+c) Os encargos cuja documentação não cumpra o disposto nos n.os 3 e 4 do artigo 23.º, bem como os encargos evidenciados em documentos emitidos por sujeitos passivos com número de identificação fiscal inexistente ou inválido ou por sujeitos passivos cuja cessação de atividade tenha sido declarada oficiosamente nos termos do n.º 6 do artigo 8.º;
 
 d) As despesas ilícitas, designadamente as que decorram de comportamentos que fundadamente indiciem a violação da legislação penal portuguesa, mesmo que ocorridos fora do alcance territorial da sua aplicação;
 
@@ -38,9 +38,7 @@ p) A contribuição sobre o setor bancário;
 
 q) A contribuição extraordinária sobre o setor energético;
 
-r) As importâncias pagas ou devidas, a qualquer título, a pessoas singulares ou coletivas residentes fora do território português e aí submetidas a um regime fiscal a que se referem os n.os 1 ou 5 do artigo 63.º-D da Lei Geral Tributária, ou cujo pagamento seja efetuado em contas abertas em instituições financeiras aí residentes ou domiciliadas, salvo se o sujeito passivo provar que tais encargos correspondem a operações efetivamente realizadas e não têm um caráter anormal ou um montante exagerado.
-
-s) A contribuição extraordinária sobre a indústria farmacêutica.
+r) As importâncias pagas ou devidas, a qualquer título, a pessoas singulares ou coletivas residentes fora do território português, e aí submetidas a um regime fiscal identificado por portaria do membro do Governo responsável pela área das finanças como um regime de tributação claramente mais favorável, salvo se o sujeito passivo provar que tais encargos correspondem a operações efetivamente realizadas e não têm um caráter anormal ou um montante exagerado.
 
 2 - Não concorrem para a formação do lucro tributável as menos-valias e outras perdas relativas a instrumentos de capital próprio, na parte do valor que corresponda aos lucros ou reservas distribuídos ou às mais-valias realizadas com a transmissão onerosa de partes sociais da mesma entidade que tenham beneficiado, no próprio período de tributação ou nos quatro períodos anteriores, da dedução prevista no artigo 51.º, do crédito por dupla tributação económica internacional prevista no artigo 91.º-A ou da dedução prevista no artigo 51.º-C.
 
@@ -52,7 +50,7 @@ s) A contribuição extraordinária sobre a indústria farmacêutica.
 
 6 - Para efeitos da verificação da percentagem fixada na alínea o) do n.º 1, considera-se que o beneficiário detém indiretamente as partes do capital da sociedade quando as mesmas sejam da titularidade do cônjuge, respetivos ascendentes ou descendentes até ao 2.º grau, sendo igualmente aplicáveis, com as necessárias adaptações, as regras sobre a equiparação da titularidade estabelecidas no Código das Sociedades Comerciais.
 
-7 - O disposto na alínea r) do n.º 1 aplica-se igualmente às importâncias indiretamente pagas ou devidas, a qualquer título, às pessoas singulares ou coletivas residentes fora do território português e aí submetidas a um regime fiscal claramente mais favorável a que se referem os n.os 1 ou 5 do artigo 63.º-D da Lei Geral Tributária, quando o sujeito passivo tenha ou devesse ter conhecimento do seu destino, presumindo-se esse conhecimento quando existam relações especiais, nos termos do n.º 4 do artigo 63.º, entre o sujeito passivo e as referidas pessoas singulares ou coletivas, ou entre o sujeito passivo e o mandatário, fiduciário ou interposta pessoa que procede ao pagamento às pessoas singulares ou coletivas.
+7 - O disposto na alínea r) do n.º 1 aplica-se igualmente às importâncias indiretamente pagas ou devidas, a qualquer título, às pessoas singulares ou coletivas residentes fora do território português e aí submetidas a um regime fiscal claramente mais favorável, quando o sujeito passivo tenha ou devesse ter conhecimento do seu destino, presumindo-se esse conhecimento quando existam relações especiais, nos termos do n.º 4 do artigo 63.º, entre o sujeito passivo e as referidas pessoas singulares ou coletivas, ou entre o sujeito passivo e o mandatário, fiduciário ou interposta pessoa que procede ao pagamento às pessoas singulares ou coletivas.
 
 8 - A Autoridade Tributária e Aduaneira notifica o sujeito passivo para produção da prova referida na alínea r) do n.º 1, devendo, para o efeito, ser fixado um prazo não inferior a 30 dias.
 

@@ -2,7 +2,7 @@
 
 ### Transmissibilidade dos prejuízos fiscais
 
-1 - Os prejuízos fiscais das sociedades fundidas podem ser deduzidos aos lucros tributáveis da nova sociedade ou da sociedade incorporante, nos termos e condições estabelecidos no artigo 52.º
+1 - Os prejuízos fiscais das sociedades fundidas podem ser deduzidos dos lucros tributáveis da nova sociedade ou da sociedade incorporante, nos termos e condições estabelecidos no artigo 52.º e até ao fim do período referido no n.º 1 do mesmo artigo, contado do período de tributação a que os mesmos se reportam.
 
 2 - (Revogado.)
 
@@ -14,9 +14,9 @@ b) Na fusão, cisão ou entrada de ativos, em que é transferido para uma socied
 
 c) Na transferência de estabelecimentos estáveis situados em território português de sociedades residentes em Estados membros da União Europeia que estejam nas condições da Diretiva n.º 2009/133/CE, do Conselho, de 19 de outubro, em favor de sociedades também residentes noutros Estados membros e em idênticas condições, no âmbito de operação de fusão, cisão ou entrada de ativos, desde que os elementos patrimoniais transferidos continuem afetos a estabelecimento estável aqui situado e concorram para a determinação do lucro tributável que lhe seja imputável;
 
-d) (Revogada).
+d) Na transferência de estabelecimentos estáveis situados em território português de sociedades residentes noutros Estados membros da União Europeia que estejam nas condições da Diretiva n.º 2009/133/CE, do Conselho, de 19 de outubro, para uma sociedade residente em território português, no âmbito de operação de fusão, cisão e entrada de ativos, verificando-se, em consequência dessa operação, a extinção do estabelecimento estável.
 
-4 - A dedução dos prejuízos fiscais transmitidos nos termos do n.º 1 e da alínea b) do número anterior tem como limite, em cada período de tributação, o valor correspondente à proporção entre o valor positivo do património líquido da sociedade fundida, ou dos estabelecimentos estáveis da sociedade fundida ou da sociedade contribuidora, e o valor do património líquido de todas as sociedades ou estabelecimentos estáveis envolvidos na operação de fusão ou entrada de ativos, determinados com base no último balanço anterior à operação.
+4 - A dedução dos prejuízos fiscais transmitidos nos termos do n.º 1 e das alíneas b) e d) do número anterior tem como limite, em cada período de tributação, o valor correspondente à proporção entre o valor do património líquido da sociedade fundida, ou dos estabelecimentos estáveis da sociedade fundida ou da sociedade contribuidora, e o valor do património líquido de todas as sociedades ou estabelecimentos estáveis envolvidos na operação de fusão ou entrada de ativos, determinados com base no último balanço anterior à operação.
 
 5 - Relativamente às operações referidas nas alíneas a) e c) do n.º 1 do artigo 74.º, a dedução dos prejuízos é efetuada no lucro tributável do estabelecimento estável situado em território português e respeita apenas aos prejuízos que lhe sejam imputáveis.
 

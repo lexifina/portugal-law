@@ -18,8 +18,6 @@ b) Declaração periódica de rendimentos, nos termos do artigo 120.º;
 
 c) Declaração anual de informação contabilística e fiscal, nos termos do artigo 121.º
 
-d) Declaração financeira e fiscal por país, nos termos do artigo 121.º-A.
-
 2 - As declarações a que se refere o número anterior são de modelo oficial, aprovado por despacho do membro do Governo responsável pela área das finanças, devendo ser-lhes juntos, fazendo delas parte integrante, os documentos e os anexos que para o efeito sejam mencionados no referido modelo oficial.
 
 3 - São regulamentados por portaria do membro do Governo responsável pela área das finanças o âmbito de obrigatoriedade, os suportes, o início de vigência e os procedimentos do regime de envio de declarações por transmissão eletrónica de dados.
@@ -28,15 +26,11 @@ d) Declaração financeira e fiscal por país, nos termos do artigo 121.º-A.
 
 5 - Quando as declarações não forem consideradas suficientemente claras, a Autoridade Tributária e Aduaneira notifica os sujeitos passivos para prestarem por escrito, no prazo que lhes for fixado, nunca inferior a cinco dias, os esclarecimentos indispensáveis.
 
-6 - A obrigação a que se refere a alínea b) do n.º 1 não abrange:
-
-a) As entidades isentas ao abrigo do artigo 9.º, exceto quando estejam sujeitas a uma qualquer tributação autónoma ou quando obtenham rendimentos de capitais que não tenham sido objeto de retenção na fonte com caráter definitivo;
-
-b) As entidades que apenas aufiram rendimentos não sujeitos a IRC, exceto quando estejam sujeitas a uma qualquer tributação autónoma.
+6 - A obrigação a que se refere a alínea b) do n.º 1 não abrange as entidades isentas ao abrigo do artigo 9.º, exceto quando estejam sujeitas a uma qualquer tributação autónoma.
 
 7 - (Revogado.)
 
-8 - A obrigação referida na alínea b) do n.º 1 também não abrange as entidades não residentes sem estabelecimento estável em território português e que neste território apenas aufiram rendimentos isentos ou sujeitos a retenção na fonte a título definitivo.
+8 - A obrigação referida na alínea b) do n.º 1 também não abrange as entidades não residentes que apenas aufiram, em território português, rendimentos isentos.
 
 9 - A não tributação em IRC das entidades abrangidas pelo regime de transparência fiscal nos termos do artigo 6.º não as desobriga de apresentação ou envio das declarações referidas no n.º 1.
 

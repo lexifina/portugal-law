@@ -19,5 +19,3 @@
 a) Estar organizada de acordo com a normalização contabilística e outras disposições legais em vigor para o respetivo setor de atividade, sem prejuízo da observância das disposições previstas neste Código;
 
 b) Refletir todas as operações realizadas pelo sujeito passivo e ser organizada de modo que os resultados das operações e variações patrimoniais sujeitas ao regime geral do IRC possam claramente distinguir-se dos das restantes.
-
-c) Estar organizada com recurso a meios informáticos.

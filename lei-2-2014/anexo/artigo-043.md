@@ -8,9 +8,7 @@
 
 a) Contratos de seguros de acidentes pessoais, bem como com contratos de seguros de vida, de doença ou saúde, contribuições para fundos de pensões e equiparáveis ou para quaisquer regimes complementares de segurança social, que garantam, exclusivamente, o benefício de reforma, pré-reforma, complemento de reforma, benefícios de saúde pós emprego, invalidez ou sobrevivência a favor dos trabalhadores da empresa;
 
-b) Contratos de seguros de doença ou saúde em benefício dos trabalhadores, reformados ou respetivos familiares;
-
-c) As compensações devidas ao trabalhador pelas despesas adicionais com a prestação de trabalho em regime de teletrabalho, nos termos do artigo 168.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro.
+b) Contratos de seguros de doença ou saúde em benefício dos trabalhadores, reformados ou respetivos familiares.
 
 3 - O limite estabelecido no número anterior é elevado para 25 %, se os trabalhadores não tiverem direito a pensões da segurança social.
 
@@ -60,8 +58,4 @@ c) Das normas internacionais de contabilidade adotadas pela União Europeia ou d
 
 14 - A condição a que se refere a alínea b) do n.º 4 pode deixar de se verificar desde que seja demonstrado que a diferenciação introduzida tem por base critérios objetivos, designadamente em caso de entidades sujeitas a processos de reestruturação empresarial, devendo esta alteração ser comunicada à Autoridade Tributária e Aduaneira até ao termo do período de tributação em que ocorra.
 
-15 - Consideram-se incluídos no n.º 1 os gastos suportados com a aquisição de passes sociais em benefício do pessoal do sujeito passivo, verificados os requisitos aí exigidos, os quais são considerados, para efeitos da determinação do lucro tributável, em valor correspondente a 150 %.
-
-16 - Os gastos suportados com contratos de seguros de saúde ou doença previstos no n.º 2 são considerados, para efeitos da determinação do lucro tributável, em valor correspondente a 120 %.
-
-17 - Os gastos suportados com compensações devidas ao trabalhador pelas despesas adicionais com a prestação de trabalho em regime de teletrabalho são considerados, para efeitos da determinação do lucro tributável, em valor correspondente a 110 %.
+15 - Consideram-se incluídos no n.º 1 os gastos suportados com a aquisição de passes sociais em benefício do pessoal do sujeito passivo, verificados os requisitos aí exigidos.

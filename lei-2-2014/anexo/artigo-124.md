@@ -16,4 +16,4 @@ c) Registo de inventário, em 31 de dezembro, dos bens suscetíveis de gerarem g
 
 4 - (Revogado.)
 
-5 - É aplicável à escrituração referida no n.º 1 e, bem assim, à contabilidade organizada nos termos do n.º 2 o disposto nos n.os 2 e 3 do artigo anterior e no Decreto-Lei n.º 28/2019, de 15 de fevereiro.
+5 - É aplicável à escrituração referida no n.º 1 e, bem assim, à contabilidade organizada nos termos do n.º 2 o disposto nos n.os 2 a 6 do artigo anterior.
