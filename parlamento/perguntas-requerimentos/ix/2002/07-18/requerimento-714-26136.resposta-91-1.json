@@ -1,0 +1,45 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ktYqpeS%2ft%2bZbliS4sHhftatFgOONJZv%2b0jwNSKIew1t0xo7wpSD4Wuod7wOpHm6JnVumY%2fcLg1QEJ6QuXOoI0mCZg8Now%2fNFrlqr4xaPyukQAb7VOIDJycUu8LgcqeBWkrLalvQbJNVVjYrmyeKurhYgJ88b%2bTAHUhqae0PG2tWw6wd9S%2fB1oSkkszdy9OWFhN3wUjxq5HmVweG9RQH09rl4k2N5tPgs%2fzprZm2tzFHnHSctshbR2DfX7RwTBfcB1zHFUq7rfF1ywAQTHCnkTEnmy8XmgIMFNpTZggbLiolv7UH6aQ9wXzrJpNDVBZQItckByiVODO72lKf0LysofiwVHTL6an5RgmBfpD1TjRRanKSw%2fu9%2bMNyeFb2ozzbOeEiwgdJpFNYQkXLYkgJujw%3d%3d&fich=RequerimentosIX_json.txt&Inline=true",
+  "ficheiro_sha256": "234acc6bf0a22a14e4ad1370daea559258a1b7960a20d3feebcabf91a9366690",
+  "legislatura": "IX",
+  "pergunta": {
+    "id": "26136",
+    "tipo": "Requerimento",
+    "numero": "714",
+    "assunto": "Instituto Superior de Transportes",
+    "ficheiro_registo": "requerimento-714-26136.json"
+  },
+  "destinatario": null,
+  "data_registo": "2002-09-18",
+  "data_registo_base": "record date = the answer day (Destinatarios[].respostas[].dataResposta) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "dataResposta": "2002-09-18",
+    "docRemetida": null,
+    "entidade": null,
+    "ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764d32593459574d77596a45745a5759325a6930305a44497a4c5749305a6d4d744d5459325a57526d5a54637a4f4751314c6e426b5a673d3d&fich=3f8ac0b1-ef6f-4d23-b4fc-166edfe738d5.pdf&Inline=true",
+    "ficheiroComTipo": null,
+    "publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "273721",
+        "obs": "74-(40)",
+        "pag": [
+          "74-(40)-74-(40)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2002",
+        "pubLeg": "IX",
+        "pubNr": "14",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/014S1/2002-09-28/74-(40)?pgs=74-(40)&org=PLC"
+      }
+    ]
+  }
+}
