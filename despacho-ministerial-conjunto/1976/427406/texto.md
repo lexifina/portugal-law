@@ -1,0 +1,11 @@
+Despacho ministerial conjunto
+1. Pelo ponto 5 do despacho ministerial conjunto de 20 de Dezembro de 1975, publicado no Diário do Governo, 1.ª série, n.º 9, de 12 de Janeiro de 1976, a comissão administrativa nomeada pelo mesmo despacho teria que apresentar ao Ministro da Agricultura e Pescas, até ao dia 28 de Fevereiro de 1976, uma proposta de solução para os problemas técnicos, económicos, financeiros e sociais da Unagro-Unidade Agro-Pecuária do Lis e Mondego, criada pelo citado despacho, bem como proposta da sua estruturação e funcionamento futuros.
+2. No entanto, só a 26 de Fevereiro de 1976, por despacho conjunto dos Subsecretários de Estado adjunto do Ministro da Agricultura e Pescas e do Tesouro, se solicitou ao Banco de Portugual o estudo do apoio bancário necessário à manutenção do funcionamento nos três meses seguintes, apoio que pressupunha o prosseguimento da actividade produtiva.
+3. Por despacho de 5 de Maio de 1976 do Subsecretário de Estado dos Investimentos Públicos é concedido o aval do Estado a uma operação de crédito, por um ano, até ao montante de 10000 contos, a qual poderá ser reformulada em relação com a estruturação do passivo da Unagro e sua adequação aos activos cobertos, aspectos que serão objecto da proposta de estruturação e funcionamento futuros.
+4. Pelos motivos referidos nos pontos anteriores, determino que se mantenha em funções a actual comissão administrativa constituída por:
+Engenheiro agrónomo Luís Elias Gonçalves Carvalho;
+Engenheiro técnico agrário Joaquim Manuel Baptista;
+Técnico de contas Joaquim de Oliveira Dias;
+Engenheiro técnico agrário Luís Pedro Faria Gonçalves Teixeira da Silva.
+4. A comissão designada no número anterior deve, até 31 de Agosto próximo futuro, apresentar ao Ministro da Agricultura e Pescas uma proposta de solução para os problemas técnicos, económicos, financeiros e sociais da Unagro - Unidade Agro-Pecuária do Lis e Mondego, bem como proposta da sua estruturação e funcionamento futuros.
+Ministérios da Agricultura e Pescas, do Comércio Interno e do Trabalho, 27 de Maio de 1976. - O Ministro da Agricultura e Pescas, António Poppe Lopes Cardoso. - O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota. - O Ministro do Trabalho, João Pedro Tomás Rosa.
