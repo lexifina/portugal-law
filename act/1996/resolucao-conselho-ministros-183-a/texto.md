@@ -1,0 +1,15 @@
+Resolução do Conselho de Ministros n.º 183-A/96
+Portugal apresentou à União Europeia um programa, a executar no período de cinco anos (1996-2000), para continuação da integração e expansão dos subsistemas de controlo da actividade da pesca (SIFICAP/MONICAP), o qual se integra no âmbito da Decisão n.º 95/527/CE, do Conselho, de 8 de Dezembro de 1995.
+Nesse programa contempla-se, para o corrente ano de 1996, a formação de pessoal da Armada Portuguesa que, no âmbito do SIFICAP, participe em actividades de controlo aplicável à política comum das pescas, conforme previsto no n.º 3 do artigo 2.º da Decisão n.º 95/527/CE, do Conselho, de 8 de Dezembro de 1995, e na Decisão da Comissão n.º 96/286/CE, de 11 de Abril de 1996. $$ As acções inseridas nesse programa de formação visam a aquisição para a Armada Portuguesa de meios informáticos para formação de pessoal, tendo em vista o desenvolvimento do SIFICAP.
+A Decisão da Comissão n.º 96/358/CE, de 30 de Maio de 1996, elegeu as despesas previstas para o ano de 1996 e pôs à disposição de Portugal um financiamento de 50% do respectivo montante, que ascende a 23700 contos, os quais correspondem a acções a executar pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
+Torna-se, pois, necessário, face à referida imperatividade temporal de execução, identificar os serviços que ficarão incumbidos de concretizar as referidas acções.
+Assim:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - As acções para 1996 previstas no programa de formação de pessoal da Armada Portuguesa que, no âmbito do Sistema de Fiscalização e Controlo da Actividade da Pesca (SIFICAP), participe em actividades de controlo aplicável à política comum de pescas, comparticipadas pela União Europeia ao abrigo da Decisão n.º 95/527/CE, do Conselho, de 8 de Dezembro de 1995, constam da Decisão da Comissão n.º 96/358/CE, de 30 de Maio de 1996.
+2 - As acções do número anterior, que se traduzem na aquisição, para a Armada Portuguesa, de meios informáticos para a formação de pessoal, tendo em vista o desenvolvimento do SIFICAP, serão executadas pela Inspecção-Geral das Pescas (IGP).
+3 - A IGP fica incumbida de proceder à aquisição dos bens referidos no número anterior, outorgando nos contratos a que houver lugar.
+4 - O pagamento das despesas com a aquisição dos equipamentos será efectuado pelo Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).
+5 - No sentido de habilitar o IFADAP a efectuar os aludidos pagamentos, a IGP apresentará àquele Instituto os documentos comprovativos necessários.
+6 - Compete também ao IFADAP assegurar o pagamento da parte comunitária e solicitar o respectivo reembolso à União Europeia.
+7 - O acompanhamento do processo referente às aquisições e montagem dos equipamentos objecto da presente resolução será assegurado, até à sua recepção definitiva, pela equipa de projecto a que se refere o n.º 6 da Resolução do Conselho de Ministros n.º 109/96, de 3 de Julho.
+Presidência do Conselho de Ministros, 14 de Novembro de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
