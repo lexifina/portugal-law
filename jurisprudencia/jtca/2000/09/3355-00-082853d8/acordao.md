@@ -1,0 +1,101 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2000-09-26, processo 3355/00
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 3355/00
+
+**Secção:** Secção do Contencioso Tributário - Tribunal Central Administrativo
+
+**Data do Acordão:** 09/26/2000
+
+**Relator:** J. Correia
+
+**Descritores:** OPOSIÇÃO; FALSIDADE DO TÍTULO EXECUTIVO; INEXIGIBILIDADE DA OBRIGAÇÃO EXEQUENDA; ILEGALIDADE EM CONCRETO
+
+**Aditamento:** 1
+
+## Sumário
+
+I- A falsidade do título executivo a que se refere a al. c) do nº l do artº 286º do CPT ,
+
+enquanto fundamento válido de oposição à execução fiscal, é tão só a falsidade material do próprio
+
+título, isto é, a sua eventual desconformidade com o original, e não a eventual falsidade intelectual ou
+
+ideológica porventura traduzida na alegada desconformidade entre a realidade e o teor do título
+
+executivo.
+
+II- Nos termos do artº 286º n.º l als. a) e g) do CPT a legalidade do acto tributário de liquidação só pode
+
+ser válida e eficazmente controvertida ou questionada em processo de oposição à execução fiscal nos
+
+casos de ilegalidade abstracta - al. a) - e em casos de ilegalidade concreta apenas quando a lei não
+
+assegure meio judicial de impugnação ou recurso contra o acto de liquidação - al. g) -. Ou seja, em
+
+oposição à execução fiscal, à sombra da al. g) do artº 286º do C. P. T., nunca é de admitir a apreciação
+
+da ilegalidade, em concreto, da divida exequenda; para isso, há sempre outros caminhos idóneos, e
+
+respectivos prazos:- a impugnação, nas dívidas emergentes de actos tributários - e, nas de outra
+
+proveniência, o foro próprio correspondente, para além dos meios graciosos.
+
+III- Quando a recorrente considera que não tendo cometido qualquer irregularidade na utilização dos
+
+subsídios, por conseguinte, nada devendo ao DAFSE, consequentemente, é-lhe inexigível obrigação
+
+exequenda, sendo, por isso, também fundamento à oposição, nos termos do artº 815º, nº l, e alínea e), do
+
+artº 813º, ambos do C.P.C. aplicável por força do disposto na alínea f) do artº 2º, do CPT , acaba por
+
+discutir a inexistência de facto gerador da dívida exequenda, em manifesta interferência em matéria da
+
+exclusiva competência da entidade que extraiu o titulo.
+
+IV- Por isso que a al. h) do nº l do artº 286º do CPT , quando prevê que podem basear a oposição
+
+quaisquer fundamentos não referidos nas alíneas anteriores a provar apenas por documento, desde que
+
+não envolvam apreciação da legalidade da liquidação da dívida exequenda, nem representem
+
+interferência em matéria de exclusiva competência da entidade que houver extraído o título, deva ser
+
+aproximada da al. h) do artº 813º do CPC referido, que preceitua que a oposição à execução fundada em
+
+sentença SÓ pode ter os fundamentos que tipifica:-" qualquer facto extintivo ou modificativo da
+
+obrigação desde que seja posterior ao encerramento da discussão no processo de declaração e se prove
+
+por documento ".
+
+V- Não colhe o fundamento da inconstitucionalidade do artº 286º nº l do CPT porquanto nele se
+
+estabelece um leque amplo de fundamentos para atacar a execução, restringindo a prova de qualquer
+
+outro fundamento que seja invocado à prova documental por forma a afastar a reabertura da apreciação
+
+da legalidade da dívida exequenda.
+
+VI- A «mens legislatoris» ao estabelecer aquela restrição é, claramente, a de ainda permitir ao executado
+
+que ataque as ilegalidades mais flagrantes que inquinem a exequibilidade do título, a reparação de
+
+ilegalidades mais grosseiras.
+
+VII- Assim, o título dado à execução deve conter os requisitos estabelecidos no artº 249º do CPT e
+
+certificará a existência de dívida certa, liquida e exigível, funcionando como causa de pedir e
+
+harmonizando-se o pedido com o mesmo. Se não, padecerá de nulidade que deverá ser suscitada no
+
+processo principal.
+
+VIII- Neste contexto, decorre que a «ratio legis» do preceito em análise é a da impertinência e
+
+desnecessidade perante uma dívida certa, liquida e exigível, equiparada a uma decisão com trânsito em
+
+julgado, em permitir a reabertura do processo executivo para enxertar nele um processo declarativo para
+
+voltar a questionar a legalidade da divida cuja discussão já se encerrara.
