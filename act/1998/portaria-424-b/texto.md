@@ -1,0 +1,29 @@
+Portaria n.º 424-B/98
+de 24 de Julho
+O Regulamento Geral do Serviço de Pilotagem dos Portos e Barras, aprovado pelo Decreto-Lei n.º 166/89, de 19 de Maio, veio permitir o acesso ao exercício da pilotagem a comandantes de embarcações, desde que preencham determinados requisitos que se prendem com a aferição das necessárias capacidade técnica e experiência profissional, mediante a atribuição de licença de pilotagem, de acordo com a regulamentação que veio a ser aprovada pela Portaria n.º 268/90, de 10 de Abril.
+Considerando que certos aspectos da Portaria n.º 268/90 não se coadunam com a realidade existente nos portos portugueses, importa proceder a alguns ajustamentos que viabilizem a atribuição das licenças de pilotagem aos comandantes de embarcações nos termos permitidos legalmente.
+Nestes termos:
+Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administração do Território, ao abrigo do disposto no n.º 1 do artigo 17.º do Decreto-Lei n.º 166/89, de 19 de Maio, o seguinte:
+1.º O n.º 3 do n.º 1.º, a alínea a) do n.º 2.º, a alínea a) do n.º 2 do n.º 6.º, o n.º 7.º e o n.º 11.º da Portaria n.º 268/90, de 10 de Abril, passam a ter a seguinte redacção:
+«1.º - 1 - ...
+2 - ...
+3 - O modelo da licença de pilotagem é o constante do anexo I à presente portaria.
+2.º - ...
+a) Fazer prova de que nos últimos 12 meses frequentou o porto pelo menos três vezes;
+b) ...
+c) ...
+d) ...
+6.º - 1 - ...
+2 - ...
+a) Quando o seu titular comandar embarcações que transportem produtos químicos, combustíveis líquidos ou gasosos, explosivos ou produtos radioactivos;
+b) ...
+7.º Em caso de acidente marítimo em área de pilotagem obrigatória que envolva o titular de licença de pilotagem, o conselho directivo do INPP mandará proceder às averiguações preliminares que, nos termos do Regulamento Geral do Serviço de Pilotagem dos Portos e Barras, possam conduzir à suspensão da respectiva licença.
+11.º Compete ao conselho directivo do INPP pronunciar-se sobre o cumprimento ou não, por parte do titular da licença de pilotagem, das normas de segurança e funcionamento em vigor no respectivo porto, mediante comunicação da chefia do departamento local.»
+2.º É eliminado o n.º 5.º da Portaria n.º 268/90, de 10 de Abril.
+3.º A presente portaria entra em vigor no dia imediato ao da sua publicação.
+Ministério do Equipamento, do Planeamento e da Administração do Território.
+Assinada em 17 de Julho de 1998.
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.
+
+ANEXO I
+(ver modelo no documento original)
