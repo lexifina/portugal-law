@@ -1,0 +1,10 @@
+Portaria n.º 24133
+No prosseguimento das medidas que devem ser adoptadas com vista a criar as condições que permitam a execução gradual da Lei n.º 2118, de 3 de Abril de 1963, verifica-se a conveniência de instalar serviços que habilitem os actuais e futuros centros de saúde mental a dispor dos meios auxiliares de diagnóstico e terapêutica indispensáveis.
+Não só razões de ordem económica, mas sobretudo vantagens técnicas e a necessidade de aproveitar da melhor forma o pouco pessoal especializado existente, levam a estruturar tais serviços como serviços aptos a exercerem a sua actividade em benefício de vários estabelecimentos.
+Julga-se, agora, oportuno criar nestas condições um serviço de psicologia clínica que atenda às necessidades dos estabelecimentos de assistência psiquiátrica destinados a doentes adultos que existem, ou venham a existir, na dependência da Delegação da Zona Sul do Instituto de Assistência Psiquiátrica.
+Assim:
+Nos termos do artigo 2.º do Decreto-lei n.º 48448, de 22 de Julho de 1968:
+Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência, o seguinte:
+1.º É criado um serviço de psicologia clínica, que fica integrado no Hospital de Júlio de Matos e ao qual compete a execução dos exames psicológicos pedidos pelos serviços de assistência psiquiátrica, destinados a doentes adultos, existentes em Lisboa, podendo eventualmente realizar outros exames ou exercer funções afins, nos termos que forem fixados no regulamento interno.
+2.º O Serviço de Psicologia Clínica é um serviço oficial do Ministério da Saúde e Assistência e ficará em regime de instalação, nos termos dos artigos 7.º e seguintes do Decreto-Lei n.º 31913, de 12 de Março de 1942, pelo período de dois anos, a contar da data da publicação desta portaria, ficando a respectiva administração a cargo dos órgãos normais de gerência do Hospital de Júlio de Matos.
+Ministério da Saúde e Assistência, 24 de Junho de 1969. - O Ministro da Saúde e Assistência, Lopo de Carvalho Cancella de Abreu.
