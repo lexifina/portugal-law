@@ -1,0 +1,4 @@
+Aviso n.º 278/95
+Por ordem superior se torna público que, por nota de 30 de Junho de 1995 e nos termos do artigo 46.º da Convenção sobre a Administração Internacional de Heranças, depositada na Haia em 2 de Outubro de 1973, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a República Checa, por nota datada de 31 de Maio de 1995 e recebida a 6 de Junho de 1995, retirado a sua declaração relativa ao artigo 43.º, feita aquando da assinatura e da ratificação da mencionada Convenção.
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 734/75, de 23 de Dezembro, encontrando-se regulamentado em Portugal pelo Decreto-Lei n.º 327/77, de 10 de Agosto, o processo de reconhecimento do certificado previsto na Convenção.
+Departamento de Assuntos Jurídicos, 1 de Setembro de 1995. - O Director, José Maria Teixeira Leite Martins.
