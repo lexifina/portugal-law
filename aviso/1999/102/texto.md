@@ -1,0 +1,5 @@
+Aviso n.º 102/99
+Por ordem superior se torna público que, em 25 de Novembro de 1998 e em 19 de Maio de 1999, foram remetidas notas verbais, respectivamente pelo Ministério dos Negócios Estrangeiros da República Portuguesa e pelo Ministério das Relações Exteriores da República de Cuba, em que se comunica terem sido cumpridas as formalidades requeridas pelos ordenamentos jurídicos de ambos os países para a aprovação do Acordo entre a República Portuguesa e a República de Cuba sobre Cooperação na Prevenção do Uso Indevido e Repressão do Tráfico Ilícito de Estupefacientes e Substâncias Psicotrópicas, assinado em Havana em 8 de Julho de 1998.
+O presente Acordo foi aprovado pelo Decreto do Governo n.º 41/98, publicado no Diário da República, 1.ª série-A, n.º 260, de 10 de Novembro de 1998.
+Em conformidade com o disposto no seu artigo 9.º, o Acordo entrou em vigor em 19 de Maio de 1999.
+Direcção-Geral das Relações Bilaterais, 20 de Julho de 1999. - O Director-Geral, José Caetano de Campos Andrada da Costa Pereira.
