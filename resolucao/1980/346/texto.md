@@ -1,0 +1,5 @@
+Resolução n.º 346/80
+As tarefas de reconstrução realizadas na sequência do sismo ocorrido em 1 de Janeiro de 1980 em alguns dos concelhos da Região Autónoma dos Açores têm absorvido elevado montante de recursos financeiros, provenientes de diversas fontes, nomeadamente do Orçamento Geral do Estado.
+O ritmo de execução das obras em curso torna necessário o reforço de tais recursos, através de nova utilização parcial da verba para o efeito inscrita no Orçamento Geral do Estado de 1980.
+Deste modo, o Conselho de Ministros, reunido em 17 de Setembro de 1980, resolveu autorizar o Ministro das Finanças e do Plano a transferir para o Orçamento da Região Autónoma dos Açores uma importância adicional, de 200 mil contos, da verba inscrita no cap. 50, div. 01, C. E. 71.09, do orçamento do Ministério das Finanças e do Plano para, ao abrigo do disposto no n.º 4 do artigo 34.º da Lei n.º 8-A/80, de 26 de Maio, apoiar a reconstrução das zonas afectadas pelo sismo ocorrido em Janeiro do corrente ano na Região Autónoma dos Açores.
+Presidência do Conselho de Ministros, 17 de Setembro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
