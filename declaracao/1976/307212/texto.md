@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério dos Transportes e Comunicações, a Portaria n.º 597/75, de 9 de Outubro, publicada no Diário do Governo, 1.ª série, n.º 234, de 9 de Outubro de 1975, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 2.º, n.º 1, alínea c), onde se lê: «Processos de transgressão às disposições do Código da Estrada, seu regulamento e disposições complementares.», deve ler-se: «Processos de transgressão às disposições do Código da Estrada, seu regulamento e disposições complementares e processos de transgressão às disposições do Regulamento de Transportes em Automóveis e legislação complementar.»
+Secretaria-Geral da Presidência do Conselho de Ministros, 8 de Março de 1976. - O Secretário-Geral, Manuel Roque.
