@@ -1,0 +1,7 @@
+Portaria n.º 552/81
+de 4 de Julho
+Tendo sido dada por finda, a seu pedido, nos termos da alínea a) do n.º 4 do artigo 4.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, conforme despacho publicado no Diário da República, n.º 261, de 11 de Novembro de 1980, a comissão de serviço ao abrigo da qual o licenciado Mário Simões vinha exercendo as funções de vice-presidente da Comissão Reguladora do Comércio do Bacalhau;
+Tendo o mesmo funcionário sido nomeado definitivamente assessor, letra B, do quadro do pessoal da Direcção-Geral do Comércio Alimentar, com efeitos a partir de 18 de Abril de 1980, por despacho do Ministro do Comércio e Turismo de 31 de Março de 1981;
+Havendo necessidade, nos termos do n.º 2 do artigo 14.º do citado Decreto-Lei n.º 191-F/79, de 26 de Junho, de alterar o quadro da mesma Direcção-Geral e de criar o lugar necessário ao provimento do mesmo funcionário:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, do Comércio e Turismo e da Reforma Administrativa, criar 1 lugar de assessor, letra B, no quadro do pessoal da Direcção-Geral do Comércio Alimentar, aprovado pela Portaria n.º 955/80, de 10 de Novembro, o qual será extinto quando vagar.
+Ministérios das Finanças e do Plano, do Comércio e Turismo e da Reforma Administrativa, 26 de Maio de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro do Comércio e Turismo, Alexandre de Azeredo Vaz Pinto. - Pelo Ministro da Reforma Administrativa, José Queirós Lopes Raimundo, Secretário de Estado da Reforma Administrativa.
