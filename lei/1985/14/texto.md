@@ -1,0 +1,33 @@
+Lei n.º 14/85
+de 6 de Julho
+ACOMPANHAMENTO DA MULHER GRÁVIDA DURANTE O TRABALHO DE PARTO
+A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 2, da Constituição, o seguinte:
+ARTIGO 1.º
+(Direito ao acompanhamento)
+1 - A mulher grávida internada em estabelecimento público de saúde poderá, a seu pedido, ser acompanhada durante o trabalho de parto pelo futuro pai e, inclusive, se o desejar, na fase do período expulsivo.
+2 - O acompanhante a que se refere o número anterior poderá, por vontade expressa da grávida, ser substituído por um familiar indicado por ela.
+ARTIGO 2.º
+(Condições de acompanhamento)
+1 - Na medida necessária ao cumprimento do disposto na presente lei, o acompanhante não será submetido aos regulamentos hospitalares de visitas nem aos seus condicionamentos, estando, designadamente, isento do pagamento da respectiva taxa.
+2 - O direito ao acompanhamento pode ser exercido independentemente do período do dia ou da noite em que o trabalho de parto ocorrer.
+ARTIGO 3.º
+(Condições de exercício)
+1 - O acompanhamento previsto na presente lei poderá excepcionalmente não se efectivar quando, em situações clínicas graves, for desaconselhável e expressamente determinado pelo médico obstetra.
+2 - Poderá igualmente não se efectivar o acompanhamento nas unidades assistenciais onde as instalações ainda não sejam consentâneas com a presença do acompanhante e com a garantia de privacidade invocada por outras parturientes.
+3 - Nos casos previstos nos números anteriores serão os interessados correctamente informados das respectivas razões pelo pessoal responsável.
+4 - O direito de acompanhamento exerce-se com respeito pelas instruções e demais regras técnicas relativas aos cuidados de saúde aplicáveis e sem prejuízo do normal funcionamento dos serviços.
+ARTIGO 4.º
+(Organização dos serviços)
+1 - As direcções clínicas das unidades assistenciais cujas instalações permitam desde já a aplicação da presente lei procederão de imediato às alterações funcionais necessárias.
+2 - As administrações hospitalares devem considerar desde já nos seus planos a modificação das instalações e das condições de organização dos serviços, de modo a melhor adaptarem as unidades existentes à presença do acompanhante da grávida, nomeadamente através da criação de instalações adequadas onde se processe o trabalho de parto, de forma a assegurar a sua privacidade.
+3 - As novas unidades hospitalares e os restantes serviços de saúde a criar que disponham de internamentos e serviços de obstetrícia serão programadas e projectadas com vista a possibilitar, nas condições mais adequadas, o cumprimento do disposto no presente diploma.
+ARTIGO 5.º
+(Cooperação entre os acompanhantes e os serviços)
+Serão adoptadas as medidas necessárias à garantia da cooperação entre a mulher grávida, o acompanhante e os serviços, devendo estes, designadamente, prestar informação adequada sobre o decorrer do parto, bem como sobre as acções clinicamente necessárias.
+Aprovada em 2 de Maio de 1985.
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
+Promulgada em 3 de Junho de 1985.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendada em 11 de Junho de 1985.
+O Primeiro-Ministro, Mário Soares.
