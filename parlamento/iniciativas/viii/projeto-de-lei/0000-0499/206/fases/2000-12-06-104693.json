@@ -1,0 +1,643 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "206",
+    "id": "6040",
+    "titulo": "Cria o cheque-medicamento"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-12-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1602",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-12-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-12-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135550",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1071-1073"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-07",
+                "pubLeg": "VIII",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/027/2000-12-07/1071?pgs=1071-1073&org=PLC"
+              }
+            ],
+            "sumario": "Cheque-medicamento. Dec Lei nº 205/2000. Responde ao deputado José Pedro Correia (PS).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1374",
+                "nome": "João Pedro Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135551",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1072-1073",
+                  "1075-1075"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-07",
+                "pubLeg": "VIII",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/027/2000-12-07/1072?pgs=1072-1073,1075&org=PLC"
+              }
+            ],
+            "sumario": "Cheque-medicamento. Dec Lei nº 205/2000. Aos deputados Pedro Mota Soares (CDS_PP) e Bernardino Soares (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1826",
+                "nome": "Joaquim Ponte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135552",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1073-1074"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-07",
+                "pubLeg": "VIII",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/027/2000-12-07/1073?pgs=1073-1074&org=PLC"
+              }
+            ],
+            "sumario": "Cheque-medicamento. Dec Lei nº 205/2000.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135553",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1074-1075"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-07",
+                "pubLeg": "VIII",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/027/2000-12-07/1074?pgs=1074-1075&org=PLC"
+              }
+            ],
+            "sumario": "Cheque-medicamento. Dec Lei nº 205/2000. Responde aos deputados João Pedro Correia (PS) e Pedro Mota Soares (CDS-PP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1075-1076",
+                  "1082-1082"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-07",
+                "pubLeg": "VIII",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/027/2000-12-07/1075?pgs=1075-1076,1082&org=PLC"
+              }
+            ],
+            "sumario": "Cheque-medicamento. Dec Lei nº 205/2000. Aos deputados Bernardino Soares (PCP) e Paulo Pisco (PS) e ao Secretário de Estado da Saúde (José Miguel Boquinhas).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1741",
+                "nome": "Paulo Pisco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135555",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1076-1078"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-07",
+                "pubLeg": "VIII",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/027/2000-12-07/1076?pgs=1076-1078&org=PLC"
+              }
+            ],
+            "sumario": "Cheque-medicamento. Dec Lei nº 205/2000. Responde ao deputado Pedro Mota Soares (CDS_PP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1653",
+                "nome": "Helena Neves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135556",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1078-1079",
+                  "1083-1083"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-07",
+                "pubLeg": "VIII",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/027/2000-12-07/1078?pgs=1078-1079,1083&org=PLC"
+              }
+            ],
+            "sumario": "Cheque-medicamento. Dec Lei nº 205/2000.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1607",
+                "nome": "Patinha Antão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135557",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1079-1081"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-07",
+                "pubLeg": "VIII",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/027/2000-12-07/1079?pgs=1079-1081&org=PLC"
+              }
+            ],
+            "sumario": "Cheque-medicamento. Dec Lei nº 205/2000. Responde à deputada Luisa Portugal (PS).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1701",
+                "nome": "Luísa Portugal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135558",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1080-1081"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-07",
+                "pubLeg": "VIII",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/027/2000-12-07/1080?pgs=1080-1081&org=PLC"
+              }
+            ],
+            "sumario": "Cheque-medicamento. Dec Lei nº 205/2000. Ao deputado Patinha Antão (PSD).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  SAÚDE",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Miguel Boquinhas"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135559",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1081-1083"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-07",
+                "pubLeg": "VIII",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/027/2000-12-07/1081?pgs=1081-1083&org=PLC"
+              }
+            ],
+            "sumario": "Cheque-medicamento. Dec Lei nº 205/2000. Responde ao deputado Pedro Mota Soares (CDS_PP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1212",
+                "nome": "Ana Catarina Mendonça"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135560",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1083-1083"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-07",
+                "pubLeg": "VIII",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/027/2000-12-07/1083?pgs=1083&org=PLC"
+              }
+            ],
+            "sumario": "Cheque-medicamento. Dec Lei nº 205/2000.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  SAÚDE",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Miguel Boquinhas"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135561",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1083-1083"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-07",
+                "pubLeg": "VIII",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/027/2000-12-07/1083?pgs=1083&org=PLC"
+              }
+            ],
+            "sumario": "Cheque-medicamento. Dec Lei nº 205/2000. À deputada Helena Neves (BE).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104693",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1602",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-12-07",
+        "pubLeg": "VIII",
+        "pubNr": "27",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/027/2000-12-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
