@@ -1,0 +1,405 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "30",
+    "id": "5482",
+    "titulo": "Altera o decreto-lei n.º 163/93, de 7 de Maio (programa especial de realojamento nas áreas metropolitanas de Lisboa e do Porto)."
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "1996-07-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1358",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "1996-07-12",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5550",
+        "leg": "VII",
+        "nr": "110",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "196",
+            "obs": null,
+            "pag": [
+              "3315-3316"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1996-07-13",
+            "pubLeg": "VII",
+            "pubNr": "96",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/096/1996-07-13/3315?pgs=3315-3316&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Revisão da legislação referente ao programa especial de realojamento nas áreas metropolitanas de Lisboa e do Porto (PER) e programas similares."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1996-07-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "815",
+                "nome": "José Calçada"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3315-3316"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-13",
+                "pubLeg": "VII",
+                "pubNr": "96",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/096/1996-07-13/3315?pgs=3315-3316&org=PLC"
+              }
+            ],
+            "sumario": "PROGRAMA ESPECIAL DE REALOJAMENTO NAS AREAS METROPOLITANAS DE LISBOA E PORTO (DL163/93 DE 7 MAIO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3315-3316"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-13",
+                "pubLeg": "VII",
+                "pubNr": "96",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/096/1996-07-13/3315?pgs=3315-3316&org=PLC"
+              }
+            ],
+            "sumario": "PROGRAMA ESPECIAL DE REALOJAMENTO NAS AREAS METROPOLITANAS DE LISBOA E PORTO (DL163/93 DE 7 MAIO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "317",
+                "nome": "Teresa Patrício Gouveia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42079",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3315-3315"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-13",
+                "pubLeg": "VII",
+                "pubNr": "96",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/096/1996-07-13/3315?pgs=3315&org=PLC"
+              }
+            ],
+            "sumario": "PROGRAMA ESPECIAL DE REALOJAMENTO NAS AREAS METROPOLITANAS DE LISBOA E PORTO (DL163/93 DE 7 MAIO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "281",
+                "nome": "Álvaro Amaro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42080",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3315-3315"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-13",
+                "pubLeg": "VII",
+                "pubNr": "96",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/096/1996-07-13/3315?pgs=3315&org=PLC"
+              }
+            ],
+            "sumario": "PROGRAMA ESPECIAL DE REALOJAMENTO NAS AREAS METROPOLITANAS DE LISBOA E PORTO (DL163/93 DE 7 MAIO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "324",
+                "nome": "Fernando Pedro Moutinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42081",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3315-3315"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-13",
+                "pubLeg": "VII",
+                "pubNr": "96",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/096/1996-07-13/3315?pgs=3315&org=PLC"
+              }
+            ],
+            "sumario": "PROGRAMA ESPECIAL DE REALOJAMENTO NAS AREAS METROPOLITANAS DE LISBOA E PORTO (DL163/93 DE 7 MAIO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1194",
+                "nome": "Lucília Ferra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:25",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3315-3315"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-13",
+                "pubLeg": "VII",
+                "pubNr": "96",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/096/1996-07-13/3315?pgs=3315&org=PLC"
+              }
+            ],
+            "sumario": "PROGRAMA ESPECIAL DE REALOJAMENTO NAS AREAS METROPOLITANAS DE LISBOA E PORTO (DL163/93 DE 7 MAIO)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "103447",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1996-07-12",
+        "descricao": "votado o texto final da comissão",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>",
+        "id": "24235",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "110173",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1996-07-13",
+            "pubLeg": "VII",
+            "pubNr": "96",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/096/1996-07-13?org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "96",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
