@@ -1,0 +1,5 @@
+Aviso n.º 169/99
+Por ordem superior se torna público que, por nota de 17 de Setembro de 1999, o Secretário-Geral das Nações Unidas, na sua qualidade de depositário da Convenção para a Prevenção e Repressão do Crime de Genocídio, adoptada pela Assembleia Geral das Nações Unidas em 9 de Dezembro de 1948, comunicou ter o Governo de Portugal notificado, por nota depositada em 16 de Setembro, que a Convenção é aplicável ao território de Macau e que a Convenção entrou em vigor, para Macau, na data da notificação.
+Portugal é Parte da Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 37/98, publicada no Diário do República 1.ª série-A, n.º 160, de 14 de Julho de 1998, e estendida a Macau pelo Decreto do Presidente da República n.º 187/99, de 24 de Setembro, publicado no Diário da República, 1.ª série-A, n.º 224, de 24 de Setembro de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 28 de Setembro de 1999. - António Nunes de Carvalho Santana Carlos.
