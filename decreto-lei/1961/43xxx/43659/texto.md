@@ -1,0 +1,10 @@
+Decreto-Lei n.º 43659
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Compete à Reitoria da Universidade de Lisboa decidir sobre a forma de exploração dos restaurantes da Cidade Universitária de Lisboa.
+Art. 2.º A exploração dos restaurantes poderá ser feita directamente pelo conselho administrativo da Universidade ou por entidade a quem ele confira delegação para o efeito ou ainda em regime de concessão, mediante concurso público cujo programa e caderno de encargos sejam aprovados pelo Ministério da Educação Nacional.
+§ 1.º Para funcionamento dos restaurantes poderão ser concedidos subsídios, de importância a fixar por acordo dos Ministros das Finanças e da Educação Nacional, reembolsáveis ou não, conforme for estabelecido pelos mesmos Ministros.
+§ 2.º O pessoal necessário para a exploração dos restaurantes será admitido e dispensado livremente e não terá outros direitos além dos que por lei se encontram estabelecidos para o pessoal de iguais ou idênticas categorias em instituições privadas.
+Art. 3.º Pelo Ministério da Educação Nacional serão expedidos os regulamentos e instruções necessários para a execução deste decreto-lei.
+Art. 4.º As despesas a que dê lugar a execução do presente diploma no ano de 1961 poderão ser satisfeitas pela verba do capítulo 3.º, artigo 195.º, alínea a), n.º 1), do orçamento de despesa do Ministério da Educação Nacional («Subsídios às instituições circum-escolares»).
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 4 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
