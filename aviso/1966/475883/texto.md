@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se faz publico que o Governo do Quénia, por notas datadas de 22 e 30 de Março de 1965 dirigidas a Embaixada da Suíça em Nairobi, denunciou, na parte que diz respeito ao seu país, os seguintes Acordos celebrados entre Portugal e o Reino Unido antes do acesso daquele país africano à independência:
+1) Tratado de comércio e navegação entre Portugal e o Reino Unido da Grã-Bretanha e Irlanda do Norte, assinado em Lisboa em 12 de Agosto de 1914, tornado extensivo ao Quénia em 20 de Maio de 1916 e publicado no Diário do Governo n.º 173, 1.ª série, de 28 de Agosto de 1916;
+2) Acordo, por troca de notas, entre os Governos de Portugal e do Reino Unido da Grã-Bretanha e Irlanda do Norte relativo ao Tratado de comércio e navegação de 12 de Agosto de 1914, cujo texto se encontra publicado no Diário do Governo n.º 151, 1.ª série, de 29 de Junho de 1934.
+Direcção-Geral dos Negócios Económicos e Consulares, 26 de Abril de 1966. - O Adjunto do Director-Geral, Fernando de Magalhães Cruz.
