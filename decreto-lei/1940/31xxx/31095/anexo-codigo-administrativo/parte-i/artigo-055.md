@@ -2,7 +2,7 @@
 
 Carecem de aprovação do conselho municipal, para se tornarem executórias, as deliberações das câmaras:
 
-1.º Que revistam a forma de postura ou regulamento policial, exceptuados os respeitantes a polícia sanitária e ao trânsito na via pública;
+1.º Que revistam a forma de postura ou regulamento policial, exceptuadas as respeitantes a polícia sanitária;
 
 2.º Que envolvam alienação do bens próprios do concelho;
 
@@ -22,7 +22,7 @@ Carecem de aprovação do conselho municipal, para se tornarem executórias, as 
 
 10.º Que respeitem à criação ou adesão a uma federação de municípios, ou à sua dissolução e ao destino a dar aos respectivos bens.
 
-§ 1.º As posturas e regulamentos relativos a polícia sanitária e ao trânsito na via pública carecem de aprovação do Governo, pelos Ministérios da Saúde e Assistência e das Comunicações, respectivamente.
+§ 1.º As posturas e regulamentos relativos a polícia sanitária carecem de aprovação do Governo, pelo Ministério da Saúde e Assistência.
 
 § 2.º As deliberações que respeitem à municipalização de serviços, concessão de exclusivos por prazo superior a um ano e criação, remodelação ou supressão de partidos, depois de aprovadas pelo conselho municipal, carecem de aprovação do Governo, pelo Ministério do Interior, ouvido o Ministério respectivo quando se trate de deliberações sobre partidos.
 
