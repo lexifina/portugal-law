@@ -1,0 +1,4 @@
+Aviso
+Para os devidos efeitos se torna público que, em virtude das obrigações decorrentes da adesão de Portugal à Comunidade Económica Europeia em 1 de Janeiro de 1986, foi denunciado, por meio de nota datada de 8 de Julho corrente, endereçada à Embaixada da República Popular da Bulgária em Lisboa, o Acordo de Comércio a Longo Prazo entre o Governo da República Portuguesa e o Governo da República Popular da Bulgária, assinado em Sófia em 11 de Fevereiro de 1975, publicado no Diário do Governo, 1.ª série, n.º 270, de 21 de Novembro de 1975, e em vigor a partir de 29 de Novembro de 1975.
+Nesta conformidade, e segundo o disposto no seu artigo 15.º, o Acordo em apreço deixará de vigorar a partir de 29 de Novembro do corrente ano.
+Direcção de Serviços da Europa, 29 de Julho de 1988. - O Director de Serviços, Afonso Maria Teixeira da Mota.
