@@ -1,0 +1,4 @@
+Declaração
+Com fundamento nos n.os 1 e 2 da Resolução do Conselho de Ministros n.º 48/86, de 5 de Junho, publicada no Diário da República, 1.ª série, n.º 143, de 25 seguinte, e no n.º 1 do artigo 6.º do Decreto-Lei n.º 46/84, de 4 de Fevereiro, se publicam as seguintes alterações orçamentais efectuadas nos orçamentos abaixo designados e autorizadas por despachos do Ministro das Finanças:
+(ver documento original)
+Direcção dos Serviços Gerais do Orçamento da Direcção-Geral da Contabilidade Pública, 28 de Novembro de 1986. - O Director, Carlos Francisco de Assis Fernandes Rosa.
