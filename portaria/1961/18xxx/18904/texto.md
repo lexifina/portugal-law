@@ -1,0 +1,5 @@
+Portaria n.º 18904
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, abrir em Moçambique um crédito especial da quantia de 375000$00, a inscrever em adicional à tabela de despesa ordinária do orçamento geral para o ano de 1961, destinado ao pagamento a 100 pessoas consideradas idóneas para regerem turmas das escolas primárias criadas pelos Diplomas Legislativos n.os 2108 e 2132, respectivamente de 28 de Agosto e 21 de Outubro de 1961, no período de 15 de Novembro a 31 de Dezembro do mesmo ano, tomando como contrapartida as disponibilidades existentes na verba do capítulo 4.º, artigo 135.º, n.º 1), alínea a) «Serviços de instrução - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+Ministério do Ultramar, 22 de Dezembro de 1961. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - J. Costa Freitas.
