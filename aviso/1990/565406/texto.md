@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, por notificação ao Departamento Federal dos Negócios Estrangeiros da Suíça de 20 de Junho de 1990, Portugal retirou a reserva formulada à inscrição, proposta pela Índia e pela Colômbia, de novas espécies no anexo III da Convenção sobre o Comércio Internacional de Espécies de Fauna e Flora Selvagens Ameaçadas de Extinção, concluída em Washington a 3 de Março de 1973, à excepção das espécies Vulpes vulpes griffithi, Vulpes vulpes montana, Vulpes vulpes pusilla e Mustela erminea.
+Direcção-Geral dos Negócios Político-Económicos, 11 de Outubro de 1990. - O Director de Serviços dos Assuntos Multilaterais, José Tadeu Soares.
