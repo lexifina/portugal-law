@@ -1,0 +1,5 @@
+Despacho Normativo n.º 219/79
+As habilitações literárias exigidas nos termos do Decreto Regulamentar n.º 79/77, de 26 de Novembro, têm sido consideradas, de acordo com os despachos normativos criados ao abrigo do artigo 52.º do Decreto-Lei n.º 221/77, de 28 de Maio, com a redacção dada pelo artigo 1.º do Decreto-Lei n.º 320/78, de 4 de Novembro, até à data de 31 de Dezembro de 1977.
+Tendo-se, entretanto, verificado que a fixação de tal limite tem criado situações de injustiça relativa, dando origem a que funcionários ingressem em carreiras de nível inferiores a outras para que se encontram actualmente habilitados e que integram efectivamente as funções que se encontram a exercer, determino:
+As habilitações literárias adquiridas até à data da publicação deste despacho são consideradas, no âmbito do processo de reclassificação em curso neste Ministério, para efeito de primeiro provimento nos quadros únicos.
+Ministério da Agricultura e Pescas, 28 de Agosto de 1979. - O Ministro da Agricultura e Pescas, Joaquim da Silva Lourenço.
