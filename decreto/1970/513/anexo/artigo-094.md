@@ -1,0 +1,7 @@
+# Artigo 94.º
+
+### Dispositivo de alarme dos ascensores
+
+1. Os ascensores deverão possuir um dispositivo de alarme, com comando na cabina, identificado pela designação «alarme» bem visível ou por um símbolo figurativo com a forma de um sino, que produza um sinal sonoro bem característico e perfeitamente audível no local onde normalmente esteja o encarregado de serviço do ascensor.
+
+2. O dispositivo de alarme, se for eléctrico, será alimentado por um acumulador permanentemente recarregável pela rede de energia, com capacidade para emitir o alarme mesmo que a energia da rede falte durante algumas horas.
