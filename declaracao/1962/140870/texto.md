@@ -1,0 +1,13 @@
+Declaração
+De harmonia com as disposições do artigo 7.º do Decreto-Lei n.º 25299, de 6 de Maio de 1935, se publica que S. Ex.ª o Ministro dos Negócios Estrangeiros, por seu despacho de 16 de Abril corrente, autorizou, nos termos do § 2.º do artigo 17.º do Decreto n.º 16670, de 27 de Março de 1929, as seguintes transferências:
+CAPÍTULO 3.º
+Direcção-Geral dos Negócios Políticos e da Administração Interna
+Serviços externos da Direcção-Geral
+Artigo 24.º «Remunerações certas ao pessoal em exercício»:
+Do n.º 1) «Pessoal dos quadros aprovados por lei»:
+Alínea a) «Vencimentos» ... -150000$00
+Alínea b) «Representação» ... -1050000$00
+...-1200 000$00
+Para o n.º 4) «Pessoal assalariado» ... +1200000$00
+Conforme o preceituado no artigo 16.º do Decreto n.º 44115, de 23 de Dezembro de 1961, esta alteração orçamental mereceu, por despacho de 18 do mês em curso, a confirmação de S. Ex.ª o Subsecretário de Estado do Orçamento.
+7.ª Repartição da Direcção-Geral da Contabilidade Pública, 23 de Abril de 1962. - O Chefe da Repartição, Manuel António de Carvalho.
