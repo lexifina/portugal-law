@@ -1,0 +1,4 @@
+Resolução n.º 118/80
+O Conselho da Revolução, a solicitação do Presidente da Assembleia da República e do Provedor de Justiça, nos termos do n.º 1 do artigo 281.º da Constituição, e precedendo parecer da Comissão Constitucional, resolveu não emitir qualquer juízo sobre a constitucionalidade do artigo 230.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante, e da Pesca, aprovado pelo Decreto-Lei n.º 45969, de 15 de Outubro de 1964, dado que o corpo dessa disposição bem como aqueles dos seus parágrafos que regulam os efeitos do despedimento sem justa causa foram revogados por diploma publicado antes da entrada em vigor da Constituição.
+Aprovada em Conselho da Revolução em 25 de Março de 1980.
+O Presidente do Conselho da Revolução, António Ramalho Eanes.
