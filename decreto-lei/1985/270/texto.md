@@ -1,0 +1,43 @@
+Decreto-Lei n.º 270/85
+de 16 de Julho
+A legislação que actualmente regulamenta a concessão da carta de caçador - artigos 11.º a 43.º do Decreto n.º 47847, de 14 de Agosto de 1967 - foi elaborada com vista à Passagem manual do respectivo documento.
+Tem-se assistido, entretanto, ao aumento do número de indivíduos portadores da carta de caçador, que já excede os 300000, situação que, com os meios disponíveis actuais, não se compadece com uma resposta atempada às solicitações, particularmente em períodos de ponta que coincidem com a proximidade da abertura da caça e que se prolongam, em regra, até Dezembro/Janeiro.
+Importa, por isso, proceder à informatização da carta de caçador, a fim de permitir, por um lado, dar resposta atempada aos pedidos apresentados e, por outro, através da consequente criação de um banco de dados, exercer, em todo o território, o seu eficaz controle sobre a respectiva situação de legalidade.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - Da carta de caçador deverá constar:
+a) Número da emissão;
+b) Nome e data de nascimento do titular;
+c) Residência habitual, constante do bilhete de identidade;
+d) Data da concessão;
+e) Prazo da validade.
+2 - Quando seja caso disso, deverá ainda constar do documento:
+a) Proibição do uso de arma de fogo;
+b) Notação da existência de condenação judicial ou sanção administrativa que tenha sofrido por transgressão às disposições legais sobre caça;
+c) Quaisquer outras menções determinadas pelo director-geral das Florestas.
+Art. 2.º - 1 - A carta de caçador é requerida em impresso próprio, ao qual deverão ser juntos:
+a) Atestado médico comprovativo de que o requerente não possui qualquer aleijão ou tara física ou fisiológica, nem sofre de doença nervosa ou mental, nem de deficiência de visão que lhe impeça o exercício, sem perigo, do acto venatório;
+b) Certificado de registo criminal;
+c) Duas fotografias actuais, tipo passe;
+d) Impresso da carta de caçador, devidamente assinado.
+2 - O atestado médico deve ter sido passado há menos de 30 dias em relação à data da entrega da petição, mencionar o número, data e arquivo de emissão do bilhete de identidade do requerente e ter a assinatura do médico reconhecida nos termos da lei.
+3 - O requerente identificar-se-á no acto da apresentação do requerimento, exibindo o seu bilhete de identidade, para a respectiva conferência.
+4 - Para os nacionais não residentes e estrangeiros residentes em território português, o bilhete de identidade pode ser substituído pelo passaporte.
+Art. 3.º - 1 - A carta de caçador é válida em todo o território nacional durante 10 ou 5 anos, consoante tenha sido emitida ou renovada antes ou depois do final do ano em que o seu titular perfizer 50 anos.
+2 - Os prazos de validade referidos no número anterior podem ser prorrogados pelo período máximo de 1 ano, quando os serviços o julgarem conveniente.
+Art. 4.º - 1 - A carta de caçador é renovável mediante requerimento do interessado em impresso próprio, a apresentar durante os 60 dias que antecederem o termo da sua validade.
+2 - O requerimento a que alude o número anterior será acompanhado dos documentos previstos no artigo 2.º e da carta de caçador a renovar.
+Art. 5.º - 1 - As cartas de caçador que se extraviem ou deteriorem podem ser substituídas mediante requerimento em impresso próprio.
+2 - A Direcção-Geral das Florestas emitirá uma segunda via, que implica a caducidade do título anterior.
+Art. 6.º - 1 - Cada indivíduo só pode ser titular de uma carta de caçador.
+2 - O número individual atribuído na emissão da carta de caçador pela via informática manter-se-á nas renovações.
+Art. 7.º Os modelos da carta de caçador o impresso a que se refere este diploma, bem como preços, serão aprovados por portaria do Secretário de Estado da Produção Agrícola.
+Art. 8.º As taxas previstas para emissão e renovação da carta de caçador serão pagas antecipadamente e, em caso de indeferimento do pedido, devolvidas ao requerente as respectivas importâncias.
+Art. 9.º As receitas provenientes da execução deste diploma serão depositadas em contas de ordem da Direcção-Geral das Florestas.
+Art. 10.º O presente diploma entra em vigor 60 dias após a data da sua publicação.
+Visto e aprovado em Conselho de Ministros de 11 de Junho de 1985. - Mário Soares - Eduardo Ribeiro Pereira - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes - António Manuel Maldonado Gonelha - Álvaro Roque de Pinho Bissaia Barreto.
+Promulgado em 3 de Julho de 1985.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 8 de Julho de 1985.
+O Primeiro-Ministro, Mário Soares.
