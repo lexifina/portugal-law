@@ -1,0 +1,84 @@
+Portaria n.º 1055/82
+de 13 de Novembro
+Manda o Governo da República Portuguesa, pelo Ministro da Justiça, e em conformidade com o disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 373/82, de 11 de Setembro, o seguinte:
+1.º As secretarias judiciais dos tribunais abaixo relacionados passam a ter a seguinte composição:
+Tribunal de Menores de Lisboa
+Secretaria judicial:
+Secção central e 2 secções de processos:
+Pessoal:
+Cargos:
+... Número de lugares
+Secretário judicial ... 1
+Escrivão de direito ... 2
+Escrivão-adjunto ... 5
+Oficial judicial ... 3
+Escriturário judicial ... 5
+Afecto ao serviço do ministério público:
+Escrivão-adjunto ... 1
+Oficial judicial ... 1
+Escriturário judicial ... 1
+Tribunal de Menores do Porto
+Secretaria judicial:
+Secção central e 1 secção de processos:
+Pessoal:
+Cargos:
+... Número de lugares
+Secretário judicial ... 1
+Escrivão de direito ... 1
+Escrivão-adjunto ... 3
+Oficial judicial ... 2
+Escriturário judicial ... 3
+Afecto ao serviço do ministério público:
+Escriturário judicial ... 1
+Tribunal de Instrução Criminal de Lisboa
+Secretaria judicial:
+Secção central e 5 secções de processos:
+Pessoal:
+Cargos:
+... Número de lugares
+Secretário judicial ... 1
+Escrivão de direito ... 5
+Escrivão-adjunto ... 8
+Oficial judicial ... 8
+Escriturário judicial ... 10
+Oficial porteiro ... 1
+Afecto ao serviço do ministério público:
+Escrivão-adjunto (1 para o serviço do procurador da República) ... 6
+Oficial judicial ... 1
+Tribunal de Instrução Criminal do Porto
+Secretaria judicial:
+Secção central e 2 secções de processos:
+Pessoal:
+Cargos:
+... Número de lugares
+Secretário judicial ... 1
+Escrivão de direito ... 2
+Escrivão-adjunto ... 4
+Oficial judicial ... 3
+Escriturário judicial ... 4
+Afecto ao serviço do ministério público:
+Escrivão-adjunto ... 1
+Escriturário judicial ... 1
+2.º De conformidade com o disposto no n.º 1.º, são extintos os seguintes lugares:
+Do 3.º Juízo do Tribunal de Menores de Lisboa:
+1 lugar de escrivão de direito.
+2 lugares de escrivão-adjunto.
+1 lugar de oficial judicial.
+2 lugares de escriturário judicial.
+Do 2.º Juízo do Tribunal de Menores do Porto:
+1 lugar de escrivão de direito.
+2 lugares de escrivão-adjunto.
+1 lugar de oficial judicial.
+2 lugares de escriturário judicial.
+Dos 6.º e 7.º Juízos do Tribunal de Instrução Criminal de Lisboa:
+2 lugares de escrivão de direito.
+2 lugares de escrivão-adjunto.
+2 lugares de oficial judicial.
+4 lugares de escriturário judicial.
+Do 3.º Juízo do Tribunal de Instrução Criminal do Porto:
+1 lugar de escrivão de direito.
+1 lugar de escrivão-adjunto.
+1 lugar de oficial judicial.
+2 lugares de escriturário judicial.
+3.º De acordo com o disposto nos n.os 3 e 4 do artigo 3.º do Decreto-Lei n.º 373/82, de 11 de Setembro, os funcionários cujos lugares forem extintos manter-se-ão em funções nos tribunais em que se encontram na situação de supranumerários, até à sua colocação em tribunal sediado na mesma comarca, pretensão que os interessados, no prazo de 30 dias após a publicação do presente diploma, deverão formular à Direcção-Geral dos Serviços Judiciários; na falta de requerimento serão transferidos para a primeira vaga que ocorrer na sua categoria.
+Ministério da Justiça, 21 de Outubro de 1982. - O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel.
