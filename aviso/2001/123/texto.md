@@ -1,0 +1,5 @@
+Aviso n.º 123/2001
+Por ordem superior se faz público que, segundo comunicação do Governo Canadiano de 2 de Novembro de 2001, o Governo da Federação Russa depositou, em 2 de Novembro de 2001, o instrumento de ratificação referente ao Tratado sobre o Regime Céu Aberto, assinado em Helsínquia em 24 de Março de 1992. Este Tratado entrará em vigor para a Federação Russa em 1 de Janeiro de 2002.
+O referido Tratado foi ratificado por Portugal nos termos do Decreto do Presidente da República n.º 70/94, de 13 de Setembro, publicado no Diário da República, 1.ª série-A, n.º 212, de 13 de Setembro de 1994, tendo sido depositado o correspondente instrumento em 22 de Novembro de 1994, conforme o Aviso n.º 188/2000, publicado no Diário da República, 1.ª série-A, n.º 235, de 11 de Outubro de 2000.
+O Tratado entrou em vigor relativamente a Portugal em 21 de Janeiro de 1995.
+Direcção-Geral dos Assuntos Multilaterais, 20 de Novembro de 2001. - O Director de Serviços das Organizações de Segurança e Defesa, Manuel Cansado Carvalho.
