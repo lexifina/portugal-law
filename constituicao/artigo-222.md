@@ -1,7 +1,7 @@
 # Artigo 222.º
 
-### (Nomeação, colocação, transferência e promoção de juízes)
+### (Procuradoria-Geral da República)
 
-1. A nomeação, a colocação, a transferência e a promoção dos juízes dos tribunais judiciais e o exercício da acção disciplinar competem ao Conselho Superior da Magistratura, nos termos da lei.
+1. A Procuradoria-Geral da República é o órgão superior do Ministério Público, com a composição e a competência definidas na lei.
 
-2. A lei define as regras e determina a competência para a colocação, transferência e promoção, bem como para o exercício da acção disciplinar em relação aos juízes dos restantes tribunais, com salvaguarda das garantias previstas na Constituição.
+2. A Procuradoria-Geral da República é presidida pelo Procurador-Geral da República e compreende o Conselho Superior do Ministério Público, que inclui membros eleitos pela Assembleia da República e membros de entre si eleitos pelos magistrados do Ministério Público.

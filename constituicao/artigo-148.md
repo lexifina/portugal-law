@@ -4,7 +4,7 @@
 
 Compete ao Conselho de Estado:
 
-a) Pronunciar-se sobre a dissolução da Assembleia da República e dos órgãos das regiões autónomas;
+a) Pronunciar-se sobre a dissolução da Assembleia da República e dos órgãos de governo próprio das regiões autónomas;
 
 b) Pronunciar-se sobre a demissão do Governo, no caso previsto no n.º 2 do artigo 198.º;
 

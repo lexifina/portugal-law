@@ -1,15 +1,19 @@
 # Artigo 170.º
 
-### (Iniciativa legislativa)
+### (Iniciativa da lei e do referendo)
 
-1. A iniciativa da lei compete aos Deputados, aos grupos parlamentares e ao Governo, bem como, no respeitante às regiões autónomas, às respectivas assembleias regionais.
+1. A iniciativa da lei e do referendo compete aos Deputados, aos grupos parlamentares e ao Governo, competindo a iniciativa da lei, no respeitante às regiões autónomas, às respectivas assembleias legislativas regionais.
 
-2. Os Deputados, os grupos parlamentares e as assembleias regionais não podem apresentar projectos de lei, propostas de lei ou propostas de alteração que envolvam, no ano económico em curso, aumento das despesas ou diminuição das receitas do Estado previstas no Orçamento.
+2. Os Deputados, os grupos parlamentares e as assembleias legislativas regionais não podem apresentar projectos de lei, propostas de lei ou propostas de alteração que envolvam, no ano económico em curso, aumento das despesas ou diminuição das receitas do Estado previstas no Orçamento.
 
-3. Os projectos e as propostas de lei definitivamente rejeitados não podem ser renovados na mesma sessão legislativa, salvo nova eleição da Assembleia da República.
+3. Os Deputados e os grupos parlamentares não podem apresentar projectos de referendo que envolvam, no ano económico em curso, aumento das despesas ou diminuição das receitas do Estado previstas no Orçamento.
 
-4. Os projectos e as propostas de lei não votados na sessão legislativa em que forem apresentados não carecem de ser renovados nas sessões legislativas seguintes, salvo termo da legislatura.
+4. Os projectos e as propostas de lei e de referendo definitivamente rejeitados não podem ser renovados na mesma sessão legislativa, salvo nova eleição da Assembleia da República.
 
-5. As propostas de lei caducam com a demissão do Governo ou, quando da iniciativa de uma assembleia regional, com o termo da respectiva legislatura.
+5. Os projectos de lei, as propostas de lei do Governo e os projectos e propostas de referendo não votados na sessão legislativa em que tiverem sido apresentados não carecem de ser renovados na sessão legislativa seguinte, salvo termo da legislatura.
 
-6. As comissões parlamentares podem apresentar textos de substituição, sem prejuízo dos projectos e das propostas de lei a que se referem, quando não retirados.
+6. As propostas de lei e de referendo caducam com a demissão do Governo.
+
+7. As propostas de lei da iniciativa das assembleias legislativas regionais caducam com o termo da respectiva legislatura, caducando apenas com o termo da legislatura da Assembleia da República as que já tenham sido objecto de aprovação na generalidade.
+
+8. As comissões parlamentares podem apresentar textos de substituição, sem prejuízo dos projectos e das propostas de lei e de referendo a que se referem, quando não retirados.

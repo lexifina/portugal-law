@@ -9,3 +9,5 @@
 3. Fora do período indicado no número anterior, a Assembleia da República pode funcionar por deliberação do Plenário, prorrogando o período normal de funcionamento, por iniciativa da Comissão Permanente ou, na impossibilidade desta e em caso de grave emergência, por iniciativa de mais de metade dos Deputados.
 
 4. A Assembleia pode ainda ser convocada extraordinariamente pelo Presidente da República para se ocupar de assuntos específicos.
+
+5. As comissões parlamentares podem funcionar independentemente do funcionamento do Plenário da Assembleia, mediante deliberação desta, nos termos do n.º 2.

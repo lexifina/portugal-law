@@ -15,5 +15,3 @@ c) Promover a salvaguarda e a valorização do património cultural, tornando-o 
 d) Desenvolver as relações culturais com todos os povos, especialmente os de língua portuguesa, e assegurar a defesa e a promoção da cultura portuguesa no estrangeiro;
 
 e) Articular a política cultural e as demais políticas sectoriais.
-
-3. É conferido a todos o direito de promover, nos termos da lei, a prevenção ou a cessação dos factores de degradação do património cultural.

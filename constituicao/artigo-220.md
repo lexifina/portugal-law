@@ -1,15 +1,15 @@
-## Capítulo III
-
-## Estatuto dos juízes
-
 # Artigo 220.º
 
-### (Magistratura dos tribunais judiciais)
+### (Conselho Superior da Magistratura)
 
-1. Os juízes dos tribunais judiciais formam um corpo único e regem-se por um só estatuto.
+1. O Conselho Superior da Magistratura é presidido pelo Presidente do Supremo Tribunal de Justiça e composto pelos seguintes vogais:
 
-2. A lei determina os requisitos e as regras de recrutamento dos juízes dos tribunais judiciais de primeira instância.
+a) Dois designados pelo Presidente da República, sendo um deles magistrado judicial;
 
-3. O recrutamento dos juízes dos tribunais judiciais de segunda instância faz-se com prevalência do critério do mérito, por concurso curricular entre juízes da primeira instância.
+b) Sete eleitos pela Assembleia da República;
 
-4. O acesso ao Supremo Tribunal de Justiça faz-se por concurso curricular aberto aos magistrados judiciais e do Ministério Público e a outros juristas de mérito, nos termos que a lei determinar.
+c) Sete juízes eleitos pelos seus pares, de harmonia com o princípio da representação proporcional.
+
+2. As regras sobre garantias dos juízes são aplicáveis a todos os vogais do Conselho Superior da Magistratura.
+
+3. A lei poderá prever que do Conselho Superior da Magistratura façam parte funcionários de justiça, eleitos pelos seus pares, com intervenção restrita à discussão e votação das matérias relativas à apreciação do mérito profissional e ao exercício da função disciplinar sobre os funcionários de justiça.

@@ -1,9 +1,9 @@
 # Artigo 215.º
 
-### (Instâncias)
+### (Tribunais militares)
 
-1. Os tribunais de primeira instância são, em regra, os tribunais de comarca, aos quais se equiparam os referidos no n.º 1 do artigo seguinte.
+1. Compete aos tribunais militares o julgamento dos crimes essencialmente militares.
 
-2. Os tribunais de segunda instância são, em regra, os tribunais da Relação.
+2. A lei, por motivo relevante, poderá incluir na jurisdição dos tribunais militares crimes dolosos equiparáveis aos previstos no n.º 1.
 
-3. O Supremo Tribunal de Justiça funcionará como tribunal de instância nos casos que a lei determinar.
+3. A lei pode atribuir aos tribunais militares competência para a aplicação de medidas disciplinares.

@@ -1,11 +1,15 @@
-## Capítulo IV
-
-## Ministério Público
-
 # Artigo 224.º
 
-### (Funções e estatuto)
+### (Composição e estatuto dos juízes)
 
-1. Ao Ministério Público compete representar o Estado, exercer a acção penal, defender a legalidade democrática e os interesses que a lei determinar.
+1. O Tribunal Constitucional é composto por treze juízes, sendo dez designados pela Assembleia da República e três cooptados por estes.
 
-2. O Ministério Público goza de estatuto próprio.
+2. Seis de entre os juízes designados pela Assembleia da República ou cooptados são obrigatoriamente escolhidos de entre juízes dos restantes tribunais e os demais de entre juristas.
+
+3. Os juízes do Tribunal Constitucional são designados por seis anos.
+
+4. O Presidente do Tribunal Constitucional é eleito pelos respectivos juízes.
+
+5. Os juízes do Tribunal Constitucional gozam das garantias de independência, inamovibilidade, imparcialidade e irresponsabilidade e estão sujeitos às incompatibilidades dos juízes dos restantes tribunais.
+
+6. A lei estabelece as demais regras relativas ao estatuto dos juízes do Tribunal Constitucional.

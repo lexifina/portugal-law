@@ -2,7 +2,7 @@
 
 ### (Estrutura da Administração)
 
-1. A Administração Pública será estruturada de modo a evitar a burocratização, a aproximar os serviços das populações e a assegurar a participação dos interessados na sua gestão efectiva, designadamente por intermédio de associações públicas, organizações populares de base ou outras formas de representação democrática.
+1. A Administração Pública será estruturada de modo a evitar a burocratização, a aproximar os serviços das populações e a assegurar a participação dos interessados na sua gestão efectiva, designadamente por intermédio de associações públicas, organizações de moradores e outras formas de representação democrática.
 
 2. Para efeito do disposto no número anterior, a lei estabelecerá adequadas formas de descentralização e desconcentração administrativa, sem prejuízo da necessária eficácia e unidade de acção e dos poderes de direcção e superintendência do Governo.
 

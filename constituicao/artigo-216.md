@@ -1,7 +1,13 @@
 # Artigo 216.º
 
-### (Especialização)
+### (Tribunal de Contas)
 
-1. Na primeira instância pode haver tribunais com competência específica e tribunais especializados para o julgamento de matérias determinadas.
+1. O Tribunal de Contas é o órgão supremo de fiscalização da legalidade das despesas públicas e de julgamento das contas que a lei mandar submeter-lhe, competindo-lhe, nomeadamente:
 
-2. Os tribunais da Relação e o Supremo Tribunal de Justiça podem funcionar em secções especializadas.
+a) Dar parecer sobre a Conta Geral do Estado, incluindo a da segurança social e das regiões autónomas;
+
+b) Efectivar a responsabilidade por infracções financeiras, nos termos da lei;
+
+c) Exercer as demais competências que lhe forem atribuídas por lei.
+
+2. O Tribunal de Contas pode funcionar descentralizadamente, por secções regionais, nos termos da lei.

@@ -6,4 +6,4 @@
 
 2. As normas constantes de convenções internacionais regularmente ratificadas ou aprovadas vigoram na ordem interna após a sua publicação oficial e enquanto vincularem internacionalmente o Estado Português.
 
-3. As normas emanadas dos órgãos competentes das organizações internacionais de que Portugal seja parte vigoram directamente na ordem interna, desde que tal se encontre expressamente estabelecido nos respectivos tratados constitutivos.
+3. As normas emanadas dos órgãos competentes das organizações internacionais de que Portugal seja parte vigoram directamente na ordem interna, desde que tal se encontre estabelecido nos respectivos tratados constitutivos.

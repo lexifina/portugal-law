@@ -1,5 +1,5 @@
 # Artigo 261.º
 
-### (Conselho regional)
+### (Junta regional)
 
-O conselho regional é o órgão consultivo da região e a sua composição será definida pela lei, de modo a garantir a adequada representação às organizações culturais, sociais, económicas e profissionais existentes na respectiva área.
+A junta regional é o órgão colegial executivo da região e será eleita, por escrutínio secreto, pela assembleia regional de entre os seus membros.

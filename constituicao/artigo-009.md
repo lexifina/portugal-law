@@ -8,8 +8,10 @@ a) Garantir a independência nacional e criar as condições políticas, económ
 
 b) Garantir os direitos e liberdades fundamentais e o respeito pelos princípios do Estado de direito democrático;
 
-c) Defender a democracia política e assegurar a participação organizada do povo na resolução dos problemas nacionais;
+c) Defender a democracia política, assegurar e incentivar a participação democrática dos cidadãos na resolução dos problemas nacionais;
 
-d) Promover o bem-estar e a qualidade de vida do povo, a igualdade real entre os portugueses e a efectivação dos direitos económicos, sociais e culturais, mediante a transformação das estruturas económicas e sociais, designadamente a socialização dos principais meios de produção, e abolir a exploração e a opressão do homem pelo homem;
+d) Promover o bem-estar e a qualidade de vida do povo e a igualdade real entre os portugueses, bem como a efectivação dos direitos económicos, sociais e culturais, mediante a transformação e modernização das estruturas económicas e sociais.
 
-e) Proteger e valorizar o património cultural do povo português, defender a natureza e o ambiente e preservar os recursos naturais.
+e) Proteger e valorizar o património cultural do povo português, defender a natureza e o ambiente, preservar os recursos naturais e assegurar um correcto ordenamento do território.
+
+f) Assegurar o ensino e a valorização permanente, defender o uso e promover a difusão internacional da língua portuguesa.

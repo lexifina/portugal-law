@@ -1,15 +1,15 @@
 # Artigo 102.º
 
-### (Auxílio do Estado)
+### (Objectivos da política comercial)
 
-1. Os pequenos e médios agricultores, individualmente ou agrupados em cooperativas, as cooperativas de trabalhadores agrícolas e as outras formas de exploração colectiva por trabalhadores têm direito ao auxílio do Estado.
+São objectivos da política comercial:
 
-2. O auxílio do Estado, de acordo com o Plano, compreende, nomeadamente:
+a) A concorrência salutar dos agentes mercantis;
 
-a) Concessão de crédito e assistência técnica;
+b) A racionalização dos circuitos de distribuição;
 
-b) Apoio de empresas públicas e de cooperativas de comercialização a montante e a jusante da produção;
+c) O combate às actividades especulativas e às práticas comerciais restritivas;
 
-c) Socialização dos riscos resultantes dos acidentes climatéricos e fitopatológicos imprevisíveis ou incontroláveis;
+d) O desenvolvimento e a diversificação das relações económicas externas;
 
-d) Estímulo e apoio ao associativismo dos trabalhadores rurais e dos agricultores.
+e) A protecção dos consumidores.

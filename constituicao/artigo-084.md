@@ -1,9 +1,19 @@
 # Artigo 84.º
 
-### (Cooperativas e experiências de autogestão)
+### (Domínio público)
 
-1. O Estado estimula e apoia a criação e a actividade de cooperativas.
+1. Pertencem ao domínio público:
 
-2. A lei definirá os benefícios fiscais e financeiros das cooperativas, bem como condições mais favoráveis à obtenção de crédito e auxílio técnico.
+a) As águas territoriais com seus leitos e os fundos marinhos contíguos, bem como os lagos, lagoas e cursos de água navegáveis ou flutuáveis, com os respectivos leitos;
 
-3. São apoiadas pelo Estado as experiências viáveis de autogestão.
+b) As camadas aéreas superiores ao território acima do limite reconhecido ao proprietário ou superficiário;
+
+c) Os jazigos minerais, as nascentes de águas mineromedicinais, as cavidades naturais subterrâneas existentes no subsolo, com excepção das rochas, terras comuns e outros materiais habitualmente usados na construção;
+
+d) As estradas;
+
+e) As linhas férreas nacionais;
+
+f) Outros bens como tal classificados por lei.
+
+2. A lei define quais os bens que integram o domínio público do Estado, o domínio público das regiões autónomas e o domínio público das autarquias locais, bem como o seu regime, condições de utilização e limites.

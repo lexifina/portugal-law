@@ -1,5 +1,9 @@
+## Título IV
+
+## Sistema financeiro e fiscal
+
 # Artigo 104.º
 
-### (Participação na reforma agrária)
+### (Sistema financeiro)
 
-Na definição e execução da reforma agrária, nomeadamente nos organismos por ela criados, deve ser assegurada a participação dos trabalhadores rurais e dos pequenos e médios agricultores, através das suas organizações próprias, bem como das cooperativas e outras formas de exploração colectiva por trabalhadores.
+O sistema financeiro é estruturado por lei, de modo a garantir a formação, a captação e a segurança das poupanças, bem como a aplicação de meios financeiros necessários ao desenvolvimento económico e social.

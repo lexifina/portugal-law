@@ -1,11 +1,9 @@
-## Título III
+## Título II
 
-## Plano
+## Planos
 
 # Artigo 91.º
 
-### (Objectivos do Plano)
+### (Objectivos dos planos)
 
-1. A organização económica e social do país é orientada, coordenada e disciplinada pelo Plano.
-
-2. O Plano deve garantir o desenvolvimento harmonioso dos sectores e regiões, a eficiente utilização das forças produtivas, a justa repartição individual e regional do produto nacional, a coordenação da política económica com a política social, educacional e cultural, a preservação do equilíbrio ecológico, a defesa do ambiente e a qualidade de vida do povo português.
+Os planos de desenvolvimento económico e social terão por objectivo promover o crescimento económico, o desenvolvimento harmonioso de sectores e regiões, a justa repartição individual e regional do produto nacional, a coordenação da política económica com as políticas social, educacional e cultural, a preservação do equilíbrio ecológico, a defesa do ambiente e a qualidade de vida do povo português.

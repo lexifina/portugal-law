@@ -4,28 +4,32 @@
 
 É da exclusiva competência da Assembleia da República legislar sobre as seguintes matérias:
 
-a) Aquisição, perda e reaquisição da cidadania portuguesa;
+a) Eleições dos titulares dos órgãos de soberania;
 
-b) Definição dos limites das águas territoriais, da zona económica exclusiva e dos direitos de Portugal aos fundos marinhos contíguos;
+b) Regime do referendo;
 
-c) Regimes do estado de sítio e do estado de emergência;
+c) Organização, funcionamento e processo do Tribunal Constitucional;
 
-d) Associações e partidos políticos;
+d) Organização da defesa nacional, definição dos deveres dela decorrentes e bases gerais da organização, do funcionamento e da disciplina das Forças Armadas;
 
-e) Bases do sistema de ensino;
+e) Regimes do estado de sítio e do estado de emergência;
 
-f) Eleições dos titulares dos órgãos de soberania, das regiões autónomas e do poder local, bem como dos restantes órgãos constitucionais;
+f) Aquisição, perda e reaquisição da cidadania portuguesa;
 
-g) Estatuto dos titulares dos órgãos de soberania e do poder local, do Conselho de Estado e do Provedor de Justiça, incluindo o regime das respectivas remunerações;
+g) Definição dos limites das águas territoriais, da zona económica exclusiva e dos direitos de Portugal aos fundos marinhos contíguos;
 
-h) Organização, funcionamento e processo do Tribunal Constitucional;
+h) Associações e partidos políticos;
 
-i) Inclusão na jurisdição dos tribunais militares de crimes dolosos equiparáveis aos crimes essencialmente militares, nos termos do n.º 2 do artigo 218.º;
+i) Bases do sistema de ensino;
 
-j) Regime de criação, extinção e modificação territorial das autarquias locais;
+j) Eleições dos titulares dos órgãos de governo próprio das regiões autónomas e do poder local, bem como dos restantes órgãos constitucionais ou eleitos por sufrágio directo e universal;
 
-l) Consultas directas aos eleitores a nível local;
+l) Estatuto dos titulares dos órgãos de soberania e do poder local, bem como dos restantes órgãos constitucionais ou eleitos por sufrágio directo e universal;
 
-m) Restrições ao exercício de direitos por militares e agentes militarizados dos quadros permanentes em serviço efectivo;
+m) Inclusão na jurisdição dos tribunais militares de crimes dolosos equiparáveis aos crimes essencialmente militares, nos termos do n.º 2 do artigo 215.º;
 
-n) Organização da defesa nacional, definição dos deveres dela decorrentes e bases gerais da organização, do funcionamento e da disciplina das Forças Armadas.
+n) Regime de criação, extinção e modificação territorial das autarquias locais;
+
+o) Consultas directas aos cidadãos eleitores a nível local;
+
+p) Restrições ao exercício de direitos por militares e agentes militarizados dos quadros permanentes em serviço efectivo.

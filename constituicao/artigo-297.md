@@ -1,7 +1,5 @@
 # Artigo 297.º
 
-### (Independência de Timor Leste)
+### (Estatuto provisório da Região Autónoma da Madeira)
 
-1. Portugal continua vinculado às responsabilidades que lhe incumbem, de harmonia com o direito internacional, de promover e garantir o direito à independência de Timor Leste.
-
-2. Compete ao Presidente da República e ao Governo praticar todos os actos necessários à realização dos objectivos expressos no número anterior.
+O estatuto provisório da Região Autónoma da Madeira continua a vigorar até à data da entrada em vigor do correspondente estatuto definitivo.

@@ -1,5 +1,9 @@
+## Capítulo IV
+
+## Região administrativa
+
 # Artigo 255.º
 
-### (Participação nas receitas dos impostos directos)
+### (Criação legal)
 
-Os municípios participam, por direito próprio e nos termos definidos pela lei, nas receitas provenientes dos impostos directos.
+As regiões administrativas são criadas simultaneamente, por lei, a qual define os respectivos poderes, a composição, a competência e o funcionamento dos seus órgãos, podendo estabelecer diferenciações quanto ao regime aplicável a cada uma.

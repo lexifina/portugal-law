@@ -12,7 +12,7 @@ c) Aprovar as propostas de lei e de resolução;
 
 d) Aprovar os decretos-leis, bem como as convenções internacionais não submetidas à Assembleia da República;
 
-e) Aprovar o Plano;
+e) Aprovar os planos;
 
 f) Aprovar os actos do Governo que envolvam aumento ou diminuição das receitas ou despesas públicas;
 

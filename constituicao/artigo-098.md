@@ -1,5 +1,5 @@
 # Artigo 98.º
 
-### (Minifúndios)
+### (Redimensionamento do minifúndio)
 
-Sem prejuízo do direito de propriedade, a reforma agrária procurará nas regiões minifundiárias obter um adequado redimensionamento das explorações mediante incentivos à integração cooperativa das diversas unidades ou ainda, sempre que necessário, por recurso a medidas de emparcelamento, arrendamento ou outras formas de intervenção adequadas.
+Sem prejuízo do direito de propriedade, o Estado promoverá, nos termos da lei, o redimensionamento das unidades de exploração agrícola com dimensão inferior à adequada do ponto de vista dos objectivos da política agrícola, nomeadamente através de incentivos jurídicos, fiscais e creditícios à sua integração estrutural ou meramente económica, designadamente cooperativa, ou por recurso a medidas de emparcelamento.

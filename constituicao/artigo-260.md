@@ -1,5 +1,5 @@
 # Artigo 260.º
 
-### (Junta regional)
+### (Assembleia regional)
 
-A junta regional é o órgão colegial executivo da região e será eleita, por escrutínio secreto, pela assembleia regional de entre os seus membros.
+A assembleia regional é constituída por membros eleitos directamente pelos cidadãos recenseados na área da respectiva região e por membros, em número inferior ao daqueles, eleitos pelo sistema de representação proporcional e o método da média mais alta de Hondt, pelo colégio eleitoral constituído pelos membros das assembleias municipais da mesma área designados por eleição directa.

@@ -4,16 +4,20 @@
 
 1. É garantida a liberdade de imprensa.
 
-2. A liberdade de imprensa implica a liberdade de expressão e criação dos jornalistas e colaboradores literários, bem como a intervenção dos primeiros na orientação ideológica dos órgãos de informação não pertencentes ao Estado, a partidos políticos ou a confissões religiosas, sem que nenhum outro sector ou grupo de trabalhadores possa censurar ou impedir a sua livre criatividade.
+2. A liberdade de imprensa implica:
 
-3. A liberdade de imprensa implica o direito dos jornalistas, nos termos da lei, ao acesso às fontes de informação e à protecção da independência e do sigilo profissionais, bem como o direito de elegerem conselhos de redacção.
+a) A liberdade de expressão e criação dos jornalistas e colaboradores literários, bem como a intervenção dos primeiros na orientação editorial dos respectivos órgãos de comunicação social, salvo quando pertencerem ao Estado ou tiverem natureza doutrinária ou confessional;
 
-4. A liberdade de imprensa implica o direito de fundação de jornais e de quaisquer outras publicações, independentemente de autorização administrativa, caução ou habilitação prévias.
+b) O direito dos jornalistas, nos termos da lei, ao acesso às fontes de informação e à protecção da independência e do sigilo profissionais, bem como o direito de elegerem conselhos de redacção;
 
-5. As publicações periódicas e não periódicas podem ser propriedade de pessoas singulares, de pessoas colectivas sem fins lucrativos ou de empresas jornalísticas e editorais sob forma societária, devendo a lei assegurar, com carácter genérico, a divulgação da propriedade e dos meios de financiamento da imprensa periódica.
+c) O direito de fundação de jornais e de quaisquer outras publicações, independentemente de autorização administrativa, caução ou habilitação prévias.
 
-6. Nenhum regime administrativo ou fiscal nem política de crédito ou de comércio externo podem afectar, directa ou indirectamente, a liberdade de imprensa e a independência dos órgãos de informação perante os poderes político e económico, devendo o Estado assegurar essa liberdade e independência, impedir a concentração de empresas jornalísticas, designadamente através de participações múltiplas ou cruzadas, e promover medidas de apoio não discriminatório à imprensa.
+3. A lei assegura, com carácter genérico, a divulgação da titularidade e dos meios de financiamento dos órgãos de comunicação social.
 
-7. A televisão não pode ser objecto de propriedade privada.
+4. O Estado assegura a liberdade e a independência dos órgãos de comunicação social perante o poder político e o poder económico, impondo o princípio da especialidade das empresas titulares de órgãos de informação geral, tratando-as e apoiando-as de forma não discriminatória e impedindo a sua concentração, designadamente através de participações múltiplas ou cruzadas.
 
-8. As estações emissoras de radiodifusão só podem funcionar mediante licença a conferir nos termos da lei.
+5. O Estado assegura a existência e o funcionamento de um serviço público de rádio e de televisão.
+
+6. A estrutura e o funcionamento dos meios de comunicação social do sector público devem salvaguardar a sua independência perante o Governo, a Administração e os demais poderes públicos, bem como assegurar a possibilidade de expressão e confronto das diversas correntes de opinião.
+
+7. As estações emissoras de radiodifusão e de radiotelevisão só podem funcionar mediante licença, a conferir por concurso público, nos termos da lei.

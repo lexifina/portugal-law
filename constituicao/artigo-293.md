@@ -1,5 +1,7 @@
 # Artigo 293.º
 
-### (Direito ordinário anterior)
+### (Autodeterminação e independência de Timor Leste)
 
-O direito anterior à entrada em vigor da Constituição mantém-se, desde que não seja contrário à Constituição ou aos princípios nela consignados.
+1. Portugal continua vinculado às responsabilidades que lhe incumbem, de harmonia com o direito internacional, de promover e garantir o direito à autodeterminação e independência de Timor Leste.
+
+2. Compete ao Presidente da República e ao Governo praticar todos os actos necessários à realização dos objectivos expressos no número anterior.

@@ -10,9 +10,9 @@ Compete ao Presidente da República, relativamente a outros órgãos:
 
 a) Presidir ao Conselho de Estado;
 
-b) Marcar o dia das eleições do Presidente da República, dos Deputados à Assembleia da República e às assembleias regionais, de harmonia com a lei eleitoral;
+b) Marcar, de harmonia com a lei eleitoral, o dia das eleições do Presidente da República, dos Deputados à Assembleia da República, dos Deputados ao Parlamento Europeu e dos deputados às assembleias legislativas regionais;
 
-c) Convocar extraordinariamente a Assembleia da República:
+c) Convocar extraordinariamente a Assembleia da República;
 
 d) Dirigir mensagens à Assembleia da República;
 
@@ -26,7 +26,7 @@ h) Nomear e exonerar os membros do Governo, sob proposta do Primeiro-Ministro;
 
 i) Presidir ao Conselho de Ministros, quando o Primeiro-Ministro lho solicitar;
 
-j) Dissolver os órgãos das regiões autónomas, por iniciativa própria ou sob proposta do Governo, ouvidos a Assembleia da República e o Conselho de Estado;
+j) Dissolver os órgãos de governo próprio das regiões autónomas, por sua iniciativa ou sob proposta do Governo, ouvidos a Assembleia da República e o Conselho de Estado;
 
 l) Nomear e exonerar, sob proposta do Governo e ouvido o Conselho de Estado, os Ministros da República para as regiões autónomas;
 

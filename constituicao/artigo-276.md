@@ -2,7 +2,7 @@
 
 ### (Defesa da Pátria, serviço militar e serviço cívico)
 
-1. A defesa da Pátria é dever fundamental de todos os portugueses.
+1. A defesa da Pátria é direito e dever fundamental de todos os portugueses.
 
 2. O serviço militar é obrigatório, nos termos e pelo período que a lei prescrever.
 

@@ -1,11 +1,9 @@
-## Título II
-
-## Revisão constitucional
-
 # Artigo 286.º
 
-### (Competência e tempo de revisão)
+### (Aprovação e promulgação)
 
-1. A Assembleia da República pode rever a Constituição decorridos cinco anos sobre a data da publicação de qualquer lei de revisão.
+1. As alterações da Constituição são aprovadas por maioria de dois terços dos Deputados em efectividade de funções.
 
-2. A Assembleia da República pode, contudo, assumir em qualquer momento poderes de revisão constitucional por maioria de quatro quintos dos Deputados em efectividade de funções.
+2. As alterações da Constituição que forem aprovadas serão reunidas numa única lei de revisão.
+
+3. O Presidente da República não pode recusar a promulgação da lei de revisão.

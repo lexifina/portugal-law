@@ -8,8 +8,8 @@ a) Vigiar pelo cumprimento da Constituição e das leis e apreciar os actos do G
 
 b) Apreciar a aplicação da declaração do estado de sítio ou do estado de emergência;
 
-c) Apreciar, para efeito de recusa de ratificação ou de alteração, os decretos-leis, salvo os feitos no exercício da competência legislativa exclusiva do Governo;
+c) Apreciar, para efeito de recusa de ratificação ou de alteração, os decretos-leis, salvo os feitos no exercício da competência legislativa exclusiva do Governo, e os decretos legislativos regionais previstos na alínea b) do n.º 1 do artigo 229.º;
 
 d) Tomar as contas do Estado e das demais entidades públicas que a lei determinar, as quais serão apresentadas até 31 de Dezembro do ano subsequente, com o relatório do Tribunal de Contas, se estiver elaborado, e os demais elementos necessários à sua apreciação;
 
-e) Apreciar os relatórios de execução, anuais e final, do Plano, sendo aqueles apresentados conjuntamente com as contas públicas.
+e) Apreciar os relatórios de execução anuais e finais dos planos.

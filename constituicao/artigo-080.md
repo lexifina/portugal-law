@@ -14,12 +14,12 @@ A organização económico-social assenta nos seguintes princípios:
 
 a) Subordinação do poder económico ao poder político democrático;
 
-b) Coexistência dos diversos sectores de propriedade, público, privado e cooperativo;
+b) Coexistência do sector público, do sector privado e do sector cooperativo e social de propriedade dos meios de produção;
 
-c) Apropriação colectiva dos principais meios de produção e solos, bem como dos recursos naturais;
+c) Apropriação colectiva de meios de produção e solos, de acordo com o interesse público, bem como dos recursos naturais;
 
 d) Planificação democrática da economia;
 
-e) Desenvolvimento da propriedade social;
+e) Protecção do sector cooperativo e social de propriedade dos meios de produção;
 
 f) Intervenção democrática dos trabalhadores.

@@ -2,7 +2,7 @@
 
 ### (Outros direitos pessoais)
 
-1. A todos são reconhecidos os direitos à identidade pessoal, à capacidade civil, à cidadania, ao bom nome e reputação, à imagem e à reserva da intimidade da vida privada e familiar.
+1. A todos são reconhecidos os direitos à identidade pessoal, à capacidade civil, à cidadania, ao bom nome e reputação, à imagem, à palavra e à reserva da intimidade da vida privada e familiar.
 
 2. A lei estabelecerá garantias efectivas contra a utilização abusiva, ou contrária à dignidade humana, de informações relativas às pessoas e famílias.
 

@@ -2,4 +2,4 @@
 
 ### (Composição)
 
-A Assembleia da República tem o mínimo de duzentos e quarenta e o máximo de duzentos e cinquenta Deputados, nos termos da lei eleitoral.
+A Assembleia da República tem o mínimo de duzentos e trinta e o máximo de duzentos e trinta e cinco Deputados, nos termos da lei eleitoral.

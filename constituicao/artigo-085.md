@@ -1,9 +1,7 @@
 # Artigo 85.º
 
-### (Empresas privadas)
+### (Nacionalizações efectuadas depois de 25 de Abril de 1974)
 
-1. O Estado fiscaliza o respeito da Constituição e da lei pelas empresas privadas e protege as pequenas e médias empresas económica e socialmente viáveis.
+1. A reprivatização da titularidade ou do direito de exploração de meios de produção e outros bens nacionalizados depois de 25 de Abril de 1974 só poderá efectuar-se nos termos de lei-quadro aprovada por maioria absoluta dos Deputados em efectividade de funções.
 
-2. O Estado pode intervir transitoriamente na gestão das empresas privadas para assegurar o interesse geral e os direitos dos trabalhadores, em termos a definir pela lei.
-
-3. A lei definirá os sectores básicos nos quais é vedada a actividade às empresas privadas e a outras entidades da mesma natureza.
+2. As pequenas e médias empresas indirectamente nacionalizadas situadas fora dos sectores básicos da economia poderão ser reprivatizadas nos termos da lei.

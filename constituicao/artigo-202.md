@@ -4,7 +4,7 @@
 
 Compete ao Governo, no exercício de funções administrativas:
 
-a) Elaborar o Plano, com base na respectiva lei, e fazê-lo executar;
+a) Elaborar os planos, com base nas leis das respectivas grandes opções, e fazê-los executar;
 
 b) Fazer executar o Orçamento do Estado;
 

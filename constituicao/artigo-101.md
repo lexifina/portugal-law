@@ -1,7 +1,5 @@
 # Artigo 101.º
 
-### (Formas de exploração de terra alheia)
+### (Participação na definição da política agrícola)
 
-1. Os regimes de arrendamento e de outras formas de exploração de terra alheia serão regulados por lei de modo a garantir a estabilidade e os legítimos interesses do cultivador.
-
-2. São proibidos os regimes de aforamento e colonia e serão criadas condições aos cultivadores para a efectiva abolição do regime de parceria agrícola.
+Na definição da política agrícola é assegurada a participação dos trabalhadores rurais e dos agricultores através das suas organizações representativas.

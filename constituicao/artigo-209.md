@@ -1,5 +1,5 @@
 # Artigo 209.º
 
-### (Coadjuvação de outras autoridades)
+### (Audiências dos tribunais)
 
-No exercício das suas funções os tribunais têm direito à coadjuvação das outras autoridades.
+As audiências dos tribunais são públicas, salvo quando o próprio tribunal decidir o contrário, em despacho fundamentado, para salvaguarda da dignidade das pessoas e da moral pública ou para garantir o seu normal funcionamento.

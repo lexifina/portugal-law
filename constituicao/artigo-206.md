@@ -1,5 +1,5 @@
 # Artigo 206.º
 
-### (Função jurisdicional)
+### (Independência)
 
-Na administração da justiça incumbe aos tribunais assegurar a defesa dos direitos e interesses legalmente protegidos dos cidadãos, reprimir a violação da legalidade democrática e dirimir os conflitos de interesses públicos e privados.
+Os tribunais são independentes e apenas estão sujeitos à lei.

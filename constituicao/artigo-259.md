@@ -1,5 +1,5 @@
 # Artigo 259.º
 
-### (Assembleia regional)
+### (Órgãos da região)
 
-A assembleia regional compreenderá, além dos representantes eleitos directamente pelos cidadãos, membros eleitos pelas assembleias municipais, em número inferior ao daqueles.
+Os órgãos representativos da região administrativa são a assembleia regional e a junta regional.

@@ -1,5 +1,5 @@
 # Artigo 258.º
 
-### (Órgãos da região)
+### (Planeamento)
 
-Os órgãos representativos da região são a assembleia regional, a junta regional e o conselho regional.
+As regiões administrativas elaboram planos regionais e participam na elaboração dos planos previstos no artigo 92.º

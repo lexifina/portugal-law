@@ -1,5 +1,9 @@
 # Artigo 86.º
 
-### (Actividade económica e investimentos estrangeiros)
+### (Cooperativas e experiências de autogestão)
 
-A lei disciplinará a actividade económica e os investimentos por parte de pessoas singulares ou colectivas estrangeiras, a fim de garantir a sua contribuição para o desenvolvimento do país e defender a independência nacional e os interesses dos trabalhadores.
+1. O Estado estimula e apoia a criação e a actividade de cooperativas.
+
+2. A lei definirá os benefícios fiscais e financeiros das cooperativas, bem como condições mais favoráveis à obtenção de crédito e auxílio técnico.
+
+3. São apoiadas pelo Estado as experiências viáveis de autogestão.

@@ -14,8 +14,8 @@ d) Apreciar o programa do Governo;
 
 e) Votar moções de confiança e de censura ao Governo;
 
-f) Pronunciar-se sobre a dissolução dos órgãos das regiões autónomas;
+f) Pronunciar-se sobre a dissolução dos órgãos de governo próprio das regiões autónomas;
 
-g) Eleger, segundo o sistema de representação proporcional, cinco membros do Conselho de Estado;
+g) Eleger, segundo o sistema de representação proporcional, cinco membros do Conselho de Estado, cinco membros da Alta Autoridade para a Comunicação Social e os membros do Conselho Superior do Ministério Público que lhe competir designar;
 
-h) Eleger, por maioria de dois terços dos Deputados presentes, desde que superior à maioria absoluta dos Deputados em efectividade de funções, dez juízes do Tribunal Constitucional, o Provedor de Justiça, o presidente do Conselho Nacional do Plano, sete vogais do Conselho Superior da Magistratura, onze membros do Conselho de Comunicação Social e os membros de outros órgãos constitucionais cuja designação seja cometida à Assembleia da República.
+h) Eleger, por maioria de dois terços dos Deputados presentes, desde que superior à maioria absoluta dos Deputados em efectividade de funções, dez juízes do Tribunal Constitucional, o Provedor de Justiça, o presidente do Conselho Económico e Social, sete vogais do Conselho Superior da Magistratura e os membros de outros órgãos constitucionais cuja designação seja cometida à Assembleia da República.

@@ -10,7 +10,7 @@
 
 4. Os filhos nascidos fora do casamento não podem, por esse motivo, ser objecto de qualquer discriminação e a lei ou as repartições oficiais não podem usar designações discriminatórias relativas à filiação.
 
-5. Os pais têm o direito e o dever de educação dos filhos.
+5. Os pais têm o direito e o dever de educação e manutenção dos filhos.
 
 6. Os filhos não podem ser separados dos pais, salvo quando estes não cumpram os seus deveres fundamentais para com eles e sempre mediante decisão judicial.
 

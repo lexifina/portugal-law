@@ -1,11 +1,7 @@
 # Artigo 93.º
 
-### (Estrutura)
+### (Elaboração dos planos)
 
-A estrutura do Plano compreende, nomeadamente:
+1. Compete à Assembleia da República aprovar as grandes opções correspondentes a cada plano e apreciar os respectivos relatórios de execução.
 
-a) Plano a longo prazo, que define os grandes objectivos da economia portuguesa e os meios para os atingir;
-
-b) Plano a médio prazo, que contém os programas de acção globais, sectoriais e regionais para o período da sua vigência;
-
-c) Plano anual, que constitui a base fundamental da actividade do Governo e tem a sua expressão financeira no Orçamento do Estado.
+2. A proposta de lei das grandes opções correspondentes a cada plano será acompanhada de relatório sobre as grandes opções globais e sectoriais, incluindo a respectiva fundamentação com base nos estudos preparatórios.

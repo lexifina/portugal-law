@@ -6,7 +6,7 @@
 
 a) As leis constitucionais;
 
-b) As convenções internacionais e os respectivos avisos de ratificação;
+b) As convenções internacionais e os respectivos avisos de ratificação, bem como os restantes avisos a elas respeitantes;
 
 c) As leis, os decretos-leis e os decretos legislativos regionais;
 
@@ -18,7 +18,9 @@ f) Os regimentos da Assembleia da República, do Conselho de Estado e das Assemb
 
 g) As decisões do Tribunal Constitucional, bem como as dos outros tribunais a que a lei confira força obrigatória geral;
 
-h) Os decretos regulamentares e os demais decretos e regulamentos do Governo, bem como os decretos dos Ministros da República para as regiões autónomas e os decretos regulamentares regionais.
+h) Os decretos regulamentares e os demais decretos e regulamentos do Governo, bem como os decretos dos Ministros da República para as regiões autónomas e os decretos regulamentares regionais;
+
+i) Os resultados de eleições e de referendos de âmbito nacional.
 
 2. A falta de publicidade dos actos previstos no número anterior e de qualquer acto de conteúdo genérico dos órgãos de soberania, das regiões autónomas e do poder local implica a sua ineficácia jurídica.
 

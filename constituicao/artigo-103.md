@@ -1,5 +1,15 @@
 # Artigo 103.º
 
-### (Ordenamento, reconversão agrária e preços)
+### (Objectivos da política industrial)
 
-O Estado promoverá uma política de ordenamento e de reconversão agrária, de acordo com os condicionalismos ecológicos e sociais do país, e assegurará o escoamento dos produtos agrícolas no âmbito da orientação definida para as políticas agrícola e alimentar, fixando no início de cada campanha os respectivos preços de garantia.
+São objectivos da política industrial:
+
+a) O aumento da produção industrial num quadro de modernização e ajustamento de interesses sociais e económicos e de integração internacional da economia portuguesa;
+
+b) O reforço da inovação industrial e tecnológica;
+
+c) O aumento da competitividade e da produtividade das empresas industriais;
+
+d) O apoio às pequenas e médias empresas e, em geral, às iniciativas e empresas geradoras de emprego e fomentadoras de exportação ou de substituição de importações;
+
+e) O apoio à projecção internacional das empresas portuguesas.

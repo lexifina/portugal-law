@@ -1,25 +1,19 @@
 # Artigo 56.º
 
-### (Liberdade sindical)
+### (Direitos das associações sindicais e contratação colectiva)
 
-1. É reconhecida aos trabalhadores a liberdade sindical, condição e garantia da construção da sua unidade para defesa dos seus direitos e interesses.
+1. Compete às associações sindicais defender e promover a defesa dos direitos e interesses dos trabalhadores que representem.
 
-2. No exercício da liberdade sindical é garantido aos trabalhadores, sem qualquer discriminação, designadamente:
+2. Constituem direitos das associações sindicais:
 
-a) A liberdade de constituição de associações sindicais a todos os níveis;
+a) Participar na elaboração da legislação do trabalho;
 
-b) A liberdade de inscrição, não podendo nenhum trabalhador ser obrigado a pagar quotizações para sindicato em que não esteja inscrito;
+b) Participar na gestão das instituições de segurança social e outras organizações que visem satisfazer os interesses dos trabalhadores;
 
-c) A liberdade de organização e regulamentação interna das associações sindicais;
+c) Participar no controlo de execução dos planos económico-sociais;
 
-d) O direito de exercício de actividade sindical na empresa;
+d) Fazerem-se representar nos organismos de concertação social, nos termos da lei.
 
-e) O direito de tendência, nas formas que os respectivos estatutos determinarem.
+3. Compete às associações sindicais exercer o direito de contratação colectiva, o qual é garantido nos termos da lei.
 
-3. As associações sindicais devem reger-se pelos princípios da organização e da gestão democráticas, baseados na eleição periódica e por escrutínio secreto dos órgãos dirigentes, sem sujeição a qualquer autorização ou homologação, e assentes na participação activa dos trabalhadores em todos os aspectos da actividade sindical.
-
-4. As associações sindicais são independentes do patronato, do Estado, das confissões religiosas, dos partidos e outras associações políticas, devendo a lei estabelecer as garantias adequadas dessa independência, fundamento da unidade das classes trabalhadoras.
-
-5. As associações sindicais têm o direito de estabelecer relações ou filiar-se em organizações sindicais internacionais.
-
-6. A lei assegura protecção adequada aos representantes eleitos dos trabalhadores contra quaisquer formas de condicionamento, constrangimento ou limitação do exercício legítimo das suas funções.
+4. A lei estabelece as regras respeitantes à legitimidade para a celebração das convenções colectivas de trabalho, bem como à eficácia das respectivas normas.

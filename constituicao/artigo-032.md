@@ -15,3 +15,5 @@
 6. São nulas todas as provas obtidas mediante tortura, coacção, ofensa da integridade física ou moral da pessoa, abusiva intromissão na vida privada, no domicílio, na correspondência ou nas telecomunicações.
 
 7. Nenhuma causa pode ser subtraída ao tribunal cuja competência esteja fixada em lei anterior.
+
+8. Nos processos por contra-ordenação são assegurados ao arguido os direitos de audiência e defesa.

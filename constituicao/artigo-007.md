@@ -6,4 +6,8 @@
 
 2. Portugal preconiza a abolição de todas as formas de imperialismo, colonialismo e agressão, o desarmamento geral, simultâneo e controlado, a dissolução dos blocos político-militares e o estabelecimento de um sistema de segurança colectiva, com vista à criação de uma ordem internacional capaz de assegurar a paz e a justiça nas relações entre os povos.
 
-3. Portugal reconhece o direito dos povos à insurreição contra todas as formas de opressão, nomeadamente contra o colonialismo e o imperialismo, e manterá laços especiais de amizade e cooperação com os países de língua portuguesa.
+3. Portugal reconhece o direito dos povos à insurreição contra todas as formas de opressão, nomeadamente contra o colonialismo e o imperialismo.
+
+4. Portugal mantém laços especiais de amizade e cooperação com os países de língua portuguesa.
+
+5. Portugal empenha-se no reforço da identidade europeia e no fortalecimento da acção dos Estados europeus a favor da paz, do progresso económico e da justiça nas relações entre os povos.

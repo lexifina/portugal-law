@@ -4,7 +4,11 @@
 
 1. Todos têm direito à protecção da saúde e o dever de a defender e promover.
 
-2. O direito à protecção da saúde é realizado pela criação de um serviço nacional de saúde universal, geral e gratuito, pela criação de condições económicas, sociais e culturais que garantam a protecção da infância, da juventude e da velhice e pela melhoria sistemática das condições de vida e de trabalho, bem como pela promoção da cultura física e desportiva, escolar e popular e ainda pelo desenvolvimento da educação sanitária do povo.
+2. O direito à protecção da saúde é realizado:
+
+a) Através de um serviço nacional de saúde universal e geral e, tendo em conta as condições económicas e sociais dos cidadãos, tendencialmente gratuito;
+
+b) Pela criação de condições económicas, sociais e culturais que garantam a protecção da infância da juventude e da velhice e pela melhoria sistemática das condições de vida e de trabalho, bem como pela promoção da cultura física e desportiva, escolar e popular e ainda pelo desenvolvimento da educação sanitária do povo.
 
 3. Para assegurar o direito à protecção da saúde, incumbe prioritariamente ao Estado:
 
@@ -12,7 +16,7 @@ a) Garantir o acesso de todos os cidadãos, independentemente da sua condição 
 
 b) Garantir uma racional e eficiente cobertura médica e hospitalar de todo o país;
 
-c) Orientar a sua acção para a socialização da medicina e dos sectores médico-medicamentosos;
+c) Orientar a sua acção para a socialização dos custos dos cuidados médicos e medicamentosos;
 
 d) Disciplinar e controlar as formas empresariais e privadas da medicina, articulando-as com o serviço nacional de saúde;
 

@@ -8,4 +8,4 @@
 
 3. O Ministro da República superintende nas funções administrativas exercidas pelo Estado na região e coordena-as com as exercidas pela própria região.
 
-4. Nas suas ausências e impedimentos, o Ministro da República é substituído na região pelo presidente da assembleia regional.
+4. Nas suas ausências e impedimentos, o Ministro da República é substituído na região pelo presidente da assembleia legislativa regional.

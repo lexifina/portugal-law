@@ -1,7 +1,7 @@
 # Artigo 99.º
 
-### (Pequenos e médios agricultores)
+### (Formas de exploração de terra alheia)
 
-1. A reforma agrária efectua-se com garantia da propriedade da terra dos pequenos e médios agricultores enquanto instrumento ou resultado do seu trabalho e salvaguardando os interesses dos emigrantes e dos que não tenham outro modo de subsistência.
+1. Os regimes de arrendamento e de outras formas de exploração de terra alheia serão regulados por lei de modo a garantir a estabilidade e os legítimos interesses do cultivador.
 
-2. A lei determina os critérios de fixação dos limites máximos das unidades de exploração agrícola privada.
+2. São proibidos os regimes de aforamento e colonia e serão criadas condições aos cultivadores para a efectiva abolição do regime de parceria agrícola.

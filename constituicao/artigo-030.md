@@ -9,3 +9,5 @@
 3. As penas são insusceptíveis de transmissão.
 
 4. Nenhuma pena envolve como efeito necessário a perda de quaisquer direitos civis, profissionais ou políticos.
+
+5. Os condenados a quem sejam aplicadas pena ou medida de segurança privativas da liberdade mantêm a titularidade dos direitos fundamentais, salvas as limitações inerentes ao sentido da condenação e às exigências próprias da respectiva execução.

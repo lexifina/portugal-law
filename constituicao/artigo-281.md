@@ -4,10 +4,28 @@
 
 1. O Tribunal Constitucional aprecia e declara, com força obrigatória geral:
 
-a) A inconstitucionalidade de quaisquer normas, a requerimento do Presidente da República, do Presidente da Assembleia da República, do Primeiro-Ministro, do Provedor de Justiça, do Procurador-Geral da República, de um décimo dos Deputados à Assembleia da República ou, com fundamento em violação dos direitos das regiões autónomas, das respectivas assembleias regionais ou dos presidentes dos governos regionais;
+a) A inconstitucionalidade de quaisquer normas;
 
-b) A ilegalidade de quaisquer normas constantes de diploma regional, com fundamento em violação do estatuto da região ou de lei geral da República, a requerimento de qualquer das entidades referidas na alínea a) ou do Ministro da República para a respectiva região autónoma;
+b) A ilegalidade de quaisquer normas constantes de acto legislativo com fundamento em violação de lei com valor reforçado;
 
-c) A ilegalidade de qualquer norma constante de diploma emanado dos órgãos de soberania, com fundamento em violação dos direitos de uma região consagrados no seu estatuto, a requerimento de qualquer das entidades referidas na alínea a), bem como do presidente da assembleia regional, do presidente do governo regional ou de um décimo dos deputados à assembleia regional da respectiva região autónoma.
+c) A ilegalidade de quaisquer normas constantes de diploma regional com fundamento em violação do estatuto da região ou de lei geral da República;
 
-2. O Tribunal Constitucional aprecia e declara ainda, com força obrigatória geral, a inconstitucionalidade ou a ilegalidade de qualquer norma, desde que tenha sido por ele julgada inconstitucional ou ilegal em três casos concretos.
+d) A ilegalidade de quaisquer normas constantes de diploma emanado dos órgãos de soberania com fundamento em violação dos direitos de uma região consagrados no seu estatuto.
+
+2. Podem requerer ao Tribunal Constitucional a declaração de inconstitucionalidade ou de ilegalidade, com força obrigatória geral:
+
+a) O Presidente da República;
+
+b) O Presidente da Assembleia da República;
+
+c) O Primeiro-Ministro;
+
+d) O Provedor de Justiça;
+
+e) O Procurador-Geral da República;
+
+f) Um décimo dos Deputados à Assembleia da República;
+
+g) Os Ministros da República, as assembleias legislativas regionais, os presidentes das assembleias legislativas regionais, os presidentes dos governos regionais ou um décimo dos deputados à respectiva assembleia legislativa regional, quando o pedido de declaração de inconstitucionalidade se fundar em violação dos direitos das regiões autónomas ou o pedido de declaração de ilegalidade se fundar em violação do estatuto da respectiva região ou de lei geral da República.
+
+3. O Tribunal Constitucional aprecia e declara ainda, com força obrigatória geral, a inconstitucionalidade ou a ilegalidade de qualquer norma, desde que tenha sido por ele julgada inconstitucional ou ilegal em três casos concretos.

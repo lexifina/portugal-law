@@ -8,9 +8,9 @@
 
 a) Participar nas comissões da Assembleia em função do número dos seus membros, indicando os seus representantes nelas;
 
-b) Ser ouvido na fixação da ordem do dia;
+b) Ser ouvido na fixação da ordem do dia e interpor recurso para o Plenário da ordem do dia fixada;
 
-c) Provocar, por meio de interpelação ao Governo, a abertura de dois debates em cada sessão legislativa sobre assunto de política geral;
+c) Provocar, por meio de interpelação ao Governo, a abertura de dois debates em cada sessão legislativa sobre assunto de política geral ou sectorial;
 
 d) Solicitar à Comissão Permanente que promova a convocação da Assembleia;
 

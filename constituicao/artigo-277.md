@@ -4,10 +4,6 @@
 
 ## Título I
 
-## Garantia da Constituição
-
-## Capítulo I
-
 ## Fiscalização da constitucionalidade
 
 # Artigo 277.º

@@ -1,23 +1,13 @@
-## Capítulo II
-
-## Organização dos tribunais
-
 # Artigo 212.º
 
-### (Categorias de tribunais)
+### (Supremo Tribunal de Justiça e instâncias)
 
-1. Existem as seguintes categorias de tribunais:
+1. O Supremo Tribunal de Justiça é o órgão superior da hierarquia dos tribunais judiciais, sem prejuízo da competência própria do Tribunal Constitucional.
 
-a) O Tribunal Constitucional;
+2. O Presidente do Supremo Tribunal de Justiça é eleito pelos respectivos juízes.
 
-b) Tribunais judiciais de primeira instância, de segunda instância e o Supremo Tribunal de Justiça;
+3. Os tribunais de primeira instância são, em regra, os tribunais de comarca, aos quais se equiparam os referidos no n.º 2 do artigo seguinte.
 
-c) O Tribunal de Contas;
+4. Os tribunais de segunda instância são, em regra, os tribunais da Relação.
 
-d) Tribunais militares.
-
-2. Podem existir tribunais administrativos e fiscais, tribunais marítimos e tribunais arbitrais.
-
-3. A lei determina os casos e as formas em que os tribunais previstos nos números anteriores se podem constituir, separada ou conjuntamente, em tribunais de conflitos.
-
-4. Sem prejuízo do disposto quanto aos tribunais militares, é proibida a existência de tribunais com competência exclusiva para o julgamento de certas categorias de crimes.
+5. O Supremo Tribunal de Justiça funcionará como tribunal de instância nos casos que a lei determinar.

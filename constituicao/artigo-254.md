@@ -1,5 +1,5 @@
 # Artigo 254.º
 
-### (Associação e federação)
+### (Participação nas receitas dos impostos directos)
 
-Os municípios podem constituir associações e federações para a administração de interesses comuns.
+Os municípios participam, por direito próprio e nos termos definidos pela lei, nas receitas provenientes dos impostos directos.
