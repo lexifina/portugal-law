@@ -1,0 +1,6 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 155/88, publicado no Diário da República, 1.ª série, n.º 99, de 29 de Abril de 1988, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 26.º, n.º 2, onde se lê «e compreende as seguintes unidades orgânicas, dirigidas por chefes de secção:» deve ler-se «e compreende as seguintes unidades orgânicas, dirigidas por chefes de divisão:».
+No artigo 40.º, n.º 6, onde se lê «sendo os limites daquela deliberados ou propostos a autorização superior pelo conselho administrativo caso a caso.» deve ler-se «sendo os limites daquela, deliberados ou propostos a autorização superior, pelo conselho administrativo, caso a caso.».
+No quadro do pessoal, nas colunas de grupo de pessoal técnico-profissional, área funcional de turismo, relações públicas, carreiras de recepcionista de turismo, categorias de técnico-adjunto de 1.ª classe e técnico-adjunto de 2.ª classe, no número de lugares, onde se lê «(e) 24» e «36» deve ler-se, respectivamente, «24» e «(e) 36».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Maio de 1988. - O Secretário-Geral, França Martins.
