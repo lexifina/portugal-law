@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação do Conselho de Cooperação Aduaneira à Embaixada de Portugal em Bruxelas, o Estado de Israel depositou naquele organismo, a 16 de Dezembro de 1964, o seu instrumento de adesão à Convenção aduaneira relativa às facilidades concedidas para a importação de mercadorias destinadas a ser apresentadas ou utilizadas em exposições, feiras, congressos ou manifestações semelhantes, concluída em Bruxelas a 8 de Junho de 1961 e cujo texto foi publicado no Diário do Governo n.º 217, de 20 de Setembro de 1962.
+De acordo com o parágrafo 2 do artigo 19 da referida Convenção, a mesma entrará em vigor para Israel em 17 de Março de 1965.
+Direcção-Geral dos Negócios Económicos e Consulares, 20 de Fevereiro de 1965. - O Director-Geral Adjunto, Carlos Augusto Fernandes.
