@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o Representante Permanente de Portugal junto dos Organismos Internacionais em Genebra depositou junto do director-geral da Organização Internacional do Trabalho, em 26 de Maio de 1983, o instrumento de ratificação da Convenção n.º 22, relativa ao contrato de trabalho dos marítimos.
+Até aquela data, eram Partes na referida Convenção os seguintes países:
+República Federal da Alemanha, Argentina, Austrália, Baamas, Bangladesh, Barbados, Bélgica, Birmânia, Brasil, Bulgária, Canadá, Chile, China, Colômbia, Cuba, Jibuti, Dominica, Egipto, Espanha, Finlândia, França, Ghana, Índia, Iraque, Irlanda, Itália, Japão, Libéria, Luxemburgo, Malta, Marrocos, Mauritânia, México, Nicarágua, Noruega, Nova Zelândia, Paquistão, Panamá, Papuásia-Nova Guiné, Países Baixos, Peru, Polónia, Reino Unido, Serra Leoa, Singapura, Somália, Tunísia, Uruguai, Venezuela e Jugoslávia.
+Direcção-Geral dos Negócios Económicos, 29 de Dezembro de 1983. - O Adjunto do Director-Geral, Roberto Nuno de Oliveira e Silva Pereira de Sousa.
