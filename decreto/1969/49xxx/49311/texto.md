@@ -1,0 +1,25 @@
+Decreto n.º 49311
+Tendo a experiência demonstrado que a Base Naval de Lisboa deve funcionar em moldes orgânicos diferentes dos fixados no Decreto n.º 41989, de 3 de Dezembro de 1958;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º - 1. A Base Naval de Lisboa (B. N. L.) é um comando da Armada destinado, essencialmente, a:
+a) Apoiar, do ponto de vista logístico, com os seus serviços, as unidades navais baseadas em Lisboa;
+b) Manter as messes, refeitórios, cobertas, cantinas e outras instalações situadas na zona da Base e destinadas às guarnições das unidades navais estacionadas em Lisboa e ao pessoal de outros organismos que se apoiem na Base;
+c) Manter as instalações e meios portuários privativos da Armada no porto de Lisboa;
+d) Manter as instalações e outras propriedades da Armada no Alfeite que não estejam entregues a outras unidades.
+2. A Base Naval de Lisboa é comandada por um comodoro ou capitão-de-mar-e-guerra que na cadeia de comando fica directamente subordinado ao comandante naval do Continente.
+Art. 2.º O comando da Base Naval de Lisboa exerce a sua acção por intermédio dos seguintes órgãos:
+a) Serviços;
+b) Secretaria;
+c) Outros órgãos de execução dos serviços;
+d) Conselho administrativo.
+Art. 3.º - 1. O comandante da Base Naval de Lisboa, de acordo com as directivas que para o efeito receber do comandante naval do Continente, superintende na defesa, disciplina e coordenação de serviços das unidades navais estacionadas no Alfeite e das unidades e outros organismos instalados na zona da Base, no grau em que a sua intervenção seja necessária à segurança e bom funcionamento da Base.
+2. Para efeitos do disposto no número anterior, o comandante da Base Naval de Lisboa é considerado de hierarquia superior à dos oficiais do mesmo posto que comandam ou dirigem as citadas unidades e organismos.
+Art. 4.º Para segurança e defesa da Base Naval de Lisboa serão atribuídos ao seu comando, pelo comandante naval do Continente, ou por seu intermédio, os necessários meios, com carácter permanente ou eventual.
+Art. 5.º Sempre que, por razões de natureza logística ou de segurança, o comandante naval do Continente o considerar conveniente poderá atribuir ao comandante da Base Naval de Lisboa unidades navais que lhe tenham sido atribuídas pelo chefe do Estado-Maior da Armada.
+Art. 6.º - 1. Em tudo o que respeita a funções logísticas, o comandante da Base Naval de Lisboa seguirá a orientação e instruções dimanadas do superintendente dos Serviços de Material da Armada, depois de prèviamente autorizado pelo comandante naval do Continente.
+2. O superintendente dos Serviços de Material da Armada, com o acordo do comandante naval do Continente, poderá delegar no comandante da Base Naval de Lisboa a coordenação e direcção superior do apoio logístico às unidades navais estacionadas no porto de Lisboa, na medida em que a experiência o aconselhar.
+Art. 7.º O regulamento interno da Base Naval de Lisboa é fixado por despacho do Ministro da Marinha.
+Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Pereira Crespo.
+Promulgado em 9 de Outubro de 1969.
+Publique-se.
+Presidência da República, 21 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
