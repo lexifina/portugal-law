@@ -11,3 +11,5 @@
 4 - Os membros do CREFP, com excepção dos previstos na alínea cc) do n.º 1 do artigo 4.º deste diploma, poderão ser substituídos, nas suas faltas ou impedimentos, por quem as respectivas entidades ou organizações designarem, devendo, para o efeito, ser dado conhecimento prévio ao presidente do CREFP.
 
 5 - As substituições dos membros referidos na citada alínea cc) do n.º 1 do artigo 4.º só ocorrerão quando se verificar a sua impossibilidade de exercício definitivo ou temporário, desde que superior a seis meses.
+
+6 - Nos casos em que esteja presente o membro do Governo Regional a quem competir a tutela da educação e formação profissional, competir-lhe-á presidir ao plenário do CREFP.
