@@ -18,7 +18,7 @@ a) Os arrendamentos de prédios do Estado;
 
 b) Os arrendamentos para habitação, por curtos períodos, em praias, termas ou outros lugares de vilegiatura, ou para outros fins especiais transitórios;
 
-c) Os arrendamentos de casa habitada pelo senhorio, feitos por período correspondente à ausência temporária deste, até ao máximo de um ano;
+c) O arrendamento de casa habitada pelo senhorio, por período correspondente à ausência temporária deste, e os subarrendamentos totais feitos por período correspondentes à ausência temporária do arrendatário, nos termos da alínea b) do n.º 2 do artigo 1093.º e com a autorização escrita do senhorio.
 
 d) Os arrendamentos sujeitos a legislação especial.
 

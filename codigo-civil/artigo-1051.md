@@ -20,6 +20,4 @@ e) Pela perda da coisa locada;
 
 f) No caso de expropriação por utilidade pública, a não ser que a expropriação se compadeça com a subsistência do contrato.
 
-2. No caso previsto na alínea c) do número precedente, manter-se-á a posição do locatário, com actualização de renda nos termos legais, se assim for requerido.
-
-3. O locatário que pretenda exercer o direito que lhe confere o número anterior deverá notificar judicialmente o locador no prazo de cento e oitenta dias, contados do conhecimento do facto determinante da caducidade.
+2 - No arrendamento urbano, o contrato não caduca pela verificação dos factos previstos na alínea c) do número anterior se o inquilino, no prazo de 180 dias após o seu conhecimento, comunicar ao senhorio, por notificação judicial, que pretende manter a sua posição contratual.
