@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 19 de Maio de 1976, o Governo das Baamas depositou, junto do Secretário-Geral das Nações Unidas, o instrumento de adesão, por sucessão, à Convenção e Protocolo Relativos ao Imposto do Selo em Matéria de Cheques, assinados em Genebra em 19 de Março de 1931, de que Portugal já é parte. Aquele instrumento diplomático entrou em vigor, com referência àquele país, em conformidade com os princípios da sucessão de Estados, quanto aos Tratados.
+Secretaria-Geral do Ministério, 7 de Novembro de 1977. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
