@@ -1,0 +1,23 @@
+Decreto-Lei n.º 310/85
+de 30 de Julho
+1 - O Decreto-Lei n.º 81/85, de 28 de Março, que definiu o novo regime de segurança social das actividades agrícolas, previu no seu artigo 62.º os valores estatutários das pensões a ter em conta para a efectivação do respectivo cálculo.
+Porque não ficou estabelecido o valor estatutário da pensão referente ao período que medeia entre 1 de Janeiro e 30 de Abril de 1985, data da entrada em vigor do novo regime, há que proceder à sua fixação.
+2 - A adopção de valor dos salários mínimos garantidos como base de incidência contributiva determina a necessidade, no âmbito da Segurança Social, de ajustamentos de ordem administrativa que exigem certa dilação na sua aplicação no sector, o que se encontra estabelecido pelo Despacho Normativo n.º 208/83, de 22 de Novembro.
+O artigo 41.º do Decreto-Lei n.º 81/85 se, por um lado, se torna assim desnecessário, por outro, não resolve as dificuldades existentes nas situações em que a lei de trabalho venha a conferir eficácia retroactiva aos novos valores dos salários mínimos.
+É pois indispensável a uniformização de procedimentos, o que tem lugar através da revogação do citado preceito.
+3 - Por outro lado, a não inclusão de norma de não aplicação do diploma às regiões autónomas poderá suscitar a dúvida sobre se a mesma deve ou não ter lugar, não obstante o regime agrícola que nas mesmas vigora se não integrar no quadro legal que o Decreto-Lei n.º 81/85 definiu.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º O quadro incluído no artigo 62.º do Decreto-Lei n.º 81/85, de 28 de Março, passa a ser o seguinte:
+(ver documento original)
+Art. 2.º - 1 - Sempre que para o cálculo de pensões previsto no artigo 31.º do Decreto-Lei n.º 81/85 devam ser consideradas remunerações correspondentes a meses anteriores a Maio de 1985, será tomada, sem qualquer redução, a remuneração mínima mensal do sector correspondente a cada um desses meses, salvo se reportar a meses anteriores a Janeiro de 1977, em que o valor é de 3000$00.
+2 - O valor mínimo das pensões a que se refere o Decreto-Lei n.º 81/85, designadamente o n.º 3 do artigo 31.º, é o que vigorar, em cada mês, por força da última actualização das pensões do regime especial das actividades agrícolas.
+Art. 3.º É revogado o artigo 41.º do Decreto-Lei n.º 81/85, de 28 de Março.
+Art. 4.º O Decreto-Lei n.º 81/85 e o Decreto Regulamentar n.º 19/85, ambos de 28 de Março, não se aplicam às Regiões Autónomas dos Açores e da Madeira.
+Art. 5.º O presente diploma entra em vigor em 1 de Maio de 1985.
+Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Amândio Anes de Azevedo.
+Promulgado em 18 de Julho de 1985.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 19 de Julho de 1985.
+O Primeiro-Ministro, Mário Soares.
