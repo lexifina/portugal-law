@@ -1,0 +1,6 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional:
+1.º Considerar aplicável aos lugares correspondentes dos serviços administrativos da Inspecção-Geral das Actividades Económicas a doutrina do despacho do mesmo Conselho de 23 de Junho de 1962, publicado no Diário do Governo, 1.ª série, de 31 do mesmo mês, relativo ao provimento nos lugares de escriturários e de oficiais da Intendência-Geral dos Abastecimentos;
+2.º Declarar a habilitação de um curso completo do ensino técnico profissional, industrial ou comercial, como suficiente, em paralelo com o curso geral dos liceus, para efeito de provimento em lugares superiores aos do grupo T da escala geral do funcionalismo pertencentes aos serviços de fiscalização da Inspecção-Geral das Actividades Económicas;
+3.º Declarar a habilitação de um curso comercial completo do ensino técnico profissional como suficiente, em paralelo com o curso geral dos liceus, para efeito de provimento nos lugares de conferente dos serviços da Comissão Reguladora do Comércio de Bacalhau.
+Presidência do Conselho, 16 de Junho de 1967. - Pelo Presidente do Conselho, o Ministro de Estado adjunto do Presidente do Conselho, António Jorge Martins da Mota Veiga.
