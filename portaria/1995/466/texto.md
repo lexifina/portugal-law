@@ -1,0 +1,38 @@
+Portaria n.º 466/95
+de 17 de Maio
+Considerando o Decreto-Lei n.º 129/92, de 6 de Julho, que transpõe para o direito interno a Directiva n.º 86/609/CEE, do Conselho, de 24 de Novembro, relativa à protecção dos animais utilizados para fins experimentais e outros fins científicos;
+Considerando que cabe ao Ministro do Planeamento e da Administração do Território a competência para a definição e a coordenação da política científica e tecnológica do País:
+Manda o Governo, pelos Ministros do Planeamento e da Administração do Território, da Agricultura, da Educação, da Saúde e do Comércio e Turismo, ao abrigo do artigo 2.º do Decreto-Lei n.º 129/92, de 6 de Julho, o seguinte:
+1.º Os n.os 8.º, 23.º, 48.º e 49.º da Portaria n.º 1005/92, de 23 de Outubro, passam a ter a seguinte redacção:
+8.º As experiências só podem ser realizadas por pessoas competentes e autorizadas, ou sob a sua responsabilidade directa, ou quando os projectos experimentais ou outros projectos científicos tenham sido autorizados pela autoridade central.
+23.º Todas as experiências e dados relativos às pessoas que as tutelam e executam devem ser comunicados ao IPPAA até final de Junho de cada ano civil.
+48.º A comissão a que se refere o número anterior tem a seguinte composição:
+a) Ministério do Planeamento e da Administração do Território:
+Um representante da Secretaria de Estado da Ciência e Tecnologia;
+Um representante da Junta Nacional de Investigação Científica e Tecnológica;
+b) Ministério da Agricultura:
+Dois representantes da Direcção de Serviços da Saúde Animal, do IPPAA;
+Um representante do Laboratório Nacional de Veterinária;
+Um representante da Estação de Reprodução e Selecção Animal;
+Um representante da Estação Zootécnica Nacional, do Instituto Nacional de Investigação Agrária;
+c) Ministério da Educação:
+Um representante das faculdades de medicina veterinária;
+Um representante das faculdades de medicina;
+Um representante das faculdades de ciências;
+Um representante das faculdades de farmácia;
+d) Ministério da Saúde:
+Um representante do Instituto Nacional de Saúde Dr. Ricardo Jorge;
+e) Ministério do Comércio e Turismo:
+Um representante da Secretaria de Estado do Comércio;
+f) Entidades privadas:
+Um representante das instituições científicas não governamentais e um representante das associações de protecção, defesa e bem-estar dos animais (escolhidos pelo presidente do IPPAA);
+g) O presidente, sob proposta de, pelo menos, dois terços dos membros da comissão referidos nas alíneas anteriores, poderá convidar representantes de outros organismos, instituições, associações, entidades, serviços ou personalidades de reconhecido mérito na matéria a participar nos seus trabalhos.
+49.º ...
+a) ...
+b) Analisar e pronunciar-se, até 30 de Novembro de cada ano, sobre projectos de experiências que lhe sejam submetidos para aprovação;
+c) Analisar os dados estatísticos relativos à utilização de animais de experiência e às experiências realizadas, comunicadas ao IPPAA nos termos do n.º 23.º;
+d) ...
+2.º A comissão consultiva, objecto de reajustamento na sua composição, deve proceder à elaboração de novo regulamento no prazo de um mês.
+Ministérios do Planeamento e da Administração do Território, da Agricultura, da Educação, da Saúde e do Comércio e Turismo.
+Assinada em 22 de Março de 1995.
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira - O Ministro da Agricultura, António Duarte Silva. - A Ministra da Educação, Maria Manuela Dias Ferreira Leite. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.
