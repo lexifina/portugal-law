@@ -1,0 +1,22 @@
+Portaria n.º 505/81
+de 24 de Junho
+Pelo n.º 1 do artigo 30.º do Decreto-Lei n.º 110-A/80, de 10 de Maio, deverão todos os organismos da administração central onde se verifique a existência de serviços de informática fazer a adaptação dos seus quadros de pessoal em conformidade com as disposições daquele diploma.
+Cumpre agora aplicar tal medida aos funcionários e agentes da Administração dos Portos do Douro e Leixões, nos termos dos n.os 3 e 5 do artigo 30.º do citado decreto-lei.
+Todavia, há que atender ao facto de que o pessoal actualmente ao serviço está em vias de ser integrado no quadro alterado pela Portaria n.º 311-B/80, de 30 de Maio, cujos efeitos se reportam a 1 de Maio de 1979 e implicam mudança na situação jurídico-funcional de alguns funcionários pela aplicação das normas de transição estabelecidas pelo Despacho Normativo n.º 136/80, de 19 de Abril. E como os efeitos da integração no quadro anexo ao Decreto-Lei n.º 110-A/80 apenas se operam a partir de 2 de Julho de 1979, importa compatibilizar no tempo as integrações efectuadas ao abrigo deste diploma e da portaria acima referida e de ressalvar direitos que advieram aos funcionários em consequência de legislação anteriormente publicada.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, dos Transportes e Comunicações e da Reforma Administrativa, o seguinte:
+1.º O quadro de pessoal de informática da Administração dos Portos do Douro e Leixões constante do mapa I anexo ao Decreto-Lei n.º 22/77, de 23 de Março, com as alterações introduzidas pelo mapa anexo à Portaria n.º 311-B/80, de 30 de Maio, será substituído pelo quadro constante do mapa I anexo ao presente diploma.
+2.º A transição do pessoal existente para as categorias constantes do mapa I anexo só se operará depois de consumada a integração no quadro anexo à portaria referida no número anterior, com salvaguarda do todos os direitos resultantes dessa integração.
+3.º O preenchimento dos lugares do quadro anexo ao presente diploma pelo pessoal existente será feito de acordo com as funções desempenhadas e segundo o formalismo estabelecido no artigo 5.º do Decreto-Lei n.º 146-C/80, de 22 de Maio.
+4.º Os funcionários providos em categorias que não correspondam às designações previstas no Decreto-Lei n.º 110-A/80, de 10 de Maio, transitarão para as novas categorias de acordo com as equivalências estabelecidas no mapa II anexo.
+5.º Aos funcionários abrangidos pelo número anterior será contado, para todos os efeitos legais, o tempo de serviço prestado nas categorias cuja extinção resulta da aplicação da presente portaria.
+6.º Os efeitos deste diploma, designadamente quanto ao abono de remunerações, reportam-se a 1 de Julho de 1979, data em que se considera extinto o quadro constante do mapa I anexo à Portaria n.º 311-B/80, de 30 de Maio.
+Ministérios das Finanças e do Plano, dos Transportes e Comunicações e da Reforma Administrativa, 27 de Maio de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - Pelo Ministro dos Transportes e Comunicações, José da Silva Domingos, Secretário de Estado dos Transportes Exteriores. - Pelo Ministro da Reforma Administrativa, José Queirós Lopes Raimundo, Secretário de Estado da Reforma Administrativa.
+
+MAPA I
+Quadro do pessoal de informática da Administração dos Portos do Douro e Leixões
+(ver documento original)
+
+MAPA II
+(A que se refere o n.º 4.º da presente portaria)
+(ver documento original)
