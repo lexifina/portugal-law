@@ -1,0 +1,4 @@
+Portaria n.º 633/81
+de 23 de Julho
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e dos Transportes e Comunicações, ao abrigo do artigo 14.º, n.º 3, do Estatuto dos Correios e Telecomunicações de Portugal, aprovado pelo Decreto-Lei n.º 49368, de 10 de Novembro de 1969, na redacção do Decreto-Lei n.º 642/74, de 20 de Novembro, nomear os licenciados António Brito da Silva e José Manuel Coutinho Pais para exercerem as funções de vogais do conselho fiscal das empresas Correios e Telecomunicações de Portugal, E. P., e Telefones de Lisboa e Porto, E. P. (CTT/TLP).
+Ministérios das Finanças e do Plano e dos Transportes e Comunicações, 29 de Junho de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro dos Transportes e Comunicações, José Carlos Pinto Soromenho Viana Baptista.
