@@ -1,0 +1,3 @@
+Portaria n.º 18251
+Manda o Governo da República Portuguesa, pelo Ministro da Economia, que na comissão para o estudo da reorganização da produção do sal, criada pela Portaria n.º 18116, de 12 de Dezembro do ano findo, seja incluído um vogal representante da Direcção-Geral dos Serviços Agrícolas e um vogal representante das indústrias químicas utilizadoras de sal, a indicar pela Corporação da Indústria, em substituição do membro agregado, sem voto, representante das mesmas indústrias.
+Ministério da Economia, 6 de Fevereiro de 1961. - O Ministro da Economia, José do Nascimento Ferreira Dias Júnior.
