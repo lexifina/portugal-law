@@ -1,0 +1,16 @@
+Decreto-Lei n.º 215/90
+de 28 de Junho
+Considerando que os vários diplomas que mantiverem a Inspecção dos Organismos de Coordenação Económica do Ministério do Comércio e Turismo, desde a extinção da Comissão de Coordenação Económica, em que a mesma se integrava, tornaram a sua manutenção dependente de subsistência de tais organismos neste Ministério, com a estrutura e funções que possuíam;
+Considerando que os últimos organismos nessas condições, ou seja, a Comissão Reguladora dos Produtos Químicos e Farmacêuticos, o Instituto dos Produtos Florestais e o Instituto dos Têxteis, foram extintos pela Decreto-Lei n.º 466/88, de 15 de Dezembro, e que se procedeu à sua liquidação;
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º É extinta a Inspecção dos Organismos de Coordenação Económica.
+Art. 2.º São extintos, em consequência, o lugar de director-geral e os três lugares correspondentes à dotação global da carreira de inspector que fazem parte do quadro de pessoal da Secretaria-Geral do Ministério do Comércio e Turismo, constante do mapa anexo ao Decreto-Lei n.º 135/88, de 21 de Abril.
+Art. 3.º Os funcionários que preencham os lugares referidos no artigo anterior e que se mantenham ao serviço à data da entrada em vigor do presente diploma ingressarão no quadro de excedentes, nos termos e para os efeitos do Decreto-Lei n.º 43/84, de 3 de Fevereiro.
+Art. 4.º O presente diploma produz efeitos a partir do dia 1 de Julho de 1990.
+Visto e aprovado em Conselho de Ministros de 10 de Maio de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Alfredo César Torres.
+Promulgado em 11 de Junho de 1990.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 19 de Junho de 1990.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
