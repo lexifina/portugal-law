@@ -1,0 +1,9 @@
+Resolução n.º 194-F/82
+1 - Os membros do Conselho da Revolução poderão ser apoiados no exercício das suas funções, quando o considerem necessário, por 1 chefe de gabinete e por um secretário pessoal (n.º 1 do artigo 1.º do Decreto-Lei n.º 17/82).
+2 - Os chefes de gabinete e os secretários pessoais auferem os vencimentos e, quando for caso disso, as ajudas de custo dos membros dos gabinetes dos ministros em idênticas funções (artigo 3.º do Decreto-Lei n.º 17/82).
+3 - Os elementos dos gabinetes dos membros do Governo, quando exonerados das suas funções por força da exoneração destes, ficam com direito, no mês imediato, ao abono de tantos duodécimos do vencimento mensal correspondente ao cargo exercido quantos os meses, seguidos ou interpolados, durante os quais desempenharam aquelas funções, até ao limite de 12 (n.º 1 do artigo 1.º do Decreto-Lei n.º 372/76).
+4 - No caso de o elemento do gabinete exonerado das funções reocupar cargo público, poderá optar entre a remuneração desse cargo e o abono a que se refere o n.º 1 do artigo 1.º do Decreto-Lei n.º 372/76 (n.º 3 do artigo 1.º do mesmo diploma).
+5 - O abono a que se refere o n.º 1 do artigo 1.º do Decreto-Lei n.º 372/76 reveste a natureza de vencimento em face do n.º 3 do mesmo artigo e porque outra configuração jurídica não lhe pode ser atribuída, visto tratar-se de uma remuneração correspondente a serviço prestado sem características inerentes a qualquer outro tipo de abono específico.
+6 - Por tal motivo, os chefes de gabinete e os secretários pessoais dos membros do Conselho da Revolução, por força do artigo 3.º do Decreto-Lei n.º 17/82, terão direito ao abono a que se refere o n.º 1 do artigo 1.º do Decreto-Lei n.º 372/76.
+Aprovada em Conselho da Revolução em 26 de Outubro de 1982.
+O Presidente do Conselho da Revolução, António Ramalho Eanes.
