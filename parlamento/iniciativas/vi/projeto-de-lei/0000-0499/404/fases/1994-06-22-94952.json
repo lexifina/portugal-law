@@ -1,0 +1,751 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "404",
+    "id": "3542",
+    "titulo": "Revoga e substitui o estatuto do direito de oposição."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1994-06-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "211",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1994-06-22",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1994-06-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36760",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2674-2675"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-06-23",
+                "pubLeg": "VI",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/082/1994-06-23/2674?pgs=2674-2675&org=PLC"
+              }
+            ],
+            "sumario": "OPOSICAO: REVOGA E SUBSTITUI O ESTATUTO DO DIREITO DA OPOSICAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "147",
+                "nome": "António de Almeida Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36761",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2674-2674"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-06-23",
+                "pubLeg": "VI",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/082/1994-06-23/2674?pgs=2674&org=PLC"
+              }
+            ],
+            "sumario": "OPOSICAO: REVOGA E SUBSTITUI O ESTATUTO DO DIREITO DA OPOSICAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36762",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2673-2673"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-06-23",
+                "pubLeg": "VI",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/082/1994-06-23/2673?pgs=2673&org=PLC"
+              }
+            ],
+            "sumario": "OPOSICAO: REVOGA E SUBSTITUI O ESTATUTO DO DIREITO DA OPOSICAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "99",
+                "nome": "Luís Pais de Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36763",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2672-2673",
+                  "2675-2676"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-06-23",
+                "pubLeg": "VI",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/082/1994-06-23/2672?pgs=2672-2673,2675-2676&org=PLC"
+              }
+            ],
+            "sumario": "OPOSICAO: REVOGA E SUBSTITUI O ESTATUTO DO DIREITO DA OPOSICAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "119",
+                "nome": "Mário Maciel"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36764",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2671-2671"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-06-23",
+                "pubLeg": "VI",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/082/1994-06-23/2671?pgs=2671&org=PLC"
+              }
+            ],
+            "sumario": "OPOSICAO: REVOGA E SUBSTITUI O ESTATUTO DO DIREITO DA OPOSICAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36765",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2671-2671"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-06-23",
+                "pubLeg": "VI",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/082/1994-06-23/2671?pgs=2671&org=PLC"
+              }
+            ],
+            "sumario": "OPOSICAO: REVOGA E SUBSTITUI O ESTATUTO DO DIREITO DA OPOSICAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36766",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2670-2670"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-06-23",
+                "pubLeg": "VI",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/082/1994-06-23/2670?pgs=2670&org=PLC"
+              }
+            ],
+            "sumario": "OPOSICAO: REVOGA E SUBSTITUI O ESTATUTO DO DIREITO DA OPOSICAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "182",
+                "nome": "Martins Goulart"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36767",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2667-2668"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-06-23",
+                "pubLeg": "VI",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/082/1994-06-23/2667?pgs=2667-2668&org=PLC"
+              }
+            ],
+            "sumario": "OPOSICAO: REVOGA E SUBSTITUI O ESTATUTO DO DIREITO DA OPOSICAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36768",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2667-2668"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-06-23",
+                "pubLeg": "VI",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/082/1994-06-23/2667?pgs=2667-2668&org=PLC"
+              }
+            ],
+            "sumario": "OPOSICAO: REVOGA E SUBSTITUI O ESTATUTO DO DIREITO DA OPOSICAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "230",
+                "nome": "André Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36769",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2667-2667"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-06-23",
+                "pubLeg": "VI",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/082/1994-06-23/2667?pgs=2667&org=PLC"
+              }
+            ],
+            "sumario": "OPOSICAO: REVOGA E SUBSTITUI O ESTATUTO DO DIREITO DA OPOSICAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36770",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2665-2666"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-06-23",
+                "pubLeg": "VI",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/082/1994-06-23/2665?pgs=2665-2666&org=PLC"
+              }
+            ],
+            "sumario": "OPOSICAO: REVOGA E SUBSTITUI O ESTATUTO DO DIREITO DA OPOSICAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36771",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2663-2664"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-06-23",
+                "pubLeg": "VI",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/082/1994-06-23/2663?pgs=2663-2664&org=PLC"
+              }
+            ],
+            "sumario": "OPOSICAO: REVOGA E SUBSTITUI O ESTATUTO DO DIREITO DA OPOSICAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36772",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2662-2662"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-06-23",
+                "pubLeg": "VI",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/082/1994-06-23/2662?pgs=2662&org=PLC"
+              }
+            ],
+            "sumario": "OPOSICAO: REVOGA E SUBSTITUI O ESTATUTO DO DIREITO DA OPOSICAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "147",
+                "nome": "António de Almeida Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36773",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2659-2668"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-06-23",
+                "pubLeg": "VI",
+                "pubNr": "82",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/082/1994-06-23/2659?pgs=2659-2668&org=PLC"
+              }
+            ],
+            "sumario": "OPOSICAO: REVOGA E SUBSTITUI O ESTATUTO DO DIREITO DA OPOSICAO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "94952",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "211",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1994-06-23",
+        "pubLeg": "VI",
+        "pubNr": "82",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/082/1994-06-23?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
