@@ -1,0 +1,5 @@
+Portaria n.º 21268
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 10000$00 a verba do capítulo 10.º, artigo 280.º, n.º 6), alínea b) «Encargos gerais - Diversas despesas - Despesas eventuais (artigos 1.º e 6.º do Decreto n.º 22245, de 18 de Maio de 1933) - Não especificadas - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Cabo Verde para o ano corrente, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 10.º, artigo 280.º, n.º 22) «Encargos gerais - Diversas despesas - Aquisição de viaturas com motores para os serviços públicos», da referida tabela de despesa.
+Ministério do Ultramar, 3 de Maio de 1965. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Cabo Verde. - J. Cota.
