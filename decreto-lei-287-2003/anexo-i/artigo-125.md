@@ -1,9 +1,9 @@
 # Artigo 125.º
 
-### Entidades distribuidoras de água, energia e telecomunicações
+### Entidades fornecedoras de água, energia e telecomunicações
 
-1 - As entidades distribuidoras de água, energia e telecomunicações fixas devem, até ao dia 15 de abril, 15 de julho, 15 de outubro e 15 de janeiro, comunicar à Autoridade Tributária e Aduaneira os contratos celebrados com clientes finais e as suas alterações, que se tenham verificado no trimestre anterior, relativamente ao consumo nos respetivos códigos de ponto de entrega, código universal da instalação ou equivalente.
+1 - As entidades fornecedoras de água, energia e do serviço fixo de telefones devem, até 31 de Julho e 31 de Janeiro de cada ano, em relação ao semestre anterior, comunicar ao serviço de finanças da área da situação dos prédios os contratos celebrados com os seus clientes, bem como as suas alterações.
 
-2 - Da comunicação referida no número anterior deve constar a identificação fiscal do cliente final e a indicação do artigo matricial do prédio urbano, nos termos descritos no número seguinte, ou, nos casos em que o prédio urbano não esteja identificado, a informação georreferenciada do local da prestação do serviço na rede de distribuição.
+2 - Da comunicação referida no número anterior deve constar a identificação fiscal do proprietário, usufrutuário ou superficiário e respectivo domicílio, bem como a do artigo matricial do prédio, fracção ou parte ou, tratando-se de prédio omisso, a indicação da data da entrega da declaração para a sua inscrição na matriz.
 
-3 - As empresas de distribuição de água e energia devem, através da comunicação referida no n.º 1, apresentar uma lista atualizada da ausência de consumos ou de consumos baixos, por cada prédio urbano ou fração autónoma, utilizando obrigatoriamente a identificação matricial dos prédios.
+3 - A comunicação é feita mediante impresso de modelo aprovado oficialmente ou por suporte informático.

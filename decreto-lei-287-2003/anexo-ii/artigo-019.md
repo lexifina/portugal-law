@@ -6,8 +6,6 @@
 
 ### Iniciativa da liquidação
 
-1 - A liquidação do IMT é de iniciativa dos interessados, para cujo efeito devem apresentar, em qualquer serviço de finanças ou por meios electrónicos, uma declaração de modelo oficial devidamente preenchida.
+1 - A liquidação do IMT é de iniciativa dos interessados, para cujo efeito devem apresentar uma declaração de modelo oficial, devidamente preenchida.
 
 2 - A liquidação é promovida oficiosamente pelos serviços de finanças que forem competentes e sempre que os interessados não tomem a iniciativa de o fazer dentro dos prazos legais, bem como quando houver lugar a qualquer liquidação adicional, sem prejuízo dos juros compensatórios a que haja lugar e da penalidade que ao caso couber.
-
-3 - A declaração prevista no n.º 1 deve também ser apresentada, em qualquer serviço de finanças ou por meios electrónicos, antes do acto ou facto translativo dos bens, nas situações de isenção.

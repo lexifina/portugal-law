@@ -13,5 +13,3 @@
 5 - No caso previsto no número anterior, se o sujeito passivo não comunicar que pretende integrar a comissão ou não indicar o seu representante no prazo aí fixado ou, indicando-o, o mesmo não compareça, a competência para a nomeação do representante, que recai num dos peritos regionais referidos no artigo 74.º, devolve-se ao chefe de finanças.
 
 6 - No caso referido no n.º 4, à não comparência do sujeito passivo ou do seu representante aplica-se a parte final do n.º 3.
-
-7 - Caso a segunda avaliação seja requerida pelos sujeitos passivos, e se, em resultado desta, o valor patrimonial tributário se mantenha ou aumente, as despesas com a avaliação são por estes reembolsadas à Direcção-Geral dos Impostos.

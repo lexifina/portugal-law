@@ -14,7 +14,7 @@
 
 4 - O disposto nos números anteriores entende-se, porém, sem prejuízo das seguintes regras:
 
-1.ª Quando qualquer dos comproprietários, quinhoeiros ou meeiros alienar o seu direito, o imposto é liquidado pela parte do valor patrimonial tributário que lhe corresponder ou incide sobre o valor constante do ato ou do contrato, consoante o que for maior;
+1.ª Quando qualquer dos comproprietários ou quinhoeiros alienar o seu direito, o imposto é liquidado pela parte do valor patrimonial tributário que lhe corresponder ou incide sobre o valor constante do acto ou do contrato, consoante o que for maior;
 
 2.ª Quando ao tempo da constituição do direito de superfície temporário já esteja terminada a construção das obras ou ultimada a plantação, deve observar-se o seguinte:
 
@@ -34,7 +34,7 @@ b) Na constituição do direito de superfície, bem como na transmissão deste d
 
 6.ª Quando a transmissão se efectuar por meio de renúncia ou cedência, o imposto é calculado sobre o valor patrimonial tributário dos respectivos bens imóveis, ou incide sobre o valor constante do acto ou do contrato, se for superior;
 
-7.ª Se a propriedade for transmitida separadamente do usufruto, uso ou habitação, ou do direito real de habitação duradoura, o imposto é calculado sobre o valor da nua-propriedade, nos termos da alínea a) do artigo 13.º, ou sobre o valor constante do ato ou do contrato, se for superior;
+7.ª Se a propriedade for transmitida separadamente do usufruto, uso ou habitação, o imposto é calculado sobre o valor da nua-propriedade, nos termos da alínea a) do artigo 13.º, ou sobre o valor constante do acto ou do contrato, se for superior;
 
 8.ª Quando se constituir usufruto, uso ou habitação, bem como quando se renunciar a qualquer desses direitos ou o usufruto for transmitido separadamente da propriedade, o imposto é liquidado pelo valor actual do usufruto, uso ou habitação, calculado nos termos da alínea b) do artigo 13.º, ou incide sobre o valor constante do acto ou do contrato, se for superior;
 
@@ -44,13 +44,9 @@ b) Na constituição do direito de superfície, bem como na transmissão deste d
 
 11.ª Nas partilhas judiciais ou extrajudiciais, o valor do excesso de imóveis sobre a quota-parte do adquirente, nos termos da alínea c) do n.º 5 do artigo 2.º, é calculado em face do valor patrimonial tributário desses bens adicionado do valor atribuído aos imóveis não sujeitos a inscrição matricial ou, caso seja superior, em face do valor que tiver servido de base à partilha;
 
-12.ª Nos atos previstos nas alíneas e), f) e g) do n.º 5 do artigo 2.º, deve observar-se o seguinte, consoante os casos:
+12.ª Nos actos previstos nas alíneas e) e f) do n.º 5 do artigo 2.º, o valor dos imóveis é o valor patrimonial tributário ou aquele por que os mesmos entrarem para o activo das sociedades, consoante o que for maior;
 
-a) O valor dos imóveis é o valor patrimonial tributário ou, caso seja superior, aquele por que os mesmos entrarem para o ativo das sociedades ou para o património dos fundos de investimento imobiliário;
-
-b) O valor dos imóveis é o valor patrimonial tributário ou, caso seja superior, aquele por que os mesmos saírem do ativo das sociedades ou do património dos fundos de investimento imobiliário;
-
-13.ª Na fusão ou na cisão das sociedades ou dos fundos de investimento referidos na alínea h) do n.º 5 do artigo 2.º, o imposto incide sobre o valor patrimonial tributário de todos os imóveis das sociedades ou dos fundos de investimento objeto de fusão ou cisão que se transfiram para o ativo das sociedades ou dos fundos de investimento que resultarem da fusão ou cisão, ou sobre o valor por que esses bens entrarem para o ativo das sociedades ou dos fundos de investimento, se for superior;
+13.ª Na fusão ou na cisão das sociedades referidas na alínea g) do n.º 5 do artigo 2.º, o imposto incide sobre o valor patrimonial tributário de todos os imóveis das sociedades fusionadas ou cindidas que se transfiram para o activo das sociedades que resultarem da fusão ou cisão, ou sobre o valor por que esses bens entrarem para o activo das sociedades, se for superior;
 
 14.ª O valor dos bens imóveis ou do direito de superfície constituído sobre os imóveis locados, adquiridos pelo locatário, através de contrato de compra e venda, no termo da vigência do contrato de locação financeira e nas condições nele estabelecidas, será o valor residual determinado ou determinável, nos termos do respectivo contrato;
 
@@ -62,38 +58,28 @@ b) O valor dos imóveis é o valor patrimonial tributário ou, caso seja superio
 
 18.ª Nas situações previstas nas alíneas a) e b) do n.º 3 do artigo 2.º, o imposto incide apenas sobre a parte do preço paga pelo promitente adquirente ao promitente alienante ou pelo cessionário ao cedente;
 
-19.ª Quando se verificarem as transmissões previstas nas alíneas d) e e) do n.º 2 do artigo 2.º, o imposto é liquidado nos termos seguintes:
+19.ª Quando se verificar a transmissão prevista na alínea d) do n.º 2 do artigo 2.º, o imposto será liquidado nos termos seguintes:
 
 a) Pelo valor patrimonial tributário dos imóveis correspondente à quota ou parte social maioritária, ou pelo valor total desses bens, consoante os casos, preferindo em ambas as situações o valor do balanço, se superior;
 
 b) No caso de aquisições sucessivas, o imposto respeitante à nova transmissão será liquidado sobre a diferença de valores determinada nos termos da alínea anterior;
 
-c) Se, na sequência de dissolução da sociedade ou do fundo ou através de outras transmissões a título oneroso, todos ou alguns dos imóveis da sociedade ou do fundo de investimento imobiliário ficarem a pertencer ao sócio, sócios, acionista, acionistas, participante ou participantes que já tiverem sido tributados, o imposto respeitante à nova transmissão incide sobre a diferença entre o valor dos bens agora adquiridos e o valor pelo qual o imposto foi anteriormente liquidado;
-
-d) Nos casos previstos na alínea d) do n.º 2 do artigo 2.º, só concorrem para o valor tributável os imóveis que não se encontrem diretamente afetos a uma atividade de natureza agrícola, industrial ou comercial, e os que se encontrem afetos à atividade de compra e venda de imóveis;
-
-e) Pelo valor patrimonial tributário dos imóveis correspondente à participação maioritária ou pelo valor total desses bens, consoante os casos, preferindo em ambas as situações o valor do relatório de avaliação para a sociedade gestora, se superior.
-
-20.ª O valor dos bens imóveis adquiridos ao abrigo de regimes legais de apoio financeiro à habitação, quando se trate da primeira transmissão, é o valor ou o preço fixado pelo Instituto da Habitação e da Reabilitação Urbana, I. P., nos termos estabelecidos nesses regimes.
-
-21.ª Quando se constituir direito real de habitação duradoura o imposto é liquidado sobre o valor da caução, exceto quando haja lugar à sua renúncia ou transmissão, casos em que o imposto é liquidado sobre o valor atual desse direito, calculado nos termos da alínea b) do artigo 13.º, ou sobre o valor constante do ato ou do contrato, se for superior.
+c) Se a sociedade vier a dissolver-se e todos ou alguns dos seus imóveis ficarem a pertencer ao sócio ou sócios que já tiverem sido tributados, o imposto respeitante à nova transmissão incidirá sobre a diferença entre o valor dos bens agora adquiridos e o valor por que anteriormente o imposto foi liquidado.
 
 5 - Para efeitos dos números anteriores, considera-se, designadamente, valor constante do acto ou do contrato, isolada ou cumulativamente:
 
 a) A importância em dinheiro paga a título de preço pelo adquirente;
 
-b) O valor dos móveis, incluindo criptoativos, dados em troca, a determinar nos termos do Código do Imposto do Selo;
+b) O valor dos móveis dados em troca, a determinar nos termos do Código do Imposto do Selo;
 
-c) Se, na sequência de dissolução da sociedade ou do fundo ou através de outras transmissões a título oneroso, todos ou alguns dos imóveis da sociedade ou do fundo de investimento imobiliário ficarem a pertencer ao sócio, sócios, acionista, acionistas, participante ou participantes que já tiverem sido tributados, o imposto respeitante à nova transmissão incide sobre a diferença entre o valor dos bens agora adquiridos e o valor pelo qual o imposto foi anteriormente liquidado;
+c) O valor actual das pensões temporárias ou das pensões ou rendas vitalícias;
 
-d) Nos casos previstos na alínea d) do n.º 2 do artigo 2.º, só concorrem para o valor tributável os imóveis que não se encontrem diretamente afetos a uma atividade de natureza agrícola, industrial ou comercial, e os que se encontrem afetos à atividade de compra e venda de imóveis;
+d) O valor das prestações ou rendas perpétuas;
 
-e) O valor das prestações ou rendas perpétuas;
+e) O valor da prestação temporária no caso do direito de superfície;
 
 f) A importância de rendas que o adquirente tiver pago adiantadamente, enquanto arrendatário, e que não sejam abatidas ao preço;
 
 g) A importância das rendas acordadas, no caso da alínea b) do n.º 2 do artigo 2.º;
 
 h) Em geral, quaisquer encargos a que o comprador ficar legal ou contratualmente obrigado.
-
-6 - O disposto na regra 4.ª do n.º 4 fica sem efeito relativamente aos bens imóveis que sejam transmitidos no prazo de um ano a contar da data da permuta, caso em que o primitivo permutante que transmitiu o imóvel deve apresentar declaração de modelo oficial, no serviço de finanças competente, no prazo de 30 dias a contar da data da transmissão.

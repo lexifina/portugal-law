@@ -2,6 +2,6 @@
 
 ### Coeficiente de afectação
 
-O coeficiente de afetação (Ca) depende do tipo de utilização dos prédios, de acordo com o seguinte quadro:
+O coeficiente de afectação (Ca) depende do tipo de utilização dos prédios edificados, de acordo com o seguinte quadro:
 
-(ver documento original)
+(ver quadro no documento original)

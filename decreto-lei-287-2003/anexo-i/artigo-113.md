@@ -8,7 +8,7 @@
 
 1 - O imposto é liquidado anualmente, em relação a cada município, pelos serviços centrais da Direcção-Geral dos Impostos, com base nos valores patrimoniais tributários dos prédios e em relação aos sujeitos passivos que constem das matrizes em 31 de Dezembro do ano a que o mesmo respeita.
 
-2 - A liquidação referida no número anterior é efetuada nos meses de fevereiro a abril do ano seguinte.
+2 - A liquidação referida no número anterior é efectuada nos meses de Fevereiro e Março do ano seguinte.
 
 3 - Logo que a avaliação de prédio omisso, melhorado, modificado ou ampliado se torne definitiva, liquida-se o imposto a que houver lugar, com observância do disposto no n.º 1 do artigo 116.º
 
