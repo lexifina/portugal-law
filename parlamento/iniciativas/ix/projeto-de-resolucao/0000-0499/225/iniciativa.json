@@ -1,0 +1,238 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "tipo": "Projeto de Resolução",
+  "numero": "225",
+  "id": "20150",
+  "fases": 11,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2004-02-17",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2004-09-14",
+    "DataInicioleg": "2003-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "618",
+        "nome": "Guilherme Silva"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1655",
+        "nome": "Telmo Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1612",
+        "nome": "Ana Manso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1966",
+        "nome": "Maria João Fonseca"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1915",
+        "nome": "Graça Proença de Carvalho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1983",
+        "nome": "Paula Carloto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1961",
+        "nome": "Aurora Vieira"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1290",
+        "nome": "Álvaro Castello-branco"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1921",
+        "nome": "Isabel Gonçalves"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1953",
+        "nome": "Diogo Feio"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1310",
+        "nome": "Henrique Campos Cunha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1239",
+        "nome": "Luís Marques Guedes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1897",
+        "nome": "Teresa Morais"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1916",
+        "nome": "Daniel Rebelo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2035",
+        "nome": "Fernando Lopes"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "227",
+        "nome": "Manuel Cambra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1906",
+        "nome": "João Gago Horta"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1959",
+        "nome": "Diogo Luz"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1713",
+        "nome": "Bruno Vitorino"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1238",
+        "nome": "Sérgio Vieira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1686",
+        "nome": "Pedro Duarte"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1863",
+        "nome": "Miguel Paiva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1351",
+        "nome": "Manuel Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "114",
+        "nome": "Maria Leonor Beleza"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "324",
+        "nome": "Fernando Pedro Moutinho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1999",
+        "nome": "Jorge Nuno Sá"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1478",
+        "nome": "Gonçalo Capitão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1896",
+        "nome": "Massano Cardoso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1991",
+        "nome": "Clara Carneiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1731",
+        "nome": "António Nazaré Pereira"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1657",
+        "nome": "João Pinho de Almeida"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1710",
+        "nome": "Herculano Gonçalves"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1047",
+        "nome": "Nuno Teixeira de Melo"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1450",
+        "nome": "Helder Amaral"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1924",
+        "nome": "Paulo Veiga"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1723",
+        "nome": "Carlos Antunes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1963",
+        "nome": "Bernardino Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1964",
+        "nome": "Fernando Charrua"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "20150",
+    "IniLeg": "IX",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a5357357059326c6864476c32595338324f4451345a6a55325a6931694e7a4a6a4c54526d4e4749744f4451784d43307a5a4455784d6d49794d545531597a67755a47396a&fich=6848f56f-b72c-4f4b-8410-3d512b2155c8.doc&Inline=true",
+    "IniNr": "225",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Sobre medidas de prevenção no âmbito da interrupção voluntária da gravidez.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
