@@ -1,0 +1,5 @@
+Aviso n.º 31/2004
+Por ordem superior se torna público que foram recebidas notas, em 8 de Março de 2004 e 4 de Fevereiro de 2004, respectivamente pela Embaixada de Portugal em Díli e pelo Ministério dos Negócios Estrangeiros e Cooperação da República Democrática de Timor-Leste, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo de Cooperação Técnico-Militar entre a República Portuguesa e a República Democrática de Timor-Leste, assinado em Díli em 20 de Maio de 2002.
+O citado Acordo de Cooperação Técnico-Militar foi aprovado pela Resolução da Assembleia da República n.º 39/2003, e ratificado pelo Decreto do Presidente da República n.º 30/2003, ambos publicados no Diário da República, 1.ª série-A, n.º 104, de 6 de Maio de 2003.
+Nos termos do n.º 1 do artigo 9.º do citado Acordo, este entra em vigor a 8 de Março de 2004.
+Direcção-Geral das Relações Bilaterais, 12 de Março de 2004. - O Director-Geral, Manuel Nuno Tavares de Sousa.
