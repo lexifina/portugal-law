@@ -4,48 +4,26 @@
 
 # Artigo 102.º
 
-### Reposição da legalidade urbanística
+### Embargo
 
-1 - Os órgãos administrativos competentes estão obrigados a adotar as medidas adequadas de tutela e restauração da legalidade urbanística quando sejam realizadas operações urbanísticas:
+1 - Sem prejuízo das competências atribuídas por lei a outras entidades, o presidente da câmara municipal é competente para embargar obras de urbanização, de edificação ou de demolição, bem como quaisquer trabalhos de remodelação de terrenos, quando estejam a ser executadas:
 
-a) Sem os necessários atos administrativos de licença ou informação prévia com os efeitos do n.º 2 do artigo 17.º;
+a) Sem a necessária licença ou autorização; ou
 
-b) Em desconformidade com os respetivos atos administrativos de licença ou informação prévia com os efeitos do n.º 2 do artigo 17.º;
+b) Em desconformidade com o respectivo projecto ou com as condições do licenciamento ou autorização, salvo o disposto no artigo 83.º; ou
 
-c) Ao abrigo de ato administrativo revogado ou declarado nulo;
+c) Em violação das normas legais e regulamentares aplicáveis.
 
-d) Sem a necessária comunicação prévia ou comunicação prévia com prazo ou em desconformidade com as respetivas condições;
+2 - A notificação é feita ao responsável pela direcção técnica da obra, bem como ao titular do alvará de licença ou autorização, sendo suficiente qualquer dessas notificações para obrigar à suspensão dos trabalhos, devendo ainda, quando possível, ser notificado o proprietário do imóvel no qual estejam a ser executadas as obras, ou seu representante.
 
-e) Em desconformidade com as normas legais ou regulamentares aplicáveis.
+3 - Após o embargo, é de imediato lavrado o respectivo auto, que contém, obrigatória e expressamente, a identificação do funcionário municipal responsável pela fiscalização de obras, das testemunhas e do notificado, a data, hora e local da diligência e as razões de facto e de direito que a justificam, o estado da obra e a indicação da ordem de suspensão e proibição de prosseguir a obra e do respectivo prazo, bem como as cominações legais do seu incumprimento.
 
-2 - As medidas a que se refere o número anterior podem consistir:
+4 - O auto é redigido em duplicado e assinado pelo funcionário e pelo notificado, ficando o duplicado na posse deste.
 
-a) No embargo de obras ou de trabalhos de remodelação de terrenos;
+5 - No caso de a ordem de embargo incidir apenas sobre parte da obra, o respectivo auto fará expressa menção de que o embargo é parcial e identificará claramente qual é a parte da obra que se encontra embargada.
 
-b) Na suspensão administrativa da eficácia da licença ou informação prévia;
+6 - O embargo e respectivo auto são notificados ao requerente ou titular da licença ou autorização ou, quando estas não tenham sido requeridas, ao proprietário do imóvel no qual estejam a ser executadas as obras.
 
-c) Na determinação da realização de trabalhos de correção ou alteração, sempre que possível;
+7 - No caso de as obras estarem a ser executadas por pessoa colectiva, o embargo e o respectivo auto são ainda comunicados para a respectiva sede social ou representação em território nacional.
 
-d) Na legalização das operações urbanísticas;
-
-e) Na determinação da demolição total ou parcial de obras;
-
-f) Na reposição do terreno nas condições em que se encontrava antes do início das obras ou trabalhos;
-
-g) Na determinação da cessação da utilização de edifícios ou suas frações autónomas.
-
-3 - Independentemente das situações previstas no n.º 1, a câmara municipal pode:
-
-a) Determinar a execução de obras de conservação necessárias à correção de más condições de segurança ou salubridade ou à melhoria do arranjo estético;
-
-b) Determinar a demolição, total ou parcial, das construções que ameacem ruína ou ofereçam perigo para a saúde pública e segurança das pessoas.
-
-4 - [Revogado.]
-
-5 - [Revogado.]
-
-6 - [Revogado.]
-
-7 - [Revogado.]
-
-8 - [Revogado.]
+8 - O embargo é objecto de registo na conservatória do registo predial, mediante comunicação do despacho que o determinou, procedendo-se aos necessários averbamentos.

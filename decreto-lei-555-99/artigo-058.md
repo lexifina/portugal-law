@@ -2,20 +2,18 @@
 
 ### Prazo de execução
 
-1 - A câmara municipal fixa, com o deferimento do pedido de licenciamento das obras referidas nas alíneas c), d), f), h) e i) do n.º 2 do artigo 4.º, o prazo de execução da obra, em conformidade com a programação proposta pelo requerente.
+1 - A câmara municipal fixa, com o deferimento do pedido de licenciamento ou de autorização das obras referidas nas alíneas c) e d) do n.º 2 e c) a e) do n.º 3 do artigo 4.º, o prazo para a conclusão das obras.
 
-2 - Nas situações previstas no n.º 4 do artigo 4.º, bem como no caso de deferimento tácito ou isenção, o prazo de execução é o definido pelo interessado, não podendo, no entanto, ultrapassar os limites máximos fixados mediante regulamento municipal.
+2 - O prazo referido no número anterior começa a contar da data de emissão do respectivo alvará, ou, nas situações previstas no artigo 113.º, a contar da data do pagamento ou do depósito das taxas ou da caução.
 
-3 - Os prazos referidos nos números anteriores começam a contar da data do pagamento das taxas e demais encargos devidos.
+3 - O prazo para a conclusão da obra é estabelecido em conformidade com a programação proposta pelo requerente, podendo ser fixado diferente prazo por motivo de interesse público devidamente fundamentado.
 
-4 - O prazo para a conclusão da obra pode ser alterado por motivo de interesse público, devidamente fundamentado, no ato de deferimento ou, nos casos de operações urbanísticas sujeitas a comunicação prévia, mediante notificação ao interessado, no prazo de 15 dias a contar da submissão da mesma.
+4 - Quando não seja possível concluir as obras no prazo previsto na licença ou autorização, o prazo estabelecido nos termos dos números anteriores pode ser prorrogado, a requerimento fundamentado do interessado, por uma única vez e por período não superior a metade do prazo inicial, salvo o disposto nos números seguintes.
 
-5 - Quando não seja possível concluir as obras no prazo previsto, este pode ser prorrogado, a requerimento fundamentado do interessado, o qual deve ser objeto de decisão no prazo máximo de 15 dias, decorrido o qual se considera tacitamente deferido.
+5 - Quando a obra se encontre em fase de acabamentos, pode o presidente da câmara municipal, a requerimento fundamentado do interessado, conceder nova prorrogação, mediante o pagamento de um adicional à taxa referida no n.º 1 do artigo 116.º, de montante a fixar em regulamento municipal.
 
-6 - (Revogado.)
+6 - O prazo estabelecido nos termos dos números anteriores pode ainda ser prorrogado em consequência da alteração da licença ou autorização.
 
-7 - O prazo estabelecido nos termos dos números anteriores pode ainda ser prorrogado em consequência da alteração da licença, bem como da apresentação de alterações durante a execução da obra, nos termos do artigo 83.º
+7 - A prorrogação do prazo nos termos referidos nos números anteriores não dá lugar à emissão de novo alvará, devendo ser averbada no alvará em vigor.
 
-8 - A prorrogação do prazo nos termos referidos no n.º 5 não dá lugar à emissão de novo título, devendo apenas ser junto àquele, com o comprovativo de pagamento da respetiva taxa, caso aplicável.
-
-9 - [Revogado.]
+8 - No caso previsto no artigo 113.º, o prazo para a conclusão da obra é aquele que for proposto pelo requerente.

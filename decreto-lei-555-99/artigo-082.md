@@ -2,14 +2,10 @@
 
 ### Ligação às redes públicas
 
-1 - Uma vez cumpridos os requisitos previstos no artigo 80.º, e até ao início dos trabalhos, o interessado solicita às entidades gestoras a ligação dos sistemas de água, de saneamento, de gás, de eletricidade e de telecomunicações, podendo optar pela realização das obras indispensáveis à sua concretização, mediante autorização dessas entidades e nas condições regulamentares e técnicas por aquelas definidas.
+1 - Os alvarás a que se referem os n.os 1 e 4 do artigo 77.º, bem como a notificação referida no n.º 5 do artigo anterior, constituem título bastante para instruir os pedidos de ligação das redes de água, de saneamento, de gás, de electricidade e de telecomunicações, podendo os requerentes optar, mediante autorização das entidades fornecedoras, pela realização das obras indispensáveis à sua concretização nas condições regulamentares e técnicas definidas por aquelas entidades.
 
-2 - [Revogado.]
+2 - Até à apresentação do alvará de licença ou autorização de utilização, as ligações referidas no número anterior são efectuadas pelo prazo fixado no alvará respectivo e apenas podem ser prorrogadas pelo período correspondente à prorrogação daquele prazo, salvo nos casos em que aquele alvará não haja sido emitido por razões exclusivamente imputáveis à câmara municipal.
 
-3 - (Revogado.)
+3 - Na situação prevista no artigo 113.º, os pedidos de ligação referidos no n.º 1 podem ser instruídos com o recibo do pagamento ou do depósito das taxas ou da caução.
 
-4 - No caso de obras sujeitas a comunicação prévia, se for necessária a compatibilização de projetos com as infraestruturas existentes ou a sua realização no caso de inexistência, estas são promovidas pela entidade prestadora ou pelo requerente, nos termos da parte final do n.º 1.
-
-5 - As ligações à rede de água, eletricidade e gás, telecomunicações e esgotos podem ainda ser efetuadas por empresas certificadas pelas entidades responsáveis por essas redes, casos em que fica o interessado dispensado de qualquer formalidade.
-
-6 - Para efeitos do número anterior, as entidades gestoras de redes de água, esgotos, eletricidade, telecomunicações ou gás, disponibilizam no seu sítio na Internet uma lista, com pelo menos sete empresas habilitadas a proceder à ligação à rede.
+4 - Nos casos referidos no n.º 3 do artigo 6.º, os pedidos de ligação podem ser instruídos com cópia da comunicação prévia.

@@ -1,15 +1,7 @@
 # Artigo 63.º
 
-### Instrução da comunicação prévia com prazo para a utilização ou alteração de uso
+### Instrução do pedido
 
-1 - A comunicação prévia com prazo prevista no artigo 62.º-B obedece ao modelo constante da portaria prevista no artigo 4.º-A, e deve ser instruída com os elementos constantes da portaria prevista no artigo 9.º e de um termo de responsabilidade que declare:
+1 - O requerimento de licença ou autorização de utilização deve ser instruído com termo de responsabilidade subscrito pelo responsável pela direcção técnica da obra, na qual aquele deve declarar que a obra foi executada de acordo com o projecto aprovado e com as condições da licença e ou autorização e, se for caso disso, se as alterações efectuadas ao projecto estão em conformidade com as normas legais e regulamentares que lhe são aplicáveis.
 
-a) A conformidade da utilização prevista com as normas legais e regulamentares que fixam os usos e utilizações admissíveis; e
-
-b) A idoneidade do edifício ou sua fração autónoma para o fim pretendido.
-
-2 - O termo de responsabilidade previsto no número anterior deve ser subscrito por pessoa legalmente habilitada a ser autor de projeto de arquitetura, nos termos do regime jurídico que define a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projetos.
-
-3 - [Revogado.]
-
-4 - O modelo do termo de responsabilidade a que se refere o presente artigo consta de portaria dos membros do Governo responsáveis pelas áreas da reforma do Estado, da construção, das autarquias locais e do ordenamento do território.
+2 - Se o responsável pela direcção técnica da obra não estiver legalmente habilitado para subscrever projectos de arquitectura, o termo de responsabilidade deve ser igualmente apresentado pelo técnico autor do projecto ou por quem, estando mandatado para o efeito pelo dono da obra, tenha a habilitação legalmente exigida para o efeito.

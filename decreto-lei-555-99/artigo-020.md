@@ -2,52 +2,24 @@
 
 ### Apreciação dos projectos de obras de edificação
 
-1 - A apreciação do projeto de arquitetura, no caso de pedido de licenciamento relativo a obras previstas nas alíneas c), d), f), h) e i) do n.º 2 do artigo 4.º, incide exclusivamente sobre a sua conformidade com:
-
-a) Planos municipais ou intermunicipais de ordenamento no território;
-
-b) Medidas preventivas e normas provisórias;
-
-c) [Revogada.]
-
-d) [Revogada.]
-
-e) Servidões administrativas;
-
-f) Restrições de utilidade pública;
-
-g) O uso proposto;
-
-h) As normas legais e regulamentares relativas ao aspeto exterior e à inserção urbana e paisagística das edificações, desde que os planos ou regulamentos municipais densifiquem tais aspetos;
-
-i) A adequação e capacidade das infraestruturas;
-
-j) A conformidade com a operação de loteamento, no caso de operações urbanísticas abrangidas pela mesma.
+1 - A apreciação do projecto de arquitectura, no caso de pedido de licenciamento relativo a obras previstas nas alíneas c) e d) do n.º 2 do artigo 4.º, incide sobre a sua conformidade com planos municipais de ordenamento no território, planos especiais de ordenamento do território, medidas preventivas, área de desenvolvimento urbano prioritário, área de construção prioritária, servidões administrativas, restrições de utilidade pública e quaisquer outras normas legais e regulamentares relativas ao aspecto exterior e a inserção urbana e paisagística das edificações, bem como sobre o uso proposto.
 
 2 - Para os efeitos do número anterior, a apreciação da inserção urbana das edificações é efectuada na perspectiva formal e funcional, tendo em atenção o edificado existente, bem como o espaço público envolvente e as infra-estruturas existentes e previstas.
 
-3 - A câmara municipal delibera sobre o projeto de arquitetura nos seguintes prazos máximos:
+3 - A câmara municipal delibera sobre o projecto de arquitectura no prazo de 30 dias contado a partir:
 
-a) 30 dias a contar do termo do prazo do saneamento e apreciação liminar; ou
+a) Da data da recepção do pedido ou dos elementos solicitados nos termos do n.º 4 do artigo 11.º; ou
 
-b) 30 dias a contar da data da receção dos elementos admitidos ao abrigo do artigo 24.º-A, quando aplicável; ou
+b) Da data da recepção do último dos pareceres, autorizações ou aprovações emitidos pelas entidades exteriores ao município, quando tenha havido lugar a consultas; ou ainda
 
-c) 30 dias a contar da data da receção do último dos pareceres, autorizações ou aprovações emitidas pelas entidades externas ao município, ou do termo do prazo para a sua emissão, quando aplicável.
+c) Do termo do prazo para a recepção dos pareceres, autorizações ou aprovações, sempre que alguma das entidades consultadas não se pronuncie até essa data.
 
-4 - O interessado deve apresentar os projetos das especialidades e outros estudos necessários à execução da obra no prazo de seis meses a contar da notificação do ato que aprovou o projeto de arquitetura caso não tenha apresentado tais projetos com o requerimento inicial, com recurso ao modelo constante da portaria prevista no artigo 4.º-A, acompanhado dos elementos constantes da portaria prevista no n.º 4 do artigo 9.º
+4 - O interessado deve requerer a aprovação dos projectos das especialidades necessários à execução da obra no prazo de seis meses a contar da notificação do acto que aprovou o projecto de arquitectura, caso não tenha apresentado tais projectos com o requerimento inicial.
 
-5 - O presidente da câmara pode prorrogar o prazo referido no número anterior por uma só vez e por período não superior a três meses, mediante requerimento fundamentado apresentado antes do respectivo termo.
+5 - O presidente da câmara poderá prorrogar o prazo referido no número anterior, por uma só vez e por período não superior a três meses, mediante requerimento fundamentado apresentado antes do respectivo termo.
 
-6 - A falta de apresentação dos projectos das especialidades e outros estudos no prazo estabelecido no n.º 4 ou naquele que resultar da prorrogação concedida nos termos do número anterior implica a suspensão do processo de licenciamento pelo período máximo de seis meses, findo o qual é declarada a caducidade após audiência prévia do interessado.
+6 - A falta de apresentação dos projectos das especialidades no prazo estabelecido no n.º 4, ou naquele que resultar da prorrogação concedida nos termos do n.º 5, implica a caducidade do acto que aprovou o projecto de arquitectura e o arquivamento oficioso do processo de licenciamento.
 
-7 - (Revogado.)
+7 - Há lugar a consulta às entidades que, nos termos da lei, devam emitir parecer, autorização ou aprovação sobre os projectos das especialidades, a qual deve ser promovida no prazo de 10 dias a contar da apresentação dos mesmos, ou da data da aprovação do projecto de arquitectura, se o interessado os tiver entregue juntamente com o requerimento inicial.
 
-8 - As declarações de responsabilidade dos autores dos projetos de arquitetura, no que respeita aos aspetos interiores das edificações, bem como dos autores dos projetos das especialidades e de outros estudos nos termos do n.º 4 do artigo 10.º, constituem garantia bastante do cumprimento das normas legais e regulamentares aplicáveis, excluindo a sua apreciação prévia, salvo quando as declarações sejam formuladas nos termos do n.º 5 do artigo 10.º
-
-9 - O prazo previsto no n.º 3 pode ser excecionalmente prorrogado por uma única vez e por igual período, por decisão do presidente da câmara municipal, suscetível de delegação nos vereadores com faculdade de subdelegação nos dirigentes dos serviços municipais mediante notificação do interessado até ao termo do prazo do saneamento liminar, com fundamento na especial complexidade da operação.
-
-10 - São nulas as normas de planos intermunicipais e municipais de ordenamento do território, bem como de regulamento municipal ou de deliberações de órgãos das entidades licenciadoras, que confiram poderes de apreciação ao município que não estejam previstos no n.º 1.
-
-11 - A decisão sobre o projeto de arquitetura deve ser completa e abranger todos os elementos do projeto objeto de apreciação nos termos do n.º 1, sendo notificada ao particular.
-
-12 - Considera-se tacitamente aprovado o projeto de arquitetura na falta de decisão expressa no prazo previsto no n.º 3.
+8 - As declarações de responsabilidade dos autores dos projectos das especialidades que estejam inscritos em associação pública constituem garantia bastante do cumprimento das normas legais e regulamentares aplicáveis aos projectos, excluindo a sua apreciação prévia pelos serviços municipais, salvo quando as declarações sejam formuladas nos termos do n.º 5 do artigo 10.º

@@ -6,4 +6,8 @@
 
 ### Âmbito
 
-A utilização de edifícios ou suas frações na sequência da realização de obras apenas pode consumar-se após a conclusão das mesmas, no todo ou em parte, observando a sua conformidade com os projetos de arquitetura e de arranjos exteriores aprovados ou submetidos, bem como com as condições do respetivo procedimento, garantindo também a conformidade da utilização prevista com as normas legais e regulamentares que fixam os usos e utilizações admissíveis, podendo contemplar utilizações mistas.
+1 - A licença de alteração da utilização prevista na alínea e) do n.º 2 do artigo 4.º destina-se a verificar a conformidade do uso previsto com as normas legais e regulamentares que lhe são aplicáveis e a idoneidade do edifício ou sua fracção autónoma para o fim a que se destina.
+
+2 - A autorização de utilização prevista na alínea f) do n.º 3 do artigo 4.º destina-se a verificar a conformidade da obra concluída com o projecto aprovado e com as condições do licenciamento ou autorização.
+
+3 - Quando não haja lugar à realização de obras ou nos casos previstos no artigo 6.º, a autorização de utilização referida no número anterior destina-se a verificar a conformidade do uso previsto com as normas legais e regulamentares aplicáveis e a idoneidade do edifício ou sua fracção autónoma para o fim pretendido.

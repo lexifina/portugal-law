@@ -1,15 +1,7 @@
 # Artigo 64.º
 
-### Tramitação e efeitos da comunicação prévia com prazo
+### Vistoria
 
-1 - O edifício ou suas frações autónomas pode ser utilizado para a finalidade pretendida decorridos dez dias após a submissão da comunicação prévia com prazo a que se refere o artigo 62.º-B, salvo na situação prevista no número seguinte.
+1 - A concessão da licença ou autorização de utilização não depende de prévia vistoria municipal, salvo o disposto no número seguinte.
 
-2 - O presidente da câmara municipal, no prazo previsto no número anterior, pode:
-
-a) Proferir despacho de rejeição quando a comunicação não esteja devidamente instruída ou resultar dos elementos instrutórios que a utilização pretendida é manifestamente contrária às normas legais ou regulamentares aplicáveis, ou constitua, comprovadamente, uma sobrecarga incomportável para as infraestruturas ou serviços gerais existentes;
-
-b) Determinar a realização de vistoria, a efetuar nos termos do artigo seguinte, quando se verifique que existem indícios sérios de que o edifício não é idóneo para o fim pretendido.
-
-3 - (Revogado.)
-
-4 - (Revogado.)
+2 - O presidente da câmara municipal pode determinar a realização de vistoria, no prazo de 15 dias a contar da entrega do requerimento referido no artigo anterior, se a obra não tiver sido inspeccionada ou vistoriada no decurso da sua execução ou se dos elementos constantes do processo ou do livro de obra resultarem indícios de que a mesma foi executada em desconformidade com o respectivo projecto e condições da licença, ou com as normas legais e regulamentares que lhe são aplicáveis.

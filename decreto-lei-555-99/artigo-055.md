@@ -8,6 +8,6 @@
 
 3 - O contrato de urbanização estabelece as obrigações das partes contratantes relativamente à execução das obras de urbanização e as responsabilidades a que ficam sujeitas, bem como o prazo para cumprimento daquelas.
 
-4 - Quando haja lugar à celebração de contrato de urbanização, o título da operação urbanística deve fazer-lhe referência.
+4 - Quando haja lugar à celebração de contrato de urbanização, a ele se fará menção no alvará.
 
-5 - Juntamente com o requerimento inicial, pedido de informação prévia, comunicação e a qualquer momento do procedimento até à aprovação das obras de urbanização, o interessado pode apresentar proposta de contrato de urbanização.
+5 - Juntamente com o requerimento inicial ou a qualquer momento do procedimento até à aprovação das obras de urbanização, o interessado pode apresentar proposta de contrato de urbanização.

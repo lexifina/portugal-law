@@ -4,8 +4,8 @@
 
 Decorridos os prazos fixados para a prática de qualquer acto especialmente regulado no presente diploma sem que o mesmo se mostre praticado, observa-se o seguinte:
 
-a) (Revogada.)
+a) Tratando-se de acto que devesse ser praticado por qualquer órgão municipal no âmbito do procedimento de licenciamento, o interessado pode recorrer ao processo regulado no artigo 112.º;
 
-b) (Revogada.)
+b) Tratando-se de acto que devesse ser praticado no âmbito do procedimento de autorização, considera-se tacitamente deferida a pretensão formulada, com as consequências referidas no artigo 113.º;
 
-c) Considera-se tacitamente deferida a pretensão, aplicando-se o disposto no Código do Procedimento Administrativo, designadamente o respetivo artigo 130.º, bem como o disposto no Decreto-Lei n.º 135/99, de 22 de abril, em especial o seu artigo 28.º-B em matéria de certificação de deferimentos tácitos.
+c) Tratando-se de qualquer outro acto, considera-se tacitamente deferida a pretensão, com as consequências gerais.

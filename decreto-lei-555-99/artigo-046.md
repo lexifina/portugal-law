@@ -2,7 +2,7 @@
 
 ### Gestão das infra-estruturas e dos espaços verdes e de utilização colectiva
 
-1 - A gestão das infraestruturas e dos espaços verdes e de utilização coletiva pode ser confiada a moradores, a grupos de moradores das zonas loteadas e urbanizadas ou a entidades previstas no artigo 7.º, mediante a celebração com o município de acordos de cooperação ou de contratos de concessão do domínio municipal.
+1 - A gestão das infra-estruturas e dos espaços verdes e de utilização colectiva pode ser confiada a moradores ou a grupos de moradores das zonas loteadas e urbanizadas, mediante a celebração com o município de acordos de cooperação ou de contratos de concessão do domínio municipal.
 
 2 - Os acordos de cooperação podem incidir, nomeadamente, sobre os seguintes aspectos:
 

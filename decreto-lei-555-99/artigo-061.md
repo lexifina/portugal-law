@@ -1,5 +1,5 @@
 # Artigo 61.º
 
-### Identificação do director de obra
+### Identificação dos técnicos responsáveis
 
-O titular da licença de construção e apresentante da comunicação prévia ficam obrigados a afixar numa placa em material imperecível no exterior da edificação ou a gravar num dos seus elementos externos a identificação do director de obra.
+O titular da licença ou autorização de construção fica obrigado a afixar uma placa em material imperecível no exterior da edificação, ou a gravar num dos seus elementos exteriores, com a identificação dos técnicos autores do respectivo projecto de arquitectura e do director técnico da obra.

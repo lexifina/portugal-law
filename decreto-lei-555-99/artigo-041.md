@@ -1,6 +1,6 @@
 ## Secção III
 
-## Condições especiais de licenciamento ou comunicação prévia
+## Condições especiais de licenciamento ou autorização
 
 ## Subsecção I
 
@@ -10,4 +10,4 @@
 
 ### Localização
 
-As operações de loteamento só podem realizar-se em áreas situadas dentro do perímetro urbano e em terrenos já urbanizados ou cuja urbanização se encontre programada em plano municipal ou intermunicipal de ordenamento do território.
+As operações de loteamento só podem realizar-se nas áreas situadas dentro do perímetro urbano e em terrenos já urbanizados ou cuja urbanização se encontre programada em plano municipal de ordenamento do território.

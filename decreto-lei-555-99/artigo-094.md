@@ -12,4 +12,4 @@
 
 5 - A câmara municipal pode contratar com empresas privadas habilitadas a efectuar fiscalização de obras a realização das inspecções a que se refere o artigo seguinte, bem como as vistorias referidas no artigo 64.º
 
-6 - (Revogado.)
+6 - A celebração dos contratos referidos no número anterior depende da observância das regras constantes de decreto regulamentar, de onde consta o âmbito das obrigações a assumir pelas empresas, o respectivo regime da responsabilidade e as garantias a prestar.
