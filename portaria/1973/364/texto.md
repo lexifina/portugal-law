@@ -1,0 +1,17 @@
+Portaria n.º 364/73
+de 24 de Maio
+Pela Portaria n.º 267/72, de 15 de Maio, para vigorar no ano cultural de 1972-1973, foi estabelecido o regime de produção e comercialização do açúcar, fixando-se, de acordo com o disposto no artigo 14.º do Decreto-Lei n.º 47337, de 24 de Novembro de 1966, os preços e qualidades para venda ao público.
+Sem prejuízo de o assunto poder vir a ser revisto, perante novos elementos que se obtenham, mantém-se para o ano cultural de 1973-1974 o regime de produção e comercialização do açúcar com os preços constantes da referida portaria, considerando, porém, os ajustamento resultantes do facto de competir presentemente à Administração-Geral do Açúcar e do Álcool a acção de disciplina em relação ao açúcar e a conveniência aconselhada pela experiência de assegurar uma fiscalização apropriada dos melaços e do açúcar, no sentido de evitatr o seu desvio para fins ilícitos. Ainda obedecendo a esta preocupação, reduz-se de 25% para 15% a percentagem de açúcar refinado que as refinarias ficam obrigadas a produzir, prevendo-se que, para o próximo ano cultural, tal obrigatoriedade se extinga.
+Nestes termos:
+Ao abrigo do disposto no artigo 2.º, n.os 1 e 2, e seu § único do Decreto-Lei n.º 45835, de 27 de Julho de 1964, nos artigos 13.º e 14.º do Decreto-Lei n.º 47337, de 24 de Novembro de 1966, e no artigo 1.º, n.º 3, do Decreto-Lei n.º 425/72, de 31 de Outubro:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e da Economia e pelos Secretários de Estado do Comércio e da Indústria, o seguinte:
+1.º Para o ano cultural de 1973-1974 mantêm-se as disposições da Portaria n.º 267/72, de 15 de Maio, sem prejuízo do disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 425/72, de 31 de Outubro, pelo qual foram transferidas para a Administração-Geral do Açúcar e do Álcool as funções que naquela portaria competiam à delegação do Governo junto do Grémio dos Armazenistas de Mercearia.
+2.º O n.º 7 do n.º 1.º e o n.º 3 do n.º 2.º da Portaria n.º 267/72 passam a ter a seguinte redacção:
+1.º ...
+...
+7. As refinarias ficam obrigadas a produzir, mensalmente, pelo menos, açúcar refinado em quantidades não inferiores a 15% da produção de cada refinaria.
+2.º ...
+...
+3. Na distribuição do açúcar refinado corrente, os refinadores não poderão recusar-se a entregar, por encomenda a que corresponda um levantamento, uma percentagem deste tipo de açúcar inferior a 15% da quantidade total, devendo entregar até 100% às entidades legalmente equiparadas a armazenistas.
+3.º A Administração-Geral do Açúcar e do Álcool condicionará, por meio de guias, o trânsito das ramas de açúcar, do açúcar e dos melaços, e verificará, por meio de contas correntes, a aplicação daqueles produtos nas fases do circuito em que tal seja julgado necessário, expedindo, para o efeito, as instruções que forem julgadas convenientes.
+Ministérios das Finanças e da Economia, 15 de Maio de 1973. - O Ministro das Finanças e da Economia, Manuel Artur Cotta Agostinho Dias. - O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto. - O Secretário de Estado da Indústria, Hermes Augusto dos Santos.
