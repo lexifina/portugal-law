@@ -1,0 +1,14 @@
+Decreto n.º 43719
+Considerando que à data da publicação do Regulamento das Contrastarias, aprovado pelo Decreto-Lei n.º 20740, de 11 de Janeiro de 1932, não se previa a montagem no continente e ilhas adjacentes de maquinismos de relógio de uso pessoal;
+Considerando que a montagem desses maquinismos é uma actividade que interessa ao País, pelo emprego de mão-de-obra portuguesa e por constituir uma fase preparatória de uma futura manufactura nacional;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º Ao artigo 81.º do Regulamento das Contrastarias, aprovado pelo Decreto n.º 20740, de 11 de Janeiro de 1932, são acrescentados os seguintes parágrafos:
+§ 1.º As caixas de fabrico nacional, destinadas a maquinismos fabricados ou montados no continente e ilhas adjacentes, serão aceites para ensaio e marca quando ao apresentante ou ao importador estiver averbado nas contrastarias igual número de platinas importadas, só podendo o seu averbamento ser feito a firmas montadoras de maquinismos devidamente matriculadas como oficinas de fabrico de relojoaria.
+§ 2.º As caixas em esboço importadas, depois de acabadas pela indústria nacional, serão consideradas, para efeito de ensaio, marca e emolumentos, como caixas de fabrico nacional, de acordo com a classificação que lhes competir pela natureza do metal.
+Art. 2.º O artigo 82.º do mesmo regulamento e seu § único são substituídos pelo seguinte artigo e seus parágrafos:
+Art. 82.º Os maquinismos completos de relógio, as platinas destinadas à montagem de relógios no continente e ilhas adjacentes e as caixas de relógios, qualquer que seja o metal, acabadas ou em esboço, importados serão encerrados em volume selado, seguidamente ao acto da reverificação na alfândega, e enviados à contrastaria respectiva, para serem devidamente averbados, procedendo-se nos termos do § 1.º do artigo 58.º
+§ 1.º As firmas que importarem platinas, maquinismos ou relógios terão de estar matriculados na contrastaria como importadores.
+§ 2.º As firmas que exerçam a indústria do fabrico ou montagem de maquinismos de relógio de uso pessoal terão de estar matriculadas como oficinas de fabrico de relojoaria e terão de possuir um punção privativo, como se encontra estabelecido para os fabricantes de ourivesaria e importadores de ourivesaria e relojoaria, que será aposto em todas as caixas contendo maquinismos montados ou fabricados no continente e ilhas adjacentes.
+§ 3.º As platinas serão obrigatòriamente importadas em volumes separados de outras fornituras, para maior segurança na sua identificação e contagem nas alfândegas e contrastarias.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 31 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.
