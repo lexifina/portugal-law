@@ -1,0 +1,3 @@
+Despacho Normativo n.º 12/84
+Considerando que convém maximizar a utilização do porto de Sines e que se torna justificável desonerar as operações de baldeação de produtos petrolíferos, naquele porto, que não se destinem a consumo no País, determino que não seja cobrado, temporariamente, o emolumento geral de 0,2% ad valorem, fixado no artigo 12.º da tabela II anexa à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, para os produtos petrolíferos sujeitos a despacho de baldeação ou trânsito na zona portuária de Sines.
+Ministério das Finanças e do Plano, 4 de Janeiro de 1984. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento.
