@@ -1,8 +1,8 @@
 # Artigo 31.º
 
-### Sorteio das listas apresentadas
+### (Sorteio das listas apresentadas)
 
-1 - Nos três dias seguintes ao fim do prazo de apresentação de candidaturas o juiz procede, na presença dos candidatos ou dos seus mandatários que compareçam, ao sorteio das listas apresentadas, para o efeito de lhes atribuir uma ordem nos boletins de voto, lavrando-se auto do sorteio.
+1 - No dia seguinte ao termo do prazo para apresentação de candidaturas o juiz procede, na presença dos candidatos ou dos seus mandatários que compareçam, ao sorteio das listas apresentadas, para o efeito de lhes atribuir uma ordem nos boletins de voto, lavrando-se auto do sorteio.
 
 2 - A realização do sorteio e a impressão dos boletins de voto não implicam a admissão das candidaturas, devendo considerar-se sem efeito relativamente à lista ou listas que, nos termos dos artigos 28.º e seguintes, venham a ser definitivamente rejeitadas.
 

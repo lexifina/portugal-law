@@ -8,4 +8,4 @@
 
 1 - Das decisões finais do juiz relativas à apresentação de candidaturas cabe recurso para o Tribunal Constitucional.
 
-2 - O recurso deve ser interposto no prazo de três dias, a contar da data da afixação das listas a que se refere o n.º 5 do artigo 30.º
+2 - O recurso deve ser interposto no prazo de dois dias, a contar da data da afixação das listas a que se refere o n.º 5 do artigo 30.º

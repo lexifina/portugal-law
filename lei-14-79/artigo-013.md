@@ -8,6 +8,8 @@
 
 3 - A cada um dos círculos eleitorais referidos no n.º 4 do artigo anterior correspondem dois deputados.
 
-4 - A Comissão Nacional de Eleições fará publicar no Diário da República, 1.ª série, entre os 70 e os 80 dias anteriores à data marcada para a realização das eleições, um mapa com o número de deputados e a sua distribuição pelos círculos.
+4 - A Comissão Nacional de Eleições fará publicar no Diário da República, 1.ª série, entre os 60 e os 55 dias anteriores à data marcada para a realização das eleições, um mapa com o número de deputados e a sua distribuição pelos círculos.
 
-5 - O mapa referido no número anterior é elaborado com base no número de eleitores segundo a última actualização do recenseamento.
+5 - Quando as eleições sejam marcadas com antecedência inferior a 60 dias, a Comissão Nacional de Eleições faz publicar o mapa com o número e a distribuição dos deputados entre os 55 e os 53 dias anteriores ao dia marcado para a realização das eleições.
+
+6 - O mapa referido nos números anteriores é elaborado com base no número de eleitores segundo a última actualização do recenseamento.
