@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1948/08/18100/07690769.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1948-08-05",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "b4d4cc96512bd3702d9f851f2d3f67a0ab8d75f02ec933dbd226b24824c279dd",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.0,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "384ec67bf0eca21346057545541a7da33607f5feba11246376588bd1fbdee781",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 270
 }
