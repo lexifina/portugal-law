@@ -1,0 +1,44 @@
+# Decreto Legislativo Regional n.º 3/2001/M
+
+**Emissor:** ASSEMBLEIA LEGISLATIVA REGIONAL
+
+**Publicação:** JORAM, I série, n.º 13/2001, 2.º suplemento, de 2001-02-26
+
+**Sumário:** Define o regime de redução das taxas do imposto sobre o rendimento das pessoas singulares, previstas no CIRS, aplicável aos residentes na Região Autónoma da Madeira.
+
+## Texto
+
+Decreto Legislativo Regional n.º 3/2001/M
+de 22 de Fevereiro
+Redução das taxas do imposto sobre o rendimento das pessoas singulares
+A Lei de Finanças das Regiões Autónomas - Lei n.º 13/98, de 24 de Fevereiro - veio possibilitar a adaptação do sistema fiscal nacional às especificidades das Regiões Autónomas.
+Utilizando essa faculdade, os órgãos de governo da Região, usando da necessária prudência, adoptaram já um conjunto de medidas de natureza fiscal, materializadas no Decreto Legislativo Regional n.º 18/99/M, que adapta à especificidade regional os benefícios fiscais em regime contratual previstos no artigo 49.º-A do Estatuto dos Benefícios Fiscais; no Decreto Legislativo Regional n.º 5/2000/M, que estabelece o regime de deduções à colecta relativa aos lucros comerciais, industriais e agrícolas reinvestidos pelos sujeitos passivos de IRS que exerçam a título principal uma actividade de natureza comercial, industrial ou agrícola, incluídos nas categorias C e D, e no Decreto Legislativo Regional n.º 6/2000/M, que estabelece o regime de deduções à colecta relativa aos lucros comerciais, industriais e agrícolas reinvestidos pelos sujeitos passivos de IRC.
+Conforme previsto no Programa do Governo Regional, estabelece-se, agora, a redução das taxas do IRS aplicável aos residentes na Região Autónoma da Madeira.
+Este diploma constitui, deste modo, mais um passo no conjunto de medidas que os órgãos de governo próprio da Região Autónoma da Madeira têm vindo a adoptar, com vista a minorar a situação de desigualdade dos cidadãos residentes na Região em consequência da insularidade e dos acrescidos custos que a mesma determina.
+Conforme consta do Programa do Governo, a redução das taxas do IRS agora proposta privilegia as camadas da população com menores rendimentos.
+Não obstante, na medida em que essa redução abrange todos os escalões de rendimento, e, portanto, todos os contribuintes em nome individual, como resultado da mesma aumentará o poder de compra e, consequentemente, o nível de vida de grande número de famílias residentes na Região Autónoma da Madeira.
+A redução que agora se institui não foi mais longe, em primeiro lugar, por ter sido recentemente aprovada pela Assembleia da República uma redução das taxas do IRS, cujos resultados em termos de diminuição da receita fiscal ainda se desconhecem, e, em segundo lugar, porque se entende que não se pode pôr em causa a capacidade financeira da Região para levar por diante o ambicioso projecto de investimentos públicos previsto para os próximos anos.
+Assim: A Assembleia Legislativa Regional da Madeira decreta, ao abrigo do disposto na alínea i) do n.º 1 do artigo 227.º da Constituição e na alínea f) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, revisto pela Lei n.º 130/99, de 21 de Agosto, o seguinte:
+Artigo 1.º Objecto
+Este diploma tem por objecto a definição do regime de redução das taxas do imposto sobre o rendimento das pessoas singulares, previstas no CIRS, aplicável aos residentes na Região Autónoma da Madeira.
+
+Artigo 2.º Taxas gerais de imposto
+1 - É a seguinte a tabela de taxas do imposto aplicável aos sujeitos passivos de IRS residentes na Região Autónoma da Madeira, em substituição da tabela de taxas gerais previstas no artigo 71.º do CIRS:
+2 - A tabela de taxas prevista no número anterior é aplicável aos rendimentos obtidos pelos sujeitos passivos de IRS residentes na Região Autónoma da Madeira, referidos na alínea a) do artigo 12.º da Lei n.º 13/98, de 24 de Fevereiro.
+3 - Na determinação do critério de residência dos sujeitos passivos de imposto em cada uma das circunscrições do território nacional é aplicável o disposto no artigo 16.º-A do CIRS.
+Artigo 3.º Retenções na fonte
+As tabelas de retenção na fonte a que se refere o DecretoLei n.º 42/91, de 22 de Janeiro, serão aprovadas pela Secretaria Regional do Plano e Finanças da Região Autónoma da Madeira e terão divulgação equivalente às que forem aprovadas pelo Ministro das Finanças e às quais se refere o n.º 5 do artigo 18.º do Decreto Lei n.º 42/91, de 22 de Janeiro.
+Artigo 4.º Restantes taxas de imposto previstas no CIRS
+As restantes taxas de IRS, previstas no respectivo Código, permanecem inalteradas.
+Artigo 5.º Fiscalização e implementação
+1 - A administração fiscal procederá a uma rigorosa fiscalização da qualidade de residentes na Região Autónoma da Madeira de todos os sujeitos passivos de IRS que beneficiem das taxas previstas no artigo 2.º deste diploma.
+2 - O Governo Regional, por intermédio da Secretaria Regional do Plano e Finanças, diligenciará, junto da Secretaria de Estado dos Assuntos Fiscais do Ministério das Finanças, a colaboração necessária, ao nível administrativo e informático, tendo em vista a entrada em vigor das medidas constantes do presente diploma.
+Artigo 6.º Produção de efeitos
+O presente diploma produz efeitos a partir do dia 1 de Janeiro de 2001.
+
+Aprovado em sessão plenária da Assembleia Legislativa Regional em 17 de Janeiro de 2001.
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA REGIONAL, José Miguel Jardim d’Olival Mendonça.
+
+Assinado em 31 de Janeiro de 2001.
+Publique-se.
+O MINISTRO DA REPÚBLICA PARA A REGIÃO AUTÓNOMA DA MADEIRA, Antero Alves Monteiro Diniz.
