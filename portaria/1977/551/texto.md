@@ -1,0 +1,45 @@
+Portaria n.º 551/77
+de 3 de Setembro
+Considerando a necessidade de actualizar as disposições referentes ao pescado congelado, de maneira a encontrar uma mais adequada forma de comercialização desse produto, nomeadamente por um aperfeiçoamento das definições dos intervenientes nos circuitos respectivos, das modalidades de apresentação do produto e da publicidade a dar aos preços de venda, tudo no interesse da defesa do consumidor.
+Assim:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pescas e do Comércio Interno, ao abrigo do n.º 1 do artigo 2.º do Decreto-Lei n.º 45835, de 27 de Julho de 1964, o seguinte:
+1.º - 1. Na comercialização de pescado congelado, qualquer que seja a sua origem ou proveniência, só podem intervir:
+a) Produtor ou importador;
+b) Armazenista;
+c) Retalhista.
+2. A CRCB é equiparada, para efeitos do disposto na presente portaria, ao produtor ou importador.
+3. O industrial de congelação e transformação de pescado congelado é equiparado, para efeitos deste diploma, ao armazenista.
+2.º Entende-se por:
+1. Pescado congelado - a fauna subaquática (crustáceos, moluscos, equinodermes, ciclóstomos, peixes, batráquios, répteis e mamíferos) que, inteira, semitransformada, fraccionada ou transformada e depois de convenientemente congelada, se apresenta sob forma consistente e se destina à alimentação humana.
+2. Produtor - a entidade que captura e congela o pescado a bordo e abastece o armazenista e a indústria transformadora de pescado congelado, incluindo a de conservas, ou directamente o retalhista e os consumidores colectivos.
+3. Importador - a entidade que adquire o pescado já congelado, no estrangeiro, e abastece o armazenista e a indústria transformadora de pescado congelado, incluindo a de conservas, ou directamente o retalhista e os consumidores colectivos.
+4. Industrial de congelação e transformação - a entidade que congela e transforma o pescado proveniente da captura ou somente transforma o pescado congelado adquirido ao produtor ou importador.
+5. Armazenista - a entidade que adquire o pescado congelado ao produtor ou importador e ao industrial de congelação e transformação e o distribui ao comércio retalhista ou aos consumidores colectivos.
+6. Retalhista - a entidade que adquire o pescado congelado ao armazenista, ao industrial de congelação e transformação ou directamente ao produtor ou ao importador e o vende ao consumidor.
+3.º O pescado congelado pode apresentar-se, na comercialização, sob as seguintes formas:
+1. Inteiro - aquele que se apresenta com cabeça e com vísceras ou com cabeça e sem vísceras, mas não fraccionado.
+2. Semitransformado - aquele que se apresenta sem cabeça e sem vísceras, mas não fraccionado.
+3. Fraccionado - aquele que, com cabeça e sem vísceras ou sem cabeça e sem vísceras, se apresenta cortado em postas, troços, pedaços, bocados ou porções.
+4. Transformado - aquele que, beneficiando de diversas operações tecnológicas, se apresenta fraccionado em filetes, fatias, tranchas ou tiras, com ou sem pele, sem escamas nem espinha ou esqueleto e devidamente embalado para venda ao público.
+§ único. As operações tecnológicas a que se refere o n.º 4 do presente número consistem, entre outras, no descongelamento, no descabeçamento, na descamação, na evisceração, no despelamento, no corte adequado e na remoção das barbatanas, das espinhas, do esqueleto e de quaisquer outras formações ou órgãos, calcáreos ou não, protectores ou de suporte.
+4.º Na comercialização do pescado congelado apenas são permitidos os seguintes tipos de embalagem:
+1. Embalagem de origem - aquela que é incorporada pelo produtor, exportador ou pelo industrial de congelação.
+2. Embalagem comercial tipo A - aquela que, não sendo de origem, contém o pescado congelado individualizado, inteiro, semitransformado, fraccionado ou transformado, com o peso entre 1,5 kg e 5 kg, e se apresenta hermeticamente fechada.
+3. Embalagem comercial tipo B - aquela que, com as mesmas características da embalagem comercial tipo A, se apresenta com um peso inferior a 1,5 kg.
+5.º - 1. O pescado congelado pode ser vendido ao público não embalado ou em embalagem comercial.
+2. É vedada ao retalhista a laboração de qualquer tipo de embalagem a que se refere o n.º 4.º desta portaria.
+6.º - 1. Nas embalagens comerciais devem constar, para além de outras indicações exigidas por lei, a espécie, o tipo comercial do pescado congelado, o preço máximo por quilograma, o peso líquido, o preço de venda ao público, a data do embalamento e a designação de «Produto congelado».
+2. Nos postos de venda ao público é obrigatória a afixação, em lugar bem visível, de um quadro diário com a indicação «Pescado congelado» e onde constem as espécies e os tipos comerciais e os respectivos preços por quilograma do pescado não embalado.
+7.º Na comercialização do pescado congelado é obrigatório para o vendedor, com excepção do retalhista, passar documento de venda devidamente datado e onde constem os nomes e moradas dos vendedores e compradores, os respectivos números de inscrição na Direcção-Geral do Comércio Alimentar, a qualidade em que intervêm, a indicação da quantidade, espécie e tipo comercial do pescado e o preço por quilograma, documento esse que o comprador terá de apresentar sempre que lhe seja exigido por quem de direito.
+1. Considera-se como inexistente o documento de venda que não contenha todos os elementos mencionados no corpo do presente número.
+2. A não apresentação pelo comprador do documento de venda a que se refere este número, designadamente por não lhe ter sido passado pelo vendedor ou se ter extraviado, não constitui para aquela circunstância dirimente da sua responsabilidade criminal.
+3. Independentemente do disposto no parágrafo anterior, cabe ainda ao comprador a obrigação de identificar o vendedor.
+8.º É obrigatória a inscrição na Direcção-Geral do Comércio Alimentar para os industriais de congelação e transformação, armazenistas e retalhistas de pescado congelado.
+9.º A Comissão Reguladora do Comércio de Bacalhau adquirirá, por protocolo de acordo, o pescado congelado oferecido pela produção nacional, aos preços de garantia a fixar entre as partes, desde que tal oferta consista em barcos inteiros.
+10.º - 1. As infracções ao disposto nos n.os 5.º, 1 e 2, 6.º, 2, 7.º e seus parágrafos e 8.º constituem contravenções puníveis com a multa de 5000$00 a 10000$00.
+2. As infracções ao disposto no n.º 6.º, 1, serão punidas nos termos do artigo 7.º do Decreto-Lei n.º 314/72, de 17 de Agosto.
+11.º A venda ao público de pescado congelado como fresco é punida nos termos do artigo 17.º do Decreto-Lei n.º 41204, de 24 de Julho de 1957.
+12.º O disposto na presente portaria aplica-se apenas ao território do continente.
+13.º As dúvidas e os casos omissos suscitados na apreciação desta portaria serão resolvidos por despacho do Secretário de Estado do Comércio Interno.
+14.º Esta portaria entra imediatamente em vigor, com excepção do disposto no n.º 8.º, que apenas se tornará obrigatório quando assim o for determinado pelo diploma que regulamentará a inscrição referida naquele número.
+Secretarias de Estado das Pescas e do Comércio Interno, 29 de Agosto de 1977. - O Secretário de Estado das Pescas, Pedro Amadeu de Albuquerque Santos Coelho. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
