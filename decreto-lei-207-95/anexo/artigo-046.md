@@ -28,7 +28,7 @@ i) A referência ao juramento ou compromisso de honra dos intérpretes, peritos 
 
 j) As declarações correspondentes ao cumprimento das demais formalidades exigidas pela verificação dos casos previstos nos artigos 65.º e 66.º;
 
-l) A menção de haver sido feita aos outorgantes, em voz alta e na presença simultânea de todos os intervenientes, a leitura do instrumento lavrado e a explicação do seu conteúdo;
+l) A menção de haver sido feita a leitura do instrumento lavrado, ou de ter sido dispensada a leitura pelos intervenientes, bem como a menção da explicação do seu conteúdo;
 
 m) A indicação dos outorgantes que não assinem e a declaração, que cada um deles faça, de que não assina por não saber ou por não poder fazê-lo;
 
