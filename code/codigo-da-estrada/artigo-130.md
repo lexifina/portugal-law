@@ -12,7 +12,7 @@ c) Os titulares de licenças internacionais de condução ou das licenças do an
 
 d) Quando não estejam domiciliados em Portugal, os estrangeiros habilitados com licenças de condução estrangeiras, em condições idênticas àquelas em que, no país emissor delas, possam conduzir os portugueses titulares de licença de condução portuguesa ou estrangeira;
 
-e) Os titulares de licenças de condução válidas emitidas por outros Estados membros das Comunidades Europeias, sem prejuízo do disposto na alínea d) do n.º 1 do artigo 126.º
+e) Os titulares de licenças de condução válidas emitidas por outros Estados membros da União Europeia.
 
 2 - A concessão de autorizações especiais para conduzir será definida em regulamento.
 
@@ -20,6 +20,4 @@ e) Os titulares de licenças de condução válidas emitidas por outros Estados 
 
 4 - A condução, nas vias públicas, de veículos pertencentes às forças militares, militarizadas ou de segurança, quando em missão de serviço, rege-se por legislação especial.
 
-5 - As pessoas domiciliadas em Portugal que sejam titulares de licenças de condução referidas nas alíneas c) a e) do n.º 1, com excepção das licenças internacionais de condução, podem, no prazo de um ano contado da data da fixação de tal residência, requerer a concessão de carta de condução nacional, com dispensa de exame, nos termos a definir em regulamento.
-
-6 - Nos casos previstos no número anterior a passagem da carta pode ser recusada quando a licença estrangeira apresentada não tenha sido obtida mediante a aprovação em exame ou este tenha correspondido a um grau de exigência, quanto à aptidão do candidato, inferior ao previsto na legislação portuguesa.
+5 - As pessoas domiciliadas em Portugal que sejam titulares de licenças de condução referidas nas alíneas c) e d) do n.º 1, com excepção das licenças internacionais de condução, podem, no prazo de um ano contado da data da fixação de tal residência, requerer a concessão de carta de condução nacional, com dispensa de exame, nos termos a definir em regulamento.

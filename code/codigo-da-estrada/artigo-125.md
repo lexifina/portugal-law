@@ -22,4 +22,4 @@ D - automóveis pesados de passageiros;
 
 E - veículos articulados ou conjuntos de veículos cujo tractor pertença a uma das categorias B, C ou D, mas que, eles próprios, não se integrem numa dessas categorias.
 
-6 - Os titulares de cartas de condução válidas para veículos das categorias C ou D estão habilitados para conduzir os veículos da categoria B e os titulares de carta de condução válidas para veículos da categoria E estão habilitados para conduzir veículos das categorias C ou D.
+6 - Os titulares de cartas de condução válidas para veículos da categoria C ou D estão habilitados para conduzir veículos da categoria B.
