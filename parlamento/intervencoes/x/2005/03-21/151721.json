@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=7mX8CblfaZUC1PkJDB5lnqrCJq%2b7%2fttZ%2bq7V7723EchVdz3Nn2q812aFEYd6rr8874IzCmBVEAA%2bWOYWfsumzvqS1eq8naCM3HU8DfArtqjUIzglbaPE0CcQttqHCQQoMo%2fh%2fhKCb3g2GEQMzfq1KSc9%2fpTWFu72hTtxTyNYOeXkhbuONHMuCnIkQqg3msT7eeQmt0TfluQRzEBaM8DH7AQmw5Qhogj2EW6Pzk21Q%2bvziTvjPWoS33gxtX%2fH9JDDQX6mGASaug9iKuUhzQ7Z5ZK%2fZR5bCVlM5vvPHMxCwoMG%2bvQRYkXxSUhi0aLWAFUFURbTtAP3Ta6KrCvkgi0G8WZ9c9%2bLNnGsCv9PZZ1kJfTh41xRZVmeaxJdHrCKDxmC&fich=IntervencoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "6d409937a94b75ba2179b6cc6083cb33cce789e414851e22ef0c275c6cbcc284",
+  "legislatura": "X",
+  "id": "151721",
+  "tipo": "Intervenção",
+  "orador": "Mariano Gago (MIN.  DAS  CIÊNCIA, TECNOLOGIA E ENSINO SUPERIOR)",
+  "data_registo": "2005-03-21",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "75127",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "75127",
+        "tipo": "PRG",
+        "titulo": "Programa do Governo - Programa do XVII Governo Constitucional."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2005-03-21",
+    "Debate": null,
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "151721",
+    "IdDebate": "21611",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "X",
+    "MembrosGoverno": {
+      "cargo": "MIN.  DAS  CIÊNCIA, TECNOLOGIA E ENSINO SUPERIOR",
+      "governo": "XVII GOVERNO CONSTITUCIONAL",
+      "nome": "Mariano Gago"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "151721",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "119-122",
+          "125-126",
+          "128-129"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2005-03-22",
+        "pubLeg": "X",
+        "pubNr": "3",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/003/2005-03-22/119?pgs=119-122,125-126,128-129&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": "Responde a pedidos de esclarecimento dos deputados Pedro Duarte (PSD), Carlos Zorrinho (PS), Luisa Mesquita (PCP), João Pinho de Almeida (CDS-PP), joão Teixeira Lopes (BE), Francisco Madeira Lopes (PEV) e Jacinto Serrão(PS)",
+    "Sessao": "1",
+    "Sumario": "Programa do XVII Governo Constitucional",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
