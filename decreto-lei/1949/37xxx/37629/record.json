@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1949/11/25100/08130813.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1949-11-24",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "f947c3bbbf5454637375927f906da3d34c3c336782fd6f8618afb5c9307d2c43",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.9,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "e98fb4fde0a0b891c6077e27544b503502aff20ce6117eef67dfbe00d597dbe7",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 270
 }
