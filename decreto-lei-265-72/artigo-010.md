@@ -122,19 +122,11 @@ mm) Verificar, nos termos do capítulo VII, se as embarcações têm direito ao 
 
 nn) Designar o seu representante para fiscalizar a carga e descarga do lastro das embarcações;
 
-oo) Resolver, nos termos do capítulo XI, os litígios referentes a:
-
-1) Utilização, perda, achado ou apropriação de aparelhos de pesca ou de apanha de mariscos, moluscos e plantas marinhas, ferros, âncoras, amarras, bóias, poitas gatas, ancorotes e fateixas ou por danos produzidos ou sofridos pelo mesmo material;
-
-2) Danos resultantes de violação de zonas legalmente fruídas;
-
-3) Posse de produtos, provenientes ou resultantes das águas ou nelas existentes, quando no domínio público, ou no domínio privado, existindo interesse marítimo;
-
-4) Avarias marítimas e indemnizações devidas por danos produzidos ou sofridos por embarcações ou outros corpos flutuantes;
+oo) (Revogada.)
 
 pp) Decidir questões por motivos de soldadas, serviços ajustados e interesses que se suscitem entre os inscritos marítimos ou entre estes e os consignatários, agentes, afretadores, armadores ou proprietários de embarcações, aparelhos de pesca, de apanha de mariscos, moluscos ou plantas marinhas, quando houver contrato sancionado pela autoridade marítima ou existir contrato colectivo de trabalho aplicável, nas condições referidas no R. I. M.;
 
-qq) Julgar, como presidente do tribunal marítimo, as transgressões marítimas, observando as disposições do capítulo XII deste Regulamento;
+qq) (Revogada.)
 
 rr) Mandar cumprir as sentenças logo que transitem em julgado;
 
