@@ -1,0 +1,5 @@
+Portaria n.º 20489
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir os seguintes créditos especiais:
+1.º Um de 53170$00, destinado a reforçar a verba do capítulo único, artigo 10.º, n.º 3) «Diversos encargos - Encargos administrativos - Publicação da revista», da tabela de despesa do orçamento privativo, em vigor, do Núcleo de Documentação Técnica, tomando como contrapartida o saldo do ano económico findo.
+2.º Um de 1087938$00, destinado a reforçar a verba do capítulo único, artigo 15.º-A «Diversos encargos - Encargos eventuais ou extraordinários com pessoal, nos termos do n.º 4 do artigo 6.º do Decreto n.º 45258, de 21 de Setembro de 1963», adicionada à tabela de despesa do orçamento privativo, em vigor, da Comissão de Coordenação dos Serviços Provinciais de Planeamento e Integração Económica, pela Portaria n.º 20430, de 13 de Março de 1964, tomando como contrapartida o saldo do ano económico findo.
+Ministério do Ultramar, 3 de Abril de 1964. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
