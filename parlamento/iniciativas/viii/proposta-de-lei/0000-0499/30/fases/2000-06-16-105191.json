@@ -1,0 +1,693 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "30",
+    "id": "6048",
+    "titulo": "Autoriza o Governo a criar o regime excepcional aplicável as sociedades gestoras das intervenções previstas no programa POLIS"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-06-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1693",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-06-16",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-06-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27406",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3143-3144"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-17",
+                "pubLeg": "VIII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/080/2000-06-17/3143?pgs=3143-3144&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A CRIAR UM REGIME EXCEPCIONAL APLICAVEL AAS SOCIEDADES GESTORAS DAS INTERVENCOES PREVISTAS NO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27407",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3142-3142"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-17",
+                "pubLeg": "VIII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/080/2000-06-17/3142?pgs=3142&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A CRIAR UM REGIME EXCEPCIONAL APLICAVEL AAS SOCIEDADES GESTORAS DAS INTERVENCOES PREVISTAS NO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27408",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3140-3142"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-17",
+                "pubLeg": "VIII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/080/2000-06-17/3140?pgs=3140-3142&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A CRIAR UM REGIME EXCEPCIONAL APLICAVEL AAS SOCIEDADES GESTORAS DAS INTERVENCOES PREVISTAS NO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1184",
+                "nome": "Joaquim Matias"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27409",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3139-3140"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-17",
+                "pubLeg": "VIII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/080/2000-06-17/3139?pgs=3139-3140&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A CRIAR UM REGIME EXCEPCIONAL APLICAVEL AAS SOCIEDADES GESTORAS DAS INTERVENCOES PREVISTAS NO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1639",
+                "nome": "José Eduardo Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27410",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3138-3139"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-17",
+                "pubLeg": "VIII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/080/2000-06-17/3138?pgs=3138-3139&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A CRIAR UM REGIME EXCEPCIONAL APLICAVEL AAS SOCIEDADES GESTORAS DAS INTERVENCOES PREVISTAS NO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1679",
+                "nome": "Renato Sampaio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27411",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3137-3138"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-17",
+                "pubLeg": "VIII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/080/2000-06-17/3137?pgs=3137-3138&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A CRIAR UM REGIME EXCEPCIONAL APLICAVEL AAS SOCIEDADES GESTORAS DAS INTERVENCOES PREVISTAS NO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "314",
+                "nome": "António Capucho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27412",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3136-3136"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-17",
+                "pubLeg": "VIII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/080/2000-06-17/3136?pgs=3136&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A CRIAR UM REGIME EXCEPCIONAL APLICAVEL AAS SOCIEDADES GESTORAS DAS INTERVENCOES PREVISTAS NO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27413",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3135-3135"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-17",
+                "pubLeg": "VIII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/080/2000-06-17/3135?pgs=3135&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A CRIAR UM REGIME EXCEPCIONAL APLICAVEL AAS SOCIEDADES GESTORAS DAS INTERVENCOES PREVISTAS NO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27414",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3134-3135"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-17",
+                "pubLeg": "VIII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/080/2000-06-17/3134?pgs=3134-3135&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A CRIAR UM REGIME EXCEPCIONAL APLICAVEL AAS SOCIEDADES GESTORAS DAS INTERVENCOES PREVISTAS NO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1184",
+                "nome": "Joaquim Matias"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27415",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3134-3134"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-17",
+                "pubLeg": "VIII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/080/2000-06-17/3134?pgs=3134&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A CRIAR UM REGIME EXCEPCIONAL APLICAVEL AAS SOCIEDADES GESTORAS DAS INTERVENCOES PREVISTAS NO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1639",
+                "nome": "José Eduardo Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27416",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3133-3134"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-17",
+                "pubLeg": "VIII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/080/2000-06-17/3133?pgs=3133-3134&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A CRIAR UM REGIME EXCEPCIONAL APLICAVEL AAS SOCIEDADES GESTORAS DAS INTERVENCOES PREVISTAS NO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27417",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3130-3133",
+                  "3135-3137",
+                  "3142-3144"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-17",
+                "pubLeg": "VIII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/080/2000-06-17/3130?pgs=3130-3133,3135-3137,3142-3144&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A CRIAR UM REGIME EXCEPCIONAL APLICAVEL AAS SOCIEDADES GESTORAS DAS INTERVENCOES PREVISTAS NO PROGRAMA POLIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DO AMBIENTE E ORDENAMENTO DO TERRITÓRIO",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "José Sócrates"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107610",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3130-3133",
+                  "3135-3137",
+                  "3142-3144"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-17",
+                "pubLeg": "VIII",
+                "pubNr": "80",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/080/2000-06-17/3130?pgs=3130-3133,3135-3137,3142-3144&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A CRIAR UM REGIME EXCEPCIONAL APLICAVEL AAS SOCIEDADES GESTORAS DAS INTERVENCOES PREVISTAS NO PROGRAMA POLIS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105191",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1693",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-06-17",
+        "pubLeg": "VIII",
+        "pubNr": "80",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/080/2000-06-17?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
