@@ -1,0 +1,5 @@
+Portaria n.º 18984
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, abrir na província de Moçambique um crédito especial de 284056$70, para reforço da verba do capítulo 4.º, artigo 95.º, n.º 5) «Administração geral e fiscalização - Negócios indígenas - Diversos encargos - Encargos administrativos - Despesas relativas à montagem e expansão da radiodifusão educativa e informativa a todo o território da província», da tabela de despesa ordinária do orçamento geral para o ano de 1961, tomando como contrapartida o excesso de cobrança sobre a previsão da receita da verba do capítulo 4.º, artigo 64.º «Taxas - Rendimentos de diversos serviços - Diversas - Receitas eventuais e não especificadas», do mesmo orçamento.
+Ministério do Ultramar, 25 de Janeiro de 1962. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - J. da Costa Freitas.
