@@ -1,0 +1,4 @@
+Portaria n.º 1070/81
+de 17 de Dezembro
+Manda o Governo da República Portuguesa, pelos Ministros de Estado e das Finanças e do Plano e da Indústria, Energia e Exportação, sob proposta da Companhia de Seguro de Créditos, E. P., e mediante parecer favorável da Comissão de Créditos e Garantias de Créditos, nos termos do n.º 1 do artigo 8.º do Decreto-Lei n.º 318/76, de 30 de Abril, autorizar a referida Companhia a adoptar no seguro-caução as Condições Gerais da Apólice de Seguro-Caução - Empreitadas e Fornecimentos, em conformidade com os documentos que ficarão arquivados na Inspecção de Seguros e no Instituto Nacional de Seguros.
+Ministérios das Finanças e do Plano e da Indústria, Energia e Exportação, 24 de Novembro de 1981. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - Pelo Ministro da Indústria, Energia e Exportação, João Nuno Boulain de Carvalho Carreira, Secretário de Estado da Energia.
