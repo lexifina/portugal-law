@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação da Embaixada da Suíça em Lisboa, os Governos do Luxemburgo e da Áustria depositaram, em 29 de Maio e em 7 de Julho de 1972, os seus instrumentos de ratificação da Convenção Internacional Relativa ao Transporte de Mercadorias por Caminho de Ferro (CIM), da Convenção Internacional Relativa ao Transporte de Passageiros e de Bagagens por Caminho de Ferro (CIV), do Protocolo Adicional às referidas Convenções e do Protocolo Relativo às Contribuições para as Despesas do Serviço Central dos Estados Partes nas Convenções Internacionais CIM e CIV, concluídos em 7 de Fevereiro de 1970.
+Direcção-Geral dos Negócios Económicos, 4 de Agosto de 1972. - O Adjunto do Director-Geral, José Joaquim de Mena e Mendonça.
