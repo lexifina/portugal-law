@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o representante do Governo da República Portuguesa em Estrasburgo depositou junto do Secretário-Geral do Conselho da Europa, em 26 de Junho de 1987, o instrumento de ratificação da Convenção Europeia sobre a Violência e os Excessos dos Espectadores por Ocasião de Manifestações Desportivas e nomeadamente de Jogos de Futebol, aberta à assinatura dos Estados membros e dos outros Estados partes na Convenção Cultural Europeia, em Estrasburgo, a 19 de Agosto de 1985, assinada por Portugal em 4 de Setembro do mesmo ano e aprovada para ratificação pela Resolução da Assembleia da República n.º 11/87, de 11 de Janeiro.
+Em 22 de Junho último eram signatários desta Convenção os seguintes Estados: Áustria, Bélgica, Grécia, Irlanda, Luxemburgo, Países Baixos, Portugal, Espanha e Turquia, e tinham-na ratificado: Chipre, Dinamarca, França, Islândia, Itália, Noruega, Suécia, Reino Unido e Finlândia.
+Esta Convenção entrou em vigor para Portugal em 1 de Agosto de 1987.
+Direcção de Serviços de Relações Culturais Bilaterais, 10 de Agosto de 1987. - O Director de Serviços, José Tadeu Soares.
