@@ -1,0 +1,3 @@
+Despacho Normativo n.º 273/80
+Usando da faculdade conferida pelo artigo 52.º do Decreto Regulamentar n.º 71-G/79, de 29 de Dezembro, esclareço que se considera que, para os efeitos do n.º 2 do artigo 51.º do mesmo diploma, as carreiras de secretária-recepcionista e de técnico auxiliar do Instituto de Informática do Ministério das Finanças pertencem à mesma área funcional.
+Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 31 de Julho de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
