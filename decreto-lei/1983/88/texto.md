@@ -1,0 +1,42 @@
+Decreto-Lei n.º 88/83
+de 12 de Fevereiro
+1. Na sequência das acções que o Gabinete da Área de Sines (GAS) tem vindo a desenvolver no domínio do saneamento básico na zona geográfica da sua responsabilidade directa, de acordo com o previsto no artigo 23.º do Decreto-Lei n.º 487/80, de 17 de Outubro, foi criado no GAS, por despacho do Secretário de Estado do Planeamento de 28 de Abril de 1981, o Departamento do Projecto de Saneamento Básico (DPSB).
+2. A criação do DPSB, constituindo um serviço de missão no sentido de desbloquear as actuais limitações organizacionais, teve como finalidade viabilizar o cumprimento dos compromissos assumidos, principalmente em relação ao fornecimento de água e recolha de efluentes da indústria pesada, até que seja criada a nova entidade gestora do saneamento básico para a área de Sines, cujo projecto de estatuto se encontra em fase de estudo final, para posterior apreciação pelo Governo.
+3. É de vital importância o funcionamento regular e em tempo contínuo das estruturas do DPSB para as indústrias instaladas na área, havendo que assegurar não só o fornecimento de água ao complexo petroquímico e ao centro urbano de Santo André, cujos caudais debitados ascendem a 1000000 m3/mês, no valor de 17600 contos, como também proceder à bombagem e tratamento de 400000 m3/mês de efluentes líquidos provenientes daquelas indústrias. Do não fornecimento contínuo de água às indústrias resultaria um prejuízo na ordem de 30000 contos/dia para a empresa Petrogal - Petróleos de Portugal, E. P., e de valor incalculável para a Companhia Nacional de Petroquímica, E. P., com fortes possibilidades de inutilização de alguns dos seus equipamentos.
+4. A fim de que as estruturas do DPSB, onde se encontram investidos 6 milhões de contos, possam responder com eficácia e oportunamente às solicitações apontadas, assegurando o fornecimento de água às indústrias e o tratamento de efluentes líquidos não só durante os períodos diurnos mas também nos períodos nocturnos, aos sábados e domingos, em laboração contínua, torna-se necessário legislar e regular o trabalho por turnos e de prevenção em alguns sectores do DPSB, integrado no GAS, bem como a correspondente remuneração acessória devida aos funcionários que lhe estejam afectos.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+CAPÍTULO I
+Trabalho por turnos
+Artigo 1.º Nas estações elevatórias de água e de efluentes líquidos e nas estações de tratamento dos mesmos da área de saneamento básico do GAS é estabelecido um regime de trabalho por turnos rotativos em laboração contínua.
+Art. 2.º - 1 - A duração do trabalho do pessoal que labore em regime de turnos será de 36 horas semanais.
+2 - Os trabalhadores em regime de turnos terão direito a uma interrupção de 1 hora para refeição, de forma a não prestarem mais de 5 horas consecutivas de trabalho.
+3 - Os funcionários e agentes em regime de turnos terão direito a 1 dia de descanso semanal.
+4 - Quando os funcionários ou agentes trabalharem em dias de descanso semanal, complementar e feriados têm direito a 1 dia completo de descanso na semana de trabalho seguinte.
+5 - Os horários do regime de trabalho por turnos rotativos serão escalonados de forma que os dias de descanso incluam o domingo pelo menos uma vez por mês.
+6 - Os serviços competentes deverão elaborar as escalas de turnos rotativos, as quais só poderão prever mudanças após o período de descanso semanal, salvo no caso dos trabalhadores que suprem as ausências dos funcionários em regime de turnos, relativamente aos quais a mudança de turno é possível com o intervalo mínimo de 24 horas.
+7 - Serão permitidas trocas de turno entre trabalhadores que desempenham as mesmas funções, desde que previamente acordadas entre eles e aceites pelos serviços até ao início do trabalho; não são, porém, permitidas trocas que impliquem a prestação de trabalho em turnos consecutivos.
+8 - Nenhum funcionário ou agente pode recusar-se ao cumprimento de trabalho por turnos.
+9 - O funcionário ou agente poderá, no entanto, ser dispensado de prestar tal trabalho quando, invocando motivos atendíveis, expressamente o solicite.
+Art. 3.º - 1 - O trabalhador em regime de turnos será remunerado com um acréscimo de 25% sobre a remuneração base mensal.
+2 - O subsídio de turno referido no número anterior é apenas devido ao pessoal que efectivamente desempenhar as respectivas tarefas nas áreas das estações elevatórias e de tratamento de águas e de efluentes líquidos.
+3 - Ao pessoal que receber subsídio de turno não serão abonadas as compensações pecuniárias devidas pela prestação de trabalho normal nocturno.
+4 - Para todos os efeitos legais, o subsídio de turno não é considerado como remuneração acessória, incidindo sobre o mesmo o respectivo desconto para a aposentação.
+5 - Só haverá lugar ao pagamento de subsídio de turno quando for devido o vencimento de exercício.
+Art. 4.º Os limites fixados pelo n.º 1 do artigo 12.º do Decreto-Lei n.º 110-A/81, de 14 de Maio, não são aplicáveis aos funcionários e agentes do GAS que prestem serviço em regime de turnos, nos termos do presente diploma.
+CAPÍTULO II
+Regime de prevenção
+Art. 5.º Sempre que tal se justifique, o conselho de gestão do GAS poderá autorizar, mediante despacho, a constituição de piquetes de prevenção nos sectores de manutenção e conservação na área de saneamento básico, com a finalidade de assegurar o seu regular funcionamento.
+Art. 6.º - 1 - O regime de prevenção consiste na disponibilidade diurna e nocturna, incluindo sábados, domingos e feriados, do pessoal técnico, técnico-profissional e operário, de modo a poder acorrer às instalações em caso de necessidade. A disponibilidade traduzir-se-á na permanência do trabalhador em casa ou em local de fácil acesso, para efeito de convocação e comparência.
+2 - A convocação deverá restringir-se às intervenções necessárias ao funcionamento e segurança das instalações ou impostas por situações que afectem o débito regular de água às indústrias e populações da área ou à bombagem e tratamento de efluentes líquidos que não possam esperar pela assistência durante o período normal de trabalho.
+3 - O pessoal técnico, técnico-profissional e operário prestará serviço em regime de prevenção 1 semana por mês.
+4 - É aplicável à prestação de serviço em regime de prevenção o disposto nos n.os 8 e 9 do artigo 2.º
+Art. 7.º - 1 - O pessoal técnico, técnico-profissional e operário em regime de prevenção tem direito a um subsídio correspondente ao acréscimo de 15% sobre a remuneração base mensal.
+2 - É aplicável ao subsídio de prevenção o disposto nos n.os 4 e 5 do artigo 3.º
+Art. 8.º Sempre que haja lugar à intervenção em operações de manutenção ou reparação de equipamentos, o pessoal referido no artigo anterior terá ainda direito à remuneração por trabalho extraordinário, nocturno ou em dias de descanso e feriados, de acordo com os artigos 13.º, 17.º e 18.º do Decreto-Lei n.º 110-A/81, de 14 de Maio, com as limitações impostas pelo artigo 12.º do citado diploma.
+Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Manuel Meneres Sampaio Pimentel.
+Promulgado em 22 de Janeiro de 1983.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 25 de Janeiro de 1983.
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
