@@ -1,0 +1,10 @@
+Portaria n.º 1106-B/99
+de 23 de Dezembro
+A necessidade de adequar o quadro legal aplicável ao transporte rodoviário nacional de mercadorias perigosas, relativamente à evolução verificada nas normas aplicáveis ao correspondente transporte internacional, requer que se proceda à actualização imediata de uma disposição técnica do Regulamento Nacional do Transporte de Mercadorias Perigosas por Estrada (RPE), aprovado pela Portaria n.º 1196-C/97, de 24 de Novembro, com a finalidade de a harmonizar com a correspondente disposição do anexo B do Acordo ADR.
+A alteração requerida consiste na substituição da data de 31 de Dezembro de 1999 por 31 de Dezembro de 2009, ou seja, o protelamento da data limite da exigibilidade de instalação dos dispositivos «ABS» nos veículos-cisternas com matrícula anterior a 30 de Junho de 1993, utilizados no transporte nacional de mercadorias perigosas.
+Foi ouvida a Comissão Nacional do Transporte de Mercadorias Perigosas.
+Assim, nos termos e ao abrigo do disposto no n.º 4 do artigo 1.º do Decreto-Lei n.º 77/97, de 5 de Abril:
+Manda o Governo, pelos Ministros do Equipamento Social, da Administração Interna, da Economia, da Saúde e do Ambiente e do Ordenamento do Território, alterar o parágrafo (3) do marginal 10 221 do anexo B do Regulamento Nacional do Transporte de Mercadorias Perigosas por Estrada (RPE), aprovado pela Portaria n.º 1196-C/97, de 24 de Novembro, que passa a ter a seguinte redacção:
+«(3) Cada unidade de transporte de um tipo especificado no parágrafo (1) do presente marginal, ao serviço depois de 31 de Dezembro de 2009, deve ser equipada com os dispositivos indicados nos parágrafos (1) e (2).»
+Em 23 de Dezembro de 1999.
+O Ministro do Equipamento Social, Jorge Paulo Sacadura Almeida Coelho. - O Ministro da Administração Interna, Fernando Manuel dos Santos Gomes. - O Ministro da Economia, Joaquim Augusto Nunes Pina Moura. - A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa.
