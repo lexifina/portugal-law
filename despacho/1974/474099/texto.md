@@ -1,0 +1,3 @@
+Despacho
+Nos termos do n.º 1 do artigo 24.º do Decreto-Lei n.º 69/70, de 27 de Fevereiro, é homologado o 1.º orçamento suplementar da receita e despesa do Gabinete do Plano do Zambeze para o ano de 1974, que faz parte integrante deste despacho e baixa assinado pelo director-geral-adjunto do referido Gabinete.
+Ministérios das Finanças e da Coordenação Interterritorial, 16 de Julho de 1974. - Pelo Ministro da Coordenação Interterritorial, Fernando de Castro Fontes, Secretário de Estado dos Assuntos Económicos. - Pelo Ministro das Finanças, António de Seixas da Costa Leal, Secretário de Estado do Orçamento.
