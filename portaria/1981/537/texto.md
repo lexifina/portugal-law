@@ -1,0 +1,32 @@
+Portaria n.º 537/81
+de 29 de Junho
+Em regime de preços livres, tal como o que actualmente vigora no mercado do suíno, o preço é um elemento fundamental na regularização do mercado. A falta de conhecimento do seu valor ou o conhecimento tardio ou deficiente provoca perturbações no mercado, com repercussões, quer para a produção, quer na comercialização. Paralelamente, a boa difusão das cotações, tornando mais transparente o mercado, facilita a eficiência das transacções.
+Também para a Administração, e na sequência do Decreto-Lei n.º 19/81, de 28 de Janeiro, que define os princípios gerais da organização do mercado do suíno, é imprescindível a institucionalização de um sistema de recolha e de difusão de preços, colocando ao seu dispor as informações que lhe permitam a programação em tempo oportuno das operações de regularização do mercado.
+Assim, são designados nesta portaria os mercados mais representativos, entendidos como zonas de maior importância económica e de maior influência na determinação do preço, nos quais a Junta Nacional dos Produtos Pecuários passará a recolher semanalmente informações de preços referentes a diferentes níveis de transacção.
+São também claramente identificados e definidos cada um dos preços obtidos ao longo da cadeia do produto, permitindo-se deste modo o seu tratamento e comparação a fim de se obter um preço de mercado de âmbito nacional.
+Por outro lado, para que sejam cumpridos os objectivos que presidiram à institucionalização do presente sistema de recolha de dados, é importante que seja montada uma estrutura eficiente, dotada dos meios humanos e materiais que permitam a recolha, tratamento e difusão dos preços em tempo oportuno, com a indispensável colaboração das organizações profissionais. Nesse sentido, a recente criação, pelo Despacho Normativo n.º 135/81, do Projecto de Serviço de Informações de Mercados Agrícolas (SIMA) no Gabinete de Planeamento do Ministério da Agricultura e Pescas permitirá, em ligação directa com a Junta Nacional dos Produtos Pecuários, dar cumprimento aos objectivos atrás descritos.
+Nestes termos:
+Ao abrigo do disposto na alínea d) do artigo 14.º do Decreto-Lei n.º 19/81:
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura e Pescas, o seguinte:
+1.º O presente esquema de recolha e divulgação de cotações do mecado do suíno tem os seguintes objectivos:
+a) Contribuir para um melhor conhecimento das condições de transacção da carne de suíno;
+b) Difundir, pelos agentes económicos, as informações de preços e situação de mercados que permitam a melhoria das condições de transacção;
+c) Permitir à Administração o conhecimento regular e actualizado das situações de mercado e, em consequência, programar as actuações convenientes.
+2.º Compete à JNPP, no âmbito do Projecto SIMA, assegurar a execução do mecanismo agora criado de molde que os objectivos definidos no artigo 1.º sejam atingidos.
+3.º Consideram-se como zonas mais representativas para efeitos de recolha de cotações as seguintes:
+1) Coimbra;
+2) Évora;
+3) Monchique;
+4) Montijo;
+5) Póvoa da Galega;
+6) Rio Maior;
+7) Vila Nova de Famalicão.
+4.º Para efeitos de determinação do preço de mercado, tal como se encontra definido no n.º 2 do artigo 3.º do Decreto-Lei n.º 19/81, passam a ser recolhidas informações de preços nos seguintes pontos da cadeia do produto:
+a) A nível dos matadouros industriais mais representativos: o preço por quilograma de carcaça reportado à 1.ª categoria da grelha de classificação, incluindo o encargo de transporte da zona de produção ao local de abate e a valorização de subprodutos e miudezas e excluindo as taxas fixas e de serviço;
+b) Nos mercados físicos entendidos como zonas de transacção em vivo: o preço pago por quilograma de peso vivo e referente a 75% do peso do animal, excluindo o encargo de transporte da zona de produção ao local de abate;
+c) Ao nível dos produtores nos ciclos fechados e unidades de recria e acabamentos mais representativos: os preços idênticos aos definidos em a) ou b).
+5.º Com base nas informações recolhidas pelas delegações da JNPP nos termos dos artigos 3.º e 4.º, é determinado e divulgado, semanalmente, o preço de mercado.
+6.º O preço de mercado, determinado semanalmente, corresponde ao preço médio da carcaça, incluindo o encargo de transporte da zona de produção à de abate, valorização dos subprodutos e miudezas, excluídas as taxas fixas e de serviço, e é reportado à 1.ª categoria da grelha de classificação.
+7.º A JNPP determinará internamente os procedimentos tidos como necessários à execução da presente portaria.
+8.º Esta portaria entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Ministério da Agricultura e Pescas, 12 de Junho de 1981. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.
