@@ -2,7 +2,7 @@
 
 ### Confidencialidade
 
-1 - Os funcionários da administração tributária estão obrigados a guardar sigilo sobre os dados recolhidos sobre a situação tributária dos contribuintes e os elementos de natureza pessoal que obtenha no procedimento, nomeadamente os decorrentes do sigilo profissional ou qualquer outro dever legal de segredo legalmente regulado.
+1 - Os dirigentes, funcionários e agentes da administração tributária estão obrigados a guardar sigilo sobre os dados recolhidos sobre a situação tributária dos contribuintes e os elementos de natureza pessoal que obtenham no procedimento, nomeadamente os decorrentes do sigilo profissional ou qualquer outro dever de segredo legalmente regulado.
 
 2 - O dever de sigilo cessa em caso de:
 
