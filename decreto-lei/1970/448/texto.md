@@ -1,0 +1,17 @@
+Decreto-Lei n.º 448/70
+de 25 de Setembro
+O esforço de desenvolvimento que se vem processando em todo o ultramar, implicando um desgaste continuado e persistente das reservas em meios de pagamento ao exterior existentes em cada uma das províncias ultramarinas, tem impedido a realização pontual de operações de transferência ordenadas por alguns daqueles territórios.
+Assim, vêm-se registando, no âmbito do sistema de compensação e de pagamentos interterritoriais, iniciado em Março de 1963, atrasos sensíveis na execução de ordens de pagamento emitidas em Angola e Moçambique, criando problemas particularmente graves a determinados beneficiários das ordens aguardando cobertura.
+Reconhecendo-se a necessidade de dotar o actual sistema de um mecanismo com a maleabilidade suficiente para que, em casos de desequilíbrios persistentes nos pagamentos externos de algum território nacional, torne possível uma intervenção, em tempo oportuno, tendente a minorar dificuldades reconhecidas como mais prementes;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º de artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Quando na balança de pagamentos externos de qualquer território nacional se registarem desequilíbrios fundamentais referidos no artigo 51.º do Decreto-Lei n.º 44016, de 8 de Novembro de 1961, poderão ser estabelecidas prioridades para a liquidação das ordens de pagamento emitidas nesse território.
+Art. 2º - 1. Os Ministros das Finanças e do Ultramar estabelecerão, por despacho, a lista das rubricas em que se deverão conter as operações de transferência beneficiárias de liquidação prioritária e os condicionalismos a que as mesmas operações deverão obedecer.
+2. Na lista referida no número anterior poderão ser estabelecidos limites máximos às transferências a efectuar prioritàriamente.
+Art. 3.º A autoridade cambial do território ordenador da operação apreciará, caso por caso, a licitude da atribuição de transferência prioritária e assinalará as ordens de pagamento beneficiárias desse regime.
+Art. 4.º Em casos de reconhecidas dificuldades económicas, sociais ou políticas de um dado território nacional poderá, por despacho dos Ministros das Finanças e do Ultramar, ser autorizada a afectação de determinados quantitativos da conta de reserva de uma província ultramarina à liquidação de débitos bilaterais.
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha.
+Promulgado em 16 de Setembro de 1970.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas - J. da Silva Cunha.
