@@ -1,0 +1,6 @@
+Anúncio n.º 1/2004
+Pedido da declaração de ilegalidade de normas n.º 12990/03, do 1.º Juízo Liquidatário, 1.ª Secção (ex-2.ª Subsecção), do Tribunal Central Administrativo Sul.
+Recorrente: Associação Portuguesa de Indústria e Comércio das Actividades Náuticas.
+Recorrido: Conselho de Ministros.
+Faz-se saber, nos termos e para os efeitos do disposto no artigo 64.º, n.º 3, da LPTA (Decreto-Lei n.º 267/85, de 16 de Julho), que nos autos acima identificados são citados os eventuais interessados para contestarem, querendo, no prazo de 30 dias, que começa a correr depois de finda a dilação de 30 dias, contada da data da publicação deste anúncio, e que a falta de contestação não importa a confissão dos factos articulados pela recorrente, que consiste no pedido de declaração de ilegalidade das normas regulamentares constantes do artigo 6.º, n.º 2, alíneas g) e h), do Regulamento do Plano Especial do Ordenamento da Albufeira de Castelo do Bode, aprovado pela Resolução do Conselho de Ministros n.º 69/2003 e publicado em 10 de Maio de 2003 no Diário da República, 1.ª série-B, n.º 108, conforme consta da petição inicial, cujo duplicado se encontra neste Tribunal à disposição dos citandos.
+Lisboa, 4 de Fevereiro de 2004. - O Juiz Desembargador, Beato de Sousa. - A Escrivã-Adjunta, Maria João Fernandes.
