@@ -1,0 +1,5 @@
+Aviso n.º 171/99
+Por ordem superior se torna público que, por nota de 7 de Outubro de 1999, o Governo do Reino Unido, na sua qualidade de depositário da Convenção para a Prevenção da Poluição Marinha por Operações de Imersão de Detritos e Outros Produtos (LDC 72), feita em quadruplicado em Londres, Cidade do México, Moscovo e Washington, em 29 de Dezembro de 1972, comunicou ter o Governo de Portugal notificado, em 12 de Maio de 1999, que a Convenção é aplicável ao território de Macau. O Governo do Reino Unido informou ainda que a extensão da Convenção se tornou efectiva na data da notificação.
+Portugal é Parte na Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 2/78, de 7 de Janeiro, publicado no Diário da República, 1.ª série, n.º 6, de 7 de Janeiro de 1978, e estendida a Macau pelo Despacho Normativo n.º 119/80, publicado no Diário da República, 1.ª série, n.º 85, de 11 de Abril de 1980.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 12 de Outubro de 1999. - António Nunes de Carvalho Santana Carlos.
