@@ -1,0 +1,5 @@
+Despacho Normativo n.º 60-C/83
+Ao abrigo do disposto no n.º 8.º da Portaria n.º 416/82, de 26 de Abril, determina-se o seguinte:
+1 - As empresas produtoras de alimentos compostos para animais abrangidos pelo disposto na Portaria n.º 416/82, de 26 de Abril, que pretendam praticar novos preços resultantes das variações de custo da compra de matérias-primas agrícolas e alimentares, ficam autorizadas a pôr tais preços em vigor decorridos 2 dias sobre a data do registo da respectiva declaração de preços, desde que os novos preços declarados se limitem a repercutir, em valor absoluto, os novos custos de matéria-prima relativamente aos considerados nos preços em vigor legalmente autorizados.
+2 - Apenas serão consideradas como abrangidas pelo disposto no número anterior as declarações de preços em que a apresentação e decomposição dos custos das matérias-primas seja feita de forma comparativa entre a constante dos preços legalmente autorizados em vigor e a dos novos preços, acompanhada das respectivas comprovantes.
+Secretaria de Estado do Comércio, 3 de Março de 1983. - O Secretário de Estado do Comércio, António Escaja Gonçalves.
