@@ -1,0 +1,12 @@
+Aviso n.º 2
+O Banco de Portugal, de acordo com as linhas orientadoras superiormente definidas, no uso da competência que lhe foi atribuída pelo artigo 30.º da sua Lei Orgânica e pelo n.º 1 do artigo 10.º do Decreto-Lei n.º 13/90, de 8 de Janeiro, determina, em regulamentação do estatuído no n.º 2 do artigo 21.º e no n.º 2 do artigo 28.º do mesmo decreto-lei, o seguinte:
+1 - A importação, exportação ou reexportação de ouro amoedado, em barra ou noutras formas não trabalhadas, quando não efectuadas pelo Banco de Portugal, dependem de autorização especial deste.
+2 - As operações referidas no número anterior devem ser efectuadas pelas instituições que estejam autorizadas para o efeito, nos termos do n.º 2 do artigo 11.º e do artigo 49.º do Decreto-Lei n.º 13/90, de 8 de Janeiro.
+3 - É livre a abertura e movimentação, por parte das instituições a que se refere o número anterior que sejam titulares da autorização prevista no n.º 1 do presente aviso, das correspondentes contas de depósito em ouro, junto de instituições de crédito em território nacional ou no estrangeiro.
+4 - As instituições que, nos termos do disposto no n.º 2 do artigo 11.º ou no artigo 49.º do Decreto-Lei n.º 13/90, de 8 de Janeiro, estejam autorizadas a realizar operações sobre ouro podem comprar e vender a residentes ouro amoedado, em barra ou noutras formas não trabalhadas, inclusive de produção nacional.
+5 - O Banco de Portugal publicará diariamente, a título informativo, as cotações para o ouro amoedado e para o ouro fino em barra.
+6 - As instituições referidas no n.º 4 do presente aviso, quando efectuarem vendas de ouro para fins industriais, devem assegurar-se dessa aplicação, através de elementos recebidos da Associação de Industriais ou de adequada declaração assinada pelo adquirente.
+7 - É permitido o trânsito em território nacional de ouro amoedado, em barra ou noutras formas não trabalhadas, quando detido por não residentes, mediante autorização especial do Banco de Portugal, que nesta definirá as respectivas condições.
+8 - As instituições que estejam autorizadas a realizar operações sobre ouro devem observar as correspondentes instruções técnicas do Banco de Portugal relativas à realização, controlo e informação dessas operações.
+9 - O presente aviso produz efeitos a partir da data da entrada em vigor do Decreto-Lei n.º 13/90, de 8 de Janeiro.
+Ministério das Finanças, 2 de Abril de 1990. - O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza.
