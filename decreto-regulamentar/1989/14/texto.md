@@ -1,0 +1,21 @@
+Decreto Regulamentar n.º 14/89
+de 26 de Maio
+A integração, em 1979, das unidades hospitalares da região de Aveiro em dois centros hospitalares - Aveiro Norte e Aveiro Sul - obedeceu a critérios de gestão unitária, de coordenação e aproveitamento de recursos existentes, tendo em vista asssegurar uma maior cobertura de cuidados médicos diferenciados aos habitantes de uma região cujas características geodemográficas apresentavam, ao tempo, uma marcada diferenciação da parte norte relativamente à parte sul do distrito.
+A experiência entretanto colhida e a evolução do condicionalismo local e regional determinaram, em 1987, a extinção do Centro Hospitalar de Aveiro Sul e a criação dos Hospitais Distritais de Aveiro e Águeda.
+Presentemente, e por razões idênticas, mostra-se necessário aplicar à região norte do distrito de Aveiro o mesmo esquema de cobertura assistencial instituído pelo Decreto Regulamentar n.º 18/87, de 4 de Março, para a região sul do mesmo distrito.
+Assim:
+Ao abrigo do disposto no artigo 78.º do Decreto-Lei n.º 413/71, de 27 de Setembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º É extinto o Centro Hospitalar de Aveiro Norte, criado pelo Decreto Regulamentar n.º 3/79, de 24 de Fevereiro.
+Art. 2.º São criados os Hospitais Distritais de Oliveira de Azeméis e de São João da Madeira, pessoas colectivas de direito público, dotadas de autonomia administrativa e financeira, nos termos do n.º 1 do artigo 2.º do Decreto-Lei n.º 19/88, de 21 de Janeiro.
+Art. 3.º A área de influência do Hospital Distrital de Oliveira de Azeméis abrange os Municípios de Oliveira de Azeméis e Vale de Cambra e a do Hospital Distrital de São João da Madeira os Municípios de São João da Madeira, Arouca e Feira.
+Art. 4.º Os hospitais criados pelo presente diploma prestam cuidados diferenciados a nível de hospital distrital, através de internamento, consulta externa e urgência, dentro dos limites das áreas de influência referidas no artigo anterior nos termos que vierem a ser autorizados por despacho do Ministro da Saúde.
+Art. 5.º O pessoal do quadro do Centro Hospitalar de Aveiro Norte transitará, através de lista nominativa, para os mapas de pessoal de cada hospital agora criado, nos termos legalmente estabelecidos, sem prejuízo dos direitos de que vinha usufruindo.
+Art. 6.º Os hospitais ora criados ficam em regime de instalação nos termos previstos nos artigos 79.º e seguintes do Decreto-Lei n.º 413/71, de 27 de Setembro, sendo cada hospital dirigido por uma comissão instaladora, nomeada por portaria do Ministro da Saúde, de acordo com o estabelecido no artigo 85.º do mesmo diploma.
+Art. 7.º Decorrido o prazo previsto no n.º 2 do artigo 79.º do Decreto-Lei n.º 413/71, de 27 de Setembro, os referidos hospitais entram em regime de gestão normal, devendo, para o efeito, constituir os respectivos órgãos de administração, de direcção e apoio técnicos e de participação e consulta, nos termos do Decreto Regulamentar n.º 3/88, de 22 de Janeiro.
+Art. 8.º É revogado o Decreto Regulamentar n.º 3/79, de 24 de Fevereiro.
+Presidência do Conselho de Ministros, 24 de Abril de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
+Promulgado em 11 de Maio de 1989.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 16 Maio de 1989.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
