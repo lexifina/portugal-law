@@ -1,0 +1,324 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "179",
+    "id": "29108",
+    "titulo": "Autoriza o Governo a alterar o Estatuto da Ordem dos Advogados, procedendo à transposição parcial da Directiva nº 89/48/CEE,  do Conselho das Comunidades Europeias,  de 21 de Dezembro de 1988"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1991-04-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4840",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1991-04-30",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1991-04-30",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO MINISTRO DA  JUSTIÇA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Borges Soeiro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159954",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2345-2346",
+                  "2351-2352"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-05-02",
+                "pubLeg": "V",
+                "pubNr": "70",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/070/1991-05-02/2345?pgs=2345-2346,2351-2352&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o Estatuto da Ordem dos Advogados, procedendo à transposição parcial da Directiva nº 89/48/CEE,  do Conselho das Comunidades Europeias,  de 21 de Dezembro de 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159955",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2346-2347"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-05-02",
+                "pubLeg": "V",
+                "pubNr": "70",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/070/1991-05-02/2346?pgs=2346-2347&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o Estatuto da Ordem dos Advogados, procedendo à transposição parcial da Directiva nº 89/48/CEE,  do Conselho das Comunidades Europeias,  de 21 de Dezembro de 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159956",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2347-2348",
+                  "2352-2352"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-05-02",
+                "pubLeg": "V",
+                "pubNr": "70",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/070/1991-05-02/2347?pgs=2347-2348,2352&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o Estatuto da Ordem dos Advogados, procedendo à transposição parcial da Directiva nº 89/48/CEE,  do Conselho das Comunidades Europeias,  de 21 de Dezembro de 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159957",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2348-2348"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-05-02",
+                "pubLeg": "V",
+                "pubNr": "70",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/070/1991-05-02/2348?pgs=2348&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o Estatuto da Ordem dos Advogados, procedendo à transposição parcial da Directiva nº 89/48/CEE,  do Conselho das Comunidades Europeias,  de 21 de Dezembro de 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159958",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2349-2350"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-05-02",
+                "pubLeg": "V",
+                "pubNr": "70",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/070/1991-05-02/2349?pgs=2349-2350&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o Estatuto da Ordem dos Advogados, procedendo à transposição parcial da Directiva nº 89/48/CEE,  do Conselho das Comunidades Europeias,  de 21 de Dezembro de 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159959",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2350-2351"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-05-02",
+                "pubLeg": "V",
+                "pubNr": "70",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/070/1991-05-02/2350?pgs=2350-2351&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o Estatuto da Ordem dos Advogados, procedendo à transposição parcial da Directiva nº 89/48/CEE,  do Conselho das Comunidades Europeias,  de 21 de Dezembro de 1988",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "224034",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4840",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-05-02",
+        "pubLeg": "V",
+        "pubNr": "70",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/070/1991-05-02?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
