@@ -1,0 +1,13 @@
+Decreto-Lei n.º 47825
+Os empréstimos outorgados à província de S. Tomé e Príncipe, no quadro dos planos de fomento, têm-se caracterizado por favoráveis condições de financiamento.
+Todavia, a reduzida dimensão da economia local e a fraca reprodutividade directa dos empreendimentos de natureza infra-estrutural realizados ao abrigo desses planos não determinaram ainda melhoria sensível nas receitas orçamentais da província, pelo que a satisfação dos encargos da dívida nos termos e condições inicialmente previstos poderia vir a afectar, em face das necessidades prementes da Administração, a situação financeira da província.
+Assim, reconhece-se conveniente a concessão de maiores facilidades à satisfação dos encargos da dívida contraída pela província, no âmbito do II Plano de Fomento, na convicção de que a política de desenvolvimento a realizar nos próximos anos possa contribuir decisivamente para a melhoria da sua situação económica e financeira. Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É autorizada a suspensão temporária da cobrança de juros relativos aos empréstimos concedidos à província de S. Tomé e Príncipe nos termos do Decreto-Lei n.º 43519, de 28 de Fevereiro de 1961.
+Art. 2.º É prolongado de 20 para 30 anos o período de amortização dos empréstimos referidos no artigo anterior.
+Art. 3.º A cobrança de juros ficará suspensa enquanto se mantiver a actual situação financeira da província, ficando esta obrigada a enviar, anualmente, à Direcção-Geral da Fazenda Pública, por intermédio do Ministério do Ultramar, um estudo sobre a evolução da sua actividade financeira, em particular sobre o comportamento das receitas orçamentais arrecadadas localmente.
+§ único. Será fixada, por despacho conjunto dos Ministros das Finanças e do Ultramar, a data a partir da qual se tornará efectivo o pagamento de juros.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 31 de Julho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser publicado no Boletim Oficial de S. Tomé e Príncipe. - J. da Silva Cunha.
