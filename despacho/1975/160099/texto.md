@@ -1,0 +1,6 @@
+Despacho
+A grave situação económica e financeira a que chegou a Sociedade Nacional de Tipografia, S. A. R. L., com sede em Lisboa, tem sido motivo de preocupação dos seus trabalhadores.
+Sem prejuízo de se considerar que, muito provavelmente, a situação da empresa exigirá uma profunda revisão da sua estrutura e das suas actividades, a verdade é que não pode o Governo deixar de atender, desde já, à situação dos trabalhadores e à importância social de que o seu principal órgão informativo - o jornal O Século - requerem.
+É na justa ponderação destas circunstâncias excepcionais que, ao abrigo do disposto no artigo 1.º, e com especial referência à natureza do apoio financeiro prestado em termos enquadráveis na parte final do seu § 1.º, do Decreto-Lei n.º 44722, de 24 de Novembro de 1962, é nomeado presidente do conselho de administração da Sociedade Nacional de Tipografia, S. A. R. L., o major do SAM Aventino Alves Teixeira; logo que os trabalhadores o indicarem por eleição - o que se torna extremamente urgente - será nomeado outro vogal para o conselho de administração.
+Presidência do Conselho de Ministros, 15 de Fevereiro de 1975. - O Ministro sem Pasta, na qualidade de gestor do Ministério da Comunicação Social, Victor Manuel Rodrigues Alves.
+Aprovado em Conselho de Ministros de 19 de Fevereiro de 1975. - Vasco Gonçalves.
