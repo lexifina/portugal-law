@@ -1,0 +1,3 @@
+Portaria n.º 24173
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, tendo-se ouvido a Direcção-Geral das Alfândegas, que seja criada a delegação aduaneira extra-urbana de Beja, abrangida pela categoria fixada no n.º 2.º do § 1.º do artigo 222.º da Reforma Aduaneira, promulgada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, dando-se cumprimento ao disposto no artigo 3.º do referido decreto-lei e procedendo-se à correspondente inserção no mapa I anexo à citada Reforma Aduaneira, sob a rubrica «Alfândega de Lisboa».
+Ministério das Finanças, 9 de Julho de 1969. - O Secretário de Estado do Orçamento, Augusto Victor Coelho.
