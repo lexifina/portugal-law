@@ -1,0 +1,10 @@
+Portaria n.º 487/70
+de 3 de Outubro
+Tornando-se necessária alterar a Portaria n.º 23245, de 26 de Fevereiro de 1968, de modo a serem considerados os casos dos indivíduos pertencentes aos quadros do pessoal civil do Ministério da Marinha beneficiando de adiamento das provas de classificação:
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que os n.os 1.º, 2.º e 3.º da Portaria n.º 23245, de 26 de Fevereiro de 1968, passem a ter a seguinte redacção:
+1.º Os indivíduos pertencentes aos quadros do pessoal civil do Ministério da Marinha, com mais de 18 anos, que antes de atingirem a idade de prestar o serviço militar ou a idade em que deixem de beneficiar de novos adiamentos dessa prestação desejem efectuar o mesmo serviço na Armada são alistados provisòriamente:
+a) Na reserva naval (reserva N), como cadetes da reserva N, os que tenham como habilitações literárias mínimas as que estiverem estabelecidas para a admissão à mesma reserva;
+b) Na reserva marítima (reserva M), como segundos-grumetes recrutas da reserva M (PC), os que tenham habilitações inferiores às referidas na alínea anterior.
+2.º Os reservistas referidos no número anterior são licenciados até ao ano em que perfizerem 21 anos ou deixem de beneficiar dos adiamentos fixados na Lei do Serviço Militar, sendo então presentes a uma junta de recrutamento e selecção, que apreciará a sua aptidão para o serviço da Armada; os que forem considerados inaptos para esse serviço e ainda os que, antes de serem presentes à junta de recrutamento e selecção, deixem, por qualquer motivo, de pertencer aos quadros do pessoal civil do Ministério da Marinha serão abatidos às reservas da Marinha e transferidos para o Exército.
+3.º Os cadetes a que se refere a alínea a) do n.º 1.º desta portaria são designados para frequentar o primeiro curso de formação de oficiais da reserva naval (C. F. O. R. N.) que funcione depois de terem perfeito 21 anos ou após terem deixado de beneficiar dos adiamentos citados no número anterior.
+O Ministro da Marinha, Manuel Pereira Crespo.
