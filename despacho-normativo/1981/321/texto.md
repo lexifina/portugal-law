@@ -1,0 +1,3 @@
+Despacho Normativo n.º 321/81
+Ao abrigo do disposto no n.º 1 do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 2 - Produtos fitofarmacêuticos, é autorizada a substituição da embalagem com o conteúdo líquido (peso) de 20 g por outra de 15 g em produtos fitofarmacêuticos com base em fosmete formulado em pó molhável com o teor de 50% de substância activa.
+Secretarias de Estado da Produção Agrícola e do Comércio, 28 de Setembro de 1981. - O Secretário de Estado da Produção Agrícola, José Vicente Carvalho Cardoso. - O Secretário de Estado do Comércio, António Escaja Gonçalves.
