@@ -1,0 +1,28 @@
+Portaria n.º 496/82
+de 12 de Maio
+Tendo a experiência demonstrado que a Portaria n.º 701/81, de 14 de Agosto, não satisfez os objectivos que presidem ao espírito do Decreto-Lei n.º 189-C/81, de 3 de Julho, e que as transacções de cortiça deveriam ser melhor acauteladas, o MACP sentiu a necessidade de revogar aquela portaria e estabelecer normas mais adequadas à eficaz regulamentação daquela matéria.
+Assim, e dando cumprimento ao disposto no referido artigo:
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Comércio e Pescas, o seguinte:
+1.º A cortiça extraída dos prédios a que se refere o artigo 1.º do Decreto-Lei n.º 189-C/81, de 3 de Julho, será comercializada mediante concurso público.
+2.º O Instituto de Gestão e Estruturação Fundiária anunciará a realização dos concursos por meio de anúncios, a publicar num jornal diário de Lisboa e noutro do Porto com, pelo menos, 15 dias de antecedência à data limite para apresentação das propostas.
+3.º Dos anúncios a publicar deverá obrigatoriamente constar:
+a) Data, hora e local da abertura das propostas;
+b) Data limite para apresentação das propostas;
+c) Indicação da proveniência da cortiça e localização das pilhas;
+d) Indicação da cubicagem e arrobagem provável, por cada pilha de cortiça, devidamente identificada;
+e) Indicação do montante da caução a depositar por cada concorrente.
+4.º As propostas serão abertas em sessão pública presidida por um representante do director do Instituto de Gestão e Estruturação Fundiária e da mesa deverá fazer parte um representante da Direcção-Geral do Ordenamento e Gestão Florestal.
+5.º O Instituto de Gestão e Estruturação Fundiária reserva-se o direito de não adjudicar as vendas, caso as propostas não convierem.
+6.º As partidas de cortiça serão adjudicadas ao proponente que ofereça melhor preço, com ressalva do disposto no n.º 5.
+7.º Os contratos serão outorgados no Instituto de Gestão e Estruturação Fundiária, no prazo máximo de 20 dias após a adjudicação.
+8.º Os contratos conterão obrigatoriamente:
+a) Identificação dos intervenientes no negócio jurídico;
+b) Sede da entidade adquirente, com menção do distrito, concelho, freguesia e local;
+c) Quantificação da massa da cortiça amadia transaccionada, incluindo bocados, e seu preço por pilha;
+d) Garantia bancária no montante da totalidade da cortiça transaccionada;
+e) Transferência para o adquirente, após assinatura do contrato, dos encargos com a guardaria e seguros da cortiça vendida;
+f) O calendário de pagamentos não poderá exceder o prazo máximo de 180 dias, a contar da data da celebração do contrato.
+9.º Os adquirentes deverão levantar guias no Instituto de Gestão e Estruturação Fundiária, no prazo máximo de 10 dias, após a outorga do contrato, para pagamento do sinal, que não será inferior a 20% do valor total do contrato.
+10.º Aos proponentes a quem seja adjudicada a venda será descontada a caução respectiva na última prestação do contrato.
+11.º Aos proponentes a quem não seja adjudicada a venda será de imediato devolvida a respectiva caução.
+Ministério da Agricultura, Comércio e Pescas, 22 de Março de 1982. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.
