@@ -1,0 +1,9 @@
+Portaria n.º 18933
+A fixação das características dos vinhos comuns destinados ao consumo nas províncias ultramarinas, constante do Decreto-Lei n.º 37808, de 6 de Maio de 1950, representou uma notável contribuição para a defesa da qualidade do produto até ao consumo.
+A expansão, que se vem verificando, do consumo de vinhos comuns no ultramar cada vez mais determinará a revisão da estrutura do comércio importador e de retalho na maior parte das províncias e o estabelecimento de uma apropriada fiscalização das características legais, por forma a que os vinhos comuns vendidos avulsamente ao consumidor mantenham o padrão da qualidade originária da produção.
+Entretanto, a experiência revela que um passo mais deverá ser dado na execução da doutrina que informou o Decreto-Lei n.º 37808, estabelecendo-se a regra do limite máximo de graduação alcoólica para os vinhos destinados ao consumo das províncias ultramarinas portuguesas. Visa-se, assim, alcançar um objectivo compreendido já naquele diploma: a restrição da prática inconveniente de rebaixamento no destino de vinhos de elevado teor alcoólico, susceptível de conduzir à obtenção de produtos defeituosos e mal equilibrados.
+Nestes termos, e ao abrigo do artigo 3.º do Decreto-Lei n.º 37808, de 6 de Maio de 1950, e sob parecer da Junta Nacional do Vinho:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, o seguinte:
+1.º É fixado em 12,5º o limite máximo de graduação alcoólica dos vinhos comuns que sejam remetidos para consumo nas províncias ultramarinas portuguesas, devendo, além disso, possuir as características fixadas nos Decretos-Leis n.os 23828, 31988 e 37808, respectivamente de 7 de Maio de 1934, 28 de Abril de 1942 e 6 de Maio de 1950.
+2.º Exceptuam-se do disposto no número anterior os vinhos comuns engarrafados.
+Secretaria de Estado do Comércio, 30 de Dezembro de 1961. - O Secretário de Estado do Comércio, João Augusto Dias Rosas.
