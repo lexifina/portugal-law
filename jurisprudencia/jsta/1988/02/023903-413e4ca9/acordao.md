@@ -1,0 +1,57 @@
+# Acórdão do Supremo Tribunal Administrativo de 1988-02-25, processo 023903
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 023903
+
+**Data do Acordão:** 02/25/1988
+
+**Tribunal:** 1 SUBSECÇÃO DO CA
+
+**Relator:** VALADAS PRETO
+
+**Descritores:** PROCESSO DISCIPLINAR; PLURALIDADE DE INFRACÇÕES; DEVER DE OBEDIENCIA; DESOBEDIENCIA ESCANDALOSA; QUALIFICAÇÃO JURIDICA DOS FACTOS; QUALIFICAÇÃO DE INFRACÇÃO; CONVOLAÇÃO
+
+**Nº Convencional:** JSTA00023381
+
+**Nº do Documento:** SA119880225023903
+
+**Data de Entrada:** 05/14/1986
+
+**Recorrente:** AIRES , RODRIGO
+
+**Recorrido 1:** CM DE TAVIRA
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 88
+
+**Apêndice:** DR
+
+**Data do Apêndice:** 10/08/1993
+
+**1ª Pág. de Publicação do Acordão:** 1000
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAC LISBOA.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM GER - FUNÇÃO PUBL DISCIPLINAR.
+
+**Legislação Nacional:** CP886 ART34.; EDF79 ART21 N1 ART23 N1 D ART27 B ART30 D.; CP82 ART212.; L 16/86 DE 1986/06/11 ART9.; Texto Integral
+
+## Sumário
+
+I - Pratica duas infracções disciplinares o funcionario que desobedeceu a uma ordem do chefe do sector de obras de uma camara municipal para que efectuasse determinado serviço e depois desobedeceu a ordem do presidente da Camara para que executasse o mesmo serviço.
+
+II - Se a desobediencia for acompanhada de comportamento pouco urbano e respeitoso verifica-se tambem a violação do dever de correcção.
+
+III- O diferente enquadramento juridico, feito na sentença do Tribunal administrativo de circulo, da conduta do arguido, e juridicamente irrelevante, não implicando anulação da decisão punitiva, se as infracções são puniveis com a mesma pena e não estão em causa os pressupostos de facto ou a conduta naturalistica.
+
+IV - A desobediencia "de modo escandaloso", referida, como elemento da infracção, na alinea d), do n.1, do art. 23 do Estatuto Disciplinar de 1979, não se relaciona directamente com a publicidade do acto, mas, dado constituir um exemplo tipificado da infracção prevista e formulada em termos genericos no preambulo da disposição, com o grau de reprovação da conduta do arguido, ao violar o dever de obediencia, e com a importancia das respectivas consequencias nos serviços.
+
+V - Pratica essa infracção o funcionario que desobedece a uma ordem do presidente da camara, depois de desobedecer a uma ordem do seu superior hierarquico directo, não obstante lhe serem expostas as razões que impõem a urgencia a realização do trabalho, tendo resultado de sua atitude consequencias importantes para os serviços camararios.
