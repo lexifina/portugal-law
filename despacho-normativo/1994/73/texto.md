@@ -1,0 +1,6 @@
+Despacho Normativo n.º 73/94
+Considerando que o licenciado António da Silva exerce em comissão de serviço o cargo de director de serviços, reúne os requisitos necessários para o acesso à categoria de assessor principal e requereu a criação do respectivo lugar;
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6, 7 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção dada pelo artigo 1.º daquele diploma:
+Determina-se o seguinte:
+É criado no quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, aprovado pelas Portarias n.os 4/88, de 6 de Janeiro, e 168/88, de 19 de Março, com as alterações introduzidas pelas Portarias n.os 75/89, de 2 de Fevereiro, 484/90, de 29 de Junho, e 246/91, de 25 de Março, Decretos-Leis n.os 258/91, de 18 de Julho, 106/92, de 30 de Maio, e 110/92, de 2 de Junho, e Portaria n.º 441/93, de 27 de Abril, um lugar de assessor principal da carreira técnica superior, a extinguir quando vagar.
+Ministérios das Finanças e do Emprego e da Segurança Social, 12 de Janeiro de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, Fernando Mário Teixeira de Almeida, Secretário de Estado da Segurança Social.
