@@ -1,0 +1,45 @@
+Decreto n.º 44208
+Com fundamento nas disposições do artigo 35.º e sua alínea a) do Decreto com força de lei n.º 18381, de 24 de Maio de 1930, em execução do Decreto n.º 44115 e Decreto-Lei n.º 44123, respectivamente de 23 e 27 de Dezembro de 1961, depois de ouvido o Ministro das Finanças, nos termos do n.º 1.º do artigo 9.º do Decreto-Lei n.º 22470, de 11 de Abril de 1933;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais, no montante de 4003500$00, destinados a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Ministério da Justiça
+Capítulo 3.º «Direcção-Geral da Justiça»:
+Polícia Judiciária
+Directoria
+Artigo 102.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+10 escriturários de 2.ª classe (11 meses) (ver nota a) a 16500$00 ... 165000$00
+(nota a) Estes lugares só serão preenchidos à medida que forem vagando os dez lugares de agentes auxiliares, que são extintos.
+Subdirectoria de Lisboa
+Artigo 118.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+1 agente de 2.ª classe (11 meses) (ver nota b) ... 22000$00
+1 escriturário de 2.ª classe (11 meses) (ver nota b) ... 16500$00
+... 38500$00
+... 203500$00
+(nota b) Estes lugares só serão preenchidos quando vagar o lugar de primeiro-oficial, que é extinto.
+Ministério das Comunicações
+Capítulo 9.º-A «Gabinete de Estudos e Planeamento de Transportes Terrestres (Decreto-Lei n.º 43457, de 30 de Dezembro de 1960, Portaria n.º 18632, de 1 de Agosto de 1961, e Decreto-Lei n.º 44123, de 27 de Dezembro de 1961)»:
+Artigo 157.º-A «Despesas com o pessoal» ... 1900500$00
+Artigo 157.º-B «Despesas cana o material» ... 980000$00
+Artigo 157.º-C «Pagamento de serviços e diversos encargos» ... 903500$00
+Artigo 157.º-D «Acidentes em serviço» ... 14000$00
+Artigo 157.º-E «Despesas de anos económicos findos» ... 2000$00
+... (ver nota a) 3800000$00
+(nota a) Sujeita a duplo cabimento.
+Art. 2.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas do aumento de previsão de receita e de redução em verbas de despesa:
+Orçamento das receitas do Estado
+Capítulo 8.º «Consignações de receita»:
+Fundos especiais para fomento
+Artigo 243.º-A «Gabinete de Estudos e Planeamento de Transportes Terrestres» ... 3800000$00
+Ministério da Justiça
+Capítulo 3.º, artigo 102.º, n.º 1) ... 165000$00
+Capítulo 3.º, artigo 118.º, n.º 1) ... 38500$00
+... 203500$00
+... 4003500$00
+Art. 3.º São autorizadas as seguintes alterações de rubrica no orçamento do Ministério da Justiça:
+À rubrica «30 agentes auxiliares» do n.º 1) do artigo 102.º, capítulo 3.º, é aposta a seguinte observação:
+(c) Dez lugares serão extintos à medida que forem vagando.
+À rubrica «1 primeiro-oficial» do n.º 1) do artigo 118.º, capítulo 3.º, é aposta a seguinte observação:
+(a) Lugar a extinguir quando vagar.
+Estes créditos foram registados na Direcção-Geral da Contabilidade Pública e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o § único do artigo 36.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 26 de Fevereiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.
