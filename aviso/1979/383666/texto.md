@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o Representante Permanente de Portugal junto dos organismos internacionais em Genebra depositou junto do director-geral da Organização Internacional do Trabalho, em 12 de Dezembro de 1978, o instrumento de ratificação, por parte de Portugal, da Convenção n.º 97, relativa aos trabalhadores migrantes, adoptada em 1 de Julho de 1949 pela 32.ª Conferência Internacional do Trabalho e aprovada para ratificação pela Lei n.º 50/78, de 25 de Julho.
+A 12 de Dezembro de 1978 eram Partes na referida Convenção os seguintes países:
+Alto Volta, Argélia, República Federal da Alemanha, Baamas, Barbados, Bélgica, Brasil, Camarões, Chipre, Cuba, Equador, Espanha, França, Guatemala, Guiana, Holanda, Israel, Itália, Jamaica, Jugoslávia, Malásia, Malawi, Maurícias, Nigéria, Noruega, Nova Zelândia, Quénia, Reino Unido, Tanzânia (Zanzibar), Trindade e Tabago, Uruguai e Zâmbia.
+Direcção-Geral dos Negócios Económicos, 26 de Dezembro de 1978. - O Adjunto do Director-Geral, Carlos Alberto Soares Simões Coelho.
