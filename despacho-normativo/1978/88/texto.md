@@ -1,0 +1,12 @@
+Despacho Normativo n.º 88/78
+1 - Pelo Despacho Normativo n.º 69/77, de 11 de Março, dos Ministros do Plano e Coordenação Económica, das Finanças e da Indústria e Tecnologia, foi determinado que as tarefas em curso no Grupo de Estudos Básicos da Economia Industrial (GEBEI) fossem gradualmente transferidas para o âmbito de acção do Centro de Estudos e Planeamento da Secretaria de Estado do Planeamento, sendo para este igualmente transferidos o pessoal, equipamento e demais recursos.
+2 - A necessidade de reestruturar mais profundamente os serviços e a organização do novo Ministério das Finanças e do Plano, referida no próprio preâmbulo da sua lei orgânica, aconselha, porém, a inserção autónoma do GEBEI no Ministério, com as necessárias adaptações funcionais, tendo em conta os trabalhos já levados a cabo, as suas potencialidades de aproveitamento e desenvolvimento e a capacidade técnica demonstrada, com especial relevo no domínio das matrizes de relações intersectoriais.
+3 - Também é reconhecido que se torna urgente assegurar-lhe condições de funcionamento adequadas à sua cooperação nos trabalhos preparatórios do Plano de Médio Prazo e em outras tarefas propiciadas pelos estudos que vem desenvolvendo.
+Nestes termos, determina-se que:
+a) O GEBEI passa a funcionar sob a directa orientação e supervisão do Secretário de Estado do Planeamento, desenvolvendo, em estreita colaboração com o Instituto Nacional de Estatística e o Departamento Central de Planeamento, os estudos e acções que se mostrem necessários com vista ao prosseguimento das tarefas que lhe estão cometidas e à sua cooperação nos trabalhos preparatórios do Plano de Médio Prazo, 1979-1984, a lançar em breve e com total prioridade;
+b) As despesas e outros encargos do GEBEI serão, durante o ano de 1978, pagos por verba a inscrever no Plano de Investimentos da Administração Pública expressamente atribuída ao funcionamento e programas de actividade do GEBEI.
+O GEBEI apresentará para urgente aprovação superior:
+a) Plano de actividade para 1978, discriminando os programas e projectos de estudos a desenvolver;
+b) Orçamento para 1978, a inscrever no PIAP após aprovação;
+c) Estudos de redefinição de funções e enquadramento no âmbito da reestruturação do Ministério das Finanças e do Plano.
+Ministério das Finanças e do Plano, 15 de Março de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio.
