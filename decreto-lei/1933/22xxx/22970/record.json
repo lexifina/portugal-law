@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1933/08/18200/15391539.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1933-08-14",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "0b3a404b584f3458f53b63fa01ec299725ef07d84adff3fe73222eb08e855ac8",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.2,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "2c7d8c69904eddfb8694be9235d1f40011588d214c9a5675a772e7fbd4629d27",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 168
 }
