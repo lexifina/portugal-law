@@ -1,0 +1,715 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=sHIRRaZSClvqs2fgPou4a23MGhhl3X0gpgbp%2btNARhGZicYLOXPZWkruq4vVo2sWGLeVuvGAgqbFJbJwQRW44CI9tfmX%2bbWTsyeHmJUtTMccM5o%2bccvn1sCfcA%2fpd%2bu%2fwKJ%2bFD1ev4cnIw3pVnfMa%2bhzSz6cuwzZblBv5LWM36SEbL%2bBs5zO8uiZpaydxrwOvnbXHxO20Qolz2olAmCgsT1gDBlsVm7WmD5xQWyQKm1VSK31nRXYjP8b8P%2feFXtP5tOSkcyuffzIm3hAkBaoFGuUyO4s%2fkJ5BzS9ISNRC1O2ZlNJZ6At2vSnnzEc478srqvpEWstyCICdzJ0iIVMlkL18DFe0lclA2tQQF6038g%3d&fich=IniciativasIV_json.txt&Inline=true",
+  "ficheiro_sha256": "66d499906f5f48d8fdeb07035c408bad3bf810ad88e2ed743ec1b74baa57e0d7",
+  "legislatura": "IV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "137",
+    "id": "27936",
+    "titulo": "Projecto de Lei de enquadramento de aspectos essenciais da organização e do funcionamento dos orgãos de comunicação social do sector público"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1986-02-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13408",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1986-02-21",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28085",
+        "leg": "IV",
+        "nr": "4",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1112",
+            "obs": null,
+            "pag": [
+              "1177-1184"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1986-02-22",
+            "pubLeg": "IV",
+            "pubNr": "35",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22/1177?pgs=1177-1184&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1112",
+            "obs": null,
+            "pag": [
+              "1177-1184"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1986-02-22",
+            "pubLeg": "IV",
+            "pubNr": "35",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22/1177?pgs=1177-1184&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1112",
+            "obs": null,
+            "pag": [
+              "1177-1184"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1986-02-22",
+            "pubLeg": "IV",
+            "pubNr": "35",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22/1177?pgs=1177-1184&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Estabelece garantias da independência dos orgãos de Comunicação Social do Sector Público"
+      },
+      {
+        "autor": "PRD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "27923",
+        "leg": "IV",
+        "nr": "84",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1112",
+            "obs": null,
+            "pag": [
+              "1177-1184"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1986-02-22",
+            "pubLeg": "IV",
+            "pubNr": "35",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22/1177?pgs=1177-1184&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1112",
+            "obs": null,
+            "pag": [
+              "1177-1184"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1986-02-22",
+            "pubLeg": "IV",
+            "pubNr": "35",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22/1177?pgs=1177-1184&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1112",
+            "obs": null,
+            "pag": [
+              "1177-1184"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1986-02-22",
+            "pubLeg": "IV",
+            "pubNr": "35",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22/1177?pgs=1177-1184&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Independencia da informação televisiva"
+      },
+      {
+        "autor": "MDP/CDE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "27952",
+        "leg": "IV",
+        "nr": "130",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1112",
+            "obs": null,
+            "pag": [
+              "1177-1184"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1986-02-22",
+            "pubLeg": "IV",
+            "pubNr": "35",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22/1177?pgs=1177-1184&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1112",
+            "obs": null,
+            "pag": [
+              "1177-1184"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1986-02-22",
+            "pubLeg": "IV",
+            "pubNr": "35",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22/1177?pgs=1177-1184&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1112",
+            "obs": null,
+            "pag": [
+              "1177-1184"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1986-02-22",
+            "pubLeg": "IV",
+            "pubNr": "35",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22/1177?pgs=1177-1184&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Nomeação dos Directores, Directores-Adjuntos, Subdirectores e chefias de Redação na Radiotelevisão Portuguesa"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1986-02-21",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "2912",
+                "nome": "Alexandre Leite"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229164",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1178-1179",
+                  "1180-1180",
+                  "1180-1180",
+                  "1180-1181",
+                  "1181-1181",
+                  "1181-1181"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-02-22",
+                "pubLeg": "IV",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22/1178?pgs=1178-1179,1180,1180,1180-1181,1181,1181&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece garantias da independência dos orgãos de Comunicação Social do Sector Público; Independencia da informação televisiva; Nomeação dos Directores, Directores-Adjuntos, Subdirectores e chefias de Redação na Radiotelevisão Portuguesa; Projecto de Lei de enquadramento de aspectos essenciais da organização e do funcionamento dos orgãos de comunicação social do sector público",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3007",
+                "nome": "Jorge Lemos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229167",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1179-1179",
+                  "1181-1181"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-02-22",
+                "pubLeg": "IV",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22/1179?pgs=1179,1181&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece garantias da independência dos orgãos de Comunicação Social do Sector Público; Independencia da informação televisiva; Nomeação dos Directores, Directores-Adjuntos, Subdirectores e chefias de Redação na Radiotelevisão Portuguesa; Projecto de Lei de enquadramento de aspectos essenciais da organização e do funcionamento dos orgãos de comunicação social do sector público",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "MDP/CDE",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1179-1179",
+                  "1181-1181"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-02-22",
+                "pubLeg": "IV",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22/1179?pgs=1179,1181&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece garantias da independência dos orgãos de Comunicação Social do Sector Público; Independencia da informação televisiva; Nomeação dos Directores, Directores-Adjuntos, Subdirectores e chefias de Redação na Radiotelevisão Portuguesa; Projecto de Lei de enquadramento de aspectos essenciais da organização e do funcionamento dos orgãos de comunicação social do sector público",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3239",
+                "nome": "Amândio Azevedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1179-1180",
+                  "1180-1180",
+                  "1180-1180"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-02-22",
+                "pubLeg": "IV",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22/1179?pgs=1179-1180,1180,1180&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece garantias da independência dos orgãos de Comunicação Social do Sector Público; Independencia da informação televisiva; Nomeação dos Directores, Directores-Adjuntos, Subdirectores e chefias de Redação na Radiotelevisão Portuguesa; Projecto de Lei de enquadramento de aspectos essenciais da organização e do funcionamento dos orgãos de comunicação social do sector público",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1649",
+                "nome": "José Luís Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1181-1182",
+                  "1183-1183",
+                  "1183-1184"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-02-22",
+                "pubLeg": "IV",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22/1181?pgs=1181-1182,1183,1183-1184&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece garantias da independência dos orgãos de Comunicação Social do Sector Público; Independencia da informação televisiva; Nomeação dos Directores, Directores-Adjuntos, Subdirectores e chefias de Redação na Radiotelevisão Portuguesa; Projecto de Lei de enquadramento de aspectos essenciais da organização e do funcionamento dos orgãos de comunicação social do sector público",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3068",
+                "nome": "Raul Junqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1182-1183"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-02-22",
+                "pubLeg": "IV",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22/1182?pgs=1182-1183&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece garantias da independência dos orgãos de Comunicação Social do Sector Público; Independencia da informação televisiva; Nomeação dos Directores, Directores-Adjuntos, Subdirectores e chefias de Redação na Radiotelevisão Portuguesa; Projecto de Lei de enquadramento de aspectos essenciais da organização e do funcionamento dos orgãos de comunicação social do sector público",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3007",
+                "nome": "Jorge Lemos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1183-1183"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-02-22",
+                "pubLeg": "IV",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22/1183?pgs=1183&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece garantias da independência dos orgãos de Comunicação Social do Sector Público; Independencia da informação televisiva; Nomeação dos Directores, Directores-Adjuntos, Subdirectores e chefias de Redação na Radiotelevisão Portuguesa; Projecto de Lei de enquadramento de aspectos essenciais da organização e do funcionamento dos orgãos de comunicação social do sector público",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "3263",
+                "nome": "Borges de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229175",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-02-22",
+                "pubLeg": "IV",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22?org=PLC"
+              }
+            ],
+            "sumario": "Estabelece garantias da independência dos orgãos de Comunicação Social do Sector Público; Independencia da informação televisiva; Nomeação dos Directores, Directores-Adjuntos, Subdirectores e chefias de Redação na Radiotelevisão Portuguesa; Projecto de Lei de enquadramento de aspectos essenciais da organização e do funcionamento dos orgãos de comunicação social do sector público",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "160",
+                "nome": "Carlos Lage"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1184-1184"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-02-22",
+                "pubLeg": "IV",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/035/1986-02-22/1184?pgs=1184&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece garantias da independência dos orgãos de Comunicação Social do Sector Público; Independencia da informação televisiva; Nomeação dos Directores, Directores-Adjuntos, Subdirectores e chefias de Redação na Radiotelevisão Portuguesa; Projecto de Lei de enquadramento de aspectos essenciais da organização e do funcionamento dos orgãos de comunicação social do sector público",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "343525",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
