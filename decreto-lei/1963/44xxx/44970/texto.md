@@ -1,0 +1,18 @@
+Decreto-Lei n.º 44970
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O Conselho do Ministério será composto pelo secretário-geral, que presidirá, pelos directores-gerais e adjuntos dos directores-gerais e terá como secretário, sem voto, o chefe da Repartição dos Serviços Administrativos.
+Art. 2.º Os serviços de relações públicas, criados pelo artigo 4.º do Decreto-Lei n.º 43344, de 22 de Novembro de 1960, passam a ser designados por «serviços de informação».
+Art. 3.º Quando não puderem prover-se as vagas de ministros plenipotenciários de 2.ª classe por não haver funcionários em condições de ser elaborada a lista tríplice referida na alínea c) do artigo 76.º do Regulamento do Ministério, pode o Ministro promover para essas vagas os conselheiros de legação ou cônsules-gerais com mais de quinze anos de carreira que tenham completado já dois dos estágios legais e já possuam, à data da promoção acima referida, parte do terceiro estágio que lhes falte completar.
+§ único. Fica revogado o artigo 13.º do Decreto-Lei n.º 43344, de 22 de Novembro de 1960.
+Art. 4.º A primeira nomeação para o lugar criado pelo artigo 5.º do Decreto-Lei n.º 44526, de 21 de Agosto de 1962, é de livre escolha do Governo através do Ministro dos Negócios Estrangeiros, sendo suficientes, independentemente do reconhecimento da equiparação, as habilitações que forem apresentadas, desde que aceites pelo Ministro dos Negócios Estrangeiros.
+§ único. Fica revogado o § único do artigo 5.º do Decreto-Lei n.º 44526, de 21 de Agosto de 1962.
+Art. 5.º Aos ministros plenipotenciários de 2.ª classe do quadro da Secretaria de Estado, criados pelo artigo 17.º do Decreto-Lei n.º 43344, de 22 de Novembro de 1960, são aplicáveis as disposições do artigo 112.º do Regulamento do Ministério.
+Art. 6.º É aumentado o quadro do pessoal privativo da Secretaria de Estado de um lugar de primeiro-oficial, um de arquivista, dois de escriturário e dois de dactilógrafo e o quadro do pessoal menor de um contínuo de 2.ª classe.
+Art. 7.º É extinto o lugar de adido ultramarino junto da Embaixada de Portugal em Washington, criado pelo artigo 10.º do Decreto-Lei n.º 40403, de 24 de Novembro de 1955.
+Art. 8.º As disposições do artigo 9.º do Decreto-Lei n.º 43344, de 22 de Novembro de 1960, são aplicáveis aos licenciados pelo Instituto Superior de Ciências Sociais e Política Ultramarina.
+Art. 9.º É revogado o artigo 143.º do Decreto n.º 29970, de 13 de Outubro de 1939, tornando-se aplicável ao pessoal do quadro privativo da Secretaria de Estado o regime estabelecido no corpo do artigo 14.º do Decreto-Lei n.º 29319, de 30 de Dezembro de 1938, com a nova redacção que a este foi dada pelo artigo 1.º do Decreto-Lei n.º 41507, de 17 de Janeiro de 1958.
+Art. 10.º As despesas resultantes da execução deste diploma serão satisfeitas no ano corrente pelas sobras de quaisquer das verbas de pessoal dos quadros deste Ministério.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 10 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
+
+Para ser presente à Assembleia Nacional.
