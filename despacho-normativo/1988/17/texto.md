@@ -1,0 +1,13 @@
+Despacho Normativo n.º 17/88
+O Decreto-Lei n.º 522/85, de 31 de Dezembro, veio introduzir alterações à disciplina legal do seguro de responsabilidade civil emergente de acidentes de viação, submetendo ainda ao regime das contra-ordenações as infracções às suas normas.
+Não prevê, no entanto, o mesmo diploma qual a autoridade competente quer para o processamento das referidas infracções quer para a aplicação das coimas nele cominadas.
+No silêncio da lei, e de acordo com o disposto no n.º 2 do artigo 34.º do Decreto-Lei n.º 433/82, de 27 de Outubro, serão competentes os serviços designados pelo membro do Governo responsável pela tutela dos interesses que a contra-ordenação visa defender ou promover. No entanto, a existência de interesses de vária ordem, que o Decreto-Lei n.º 522/85 visa proteger, tutelados por departamentos ministeriais diversos, tem originado dúvidas sobre quais os serviços competentes. Urge, por isso, a partir da definição do interesse ou interesses mais relevantes, determinar os serviços competentes para o processamento das referidas contra-ordenações, tanto mais que começa a ganhar volume o número de processos a aguardar decisão.
+Nestes termos e considerando:
+O facto da existência de tal seguro ser uma condição para a admissão dos veículos à circulação nas vias públicas;
+Dever constituir o seguro obrigatório, também, uma medida de segurança rodoviária;
+O facto de as obrigações impostas pelo Decreto-Lei n.º 522/85, de 31 de Dezembro, impenderem fundamentalmente sobre os proprietários e condutores dos veículos e estar em geral confiada à Direcção-Geral de Viação a competência para a execução das medidas a eles referentes;
+Pertencer, do antecedente, a esta Direcção-Geral a competência para a instrução dos processos relativos a infracções do foro do seguro obrigatório automóvel:
+Determina-se, nos termos do n.º 2 do artigo 34.º do Decreto-Lei n.º 433/82, de 27 de Outubro:
+1 - Compete à Direcção-Geral de Viação o processamento das contra-ordenações e a aplicação das coimas previstas no Decreto-Lei n.º 522/85, de 31 de Dezembro.
+2 - Quando tal se mostre necessário, a Direcção-Geral de Viação poderá solicitar a colaboração das entidades fiscalizadoras a que se refere o artigo 33.º do mesmo diploma para a instrução dos processos de contra-ordenação.
+Ministérios das Finanças, da Administração Interna, da Justiça e das Obras Públicas, Transportes e Comunicações, 22 de Março de 1988. - O Ministro das Finanças Miguel José Ribeiro Cadilhe. - O Ministro da Administração Interna, José António da Silveira Godinho. - O Ministro da Justiça, Joaquim Fernando Nogueira. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
