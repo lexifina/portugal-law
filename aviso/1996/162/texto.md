@@ -1,0 +1,4 @@
+Aviso n.º 162/96
+Por ordem superior se torna público que se encontra concluído por ambas as partes o processo de aprovação do Acordo de Promoção e Protecção Recíproca de Investimentos entre o Governo da República Portuguesa e o Governo da República Argentina assinado em Lisboa a 6 de Outubro de 1994, bem como do Protocolo anexo, publicados no Diário da República, 1.ª série-A, n.º 182, de 8 de Agosto de 1995.
+Nesta conformidade, e segundo interpretação do disposto no n.º 1 do seu artigo 12.º, foi acordado, por troca de notas entre o Ministério dos Negócios Estrangeiros da República Portuguesa e a Embaixada do Governo da República Argentina em Lisboa, que o Acordo em apreço entrou em vigor em 3 de Maio de 1996.
+Direcção-Geral das Relações Bilaterais, 30 de Maio de 1996. - A Directora de Serviços da América do Sul e Central, Dinah de Azevedo Neves.
