@@ -12,7 +12,7 @@ a) Sendo positiva, é considerada proveito no exercício da cessão;
 
 b) Sendo negativa, é considerada custo no exercício da cessão, salvo nas situações em que a entidade cedente adquira qualquer interesse nos proveitos da entidade cessionária, caso em que o custo deve ser diferido, em fracções iguais, nos exercícios compreendidos entre a data da cessão do crédito e a data do seu vencimento.
 
-2 - O disposto na parte final da alínea b) do número anterior não é aplicável às situações previstas no n.º 2 do artigo 45.º do Decreto-Lei n.º 453/99, de 5 de Novembro.
+2 - O disposto na parte final da alínea b) do número anterior não é aplicável às situações previstas no n.º 2 do artigo 41.º do Decreto-Lei n.º 453/99, de 5 de Novembro.
 
 3 - As remunerações de gestão auferidas pela entidade cedente, ainda que englobem no seu valor uma parcela do juro dos créditos cedidos, são consideradas proveitos do exercício em que se verifica o direito às mesmas.
 
