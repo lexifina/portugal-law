@@ -1,0 +1,71 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=0%2fmnAEPdw%2bZ%2fvnXoecx2JQgGmGyJ%2b1AHu2mrzNS8ADAE18uCrc9Styx5d%2fX4IPGRcIcBKHPoySAeeVEJTG%2fnXeyO38ve46GpqLc0X3T%2bbPkcpeyEUoY%2blGLBlRWpTBx0UKWpHL%2b0cQ3AeGM5xR9S3GS29tBWW0QJzrNi%2fGO%2fKW1iOFIemaNauO5hwfRc17lE2F5iEtOcOG0Yq9A3ovXI4mo3WLcbepRRJNyYDPZR66gnSeUHQcoaTAQgjfGEJ08UqPzICqi2gLkxT9d5L4XljdxcmBX73F4%2fTpvPHkZhHVHbKFkt8d5BmDH2Tatkzy4NCcLWt0LW2TTG7%2f0lHIS6lQGnfRoQfH9YJAX%2bB7yLJsLyqhRKBQy%2bB1O%2bmEOrB58p&fich=IniciativasIA_json.txt&Inline=true",
+  "ficheiro_sha256": "39a9f34ccb817f089e97a6d8deacb124b71a67b0f61b5914b722e78111f34ce7",
+  "legislatura": "I",
+  "iniciativa": {
+    "tipo": "Ratificação",
+    "numero": "65",
+    "id": "32408",
+    "titulo": "Ratificação do Decreto-Lei nº 51/79, de 22 de Março (revoga os nºs 3 e 4 do artigo 31º do Decreto-Lei nº 729-F/75 de 22 de Dezembro, na redacção que lhes foi dada pelo artigo 2º do Decreto-Lei nº 513/77 de 14 de Dezembro, passando o actual nº 5 a nº 3 do mesmo artigo 31º \"Estatuto do Gestor Público\")."
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "1979-06-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "1979-06-28",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "240583",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "347178",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1979-06-29",
+        "pubLeg": "I",
+        "pubNr": "77",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/01/03/077/1979-06-29?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1979-06-28",
+        "descricao": "Votada artigo por artigo.",
+        "detalhe": null,
+        "id": "48233",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "77",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
