@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que os Governos de Portugal e do Luxemburgo se notificaram reciprocamente, por via diplomática, do cumprimento das normas constitucionais requeridas para a entrada em vigor do II Protocolo, assinado em Lisboa, em 19 de Setembro de 1978, que altera o Acordo entre a República Portuguesa e o Grão-Ducado do Luxemburgo Relativo ao Emprego dos Trabalhadores Portugueses no Luxemburgo, assinado em Lisboa em 20 de Maio de 1970. O II Protocolo foi publicado no Diário da República, 1.ª série, n.º 299, Decreto n.º 169/78, de 30 de Dezembro.
+Nesta conformidade, e segundo o disposto no seu artigo 20, o referido Protocolo entra em vigor em 1 de Julho de 1980.
+Secretaria de Estado da Emigração e Comunidades Portuguesas, 27 de Junho de 1980. - O Chefe de Gabinete do Secretário de Estado, Luís Paulo Mourão Garcez Palha.
