@@ -12,7 +12,7 @@ d) Admitir ou recusar, fundamentando, os pedidos de inscrição dos médicos;
 
 e) Dirigir e coordenar a actividade da Ordem a nível regional, de acordo com os princípios definidos no presente Estatuto;
 
-f) Promover a eleição de delegados nos locais de trabalho;
+f) Promover a eleição de delegado nos locais de trabalho;
 
 g) Elaborar e apresentar anualmente à assembleia regional o relatório, contas e orçamento regionais;
 

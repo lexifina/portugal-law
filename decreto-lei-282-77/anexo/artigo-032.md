@@ -6,7 +6,7 @@ a) Orientar e dinamizar os médicos do seu distrito médico, de acordo com as ca
 
 b) Velar pelo cumprimento dos preceitos deontológicos e fazer aplicar as normas recebidas e sugerir normas a executar;
 
-c) Dar sequência ao programa de segurança social aprovado;
+c) Dar sequência ao problema de segurança social aprovado;
 
 d) Proceder ao registo dos quadros, geral e especial, de todos os médicos do distrito médico;
 

@@ -34,4 +34,4 @@ p) Assegurar, com a colaboração dos conselhos regionais, a publicação perió
 
 q) Coordenar as relações da Ordem dos Médicos com os meios de comunicação social através de um gabinete de relações públicas;
 
-r) Apreciar e decidir os casos duvidosos e apreciar os casos omissos do Estatuto e regulamentos da Ordem dos Médicos para efeitos do disposto no artigo 101.º
+r) Apreciar e decidir os casos duvidosos e apreciar os casos omissos do Estatuto e regulamentos da Ordem dos Médicos para efeitos do disposto no artigo 102.º

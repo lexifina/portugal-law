@@ -12,6 +12,6 @@ d) Presidir às reuniões do Conselho Nacional Executivo, com voto de qualidade;
 
 e) Presidir ao Conselho Nacional de Disciplina;
 
-f) Escolher o assessor jurídico do Conselho Nacional de Disciplina, nos termos do n.º 2 do artigo 68.º;
+f) Escolher o assessor jurídico do Conselho Nacional de Disciplina, nos termos do n.º 2 do artigo 72.º;
 
 g) Presidir ao Conselho Fiscal Nacional.
