@@ -1,0 +1,22 @@
+Aviso n.º 200/98
+Por ordem superior se torna público que, por nota de 19 de Junho de 1998 e nos termos do artigo 32.º da Convenção Europeia de Extradição, aberta à assinatura em Paris em 13 de Dezembro de 1957, a Secretaria-Geral do Conselho da Europa notificou ter a Albânia, em 19 de Maio de 1998, depositado o seu instrumento de ratificação da mencionada Convenção, com as seguintes reservas e declarações:
+«1 - Relating to paragraph 1 of article 2 of the Convention, the Albanian Party has no minimum limits for the term of imprisonment for the effect of extradition. The Albanian Party considers this declaration as valid only in conditions of reciprocity.
+2 - Relating to paragraph 1, subparagraph a), of article 6, the Albanian Party refuses the extradition of its nationals, unless otherwise provided in the international agreements to which Albania is a Contracting Party.
+3 - Relating to paragraph 1, subparagraph b), of article 6, the Albanian Party includes in the term 'nationals' the 'persons with double nationality', in case either of them is albanian.
+4 - Relating to paragraph 1 of article 7, the Albanian Party does not allow the extradition of the persons who have committed offences either in the albanian territory or outside it, when the offence has injured the interests of the State or of the nationals, unless it is otherwise agreed with the interested Party.
+5 - Relating to paragraph 2 of article 19, the Albanian Party declares that when a person asked to be surrendered is serving a sentence for another offence, he or she, in the event of extradition, shall be permitted to serve the full sentence in the requesting country.
+6 - Relating to paragraph 4, subparagraph a), of article 21, the Albanian Party declares that prior notification is not necessary in cases of transit by air that does not schedule a landing in albanian territory.
+The declarations contained in paragraphs 1, 4 and 5 are valid only in conditions of reciprocity.
+7 - Relating to paragraph 2 of article 12, the Albanian Party presents the reservation that the request for extradition must be accompanied always by the original text, or authenticated copy of the applied law.»
+Tradução
+«1 - Relativamente ao parágrafo 1 do artigo 2.º da Convenção, a Parte Albanesa não estabelece limite mínimo para a medida da pena de prisão para efeitos de extradição. A Parte Albanesa considera esta declaração apenas válida sob condição de reciprocidade.
+2 - Relativamente ao parágrafo 1, subparágrafo a), do artigo 6.º, a Parte Albanesa recusa a extradição dos seus nacionais, a menos que o contrário seja estabelecido nos acordos internacionais nos quais a Albânia é Parte Contratante.
+3 - Relativamente ao parágrafo 1 do artigo 7.º, a Parte Albanesa inclui no termo 'nacionais' as 'pessoas com dupla nacionalidade', no caso de uma delas ser a albanesa.
+4 - Relativamente ao parágrafo 1 do artigo 7.º, a Parte Albanesa não autoriza a extradição de pessoas que tenham cometido crimes dentro ou fora do território albanês, quando o crime tenha ofendido os interesses do Estado ou dos nacionais, a menos que o contrário tenha sido acordado com a Parte interessada.
+5 - Relativamente ao parágrafo 2 do artigo 19.º, a Parte Albanesa declara que, quando uma pessoa pedida para entrega está a cumprir uma pena por outro crime, será, na eventualidade de extradição, autorizada a cumprir a totalidade da pena no país requerente.
+6 - Relativamente ao parágrafo 4.º, subparágrafo a), do artigo 21.º, a Parte Albanesa declara que não é necessária notificação prévia nos casos de trânsito por ar que não preveja uma aterragem em território albanês.
+As declarações contidas nos parágrafos 1, 4 e 5 são válidas apenas sob condição de reciprocidade.
+7 - Relativamente ao parágrafo 2 do artigo 12.º, a Parte Albanesa apresenta uma reserva segundo a qual o pedido de extradição deve ser sempre acompanhado do texto original ou de cópia autenticada da lei aplicada.»
+A Convenção entrou em vigor para a Albânia em 17 de Agosto de 1998.
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 23/89, de 21 de Agosto, tendo depositado o seu instrumento de ratificação conforme aviso publicado no Diário da República, 1.ª série, n.º 76, de 31 de Março de 1990, com uma declaração e reservas.
+Departamento de Assuntos Jurídicos, 23 de Setembro de 1998. - O Director, José Maria Teixeira Leite Martins.
