@@ -1,0 +1,56 @@
+Portaria n.º 22409
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o seguinte:
+Nos termos do artigo 6.º do Decreto-Lei n.º 42559, de 3 de Outubro de 1959, reforçar com as quantias que se indicam as seguintes verbas da tabela de despesa do orçamento privativo das forças navais ultramarinas em vigor na província de Angola no ano económico de 1966:
+Despesas com o pessoal:
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 240000$00
+Artigo 1.º, n.º 2), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal de nomeação vitalícia além dos quadros - Pessoal em comissão além dos quadros por substituição antes do regresso» ... 60000$00
+Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Ajudas de custo fora da província» ... 20000$00
+Artigo 3.º, n.º 8) «Outras despesas com o pessoal - Subsídios para renda de casa» ... 25000$00
+Despesas com o material:
+Artigo 4.º, n.º 1), alínea a) «Aquisições de utilização permanente - Semoventes - Veículos com motor» ... 239000$00
+Artigo 4.º, n.º 2), alínea a) «Aquisições de utilização permanente - Móveis - Mobiliário, material de aquartelamento e outros artigos não especificados nas alíneas seguintes» ... 115000$00
+Artigo 4.º, n.º 2), alínea g) «Aquisições de utilização permanente - Móveis - Extintores e outros artigos para serviço de incêndios» ... 5000$00
+Artigo 5.º, n.º 1), alínea a) «Despesas de conservação e aproveitamento do material - Imóveis - Infra-estruturas» ... 25000$00
+Artigo 5.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - Semoventes - Veículos com motor» ... 45000$00
+Artigo 5.º, n.º 3) «Despesas de conservação e aproveitamento do material - Móveis» ... 60000$00
+Artigo 6.º, n.º 2), alínea a) «Material de consumo corrente - Artigos de expediente e diverso material não especificado - Para serviço geral» ... 25000$00
+Pagamento de serviços e diversos encargos:
+Artigo 7.º, n.º 1), alínea a) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização - Despesas das enfermarias e postos de socorros com tratamento de pessoal» ... 120000$00
+Artigo 7.º, n.º 1), alínea c) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização - Outras despesas com o tratamento de pessoal» ... 30000$00
+Artigo 7.º, n.º 3) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 300000$00
+Artigo 8.º, n.º 3), alínea a) «Despesas de comunicações - Transportes - De material» ... 90000$00
+Artigo 10.º, n.º 4), alínea a) «Encargos administrativos - Subsídios para funerais - A pagar na província» ... 6000$00
+Artigo 12.º «Abono de família» ... 350000$00
+... 1755000$00
+tomando como contrapartida disponibilidades apuradas nas seguintes verbas da mesma tabela de despesa:
+Despesas com o pessoal:
+Artigo 1.º, n.º 3) «Remunerações certas ao pessoal em exercício - Pessoal civil contratado» ... 50000$00
+Artigo 1.º, n.º 4), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal civil assalariado - Permanente» ... 25000$00
+Artigo 1.º, n.º 4), alínea b) «Remunerações certas ao pessoal em exercício - Pessoal civil assalariado - Eventual» ... 60000$00
+Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações de funções e serviços especiais - Pessoal militar» ... 20000$00
+Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação às praças» ... 170000$00
+Artigo 3.º, n.º 2), alínea a) «Outras despesas com o pessoal - fardamento, resguardos e calçado às praças - Das tabelas gerais» ... 200000$00
+Artigo 3.º, n.º 6) «Outras despesas com o pessoal - Subsídios de interrupção de viagem» ... 10000$00
+Artigo 3.º, n.º 7) «Outras despesas com o pessoal - Abonos do Decreto-Lei n.º 46451» ... 160000$00
+Despesas com o material:
+Artigo 4.º, n.º 2), alínea b) «Aquisições de utilização permanente - Móveis - Máquinas de escrever, de calcular, de contabilidade, duplicadores, ficheiros e correspondentes sobresselentes» ... 35000$00
+Artigo 4.º, n.º 2), alínea d) «Aquisições de utilização permanente - Móveis - Material sanitário e cirúrgico» ... 55000$00
+Artigo 4.º, n.º 2), alínea e) «Aquisições de utilização permanente - Móveis - Aparelhos, instrumentos e outro material de equipamento técnico» ... 5000$00
+Artigo 4.º, n.º 2), alínea f) «Aquisições de utilização permanente - Móveis - Máquinas, ferramentas e utensílios congéneres» ... 70000$00
+Artigo 4.º, n.º 3), alínea a) «Aquisições de utilização permanente - Material de defesa e segurança pública - Armamento, equipamento e outro material de guerra» ... 85000$00
+Artigo 5.º, n.º 2), alínea b) «Despesas de conservação e aproveitamento do material - Semoventes - Embarcações e outro material flutuante» ... 50000$00
+Artigo 5.º, n.º 4), alínea a) «Despesas de conservação e aproveitamento do material - Material de defesa e segurança pública. - Armamento, equipamento e outro material de guerra» ... 20000$00
+Artigo 6.º, n.º 3), alínea a) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados - Para usos industriais» ... 75000$00
+Artigo 6.º, n.º 4), alínea a) «Material de consumo corrente - Munições - De fogo real» ... 190000$00
+Artigo 6.º, n.º 4), alínea c) «Material de consumo corrente - Munições - Diversos explosivos» ... 35000$00
+Artigo 6.º, n.º 5) «Material de consumo corrente - Artigos de embalagem» ... 20000$00
+Artigo 6.º, n.º 6) «Material de consumo corrente - Combustíveis e lubrificantes» ... 170000$00
+Artigo 6.º, n.º 7) «Material de consumo corrente - Material para consumo de bordo» ... 20000$00
+Pagamento de serviços e diversos encargos:
+Artigo 7.º, n.º 2) «Despesas de higiene, saúde e conforto - Despesas gerais de desinfecção e profilaxia» ... 20000$00
+Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal» ... 200000$00
+Artigo 11.º, n.º 2) «Outros encargos - Gastos confidenciais e reservados» ... 10000$00
+... 1755000$00
+Presidência do Conselho, 31 de Dezembro de 1966. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo.
+
+Para ser publicada no Boletim Oficial de Angola. - J. da Silva Cunha.
