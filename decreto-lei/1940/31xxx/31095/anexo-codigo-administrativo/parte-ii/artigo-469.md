@@ -1,5 +1,3 @@
 # Artigo 469.º
 
-O provimento faz-se por nomeação.
-
-§ único. Quando a nomeação dê ingresso no quadro o provimento terá carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente ou demitido.
+§ único. Quando a nomeação dê ingresso no quadro a quem não seja funcionário ou, sendo-o, não tenha provimento definitivo, o provimento terá carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente ou exonerado.

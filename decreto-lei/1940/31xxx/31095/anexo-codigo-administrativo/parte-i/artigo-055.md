@@ -22,11 +22,11 @@ Carecem de aprovação do conselho municipal, para se tornarem executórias, as 
 
 10.º Que respeitem à criação ou adesão a uma federação de municípios, ou à sua dissolução e ao destino a dar aos respectivos bens.
 
-§ 1.º As posturas e regulamentos relativos a polícia sanitária e ao trânsito na via pública carecem de aprovação do Govêrno, pelos Ministérios do Interior e das Obras Públicas e Comunicações, respectivamente.
+§ 1.º As posturas e regulamentos relativos a polícia sanitária e ao trânsito na via pública carecem de aprovação do Governo, pelos Ministérios da Saúde e Assistência e das Comunicações, respectivamente.
 
-§ 2.º As deliberações que respeitem a municipalização de serviços, concessão de exclusivos por prazo superior a um ano e criação do novos partidos médicos, depois de aprovadas pelo conselho municipal, carecem de aprovação do Govêrno, pelo Ministério do Interior.
+§ 2.º As deliberações que respeitem à municipalização de serviços, concessão de exclusivos por prazo superior a um ano e criação, remodelação ou supressão de partidos, depois de aprovadas pelo conselho municipal, carecem de aprovação do Governo, pelo Ministério do Interior, ouvido o Ministério respectivo quando se trate de deliberações sobre partidos.
 
-§ 3.º As deliberações sôbre instalação de geradoras de energia eléctrica, sôbre municipalização ou concessão do serviço de distribuïção de energia eléctrica e aprovação das respectivas tarifas carecem ùnicamento de aprovação do Govêrno, pelo serviço que superintender nos serviços eléctricos nacionais.
+§ 3.º As deliberações sobre instalação de geradoras de energia eléctrica, sobre municipalização ou concessão do serviço de distribuição de energia eléctrica e aprovação das respectivas tarifas e sobre a dissolução de federação de municípios que tenha por objecto a produção, o transporte ou a distribuição de energia eléctrica, carecem ùnicamente de aprovação do Governo, pelo Ministério da Economia.
 
 § 4.º As deliberações sôbre empréstimos, depois de aprovadas pelo conselho municipal, carecem de aprovação do Govêrno, pelo Ministério das Finanças.
 
