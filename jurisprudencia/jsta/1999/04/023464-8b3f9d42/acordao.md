@@ -1,0 +1,51 @@
+# Acórdão do Supremo Tribunal Administrativo de 1999-04-14, processo 023464
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 023464
+
+**Data do Acordão:** 04/14/1999
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** BENJAMIM RODRIGUES
+
+**Descritores:** CONTRA-ORDENAÇÃO FISCAL ADUANEIRA; COIMA; RECURSO JUDICIAL; PRAZO SUBSTANTIVO; PRAZO DE CADUCIDADE; FÉRIAS; TRANSFERÊNCIA
+
+**Nº Convencional:** JSTA00051459
+
+**Nº do Documento:** SA219990414023464
+
+**Data de Entrada:** 01/13/1999
+
+**Recorrente:** CIGAR TRADING LDA
+
+**Recorrido 1:** FAZENDA PUBLICA
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 99
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TRIBUNAL FISCAL ADUANEIRO PORTO PER SALTUM.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR PROC ADUAN CONT - CONTRA-ORDENAÇÃO.
+
+**Legislação Nacional:** DL 433/82 DE 1982/10/27 NA REDACÇÃO DO DL 244/95 DE 1995/09/14 ART41 ART59 N3 ART60 ART62 N2 ART66 ART74 N4 ART78 N3.; DL 433/82 DE 1982/10/27 NA REDACÇÃO DO DL 356/89 DE 1989/10/17 ART59 N3.; RJIFA89 ART4 B.; CCIV66 ART279 E ART328.; CONST89 ART268 N4.; CPP87 ART437.; LPTA85 ART28 N2.; CPTRIB91 ART49 N2.; CPA91 ART72.; LOTJ87 ART10.; CONST97 ART110 ART111.
+
+**Jurisprudência Nacional:** AC STJ DE 1994/04/10 IN DR IS DE 1994/05/07.; AC STA PROC18073 DE 1994/06/29.; AC STA PROC19602 DE 1996/02/14.; AC STA PROC23467 DE 1999/03/17.; AC STA DE 1979/02/12 IN AD N215 PÁG990.; AC STA DE 1982/10/14 IN AD N253 PÁG29.; AC STA DE 1984/02/22 IN AD N273 PÁG960.; AC STA PROC10378 DE 1989/02/01.; AC STA PROC17472 DE 1995/04/26.; AC STA PROC19338 DE 1996/03/13.; AC STA PROC18627 DE 1990/06/12.; AC STA PROC22496 DE 1998/03/31.; AC STA PROC22245 DE 1998/06/25.; AC STA PROC23467 DE 1998/03/17.
+
+**Referência a Doutrina:** COSTA ANDRADE CONTRIBUTO PARA O CONCEITO DE CONTRA-ORDENAÇÃO RDE N6-7.; EDUARDO CORREIA DIREITO PENAL E DIREITO DE MERA ORDENAÇÃO SOCIAL BFDC ANOXLIX PÁG257-281.; FIGUEIREDO DIAS E OUTRO PROBLEMÁTICA GERAL DAS INFRACÇÕES ANTI-ECONÓMICAS SEPARATA BMJ N262.; FARIA COSTA A DISTINÇÃO ENTRE O ILÍCITO PENAL E O ILÍCITO DE MERA ORDENAÇÃO SOCIAL RDE ANOIX.; FARIA COSTA BFDC ANOXLII PÁG166.; ROGÉRIO SOARES DIREITO ADMINISTRATIVO 1997/1998 PÁG76.; MANUEL DE ANDRADE NOÇÕES ELEMENTARES DE PROCESSO CIVIL PÁG48.; ANSELMO DE CASTRO LIÇÕES DE PROCESSO CIVIL IIIV PÁG75.; ALBERTO DOS REIS COMENTÁRIO AO CÓDIGO DE PROCESSO CIVIL IIV PÁG14-57.; VAZ SERRA BMJ N107 PÁG214.; AFONSO QUEIRÓ RLJ ANO115 PÁG180-182.; Texto Integral
+
+## Sumário
+
+I - Aplica-se ao recurso judicial da decisão de aplicação de coima aduaneira o prazo estabelecido no n. 3 do art. 53 do DL n. 433/82, por força do disposto no art. 4 al. b) do RJIFA.
+
+II - A nova redacção dada ao art. 60 do DL n. 433/82 pelo DL n. 244/95 não converteu em prazo judicial o prazo nele referido, continuando o mesmo a ter natureza substantiva e de caducidade.
+
+III - O prazo de recurso judicial referido no n. 3 do art. 59 do DL n. 433/82, cujo termo ocorra durante as férias judiciais, transfere-se para o primeiro dia útil após elas, nos termos da al. e) do art. 279 do C. Civil e n. 2 do art. 60 daquele Decreto-Lei.
