@@ -1,0 +1,5 @@
+Aviso n.º 161/92
+Por ordem superior se torna público que, por nota de 13 de Julho de 1992, o Bureau Permanente da Conferência da Haia de Direito Internacional Privado informou que, nos termos do artigo 38.º, parágrafo 4.º, da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980, a Espanha declarou, em 27 de Abril de 1992, aceitar as adesões do Equador, do Belize e da Hungria.
+Nos termos do artigo 38.º, parágrafo 5.º, a Convenção entrou em vigor entre a Espanha e os referidos Estados aderentes em 1 de Julho de 1992.
+Portugal é Parte na mesma Convenção, que foi aprovada para ratificação pelo Decreto do Governo n.º 33/83, de 11 de Agosto, tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 20 de Agosto de 1992. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
