@@ -1,0 +1,6 @@
+Aviso
+Por ordem superior se torna público que se encontra concluído por ambas as Partes o processo de aprovação do Acordo Cultural e Científico entre a República Portuguesa e a República Popular do Benim, assinado em Cotonou em 26 de Julho de 1984 e aprovado pelo Decreto do Governo n.º 6/85, de 8 de Abril, publicado no Diário da República, 1.ª série, n.º 81, de 8 de Abril de 1985.
+Nos termos do artigo 15.º do Acordo, este entra em vigor 60 dias após as Partes se terem informado reciprocamente de que foram cumpridas todas as formalidades exigidas pelas respectivas constituições.
+A República Portuguesa informou a República Popular do Benim, através da nota da Embaixada de Portugal em Lagos de 10 de Janeiro de 1986, do cumprimento das formalidades exigidas pela Constituição Portuguesa.
+A República Popular do Benim informou a República Portuguesa, através nota verbal de 12 de Dezembro de 1989, que o Acordo tinha sido ratificado pelo Presidente da República Popular do Benim em 21 de Setembro de 1989, em conformidade com o artigo 27.º da Constituição do Benim.
+Direcção-Geral dos Negócios Político-Económicos, 21 de Agosto de 1990. - O Director de Serviços das Relações Culturais Bilaterais, José Manuel Santos Braga.
