@@ -1,0 +1,6 @@
+Despacho Normativo n.º 282/82
+O n.º 1 do artigo 33.º do Decreto-Lei n.º 310/82, de 3 de Agosto, concede aos médicos integrados nas carreiras estabilidade de trabalho, não podendo concorrer a quaisquer vagas na mesma carreira enquanto não tenham prestado, pelo menos, 1 ano de serviço no lugar em que anteriormente hajam sido colocados.
+Sucede que no actual processo de preenchimento dos lugares do quadro da carreira de clínica geral suscitou-se a questão de saber se seria legalmente possível a um médico colocado num determinado concelho candidatar-se, num concurso seguinte, a um outro lugar do mesmo grau, após ter pedido a exoneração do primeiro, podendo esta questão vir a levantar-se também nas restantes carreiras médicas.
+Ora, a aceitar-se tal entendimento, violava-se não só a letra do preceito, mas igualmente o espírito do diploma, sobretudo no que respeita à carreira de clínica geral.
+Nestes termos, ao abrigo do artigo 45.º do Decreto-Lei n.º 310/82, de 3 de Agosto, esclarece-se que o disposto no n.º 1 do artigo 33.º do mesmo diploma também se aplica aos casos em que os interessados hajam pedido a exoneração dos lugares em que anteriormente tenham sido colocados.
+Ministério dos Assuntos Sociais, 12 de Novembro de 1982. - Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde.
