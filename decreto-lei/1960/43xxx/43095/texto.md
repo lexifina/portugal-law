@@ -1,0 +1,8 @@
+Decreto-Lei n.º 43095
+Tendo-se suscitado dúvidas sobre o alcance do disposto no § 4.º do artigo 4.º do Decreto-Lei n.º 30710, de 29 de Agosto de 1940, reputa-se conveniente proceder à interpretação deste preceito de modo a tornar mais evidente ainda o pensamento que nele se pretendeu consagrar.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. O § 4.º do artigo 4.º do Decreto-Lei n.º 30710, de 29 de Agosto de 1940, passa a ter a seguinte redacção:
+§ 4.º Nos casos em que os acordos deixem de realizar-se, ou não possam ser revistos em ordem à sua actualização, por omissão dos grémios da lavoura ou dos produtores agrícolas, a classificação de sócios contribuintes e a fixação das quotas correspondentes serão feitas pelo Instituto Nacional do Trabalho e Previdência, que terá em atenção o disposto neste artigo.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 29 de Julho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
