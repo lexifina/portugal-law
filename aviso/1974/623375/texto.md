@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Secretariado Permanente da Conferência da Haia de Direito Internacional Privado, a Autoridade Central prevista no artigo 2.º da Convenção Relativa à Citação e à Notificação no Estrangeiro de Actos Judiciais e Extrajudiciais em Matérias Civil e Comercial, assinada naquela cidade em 15 de Novembro de 1965, deixou de ser, em Gibraltar, o vice-governador (The Deputy Governor), passando a exercer as mesmas funções o chefe da secretaria do Supremo Tribunal (The Registrar of the Supreme Court).
+Secretaria-Geral do Ministério, 6 de Abril de 1974. - O Secretário-Geral, José Calvet de Magalhães.
