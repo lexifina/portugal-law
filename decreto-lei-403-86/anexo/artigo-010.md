@@ -6,7 +6,7 @@ Estão ainda sujeitos a registo:
 
 a) O mandato comercial escrito, suas alterações e extinção;
 
-b) A designação do gestor judicial, quando os poderes conferidos e os suspensos, restringidos ou condicionados aos órgãos sociais devam ser registados;
+b) (Revogada.)
 
 c) A criação, a alteração e o encerramento de representações permanentes de sociedades, cooperativas, agrupamentos complementares de empresas e agrupamentos europeus de interesse económico com sede em Portugal ou no estrangeiro, bem como a designação, poderes e cessação de funções dos respectivos representantes;
 

@@ -20,18 +20,14 @@ g) As providências cautelares não especificadas requeridas com referência às
 
 h) As decisões finais, com trânsito em julgado, proferidas nas acções e procedimentos cautelares referidos nas alíneas anteriores;
 
-i) As acções especiais de recuperação da empresa e protecção dos credores;
+i) As sentenças de declaração de insolvência de comerciantes individuais, de sociedades comerciais, de sociedades civis sob forma comercial, de cooperativas, de agrupamentos complementares de empresas, de agrupamentos europeus de interesse económico e de estabelecimentos individuais de responsabilidade limitada, e as de indeferimento do respectivo pedido, nos casos de designação prévia de administrador judicial provisório, bem como o trânsito em julgado das referidas sentenças;
 
-j) As deliberações das assembleias de credores de sociedades, cooperativas e agrupamentos que hajam aprovado, no respectivo processo judicial, a concordata, o acordo de credores ou a gestão controlada, bem como as respectivas sentenças de homologação ou rejeição, com trânsito em julgado.
+j) As sentenças, com trânsito em julgado, de inabilitação e de inibição de comerciantes individuais para o exercício do comércio e de determinados cargos, bem como as decisões de nomeação e de destituição do curador do inabilitado;
 
-i) A acção especial de recuperação da empresa, bem como o despacho de prosseguimento da acção legalmente sujeito a registo;
+l) Os despachos de nomeação e de destituição do administrador judicial e do administrador judicial provisório da insolvência, de atribuição ao devedor da administração da massa insolvente, assim como de proibição da prática de certos actos sem o consentimento do administrador da insolvência e os despachos que ponham termo a essa administração;
 
-j) As deliberações da assembleia de credores que hajam aprovado ou rejeitado as providências de recuperação da empresa, bem como as respectivas decisões de homologação ou não homologação;
+m) Os despachos, com trânsito em julgado, de exoneração do passivo restante de comerciantes individuais, assim como os despachos inicial e de cessação antecipada do respectivo procedimento e de revogação dessa exoneração;
 
-l) As decisões que, no decurso da acção especial de recuperação da empresa, declararem caducos os efeitos do despacho de prosseguimento da acção;
+n) As decisões judiciais de encerramento do processo de insolvência;
 
-m) As decisões que ponham termo à acção de recuperação da empresa;
-
-n) As sentenças declaratórias da falência de comerciantes individuais e de sociedades comerciais, bem como da insolvência de cooperativas, de agrupamentos complementares de empresas e de agrupamentos europeus de interesse económico e o seu trânsito em julgado;
-
-o) Os despachos, com trânsito em julgado, do levantamento da inibição e reabilitação do falido ou insolvente.
+o) As decisões judiciais de confirmação do fim do período de fiscalização incidente sobre a execução de plano de insolvência.

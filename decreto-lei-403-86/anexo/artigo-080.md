@@ -2,7 +2,7 @@
 
 ### Suprimento em caso de arresto penhora ou apreensão
 
-1 - Havendo registo provisório de arresto, penhora ou apreensão, em processo de falência ou insolvência, de quotas ou de direitos relativos a partes sociais inscritas em nome de pessoa diversa do requerido ou executado, o juiz deve ordenar a citação do titular inscrito para declarar, no prazo de dez dias, se a quota ou parte social lhe pertence.
+1 - Havendo registo provisório de arresto, penhora ou apreensão em processo de insolvência de quotas ou de direitos relativos a partes sociais inscritas em nome de pessoa diversa do requerido, executado, ou insolvente, o juiz deve ordenar a citação do titular inscrito para declarar, no prazo de 10 dias, se a quota ou parte social lhe pertence.
 
 2 - No caso de ausência ou falecimento do titular da inscrição, far-se-á a citação deste ou dos seus herdeiros, independentemente de habilitação.
 
