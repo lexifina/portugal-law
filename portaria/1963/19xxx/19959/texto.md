@@ -1,0 +1,28 @@
+Portaria n.º 19959
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+1.º Nos termos do § 1.º do artigo 4.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, reforçar com a importância de 3000$00 a verba do artigo 8.º, n.º 3), alínea a) «Pagamento de serviços - Despesas de comunicações - Transportes - De pessoal», da tabela de despesa do orçamento privativo do Conselho Ultramarino em vigor, tomando como contrapartida igual quantia a sair das disponibilidades existentes na verba do artigo 2.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações acidentais - Gratificações - A 13 vogais (3 eleitos e 10 nomeados)», da referida tabela de despesa.
+2.º Nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial de 375000$00 destinado a reforçar as seguintes verbas da tabela de despesa do orçamento privativo do Hospital do Ultramar para o corrente ano:
+Despesas com o material:
+Artigo 5.º «Aquisições de utilização permanente»:
+N.º 2) «Aquisição de móveis»:
+Alínea c) «Mobiliário» ... 50000$00
+Alínea d) «Outros móveis» ... 25000$00
+Artigo 6.º «Despesas de conservação e aproveitamento do material»:
+N.º 1) «De imóveis»:
+Alínea b) «Prédios urbanos, incluindo reparações nos edifícios, canalização de água, instalação eléctrica, etc.» ... 40000$00
+N.º 3) «De móveis»:
+Alínea a) «Conserto de máquinas, móveis, aparelhos, instrumentos e outros» ... 30000$00
+Pagamento de serviços:
+Artigo 8.º «Despesas de higiene, saúde e conforto»:
+N.º 3) «Luz, aquecimento, água, lavagem e outras despesas» ... 30000$00
+N.º 4) «Medicamentos, apósitos, vacinas, drogas, instrumentos cirúrgicos, utensílios de farmácia e aparelhos de laboratório, material clínico destinado aos serviços médicos especializados» ... 200000$00
+... 375000$00
+tomando como contrapartida as disponibilidades existentes nas seguintes verbas da mesma tabela de despesa:
+Despesas com o pessoal:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+N.º 1) «Pessoal dos quadros aprovados por lei»:
+Alínea a) «Vencimentos» ... 305000$00
+N.º 2) «Pessoal contratado - Quadro de cirurgiões e especialistas».
+Alínea b) «Gratificações» ... 70000$00
+... 375000$00
+Ministério do Ultramar, 22 de Julho de 1963. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
