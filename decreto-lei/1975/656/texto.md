@@ -1,0 +1,22 @@
+Decreto-Lei n.º 656/75
+de 21 de Novembro
+Considerando a necessidade de pôr fim a situações militares irregulares em que muitos portugueses se constituíram, por razões ideológicas e outras, em consequência do regime político anterior ao Movimento de 25 de Abril de 1974;
+Usando dos poderes conferidos pelo artigo 6.º da Lei n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º - 1. Todo o indivíduo que se tenha constituído em situação militar irregular até ao dia 2 de Maio de 1974, por não ter cumprido as obrigações relativas ao recrutamento geral, fica sujeito ao seguinte regime de cumprimento das obrigações militares:
+a) Se pertencer a contingente a aguardar incorporação, cumprirá o tempo normal de serviço efectivo;
+b) Se pertencer a contingente cuja classe se encontre em período de instrução ou a cumprir o período de serviço nas fileiras, fica obrigado ao cumprimento integral do tempo normal de serviço efectivo;
+c) Se pertencer a contingente cuja classe já se encontre na disponibilidade, será alistado na reserva territorial.
+2. Os indivíduos constituídos em situação militar irregular nas condições do n.º 1, e que residam no estrangeiro, podem requerer a concessão de licença de ausência definitiva do País e a dispensa da classificação, sendo alistados na reserva territorial à data da passagem à disponibilidade do contingente a que pertencerem.
+Art. 2.º Os indivíduos que se tenham constituído em situação de deserção até ao dia 9 de Outubro de 1974 (ou data posterior, se vier a ser decretada nova amnistia) ficarão sujeitos, consoante os casos, a uma das seguintes medidas:
+a) Cumprimento integral de tempo de serviço efectivo, se a sua classe estiver no activo;
+b) Passagem à situação de disponibilidade, se, tendo cumprido o período de instrução, pertencerem a classes já nessa situação;
+c) Alistamento na reserva territorial, se não tiverem terminado a instrução, mas pertencerem a contingentes cujas classes já se encontrem na situação de disponibilidade.
+Art. 3.º O alistamento na reserva territorial ou a passagem à situação de disponibilidade, nas condições previstas nos artigos anteriores, obriga ao pagamento de taxa militar.
+§ único. A anuidade da taxa militar será de 2400$00 nos casos previstos no artigo 1.º, n.º 1, alínea c), e n.º 2, bem como no artigo 2.º, alínea c), e de 1620$00 no previsto na alínea b) do artigo 2.º
+As anuidades serão pagas durante um período de 25 anos.
+Art. 4.º As disposições dos artigos 1.º e 2.º vigoram durante o período de trezentos e sessenta e cinco dias, a contar da data da publicação deste diploma, e as dúvidas sobre a matéria que nelas se contém serão resolvidas por despacho do Chefe do Estado-Maior-General das Forças Armadas.
+Art. 5.º Este diploma entra imediatamente em vigor.
+Visto e aprovado em Conselho da Revolução.
+Promulgado em 14 de Novembro de 1975.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
