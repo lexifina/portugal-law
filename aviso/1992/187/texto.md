@@ -1,0 +1,3 @@
+Aviso n.º 187/92
+Por ordem superior se torna público que a Polónia depositou, junto da Secretária-Geral do Conselho da Europa, a 14 de Setembro de 1992, o instrumento de ratificação da Convenção Europeia no Domínio da Informação sobre o Direito Estrangeiro, aberta à assinatura dos Estados membros em Londres a 7 de Junho de 1968, bem como do seu Protocolo Adicional, aberto à assinatura dos Estados membros em Estrasburgo a 15 de Março de 1978.
+Direcção-Geral dos Negócios Político-Económicos, 28 de Outubro de 1992. - O Director de Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
