@@ -1,0 +1,33 @@
+Portaria n.º 885/90
+de 21 de Setembro
+Considerando o disposto no Decreto-Lei n.º 9/90, de 4 de Janeiro;
+Sob proposta da comissão instaladora do Instituto Politécnico do Porto e da comissão de instalação da sua Escola Superior de Estudos Industriais e de Gestão;
+Ao abrigo do disposto no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+1.º
+Criação
+O Instituto Politécnico do Porto, através da Escola Superior de Estudos Industriais e de Gestão, confere o grau de bacharel em Contabilidade e Gestão, ministrando, em consequência, o respectivo curso.
+2.º
+Plano de estudos
+O plano de estudos do curso de bacharelato a que se refere o n.º 1.º é o constante do anexo à presente portaria.
+3.º
+Condições para a obtenção do grau
+É condição para a obtenção do grau de bacharel em Contabilidade e Gestão a aprovação na totalidade das disciplinas que integram o respectivo plano de estudos.
+4.º
+Classificação final
+1 - A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o plano de estudos.
+2 - Os coeficientes de ponderação são fixados pelo conselho académico.
+5.º
+Conselho académico
+Até à entrada em funcionamento do conselho académico, as funções que lhe são cometidas pela presente portaria serão asseguradas pela comissão de instalação.
+6.º
+Entrada em funcionamento
+O curso entrará em funcionamento progressivamente, um ano curricular em cada ano lectivo, a partir do ano lectivo de 1990-1991.
+7.º
+Localidades onde será ministrado
+O curso será desde já ministrado nas localidades de Póvoa de Varzim e de Vila do Conde.
+Ministério da Educação.
+Assinada em 22 de Agosto de 1990.
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
+
+(ver documento original)
