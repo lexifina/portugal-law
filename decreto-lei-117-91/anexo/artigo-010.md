@@ -1,0 +1,9 @@
+## Secção II
+
+## Conselho de administração
+
+# Artigo 10.º
+
+1 - O conselho de administração é composto por cinco administradores.
+
+2 - O presidente do conselho de administração tem voto de qualidade.
