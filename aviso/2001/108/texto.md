@@ -1,0 +1,5 @@
+Aviso n.º 108/2001
+Por ordem superior se torna público que o Governo da República Portuguesa depositou, em 13 de Agosto de 2001, junto do Secretariado do Conselho da Europa, os instrumentos de ratificação relativos à Convenção sobre Biomedicina, assinada em 4 de Abril de 1997, em Oviedo, e ao Protocolo Adicional Que Proíbe a Clonagem de Seres Humanos, assinado em 12 de Janeiro de 1998, em Paris.
+A Convenção sobre Biomedicina e o Protocolo Adicional Que Proíbe a Clonagem de Seres Humanos foram aprovados para ratificação pela Resolução da Assembleia da República n.º 1/2001 e ratificados pelo Decreto do Presidente da República n.º 1/2001, publicados no Diário da República, 1.ª série-A, n.º 2, de 3 de Janeiro de 2001.
+Nos termos do n.º 4 do artigo 33.º da Convenção e do n.º 2 do artigo 5.º do respectivo Protocolo Adicional, entrarão em vigor no 1.º dia do mês seguinte ao termo de um prazo de três meses após a data do depósito do instrumento de ratificação, aceitação ou aprovação.
+Direcção de Serviços das Organizações Políticas Internacionais, 12 de Setembro de 2001. - O Director de Serviços, Rui Filipe Monteiro Belo Macieira.
