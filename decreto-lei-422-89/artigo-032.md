@@ -6,7 +6,7 @@
 
 ### Salas de jogos
 
-1 - Os jogos de fortuna ou de azar são explorados em salas especialmente concebidas para a respectiva prática e actividades inerentes, devendo as salas de jogos tradicionais ser construídas por forma que o que nelas se passe não possa ser visto do seu exterior.
+1 - Os jogos de fortuna ou azar são explorados em salas especialmente concebidas para a respectiva prática e actividades inerentes.
 
 2 - A Inspecção-Geral de Jogos poderá autorizar:
 
