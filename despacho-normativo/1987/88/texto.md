@@ -1,0 +1,5 @@
+Despacho Normativo n.º 88/87
+Considerando que os conteúdos líquidos das embalagens dos produtos fitofarmacêuticos com base na substância activa, teor e formulação a seguir indicados, existentes no mercado, não se adaptam à sua utilização em hortas e jardins familiares:
+Nestes termos:
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 2 «Produtos fitofarmacêuticos», aprovada pelo Despacho Normativo n.º 346/80, publicado no Diário da República, 1.ª série, n.º 250, de 28 de Outubro de 1980, é autorizado o lançamento no mercado da embalagem com o conteúdo líquido de 200 ml para os produtos fitofarmacêuticos destinados a hortas e jardins familiares, com base em glifosato (sob a forma de sal de isopropilamina), formulado em solução aquosa, com o teor de 360 g de equivalente ácido/litro de substância activa.
+Secretarias de Estado da Agricultura e do Comércio Interno, 20 de Outubro de 1987. - O Secretário de Estado da Agricultura, Álvaro dos Santos Amaro. - O Secretário de Estado do Comércio Interno, Jorge Manuel Mendes Antas.
