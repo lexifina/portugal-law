@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=htpYpETdXfgHmO4bgl5XKGQk%2bkZ1UWePwKPL0a952OEb3q68QQJu%2fuE3NuR8L9cT16ct5X3RKqJkceDCyhfVGNPxhHXgbN1eGmi%2f%2fdU0g60yGc2cs%2bn1DMAEwQhj%2bKKB5yX47cODyxeVMUfaXI003Z9keT2kp2rW%2f7kxaUXxrVSf%2brEumAdcCbsQWmtnV66GATPJkIrBDauZqW%2fTWFG8va1dk%2bkmTLKSlM5McQDTmE0NcJE1JnQKMHMv4M0dnjHF6CV6z0vn0bWDxqqYFeDaU5FrwkU826iJw3qNEXisf524qng2dAL%2fTUTvJ5%2b5vdrQNfCO0dMi3U4dP2xTk2nscBJCzFAYe7g9Oj019EJl5HstUW53s7KuzZRGevOeN9LIKt96NeIqRpBfgUg0UQzT5g%3d%3d&fich=RequerimentosVII_json.txt&Inline=true",
+  "ficheiro_sha256": "c4242ebf0e6e244b5787c9940684dff06969f806e8cf9a27eebd15d714e35117",
+  "legislatura": "VII",
+  "id": "17900",
+  "tipo": "Requerimento",
+  "numero": "662",
+  "data_registo": "1998-05-27",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "PREJUIZOS SOFRIDOS PELOS AGRICULTORES EM RESULTADO DO FORTE TEMPORAL QUE SE ABATEU SOBRE OS CONCELHOS DO SUL DO DISTRITO DE AVEIRO",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "1351",
+        "nome": "Manuel Oliveira"
+      }
+    ],
+    "DataEnvio": "1998-05-30",
+    "Destinatarios": [
+      {
+        "dataEnvio": "1998-05-30",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministério da Agricultura, Desenvolvimento Rural e Pescas",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": null,
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "1998-05-27",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d314e4d4c7a64684e5745344d54677a4c546b33596a45744e4459315a5330354d7a686a4c54646a4d6a4d304e7a59774d4455354e5335775a47593d&fich=7a5a8183-97b1-465e-938c-7c2347600595.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "17900",
+    "Legislatura": "VII",
+    "Nr": "662",
+    "Observacoes": "Existem ainda outros autores.",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "31161",
+        "obs": "118-(18)",
+        "pag": [
+          "118-(18)-118-(18)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "1998",
+        "pubLeg": "VII",
+        "pubNr": "23",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/03/023S1/1998-05-30/118-(18)?pgs=118-(18)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": [
+      {
+        "dataResposta": null,
+        "docRemetida": null,
+        "entidade": "Ministério da Agricultura, Desenvolvimento Rural e Pescas",
+        "ficheiro": "",
+        "ficheiroComTipo": null,
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "165796",
+            "obs": "78-(15)",
+            "pag": [
+              "78-(15)-78-(15)"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "1999",
+            "pubLeg": "VII",
+            "pubNr": "15",
+            "pubSL": "4",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/04/015S1/1999-01-30/78-(15)?pgs=78-(15)&org=PLC"
+          }
+        ]
+      }
+    ],
+    "Sessao": "3",
+    "Tipo": "Requerimento"
+  }
+}
