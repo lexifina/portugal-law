@@ -1,0 +1,3 @@
+Portaria n.º 17662
+Manda o Governo da República Portuguesa, pelo Ministro da Justiça, que, nos termos do § único do artigo 82.º da Lei n.º 2049, de 6 de Agosto de 1951, seja substituído o lugar de terceiro-ajudante do quadro do pessoal auxiliar da Conservatória do Registo Predial de Leiria por um de segundo-ajudante e aumentados com um lugar de copista os quadros do pessoal auxiliar das Conservatórias do Registo Predial de Mafra e Peso da Régua e serviços anexados de registo predial e civil de Vila Pouca de Aguiar e predial e do notariado de Vinhais.
+Ministério da Justiça, 7 de Abril de 1960. - O Ministro da Justiça, João de Matos Antunes Varela.
