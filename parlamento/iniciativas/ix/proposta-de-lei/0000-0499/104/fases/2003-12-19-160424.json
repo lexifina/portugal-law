@@ -1,0 +1,501 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "104",
+    "id": "19941",
+    "titulo": "Estabelece o regime de autorização a que estão sujeitas a instalação e a modificação de estabelecimentos de comércio a retalho, de comércio por grosso em livre serviço e a instalação de conjuntos comerciais."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2003-12-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2911",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2003-12-19",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-12-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  ECONOMIA, DA INOVAÇÃO E DO DESENVOLVIMENTO",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Tavares"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147794",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1939-1940",
+                  "1942-1943",
+                  "1949-1950"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-20",
+                "pubLeg": "IX",
+                "pubNr": "34",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/034/2003-12-20/1939?pgs=1939-1940,1942-1943,1949-1950&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de autorização a que estão sujeitas a instalação e a modificação de estabelecimentos de comércio a retalho, de comércio por grosso em livre serviço e a instalação de conjuntos comerciais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2015",
+                "nome": "Almeida Henriques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147795",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1940-1940"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-20",
+                "pubLeg": "IX",
+                "pubNr": "34",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/034/2003-12-20/1940?pgs=1940&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de autorização a que estão sujeitas a instalação e a modificação de estabelecimentos de comércio a retalho, de comércio por grosso em livre serviço e a instalação de conjuntos comerciais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147796",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1941-1941"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-20",
+                "pubLeg": "IX",
+                "pubNr": "34",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/034/2003-12-20/1941?pgs=1941&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de autorização a que estão sujeitas a instalação e a modificação de estabelecimentos de comércio a retalho, de comércio por grosso em livre serviço e a instalação de conjuntos comerciais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147797",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1941-1942"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-20",
+                "pubLeg": "IX",
+                "pubNr": "34",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/034/2003-12-20/1941?pgs=1941-1942&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de autorização a que estão sujeitas a instalação e a modificação de estabelecimentos de comércio a retalho, de comércio por grosso em livre serviço e a instalação de conjuntos comerciais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2015",
+                "nome": "Almeida Henriques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147798",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1943-1945"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-20",
+                "pubLeg": "IX",
+                "pubNr": "34",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/034/2003-12-20/1943?pgs=1943-1945&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de autorização a que estão sujeitas a instalação e a modificação de estabelecimentos de comércio a retalho, de comércio por grosso em livre serviço e a instalação de conjuntos comerciais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1949",
+                "nome": "Maximiano Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147799",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1945-1947"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-20",
+                "pubLeg": "IX",
+                "pubNr": "34",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/034/2003-12-20/1945?pgs=1945-1947&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de autorização a que estão sujeitas a instalação e a modificação de estabelecimentos de comércio a retalho, de comércio por grosso em livre serviço e a instalação de conjuntos comerciais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147800",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1947-1948"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-20",
+                "pubLeg": "IX",
+                "pubNr": "34",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/034/2003-12-20/1947?pgs=1947-1948&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de autorização a que estão sujeitas a instalação e a modificação de estabelecimentos de comércio a retalho, de comércio por grosso em livre serviço e a instalação de conjuntos comerciais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147801",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1948-1949"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-20",
+                "pubLeg": "IX",
+                "pubNr": "34",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/034/2003-12-20/1948?pgs=1948-1949&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de autorização a que estão sujeitas a instalação e a modificação de estabelecimentos de comércio a retalho, de comércio por grosso em livre serviço e a instalação de conjuntos comerciais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1949",
+                "nome": "Maximiano Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "147802",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1950-1950"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-12-20",
+                "pubLeg": "IX",
+                "pubNr": "34",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/034/2003-12-20/1950?pgs=1950&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de autorização a que estão sujeitas a instalação e a modificação de estabelecimentos de comércio a retalho, de comércio por grosso em livre serviço e a instalação de conjuntos comerciais",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "160424",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2911",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-12-20",
+        "pubLeg": "IX",
+        "pubNr": "34",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/034/2003-12-20?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
