@@ -1,0 +1,16 @@
+Portaria n.º 18981
+Convindo constituir, na dependência do Comando da Zona Aérea de Cabo Verde e Guiné, nos termos do disposto no Decreto-Lei n.º 41750, de 23 de Julho de 1958, uma delegação da Direcção do Serviço de Intendência e Contabilidade:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáutica, que se observe o seguinte:
+Nos termos dos artigos 1.º, 2.º e 3.º do Decreto-Lei n.º 41750, de 23 de Julho de 1958, é constituída na 1.ª região aérea e na dependência do Comando da Zona Aérea de Cabo Verde e Guiné uma delegação da Direcção do Serviço de Intendência e Contabilidade, com o quadro do pessoal constante do mapa anexo.
+Secretaria de Estado da Aeronáutica, 24 de Janeiro de 1962. - O Secretário de Estado da Aeronáutica, Kaulza Oliveira de Arriaga.
+
+Para ser publicada no Boletim Oficial de Cabo Verde e Guiné. - A. Moreira.
+
+Delegação da Direcção do Serviço de Intendência e Contabilidade
+A) Oficiais e oficiais milicianos
+(ver documento original)
+B) Praças não readmitidas
+(ver documento original)
+C) Pessoal civil contratado
+(ver documento original)
+Secretaria de Estado da Aeronáutica, 24 de Janeiro de 1962. - O Secretário de Estado da Aeronáutica, Kaulza Oliveira de Arriaga.
