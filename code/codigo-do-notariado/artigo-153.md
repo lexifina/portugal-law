@@ -14,6 +14,6 @@
 
 4 - Os reconhecimentos simples são sempre presenciais; os reconhecimentos com menções especiais podem ser presenciais ou por semelhança.
 
-5 - Designa-se por presencial o reconhecimento da letra e assinatura, ou só da assinatura, em documentos escritos e assinados ou apenas assinados, na presença dos notários, ou o reconhecimento que é realizado estando o signatário presente ao acto.
+5 - Designa-se presencial o reconhecimento da letra e assinatura, ou só da assinatura, em documentos escritos e assinados ou apenas assinados, na presença dos notários, ou o reconhecimento que é realizado estando o signatário presente ao acto.
 
-6 - Designa-se por semelhança o reconhecimento com a menção especial relativa à qualidade de representante do signatário feito por simples confronto da assinatura deste com a assinatura aposta no bilhete de identidade do documento equivalente emitido pela autoridade competente de um dos países da União Europeia, ou no passaporte ou com a respectiva reprodução constante de pública-forma extraída por fotocópia.
+6 - Designa-se por semelhança o reconhecimento com a menção especial relativa à qualidade de representante do signatário feito por simples confronto da assinatura deste com a assinatura aposta no bilhete de identidade ou documento equivalente emitidos pela autoridade competente de um dos países da União Europeia ou no passaporte.
