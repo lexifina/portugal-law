@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1922/07/14200/07360736.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1922-07-14",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "6b951d7b2f07d33d17ec01261e57dacc452666a4e0723406dd9de82bdd09b8f9",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 96.6,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "2a5a2caded18773fa50ef42a4941ac7e679be20faea8125553f3e4d191c05f6b",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 164
 }
