@@ -1,0 +1,33 @@
+Lei n.º 27/95
+de 18 de Agosto
+Altera a Lei n.º 72/93, de 30 de Novembro (financiamento dos partidos políticos e das campanhas eleitorais)
+A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 167.º, alínea h), e 169.º, n.º 3, da Constituição, o seguinte:
+Artigo único. Os artigos 10.º e 13.º da Lei n.º 72/93, de 30 de Novembro, passam a ter a seguinte redacção:
+Artigo 10.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+a) ...
+b) ...
+c) ...
+d) ...
+4 - ...
+5 - Constam de listas próprias, exaustivamente discriminadas, anexas à contabilidade dos partidos:
+a) Os donativos concedidos por pessoas colectivas;
+b) O património imobiliário dos partidos, sem prejuízo do disposto na alínea a) do n.º 3.
+Artigo 13.º
+[...]
+1 - ...
+2 - ...
+3 - O acórdão do Tribunal Constitucional é enviado, conjuntamente com as listas referidas no n.º 5 do artigo 10.º, para publicação gratuita no Diário da República.
+4 - Para os efeitos previstos neste artigo, o Tribunal Constitucional poderá requisitar ou destacar técnicos qualificados de quaisquer serviços públicos ou recorrer, mediante contrato, aos serviços de empresas de auditoria ou a revisores oficiais de contas.
+5 - Os contratos referidos no número anterior podem ser celebrados por ajuste directo e a sua eficácia depende unicamente da respectiva aprovação pelo plenário do Tribunal.
+6 - Sem prejuízo do disposto no n.º 4, o Tribunal Constitucional poderá, ainda, vir a ser dotado dos meios técnicos e recursos humanos próprios necessários para exercer as funções que lhe são cometidas.
+Aprovada em 7 de Junho de 1995.
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
+Promulgada em 26 de Julho de 1995.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendada em 28 de Julho de 1995.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
