@@ -1,0 +1,7 @@
+Despacho Normativo n.º 5/87
+Considerando que o artigo 9.º da lei do orçamento - Lei n.º 9/86, de 30 de Abril - prevê um conjunto de medidas tendentes ao controle de efectivos e à racionalização dos recursos humanos na Administração Pública;
+Considerando que através do mecanismo da concessão de reformas antecipadas se deverá proporcionar o desbloqueamento de situações de ineficácia dos serviços, fomentando uma maior adaptabilidade à introdução de mais modernas tecnologias, aumentando a produtividade e melhorando a qualidade dos produtos ou serviços prestados;
+Tendo em conta a situação específica do pessoal civil dos serviços departamentais das Forças Armadas e dada a inexistência de excedentes de pessoal, que não se compadece, por razões de eficácia operacional, com a eventual saída imediata e sem substituição dos funcionários potencialmente abrangidos pelo referido dispositivo legal;
+Sob proposta do Conselho de Chefes de Estado-Maior:
+Reconhece-se, nos termos do n.º 2 do artigo 13.º do Decreto-Lei n.º 118-A/86, de 27 de Maio, a imprescindibilidade de todos os lugares dos quadros de pessoal civil dos serviços departamentais das Forças Armadas que venham a vagar por força do deferimento dos requerimentos de aposentação apresentados ao abrigo do artigo 9.º da Lei n.º 9/86, de 30 de Abril.
+Ministérios da Defesa Nacional e das Finanças, 24 de Dezembro de 1986. - O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida. - Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento.
