@@ -1,3 +1,7 @@
+## Capítulo II
+
+## Dos crimes contra a humanidade
+
 # Artigo 240.º
 
 ### Discriminação racial ou religiosa
