@@ -1,0 +1,9 @@
+Decreto-Lei n.º 43204
+A lotação das escolas do magistério primário fixada pelo Decreto-Lei n.º 32243, de 5 de Setembro de 1942, continua a não bastar às actuais necessidades dos quadros docentes do ensino primário, agravados agora com a obrigatoriedade da frequência até à aprovação no exame da 4.ª classe.
+Torna-se, pois, indispensável assegurar o aumento do número de candidatos à frequência das escolas do magistério primário.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É autorizado o Ministério da Educação Nacional a elevar no ano lectivo de 1960-1961, de harmonia com as necessidades do ensino, o número de alunos previsto no artigo 9.º do Decreto-Lei n.º 32243, de 5 de Setembro de 1942, e a nomear em comissão, nesse ano e no imediato, o pessoal docente indispensável, de modo que não exceda um professor por cada turma que venha a funcionar a mais em cada escola.
+§ único. Os encargos resultantes da aplicação deste diploma serão custeados, no corrente ano, pela dotação do capítulo 6.º, artigo 861.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei - Para satisfação dos encargos resultantes da execução do Decreto-Lei n.º 42624», do orçamento em vigor.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 7 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
