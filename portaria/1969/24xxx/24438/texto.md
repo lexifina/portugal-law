@@ -1,0 +1,20 @@
+Portaria n.º 24438
+Ouvido o Governo-Geral de Moçambique:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 19.º do Decreto de 20 de Setembro de 1906, que regula a pesquisa e a lavra de minas das províncias ultramarinas, e em harmonia com o disposto na base XI da Lei Orgânica do Ultramar Português, conceder à Companhia do Urânio de Moçambique uma licença de exclusivo de pesquisas para minérios de ferro, numa determinada área da província de Moçambique, cujos limites, termos e condições são definidos nos seguintes números:
+1.º A licença é válida para a área da província de Moçambique a seguir delimitada:
+Ponto 1 - Paralelo 15º 36' sul; meridiano 33º 32' este.
+Ponto 2 - Paralelo 15º 36' sul; meridiano 34º 15' este.
+Ponto 3 - Paralelo 16º 15' sul; meridiano 34º 15' este.
+Ponto 4 - Paralelo 16º 15' sul; meridiano 33º 32' este.
+2.º A Companhia fica sujeita à lei geral e em especial ao Decreto de 20 de Setembro de 1906 e disposições complementares e também às disposições legais que venham a ser promulgadas e aos regulamentos que vigorem ou venham a vigorar relativamente à indústria extractiva.
+3.º A licença é válida por um período de dois anos, renovável por mais dois, ano a ano, no caso de a Companhia ter cumprido todas as obrigações legais e as que resultam das disposições desta portaria, mediante requerimento fundamentado que apresente.
+4.º A Companhia obriga-se a despender durante os primeiros dois anos a importância mínima de 8000 contos em primeiros investimentos, trabalhos e estudos encomendados a terceiros e despesas anuais correntes com mão-de-obra, combustíveis, peças de reserva, conservação de equipamento e outras.
+5.º Durante a prorrogação a que se refere o n.º 3.º desta portaria as despesas mínimas obrigatórias anuais serão de 2000 contos.
+6.º Durante o primeiro ano de prorrogação, se for caso disso, a Companhia só poderá reter 50 por cento da área referida no n.º 1.º desta portaria e no segundo ano da prorrogação só reterá 25 por cento da mesma área inicial. As áreas retidas serão delimitadas à escolha da Companhia.
+7.º Dentro de seis meses, a contar da data da publicação desta portaria no Diário do Governo, a Companhia terá de depositar nos cofres do Estado, à ordem do Ministro do Ultramar, a quantia de 200 contos como caução reembolsável, nos termos da alínea l) do artigo 19.º do Decreto de 20 de Setembro de 1906, quantia que poderá ser substituída por garantia bancária, devidamente aceite pelo Ministro.
+8.º A Companhia apresentará obrigatòriamente aos Serviços Provinciais de Geologia e Minas planos de trabalho anuais, criteriosamente preparados com vista aos objectivos a atingir, devendo o primeiro plano ser apresentado dentro de noventa dias, contados a partir da publicação desta portaria no Diário do Governo, e os restantes dentro dos últimos três meses que antecedem o ano a que devam respeitar.
+9.º Serão aplicáveis à Companhia as disposições de ordem geral que venham a ser tomadas pelo Governo sobre pesquisas, exploração ou venda de minérios, que acatará também as prescrições e condicionamentos de natureza geral que venham a ser estabelecidos para a bacia do Zambeze.
+10.º Esta portaria entra imediatamente em vigor.
+Ministério do Ultramar, 26 de Novembro de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de Moçambique. - J. da Silva Cunha.
