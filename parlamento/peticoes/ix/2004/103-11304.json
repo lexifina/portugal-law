@@ -1,0 +1,169 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11304",
+  "numero": "103",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2004-11-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2005-10-19",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2005-06-08",
+        "DataArquivo": "2005-10-19",
+        "DataBaixaComissao": "2005-06-08",
+        "DataEnvioPAR": "2005-10-21",
+        "DataReaberta": "2005-06-08",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "243",
+        "Legislatura": "X",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2005-06-08",
+            "gp": "CDS-PP",
+            "id": "1047",
+            "motivoCessacao": null,
+            "nome": "Nuno Teixeira de Melo"
+          }
+        ],
+        "RelatorioFinal": [
+          "21949"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2004-12-22",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2004-11-08",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764d554644524578484c305276593356745a57353062334e515a585270593246764c7a5a6d4d6d52694f5463324c5468694f5749744e4467785a4331694f5455354c574e6d596d4e68595451354d5467355a6935775a47593d&fich=6f2db976-8b9b-481d-b959-cfbcaa49189f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "102",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE ASSUNTOS CONSTITUCIONAIS, DIREITOS, LIBERDADES E GARANTIAS",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2004-12-22",
+            "gp": "PSD",
+            "id": "1245",
+            "motivoCessacao": null,
+            "nome": "António Montalvão Machado"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2004-11-08",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d764e47566d4f574d334e7a4d744f5445335a53303059546b344c54686c4d5463745a6a686c4e5759304e5463304f5441774c6e426b5a673d3d&fich=4ef9c773-917e-4a98-8e17-f8e5f4574900.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11304",
+    "PetAssunto": "Expõe situação, que considera abusiva, de actuação de agentes da Polícia Judiciária em missão de busca domiciliária efectuada na sua residencia.",
+    "PetDataEntrada": "2004-11-08",
+    "PeticoesAssociadas": null,
+    "PetId": "11304",
+    "PetLeg": "IX",
+    "PetNr": "103",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
