@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1950/11/22800/10331033.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1950-11-09",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "ab8ac6f24e9ff30f08ed184cf08df0a407f245526fc46eba25b978c7e3251f1b",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.8,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "3400cebac80c7e65ea51a97f15b7243d20749e7ae8c6c7ce13a0ad97bbbb3389",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 373
 }
