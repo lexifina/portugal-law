@@ -1,0 +1,512 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "18",
+    "id": "6353",
+    "titulo": "Estatuto do Mecenato para a Vida"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2000-01-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1787",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2000-01-20",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-01-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "614",
+                "nome": "Celeste Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29130",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1130-1130"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-21",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/029/2000-01-21/1130?pgs=1130&org=PLC"
+              }
+            ],
+            "sumario": "ESTATUTO DO MECENATO PARA A VIDA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1665",
+                "nome": "Zelinda Marouço Semedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29131",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1130-1130"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-21",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/029/2000-01-21/1130?pgs=1130&org=PLC"
+              }
+            ],
+            "sumario": "ESTATUTO DO MECENATO PARA A VIDA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29132",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1130-1130"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-21",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/029/2000-01-21/1130?pgs=1130&org=PLC"
+              }
+            ],
+            "sumario": "ESTATUTO DO MECENATO PARA A VIDA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "482",
+                "nome": "Paula Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29133",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1130-1130"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-21",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/029/2000-01-21/1130?pgs=1130&org=PLC"
+              }
+            ],
+            "sumario": "ESTATUTO DO MECENATO PARA A VIDA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1701",
+                "nome": "Luísa Portugal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29134",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1130-1130"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-21",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/029/2000-01-21/1130?pgs=1130&org=PLC"
+              }
+            ],
+            "sumario": "ESTATUTO DO MECENATO PARA A VIDA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1167",
+                "nome": "Natalina Tavares de Moura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29135",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1130-1130"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-21",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/029/2000-01-21/1130?pgs=1130&org=PLC"
+              }
+            ],
+            "sumario": "ESTATUTO DO MECENATO PARA A VIDA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29136",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1130-1130"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-21",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/029/2000-01-21/1130?pgs=1130&org=PLC"
+              }
+            ],
+            "sumario": "ESTATUTO DO MECENATO PARA A VIDA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1704",
+                "nome": "Maria José Campos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29137",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1130-1130"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-21",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/029/2000-01-21/1130?pgs=1130&org=PLC"
+              }
+            ],
+            "sumario": "ESTATUTO DO MECENATO PARA A VIDA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1673",
+                "nome": "Luísa Vasconcelos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29138",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1130-1130"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-21",
+                "pubLeg": "VIII",
+                "pubNr": "29",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/029/2000-01-21/1130?pgs=1130&org=PLC"
+              }
+            ],
+            "sumario": "ESTATUTO DO MECENATO PARA A VIDA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105658",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1787",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-01-21",
+        "pubLeg": "VIII",
+        "pubNr": "29",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/029/2000-01-21?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2000-01-20",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> PEV</I>, <I> BE</I><BR>Abstenção:<I>14-PS</I>",
+        "id": "24916",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "29",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
