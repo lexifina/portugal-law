@@ -1,0 +1,217 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "tipo": "Inquérito Parlamentar",
+  "numero": "1",
+  "id": "19026",
+  "fases": 10,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2002-05-15",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2003-09-14",
+    "DataInicioleg": "2002-04-05",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "618",
+        "nome": "Guilherme Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1239",
+        "nome": "Luís Marques Guedes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1874",
+        "nome": "Jorge Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1586",
+        "nome": "Machado Rodrigues"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1847",
+        "nome": "Victor Cruz"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1706",
+        "nome": "João Moura"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "52",
+        "nome": "Fernando Santos Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1956",
+        "nome": "Diogo Vasconcelos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1982",
+        "nome": "Ribeiro dos Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1877",
+        "nome": "Jorge Varanda"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1884",
+        "nome": "José Manuel Pavão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1875",
+        "nome": "Goreti Machado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1926",
+        "nome": "Gonçalo Reis"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1915",
+        "nome": "Graça Proença de Carvalho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "42",
+        "nome": "Duarte Pacheco"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1687",
+        "nome": "Jorge Neto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1537",
+        "nome": "Hugo Velosa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1958",
+        "nome": "Pinho Cardão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "26",
+        "nome": "Arménio Santos"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1655",
+        "nome": "Telmo Correia"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1047",
+        "nome": "Nuno Teixeira de Melo"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "229",
+        "nome": "Narana Coissoró"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1922",
+        "nome": "Brandão Rodrigues"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1654",
+        "nome": "João Rebelo"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1290",
+        "nome": "Álvaro Castello-branco"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1657",
+        "nome": "João Pinho de Almeida"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "578",
+        "nome": "Acílio Gala"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "227",
+        "nome": "Manuel Cambra"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1921",
+        "nome": "Isabel Gonçalves"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      },
+      {
+        "GP": "CDS-PP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": [
+      {
+        "assunto": "Comissão Parlamentar de Inquérito ao Desastre de Camarate.",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "19189",
+        "legislatura": "IX",
+        "numero": "43",
+        "sessao": "1",
+        "tipo": "R"
+      },
+      {
+        "assunto": "Relativo à Comissão Parlamentar de Inquérito à tragédia de Camarate.",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "20687",
+        "legislatura": "IX",
+        "numero": "298",
+        "sessao": "3",
+        "tipo": "R"
+      }
+    ],
+    "IniDescTipo": "Inquérito Parlamentar",
+    "IniEpigrafe": null,
+    "IniId": "19026",
+    "IniLeg": "IX",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a5357357059326c6864476c325953387a4d7a4e6b4e57566b4d43316b4f4456694c54526c4e5759745957497a596930354e32466b4d32566c5a4455324d7a41755a47396a&fich=333d5ed0-d85b-4e5f-ab3b-97ad3eed5630.doc&Inline=true",
+    "IniNr": "1",
+    "IniObs": "Regulamento da Comissão e composição da Mesa: DAR II S B 11, 2002-08-10 e DAR II S C 14, 2002-07-02; Deliberação da Comissão de Inquérito: DAR II S B 34, de 2003-02-22 (suspensão dos trabalhos até à obtenção de elementos solicitados pela Comissão) aprovada por unanimidade em Plenário: DAR I S 92, de 2003-02-28; Deliberação nº 2-PL/2003 - DAR II S A 76, de 2003-03-13; Apreciação do Relatório Final da Comissão: DAR I S 21, de 2004-12-10; Relatório e Relatório final da Comissão: DAR II S B 10, de 2004-12-28",
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "I",
+    "IniTitulo": "Constituição de uma Comissão Parlamentar de Inquérito à Tragédia de Camarate.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
