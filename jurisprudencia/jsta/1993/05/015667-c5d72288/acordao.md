@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal Administrativo de 1993-05-05, processo 015667
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 015667
+
+**Data do Acordão:** 05/05/1993
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** BRANDÃO DE PINHO
+
+**Descritores:** OBRIGAÇÃO FISCAL; PRESCRIÇÃO; CONTAGEM DE PRAZO; APLICAÇÃO DA LEI FISCAL NO TEMPO
+
+**Nº Convencional:** JSTA00038282
+
+**Nº do Documento:** SA219930505015667
+
+**Data de Entrada:** 12/09/1992
+
+**Recorrente:** FAZENDA PUBLICA
+
+**Recorrido 1:** LACTICINIOS PASTORINHA LUANDA
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 93
+
+**Referência Publicação 1:** AD N388 ANOXXXIII PAG451
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TT1INST.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - EXEC FISCAL.
+
+**Legislação Nacional:** CPCI63 ART27.; CCIV66 ART12 ART296 ART297 N1.; CÓDIGO DOS PROCESSOS ESPECIAIS DE RECUPERAÇÃO DA EMPRESA E DE FALÊNCIA ART152.; CPTRIB91 ART13 ART34 ART264.; CSC86 ART78.
+
+**Referência a Doutrina:** ALEXANDRE AMARAL LIÇÕES DE DIREITO FISCAL PAG107.; BAPTISTA MACHADO SOBRE A APLICAÇÃO NO TEMPO DO NOVO CÓDIGO CIVIL PAG163.; CARDOSO DA COSTA CURSO DE DIREITO FISCAL PAG250.; ALBERTO XAVIER MANUAL DE DIREITO FISCAL PAG203.; BRAZ TEIXEIRA PRINCíPIOS DE DIREITO FISCAL PAG141.; ALFREDO SOUSA E OUTRO CÓDIGO DE PROCESSO TRIBUTÁRIO ANOTADO PAG487.; PINTO FERNANDES E OUTRO CÓDIGO DE PROCESSO TRIBUTÁRIO ANOTADO PAG140.; LIMA GUERREIRO E OUTRO CÓDIGO DE PROCESSO TRIBUTÁRIO ANOTADO PAG15.; RLJ ANO66 PAG280.; TEIXEIRA RIBEIRO RLJ ANO125 PAG49.; PIRES DE LIMA E OUTRO CÓDIGO CIVIL ANOTADO VI PAG192.; Texto Integral
+
+## Sumário
+
+O disposto no art. 297 n. 1 do Cód. Civil aplica-se
+
+à contagem do prazo de prescrição da obrigação tributária previsto no art. 34 do CPT com referência do art. 27 do revogado CPCI.
