@@ -1,0 +1,254 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "5",
+    "id": "19036",
+    "titulo": "Autoriza o Governo a alterar o Decreto-Lei n.º 238/94, de 19 de Setembro, relativo ao sistema de unidades de medidas legais, a fim de proceder à transposição para a ordem jurídica nacional da Directiva 1999/103/CE, de 24 de Janeiro de 2000."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2002-06-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2175",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2002-06-12",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-06-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  INDÚSTRIA,  COMÉRCIO E SERVIÇOS",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Maria Do Rosario Ventura"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141068",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "759-761"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-14",
+                "pubLeg": "IX",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/019/2002-06-14/759?pgs=759-761&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o Decreto-Lei n.º 238/94, de 19 de Setembro, relativo ao sistema de unidades de medidas legais, a fim de proceder à transposição para a ordem jurídica nacional da Directiva 1999/103/CE, de 24 de Janeiro de 2000.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1998",
+                "nome": "Luís Campos Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141069",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "761-761"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-14",
+                "pubLeg": "IX",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/019/2002-06-14/761?pgs=761&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o Decreto-Lei n.º 238/94, de 19 de Setembro, relativo ao sistema de unidades de medidas legais, a fim de proceder à transposição para a ordem jurídica nacional da Directiva 1999/103/CE, de 24 de Janeiro de 2000.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1921",
+                "nome": "Isabel Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141070",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "761-762"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-14",
+                "pubLeg": "IX",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/019/2002-06-14/761?pgs=761-762&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o Decreto-Lei n.º 238/94, de 19 de Setembro, relativo ao sistema de unidades de medidas legais, a fim de proceder à transposição para a ordem jurídica nacional da Directiva 1999/103/CE, de 24 de Janeiro de 2000.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1407",
+                "nome": "Nelson Baltazar"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141071",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "762-762"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-14",
+                "pubLeg": "IX",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/019/2002-06-14/762?pgs=762&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o Decreto-Lei n.º 238/94, de 19 de Setembro, relativo ao sistema de unidades de medidas legais, a fim de proceder à transposição para a ordem jurídica nacional da Directiva 1999/103/CE, de 24 de Janeiro de 2000.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "152273",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2175",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-06-14",
+        "pubLeg": "IX",
+        "pubNr": "19",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/019/2002-06-14?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
