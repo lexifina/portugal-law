@@ -2,7 +2,7 @@
 
 ### Providências cautelares de natureza judicial
 
-1 - Em caso de justo receio de frustração dos créditos fiscais, de extravio ou deterioração de documentos conexos com obrigações tributárias, a administração tributária deve propor as providências cautelares de arresto ou arrolamento previstas no Código de Procedimento e de Processo Tributário.
+1 - Em caso de justo receio de frustração dos créditos fiscais, de extravio ou deterioração de documentos conexos com obrigações tributárias, a administração deve propor as providências cautelares de arresto ou arrolamento previstas no Código de Processo Tributário.
 
 2 - A propositura das providências cautelares previstas no número anterior tem por base informação contendo:
 

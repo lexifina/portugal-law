@@ -4,11 +4,11 @@
 
 1 - As fotocópias ou extractos serão efectuadas nas instalações ou dependências onde se encontrarem os livros ou documentos.
 
-2 - Em caso de inconveniência ou impossibilidade de efetuar fotocópias ou extratos nos locais referidos no número anterior, os livros ou documentos só podem ser retirados para esse efeito por prazo não superior a três dias úteis, devendo ser entregue recibo ao sujeito passivo ou obrigado tributário.
+2 - Em caso de impossibilidade de as cópias ou extractos se efectuarem nos locais referidos no número anterior, os livros ou documentos só podem ser retirados para esse efeito por prazo não superior a setenta e duas horas, devendo ser entregue recibo ao sujeito passivo ou obrigado tributário.
 
 3 - Dos inventários e contagens físicas será lavrado o correspondente termo.
 
-4 - O termo referido no número anterior é assinado pelo sujeito passivo ou obrigado tributário ou seu representante, que declara ser ou não o mesmo conforme ao total dos inventários, e pode acrescentar as observações que entender convenientes.
+4 - O termo referido no número anterior será assinado pelo sujeito passivo ou obrigado tributário ou seu representante, que declarará ser ou não o mesmo conforme ao total das existências, e poderá acrescentar as observações que entender convenientes.
 
 5 - Quando o sujeito passivo ou obrigado tributário ou seu representante se recusarem a assinar, será o termo assinado por duas testemunhas.
 

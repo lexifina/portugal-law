@@ -2,7 +2,7 @@
 
 ### Notificação de pessoas singulares
 
-A notificação de pessoas singulares obedece ao disposto no Código de Procedimento e de Processo Tributário, com as seguintes adaptações:
+A notificação de pessoas singulares obedece ao disposto no Código de Processo Tributário, com as seguintes adaptações:
 
 a) Em caso de notificação na pessoa de empregado ou colaborador, deve remeter-se carta registada com aviso de recepção para o domicílio fiscal do sujeito passivo ou obrigado tributário, dando-lhe conhecimento do conteúdo da notificação, do dia, da hora e da pessoa em que foi efectuada;
 

@@ -8,6 +8,6 @@ a) Geral ou polivalente, quando tiver por objecto a situação tributária globa
 
 b) Parcial ou univalente, quando abranja apenas algum, ou alguns, tributos ou algum, ou alguns, deveres dos sujeitos passivos ou dos demais obrigados tributários.
 
-2 - Considera-se ainda procedimento parcial o que se limite à consulta, recolha de documentos ou elementos determinados e à verificação de sistemas informáticos dos sujeitos passivos e demais obrigados tributários, ou ao controlo de bens em circulação. .
+2 - Considera-se procedimento parcial o que se limite à consulta e recolha de documentos ou elementos determinados, à verificação de sistemas informáticos dos sujeitos passivos e demais obrigados tributários e ao controlo dos bens em circulação.
 
 3 - Quanto à extensão, o procedimento pode englobar um ou mais períodos de tributação.

@@ -1,12 +1,10 @@
 # Artigo 62.º
 
-### Conclusão do procedimento de inspecção
+### Relatório de inspecção
 
-1 - Para conclusão do procedimento de comprovação e verificação é elaborado um relatório final com vista à identificação e sistematização dos factos detetados e sua qualificação jurídico-tributária.
+1 - Para conclusão do procedimento é elaborado um relatório final com vista à identificação e sistematização dos factos detectados e sua qualificação jurídico-tributária.
 
-2 - No prazo de 10 dias após a notificação da nota de diligência, o relatório referido no número anterior deve ser notificado ao contribuinte por carta registada, ou por transmissão eletrónica de dados, através do serviço público de notificações associado à morada digital única, da caixa postal eletrónica ou na respetiva área reservada do Portal das Finanças, considerando-se concluído o procedimento na data da notificação do relatório.
-
-3 - O relatório deve conter, tendo em atenção a dimensão e complexidade da entidade inspeccionada, os seguintes elementos:
+2 - O relatório deve conter, tendo em atenção a dimensão e complexidade da entidade inspeccionada, os seguintes elementos:
 
 a) Identificação da entidade inspeccionada, designadamente denominação social, número de identificação fiscal, local da sede e serviço local a que pertence;
 
@@ -32,12 +30,10 @@ l) Descrição sucinta dos resultados dos actos de inspecção e propostas formu
 
 m) Identificação dos funcionários que o subscreveram, com menção do nome, categoria e número profissional;
 
-n) A não regularização ou a regularização parcial da situação tributária acordada no documento de regularização, nos termos do disposto no n.º 7 do artigo 58.º-A;
+n) Outros elementos relevantes.
 
-o) Outros elementos relevantes.
+3 - No caso de o sujeito passivo ter apresentado pedido de redução de coima ou procedido à regularização da sua situação tributária durante o procedimento de inspecção, do facto far-se-á referência no relatório.
 
-4 - No caso de ter havido lugar ao pedido de regularização tributária previsto no artigo 58.º, faz-se referência a esse facto no relatório, ficando tanto o pedido como o documento previsto no artigo 58.º-A a constar em anexo ao mesmo.
+4 - Poderão ser elaborados outros tipos de relatórios em caso de procedimentos de inspecção com objectivos específicos, os quais, no entanto, incluirão sempre a identidade das entidades inspeccionadas, os fins dos actos, as conclusões obtidas e a sua fundamentação.
 
-5 - Poderão ser elaborados outros tipos de relatórios em caso de procedimentos de inspecção com objectivos específicos, os quais, no entanto, incluirão sempre a identidade das entidades inspeccionadas, os fins dos actos, as conclusões obtidas e a sua fundamentação.
-
-6 - O relatório de inspecção será assinado pelo funcionário ou funcionários intervenientes no procedimento e conterá o parecer do chefe de equipa que intervenha ou coordene, bem como o sancionamento superior das suas conclusões.
+5 - O relatório de inspecção será assinado pelo funcionário ou funcionários intervenientes no procedimento e conterá o parecer do chefe de equipa que intervenha ou coordene, bem como o sancionamento superior das suas conclusões.

@@ -2,6 +2,6 @@
 
 ### Notificação pessoal e postal
 
-1 - As notificações podem efetuar-se pessoalmente no local em que o notificando for encontrado, por via postal através de carta registada ou por carta registada com aviso de receção ou por transmissão eletrónica de dados, através do serviço público de notificações eletrónicas associado à morada única digital, da caixa postal eletrónica ou na respetiva área reservada do Portal das Finanças.
+1 - As notificações podem efectuar-se pessoalmente, no local em que o notificando for encontrado, ou por via postal através de carta registada.
 
-2 - [Revogado.]
+2 - No procedimento externo de inspecção a notificação postal só deve efectuar-se em caso de impossibilidade de realização de notificação pessoal.

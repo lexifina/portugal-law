@@ -6,7 +6,7 @@
 
 ### Local dos actos de inspecção
 
-1 - Quando o procedimento de inspeção envolver a verificação de mercadorias, do processo de produção, da contabilidade, dos livros de escrituração ou de outros documentos relacionados com a atividade da entidade a inspecionar, os atos de inspeção realizam-se nas instalações ou dependências onde estejam ou devam legalmente estar localizados os elementos.
+1 - Quando o procedimento de inspecção envolver a verificação da contabilidade, livros de escrituração ou outros documentos relacionados com a actividade da entidade a inspeccionar, os actos de inspecção realizam-se nas instalações ou dependências onde estejam ou devam legalmente estar localizados os elementos.
 
 2 - A solicitação dos sujeitos passivos ou demais obrigados tributários e em caso de motivo justificado que não prejudique o procedimento de inspecção, podem os actos de inspecção previstos no número anterior realizar-se noutro local.
 
