@@ -1,0 +1,3 @@
+Resolução n.º 112/81
+O Conselho de Ministros, reunido em 14 de Maio de 1981, resolveu, por proposta dos Ministros da Defesa Nacional e da Indústria e Energia e ao abrigo do artigo 12.º do Estatuto de Indústrias Nacionais de Defesa, E. P. (INDEP), nomear o coronel de engenharia Filipe José Freire Themudo Barata e o Dr. João Luís Picão Caldeira, respectivamente para presidente e vogal do conselho de gerência da citada empresa pública, com efeitos a partir de 1 de Junho de 1981.
+Presidência do Conselho de Ministros, 14 de Maio de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
