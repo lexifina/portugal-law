@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério das Finanças, o Decreto-Lei n.º 353-D/77, publicado no 2.º suplemento ao Diário da República, 1.ª série, n.º 199, de 29 de Agosto, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo único, alínea e), onde se lê: «..., ou decorrentes da declaração da empresa em situação económica difícil, nos termos do Decreto-Lei n.º 353-I/77, ...», deve ler-se: «..., ou decorrentes da declaração da empresa em situação económica difícil, nos termos do Decreto-Lei n.º 353-H/77, ...», e onde se lê: «... classificados no grau E previsto no artigo 9.º do Decreto-Lei n.º 24/77, ...», deve ler-se: «... classificados no grau E previsto no artigo 9.º do Decreto-Lei n.º 124/77, ...».
+Secretaria-Geral da Presidência do Conselho de Ministros, 20 de Setembro de 1977. - Pelo Secretário-Geral, José Meneses.
