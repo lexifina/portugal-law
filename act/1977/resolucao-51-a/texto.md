@@ -1,0 +1,4 @@
+Resolução n.º 51-A/77
+Considerando que o despacho de 5 de Fevereiro de 1977 do Secretário de Estado da Comunicação Social, ao determinar a suspensão das publicações periódicas editadas pela Empresa Pública dos Jornais Século e Popular e que foram pertença da ex-Sociedade Nacional de Tipografia, referiu expressamente que tal medida de excepção não prejudicaria o direito dos trabalhadores aos respectivos vencimentos e demais regalias contratuais, o Conselho de Ministros, reunido em 26 de Fevereiro de 1977, resolveu:
+Conceder à Empresa Pública dos Jornais Século e Popular um subsídio de 13000 contos, a atribuir pelo Fundo de Desemprego, que, para o efeito, fica desde já autorizado a proceder a transferência no seu orçamento de uma verba de igual montante.
+Presidência do Conselho de Ministros, 28 de Fevereiro de 1977. - O Primeiro-Ministro, Mário Soares.
