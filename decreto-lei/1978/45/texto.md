@@ -1,0 +1,14 @@
+Decreto-Lei n.º 45/78
+de 16 de Março
+Tornando-se necessário fixar o modelo de cartão de identificação que permita o reconhecimento da qualidade de membro do Conselho da Revolução e contenha a indicação tanto de direitos de que os respectivos titulares já usufruíam como oficiais das forças armadas como dos que importa definir em razão das funções que actualmente desempenham:
+O Conselho da Revolução decreta, nos termos do n.º 1 do artigo 144.º da Constituição, o seguinte:
+Artigo 1.º - 1 - Os membros do Conselho da Revolução têm direito ao cartão especial de identificação cujo modelo é o que consta em anexo a este diploma.
+2 - Os cartões referidos no número anterior são autenticados com a assinatura do Presidente do Conselho da Revolução, sob o selo branco dos respectivos serviços, devendo ser recolhidos quando os seus detentores deixarem de exercer a função em virtude da qual lhes tenham sido concedidos.
+Art. 2.º Os membros do Conselho da Revolução têm direito a livre trânsito, considerado como livre circulação, no exercício das suas funções ou por causa delas, em locais públicos de acesso condicionado.
+Visto e aprovado em Conselho da Revolução em 1 de Março de 1978.
+Promulgado em 6 de Março de 1978.
+O Presidente do Conselho da Revolução, António Ramalho Eanes, general.
+
+(ver documento original)
+Cartão com as dimensões 11 cm x 8 cm, de cor branca, contendo na face anterior uma faixa verde e vermelha com a largura de 6 mm, a 2,5 cm do canto superior esquerdo.
+O Presidente do Conselho da Revolução, António Ramalho Eanes, general.
