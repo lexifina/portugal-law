@@ -1,0 +1,6 @@
+Despacho Normativo n.º 475/93
+Considerando que Maria da Piedade Martins Lopes Carreira, chefe de divisão do quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, requereu a criação de um lugar de assessor principal ao abrigo do n.º 7 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção dada pelo Decreto-Lei n.º 34/93, de 13 de Fevereiro;
+Considerando o disposto na alínea a) do n.º 2 e nos n.os 6 e 8 do citado artigo 18.º:
+Determina-se o seguinte:
+É criado no quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, aprovado pelas Portarias n.os 4/88, de 6 de Janeiro, e 168/88, de 19 de Março, com as alterações introduzidas pelas Portarias n.os 75/89, de 2 de Fevereiro, 484/90, de 29 de Junho, e 246/91, de 25 de Março, Decretos-Leis n.os 258/91, de 18 de Julho, 106/92, de 30 de Maio, e 110/92, de 2 de Junho, e Portaria n.º 441/93, de 27 de Abril, um lugar de assessor principal da carreira técnica superior, a extinguir quando vagar.
+Ministérios das Finanças e do Emprego e da Segurança Social, 24 de Novembro de 1993. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, José Luís Campos Vieira de Castro, Secretário de Estado da Segurança Social.
