@@ -1,0 +1,421 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "37",
+    "id": "19348",
+    "titulo": "Estabelece o regime de criação, o quadro de atribuições e competências das Comunidades Intermunicipais de Direito Público e o funcionamento dos seus órgãos."
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2003-03-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2499",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2003-03-20",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-03-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1885",
+                "nome": "Paula Malojo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145064",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4302-4302"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4302?pgs=4302&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de criação, o quadro de atribuições e competências das comunidades intermunicipais de direito público e o funcionamento dos seus órgãos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1863",
+                "nome": "Miguel Paiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145065",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4302-4302"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4302?pgs=4302&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de criação, o quadro de atribuições e competências das comunidades intermunicipais de direito público e o funcionamento dos seus órgãos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1153",
+                "nome": "José Augusto Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145066",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4302-4303"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4302?pgs=4302-4303&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de criação, o quadro de atribuições e competências das comunidades intermunicipais de direito público e o funcionamento dos seus órgãos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145067",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4303-4303",
+                  "4314-4314"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4303?pgs=4303,4314&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de criação, o quadro de atribuições e competências das comunidades intermunicipais de direito público e o funcionamento dos seus órgãos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1485",
+                "nome": "Rodeia Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145068",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4314-4314"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4314?pgs=4314&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de criação, o quadro de atribuições e competências das comunidades intermunicipais de direito público e o funcionamento dos seus órgãos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1423",
+                "nome": "Luísa Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145069",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4314-4314"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4314?pgs=4314&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de criação, o quadro de atribuições e competências das comunidades intermunicipais de direito público e o funcionamento dos seus órgãos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2010",
+                "nome": "Ascenso Simões"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145070",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4312-4314"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4312?pgs=4312-4314&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de criação, o quadro de atribuições e competências das comunidades intermunicipais de direito público e o funcionamento dos seus órgãos.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Texto de substituição",
+    "OevId": "155752",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2499",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-03-21",
+        "pubLeg": "IX",
+        "pubNr": "102",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2003-03-20",
+        "descricao": "Texto de substituição, apresentado pela Comissão de Poder Local, Ordenamento do Território e Ambiente, relativo à Proposta de Lei n.º 37/IX (GOV) e ao Projecto de Lei n.º 204/IX (PS).",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "29899",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "100",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
