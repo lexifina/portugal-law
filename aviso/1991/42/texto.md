@@ -1,0 +1,3 @@
+Aviso n.º 42/91
+Por ordem superior se torna público ter o Secretário-Geral das Nações Unidas recebido uma notificação do Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte, a 30 de Agosto de 1990, comunicando que os termos da Convenção de Viena para a Protecção da Camada do Ozono e do Protocolo de Montreal sobre as Substâncias Que Empobrecem a Camada do Ozono se aplicam também ao território do Bailiwick of Guernsey por cujas relações internacionais é responsável.
+Direcção-Geral dos Negócios Político-Económicos, 8 de Março de 1991. - O Director de Serviços dos Assuntos Multilaterais, António Santana Carlos.
