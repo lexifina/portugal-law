@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2furkWvc0lKdq20ak2KlHOmirXJXFYm74sABWT32jiDLN0U8f%2fPEtMfn8RnKJ0uGruwmBNe3jwMO37t%2fiSCQ9aculmRkJeIKwr%2fOiOzMziHJAnUHHtOwdh287ngLEtCriB2WWEC7LYWi1fowW8ns7Xdb7ZeW1KZ%2fh4MoxhR77APfbIk6lGh2Xrj7umHYAgvxBKomL8r%2b7w%2bcVlag%2bST%2fprrlUOE0u%2b6qHwbnvIQKfKeygiUNrSNiI04zccBV4YEQPPfynibRRVQMmV0H0WPDuRcSm80sGGQgNyTsUcq3R2DGZQtkpt%2bs4PaWOTvEOy%2b0HxZFhxj0gLaLBKCcha3mTRy2bCNMZep%2b9wDXb88fyVXk%3d&fich=IntervencoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6a76c73abc08ffed4c44b15f3f36f3269364cf06e4b7f2d6259e2b14d6049817",
+  "legislatura": "VIII",
+  "id": "57856",
+  "tipo": "Intervenção",
+  "orador": "Fernanda Costa (PS)",
+  "data_registo": "2000-10-20",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "104789",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "5875",
+        "tipo": "INI",
+        "titulo": "Apreciação Parlamentar - Decreto-lei nº 205/2000 de 1 de Setembro que \"altera o Decreto-lei nº 118/92 de 25 de Junho que estabelece o regime de comparticipação do Estado no preço dos medicamentos¿."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2000-10-20",
+    "Debate": "DECRETO-LEI N.205/2000 DE 1 DE SETEMBRO QUE\"ALTERA O DECRETO-LEI N.118/92 DE 25 DE JUNHO QUE ESTABELECE O REGIME DE COMPARTICIPACAO DO ESTADO NO PRECO DOS MEDICAMENTOS",
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "1208",
+      "nome": "Fernanda Costa"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "57856",
+    "IdDebate": "1620",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação de Decreto-Lei",
+        "id": "5875",
+        "tipo": "Apreciação Parlamentar"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "57856",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "522-523"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-10-21",
+        "pubLeg": "VIII",
+        "pubNr": "14",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/014/2000-10-21/522?pgs=522-523&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": "DL118/92, de 25 de Junho; DL205/2000, de 1 de Setembro; GENÉRICO",
+    "Sessao": "2",
+    "Sumario": "DECRETO-LEI N.205/2000 DE 1 DE SETEMBRO QUE\"ALTERA O DECRETO-LEI N.118/92 DE 25 DE JUNHO QUE ESTABELECE O REGIME DE COMPARTICIPACAO DO ESTADO NO PRECO DOS MEDICAMENTOS",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
