@@ -1,0 +1,1322 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "148",
+    "id": "28932",
+    "titulo": "Legalização da prática do naturismo."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1988-04-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4651",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1988-04-19",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-04-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204212",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2942-2943",
+                  "2944-2945",
+                  "2961-2961"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2942?pgs=2942-2943,2944-2945,2961&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204213",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2943-2943"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2943?pgs=2943&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204214",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2943-4943"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2943?pgs=2943-4943&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204215",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2943-2943"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2943?pgs=2943&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204216",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2943-2944"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2943?pgs=2943-2944&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204217",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2945-2945"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2945?pgs=2945&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204218",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2945-2946",
+                  "2946-2946"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2945?pgs=2945-2946,2946&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204219",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2946-2946"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2946?pgs=2946&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204220",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2946-2948",
+                  "2949-2949"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2946?pgs=2946-2948,2949&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204221",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2948-2948",
+                  "2957-2957",
+                  "2962-2962"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2948?pgs=2948,2957,2962&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204222",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2949-2949"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2949?pgs=2949&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204223",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2949-2950",
+                  "2951-2952"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2949?pgs=2949-2950,2951-2952&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204224",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2950-2951"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2950?pgs=2950-2951&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204225",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2951-2951"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2951?pgs=2951&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204226",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2952-2952"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2952?pgs=2952&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204227",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2952-2953",
+                  "2953-2953"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2952?pgs=2952-2953,2953&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204228",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2953-2953"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2953?pgs=2953&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204229",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2953-2954",
+                  "2955-2955"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2953?pgs=2953-2954,2955&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204420",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2954-2955",
+                  "2955-2955"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2954?pgs=2954-2955,2955&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204421",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2955-2957",
+                  "2959-2960"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2955?pgs=2955-2957,2959-2960&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204422",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2957-2957"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2957?pgs=2957&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204424",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2958-2958"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2958?pgs=2958&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204425",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2958-2958"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2958?pgs=2958&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204426",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2958-2959"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2958?pgs=2958-2959&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204427",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2959-2959"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2959?pgs=2959&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204428",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2959-2959"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2959?pgs=2959&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204429",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2960-2961"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2960?pgs=2960-2961&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204430",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2961-2961"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2961?pgs=2961&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204453",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2962-2962"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-20",
+                "pubLeg": "V",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20/2962?pgs=2962&org=PLC"
+              }
+            ],
+            "sumario": "Legalização da prática do naturismo.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "222481",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4651",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-04-20",
+        "pubLeg": "V",
+        "pubNr": "75",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/075/1988-04-20?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
