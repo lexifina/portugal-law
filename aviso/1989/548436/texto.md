@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que, por nota de 2 de Maio de 1989, o Ministério dos Negócios Estrangeiros, do Comércio Externo e da Cooperação para o Desenvolvimento, da Bélgica, notificou que a Dinamarca depositou junto daquele Ministério o seu instrumento de ratificação da Convenção Internacional para a Unificação de Certas Regras sobre o Arresto de Navios de Mar, assinada em Bruxelas a 10 de Maio de 1952.
+Nos termos do artigo 14.º, alínea b), da Convenção, esta entrará em vigor para a Dinamarca a 2 de Novembro de 1989.
+Portugal é parte na Convenção, a qual foi aprovada, para ratificação, pelo Decreto-Lei n.º 41007, de 16 de Fevereiro de 1957, em que se publica o texto autêntico em francês e a respectiva tradução oficial em português. Portugal depositou o seu instrumento de ratificação em 4 de Maio de 1957, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 122, de 27 de Maio de 1957.
+Secretaria-Geral do Ministério, 31 de Agosto de 1989. - O Chefe do Serviço Jurídico e de Tratados, Fernão Manuel Homem de Gouveia Favila Vieira.
