@@ -1,0 +1,44 @@
+Portaria n.º 239/89
+de 30 de Março
+Tendo em vista a regulamentação das condições específicas a que se referem o Decreto-Lei n.º 202/83, de 19 de Maio, e a Portaria n.º 924/83, de 11 de Outubro, a observar no exercício do controlo metrológico das medidas materializadas de comprimento, incluindo as sondas;
+Ao abrigo do n.º 1 do artigo 2.º e do n.º 3 do artigo 9.º do citado decreto-lei:
+Manda o Governo, pelo Ministro da Indústria e Energia, o seguinte:
+1.º É aprovado o Regulamento do Controlo Metrológico das Medidas Materializadas de Comprimento e Sondas, anexo à presente portaria e que dela faz parte integrante.
+2.º É revogada a Portaria n.º 8466, de 19 de Junho de 1936.
+Ministério da Indústria e Energia.
+Assinada em 15 de Março de 1989.
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
+
+REGULAMENTO DO CONTROLO METROLÓGICO DAS MEDIDAS DE COMPRIMENTO
+1 - O presente Regulamento aplica-se às medidas materializadas de comprimento, incluindo as sondas, adiante designadas abreviadamente por «medidas de comprimento».
+2 - Entendem-se por medidas materializadas de comprimento as medidas que têm referências, cujas distâncias são indicadas em unidades legais de comprimento.
+3 - As medidas de comprimento obedecerão às qualidades e características metrológicas e aos ensaios estabelecidos nas Directivas n.os 73/362/CEE, 78/629/CEE e 85/146/CEE.
+4 - O controlo metrológico das medidas de comprimento compreende as operações seguintes:
+Aprovação de modelo;
+Primeira verificação:
+Verificação periódica;
+Verificação extraordinária.
+5 - Aprovação de modelo.
+5.1 - O requerimento de aprovação de modelo será acompanhado de dois exemplares da medida de comprimento para estudo e ensaios.
+5.2 - A aprovação de modelo é válida por dez anos, salvo disposição em contrário no despacho de aprovação de modelo.
+6 - Primeira verificação.
+6.1 - A primeira verificação das medidas de comprimento compete ao Instituto Português da Qualidade e poderá ser delegada na delegação regional (DR) do Ministério e Indústria e Energia (MIE) da área do fabricante ou do importador.
+6.2 - Na primeira verificação das medidas de comprimento, quando existam condições para o estabelecimento de um plano de colheitas de amostras, deverá utilizar-se o controlo estatístico indicado na Directiva n.º 85/146/CEE.
+7 - Verificação periódica.
+7.1 - A verificação periódica das medidas de comprimento compete ao Instituto Português da Qualidade e poderá ser delegada na delegação regional (DR) do Ministério da Indústria e Energia (MIE) da área do fabricante ou do importador.
+7.2 - A verificação periódica é anual e apenas por sondas.
+8 - verificação extraordinária.
+A verificação extraordinária é da competência do Instituto Português da Qualidade e poderá ser delegada na delegação regional (DR) do Ministério da Indústria e Energia (MIE) da área do requerente, sendo-lhe aplicável o disposto no n.º 3.
+9 - Inscrições e marcações.
+9.1 - As medidas de comprimento devem conter de maneira visível e legível as indicações seguintes, inscritas na zona inicial da escala:
+a) Em geral:
+Nome ou marca do fabricante ou do importador;
+Comprimento nominal;
+Classe de precisão;
+Símbolo de aprovação de modelo;
+b) Nos casos assim determinados na aprovação de modelo:
+Temperatura de referência;
+Força de tracção nominal;
+Utilização específica, no caso de as medidas de comprimento não estarem enquadradas nas características indicadas no n.º 3.
+10 - Disposições finais.
+As sondas cuja autorização de uso tenha sido determinada ao abrigo de legislação anterior poderão permanecer em utilização enquanto estiverem em bom estado de conservação e os erros não excederem os erros máximos admissíveis.
