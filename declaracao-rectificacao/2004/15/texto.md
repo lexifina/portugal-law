@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 15/2004
+Segundo comunicação do Ministério da Segurança Social e do Trabalho, a Portaria n.º 1360/2003, publicada no Diário da República, 1.ª série, n.º 287, de 13 de Dezembro de 2003, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No último parágrafo do preâmbulo, onde se lê «Deste modo, permite-se que as entidades que no seu relacionamento com a segurança social utilizem sistemas informáticos procedam aos necessários ajustamentos teóricos.» deve ler-se «Deste modo, permite-se que as entidades que no seu relacionamento com a segurança social utilizem sistemas informáticos procedam aos necessários ajustamentos técnicos.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 14 de Janeiro de 2004. - O Secretário-Geral, José M. Sousa Rego.
