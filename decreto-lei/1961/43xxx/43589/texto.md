@@ -1,0 +1,13 @@
+Decreto-Lei n.º 43589
+Considerando que, por vezes, é insuficiente a produção de forragens no continente e que é indispensável adquirir nas nossas províncias ultramarinas e até no estrangeiro cereais que as substituam;
+Considerando que sem a redução dos respectivos direitos de importação essas aquisições não são econòmicamente possíveis;
+Considerando os pedidos formulados por várias entidades e o que informaram sobre o assunto a Comissão de Coordenação Económica e a Direcção-Geral da Economia do Ministério do Ultramar;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O artigo 65.º das instruções preliminares da pauta de importação, aprovadas pelo Decreto-Lei n.º 42656, de 18 de Novembro de 1959, passa a ter a seguinte redacção:
+Art. 65.º O Ministro das Finanças, mediante parecer favorável dos Ministérios da Economia e do Ultramar, poderá autorizar que os cereais destinados à alimentação de animais, sem prejuízo da classificação que lhes competir de acordo com o texto da pauta, quando originários das províncias ultramarinas portuguesas ou do estrangeiro e prèviamente desnaturados com azul de metilene, fiquem sujeitos, respectivamente, à taxa de $024, quando importados nos termos destas instruções preliminares, e às de $16 e $08, em relação às pautas máxima e mínima.
+Art. 2.º O disposto no artigo anterior é de aplicar aos cereais já importados e devidamente desnaturados cujos direitos se encontrem garantidos.
+Art. 3.º São fixados em $08 por quilograma os direitos de importação devidos por 1800 t de aveia originária da Noruega com destino à Manutenção Militar e transportada no navio espanhol Torres de Serranos, entrado no porto de Lisboa em 6 de Fevereiro de 1961, sob a contramarca fiscal 490/961.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 11 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.
