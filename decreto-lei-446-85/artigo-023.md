@@ -1,5 +1,7 @@
 # Artigo 23.º
 
-### Limitação do efeito da escolha da lei
+### Direito aplicável
 
-Independentemente da lei que as partes hajam escolhido para reger o contrato, as normas desta secção aplicam-se sempre que o mesmo apresente ligação estreita ao território dos Estados membros da União Europeia.
+1 - Independentemente da lei escolhida pelas partes para regular o contrato, as normas desta secção aplicam-se sempre que o mesmo apresente uma conexão estreita com o território português.
+
+2 - No caso de o contrato apresentar uma conexão estreita com o território de outro Estado membro da Comunidade Europeia aplicam-se as disposições correspondentes desse país na medida em que este determine a sua aplicação.
