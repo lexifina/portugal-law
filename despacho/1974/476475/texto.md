@@ -1,0 +1,3 @@
+Despacho
+Apesar de já estarem em fase adiantada os trabalhos de revisão de algumas das normas reguladoras do exercício da caça, por forma a garantir que a próxima época venatória decorra sob um regime mais racional e equitativo mas que assegure a defesa do património cinegético nacional, julgamos por bem, nos termos do n.º 1 do artigo 243.º do Decreto n.º 47847, de 14 de Agosto de 1967, ordenar que os presidentes das câmaras mandem suspender, a partir desta data, a passagem de todos os tipos de licenças de caça até publicação do novo diploma.
+Ministérios da Administração Interna e da Coordenação Económica, 5 de Julho de 1974. - O Ministro da Administração Interna, Joaquim Jorge Magalhães Mota. - O Secretário de Estado da Agricultura, Alfredo Gonzalez Esteves Belo.
