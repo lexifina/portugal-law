@@ -1,0 +1,6 @@
+Despacho Normativo n.º 14/91
+Tendo cessado em 13 de Janeiro de 1990 a comissão de serviço do licenciado em Medicina Veterinária Fernando Jorge Confraria Rodrigues Soares no Instituto Português de Conservas e Pescado, torna-se necessário proceder à criação de um lugar de assessor na carreira de médico veterinário do quadro de pessoal da ex-Junta Nacional dos Produtos Pecuários, em execução do disposto na alínea a) do n.º 2 e dos n.os 3 e 4 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro.
+Nestes termos, ao abrigo do n.º 5 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, os Ministros das Finanças e da Agricultura, Pescas e Alimentação determinam o seguinte:
+1 - É criado no quadro de pessoal da ex-Junta Nacional dos Produtos Pecuários, publicado no Diário da República, 2.ª série, n.º 5, de 7 de Janeiro de 1983, um lugar de assessor na carreira de médico veterinário.
+2 - A criação do lugar referido no número anterior produz efeitos a partir de 13 de Janeiro de 1990 e o mesmo será extinto quando vagar.
+Ministérios das Finanças e da Agricultura, Pescas e Alimentação, 31 de Dezembro de 1990. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação.
