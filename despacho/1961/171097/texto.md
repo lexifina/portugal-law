@@ -1,0 +1,3 @@
+Despacho
+Para os devidos efeitos se publica que, por despacho de S. Ex.ª o Secretário de Estado do Comércio de 21 de Abril de 1961, foi determinado que sejam mantidos os preços de venda ao público dos combustíveis líquidos (gasolina, petróleo, gasóleo e fueil-oil), fixados por despacho de S. Ex.ª de 27 de Setembro de 1960, publicado no Diário do Governo n.º 242, 1.ª série, de 18 de Outubro de 1960. O Fundo de Abastecimento, pelas vendas feitas à C. P. respectivamente no 1.º e 2.º trimestres do ano de 1961, receberá $24 e $219 por litro de gasóleo e pagará $226 e $227 por quilograma de fuel-oil.
+Direcção-Geral dos Combustíveis, 8 de Maio de 1961. - O Director-Geral, Francisco Gonçalves Cavaleiro de Ferreira.
