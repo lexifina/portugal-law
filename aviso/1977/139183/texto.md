@@ -1,0 +1,6 @@
+Aviso
+Por ordem superior se torna público que os Governos da Bulgária, Finlândia e Cuba depositaram junto do Governo Britânico, respectivamente em 1 de Setembro, 22 de Junho e 9 de Dezembro, os instrumentos de adesão à Convenção de Pescarias do Nordeste Atlântico e aceitaram as recomendações contidas no artigo 15.º da Convenção.
+Mais se torna público que o Governo de Cuba incluiu a seguinte declaração no seu instrumento de adesão:
+A República de Cuba declara que as disposições contidas nas alíneas i) e ii), parágrafo 3, do artigo 1.º da Convenção de Pescarias do Nordeste Atlântico, referidas aos territórios coloniais, já não são aplicáveis, por serem contrárias à declaração sobre a Convenção da Independência dos Países e Povos Coloniais (Resolução 1514), tomada pela Assembleia Geral da Organização das Nações Unidas em 14 de Dezembro de 1960, pela qual se proclama pôr fim rápido e incondicional ao colonialismo em todas as suas formas e manifestações.
+Torna-se igualmente público que a Noruega entregou, em 17 de Agosto de 1976, uma nota de denúncia da referida Convenção, cuja entrada em vigor se verificará em 17 de Agosto de 1977.
+Direcção-Geral dos Negócios Económicos, 29 de Março de 1977. - O Adjunto do Director-Geral, Alexandre Eduardo Lencastre da Veiga.
