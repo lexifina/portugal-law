@@ -1,0 +1,17 @@
+Resolução da Assembleia da República n.º 47/2001
+Aprova medidas de protecção da dignidade pessoal e da identidade genética do ser humano
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º, o seguinte:
+1 - Levar a cabo um amplo debate nacional sobre a temática do genoma humano e da defesa e salvaguarda da informação genética pessoal, por forma a analisar os avanços científicos recentemente divulgados, bem como as questões éticas e jurídicas daí potencialmente decorrentes, e encarrega a Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias de promover a organização desse debate, envolvendo, de forma ampla, a comunidade científica e o maior número possível de cidadãos.
+2 - Pronunciar-se pelos seguintes princípios fundamentais para a defesa e salvaguarda da dignidade pessoal e da identidade genética do ser humano, que submete a debate público:
+a) Primado do ser humano, com prevalência do seu bem-estar sobre o interesse exclusivo da sociedade e da ciência;
+b) Proibição de todas as formas de discriminação contra uma pessoa em virtude do seu património genético;
+c) Consagração da liberdade do exercício da investigação científica no domínio da biomedicina, no respeito pela protecção do ser humano;
+d) Garantia de que nenhuma intervenção que tenha por objecto modificar o genoma humano pode ser levada a efeito salvo por razões preventivas, de diagnóstico ou terapêuticas e somente se não tiver por finalidade introduzir uma modificação no genoma da descendência;
+e) Garantia de que as intervenções admissíveis no domínio genético dependem sempre do consentimento livre e esclarecido da pessoa, assegurando-se protecção e adequada representação a quem careça de capacidade para o prestar;
+f) Proibição de testes predictivos de doenças genéticas ou que permitam quer a identificação do indivíduo como portador de um gene responsável por uma doença quer a detecção de uma predisposição ou de uma susceptibilidade genética a uma doença, salvo para fins médicos ou de investigação médica e sem prejuízo de um aconselhamento genético apropriado;
+g) Proibição de utilização de qualquer informação genética por parte de quaisquer entidades públicas, privadas ou do sector social para efeitos de selecção adversa no que respeita ao exercício do direito ao trabalho, do direito de acesso a prestações sociais e do direito de celebração de contratos de seguro;
+h) Respeito rigoroso pelo sigilo dos dados pessoais no domínio genético, revelados pelo próprio ou apurados através de testes, garantindo-se aos mesmos protecção reforçada em termos de acesso, segurança e confidencialidade, bem como separação lógica em relação à restante informação pessoal;
+i) Garantia aos cidadãos de um acesso equitativo aos cuidados de saúde de qualidade apropriada em matéria de saúde, incluindo a aplicação, em Portugal ou no estrangeiro, das técnicas de biologia molecular, designadamente nos diagnósticos clínico, do estado de heterozigotia, pré-sintomático e pré-natal, tendo em conta as necessidades de saúde e os recursos disponíveis.
+3 - A primeira fase do debate desencadeado nos termos da presente resolução deverá ser concluída no prazo de 180 dias, por forma a permitir a elaboração de iniciativas legislativas sobre as questões relevantes para a protecção da dignidade do ser humano em matéria genética, bem como a respectiva discussão pública e a adequada articulação institucional com o Governo.
+Aprovada em 12 de Junho de 2001.
+O Presidente da Assembleia da República, António de Almeida Santos.
