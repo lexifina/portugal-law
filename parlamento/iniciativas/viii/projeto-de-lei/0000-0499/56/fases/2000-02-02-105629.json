@@ -1,0 +1,408 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "56",
+    "id": "6296",
+    "titulo": "Atribui o direito a subsídio de desemprego aos docentes dos estabelecimentos de educação e ensino públicos"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-02-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1781",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-02-02",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-02-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "1798",
+                "nome": "Fernando Pésinho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29091",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1283-1284"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-03",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1283?pgs=1283-1284&org=PLC"
+              }
+            ],
+            "sumario": "ATRIBUI DIREITO DE SUBSIDIO DE DESEMPREGO AOS DOCENTES CONTRATADOS NOS ESTABELECIMENTOS DE EDUCACAO E ENSINO PUBLICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29092",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1283-1283"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-03",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1283?pgs=1283&org=PLC"
+              }
+            ],
+            "sumario": "ATRIBUI DIREITO DE SUBSIDIO DE DESEMPREGO AOS DOCENTES CONTRATADOS NOS ESTABELECIMENTOS DE EDUCACAO E ENSINO PUBLICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1719",
+                "nome": "Rosado Fernandes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29093",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1282-1283"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-03",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1282?pgs=1282-1283&org=PLC"
+              }
+            ],
+            "sumario": "ATRIBUI DIREITO DE SUBSIDIO DE DESEMPREGO AOS DOCENTES CONTRATADOS NOS ESTABELECIMENTOS DE EDUCACAO E ENSINO PUBLICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1640",
+                "nome": "David Justino"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29094",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1281-1282"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-03",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1281?pgs=1281-1282&org=PLC"
+              }
+            ],
+            "sumario": "ATRIBUI DIREITO DE SUBSIDIO DE DESEMPREGO AOS DOCENTES CONTRATADOS NOS ESTABELECIMENTOS DE EDUCACAO E ENSINO PUBLICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1604",
+                "nome": "Carlos Matos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29095",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1279-1282"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-03",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1279?pgs=1279-1282&org=PLC"
+              }
+            ],
+            "sumario": "ATRIBUI DIREITO DE SUBSIDIO DE DESEMPREGO AOS DOCENTES CONTRATADOS NOS ESTABELECIMENTOS DE EDUCACAO E ENSINO PUBLICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1640",
+                "nome": "David Justino"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29096",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1278-1278"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-03",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1278?pgs=1278&org=PLC"
+              }
+            ],
+            "sumario": "ATRIBUI DIREITO DE SUBSIDIO DE DESEMPREGO AOS DOCENTES CONTRATADOS NOS ESTABELECIMENTOS DE EDUCACAO E ENSINO PUBLICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1423",
+                "nome": "Luísa Mesquita"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29097",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1277-1278",
+                  "1284-1284"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-03",
+                "pubLeg": "VIII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03/1277?pgs=1277-1278,1284&org=PLC"
+              }
+            ],
+            "sumario": "ATRIBUI DIREITO DE SUBSIDIO DE DESEMPREGO AOS DOCENTES CONTRATADOS NOS ESTABELECIMENTOS DE EDUCACAO E ENSINO PUBLICO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105629",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1781",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-02-03",
+        "pubLeg": "VIII",
+        "pubNr": "34",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/034/2000-02-03?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
