@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1919/08/17400/19281928.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1919-08-30",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "04624c2cd549edb6e8896781620a55e16bfaca90d9c0b1d665083639e7bd3837",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.7,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "70808d63070e3e69668a034e51723fa8b4b32ae9152218ab32f129e1dd21c217",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 378
 }
