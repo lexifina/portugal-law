@@ -1,0 +1,7 @@
+Portaria n.º 337/82
+de 1 de Abril
+Tendo o licenciado Constâncio de Sousa Carrusca sido nomeado definitivamente assessor, letra B, do quadro de pessoal da Direcção-Geral de Fiscalização Económica, conforme despacho ministerial de 28 de Fevereiro de 1981;
+Sendo necessário criar no quadro de pessoal da mesma Direcção-Geral 1 lugar de assessor, letra B, para possibilitar o provimento do interessado;
+Nos termos do n.º 2 do artigo 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano, pelo Ministro da Agricultura, Comércio e Pescas e pelo Secretário de Estado da Reforma Administrativa, criar no quadro de pessoal da Direcção-Geral de Fiscalização Económica, do Ministério da Agricultura, Comércio e Pescas, aprovado pelo Decreto n.º 412-G/75, de 7 de Agosto, e substituído pelo quadro I anexo à Portaria n.º 955/80, de 10 de Novembro, 1 lugar de assessor, letra B, o qual será extinto quando vagar.
+Ministérios das Finanças e do Plano, da Agricultura, Comércio e Pescas e da Reforma Administrativa, 24 de Fevereiro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
