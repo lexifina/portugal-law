@@ -10,7 +10,7 @@
 
 2 - A segunda avaliação é realizada com observância do disposto no presente Código, por uma comissão composta por dois peritos regionais designados pelo director de finanças em função da sua posição na lista organizada por ordem alfabética para esse efeito, um dos quais preside, e pelo sujeito passivo ou seu representante.
 
-3 - É aplicável o disposto nos n.os 3 a 5 do artigo 74.º e nos n.os 4 a 6 do artigo 75.º
+3 - É aplicável o disposto nos n.os 3 a 6 do artigo 74.º
 
 4 - Quando uma avaliação de prédio urbano seja efectuada por omissão à matriz ou na sequência de transmissão onerosa de imóveis e o alienante seja interessado para efeitos tributários deverá o mesmo ser notificado do seu resultado para, querendo, requerer segunda avaliação, no prazo e termos dos números anteriores, caso em que poderá integrar a comissão referida no n.º 2 ou nomear o seu representante.
 

@@ -4,7 +4,7 @@
 
 1 - A área bruta de construção do edifício ou da fracção e a área excedente à de implantação (A) resultam da seguinte expressão:
 
-A = Aa x Ab x Ac x Ad
+A = Aa + Ab + Ac + Ad
 
 em que:
 

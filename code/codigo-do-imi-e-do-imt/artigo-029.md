@@ -12,4 +12,4 @@
 
 5 - Nas zonas de cadastro diferido aplicam-se, com as devidas adaptações, as regras seguidas para a avaliação de base não cadastral.
 
-6 - A distribuição parcelar é efectuada pelo perito referido no artigo 55.º
+6 - A distribuição parcelar é efectuada pelo perito referido no artigo 56.º
