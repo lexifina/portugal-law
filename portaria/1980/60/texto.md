@@ -1,0 +1,9 @@
+Portaria n.º 60/80
+de 26 de Fevereiro
+1 - Com a alteração ao quadro de pessoal da Direcção-Geral dos Hospitais, aprovado pelo Decreto n.º 89/78, de 5 de Setembro, foram transformados três lugares de director de serviço em inspector superior, destinados às funções de representante daquela Direcção-Geral nas inspecções coordenadoras de região, tendo em conta o nível e volume das atribuições que por lei lhe são cometidas, sendo neles providos, por promoção, os referidos directores de serviços do mesmo quadro que desempenham também as funções de presidentes das comissões inter-hospitalares.
+2 - Porém, por lapso, não foi indicado no diploma legal acima referido que aqueles inspectores superiores eram, para além de delegados da Direcção-Geral dos Hospitais nas inspecções coordenadoras de região, presidentes das comissões inter-hospitalares, como era referido no artigo 51.º do Decreto-Lei n.º 413/71, de 27 de Setembro.
+3 - Sendo assim, verifica-se que ficou sem cobertura legal esta função, que continuam a exercer, situação esta que importa clarificar, não só para obviar as dificuldades formais e funcionais no âmbito do próprio serviço, que continuam a dirigir, como também para evitar prejuízos pessoais por indefinição das funções de chefia e representação do director-geral, que inequivocamente exercem em âmbito regional, para efeitos, designadamente, de aplicação do Decreto-Lei n.º 3/79, de 14 de Janeiro.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Saúde, o seguinte:
+Os inspectores superiores representantes da Direcção-Geral dos Hospitais nas inspecções coordenadoras de região são os presidentes das comissões inter-hospitalares e, nessa qualidade, representam, na respectiva área de jurisdição, o director-geral.
+Secretaria de Estado da Saúde, 1 de Fevereiro de 1980. - O Secretário de Estado da Saúde, Fernando José da Costa e Sousa.
