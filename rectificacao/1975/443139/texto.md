@@ -1,0 +1,16 @@
+Rectificação
+Tendo sido publicado com inexactidão no Diário do Governo, 1.ª série, n.º 61, de 13 de Março, pelo Ministério do Equipamento Social e do Ambiente, Secretaria de Estado dos Transportes e Comunicações, o Decreto-Lei n.º 129/75, determino que se façam as seguintes rectificações:
+No artigo 1.º, onde se lê:
+Art. 10.º ... será inferior a 50% ao de camionagem ...,
+deve ler-se:
+Art. 10.º ... será inferior em 50% ao de camionagem ...
+No mesmo artigo 1.º, onde se lê:
+Art. 22.º ...
+...
+6. Tractores agrícolas com caixa de carga comportando carga:
+Útil superior a 1500 kg:
+deve ler-se:
+Art. 22.º ...
+...
+6. Tractores agrícolas com caixa de carga comportando carga útil superior a 1500 kg:
+Presidência do Conselho de Ministros, 27 de Maio de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
