@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo uma comunicação do Departamento de Estado dos Estados Unidos da América dirigida à Embaixada de Portugal em Washington, foram depositados, respectivamente em 21 de Setembro de 1967 e 18 de Outubro de 1967, os instrumentos de adesão da Zâmbia ao Acordo Relativo ao Fundo Monetário Internacional e ao Acordo Relativo ao Banco Internacional de Reconstrução e Desenvolvimento, adoptados na Conferência Monetária e Financeira das Nações Unidas realizada em Bretton Woods de 1 a 22 de Julho de 1944.
+Direcção-Geral dos Negócios Económicos, 28 de Março de 1968. - O Director-Geral, José Calvet de Magalhães.
