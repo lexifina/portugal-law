@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se faz público que o Governo da Venezuela depositou, em 11 de Maio de 1962, junto do Secretariado-Geral das Nações Unidas, o instrumento de adesão do seu país à Convenção sobre tráfego rodoviário, celebrada em Genebra em 19 de Setembro de 1949, tendo escolhido, nos termos do parágrafo 3 do Anexo 4 da Convenção, as letras YV como sinal distintivo da origem de veículos no tráfego internacional. O Governo da Venezuela formulou as seguintes reservas:
+Artigo 31 (Sistema de emendas à Convenção). As emendas à Convenção não entrarão em vigor em relação à República da Venezuela antes de preenchidos os respectivos requisitos constitucionais.
+Artigo 33 A República da Venezuela ficará vinculada aos termos do artigo 36 do Estatuto do Tribunal Internacional de Justiça, ou seja, nenhum pleito poderá ser submetido ao Tribunal Internacional de Justiça se não for precedido de acordo das partes.
+Direcção-Geral dos Negócios Económicos e Consulares, 22 de Fevereiro de 1964. - O Director-Geral, Albano Pires Fernandes Nogueira.
