@@ -8,7 +8,7 @@
 
 a) Na alínea a) do n.º 2 do artigo 123.º, relativamente aos aspirantes milicianos ou das reservas naval e marítima e ao pessoal que frequente qualquer curso de preparação para oficial miliciano ou das mesmas reservas;
 
-b) Na alínea b) do mesmo número, quanto ao pessoal que frequente qualquer curso de alistamento de sargento dos quadros permanentes ou de preparação para sargento miliciano ou das reservas referidas;
+b) Na alínea b) do mesmo número, quanto ao pessoal que frequenta qualquer curso de alistamento de sargentos dos quadros permanentes ou de preparação para sargentos milicianos ou das reservas referidas ou ainda que frequente qualquer curso comum de preparação e selecção para o curso de oficiais ou de sargentos milicianos.
 
 c) No n.º 1 do citado artigo, para os demais militares.
 
