@@ -1,0 +1,26 @@
+Lei n.º 23/99
+de 21 de Abril
+Aumenta de três para quatro anos a duração máxima do mandato dos titulares de corpos gerentes de associações sindicais
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:
+Artigo único
+O artigo 17.º do Decreto-Lei n.º 215-B/75, de 30 de Abril, passa a ter a seguinte redacção:
+«Artigo 17.º
+Democracia sindical
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+6 - ...
+7 - O mandato dos corpos gerentes não pode ter duração superior a quatro anos, sendo permitida a reeleição para mandatos sucessivos.
+8 - ...
+9 - ...
+10 - ..
+11 - ...»
+Aprovada em 18 de Março de 1999.
+O Presidente da Assembleia da República, António de Almeida Santos.
+Promulgada em 30 de Março de 1999.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendada em 9 de Abril de 1999.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
