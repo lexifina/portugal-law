@@ -1,0 +1,22 @@
+Portaria n.º 30/2001
+de 17 de Janeiro
+O reconhecimento do acesso ao Serviço Nacional de Saúde de todos os requerentes de asilo insere-se dentro das medidas previstas no novo regime jurídico-legal em matéria de asilo e refugiados, estabelecido pela Lei n.º 15/98, de 26 de Março, no sentido de dotar o sistema nacional de apoio aos requerentes de asilo e refugiados de mecanismos que permitam ao Estado Português assegurar aos requerentes de asilo, até decisão final do pedido, condições de dignidade humana, de forma mais consentânea com normas internacionais a que Portugal aderiu.
+Os termos de acesso ao Serviço Nacional de Saúde deverão ter em conta os princípios gerais previstos na Lei de Bases da Saúde, nomeadamente o direito dos indivíduos à protecção da saúde, bem como a promoção e a defesa da saúde pública.
+O artigo 53.º da Lei n.º 15/98, de 26 de Março, reconhece aos requerentes de asilo, desde o momento da emissão de declaração comprovativa da apresentação do pedido de asilo, o acesso ao Serviço Nacional de Saúde em termos a definir por portaria conjunta dos Ministros da Administração Interna e da Saúde.
+Assim:
+Manda o Governo, pelos Ministros da Administração Interna e da Saúde, o seguinte:
+1.º O presente diploma estabelece as modalidades específicas de assistência médica e medicamentosa a prestar nas diferentes fases do procedimento de concessão do direito de asilo, desde a apresentação do respectivo pedido até à decisão final que recair sobre o mesmo.
+2.º A possibilidade de assistência médica e medicamentosa aos requerentes de asilo e ao respectivo agregado familiar inicia-se no acto do pedido de asilo e concretiza-se pela disponibilização, nas mesmas condições que aos cidadãos nacionais, de assistência médica e medicamentosa para satisfação de necessidades básicas de saúde e para os cuidados de saúde primários e de urgência, bem como para possibilitar o retorno ao país de origem ou país terceiro em condições físicas e de saúde para suportar a viagem.
+3.º A concretização da assistência médica e medicamentosa supõe a articulação e intervenção integrada do Ministério da Saúde com outros organismos e serviços, nomeadamente o Serviço de Estrangeiros e Fronteiras, do Ministério da Administração Interna, de molde a assegurar, entre outros, o direito à informação e o acesso às urgências e aos cuidados de saúde primários, bem como garantir a sua cessação nas circunstâncias previstas no presente diploma.
+4.º Após a apresentação de um pedido de asilo e emissão da respectiva declaração comprovativa, o Serviço de Estrangeiros e Fronteiras encaminhará os requerentes para os serviços competentes do Ministério da Saúde, nomeadamente, em caso de urgência, para um hospital da área do local da apresentação do pedido.
+5.º Os requerentes de asilo têm acesso gratuito ao Serviço Nacional de Saúde para efeitos de cuidados de urgência, incluindo diagnóstico e terapêutica, e de cuidados de saúde primários, bem como assistência medicamentosa, a prestar pelos serviços de saúde da sua área de residência.
+6.º Os cuidados de saúde primários referidos no número anterior, cujos encargos são suportados pelo Serviço Nacional de Saúde, incluem:
+a) A prevenção da doença e promoção da saúde e os cuidados de tipo ambulatório, abrangendo os de clínica geral, materno-infantis e de planeamento familiar, escolares e geriátricos;
+b) Cuidados de especialidades, abrangendo nomeadamente as áreas da oftalmologia, da estomatologia, da otorrinolaringologia e da saúde mental;
+c) Internamentos que não impliquem cuidados diferenciados;
+d) Elementos complementares de diagnóstico e terapêutica, incluindo a reabilitação;
+e) Cuidados de enfermagem, incluindo os de visitação domiciliária.
+7.º Para efeitos de acesso ao Serviço Nacional de Saúde nas condições definidas no presente diploma, os requerentes de asilo deverão ser titulares e portadores de declaração comprovativa de apresentação de um pedido de asilo ou de autorização de residência provisória válidos.
+8.º O reconhecimento aos requerentes de asilo do acesso ao Serviço Nacional de Saúde nos termos definidos nos números anteriores cessa com a decisão final que recair sobre o seu pedido de asilo, salvo quando, avaliada a situação médica do requerente, esta não permita a sua cessação.
+Em 27 de Dezembro de 2000.
+Pelo Ministro da Administração Interna, José Carlos das Dores Zorrinho, Secretário de Estado Adjunto do Ministro da Administração Interna. - A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa.
