@@ -1,0 +1,6 @@
+Portaria n.º 23/80
+de 9 de Janeiro
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Transportes e Comunicações, nos termos do artigo 37.º do Estatuto da Empresa Pública Correios e Telecomunicações de Portugal (anexo I ao Decreto-Lei n.º 49368, de 10 de Novembro de 1969), atendendo ao que por ela foi solicitado, autorizar a referida Empresa a contrair na Caixa Geral de Depósitos um empréstimo no montante de 520000 contos, à taxa de 21,75% ao ano, alterável pela Caixa dentro dos limites legais em vigor à data da alteração, amortizável em catorze semestralidades e vencendo-se a primeira seis meses após a liquidação dos financiamentos de execução das encomendas.
+A Empresa Pública Correios e Telecomunicações de Portugal inscreverá nos seus orçamentos anuais as verbas necessárias ao pagamento dos juros e amortizações do empréstimo.
+Se à data da celebração do contrato tiverem sido legalmente alteradas as taxas de juro para empréstimos a prazo idêntico ao constante da presente portaria (sete anos), fica autorizada a Empresa a celebrar o contrato estipulando a taxa que nessa data vigorar.
+Ministérios das Finanças e dos Transportes e Comunicações, 28 de Dezembro de 1979. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro dos Transportes e Comunicações, Frederico Alberto Monteiro da Silva.
