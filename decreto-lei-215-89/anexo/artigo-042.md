@@ -10,7 +10,7 @@
 
 4 - Tratando-se de prédios ampliados ou melhorados nos casos previstos nos n.os 1 e 3, a isenção aproveita apenas ao valor tributável correspondente ao acréscimo resultante das ampliações ou melhoramentos efectuados, tendo em conta para a determinação dos respectivos limite e período de isenção a totalidade do valor tributável do prédio, após o aumento derivado de tais ampliações ou melhoramentos.
 
-5 - Para efeitos do disposto nos n.os 2 e 3, o período de isenção a conceder será o determinado em conformidade com a seguinte tabela:
+5 - Para efeitos do disposto nos n.os 1 e 3, o período de isenção a conceder será o determinado em conformidade com a seguinte tabela:
 
 (ver tabela no documento original)
 
@@ -18,4 +18,4 @@
 
 7 - Para efeitos do disposto no presente artigo, considera-se ter havido afectação dos prédios ou partes de prédios à habitação própria e permanente do sujeito passivo ou do seu agregado familiar, se aí se fixar o respectivo domicílio fiscal.
 
-8 - O disposto no n.º 3 não é aplicável quando os prédios ou parte de prédios tiverem sido construídos de novo, ampliados, melhorados ou adquiridos a título oneroso por entidades que tenham o domicílio em país, território ou região, sujeito a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças, excepto se o valor anual da renda contratada for igual ou superior ao montante correspondente a um 1/15 do valor patrimonial do prédio arrendado.
+8 - O disposto no n.º 3 não é aplicável quando os prédios ou parte de prédios tiverem sido construídos de novo, ampliados, melhorados ou adquiridos a título oneroso por entidades que tenham o domicílio em país, território ou região, sujeito a um regime fiscal claramente mais favorável, constante da lista aprovada por portaria do Ministro das Finanças, excepto se o valor anual da renda contratada for igual ou superior ao montante correspondente a 1/15 do valor patrimonial do prédio arrendado.
