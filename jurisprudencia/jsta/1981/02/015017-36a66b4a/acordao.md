@@ -1,0 +1,61 @@
+# Acórdão do Supremo Tribunal Administrativo de 1981-02-26, processo 015017
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 015017
+
+**Data do Acordão:** 02/26/1981
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** RUI PESTANA
+
+**Descritores:** ACTO GENERICO; RECURSO CONTENCIOSO; PORTARIA REGULAMENTAR; NORMA JURIDICA
+
+**Nº Convencional:** JSTA00007773
+
+**Nº do Documento:** SA119810226015017
+
+**Data de Entrada:** 08/21/1980
+
+**Recorrente:** ASSOC DOS INDUSTRIAIS DE LACTICINIOS
+
+**Recorrido 1:** MINFP - MINAP - MINCTUR
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 0
+
+**Página:** 0
+
+**Apêndice:** DR
+
+**Data do Apêndice:** 03/14/1985
+
+**1ª Pág. de Publicação do Acordão:** 965
+
+**Privacidade:** 01
+
+**Meio Processual:** REC CONT.
+
+**Objecto:** PORT 336/80 DE 1980/06/19 N4 PONTO1 PONTO2.
+
+**Decisão:** REJEIÇÃO REC CONT.
+
+**Área Temática 1:** DIR ADM CONT - ACTO.
+
+**Legislação Nacional:** PORT 336/80 DE 1980/06/19 N4 PONTO1 PONTO2.; LOSTA56 ART15 N1 ART16 N1 PARUNICO.; DL 256-A/77 DE 1977/06/17 ART2 N1.; CONST76 ART269 N2.; CONST33 ART8 N21.; D 19243 DE 1931/01/16.; RSTA57 ART56 PAR1.; DL 164-A/76 DE 1976/02/28 NA REDACÇÃO DO DL 887/76 DE 1976/12/29 ART24.; LOTJ77 ART66 A.; L 62/77 DE 1977/08/25.
+
+**Jurisprudência Nacional:** AC STA DE 1978/03/02 IN AD N202 PAG1151.; AC STA DE 1978/04/13 IN AD N199 PAG895.; AC STA PROC10588 DE 1980/01/31.; AC STAP PROC10220 DE 1980/02/13.; AC STAP PROC9484 DE 1977/11/24.; AC STAP DE 1978/10/26 IN AD N205 PAG26.; AC STAP DE 1977/11/24 IN AD N196 PAG534.; AC STAP DE 1977/11/24 IN AD N195 PAG405.; AC STAP DE 1977/07/07 IN AD N192 PAG1251.
+
+**Referência a Doutrina:** MARCELLO CAETANO MANUAL DE DIREITO ADMINISTRATIVO 10ED T1 PAG428 PAG437 PAG457.; AFONSO QUEIRO IN RLJ ANO93 PAG286.; AFONSO QUEIRO LIÇÕES DE DIREITO ADMINISTRATIVO 1976 PAG3410-3412.; OLIVEIRA ASCENSÃO O DIREITO INTRODUÇÃO E TEORIA GERAL PAG182 PAG183 PAG188-191.; KARL LARENZ METODOLOGIA DA CIENCIA DO DIREITO PAG253.; DIAS MARQUES INTRODUÇÃO AO ESTUDO DO DIREITO PAG151.; SIMÕES DE OLIVEIRA IN DADM N1 ANO1 PAG9.; Texto Integral
+
+## Sumário
+
+I - Constituem actos genericos, por terem caracter geral e abstracto, tendo execução permanente, os pontos
+
+1 e 2 do n. 4 da Portaria n. 336/80, de 19 de
+
+Junho.
+
+II - Por isso, os referidos preceitos são contenciosamente inimpugnaveis.
