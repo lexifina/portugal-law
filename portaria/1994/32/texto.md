@@ -1,0 +1,48 @@
+Portaria n.º 32/94
+de 11 de Janeiro
+A Portaria n.º 821/91, de 12 de Agosto, que regulamenta o Decreto-Lei n.º 200/91, de 29 de Maio, completou a transposição da Directiva n.º 89/622/CEE, do Conselho, relativa à rotulagem dos produtos do tabaco, publicada no Jornal Oficial das Comunidades Europeias, série L, n.º 359, de 8 de Dezembro de 1989, e transpôs igualmente a Directiva n.º 90/239/CEE, do Conselho, que estabelece o teor máximo de alcatrão nos cigarros, publicada no Jornal Oficial das Comunidades Europeias, série L, n.º 137, de 30 de Maio de 1990.
+Aproveitou-se também a ocasião para modificar a regulamentação existente em matéria de rotulagem e teor em certas substâncias dos produtos do tabaco, procedendo ainda à eliminação de algumas disposições internas incompatíveis com o direito comunitário.
+Tendo, entretanto, sido adoptada a Directiva n.º 92/41/CEE, do Conselho, de 15 de Maio de 1992 (NUMDOC 392L0041), publicada no Jornal Oficial das Comunidades Europeias, série L, n.º 158, de 11 de Junho de 1992, que alterou a Directiva n.º 89/622/CEE, mostrou-se necessário introduzir na ordem jurídica interna portuguesa novas medidas em matéria de rotulagem do tabaco, para além da proibição de comercialização de certos produtos do tabaco de uso oral não destinados a serem fumados ou mascados. Tendo a matéria referente a esta proibição sido já transposta pelo Decreto-Lei n.º 386/93, de 18 de Novembro, justifica-se agora uma alteração da Portaria n.º 821/91, de 12 de Agosto, por forma a proceder-se à completa transposição da já mencionada Directiva n.º 92/41/CEE, na parte relativa à rotulagem dos produtos do tabaco, uma vez que a referida portaria havia já transposto, nesta matéria, a anterior Directiva n.º 89/622/CEE.
+Ouvido o Conselho de Prevenção do Tabagismo nos termos do n.º 1 do artigo 13.º do Decreto-Lei n.º 226/83, de 27 de Maio, na redacção que lhe foi dada pelo Decreto-Lei n.º 276/92, de 12 de Dezembro, e ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 386/93, de 18 de Novembro:
+Manda o Governo, pelo Ministro da Saúde, o seguinte:
+1.º As disposições do n.º 3.1, do n.º 3.2, da alínea d) do n.º 3.3, do n.º 3.4, do n.º 7.º e do n.º 8.º da Portaria n.º 821/91, de 12 de Agosto, passam a ter a seguinte redacção:
+3.1 - Nos maços de cigarros e de tabaco de enrolar, além da advertência geral prevista no número anterior, a outra grande superfície deve apresentar advertências específicas, que constam da lista do anexo A à presente portaria e que alternarão de modo a aparecerem numa quantidade igual de unidades de embalagem, com uma tolerância de 5% para mais ou para menos.
+3.2 - Numa das faces laterais, os maços de cigarros devem apresentar as menções dos teores de alcatrão e nicotina, medidos e verificados segundo as normas referidas no n.º 6.º desta portaria.
+3.3 - ...
+a) ...
+b) ...
+c) ...
+d) Ocupar pelo menos 4% da superfície em que são inseridas, tratando-se de cigarros ou tabaco de enrolar, ou 1% da superfície total da unidade de acondicionamento, nos restantes produtos.
+3.4 - As advertências a inserir nas duas grandes superfícies dos maços de cigarros devem ainda:
+a) ...
+b) ...
+c) ...
+7.º Os produtores e importadores de produtos do tabaco devem enviar anualmente, até ao dia 30 de Setembro, à Direcção-Geral da Saúde, a lista dos teores de condensado e nicotina dos cigarros comercializados em território nacional.
+8.º Compete à Direcção-Geral da Saúde, nos
+termos legais, assegurar e promover as acções necessárias ao cumprimento do disposto nesta portaria, ouvido o Conselho de Prevenção do Tabagismo e socorrendo-se, para o efeito, da colaboração de serviços e entidades habilitados.
+2.º São introduzidas na Portaria n.º 821/91, de 12 de Agosto, as disposições n.os 3.1-A e 3.1-B, a intercalar logo após o n.º 3.1, e 3.4-A, a intercalar logo após o n.º 3.4, com a seguinte redacção:
+3.1-A - Nas unidades de embalagem dos charutos, cigarrilhas, do tabaco de cachimbo, ou de outros produtos de tabaco de fumar, com excepção dos produtos referidos no n.º 3.1, devem constar, para além da advertência geral, advertências específicas, que constam da lista do anexo B à presente portaria, de forma a garantir a eficácia da alternância de utilização das advertências, tendo em atenção o custo que tal alternância comporta face à velocidade de circulação do produto.
+3.1-B - Nas unidades de embalagem dos produtos do tabaco sem combustão, além da advertência geral, deverá constar a advertência específica «Provoca o cancro».
+3.4-A - As advertências a inserir nos maços de tabaco de enrolar e nas unidades de embalagem dos restantes produtos do tabaco deverão ser apostas de modo inamovível e não devem ficar nunca dissimuladas, veladas ou separadas por outras indicações ou imagens.
+3.º O anexo à Portaria n.º 821/91, de 12 de Agosto, passará a anexo A, com o título «Lista de advertências específicas a apor nos maços de cigarros e de tabaco de enrolar (n.º 3.1)», e é inserido um novo anexo, que passará a anexo B, com o título «Lista de advertências específicas a apor nas unidades de embalagem de tabaco de fumar que não sejam maços de cigarros ou tabaco de enrolar (n.º 3.1-A)».
+4.º Ficam revogadas as disposições dos n.os 10.1 e 10.2 da Portaria n.º 821/91, de 12 de Agosto.
+5.º A presente portaria entra em vigor 90 dias após a sua publicação.
+Ministério da Saúde.
+Assinada em 17 de Dezembro de 1993.
+O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
+
+ANEXO A
+Lista de advertências específicas a apor nos maços de cigarros e de tabaco de enrolar (n.º 3.1)
+Fumar provoca o cancro.
+Fumar provoca doenças cardiovasculares.
+Fumar provoca doenças mortais.
+Proteja as crianças; não as obrigue a respirar o seu fumo.
+Fumar pode matar.
+Os fumadores morrem prematuramente.
+
+ANEXO B
+Lista de advertências específicas a apor nas unidades de embalagem de tabaco de fumar que não sejam maços de cigarros ou tabaco de enrolar (n.º 3.1-A).
+Fumar provoca o cancro.
+Fumar provoca doenças cardiovasculares.
+Fumar prejudica a saúde do próximo.
+Fumar provoca doenças mortais.
