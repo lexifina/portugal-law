@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OfehzreU1EekBL7OXFnyzGmW8bzUJkDwDT7BSK7VUfLauZ5I%2f6vSw1dJJCXiVPxrlwNtg4zrKjgh67DgiM8B5FKf8N6o4ALNMnM6XcxO93rNB0scu3e8b%2bi1ZjYLgC3GyFhkWhw%2bIXevazca40mvw98RJxsco5JCegGgillMwlwn078EN3YG2ZZJVhZ59H%2fLW%2bs5mYqc4JXMwaXSW8sA0jwKn6uXi10AUm59cKhTprZUuHzvHEWandtkZpdSG61gn1XLqqd34GFDqZfcyLmX3ExGx49CBIyD8qQZJ5cRcV%2flVtgFM44vas8fwL4YHxhDFbwSHrZDfEziwK608l068Bc1XIKORTm7pOuZpv0CK8Wx1xbmFjVpqM7eBPtfukK%2b9sFdolrKVteHgWfoqM6qxjc5xiB0Zh3Rpl%2frrgejwZ4%3d&fich=RequerimentosVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "ee27fd579cbcd218d0bfb6c54648bdf855a16242176249fd32eb6a93230a2247",
+  "legislatura": "VIII",
+  "id": "22839",
+  "tipo": "Requerimento",
+  "numero": "752",
+  "data_registo": "2001-01-31",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "SITUAÇÃO NA UNIVERSIDADE DA BEIRA INTERIOR",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "1762",
+        "nome": "Margarida  Botelho"
+      }
+    ],
+    "DataEnvio": "2001-02-02",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2001-02-02",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA  EDUCAÇÃO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2001-06-25",
+            "docRemetida": null,
+            "entidade": "MIN.  DA  EDUCAÇÃO",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a54544338324d6a68685a5445315953316b5932466a4c5451334d5445744f446b7a5a6930774f5755344e6d566d597a6b334e7a45756347526d&fich=628ae15a-dcac-4711-893f-09e86efc9771.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2001-01-31",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a545443396a4e546b784e5463344f53307a5a5756684c54526b5932457459544a6d5a43307a5a574e6b5954646b4f546c69595463756347526d&fich=c5915789-3eea-4dca-a2fd-3ecda7d99ba7.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "22839",
+    "Legislatura": "VIII",
+    "Nr": "752",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "262203",
+        "obs": "120-(54)",
+        "pag": [
+          "120-(54)-120-(54)"
+        ],
+        "pagFinalDiarioSupl": "2º Supl.",
+        "pubdt": "2001",
+        "pubLeg": "VIII",
+        "pubNr": "15",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "2º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/015S2/2001-02-03/120-(54)?pgs=120-(54)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
