@@ -1,0 +1,5 @@
+Aviso n.º 70/92
+Por ordem superior se torna público que Portugal depositou junto do Governo Francês, em 6 de Abril de 1992, o instrumento de ratificação da Emenda à Convenção de 22 de Novembro de 1928, adoptada pela Assembleia Geral do Bureau International des Expositions em 31 de Maio de 1988, aprovada para ratificação pelo Decreto n.º 10/92, publicado no Diário da República, n.º 35, de 11 de Fevereiro de 1992.
+Em 6 de Abril de 1992, tinham ratificado esta Emenda os seguintes países: Noruega, Rússia Bielorússia, Coreia, México, Bélgica, França, Finlândia, Hungria, Austrália, Espanha, Reino Unido, Canadá, Países Baixos, República Federativa Checa e Eslovaca, Nicarágua, Mónaco, Áustria, Suécia, Itália e Alemanha.
+A Emenda de 31 de Maio de 1988 entrará em vigor logo que quatro quintos dos Estados membros do Bureau International des Expositions a ratifiquem.
+Direcção-Geral dos Negócios Político-Económicos, 29 de Abril de 1992. - O Director de Serviços de Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
