@@ -8,7 +8,7 @@
 
 a) Programar e executar uma política de habitação inserida em planos de ordenamento geral do território e apoiada em planos de urbanização que garantam a existência de uma rede adequada de transportes e de equipamento social;
 
-b) Promover, em colaboração com as autarquias locais, a construção de habitações económicas e sociais;
+b) Promover, em colaboração com as regiões autónomas e com as autarquias locais, a construção de habitações económicas e sociais;
 
 c) Estimular a construção privada, com subordinação ao interesse geral, e o acesso à habitação própria ou arrendada;
 

@@ -2,9 +2,9 @@
 
 ### (Iniciativa da lei e do referendo)
 
-1. A iniciativa da lei e do referendo compete aos Deputados, aos grupos parlamentares e ao Governo, e ainda, nos termos e condições estabelecidos na lei, a grupos de cidadãos eleitores, competindo a iniciativa da lei, no respeitante às regiões autónomas, às respectivas assembleias legislativas regionais.
+1. A iniciativa da lei e do referendo compete aos Deputados, aos grupos parlamentares e ao Governo, e ainda, nos termos e condições estabelecidos na lei, a grupos de cidadãos eleitores, competindo a iniciativa da lei, no respeitante às regiões autónomas, às respectivas Assembleias Legislativas.
 
-2. Os Deputados, os grupos parlamentares, as assembleias legislativas regionais e os grupos de cidadãos eleitores não podem apresentar projectos de lei, propostas de lei ou propostas de alteração que envolvam, no ano económico em curso, aumento das despesas ou diminuição das receitas do Estado previstas no Orçamento.
+2. Os Deputados, os grupos parlamentares, as Assembleias Legislativas das regiões autónomas e os grupos de cidadãos eleitores não podem apresentar projectos de lei, propostas de lei ou propostas de alteração que envolvam, no ano económico em curso, aumento das despesas ou diminuição das receitas do Estado previstas no Orçamento.
 
 3. Os Deputados, os grupos parlamentares e os grupos de cidadãos eleitores não podem apresentar projectos de referendo que envolvam, no ano económico em curso, aumento das despesas ou diminuição das receitas do Estado previstas no Orçamento.
 
@@ -14,6 +14,6 @@
 
 6. As propostas de lei e de referendo caducam com a demissão do Governo.
 
-7. As propostas de lei da iniciativa das assembleias legislativas regionais caducam com o termo da respectiva legislatura, caducando apenas com o termo da legislatura da Assembleia da República as que já tenham sido objecto de aprovação na generalidade.
+7. As propostas de lei da iniciativa das Assembleias Legislativas das regiões autónomas caducam com o termo da respectiva legislatura, caducando apenas com o termo da legislatura da Assembleia da República as que já tenham sido objecto de aprovação na generalidade.
 
 8. As comissões parlamentares podem apresentar textos de substituição, sem prejuízo dos projectos e das propostas de lei e de referendo a que se referem, quando não retirados.

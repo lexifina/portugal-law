@@ -1,13 +1,9 @@
 # Artigo 292.º
 
-### (Estatuto de Macau)
+### (Incriminação e julgamento dos agentes e responsáveis da PIDE/DGS)
 
-1. O território de Macau, enquanto se mantiver sob administração portuguesa, rege-se por estatuto adequado à sua situação especial, cuja aprovação compete à Assembleia da República, cabendo ao Presidente da República praticar os actos neste previstos.
+1. Mantém-se em vigor a Lei n.º 8/75, de 25 de Julho, com as alterações introduzidas pela Lei n.º 16/75, de 23 de Dezembro, e pela Lei n.º 18/75, de 26 de Dezembro.
 
-2. O estatuto do território de Macau, constante da Lei n.º 1/76, de 17 de Fevereiro, continua em vigor, com as alterações que lhe foram introduzidas pela Lei n.º 53/79, de 14 de Setembro, pela Lei n.º 13/90, de 10 de Maio, e pela Lei n.º 23-A/96, de 29 de Julho.
+2. A lei poderá precisar as tipificações criminais constantes do n.º 2 do artigo 2.º, do artigo 3.º, da alínea b) do artigo 4.º e do artigo 5.º do diploma referido no número anterior.
 
-3. Mediante proposta da Assembleia Legislativa de Macau ou do Governador de Macau, nesse caso ouvida a Assembleia Legislativa de Macau, e precedendo parecer do Conselho de Estado, a Assembleia da República pode aprovar alterações ao estatuto ou a sua substituição.
-
-4. No caso de a proposta ser aprovada com modificações, o Presidente da República não promulgará o decreto da Assembleia da República sem a Assembleia Legislativa de Macau ou o Governador de Macau, consoante os casos, se pronunciar favoravelmente.
-
-5. O território de Macau dispõe de organização judiciária própria, dotada de autonomia e adaptada às suas especificidades, nos termos da lei, que deverá salvaguardar o princípio da independência dos juízes.
+3. A lei poderá regular especialmente a atenuação extraordinária prevista no artigo 7.º do mesmo diploma.

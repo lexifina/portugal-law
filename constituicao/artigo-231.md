@@ -1,15 +1,17 @@
 # Artigo 231.º
 
-### (Órgãos de governo próprio das regiões)
+### (Órgãos de governo próprio das regiões autónomas)
 
-1. São órgãos de governo próprio de cada região a assembleia legislativa regional e o governo regional.
+1. São órgãos de governo próprio de cada região autónoma a Assembleia Legislativa e o Governo Regional.
 
-2. A assembleia legislativa regional é eleita por sufrágio universal, directo e secreto, de harmonia com o princípio da representação proporcional.
+2. A Assembleia Legislativa é eleita por sufrágio universal, directo e secreto, de harmonia com o princípio da representação proporcional.
 
-3. O governo regional é politicamente responsável perante a assembleia legislativa regional e o seu presidente é nomeado pelo Ministro da República, tendo em conta os resultados eleitorais.
+3. O Governo Regional é politicamente responsável perante a Assembleia Legislativa da região autónoma e o seu presidente é nomeado pelo Representante da República, tendo em conta os resultados eleitorais.
 
-4. O Ministro da República nomeia e exonera os restantes membros do governo regional, sob proposta do respectivo presidente.
+4. O Representante da República nomeia e exonera os restantes membros do Governo Regional, sob proposta do respectivo presidente.
 
-5. É da exclusiva competência do governo regional a matéria respeitante à sua própria organização e funcionamento.
+5. O Governo Regional toma posse perante a Assembleia Legislativa da região autónoma.
 
-6. O estatuto dos titulares dos órgãos de governo próprio das regiões autónomas é definido nos respectivos estatutos político-administrativos.
+6. É da exclusiva competência do Governo Regional a matéria respeitante à sua própria organização e funcionamento.
+
+7. O estatuto dos titulares dos órgãos de governo próprio das regiões autónomas é definido nos respectivos estatutos político-administrativos.

@@ -1,21 +1,21 @@
 # Artigo 39.º
 
-### (Alta Autoridade para a Comunicação Social)
+### (Regulação da comunicação social)
 
-1. O direito à informação, a liberdade de imprensa e a independência dos meios de comunicação social perante o poder político e o poder económico, bem como a possibilidade de expressão e confronto das diversas correntes de opinião e o exercício dos direitos de antena, de resposta e de réplica política, são assegurados por uma Alta Autoridade para a Comunicação Social.
+1. Cabe a uma entidade administrativa independente assegurar nos meios de comunicação social:
 
-2. A lei define as demais funções e competências da Alta Autoridade para a Comunicação Social e regula o seu funcionamento.
+a) O direito à informação e a liberdade de imprensa;
 
-3. A Alta Autoridade para a Comunicação Social é um órgão independente, constituído por onze membros, nos termos da lei, com inclusão obrigatória:
+b) A não concentração da titularidade dos meios de comunicação social;
 
-a) De um magistrado, designado pelo Conselho Superior da Magistratura, que preside;
+c) A independência perante o poder político e o poder económico;
 
-b) De cinco membros eleitos pela Assembleia da República segundo o sistema proporcional e o método da média mais alta de Hondt;
+d) O respeito pelos direitos, liberdades e garantias pessoais;
 
-c) De um membro designado pelo Governo;
+e) O respeito pelas normas reguladoras das actividades de comunicação social;
 
-d) De quatro elementos representativos da opinião pública, da comunicação social e da cultura.
+f) A possibilidade de expressão e confronto das diversas correntes de opinião;
 
-4. A Alta Autoridade para a Comunicação Social intervém nos processos de licenciamento de estações emissoras de rádio e de televisão, nos termos da lei.
+g) O exercício dos direitos de antena, de resposta e de réplica política.
 
-5. A Alta Autoridade para a Comunicação Social intervém na nomeação e exoneração dos directores dos órgãos de comunicação social públicos, nos termos da lei.
+2. A lei define a composição, as competências, a organização e o funcionamento da entidade referida no número anterior, bem como o estatuto dos respectivos membros, designados pela Assembleia da República e por cooptação destes.

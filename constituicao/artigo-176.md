@@ -8,4 +8,4 @@
 
 3. Todos os grupos parlamentares têm direito à determinação da ordem do dia de um certo número de reuniões, segundo critério a estabelecer no Regimento, ressalvando-se sempre a posição dos partidos minoritários ou não representados no Governo.
 
-4. As assembleias legislativas regionais podem solicitar prioridade para assuntos de interesse regional de resolução urgente.
+4. As Assembleias Legislativas das regiões autónomas podem solicitar prioridade para assuntos de interesse regional de resolução urgente.

@@ -22,7 +22,7 @@ h) Associações e partidos políticos;
 
 i) Bases do sistema de ensino;
 
-j) Eleições dos deputados às Assembleias Legislativas Regionais dos Açores e da Madeira;
+j) Eleições dos deputados às Assembleias Legislativas das regiões autónomas;
 
 l) Eleições dos titulares dos órgãos do poder local ou outras realizadas por sufrágio directo e universal, bem como dos restantes órgãos constitucionais;
 

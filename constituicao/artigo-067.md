@@ -18,4 +18,6 @@ e) Regulamentar a procriação assistida, em termos que salvaguardem a dignidade
 
 f) Regular os impostos e os benefícios sociais, de harmonia com os encargos familiares;
 
-g) Definir, ouvidas as associações representativas das famílias, e executar uma política de família com carácter global e integrado.
+g) Definir, ouvidas as associações representativas das famílias, e executar uma política de família com carácter global e integrado;
+
+h) Promover, através da concertação das várias políticas sectoriais, a conciliação da actividade profissional com a vida familiar.

@@ -16,10 +16,8 @@ e) Votar moções de confiança e de censura ao Governo;
 
 f) Acompanhar e apreciar, nos termos da lei, a participação de Portugal no processo de construção da união europeia;
 
-g) Pronunciar-se sobre a dissolução dos órgãos de governo próprio das regiões autónomas;
+g) Eleger, segundo o sistema de representação proporcional, cinco membros do Conselho de Estado e os membros do Conselho Superior do Ministério Público que lhe competir designar;
 
-h) Eleger, segundo o sistema de representação proporcional, cinco membros do Conselho de Estado, cinco membros da Alta Autoridade para a Comunicação Social e os membros do Conselho Superior do Ministério Público que lhe competir designar;
+h) Eleger, por maioria de dois terços dos Deputados presentes, desde que superior à maioria absoluta dos Deputados em efectividade de funções, dez juízes do Tribunal Constitucional, o Provedor de Justiça, o Presidente do Conselho Económico e Social, sete vogais do Conselho Superior da Magistratura, os membros da entidade de regulação da comunicação social, e de outros órgãos constitucionais cuja designação, nos termos da lei, seja cometida à Assembleia da República;
 
-i) Eleger, por maioria de dois terços dos Deputados presentes, desde que superior à maioria absoluta dos Deputados em efectividade de funções, dez juízes do Tribunal Constitucional, o Provedor de Justiça, o presidente do Conselho Económico Social, sete vogais do Conselho Superior da Magistratura e os membros de outros órgãos constitucionais cuja designação seja cometida à Assembleia da República;
-
-j) Acompanhar, nos termos da lei e do Regimento, o envolvimento de contingentes militares portugueses no estrangeiro.
+i) Acompanhar, nos termos da lei, o envolvimento de contingentes militares e de forças de segurança no estrangeiro.

@@ -10,13 +10,13 @@ Compete à Assembleia da República:
 
 a) Aprovar alterações à Constituição, nos termos dos artigos 284.º a 289.º;
 
-b) Aprovar os estatutos político-administrativos das regiões autónomas;
+b) Aprovar os estatutos político-administrativos e as leis relativas à eleição dos deputados às Assembleias Legislativas das regiões autónomas;
 
 c) Fazer leis sobre todas as matérias, salvo as reservadas pela Constituição ao Governo;
 
 d) Conferir ao Governo autorizações legislativas;
 
-e) Conferir às assembleias legislativas regionais as autorizações previstas na alínea b) do n.º 1 do artigo 227.º da Constituição;
+e) Conferir às Assembleias Legislativas das regiões autónomas as autorizações previstas na alínea b) do n.º 1 do artigo 227.º da Constituição;
 
 f) Conceder amnistias e perdões genéricos;
 
@@ -30,7 +30,7 @@ j) Propor ao Presidente da República a sujeição a referendo de questões de r
 
 l) Autorizar e confirmar a declaração do estado de sítio e do estado de emergência;
 
-m) Autorizar o Presidente da República a declarar a guerra e a fazer a paz;
+m) Autorizar o Presidente da República a declarar a guerra e a fazer paz;
 
 n) Pronunciar-se, nos termos da lei, sobre as matérias pendentes de decisão em órgãos no âmbito da União Europeia que incidam na esfera da sua competência legislativa reservada;
 

@@ -10,20 +10,22 @@ b) Promover a justiça social, assegurar a igualdade de oportunidades e operar a
 
 c) Assegurar a plena utilização das forças produtivas, designadamente zelando pela eficiência do sector público;
 
-d) Orientar o desenvolvimento económico e social no sentido de um crescimento equilibrado de todos os sectores e regiões e eliminar progressivamente as diferenças económicas e sociais entre a cidade e o campo;
+d) Promover a coesão económica e social de todo o território nacional, orientando o desenvolvimento no sentido de um crescimento equilibrado de todos os sectores e regiões e eliminando progressivamente as diferenças económicas e sociais entre a cidade e o campo e entre o litoral e o interior;
 
-e) Assegurar o funcionamento eficiente dos mercados, de modo a garantir a equilibrada concorrência entre as empresas, a contrariar as formas de organização monopolistas e a reprimir os abusos de posição dominante e outras práticas lesivas do interesse geral;
+e) Promover a correcção das desigualdades derivadas da insularidade das regiões autónomas e incentivar a sua progressiva integração em espaços económicos mais vastos, no âmbito nacional ou internacional;
 
-f) Desenvolver as relações económicas com todos os povos, salvaguardando sempre a independência nacional e os interesses dos portugueses e da economia do país;
+f) Assegurar o funcionamento eficiente dos mercados, de modo a garantir a equilibrada concorrência entre as empresas, a contrariar as formas de organização monopolistas e a reprimir os abusos de posição dominante e outras práticas lesivas do interesse geral;
 
-g) Eliminar os latifúndios e reordenar o minifúndio;
+g) Desenvolver as relações económicas com todos os povos, salvaguardando sempre a independência nacional e os interesses dos portugueses e da economia do país;
 
-h) Garantir a defesa dos interesses e os direitos dos consumidores;
+h) Eliminar os latifúndios e reordenar o minifúndio;
 
-i) Criar os instrumentos jurídicos e técnicos necessários ao planeamento democrático do desenvolvimento económico e social;
+i) Garantir a defesa dos interesses e os direitos dos consumidores;
 
-j) Assegurar uma política científica e tecnológica favorável ao desenvolvimento do país;
+j) Criar os instrumentos jurídicos e técnicos necessários ao planeamento democrático do desenvolvimento económico e social;
 
-l) Adoptar uma política nacional de energia, com preservação dos recursos naturais e do equilíbrio ecológico, promovendo, neste domínio, a cooperação internacional;
+l) Assegurar uma política científica e tecnológica favorável ao desenvolvimento do país;
 
-m) Adoptar uma política nacional da água, com aproveitamento, planeamento e gestão racional dos recursos hídricos.
+m) Adoptar uma política nacional de energia, com preservação dos recursos naturais e do equilíbrio ecológico, promovendo, neste domínio, a cooperação internacional;
+
+n) Adoptar uma política nacional da água, com aproveitamento, planeamento e gestão racional dos recursos hídricos.

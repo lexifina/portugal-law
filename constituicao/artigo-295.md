@@ -1,5 +1,7 @@
 # Artigo 295.º
 
-### (Regra especial sobre partidos)
+### (Data e entrada em vigor da Constituição)
 
-O disposto no n.º 3 do artigo 51.º aplica-se aos partidos constituídos anteriormente à entrada em vigor da Constituição, cabendo à lei regular a matéria.
+1. A Constituição da República Portuguesa tem a data da sua aprovação pela Assembleia Constituinte, 2 de Abril de 1976.
+
+2. A Constituição da República Portuguesa entra em vigor no dia 25 de Abril de 1976.

@@ -10,9 +10,9 @@ b) Que apliquem norma cuja inconstitucionalidade haja sido suscitada durante o p
 
 2. Cabe igualmente recurso para o Tribunal Constitucional das decisões dos tribunais:
 
-a) Que recusem a aplicação de norma constante de acto legislativo com fundamento na sua ilegalidade por violação de lei com valor reforçado;
+a) Que recusem a aplicação de norma constante de acto legislativo com fundamento na sua ilegalidade por violação da lei com valor reforçado;
 
-b) Que recusem a aplicação de norma constante de diploma regional com fundamento na sua ilegalidade por violação do estatuto da região autónoma ou de lei geral da República;
+b) Que recusem a aplicação de norma constante de diploma regional com fundamento na sua ilegalidade por violação do estatuto da região autónoma;
 
 c) Que recusem a aplicação de norma constante de diploma emanado de um órgão de soberania com fundamento na sua ilegalidade por violação do estatuto de uma região autónoma;
 

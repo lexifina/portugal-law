@@ -14,4 +14,4 @@
 
 6. As presidências das comissões são no conjunto repartidas pelos grupos parlamentares em proporção com o número dos seus Deputados.
 
-7. Nas reuniões das comissões em que se discutam propostas legislativas regionais, podem participar representantes da Assembleia Legislativa Regional proponente, nos termos do Regimento.
+7. Nas reuniões das comissões em que se discutam propostas legislativas regionais, podem participar representantes da Assembleia Legislativa da região autónoma proponente, nos termos do Regimento.

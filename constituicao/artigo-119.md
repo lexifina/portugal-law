@@ -12,13 +12,13 @@ c) As leis, os decretos-leis e os decretos legislativos regionais;
 
 d) Os decretos do Presidente da República;
 
-e) As resoluções da Assembleia da República e das Assembleias Legislativas Regionais dos Açores e da Madeira;
+e) As resoluções da Assembleia da República e das Assembleias Legislativas das regiões autónomas;
 
-f) Os regimentos da Assembleia da República, do Conselho de Estado e das Assembleias Legislativas Regionais dos Açores e da Madeira;
+f) Os regimentos da Assembleia da República, do Conselho de Estado e das Assembleias Legislativas das regiões autónomas;
 
 g) As decisões do Tribunal Constitucional, bem como as dos outros tribunais a que a lei confira força obrigatória geral;
 
-h) Os decretos regulamentares e os demais decretos e regulamentos do Governo, bem como os decretos dos Ministros da República para as regiões autónomas e os decretos regulamentares regionais;
+h) Os decretos regulamentares e os demais decretos e regulamentos do Governo, bem como os decretos dos Representantes da República para as regiões autónomas e os decretos regulamentares regionais;
 
 i) Os resultados de eleições para os órgãos de soberania, das regiões autónomas e do poder local, bem como para o Parlamento Europeu e ainda os resultados de referendos de âmbito nacional e regional.
 

@@ -33,3 +33,5 @@ d) As matérias previstas no artigo 164.º da Constituição, com excepção do 
 11. O referendo só tem efeito vinculativo quando o número de votantes for superior a metade dos eleitores inscritos no recenseamento.
 
 12. Nos referendos são chamados a participar cidadãos residentes no estrangeiro, regularmente recenseados ao abrigo do disposto no n.º 2 do artigo 121.º, quando recaiam sobre matéria que lhes diga também especificamente respeito.
+
+13. Os referendos podem ter âmbito regional, nos termos previstos no n.º 2 do artigo 232.º

@@ -6,4 +6,4 @@
 
 2. É reconhecido às minorias o direito de oposição democrática, nos termos da Constituição e da lei.
 
-3. Os partidos políticos representados na Assembleia da República e que não façam parte do Governo gozam, designadamente, do direito de serem informados regular e directamente pelo Governo sobre o andamento dos principais assuntos de interesse público, de igual direito gozando os partidos políticos representados nas assembleias legislativas regionais e em quaisquer outras assembleias designadas por eleição directa relativamente aos correspondentes executivos de que não façam parte.
+3. Os partidos políticos representados na Assembleia da República e que não façam parte do Governo gozam, designadamente, do direito de serem informados regular e directamente pelo Governo sobre o andamento dos principais assuntos de interesse público, de igual direito gozando os partidos políticos representados nas Assembleias Legislativas das regiões autónomas e em quaisquer outras assembleias designadas por eleição directa relativamente aos correspondentes executivos de que não façam parte.

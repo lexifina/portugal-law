@@ -12,4 +12,16 @@
 
 5. As leis orgânicas carecem de aprovação, na votação final global, por maioria absoluta dos Deputados em efectividade de funções, devendo as disposições relativas à delimitação territorial das regiões, previstas no artigo 255.º, ser aprovadas, na especialidade, em Plenário, por idêntica maioria.
 
-6. A lei que regula o exercício do direito previsto no n.º 2 do artigo 121.º e as disposições das leis que regulam as matérias referidas nos artigos 148.º e 149.º, na alínea o) do artigo 164.º, bem como as relativas ao sistema e método de eleição dos órgãos previstos no n.º 3 do artigo 239.º, carecem de aprovação por maioria de dois terços dos Deputados presentes, desde que superior à maioria absoluta dos Deputados em efectividade de funções.
+6. Carecem de aprovação por maioria de dois terços dos Deputados presentes, desde que superior à maioria absoluta dos Deputados em efectividade de funções:
+
+a) A lei respeitante à entidade de regulação da comunicação social;
+
+b) As normas que disciplinam o disposto no n.º 2 do artigo 118.º;
+
+c) A lei que regula o exercício do direito previsto no n.º 2 do artigo 121.º;
+
+d) As disposições das leis que regulam as matérias referidas nos artigos 148.º e 149.º, e as relativas ao sistema e método de eleição dos órgãos previstos no n.º 3 do artigo 239.º;
+
+e) As disposições que regulam a matéria da alínea o) do artigo 164.º;
+
+f) As disposições dos estatutos político-administrativos das regiões autónomas que enunciem as matérias que integram o respectivo poder legislativo.

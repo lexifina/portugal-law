@@ -8,7 +8,7 @@
 
 3. A extradição de cidadãos portugueses do território nacional só é admitida, em condições de reciprocidade estabelecidas em convenção internacional, nos casos de terrorismo e de criminalidade internacional organizada, e desde que a ordem jurídica do Estado requisitante consagre garantias de um processo justo e equitativo.
 
-4. Só é admitida a extradição por crimes a que corresponda, segundo o direito do Estado requisitante, pena ou medida de segurança privativa ou restritiva da liberdade com carácter perpétuo ou de duração indefinida, em condições de reciprocidade estabelecidas em convenção internacional e desde que o Estado requisitante ofereça garantias de que tal pena ou medida de segurança não será aplicada ou executada.
+4. Só é admitida a extradição por crimes a que corresponda, segundo o direito do Estado requisitante, pena ou medida de segurança privativa ou restritiva da liberdade com carácter perpétuo ou de duração indefinida, se, nesse domínio, o Estado requisitante for parte de convenção internacional a que Portugal esteja vinculado e oferecer garantias de que tal pena ou medida de segurança não será aplicada ou executada.
 
 5. O disposto nos números anteriores não prejudica a aplicação das normas de cooperação judiciária penal estabelecidas no âmbito da União Europeia.
 

@@ -18,7 +18,7 @@ e) Verificar a legalidade da constituição de partidos políticos e suas coliga
 
 f) Verificar previamente a constitucionalidade e a legalidade dos referendos nacionais, regionais e locais, incluindo a apreciação dos requisitos relativos ao respectivo universo eleitoral;
 
-g) Julgar a requerimento dos Deputados, nos termos da lei, os recursos relativos à perda de mandato e às eleições realizadas na Assembleia da República e nas assembleias legislativas regionais;
+g) Julgar a requerimento dos Deputados, nos termos da lei, os recursos relativos à perda do mandato e às eleições realizadas na Assembleia da República e nas Assembleias Legislativas das regiões autónomas;
 
 h) Julgar as acções de impugnação de eleições e deliberações de órgãos de partidos políticos que, nos termos da lei, sejam recorríveis.
 

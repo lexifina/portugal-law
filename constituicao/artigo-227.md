@@ -4,15 +4,15 @@
 
 1. As regiões autónomas são pessoas colectivas territoriais e têm os seguintes poderes, a definir nos respectivos estatutos:
 
-a) Legislar, com respeito pelos princípios fundamentais das leis gerais da República, em matérias de interesse específico para as regiões que não estejam reservadas à competência própria dos órgãos de soberania;
+a) Legislar no âmbito regional em matérias enunciadas no respectivo estatuto político-administrativo e que não estejam reservadas aos órgãos de soberania;
 
-b) Legislar, sob autorização da Assembleia da República, em matérias de interesse específico para as regiões que não estejam reservadas à competência própria dos órgãos de soberania;
+b) Legislar em matérias de reserva relativa da Assembleia da República, mediante autorização desta, com excepção das previstas nas alíneas a) a c), na primeira parte da alínea d), nas alíneas f) e i), na segunda parte da alínea m) e nas alíneas o), p), q), s), t), v), x) e aa) do n.º 1 do artigo 165.º;
 
-c) Desenvolver, em função do interesse específico das regiões, as leis de bases em matérias não reservadas à competência da Assembleia da República, bem como as previstas nas alíneas f), g), h), n), t) e u) do n.º 1 do artigo 165.º;
+c) Desenvolver para o âmbito regional os princípios ou as bases gerais dos regimes jurídicos contidos em lei que a eles se circunscrevam;
 
-d) Regulamentar a legislação regional e as leis gerais emanadas dos órgãos de soberania que não reservem para estes o respectivo poder regulamentar;
+d) Regulamentar a legislação regional e as leis emanadas dos órgãos de soberania que não reservem para estes o respectivo poder regulamentar;
 
-e) Exercer a iniciativa estatutária, nos termos do artigo 226.º;
+e) Exercer a iniciativa estatutária, bem como a iniciativa legislativa em matéria relativa à eleição dos deputados às respectivas Assembleias Legislativas, nos termos do artigo 226.º;
 
 f) Exercer a iniciativa legislativa, nos termos do n.º 1 do artigo 167.º, mediante a apresentação à Assembleia da República de propostas de lei e respectivas propostas de alteração;
 
@@ -20,7 +20,7 @@ g) Exercer poder executivo próprio;
 
 h) Administrar e dispor do seu património e celebrar os actos e contratos em que tenham interesse;
 
-i) Exercer poder tributário próprio, nos termos da lei, bem como adaptar o sistema fiscal nacional às especificidades regionais, nos termos de lei-quadro da Assembleia da República;
+i) Exercer poder tributário próprio, nos termos da lei, bem como adaptar o sistema fiscal nacional às especificidades regionais, nos termos de lei quadro da Assembleia da República;
 
 j) Dispor, nos termos dos estatutos e da lei de finanças das regiões autónomas, das receitas fiscais nelas cobradas ou geradas, bem como de uma participação nas receitas tributárias do Estado, estabelecida de acordo com um princípio que assegure a efectiva solidariedade nacional, e de outras receitas que lhes sejam atribuídas e afectá-las às suas despesas;
 
@@ -44,12 +44,12 @@ t) Participar nas negociações de tratados e acordos internacionais que directa
 
 u) Estabelecer cooperação com outras entidades regionais estrangeiras e participar em organizações que tenham por objecto fomentar o diálogo e a cooperação inter-regional, de acordo com as orientações definidas pelos órgãos de soberania com competência em matéria de política externa;
 
-v) Pronunciar-se, por sua iniciativa ou sob consulta dos órgãos de soberania, sobre as questões da competência destes que lhes digam respeito, bem como, em matérias do seu interesse específico, na definição das posições do Estado Português no âmbito do processo de construção europeia;
+v) Pronunciar-se por sua iniciativa ou sob consulta dos órgãos de soberania, sobre as questões da competência destes que lhes digam respeito, bem como, em matérias do seu interesse específico, na definição das posições do Estado Português no âmbito do processo de construção europeia;
 
-x) Participar no processo de construção europeia mediante representação nas respectivas instituições regionais e nas delegações envolvidas em processos de decisão comunitária quando estejam em causa matérias do seu interesse específico.
+x) Participar no processo de construção europeia, mediante representação nas respectivas instituições regionais e nas delegações envolvidas em processos de decisão da União Europeia, quando estejam em causa matérias que lhes digam respeito, bem como transpor actos jurídicos da União, nos termos do artigo 112.º
 
 2. As propostas de lei de autorização devem ser acompanhadas do anteprojecto do decreto legislativo regional a autorizar, aplicando-se às correspondentes leis de autorização o disposto nos n.os 2 e 3 do artigo 165.º
 
-3. As autorizações referidas no número anterior caducam com o termo da legislatura ou a dissolução, quer da Assembleia da República, quer da assembleia legislativa regional a que tiverem sido concedidas.
+3. As autorizações referidas no número anterior caducam com o termo da legislatura ou a dissolução, quer da Assembleia da República quer da Assembleia Legislativa a que tiverem sido concedidas.
 
 4. Os decretos legislativos regionais previstos nas alíneas b) e c) do n.º 1 devem invocar expressamente as respectivas leis de autorização ou leis de bases, sendo aplicável aos primeiros o disposto no artigo 169.º, com as necessárias adaptações.
