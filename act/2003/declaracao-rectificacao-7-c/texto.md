@@ -1,0 +1,5 @@
+Declaração de Rectificação n.º 7-C/2003
+Para os devidos efeitos se declara que o Decreto-Lei n.º 66/2003, publicado no Diário da República, 1.ª série, n.º 82, de 7 de Abril de 2003, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No segundo parágrafo do preâmbulo, onde se lê «anexos n.os 6 e 8» deve ler-se «anexo 8».
+No sétimo parágrafo do preâmbulo, onde se lê «De igual modo, e quanto ao transporte aéreo comercial e trabalho aéreo, ficam definidos no presente diploma os requisitos formais e materiais para a emissão dos respectivos certificados de operador, assim como as competências que lhe são inerentes.» deve ler-se «De igual modo, ficam definidos no presente diploma os requisitos formais e materiais para a emissão dos respectivos certificados de organização de manutenção, assim como as competências que lhe são inerentes.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Maio de 2003. - O Secretário-Geral, José M. Sousa Rego.
