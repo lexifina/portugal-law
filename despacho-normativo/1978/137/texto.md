@@ -1,0 +1,3 @@
+Despacho Normativo n.º 137/78
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 1 dos produtos fitofarmacêuticos, para efeitos de aplicação do regime de comercialização estabelecido por aquele diploma, é autorizada a substituição da embalagem com a capacidade de 1 kg por outra de 500 g do produto fitofarmacêutico, com base em binapacril, cujo tipo de formulação é em pó molhável, com o teor de 50% de substância activa.
+Ministérios da Agricultura e Pescas e do Comércio e Turismo, 24 de Maio de 1978. - O Secretário de Estado do Fomento Agrário, Apolinário José Barbosa da Cruz Vaz Portugal. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
