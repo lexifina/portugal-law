@@ -1,0 +1,4 @@
+Declaração
+Declara-se, para os devidos efeitos, que entre o original, arquivado nesta Secretaria-Geral, e o texto do Decreto n.º 46400, publicado pelo Ministério da Economia, Secretaria de Estado da Agricultura, Direcção-Geral dos Serviços Florestais e Aquícolas, no Diário do Governo n.º 134, 1.ª série, de 19 de Junho findo, existem as seguintes divergências, que assim se rectificam:
+No artigo 1.º, onde se lê: «... fora da aresta superior dos taludes nos terrenos submetidos à cultura agrícola», deve ler-se: «... fora da aresta superior dos taludes nos terrenos submetidos à cultura florestal e de 1 m de largura nos terrenos submetidos à cultura agrícola».
+Secretaria-Geral da Presidência do Conselho, 8 de Julho de 1965. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
