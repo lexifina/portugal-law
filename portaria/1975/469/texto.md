@@ -1,0 +1,23 @@
+Portaria n.º 469/75
+de 1 de Agosto
+Dado a Portaria n.º 306-A/75, de 12 de Maio, ter sido publicada com algumas incorrecções que é necessário rectificar, aproveita-se a oportunidade para se fixarem os preços máximos no continente e ilhas para os queijos «Flamengo» e «Ilha», no armazém do fabricante ou importador.
+Nestes termos:
+Ao abrigo do disposto no n.º 1 do artigo 2.º do Decreto-Lei n.º 329-A/74, de 10 de Julho:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Abastecimento e Preços, o seguinte:
+1.º É dada a seguinte redacção aos n.os 1.º, 3, 2.º, 5.º, 7.º, 1, 13.º, 1, e 14.º da Portaria n.º 306-A/75, de 12 de Maio:
+1.º - 1. ...
+2. ...
+3. Nas zonas de recolha não organizada, o leite não poderá ser vendido a preço superior a 6$00 por litro ao consumidor.
+2.º Mantêm-se os preços de venda ao público, no continente, do leite pasteurizado com 3% de gordura e do leite comum, nos estabelecimentos e ao domicílio, de acordo com a Portaria n.º 577-A/74, de 6 de Setembro.
+...
+5.º Nas localidades onde se proceda ao abastecimento de leite pasteurizado, os consumidores colectivos, indústria e estabelecimentos hoteleiros e similares só poderão ser abastecidos daquele leite em bilhas, garrafas e embalagens perdidas.
+...
+7.º - 1. Mantêm-se os preços máximos de venda ao público do leite especial e do ultrapasteurizado, conforme o estabelecido na Portaria n.º 577-A/74, de 6 de Setembro.
+2. ...
+...
+13.º - 1. Os preços máximos no armazém do fabricante e na venda ao público, por quilograma, dos queijos tipo «Flamengo» (nacional ou estrangeiro) e «Ilha», com mais de 45% de gordura, no continente e ilhas adjacentes, são os seguintes:
+(ver documento original)
+2. ...
+14.º Mantêm-se os preços máximos de venda para o leite em pó e produtos dietéticos derivados do leite, fixados na Portaria n.º 843/74, de 30 de Dezembro.
+2.º Esta portaria entra imediatamente em vigor.
+Secretaria de Estado do Abastecimento e Preços, 21 de Julho de 1975. - O Secretário de Estado do Abastecimento e Preços, José António da Conceição Neto.
