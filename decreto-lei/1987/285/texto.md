@@ -1,0 +1,18 @@
+Decreto-Lei n.º 285/87
+de 25 de Julho
+Considerando a mutabilidade das condições e circunstâncias em que a Direcção-Geral do Ordenamento do Território presta os seus pareceres, informações e autorizações nos processos promovidos por entidades particulares em que tem o dever legal de intervir, impõe-se estabelecer um limite temporal à respectiva validade.
+Pelos mesmos motivos e ainda pela desactualização verificada na maioria dos pareceres, informações e autorizações das extintas Direcção-Geral dos Serviços de Urbanização, Direcção-Geral do Planeamento Urbanístico e Direcção-Geral do Ordenamento, impõe-se também o estabelecimento de um prazo de validade para os mesmos.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Os pareceres, informações ou autorizações da Direcção-Geral do Ordenamento do Território (DGOT) que devam instruir os processos relativos a empreendimentos promovidos por entidades privadas caducam decorridos três anos a contar da respectiva notificação ou comunicação à entidade que promoveu a consulta àquela Direcção-Geral, excepto quando o próprio parecer, informação ou autorização fixar prazo superior.
+Art. 2.º - 1 - Operada a caducidade prevista no artigo anterior, terá de ser promovida a obtenção de novo parecer, informação ou autorização da DGOT para poder ser emitida ou renovada a licença dos referidos empreendimentos.
+2 - Ao pronunciar-se, a DGOT deverá ter em conta, nomeadamente, o estado de adiantamento dos trabalhos, de modo a evitar injustificados prejuízos ao particular.
+Art. 3.º Sendo pedida pelo particular, após a caducidade prevista no artigo 1.º, a emissão ou a renovação da licença, a entidade competente só poderá consentir o prosseguimento do empreendimento a título precário e por prazo não superior a seis meses, ficando a resolução definitiva dependente da notificação ou comunicação de novo parecer, informação ou autorização da DGOT.
+Art. 4.º - 1 - Os pareceres, informações ou autorizações das extintas Direcção-Geral dos Serviços de Urbanização, Direcção-Geral do Planeamento Urbanístico e Direcção-Geral do Ordenamento caducam no prazo de três anos a contar da entrada em vigor do presente diploma.
+2 - Operada a referida caducidade, aplica-se o regime previsto nos artigos anteriores.
+Visto e aprovado em Conselho de Ministros de 21 de Maio de 1987. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
+Promulgado em 9 de Julho de 1987.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 15 de Julho de 1987.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
