@@ -1,0 +1,14 @@
+Portaria n.º 311/77
+de 28 de Maio
+Considerando a necessidade de alguns ajustamentos estruturais resultantes da entrada em vigor do regime de previdência para os trabalhadores independentes previsto na Portaria n.º 115/77, de 9 de Março;
+Considerando que os serviços que pertenciam à Caixa de Previdência dos Comerciantes, instituição extinta por fusão com a Caixa Nacional de Pensões, por força do disposto na Portaria n.º 869/74, de 31 de Dezembro, se mostram, em grande parte, com vocação para tarefas do âmbito das caixas de previdência e abono de família que vêm, efectivamente, exercendo;
+Considerando que continuam a justificar tratamento especial as questões de inscrição, de contribuições e de reconhecimento de direito a benefícios do regime especial dos comerciantes;
+Considerando a exigência do máximo aproveitamento dos recursos existentes:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social:
+1.º O pagamento de contribuições devidas por comerciantes, nos termos do disposto no artigo 1.º do Decreto-Lei n.º 18/77, de 14 de Janeiro, será efectuado na Caixa de Previdência e Abono de Família do Comércio do Distrito de Lisboa.
+2.º São transferidos da Caixa Nacional de Pensões para a Caixa de Previdência e Abono de Família do Comércio do Distrito de Lisboa os serviços de inscrição de beneficiários, cobrança de contribuições e assuntos afins que pertenciam à extinta Caixa de Previdência dos Comerciantes, bem como o pessoal que lhes está adstrito.
+3.º Os quadros de pessoal das duas instituições atrás referidas serão ajustados, tendo em atenção o disposto no número anterior, sendo os trabalhadores transferidos integrados no quadro do pessoal da Caixa de Previdência e Abono de Família do Comércio do Distrito de Lisboa com todos os direitos e regalias dos trabalhadores desta Caixa, considerando-se, para todos os efeitos, como de serviço na instituição todo o tempo de trabalho prestado, quer na extinta Caixa de Previdência dos Comerciantes, quer na Caixa Nacional de Pensões.
+4.º O mobiliário e outro equipamento em uso nos serviços que transitam para a Caixa de Previdência e Abono de Família do Comércio do Distrito de Lisboa será transferido para o património desta instituição.
+5.º A Caixa Nacional de Pensões e a Caixa de Previdência e Abono de Família do Comércio do Distrito de Lisboa procederão à integração progressiva nos seus serviços dos da extinta Caixa de Previdência dos Comerciantes, integração que deverá estar ultimada até 31 de Dezembro de 1977.
+6.º Até se concluir a integração a que se reporta o número anterior, a inscrição de comerciantes e o pagamento das respectivas contribuições respeitantes aos anos de 1969 a 1974 serão efectuados nos serviços da extinta Caixa de Previdência dos Comerciantes.
+Secretaria de Estado da Segurança Social, 13 de Maio de 1977. - O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques.
