@@ -1,11 +1,5 @@
-## Secção V
-
-## Filhos incestuosos
-
 # Artigo 1867.º
 
-### (Noção)
+### (Investigação com base em processo crime)
 
-1. É incestuoso o filho de pessoas que não podem contrair casamento entre si por motivo de impedimento dirimente de parentesco ou afinidade.
-
-2. Não é havido como incestuoso o filho que procede de casamento putativo ou que foi por ele legitimado.
+Quando em processo crime se considere provada a cópula em termos de constituir fundamento para a investigação da paternidade e se mostre que a ofendida teve um filho em condições de o período legal da concepção abranger a época do crime, deve o Ministério Público instaurar a correspondente acção de investigação, independentemente do prazo estabelecido na alínea b) do artigo 1866.º

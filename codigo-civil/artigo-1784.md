@@ -1,5 +1,5 @@
 # Artigo 1784.º
 
-### (Partilha dos bens)
+### (Alteração das faculdades mentais)
 
-O cônjuge declarado único ou principal culpado não pode na partilha receber mais do que receberia, se o casamento tivesse sido celebrado segundo o regime da comunhão de adquiridos.
+O pedido formulado com base na alínea c) do artigo 1781.º deve ser indeferido quando seja de presumir que o divórcio agrave consideravelmente o estado mental do réu.

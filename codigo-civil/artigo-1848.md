@@ -1,11 +1,7 @@
 # Artigo 1848.º
 
-### (Averiguação oficiosa da paternidade presumida)
+### (Casos em que não é admitido o reconhecimento)
 
-1. O tribunal de menores, sempre que seja possível, ouvirá a mãe acerca da paternidade que atribui ao filho.
+1. Não é admitido o reconhecimento em contrário da filiação que conste do registo de nascimento enquanto este não for rectificado, declarado nulo ou cancelado.
 
-2. Se a mãe fizer a declaração da paternidade ou por outro modo chegar ao conhecimento do tribunal a identidade do presumido progenitor, será este também ouvido pelo tribunal.
-
-3. No caso de o presumido pai confirmar a paternidade, será lavrado termo de perfilhação e remetida certidão para averbamento à repartição competente para o registo.
-
-4. Se o presumido pai negar ou se recusar a confirmar a paternidade, observar-se-á, com as necessárias adaptações, o disposto no artigo 1845.º; a acção de investigação de paternidade ilegítima não está sujeita, neste caso, às limitações estabelecidas no artigo 1860.º
+2. O disposto no número anterior não invalida a perfilhação feita por alguma das formas mencionadas nas alíneas b), c) e d) do artigo 1853.º, embora ela não produza efeitos enquanto não puder ser registada.

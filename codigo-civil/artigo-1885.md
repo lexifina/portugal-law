@@ -1,7 +1,11 @@
+## Subsecção II
+
+## Poder paternal relativamente à pessoa dos filhos
+
 # Artigo 1885.º
 
-### (Poder de representação)
+### (Educação)
 
-1. O poder de representação compreende o exercício de todos os direitos e o cumprimento de todas as obrigações do filho, exceptuados os actos puramente pessoais, aqueles que o menor tem o direito de praticar pessoal e livremente e os actos respeitantes a bens cuja administração não pertença aos pais.
+1. Cabe aos pais, de acordo com as suas possibilidades, promover o desenvolvimento físico, intelectual e moral dos filhos.
 
-2. Quando haja conflito de interesses, cuja resolução dependa de autoridade pública, entre qualquer dos pais e o filho sujeito ao poder paternal, ou entre os filhos, ainda que, neste caso, algum deles seja maior, são os menores representados por um ou mais curadores especiais nomeados pelo tribunal.
+2. Os pais devem proporcionar aos filhos, em especial aos diminuídos física e mentalmente, adequada instrução geral e profissional, correspondente, na medida do possível, às aptidões e inclinações de cada um.

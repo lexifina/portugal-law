@@ -1,13 +1,15 @@
+## Capítulo II
+
+## Efeitos da filiação
+
+## Secção I
+
+## Disposições gerais
+
 # Artigo 1874.º
 
-### (Reconhecimento para efeito de legitimação)
+### (Deveres de pais e filhos)
 
-1. A legitimação não é invocável para nenhum efeito enquanto o filho não se encontre legalmente reconhecido em relação a ambos os cônjuges.
+1. Pais e filhos devem-se mutuamente respeito, auxílio e assistência.
 
-2. O reconhecimento pode efectuar-se:
-
-a) Por qualquer dos modos admitidos pelos artigos 1825.º a 1866.º, antes ou depois do casamento;
-
-b) Por declaração dos cônjuges no acto do casamento, católico ou civil.
-
-3. Ao reconhecimento feito pela forma prevista na alínea b) do número anterior é aplicável o disposto nos artigos 1827.º e seguintes.
+2. O dever de assistência compreende a obrigação de prestar alimentos e a de contribuir, durante a vida em comum, de acordo com os recursos próprios, para os encargos da vida familiar.

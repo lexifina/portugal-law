@@ -1,5 +1,15 @@
 # Artigo 1871.º
 
-### (Alimentos)
+### (Presunção)
 
-À obrigação de concorrer para os alimentos devidos ao filho incestuoso não obsta o carácter secreto do registo; mas a fixação, pelo tribunal de menores, das circunstâncias em que deve ser cumprida a obrigação só pode ser requerida pelo Ministério Público, oficiosamente ou a pedido de alguma das entidades a cargo de quem o filho se encontre.
+1. A paternidade presume-se:
+
+a) Quando o filho houver sido reputado e tratado como tal pelo pretenso pai e reputado como filho também pelo público;
+
+b) Quando exista carta ou outro escrito no qual o pretenso pai declare inequivocamente a sua paternidade;
+
+c) Quando, durante o período legal da concepção, tenha existido comunhão duradoura de vida em condições análogas às dos cônjuges ou concubinato duradouro entre a mãe e o pretenso pai;
+
+d) Quando o pretenso pai tenha seduzido a mãe, no período legal da concepção, se esta era virgem e menor no momento em que foi seduzida, ou se o consentimento dela foi obtido por meio de promessa de casamento, abuso de confiança ou abuso de autoridade.
+
+2. A presunção considera-se ilidida quando existam dúvidas sérias sobre a paternidade do investigado.

@@ -1,9 +1,5 @@
-## Secção VI
-
-## Legitimação dos filhos ilegítimos
-
 # Artigo 1873.º
 
-### (Legitimação pelo casamento)
+### (Remissão)
 
-O casamento, ainda que putativo, legitima sempre, de pleno direito, os filhos que os contraentes hajam tido um do outro antes da celebração dele.
+É aplicável à acção de investigação de paternidade, com as necessárias adaptações, o disposto nos artigos 1817.º a 1819.º e 1821.º

@@ -1,9 +1,7 @@
 # Artigo 1902.º
 
-### (Separação de pessoas e bens, divórcio, declaração de nulidade ou anulação do casamento)
+### (Actos praticados por um dos pais)
 
-1. Nos casos de separação judicial de pessoas e bens, divórcio, declaração de nulidade ou anulação do casamento, ambos os pais conservam em relação ao filho menor o poder paternal; o exercício deste é, porém, regulado por acordo dos pais ou, na falta de acordo, pelo tribunal de menores.
+1. Se um dos pais praticar acto que integre o exercício do poder paternal, presume-se que age de acordo com o outro, salvo quando a lei expressamente exija o consentimento de ambos os progenitores ou se trate de acto de particular importância; a falta de acordo não é oponível a terceiro de boa fé.
 
-2. O acordo dos pais está sujeito à homologação do tribunal, nos termos da lei de processo.
-
-3. A regulação do exercício do poder paternal abrange o destino do menor, a fixação dos alimentos e a forma de os prestar.
+2. O terceiro deve recusar-se a intervir no acto praticado por um dos cônjuges quando, nos termos do número anterior, não se presuma o acordo do outro cônjuge ou quando conheça a oposição deste.

@@ -1,5 +1,13 @@
+## Subsecção II
+
+## Reconhecimento de paternidade
+
+## Divisão I
+
+## Disposições gerais
+
 # Artigo 1847.º
 
-### (Paternidade desconhecida)
+### (Formas de reconhecimento)
 
-Sempre que seja lavrado registo de nascimento de indivíduo menor apenas perfilhado pela mãe, deve o funcionário remeter ao tribunal de menores certidão integral do registo, a fim de se averiguar oficiosamente a identidade do presumível progenitor.
+O reconhecimento do filho nascido ou concebido fora do matrimónio efectua-se por perfilhação ou decisão judicial em acção de investigação.

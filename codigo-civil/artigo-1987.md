@@ -1,13 +1,5 @@
-## Capítulo III
-
-## Adopção restrita
-
-## Secção I
-
-## Efeitos e requisitos da adopção restrita
-
 # Artigo 1987.º
 
-### (Efeitos)
+### (Estabelecimento e prova da filiação natural)
 
-A adopção restrita apenas atribui ao adoptado e aos adoptantes os direitos e deveres estabelecidos na lei.
+Depois de decretada a adopção plena não é possível estabelecer a filiação natural do adoptado nem fazer a prova dessa filiação fora do processo preliminar de publicações.

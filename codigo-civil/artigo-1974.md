@@ -2,12 +2,6 @@
 
 ### (Requisitos gerais)
 
-1. A adopção apenas será decretada quando se verifiquem, cumulativamente, os seguintes requisitos:
+1. A adopção apenas será decretada quando apresente reais vantagens para o adoptando, se funde em motivos legítimos, não envolva sacrifício injusto para os outros filhos do adoptante e seja razoável supor que entre o adoptante e o adoptando se estabelecerá um vínculo semelhante ao da filiação.
 
-a) Apresentar reais vantagens para o adoptando;
-
-b) Ter o adoptando menos de catorze anos, ou ter menos de vinte e um e não se encontrar emancipado, quando desde idade não superior a catorze anos tenha estado, de facto ou de direito, ao cuidado do adoptante;
-
-c) Ter o adoptante mais de trinta e cinco anos de idade.
-
-2. Quando o adoptando tenha mais de catorze anos, é ainda necessário o seu consentimento, a menos que ele não esteja no uso das suas faculdades mentais.
+2. Salvo casos excepcionais, o adoptando deverá ter estado ao cuidado do adoptante durante prazo suficiente para se poder avaliar da conveniência da constituição do vínculo.

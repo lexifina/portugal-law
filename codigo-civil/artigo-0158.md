@@ -2,6 +2,6 @@
 
 ### (Aquisição da personalidade)
 
-1. As associações e fundações adquirem personalidade jurídica pelo reconhecimento, salvo disposição especial da lei.
+1. As associações constituídas por escritura pública, com as especificações referidas no n.º 1 do artigo 167.º, gozam de personalidade jurídica.
 
-2. O reconhecimento é individual e da competência do Governo, ou do seu representante no distrito quando a actividade da associação ou fundação deva confinar-se na área dessa circunscrição territorial.
+2. As fundações adquirem personalidade jurídica pelo reconhecimento, o qual é individual e da competência da autoridade administrativa.

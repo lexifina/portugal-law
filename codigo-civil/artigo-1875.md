@@ -1,9 +1,9 @@
 # Artigo 1875.º
 
-### (Efeitos)
+### (Nome do filho)
 
-1. A legitimação confere ao filho o estado e o título de filho legítimo.
+1. O filho usará apelidos do pai e da mãe ou só de um deles.
 
-2. Os efeitos da legitimação produzem-se a partir da data da celebração do casamento, qualquer que seja nesse momento a situação do filho.
+2. A escolha do nome próprio e dos apelidos do filho menor pertence aos pais; na falta de acordo, decidirá o juiz, de harmonia com o interesse do filho.
 
-3. A legitimação aproveita tanto ao filho como aos seus descendentes.
+3. Se a maternidade ou paternidade forem estabelecidas posteriormente ao registo do nascimento, os apelidos do filho poderão ser alterados nos termos dos números anteriores.

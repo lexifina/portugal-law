@@ -1,13 +1,7 @@
-## Secção IV
-
-## Reconhecimento judicial
-
-## Subsecção I
-
-## Disposições gerais
-
 # Artigo 1852.º
 
-### (Quando se verifica)
+### (Conteúdo defeso)
 
-Quando a maternidade ou paternidade não tenha sido reconhecida nos termos das secções anteriores, a filiação só pode ser declarada em acção judicial especialmente intentada para esse efeito.
+1. O acto de perfilhação não comporta cláusulas que limitem ou modifiquem os efeitos que lhe são atribuídos por lei, nem admite condição ou termo.
+
+2. As cláusulas ou declarações proibidas não invalidam a perfilhação, mas têm-se por não escritas.

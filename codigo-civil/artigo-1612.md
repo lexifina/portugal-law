@@ -1,7 +1,7 @@
 # Artigo 1612.º
 
-### (Oposição dos pais ou do tutor)
+### (Autorização dos pais ou do tutor)
 
-1. Quando não tenha dado o seu consentimento, qualquer dos pais ou o tutor do nubente menor pode deduzir oposição ao casamento nos termos prescritos nas leis do registo civil.
+1. A autorização para o casamento de menor de dezoito anos e maior de dezasseis deve ser concedida pelos progenitores que exerçam o poder paternal, ou pelo tutor.
 
-2. Deduzida a oposição, o casamento só pode ser celebrado se o tribunal de menores a julgar injustificada.
+2. Pode o tribunal suprir a autorização a que se refere o número anterior se razões ponderosas justificarem a celebração do casamento e o menor tiver suficiente maturidade física e psíquica.

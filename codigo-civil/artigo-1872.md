@@ -1,5 +1,5 @@
 # Artigo 1872.º
 
-### (Efeitos do registo secreto)
+### (Coligação de investigantes)
 
-O reconhecimento registado secretamente não produz outros efeitos além do mencionado no artigo anterior, mas pode ser invocado para instrução do processo preliminar de publicações ou do processo de alimentos devidos pelo progenitor.
+Na acção de investigação de paternidade é permitida a coligação de investigantes filhos da mesma mãe, em relação ao mesmo pretenso progenitor.

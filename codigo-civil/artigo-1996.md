@@ -1,5 +1,5 @@
 # Artigo 1996.º
 
-### (Reconhecimento superveniente ou legitimação do adoptado)
+### (Direitos sucessórios e prestação de alimentos)
 
-Os efeitos da adopção não são prejudicados pelo facto de o adoptado vir a ser perfilhado, reconhecido judicialmente ou legitimado pelos seus progenitores naturais.
+O adoptado, ou seus descendentes, e os parentes do adoptante não são herdeiros legítimos ou legitimários uns dos outros, nem ficam reciprocamente vinculados à prestação de alimentos.

@@ -1,7 +1,7 @@
 # Artigo 1878.º
 
-### (Reconhecimento da filiação ilegítima)
+### (Conteúdo do poder paternal)
 
-1. Os poderes e deveres emergentes da filiação ilegítima ou do parentesco nela fundado só são atendíveis se a filiação estiver legalmente reconhecida.
+1. Compete aos pais, no interesse dos filhos, velar pela segurança e saúde destes, prover ao seu sustento, dirigir a sua educação, representá-los, ainda que nascituros, e administrar os seus bens.
 
-2. O reconhecimento tem, todavia, eficácia retroactiva.
+2. Os filhos devem obediência aos pais; estes, porém, de acordo com a maturidade dos filhos, devem ter em conta a sua opinião nos assuntos familiares importantes e reconhecer-lhes autonomia na organização da própria vida.

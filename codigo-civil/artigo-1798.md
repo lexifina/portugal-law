@@ -1,7 +1,5 @@
 # Artigo 1798.º
 
-### (Fixação judicial da concepção)
+### (Concepção)
 
-1. É admitida, em qualquer caso, acção judicial destinada a provar que o período de gestação do filho foi inferior a cento e oitenta dias ou superior a trezentos.
-
-2. Esta acção pode ser intentada por qualquer interessado ou pelo Ministério Público, devendo o tribunal, no caso de procedência, fixar a época provável da concepção.
+O momento da concepção do filho é fixado, para os efeitos legais, dentro dos primeiros cento e vinte dias dos trezentos que precederam o seu nascimento, salvas as excepções dos artigos seguintes.

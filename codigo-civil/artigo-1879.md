@@ -1,19 +1,5 @@
-## Secção II
-
-## Poder paternal
-
-## Subsecção I
-
-## Poder paternal em relação aos filhos legítimos
-
-## Divisão I
-
-## Poder paternal na constância do matrimónio
-
 # Artigo 1879.º
 
-### (Natureza e conteúdo)
+### (Despesas com o sustento, segurança, saúde e educação dos filhos)
 
-1. Compete a ambos os pais a guarda e regência dos filhos menores não emancipados com o fim de os defender, educar e alimentar.
-
-2. Pertence também aos pais representar os filhos, ainda que nascituros, e administrar os seus bens, nos termos dos artigos seguintes e sem prejuízo do disposto no artigo 2240.º
+Os pais ficam desobrigados de prover ao sustento dos filhos e de assumir as despesas relativas à sua segurança, saúde e educação na medida em que os filhos estejam em condições de suportar, pelo produto do seu trabalho ou outros rendimentos, aqueles encargos.

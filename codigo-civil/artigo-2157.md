@@ -2,4 +2,4 @@
 
 ### (Herdeiros legitimários)
 
-São herdeiros legitimários os descendentes e os ascendentes, pela ordem e segundo as regras estabelecidas nos artigos 2133.º a 2138.º
+São herdeiros legitimários o cônjuge, os descendentes e os ascendentes, pela ordem e segundo as regras estabelecidas para a sucessão legítima.

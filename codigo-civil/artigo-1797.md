@@ -1,7 +1,7 @@
 # Artigo 1797.º
 
-### (Gravidez anterior)
+### (Atendibilidade da filiação)
 
-1. Se dentro dos trezentos dias anteriores ao nascimento tiver sido interrompida ou completada uma outra gravidez, não são considerados para a determinação do momento da concepção os dias que tiverem decorrido até à interrupção da gravidez ou até ao parto.
+1. Os poderes e deveres emergentes da filiação ou do parentesco nela fundado só são atendíveis se a filiação se encontrar legalmente estabelecida.
 
-2. A prova da interrupção de outra gravidez, não havendo registo do facto, só pode ser feita em acção especialmente intentada para esse efeito por qualquer interessado ou pelo Ministério Público.
+2. O estabelecimento da filiação tem, todavia, eficácia retroactiva.

@@ -1,7 +1,5 @@
 # Artigo 1909.º
 
-### (Filhos adulterinos)
+### (Separação de facto)
 
-1. O pai ou mãe do filho adulterino não pode introduzi-lo no lar conjugal sem consentimento do seu consorte.
-
-2. É adulterino o filho havido, por pessoa casada durante todo o período legal da concepção, de outra que não seja o seu consorte.
+As disposições dos artigos 1905.º a 1908.º são aplicáveis aos cônjuges separados de facto.

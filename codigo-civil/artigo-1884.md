@@ -1,7 +1,7 @@
 # Artigo 1884.º
 
-### (Poder de correcção)
+### (Alimentos à mãe)
 
-1. Compete a ambos os pais o poder de corrigir moderadamente, o filho nas suas faltas.
+1. O pai não unido pelo matrimónio à mãe do filho é obrigado, desde a data do estabelecimento da paternidade, a prestar-lhe alimentos relativos ao período da gravidez e ao primeiro ano de vida do filho, sem prejuízo das indemnizações a que por lei ela tenha direito.
 
-2. Se o filho for desobediente, tiver mau comportamento ou se mostrar indisciplinado, pode qualquer dos pais requerer ao tribunal de menores as providências convenientes, nos termos fixados em lei especial.
+2. A mãe pode pedir os alimentos na acção de investigação de paternidade e tem direito a alimentos provisórios se a acção foi proposta antes de decorrido o prazo a que se refere o número anterior, desde que o tribunal considere provável o reconhecimento.

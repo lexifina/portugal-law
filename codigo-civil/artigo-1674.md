@@ -1,5 +1,5 @@
 # Artigo 1674.º
 
-### (Poder marital)
+### (Dever de cooperação)
 
-O marido é o chefe da família, competindo-lhe nessa qualidade representá-la e decidir em todos os actos da vida conjugal comum, sem prejuízo do disposto nos artigos subsequentes.
+O dever de cooperação importa para os cônjuges a obrigação de socorro e auxílio mútuos e a de assumirem em conjunto as responsabilidades inerentes à vida da família que fundaram.

@@ -12,7 +12,9 @@ c) Os ascendentes;
 
 d) Os irmãos;
 
-e) Os tios, não tendo o alimentando mais de dezasseis anos de idade.
+e) Os tios, durante a menoridade do alimentando;
+
+f) O padrasto e a madrasta, relativamente a enteados menores que estejam, ou estivessem no momento da morte do cônjuge, a cargo deste.
 
 2. Entre as pessoas designadas nas alíneas b) e c) do número anterior, a obrigação defere-se segundo a ordem da sucessão legítima.
 

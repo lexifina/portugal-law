@@ -1,15 +1,9 @@
 # Artigo 1860.º
 
-### (Pressupostos da investigação da paternidade)
+### (Anulação por erro ou coacção)
 
-A acção de investigação de paternidade ilegítima só é admitida nos seguintes casos:
+1. A perfilhação é anulável judicialmente a requerimento do perfilhante quando viciada por erro ou coacção moral.
 
-a) Encontrando-se o investigante na posse do estado de filho ilegítimo;
+2. Só é relevante o erro sobre circunstâncias que tenham contribuído decisivamente para o convencimento da paternidade.
 
-b) Existindo carta ou outro escrito no qual o pretenso pai declare inequìvocamente a sua paternidade;
-
-c) Tendo havido convivência notória da mãe e do pretenso pai no período legal da concepção;
-
-d) Tendo havido violência exercida pelo pretenso pai contra a mãe no mesmo período;
-
-e) Tendo havido sedução da mãe no período legal da concepção.
+3. A acção de anulação caduca no prazo de um ano, a contar do momento em que o perfilhante teve conhecimento do erro ou em que cessou a coacção, salvo se ele for menor não emancipado ou interdito por anomalia psíquica; neste caso, a acção não caduca sem ter decorrido um ano sobre a maioridade, emancipação ou levantamento da interdição.

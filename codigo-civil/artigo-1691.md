@@ -10,7 +10,7 @@ b) As dívidas contraídas por qualquer dos cônjuges, antes ou depois da celebr
 
 c) As dívidas contraídas na constância do matrimónio pelo cônjuge administrador, em proveito comum do casal e nos limites dos seus poderes de administração;
 
-d) As dívidas contraídas por qualquer dos cônjuges no exercício do comércio, salvo se vigorar entre eles o regime da separação de bens;
+d) As dívidas contraídas por qualquer dos cônjuges no exercício do comércio, salvo se se provar que não foram contraídas em proveito comum do casal ou se vigorar entre os cônjuges o regime de separação de bens;
 
 e) As dívidas consideradas comunicáveis nos termos do n.º 2 do artigo 1693.º
 
@@ -18,4 +18,4 @@ e) As dívidas consideradas comunicáveis nos termos do n.º 2 do artigo 1693.º
 
 3. O proveito comum do casal não se presume, excepto nos casos em que a lei o declarar.
 
-4. Os alimentos devidos aos descendentes legítimos comuns, ou de anterior matrimónio de qualquer dos cônjuges, e aos filhos ilegítimos perfilhados ou reconhecidos judicialmente antes do casamento são considerados encargos normais da vida familiar, ainda que o alimentado viva em economia separada.
+4. (Revogado).

@@ -1,5 +1,5 @@
 # Artigo 1985.º
 
-### (Superveniência de filhos)
+### (Segredo da identidade do adoptante)
 
-Os efeitos da adopção plena mantêm-se no caso de aos adoptantes sobrevirem filhos legítimos ou de vir a ser reconhecida a existência de filhos legítimos ou legitimados nascidos anteriormente.
+O adoptante pode opor-se a que a sua identidade seja revelada aos pais naturais do adoptado se este tiver sido declarado abandonado ou confiado a um estabelecimento público ou particular de assistência.

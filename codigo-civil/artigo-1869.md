@@ -1,5 +1,9 @@
+## Divisão IV
+
+## Reconhecimento judicial
+
 # Artigo 1869.º
 
-### (Reconhecimento)
+### (Investigação da paternidade)
 
-A perfilhação de filhos incestuosos e o seu reconhecimento em acção de investigação só são permitidos em relação a um dos progenitores.
+A paternidade pode ser reconhecida em acção especialmente intentada pelo filho se a maternidade já se achar estabelecida ou for pedido conjuntamente o reconhecimento de uma e outra.

@@ -1,5 +1,9 @@
 # Artigo 1982.º
 
-### (Quem pode ser adoptado plenamente)
+### (Forma e tempo do consentimento)
 
-Podem ser adoptados plenamente os filhos ilegítimos de um dos adoptantes, se o outro progenitor for incógnito ou tiver falecido, bem como os filhos de pais incógnitos ou falecidos, que tiverem estado ao cuidado de ambos os adoptantes ou de um deles desde idade não superior a sete anos.
+1. O consentimento reportar-se-á inequivocamente à adopção plena e será prestado perante o juiz, que deve esclarecer o declarante sobre o significado e os efeitos do acto.
+
+2. O consentimento dos pais pode ser prestado independentemente da instauração do processo de adopção, se o adoptando tiver sido confiado a alguém que pretenda adoptá-lo ou a estabelecimento público ou particular de assistência; neste caso não é necessária a identificação do futuro adoptante.
+
+3. A mãe não pode dar o seu consentimento antes de decorrido um mês após o parto.

@@ -1,5 +1,5 @@
 # Artigo 1825.º
 
-### (Formas de reconhecimento)
+### (Legitimidade em caso de falecimento do autor ou réus)
 
-O reconhecimento dos filhos ilegítimos efectua-se por perfilhação, reconhecimento oficioso ou reconhecimento judicial em acção de investigação.
+Em caso de falecimento do autor ou dos réus nas acções a que se referem os artigos 1822.º a 1824.º, é aplicável, com as necessárias adaptações, o disposto nos artigos 1818.º e 1819.º

@@ -1,9 +1,7 @@
-## Secção II
-
-## Divórcio
-
 # Artigo 1792.º
 
-### (Divórcio litigioso e por mútuo consentimento)
+### (Reparação de danos não patrimoniais)
 
-O divórcio pode ser requerido judicialmente por um dos cônjuges com fundamento em algum dos factos referidos no artigo 1778.º, ou mediante conversão da separação judicial de pessoas e bens, ou por mútuo consentimento.
+1. O cônjuge declarado único ou principal culpado e, bem assim, o cônjuge que pediu o divórcio com o fundamento da alínea c) do artigo 1781.º devem reparar os danos não patrimoniais causados ao outro cônjuge pela dissolução do casamento.
+
+2. O pedido de indemnização deve ser deduzido na própria acção de divórcio.

@@ -1,9 +1,7 @@
-## Divisão II
-
-## Poder paternal após a cessação da coabitação dos cônjuges
-
 # Artigo 1900.º
 
-### (Viuvez)
+### (Fim da administração)
 
-Dissolvido o casamento por morte de um dos cônjuges, compete ao sobrevivo o exercício dos direitos e o cumprimento dos deveres atribuídos aos pais na constância do matrimónio.
+1. Os pais devem entregar ao filho, logo que este atinja a maioridade ou seja emancipado, todos os bens que lhe pertençam; quando por outro motivo cesse o poder paternal ou a administração, devem os bens ser entregues ao representante legal do filho.
+
+2. Os móveis devem ser restituídos no estado em que se encontrarem; não existindo, pagarão os pais o respectivo valor, excepto se houverem sido consumidos em uso comum ao filho ou tiverem perecido por causa não imputável aos progenitores.

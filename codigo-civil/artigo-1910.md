@@ -1,15 +1,5 @@
-## Subsecção III
-
-## Inibição do poder paternal
-
 # Artigo 1910.º
 
-### (Inibição de pleno direito)
+### (Filiação estabelecida apenas quanto a um dos progenitores)
 
-Consideram-se de pleno direito inibidos do exercício do poder paternal:
-
-a) Os condenados definitivamente por qualquer crime a que a lei atribua esse efeito;
-
-b) Os interditos e os inabilitados por anomalia psíquica;
-
-c) Os ausentes, desde a nomeação do curador provisório.
+Se a filiação de menor nascido fora do casamento se encontrar estabelecida apenas quanto a um dos progenitores, a este pertence o poder paternal.

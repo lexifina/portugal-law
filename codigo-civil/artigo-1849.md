@@ -1,5 +1,9 @@
+## Divisão II
+
+## Perfilhação
+
 # Artigo 1849.º
 
-### (Valor probatório das declarações prestadas)
+### (Carácter pessoal e livre da perfilhação)
 
-Sem prejuízo do disposto no artigo 1843.º, as declarações previstas nos artigos precedentes, que não envolvam reconhecimento do filho, não implicam presunção de maternidade ou paternidade, nem constituem sequer princípio de prova.
+A perfilhação é acto pessoal e livre; pode, contudo, ser feita por intermédio de procurador com poderes especiais.

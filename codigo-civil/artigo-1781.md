@@ -1,9 +1,11 @@
 # Artigo 1781.º
 
-### (Legitimidade)
+### (Ruptura da vida em comum)
 
-1. Só tem legitimidade para intentar a acção de separação o cônjuge ofendido ou, estando este interdito, o seu representante legal, se for autorizado pelo conselho de família.
+São ainda fundamentos do divórcio litigioso:
 
-2. Se o representante legal for o outro cônjuge, a acção pode ser intentada, em nome do ofendido, por algum parente deste na linha recta ou até ao terceiro grau da linha colateral, se for igualmente autorizado pelo conselho de família.
+a) A separação de facto por seis anos consecutivos;
 
-3. A acção não pode ser continuada pelos herdeiros dos cônjuges nem prosseguir contra eles.
+b) A ausência, sem que do ausente haja notícias, por tempo não inferior a quatro anos;
+
+c) A alteração das faculdades mentais do outro cônjuge, quando dure há mais de seis anos e, pela sua gravidade, comprometa a possibilidade de vida em comum.

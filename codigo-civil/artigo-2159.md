@@ -1,5 +1,7 @@
 # Artigo 2159.º
 
-### (Legítima dos descendentes do segundo grau e seguintes)
+### (Legítima do cônjuge e dos filhos)
 
-Os descendentes do segundo grau e seguintes têm direito à legítima que caberia ao seu ascendente, sendo a parte de cada um fixada nos termos prescritos para a sucessão legítima.
+1. A legítima do cônjuge e dos filhos, em caso de concurso, é de dois terços da herança.
+
+2. Não havendo cônjuge sobrevivo, a legítima dos filhos é de metade ou dois terços da herança, conforme exista um só filho ou existam dois ou mais.

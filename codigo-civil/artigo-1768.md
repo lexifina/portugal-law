@@ -2,4 +2,4 @@
 
 ### (Carácter litigioso da separação)
 
-A separação só pode ser decretada judicialmente em acção intentada contra o cônjuge administrador.
+A separação só pode ser decretada em acção intentada por um dos cônjuges contra o outro.

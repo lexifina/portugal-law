@@ -1,11 +1,9 @@
-## Secção II
-
-## Revogação da adopção restrita
-
 # Artigo 1999.º
 
-### (Casos de revogação)
+### (Direitos sucessórios)
 
-1. A adopção só pode ser revogada nos casos previstos nos artigos seguintes.
+1. O adoptado não é herdeiro legitimário do adoptante, nem este daquele.
 
-2. É aplicável à acção de revogação o disposto no n.º 3 do artigo 1986.º
+2. O adoptado e, por direito de representação, os seus descendentes são chamados à sucessão como herdeiros legítimos do adoptante, na falta de cônjuge, descendentes ou ascendentes.
+
+3. O adoptante é chamado à sucessão como herdeiro legítimo do adoptado ou de seus descendentes, na falta de cônjuge, descendentes, ascendentes, irmãos e sobrinhos do falecido.

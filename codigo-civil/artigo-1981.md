@@ -1,9 +1,19 @@
 # Artigo 1981.º
 
-### (Quem pode adoptar plenamente)
+### (Consentimento para a adopção)
 
-1. Só podem adoptar plenamente duas pessoas unidas por casamento há mais de dez anos, não separadas judicialmente de pessoas e bens e sem descendentes legítimos.
+1. É necessário para a adopção o consentimento:
 
-2. Sendo o adoptando filho ilegítimo de um dos adoptantes, não é exigível quanto a estes a idade mínima de trinta e cinco anos.
+a) Do adoptando maior de catorze anos;
 
-3. A adopção subsiste no caso de o casamento dos adoptantes ser declarado nulo ou anulado, ainda que tenha sido contraído de má fé por ambos os cônjuges.
+b) Do cônjuge do adoptante não separado judicialmente de pessoas e bens;
+
+c) Dos pais do adoptando, mesmo que não exerçam o poder paternal, desde que não tenha havido declaração judicial de abandono;
+
+d) Do ascendente ou colateral até ao terceiro grau que, na falta dos pais, tenha a seu cargo o adoptando e com este viva.
+
+2. No caso previsto no n.º 2 do artigo 1978.º não é exigido o consentimento dos pais, mas é necessário o do parente aí referido.
+
+3. O tribunal pode dispensar o consentimento das pessoas que o deveriam prestar nos termos dos números anteriores, se estiverem privadas do uso das faculdades mentais ou se por qualquer outra razão houver grave dificuldade em as ouvir.
+
+4. O tribunal poderá ainda dispensar o consentimento das pessoas referidas nas alíneas c) e d) do n.º 1 e no n.º 2, quando se hajam mostrado indignas no seu comportamento para com o adoptando.

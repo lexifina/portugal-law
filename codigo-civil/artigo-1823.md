@@ -1,7 +1,7 @@
 # Artigo 1823.º
 
-### (Morte do filho)
+### (Impugnação da presunção de paternidade)
 
-1. Sem prejuízo do disposto nos artigos anteriores, a acção de impugnação pode ser proposta ou correr depois da morte do filho cuja legitimidade se pretende impugnar.
+1. Na acção a que se refere o artigo anterior pode ser sempre impugnada a presunção de paternidade do marido da mãe.
 
-2. Esta acção deve ser proposta ou correr contra as pessoas designadas como herdeiros legítimos do filho, mesmo que a herança lhes não tenha sido atribuída; se, porém, existirem herdeiros testamentários ou legatários cujos direitos possam ser atingidos pela procedência do pedido, a acção não produzirá efeitos contra eles se não tiverem sido também demandados.
+2. Se o filho tiver sido perfilhado por pessoa diferente do marido da mãe, a perfilhação só prevalecerá se for afastada, nos termos do número anterior, a presunção de paternidade.

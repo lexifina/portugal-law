@@ -2,24 +2,22 @@
 
 ### (Administração dos bens do casal)
 
-1. A administração dos bens do casal, incluindo os próprios da mulher e os bens dotais, pertence ao marido, como chefe da família.
+1. Cada um do cônjuges tem a administração dos seus bens próprios.
 
-2. A mulher tem, porém, a administração:
+2. Cada um dos cônjuges tem ainda a administração:
 
-a) De todos os bens do casal, se o marido se encontrar em lugar remoto ou não sabido, ou impossibilitado, por qualquer motivo, de exercer a administração;
+a) Dos proventos que receba pelo seu trabalho;
 
-b) Dos bens próprios ou dotais, ou dos bens comuns por ela levados para o casal ou adquiridos a título gratuito depois do casamento, ou dos sub-rogados em lugar deles, quando tenha reservado esse direito na convenção antenupcial;
+b) Dos seus direitos de autor;
 
-c) Dos bens que lhe tenham sido doados ou deixados, ainda que por conta da legítima, com exclusão da administração do marido;
+c) Dos bens comuns por ele levados para o casamento ou adquiridos a título gratuito depois do casamento, bem como dos sub-rogados em lugar deles;
 
-d) De todo o seu património, se tiver sido estipulado o regime da separação;
+d) Dos bens que tenham sido doados ou deixados a ambos os cônjuges com exclusão da administração do outro cônjuge, salvo se se tratar de bens doados ou deixados por conta da legítima desse outro cônjuge;
 
-e) De todos os bens do casal ou de parte deles, se o marido lhe conferir, por mandato revogável, esse direito;
+e) Dos bens móveis, próprios do outro cônjuge ou comuns, por ele exclusivamente utilizados como instrumento de trabalho;
 
-f) Dos bens móveis, próprios de qualquer dos cônjuges ou comuns, por ela exclusivamente utilizados como instrumento de trabalho;
+f) Dos bens próprios do outro cônjuge, se este se encontrar impossibilitado de exercer a administração por se achar em lugar remoto ou não sabido ou por qualquer outro motivo, e desde que não tenha sido conferida procuração bastante para administração desses bens;
 
-g) Dos seus direitos de autor;
+g) Dos bens próprios do outro cônjuge se este lhe conferir por mandato esse poder.
 
-h) Dos proventos que receba por seu trabalho ou indústria.
-
-3. Quando se verifique em relação à mulher algum dos factos referidos na alínea a) do número anterior, a administração dos bens que, nos termos das alíneas b), c), d) e g) lhe devia pertencer, passa a ser exercida pelo marido.
+3. Fora dos casos previstos no número anterior, cada um dos cônjuges tem legitimidade para a prática de actos de administração ordinária relativamente aos bens comuns do casal; os restantes actos de administração só podem ser praticados com o consentimento de ambos os cônjuges..

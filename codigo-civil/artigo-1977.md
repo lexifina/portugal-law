@@ -1,5 +1,7 @@
 # Artigo 1977.º
 
-### (Apelidos do adoptado)
+### (Espécies de adopção)
 
-O adoptado tem o direito de usar os apelidos dos adoptantes.
+1. A adopção é plena ou restrita, consoante a extensão dos seus efeitos.
+
+2. A adopção restrita pode a todo o tempo, a requerimento dos adoptantes, ser convertida em adopção plena, desde que se verifiquem os requisitos para esta exigidos.

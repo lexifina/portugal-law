@@ -1,5 +1,5 @@
 # Artigo 1880.º
 
-### (Irrenunciabilidade)
+### (Despesas com os filhos maiores ou emancipados)
 
-Os pais não podem renunciar ao poder paternal nem a qualquer dos direitos que ele especialmente lhes confere, sem prejuízo do que neste código se dispõe acerca da adopção e da tutela de menores.
+Se no momento em que atingir a maioridade ou for emancipado o filho não houver completado a sua formação profissional, manter-se-á a obrigação a que se refere o artigo anterior na medida em que seja razoável exigir aos pais o seu cumprimento e pelo tempo normalmente requerido para que aquela formação se complete.

@@ -1,5 +1,5 @@
 # Artigo 2148.º
 
-### (Cônjuge divorciado ou separado judicialmente de pessoas e bens)
+### (Duplo parentesco)
 
-Se à data da morte do autor da sucessão o cônjuge se encontrar divorciado ou separado judicialmente de pessoas e bens, por sentença que já tenha transitado ou venha a transitar em julgado, não lhe é aplicável o disposto nos dois artigos antecedentes.
+A partilha faz-se por cabeça, mesmo que algum dos chamados à sucessão seja duplamente parente do falecido.

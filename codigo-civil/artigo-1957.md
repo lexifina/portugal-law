@@ -2,7 +2,7 @@
 
 ### (Convocação do conselho)
 
-1. O conselho de família é convocado por determinação do tribunal ou do Ministério Público, ou a requerimento de um dos vogais, do tutor, do administrador de bens, de qualquer parente do menor, ou do próprio menor quando tiver mais de dezoito anos.
+1. O conselho de família é convocado por determinação do tribunal ou do Ministério Público, ou a requerimento de um dos vogais, do tutor, do administrador de bens, de qualquer parente do menor, ou do próprio menor, quando tiver mais de dezasseis anos.
 
 2. A convocação indicará o objecto principal da reunião e será enviada a cada um dos vogais com oito dias de antecedência.
 

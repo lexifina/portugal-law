@@ -1,4 +1,4 @@
-## Secção III
+## Secção IV
 
 ## Efeitos da partilha
 

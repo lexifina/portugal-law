@@ -1,5 +1,7 @@
 # Artigo 1850.º
 
-### (Carácter secreto da instrução no tribunal de menores)
+### (Capacidade)
 
-A instrução do processo no tribunal de menores é secreta e será conduzida por forma a prevenir escândalos e a evitar toda a ofensa ao pudor ou dignidade das pessoas.
+1. Têm capacidade para perfilhar os indivíduos com mais de dezasseis anos, se não estiverem interditos por anomalia psíquica ou não forem notoriamente dementes no momento da perfilhação.
+
+2. Os menores, os interditos não compreendidos no número anterior e os inabilitados não necessitam, para perfilhar, de autorização dos pais, tutores ou curadores.

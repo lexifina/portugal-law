@@ -1,13 +1,7 @@
-## Secção II
-
-## Perfilhação
-
 # Artigo 1827.º
 
-### (Carácter pessoal e livre)
+### (Casamento putativo)
 
-1. O reconhecimento do filho ilegítimo mediante perfilhação é acto pessoal e livre.
+1. A anulação de casamento civil, ainda que contraído de má fé por ambos os cônjuges, não exclui a presunção de paternidade.
 
-2. A perfilhação pode ser feita por intermédio de procurador, contanto que a procuração contenha poderes especiais para o acto.
-
-3. Os dois progenitores podem perfilhar conjuntamente o filho comum, mas não lhes é permitido fazer-se representar no acto da perfilhação pelo mesmo procurador.
+2. A declaração de nulidade do casamento católico, transcrito no registo civil, também não exclui essa presunção.

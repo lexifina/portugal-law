@@ -2,4 +2,4 @@
 
 ### (Noção de casamento)
 
-Casamento é o contrato celebrado entre duas pessoas de sexo diferente que pretendem constituir legìtimamente a família mediante uma comunhão plena de vida.
+Casamento é o contrato celebrado entre duas pessoas de sexo diferente que pretendem constituir família mediante uma plena comunhão de vida, nos termos das disposições deste Código.

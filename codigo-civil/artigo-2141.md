@@ -1,9 +1,5 @@
-## Capítulo III
-
-## Sucessão dos ascendentes
-
 # Artigo 2141.º
 
-### (Ascendentes do primeiro grau)
+### (Sucessão do cônjuge, na falta de descendentes)
 
-Na falta de descendentes, são chamados à sucessão o pai e a mãe, em partes iguais, ou só um deles, quanto à totalidade, se o outro já não existir.
+Na falta de descendentes sucede o cônjuge, sem prejuízo do disposto no capítulo seguinte.

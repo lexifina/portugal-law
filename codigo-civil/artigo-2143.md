@@ -1,9 +1,5 @@
-## Capítulo IV
-
-## Sucessão dos irmãos e seus descendentes
-
 # Artigo 2143.º
 
-### (Irmãos legítimos e descendentes legítimos destes)
+### (Acrescer)
 
-Na falta de parentes em linha recta, são chamados à sucessão os irmãos legítimos e, representativamente, os descendentes legítimos destes.
+Se algum ou alguns dos ascendentes não puderem ou não quiserem aceitar, no caso previsto do n.º 1 do artigo anterior, a sua parte acresce à dos outros ascendentes que concorram à sucessão; se estes não existirem, acrescerá à do cônjuge sobrevivo.

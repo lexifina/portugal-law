@@ -2,7 +2,7 @@
 
 ### (Representação na sucessão testamentária)
 
-1. Gozam do direito de representação na sucessão testamentária os descendentes legítimos do que faleceu antes do testador ou do que repudiou a herança ou o legado, se não houver outra causa de caducidade da vocação sucessória.
+1. Gozam do direito de representação na sucessão testamentária os descendentes do que faleceu antes do testador ou do que repudiou a herança ou o legado, se não houver outra causa de caducidade da vocação sucessória.
 
 2. A representação não se verifica:
 

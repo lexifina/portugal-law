@@ -6,8 +6,6 @@
 
 a) O casamento celebrado sem precedência do processo de publicações;
 
-b) O casamento celebrado por quem tenha completado sessenta anos de idade, sendo do sexo masculino, ou cinquenta, sendo do sexo feminino;
+b) O casamento celebrado por quem tenha completado sessenta anos de idade.
 
-c) O casamento celebrado por quem tenha filhos legítimos, ainda que maiores ou emancipados.
-
-2. O disposto no número anterior não obsta a que os nubentes façam entre si doações, ou o futuro marido constitua um dote em benefício da mulher.
+2. O disposto no número anterior não obsta a que os nubentes façam entre si doações.

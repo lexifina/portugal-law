@@ -1,7 +1,5 @@
 # Artigo 1976.º
 
-### (Espécies de adopção)
+### (Adopção pelo tutor ou administrador legal de bens)
 
-1. A adopção é plena ou restrita, consoante a extensão dos seus efeitos.
-
-2. A adopção restrita pode a todo o tempo, a requerimento dos adoptantes, ser convertida em adopção plena, desde que se verifiquem os requisitos para esta exigidos.
+O tutor ou administrador legal de bens só pode adoptar o menor depois de aprovadas as contas da tutela ou administração de bens e saldada a sua responsabilidade.

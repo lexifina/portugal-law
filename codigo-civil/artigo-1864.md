@@ -1,5 +1,9 @@
+## Divisão III
+
+## Averiguação oficiosa da paternidade
+
 # Artigo 1864.º
 
-### (Sedução)
+### (Paternidade desconhecida)
 
-A sedução para o efeito da alínea e) do artigo 1860.º só é relevante se a mulher era virgem e tinha menos de dezoito anos no momento em que foi seduzida, ou se o consentimento dela foi obtido por meio de promessa de casamento, abuso de confiança ou abuso de autoridade, quando notórios.
+Sempre que seja lavrado registo de nascimento de menor apenas com a maternidade estabelecida, deve o funcionário remeter ao tribunal certidão integral do registo, a fim de se averiguar oficiosamente a identidade do pai.

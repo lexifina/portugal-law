@@ -1,5 +1,9 @@
 # Artigo 1839.º
 
-### (Morte do perfilhante)
+### (Fundamento e legitimidade)
 
-Se, no caso dos dois artigos precedentes, o perfilhante falecer sem ter proposto a acção ou no decurso dela, têm legitimidade para propor a acção no ano seguinte à sua morte, ou prosseguir nela, os descendentes ou ascendentes do perfilhante e todos os que mostrem ter sido prejudicados nos seus direitos sucessórios por efeito da porfilhação.
+1. A paternidade do filho pode ser impugnada pelo marido da mãe, por esta, pelo filho ou, nos termos do artigo 1841.º, pelo Ministério Público.
+
+2. Na acção o autor deve provar que, de acordo com as circunstâncias, a paternidade do marido da mãe é manifestamente improvável.
+
+3. Não é permitida a impugnação de paternidade com fundamento em inseminação artificial ao cônjuge que nela consentiu.

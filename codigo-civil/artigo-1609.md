@@ -1,15 +1,15 @@
 # Artigo 1609.º
 
-### (Dispensas)
+### (Dispensa)
 
 1. São susceptíveis de dispensa os impedimentos seguintes:
 
-a) Parentesco no terceiro grau da linha colateral;
+a) O parentesco no terceiro grau da linha colateral;
 
-b) Vínculo de adopção restrita;
+b) O vínculo de tutela, curatela ou administração legal de bens, se as respectivas contas estiverem já aprovadas;
 
-c) Vínculo de tutela, curatela ou administração legal de bens, se as respectivas contas estiverem já aprovadas.
+c) O vínculo de adopção restrita.
 
-2. A dispensa compete ao Ministro da Justiça ou, se algum dos nubentes for menor, ao tribunal de menores.
+2. A dispensa compete ao tribunal, que a concederá quando haja motivos sérios que justifiquem a celebração do casamento.
 
-3. São motivos atendíveis para a concessão da dispensa quaisquer razões de interesse público ou relativas às famílias dos nubentes.
+3. Se algum dos nubentes for menor, o tribunal ouvirá, sempre que possível, os pais ou o tutor.

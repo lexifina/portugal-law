@@ -1,5 +1,9 @@
+## Secção II
+
+## Divórcio
+
 # Artigo 1794.º
 
 ### (Remissão)
 
-É aplicável ao divórcio litigioso, com as necessárias adaptações, o disposto nos artigos 1779.º a 1785.º
+Sem prejuízo dos preceitos desta secção, é aplicável à separação judicial de pessoas e bens, com as necessárias adaptações, o disposto quanto ao divórcio na secção anterior.

@@ -1,7 +1,13 @@
 # Artigo 1865.º
 
-### (Legitimidade)
+### (Averiguação oficiosa)
 
-1. São aplicáveis à acção de investigação de paternidade, com as necessárias adaptações, as regras dos n.os 1 a 3 do artigo 1858.º
+1. Sempre que possível, o tribunal ouvirá a mãe acerca da paternidade que atribui ao filho.
 
-2. A mãe menor tem legitimidade para instaurar a acção em representação do filho sem necessidade de autorização dos seus pais, mas é sempre representada na causa por curador especial nomeado pelo tribunal.
+2. Se a mãe indicar quem é o pai ou por outro meio chegar ao conhecimento do tribunal a identidade do pretenso progenitor, será este também ouvido.
+
+3. No caso de o pretenso progenitor confirmar a paternidade, será lavrado termo de perfilhação e remetida certidão para averbamento à repartição competente para o registo.
+
+4. Se o pretenso pai negar ou se recusar a confirmar a paternidade, o tribunal procederá às diligências necessárias para averiguar a viabilidade da acção de investigação de paternidade.
+
+5. Se o tribunal concluir pela existência de provas seguras da paternidade, ordenará a remessa do processo ao agente do Ministério Público junto do tribunal competente, a fim de ser intentada a acção de investigação.

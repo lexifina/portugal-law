@@ -1,9 +1,17 @@
 # Artigo 1844.º
 
-### (Audiência da mãe)
+### (Prossecução e transmissão da acção)
 
-1. Se, fora do caso previsto no n.º 1 do artigo antecedente, a declaração de maternidade tiver sido efectuada sem a presença da mãe ou seu procurador bastante, será ela notificada pessoalmente para, no prazo de quinze dias, vir declarar se confirma a maternidade, sob a cominação de o filho ser havido por perfilhado; o facto da notificação e a perfilhação serão averbados no registo do nascimento.
+1. Se o titular do direito de impugnar a paternidade falecer no decurso da acção, ou sem a haver intentado, mas antes de findar o prazo estabelecido nos artigos 1842.º e 1843.º, tem legitimidade para nela prosseguir ou para a intentar:
 
-2. Se a mãe negar ou se recusar a confirmar a maternidade, ou não puder ser notificada, a menção fica sem efeito, mas o funcionário reduzirá a auto as declarações prestadas e remeterá ao tribunal de menores certidão integral do registo de nascimento, acompanhada de cópia do auto de declarações, se as houver; será igualmente remetida esta certidão, se o registado tiver sido mencionado como filho de mãe incógnita.
+a) No caso de morte do presumido pai, o cônjuge não separado judicialmente de pessoas e bens que não seja a mãe do filho, os descendentes e ascendentes;
 
-3. Das certidões extraídas do registo de nascimento não pode constar qualquer referência à menção que tenha ficado sem efeito, nem aos averbamentos que lhe respeitem, salvo o disposto no número anterior.
+b) No caso de morte da mãe, os descendentes e ascendentes;
+
+c) No caso de morte do filho, o cônjuge não separado judicialmente de pessoas e bens e os descendentes.
+
+2. O direito de impugnação conferido às pessoas mencionadas no número anterior caduca se a acção não for proposta no prazo de noventa dias a contar:
+
+a) Da morte do marido ou da mãe, ou do nascimento de filho póstumo, no caso das alíneas a) e b);
+
+b) Da morte do filho, no caso da alínea c).

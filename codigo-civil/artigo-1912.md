@@ -1,5 +1,5 @@
 # Artigo 1912.º
 
-### (Inibição parcial)
+### (Regulação do exercício do poder paternal)
 
-Consideram-se de pleno direito inibidos de representar o filho e administrar os seus bens os menores não emancipados e os interditos e inabilitados não referidos no artigo anterior.
+É aplicável ao caso previsto no artigo anterior, com as necessárias adaptações, o disposto nos artigos 1904.º a 1907.º

@@ -1,6 +1,10 @@
-## Secção II
+## Capítulo XII
 
-## Separação judicial de pessoas e bens
+## Divórcio e separação judicial de pessoas e bens
+
+## Secção I
+
+## Divórcio
 
 ## Subsecção I
 
@@ -8,6 +12,6 @@
 
 # Artigo 1773.º
 
-### (Separação litigiosa e por mútuo consentimento)
+### (Modalidades)
 
-A separação judicial de pessoas e bens pode ser requerida por um dos cônjuges com fundamento em algum dos factos referidos no artigo 1778.º, ou por ambos de comum acordo: no primeiro caso diz-se litigiosa; no segundo, por mútuo consentimento.
+O divórcio pode ser requerido ao tribunal por ambos os cônjuges, de comum acordo, ou por um deles contra o outro, com algum dos fundamentos previstos nos artigos 1779.º e 1781.º; no primeiro caso, diz-se divórcio por mútuo consentimento; no segundo, divórcio litigioso.

@@ -1,5 +1,7 @@
 # Artigo 1916.º
 
-### (Âmbito da inibição)
+### (Levantamento da inibição)
 
-A inibição decretada pelo tribunal de menores pode abranger ambos os progenitores ou apenas o pai ou a mãe, e referir-se a todos os filhos, nascidos ou nascituros, ou sòmente a algum ou a alguns deles.
+1. A inibição do exercício do poder paternal decretada pelo tribunal será levantada quando cessem as causas que lhe deram origem.
+
+2. O levantamento pode ser pedido pelo Ministério Público, a todo o tempo, ou por qualquer dos pais, passado um ano sobre o trânsito em julgado da sentença de inibição ou da que houver desatendido outro pedido de levantamento.

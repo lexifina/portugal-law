@@ -1,6 +1,6 @@
 ## Secção II
 
-## Revogação
+## Revogação e caducidade
 
 # Artigo 2311.º
 

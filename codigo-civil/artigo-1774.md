@@ -1,9 +1,7 @@
 # Artigo 1774.º
 
-### (Efeitos)
+### (Tentativa de conciliação; conversão do divórcio litigioso em divórcio por mútuo consentimento)
 
-1. A separação judicial de pessoas e bens não dissolve o vínculo conjugal.
+1. No processo de divórcio haverá sempre uma tentativa de conciliação dos cônjuges.
 
-2. Os cônjuges separados não estão, contudo, sujeitos aos deveres de coabitação e assistência, sem prejuízo do direito a alimentos nos termos estabelecidos no lugar respectivo.
-
-3. Relativamente aos bens, a separação produz os efeitos que produziria a dissolução do casamento; mas os bens dotais conservam a sua natureza.
+2. Se, no processo de divórcio litigioso, a tentativa de conciliação não resultar, o juiz procurará obter o acordo dos cônjuges para o divórcio por mútuo consentimento; obtido o acordo ou tendo os cônjuges, em qualquer altura do processo, optado por essa modalidade do divórcio, seguir-se-ão os termos do processo de divórcio por mútuo consentimento, com as necessárias adaptações.

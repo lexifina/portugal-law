@@ -1,11 +1,11 @@
 ## Divisão VI
 
-## Especialidade da tutela de filhos ilegítimos e de menores abandonados
+## Tutela de menores confiados a estabelecimento de educação ou assistência
 
 # Artigo 1962.º
 
-### (Órgãos da tutela)
+### (Exercício da tutela)
 
-1. Na tutela de filhos ilegítimos e de menores abandonados não há conselho de família.
+1. Quando não exista pessoa em condições de exercer a tutela, o menor é confiado à assistência pública, nos termos da respectiva legislação, exercendo as funções de tutor o director do estabelecimento público ou particular onde tenha sido internado.
 
-2. Considera-se abandonado o filho de pais incógnitos, ou de pais que se ausentaram para parte incerta deixando-o ao desamparo
+2. Neste caso, não existe conselho de família nem é nomeado protutor.

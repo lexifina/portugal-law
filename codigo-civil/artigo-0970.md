@@ -1,5 +1,5 @@
 # Artigo 970.º
 
-### (Causas de revogação)
+### (Revogação da doação)
 
-As doações são revogáveis por superveniência de filhos legítimos, sendo o doador casado ao tempo da doação, ou por ingratidão do donatário.
+As doações são revogáveis por ingratidão do donatário.

@@ -1,11 +1,5 @@
-## Secção II
-
-## Prova e vindicação da legitimidade
-
 # Artigo 1807.º
 
-### (Obrigatoriedade da declaração de legitimidade)
+### (Impugnação da maternidade)
 
-1. A legitimidade que resulta das presunções estabelecidas na secção anterior constará obrigatòriamente do registo de nascimento do filho, não sendo admitidas menções que a contrariem, salvo no caso previsto no artigo 1803.º
-
-2. Se o registo do casamento dos pais só vier a ser efectuado depois do registo do nascimento, será a legitimidade averbada oficiosamente.
+Se a maternidade estabelecida nos termos dos artigos anteriores não for a verdadeira, pode a todo o tempo ser impugnada em juízo pela pessoa declarada como mãe, pelo registado, por quem tiver interesse moral ou patrimonial na procedência da acção ou pelo Ministério Público.

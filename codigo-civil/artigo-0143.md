@@ -4,12 +4,12 @@
 
 1. A tutela é deferida pela ordem seguinte:
 
-a) À pessoa designada pelo pai, ou pela mãe na falta ou impedimento deste, em testamento ou documento autêntico ou autenticado;
+a) Ao cônjuge do interdito, salvo se estiver separado judicialmente de pessoas e bens ou separado de facto por culpa sua, ou se for por outra causa legalmente incapaz;
 
-b) Ao cônjuge do interdito, salvo se estiver separado judicialmente de pessoas e bens ou separado de facto por culpa sua, ou se for por outra causa legalmente incapaz;
+b) À pessoa designada pelos pais ou pelo progenitor que exercer o poder paternal, em testamento ou documento autêntico ou autenticado;
 
-c) Ao pai, ou à mãe na falta ou impedimento deste;
+c) A qualquer dos progenitores do interdito que, de acordo com o interesse deste, o tribunal designar;
 
-d) Aos filhos maiores, preferindo o mais velho, salvo se o tribunal entender, ouvido o conselho de família, que algum dos outros dá maiores garantias de bom desempenho do cargo.
+d) Aos filhos maiores, preferindo o mais velho, salvo se o tribunal, ouvido o conselho de família, entender que algum dos outros dá maiores garantias de bom desempenho do cargo.
 
-2. Se a tutela não puder ser deferida nos termos do número precedente, cabe ao tribunal a nomeação do tutor, ouvido o conselho de família.
+2. Quando não seja possível ou razões ponderosas desaconselhem o deferimento da tutela nos termos do número anterior, cabe ao tribunal designar o tutor, ouvido o conselho de família.

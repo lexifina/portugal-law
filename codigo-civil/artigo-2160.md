@@ -1,5 +1,5 @@
 # Artigo 2160.º
 
-### (Legítima dos pais)
+### (Legítima dos descendentes do segundo grau e seguintes)
 
-A legítima dos pais é de metade da herança.
+Os descendentes do segundo grau e seguintes têm direito à legítima que caberia ao seu ascendente, sendo a parte de cada um fixada nos termos prescritos para a sucessão legítima.

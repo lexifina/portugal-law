@@ -1,7 +1,15 @@
+## Secção III
+
+## Estabelecimento da paternidade
+
+## Subsecção I
+
+## Presunção de paternidade
+
 # Artigo 1826.º
 
-### (Casos em que não é admitido o reconhecimento)
+### (Presunção de paternidade)
 
-1. Não é admitido o reconhecimento em contrário da filiação que consta do assento de nascimento enquanto não houver rectificação, declaração de nulidade ou cancelamento desse assento pelos meios próprios.
+1. Presume-se que o filho nascido ou concebido na constância do matrimónio tem como pai o marido da mãe.
 
-2. O disposto no número anterior não invalida a perfilhação feita por alguma das formas mencionadas nas alíneas c), d) e e) do artigo 1830.º, embora ela não produza efeitos enquanto não puder ser registada.
+2. O momento da dissolução do casamento por divórcio ou da sua anulação é o do trânsito em julgado da respectiva sentença; o casamento católico, porém, só se considera nulo ou dissolvido por dispensa a partir do registo da decisão proferida pelas autoridades eclesiásticas.

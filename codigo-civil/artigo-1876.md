@@ -1,13 +1,7 @@
-## Capítulo IV
-
-## Efeitos da filiação
-
-## Secção I
-
-## Disposições gerais
-
 # Artigo 1876.º
 
-### (Dever fundamental dos filhos)
+### (Atribuição dos apelidos do marido da mãe)
 
-Os filhos devem honrar e respeitar seus pais.
+1. Quando a paternidade se não encontre estabelecida, poderão ser atribuídos ao filho menor apelidos do marido da mãe se esta e o marido declararem, perante o funcionário do registo civil, ser essa a sua vontade.
+
+2. Nos dois anos posteriores à maioridade ou à emancipação o filho pode requerer que sejam eliminados do seu nome os apelidos do marido da mãe.

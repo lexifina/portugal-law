@@ -1,7 +1,11 @@
+## Subsecção IV
+
+## Exercício do poder paternal
+
 # Artigo 1901.º
 
-### (Segundas núpcias)
+### (Poder paternal na constância do matrimónio)
 
-1. Se o progenitor sobrevivo contrair novas núpcias, o seu consorte não goza do poder paternal em relação aos filhos do casamento anterior.
+1. Na constância do matrimónio o exercício do poder paternal pertence a ambos os pais.
 
-2. Se a mãe binuba for administradora dos bens do filho menor, o seu segundo marido é responsável solidàriamente com ela pelos prejuízos resultantes da sua má gerência, anda que os cônjuges se separem judicialmente de pessoas e bens ou se divorciem, desde que os prejuízos remontem a tempo anterior à separação ou divórcio.
+2. Os pais exercem o poder paternal de comum acordo e, se este faltar em questões de particular importância, qualquer deles pode recorrer ao tribunal, que tentará a conciliação; se esta não for possível, o tribunal ouvirá, antes de decidir, o filho maior de catorze anos, salvo quando circunstâncias ponderosas o desaconselhem.

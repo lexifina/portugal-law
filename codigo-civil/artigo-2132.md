@@ -2,4 +2,4 @@
 
 ### (Categorias de herdeiros legítimos)
 
-São herdeiros legítimos os parentes, o cônjuge e o Estado, pela ordem e segundo as regras constantes do presente título.
+São herdeiros legítimos o cônjuge, os parentes e o Estado, pela ordem e segundo as regras constantes do presente título.

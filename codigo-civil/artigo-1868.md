@@ -1,5 +1,5 @@
 # Artigo 1868.º
 
-### (Regime)
+### (Remissão)
 
-O filho incestuoso está sujeito às disposições das secções antecedentes em tudo o que não estiver especialmente regulado nos artigos seguintes.
+É aplicável à acção oficiosa de investigação de paternidade, com as necessárias adaptações, o disposto nos artigos 1811.º, 1812.º e 1813.º

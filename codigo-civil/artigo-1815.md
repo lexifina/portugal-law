@@ -1,9 +1,5 @@
-## Secção III
-
-## Impugnação da legitimidade
-
 # Artigo 1815.º
 
-### (Regra geral)
+### (Caso em que não é admitido o reconhecimento)
 
-A legitimidade dos filhos, quando se verifiquem os respectivos pressupostos legais, não pode ser impugnada fora dos casos especialmente previstos nos artigos seguintes.
+Não é admissível o reconhecimento de maternidade em contrário da que conste do registo do nascimento.

@@ -1,5 +1,5 @@
 # Artigo 1975.º
 
-### (Adopção pelo tutor ou administrador legal de bens)
+### (Proibição de várias adopções do mesmo adoptado)
 
-O tutor ou administrador legal de bens só pode adoptar o menor depois de aprovadas as contas da tutela ou administração de bens e saldada a sua responsabilidade.
+Enquanto subsistir uma adopção não pode constituir-se outra quanto ao mesmo adoptado, excepto se os adoptantes forem casados um com o outro.

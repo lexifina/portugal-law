@@ -1,7 +1,9 @@
 # Artigo 1890.º
 
-### (Proibição de adquirir bens dos menores)
+### (Aceitação e rejeição de liberalidades)
 
-1. Sem autorização do tribunal de menores não podem os pais tomar de arrendamento ou adquirir, directamente ou por interposta pessoa, ainda que seja em hasta pública, bens ou direitos do filho sujeito ao poder paternal, nem tornar-se cessionários de créditos ou outros direitos contra este, excepto nos casos de sub-rogação legal ou de licitação em processo de inventário.
+1. Se ao filho for deixada herança ou legado, ou for feita proposta de doação que necessite de ser aceite, devem os pais aceitar a liberalidade, se o puderem fazer legalmente, ou requerer ao tribunal, no prazo de trinta dias, autorização para aceitar ou rejeitar.
 
-2. Entende-se que a aquisição é feita por interposta pessoa nos casos referidos no n.º 2 do artigo 579.º
+2. Se, decorrido aquele prazo sobre a abertura da sucessão ou sobre a proposta de doação, os pais nada tiverem providenciado, pode o filho ou qualquer dos seus parentes, o Ministério Público, o doador ou algum interessado nos bens deixados requerer ao tribunal a notificação dos pais para darem cumprimento ao disposto no número anterior, dentro do prazo que lhes for assinado.
+
+3. Se os pais nada declararem dentro do prazo fixado, a liberalidade tem-se por aceite, salvo se o tribunal julgar mais conveniente para o menor a rejeição.

@@ -1,11 +1,11 @@
 ## Capítulo II
 
-## Sucessão dos descendentes
+## Sucessão do cônjuge e dos descendentes
 
 # Artigo 2139.º
 
-### (Descendentes do primeiro grau)
+### (Regras gerais)
 
-1. A partilha entre filhos faz-se por cabeça, dividindo-se a herança em tantas partes quantos forem os herdeiros, salvo o disposto no número seguinte.
+1. A partilha entre o cônjuge e os filhos faz-se por cabeça, dividindo-se a herança em tantas partes quantos forem os herdeiros; a quota do cônjuge, porém, não pode ser inferior a uma quarta parte da herança.
 
-2. Concorrendo à sucessão filhos legítimos ou legitimados e filhos ilegítimos, cada um destes últimos tem direito a uma quota igual a metade da de cada um dos outros.
+2. Se o autor da sucessão não deixar cônjuge sobrevivo, a herança divide-se pelos filhos em partes iguais.

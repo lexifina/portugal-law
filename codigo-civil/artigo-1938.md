@@ -4,7 +4,7 @@
 
 1. O tutor, como representante do pupilo, necessita de autorização do tribunal de menores:
 
-a) Para praticar qualquer dos actos mencionados no n.º 1 do artigo 1887.º;
+a) Para praticar qualquer dos actos mencionados no n.º 1 do artigo 1889.º;
 
 b) Para adquirir bens, móveis ou imóveis, como aplicação de capitais do menor;
 

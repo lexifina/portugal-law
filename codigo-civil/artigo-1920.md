@@ -1,5 +1,7 @@
 # Artigo 1920.º
 
-### (Consequências da falta de registo)
+### (Protecção dos bens do filho)
 
-As decisões judiciais que importem inibição do poder paternal ou lhe ponham termo não podem ser invocadas contra terceiro de boa fé enquanto se não mostre efectuado o registo.
+1. Quando a má administração ponha em perigo o património do filho e não seja caso de inibição do exercício do poder paternal, pode o tribunal, a requerimento do Ministério Público ou de qualquer parente, decretar as providências que julgue adequadas.
+
+2. Atendendo em especial ao valor dos bens, pode nomeadamente o tribunal exigir a prestação de contas e de informações sobre a administração e estado do património do filho e, quando estas providências não sejam suficientes, a prestação de caução.

@@ -1,15 +1,11 @@
 # Artigo 1830.º
 
-### (Forma)
+### (Reinício da presunção de paternidade)
 
-A perfilhação pode fazer-se:
+Para o efeito do disposto no n.º 1 do artigo 1826.º, são equiparados a novo casamento:
 
-a) Por declaração no acto do registo de nascimento do filho;
+a) A reconciliação dos cônjuges separados judicialmente de pessoas e bens;
 
-b) Por declaração prestada perante o funcionário do registo civil posteriormente ao registo de nascimento;
+b) O regresso do ausente;
 
-c) Por testamento;
-
-d) Por escritura pública;
-
-e) Por termo lavrado em juízo.
+c) O trânsito em julgado da sentença que, sem ter decretado o divórcio ou a separação judicial de pessoas e bens, pôs termo ao respectivo processo.

@@ -1,9 +1,9 @@
 # Artigo 1675.º
 
-### (Direito ao nome)
+### (Dever de assistência)
 
-1. A mulher tem o direito de usar os apelidos do marido até ser proferido divórcio ou, em caso de viuvez, até passar a segundas núpcias.
+1. O dever de assistência compreende a obrigação de prestar alimentos e a de contribuir para os encargos da vida familiar.
 
-2. Falecido o marido ou decretada a separação judicial de pessoas e bens, pode a mulher ser privada pelo tribunal do direito ao nome do marido, quando pelo seu comportamento se mostre indigna dele.
+2. O dever de assistência mantém-se durante a separação de facto se esta não for imputável a qualquer dos cônjuges.
 
-3. Têm legitimidade para o pedido o próprio marido no caso de separação, e os parentes deste até ao quarto grau no caso de viuvez.
+3. Se a separação de facto for imputável a um dos cônjuges, ou a ambos, o dever de assistência só incumbe, em princípio, ao único ou principal culpado; o tribunal pode, todavia, excepcionalmente e por motivos de equidade, impor esse dever ao cônjuge inocente ou menos culpado, considerando, em particular, a duração do casamento e a colaboração que o outro cônjuge tenha prestado à economia do casal.

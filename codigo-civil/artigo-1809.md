@@ -1,5 +1,9 @@
 # Artigo 1809.º
 
-### (Rectificação, declaração de nulidade ou cancelamento do registo)
+### (Casos em que não é admitida a averiguação oficiosa da maternidade)
 
-Se for rectificado, declarado nulo ou cancelado qualquer registo por falsidade ou qualquer outra causa, e, em consequência da rectificação, declaração de nulidade ou cancelamento, o filho deixar de ser havido como legítimo, ou dever ser considerado como tal quem estava registado como filho ilegítimo, será lavrado oficiosamente o respectivo averbamento, se não tiver sido ordenado pelo tribunal.
+A acção a que se refere o artigo anterior não pode ser intentada:
+
+a) Se, existindo perfilhação, a pretensa mãe e o perfilhante forem parentes ou afins em linha recta ou parentes no segundo grau da linha colateral;
+
+b) Se tiverem decorrido dois anos sobre a data do nascimento.

@@ -1,7 +1,9 @@
 # Artigo 56.º
 
-### (Filiação legítima)
+### (Constituição da filiação)
 
-1. A determinação da legitimidade da filiação compete à lei nacional comum da mãe e do marido desta ou, na sua falta, à lei da residência habitual comum, ao tempo, quer num caso, quer noutro, do nascimento do filho, ou ao tempo da dissolução, declaração de nulidade ou anulação do casamento, se este tiver sido dissolvido, declarado nulo ou anulado.
+1. À constituição da filiação é aplicável a lei pessoal do progenitor à data do estabelecimento da relação.
 
-2. Na falta de nacionalidade ou residência habitual comum, é aplicável a lei pessoal do marido nos momentos a que o número anterior se refere.
+2. Tratando-se de filho de mulher casada, a constituição da filiação relativamente ao pai é regulada pela lei nacional comum da mãe e do marido; na falta desta, é aplicável a lei da residência habitual comum dos cônjuges e, se esta também faltar, a lei pessoal do filho.
+
+3. Para os efeitos do número anterior, atender-se-á ao momento do nascimento do filho ou ao momento da dissolução do casamento, se for anterior ao nascimento.

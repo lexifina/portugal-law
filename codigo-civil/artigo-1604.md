@@ -4,14 +4,14 @@
 
 São impedimentos impedientes, além de outros designados em leis especiais:
 
-a) O prazo internupcial;
+a) A falta de autorização dos pais ou do tutor para o casamento do nubente menor, quando não suprida judicialmente;
 
-b) O parentesco, legítimo ou ilegítimo, no terceiro grau da linha colateral;
+b) O prazo internupcial;
 
-c) O vínculo de tutela, curatela ou administração legal de bens;
+c) O parentesco no terceiro grau da linha colateral;
 
-d) O vínculo de adopção restrita;
+d) O vínculo de tutela, curatela ou administração legal de bens;
 
-e) A pronúncia do nubente pelo crime de homícidio doloso, ainda que não consumado, contra o cônjuge do outro, enquanto não houver despronúncia ou absolvição por decisão passada em julgado;
+e) O vínculo de adopção restrita;
 
-f) A oposição dos pais ou tutor do nubente menor.
+f) A pronúncia do nubente pelo crime de homicídio doloso, ainda que não consumado, contra o cônjuge do outro, enquanto não houver despronúncia ou absolvição por decisão passada em julgado.

@@ -1,5 +1,5 @@
 # Artigo 1811.º
 
-### (Acumulação de pedidos)
+### (Valor probatório das declarações prestadas)
 
-Com a vindicação da legitimidade pode ser pedida a declaração judicial do casamento dos pais, devendo o tribunal, no caso de procedência da acção, mandar lavrar o respectivo assento.
+Sem prejuízo do disposto no n.º 3 do artigo 1808.º, as declarações prestadas durante o processo a que se refere o artigo 1808.º não implicam presunção de maternidade nem constituem sequer princípio de prova.

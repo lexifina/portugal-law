@@ -1,7 +1,3 @@
-## Secção III
-
-## Caducidade
-
 # Artigo 2317.º
 
 ### (Casos de caducidade)
@@ -14,6 +10,6 @@ b) Se a instituição ou nomeação estiver dependente de condição suspensiva 
 
 c) Se o instituído ou nomeado se tornar incapaz de adquirir a herança ou o legado;
 
-d) Se o chamado à sucessão era cônjuge do testador e à data da morte deste se encontravam divorciados ou separados judicialmente de pessoas e bens, ou se o casamento tinha sido declarado nulo ou anulado, em qualquer dos casos por sentença que já tenha transitado ou venha a transitar em julgado;
+d) Se o chamado à sucessão era cônjuge do testador e à data da morte deste se encontravam divorciados ou separados judicialmente de pessoas e bens ou o casamento tenha sido declarado nulo ou anulado, por sentença já transitada ou que venha a transitar em julgado, ou se vier a ser proferida, posteriormente àquela data, sentença de divórcio, separação judicial de pessoas e bens, declaração de nulidade ou anulação do casamento;
 
 e) Se o chamado à sucessão repudiar a herança ou o legado, salvo havendo representação sucessória.

@@ -1,5 +1,9 @@
+## Capítulo V
+
+## Sucessão dos outros colaterais
+
 # Artigo 2147.º
 
-### (Chamamento do cônjuge)
+### (Outros colaterais até ao quarto grau)
 
-Na falta de parentes das três primeiras classes de sucessíveis, é chamado à sucessão da totalidade da herança o cônjuge sobrevivo.
+Na falta de herdeiros das classes anteriores, são chamados à sucessão os restantes colaterais até ao quarto grau, preferindo sempre os mais próximos.

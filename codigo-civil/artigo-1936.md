@@ -1,5 +1,5 @@
 # Artigo 1936.º
 
-### (Usufruto legal)
+### (Rendimentos dos bens do pupilo)
 
-O tutor não goza do usufruto legal sobre os bens do menor.
+O tutor só pode utilizar os rendimentos do pupilo no sustento e educação deste e na administração dos seus bens.

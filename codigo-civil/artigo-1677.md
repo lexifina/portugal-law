@@ -1,7 +1,7 @@
 # Artigo 1677.º
 
-### (Governo doméstico)
+### (Direito ao nome)
 
-1. Pertence à mulher, durante a vida em comum, o governo doméstico, conforme os usos e a condição dos cônjuges.
+1. Cada um dos cônjuges conserva os seus próprios apelidos, mas pode acrescentar-lhes apelidos do outro até ao máximo de dois.
 
-2. Ambos os cônjuges devem contribuir, em proporção dos respectivos rendimentos e proventos, para as despesas domésticas correspondentes à condição económica e social da família; se o marido não entregar o que lhe é devido para este efeito, pode a mulher exigir que lhe seja directamente entregue a parte dos rendimentos ou proventos do marido, que o tribunal fixar.
+2. A faculdade conferida na segunda parte do número anterior não pode ser exercida por aquele que conserve apelidos do cônjuge de anterior casamento.

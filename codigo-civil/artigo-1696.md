@@ -6,8 +6,10 @@
 
 2. Respondem, todavia, ao mesmo tempo que os bens próprios do cônjuge devedor:
 
-a) Os bens que eram exclusiva propriedade sua no momento em que a dívida foi contraída;
+a) Os bens por ele levados para o casal ou posteriormente adquiridos a título gratuito, bem como os respectivos rendimentos;
 
-b) Os móveis comuns de que ele podia dispor, por si só, no momento em que contraiu a dívida.
+b) O produto do trabalho e os direitos de autor do cônjuge devedor;
+
+c) Os bens sub-rogados no lugar dos referidos na alínea a).
 
 3. Não há lugar à moratória estabelecida no n.º 1, se a incomunicabilidade da dívida cujo cumprimento se pretende exigir resulta do disposto na alínea b) do artigo 1692.º

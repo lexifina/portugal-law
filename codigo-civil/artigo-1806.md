@@ -1,7 +1,7 @@
 # Artigo 1806.º
 
-### (Dupla presunção de legitimidade)
+### (Registo omisso quanto à maternidade)
 
-1. Quando, em consequência de segundas núpcias ou de bigamia da mãe, as presunções estabelecidas na lei conduzirem à atribuição simultânea de duas paternidades legítimas, prevalece a relativa ao segundo marido, se o filho tiver nascido passados cento e oitenta dias depois da celebração do segundo casamento, e a relativa ao primeiro, se tiver nascido antes, sem prejuízo do disposto no artigo 1812.º
+1. A mãe pode fazer a declaração de maternidade se o registo for omisso quanto a esta, salvo se se tratar de filho nascido ou concebido na constância do matrimónio e existir perfilhação por pessoa diferente do marido.
 
-2. Julgada procedente a acção de impugnação de paternidade legítima, renasce a presunção relativa ao outro marido da mãe.
+2. Quando a mãe possa fazer a declaração de maternidade, qualquer das pessoas a quem compete fazer a declaração do nascimento tem a faculdade de identificar a mãe do registado, sendo aplicável o disposto nos artigos 1803.º a 1805.º

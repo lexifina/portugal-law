@@ -1,5 +1,5 @@
 # Artigo 1862.º
 
-### (Convivência notória)
+### (Morte do perfilhante)
 
-A convivência notória entre a mãe e o pretenso pai consiste na comunhão duradoura de vida em condições análogas às dos cônjuges, ou no concubinato duradouro entre eles, que se tenha prolongado para além do nascimento do filho.
+Se o perfilhante falecer sem haver intentado a acção de anulação ou no decurso dela, têm legitimidade para a intentar no ano seguinte à sua morte, ou nela prosseguir, os descendentes ou ascendentes do perfilhante e todos os que mostrem ter sido prejudicados nos seus direitos sucessórios por efeito da perfilhação.

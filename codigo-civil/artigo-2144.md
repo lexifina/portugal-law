@@ -1,5 +1,5 @@
 # Artigo 2144.º
 
-### (Irmãos ilegítimos e descendentes destes)
+### (Sucessão do cônjuge, na falta de descendentes e ascendentes)
 
-Na falta de irmãos legítimos e descendentes legítimos destes, são chamados à sucessão os irmãos ilegítimos e, representativamente, os descendentes destes e os descendentes ilegítimos de irmãos legítimos.
+Na falta de descendentes e ascendentes, o cônjuge é chamado à totalidade da herança..

@@ -1,9 +1,5 @@
 # Artigo 1837.º
 
-### (Anulação por erro ou coacção)
+### (Rectificação, declaração de nulidade ou cancelamento do registo)
 
-1. A perfilhação é anulável judicialmente a requerimento do perfilhante, quando viciada por erro ou coacção moral.
-
-2. Só é relevante o erro sobre circunstâncias que tenham contribuído decisivamente para o convencimento da paternidade.
-
-3. A acção de anulação caduca no prazo de um ano, a contar do momento em que o perfilhante teve conhecimento do erro ou em que cessou a coacção, salvo se ele for menor não emancipado ou interdito por anomalia psíquica; neste caso, a acção não caduca sem ter decorrido um ano sobre a emancipação, maioridade ou levantamento da interdição.
+Se for rectificado, declarado nulo ou cancelado qualquer registo por falsidade ou qualquer outra causa e, em consequência da rectificação, declaração de nulidade ou cancelamento, o filho deixar de ser havido como filho do marido da mãe ou passar a beneficiar da presunção de paternidade relativamente a este, será lavrado oficiosamente o respectivo averbamento, se não tiver sido ordenado pelo tribunal.

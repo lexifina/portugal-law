@@ -1,9 +1,9 @@
 # Artigo 1673.º
 
-### (Dever de assistência)
+### (Residência da família)
 
-1. O dever de assistência importa para os cônjuges não só a obrigação de socorro e auxílio mútuos, mas também a de prestação de alimentos e a contribuição para as despesas domésticas.
+1. Os cônjuges devem escolher de comum acordo a residência da família, atendendo, nomeadamente, às exigências da sua vida profissional e aos interesses dos filhos e procurando salvaguardar a unidade da vida familiar.
 
-2. Estando os cônjuges separados de facto, só aquele a quem não for imputável a separação pode exigir o cumprimento do dever de assistência.
+2. Salvo motivos ponderosos em contrário, os cônjuges devem adoptar a residência da família.
 
-3. Mantém-se, todavia, em relação a ambos este dever, se a separação resultou de acordo e não teve como causa facto imputável a um deles.
+3. Na falta de acordo sobre a fixação ou alteração da residência da família, decidirá o tribunal a requerimento de qualquer dos cônjuges.

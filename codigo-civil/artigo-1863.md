@@ -1,5 +1,5 @@
 # Artigo 1863.º
 
-### (Violência)
+### (Perfilhação posterior a investigação judicial)
 
-Só existe violência para o efeito da alínea d) do artigo 1860.º quando a mulher se encontre privada do uso da razão ou dos sentidos, ou tenha havido constrangimento físico, coacção moral ou fraude que não envolva sedução.
+A perfilhação feita depois de intentada em juízo acção de investigação de paternidade contra pessoa diferente do perfilhante fica sem efeito, e o respectivo registo deve ser cancelado, se a acção for julgada procedente.

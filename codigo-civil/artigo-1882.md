@@ -1,13 +1,5 @@
 # Artigo 1882.º
 
-### (Poderes especiais da mãe)
+### (Irrenunciabilidade)
 
-Compete especialmente à mãe:
-
-a) Ser ouvida e participar em tudo o que diga respeito aos interesses do filho;
-
-b) Velar pela sua integridade física e moral;
-
-c) Autorizá-lo a praticar os actos que, por determinação especial da lei, dependam do seu consentimento;
-
-d) Desempenhar relativamente ao filho e aos seus bens as funções pertencentes ao marido, sempre que este se encontre em lugar remoto ou não sabido ou esteja impossibilitado de as exercer por qualquer outro motivo.
+Os pais não podem renunciar ao poder paternal nem a qualquer dos direitos que ele especialmente lhes confere, sem prejuízo do que neste Código se dispõe acerca da adopção.

@@ -1,7 +1,15 @@
+## Secção II
+
+## Estabelecimento da maternidade
+
+## Subsecção i
+
+## Declaração de maternidade
+
 # Artigo 1803.º
 
-### (Filhos concebidos antes do casamento)
+### (Menção da maternidade)
 
-1. É admitida, no acto do registo do nascimento, declaração contrária à legitimidade do filho nascido dentro dos cento e oitenta dias posteriores à celebração do casamento da mãe.
+1. Aquele que declarar o nascimento deve, sempre que possa, identificar a mãe do registando.
 
-2. Feita a declaração, o filho é havido como ilegítimo enquanto não for reconhecida, por algumas das formas referidas no artigo 1825.º, a paternidade do marido da mãe.
+2. A maternidade indicada é mencionada no registo.

@@ -1,11 +1,9 @@
 # Artigo 1905.º
 
-### (Investidura por decisão judicial)
+### (Divórcio, separação judicial de pessoas e bens, declaração de nulidade ou anulação do casamento)
 
-Fora dos casos previstos no artigo anterior, qualquer dos pais pode, a seu pedido, ser investido no poder paternal pelo tribunal de menores, desde que se verifiquem cumulativamente os seguintes requisitos:
+1. Nos casos de divórcio, separação judicial de pessoas e bens, declaração de nulidade ou anulação do casamento, o destino do filho, os alimentos a este devidos e a forma de os prestar serão regulados por acordo dos pais, sujeito a homologação do tribunal; a homologação será recusada se o acordo não corresponder ao interesse do menor.
 
-a) Ter o requerente cumprido para com o filho, há mais de cinco anos, as obrigações impostas por lei ou decisão judicial;
+2. Na falta de acordo, o tribunal decidirá de harmonia com o interesse do menor, podendo este ser confiado à guarda de qualquer dos pais ou, quando se verifique alguma das circunstâncias previstas no artigo 1918.º, à guarda de terceira pessoa ou de estabelecimento de educação ou assistência.
 
-b) Não haver oposição fundada à investidura por parte do outro progenitor que esteja no gozo do poder paternal;
-
-c) Mostrar-se vantajosa para o filho a providência solicitada.
+3. No caso referido no número anterior será estabelecido um regime de visitas ao progenitor ou progenitores a quem não tenha sido confiada a guarda do filho, a menos que excepcionalmente o interesse deste o desaconselhe.

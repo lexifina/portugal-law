@@ -2,8 +2,8 @@
 
 ### (Escolha dos vogais)
 
-1. Os vogais do conselho de família são escolhidos de entre os parentes referidos no artigo 1930.º, pela ordem e com as preferências nele fixadas, excluídos o tutor e o administrador de bens.
+1. Os vogais do conselho de família são escolhidos entre os parentes ou afins do menor, tomando em conta, nomeadamente, a proximidade do grau, as relações de amizade, as aptidões, a idade, o lugar de residência e o interesse manifestado pela pessoa do menor.
 
-2. Um dos vogais do conselho de família pertencerá à linha paterna do menor e o outro à linha materna, salvo se algum deles for irmão germano do menor.
+2. Na falta de parentes ou afins que possam ser designados nos termos do número anterior, cabe ao tribunal escolher os vogais de entre os amigos dos pais, vizinhos ou outras pessoas que possam interessar-se pelo menor.
 
-3. Na falta de parentes que possam, nos termos fixados nos números precedentes, ser designados para o cargo, porque não existam ou porque dele hajam sido escusados, cabe ao tribunal escolher os vogais de entre os restantes parentes e afins legítimos do menor ou de entre os amigos dos pais deste, por forma que haja, sendo possível, um representante da linha paterna e outro da materna.
+3. Sempre que possível, um dos vogais do conselho de família pertencerá ou representará a linha paterna e o outro a linha materna do menor.

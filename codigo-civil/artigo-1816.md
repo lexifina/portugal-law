@@ -1,13 +1,13 @@
 # Artigo 1816.º
 
-### (Impugnação da paternidade do filho concebido antes do matrimónio)
+### (Prova da maternidade)
 
-1. Independentemente da produção de qualquer prova, o marido da mãe pode impugnar a paternidade do filho nascido dentro dos cento e oitenta dias posteriores à celebração do casamento, excepto:
+1. Na acção de investigação de maternidade o filho deve provar que nasceu da pretensa mãe.
 
-a) Se antes de casar teve conhecimento da gravidez da mulher;
+2. A maternidade presume-se:
 
-b) Se, estando pessoalmente presente ou representado por procurador com poderes especiais, consentiu que o filho fosse declarado seu no assento de nascimento;
+a) Quando o filho houver sido reputado e tratado como tal pela pretensa mãe e reputado como filho também pelo público;
 
-c) Se por qualquer outra forma reconheceu o filho como seu.
+b) Quando exista carta ou outro escrito no qual a pretensa mãe declare inequivocamente a sua maternidade.
 
-2. Cessa o disposto na alínea a) do número anterior, se o casamento for anulado por falta de vontade, desde que não se trate de simulação, ou por coacção moral exercida contra o marido; e cessa o disposto nas alíneas b) e c), quando se prove ter sido o consentimento ou reconhecimento extorquido por coacção.
+3. A presunção considera-se ilidida quando existam dúvidas sérias sobre a maternidade.

@@ -4,6 +4,6 @@
 
 São incapazes de testar:
 
-a) Os que ainda não tiverem dezoito anos de idade, salvo se estiverem emancipados pelo casamento;
+a) Os menores não emancipados;
 
 b) Os interditos por anomalia psíquica.

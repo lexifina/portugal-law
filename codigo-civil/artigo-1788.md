@@ -1,5 +1,9 @@
+## Subsecção IV
+
+## Efeitos do divórcio
+
 # Artigo 1788.º
 
-### (Separação provisória)
+### (Princípio geral)
 
-A separação por mútuo consentimento não será homologada definitivamente sem que decorram três meses de separação provisória.
+O divórcio dissolve o casamento e tem juridicamente os mesmos efeitos da dissolução por morte, salvas as excepções consagradas na lei.

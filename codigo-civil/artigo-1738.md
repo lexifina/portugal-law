@@ -1,7 +1,3 @@
-## Subsecção V
-
-## Regime dotal
-
 # Artigo 1738.º
 
 ### (Disposições aplicáveis)

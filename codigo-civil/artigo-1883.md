@@ -1,7 +1,5 @@
 # Artigo 1883.º
 
-### (Abandono do lar)
+### (Filho concebido fora do matrimónio)
 
-1. Os menores não podem abandonar a casa paterna ou aquela que os pais lhes destinaram, nem dela ser retirados.
-
-2. Se a abandonarem ou dela forem retirados, qualquer dos pais e, em caso de urgência, as pessoas a quem eles tenham confiado o filho podem reclamá-lo, recorrendo, se for necessário, ao tribunal de menores ou à autoridade competente.
+O pai ou a mãe não pode introduzir no lar conjugal o filho concebido na constância do matrimónio que não seja filho do seu cônjuge, sem consentimento deste.

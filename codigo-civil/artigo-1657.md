@@ -12,6 +12,6 @@ c) Se o funcionário tiver fundadas dúvidas acerca da identidade dos contraente
 
 d) Se no momento da celebração for oponível ao casamento algum impedimento dirimente;
 
-e) Se, tratando-se de casamento que possa legalmente ser celebrado sem a precedência do processo de publicações, existir no momento da celebração o impedimento de interdição ou inabilitação por anomalia psíquica reconhecida por sentença com trânsito em julgado, ou o impedimento de casamento civil anterior não dissolvido, desde que num e noutro caso o impedimento ainda subsista.
+e) Se, tratando-se de casamento que possa legalmente ser celebrado sem precedência do processo de publicações, existir no momento da celebração o impedimento de falta de idade nupcial, o impedimento de interdição ou inabilitação por anomalia psíquica reconhecida por sentença com trânsito em julgado ou o de casamento civil anterior não dissolvido, desde que, em qualquer dos casos, o impedimento ainda subsista.
 
 2. A morte de um ou de ambos os cônjuges não obsta, em caso algum, à transcrição.

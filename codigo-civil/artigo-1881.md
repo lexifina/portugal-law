@@ -1,21 +1,7 @@
 # Artigo 1881.º
 
-### (Poderes especiais do pai)
+### (Poder de representação)
 
-1. Compete especialmente ao pai, como chefe da família:
+1. O poder de representação compreende o exercício de todos os direitos e o cumprimento de todas as obrigações do filho, exceptuados os actos puramente pessoais, aqueles que o menor tem o direito de praticar pessoal e livremente e os actos respeitantes a bens cuja administração não pertença aos pais.
 
-a) Providenciar acerca dos alimentos devidos ao filho e orientar a sua instrução e educação;
-
-b) Prestar-lhe a assistência moral conforme a sua condição, sexo e idade;
-
-c) Emancipá-lo;
-
-d) Defendê-lo e representá-lo, ainda que nascituro;
-
-e) Autorizá-lo a praticar os actos que, por determinação da lei, dependam do consentimento dos pais;
-
-f) Autorizá-lo a exercer profissão, arte ou ofício e a viver sobre si;
-
-g) Administrar os seus bens.
-
-2. Quando ao menor tenha sido aplicada uma medida de prevenção criminal que ainda esteja em execução, é admitido o suprimento judicial de qualquer autorização paternal exigida por lei.
+2. Se houver conflito de interesses cuja resolução dependa de autoridade pública, entre qualquer dos pais e o filho sujeito ao poder paternal, ou entre os filhos, ainda que, neste caso, algum deles seja maior, são os menores representados por um ou mais curadores especiais nomeados pelo tribunal.

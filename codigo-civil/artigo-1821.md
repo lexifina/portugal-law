@@ -1,5 +1,5 @@
 # Artigo 1821.º
 
-### (Nomeação de curador especial ao filho menor, interdito ou ausente)
+### (Alimentos provisórios)
 
-Em todas as causas de impugnação de legitimidade deve ser nomeado ao filho menor, interdito ou ausente um curador especial, o qual será escolhido, de preferência, entre os parentes da mãe.
+O filho menor, interdito ou inabilitado tem direito a alimentos provisórios desde a proposição da acção, contanto que o tribunal considere provável o reconhecimento da maternidade.

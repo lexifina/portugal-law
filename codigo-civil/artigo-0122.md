@@ -10,4 +10,4 @@
 
 ### (Menores)
 
-São menores as pessoas de um e outro sexo enquanto não perfizerem vinte e um anos de idade.
+É menor quem não tiver ainda completado dezoito anos de idade.

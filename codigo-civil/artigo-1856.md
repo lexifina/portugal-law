@@ -1,5 +1,5 @@
 # Artigo 1856.º
 
-### (Alimentos provisórios)
+### (Perfilhação de filho falecido)
 
-O filho menor, interdito ou inabilitado tem direito a alimentos provisórios desde a proposição da acção, contanto que o tribunal considere provável o reconhecimento.
+A perfilhação posterior à morte do filho só produz efeitos em favor dos seus descendentes.

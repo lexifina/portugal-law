@@ -1,5 +1,13 @@
+## Secção II
+
+## Poder paternal
+
+## Subsecção I
+
+## Princípios Gerais
+
 # Artigo 1877.º
 
-### (Direito ao nome)
+### (Duração do poder paternal)
 
-Os filhos usarão os apelidos dos pais, com as limitações impostas nas leis do registo civil.
+Os filhos estão sujeitos ao poder paternal até à maioridade ou emancipação.

@@ -1,4 +1,4 @@
-## Capítulo VII
+## Capítulo VI
 
 ## Sucessão do Estado
 
@@ -6,4 +6,4 @@
 
 ### (Chamamento do Estado)
 
-Na falta de todos os parentes sucessíveis e do cônjuge, é chamado à herança o Estado.
+Na falta de cônjuge e de todos os parentes sucessíveis, é chamado à herança o Estado.

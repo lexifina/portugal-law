@@ -1,5 +1,7 @@
 # Artigo 2161.º
 
-### (Legítima dos ascendentes do segundo grau e seguintes)
+### (Legítima do cônjuge e dos ascendentes)
 
-A legítima dos ascendentes do segundo grau e seguintes é de um terço da herança.
+1. A legítima do cônjuge e dos ascendentes, em caso de concurso, é de dois terços da herança.
+
+2. Se o autor da sucessão não deixar descendentes nem cônjuge sobrevivo, a legítima dos ascendentes é de metade ou de um terço da herança, conforme forem chamados os pais ou os ascendentes do segundo grau e seguintes.

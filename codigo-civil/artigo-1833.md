@@ -1,5 +1,5 @@
 # Artigo 1833.º
 
-### (Perfilhação de filho falecido)
+### (Declaração judicial de inexistência de posse de estado)
 
-A perfilhação posterior à morte do filho só produz efeitos em favor dos seus descendentes.
+A declaração judicial de inexistência de posse de estado a que se refere o n.º 2 do artigo anterior é proferida em processo especial e os seus efeitos restringem-se ao disposto naquele preceito.

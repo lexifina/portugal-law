@@ -1,5 +1,9 @@
+## Capítulo IV
+
+## Sucessão dos irmãos e seus descendentes
+
 # Artigo 2145.º
 
-### (Irmãos germanos e unilaterais)
+### (Regra geral)
 
-Concorrendo à sucessão irmãos germanos e irmãos consanguíneos ou uterinos, o quinhão de cada um dos irmãos germanos, ou dos descendentes que o representem, é igual ao dobro do quinhão de cada um dos outros.
+Na falta de cônjuge, descendentes e ascendentes, são chamados à sucessão os irmãos e, representativamente, os descendentes destes.

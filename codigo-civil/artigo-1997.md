@@ -1,7 +1,5 @@
 # Artigo 1997.º
 
-### (Relação dos bens do adoptado)
+### (Poder paternal)
 
-1. Nos trinta dias subsequentes à notificação da sentença que decretar a adopção, o adoptante deve apresentar no tribunal, se este o julgar necessário, a relação dos bens do adoptado.
-
-2. Igual relação pode ser exigida pelo tribunal sempre que o adoptado, sendo menor ou incapaz, adquira novos bens ou haja sub-rogação dos existentes.
+Cabe exclusivamente ao adoptante, ou ao adoptante e ao seu cônjuge, se este for pai ou mãe do adoptado, o exercício do poder paternal, com todos os direitos e obrigações dos pais, salvo o disposto no artigo seguinte.

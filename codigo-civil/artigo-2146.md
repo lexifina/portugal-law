@@ -1,9 +1,5 @@
-## Capítulo V
-
-## Sucessão do cônjuge
-
 # Artigo 2146.º
 
-### (Usufruto do cônjuge sobrevivo)
+### (Irmãos germanos e unilaterais)
 
-Sendo a sucessão deferida aos irmãos ou seus descendentes nos termos do capítulo anterior, o cônjuge sobrevivo tem direito, como legatário legítimo, ao usufruto vitalício da herança.
+Concorrendo à sucessão irmãos germanos e irmãos consanguíneos ou uterinos, o quinhão de cada um dos irmãos germanos, ou dos descendentes que os representem, é igual ao dobro do quinhão de cada um dos outros.

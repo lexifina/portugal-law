@@ -1,5 +1,5 @@
 # Artigo 1903.º
 
-### (Separação de facto)
+### (Impedimento de um dos pais)
 
-As disposições do artigo antecedente são aplicáveis aos cônjuges separados de facto.
+Quando um dos pais não puder exercer o poder paternal por ausência, incapacidade ou outro impedimento, caberá esse exercício unicamente ao outro progenitor.
