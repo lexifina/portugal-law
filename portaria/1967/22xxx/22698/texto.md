@@ -1,0 +1,5 @@
+Portaria n.º 22698
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 5000$00 a verba do capítulo 10.º, artigo 281.º, n.º 28), alínea a) «Encargos gerais - Subsídios e pensões - Subsídios para funerais a oficiais e praças na situação de reforma - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Macau para o corrente ano, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 4.º, artigo 127.º, n.º 1) «Administração geral e fiscalização - Polícia Internacional e de Defesa do Estado - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei», da referida tabela de despesa.
+Ministério do Ultramar, 31 de Maio de 1967. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Macau. - J. Cota.
