@@ -1,0 +1,9 @@
+Decreto do Presidente da República n.º 4-A/2004
+de 15 de Janeiro
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
+É ratificado o Tratado entre o Reino da Bélgica, o Reino da Dinamarca, a República Federal da Alemanha, a República Helénica, o Reino de Espanha, a República Francesa, a Irlanda, a República Italiana, o Grão-Ducado do Luxemburgo, o Reino dos Países Baixos, a República da Áustria, a República Portuguesa, a República da Finlândia, o Reino da Suécia, o Reino Unido da Grã-Bretanha e Irlanda do Norte (Estados membros da União Europeia) e a República Checa, a República da Estónia, a República de Chipre, a República da Letónia, a República da Lituânia, a República da Hungria, a República de Malta, a República da Polónia, a República da Eslovénia e a República Eslovaca Relativo à Adesão à União Europeia da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca, incluindo o Acto Relativo às Condições de Adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos tratados em que se funda a União Europeia, os anexos, os protocolos e a Acta Final com as suas declarações, assinado em Atenas em 16 de Abril de 2003, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 5-A/2004, em 3 de Outubro de 2003.
+Assinado em 22 de Dezembro de 2003.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 26 de Dezembro de 2003.
+O Primeiro-Ministro, José Manuel Durão Barroso.
