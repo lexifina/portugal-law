@@ -14,4 +14,6 @@ b) Apresentem juro e plano de reembolso, dependentes e variáveis em função do
 
 c) Sejam convertíveis em acções.
 
-d) Apresentem prémios de emissão.
+d) Confiram o direito a subscrever uma ou várias acções;
+
+e) Apresentem prémios de emissão.
