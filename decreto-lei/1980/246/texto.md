@@ -1,0 +1,19 @@
+Decreto-Lei n.º 246/80
+de 24 de Julho
+Considerando as dúvidas suscitadas a propósito da vigência de vários diplomas dimanados do Conselho da Revolução ou dos Chefes dos Estados-Maiores, no uso das competências legislativas ou regulamentares que a Constituição da República ou as leis em vigor lhes conferem, face à publicação ulterior de diplomas dimanados de outros órgãos de soberania sobre matérias coincidentes com as daqueles;
+Considerando que tais dúvidas não têm razão de ser, atentas a diferenciação e autonomia de estruturas operadas pelo artigo 19.º da Lei Constitucional n.º 3/74, de 14 de Maio, diferenciação essa que, transposta entretanto para a Lei Constitucional n.º 4/74, de 1 de Julho, ainda hoje perdura, por força do disposto nos artigos 142.º, fine, e 148.º da Constituição da República;
+Considerando, porém, que a persistência das mesmas dúvidas tem causado graves embaraços aos diversos serviços públicos, designadamente em matéria de administração do pessoal militar ou civil das forças armadas, como agora acontece, por exemplo, com os Decretos-Leis n.os 191-C/79, 377/79 e 35/80, bem como com a Portaria n.º 133/80, todos dimanados do Governo, mas sem incidência directa na organização das forças armadas, por conter matéria de exclusiva competência do Conselho da Revolução e dos Chefes dos Estados-Maiores;
+Considerando que da inaplicabilidade imediata dessas disposições do Governo não resulta necessariamente a inconformidade da instituição militar com a filosofia e princípios seus informadores, mas apenas a necessidade de uma sua adaptação, atentas as exigências específicas das forças armadas;
+Considerando que até essa adaptação ser promovida por diploma próprio do Conselho da Revolução continuarão obviamente em vigor na organização militar as normas que do antecedente aí regiam a respectiva matéria;
+Considerando a utilidade de se confirmar, por interpretação autêntica, a doutrina que em 1 de Junho de 1976 foi divulgada a este respeito pelo Estado-Maior-General das Forças Armadas, e do conhecimento, então, do Governo:
+O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
+Artigo 1.º Compete exclusivamente ao Conselho da Revolução legislar sobre assuntos específicos das forças armadas, designadamente os que dizem respeito à sua organização, funcionamento e disciplina, e seja qual for a qualidade, militar ou civil, dos elementos que as integram.
+Art. 2.º - 1 - Os diplomas legais e normais regulamentares dimanados de outros órgãos de soberania que tenham carácter geral e não incidam na organização, no funcionamento ou serviço e na disciplina das forças armadas são automaticamente aplicáveis na estrutura militar.
+2 - Se as leis e as normas a que o número anterior se refere contiverem, porém, disposições que tenham incidência na organização, no funcionamento ou na disciplina das forças armadas, compreendendo os elementos militares ou civis que as integram, compete ao Conselho da Revolução ou aos Chefes dos Estados-Maiores promover a sua adaptação por via legislativa ou regulamentar, sendo estas as normas que passarão a vigorar nas forças armadas.
+3 - Enquanto estas normas não entrarem em vigor, continuarão a aplicar-se as disposições que do antecedente regulavam nas forças armadas a mesma matéria, disposições que não se consideram prejudicadas por diplomas subsequentes de outros órgãos de soberania.
+Art. 3.º Ao pessoal a que se refere a primeira parte do n.º 4 do artigo 3.º da Portaria n.º 411/79, de 9 de Agosto, não é aplicável o disposto na alínea b) do n.º 3 do artigo 53.º do Decreto-Lei n.º 294/76, de 24 de Abril.
+Art. 4.º Os artigos 1.º e 2.º do presente diploma têm natureza interpretativa.
+Visto e aprovado em Conselho da Revolução em 9 de Julho de 1980.
+Promulgado em 14 de Julho de 1980.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
