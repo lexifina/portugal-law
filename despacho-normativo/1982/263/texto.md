@@ -1,0 +1,34 @@
+Despacho Normativo n.º 263/82
+1 - O Plano Nacional de Alfabetização e Educação Básica de Adultos (PNAEBA) aponta para a definição das bases de implementação de uma nova estratégia de educação permanente.
+Esta estratégia caracteriza-se fundamentalmente pela alternância entre estudo, trabalho e outras actividades sociais, pela capitalização de conhecimentos através do sistema de «unidades capitalizáveis», pela possibilidade de certificação de «saberes» de vária ordem, adquiridos por outras vias que não apenas escolares, e pelo seu alto grau de flexibilidade e adaptabilidade às características do adulto.
+2 - Tal estratégia encontra desde logo assento constitucional, definido no artigo 74.º, n.º 3, alíneas c) e g), da Constituição da República Portuguesa, como incumbência prioritária do Estado, na realização de uma política de ensino, «garantir a educação permanente» e «estabelecer a ligação do ensino com as actividades produtivas e sociais», «paradigmas de uma estratégia de educação recorrente para adultos».
+Nestes termos, ao abrigo do artigo 1.º do Decreto-Lei n.º 47587, de 10 de Março de 1967, do artigo 2.º, n.º 3, da Lei n.º 3/79, de 10 de Janeiro, e do Decreto-Lei n.º 489/73, de 2 de Outubro, e do n.º 2 do artigo 2.º do Decreto-Lei n.º 47/78, os Ministros da Educação e do Trabalho determinam:
+1.º A criação de cursos a nível de ciclo preparatório, no âmbito de um projecto experimental de educação recorrente de adultos (ERA), no Ministério do Trabalho.
+2.º Os objectivos gerais deste projecto são:
+a) Ter em conta, em cada área de aprendizagem, os conhecimentos e procedimentos já adquiridos por cada adulto e suas motivações;
+b) Aproximar a formação geral da formação profissional;
+c) Fomentar a interdisciplinaridade numa linha de educação de adultos;
+d) Criar vias alternativas à resolução de situações de partida muito diferenciadas, através do estabelecimento de estratégias individuais de aprendizagem (itinerário de formação individual) e da capitalização dos saberes adquiridos;
+e) Criar as condições que permitam o estabelecimento de um modelo de educação recorrente aplicável à Administração Pública;
+f) Contribuir para a definição do perfil do formador em educação recorrente e elaboração do modelo de formação correspondente;
+g) Construir um modelo de avaliação do projecto a partir de critérios estabelecidos por negociação entre o Serviço de Organização e Gestão de Pessoal do Ministério do Trabalho (SOGP) e a Direcção-Geral de Educação de Adultos (DGEA), tendo em vista os objectivos atrás enunciados.
+3.º As normas de funcionamento dos cursos referidos no n.º 1 são as constantes do protocolo de colaboração a celebrar entre o SOGP e a DGEA.
+4.º Os objectivos acima traçados deverão atingir-se segundo uma estrutura curricular englobando uma área comum e uma área profissional, na qual se pode integrar optativamente uma língua estrangeira (francês ou inglês):
+a) Os domínios da área comum são o Português, a Matemática e o mundo actual;
+b) A área profissional integrará um vasto leque de domínios ligados ou não à actividade profissional actual dos formandos, sendo a língua estrangeira obrigatória apenas no caso de o formando pretender seguir os seus estudos na linha do sistema formal;
+c) Os conteúdos curriculares da área comum e das línguas estrangeiras são os que se encontram já aprovados para os projectos experimentais do ERA;
+d) Os conteúdos curriculares dos domínios profissionais serão aprovados e definidos por despacho do Ministro do Trabalho.
+5.º:
+a) Os formandos serão avaliados em função dos objectivos pedagógicos referidos no n.º 4.º, alíneas c) e d);
+b) A avaliação será feita pela equipa pedagógica constituída pelos formadores afectos ao projecto, tendo em consideração os seguintes elementos:
+1) Dossier individual contendo os trabalhos elaborados pelos formandos e os testes de avaliação, designadamente os finais de cada unidade;
+2) Fichas de avaliação de cada formando, integradas no dossier, incluindo o registo de expressão oral, no caso do Português e das línguas estrangeiras.
+6.º É criada uma comissão de acompanhamento e avaliação do projecto, que reunirá no termo de cada curso e sempre que o achar conveniente. Será constituída:
+a) Pelos formadores responsáveis pelos vários domínios;
+b) Por 1 elemento do SOGP;
+c) Por 3 elementos da DGEA.
+7.º:
+a) A certificação dos conhecimentos dos formados compete à DGEA, nos termos do artigo 12.º do Decreto-Lei n.º 534/79, de 31 de Dezembro;
+b) Os certificados atribuídos aos formandos que frequentem estes cursos são equiparados, para todos os efeitos legais, aos certificados de habilitação passados pelo sistema escolar formal, tendo em conta o estabelecido no n.º 4.º, alínea b);
+c) Logo que estejam atingidos os objectivos pedagógicos no conjunto dos domínios que integram as áreas curriculares, a comissão de acompanhamento e avaliação do projecto enviará à Direcção-Geral de Educação de Adultos, para certificação, o dossier individual de cada formando.
+Ministérios da Educação e do Trabalho, 9 de Novembro de 1982. - O Ministro da Educação, João José Fraústo da Silva. - O Ministro do Trabalho, Luís Alberto Ferrero Morales.
