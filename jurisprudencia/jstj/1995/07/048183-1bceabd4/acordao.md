@@ -1,0 +1,33 @@
+# Acórdão do Supremo Tribunal de Justiça de 1995-07-06, processo 048183
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 048183
+
+**Nº Convencional:** JSTJ00037042
+
+**Relator:** ARAUJO SANTOS
+
+**Descritores:** PERDÃO DE PENA; CONDIÇÃO RESOLUTIVA; PENA UNITÁRIA; CÚMULO JURÍDICO DE PENAS; CONCURSO DE INFRACÇÕES
+
+**Nº do Documento:** SJ199507060481833
+
+**Data do Acordão:** 07/06/1995
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REC PENAL.
+
+**Decisão:** PROVIDO.
+
+**Área Temática:** DIR CRIM - TEORIA GERAL.
+
+## Sumário
+
+Se o arguido, nos 3 anos posteriores a 12 de Maio de 1994, cometer nova infracção dolosa, fica sem efeito o perdão concedido à sombra do artigo 8 da Lei 15/94 de 11 de Maio e o tribunal terá que efectuar o cúmulo jurídico das duas penas parcelares, de harmonia com as regras dos artigos
+
+78 e 79 do CP (de 1982, então em vigor).
