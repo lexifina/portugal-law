@@ -1,0 +1,15 @@
+Decreto n.º 43798
+Considerando que foram adjudicadas:
+Ao empreiteiro António Fernandes Vozone a execução da obra de alojamento e ampliação da messe de oficiais da base aérea n.º 2, na Ota;
+Ao empreiteiro Abel da Silva César a execução de trabalhos complementares da obra de construção de edifícios e arruamentos para ampliação das instalações do grupo de detecção, alerta e conduta da intercepção n.º 1 e esquadra n.º 10, em Monsanto;
+Ao empreiteiro Abel da Silva César a execução da obra de arruamentos, águas e esgotos da zona de soldados alunos na base aérea n.º 2, na Ota;
+Considerando que para a execução das Obras acima indicadas estão fixados prazos que abrangem parte dos anos económicos de 1961 e 1962;
+Tendo em conta o disposto no artigo 22.º e seu § 1.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar os seguintes contratos:
+Com o empreiteiro António Fernandes Vozone para a execução da obra de alojamento e ampliação da messe de oficiais da base aérea n.º 2, na Ota, pela importância de 3802284$00;
+Com o empreiteiro Abel da Silva César para a execução de trabalhos complementares da obra de construção de edifícios e arruamentos para ampliação das instalações do grupo de detecção, alerta e conduta da intercepção n.º 1 e esquadra n.º 10, em Monsanto, pela importância de 800000$00;
+Com o empreiteiro Abel da Silva César para a execução da obra de arruamentos, águas e esgotos da zona de soldados alunos na base aérea n.º 2, na Ota, pela importância de 1875907$00.
+Art. 2.º O encargo com estas obras, no montante de 6478191$00, será na sua totalidade liquidado pelo referido conselho administrativo no ano económico de 1962.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 18 de Julho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Kaulza Oliveira de Arriaga.
