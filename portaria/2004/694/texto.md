@@ -1,0 +1,8 @@
+Portaria n.º 694/2004
+de 24 de Junho
+Com fundamento no disposto no artigo 20.º da Lei n.º 30/86, de 27 de Agosto, e no Decreto-Lei n.º 251/92, de 12 de Novembro, foi, pela Portaria n.º 896-I1/95, de 15 de Julho, concessionada a José da Silva Bernardo a zona de caça turística da Valeira (processo n.º 1786-DGF), abrangendo os prédios rústicos denominados «Courela dos Algarvios das Corgas - Valeira» e «Courela do Monte - Valeira», sitos na freguesia de Cachopo, município de Tavira, com a área de 454,76 ha, válida até 15 de Julho de 2005.
+Verificou-se entretanto que a entidade concessionária não cumpriu de forma reiterada obrigações a que está vinculada, nomeadamente o disposto na alínea e) do n.º 1 do artigo 38.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro.
+Assim:
+Com fundamento no disposto na alínea b) do n.º 1 do artigo 47.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro:
+Manda o Governo, pelos Ministros da Economia e da Agricultura, Desenvolvimento Rural e Pescas, que seja revogada a concessão da zona de caça turística da Valeira (processo n.º 1786-DGF), atribuída, pela Portaria n.º 896-I1/95, de 15 de Julho, a José da Silva Bernardo.
+Pelo Ministro da Economia, Luís Manuel Miguel Correia da Silva, Secretário de Estado do Turismo, em 27 de Maio de 2004. - Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 20 de Maio de 2004.
