@@ -1,7 +1,11 @@
 # Artigo 148.º
 
-### (Valor do recurso e isenção)
+### (Efeitos da impugnação)
 
-1 - O valor do recurso contencioso é o do facto cujo registo foi recusado ou feito provisoriamente por dúvidas.
+1 - A interposição de recurso hierárquico ou de recurso contencioso deve ser imediatamente anotada na ficha respectiva a seguir à anotação da recusa ou ao registo provisório.
 
-2 - Os conservadores são dispensados de preparos e isentos de custas, ainda que os motivos da recusa ou da provisoriedade sejam julgados improcedentes, salvo se tiverem agido com dolo.
+2 - São ainda anotadas a improcedência ou a desistência da impugnação, bem como, sendo caso disso, a deserção do recurso ou a sua paragem durante mais de 30 dias por inércia do recorrente.
+
+3 - Com a interposição do recurso fica suspenso o prazo de caducidade do registo provisório, até lhe serem anotados os factos referidos no número anterior.
+
+4 - Proferida decisão final que julgue insubsistente a recusa da prática do acto nos termos requeridos, o conservador deve lavrar o registo recusado, com base na apresentação correspondente, ou converter oficiosamente o registo provisório.
