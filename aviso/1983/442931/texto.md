@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 23 de Agosto de 1983, a República da Turquia depositou, junto do Ministério dos Negócios Estrangeiros dos Países Baixos, o instrumento de ratificação da Convenção sobre o Reconhecimento e Execução das Decisões Relativas às Obrigações Alimentares, concluída na Haia em 2 de Outubro de 1973, de que Portugal já é parte. Aquele instrumento diplomático entrará em vigor, com referência àquele país, em 1 de Novembro de 1983.
+Secretaria-Geral do Ministério, 13 de Setembro de 1983. - O Director dos Serviços Jurídicos e de Tratados, Carlos Augusto Fernandes.
