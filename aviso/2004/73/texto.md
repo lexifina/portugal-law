@@ -1,0 +1,4 @@
+Aviso n.º 73/2004
+Por ordem superior se torna público que a República da Geórgia depositou junto do Secretário-Geral do Conselho da Europa, em 15 de Outubro de 2002, o seu instrumento de ratificação à Convenção Europeia sobre a Co-Produção Cinematográfica, aberta para assinatura em Estrasburgo em 2 de Outubro de 1992.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 21/96, publicado no Diário da República,1.ª série-A, n.º 169, de 23 de Julho de 1996, tendo depositado o seu instrumento de ratificação em 13 de Dezembro de 1996, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 13, de 16 de Janeiro de 1997.
+Direcção-Geral dos Assuntos Multilaterais, 21 de Abril de 2004. - O Director de Serviços das Organizações Políticas Internacionais, Bernardo Fernandes Homem de Lucena.
