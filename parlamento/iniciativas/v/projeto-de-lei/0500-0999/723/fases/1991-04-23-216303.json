@@ -1,0 +1,1122 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "723",
+    "id": "28243",
+    "titulo": "Gestão do ensino pré-escolar, básico e secundário"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1991-04-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4057",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1991-04-23",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28447",
+        "leg": "V",
+        "nr": "612",
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28229",
+        "leg": "V",
+        "nr": "727",
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Lei-Quadro da administração, direcção e gestão dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1991-04-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159853",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2243-2250"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2243?pgs=2243-2250&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159854",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2246-2246",
+                  "2254-2254"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2246?pgs=2246,2254&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159855",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2246-2247"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2246?pgs=2246-2247&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159856",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2247-2247",
+                  "2254-2254"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2247?pgs=2247,2254&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159857",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2249-2249"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2249?pgs=2249&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159858",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2249-2249"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2249?pgs=2249&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159859",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2251-2251"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2251?pgs=2251&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159860",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2251-2252"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2251?pgs=2251-2252&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159861",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2252-2255"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2252?pgs=2252-2255&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159862",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2253-2253"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2253?pgs=2253&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159863",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2253-2254",
+                  "2266-2267"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2253?pgs=2253-2254,2266-2267&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159864",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2255-2257"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2255?pgs=2255-2257&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159865",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2257-2257"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2257?pgs=2257&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159866",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2257-2261",
+                  "2263-2264"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2257?pgs=2257-2261,2263-2264&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159867",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2260-2260",
+                  "2262-2262"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2260?pgs=2260,2262&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159868",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2260-2261"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2260?pgs=2260-2261&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159869",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2261-2261"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2261?pgs=2261&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159870",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2261-2262"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2261?pgs=2261-2262&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159871",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2262-2263"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2262?pgs=2262-2263&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159872",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2264-2265"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2264?pgs=2264-2265&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159873",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2265-2267"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2265?pgs=2265-2267&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159874",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2267-2268"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2267?pgs=2267-2268&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159875",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2268-2269"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2268?pgs=2268-2269&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159876",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2269-2270"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-24",
+                "pubLeg": "V",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24/2269?pgs=2269-2270&org=PLC"
+              }
+            ],
+            "sumario": "Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "216303",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "335550",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-04-24",
+        "pubLeg": "V",
+        "pubNr": "67",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/067/1991-04-24?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
