@@ -1,0 +1,13 @@
+Portaria n.º 486/86
+de 4 de Setembro
+Considerando que o Serviço Nacional de Parques, Reservas e Conservação da Natureza, organismo dotado de personalidade jurídica e autonomia administrativa e financeira, a cuja Direcção de Serviços de Administração, no âmbito dos respectivos serviços com elevado grau de descentralização, compreendendo serviços regionais e locais, compete desenvolver um conjunto de acções cujos programas e projectos se requer adequadamente integrados nos planos anuais e plurianuais e devidamente acompanhados na sua gestão e execução com vista à sua viabilização e compatibilização com o financiamento através do PIDDAC, com o consequente estabelecimento de relações com a orgânica de planeamento central, sectorial e regional;
+Considerando que para o desempenho do cargo de director de Serviços de Administração referido se requer a escolha de um funcionário dotado com um perfil adequado e com qualidades, capacidades e conhecimentos no domínio do planeamento, programação e orçamentação e com larga experiência devidamente comprovada;
+Considerando que não é viável encontrar a curto prazo, dentro da área de recrutamento legalmente estabelecida nos termos da alínea b) do n.º 2 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, candidatos que tenham conhecimentos e experiências específicas na área dos serviços atrás descritos;
+Considerando que em tais circunstâncias se justifica seja alargada a área de recrutamento a candidatos que reúnam os requisitos específicos em detrimento daqueles que reúnam os requisitos formais:
+Usando da faculdade prevista no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçamento e do Ambiente e Recursos Naturais, o seguinte:
+1.º É excepcionalmente alargada a área de recrutamento, de forma a considerarem-se outros níveis da estrutura da carreira técnica superior, preferencialmente a técnicos superiores de 1.ª classe licenciados em Economia, com competência e experiência profissional devidamente comprovadas, para provimento do lugar de director de Serviços de Administração do Serviço Nacional de Parques, Reservas e Conservação da Natureza, lugar criado pela alínea d) do n.º 1 do artigo 40.º do Decreto-Lei n.º 130/86, de 7 de Junho, constante do anexo II do mesmo diploma.
+2.º O despacho de nomeação será acompanhado do currículo do nomeado.
+Secretarias de Estado do Orçamento e do Ambiente e Recursos Naturais.
+Assinada em 7 de Agosto de 1986.
+O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado do Ambiente e Recursos Naturais, Carlos Alberto Martins Pimenta.
