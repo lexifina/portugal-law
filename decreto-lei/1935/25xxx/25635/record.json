@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1935/07/16500/10361037.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1935-07-19",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "b49cd65716337e7cadf5a1a1557c1a4a09f774406537fdf9fa2d5bf66c8849d1",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.5,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "be2c8dd7f31aad141f684b976a0231ffd90c998bd3ae6425e16cb43c97adf06f",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 777
 }
