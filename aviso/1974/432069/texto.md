@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo informação do Conselho de Cooperação Aduaneira, o Governo do Sudão depositou, em 28 de Maio de 1974, o instrumento de adesão à Convenção Aduaneira Relativa às Facilidades Concedidas à Importação de Mercadorias Destinadas a Serem Apresentadas ou Utilizadas Numa Exposição, Feira, Congresso ou Manifestação Similar, concluída em Bruxelas em 8 de Junho de 1961 e que entrará em vigor, em relação àquele país, em 28 de Agosto de 1974.
+Direcção-Geral dos Negócios Económicos, 8 de Julho de 1974. - O Adjunto do Director-Geral, José Joaquim de Mena e Mendonça.
