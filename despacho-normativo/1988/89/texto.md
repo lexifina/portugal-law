@@ -1,0 +1,3 @@
+Despacho Normativo n.º 89/88
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, em aditamento à tabela n.º 2 - Produtos fitofarmacêuticos, aprovada pelo Despacho Normativo n.º 346/80, publicado no Diário da República, 1.ª série, n.º 250, de 20 de Outubro de 1980, é autorizado o lançamento no mercado da embalagem com o novo conteúdo líquido de 30 ml, para os produtos fitofarmacêuticos com base na substância activa foxime (insecticida), com teor de 500 g/l, formulado em concentrado para emulsão.
+Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo, 20 de Setembro de 1988. - O Secretário de Estado da Agricultura, Álvaro dos Santos Amaro. - O Secretário de Estado do Comércio Interno, Jorge Manuel Mendes Antas.
