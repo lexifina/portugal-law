@@ -1,0 +1,7 @@
+Resolução n.º 221/81
+Ao abrigo do disposto na alínea e) do artigo 164.º e no n.º 1 do artigo 281.º da Constituição, o Conselho da Revolução, a solicitação do Provedor de Justiça e precedendo parecer da Comissão Constitucional, resolveu:
+1 - Não declarar a inconstitucionalidade do artigo 3.º do Decreto-Lei n.º 57/80, de 26 de Março, e do n.º 2 do artigo 2.º do Decreto Regulamentar Regional n.º 21/80/A, de 14 de Março, por não infringirem o disposto nos artigos 13.º, 48.º, n.º 4, e 52.º, alínea c), da Constituição.
+2 - Não declarar a inconstitucionalidade do n.º 2 do artigo 12.º do Decreto-Lei n.º 57/80, de 26 de Março, e da alínea a) do n.º 1 do artigo 8.º do Decreto Regulamentar Regional n.º 21/80/A, de 14 de Março, este último dispositivo apenas na parte em que estabelece o limite mínimo de 21 anos como condição de acesso aos lugares previstos no respectivo quadro anexo, porquanto ambas as normas, a primeira na totalidade e a segunda na parte referida, não violam o disposto nos artigos 13.º, 48.º, n.º 4, e 52.º, alínea c), da Constituição.
+3 - Declarar a inconstitucionalidade da alínea a) do n.º 1 do artigo 8.º do Decreto Regulamentar Regional n.º 21/80/A, de 14 de Março, na parte em que estabelece o limite máximo de trinta e cinco anos como condição de acesso aos lugares previstos no respectivo quadro anexo, por infringir o disposto nos artigos 13.º, 48.º, n.º 4, e 51.º da Constituição.
+Aprovado em Conselho da Revolução em 14 de Outubro de 1981.
+O Presidente do Conselho da Revolução, António Ramalho Eanes.
