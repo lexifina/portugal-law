@@ -1,0 +1,3 @@
+Despacho
+De harmonia com o disposto na resolução do Conselho de Ministros de 22 de Maio de 1975, publicada no Diário do Governo, 1.ª série, n.º 124, de 30 de Maio, nomeio o licenciado Joaquim Domingos Lopes Júnior para exercer as funções de delegado do Governo junto das sociedades Sogefi, Sociedade Geral e Empresa Geral de Fomento, com os poderes, direitos e deveres indicados no Decreto-Lei n.º 40833, de 29 de Outubro de 1956, e sujeito às incompatibilidades e inibições prescritas naquele diploma e no Decreto-Lei n.º 446/74, de 13 de Setembro.
+Presidência do Conselho de Ministros, 2 de Junho de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
