@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros
+1 - A Ecril, Empresa de Concentrados do Ribatejo, S. A. R. L., com sede em Castanheira do Ribatejo, é uma empresa que tem por objecto social a produção de concentrados de tomate.
+Constituída em 13 de Abril de 1967, o seu capital social é de 7000 contos, sendo o seu sócio maioritário o Sr. Francisco Van Zeller Pereira Palha. Emprega cerca de 600 trabalhadores e possui uma fábrica em Castanheira do Ribatejo, a qual, funcionando em pleno, labora o equivalente à produção de 700 ha de tomate.
+2 - Por seu despacho de 27 de Maio de 1975, publicado no Diário do Governo, 2.ª série, de 23 de Junho último, o Ministro da Agricultura e Pescas determinou a suspensão da administração e dos demais corpos sociais da empresa, nomeando, em sua substituição, um administrador por parte do Estado, coadjuvado por dois elementos da comissão de trabalhadores.
+Esta intervenção do Estado fundamentou-se em razões de imperiosidade e urgência, pois se trata de uma empresa que se encontrava em deficiente estado de funcionamento, com fortes indícios de irregularidades de gestão e de actos de sabotagem económica, que afectavam, além da própria actividade industrial, a sobrevivência dos referidos trabalhadores e a linha da reforma agrária em curso.
+3 - Verifica-se, todavia, que, de acordo com o disposto no artigo 3.º, 1, alínea a), do Decreto-Lei n.º 660/74, a aludida intervenção deveria ter sido determinada pelo Conselho de Ministros, e não pelo titular do Ministério de que depende a actividade económica em causa, ao qual cumpria tão-somente propor a adopção das providências decretadas.
+4 - Em face do que antecede, o Conselho de Ministros, reunido em 22 de Agosto de 1975, resolveu:
+a) Ratificar a intervenção do Estado determinada pelo referido despacho ministerial, a qual produz todos os seus efeitos legais a contar da data da publicação daquele despacho;
+b) Ratificar a nomeação de Hélder Armindo Sousa Marques para administrador na firma Ecril, Empresa de Concentrados do Ribatejo, S. A. R. L., no que será coadjuvado por dois elementos da comissão de trabalhadores: Júlio Alfredo Freire Gaudêncio e José Augusto Conceição;
+c) Ratificar a suspensão da administração e dos demais corpos sociais da empresa.
+Presidência do Conselho de Ministros, 28 de Agosto de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
