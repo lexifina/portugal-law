@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 367-B/84, publicado no Diário da República, 1.ª série, n.º 274 (suplemento), de 26 de Novembro de 1984, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No sumário, onde se lê «Autoriza o Fundo de Turismo a emitir 1 milhão de obrigações, do valor nominal de 1000$00 cada uma, destinadas a subscrição pública e representadas por títulos de 1 a 10 obrigações ou certificados de dívida inscrita correspondentes a qualquer quantidade de títulos» deve ler-se «Autoriza o Fundo de Turismo a emitir 1 milhão de obrigações, do valor nominal de 1000$00 cada uma, destinadas a subscrição pública e representadas por títulos de 1 e de 10 obrigações ou certificados de dívida inscrita correspondentes a qualquer quantidade de títulos».
+Secretaria-Geral da Presidência do Conselho de Ministros, 6 de Dezembro de 1984. - O Secretário-Geral, França Martins.
