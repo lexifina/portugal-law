@@ -1,0 +1,90 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=LP%2fOgLAb3t4%2bGsG2vqX38GzdKA0DsSOilz180%2baZrRHZbY2ZyjrhRJITfX%2f4JvzgIpYxynAuyDZqMs8hBcPPLT%2fI0q9u8MMiyWQHHJvfCxNxSYCyQCZa40379RbPXfS1eObgAvEwTa%2bLQFrjrIgtPxLl4YFMtDX6YgdOKI5eCnF%2bvxROsBiOQNd%2f%2bD7ZIA%2bPGOe%2byHBwSrj1amb6CA2lEGYGPzi6UwVYHBUB3ZAc2uqbWu0ItL2pRH70zsePHehNUl0kpVVKX9T6oWptJ7t056YzKhyLpkozoiDsRfecnVYhM5gBA5%2b6Zc7azwXnL0spXks4%2fhn8QJf%2bR3o9jtjaq%2ferHflgP5UGDQaRhEKnWsk%3d&fich=AtividadesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "db7d2bf51a136afdf341f5db08865a5c3c40ce05fa143c82aa44b6d3c0df960e",
+  "legislatura": "VIII",
+  "tipo": "Moção",
+  "numero": "1",
+  "data_registo": "1999-11-04",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Moção de rejeição do Programa do Governo nº 1/VIII",
+    "AutoresGP": [
+      "BE"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "1999-11-04",
+    "DescTipo": "Moção",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "VIII",
+    "Numero": "1",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "269371",
+        "obs": "-(66)",
+        "pag": [
+          "12-(66)-12-(66)"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1999-11-06",
+        "pubLeg": "VIII",
+        "pubNr": "2",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/08/01/002S1/1999-11-06/12-(66)?pgs=12-(66)&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "MOC",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "1999-11-04",
+        "descricao": null,
+        "detalhe": null,
+        "id": "28903",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "269372",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-11-05",
+            "pubLeg": "VIII",
+            "pubNr": "5",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/005/1999-11-05?org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "5",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
