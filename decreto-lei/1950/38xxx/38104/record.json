@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1950/12/26200/13391340.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1950-12-21",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "3c0199a9e540ed701a528e1b6b564423277ef35d8ae22fa35f3595a50821f0c5",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 94.6,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "bbfcd4acf33e5941126a262fe0476f59d59dc71a604b261cad6aba86026672c4",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 569
 }
