@@ -1,0 +1,10 @@
+Despacho Normativo n.º 62/91
+O artigo 12.º, n.º 7, do Decreto-Lei n.º 41/84, de 3 de Fevereiro, prevê que, com carácter excepcional, possam ser descongelados, mediante despacho conjunto do Primeiro-Ministro e do Ministro das Finanças, os lugares indispensáveis à satisfação de necessidades inadiáveis de serviços.
+O Despacho Normativo n.º 37/90, que fixou a quota global de descongelamento para 1990, e, bem assim, os despachos excepcionais que se lhe seguiram privilegiaram a admissão de determinados grupos de pessoal, tendo em vista reforçar a capacidade técnica da Administração.
+Necessidades prementes de pessoal surgidas posteriormente, o facto de alguns serviços não terem podido utilizar atempadamente as quotas que lhes foram concedidas em áreas sensíveis, que não se compadecem com a espera inerente à prolação do despacho global de descongelamento para do ano em curso, e, finalmente, a circunstância de estarem em causa grupos profissionais muito específicos ou em que a Administração é cronicamente deficiente, não permitindo o recurso com sucesso aos denominados instrumentos de mobilidade, justificam se adopte uma medida de carácter excepcional, promovendo desde já o descongelamento dos lugares necessários.
+Assim, ao abrigo do disposto no n.º 7 do artigo 12.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, na redacção que lhe foi conferida pelo artigo 15.º do Decreto-Lei n.º 215/87, de 29 de Maio, determina-se o seguinte:
+1 - São descongeladas as admissões de pessoal para os lugares previstos no mapa anexo ao presente despacho, a distribuir pelos Ministérios da Justiça, dos Negócios Estrangeiros e da Saúde, pela forma nele estabelecida.
+2 - A utilização dessas quotas de descongelamento está dependente da necessária cobertura orçamental.
+Presidência do Conselho de Ministros e Ministério das Finanças, 13 de Fevereiro de 1991. - O Primeiro-Ministro, Aníbal António Cavaco Silva. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento.
+
+(ver documento original)
