@@ -1,0 +1,1356 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "52",
+    "id": "19231",
+    "titulo": "Alterações ao Regimento da Assembleia da República"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2002-09-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2261",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2002-09-20",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD, PS, CDS-PP, PCP, BE, PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "19228",
+        "leg": "IX",
+        "nr": "49",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Alterações ao Regimento da Assembleia da República"
+      },
+      {
+        "autor": "PS, PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "19229",
+        "leg": "IX",
+        "nr": "50",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Alterações ao Regimento da Assembleia da República"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "19230",
+        "leg": "IX",
+        "nr": "51",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Alterações ao Regimento da Assembleia da República"
+      },
+      {
+        "autor": "BE, PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "19232",
+        "leg": "IX",
+        "nr": "53",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Alterações ao Regimento da Assembleia da República"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "19233",
+        "leg": "IX",
+        "nr": "54",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Alterações ao Regimento da Assembleia da República"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "19234",
+        "leg": "IX",
+        "nr": "55",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "648",
+            "obs": null,
+            "pag": [
+              "1606-1617"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-09-21",
+            "pubLeg": "IX",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1617&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Alterações ao Regimento da Assembleia da República"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-09-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2006",
+                "nome": "Assunção Esteves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "11:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142069",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1606-1607"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-21",
+                "pubLeg": "IX",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1607&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "11:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142070",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1607-1608"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-21",
+                "pubLeg": "IX",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1607?pgs=1607-1608&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "11:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142071",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1609-1609",
+                  "1616-1617"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-21",
+                "pubLeg": "IX",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1609?pgs=1609,1616-1617&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "11:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142072",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1609-1611"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-21",
+                "pubLeg": "IX",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1609?pgs=1609-1611&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "11:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142073",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1611-1611"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-21",
+                "pubLeg": "IX",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1611?pgs=1611&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "11:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142074",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1611-1613"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-21",
+                "pubLeg": "IX",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1611?pgs=1611-1613&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "11:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142075",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1614-1615"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-21",
+                "pubLeg": "IX",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1614?pgs=1614-1615&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "11:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1615-1615"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-21",
+                "pubLeg": "IX",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1615?pgs=1615&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "11:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1616-1616"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-21",
+                "pubLeg": "IX",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1616?pgs=1616&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "390",
+                "nome": "Mota Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "11:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1617-1617"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-21",
+                "pubLeg": "IX",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1617?pgs=1617&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "153405",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "272597",
+        "obs": null,
+        "pag": [
+          "1606-1618"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-09-21",
+        "pubLeg": "IX",
+        "pubNr": "39",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/039/2002-09-21/1606?pgs=1606-1618&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
