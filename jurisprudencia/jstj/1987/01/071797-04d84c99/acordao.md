@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal de Justiça de 1987-01-27, processo 071797
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 071797
+
+**Nº Convencional:** JSTJ00000594
+
+**Relator:** GAMA PRAZERES
+
+**Descritores:** NULIDADE DE ACORDÃO; OMISSÃO DE PRONUNCIA; BANCO; REMUNERAÇÃO COMPLEMENTAR; ASSEMBLEIA GERAL; SUPRIMENTO JUDICIAL
+
+**Nº do Documento:** SJ198701270717971
+
+**Data do Acordão:** 01/27/1987
+
+**Votação:** UNANIMIDADE
+
+**Referência de Publicação:** BMJ N363 ANO1987 PAG459
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** CONCEDIDA A REVISTA.
+
+**Área Temática:** DIR PROC CIV.; DIR CIV - DIR CONTRAT.
+
+## Sumário
+
+I - A omissão de pronuncia so existe quando o tribunal deixa de apreciar e decidir uma questão que haja sido chamado a resolver e não quando deixa de apreciar, ou aprecia mal, quaisquer elementos que lhe sejam carreados para fundamentar a decisão.
+
+II - a) A assembleia geral de um banco não pode proceder arbitrariamente, sendo admissivel a apreciação e correcção judicial das suas decisões; b) Verificando-se que um administrador-delegado de um banco, nacionalizado pelo Decreto-Lei n. 132-A/75, de 14 de Março, prestou em 1974, serviços identicos aos dos exercicios anteriores, justifica-se a atribuição do quantitativo complementar que sempre lhe foi pago e que lhe devera ser concedido, isto porque pela extinção, do orgão social ao qual estatutariamente incumbia tal fixação, o direito do interessado tem de ser necessariamente concretizado judicialmente, pelo principio de que a todo o direito corresponde uma acção, destinada a faze-lo reconhecer em juizo, sendo certo, ainda, que a assembleia geral não se realizou por manifesta impossibilidade legal, não imputavel ao recorrente, não existindo nenhuma disposição legal que imponha ao conselho de gestão o dever de fixar a remuneração em causa.
