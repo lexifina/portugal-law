@@ -1,0 +1,13 @@
+Despacho
+A Direcção-Geral dos Serviços Pecuários chamou oportunamente a atenção dos proprietários de suínos e dos clínicos veterinários para a necessidade de se não abandonar a vacinação contra a peste chamada clássica, que constitui operação fundamental da luta contra a peste africana, pois permite estabelecer ràpidamente o diagnóstico diferencial entre as duas moléstias.
+No entanto, a estatística vem mencionando um decréscimo cada vez mais acentuado do número representativo das vacinações praticadas.
+Nestas circunstâncias e com a finalidade de se evitar que a vacinação contra a peste suína clássica caia em completo desuso, gerando-se assim uma situação que poderá vir a ter consequências muito graves para a suinicultura, determino que pela Direcção-Geral dos Serviços Pecuários seja levada a efeito em 1967, nos termos do § 2.º do artigo 1.º do Decreto-Lei n.º 42966, de 5 de Maio de 1960, a campanha de vacinações contra a peste suína clássica e suas complicações, empreendimento englobado na campanha contra a peste suína africana, de harmonia com as seguintes normas:
+1.ª A campanha, que engloba as vacinações contra a peste clássica e contra a pasteurelose e salmonelose dos suínos, terá carácter facultativo e será inteiramente gratuita para os donos ou possuidores dos animais;
+2.ª Serão utilizados apenas produtos biológicos de que se possua larga experiência no País. A Direcção-Geral dos Serviços Pecuários determinará quais as vacinas e outros produtos imunizantes a utilizar;
+3.ª Os clínicos veterinários serão remunerados em regime de pagamento de serviços e segundo uma tabela a aprovar oportunamente;
+4.ª Apenas a extinção compulsiva de focos de peste suína africana confere direito à indemnização, nas condições que estiverem em vigor;
+5.ª Os encargos com a aquisição, conservação, embalagem e transporte dos produtos imunizantes e antiparasitários, impressos, marcas auriculares e respectivas pinças de aplicação serão de conta das verbas atribuídas a esta campanha, bem como as que se referem à respectiva organização e fiscalização.
+O serviço da campanha suportará igualmente os encargos com antibióticos, soros e bacterinas que se considerem necessários para assistir aos rebanhos vacinados;
+6.ª Fixa-se como início possível dos trabalhos o dia 1 de Fevereiro de 1967, podendo, no entanto, ser antecipados, se as condições sanitárias e outras assim o permitirem;
+7.ª A Direcção-Geral dos Serviços Pecuários elaborará e dará conhecimento às entidades a que interessam as normas de execução desta campanha.
+Secretaria de Estado da Agricultura, 22 de Novembro de 1966. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.
