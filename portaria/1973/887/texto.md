@@ -1,0 +1,6 @@
+Portaria n.º 887/73
+de 13 de Dezembro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § único do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, conjugado com o artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, e artigo 3.º do aludido Decreto n.º 35770 e sua alínea e), com a nova redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir um crédito especial da importância de 7000000$00, destinado a reforçar a verba do capítulo 10.º, artigo 1541.º, n.º 4, alínea a) «Encargos gerais - Deslocações do pessoal - Passagens de ou para o exterior - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral em vigor do Estado de Angola, tomando como contrapartida o excesso de cobrança sobre a previsão da receita do capítulo 1.º, artigo 3.º, n.º 3) «impostos directos gerais - Imposto sobre o capital - Imposto sobre a aplicação de capitais», do orçamento de receita ordinária para o mesmo ano económico.
+Ministério do Ultramar, 29 de Novembro de 1973. - Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Secretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial do Estado de Angola. - Sacramento Monteiro.
