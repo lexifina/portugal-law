@@ -1,0 +1,5 @@
+Aviso n.º 67/93
+Por ordem superior se torna público que, por nota de 30 de Dezembro de 1992 e nos termos do artigo 45.º da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia, em 25 de Outubro de 1980, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a França declarado aceitar, em 24 de Dezembro de 1992, as adesões do Mónaco e da Roménia à mencionada Convenção.
+Nos termos do artigo 38.º, parágrafo 5.º, a Convenção entra em vigor entre a França e os referidos aderentes em 1 de Março de 1993.
+Portugal é Parte na mesma Convenção, que foi aprovada para ratificação pelo Decreto do Governo n.º 33/83, de 11 de Agosto, tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 26 de Janeiro de 1993. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
