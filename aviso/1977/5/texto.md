@@ -1,0 +1,18 @@
+Aviso n.º 5
+Comunica-se que, sob a orientação superior do Ministro das Finanças, o Banco de Portugal, em conformidade com a competência que, como banco central, lhe foi atribuída pelo artigo 16.º da sua Lei Orgânica, e considerando o disposto na alínea c) do n.º 2 do artigo 27.º da aludida Lei Orgânica, determina o seguinte, para cumprimento por todas as instituições de crédito:
+1.º - 1. O montante das disponibilidades de caixa, em moeda nacional, das instituições de crédito não deverá ser, em qualquer momento, inferior à soma dos seguintes valores:
+a) 7% das responsabilidades efectivas em moeda nacional para com terceiros, excluídas as restantes instituições de crédito nacionais, exigíveis à vista ou a prazo não superior a trinta dias;
+b) 4% das responsabilidades efectivas em moeda nacional, para com terceiros, excluídas as restantes instituições de crédito nacionais, exigíveis a prazo superior a trinta dias.
+2. Para os efeitos do disposto no número anterior, apenas são consideradas disponibilidades de caixa em moeda nacional:
+a) As notas e moedas em cofre nas instituições de crédito;
+b) Os saldos dos depósitos à ordem das instituições de crédito efectuados no Banco de Portugal.
+3. Nas mencionadas responsabilidades em moeda nacional não serão consideradas as importâncias de obrigações em circulação emitidas pelas instituições de crédito.
+4. O montante dos saldos das contas de depósitos abertas no Banco de Portugal à ordem das instituições de crédito não deverá ser, em qualquer momento, inferior a 50% do valor mínimo global das disponibilidades de caixa das mesmas instituições, calculado de harmonia com o disposto nos números anteriores.
+2.º - 1. As percentagens a que se refere o n.º 1.º poderão ser aumentadas, mediante decisão do Banco de Portugal, sempre que as instituições de crédito não atinjam os objectivos das directivas ou dos condicionalismos estabelecidos por este Banco, nos termos das alíneas a) e c) do n.º 1.º do artigo 28.º da sua Lei Orgânica, devendo os valores correspondentes aos aumentos de liquidez impostos por essa decisão ser depositados, na sua totalidade, no Banco de Portugal.
+2. As decisões tomadas em conformidade com o número precedente serão comunicadas directamente pelo Banco de Portugal às instituições de crédito visadas.
+3.º - 1. As importâncias dos saldos das contas especiais abertas no Banco de Portugal em nome das instituições de crédito, nos termos do n.º 3.º da Portaria n.º 406/73, de 9 de Junho, não serão contadas para efeitos do estabelecido nos n.os 1.º e 2.º da presente determinação, na parte aplicável aos citados saldos.
+2. Também para efeito do previsto nos n.os 1.º e 2.º desta determinação, não será contada como responsabilidade em moeda nacional das aludidas instituições de crédito a parte dos saldos das contas especiais abertas nos ditos bancos, em conformidade com o disposto no n.º 2 do n.º 2.º da citada Portaria n.º 406/73, que corresponda às importâncias mencionadas no número anterior do presente número desta determinação.
+4.º Ficam revogadas as normas constantes dos n.os 1.º a 5.º da determinação do Banco de Portugal comunicada pelo aviso publicado no 4.º suplemento ao Diário do Governo, 1.ª série, n.º 294, de 22 de Dezembro de 1975.
+5.º As dúvidas que se suscitarem na aplicação da presente determinação serão resolvidas pelo Banco de Portugal, mediante circulares transmitidas a todas as instituições de crédito.
+6.º A presente determinação entra em vigor na data da sua publicação no Diário da República, devendo as instituições de crédito adaptar-se ao disposto nas normas dela constantes, no prazo máximo de trinta dias, a contar daquela data.
+Ministério das Finanças, 28 de Fevereiro de 1977. - O Ministro das Finanças, Henrique Medina Carreira.
