@@ -1,0 +1,3 @@
+Aviso n.º 75/97
+Por ordem superior se torna público que a Rússia assinou, em 7 de Novembro de 1996, a Convenção Europeia sobre o Reconhecimento Académico das Qualificações Universitárias, aberta à assinatura em Paris, em 14 de Dezembro de 1959.
+Direcção de Serviços das Organizações Políticas Multilaterais, 7 de Fevereiro de 1997. - O Director de Serviços, João José Gomes Caetano da Silva.
