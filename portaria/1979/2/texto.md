@@ -1,0 +1,48 @@
+Portaria n.º 2/79
+de 3 de Janeiro
+Pelo Decreto-Lei n.º 314/78, de 27 de Outubro, foram criados os centros de observação e acção social.
+A competência territorial destes, nos termos do n.º 1 do artigo 81.º do citado diploma, corresponde, em princípio, à área de jurisdição do tribunal de menores da sua sede.
+Dado, porém, que os centros não funcionam apenas como órgãos de apoio aos tribunais de menores e estabelecimentos tutelares, mas também como instituições oficiais não judiciárias de protecção a menores, com competência própria para a aplicação de medidas, a mesma disposição prevê a possibilidade de alargamento da área da sua competência.
+Assim, nos termos da parte final do n.º 1 do artigo 81.º do Decreto-Lei n.º 314/78, de 27 de Outubro:
+Manda o Governo da República Portuguesa, pelo Ministro da Justiça, o seguinte:
+1 - Os Centros de Observação e Acção Social de Lisboa, Porto e Coimbra, para além da área de jurisdição dos tribunais de menores das suas sedes, exercem as atribuições conferidas pelo artigo 76.º do Decreto-Lei n.º 314/78, respectivamente, também na área das seguintes comarcas:
+a) Mafra.
+Moita.
+Montijo.
+Sesimbra.
+b) Espinho.
+Paços de Ferreira.
+Paredes.
+Penafiel.
+Póvoa de Varzim.
+Santo Tirso.
+Vila do Conde.
+c) Anadia.
+Aveiro.
+Cantanhede.
+Condeixa-a-Nova.
+Figueira da Foz.
+Lousã.
+Montemor-o-Velho.
+Penacova.
+Soure.
+2 - Quando, nos termos do n.º 1 do artigo 36.º do Decreto-Lei n.º 269/78, de 1 de Setembro, forem declarados instalados os Tribunais de Menores de Évora Funchal e Ponta Delgada, os centros de observação e acção social que, segundo o disposto no n.º 2 do artigo 79.º do Decreto-Lei n.º 314/78, passarem a funcionar nas áreas dos mesmos, para além dessas áreas, exercerão também as atribuições conferidas pelo artigo 76.º deste decreto, respectivamente, na área das seguintes comarcas:
+a) Albufeira.
+Lagos.
+Loulé.
+Monchique
+Olhão.
+Portimão.
+Silves.
+Tavira.
+Vila Real de Santo António.
+b) Ponta do Sol.
+Porto Santo.
+Santa Cruz.
+S. Vicente.
+c) Nordeste.
+Povoação.
+Ribeira Grande.
+Vila Franca do Campo.
+3 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Ministério da Justiça, 15 de Dezembro de 1978. - O Ministro da Justiça, Eduardo Henriques da Silva Correia.
