@@ -30,4 +30,4 @@ f) Nos demais casos especificados na lei.
 
 6 - O cancelamento dos registos juridicamente inexistentes, por falta de assinatura das partes ou do funcionário, pode ser efectuado, nos termos do número anterior, independentemente da declaração judicial da inexistência, se a omissão de registo do facto que deles conste já se encontrar regularmente suprida.
 
-7 - O cancelamento dos registos juridicamente inexistentes, nos termos do artigo 61.º n.º 3, é efectuado pelo conservador, acto contínuo à feitura da menção exigida pelo referido preceito.
+7 - O cancelamento dos registos juridicamente inexistentes, nos termos dos artigos 61.º, n.º 3, e 74.º, n.º 3, é efectuado pelo conservador, acto contínuo à feitura da menção exigida pelos referidos preceitos.
