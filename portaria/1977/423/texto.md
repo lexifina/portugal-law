@@ -1,0 +1,10 @@
+Portaria n.º 423/77
+de 13 de Julho
+O Decreto-Lei n.º 18/77, de 22 de Fevereiro, mandou aplicar a todos os organismos e serviços públicos, com efei o a partir de 1 de Janeiro de 1976, as normas estabelecidas quanto à reestruturação da carreira e condições de acesso e de provimento das novas categorias do pessoal de enfermagem do Ministério dos Assuntos Sociais pelo Decreto n.º 534/76, de 8 de Julho.
+E determinou que os organismos e serviços em que passavam a ser aplicadas essas normas procedessem, no prazo de trinta dias, à alteração dos respectivos quadros, de modo a dar cumprimento integral às normas estabelecidas pelo último dos referidos diplomas.
+Assim, nos termos do n.º 2 do artigo 1.º do Decreto n.º 18/77, de 22 de Fevereiro:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Educação e Investigação Científica e pelo Secretário de Estado da Administração Pública:
+1.º São introduzidas no quadro do Instituto Português de Oncologia de Francisco Gentil, anexo ao Decreto-Lei n.º 99/72, de 25 de Março, com efeitos a partir de 1 de Janeiro de 1976, as seguintes alterações:
+(ver documento original)
+2.º Nos termos do artigo 6.º do Decreto-Lei n.º 534/76, de 8 de Julho, os enfermeiros de 3.ª classe que hajam concluído o curso de promoção referido no n.º 1 do artigo 4.º do Decreto-Lei n.º 440/74, de 11 de Setembro, serão providos na categoria de enfermeiro de 2.ª classe, mediante lista nominativa, aprovada pelo Secretário de Estado do Ensino Superior e publicada no Diário da República, com dispensa de quaisquer formalidades, excepto o visto do Tribunal de Contas, considerando-se simultaneamente extinto o correspondente número de lugares de enfermeiro de 3.ª classe e criado igual número de lugares de enfermeiro de 2.ª classe.
+Presidência do Conselho de Ministros e Ministérios das Finanças e da Educação e Investigação Científica, 29 de Junho de 1977. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Leal Cardia. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais.
