@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 11/2002
+Para os devidos efeitos se declara que a Lei n.º 10/2002, de 11 de Fevereiro, que aperfeiçoa as disposições legais destinadas a prevenir e punir o branqueamento de capitais provenientes de actividades criminosas e 5.ª alteração ao Decreto-Lei n.º 325/95, de 2 de Dezembro, alterado pela Lei n.º 65/98, de 2 de Setembro, pelo Decreto-Lei n.º 275-A/2000, de 9 de Novembro, pela Lei n.º 104/2001, de 25 de Agosto, e pelo Decreto-Lei n.º 323/2001, de 17 de Dezembro, publicada no Diário da República, 1.ª série-A, n.º 35, de 11 de Fevereiro de 2002, saiu com a seguinte incorrecção, que assim se rectifica:
+No artigo 1.º da Lei n.º 10/2002, de 11 de Fevereiro, no n.º 1 do artigo 10.º, onde se lê «das obrigações nos artigos 4.º e 7.º» deve ler-se «das obrigações previstas nos artigos 4.º e 7.º».
+Assembleia da República, 4 de Fevereiro de 2002. - A Secretária-Geral, Adelina Sá Carvalho.
