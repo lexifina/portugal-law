@@ -1,0 +1,313 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11283",
+  "numero": "83",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2004-03-30",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2004-03-30",
+        "DataArquivo": "2004-11-03",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2004-11-08",
+        "DataReaberta": "2004-03-30",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2004-03-30",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764d554644524578484c305276593356745a57353062334e515a585270593246764c7a5a6c4f4751775a5751324c545a695a5463744e4445324d6930344d7a4d334c57597859324d344d6d5932595468685a6935775a47593d&fich=6e8d0ed6-6be7-4162-8337-f1cc82f6a8af.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "102",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE ASSUNTOS CONSTITUCIONAIS, DIREITOS, LIBERDADES E GARANTIAS",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2005-12-02",
+    "Documentos": [
+      {
+        "DataDocumento": "2004-03-30",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d765a6d51784d546c6a4d474d744f446b354e6930304e44526c4c5745774e5755745a5449794d4745775a6d56695a6a55344c6e426b5a673d3d&fich=fd119c0c-8996-444e-a05e-e220a0febf58.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2005-12-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153736",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3081-3081"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-03",
+                "pubLeg": "X",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/064/2005-12-03/3081?pgs=3081&org=PLC"
+              }
+            ],
+            "Sumario": "Que titulares de cargos políticos ou equiparados só possam usufruir da subvenção mensal vitalícia conferida pela Lei 4/85, de 8 de Abril, quando perfizerem cumulativamente 60 anos de idade e 36 anos de serviço efectivo e que não seja majorado ou bonificado o tempo de serviço prestado pelos eleitos locais, os governadores e vice-governadores civis e os presidentes e vogais das juntas de freguesia, passando estes a poderem aposentar-se apenas quando perfizerem cumulativamente 60 anos de idade e 36 anos de serviço efectivo",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2005-12-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153737",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3081-3082"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-03",
+                "pubLeg": "X",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/064/2005-12-03/3081?pgs=3081-3082&org=PLC"
+              }
+            ],
+            "Sumario": "Que titulares de cargos políticos ou equiparados só possam usufruir da subvenção mensal vitalícia conferida pela Lei 4/85, de 8 de Abril, quando perfizerem cumulativamente 60 anos de idade e 36 anos de serviço efectivo e que não seja majorado ou bonificado o tempo de serviço prestado pelos eleitos locais, os governadores e vice-governadores civis e os presidentes e vogais das juntas de freguesia, passando estes a poderem aposentar-se apenas quando perfizerem cumulativamente 60 anos de idade e 36 anos de serviço efectivo",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2005-12-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153738",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3082-3083"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-03",
+                "pubLeg": "X",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/064/2005-12-03/3082?pgs=3082-3083&org=PLC"
+              }
+            ],
+            "Sumario": "Que titulares de cargos políticos ou equiparados só possam usufruir da subvenção mensal vitalícia conferida pela Lei 4/85, de 8 de Abril, quando perfizerem cumulativamente 60 anos de idade e 36 anos de serviço efectivo e que não seja majorado ou bonificado o tempo de serviço prestado pelos eleitos locais, os governadores e vice-governadores civis e os presidentes e vogais das juntas de freguesia, passando estes a poderem aposentar-se apenas quando perfizerem cumulativamente 60 anos de idade e 36 anos de serviço efectivo",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2005-12-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "153739",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3083-3083"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2005-12-03",
+                "pubLeg": "X",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/064/2005-12-03/3083?pgs=3083&org=PLC"
+              }
+            ],
+            "Sumario": "Que titulares de cargos políticos ou equiparados só possam usufruir da subvenção mensal vitalícia conferida pela Lei 4/85, de 8 de Abril, quando perfizerem cumulativamente 60 anos de idade e 36 anos de serviço efectivo e que não seja majorado ou bonificado o tempo de serviço prestado pelos eleitos locais, os governadores e vice-governadores civis e os presidentes e vogais das juntas de freguesia, passando estes a poderem aposentar-se apenas quando perfizerem cumulativamente 60 anos de idade e 36 anos de serviço efectivo",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11283",
+    "PetAssunto": "Requerem que os titulares dos cargos políticos ou equiparados só possam usufruir da subvenção mensal vitalícia conferida pela Lei nº.4/85, de 8 de Abril, quando perfizerem cumulativamente 60 anos de idade e 36 anos de serviço efectivo e que não seja majorado ou bonificado o tempo de serviço prestado pelos Eleitos Locais, os Governadores e Vice-Governadores Civis e os Presidentes e Vogais das Juntas de Freguesia, passando estes a poderem aposentar-se apenas quando perfizerem cumulativamente 60 anos de idade e 36 anos de serviço efectivo.",
+    "PetDataEntrada": "2004-03-30",
+    "PeticoesAssociadas": null,
+    "PetId": "11283",
+    "PetLeg": "IX",
+    "PetNr": "83",
+    "PetNrAssinaturas": "37025",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "189",
+        "obs": null,
+        "pag": [
+          "3081-3083"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2005-12-03",
+        "pubLeg": "X",
+        "pubNr": "64",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/064/2005-12-03/3081?pgs=3081-3083&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "291361",
+        "obs": null,
+        "pag": [
+          "169-170"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-06-19",
+        "pubLeg": "IX",
+        "pubNr": "33",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/02/033/2004-06-19/169?pgs=169-170&org=PLC"
+      }
+    ]
+  }
+}
