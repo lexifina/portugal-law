@@ -1,0 +1,5 @@
+Portaria n.º 628/81
+de 22 de Julho
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Agricultura e Pescas, ao abrigo do disposto no artigo 400.º da Lei n.º 77/77, de 29 de Setembro, desanexar e transmitir o seu domínio a favor da Câmara Municipal da Chamusca para montagem de estaleiro e depósito de materiais, para fins de utilidade pública, a totalidade do prédio denominado «Casal do Leme», sito na freguesia e concelho da Chamusca e inscrito na matriz predial rústica sob o artigo 44, secção C, o qual foi expropriado pela Portaria n.º 32/76, de 26 de Janeiro.
+A Câmara Municipal da Chamusca entregará oportunamente nos cofres do Tesouro uma importância correspondente à indemnização definitiva a pagar pelo Estado pela expropriação do prédio rústico ora desanexado.
+Ministérios das Finanças e do Plano e da Agricultura e Pescas, 1 de Julho de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.
