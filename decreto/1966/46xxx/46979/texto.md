@@ -1,0 +1,22 @@
+Decreto n.º 46979
+Tornando-se necessário introduzir algumas alterações às pautas mínimas de importação em vigor nas províncias de Angola e de Moçambique;
+Mediante proposta dos Governos-Gerais das respectivas províncias ultramarinas;
+Por motivo de urgência, ao abrigo do preceituado no § 1.º do artigo 150.º da Constituição e na alínea a) do n.º III da base X da Lei Orgânica do Ultramar;
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+Artigo 1.º No texto da pauta mínima de importação vigente na província de Angola é inserida a seguinte nota (2) ao artigo 30.03.02, passando a actual nota a (1):
+2. São livres de direitos os de uso exclusivo no tratamento da doença do sono, diabetes, paludismo e bilharziose.
+Art. 2.º Passa a ser a seguinte a redacção da nota (1) ao artigo 30.03.02 da pauta mínima de importação de Moçambique:
+São livres de direitos os de uso exclusivo no tratamento da doença do sono, diabetes, paludismo e bilharziose.
+Art. 3.º A nota ao artigo 57.10.01 da pauta mínima de importação de Angola passa a ter a seguinte redacção:
+Nota. - Quando destinados a servir de embalagem a produtos da província são cativos da taxa de 1 por cento ad valorem, mediante despacho do governador-geral sobre parecer fundamentado do Conselho do Serviço Técnico-Aduaneiro, a requerimento dos interessados para os seguintes casos:
+a) Nas quantidades que a indústria local se não encontre habilitada a fornecer;
+b) Ou nos casos em que seja demonstrado que o preço dos artefactos de produção local prejudica sensìvelmente as condições de competição dos produtos a exportar.
+Art. 4.º São assim alteradas as taxas atribuídas aos seguintes artigos da pauta mínima de importação vigente em Angola:
+20.05.02 - Quilograma, 3$90;
+20.06.01 - Quilograma, 5$20;
+24.06.02 - Quilograma, 3$90.
+Art. 5.º As disposições do presente decreto são aplicáveis aos bilhetes de despacho que se encontrem pendentes de liquidação e pagamento.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 27 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
+
+Para ser publicado no Boletim Oficial de Angola e de Moçambique. - J. da Silva Cunha.
