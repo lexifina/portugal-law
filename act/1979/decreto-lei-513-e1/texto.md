@@ -1,0 +1,12 @@
+Decreto-Lei n.º 513-E1/79
+de 27 de Dezembro
+Encontra-se actualmente previsto que o Banco de Portugal poderá abrir ao Estado uma conta gratuita até à importância equivalente a 5% do montante das receitas correntes da Administração Central cobradas no penúltimo ano.
+Dados os princípios de autonomia financeira pelos quais se regem hoje as Regiões Autónomas dos Açores e da Madeira, considera-se justificado que regime paralelo seja instituído quanto às relações entre o Banco emissor e as referidas Regiões.
+Assim, ouvidos os Governos Regionais dos Açores e da Madeira:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. - 1 - O Banco de Portugal pode abrir a cada uma das Regiões Autónomas dos Açores e da Madeira uma conta gratuita até à importância, equivalente a 5% do montante das receitas correntes da respectiva Região cobradas no penúltimo ano.
+2 - Todos os levantamentos da Região na mesma conta são feitos unicamente em representação das receitas orçamentais do exercício respectivo e devem estar reembolsados até ao fim deste.
+Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco.
+Promulgado em 22 de Dezembro de 1979.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
