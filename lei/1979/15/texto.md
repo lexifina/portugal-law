@@ -1,0 +1,43 @@
+Lei n.º 15/79
+de 19 de Maio
+«Contrôle» da legalidade dos diplomas regionais e dos diplomas respeitantes às regiões autónomas
+A Assembleia da República decreta, nos termos da alínea d) do artigo 164.º, n.º 2 do artigo 169.º e n.º 3 do artigo 236.º da Constituição, o seguinte:
+ARTIGO 1.º
+(Tribunal competente)
+1 - O tribunal competente para apreciar a legalidade dos diplomas emanados dos órgãos regionais e a conformidade das leis, dos regulamentos e de outros actos de órgãos de soberania com os direitos das regiões autónomas, consagrados nos respectivos estatutos, é o Supremo Tribunal Administrativo.
+2 - A competência referida no número anterior é exercida pelo Supremo Tribunal Administrativo reunido em pleno.
+ARTIGO 2.º
+(Solicitação)
+1 - No caso de se tratar de questão de ilegalidade de diploma regional, podem solicitar a respectiva apreciação:
+a) O Presidente da Assembleia da República;
+b) O Primeiro-Ministro;
+c) O Ministro da República da respectiva região autónoma;
+d) O presidente de qualquer das assembleias regionais, em relação aos diplomas dos respectivos governos regionais;
+e) O Provedor de Justiça;
+f) O Procurador-Geral da República.
+2 - No caso de se tratar de questão de desconformidade de lei, regulamento ou outro acto dos órgãos de soberania com os direitos das regiões, consagrados nos respectivos estatutos, podem solicitar a respectiva apreciação:
+a) Os presidentes das assembleias regionais;
+b) Os presidentes dos governos regionais;
+c) O Provedor de Justiça;
+d) O Procurador-Geral da República.
+ARTIGO 3.º
+(Processo)
+1 - A apreciação e declaração de ilegalidade podem ser solicitadas a todo o tempo.
+2 - No caso de o pedido não ser fundamentado, a entidade que haja solicitado a apreciação e declaração de ilegalidade será notificada para proceder à respectiva fundamentação no prazo de dez dias.
+3 - Será dado conhecimento do pedido aos órgãos de soberania e aos órgãos regionais interessados, os quais poderão fazer juntar ao processo os documentos que julguem relevantes para a apreciação da questão.
+4 - O acórdão do Supremo Tribunal Administrativo será proferido no prazo máximo de noventa dias após o pedido.
+ARTIGO 4.º
+(Declaração de ilegalidade)
+1 - O acórdão que declarar a ilegalidade de um diploma regional ou de alguma das suas normas ou a desconformidade de uma lei, um regulamento ou outro acto de um órgão de soberania, ou de alguma das suas normas, com os estatutos regionais terá efeitos gerais, deixando as respectivas normas de vigorar ou de ter eficácia no que respeita às regiões autónomas, conforme os casos.
+2 - Os efeitos previstos no número anterior dependem da publicação da decisão no Diário da República, 1.ª série.
+ARTIGO 5.º
+(Ressalva do regime geral)
+O disposto neste diploma não prejudica a fiscalização incidental da legalidade dos diplomas referidos nesta lei e dos actos administrativos, nos termos gerais.
+ARTIGO 6.º
+(Regulamentação)
+O Governo publicará a regulamentação necessária à execução da presente lei no prazo de trinta dias a contar da sua entrada em vigor.
+Aprovada em 27 de Março de 1979.
+O Presidente da Assembleia da República, Teófilo Carvalho dos Santos.
+Promulgada em 18 de Abril de 1979.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.
