@@ -1,0 +1,9 @@
+Rectificação
+Tendo sido publicado com inexactidão no Diário do Governo, 1.ª série, n.º 87, de 14 de Abril, pelo Ministério da Educação Nacional, Direcção-Geral do Ensino Superior e das Belas-Artes, o Decreto n.º 144/71, determino que se faça a seguinte rectificação:
+No artigo 2.º, n.º 1, onde se lê:
+...
+2.º grupo ...
+deve ler-se:
+...
+2.º grupo ... 1
+Presidência do Conselho, 6 de Maio de 1971. - O Presidente do Conselho, Marcello Caetano.
