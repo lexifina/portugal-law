@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério dos Negócios Estrangeiros, Direcção-Geral dos Negócios Económicos, o Ajuste Complementar ao Acordo de Previdência Social entre os Governos de Portugal e da República Federativa do Brasil, a que se refere o aviso publicado no Diário do Governo, 1.ª série, n.º 54, de 5 de Março do corrente ano, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 4.º, n.º 2, onde se lê: «Determinado o valor da prestação ...», deve ler-se: «Determinado o valor total da prestação ...», e no artigo 7.º, alínea c), onde se lê: «Dependentes: a pessoa assim qualificada ...», deve ler-se: «Dependente: a pessoa assim qualificada ...»
+Secretaria-Geral da Presidência do Conselho, 27 de Julho de 1970. - O Secretário-Geral, Diogo de Paiva Brandão.
