@@ -1,0 +1,2627 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "28",
+    "id": "19240",
+    "titulo": "Orçamento do Estado para 2003"
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "2002-11-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2311",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "2002-11-13",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "19241",
+        "leg": "IX",
+        "nr": "27",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "656",
+            "obs": null,
+            "pag": [
+              "2248-2328"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-11-14",
+            "pubLeg": "IX",
+            "pubNr": "55",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2248?pgs=2248-2328&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Grandes Opções do Plano para 2003"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-11-13",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1278",
+                "nome": "Augusto Santos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143070",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2255-2255"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2255?pgs=2255&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143071",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2255-2257",
+                  "2271-2271",
+                  "2274-2275"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2255?pgs=2255-2257,2271,2274-2275&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143072",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2256-2257",
+                  "2290-2291",
+                  "2320-2320"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2256?pgs=2256-2257,2290-2291,2320&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143073",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2256-2256",
+                  "2258-2258",
+                  "2288-2288",
+                  "2318-2319"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2256?pgs=2256,2258,2288,2318-2319&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1435",
+                "nome": "José Junqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143074",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2256-2256"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2256?pgs=2256&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143075",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2257-2257",
+                  "2286-2286",
+                  "2288-2290",
+                  "2293-2293",
+                  "2318-2318",
+                  "2320-2321",
+                  "2326-2326"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2257?pgs=2257,2286,2288-2290,2293,2318,2320-2321,2326&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1949",
+                "nome": "Maximiano Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2257-2257",
+                  "2291-2291",
+                  "2317-2318",
+                  "2324-2324"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2257?pgs=2257,2291,2317-2318,2324&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1423",
+                "nome": "Luísa Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2250-2251",
+                  "2257-2258"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2250?pgs=2250-2251,2257-2258&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2252-2254",
+                  "2258-2259",
+                  "2275-2275",
+                  "2289-2289",
+                  "2319-2319",
+                  "2323-2323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2252?pgs=2252-2254,2258-2259,2275,2289,2319,2323&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143079",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2248-2258"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2248?pgs=2248-2258&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143080",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2258-2258",
+                  "2263-2263",
+                  "2268-2268",
+                  "2270-2270",
+                  "2292-2293",
+                  "2328-2328"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2258?pgs=2258,2263,2268,2270,2292-2293,2328&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143081",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2258-2259",
+                  "2270-2270"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2258?pgs=2258-2259,2270&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2251-2251",
+                  "2259-2259"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2251?pgs=2251,2259&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1600",
+                "nome": "Jamila Madeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143083",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2259-2259",
+                  "2324-2324",
+                  "2326-2326"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2259?pgs=2259,2324,2326&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1915",
+                "nome": "Graça Proença de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143084",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2259-2259"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2259?pgs=2259&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143085",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2260-2260"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2260?pgs=2260&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143086",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2251-2252",
+                  "2260-2261",
+                  "2268-2269",
+                  "2284-2285",
+                  "2287-2288",
+                  "2291-2292",
+                  "2296-2296"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2251?pgs=2251-2252,2260-2261,2268-2269,2284-2285,2287-2288,2291-2292,2296&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143087",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2251-2252",
+                  "2260-2261",
+                  "2271-2271",
+                  "2289-2290",
+                  "2294-2294",
+                  "2324-2325",
+                  "2327-2327"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2251?pgs=2251-2252,2260-2261,2271,2289-2290,2294,2324-2325,2327&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "159",
+                "nome": "Artur Penedos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143088",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2261-2262",
+                  "2269-2270"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2261?pgs=2261-2262,2269-2270&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "159",
+                "nome": "Artur Penedos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143089",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2263-2263"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2263?pgs=2263&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1607",
+                "nome": "Patinha Antão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143090",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2262-2263",
+                  "2285-2286"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2262?pgs=2262-2263,2285-2286&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "210",
+                "nome": "Jerónimo de Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143091",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2263-2264"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2263?pgs=2263-2264&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1867",
+                "nome": "Vieira da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143092",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2264-2264",
+                  "2268-2268",
+                  "2284-2284",
+                  "2286-2286"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2264?pgs=2264,2268,2284,2286&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1290",
+                "nome": "Álvaro Castello-branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143093",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2264-2265",
+                  "2275-2276"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2264?pgs=2264-2265,2275-2276&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143094",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2265-2265",
+                  "2286-2287"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2265?pgs=2265,2286-2287&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADMINISTRAÇÃO  PÚBLICA",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Suzana Toscano"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143095",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2265-2267"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2265?pgs=2265-2267&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143096",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2266-2267"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2266?pgs=2266-2267&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Marques Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143097",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2269-2269"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2269?pgs=2269&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143098",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2270-2270"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2270?pgs=2270&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143099",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2270-2270"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2270?pgs=2270&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143100",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2270-2323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2270?pgs=2270-2323&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1621",
+                "nome": "Maria Ofélia Moleiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143101",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2271-2272"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2271?pgs=2271-2272&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1153",
+                "nome": "José Augusto Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143102",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2272-2273"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2272?pgs=2272-2273&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1960",
+                "nome": "Rosário Cardoso Águas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143103",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2273-2273"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2273?pgs=2273&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1592",
+                "nome": "Victor Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143104",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2275-2275",
+                  "2291-2292"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2275?pgs=2275,2291-2292&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143105",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2255-2255",
+                  "2276-2276"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2255?pgs=2255,2276&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "459",
+                "nome": "João Cravinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143106",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2283-2283"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2283?pgs=2283&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DE ESTADO E DAS FINANÇAS",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Manuela Ferreira Leite"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143107",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2283-2283"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2283?pgs=2283&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143108",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2287-2287",
+                  "2294-2294",
+                  "2317-2317",
+                  "2319-2319"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2287?pgs=2287,2294,2317,2319&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1687",
+                "nome": "Jorge Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143109",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2293-2294",
+                  "2319-2319"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2293?pgs=2293-2294,2319&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E. DOS  ASSUNTOS FISCAIS",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Vasco Valdez"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143110",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2294-2296"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2294?pgs=2294-2296&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143111",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2295-2295",
+                  "2325-2325"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2295?pgs=2295,2325&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143112",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2321-2321",
+                  "2328-2328"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2321?pgs=2321,2328&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143113",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2322-2322"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2322?pgs=2322&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1676",
+                "nome": "Elisa Guimarães Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143114",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2321-2323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2321?pgs=2321-2323&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143115",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2324-2324"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2324?pgs=2324&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DE ESTADO E DAS FINANÇAS",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Manuela Ferreira Leite"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143116",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2325-2325"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2325?pgs=2325&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1147",
+                "nome": "António da Silva Preto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143117",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2326-2327"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2326?pgs=2326-2327&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143118",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2327-2327"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2327?pgs=2327&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143119",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2327-2328"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2327?pgs=2327-2328&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:10",
+            "horaTermo": "22:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "143160",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2252-2252"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-14",
+                "pubLeg": "IX",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2252?pgs=2252&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2003",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "153724",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "274445",
+        "obs": null,
+        "pag": [
+          "2250-2340"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-11-14",
+        "pubLeg": "IX",
+        "pubNr": "55",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/055/2002-11-14/2250?pgs=2250-2340&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
