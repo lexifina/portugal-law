@@ -1,0 +1,12 @@
+Portaria n.º 125/73
+de 21 de Fevereiro
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Instrução e Cultura, que o Regulamento do Prémio Marconi, aprovado pela Portaria n.º 17855, de 23 de Julho de 1960, alterada pela Portaria n.º 20878, de 31 de Outubro de 1964, e pela Portaria n.º 205/72, de 12 de Abril, passe a ter a seguinte redacção:
+1.º Será anualmente distribuído, tanto no Instituto Superior Técnico como na Faculdade de Ciências e Tecnologia da Universidade de Coimbra, na Faculdade de Engenharia da Universidade do Porto e nas Universidades de Lourenço Marques e de Luanda, um prémio de 10000$00, designado por Prémio Marconi, oferecido pela Companhia Portuguesa Rádio Marconi.
+2.º - 1. Este Prémio será atribuído ao licenciado em Engenharia Electrotécnica por cada uma das referidas escolas e Universidades que tiver a maior classificação média, nunca inferior a 16 valores, nas disciplinas com directa afinidade com os domínios das telecomunicações e electrónica, e desde que a informação final do curso seja igual ou superior a Bom.
+2. Em igualdade de médias e informação final, estabelecer-se-á preferência para aqueles que tiverem média mais alta em relação às disciplinas que pertençam ao 4.º e 5.º anos.
+3. A existência de reprovações durante o curso exclui a atribuição do Prémio.
+3.º - 1. O Instituto Superior Técnico e as Reitorias das Universidades de Coimbra, do Porto, de Lourenço Marques e de Luanda comunicarão à Companhia Portuguesa Rádio Marconi, até 31 de Dezembro de cada ano, o nome do respectivo licenciado que tenha completado o curso no ano escolar anterior e esteja nas condições mencionadas no n.º 2.º, indicando as classificações nas disciplinas ali referidas e a informação final do curso.
+2. Se esta comunicação se não fizer dentro do prazo indicado, poderá a Companhia Portuguesa Rádio Marconi não conceder o prémio correspondente.
+4.º A Companhia Portuguesa Rádio Marconi pode suspender, em qualquer altura, a concessão do Prémio referido no n.º 1.º, avisando do facto o Instituto Superior Técnico e as Reitorias das Universidades de Coimbra, do Porto, de Lourenço Marques e de Luanda até trinta dias antes do início do ano lectivo.
+Nesse caso, as disposições deste regulamento deixarão de se aplicar aos alunos que nesse ano lectivo e nos seguintes se matricularem nas disciplinas do 5.º ano mencionadas no n.º 2.º
+Secretaria de Estado da Instrução e Cultura, 3 de Fevereiro de 1973. - O Secretário de Estado da Instrução e Cultura, João Luís da Costa André.
