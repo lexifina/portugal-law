@@ -10,4 +10,4 @@ São órgãos da empresa:
 
 a) O conselho de administração;
 
-b) A comissão de fiscalização.
+b) O conselho fiscal.

@@ -1,7 +1,7 @@
 # Artigo 11.º
 
-### Comissão de fiscalização
+### Conselho fiscal
 
-1 - A comissão de fiscalização é composta por três membros, um dos quais presidirá, designados por períodos de três anos, por despacho conjunto dos Ministros das Finanças e da tutela, e mediante o processo de nomeação previsto na lei, contando-se como completo o ano civil em que tenham sido designados.
+1 - A fiscalização da NAV Portugal, E. P. E., compete a um conselho fiscal composto por três membros efectivos, um dos quais preside, e um suplente, devendo um dos membros efectivos e o suplente ser revisores oficiais de contas ou sociedades de revisores oficiais de contas.
 
-2 - Um dos membros da comissão de fiscalização será obrigatoriamente revisor oficial de contas.
+2 - Os membros do conselho fiscal são designados por um período de três anos por despacho conjunto do Ministro das Finanças e do ministro da tutela, contando-se como completo o ano civil em que tiverem sido designados.
