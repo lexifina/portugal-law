@@ -1,3 +1,7 @@
+## Anexo
+
+## Regulamento Anexo
+
 ## Secção I
 
 ## Do registo
