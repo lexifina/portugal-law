@@ -1,0 +1,8 @@
+Portaria n.º 618/70
+de 5 de Dezembro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+1.º Abrir um crédito especial de 200000$00, nos termos do § único do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, conjugado com o artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, e artigo 3.º do aludido Decreto n.º 35770 e sua alínea e), com a nova redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, destinado a reforçar a verba do capítulo 10.º, artigo 313.º, n.º 2, alínea a) «Encargos gerais - Deslocações de pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Cabo Verde para o ano em curso, tomando como contrapartida o excesso de cobrança sobre a previsão da receita da verba do capítulo 1.º, artigo 1.º «Impostos directos gerais - Contribuição industrial», do orçamento da receita ordinária para o mesmo ano económico.
+2.º Abrir um crédito especial de 3200000$00, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com o artigo 5.º do Decreto n.º 40712, de 1 de Agosto de 1956, a inscrever em adicional à tabela de despesa extraordinária do orçamento geral da província de Moçambique para o ano em curso, a fim de fazer face às despesas com as obras de defesa das praias da Beira, tomando como contrapartida o saldo das contas de exercícios findos.
+Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada nos Boletins Oficiais de Cabo Verde e Moçambique. - Sacramento Monteiro.
