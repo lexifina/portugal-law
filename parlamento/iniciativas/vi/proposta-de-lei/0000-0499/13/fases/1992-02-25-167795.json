@@ -1,0 +1,3848 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "13",
+    "id": "4243",
+    "titulo": "Grandes Opções do Plano para 1992."
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "1992-02-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3306",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "1992-02-25",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "4244",
+        "leg": "VI",
+        "nr": "14",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "524",
+            "obs": null,
+            "pag": [
+              "927-988"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1992-02-26",
+            "pubLeg": "VI",
+            "pubNr": "33",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/927?pgs=927-988&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Orçamento do Estado para 1992."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1992-02-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "975-976"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/975?pgs=975-976&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "973-974"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/973?pgs=973-974&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32181",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "981-981"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/981?pgs=981&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "88",
+                "nome": "Macário Correia"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32182",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "981-981"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/981?pgs=981&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "237",
+                "nome": "Cardoso Ferreira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32183",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "981-982"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/981?pgs=981-982&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "37",
+                "nome": "Cecília Catarino"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32184",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "981-982"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/981?pgs=981-982&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "31",
+                "nome": "Carlos Lelis"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32185",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "981-982"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/981?pgs=981-982&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32186",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "981-982"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/981?pgs=981-982&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "155",
+                "nome": "António José Seguro"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32187",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "462",
+                "nome": "Alberto Martins"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32188",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "982-986"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/982?pgs=982-986&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "199",
+                "nome": "Maria Julieta Sampaio"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32189",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "982-986"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/982?pgs=982-986&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "157",
+                "nome": "Marques da Silva"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32190",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "982-986"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/982?pgs=982-986&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "146",
+                "nome": "Ana Maria Bettencourt"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32191",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "982-986"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/982?pgs=982-986&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "167",
+                "nome": "Fernando Pereira Marques"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32192",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "982-986",
+                  "987-988"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/982?pgs=982-986,987-988&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "162",
+                "nome": "Edite Estrela"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32193",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "982-986",
+                  "987-988"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/982?pgs=982-986,987-988&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "176",
+                "nome": "Menezes Ferreira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32194",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "988-988"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/988?pgs=988&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32195",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "986-987",
+                  "988-988"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/986?pgs=986-987,988&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32196",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "987-988"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/987?pgs=987-988&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "131",
+                "nome": "Rui Carp"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32197",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "977-977"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/977?pgs=977&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "131",
+                "nome": "Rui Carp"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32198",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "969-970",
+                  "972-972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/969?pgs=969-970,972&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 13 FUNDO DE EQUILIBRIO FINANCEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32199",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "955-955"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/955?pgs=955&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 11 FEF (CRITERIOS DE DISTRIBUICAO DO FUNDO DEEQUILIBRIO FINANCEIRO PELOS MUNICIPIOS)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32200",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26?org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 11 FEF (CRITERIOS DE DISTRIBUICAO DO FUNDO DEEQUILIBRIO FINANCEIRO PELOS MUNICIPIOS), 12°(REGIME DEDISTRIBUICAO DO FUNDO DE EQUILIBRIO FINANCEIRO PARA 1992) E13° (FUNDO DE EQUILIBRIO FINANHACEIRO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Braga de Macedo"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32275",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "978-980"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/978?pgs=978-980&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Braga de Macedo"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32276",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "961-962",
+                  "971-971"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/961?pgs=961-962,971&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 12 FEF (REGIME DE DISTRIBUICAO DO FUNDO DEEQUILIBRIO FINANCEIRO PARA 1992) 13° FUNDO DE EQUILIBRIOFINANCEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "172",
+                "nome": "Helena Torres Marques"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32277",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26?org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 13 FUNDO DE EQUILIBRIO FINANCEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "73",
+                "nome": "Fernandes Marques"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32278",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "972-972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/972?pgs=972&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 13 FUNDO DE EQUILIBRIO FINANCEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  ADJUNTO DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Couto dos Santos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32279",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "971-971"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/971?pgs=971&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 13 FUNDO DE EQUILIBRIO FINANCEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  ADJUNTO DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Couto dos Santos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32280",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "960-960"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/960?pgs=960&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 12 FEF (REGIME DE DISTRIBUICAO DO FUNDO DEEQUILIBRIO FINANCEIRO PARA 1992)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32281",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "967-967"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/967?pgs=967&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 13 FUNDO DE EQUILIBRIO FINANCEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32282",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "948-948"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/948?pgs=948&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "968-968"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/968?pgs=968&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 13 FUNDO DE EQUILIBRIO FINANCEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "108",
+                "nome": "Manuel Moreira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32284",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "964-965"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/964?pgs=964-965&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 12 FEF (REGIME DE DISTRIBUICAO DO FUNDO DEEQUILIBRIO FINANCEIRO PARA 1992)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "108",
+                "nome": "Manuel Moreira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32285",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "953-954",
+                  "967-968"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/953?pgs=953-954,967-968&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 11 FEF (CRITERIOS DE DISTRIBUICAO DO FUNDO DEEQUILIBRIO FINANCEIRO PELOS MUNICIPIOS) 13° FUNDO DEEQUILIBRIO FINANCEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32288",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "960-961"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/960?pgs=960-961&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 12 FEF (REGIME DE DISTRIBUICAO DO FUNDO DEEQUILIBRIO FINANCEIRO PARA 1992)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "164",
+                "nome": "Eduardo Pereira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32289",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "950-959"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/950?pgs=950-959&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS) E 12° FEF (REGIME DE DISTRIBUICAO DOFUNDO DE EQUILIBRIO FINANCEIRO PARA 1992)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "188",
+                "nome": "Gameiro dos Santos"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32290",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "958-960"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/958?pgs=958-960&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 12 FEF (REGIME DE DISTRIBUICAO DO FUNDO DEEQUILIBRIO FINANCEIRO PARA 1992)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "188",
+                "nome": "Gameiro dos Santos"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32291",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "944-944"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/944?pgs=944&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32292",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "956-956"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/956?pgs=956&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 12 FEF (REGIME DE DISTRIBUICAO DO FUNDO DEEQUILIBRIO FINANCEIRO PARA 1992)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32293",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "944-944"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/944?pgs=944&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "81",
+                "nome": "Silva Marques"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32294",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "945-945"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/945?pgs=945&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "173",
+                "nome": "Jaime Gama"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32295",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "947-949"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/947?pgs=947-949&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "40",
+                "nome": "Duarte Lima"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32296",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "949-950",
+                  "950-950"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/949?pgs=949-950,950&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "40",
+                "nome": "Duarte Lima"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32297",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "947-948"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/947?pgs=947-948&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "226",
+                "nome": "Nogueira de Brito"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32298",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "951-960"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/951?pgs=951-960&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS) E 12° FEF (REGIME DE DISTRIBUICAO DOFUNDO DE EQUILIBRIO FINANCEIRO PARA 1992)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32299",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "955-955"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/955?pgs=955&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 11 FEF (CRITERIOS DE DISTRIBUICAO DO FUNDO DEEQUILIBRIO FINANACEIRO PELOS MUNICIPIOS)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32300",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26?org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 11 FEF (CRITERIOS DE DISTRIBUICAO DO FUNDO DEEQUILIBRIO FINANCEIRO PELOS MUNICIPIOS), 12° FEF (REGIME DEDISTRIBUICAO DO FUNDO DE EQUILIBRIO FINANCEIRO PARA 1992) E",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32301",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "944-944"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/944?pgs=944&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32302",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "976-977"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/976?pgs=976-977&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "163",
+                "nome": "Eduardo Ferro Rodrigues"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32303",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "971-971"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/971?pgs=971&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 13 FUNDO DE EQUILIBRIO FINANCEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32716",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "942-946",
+                  "952-952"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/942?pgs=942-946,952&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32717",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "942-945",
+                  "946-946"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/942?pgs=942-945,946&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "226",
+                "nome": "Nogueira de Brito"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32718",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26?org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS) E 13° FEF (FUNDO DE EQUILIBRIOFINANCEIRO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "104",
+                "nome": "Castro de Almeida"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32719",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "941-946"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/941?pgs=941-946&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32720",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "940-940"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/940?pgs=940&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "226",
+                "nome": "Nogueira de Brito"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32723",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "939-964"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/939?pgs=939-964&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS) E 12° FEF (REGIME DE DISTRIBUICAO DOFUNDO DE EQUILIBRIO FINANCEIRO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32724",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "937-939"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/937?pgs=937-939&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "185",
+                "nome": "José Vera Jardim"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32725",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "937-937"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/937?pgs=937&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "230",
+                "nome": "André Martins"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32726",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "936-937",
+                  "958-958"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/936?pgs=936-937,958&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS) E 12° FEF (REGIME DE DISTRIBUICAO DOFUNDO DE EQUILIBRIO FINANCEIRO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "167",
+                "nome": "Fernando Pereira Marques"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32727",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "936-936"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/936?pgs=936&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32728",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "935-935"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/935?pgs=935&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32729",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "935-936",
+                  "939-940"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/935?pgs=935-936,939-940&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "182",
+                "nome": "Martins Goulart"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32730",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "935-935"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/935?pgs=935&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32731",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "933-934",
+                  "962-963"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/933?pgs=933-934,962-963&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS) E 12° FEF (REGIME DE DISTRIBUICAO DOFUNDO DE EQUILIBRIO FINANCEIRO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32733",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "931-933"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/931?pgs=931-933&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32734",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "930-931"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/930?pgs=930-931&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "131",
+                "nome": "Rui Carp"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32735",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "930-959"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/930?pgs=930-959&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS) E 12° FEF (REGIME DE DISTRIBUICAO DOFUNDO DE EQUILIBRIO FINANCEIRO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32736",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "929-930"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/929?pgs=929-930&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "35",
+                "nome": "Carlos Coelho"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32737",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "928-929"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/928?pgs=928-929&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "131",
+                "nome": "Rui Carp"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32738",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "928-931",
+                  "934-934",
+                  "959-959",
+                  "963-963"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/928?pgs=928-931,934,959,963&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS) E 12° FEF (REGIME DE DISTRIBUICAO DOFUNDO DE EQUILIBRIO FINANCEIRO)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "163",
+                "nome": "Eduardo Ferro Rodrigues"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "32739",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "927-930"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/927?pgs=927-930&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -APROXIMACAO DE TAXAS)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "SUBSECRETÁRIO DE ESTADO ADJUNTO DA  SECRETÁRIA DE ESTADO-ADJUNTA  E  DO ORÇAMENTO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Vasco Valdez"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107344",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "933-933"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/933?pgs=933&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  ADJUNTO DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Couto dos Santos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107345",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "960-960"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/960?pgs=960&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 12 FEF (REGIME DE DISTRIBUICAO DO FUNDO DEEQUILIBRIO FINANCEIRO PARA 1992)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  ADJUNTO DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Couto dos Santos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107346",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "971-971"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/971?pgs=971&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 13 FUNDO DE EQUILIBRIO FINANCEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADM.LOCAL ORD.TERRITORIO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Nunes Liberato"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107347",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "954-956"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/954?pgs=954-956&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 11 FEF (CRITERIOS DE DISTRIBUICAO DO FUNDO DEEQUILIBRIO FINANCEIRO PELOS MUNICIPIOS)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Braga de Macedo"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107348",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "978-980"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/978?pgs=978-980&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1992",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Braga de Macedo"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107349",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "961-962",
+                  "971-971"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/961?pgs=961-962,971&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 12 FEF (REGIME DE DISTRIBUICAO DO FUNDO DEEQUILIBRIO FINANCEIRO PARA 1992) 13° FUNDO DE EQUILIBRIOFINANCEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADM.LOCAL ORD.TERRITORIO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Nunes Liberato"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107350",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "967-967"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/967?pgs=967&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 13 FUNDO DE EQUILIBRIO FINANCEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "11:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "134448",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "940-940"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-02-26",
+                "pubLeg": "VI",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26/940?pgs=940&org=PLC"
+              }
+            ],
+            "sumario": "OE/92-ART 39 IVA (IMPOSTO SOBRE O VALOR ACRESCENTADO -",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "167795",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "294800",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1992-02-26",
+        "pubLeg": "VI",
+        "pubNr": "33",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/033/1992-02-26?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
