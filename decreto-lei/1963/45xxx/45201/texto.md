@@ -1,0 +1,8 @@
+Decreto-Lei n.º 45201
+Considerando a importância e actualidade dos problemas ligados à classificação dos espectáculos públicos e ao regime de assistência de menores aos mesmos espectáculos;
+Verificando-se a necessidade de aumentar o número de membros da Comissão de Exame e Classificação dos Espectáculos, de modo a facilitar o cabal desempenho das funções que a esta incumbem;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. A Comissão de Exame e Classificação dos Espectáculos, constituída nos termos do artigo 19.º do Decreto-Lei n.º 41051, de 1 de Abril de 1957, é aumentada de três vogais, a designar pela Presidência do Conselho.
+§ único. Os encargos resultantes da execução do disposto neste artigo serão satisfeitos no corrente ano por conta das sobras da dotação do capítulo 4.º, artigo 81.º, n.º 4}, do orçamento de encargos gerais da Nação.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 21 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
