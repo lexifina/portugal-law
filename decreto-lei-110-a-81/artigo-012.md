@@ -8,6 +8,6 @@ a) Em casos especiais regulados em diploma próprio;
 
 b) Quando se trate de motoristas, telefonistas e outro pessoal auxiliar que seja indispensável manter ao serviço;
 
-c) Quando se trate de pessoal abrangido pelo Decreto-Lei n.º 793/74, de 31 de Dezembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 305/75, de 21 de Junho;
+c) Quando se trate de pessoal administrativo e auxiliar que preste serviço nos gabinetes dos membros do Governo e de pessoal da Presidência da República destacado para, normal ou eventualmente, prestar apoio ao Gabinete do Presidente da República.
 
 d) Em circunstâncias excepcionais e delimitadas no tempo, mediante autorização do membro do Governo competente ou, quando não for possível, mediante confirmação da mesma entidade, a proferir nos dez dias posteriores à ocorrência.
