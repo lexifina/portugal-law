@@ -2,10 +2,10 @@
 
 ### Movimentos
 
-1 - A Direção-Geral da Administração da Justiça realiza movimentos dos oficiais de justiça para o preen-chimento de lugares que se encontrem vagos ou que venham a vagar no decurso do movimento.
+1 - A Direcção-Geral dos Serviços Judiciários realiza movimentos dos oficiais de justiça para o preenchimento de lugares vagos e a vagar.
 
-2 - Os movimentos ordinários dos oficiais de justiça são efetuados anualmente, no mês de junho, publicitando-se os lugares previsivelmente a preencher.
+2 - Os movimentos podem ser ordinários ou extraordinários.
 
-3 - Quando se justificar, podem ser realizados movimentos extraordinários.
+3 - São ordinários os movimentos que se realizam nos meses de Fevereiro, Junho e Novembro; são extraordinários os restantes.
 
-4 - A Direção-Geral da Administração da Justiça publicita a realização dos movimentos extraordinários por aviso publicado na 2.ª série do Diário da República.
+4 - A Direcção-Geral dos Serviços Judiciários publicita a realização dos movimentos extraordinários, por aviso publicado na 2.ª série do Diário da República.

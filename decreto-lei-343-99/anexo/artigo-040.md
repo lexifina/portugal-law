@@ -1,19 +1,3 @@
-## Subsecção II
-
-## Recrutamento para ingresso
-
-## Subsecção III
-
-## Recrutamento para acesso
-
-## Subsecção IV
-
-## Secretários de tribunal superior
-
-## Subsecção V
-
-## Secretários de justiça em secretarias-gerais
-
 ## Secção III
 
 ## Provimento e investidura
@@ -32,4 +16,4 @@ a) Os oficiais de justiça que requeiram a transferência ou a transição, exce
 
 b) Os oficiais de justiça que requeiram a promoção para lugares de secretarias de tribunais instalados em comarcas periféricas quando, no requerimento a que se refere o n.º 1 do artigo 19.º, assumam o compromisso de permanência em qualquer daquelas comarcas pelo período de três anos;
 
-c) [Revogada];
+c) Os funcionários de justiça habilitados nos termos do artigo 31.º que requeiram a nomeação em vagas de escrivão auxiliar ou de técnico de justiça auxiliar no quadro de pessoal da secretaria do tribunal a que pertencem.

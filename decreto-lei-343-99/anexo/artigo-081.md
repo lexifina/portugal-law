@@ -1,7 +1,3 @@
-## Parte II
-
-## Estatuto remuneratório
-
 # Artigo 81.º
 
 ### Progressão
