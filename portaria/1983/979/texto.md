@@ -1,0 +1,10 @@
+Portaria n.º 979/83
+de 22 de Novembro
+Dada a necessidade de regulamentar o Decreto-Lei n.º 399/83, de 8 de Novembro, no sentido de definir com precisão as entidades a que o mesmo se aplica, por forma que se não verifiquem recusas injustificadas de fornecimento de gás por parte das distribuidoras e respectivos agentes e revendedores, e de, por outro lado, prevenir os inconvenientes resultantes da previsível acumulação de pedidos de certificados de inspecção, a que naturalmente as entidades competentes não poderão dar resposta instantânea:
+Manda o Governo da República Portuguesa, pelos Ministros da Indústria e Energia e do Comércio e Turismo, o seguinte:
+1.º Para os efeitos do determinado no n.º 1 do artigo 5.º do Decreto-Lei n.º 399/83, de 8 de Novembro, o Ministério do Comércio e Turismo habilitará as entidades distribuidoras de gás com lista nominativa dos estabelecimentos e dos meios complementares de alojamento turístico compreendidos nas alíneas a) e b) do artigo 2.º do mesmo diploma.
+2.º Nos casos em que as entidades distribuidoras de gás e seus agentes ou distribuidores tenham, relativamente às instalações não classificadas, dúvidas quanto à sua inserção na alínea c) do artigo 2.º do decreto-lei acima referido, poderão exigir dos respectivos proprietários ou seus legais representantes documento em que se declare expressamente não estar a instalação abrangida por aquela disposição.
+3.º Quando seja requerido o certificado de inspecção a que se refere o n.º 3 do artigo 1.º do decreto-lei acima citado e a entidade competente para a sua emissão não possa, por razões justificadas, proceder às diligências em termos de o emitir no prazo de 15 dias, passará documento comprovativo do pedido, com indicação da data previsível para a emissão do certificado, o qual substituirá, exclusivamente para os efeitos do artigo 5.º, o certificado de inspecção aí referido.
+Ministérios da Indústria e Energia e do Comércio e Turismo.
+Assinada em 9 de Novembro de 1983.
+O Ministro da Indústria e Energia, José Veiga Simão. - O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto.
