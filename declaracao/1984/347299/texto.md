@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério do Comércio e Turismo, o Despacho Normativo n.º 17/84, publicado no Diário da República, 1.ª série, n.º 24, de 28 de Janeiro de 1984, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No início do despacho, onde se lê «Ao abrigo do disposto no n.º 1.º da Portaria n.º 416/82, de 26 de Abril, são excluídos da lista anexa a esse diploma a roupa exterior e interior, outros artigos de malha e mais enquadrados na CAE» deve ler-se «Ao abrigo do disposto no n.º 1.º da Portaria n.º 416/82, de 26 de Abril, são excluídos da lista anexa a esse diploma a roupa exterior e interior, outros artigos de malha e meias enquadrados na CAE».
+Secretaria-Geral da Presidência do Conselho de Ministros, 16 de Fevereiro de 1984. - O Secretário-Geral, França Martins.
