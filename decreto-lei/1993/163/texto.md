@@ -1,0 +1,88 @@
+Decreto-Lei n.º 163/93
+de 7 de Maio
+O problema da habitação, sendo, sem dúvida, um dos mais importantes, pelo reflexo na qualidade de vida das populações, encontra-se longe de estar resolvido, quer em termos qualitativos quer em termos quantitativos.
+A procura de soluções para este problema leva a considerar a necessidade da implementação urgente de medidas prioritárias, com incidência especial nas zonas em que tais carências mais se fazem sentir, ou seja, nas áreas de Lisboa e Porto.
+A erradicação das barracas, uma chaga ainda aberta no nosso tecido social, e consequente realojamento daqueles que nelas residem impõem a criação de condições que permitam a sua total extinção.
+Apesar do esforço desenvolvido ao nível do apoio à construção de habitação de custos controlados e dos diversos acordos de colaboração celebrados entre a administração central e as autarquias locais para erradicação de barracas, continuam a verificar-se muitas situações de mau alojamento e de sobrealojamento.
+O regime de cooperação entre a administração central e local no que respeita ao desenvolvimento de programas de habitação social para arrendamento que se destinem ao realojamento de populações residentes em barracas está definido pelo Decreto-Lei n.º 226/87, de 6 de Junho, em articulação com o Decreto-Lei n.º 110/85, de 17 de Abril.
+Segundo o presente diploma, podem ser estabelecidos acordos de colaboração entre a administração central e os municípios, ao abrigo dos quais aquela comparticipa a fundo perdido, através do Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE), até 50% do custo de construção dos empreendimentos, sendo que os municípios podem ainda recorrer, em relação aos restantes custos, a financiamento bonificado a longo prazo, ao Instituto Nacional de Habitação (INH) ou, desde 1991, a qualquer instituição de crédito.
+Por estes factos, as iniciativas neste domínio implicam a assunção por parte do Estado, através do IGAPHE e do INH, de uma parte muitíssimo significativa dos encargos.
+A decisão agora tomada vem na sequência do Programa Nacional de Luta contra a Pobreza, lançado pelo Governo em 1991, através do qual estão em curso cerca de 100 projectos em todo o território nacional.
+Os resultados alcançados pela aplicação dos mecanismos citados são, na sua generalidade, satisfatórios. O problema habitacional assume, porém, entre nós proporções que impõem a adopção de novas medidas a ele direccionadas, tendo em vista a sua resolução. É nas áreas de Lisboa e Porto que se concentra o maior número de situações de degradação habitacional, pelo que devem estas ser eleitas como áreas prioritárias de intervenção em matéria habitacional.
+É neste contexto que surge o presente diploma, consubstanciando um aumento significativo do esforço financeiro do Estado para a área da habitação com vista à erradicação das barracas nas áreas de Lisboa e Porto. Tal esforço traduz uma determinação profunda para a extinção de situações sociais de degradação habitacional, pelo que se promove, para o efeito, um programa acelerado de realojamento. Tal programa compreende a disponibilização de recursos financeiros através do IGAPHE, e do INH para os custos de construção de habitações destinadas ao realojamento, assim como para a aquisição e infra-estruturação dos terrenos, e ainda a possibilidade de transferência gratuita do património edificado do IGAPHE para os municípios.
+A efectiva resolução do grave problema social de habitação exige que as autarquias locais envolvidas neste programa assumam claramente o objectivo da eliminação das barracas como uma das suas tarefas prioritárias, envolvendo o estabelecimento de um compromisso sério com a administração central e, sobretudo, com os cidadãos para a resolução deste problema.
+A consolidar este programa, o esforço de comparticipação e financiamento do IGAPHE e do INH torna-se, pelo presente diploma, extensivo ao financiamento para a aquisição de fogos, dentro dos limites máximos predefinidos, tornando, assim, o projecto mais flexível na sua execução e permitindo o contributo do mercado para a rápida erradicação das barracas.
+A concretização deste programa depende da adesão dos respectivos municípios, que terão de efectuar um levantamento exaustivo e rigoroso das barracas existentes no seu concelho, e será executada em função das carências efectivas apresentadas.
+Para os efeitos deste programa, será alterado o montante máximo de endividamento dos municípios envolvidos, por forma a possibilitar o natural esforço financeiro exigido.
+Refira-se também a possibilidade de instituições de natureza social, por acordo com as autarquias, aderirem em iguais condições ao programa, substituindo ou complementando as funções dos municípios.
+Complementarmente à resolução do problema habitacional, é oferecido aos municípios ou instituições particulares de solidariedade social um programa alargado de inserção social das comunidades envolvidas, visando a criação de condições a uma plena integração destas populações na comunidade e combatendo os problemas de criminalidade, prostituição e toxicodependência, entre outros, a que a exclusão social motivada pela falta de condições habitacionais condignas as deixou votadas.
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º - 1 - Pelo presente diploma é criado o Programa Especial de Realojamento nas Áreas Metropolitanas de Lisboa e do Porto, adiante designado por Programa.
+2 - O Programa tem como objectivo a erradicação definitiva das barracas existentes nos municípios das áreas metropolitanas de Lisboa e Porto, mediante o realojamento em habitações condignas das famílias que nelas residem.
+Art. 2.º Podem aderir ao Programa todos os municípios abrangidos pelas áreas metropolitanas de Lisboa e Porto que identifiquem a existência de barracas na respectiva área territorial.
+Art. 3.º - 1 - A adesão dos municípios a este Programa faz-se mediante a assinatura de um acordo geral de adesão, a celebrar entre o Instituto de Gestão e Alienação do Património Habitacional do Estado, abreviadamente designado por IGAPHE, e o Instituto Nacional de Habitação, abreviadamente designado por INH, por um lado, e os municípios, por outro.
+2 - A minuta do acordo é aprovada por despacho do Ministro das Obras Públicas, Transportes e Comunicações.
+Art. 4.º Os municípios para aderirem ao Programa tem de apresentar ao IGAPHE:
+a) Levantamento exaustivo e rigoroso dos núcleos de barracas existentes na área do respectivo município, com a respectiva caracterização, que deve incluir a sua localização, o número de construções existentes, os agregados familiares a realojar e a sua identificação, composição e respectivos rendimentos anuais brutos;
+b) Identificação dos proprietários dos terrenos onde estão implantados os núcleos de barracas referidos na alínea anterior;
+c) Programação cronológica dos empreendimentos a construir e ou plano de aquisição de fogos e sua afectação aos agregados familiares a realojar.
+Art. 5.º Os municípios têm ainda de assumir, no acto de adesão, que se comprometem a:
+a) Proceder a uma fiscalização rigorosa de ocupação do solo na respectiva área, por forma a neutralizar de imediato a eventual tentativa de construção de qualquer nova barraca, garantindo a sua pronta demolição;
+b) Demolir integralmente as barracas em simultâneo com o realojamento;
+c) Assegurar que os terrenos presentemente ocupados por núcleos de barracas a demolir que estejam na sua propriedade ou posse e se destinem à construção de habitação ficam prioritariamente afectos à execução do programa ou à promoção de habitação de custos controlados.
+Art. 6.º - 1 - Cabe ao IGAPHE disponibilizar recursos financeiros sob a forma de comparticipações a fundo perdido, destinados a financiar:
+a) Até 50% do custo de aquisição e de infra-estruturação dos terrenos, bem como do custo de construção dos empreendimentos promovidos pelos municípios;
+b) Até 50% do valor de aquisição de fogos pelos municípios.
+2 - Para efeitos da alínea b) do número anterior, os fogos a adquirir ficam sujeitos a tipologias e preços máximos a fixar por portaria dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+Art. 7.º - 1 - Cabe ao INH, directamente ou através de instituições de crédito, conceder empréstimos destinados a financiar:
+a) Até 50% do custo de aquisição e de infra-estruturação dos terrenos, bem como do custo de construção dos empreendimentos promovidos pelos municípios;
+b) Até 50% do valor de aquisição de fogos pelos municípios.
+2 - Para efeitos da alínea b) do número anterior apenas se consideram os fogos cujos custos se enquadrem nos preços máximos fixados nos termos do artigo anterior.
+3 - As condições dos empréstimos são fixadas nos termos do Decreto-Lei n.º 110/85, de 17 de Abril.
+Art. 8.º - 1 - No caso de construção, os valores máximos dos fogos são os fixados para a habitação de custos controlados, não podendo o montante da respectiva comparticipação e ou financiamento exceder 80% desse valor.
+2 - No caso de aquisição de fogos, as taxas de comparticipação e financiamento referidas nos artigos anteriores reportam-se a 80% dos preços máximos fixados nos termos do n.º 2 do artigo 6.º
+Art. 9.º A concretização dos objectivos definidos no acordo geral de adesão faz-se mediante a assinatura de um contrato para cada projecto a celebrar entre o IGAPHE, o INH e o respectivo município.
+Art. 10.º - 1 - Para a celebração dos contratos os municípios aderentes têm de apresentar ao IGAPHE os seguintes elementos:
+a) Documento comprovativo da propriedade dos terrenos a afectar ao empreendimento;
+b) Deliberação camarária em que o município assume o compromisso de que os terrenos se encontram ou estarão infra-estruturados à data da conclusão dos fogos;
+c) Projectos de execução do empreendimento;
+d) Programação física e cronograma financeiro do empreendimento, com indicação das respectivas fontes;
+e) Relatório de apreciação das propostas dos concorrentes aos empreendimentos;
+f) Plano de atribuição dos fogos e origem dos agregados familiares a realojar;
+g) Plano de ocupação dos terrenos a libertar com a demolição dos núcleos de barracas;
+h) Quaisquer outros que se mostrem indispensáveis à regular formação do contrato.
+2 - Para efeitos do disposto na alínea a) do número anterior a posse administrativa dos terrenos expropriados substitui o documento comprovativo da propriedade desde que o município ofereça adequadas garantias dos empréstimos a contratar.
+3 - Para a aquisição de fogos os municípios têm de apresentar os elementos necessários à sua identificação, condições e preços de aquisição, bem como os elementos a que se referem as alíneas f), g) e h) do n.º 1.
+Art. 11.º - 1 - Os municípios ficam obrigados a promover a construção ou a aquisição dos fogos nos termos do acordo geral de adesão e dos contratos celebrados e proceder à aplicação das verbas de acordo com o escalonamento plurianual previsto nos contratos, sob pena da perda ou redução dos recursos financeiros que haviam sido previstos, com a reafectação dos mesmos a favor dos demais municípios aderentes.
+2 - Os municípios ficam ainda obrigados a manter actualizado o registo dos agregados familiares a realojar e dos respectivos rendimentos.
+Art. 12.º - 1 - A comparticipação do IGAPHE não é acumulável com qualquer outra comparticipação ou subsídio concedidos por outras entidades para o mesmo fim, salvo se tal comparticipação ou subsídio estiver expressamente previsto no acordo geral de adesão celebrado.
+2 - Em caso de incumprimento do disposto no número anterior, o município fica obrigado a restituir ao IGAPHE o valor da comparticipação recebida, até ao limite do valor da comparticipação ou subsídio concedido por outra entidade.
+Art. 13.º - 1 - Os fogos construídos ou adquiridos ao abrigo do presente diploma constituem propriedade dos municípios, estão sujeitos a um regime de intransmissibilidade pelo período de 15 anos a contar da data da sua conclusão ou da escritura de aquisição e têm de ser atribuídos em regime de renda apoiada, sem prejuízo do disposto no artigo seguinte.
+2 - A intransmissibilidade está sujeita a registo.
+Art. 14.º - 1 - A intransmissibilidade referida no artigo anterior pode ser levantada para alienação ao arrendatário, mediante declaração emitida pelo IGAPHE, a requerimento do município.
+2 - No caso previsto no número anterior, se tiver havido financiamento do INH ou de qualquer instituição de crédito, a emissão da declaração pelo IGAPHE fica condicionada pela regularização da parcela dos correspondentes empréstimos, nos termos legais aplicáveis.
+3 - O regime de alienação dos fogos é objecto de portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+4 - Os fogos alienados pelo município aos arrendatários destinam-se a sua habitação própria e permanente e do seu agregado familiar e ficam sujeitos a um regime de inalienabilidade, sujeito a registo, pelo período em falta relativamente ao regime de intransmissibilidade referido no artigo anterior.
+Art. 15.º - 1 - A administração central pode recusar a celebração de quaisquer acordos de colaboração, contratos-programa plurissectoriais ou sectoriais, com perda de prioridade na atribuição de quaisquer fundos comunitários, aos municípios integrados nas áreas metropolitanas de Lisboa e Porto que tenham barracas na respectiva área e não adiram ao Programa a que se refere o presente diploma.
+2 - Aos municípios aderentes que não concretizem total ou parcialmente as obrigações assumidas no acordo geral de adesão aplica-se o disposto no número anterior.
+3 - Se o IGAPHE constatar que surgiram novas barracas em determinado município, pode suspender ou reduzir os apoios financeiros com o município, em função da gravidade da situação e enquanto o município não promover a demolição das barracas detectadas.
+Art. 16.º - 1 - As instituições particulares de solidariedade social que demonstrem capacidade para concretizar os respectivos projectos podem aderir ao Programa a que se refere o presente diploma, desde que actuem na área dos municípios abrangidos e se proponham proceder a operações de realojamento.
+2 - No caso previsto no número anterior, as instituições particulares de solidariedade social têm acesso aos apoios financeiros previstos no presente diploma nas mesmas condições que os municípios, podendo para o efeito celebrar contratos com o INH e o IGAPHE.
+3 - Para efeito do disposto neste artigo devem as instituições particulares de solidariedade social comunicar aos respectivos municípios os elementos que identifiquem as áreas e os agregados familiares a realojar e obter deles a garantia das respectivas demolições após o realojamento.
+4 - Os municípios devem prestar a colaboração necessária ao programa de realojamento a promover pelas instituições particulares de solidariedade social.
+5 - Os fogos construídos nos termos do presente artigo ficam propriedade das instituições particulares de solidariedade social e têm de ser atribuídos em regime de renda apoiada, aplicando-se-lhes o disposto nos artigos 13.º e 14.º
+Art. 17.º - 1 - É facultada aos municípios aderentes a possibilidade de celebrar com o Ministério do Emprego e da Segurança Social acordos complementares no âmbito do Programa Nacional da Luta contra a Pobreza, visando a inserção social dos agregados familiares a realojar.
+2 - Os acordos complementares podem também ser celebrados com instituições particulares de solidariedade social, isoladamente, quando estas participem no Programa nos termos do artigo anterior, ou de parceria com os municípios, quando sejam estes os aderentes ao programa de realojamento.
+3 - Os encargos decorrentes da execução das acções estabelecidas em cada acordo complementar são comparticidados a fundo perdido pelo Ministério do Emprego e da Segurança Social até um máximo de 80%.
+Art. 18.º O disposto no presente diploma não se aplica aos acordos de colaboração já celebrados entre o IGAPHE, o INH e os respectivos municípios.
+Art. 19.º - 1 - O IGAPHE pode, sem exigir qualquer contrapartida, acordar com os municípios aderentes ao programa previsto neste diploma a transferência de prédios ou suas fracções que constituem agrupamentos habitacionais ou bairros, bem como os direitos e obrigações a estes relativos e aos fogos em regime de propriedade resolúvel, podendo o município alienar esses fogos aos respectivos moradores, nos termos do Decreto-Lei n.º 141/88, de 22 de Abril.
+2 - O produto da alienação dos fogos transferidos fica, numa percentagem não inferior a 50%, prioritariamente afecto ao pagamento de dívidas ao INH, sob pena de invalidade do negócio.
+Art. 20.º O disposto no artigo 20.1 do Decreto-Lei n.º 384/87, de 24 de Dezembro, e no artigo 10.º do Decreto-Lei n.º 363/88, de 14 de Outubro, não releva para efeitos de adesão ao Programa estabelecido no presente diploma.
+Visto e aprovado em Conselho de Ministros de 18 de Março de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral José Albino da Silva Peneda.
+Promulgado em 26 de Abril de 1993.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 27 de Abril de 1993.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
