@@ -6,4 +6,4 @@
 
 2. Na mesma base serão liquidadas as quotas correspondentes a percentagens legais de aumento do tempo de serviço prestado nas condições do número anterior.
 
-3. Nos demais casos de contagem de tempo, as quotas que não hajam sido pagas ou que tenham sido restituídas pela Caixa serão liquidadas, sem juros, com base na remuneração do cargo do subscritor à data do seu requerimento e na taxa então vigente.
+3 - Nos demais casos de contagem de tempo, as quotas que não hajam sido pagas ou que tenham sido restituídas pela Caixa serão apuradas, sem juros, mediante a aplicação da taxa vigente à data do respectivo requerimento a um valor médio a fixar por portaria do Ministro das Finanças.

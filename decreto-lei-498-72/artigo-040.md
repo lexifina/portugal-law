@@ -2,8 +2,16 @@
 
 ### (Aposentação de antigo subscritor)
 
-A eliminação da qualidade de subscritor não extingue o direito de requerer a aposentação:
+1 - A eliminação da qualidade de subscritor não extingue o direito de requerer a aposentação:
 
-a) Nos casos previstos no n.º 1 e nas alíneas a) e b) do n.º 2 do artigo 37.º, quando a cessação definitiva de funções ocorra após quinze anos de subscritor e não houver resultado da aplicação de pena expulsiva;
+a) Nos casos previstos no n.º 1 e nas alíneas a) e b) do n.º 2 do artigo 37.º, quando a cessação definitiva de funções ocorra após cinco anos de subscritor;
 
-b) Nos casos previstos no artigo 38.º, dentro do prazo de um ano a contar da cessação definitiva de funções e sem prejuízo do disposto no artigo 32.º
+b) Nos casos previstos no artigo 38.º, dentro do prazo de um ano a contar da cessação definitiva de funções.
+
+2 - Quando a eliminação da qualidade de subscritor tiver resultado de demissão, mesmo com expresso fundamento em infracção penal ou disciplinar, a aposentação só poderá ser concedida, a requerimento do interessado, dois anos após a aplicação da pena desde que ele conte, pelo menos, 5 anos de serviço e observada uma das seguintes condições:
+
+a) Seja declarado, em exame médico, absoluta e permanentemente incapaz;
+
+b) Tenha atingido o limite de idade.
+
+3 - Se, porém, a eliminação for consequência de infracção penal pela qual o ex-subscritor seja condenado a pena superior a dois anos, a concessão da pensão de aposentação apenas poderá ter lugar findo o cumprimento da pena, se contar 5 anos de serviço e nos termos das alíneas a) ou b) do número anterior.

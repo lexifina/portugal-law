@@ -10,7 +10,7 @@ b) Seja declarada a incapacidade pela competente junta médica, ou homologado o 
 
 c) O interessado atinja o limite de idade;
 
-d) Se profira decisão que imponha a aposentação compulsiva.
+d) Se profira decisão que imponha pena expulsiva ou se profira condenação penal definitiva da qual resulte a demissão ou que coloque o interessado em situação equivalente.
 
 2. O disposto no n.º 1 não prejudica os efeitos que a lei atribua, em matéria de aposentação, a situações anteriores.
 

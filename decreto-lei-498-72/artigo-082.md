@@ -4,7 +4,7 @@
 
 1. A situação de aposentado extingue-se nos casos de:
 
-a) Demissão ou sanção equivalente;
+a) (Eliminada)
 
 b) Renúncia ao direito à pensão;
 

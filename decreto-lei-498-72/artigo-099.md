@@ -6,6 +6,4 @@
 
 2. Com base nesta comunicação, o subscritor é desligado do serviço, ficando a aguardar aposentação até ao fim do mês em que for publicada a lista dos aposentados com a inclusão do seu nome.
 
-3. Salvo lei especial em contrário, o subscritor desligado do serviço não abre vaga e fica com direito a receber, pela verba destinada ao pessoal na efectividade, pensão transitória de aposentação, fixada de harmonia com a comunicação da Caixa, a partir do termo dessa efectividade.
-
-4. A ulterior rectificação da importância da pensão dará lugar ao abono ao interessado ou à reposição por este das diferenças que se verifiquem.
+3 - Salvo o disposto em lei especial, o subscritor desligado do serviço abre vaga e fica com direito a receber, pela verba destinada ao pessoal fora do serviço aguardando aposentação, pensão transitória de aposentação, fixada de harmonia com a comunicação da Caixa, a partir do dia em que for desligado do serviço.
