@@ -1,0 +1,19 @@
+Declaração
+Declara-se, para os devidos efeitos, que entre o original arquivado nesta Secretaria-Geral e o texto do Decreto n.º 45980, publicado pelo Ministério da Educação Nacional (Direcção-Geral do Ensino Técnico Profissional), no Diário do Governo n.º 246, 1.ª série, de 20 de Outubro findo, existem as seguintes divergências, que assim se rectificam:
+No mapa n.º 1, onde se lê:
+...
+Pessoal administrativo:
+Segundos-oficiais (chefe de secretaria) - 1 - - - 1
+deve ler-se:
+...
+Pessoal administrativo:
+Segundos-oficiais (chefe de secretaria) - 1 - 1 - 1
+No mapa n.º 2, onde se lê:
+...
+Professores adjuntos:
+3.º grupo ...
+deve ler-se:
+...
+Professores adjuntos:
+5.º grupo ...
+Secretaria-Geral da Presidência do Conselho, 13 de Novembro de 1964. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
