@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 10-E/2003
+Segundo comunicação do Ministério da Cultura, a Portaria n.º 507/2003, publicada no Diário da República, 1.ª série-B, n.º 148, de 30 de Junho de 2003, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No mapa anexo, onde se lê «Conservador-restaurador, conservador-restaurador assessor, conservador-restaurador principal, conservador-restaurador de 1.ª classe, conservador-restaurador de 2.ª classe» deve ler-se «Conservador-restaurador assessor principal, conservador-restaurador assessor, conservador-restaurador principal, conservador-restaurador de 1.ª classe, conservador-restaurador de 2.ª classe».
+Secretaria-Geral da Presidência do Conselho de Ministros, 14 de Julho de 2003. - O Secretário-Geral, José M. Sousa Rego.
