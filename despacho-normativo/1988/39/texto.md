@@ -1,0 +1,3 @@
+Despacho Normativo n.º 39/88
+Ao abrigo do disposto dos n.os 1 e 3 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, em aditamento à tabela n.º 2 - Produtos fitofarmacêuticos, aprovada pelo Despacho Normativo n.º 346/80, publicado no Diário da República, n.º 250, de 28 de Outubro, é autorizado o novo teor de 0,05% (p/p) e do tipo de embalagem com o conteúdo líquido de 200 g relativamente aos produtos fitofarmacêuticos com base em warfarina, formulado em isco.
+Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo, 11 de Maio de 1988. - O Secretário de Estado da Agricultura, Álvaro dos Santos Amaro. - O Secretário de Estado do Comércio Interno, Jorge Manuel Mendes Antas.
