@@ -1,0 +1,10 @@
+Portaria n.º 687/85
+de 14 de Setembro
+Por despacho conjunto dos Secretários de Estado da Produção Agrícola, do Comércio e Indústria Agrícolas e do Comércio Interno, publicado no Diário da República, 2.ª série, n.º 65, de 19 de Março de 1985, foi criada a Comissão Permanente da Produção, Comercialização e Industrialização da Batata.
+Considerando as atribuições que lhe foram cometidas, entende-se conveniente que esta Comissão seja representada na Comissão de Apreciação dos Projectos, a que se refere o n.º 9.º da Portaria n.º 56/83, de 25 de Janeiro;
+Nestes termos, ao abrigo do disposto no Decreto-Lei n.º 45835, de 27 de Julho de 1964:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçamento, do Comércio e Indústria Agrícolas e da Produção Agrícola, que o n.º 9.º da Portaria n.º 56/83, de 25 de Janeiro, com a nova redacção que lhe foi conferida pela Portaria n.º 1035/83, de 13 de Dezembro, passe a ter a seguinte redacção:
+9.º Para efeitos de apreciação dos projectos de acções referidas nas alíneas 2), 3) e 4) do n.º 5.º, é criada a Comissão de Apreciação dos Projectos, adiante designada por Comissão, a qual será constituída por 1 representante do Gabinete de Planeamento do Ministério da Agricultura, que coordenará, 1 representante dos serviços responsáveis pela coordenação do controle de produção e certificação de batata-semente, 1 representante da Junta Nacional das Frutas, 1 representante dos serviços responsáveis pelo associativismo agrícola, 1 representante de cada uma das direcções regionais de agricultura com responsabilidade na produção de batata-semente, 1 representante da Comissão Permanente da Produção, Comercialização e Industrialização da Batata e 1 representante da União das Cooperativas Agrícolas de Produtores de Batata-Semente do Norte.
+Secretarias de Estado do Orçamento, da Produção Agrícola e do Comércio e Indústria Agrícolas.
+Assinada em 31 de Julho de 1985.
+O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado do Comércio e Indústria Agrícolas, Carlos Alberto Antunes Filipe. - O Secretário de Estado da Produção Agrícola, Joaquim António Rosado Gusmão.
