@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 3-D/2001
+Segundo comunicação do Ministério da Defesa Nacional, a Portaria n.º 24/2001, publicada no Diário da República, 1.ª série, n.º 10, de 12 de Janeiro de 2001, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No preâmbulo, onde se lê «Cumprindo à Academia de Marinha [...] oficial da Armada e académico, a quem se deve, aliás, a iniciativa da fundação da Academia de Marinha, de que foi o primeiro presidente;» deve ler-se «Cumprindo à Academia de Marinha [...] oficial da Armada e académico, que muito contribuiu para o prestígio da Academia de Marinha, de que foi seu presidente;».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Janeiro de 2001. - O Secretário-Geral, Alexandre Figueiredo.
