@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério das Finanças, Direcção-Geral da Contabilidade Pública, a declaração de abertura de créditos especiais publicada no Diário da República, 1.ª série, n.º 54, de 6 de Março de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No orçamento das receitas do Estado, no cap. 01, grupo 02, onde se lê «Imposto profissional não retido na fonte (rendimentos de 1988) - 6327000 contos» deve ler-se «Art. 04 - Imposto profissional não retido na fonte (rendimentos de 1988) -6327000 contos» e onde se lê «Art. 04 - Imposto complementar - Secção A (rendimentos de 1988) -2273000 contos» deve ler-se «Art. 07 - Imposto complementar - Secção A (rendimentos de 1988) - 2273000 contos».
+Secretaria-Geral da Presidência do Conselho de Ministros, 20 de Março de 1990. - O Secretário-Geral, França Martins.
