@@ -1,0 +1,88 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ktYqpeS%2ft%2bZbliS4sHhftatFgOONJZv%2b0jwNSKIew1t0xo7wpSD4Wuod7wOpHm6JnVumY%2fcLg1QEJ6QuXOoI0mCZg8Now%2fNFrlqr4xaPyukQAb7VOIDJycUu8LgcqeBWkrLalvQbJNVVjYrmyeKurhYgJ88b%2bTAHUhqae0PG2tWw6wd9S%2fB1oSkkszdy9OWFhN3wUjxq5HmVweG9RQH09rl4k2N5tPgs%2fzprZm2tzFHnHSctshbR2DfX7RwTBfcB1zHFUq7rfF1ywAQTHCnkTEnmy8XmgIMFNpTZggbLiolv7UH6aQ9wXzrJpNDVBZQItckByiVODO72lKf0LysofiwVHTL6an5RgmBfpD1TjRRanKSw%2fu9%2bMNyeFb2ozzbOeEiwgdJpFNYQkXLYkgJujw%3d%3d&fich=RequerimentosIX_json.txt&Inline=true",
+  "ficheiro_sha256": "234acc6bf0a22a14e4ad1370daea559258a1b7960a20d3feebcabf91a9366690",
+  "legislatura": "IX",
+  "id": "27750",
+  "tipo": "Requerimento",
+  "numero": "1680",
+  "data_registo": "2003-02-05",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Acessibilidades no Distrito da Guarda - IP 2 e IP 5",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "1612",
+        "nome": "Ana Manso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1910",
+        "nome": "Gustavo Duarte"
+      }
+    ],
+    "DataEnvio": "2003-02-11",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2003-02-11",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DAS OBRAS PÚBLICAS, TRANSPORTES E HABITAÇÃO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2004-10-26",
+            "docRemetida": null,
+            "entidade": "MIN.  DAS OBRAS PÚBLICAS, TRANSPORTES E COMUNICAÇÕES",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764d7a6333597a646b593251744d7a46694d7930304d6d59344c5745784e5455744e54557a4e54426d4f5759784d6a6b7a4c6e426b5a673d3d&fich=377c7dcd-31b3-42f8-a155-55350f9f1293.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2003-02-05",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764e7a51314e7a67794d444974597a6b304d4330304e4463794c5749304d4441744d6d45314f444d7a59545a684d7a64694c6e426b5a673d3d&fich=74578202-c940-4472-b400-2a5833a6a37b.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "27750",
+    "Legislatura": "IX",
+    "Nr": "1680",
+    "Observacoes": "obras de conservação; Vilar Formoso",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "277120",
+        "obs": "232-(8)",
+        "pag": [
+          "232-(8)-232-(8)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2003",
+        "pubLeg": "IX",
+        "pubNr": "33",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/033S1/2003-02-15/232-(8)?pgs=232-(8)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
