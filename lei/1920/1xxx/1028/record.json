@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1920/08/16300/10111012.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1920-08-23",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "c9140d1f393b1e518bcc95fbc17c094384831103f68e2f38c5059e9b41068bb9",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.1,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "dd55725595d18230abcce04daf9d602a49ea0559d083d01d0537b42fe5d19ef7",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 990
 }
