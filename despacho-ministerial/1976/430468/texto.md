@@ -1,0 +1,11 @@
+Despacho ministerial
+Em cumprimento do n.º 3 do artigo 1.º do Decreto-Lei n.º 533/76, de 8 de Julho, determina-se:
+1. Os oficiais, sargentos e praças da Guarda Nacional Republicana (GNR) e da Guarda Fiscal (GF) e os oficiais, comissários e agentes da Polícia de Segurança Pública (PSP), nas situações de actividade e de reserva prestando serviço, são abonados de diuturnidades, por cada cinco anos de serviço, até ao limite de quatro diuturnidades.
+2. O valor de cada diuturnidade é igual ao quantitativo actualmente percebido pelos sargentos e subchefes (calculando com base no vencimento de segundo-sargento ou subchefe fixado pelos Decretos-Leis n.os 614/74, 615/74 e 617/74, de 14 de Novembro), acrescido da quantia de 250$00.
+3. Mantém-se o abono do acréscimo nas condições do antecedente estabelecidas em relação à 1.ª diuturnidade de sargento e subchefe, o qual é tornado extensivo ao pessoal a que se refere o Decreto-Lei n.º 533/76, de 8 de Julho.
+4. Mantém-se igualmente o abono de diuturnidades, nos quantitativos fixados pelos despachos conjuntos elaborados nos termos dos Decretos-Leis 23/74 e 24/74, de 31 de Janeiro, em relação aos tenentes das três corporações não abrangidos pelo disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 49411, de 24 de Novembro de 1969.
+5. O pagamento dos abonos atrás referidos reportar-se-á à data de 1 de Abril de 1976.
+Entretanto, as importâncias resultantes da aplicação do artigo 10.º do Decreto-Lei n.º 533/76, de 8 de Julho, quando de valor igual ou superior a 4000$00, serão pagas em dezasseis prestações mensais; quando de valor inferior, serão liquidadas em prestações mensais de 250$00.
+O pagamento da primeira prestação referir-se-á à mesma data de 1 de Abril de 1976.
+6. O pessoal que entretanto passou ou venha a passar à situação de reserva sem comissão de serviço, à situação de reforma ou a outros Ministérios deve ser pago de todas as prestações em dívida na data em que se verificarem essas alterações, competindo o respectivo pagamento à última entidade processadora das suas remunerações.
+Ministérios da Administração Interna e das Finanças, 8 de Julho de 1976. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro das Finanças, Francisco Salgado Zenha.
