@@ -1,0 +1,5 @@
+Aviso n.º 7/2000
+Por ordem superior se torna público que, por nota de 14 de Dezembro de 1999, o director-geral da Organização Internacional do Trabalho, na sua qualidade de depositário da Convenção n.º 142 da OIT, sobre o papel da orientação profissional e da formação profissional na valorização dos recursos humanos, adoptada em Genebra em 23 de Junho de 1975, comunicou ter o Governo de Portugal notificado, em 29 de Novembro de 1999, que a referida Convenção foi estendida ao território de Macau, nos mesmos termos a que a ela está vinculado o Estado Português.
+Portugal é Parte na Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 62/80, de 2 de Agosto, publicado no Diário da República, 1.ª série, n.º 177, de 2 de Agosto de 1980, e foi estendida a Macau pelo Decreto do Presidente da República n.º 214/99, de 9 de Novembro, publicado no Diário da República, 1.ª série-A, n.º 261, de 9 de Novembro de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 14 de Dezembro de 1999. - João Maria Rebelo de Andrade Cabral.
