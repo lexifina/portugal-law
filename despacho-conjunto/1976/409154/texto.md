@@ -1,0 +1,7 @@
+Despacho conjunto
+Ao abrigo do disposto no artigo 1.º do Decreto-Lei n.º 151/75, de 22 de Março, e com fundamento na proposta apresentada, fica o Fundo de Renovação e de Apetrechamento da Indústria da Pesca (FRAIP) autorizado a contrair na Caixa Geral de Depósitos um empréstimo no montante de 476687 contos, a aplicar no âmbito do Programa de Investimentos para 1975 para o Sector das Pescas, obedecendo ao seguinte condicionalismo:
+1.º O empréstimo será amortizado no prazo de dez anos, vencendo juros cujas taxas serão de 10% no primeiro ano, 5,5% no segundo ano e 10% nos subsequentes;
+2.º A partir do terceiro ano, a taxa de juro poderá ser automaticamente alterada em conformidade com os limites legais em vigor na data da alteração;
+3.º O empréstimo será aplicado no prazo de um ano e os levantamentos estarão condicionados a prévia autorização da Caixa Geral de Depósitos, com base em informações prestadas pelo FRAIP acerca da utilização a dar às importâncias requeridas e situação financeira das empresas a que elas se destinem, sem prejuízo da competência atribuída por lei a outras instituições nesta matéria.
+4.º O FRAIP poderá, caso a Caixa Geral de Depósitos o exija, titular o crédito através de livrança que possibilite o redesconto no Banco de Portugal.
+Ministérios das Finanças e da Agricultura e Pescas, 2 de Setembro de 1976. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Agricultura e Pescas, António Poppe Lopes Cardoso.
