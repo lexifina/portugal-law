@@ -12,7 +12,7 @@
 
 3 - Cabe à Caixa Central representar o sistema integrado do crédito agrícola mútuo e, sem prejuízo das competências do Banco de Portugal, exercer as funções indicadas no n.º 3 do artigo 74.º
 
-4 - Só podem ser associados da Caixa Central:
+4 - Sem prejuízo do disposto no n.º 1 do artigo 81.º, só podem ser associados da Caixa Central:
 
 a) As caixas agrícolas devidamente registadas no Banco de Portugal;
 

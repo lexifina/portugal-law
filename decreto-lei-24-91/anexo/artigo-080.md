@@ -2,7 +2,7 @@
 
 ### Reforço dos fundos próprios da Caixa Central
 
-1 - No caso de crise de solvabilidade ou outro desequilíbrio grave da situação financeira da Caixa Central, poderá esta exigir às caixas agrícolas associadas a subscrição e a realização de um aumento do capital social necessário para corrigir a situação verificada e até ao limite do valor do capital da Caixa Central.
+1 - No caso de a Caixa Central se encontrar em situação de desequilíbrio financeiro, traduzido, designadamente, na redução dos fundos próprios a um nível inferior ao mínimo legal ou na inobservância dos rácios e limites prudenciais que lhe são aplicáveis, poderá esta exigir às caixas agrícolas associadas a subscrição e a realização de um aumento do capital social necessário para corrigir a situação verificada e até ao limite do valor do capital da Caixa Central.
 
 2 - As caixas agrícolas contribuirão para este aumento de capital na proporção dos seus fundos próprios apurados no último balanço aprovado.
 
