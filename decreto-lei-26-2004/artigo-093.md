@@ -1,3 +1,7 @@
+## Secção V
+
+## Garantias
+
 # Artigo 93.º
 
 ### Garantias impugnatórias

@@ -1,9 +1,9 @@
 # Artigo 69.º
 
-### Direito subsidiário
+### Medida e graduação das penas
 
-1 - Sem prejuízo do disposto no presente Estatuto, o processo disciplinar rege-se por regulamento disciplinar, sendo subsidiariamente aplicáveis as normas procedimentais previstas na Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho.
+1 - Na aplicação das penas deve atender-se aos antecedentes profissionais e disciplinares do arguido, ao grau de culpabilidade, à sua personalidade, às consequências da infracção e a todas as circunstâncias em que a infracção tiver sido cometida que militem contra ou a seu favor.
 
-2 - O regulamento disciplinar previsto no número anterior aplica-se aos processos instaurados e instruídos quer pelo Conselho do Notariado quer pela Ordem dos Notários, e é proposto pela Ordem dos Notários e aprovado pelo Conselho do Notariado.
+2 - Não pode aplicar-se ao mesmo arguido mais de uma pena disciplinar por cada infracção ou pelas infracções acumuladas que sejam apreciadas num só processo.
 
-3 - (Revogado.)
+3 - O disposto no número anterior é de observar mesmo no caso de infracções apreciadas em mais de um processo, quando apensados, nos termos do artigo 78.º

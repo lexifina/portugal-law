@@ -1,19 +1,11 @@
+## Secção IV
+
+## Julgamento
+
 # Artigo 89.º
 
-### Revisão
+### Relatório final
 
-1 - É admissível a revisão de decisão definitiva proferida pela entidade com competência disciplinar sempre que:
+1 - Concluída a instrução do processo, o instrutor elabora um relatório completo e conciso de onde conste a existência material das faltas, a sua qualificação e gravidade e, bem assim, a pena que entender justa ou a proposta para que os autos se arquivem por ser insubsistente a acusação.
 
-a) Uma decisão judicial transitada em julgado declarar falsos quaisquer elementos ou meios de prova que tenham sido determinantes para a decisão revidenda;
-
-b) Uma decisão judicial transitada em julgado tiver dado como provado crime cometido por membro ou membros do órgão que proferiu a decisão revidenda e relacionado com o exercício das suas funções no processo;
-
-c) Os factos que serviram de fundamento à decisão condenatória forem inconciliáveis com os que forem dados como provados noutra decisão definitiva e da oposição resultarem graves dúvidas sobre a justiça da condenação;
-
-d) Se tenham descoberto novos factos ou meios de prova que, por si ou cominados com os que foram apreciados no processo, suscitem graves dúvidas sobre a justiça da decisão condenatória proferida.
-
-2 - A simples alegação de ilegalidade, formal ou substancial, do processo e decisão disciplinares não constitui fundamento para a revisão.
-
-3 - A revisão é admissível ainda que o processo se encontre extinto ou a sanção prescrita ou cumprida.
-
-4 - O exercício do direito de revisão é regulado pelas disposições aplicáveis do regulamento disciplinar.
+2 - O processo deve ser remetido seguidamente à entidade que o tiver mandado instaurar, a qual, se não for competente para decidir, o envia a quem deva proferir a decisão.

@@ -6,7 +6,7 @@
 
 ### Encerramento do cartório notarial
 
-1 - Em caso de cessação de atividade, o notário encerra o cartório e informa de imediato o Conselho do Notariado e a Ordem dos Notários do encerramento.
+1 - Em caso de cessação de actividade, o notário encerra o cartório e informa de imediato o Ministério da Justiça e a Ordem dos Notários do encerramento.
 
 2 - Se a cessação de actividade ocorrer por morte do notário, o cartório notarial, com todos os bens nele contidos, é de imediato encerrado pelo trabalhador do notário com autorização para a prática de actos notariais ou, havendo vários, pelo trabalhador mais antigo e, sendo igual a antiguidade, pelo mais velho, que providencia pela imediata substituição das fechaduras de acesso ao cartório.
 

@@ -1,4 +1,4 @@
-## Capítulo X
+## Capítulo IX
 
 ## Disciplina
 
@@ -10,4 +10,4 @@
 
 ### Âmbito de aplicação
 
-Os notários são disciplinarmente responsáveis perante o membro do Governo responsável pela área da justiça e a Ordem dos Notários, nos termos do presente Estatuto e do Estatuto da Ordem dos Notários.
+Os notários são disciplinarmente responsáveis perante o Ministro da Justiça e a Ordem dos Notários, nos termos do presente Estatuto e do Estatuto da Ordem dos Notários.

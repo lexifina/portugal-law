@@ -2,7 +2,7 @@
 
 ### Dos ajudantes
 
-1 - (Revogado).
+1 - A afectação dos ajudantes processa-se nos termos do n.º 4 do artigo 109.º, com manutenção do direito ao vencimento de categoria e de exercício que auferem naquela data.
 
 2 - A Direcção-Geral dos Registos e do Notariado fica obrigada a promover a realização de acções de formação específica de modo a possibilitar a integração dos ajudantes, tendo em vista a obtenção de habilitação adequada e certificada para o exercício de funções na carreira de ajudante dos registos.
 

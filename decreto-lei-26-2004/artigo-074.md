@@ -1,7 +1,5 @@
 # Artigo 74.º
 
-### Suspensão da execução das sanções
+### Publicidade das penas
 
-1 - Tendo em consideração o grau de culpa, o comportamento do arguido e as demais circunstâncias da prática da infração, as sanções disciplinares inferiores à interdição definitiva do exercício da atividade profissional podem ser suspensas na sua execução por um período compreendido entre um e cinco anos.
-
-2 - Cessa a suspensão da execução da sanção sempre que, relativamente ao notário punido, seja proferida decisão final de condenação em novo processo disciplinar.
+Quando a pena aplicada for de suspensão efectiva ou expulsão, e sempre que tal for determinado na deliberação que a aplique, deve ser-lhe dada publicidade num dos jornais mais lidos da comarca onde o notário tenha domicílio profissional.

@@ -4,8 +4,6 @@
 
 1 - A ausência injustificada de tomada de posse implica perda da licença de instalação de cartório notarial ou renúncia à integração na bolsa de notários, consoante os casos.
 
-2 - (Revogado.)
+2 - A perda da licença nos termos do número anterior impede o notário, nos cinco anos subsequentes, de se apresentar a concurso de licenciamento.
 
-3 - (Revogado.)
-
-4 - A perda da licença nos termos do n.º 1 impede o notário, no ano subsequente, de se apresentar novamente a concurso.
+3 - No caso referido nos números anteriores, a vaga correspondente é preenchida pelo candidato graduado imediatamente a seguir, de harmonia com o disposto no n.º 3 do artigo 34.º

@@ -4,7 +4,7 @@
 
 Compete ao Conselho do Notariado:
 
-a) (Revogada.)
+a) Realizar os concursos para atribuição do título de notário;
 
 b) Realizar os concursos para atribuição de licença de instalação de cartório notarial;
 
@@ -14,10 +14,10 @@ d) Promover a publicação da transferência dos livros e documentos notariais d
 
 e) Exercer acção disciplinar sobre os notários nos termos do presente Estatuto;
 
-f) Emitir parecer sobre as iniciativas legislativas do Governo relativas à atividade notarial, designadamente à elaboração do mapa notarial, ao conteúdo do exame final de estágio para obtenção do título de notário e aos requisitos da atribuição de licença de instalação de cartório notarial;
+f) Emitir parecer sobre as iniciativas legislativas do Governo relativas à actividade notarial, designadamente à elaboração do mapa notarial, ao conteúdo das provas públicas de admissão à função notarial e aos requisitos da atribuição de licença de instalação de cartório notarial;
 
 g) Acompanhar e assegurar a execução do processo de transformação do notariado para o regime constante do presente Estatuto;
 
 h) Determinar a cessação da actividade do notário, bem como a sua readmissão, nos casos previstos no presente Estatuto;
 
-i) Exercer as demais funções que o membro do Governo responsável pela área da justiça, a lei ou o presente Estatuto lhe confira.
+i) Exercer as demais funções que o Ministro da Justiça, as leis ou o presente Estatuto lhe confira.

@@ -1,19 +1,5 @@
 # Artigo 72.º
 
-### Aplicação de sanções acessórias
+### Causas de exclusão da ilicitude e da culpa
 
-1 - Cumulativamente com a aplicação das sanções disciplinares, podem ser aplicadas, a título de sanções acessórias:
-
-a) Frequência obrigatória de ações de formação suplementares às ações de formação obrigatórias;
-
-b) Restituição de quantias, documentos ou objetos;
-
-c) Perda, total ou parcial, de honorários e do custeio de despesas;
-
-d) Perda do produto do benefício obtido pelo infrator.
-
-2 - As sanções acessórias podem ser cumuladas entre si.
-
-3 - Na aplicação das sanções acessórias deve atender-se aos critérios previstos no n.º 1 do artigo anterior.
-
-4 - O resultado da aplicação das sanções acessórias previstas nas alíneas c) e d) do n.º 1 considera-se perdido a favor do fundo de compensação da Ordem dos Notários.
+São causa de exclusão da culpa e da ilicitude as previstas na lei penal.

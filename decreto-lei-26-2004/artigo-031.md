@@ -1,11 +1,11 @@
 ## Secção III
 
-## Exame final
+## Concurso
 
 # Artigo 31.º
 
-### Exame final de estágio
+### Abertura do concurso
 
-1 - A avaliação do estágio realiza-se através de um exame final, organizado pela Ordem dos Notários, que se destina a avaliar os conhecimentos e as competências necessárias ao exercício da função notarial.
+1 - O título de notário obtém-se por concurso aberto por aviso do Ministério da Justiça, publicado no Diário da República, ouvida a Ordem dos Notários.
 
-2 - A definição das matérias a avaliar em exame final deve garantir a não sobreposição com matérias ou unidades curriculares que integram o curso conferente da necessária habilitação académica.
+2 - Só podem habilitar-se ao concurso os estagiários que tiverem concluído o estágio notarial com aproveitamento.
