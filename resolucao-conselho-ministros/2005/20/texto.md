@@ -1,0 +1,8 @@
+Resolução do Conselho de Ministros n.º 20/2005
+O aproveitamento hidroagrícola de Veiros, utilizando os recursos hídricos provenientes da albufeira de Veiros, permitirá beneficiar uma área de cerca de 1114 ha, localizada no município de Monforte, do distrito de Portalegre, e no município de Estremoz, do distrito de Évora.
+As infra-estruturas a construir neste aproveitamento hidroagrícola assumem uma importância inquestionável, dadas as potencialidades da região no sector da agricultura e a importância que o seu desenvolvimento terá no reforço da sua capacidade produtiva, pelo que se impõe proceder à classificação deste aproveitamento hidroagrícola como «obra de interesse regional com elevado interesse para o desenvolvimento agrícola da região», nos termos dos artigos 6.º e 7.º do Decreto-Lei n.º 269/82, de 10 de Julho, republicado pelo Decreto-Lei n.º 86/2002, de 6 de Abril.
+Esta classificação possibilitará ainda a criação da entidade representante dos proprietários e dos regantes beneficiários do aproveitamento hidroagrícola, que ficará responsável pela sua exploração e conservação, nos termos do artigo 49.º do mesmo diploma.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Classificar o aproveitamento hidroagrícola de Veiros, localizado nos municípios de Monforte e de Estremoz, dos distritos de Portalegre e de Évora, respectivamente, como obra do grupo II, nos termos dos artigos 6.º e 7.º do Decreto-Lei n.º 269/82, de 10 de Julho, republicado pelo Decreto-Lei n.º 86/2002, de 6 de Abril.
+Presidência do Conselho de Ministros, 6 de Janeiro de 2005. - O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
