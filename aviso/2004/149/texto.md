@@ -1,0 +1,4 @@
+Aviso n.º 149/2004
+Por ordem superior se torna público que o Governo da República Portuguesa depositou, em 15 de Abril de 2004, o seu instrumento de ratificação relativo aos Actos Finais do XVIII Congresso da União Postal das Américas, Espanha e Portugal, que contém o Sexto Protocolo Adicional à Constituição da União Postal das Américas, Espanha e Portugal e o Regulamento Geral da União Postal das Américas, Espanha e Portugal, adoptados pelo XVIII Congresso da União, que se realizou de 6 a 12 de Setembro de 2000 na cidade do Panamá.
+Os Actos foram aprovados, para ratificação, pelo Decreto n.º 46/2003, de 15 de Outubro, publicado no Diário da República, 1.ª série-A, n.º 239, de 15 de Outubro de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 6 de Julho de 2004. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
