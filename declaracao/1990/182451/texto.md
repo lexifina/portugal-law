@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 8.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Agricultura, Pescas e Alimentação, a declaração de transferências de verbas publicada no Diário da República, 1.ª série, n.º 71, de 26 de Março de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê «Cap. 02, div. 01, subdiv. 02, C. E. 02.00.00 - Aquisição de bens e serviços correntes:» deve ler-se «Cap. 02, div. 01, C. E. 02.00.00 - Aquisição de bens e serviços correntes:» e onde se lê «Cap. 03, div. 06, subdiv. 01, C. F. 8.01.2, C. E. 07.01.08» deve ler-se «Cap. 03, div. 06, subdiv. 01, C. F. 8.02.1, C. E. 07.01.08».
+Secretaria-Geral da Presidência do Conselho de Ministros, 4 de Abril de 1990. - O Secretário-Geral, França Martins.
