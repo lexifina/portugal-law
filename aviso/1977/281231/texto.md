@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, em 20 de Janeiro de 1977, o Governo da Jordânia depositou, junto do Governo Francês, o instrumento de adesão ao Protocolo Respeitante à Proibição do Emprego na Guerra de Gases Asfixiantes Tóxicos e Similares e de Processos Bacteriológicos, assinado em Genebra em 17 de Junho de 1925 [com as seguintes reservas: a) o Protocolo só vincula a Jordânia relativamente aos países que dele são partes e o respeitem; b) não significa o reconhecimento de Israel; c) não obriga a Jordânia a celebrar com Israel os «arranjos» nele previstos], de que Portugal já é parte.
+Aquele instrumento diplomático entrou em vigor, com referência àquele país, em 17 de Março de 1977.
+Secretaria-Geral do Ministério, 10 de Novembro de 1977. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
