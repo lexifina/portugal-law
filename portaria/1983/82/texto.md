@@ -1,0 +1,5 @@
+Portaria n.º 82/83
+de 27 de Janeiro
+Tendo Carlos de Sommer Champalimaud e sua mulher, Maria do Rosário Vilardelo Champalimaud, solicitado autorização para serem sepultados, quando os seus dias chegarem ao fim, no local denominado «Alto de Santa Sabina», na Quinta do Côtto, freguesia de Cidadelhe, concelho de Mesão Frio, em terreno pertencente à sociedade familiar Montez Champalimaud, Lda.:
+Manda o Governo da República Portuguesa, pelo Ministro da Administração Interna, ao abrigo da alínea c) do artigo 17.º do Decreto-Lei n.º 274/82, de 14 de Julho, obtidos os pareceres favoráveis da autoridade sanitária e da Câmara Municipal de Mesão Frio, autorizar o enterramento no local denominado «Alto de Santa Sabina», na Quinta do Côtto, freguesia de Cidadelhe, concelho de Mesão Frio, de Carlos de Sommer Champalimaud e Maria do Rosário Vilardelo Champalimaud, quando ocorrer o seu decesso.
+Ministério da Administração Interna, 12 de Janeiro de 1983. - O Ministro da Administração Interna, José Ângelo Ferreira Correia.
