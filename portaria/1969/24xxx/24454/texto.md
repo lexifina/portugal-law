@@ -1,0 +1,5 @@
+Portaria n.º 24454
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 50000$00 a verba do capítulo 10.º, artigo 2031.º, n.º 2), alínea a) «Encargos gerais - Despesas de comunicações fora da província - Transporte de material, fretes e seguros, despachos e outras despesas conexas - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Angola para o ano em curso, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 6.º, artigo 1253.º, n.º 1) «Serviços de Justiça - Polícia Judiciária - Despesas com o material - Aquisições de utilização permanente - Móveis», da referida tabela de despesa.
+Ministério do Ultramar, 5 de Dezembro de 1969. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Angola. - J. Cota.
