@@ -1,0 +1,4 @@
+Despacho
+O Decreto-Lei n.º 697/73, de 27 de Dezembro, criou um imposto sobre a venda de veículos automóveis para o transporte de pessoas ou de mercadorias, quer montados em Portugal, quer importados já completos.
+Tendo-se verificado a existência de veículos automóveis usados importados temporariamente no País e que virtualmente se pretendam nacionalizar, mas em relação aos quais não existem preços de venda ao público homologados, esclarece-se que cabe à Direcção-Geral de Preços a fixação dos respectivos valores, por forma a constituírem elemento de base à incidência do imposto sobre a venda, criado pelo aludido diploma legal.
+Secretarias de Estado do Orçamento e do Abastecimento e Preços, 9 de Outubro de 1974. - O Secretário de Estado do Orçamento, António de Seixas da Costa Leal. - O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo.
