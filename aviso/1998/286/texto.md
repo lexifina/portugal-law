@@ -1,0 +1,5 @@
+Aviso n.º 286/98
+Por ordem superior se torna público que, nos termos do artigo 6.º, parágrafo 5.º, da Convenção Relativa à Emissão de Certidões Plurilingues de Actos de Registo Civil (Convenção CIEC n.º 16), assinada em Viena em 8 de Setembro de 1976, o Departamento Federal dos Negócios Estrangeiros da Confederação Helvética notificou que a República Federal da Alemanha depositou, em 18 de Junho de 1997, junto do Conselho Federal Suíço, o seu instrumento de adesão à mencionada Convenção.
+Nos termos do artigo 17.º, a Convenção entrou em vigor para a República Federal da Alemanha no 30.º dia posterior ao depósito, ou seja, em 18 de Julho de 1997.
+Portugal é Parte na mesma Convenção, que foi aprovada para adesão pelo Decreto do Governo n.º 34/83, de 12 de Maio, tendo notificado o Estado depositário de se encontrarem cumpridas as formalidades constitucionais, em 30 de Junho de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 174, de 30 de Julho de 1983.
+Departamento de Assuntos Jurídicos, 30 de Novembro de 1998. - O Director, José Maria Teixeira Leite Martins.
