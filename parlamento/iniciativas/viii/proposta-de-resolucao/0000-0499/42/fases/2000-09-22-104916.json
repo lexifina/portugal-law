@@ -1,0 +1,402 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "42",
+    "id": "5900",
+    "titulo": "Aprova o Tratado de Amizade, Cooperação e Consulta entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil assinado, em Porto Seguro, em 22 de Abril de 2000"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2000-09-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1647",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2000-09-22",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-09-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1719",
+                "nome": "Rosado Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30549",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "97-97"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-09-23",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/003/2000-09-23/97?pgs=97&org=PLC"
+              }
+            ],
+            "sumario": "APROVA O TRATADO DE AMIZADE COOPERACAO E CONSULTA ENTRE O GOVERNO DA REPUBLICA PORTUGUESA E O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL, ASSINADO EM PORTO SEGURO A 22 DE ABRIL DE2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "128",
+                "nome": "Pedro Roseta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30550",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "96-97"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-09-23",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/003/2000-09-23/96?pgs=96-97&org=PLC"
+              }
+            ],
+            "sumario": "APROVA O TRATADO DE AMIZADE COOPERACAO E CONSULTA ENTRE O GOVERNO DA REPUBLICA PORTUGUESA E O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL, ASSINADO EM PORTO SEGURO A 22 DE ABRIL DE2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "161",
+                "nome": "Carlos Luís"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30551",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "95-96"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-09-23",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/003/2000-09-23/95?pgs=95-96&org=PLC"
+              }
+            ],
+            "sumario": "APROVA O TRATADO DE AMIZADE COOPERACAO E CONSULTA ENTRE O GOVERNO DA REPUBLICA PORTUGUESA E O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL, ASSINADO EM PORTO SEGURO A 22 DE ABRIL DE2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "117",
+                "nome": "Maria Manuela Aguiar"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30552",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "94-95"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-09-23",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/003/2000-09-23/94?pgs=94-95&org=PLC"
+              }
+            ],
+            "sumario": "APROVA O TRATADO DE AMIZADE COOPERACAO E CONSULTA ENTRE O GOVERNO DA REPUBLICA PORTUGUESA E O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL, ASSINADO EM PORTO SEGURO A 22 DE ABRIL DE2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1290",
+                "nome": "Álvaro Castello-branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30553",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "93-94"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-09-23",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/003/2000-09-23/93?pgs=93-94&org=PLC"
+              }
+            ],
+            "sumario": "APROVA O TRATADO DE AMIZADE COOPERACAO E CONSULTA ENTRE O GOVERNO DA REPUBLICA PORTUGUESA E O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL, ASSINADO EM PORTO SEGURO A 22 DE ABRIL DE2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1485",
+                "nome": "Rodeia Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "30554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "93-93"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-09-23",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/003/2000-09-23/93?pgs=93&org=PLC"
+              }
+            ],
+            "sumario": "APROVA O TRATADO DE AMIZADE COOPERACAO E CONSULTA ENTRE O GOVERNO DA REPUBLICA PORTUGUESA E O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL, ASSINADO EM PORTO SEGURO A 22 DE ABRIL DE2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS   EUROPEUS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Seixas Da Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107966",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "90-92",
+                  "97-97"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-09-23",
+                "pubLeg": "VIII",
+                "pubNr": "3",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/003/2000-09-23/90?pgs=90-92,97&org=PLC"
+              }
+            ],
+            "sumario": "APROVA O TRATADO DE AMIZADE COOPERACAO E CONSULTA ENTRE O GOVERNO DA REPUBLICA PORTUGUESA E O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL, ASSINADO EM PORTO SEGURO A 22 DE ABRIL DE2000",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104916",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1647",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-09-23",
+        "pubLeg": "VIII",
+        "pubNr": "3",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/003/2000-09-23?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
