@@ -1,0 +1,4 @@
+Despacho Normativo n.º 301/81
+Sem dispensa do rigoroso cumprimento das normas que regulam a adjudicação de empreitadas e fornecimentos de obras públicas:
+Nos termos do artigo 23.º, n.º 1, do Decreto-Lei n.º 290/81, de 14 de Outubro, subdelego no Ministro da Habitação, Obras Públicas e Transportes, engenheiro José Carlos Pinto Soromenho Viana Baptista, a competência para autorizar a realização de despesas até ao montante de 120000 contos, com ou sem dispensa de concurso público, em adjudicações relativas a estradas, edifícios e para habitação, construções escolares, construções hospitalares, obras de hidráulica e saneamento básico, incluídas nos planos legalmente aprovados, mantendo-se o montante para a realização de despesas de outra natureza conferido aos actuais Ministros.
+Presidência do Conselho de Ministros, 14 de Outubro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
