@@ -1,0 +1,20 @@
+Decreto n.º 44315
+Considerando que o Governo de Cabo Verde propôs a redução dos direitos de importação dos combustíveis líquidos destinados à laboração das fábricas conserveiras, como medida protectora da indústria da pesca;
+Considerando a conveniência de delegar nos órgãos legislativos das províncias de Angola e Moçambique a competência a que se refere o artigo 24.º e seus parágrafos do Decreto n.º 33532, de 21 de Fevereiro de 1944;
+Convindo tornar extensivas aos materiais destinados à construção de tanques para armazenamento de melaços ou de óleos vegetais, nos portos ultramarinos, as disposições do artigo 3.º do Decreto n.º 43081, de 19 de Julho de 1960;
+Mostrando-se conveniente isentar de encargos fiscais aduaneiros os artefactos importados de qualquer origem pelo Comissariado da Mocidade Portuguesa de cada província ultramarina;
+Tornando-se necessário alterar a redacção do artigo 848.º do Estatuto Orgânico das Alfândegas do Ultramar, aprovado pelo Decreto n.º 43199, de 29 de Setembro de 1960, por virtude das flutuações cambiais quase diárias que agora se verificam e atendendo ao que, por isso, propôs o Governo-Geral de Angola;
+Ouvido o Conselho Ultramarino;
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+Artigo 1.º Os combustíveis líquidos, de qualquer origem, importados na província de Cabo Verde, classificados pelo artigo 69-d da respectiva pauta de importação, quando destinados à laboração das fábricas conserveiras ou à dos estabelecimentos de frigorificação da província de Cabo Verde, pertencentes à indústria pesqueira, são passíveis do direito de 9$50, por tonelada ou fracção, ficando isentos de quaisquer outras imposições, exceptuado o imposto do selo do bilhete de despacho, devendo ser deduzida, nos respectivos direitos, uma importância igual à que houver sido já cobrada a título de taxa de armazenagem, nos termos do artigo 22.º do Decreto n.º 43081, de 19 de Julho de 1960.
+§ único. O Governo da província fixará, para cada estabelecimento fabril, o quantitativo anual e mandará adoptar as necessárias medidas de fiscalização.
+Art. 2.º São autorizados os órgãos legislativos das províncias de Angola e Moçambique a expedirem diploma incluindo a matéria prevista no artigo 24.º e seus parágrafos do Decreto n.º 33532, de 21 de Fevereiro de 1944.
+Art. 3.º É extensiva aos materiais destinados a serem incorporados em tanques para armazenagem de melaços residuais do fabrico do açúcar de cana ou de óleos vegetais, a montar ou a construir nos portos ultramarinos, incluindo o equipamento acessório indispensável ao seu funcionamento, a disposição constante do artigo 3.º do Decreto n.º 43181, de 19 de Julho de 1960.
+Art. 4.º É isenta de direitos e de outras disposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, a importação nas províncias ultramarinas das mercadorias de qualquer origem destinadas à Organização Nacional da Mocidade Portuguesa, quando importadas pelos respectivos comissários, observados os condicionamentos a que se refere o artigo 9.º do Decreto n.º 41024, de 28 de Fevereiro de 1957.
+§ único. A concessão do benefício pautal é da competência do Ministro do Ultramar quando se trate de mercadorias de origem estrangeira.
+Art. 5.º O artigo 848.º do Estatuto Orgânico das Alfândegas do Ultramar, aprovado pelo Decreto n.º 43199, de 29 de Setembro de 1960, passa a ter a seguinte redacção:
+A conversão dos valores e a contagem dos direitos e outras imposições devidas serão sempre feitas com base nas cotações oficiais do momento da apresentação do pedido de despacho ou do preenchimento da caderneta, mesmo que entre esse momento e o da desalfandegação ocorram variações cambiais.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 28 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas, excepto no da de Macau. - A. Moreira.
