@@ -8,11 +8,11 @@ a) Do adoptando maior de doze anos;
 
 b) Do cônjuge do adoptante não separado judicialmente de pessoas e bens;
 
-c) Dos pais do adoptando, ainda que menores e mesmo que não exerçam o poder paternal, desde que não tenha havido confiança judicial.
+c) Dos pais do adoptando, ainda que menores e mesmo que não exerçam o poder paternal, desde que não tenha havido confiança judicial nem medida de promoção e protecção de confiança a pessoa ou a instituição com vista a futura adopção;
 
 d) Do ascendente, do colateral até ao 3.º grau ou do tutor, quando, tendo falecido os pais do adoptando, tenha este a seu cargo e com ele viva.
 
-2 - No caso previsto no n.º 2 do artigo 1978.º, tendo a confiança fundamento nas situações previstas nas alíneas c), d) e e) do n.º 1 do mesmo artigo, não é exigido o consentimento dos pais, mas é necessário o do parente aí referido ou do tutor, desde que não tenha havido confiança judicial.
+2 - No caso previsto no n.º 2 do artigo 1978.º, tendo a confiança fundamento nas situações previstas nas alíneas c), d) e e) do n.º 1 do mesmo artigo, não é exigido o consentimento dos pais, mas é necessário o do parente aí referido ou do tutor, desde que não tenha havido confiança judicial nem medida de promoção e protecção de confiança a pessoa ou a instituição com vista a futura adopção.
 
 3 - O tribunal pode dispensar o consentimento:
 
