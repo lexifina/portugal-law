@@ -16,4 +16,4 @@ e) Elaboração de um relatório circunstanciado das actividades realizadas no p
 
 f) Elaboração de um trabalho síntese sobre um tema à sua escolha relacionado com a actividade desenvolvida, que será discutido nas respectivas provas de acesso à categoria de assistente de investigação.
 
-2 - Os estagiários de investigação poderão ainda frequentar cursos de pós-graduação e colaboração no ensino e na investigação universitários, bem como prosseguir outras actividades devidamente autorizadas.
+2 - Os estagiários de investigação poderão ainda frequentar cursos de pós-graduação e colaborar no ensino e na investigação universitários, bem como prosseguir outras actividades devidamente autorizadas.

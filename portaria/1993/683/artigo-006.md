@@ -6,7 +6,7 @@ Constituem, entre outras, atribuições da comissão coordenadora as competênci
 
 a) Designar os orientadores dos assistentes e estagiários de investigação, ouvidos os responsáveis pelos projectos em que aqueles se integram;
 
-b) Propor ao director-geral a composição dos júris dos concursos abertos, nos termos do artigo 20.º do Decreto-Lei n.º 219/92;
+b) Propor ao presidente do conselho directivo a composição dos júris dos concursos abertos, nos termos do artigo 20.º do Decreto-Lei n.º 219/92;
 
 c) Deliberar sobre a prova a que se refere o n.º 5 do artigo 17.º do Decreto-Lei n.º 219/92, nos termos das orientações gerais definidas pelo plenário;
 

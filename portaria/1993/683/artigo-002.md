@@ -4,7 +4,7 @@
 
 1 - Para além das competências previstas no n.º 5 do artigo 4.º do Decreto-Lei n.º 219/92, de 15 de Outubro, compete ainda ao CRAF:
 
-a) Definir as áreas científicas adequadas para acesso às categorias de assistente de investigação e investigador auxiliar, nos termos dos artigos 6.º e 7.º do artigo 11.º e alínea c) do n.º 6 do artigo 17.º do Decreto-Lei n.º 219/92, bem como dos candidatos a investigador principal, nos termos da alínea c) do n.º 1 do artigo 10.º do mesmo diploma;
+a) Definir as áreas científicas adequadas para acesso às categorias de assistente de investigação e investigador auxiliar, nos termos dos artigos 6.º e 7.º, n.º 2 do artigo 11.º e alínea c) do n.º 6 do artigo 17.º do Decreto-Lei n.º 219/92, bem como dos candidatos a investigador principal, nos termos da alínea c) do n.º 1 do artigo 10.º do mesmo diploma;
 
 b) Apreciar os currículos dos candidatos nos concursos de provas públicas para a categoria de investigador auxiliar, de acordo com a alínea b) do n.º 1 do artigo 10.º do Decreto-Lei n.º 219/92;
 
