@@ -1,0 +1,16 @@
+Resolução n.º 37/79
+A Assembleia da República, em reunião plenária de 19 de Dezembro de 1978, resolve, ao abrigo do disposto nos artigos 1.º e 2.º da Lei n.º 43/77, de 18 de Junho, constituir uma comissão eventual de inquérito com o objectivo de averiguar da veracidade das acusações infamantes precisadas no requerimento apresentado pelo Grupo Parlamentar do Partido Socialista de 17 de Outubro de 1978, formuladas pelo jornal estatizado O Comércio do Porto e os demais órgãos de comunicação social referidos naquele requerimento (Rádio Renascença, Tempo e Expresso) contra o Deputado António Macedo.
+Assembleia da República, 19 de Dezembro de 1978. - O Presidente, Teófilo Carvalho dos Santos.
+
+Comissão eventual de inquérito
+A comissão eventual de inquérito acima referida, designada em conferência dos grupos parlamentares, ficou constituída pelos seguintes Deputados:
+Armando Filipe Cerejeira Pereira Bacelar, do Partido Socialista, que presidirá.
+Herculano Rodrigues Pires (PS).
+Armando dos Santos Lopes (PS).
+José Bento Gonçalves (PSD).
+Arnaldo Ângelo Brito Llamas (PSD).
+João da Silva Mendes Morgado (CDS).
+João José Magalhães Ferreira Pulido de Almeida (CDS).
+Lino Carvalho Lima (PCP).
+Severiano Pedro Falcão (PCP).
+Assembleia da República, 16 de Janeiro de 1979. - O Secretário-Geral da Assembleia da República, José Paulino da Costa Santos.
