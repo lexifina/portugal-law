@@ -1,0 +1,25 @@
+Resolução do Conselho de Ministros n.º 19/89
+A firma NAVICAR - Depósito e Gestão Integrada de Cargas, Lda., pretende estabelecer um depósito franco nas suas instalações em Vale de Mulatas, na freguesia de São Sebastião, em Setúbal, tendo em vista armazenar e distribuir veículos automóveis chegados ao País ou destinados ao estrangeiro pelas diferentes vias de transporte.
+Tendo presente a insuficiência da capacidade e de estruturas apropriadas na zona de Setúbal no campo de armazenagem de veículos automóveis e considerando que o regime aduaneiro de depósito franco é o instrumento adequado ao cabal desempenho da actividade daquela empresa:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - É autorizada a empresa NAVICAR - Depósito e Gestão Integrada de Cargas, Lda., a estabelecer um depósito franco nas suas instalações situadas em Vale de Mulatas, na freguesia de São Sebastião, em Setúbal.
+2 - As instalações referidas no número anterior serão exteriormente resguardadas por uma vedação de altura não inferior a 3 m, observando-se as demais disposições que forem superiormente determinadas, de modo a tornar fácil e eficaz a fiscalização.
+3 - Neste depósito poderá ser exercida a actividade a que a empresa se propõe, de armazenagem e distribuição de veículos automóveis que ali derem entrada sob acção aduaneira, quer venham consignados em seu próprio nome, quer em nome de terceiros.
+4 - Junto à entrada do depósito franco deverão existir instalações próprias para as praças da Guarda Fiscal encarregadas da fiscalização referida no n.º 2, a exercer com carácter permanente.
+5 - Todas as despesas com a criação e manutenção daquelas instalações são de conta da empresa.
+6 - No recinto do depósito franco existirão também instalações providas de gabinetes destinados aos funcionários aduaneiros que ali irão prestar serviço.
+7 - Todas as despesas de instalação e manutenção das instalações referidas no número anterior serão suportadas pela empresa.
+8 - Quando se reconhecer necessária a criação de uma estância aduaneira junto do depósito franco, constituirá encargo da respectiva empresa a sua instalação e manutenção nos termos que forem indicados pela Direcção-Geral das Alfândegas.
+9 - Sempre que o entenda necessário, a alfândega mandará visitar as instalações do depósito franco, a fim de averiguar das condições de segurança fiscal, podendo visitar todas as dependências, examinar livros e pedir os esclarecimentos que julgue necessários.
+10 - A empresa deve dispor de uma contabilidade de existências, de modo a permitir às autoridades aduaneiras um controlo imediato sobre as viaturas entradas, saídas e existentes em armazém.
+11 - A alfândega dará ao serviço da Guarda Fiscal junto do depósito franco as instruções que julgue convenientes para a defesa dos superiores interesses do Estado e providenciará a resolução de dúvidas que pelos mesmos serviços forem postas.
+12 - O prazo de armazenagem referido no número anterior é de cinco anos a contar da data de entrada das mercadorias.
+13 - Os veículos automóveis introduzidos no recinto do depósito franco poderão manter-se na situação jurídica de depósito provisório, nos termos do disposto no artigo 17.º do Decreto-Lei n.º 281/86, de 5 de Setembro, ficando sujeitos ao cumprimento do estipulado nos artigos 11.º a 15.º do mesmo diploma, na parte que lhes é aplicável.
+14 - O expediente de despacho dos automóveis armazenados no depósito franco poderá correr em qualquer estância aduaneira da Alfândega de Lisboa, desde que para o efeito autorizada pela sua direcção.
+15 - Os bilhetes de despacho serão processados nos termos do Regulamento das Alfândegas e demais legislação aduaneira aplicável.
+16 - Os serviços aduaneiros procederão, no depósito franco, à verificação e reverificação dos automóveis ali depositados.
+17 - A empresa ficará responsável pelo recebimento e entrega dos veículos movimentados através do recinto do depósito franco, bem como pelo pagamento dos direitos aduaneiros e encargos de efeito equivalente, e outras imposições respeitantes aos veículos automóveis nele entrados que forem encontrados em falta, sem prejuízo de eventual procedimento por infracção fiscal nos termos de legislação aplicável.
+18 - A empresa será subsidiariamente responsável pelas infracções que sejam praticadas pelos seus empregados.
+19 - Carece de aprovação da Direcção-Geral das Alfândegas o regulamento interno de funcionamento e de exploração do depósito franco, que deverá ser elaborado e apresentado, para os devidos efeitos, pela empresa.
+20 - O depósito franco só poderá entrar em funcionamento após a aprovação definitiva pela Direcção-Geral das Alfândegas e após esta comprovar a verificação de todas as condições indispensáveis à defesa dos interesses da Fazenda Nacional.
+Presidência do Conselho de Ministros, 20 de Abril de 1989. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
