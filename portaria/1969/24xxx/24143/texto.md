@@ -1,0 +1,5 @@
+Portaria n.º 24143
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar, com a importância de 30000$00, a verba do capítulo 10.º, artigo 337.º, n.º 5), alínea a) «Encargos gerais - Deslocações de pessoal - Subsídios de viagem e de demora em portos de escala, inerentes às deslocações fora da província - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província da Guiné para o ano em curso, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 7.º, artigo 244.º, n.º 1), alínea a) «Serviços de fomento - Serviços Geográficos e Cadastrais - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+Ministério do Ultramar, 30 de Junho de 1969. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial da Guiné. - J. Cota.
