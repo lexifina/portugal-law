@@ -1,3 +1,11 @@
+## Secção III
+
+## Constituïção, reüniões e deliberações
+
+## Capítulo IV
+
+## Do presidente da câmara
+
 # Artigo 83.º
 
 As decisões do presidente da câmara podem ser por êle ratificadas, revogadas, reformadas ou convertidas, quando da ratificação, revogação, reforma ou conversão não resulte ofensa de lei, regulamento ou contrato, nos termos seguintes:

@@ -1,3 +1,0 @@
-# Artigo 213.º
-
-Os presidentes das câmaras municipais, e em Lisboa e Pôrto os administradores dos bairros, recebidas as cópias dos editais a que se refere o § 2.º do artigo anterior, oficiarão ao conservador do registo civil ou ajudante do respectivo pôsto, ao juiz de direito da comarca, aos directores dos estabelecimentos que sirvam para hospitalização de alienados e aos directores de estabelecimentos de assistência pública ou de beneficência particular existentes no concelho, comunicando-lhos o início das operações do recenseamento eleitoral e a obrigação que lhes incumbe de organizarem as relações e mapas a que se refere o artigo seguinte.

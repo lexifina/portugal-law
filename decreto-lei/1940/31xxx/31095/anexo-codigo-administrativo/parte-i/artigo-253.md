@@ -1,3 +1,47 @@
+## Título III
+
+## Da freguesia
+
+## Capítulo I
+
+## Dos órgãos da administração paroquial
+
+## Capítulo II
+
+## Da eleição da junta de freguesia
+
+## Secção I
+
+## Eleitores e elegíveis
+
+## Secção II
+
+## Recenseamento eleitoral
+
+## Secção III
+
+## Operações de recenseamento
+
+## Secção IV
+
+## Apresentação de listas
+
+## Secção V
+
+## Eleição e assembleas ou secções de voto
+
+## Secção VI
+
+## Votação e apuramento
+
+## Capítulo III
+
+## Da junta de freguesia
+
+## Secção I
+
+## Composição
+
 ## Secção II
 
 ## Atribuïções e competência

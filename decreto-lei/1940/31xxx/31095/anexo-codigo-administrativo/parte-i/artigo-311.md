@@ -1,3 +1,27 @@
+## Capítulo II
+
+## Do conselho do distrito
+
+## Secção I
+
+## Composição
+
+## Secção II
+
+## Competência
+
+## Secção III
+
+## Constituïção, sessões, reüniões e deliberações
+
+## Capítulo III
+
+## Da junta distrital
+
+## Secção I
+
+## Composição
+
 ## Secção II
 
 ## Atribuïções e competência

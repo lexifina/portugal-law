@@ -1,3 +1,27 @@
+## Capítulo II
+
+## Do conselho municipal
+
+## Secção I
+
+## Composição
+
+## Secção II
+
+## Competência
+
+## Secção III
+
+## Constituïção, sessões, reüniões e deliberações
+
+## Capítulo III
+
+## Da câmara municipal
+
+## Secção I
+
+## Composição
+
 ## Secção II
 
 ## Atribuïções e competência

@@ -1,3 +1,11 @@
+## Secção III
+
+## Constituïção, reüniões e deliberações
+
+## Secção IV
+
+## Presidente da junta
+
 ## Secção V
 
 ## Serviços paroquiais
