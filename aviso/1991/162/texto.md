@@ -1,0 +1,3 @@
+Aviso n.º 162/91
+Por ordem superior se torna público que entrou em vigor no dia 11 de Outubro de 1991 o Acordo Especial, por troca de notas, concluído em Lisboa em 4 de Julho de 1990, entre o Governo da República Portuguesa e o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte para supressão do artigo 19.º do Tratado Luso-Britânico de Comércio e Navegação de 12 de Agosto de 1914 e ratificado pelo Decreto do Presidente da República n.º 42/91, publicado no Diário da República, n.º 188, de 17 de Agosto de 1991.
+Direcção-Geral das Comunidades Europeias, 16 de Outubro de 1991. - O Subdirector-Geral, José António Moya Ribera.
