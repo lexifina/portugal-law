@@ -1,0 +1,15 @@
+Portaria n.º 208/81
+de 24 de Fevereiro
+O sistema de incentivos à aquisição ou construção de habitação própria foi recentemente revisto e melhorado pelo Decreto-Lei n.º 435/80, de 2 de Outubro.
+De entre as variáveis determinantes da fixação do nível de bonificação da taxa de juro a praticar nos respectivos empréstimos conta-se o custo por metro quadrado de área habitável do fogo a adquirir ou a construir.
+Nos termos do artigo 5.º do citado decreto-lei, os diversos critérios de atribuição dos incentivos, nomeadamente os referentes àquela variável deveriam ser fixados por portaria conjunta dos Ministros das Finanças e do Plano e da Habitação e Obras Públicas.
+Além disso, previa-se ainda no n.º 5 daquele artigo que os limites fixados naquela portaria pudessem ser, relativamente aos fogos situados nas Regiões Autónomas dos Açores e da Madeira, elevados sob proposta dos respectivos Governos Regionais e mediante portaria do Ministro das Finanças e do Plano.
+Atendendo a que, em execução do artigo 5.º do Decreto-Lei n.º 435/80, foi já publicada a Portaria n.º 969/80, de 12 de Novembro, e considerando que o Governo da Região Autónoma da Madeira propôs ao Governo da República que fossem alterados os limites estabelecidos no quadro I daquela portaria:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, nos termos do Decreto-Lei n.º 435/80, de 2 de Outubro, o seguinte:
+Relativamente à Região Autónoma da Madeira, os valores fixados no quadro I (classe de fogos) da Portaria n.º 969/80, de 12 de Novembro, serão acrescidos de uma percentagem de 40%, nos termos do quadro anexo.
+Ministério das Finanças e do Plano, 4 de Fevereiro de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão.
+
+QUADRO I
+Classe de fogos
+(ver documento original)
+O Ministro das Finanças e do Plano, João António de Morais Leitão.
