@@ -1,0 +1,4 @@
+Despacho Normativo n.º 10/79
+Nos termos do Despacho Normativo n.º 104/78, de 22 de Março, foi determinada a aprovação dos modelos de guia anexos ao mesmo despacho para efeitos do pagamento das contribuições devidas ao Instituto de Gestão Financeira da Segurança Social, tendo igualmente sido determinado que o mesmo diploma entraria em vigor à medida que fossem sendo esgotados os impressos existentes, porém impreterivelmente até 31 de Dezembro de 1978.
+Verificando-se, porém, que nalgumas instituições são substancialmente apreciáveis os stocks existentes, determina-se que o Despacho Normativo n.º 104/78, de 22 de Março, seja aplicado à medida que em cada caixa forem sendo esgotados os impressos dos modelos anteriores.
+Secretaria de Estado da Segurança Social, 29 de Novembro de 1978. - O Secretário de Estado da Segurança Social, Coriolano Albino Ferreira.
