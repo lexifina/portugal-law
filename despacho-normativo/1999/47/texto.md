@@ -1,0 +1,164 @@
+Despacho Normativo n.º 47/99
+No âmbito da vertente voluntarista do Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa - PEDIP II, foi accionado pelo Despacho Normativo n.º 86/95, de 29 de Dezembro, o PRODIBETA - Programa de Desenvolvimento das Indústrias de Bens de Equipamento e das Tecnologias Ambientais, através do qual se definiram as necessárias adaptações aos diversos sistemas e regimes que os projectos candidatos ao Programa deveriam observar, bem como a metodologia a adoptar para a sua selecção.
+O Despacho Normativo n.º 10-A/98, de 13 de Fevereiro, alterou o Regime de Apoio à Realização de Estratégias Empresariais Integradas, previsto na alínea c) do n.º 1 do artigo 2.º do Despacho Normativo n.º 545/94, de 29 de Julho, tendo excepcionado do seu âmbito de aplicação os projectos candidatos ao PRODIBETA.
+O referido Despacho Normativo n.º 10-A/98 estabeleceu, no seu artigo 12.º, limites para os incentivos mais alargados que os que anteriormente vigoravam, nomeadamente os aplicáveis a promotores com mais de um projecto apoiado no âmbito do regime de apoio ora em apreço.
+Correspondendo o PRODIBETA a um programa, no âmbito do PEDIP, com preocupações expressas, estratégicas e operacionais, de fomento de projectos nesta área de actividades - bens de equipamento, automação industrial e tecnologias ambientais - considerada determinante da evolução das sociedades avançadas, não parece lógico que os seus limites ao incentivo sejam inferiores aos do regime geral.
+Assim, julga-se conveniente ajustar o regime legal do PRODIBETA por forma a acolher os novos limites ao incentivo previstos para o Regime de Apoio à Realização de Estratégias Empresariais Integradas.
+Nestes termos, determina-se:
+O anexo III do Despacho Normativo n.º 86/95, de 29 de Dezembro, alterado pelos Despachos Normativos n.os 14/96, de 10 de Abril, e 25/99, de 12 de Maio, passa a ter a seguinte redacção:
+«ANEXO III
+Regime específico aplicável, para efeitos do PRODIBETA, aos projectos candidatos no âmbito do disposto no Despacho Normativo n.º 548/94 (II DE 0103), de 29 de Julho, alterado pelo Despacho Normativo n.º 38/95, de 4 de Agosto.
+Para efeitos do PRODIBETA, deverá ser observada a seguinte disciplina específica relativamente ao disposto no Despacho Normativo n.º 548/94, no âmbito da sua alínea a) do n.º 1 do artigo 2.º:
+Artigo 4.º
+[...]
+1 - ...
+a) Entidades a que se referem as alíneas a), b) e e) do artigo 2.º do diploma que aprova o PRODIBETA;
+b) ...
+c) ...
+2 - ...
+3 - ...
+Artigo 6.º
+[...]
+1 - ...
+a) ...
+b) Enquadrar-se nos objectivos do PEDIP II em geral, do presente regime de apoio em particular, e no âmbito do PRODIBETA, de acordo com os critérios constantes do anexo G;
+c) ...
+d) ...
+e) ...
+f) ...
+g) ...
+h) ...
+2 - ...
+3 - ...
+Artigo 8.º
+[...]
+1 - ...
+a) ...
+b) ...
+c) ...
+d) ...
+e) ...
+f) ...
+g) ...
+h) ...
+i) ...
+j) ...
+k) ...
+l) ...
+m) ...
+n) ...
+o) ...
+p) ...
+r) ...
+2 - Constitui ainda aplicação relevante o fundo de maneio associado ao projecto, limitado a 30% do investimento em activo fixo corpóreo, em projectos inseridos no âmbito da alínea a) do n.º 1 do artigo 2.º
+3 - O activo fixo incorpóreo referente à soma das alíneas m) a p) do n.º 1 não poderá exceder 25% do investimento em capital fixo.
+4 - ...
+9.º
+Incentivos
+...
+1 - ...
+2 - ...
+3 - Nos projectos inseridos no âmbito da alínea a) do n.º 1 do artigo 2.º poderá ainda ser objecto de subsídio reembolsável o valor excedente a que se refere a alínea c) do n.º 2 do artigo 12.º
+4 - ...
+5 - ...
+6 - ...
+7 - ...
+12.º
+Limites do incentivo
+1 - ...
+2 - Os limites máximos de incentivo a conceder por empresa, no âmbito e na vigência do Regime de Apoio à Realização de Estratégias Empresariais Integradas, no que respeita a projectos de inovação e internacionalização das estruturas empresariais, são os seguintes:
+a) Para empresas com projectos já aprovados no seu âmbito:
+400000 contos por empresa, quando o incentivo revista a forma de subsídio a fundo perdido, com excepção do subsídio relativo à formação profissional e ao ambiente externo;
+800000 contos por empresa, quando o incentivo revista a forma de subsídio reembolsável, salvo o disposto na alínea c) seguinte;
+b) Para outras empresas:
+250000 contos por empresa, quando o incentivo revista a forma de subsídio a fundo perdido, com excepção do subsídio relativo à formação profissional e ao ambiente externo;
+500000 contos por empresa, quando o incentivo revista a forma de subsídio reembolsável, salvo o disposto na alínea seguinte;
+c) Sempre que o montante calculado do subsídio a fundo perdido seja superior a 400000 contos ou a 250000 contos, conforme se trate, respectivamente, das alíneas a) ou b) anteriores, o valor excedente poderá ser financiado através de subsídio reembolsável cujos montantes máximos são de, respectivamente, 900000 contos ou 600000 contos por empresa;
+d) Para empresas com projectos com investimentos superiores a 1,5 milhões de contos em capital fixo do Regime de Apoio à Realização de Estratégias Empresariais Integradas já aprovados, o incentivo a atribuir não poderá exceder os limites máximos referidos nas alíneas a) e c) e para o seu cálculo deverão ser tidos em consideração os montantes que já lhe foram concedidos, até aos limites previstos na alínea b).
+3 - Em nenhum caso o incentivo a atribuir a cada projecto poderá ultrapassar os limites fixados nas alíneas b) e c) do n.º 2.
+4 - O montante total do incentivo a conceder, com excepção do que se referir a incentivos no âmbito do Fundo Social Europeu, não poderá exceder dois terços do custo do investimento.
+5 - Em projectos de investimento superior a 1,5 milhões de contos em capital fixo poderá ser instituído um processo administrativo negocial similar ao utilizado nos projectos estratégicos de regime contratual, a que se refere a alínea b) do n.º 1 do artigo 2.º do Despacho Normativo n.º 548/94.
+ANEXO A
+Metodologia para determinação da valia industrial
+I
+Critérios de selecção
+Os critérios de selecção referidos no artigo 7.º são os seguintes:
+C1 - Adequação do projecto à estratégia empresarial, tendo em conta o grau de satisfação das necessidades da empresa de acordo com as suas orientações estratégicas. Avalia-se o grau de adequação do projecto às necessidades reais da empresa (com o aprofundamento da fundamentação da estratégia em função da dimensão e da complexidade da empresa e do projecto) nas variáveis consideradas chave para a competitividade global da empresa - cobrindo as áreas organizacional, de recursos humanos, tecnológica/produtiva, económica, financeira, comercial, energética e ambiental; assim, tendo como referência os objectivos definidos a médio prazo, este critério avalia o grau de adequação do projecto às necessidades da empresa, nas variáveis consideradas chave para a sua competitividade global, com base na análise da sua adequação:
+Em todas as recomendações do diagnóstico, tendo em conta as perspectivas de evolução do mercado, para os casos de investimentos em capital fixo inferiores a 250000 contos;
+Em todas as recomendações do diagnóstico, tendo em conta a sua posição concorrencial e as opções de desenvolvimento, para os casos de investimentos em capital fixo compreendidos entre 250000 e 750000 contos;
+Em todas as variáveis determinantes para a sua competitividade, para os casos de investimentos em capital fixo superiores a 750000 contos;
+C2 - Grau de enquadramento no PRODIBETA, tendo em conta a forma como o projecto é classificado nos critérios de enquadramento constantes do anexo G;
+C3 - Eficiência empresarial pós-projecto, avaliável através das seguintes vertentes:
+Nível de competências e capacidades humanas e materiais nas áreas consideradas de intervenção estratégica para as IBE e TA, com especial destaque para os seguintes domínios:
+Recursos humanos com a qualificação e a formação necessárias;
+Capacidade de concepção e desenvolvimento de produtos, comprovada através da afectação autónoma de recursos humanos qualificados e de meios materiais modernos, proporcionando adequadas competências para rápidas respostas às mutações tecnológicas e de mercado e para satisfação dos normativos comunitários de harmonização técnica;
+Capacidades comerciais e de marketing que assegurem uma competitividade comercial adequada à correcta compatibilização entre as características dos produtos e os mercados alvo;
+Capacidades produtivas, organizativas e de gestão, apropriadas;
+Produtividade da empresa, aferida por indicadores adaptados à actividade em causa, a serem definidos e comparativamente quantificados pelo promotor.
+II
+Classificação dos critérios
+A avaliação dos critérios C1, C2 e C3 será efectuada com base numa notação qualitativa de três níveis: Não adequação; Boa adequação, e Muito boa adequação.
+Só serão considerados passíveis de apoio os projectos que demonstrem pelo menos Boa adequação em todos os critérios.
+III
+Critério complementar
+Serão objecto de um tratamento mais favorável os projectos que se insiram nas seguintes áreas prioritárias da política industrial:
+Que se traduzam na fabricação ou adaptação de produtos provenientes de processos de I&DT apoiados pelo PEDIP II ou por programas comunitários integrados no programa quadro de I&DT;
+Que visem o fabrico de equipamentos e ou sistemas produtivos que apresentem redução significativa de impacte ambiental;
+Que visem o fabrico de equipamentos que:
+Se destinem a produções de valorização significativa de recursos naturais nacionais;
+Conduzam a significativas poupanças e à utilização racional de energia;
+Que se destinem especificamente a sectores utilizadores da indústria portuguesa, objecto de tratamento especial no quadro da política industrial, reconhecidos como tal pelo Ministro da Indústria e Energia;
+Que visem o fabrico de equipamentos e ou sistemas específicos para a protecção ambiental, recolha e aproveitamento de resíduos e reciclagem de materiais.
+IV
+Pontuação final
+De acordo com a classificação obtida, os projectos são pontuados de acordo com o seguinte:
+Valia normal: apresentar pelo menos Boa adequação nos critérios C1, C2 e C3.
+Valia especial: apresentar Muito boa adequação nos critérios C2 e C3 ou apresentar pelo menos Boa adequação em todos os critérios e situarem-se em 'áreas de tratamento mais favorável', definidas no critério complementar.
+ANEXO B
+Metodologia do cálculo da percentagem final do incentivo
+Projecto de inovação e internacionalização das estruturas empresariais
+1.º
+Percentagem do incentivo
+A percentagem do incentivo a atribuir é função da valia industrial do projecto, calculada em conformidade com a metodologia constante do anexo A e será atribuída de acordo com o quadro seguinte:
+(ver quadro no documento original)
+2.º
+Majorações
+1 - As percentagens de incentivo referidas no número anterior são passíveis de majoração, nos casos e nas percentagens que se indicam seguidamente:
+a) ...
+b) Majorações de carácter industrial:
+1) Projectos de empresas com acordo voluntário de auto-regulação no âmbito do ambiente, com incidência apenas nas aplicações relevantes relativas a ambiente externo - 5%;
+2) Localização do projecto em parques e pólos tecnológicos - 5%;
+3) Empresas resultantes de acções estratégicas de redimensionamento industrial, nomeadamente fusões e concentrações - 5%;
+4) Empresas industriais participantes na criação de redes de cooperação inseridas no âmbito do Despacho Normativo n.º 545/94, de 29 de Julho - 5%;
+5) Assistência técnica prestada por infra-estruturas tecnológicas (até 10%); a contribuição total para o incentivo, relativa a estas componentes, não pode ultrapassar 80% das correspondentes despesas de investimento;
+6) Empresas cujo sistema de garantia da qualidade esteja ou demonstre que venha a estar certificado pelo Instituto Português da Qualidade (IPQ) de acordo com as normas NP EN 29000, no âmbito do SPQ - 5%;
+7) Empresas que implementem um sistema de gestão da qualidade total (SGQT) e assumam o compromisso da sua divulgação quando seleccionadas pelo IPQ - 10%;
+8) Projectos centrados em estratégias de diversificação, no âmbito das IBE e TA, decorrentes de alterações estruturais do mercado - 5%;
+9) Os promotores que elaborem pelos seus próprios meios os diagnósticos referidos para a fundamentação do projecto terão, dentro dos limites estabelecidos para a majoração industrial, um incentivo adicional de 3000 contos.
+2 - O somatório das majorações de carácter industrial não poderá exceder 10%.
+3.º
+Percentagem final do incentivo
+1 - A percentagem final do incentivo relativa ao subsídio reembolsável (I(índice fr)) é calculada através da fórmula:
+I(índice fr) = I(índice r) + M + N
+sendo:
+I(índice r) = percentagem do incentivo relativa ao subsídio reembolsável, calculada de acordo com o n.º 1.º;
+M = somatório das majorações de carácter industrial, até ao limite máximo de 10%;
+N = majoração de carácter regional (15%).
+2 - A percentagem final do incentivo relativo ao subsídio a fundo perdido (I(índice fp)), com excepção do que se refere à formação profissional, é calculada através da fórmula:
+I(índice fp) = I(índice p) + M + N
+sendo:
+I(índice p) = percentagem do incentivo relativa ao subsídio a fundo perdido, calculada de acordo com o n.º 1.º;
+M = somatório das majorações de carácter industrial, até ao limite máximo de 10%;
+N = majoração de carácter regional (15%).
+3 - A percentagem final do incentivo não deverá ultrapassar 80% das aplicações relevantes a que se refere o n.º 1 do artigo 9.º nem 70% das aplicações relevantes a que se refere o n.º 2 do mesmo artigo.
+ANEXO G
+Critérios de enquadramento
+São enquadráveis no âmbito do PRODIBETA os projectos que demonstrem possuir interesse estratégico, aferido através da exigência de que os projectos prossigam uma das seguintes vias de desenvolvimento empresarial:
+1 - Para empresas já existentes:
+a) Lançamento de novos produtos ou melhoria significativa dos já fabricados, envolvendo importantes acréscimos das capacidades e competências ou do grau de especialização da empresa;
+b) Significativo reforço da posição da empresa nos mercados internacionais, sustentável pelas características dos seus produtos e capacidades;
+c) Desenvolvimento de competências e capacidades integradoras de oferta de unidades industriais completas 'chave na mão'.
+2 - Para novas empresas:
+a) Produção de elevado nível de especialização ou valia tecnológica e com mercados e competitividade assegurados;
+b) Produção tecnologicamente evoluída e capacidade claramente vocacionada para mercados internacionais.»
+Ministério da Economia, 22 de Setembro de 1999. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura.
