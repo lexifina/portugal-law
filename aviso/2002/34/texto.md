@@ -1,0 +1,5 @@
+Aviso n.º 34/2002
+Por ordem superior se torna público que, em 25 de Maio de 2001 e em 11 de Março de 2002, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros da Ucrânia e pelo Ministério dos Negócios Estrangeiros português, em que se comunica terem sido cumpridas as formalidades constitucionais internas, por parte de ambos os países, de aprovação da Convenção entre a República Portuguesa e a Ucrânia para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento e o Capital, assinada em Lisboa em 9 de Fevereiro de 2000.
+A citada Convenção foi aprovada pela Resolução da Assembleia da República n.º 15/2002 e ratificada pelo Decreto do Presidente da República n.º 13/2002, publicados no Diário da República, 1.ª série-A, n.º 57, de 8 de Março de 2002.
+Nos termos do artigo 28.º da Convenção, esta entra em vigor em 10 de Abril de 2002.
+Direcção-Geral das Relações Bilaterais, 14 de Março de 2002. - O Director-Geral, José Caetano de Campos de Andrada da Costa Pereira.
