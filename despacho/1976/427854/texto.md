@@ -1,0 +1,3 @@
+Despacho
+É exonerado, a seu pedido, com efeitos contados a partir de 14 de Fevereiro passado, o Dr. Carlos Manuel Cabral Folque de Gouveia do cargo de elemento da comissão de gestão da empresa Ormis - Embalagens de Portugal, S. A. R. L., para o qual foi nomeado por despacho de 10 de Novembro de 1975, publicado no Diário do Governo, 1.ª série, de 24 de Novembro de 1975.
+Ministérios das Finanças e da Indústria e Tecnologia, 20 de Abril de 1976. - Pelo Ministro das Finanças, Vítor Manuel Ribeiro Constâncio, Secretário de Estado do Orçamento. - O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.
