@@ -1,0 +1,21 @@
+O ramo agrícola do sector cooperativo constitui o maior e o mais diversificado conjunto de cooperativas do País em função do seu peso no número total de cooperativas existentes, pelo volume de vendas e pelo nível de emprego por que é responsável e pelo número de agricultores membros que representa nos sectores produtivos e estrategicamente mais relevantes.
+
+Volvidos quase 16 anos sobre a entrada em vigor da primeira legislação especial sobre esta matéria e 12 anos sobre a adesão de pleno direito de Portugal à então Comunidade Económica Europeia, as cooperativas agrícolas continuam a assegurar um papel fundamental na execução das políticas agrícolas, quer no plano nacional, quer no plano comunitário, não obstante se confrontarem com factores exógenos que condicionam o seu crescimento, em resultado, nomeadamente, da adopção de medidas no âmbito da Política Agrícola Comum com carácter e incidência notoriamente mais restritivos.
+
+No mesmo período de tempo ocorreram profundas alterações económicas a nível mundial, com quadros macro e microeconómicos decisivamente marcados pela globalização das economias, pela intensificação da concorrência e pela nova disciplina do comércio internacional, com complexas influências sobre a generalidade dos tecidos produtivos e empresariais, dos quais as cooperativas agrícolas fazem parte, obrigando-as a um esforço decisivo para sobreviverem com eficácia na dupla qualidade de empresas e associações específicas, num sector também dotado de particularidades.
+
+Aprovado que foi, em tempo útil, o Código Cooperativo, pela convergência, num amplo consenso, do espectro político-partidário nacional, consideram-se, assim, reafirmados os valores essenciais do cooperativismo e das cooperativas, que esta legislação complementar não carece de repetir, mas antes acatar.
+
+Neste contexto, a legislação complementar do ramo agrícola do Código Cooperativo cria as condições para que as cooperativas agrícolas possam, a um tempo, responder às necessidades específicas dos agricultores e dos territórios e, por outro lado, desenvolver os seus próprios meios de adaptação às regras económicas prevalecentes, modernizando-se e mobilizando os mecanismos que lhes permitam ser cada vez mais fortes aos níveis empresarial e associativo e capazes de responder aos renovados apelos da organização do mundo agrícola e rural.
+
+O apelo a uma maior responsabilização das cooperativas agrícolas deve ser entendido também como um apelo decisivo à plena vinculação dos seus membros a direitos e obrigações expressamente consignados nos respectivos estatutos, afinal o primeiro e determinante factor para o seu eficaz funcionamento, sem o qual a função associativa não é exercida e a de índole empresarial se vê fortemente condicionada, com os consequentes resultados negativos, a todos os níveis.
+
+O regime aplicável ao ramo agrícola do sector cooperativo procura dar resposta adequada ao novo tipo de relacionamento que entretanto, por razões endógenas e exógenas, se vem estabelecendo e consolidando entre as cooperativas agrícolas e a Administração Pública, em particular com o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, sem quebra do princípio basilar da livre constituição e funcionamento daquelas, face ao Estado.
+
+A nova figura das cooperativas multissectoriais, introduzida pelo actual Código Cooperativo, mereceu, no presente diploma, tratamento específico de modo a permitir a sua constituição e funcionamento no ramo agrícola, no que se vai ao encontro das tendências recentes e futuras das políticas dirigidas à agricultura e ao desenvolvimento rural.
+
+Com idêntica preocupação de dar expressão legal a tendências actuais e futuras de alargamento das áreas tradicionais de intervenção das cooperativas agrícolas, foi introduzido, pela primeira vez, clausulado relacionando de forma visível as cooperativas agrícolas e o desenvolvimento rural, na presunção de que àquelas virá a ser exigido um papel cada vez mais interventor e diversificado nas políticas para o mundo rural.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 51/96, de 7 de Setembro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
