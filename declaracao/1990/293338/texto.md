@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 152/90, publicado no Diário da República, 1.ª série, n.º 112, de 16 de Maio de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No terceiro parágrafo do preâmbulo, onde se lê «Por outro lado, procura também dotar com os meios humanos e organizacionais convenientes as estruturas de acompanhamento e execução do novo sistema retributivo, cuja concepção se encontra praticamente concluída.» deve ler-se «Por outro lado, procura também confiar a estrutura com meios humanos e organizacionais convenientes o acompanhamento e execução do novo sistema retributivo, cuja concepção se encontra praticamente concluída.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 23 de Maio de 1990. - O Secretário-Geral, França Martins.
