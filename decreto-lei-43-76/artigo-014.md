@@ -55,9 +55,3 @@ O DFA tem direito à aquisição ou construção de habitação própria nas mes
 9. Direito a associação nos Serviços Sociais das Forças Armadas (SSFA):
 
 O DFA passa a ter direito à inscrição como sócio nos SSFA para todos os fins consignados no seu estatuto.
-
-10. Os DFA são ressarcidos, pelo subsistema de assistência na doença aos militares das Forças Armadas, através da respectiva entidade gestora, da totalidade das importâncias suportadas com cuidados de saúde, decorrentes de enfermidades não relacionadas com as lesões que determinaram a deficiência, na parte não comparticipada pelo subsistema de saúde do qual sejam beneficiários, quando:
-
-a) Os cuidados de saúde sejam prestados por estabelecimentos do Serviço de Saúde Militar, estabelecimentos do Serviço Nacional de Saúde ou por entidades prestadoras de cuidados de saúde com as quais exista acordo estabelecido;
-
-b) Os cuidados de saúde digam respeito a assistência medicamentosa.
