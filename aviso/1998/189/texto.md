@@ -1,0 +1,4 @@
+Aviso n.º 189/98
+Por ordem superior se torna público que Andorra depositou, em 26 de Junho de 1998, os instrumentos de ratificação da Convenção para a Protecção do Património Arqueológico, aberta para assinatura, em La Valetta, em 16 de Janeiro de 1992.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 71/97, publicada no Diário da República, 1.ª série-A, n.º 289, de 16 de Dezembro de 1997, tendo depositado o seu instrumento de ratificação em 16 de Dezembro de 1997, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 289, de 16 de Dezembro de 1997.
+Direcção-Geral dos Assuntos Multilaterais, 14 de Setembro de 1998. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
