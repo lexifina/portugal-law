@@ -1,0 +1,34 @@
+Portaria n.º 274/81
+de 17 de Março
+Considerando a necessidade de introduzir no Estatuto do Oficial da Força Aérea (EOFAP), aprovado pelo Decreto n.º 377/71, de 10 de Setembro, as alterações decorrentes da publicação do Decreto-Lei n.º 5-A/81, de 23 de Janeiro, que deu nova redacção a diversos artigos do Estatuto dos Oficiais das Forças Armadas, aprovado pelo Decreto-Lei n.º 46672, de 29 de Novembro de 1965;
+Considerando o disposto no artigo 4.º do citado Decreto-Lei n.º 5-A/81:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, o seguinte:
+1.º Os artigos 88.º, 136.º, 139.º, 142.º e 199.º do Estatuto do Oficial da Força Aérea (EOFAP), aprovado pelo Decreto n.º 377/71, de 10 de Setembro, passam a ter a seguinte redacção:
+Art. 88.º - 1 - A informação periódica é confidencial, devendo, se desfavorável, ser comunicada aos oficiais sobre os quais recai antes de ser remetida superiormente.
+2 - Esta informação, se desfavorável, será acompanhada de juízo ampliativo que constitua adequada fundamentação, sem o que ela será de nulo efeito nos aspectos inadequadamente fundamentados.
+3 - Caso o informado se não conforme com o teor da informação, poderá, no prazo de cinco dias após dela tomar conhecimento, apresentar uma exposição escrita, que entregará ao primeiro informador e será apensa à informação.
+O segundo informador, sempre que o houver, deverá pronunciar-se claramente por escrito sobre os aspectos desfavoráveis da informação, bem como da exposição do oficial, dando conhecimento ao informado e ao primeiro informador da opinião em si expressa antes de a remeter superiormente.
+Art. 136.º - 1 - Para verificação da 1.ª, 2.ª e 3.ª condições gerais de promoção são elementos de apreciação:
+a) As informações a que se refere o capítulo VIII;
+b) O registo disciplinar;
+c) Outros documentos, quer constem do processo individual do oficial, quer nele venham a ser integrados, observando procedimento análogo ao contido no artigo 88.º
+2 - Não é considerada matéria de apreciação aquela sobre a qual exista processo de averiguações disciplinar ou criminal pendente enquanto sobre o mesmo não for proferida decisão definitiva.
+3 - A verificação da 4.ª condição geral de promoção baseia-se nas inspecções médicas e na prestação de provas físicas de que tratam os artigos 90.º a 94.º deste Estatuto.
+Art. 139.º Quando houver dúvidas sobre se o oficial satisfaz à 1.ª e 2.ª condições gerais de promoção, deverá o mesmo ser submetido a apreciação em Conselho Superior de Disciplina da Força Aérea para efeitos do respectivo parecer.
+Art. 142.º - 1 - O oficial que não satisfaça à 3.ª condição geral de promoção ficará excluído da promoção pelo prazo máximo de dois anos, findos os quais, se continuar a não satisfazer à mesma condição, será excluído definitivamente da promoção, ficando na situação de adido ao quadro, nos termos da subalínea 20) da alínea b) do artigo 66.º
+2 - A inexistência de informações a que se refere a alínea a) do n.º 1 do artigo 136.º não pode constituir fundamento para se considerar um oficial como não satisfazendo a esta condição.
+3 - Nenhum oficial pode ser dado como não satisfazendo à 3.ª condição geral de promoção sem parecer da Comissão Técnica da Força Aérea nesse sentido.
+4 - A decisão do Chefe do Estado-Maior da Força Aérea relativamente à não satisfação da 3.ª condição geral de promoção será notificada ao oficial tão cedo quanto possível.
+5 - No prazo de quinze dias a contar da notificação referida no número anterior o oficial poderá apresentar por escrito ao Chefe do Estado-Maior da Força Aérea a sua contestação, acompanhada dos documentos que entenda. Nos casos em que, por virtude dos elementos presentes, o Chefe do Estado-Maior da Força Aérea venha a alterar a sua decisão, será o oficial notificado no prazo de trinta dias.
+6 - As disposições dos n.os 4 e 5 anteriores, respeitantes a procedimentos e prazos, observar-se-ão igualmente nos casos a que se refere o n.º 1 deste artigo.
+7 - A Comissão Técnica da Força Aérea, na apreciação dos casos que lhes forem presentes, dará o seu parecer com base em todos os documentos submetidos e os que entender juntar ao processo, podendo ainda ouvir pessoalmente o oficial e quem mais entender útil antes de emitir parecer.
+Art. 199.º As decisões do Supremo Tribunal Militar proferidas no exercício da competência que lhe é atribuída nas matérias referidas no artigo 196.º serão comunicadas à autoridade recorrida, para as mandar executar, nos seus precisos termos, no prazo de dez dias a contar da comunicação, devendo, dentro do mesmo prazo, ser publicadas na Ordem à Força Aérea.
+2.º A alínea b) do artigo 66.º do Estatuto do Oficial da Força Aérea é alterada como se indica:
+a) A subalínea 19) passa a ter a seguinte redacção:
+No termo do prazo de dois anos a que se refere o n.º 1 do artigo 142.º, não satisfaçam à 3.ª condição geral de promoção, até que atinjam o limite de idade estabelecido para o seu quadro e posto para a passagem à reserva.
+b) É aditada a subalínea 20), do seguinte teor:
+Sejam abrangidos por outras disposições legais que expressamente o determinem.
+3.º A subalínea 3) da alínea c) do n.º 1 do artigo 70.º passa a ter a seguinte redacção:
+Revelem não possuir capacidade para o desempenho das funções que competem ao posto imediato, salvo o disposto no n.º 1 do artigo 142.º
+4.º Considera-se revogado o artigo 197.º do Estatuto do Oficial da Força Aérea.
+Estado-Maior da Força Aérea, 20 de Fevereiro de 1981. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.
