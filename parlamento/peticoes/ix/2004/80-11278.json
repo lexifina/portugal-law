@@ -1,0 +1,341 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11278",
+  "numero": "80",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2004-03-25",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2004-06-16",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2004-04-28",
+        "DataArquivo": "2004-09-28",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2004-10-14",
+        "DataReaberta": "2004-04-28",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2004-03-25",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764d54424252464a514c305276593356745a57353062334e515a585270593246764c3251314d7a41354f4441324c5445784e6a59744e44686d5a6931695a5755314c546c694d575179596a67345957466d4d7935775a47593d&fich=d5309806-1166-48ff-bee5-9b1d2b88aaf3.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "111",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE AGRICULTURA, DESENVOLVIMENTO RURAL E PESCAS",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2004-04-28",
+            "gp": "PS",
+            "id": "733",
+            "motivoCessacao": null,
+            "nome": "Miguel Ginestal"
+          }
+        ],
+        "RelatorioFinal": [
+          "21889"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2004-12-09",
+    "Documentos": [
+      {
+        "DataDocumento": "2004-03-25",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d764e5446694e7a4d784f574574596d4e6b4f5330305a544e694c54686c596d49744f475a6d4d7a63774f47566a4d4446694c6e426b5a673d3d&fich=51b7319a-bcd9-4e3b-8ebb-8ff3708ec01b.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2004-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151297",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1305-1305"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1305?pgs=1305&org=PLC"
+              }
+            ],
+            "Sumario": "Pedido de adopção as medidas necessárias à reabertura do Matadouro de Viseu e ao apuramento de responsabilidades no processo de encerramento",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151298",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1306-1306"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1306?pgs=1306&org=PLC"
+              }
+            ],
+            "Sumario": "Pedido de adopção as medidas necessárias à reabertura do Matadouro de Viseu e ao apuramento de responsabilidades no processo de encerramento",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151299",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1306-1307"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1306?pgs=1306-1307&org=PLC"
+              }
+            ],
+            "Sumario": "Pedido de adopção as medidas necessárias à reabertura do Matadouro de Viseu e ao apuramento de responsabilidades no processo de encerramento",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151300",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1307-1307"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1307?pgs=1307&org=PLC"
+              }
+            ],
+            "Sumario": "Pedido de adopção as medidas necessárias à reabertura do Matadouro de Viseu e ao apuramento de responsabilidades no processo de encerramento",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11278",
+    "PetAssunto": "Solicitam a reabertura do matadouro de Viseu.",
+    "PetDataEntrada": "2004-03-25",
+    "PeticoesAssociadas": null,
+    "PetId": "11278",
+    "PetLeg": "IX",
+    "PetNr": "80",
+    "PetNrAssinaturas": "5003",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "186",
+        "obs": null,
+        "pag": [
+          "1305-1307"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-12-10",
+        "pubLeg": "IX",
+        "pubNr": "21",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1305?pgs=1305-1307&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "290883",
+        "obs": null,
+        "pag": [
+          "161-161"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-05-29",
+        "pubLeg": "IX",
+        "pubNr": "32",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/02/032/2004-05-29/161?pgs=161&org=PLC"
+      }
+    ]
+  }
+}
