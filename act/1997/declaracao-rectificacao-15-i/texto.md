@@ -1,0 +1,25 @@
+Declaração de Rectificação n.º 15-I/97
+Para os devidos efeitos se declara que a Resolução do Conselho de Ministros n.º 130/97, publicada no Diário da República, 1.ª série, n.º 176, de 1 de Agosto de 1997, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No Regulamento, artigo 2.º, onde se lê:
+«São susceptíveis de apoio no âmbito do presente Regime os projectos de investimento nas seguintes áreas:
+1) Entende-se por competitividade a capacidade da empresa desenvolver, de forma sustentável, uma relação de sucesso com a sua envolvente;
+2) Entende-se por investimento não directamente produtivo aquele que, não contribuindo directamente para o processo de criação de valor, permite à empresa melhorar significativamente a sua competitividade;
+3) Entende-se por rede de cooperação uma empresa pertencente a um conjunto de empresas sem relações de propriedade entre si para as quais desenvolve, com sinergias acrescidas, actividades comuns;
+4) Execução de investimentos não directamente produtivos que abordem, de forma integrada, os diversos factores de competitividade, com especial destaque para:
+a) Peritagens externas e investimentos associados com o objectivo de definir estratégias empresariais nos domínios da melhoria da qualidade, gestão, organização e utilização de sistemas avançados de telecomunicações;
+b) Planos de promoção e marketing, incluindo o lançamento de novos produtos;
+c) Investimentos para utilização e gestão de energias alternativas, sistemas de segurança e outras tecnologias ambientalmente favoráveis e eficientes;
+5) Implementação de programas estratégicos de investimento que, de forma integrada, associem aos investimentos não directamente produtivos investimentos produtivos complementares;
+6) Constituição de redes de cooperação empresarial numa óptica de desenvolvimento estratégico.»
+deve ler-se:
+«São susceptíveis de apoio no âmbito do presente Regime os projectos de investimento nas seguintes áreas:
+1) Execução de investimentos não directamente produtivos que abordem de forma integrada os diversos factores de competitividade, com especial destaque para:
+a) Peritagens externas e investimentos associados com o objectivo de definir estratégias empresariais nos domínios da melhoria da qualidade, gestão, organização e utilização de sistemas avançados de telecomunicações;
+b) Planos de promoção e marketing, incluindo o lançamento de novos produtos;
+c) Investimentos para utilização e gestão de energias alternativas, sistemas de segurança e outras tecnologias ambientalmente favoráveis e eficientes;
+2) Implementação de programas estratégicos de investimento que, de forma integrada, associem aos investimentos não directamente produtivos investimentos produtivos complementares;
+3) Constituição de redes de cooperação empresarial numa óptica de desenvolvimento estratégico;
+4) Entende-se por competitividade a capacidade da empresa desenvolver, de forma sustentável, uma relação de sucesso com a sua envolvente;
+5) Entende-se por investimento não directamente produtivo aquele que, não contribuindo directamente para o processo de criação de valor, permite à empresa melhorar significativamente a sua competitividade;
+6) Entende-se por rede de cooperação uma empresa pertencente a um conjunto de empresas sem relações de propriedade entre si para as quais desenvolve, com sinergias acrescidas, actividades comuns.»
+Secretaria-Geral da Presidência do Conselho de Ministros, 17 de Setembro de 1997. - O Secretário-Geral, Alexandre Figueiredo.
