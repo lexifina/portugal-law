@@ -1,0 +1,3 @@
+Despacho Normativo n.º 281/79
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e para alteração à tabela n.º 1 «Produtos fitofarmacêuticos», passam a ser autorizadas as capacidades das embalagens de 100 ml, 1 l e 25 l na comercialização de produtos fitofarmacêuticos com base em aldrina, cujo tipo de formulação é em concentrado para emulsão, com o teor de 400 g/l de substância activa, em substituição das constantes daquela tabela.
+Secretarias de Estado do Fomento Agrário e do Comércio Interno, 31 de Julho de 1979. - Pelo Secretário de Estado do Fomento Agrário, João Ribeiro Goulão, Secretário de Estado da Estruturação Agrária. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.
