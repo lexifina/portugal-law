@@ -1,0 +1,3 @@
+Despacho ministerial
+Considerando que após o despacho ministerial de 8 de Janeiro de 1940, publicado no Diário do Governo n.º 20, 1.ª série, de 24 do mesmo mês e ano, foram estabelecidas normas que permitem a desejada uniformidade na organização e marcha dos processos de concursos de admissão e promoção do pessoal dos quadros do Ministério, é revogado o referido despacho, pelo que, de futuro, serão os serviços interessados a formular directamente as propostas de abertura de concursos e a apresentar, para homologação, as respectivas listas provisórias, definitivas e de classificação.
+Ministério das Obras Públicas, 18 de Junho de 1969. - O Ministro das Obras Públicas, Rui Alves da Silva Sanches.
