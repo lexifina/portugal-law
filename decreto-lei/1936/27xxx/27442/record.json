@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/12/30601/19041904.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-12-31",
-  "in_force_basis": "publication day in the Diário da República (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário da República",
+  "text_status": "ocr",
   "source_sha256": "e9dec3537fc1533489e63da51c3a15ebc153f865b2a54ad2245e5032d3fe8bed",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.1,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "a051632734ad80168d487d7bc66a442f48c7a2f8df759a173346ab343b121fe5",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 215
 }
