@@ -1,0 +1,4 @@
+Portaria n.º 18597
+Considerando a necessidade de uma conveniente alimentação reforçada dos fuzileiros especiais, para a qual se mostram insuficientes os quantitativos em dinheiro estabelecidos para a generalidade dos ranchos das praças da Armada:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Marinha, nos termos da observação 36.ª introduzida pelo artigo 2.º do Decreto-Lei n.º 40734, de 23 de Agosto de 1956, nas tabelas de ração a géneros das praças da Armada, aprovadas pelo Decreto-Lei n.º 37893, de 22 de Julho de 1950, que os quantitativos em dinheiro a abonar aos ranchos dos fuzileiros especiais sejam aumentados de 80 por cento do valor dos fixados na tabela II das referidas tabelas de ração a géneros das praças da Armada.
+Ministérios das Finanças e da Marinha, 14 de Julho de 1961. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
