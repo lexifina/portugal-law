@@ -1,0 +1,12 @@
+Decreto-Lei n.º 45423
+Considerando que a Arquidiocese de Évora representou ao Governo no sentido de lhe ser cedido, a título definitivo, o antigo prédio militar n.º 2 de Vila Viçosa, denominado Quartel de Baixo (antigo Convento de Santo Agostinho), com o fundamento de que só depois de integrado no seu património poderá despender as importâncias necessárias para executar as obras de vulto de que aquele prédio ainda carece para melhor instalar a secção do Seminário Menor de Évora que ali funciona;
+Considerando que o Estado não necessita do referido prédio para os seus serviços e que, quanto a ele, se mantêm os fins que justificaram já a sua cessão a título precário;
+Considerando que a Arquidiocese está de acordo em que a igreja do antigo Convento, que é monumento nacional e panteão dos duques de Bragança, continuará a servir ao culto nas actuais condições;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo e gratuito, à Arquidiocese de Évora, o antigo prédio militar n.º 2 de Vila Viçosa, denominado Quartel de Baixo (antigo Convento de Santo Agostinho) e composto de primeiro e segundo pavimentos, claustro, cerca, casas térreas e pátio exterior, inscrito sob o artigo 174 da matriz predial urbana da freguesia de Nossa Senhora da Conceição, de Vila Viçosa.
+§ 1.º O prédio cedido poderá reverter para o domínio e posse do Estado por simples despacho ministerial se lhe for dada aplicação diferente daquela a que se destina.
+§ 2.º A cessão terá lugar por meio de auto a celebrar na Repartição de Finanças de Vila Viçosa e é isenta de impostos.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 11 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
