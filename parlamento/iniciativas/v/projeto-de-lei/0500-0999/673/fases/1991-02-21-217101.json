@@ -1,0 +1,1105 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "673",
+    "id": "28342",
+    "titulo": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1991-02-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4144",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1991-02-21",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1991-02-21",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159161",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1456-1459",
+                  "1462-1463"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1456?pgs=1456-1459,1462-1463&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159162",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1457-1458"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1457?pgs=1457-1458&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO DO MINISTRO PARA OS  ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Encarnaçao"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159163",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1458-1458"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1458?pgs=1458&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  SEGURANÇA  SOCIAL",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Vieira De Castro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159164",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1459-1459",
+                  "1469-1471"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1459?pgs=1459,1469-1471&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159165",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1459-1460"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1459?pgs=1459-1460&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1460-1460",
+                  "1471-1471"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1460?pgs=1460,1471&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159167",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1460-1461"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1460?pgs=1460-1461&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1461-1461"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1461?pgs=1461&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1464-1464"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1464?pgs=1464&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADMINISTRAÇÃO DE SAÚDE",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Pires"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1464-1465",
+                  "1467-1467"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1464?pgs=1464-1465,1467&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1465-1466"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1465?pgs=1465-1466&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1466-1466",
+                  "1476-1476"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1466?pgs=1466,1476&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1466-1466",
+                  "1477-1477"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1466?pgs=1466,1477&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1467-1467"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1467?pgs=1467&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1460-1460",
+                  "1467-1467",
+                  "1476-1477"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1460?pgs=1460,1467,1476-1477&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1468-1469",
+                  "1471-1471"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1468?pgs=1468-1469,1471&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADMINISTRAÇÃO DE SAÚDE",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Pires"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159177",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1469-1469"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1469?pgs=1469&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159178",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1470-1470"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1470?pgs=1470&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159179",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1472-1473"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1472?pgs=1472-1473&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159180",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1473-1478"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1473?pgs=1473-1478&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159181",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1475-1475"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1475?pgs=1475&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159182",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1478-1479"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1478?pgs=1478-1479&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159183",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1479-1480"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1479?pgs=1479-1480&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159184",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1480-1480"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-22",
+                "pubLeg": "V",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22/1480?pgs=1480&org=PLC"
+              }
+            ],
+            "sumario": "Lei quadro de benefícios a pensionistas em risco de consumo acrescido de medicamentos e outros bens de saúde",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "217101",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4144",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-02-22",
+        "pubLeg": "V",
+        "pubNr": "45",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/045/1991-02-22?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
