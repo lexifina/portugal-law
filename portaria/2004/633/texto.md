@@ -1,0 +1,13 @@
+Portaria n.º 633/2004
+de 14 de Junho
+Pela Portaria n.º 644/92, de 7 de Julho, foi concessionada à MULTICAÇA - Sociedade Turística, Lda., a zona de caça turística da Herdade do Chacim e anexas (processo n.º 1010-DGF), situada no município de Elvas, válida até 7 de Julho de 2004.
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+Cumpridos os preceitos legais, com fundamento no disposto no n.º 8 do artigo 44.º, em articulação com o disposto na alínea a) do n.º 2 do artigo 36.º, e no n.º 2 do artigo 114.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, e ouvido o Conselho Cinegético Municipal:
+Manda o Governo, pelos Ministros da Economia, da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente, o seguinte:
+1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística da Herdade do Chacim e anexas (processo n.º 1010-DGF), abrangendo vários prédios rústicos sitos nas freguesias de Caia e São Pedro e São Vicente, município de Elvas, com uma área de 1379 ha, conforme planta anexa à presente portaria e que dela faz parte integrante e que exprime uma redução de área concessionada de 9 ha.
+2.º A Direcção-Geral do Turismo emitiu, ao abrigo do disposto no n.º 3 do artigo 34.º do citado diploma, parecer favorável condicionado à aprovação do projecto de arquitectura do pavilhão de caça, apresentado em 15 de Julho de 2003, à conclusão da obra no prazo de 12 meses a contar da data de notificação da aprovação do projecto e à verificação da conformidade da obra com o projecto aprovado.
+3.º Poderão ser criadas zonas de interdição à caça durante o período da concessão, até um máximo de 10% da área da zona de caça, sem direito a qualquer indemnização, sempre que sejam introduzidas alterações de condicionantes por planos especiais de ordenamento do território de áreas protegidas ou obtidos dados científicos que comprovem a incompatibilidade com a actividade cinegética.
+4.º A presente portaria produz efeitos a partir do dia 8 de Julho de 2004.
+Pelo Ministro da Economia, Luís Manuel Miguel Correia da Silva, Secretário de Estado do Turismo, em 15 de Abril de 2004. - Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 12 de Abril de 2004. - Pelo Ministro das Cidades, Ordenamento do Território e Ambiente, Joaquim Paulo Taveira de Sousa, Secretário de Estado do Ordenamento do Território, em 17 de Maio de 2004.
+
+(ver planta no documento original)
