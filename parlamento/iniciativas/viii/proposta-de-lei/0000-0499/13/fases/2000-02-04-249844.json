@@ -1,0 +1,451 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "13",
+    "id": "6262",
+    "titulo": "Altera o Artigo 69° n°2 da Lei n°16/98 de 8 de Abril que regula a estrutura e funcionamento do Centro de Estudos Judiciários e introduz um regime excepcional de afectação de Magistrados Judiciais Jubilados"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-02-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5907",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-02-04",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-02-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28979",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1378-1379"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-05",
+                "pubLeg": "VIII",
+                "pubNr": "36",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/036/2000-02-05/1378?pgs=1378-1379&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O ART.69, N.2 DA LEI 69/98, DE 8 DE ABRIL, QUE REGULAA ESTRUTURA E FUNCIONAMENTO DO CENTRO DE ESTUDOS JUDICIARIOSE INTRODUZ UM REGIME EXCEPCIONAL DE AFECTACAO DE MAGISTRADOSJUBILADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28980",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1377-1377"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-05",
+                "pubLeg": "VIII",
+                "pubNr": "36",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/036/2000-02-05/1377?pgs=1377&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O ART.69, N.2 DA LEI 69/98, DE 8 DE ABRIL, QUE REGULAA ESTRUTURA E FUNCIONAMENTO DO CENTRO DE ESTUDOS JUDICIARIOSE INTRODUZ UM REGIME EXCEPCIONAL DE AFECTACAO DE MAGISTRADOSJUBILADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28981",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1375-1378"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-05",
+                "pubLeg": "VIII",
+                "pubNr": "36",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/036/2000-02-05/1375?pgs=1375-1378&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O ART.69, N.2 DA LEI 69/98, DE 8 DE ABRIL, QUE REGULAA ESTRUTURA E FUNCIONAMENTO DO CENTRO DE ESTUDOS JUDICIARIOSE INTRODUZ UM REGIME EXCEPCIONAL DE AFECTACAO DE MAGISTRADOSJUBILADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1436",
+                "nome": "Joaquim Sarmento"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28982",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1374-1375"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-05",
+                "pubLeg": "VIII",
+                "pubNr": "36",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/036/2000-02-05/1374?pgs=1374-1375&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O ART.69, N.2 DA LEI 69/98, DE 8 DE ABRIL, QUE REGULAA ESTRUTURA E FUNCIONAMENTO DO CENTRO DE ESTUDOS JUDICIARIOSE INTRODUZ UM REGIME EXCEPCIONAL DE AFECTACAO DE MAGISTRADOSJUBILADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28983",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1372-1374"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-05",
+                "pubLeg": "VIII",
+                "pubNr": "36",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/036/2000-02-05/1372?pgs=1372-1374&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O ART.69, N.2 DA LEI 69/98, DE 8 DE ABRIL, QUE REGULAA ESTRUTURA E FUNCIONAMENTO DO CENTRO DE ESTUDOS JUDICIARIOSE INTRODUZ UM REGIME EXCEPCIONAL DE AFECTACAO DE MAGISTRADOSJUBILADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28984",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1371-1371"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-05",
+                "pubLeg": "VIII",
+                "pubNr": "36",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/036/2000-02-05/1371?pgs=1371&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O ART.69, N.2 DA LEI 69/98, DE 8 DE ABRIL, QUE REGULAA ESTRUTURA E FUNCIONAMENTO DO CENTRO DE ESTUDOS JUDICIARIOSE INTRODUZ UM REGIME EXCEPCIONAL DE AFECTACAO DE MAGISTRADOSJUBILADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28985",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1370-1370"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-05",
+                "pubLeg": "VIII",
+                "pubNr": "36",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/036/2000-02-05/1370?pgs=1370&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O ART.69, N.2 DA LEI 69/98, DE 8 DE ABRIL, QUE REGULAA ESTRUTURA E FUNCIONAMENTO DO CENTRO DE ESTUDOS JUDICIARIOSE INTRODUZ UM REGIME EXCEPCIONAL DE AFECTACAO DE MAGISTRADOSJUBILADOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "12:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28986",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1368-1372",
+                  "1379-1380"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-05",
+                "pubLeg": "VIII",
+                "pubNr": "36",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/036/2000-02-05/1368?pgs=1368-1372,1379-1380&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O ART.69, N.2 DA LEI 69/98, DE 8 DE ABRIL, QUE REGULAA ESTRUTURA E FUNCIONAMENTO DO CENTRO DE ESTUDOS JUDICIARIOSE INTRODUZ UM REGIME EXCEPCIONAL DE AFECTACAO DE MAGISTRADOSJUBILADOS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "249844",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5907",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-02-05",
+        "pubLeg": "VIII",
+        "pubNr": "36",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/036/2000-02-05?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
