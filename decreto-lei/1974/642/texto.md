@@ -1,0 +1,44 @@
+Decreto-Lei n.º 642/74
+de 20 de Novembro
+Graves situações anómalas ao nível das gerências das empresas públicas Correios e Telecomunicações de Portugal e Telefones de Lisboa e Porto levaram o Governo a adoptar as medidas de emergência consignadas no Decreto-Lei n.º 244/74, de 7 de Junho.
+Considera agora o Governo que, muito embora subsistam algumas dificuldades, se impõe o restabelecimento da normalidade de gestão, de forma que possa ser levada a cabo a reestruturação do sector, a qual reflectirá os princípios fundamentais informadores da política de correios e telecomunicações, já definida a nível governamental. Nesta conformidade, instituem-se novamente os órgãos sociais das empresas, excepção feita ao conselho geral, por ainda não ser possível definir com segurança a melhor forma de aí representar os interesses dos utentes.
+Por outro lado, elimina-se desde já a figura do administrador não executivo por se considerar a sua actuação como pouco eficaz.
+Fazem-se ainda algumas adaptações absolutamente indispensáveis ao esquema legal agora utilizado.
+De qualquer forma, as alterações introduzidas destinam-se apenas a permitir à nova gestão atingir com segurança os objectivos anunciados pelo Governo.
+Nestes termos:
+Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º - 1. São extintos o conselho de gerência e o conselho de fiscalização das empresas públicas Correios e Telecomunicações de Portugal e Telefones de Lisboa e Porto.
+2. Em sua substituição são instituídos o conselho de administração e o conselho fiscal previstos no Decreto-Lei n.º 49368, com as alterações constantes dos Decretos-Leis n.os 26/71 e 5/73, e no anexo ao Decreto-Lei n.º 48007, com as alterações introduzidas pelo Decreto-Lei n.º 49368.
+Art. 2.º Os artigos 9.º, 11.º, 12.º, 13.º e 14.º do anexo 1 ao Decreto-Lei n.º 49368, de 10 de Novembro de 1969, com as alterações constantes dos Decretos-Leis n.os 26/71, de 5 de Fevereiro, e 5/73, de 5 de Janeiro, passam a ter a seguinte redacção:
+Art. 9.º - 1. O conselho de administração é composto por um presidente e por seis administradores, todos isentos de caução e nomeados pelo período de três anos, renovável por iguais períodos.
+2. O presidente será nomeado por portaria subscrita pelo Ministro do Equipamento Social e do Ambiente precedendo resolução do Conselho de Ministros.
+3. Todos os administradores serão executivos.
+4. Os administradores serão nomeados por portaria conjunta do Ministro do Equipamento Social e do Ambiente e do Secretário de Estado dos Transportes e Comunicações.
+5. ...
+Art. 11.º - 1. ...
+2. ...
+3. O conselho de administração poderá delegar, no todo ou em parte, em qualquer dos seus membros os poderes que lhe são conferidos nos números anteriores.
+4. Nos regulamentos internos poderão ser desconcentrados poderes sempre sob reserva da superintendência do conselho de administração, para o qual será assegurado recurso hierárquico.
+5. ...
+Art. 12.º As delegações do conselho de administração estabelecerão, quando necessário, os limites e termos do exercício dos poderes delegados e especificarão quais os actos que terão de ser deliberados em reunião do conselho de administração, sendo os restantes decididos por despacho dos membros dele.
+Art. 13.º - 1. Compete ao presidente:
+a) Coordenar a acção do conselho de administração, dos dirigentes e dos serviços da empresa;
+b) ...
+c) ...
+d) ...
+e) ...
+f) ...
+2. O presidente poderá delegar nos administradores qualquer dos poderes da sua competência.
+3. Nas suas faltas o presidente é substituído pelo administrador designado pelo Secretário de Estado dos Transportes e Comunicações, sob proposta do conselho de administração.
+Art. 14.º - 1. ...
+2. O presidente será nomeado por portaria conjunta do Secretário de Estado do Tesouro e do Secretário de Estado dos Transportes e Comunicações, precedendo resolução do Conselho de Ministros.
+3. Os vogais serão nomeados por portaria conjunta dos Secretários de Estado do Tesouro e dos Transportes e Comunicações, escolhidos, de preferência, entre indivíduos com curso superior adequado.
+Art. 3.º É revogado o artigo 10.º do Decreto-Lei n.º 49368, de 10 de Novembro de 1969.
+Art. 4.º Todas as funções atribuídas pelos estatutos ao correio-mor e à comissão executiva passam a pertencer, respectivamente, ao presidente e ao conselho de administração.
+Art. 5.º As funções que incumbiam ao conselho geral de ambas as empresas continuarão a ser exercidas pelo Governo, ainda que a título transitório.
+Art. 6.º É revogado o Decreto-Lei n.º 244/74, de 7 de Junho.
+Art. 7.º Este diploma entra imediatamente em vigor.
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - José Augusto Fernandes.
+Promulgado em 13 de Novembro de 1974.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
