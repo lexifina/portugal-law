@@ -1,0 +1,3 @@
+Resolução n.º 406-A
+O Conselho de Ministros, reunido em 11 de Dezembro de 1980, resolveu, nos termos dos artigos 1.º, 2.º e 15.º do tratado entre a República Federal da Alemanha e a República Portuguesa relativo à extradição e à assistência judiciária em matéria penal, deferir o pedido de extradição apresentado pelas autoridades da República Federal da Alemanha referente ao seu súbdito Marcel Albert Louis Pabst, condenado como autor de vários crimes de furto e um de ofensas corporais.
+Presidência do Conselho de Ministros, 11 de Dezembro de 1980. - O Vice-Primeiro-Ministro, Diogo Pinto de Freitas do Amaral.
