@@ -1,0 +1,46 @@
+Decreto-Lei n.º 219/2000
+de 9 de Setembro
+Em 1994 foi criada a Portugal Telecom, S. A., por fusão da Telecom Portugal, S. A., dos Telefones de Lisboa e Porto, S. A., e da Teledifusora de Portugal, S. A.
+Como então se explicitou no Decreto-Lei n.º 122/94, de 14 de Maio, visava-se a existência no País de um operador de telecomunicações forte, dotado da dimensão e da estrutura necessárias à prestação de serviços com diversidade e qualidade.
+No ano seguinte foram aprovadas as Bases da Concessão do Serviço Público de Telecomunicações, pelo Decreto-Lei n.º 40/95, de 15 de Fevereiro, e celebrado o respectivo contrato com a Portugal Telecom, S. A.
+A partir de 1995 ficou assim definido o modelo empresarial do operador de telecomunicações nacional, bem como o seu quadro de direitos e obrigações, especialmente no que tocava ao alcance e conteúdo do serviço público de telecomunicações que competia ao Estado garantir.
+Já então se equacionava e assumia quer a privatização de capital da empresa, quer a evolução do sector para «os novos tempos da concorrência aberta».
+Nos últimos anos a Portugal Telecom, S. A., foi reformulando a sua estrutura empresarial e de grupo, através da criação e separação de diferentes áreas de negócio, bem como da distinção entre actividade operacional e de gestão de participações sociais.
+Pretende agora a empresa, naturalmente através da vontade expressa dos seus órgãos sociais, dar mais um passo na sua reestruturação e que consiste em fazer encabeçar o grupo por uma sociedade gestora de participações sociais, a futura Portugal Telecom, SGPS, S. A., dotando-o de maior flexibilidade e criando condições para o reforço da competitividade das suas empresas.
+Tal operação passa também pela constituição de uma nova sociedade, a PT Comunicações, S. A., a qual assumirá todo o conjunto de direitos e obrigações da concessionária do serviço público de telecomunicações.
+Está-se assim em presença de um acto que reclama intervenção legislativa, através do qual o Estado aceita e autoriza a transmissão da posição contratual da concessionária Portugal Telecom, S. A., para a PT Comunicações, S. A.
+Ao Governo compete exercer as suas competências no sentido de garantir que desta transmissão em nada saiam alterados os termos e enquadramento da prestação do serviço público de telecomunicações, actualmente disponibilizado pela concessionária.
+Neste âmbito rodeia-se das necessárias garantias o processo de transferência para a PT Comunicações, S. A., da rede básica de telecomunicações e de todos os meios afectos à concessão, nos termos da Lei de Bases das Telecomunicações, Lei n.º 91/97, de 1 de Agosto, e do Decreto-Lei n.º 40/95, de 15 de Fevereiro.
+Com a presente medida legislativa está o Governo seguro de dotar a nova concessionária das condições e meios necessários para obter sucesso no desenvolvimento das suas actividades, as quais envolvem a prestação dos serviços de telecomunicações que compete ao Estado garantir.
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+É aprovada a operação de reestruturação empresarial mediante a qual a Portugal Telecom, S. A.:
+a) Constituirá uma nova sociedade, denominada «PT Comunicações, S. A.», para a qual transferirá, por destaque, nos termos do artigo 62.º-B do Código do Imposto sobre o Rendimento das Pessoas Colectivas, os meios activos e passivos afectos às suas actividades operacionais, que têm por objecto principal o estabelecimento, a gestão e a exploração das infra-estruturas de telecomunicações, a prestação do serviço público de telecomunicações e de outros serviços de telecomunicações, bem como o exercício de quaisquer actividades complementares, subsidiárias ou acessórias daquelas, assumindo a PT Comunicações, S. A., no que se refere aos passivos relacionados com o financiamento obtido pela Portugal Telecom, S. A., e destinados a financiar os investimentos efectuados em infra-estruturas que constituem rede básica de telecomunicações constantes do seu balanço a 31 de Dezembro de 1999, uma dívida de montante e condições equivalentes para com a Portugal Telecom, S. A.;
+b) Procederá à alteração dos seus estatutos, adoptando a denominação de Portugal Telecom, SGPS, S. A., e a forma e o objecto de sociedade gestora de participações sociais, a cujo regime específico ficará sujeita;
+c) Fundir-se-á, posteriormente, com a PT Investimentos, SGPS, S. A.
+Artigo 2.º
+1 - A constituição da sociedade referida na alínea a) do artigo anterior reger-se-á pelas normas aplicáveis do Código das Sociedades Comerciais com as adaptações constantes dos números seguintes.
+2 - O conselho de administração da Portugal Telecom, S. A., elaborará relação na qual os activos e passivos afectos à actividade operacional serão identificados, por reporte ao último balanço aprovado, incluindo a dívida da PT Comunicações, S. A., para com aquela empresa, sendo também elaborada uma relação discriminativa de todos os bens, direitos e obrigações que permanecem na esfera jurídica da Portugal Telecom, S. A.
+3 - A relação a que se refere o número anterior deverá:
+a) Ser apreciada pelo conselho fiscal da Portugal Telecom, S. A.;
+b) Ser objecto de relatório elaborado por um revisor oficial de contas, ou sociedade de revisores oficiais de contas, independente, para efeitos, com as devidas adaptações, do disposto no artigo 28.º, n.os 1 a 4, do Código das Sociedades Comerciais;
+c) Ser objecto de aprovação, por despacho conjunto do Ministro do Equipamento Social e do Ministro das Finanças.
+4 - A PT Comunicações, S. A., considera-se constituída com a deliberação da assembleia geral da Portugal Telecom, S. A., onde são aprovados os respectivos estatutos e os documentos referenciados no número anterior, os quais com a acta da respectiva deliberação serão título suficiente para o pertinente registo.
+5 - A partir do registo da PT Comunicações, S. A., considera-se para ela transferido todo o acervo patrimonial (activo e passivo) e todos e quaisquer outros direitos e obrigações da titularidade da Portugal Telecom, S. A., que nela não tenham permanecido, em conformidade com o definido no n.º 2 deste artigo, sendo todas as operações referidas a este acervo consideradas, do ponto de vista contabilístico, efectuadas por conta desta sociedade desde 1 de Janeiro de 2000, data à qual são reportados os activos transferidos.
+6 - O presente diploma é título bastante para a comprovação do disposto no número anterior, para todos os efeitos legais, incluindo os de registo.
+7 - A Portugal Telecom, SGPS, S. A., será responsável, em termos idênticos ao previsto no artigo 501.º do Código das Sociedades Comerciais para as sociedades directoras, pelas obrigações da Portugal Telecom, S. A., que forem transferidas para a PT Comunicações, S. A.
+8 - A PT Comunicações, S. A., responderá solidariamente com a Portugal Telecom, SGPS, S. A., pelas obrigações desta sociedade de que anteriormente tenha sido titular a Portugal Telecom, S. A.
+Artigo 3.º
+1 - Os trabalhadores e pensionistas da Portugal Telecom, S. A., serão transferidos para a PT Comunicações, S. A., mantendo todos os direitos e obrigações de que forem titulares na data da constituição desta sociedade, designadamente os baseados nos artigos 5.º, 6.º e 7.º do Decreto-Lei n.º 122/94, de 14 de Maio.
+2 - Os regimes jurídicos aplicáveis por virtude do disposto no n.º 3 do artigo 5.º do Decreto-Lei n.º 122/94, de 14 de Maio, continuarão a produzir efeitos relativamente aos trabalhadores, pensionistas e beneficiários abrangidos por esses regimes.
+3 - As relações entre a Caixa Geral de Aposentações e a PT Comunicações, S. A., reger-se-ão pelo artigo 25.º do Decreto-Lei n.º 36610, de 24 de Novembro de 1947, relativamente aos trabalhadores da PT Comunicações, S. A., oriundos dos CTT - Correios e Telecomunicações de Portugal, E. P.
+Artigo 4.º
+1 - É autorizada a transferência para a PT Comunicações, S. A., da posição contratual de concessionária de serviço público de telecomunicações de que a Portugal Telecom, S. A., é titular, por força do Decreto-Lei n.º 40/95, de 15 de Fevereiro, e do contrato de concessão de 20 de Março de 1995.
+2 - Com a constituição da PT Comunicações, S. A., é para ela transferido, nos termos do n.º 5 do artigo 2.º, o acervo patrimonial aí descrito, o qual abrange todos os direitos e obrigações constantes do contrato de concessão de 20 de Março de 1995, ou inerentes, por força de lei ou qualquer outro título, à posição jurídica da concessionária, os quais se considerarão para todos os efeitos transmitidos para a PT Comunicações, S. A., independentemente de quaisquer outros condicionamentos ou formalidades.
+3 - Relativamente à transmissão para a PT Comunicações, S. A., de posições contratuais compreendidas no número anterior, o presente diploma não poderá ser considerado como alteração das circunstâncias relativamente aos respectivos contratos.
+Visto e aprovado em Conselho de Ministros de 27 de Julho de 2000. - Jaime José Matos da Gama - Luís Manuel Ferreira Parreirão Gonçalves - Manuel Pedro da Cruz Baganha - Diogo Campos Barradas de Lacerda Machado.
+Promulgado em 23 de Agosto de 2000.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 1 de Setembro de 2000.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
