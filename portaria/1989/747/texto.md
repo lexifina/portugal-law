@@ -1,0 +1,46 @@
+Portaria n.º 747/89
+de 31 de Agosto
+Sob proposta da Universidade da Beira Interior; Tendo em vista o disposto na Portaria n.º 618/89, de 4 de Agosto;
+Ao abrigo do disposto no artigo 7.º do Decreto-Lei n.º 155/89, de 11 de Maio, e no Decreto-Lei n.º 173/80, de 29 de Maio:
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+1.º
+Organização
+O curso de licenciatura em Química Industrial, criado pela Portaria n.º 618/89, de 4 de Agosto, na Universidade da Beira Interior, adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.
+2.º
+Estrutura curricular
+Os elementos a que se refere o n.º 2 do artigo 2.º do Decreto-Lei n.º 173/80, de 29 de Maio, são os constantes do anexo a esta portaria.
+3.º
+Plano de estudos
+1 - O plano de estudos do curso será fixado por despacho, a publicar na 2.ª série do Diário da República, nos termos dos artigos 4.º e 5.º do Decreto-Lei n.º 173/80, de 29 de Maio.
+2 - Do despacho a que se refere o n.º 1 constarão igualmente os coeficientes de ponderação a que se refere o n.º 5.º
+4.º
+Disciplinas de opção
+1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de dez.
+2 - Exceptuem-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas de serviço de aulas a que é obrigado por lei.
+3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.
+5.º
+Classificação final
+1 - A classificação final do curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares em que o aluno realizou os créditos necessários à satisfação do disposto no anexo a esta portaria.
+2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico.
+6.º
+Entrada em funcionamento
+O funcionamento do curso terá início progressivamente, um ano curricular em cada ano lectivo, a partir do ano lectivo de 1989-1990, inclusive.
+Ministério da Educação.
+Assinada em 7 de Agosto de 1989.
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
+
+ANEXO
+Licenciatura em Química Industrial
+1 - Área científica do curso - Química.
+2 - Duração normal do curso - cinco anos lectivos.
+3 - Número total mínimo de unidades de crédito necessário à concessão do grau - 160.
+4 - Áreas científicas e distribuição das unidades de crédito:
+4.1 - Áreas científicas obrigatórias:
+a) Química ... 76
+b) Matemática e Informática ... 29
+c) Física e Electrónica ... 23
+d) Economia e Gestão ... 6
+4.2 - Áreas científicas optativas:
+a) Química ... 4
+b) Matemática e Informática ... 4
+4.3 - Projecto ... 22
