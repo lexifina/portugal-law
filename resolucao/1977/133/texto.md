@@ -1,0 +1,15 @@
+Resolução n.º 133/77
+Considerando que, por resolução do Conselho de Ministros datada de 9 de Maio de 1975, publicada no Diário do Governo, de 21 de Maio de 1975, foi determinada a intervenção do Estado na SIAF - Sociedade de Iniciativa e Aproveitamentos Florestais, S. A. R. L., ao abrigo do Decreto-Lei n.º 660/74, de 25 de Novembro;
+Considerando que, para os efeitos do Decreto-Lei n.º 907/76, de 31 de Dezembro, por despacho conjunto dos Ministros do Plano e Coordenação Económica, das Finanças e da Indústria e Tecnologia, publicado no Diário da República, 2.ª série, de 28 de Março de 1977, foi nomeada uma comissão interministerial que apresentou um relatório sobre a empresa, nos termos previstos no diploma legal atrás citado, e para elaboração do qual procedeu à audiência das partes interessadas, nomeadamente dos trabalhadores, através da respectiva comissão;
+Considerando que o relatório mencionado no número anterior refere que:
+A SIAF é uma empresa de relevante importância na economia nacional;
+Conforme consta do relatório do administrador por parte do Estado, não foram detectadas irregularidades no período anterior à intervenção do Estado;
+A empresa, embora com estrutura financeira desequilibrada, tem viabilidade económica;
+A SIAF é uma sociedade anónima em que o accionista maioritário, o grupo sueco Svensk Tandstiks Aktiebolaget (STAB), detém 53% do capital social e o Estado, através das acções detidas por empresas nacionalizadas (Banco Espírito Santo e Comercial de Lisboa e Companhia de Seguros Tranquilidade) tem uma participação de 22,5%;
+Existem estreitas relações e interdependências entre a SIAF e a Sociedade Nacional de Fósforos, S. A. R. L., quer por esta ser accionista da primeira, quer por em ambas a maioria do capital social ser detida pela STAB;
+O Estado tem uma participação de 25% no capital social da Sociedade Nacional de Fósforos, S. A. R. L., através da Fazenda Pública.
+O Conselho de Ministros, reunido em 8 de Junho de 1977, resolveu:
+a) Determinar, com efeitos a partir de 15 de Junho de 1977, a cessação da intervenção do Estado na SIAF - Sociedade de Iniciativa e Aproveitamentos Florestais, S. A. R. L., instituída ao abrigo do Decreto-Lei n.º 660/74, de 25 de Novembro, e a sua restituição aos respectivos titulares, conforme previsto na alínea d) do n.º 1 do artigo 24.º do Decreto-Lei n.º 422/76, de 29 de Maio;
+b) Exonerar, a partir da mesma data, o administrador por parte do Estado, nomeado por resolução do Conselho de Ministros de 14 de Outubro de 1976, publicada no Diário da República, de 11 de Dezembro de 1976;
+c) Contando-se entre os titulares da empresa o próprio Estado, que, através de empresas nacionalizadas, detém 22,5% do capital social, competirá ao Instituto de Participações do Estado a nomeação de um administrador, que desempenhará, em acumulação, iguais funções na empresa associada Sociedade Nacional de Fósforos, S. A. R. L.
+Presidência do Conselho de Ministros, 8 de Junho de 1977. - O Primeiro-Ministro, Mário Soares.
