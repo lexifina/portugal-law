@@ -1,0 +1,37 @@
+# Acórdão do Tribunal da Relação de Guimarães de 2004-01-26, processo 1768/03-2
+
+**Acórdãos TRG:** Acórdão do Tribunal da Relação de Guimarães
+
+**Processo:** 1768/03-2
+
+**Relator:** ANSELMO LOPES
+
+**Descritores:** FUNDAMENTAÇÃO; NULIDADE DE SENTENÇA; INCONSTITUCIONALIDADE; CONHECIMENTO OFICIOSO
+
+**Nº do Documento:** RG
+
+**Data do Acordão:** 01/26/2004
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** RECURSO PENAL
+
+## Sumário
+
+I – Se uma decisão não convence minimamente dos caminhos seguidos para a resposta que se lhe deu, tal decisão é nula, nos termos do artº 379º, nº 1, al. a) do C.P.Penal.
+
+II - Mais que nula, tal sentença está afectada de inconstitucionalidade, porquanto nada fundamenta, como o exige o artº 205º, nº 1 da Constituição da República Portuguesa, cujo princípio entronca naquele mais geral que é o direito de defesa previsto no artº 32º, nº 1, com a força jurídica estabelecida no artº 18º e cujo conhecimento se impõe ao Tribunal de recurso, ao abrigo do artº 204º do mesmo diploma.
+
+III - Fundamentar, ao nível gnoseológico, é partilhar com os outros os factos e os raciocínios que subjazem a determinada proposição, sob pena de o arbítrio e a discricionaridade não terem qualquer controle. Fundamentar, ao nível processual, é assumir, para si e perante os outros, a responsabilidade do acto que se pratica, convencendo da sua justeza e imparcialidade.
+
+IV – Por isso, uma sentença não fundamentada é o mesmo que uma sentença caprichosa, pois é segredo para os outros e apenas está (estará) fundamentada na mente do seu autor.
+
+V - Como diz Alcindo Ferreira dos Reis - O Crime de Abuso de Confiança Fiscal (Ou a Razão de Estado contra a Razão da Verdade), Anexo IV, Ed. Vida Económica, 356 -, “a decisão que não cumpre o dever de fundamentar - que não podemos nem devemos confundir com o humano risco de errar - não é uma decisão jurídica mas uma decisão pessoal, antijurídica e abusiva”.
+
+VII - O vício em apreço não está - nem poderia estar - incluído no elenco das nulidades insanáveis, pois se trata de um vício maior, que diz respeito à própria substância da decisão.
+
+VIII - As nulidades previstas na lei são simples vícios processuais, como facilmente se extrai do artº 118º: a violação ou a inobservância das disposições da lei do processo penal ... Isto é, para além delas, existe um sem número de situações, de raiz substantiva, em que uma decisão pode ser nula e assim acontece, em especial, quando são afectados direitos e garantias constitucionalmente consagrados.
