@@ -1,0 +1,9 @@
+Portaria n.º 931/2003
+de 3 de Setembro
+Pela Portaria n.º 780/2002, de 2 de Julho, foi suspenso o exercício da caça e actividades de carácter venatório na zona de caça associativa de Carvalhais (processo n.º 1252-DGF), situada no município da Figueira da Foz, com a área de 1085 ha, concessionada ao Clube de Caçadores do Sul do Mondego, com base na falta de pagamento da taxa anual que é devida às zonas de caça associativas e turísticas, tendo sido determinado o prazo de 90 dias para a entidade concessionária suprir a falta que determinou a suspensão.
+Considerando que se encontra ultrapassado o prazo determinado no n.º 2 do artigo 12.º da Portaria n.º 1391/2002, de 25 de Outubro, sem que para tanto tenha sido suprida a falta origem da suspensão;
+Considerando que se revelaram infrutíferas todas as diligências com a entidade gestora;
+Considerando que, nos termos da alínea b) do n.º 1 do artigo 47.º e da alínea b) do n.º 1 do artigo 38.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, a falta que determinar a suspensão, se não suprida, igualmente pode constituir causa de revogação:
+Assim, com fundamento no disposto na alínea b) do n.º 1 do artigo 47.º e na alínea b) do n.º 1 do artigo 38.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro:
+Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, que seja revogada a concessão da zona de caça associativa de Carvalhais (processo n.º 1252-DGF), atribuída pela Portaria n.º 722-E1/92, de 15 de Julho, ao Clube de Caçadores do Sul do Mondego.
+Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 14 de Agosto de 2003.
