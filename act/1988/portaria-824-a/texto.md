@@ -1,0 +1,14 @@
+Portaria n.º 824-A/88
+de 28 de Dezembro
+Não tendo sido possível, em tempo útil, aplicar o procedimento previsto no n.º 2.º da Portaria n.º 805-E/88, de 15 de Dezembro, torna-se necessário estabelecer um regime alternativo que atinja os mesmos objectivos, ou seja, não penalizar os utentes que residem em ilhas da Região Autónoma dos Açores não servidos directamente de ligações com o continente e repartir os encargos de uma tarifa comum a toda a região pelos transportadores nacional e regional.
+Exceptuam-se deste regime de tarifa comum os utentes que prefiram utilizar um transporte não directo para o seu destino, nos casos em que tal destino seja suficientemente servido em ligações directas.
+Nestes termos, após consulta prévia aos órgãos de governo próprios da Região Autónoma dos Açores:
+Manda o Governo, pelos Ministros das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo, ao abrigo do disposto no Decreto-Lei n.º 276/87, de 4 de Julho, e nos termos do Decreto-Lei n.º 260/76, de 8 de Abril, na redacção dada pelos Decretos-Leis n.os 25/79, de 15 de Fevereiro, e 29/84, de 20 de Janeiro, o seguinte:
+1.º As tarifas relativas ao transporte de passageiros entre Lisboa (ou Madeira), por um lado, e pontos nos Açores não especificados na Portaria n.º 805-E/88, de 15 de Dezembro, serão idênticas às que foram estabelecidas na referida portaria para as ligações entre Lisboa (ou Madeira) e Ponta Delgada, Terceira ou Horta.
+2.º Caberá ao transportador que efectue o transporte entre ilhas dos Açores, incluído nos serviços a que respeitam as tarifas atrás citadas, uma receita correspondente a 74% da tarifa local aplicável à data da entrada em vigor da Portaria n.º 805-E/88, de 15 de Dezembro, cabendo ao transportador que efectue o transporte entre o continente e o ponto de entrada nos Açores o saldo remanescente das tarifas definidas na presente portaria.
+3.º Será aplicável ao transporte entre Lisboa e Horta, via Terceira ou Ponta Delgada, a regra de rateio definida no n.º 2.º
+4.º As tarifas entre Lisboa e Ponta Delgada, em ligações via Terceira ou Horta, e entre Lisboa e Terceira, em ligações via Ponta Delgada ou Horta, envolvendo o transportador que efectue serviços aéreos no interior dos Açores, serão obtidas por somatório da tarifa aplicável entre Lisboa e o ponto de entrada nos Açores e da tarifa vigente entre os pontos envolvidos nos Açores.
+5.º Esta portaria entra imediatamente em vigor.
+Ministérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
+Assinada em 27 de Dezembro de 1988.
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.
