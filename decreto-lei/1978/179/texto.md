@@ -1,0 +1,17 @@
+Decreto-Lei n.º 179/78
+de 15 de Julho
+Considerando que, face ao actual Código de Justiça Militar, é indiferente ao foro militar que os militares sujeitos a julgamento se encontrem ou não na efectividade de serviço;
+Considerando que, transitoriamente, o foro militar é ainda competente para conhecer dos crimes comuns praticados por militares antes da vigência do actual Código de Justiça Militar;
+Considerando, por fim, a necessidade de manter ou fazer regressar ao serviço efectivo o militar não pertencente aos quadros permanentes para cumprimento, em estabelecimento militar adequado, de sentença condenatória em pena de presídio ou prisão militar;
+O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
+Artigo 1.º O militar não pertencente aos quadros permanentes que, à data em que deva terminar o cumprimento do serviço efectivo ou serviço militar obrigatório, tenha pendente processo em que seja suspeito ou arguido de crime da competência do foro militar terá, naquela data, passagem à disponibilidade, a licenciado ou à reserva dos quadros de complemento, salvo se estiver em regime de prisão preventiva.
+Art. 2.º - 1 - O militar não pertencente aos quadros permanentes que, à data em que deva terminar o cumprimento do serviço efectivo ou serviço militar obrigatório, tenha pendente processo em que seja suspeito ou arguido de crime da competência do foro civil terá, naquela data, passagem à disponibilidade, a licenciado ou à reserva dos quadros de complemento.
+2 - O militar nas condições do número anterior que se encontre em regime de prisão preventiva será, após a mudança de situação, transferido para o estabelecimento prisional civil competente.
+Art. 3.º - 1 - Depois de deduzida a ordem para a acusação, o Chefe do Estado-Maior poderá, por sua iniciativa ou a solicitação da autoridade militar ou judicial competente, determinar o regresso ao serviço efectivo do militar nas situações de disponibilidade, licenciado ou da reserva dos quadros de complemento que tenha pendente processo por crime essencialmente militar cometido na efectividade de serviço.
+2 - O militar nas condições do número anterior que não for convocado para regressar ao serviço e vier a ser condenado em pena de presídio militar ou de prisão militar regressará automaticamente ao serviço efectivo com o trânsito em julgado da decisão condenatória.
+Art. 4.º É extensivo às autoridades judiciárias e tribunais militares o disposto na Lei n.º 58/77, de 5 Agosto.
+Art. 5.º É revogado o Decreto-Lei n.º 34-A/77, de 27 de Janeiro.
+Visto e aprovado em Conselho da Revolução em 28 de Junho de 1978.
+Promulgado em 3 de Julho de 1978.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
