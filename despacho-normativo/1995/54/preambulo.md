@@ -18,25 +18,17 @@ O presente despacho normativo, em complemento do Despacho Normativo n.º 622/94,
 
 Nestes termos, determino:
 
-1 - Sem prejuízo do disposto no n.º 1 do artigo 3.º do Despacho Normativo n.º 622/94, de 23 de Agosto, o Ministro da Economia pode atribuir a entidades públicas ou privadas a gestão técnica, administrativa ou financeira das acções voluntaristas que seguidamente se indicam, previstas no artigo 2.º daquele diploma, que passam a designar-se por Acções D - Apoio a iniciativas voluntaristas dinamizadas através de contratos-programas, no âmbito das seguintes medidas:
+1.º Sem prejuízo do disposto no n.º 1 do artigo 3.º do Despacho Normativo n.º 622/94, de 23 de Agosto, o Ministro da Indústria e Energia pode atribuir a entidades públicas ou privadas a gestão técnica, administrativa ou financeira das seguintes acções voluntaristas previstas no artigo 2.º daquele despacho:
 
-a) Da medida n.º 4.1 'Promoção de missões de qualidade de design industrial';
+a) No âmbito da medida n.º 4.1 «Promoção de missões de qualidade e de design industrial»;
 
-b) Da medida n.º 4.2 'Cooperação interempresas e redimensionamento empresarial';
+b) No âmbito da medida n.º 4.4 «Promoção da inovação e transferência tecnológica»;
 
-c) Da medida n.º 4.3 'Internacionalização das estratégias industriais';
+c) No âmbito da medida n.º 4.8 «Estratégias de especialização e mutação da estrutura produtiva»;
 
-d) Da medida n.º 4.4 'Promoção da inovação e transferência tecnológica';
+d) No âmbito da medida n.º 4.9 «Promoção das missões de eficiência energética».
 
-e) Da medida n.º 4.5 'Missões de sensibilização ambiental';
-
-f) Da medida n.º 4.6 'Missões de produtividade e projectos de demonstração';
-
-g) Da medida n.º 4.7 'Promoção das infra-estruturas tecnológicas junto da indústria';
-
-h) Da medida n.º 4.8 'Estratégias de especialização e mutação da estrutura produtiva';
-
-i) Da medida n.º 4.9 'Missões de eficiência energética'.
+e) No âmbito da medida 4.3 'Internacionalização das estratégias industriais'.
 
 2.º As entidades externas a que se reporta o número anterior deverão reunir cumulativamente os seguintes requisitos:
 
