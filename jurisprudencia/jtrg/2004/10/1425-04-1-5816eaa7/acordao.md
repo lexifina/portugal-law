@@ -1,0 +1,91 @@
+# Acórdão do Tribunal da Relação de Guimarães de 2004-10-18, processo 1425/04-1
+
+**Acórdãos TRG:** Acórdão do Tribunal da Relação de Guimarães
+
+**Processo:** 1425/04-1
+
+**Relator:** MIGUEZ GARCIA
+
+**Descritores:** DESPACHO DE PRONÚNCIA; NULIDADE; IRREGULARIDADE
+
+**Nº do Documento:** RG
+
+**Data do Acordão:** 10/18/2004
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** S
+
+**Privacidade:** 1
+
+**Meio Processual:** RECURSO PENAL
+
+**Decisão:** PROVIDO
+
+## Sumário
+
+I – O despacho judicial proferido no final do debate instrutório que não se manifestou sobre as concretas questões colocadas pelos arguidos na altura própria, contendo apenas uma referência genérica às razões que levaram à dedução da acusação pelo Ministério Público contra esses arguidos, mas omitindo pronúncia quanto a tudo o mais que vinha do requerimento instrutório, nomeadamente não se referindo aqueles factos que os arguidos, no seu entender, tinham especificado como carecendo de todo e qualquer suporte, ainda que meramente indiciado, é irregular
+
+II – De facto, na medida em que na decisão a que nos reportamos se omite a análise do bem fundado das razões expostas no requerimento de abertura da instrução, enquanto pertinentes à imputação a cada um dos arguidos do uso de atestado falso, portanto como questão sua, pessoal, desvinculada de uma qualquer (comprovada) utilização generalizada por parte da população escolar, é patente uma irregularidade que afecta a validade da pronúncia — à semelhança da exigência imposta pelo artigo 374°, n° 2, do CPP para a sentença, pois que só após essa análise se poderia decidir se os factos indiciados eram ou não suficientes para a sujeição de cada um dos arguidos recorrentes a julgamento pelo imputado crime de atestado falso
+
+III – Sendo embora irrecorrível a decisão instrutória que pronunciar o arguido pelos factos constantes da acusação do Ministério Público, no entanto, como dispõe o n° 2 do artigo 310° do CPP, é recorrível o despacho de pronúncia que indeferir a arguição da nulidade cominada no artigo anterior, que considera nula a decisão instrutória “ na parte em que pronunciar o arguido por factos que constituam alteração substancial dos descritos na acusação do Ministério Público ou do assistente ou no requerimento para abertura da instrução.”
+
+IV – Como o legislador considera entre as irregularidades aqueles defeitos que não são causa de nulidade, mas depois lhes atribui efeitos invalidantes próprios das nulidades; pelo menos algumas irregularidades determinam a invalidade do acto a que se referem e dos termos subsequentes que aquele possa afectar, produzindo os mesmos efeitos das nulidades (artigo 122°, n° 1, do CPP).-
+
+V – Sendo esse o caso, não pode deixar de se dar razão a cada um dos recorrentes, enquanto termina pedindo a revogação do despacho recorrido que levou à pronúncia, o qual deverá ser substituído por outro que conheça das razoes apontadas no requerimento de instrução por cada um deles formulado.
+
+## Decisão Texto Integral
+
+Acordam em conferência no Tribunal da Relação de Guimarães
+
+I. No Tribunal Judicial de Guimarães, findo inquérito contra "A", "B", "C" e outros, o Ministério Público deduziu acusação imputando a este último um crime de atestado falso do artigo 260º, nº 4, do Código Penal, e às duas identificadas arguidas um crime da mesma natureza mas na forma continuada (artigo 30º, nº 2, do mesmo código).
+
+Requereram então os arguidos a abertura da instrução, na forma aqui certificada a fls. 951, 956 e 961, pedindo, por fim, que fosse proferido despacho de não pronúncia com fundamento em que correspondia à verdade o atestado médico que cada um deles utilizou.
+
+No decurso do debate instrutório, o Mº Juiz, analisando as cópias certificadas dos atestados em causa e ajuizando que as datas a eles referentes se enquadram dentro do período mencionado na acusação como sendo o da realização dos exames das provas globais das respectivas escolas (29 de Maio de 2000), “sendo de estranhar que as incapacidades só tenham surgido nas vésperas dos exames”, considerou existirem indícios suficientes para levar a julgamento cada um destes arguidos; e adiantou que, uma vez que declinavam a suspensão do processo mediante o pagamento de uma injunção de cem euros, iria ser proferido, a final, o atinente despacho de pronúncia.
+
+Arguiu cada um deles a irregularidade dos respectivos despachos, por omissão de pronúncia, com fundamento em que se não observou o prescrito no artigo 97º, nº 4, do CPP. Cada um deles questionou o tribunal sobre a suficiência ou não dos indícios recolhidos no decorrer do inquérito, especificando aqueles factos que, no seu entender, careciam de todo e qualquer suporte, ainda que meramente indiciário, mas o despacho dado não se pronuncia sobre estas questões colocadas. No entender de cada um dos arguidos, uma interpretação contrária viola o núcleo fundamental dos artigos 205º, nº 1, e 32º, nº 2, da CRP.
+
+A pretensão assim apresentada por cada um dos arguidos veio a ser indeferida com o fundamento na não existência de irregularidade, constando da decisão, em conjugação com a acusação, as razões que levaram ao despacho de pronúncia: o não se concordar que estes factos sejam suficientes para levar a julgamento os arguidos não consubstancia qualquer irregularidade ou nulidade, conclui o despacho.
+
+Inconformados, recorreram os arguidos para esta Relação, na forma que se vê de fls. 704 ("B"), 713 ("C") e 722 ("A"). Cada um dos recursos veio a ser admitido, após ter sido atendida reclamação para o Ex.mo Presidente desta Relação. Houve, por fim, resposta do Ministério Público, com o entendimento que os recursos deverão improceder.
+
+Recebido o processo nesta Relação, o Ex.mo Procurador Geral Adjunto levanta a questão da falta de motivação (“as peças em causa são totalmente omissas quanto ao cumprimento do artigo 412º, nºs 1 e 2, do CPP, isto é, são omissas tout court no respeitante à formulação de conclusões”). Entende que se deverá rejeitar cada um dos recursos de acordo com o disposto nos artigos 412º, nº 1, 414º, nº 2, e 420º, nº 1, do CPP.
+
+Em resposta, os interessados dizem, fundamentalmente, que a motivação é omissa de conclusões apenas de um ponto de vista formal. Em bom rigor, adiantam, são indicadas de forma resumida e conclusiva as normas jurídicas violadas e ainda o sentido em que tal normativo foi interpretado pelo Tribunal recorrido, depreendendo-se a contrario o sentido que, no entender dos recorrentes, deveria ter sido dado.
+
+Colhidos os “vistos” legais, cumpre apreciar e decidir.
+
+I. Conforme é geralmente entendido, e se sublinha, por ex., no acórdão do STJ de 29 de Março de 2000 CJ 2000, tomo I, p. 241, "as conclusões da motivação do recurso, que constituem ónus do recorrente, têm diversas e importantes funções: a melhor defesa do recorrente, mediante o resumo incisivo, sintético, claro, completo, dos pontos de discordância da decisão recorrida e da respectiva fundamentação anteriormente desenvolvidos na parte expositiva e argumentativa da motivação; o dever de lealdade para com os outros sujeitos processuais, permitindo um completo e claro conhecimento do objecto do recurso e seus fundamentos, por forma a possibilitar o contraditório pertinente; o dever de lealdade e de cooperação com o tribunal, por forma a permitir a este que, mercê da formulação das conclusões da maneira mais clara, rigorosa, completa, segura e sintética possível, possa apreender rapidamente, sem objectivas dificuldades, esforços e riscos evitáveis, o objecto e os fundamentos essenciais da impugnação do recorrente, assim se potenciando as virtualidades de uma decisão justa, em tempo útil".
+
+Os três recursos interpostos trazem apenas a parte expositiva, formalmente não se segue a esta, em nenhum deles, uma parte conclusiva que dê satisfação ao disposto no artigo 412º, nº 1, do Código de Processo Penal. De acordo com esta norma, a motivação enuncia especificadamente os fundamentos do recurso e termina pela formulação de conclusões, deduzidas por artigos, em que o recorrente resume as razões do pedido. O nº 2 do mesmo artigo versa sobre o conteúdo de tais “conclusões”, disciplinando a falta dessa indicação. Daí a questão levantada pelo Ex.mo Procurador Geral Adjunto.
+
+Acontece que em resposta, cada um dos recorrentes veio esclarecer que a omissão das conclusões é apenas formal. E na verdade, não existe nos recursos uma omissão total de conclusões. Desde logo porque a parte expositiva da motivação é um texto já em si comprimido, que não diz mais que o essencial, e que por fim indica, resumidamente, no último parágrafo da quarta página da motivação, as normas jurídicas violadas e o sentido em que tal normativo, no entender dos recorrentes, foi interpretado pelo tribunal recorrido. Temos este modo de proceder, no caso concreto, como suficientemente capaz de cumprir a função conclusiva que a lei impõe sob pena de rejeição, estando por isso prejudicado, a nosso ver, qualquer convite para aperfeiçoamento da peça recursória oferecida por cada um dos interessados. Com os esclarecimentos agora trazidos ao processo, no seguimento da observação, aliás pertinente, correcta e ajustada, do Ex.mo Procurador Geral Adjunto, afigura-se-nos que um convite para se ser mais preciso representaria um acto inútil, até mesmo contraditório, não sendo lícito realizar no processo actos inúteis (artigo 137º do Código de Processo Civil).
+
+Não há assim motivo para que se não conheça de mérito.
+
+III. Ora, no final do debate instrutório, e reeditando as razões expostas no requerimento para abertura da instrução, cada um dos identificados arguidos arguiu irregularidade por omissão de pronúncia, ao ser-lhes anunciado que iria ser proferido despacho de pronúncia, no seguimento da não aceitação da [proposta] suspensão do processo.
+
+Com efeito, o Tribunal decidira-se pela existência de indícios suficientes “para levar a julgamento” cada um dos três requerentes. Para tanto, analisou as cópias dos atestados em causa e o teor da acusação de fls. 1102, tendo constatado que “as datas relativas aos atestados médicos enquadram-se dentro do período de tempo a que se faz referência na acusação — o artigo 11º — como sendo o da realização dos exames das provas globais nas escolas em causa — 29 de Maio a 20 de Julho de 2000 — sendo de estranhar que as incapacidades só tenham surgido nas vésperas dos exames”.
+
+Contrapôs nessa altura o defensor (cf. fls. 679 [13720]): “os requerentes, pretendendo uma comprovação judicial da decisão de submeter a causa a julgamento, questionaram o tribunal sobre a suficiência ou não dos indícios recolhidos no decorrer do inquérito, especificando aqueles factos que, no seu entender, careciam de todo e qualquer suporte, ainda que meramente indiciário, a saber, os artigos 8º, 9º, 10º, 14º e 15º. O despacho de pronúncia não se manifesta fundamentalmente sobre as questões colocadas, mais precisamente, referindo quais os indícios que sustentam os factos integradores do tipo legal de crime em causa e, sobretudo, quais os indícios que apontam a autoria de tais factos para os arguidos, de forma a alicerçar a probabilidade razoável de uma condenação em audiência de discussão e julgamento. Remeter a decisão sobre tal questão para os fundamentos de facto e de direito da acusação é uma solução niilista que não tem, nem pode ter, sustentáculo possível no direito. Foram pois violados os artigos 97º, nº 4, 286º, nº 1, do CPP, e as alíneas b) e d) do nº 1 do artigo 663º do CPC (este aplicável por via do artigo 4º do CPP), pelo que não pode o despacho manter-se, com as legais consequências. Mais: uma interpretação contrária à expendida viola o núcleo fundamental dos artigos 205º, nº 1, e 32º, nº 2, do CRP, vício que também de argui”.
+
+O despacho judicial de fls. 680 [1372], respeitante à arguida "B" e os despachos subsequentes que o reproduzem, respeitantes a "C" e "A", para negar a existência de qualquer irregularidade reedita as razões já anteriormente expendidas: “o facto de se saber que a altura em causa correspondia à época de exames, que quem justificasse a falta não teria de o fazer, as datas em que os atestados foram passados e a não comprovação das doenças são indícios que, conjugados entre si, levam à conclusão de que os atestados seriam falsos; o não concordar que estes factos sejam suficientes para levar a julgamento os arguidos não consubstancia qualquer irregularidade nem nulidade”.
+
+Como se sabe, a abertura da instrução pode ser requerida, no prazo de 20 dias a contar da notificação da acusação ou do arquivamento, e desde logo pelo arguido — relativamente a factos pelos quais o MP ou o assistente, no caso de procedimento dependente de acusação particular, tiverem deduzido acusação (artigo 287º, nº 1, alínea a)). O requerimento do arguido para abertura da instrução destina-se a obter a comprovação, ou não, do juízo indiciário feito pelo MP, determinante do exercício da acção penal. Normalmente, a pretensão do arguido dirige-se à não pronúncia, sobretudo com a revelação de novos meios de prova que abalem a versão acusatória. Em alternativa, o arguido suscita questões de direito, procurando demonstrar, por ex., que os factos narrados não se integram num tipo legal de crime ou se comprova uma eximente da ilicitude.
+
+Nenhum obstáculo foi oposto à abertura da instrução. Nesta, cada um dos requerentes pretendia que o seu caso fosse apreciado do ponto de vista da suficiência da indiciação. O arguido "C" chegou até a alegar que na altura se encontrava doente, que lhe doía a barriga e que sofria de um “desarranjo intestinal”. A exemplo das outras duas arguidas, aceitou, mas só isso, existirem indícios de que era aluno da escola (…), que não compareceu ao exame referido na acusação, e que, alegando estar doente, fez uso do atestado médico aí referido.
+
+A imputação penal decorrente da acusação do Ministério Público assenta numa conduta, num comportamento humano, por isso se exige a narração, ainda que sintética, dos factos que fundamentam a aplicação à pessoa do arguido de uma pena ou de uma medida de segurança (artigo 283º, nº 3, especialmente alínea b), do CPP). Quer isto dizer que a imputação é uma questão pessoal, fundamentada em factos atribuídos a quem é arguido, e tidos por suficientemente indiciados.
+
+O caso dos autos, como inclusivamente se vê da acta do debate instrutório aqui certificada (fls. 660 e ss.) e dos elementos de fls. 779 e ss., envolveu um elevado número de pessoas na situação de arguido. Se bem percebemos, num determinado período, a época de exames concentrou um número anormal de faltosos que apresentaram atestados médicos para se justificarem. Parece ser isso mesmo que está na base do despacho do Mº Juiz (“a altura em causa correspondia à época de exames”; “quem justificasse a falta não teria de o fazer”; “as datas em que os atestados foram passados”) e que serviu para a comprovação do bem fundado da acusação.
+
+Mas sendo assim, a abertura da instrução foi em pura perda. Na verdade, não se analisou nenhuma das razões adiantadas por cada um destes três requerentes, na medida em que sustentavam que, no seu caso pessoal, a indiciação não existia no que respeitante ao núcleo da acusação. Na verdade, os arguidos tinham especificado aqueles factos que, no seu entender, careciam de todo e qualquer suporte, ainda que meramente indiciário (os artigos 8º, 9º. 10º. 14º e 15º da acusação). Bem vistas as coisas, os arguidos não questionam a “praga” dos atestados num determinado período de exames. Querem é que o Tribunal reveja os indícios que no contexto da acusação, movida igualmente contra outras pessoas, servem para os apontar (também) como arguidos (autores) de factos que, ao menos implicitamente, se diz serem idênticos a outros cometidos na mesma época por outros acusados.
+
+O despacho a que nos reportamos não se manifestou sobre as concretas questões colocadas pelos ora recorrentes na altura própria. Parece-nos, com o devido respeito, que a decisão contém apenas uma referência genérica às razões que levaram à dedução da acusação pelo Ministério Público contra estes arguidos, mas omite pronúncia quanto a tudo o mais que vinha do requerimento instrutório, à aceitação do qual nenhum obstáculo se levantou. O decidido deu azo à pronúncia de cada um dos recorrentes (veja-se fls. 783 e 784 e ss.), tendo a acusação pública como comprovada. Ora, a decisão instrutória que pronunciar o arguido pelos factos constantes da acusação do Ministério Público é irrecorrível e determina a remessa imediata dos autos ao tribunal competente para o julgamento. No entanto, como dispõe o nº 2 do artigo 310º do CPP, é recorrível o despacho de pronúncia que indeferir a arguição da nulidade cominada no artigo anterior. Na medida em que na decisão a que nos reportamos se omite a análise do bem fundado das razões expostas no requerimento de abertura da instrução, enquanto pertinentes à imputação a cada um dos arguidos do uso de atestado falso, portanto como questão sua, pessoal, desvinculada de uma qualquer (comprovada) utilização generalizada por parte da população escolar, é patente uma irregularidade que afecta a validade da pronúncia — à semelhança da exigência imposta pelo artigo 374º, nº 2, do CPP para a sentença. Só após essa análise se poderia decidir se os factos indiciados eram ou não suficientes para a sujeição de cada um dos arguidos recorrentes a julgamento pelo imputado crime de atestado falso.
+
+Como se viu, o artigo 310º, nº 2, atende à nulidade cominada no artigo anterior. Como o legislador considera entre as irregularidades aqueles defeitos que não são causa de nulidade, mas depois atribui-lhes efeitos invalidantes próprios das nulidades, pelo menos algumas irregularidades determinam a invalidade do acto a que se referem e dos termos subsequentes que aquele possa afectar, produzindo os mesmos efeitos das nulidades (artigo 122º do CPP). Sendo esse o caso, não pode deixar de se dar razão a cada um dos recorrentes, enquanto termina pedindo a revogação do despacho recorrido que levou à pronúncia, o qual deverá ser substituído por outro que conheça das razões apontadas no requerimento de instrução por cada um deles formulado.
+
+Nestes termos, acordam em conceder provimento aos recursos de "A", "B" e "C".
+
+Não são devidas custas.
