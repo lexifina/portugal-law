@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que o embaixador de Portugal junto das Nações Unidas, em Nova Iorque, depositou, em 28 de Abril de 1988, o instrumento de ratificação do Acordo Internacional da Juta e Produtos de Juta, concluído em Genebra em 1 de Outubro de 1982.
+Naquela data tinham ratificado o referido Acordo os seguintes Estados: Austrália, Áustria, Bangladesh, Bélgica, Canadá, China, Dinamarca, Egipto, Comunidade Económica Europeia, Finlândia, França, República Federal da Alemanha, Grécia, Índia, Indonésia, Irlanda, Itália, Japão, Luxemburgo, Nepal, Holanda, Noruega, Paquistão, Polónia, Espanha, Suécia, Suíça, Tailândia, Turquia, Reino Unido, Estados Unidos da América e Jugoslávia.
+Direcção-Geral dos Negócios Político-Económicos, 7 de Junho de 1988. - O Director de Serviços dos Assuntos Multilaterais, Marcello de Zaffiri Duarte Mathias.
