@@ -1,0 +1,28 @@
+Portaria n.º 584/79
+de 6 de Novembro
+A Portaria n.º 51/78, de 25 de Janeiro, introduziu o princípio da frequência obrigatória de lições de condução de veículos automóveis, aconselhando a experiência adquirida com a aplicação daquele diploma o aperfeiçoamento do correspondente enquadramento jurídico.
+Nestes termos, sem prejuízo de eventual ajustamento do número de lições aos programas de ensino a fixar e de medidas globais a tomar no âmbito da reformulação do ensino da condução, tendo em conta o disposto nos n.os 1 dos artigos 10.º e 15.º do Decreto-Lei n.º 366/77, de 2 de Setembro:
+Manda o Governo da República Portuguesa, pelo Ministro dos Transportes e Comunicações, o seguinte:
+1.º Os n.os 4.º, 7.º e 10.º da Portaria n.º 51/78, de 25 de Janeiro, passam a ter a seguinte redacção:
+...
+4.º Por despacho do director-geral de Viação poderá ser dispensada ou reduzida a frequência de lições a que se refere a parte final do número anterior aos instruendos que sejam titulares de documentos que os habilitem a conduzir veículos automóveis, velocípedes com motor ou ciclomotores.
+...
+7.º A propositura a exame de condução só poderá ser feita para os instruendos inscritos na entidade proponente.
+Nos concelhos em que não exista escola de condução autorizada a ministrar o ensino a candidatos a condutores de tractores agrícolas, qualquer escola ou instrutor por conta própria pode subscrever a propositura a exame destes candidatos.
+Nos restantes concelhos, só as escolas que disponham de tractor agrícola licenciado para a instrução podem propor a exame candidatos a condutores destes veículos.
+...
+10.º O disposto na presente portaria não é aplicável:
+a) Aos exames de condução determinados ao abrigo do n.º 8 do artigo 47.º do Código da Estrada;
+b) Aos exames de condução de candidatos de nacionalidade estrangeira, quando estes sejam titulares de licença que os habilitasse a conduzir em Portugal, há menos de três anos, a classe ou classes de veículos para que requeiram exame;
+c) Aos exames de condução de candidatos de nacionalidade estrangeira, quando sejam titulares de licença válida para a condução, há menos de três anos, da classe ou classes de veículos para que requereram exame, que, nos termos do n.º 1 do artigo 46.º do Código da Estrada, não habilite a conduzir em Portugal;
+d) Aos exames de condução de candidatos de nacionalidade portuguesa, quando sejam titulares de licença estrangeira que os habilitasse a conduzir em Portugal, há menos de três anos, a classe de veículos para que requereram exame, desde que comprovem a titularidade pela entrega da respectiva licença, a qual ficará arquivada junto do competente processo;
+e) Aos exames de condução de candidatos titulares de boletins militares de condução, quando não tenham requerido a sua troca por carta de condução, nos termos do n.º 5 do artigo 47.º do Código da Estrada.
+f) Às provas práticas de exames de condução dos candidatos que careçam de veículo especialmente adaptado.
+2.º É aditado à Portaria n.º 51/78, de 25 de Janeiro, o seguinte número:
+11.º O director-geral de Viação fixará, por despacho, as normas necessárias à boa execução do presente diploma.
+3.º O quadro anexo à Portaria n.º 51/78, de 25 de Janeiro, passa a ter a seguinte estrutura e composição:
+Quadro anexo à Portaria n.º 51/78, de 25 de Janeiro
+Número mínimo de lições de frequência obrigatória
+(ver documento original)
+4.º O disposto na presente portaria entra em vigor na data da sua publicação.
+Ministério dos Transportes e Comunicações, 16 de Outubro de 1979. - O Ministro dos Transportes e Comunicações, Frederico Alberto Monteiro da Silva.
