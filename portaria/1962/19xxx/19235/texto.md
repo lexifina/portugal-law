@@ -1,0 +1,5 @@
+Portaria n.º 19235
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, abrir em Moçambique um crédito especial da quantia de 6000$00, a inscrever em adicional à tabela de despesa ordinária do orçamento geral para o ano económico de 1962, destinado a suportar o encargo com o pagamento de despesas de higiene, saúde e conforto (luz, água, limpeza e outras despesas), no corrente ano, dos Tribunais de Menores, de Trabalho e de Execução das Penas, tomando como contrapartida as disponibilidades existentes na verba do capítulo 5.º, artigo 922.º, n.º 1), alínea a) «Serviços de Fazenda e contabilidade - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+Ministério do Ultramar, 15 de Junho de 1962. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - J. da Costa Freitas.
