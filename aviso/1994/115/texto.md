@@ -1,0 +1,6 @@
+Aviso n.º 115/94
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos informou que o Reino dos Países Baixos, os Estados Unidos da América e o Luxemburgo declararam aceitar a adesão das Ilhas Baamas à Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980, respectivamente, em 11 de Novembro de 1993, 23 de Novembro de 1993 e 17 de Dezembro de 1993.
+Em conformidade com o artigo 38, alínea 5, a Convenção entrou em vigor entre as Ilhas Baamas e o Reino dos Países Baixos (para o Reino na Europa), os Estados Unidos da América e o Luxemburgo, respectivamente, em 1 de Fevereiro de 1994, 1 de Fevereiro de 1994 e 1 de Março de 1994.
+Relativamente a Portugal, a Convenção acima mencionada foi aprovada, para ratificação, pelo Decreto do Governo n.º 33/83, conforme Diário da República, 1.ª série, n.º 108, de 11 de Agosto de 1993, e o depósito do instrumento de ratificação foi feito em 29 de Setembro de 1983, segundo Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984.
+A Convenção entrou em vigor para o nosso país em 1 de Dezembro de 1993.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 24 de Fevereiro de 1994. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
