@@ -1,0 +1,7 @@
+Resolução n.º 219/82
+O Instituto Nacional de Estatística luta, de há muito, com deficiências de instalações, que, nos últimos anos, têm mesmo prejudicado gravemente a funcionalidade e rendimento dos seus serviços.
+Presentemente, tem absoluta necessidade de instalar e fazer funcionar equipamentos informáticos que adquiriu, para poder responder às solicitações que lhe são feitas. Tal instalação é, porém, completamente impossível de realizar no edifício sede, que se encontra saturado.
+Assim, considerando que foi encontrado um imóvel que satisfaz o fim em vista, o qual mereceu parecer favorável da Direcção-Geral dos Edifícios e Monumentos Nacionais;
+Considerando que o processo se encontra devidamente organizado e instruído de harmonia com as determinações legais:
+O Conselho de Ministros, reunido em 16 de Novembro de 1982, resolveu, nos termos dos n.os 2 e 3 do artigo 1.º do Decreto-Lei n.º 27/79, de 22 de Fevereiro, autorizar a Direcção-Geral do Património do Estado a adquirir, pelo preço de 100000000$00, a pagar em 2 prestações iguais, de 50000000$00, a satisfazer por conta do Orçamento Geral do Estado de 1982 e 1983, respectivamente, o prédio sito em Lisboa, que constitui o lote D da Rua do Padre Luís Aparício, destinado ao Centro de Informática do Instituto Nacional de Estatística.
+Presidência do Conselho de Ministros. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
