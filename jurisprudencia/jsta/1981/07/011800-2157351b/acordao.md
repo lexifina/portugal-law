@@ -1,0 +1,55 @@
+# Acórdão do Supremo Tribunal Administrativo de 1981-07-08, processo 011800
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 011800
+
+**Data do Acordão:** 07/08/1981
+
+**Tribunal:** PLENO
+
+**Relator:** ABEL DELGADO
+
+**Descritores:** PRESUNÇÃO DE LEGALIDADE DO ACTO ADMINISTRATIVO; APLICAÇÃO DA LEI NO TEMPO; APLICAÇÃO RETROACTIVA; FUNCIONARIO ULTRAMARINO; INGRESSO NO QUADRO GERAL DE ADIDOS; PRINCIPIO TEMPUS REGIT ACTUM
+
+**Nº Convencional:** JSTA00001735
+
+**Nº do Documento:** SAP19810708011800
+
+**Recorrente:** SIRVOICAR , MARIA
+
+**Recorrido 1:** MINRA
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 0
+
+**Página:** 0
+
+**Apêndice:** DR
+
+**Data do Apêndice:** 07/10/1985
+
+**1ª Pág. de Publicação do Acordão:** 300
+
+**Referência Publicação 1:** AD N244 ANOXXI PAG494
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC 1 SECÇÃO.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM GER - FUNÇÃO PUBL ESTATUTARIO.
+
+**Legislação Nacional:** CONST76 ART3 N4.; DL 294/76 DE 1976/04/24 ART17.; DL 819/76 DE 1976/11/12.
+
+**Jurisprudência Nacional:** AC STAP DE 1969/11/20 IN AD N97 PAG144.; AC STA DE 1963/06/07 IN AD N143 PAG1489.; AC STA DE 1974/02/21 IN AD N148 PAG495.; AC STA DE 1976/05/13 IN AD N78 PAG1248.; AC STA DE 1976/06/11 IN AD N180 PAG1560.; AC STA DE 1978/05/04 IN AD N200 PAG1009.; AC STA DE 1978/11/16 IN AD N207 PAG309.; AC STA DE 1979/11/08.; AC STA DE 1980/01/31.
+
+**Referência a Doutrina:** MARCELLO CAETANO MANUAL DE DIREITO ADMINISTRATIVO TII PAG1306.; ESTEVES DE OLIVEIRA DIREITO ADMINISTRATIVO TI PAG169.; RAYMOND ODENT CONTENTIEUX ADMINISTRATIF TV PAG1683.; GOMES CANOTILHO E VITAL MOREIRA CONSTITUIÇÃO DA REPUBLICA PORTUGUESA ANOTADA PAG38 PAG241.; AFONSO QUEIRO LIÇÕES DE DIREITO ADMINISTRATIVO TI PAG294.; Texto Integral
+
+## Sumário
+
+A legalidade dos actos administrativos. Devem ser apreciados segundo a lei vigente a data em que são praticados.
