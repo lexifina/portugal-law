@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público ter a Embaixada de Portugal em Londres informado que, segundo comunicação recebida do Ministério dos Negócios Estrangeiros do Reino Unido da Grã-Bretanha e Irlanda do Norte, em nome do Governo depositário, foram depositados os instrumentos de ratificação do Acordo internacional do açúcar por parte dos Governos da Holanda e da Colômbia, de harmonia com o disposto no parágrafo 6 (i) do artigo 41 do Acordo internacional do açúcar.
+Direcção-Geral dos Negócios Económicos e Consulares, 5 de Junho de 1961. - O Director-Geral Adjunto, Armando Ramos de Paulo Coelho.
