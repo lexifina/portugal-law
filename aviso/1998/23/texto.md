@@ -1,0 +1,8 @@
+Aviso n.º 23/98
+Por ordem superior se torna público que a Turquia depositou, em 4 de Abril de 1995, o instrumento de ratificação da Convenção sobre os Direitos da Criança, adoptada pela Assembleia Geral das Nações Unidas em 20 de Novembro de 1989, tendo simultaneamente formulado uma reserva, cuja versão em inglês e tradução oficial em português a seguir se transcrevem:
+«The Republic of Turkey reserves the right to interpret and to apply the provisions of articles 17, 29 and 30 of the United Nations Convention on the Rights of the Child in conformity with the work and spirit of the Constitution of the Republic of Turkey and of the Treaty of Lausanne of 24 de July 1923.»
+Tradução oficial
+«A República da Turquia reserva-se o direito de interpretar e aplicar as disposições dos artigos 17.º, 29.º e 30.º da Convenção das Nações Unidas sobre os Direitos da Criança em conformidade com o conteúdo e o espírito da Constituição da República da Turquia e do Tratado de Lausana de 24 de Julho de 1923.»
+Portugal é parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 20/90, publicada no Diário da República, 1.ª série, n.º 211, suplemento, de 12 de Setembro de 1990, tendo depositado o seu instrumento de ratificação em 21 de Setembro de 1990, conforme aviso publicado no Diário da República, 1.ª série, n.º 248, de 26 de Outubro de 1990.
+Nos termos do artigo 49 (2), a Convenção entrou em vigor para a Turquia no 30.º dia após a data do depósito dos respectivos instrumentos de ratificação, ou seja, a 4 de Maio de 1995.
+Direcção de Serviços das Organizações Políticas Internacionais, 30 de Dezembro de 1997. - O Director de Serviços, João José Gomes Caetano da Silva.
