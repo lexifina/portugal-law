@@ -1,0 +1,343 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Ratificação",
+    "numero": "14",
+    "id": "5605",
+    "titulo": "Decreto-lei n°334/95, de 28 de Dezembro, que altera o Decreto-lei n°448/95, de 29 de Novembro, que estabeleceu o novo regime jurídico do licenciamento municipal de operações de loteamento e de obras de urbanização"
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "1996-01-31",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1475",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "1996-01-31",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Ratificação",
+        "id": "5593",
+        "leg": "VII",
+        "nr": "15",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "158",
+            "obs": null,
+            "pag": [
+              "943-946"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1996-02-01",
+            "pubLeg": "VII",
+            "pubNr": "33",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/033/1996-02-01/943?pgs=943-946&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "F",
+        "titulo": "Decreto-lei n°334/95, de 28 de Dezembro, que altera o decreto-lei n°448/91, de 29 de Novembro (aprova o regime jurídico dos loteamentos urbanos)."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1996-01-31",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45585",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "946-946"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-02-01",
+                "pubLeg": "VII",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/033/1996-02-01/946?pgs=946&org=PLC"
+              }
+            ],
+            "sumario": "APROVA O REGIME JURIDICO DOS LOTEAMENTOS URBANOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "532",
+                "nome": "Rui Marques"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45586",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "945-946"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-02-01",
+                "pubLeg": "VII",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/033/1996-02-01/945?pgs=945-946&org=PLC"
+              }
+            ],
+            "sumario": "APROVA O REGIME JURIDICO DOS LOTEAMENTOS URBANOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "324",
+                "nome": "Fernando Pedro Moutinho"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45587",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "945-945"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-02-01",
+                "pubLeg": "VII",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/033/1996-02-01/945?pgs=945&org=PLC"
+              }
+            ],
+            "sumario": "APROVA O REGIME JURIDICO DOS LOTEAMENTOS URBANOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45588",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "944-945"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-02-01",
+                "pubLeg": "VII",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/033/1996-02-01/944?pgs=944-945&org=PLC"
+              }
+            ],
+            "sumario": "APROVA O REGIME JURIDICO DOS LOTEAMENTOS URBANOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1155",
+                "nome": "Manuel Jorge Goes"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45589",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "943-944"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-02-01",
+                "pubLeg": "VII",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/033/1996-02-01/943?pgs=943-944&org=PLC"
+              }
+            ],
+            "sumario": "APROVA O REGIME JURIDICO DOS LOTEAMENTOS URBANOS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104093",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "110533",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-02-01",
+        "pubLeg": "VII",
+        "pubNr": "33",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/033/1996-02-01?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
