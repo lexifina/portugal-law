@@ -1,6 +1,6 @@
 # Artigo 2.º
 
-### (Factos sujeitos a registos)
+### (Factos sujeitos a registo)
 
 1 - Estão sujeitos a registo:
 
@@ -10,11 +10,11 @@ b) Os factos jurídicos que determinem a constituição ou a modificação da pr
 
 c) Os factos jurídicos confirmativos de convenções anuláveis ou resolúveis que tenham por objecto os direitos mencionados na alínea a);
 
-d) A autorização do loteamento para construção;
+d) A emissão do alvará de loteamento, seus aditamentos e alterações;
 
 e) A mera posse;
 
-f) A promessa de alienação ou oneração, os pactos de preferência e a disposição testamentária de preferência, se lhes tiver sido atribuída eficácia real;
+f) A promessa de alienação ou oneração, os pactos de preferência e a disposição testamentária de preferência, se lhes tiver sido atribuída eficácia real, bem como a cessão da posição contratual emergente desses factos;
 
 g) A cessão de bens aos credores;
 
