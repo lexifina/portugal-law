@@ -1,0 +1,20 @@
+Portaria n.º 503/81
+de 22 de Junho
+Por força do n.º 1 do artigo 30.º do Decreto-Lei n.º 110-A/80, de 10 de Maio, os organismos da administração central e os institutos públicos que revistam a natureza de serviços personalizados onde existam serviços do informática deverão fazer a adaptação dos respectivos quadros de pessoal às disposições daquele diploma legal.
+Cumpre executar aquela disposição na Administração-Geral do Porto de Lisboa, procedendo-se à publicação da presente portaria para aprovação dos novos quadros, nos termos do n.º 3 do artigo 30.º do Decreto-Lei n.º 110-A/80, de 10 de Maio, efectuando-se o preenchimento nas respectivas categorias de acordo com os critérios do primeiro provimento previstos no n.º 5 do artigo 5.º do citado decreto-lei.
+Importa, todavia, ressalvar os direitos constituídos por efeito da aplicação do Decreto-Lei n.º 247/79, de 25 de Julho.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, dos Transportes e Comunicações e da Reforma Administrativa, o seguinte:
+1.º O quadro de pessoal de informática da Administração-Geral do Porto de Lisboa, constante do mapa I anexo ao Decreto-Lei n.º 899/76, de 30 de Dezembro, com as alterações introduzidas pelo mapa anexo à Portaria n.º 311-E/80, de 30 de Maio, será substituído pelo quadro constante do mapa I anexo ao presente diploma.
+2.º A transição do pessoal existente para as categorias constantes do mapa I anexo efectuar-se-á sem prejuízo da prévia integração nas categorias do quadro anexo à Portaria n.º 311-E/80, de 30 de Maio, com salvaguarda de todos os direitos resultantes dessa integração.
+3.º Os funcionários que, nos termos do Decreto-Lei n.º 247/79, do 25 de Julho, vierem a ser providos em categorias que não correspondam às designações previstas no Decreto-Lei n.º 110-A/80, de 10 de Maio, transitarão para as novas categorias de acordo com as equivalências estabelecidas no mapa II anexo.
+4.º Aos funcionários abrangidos pelo número anterior será contado, para todos os efeitos legais, o tempo de serviço prestado nas categorias cuja extinção resulta da aplicação da presente portaria.
+Ministérios das Finanças e do Plano, dos Transportes e Comunicações e da Reforma Administrativa, 27 de Maio de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - Pelo Ministro dos Transportes e Comunicações, José da Silva Domingos, Secretário de Estado dos Transportes Exteriores. - Pelo Ministro da Reforma Administrativa, José Queirós Lopes Raimundo, Secretário de Estado da Reforma Administrativa.
+
+MAPA I
+Quadro do pessoal de informática da Administração-Geral do Porto de Lisboa
+(ver documento original)
+
+MAPA II
+Quadro de equivalências entre as categorias constantes do Decreto-Lei n.º 247/79, de 25 de Julho, e as do Decreto-Lei n.º 110-A/80, de acordo com as funções desempenhadas (n.º 5 do artigo 30.º do Decreto-Lei n.º 110-A/80, citado)
+(ver documento original)
