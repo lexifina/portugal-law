@@ -1,0 +1,6 @@
+Despacho Normativo n.º 6-A/93
+Conforme o n.º 2.º da Portaria n.º 925-M/87, de 4 de Dezembro, com a nova redacção que lhe foi dada pelas Portarias n.os 1110-G/89, de 28 de Dezembro, e 69/92, de 1 de Fevereiro, e ainda nos termos da alínea b) do n.º 3 do artigo 10.º do Decreto-Lei n.º 8/93, de 1 de Janeiro, determina-se o seguinte:
+1 - É fixada em 7% a percentagem máxima de aumento médio para os transportes urbanos em Lisboa e no Porto, para os transportes colectivos rodoviários de passageiros interurbanos e para os transportes ferroviários e fluviais.
+2 - Por despacho do director-geral de Transportes Terrestres será definida a tabela do preço máximo de referência do quilómetro rodoviário interurbano.
+3 - Os preços decorrentes da execução do presente despacho poderão ser aplicados pelos operadores a partir de 1 de Março de 1993.
+Ministérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo, 5 de Fevereiro de 1993. - Pelo Ministro das Finanças, José Manuel Alves Elias da Costa, Secretário de Estado das Finanças. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado da Distribuição e Concorrência.
