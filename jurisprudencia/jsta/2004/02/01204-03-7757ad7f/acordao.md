@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal Administrativo de 2004-02-17, processo 01204/03
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01204/03
+
+**Data do Acordão:** 02/17/2004
+
+**Tribunal:** 2 SUBSECÇÃO DO CA
+
+**Relator:** ANTÓNIO MADUREIRA
+
+**Descritores:** CONCURSO PÚBLICO.; FORNECIMENTO DE BENS E SERVIÇOS.; ARGUIÇÃO DE VÍCIOS DEPOIS DA PETIÇÃO.; CONHECIMENTO RELEVANTE DESSES VÍCIOS.; ADVOGADO CONSTITUÍDO.; REVOGAÇÃO E RECTIFICAÇÃO.; VALORES SALARIAIS ATENDÍVEIS.
+
+**Nº Convencional:** JSTA0003454
+
+**Nº do Documento:** SA12004021701204
+
+**Recorrente:** A...
+
+**Recorrido 1:** SE DO TRABALHO E OUTRO
+
+**Votação:** UNANIMIDADE
+
+**Área Temática 1:** *
+
+## Sumário
+
+I - Nos recursos contenciosos não se pode conhecer de vícios não invocados na petição de recurso que não sejam de conhecimento oficioso, a menos que os recorrentes deles não tivessem conhecimento nessa data, bem como daqueles que não tenham sido levados às conclusões de recurso, que, neste caso, se devem considerar abandonados.
+
+II - O conhecimento relevante para efeitos da alegação de vícios posteriormente à petição, quando os recorrentes não tiverem advogado constituído no procedimento administrativo, constituição essa que, aliás, não é obrigatória nessa fase (cfr. artigo 52.º, n.º 1 do CPA), e, como tal, nele se não tenham feito representar, é o conhecimento tido por eles, através dos seus legais representantes, e não o tido pelos advogados que vieram a constituir para o recurso contencioso.
+
+III - Conhecimento esse que há-de resultar dos elementos que lhe foram remetidos em sede de audiência prévia, juntamente com a notificação do acto recorrido ou, então, com a junção do processo burocrático.
+
+IV - A rectificação é uma figura jurídica diferente da revogação, caracterizando-se por corrigir apenas uma divergência entre vontade real e vontade declarada, resultante de uma irregularidade manifesta, sem que, porém, resulte dessa correcção qualquer cessação de efeitos; os efeitos que a rectificação parece fazer cessar são apenas os efeitos aparentes do acto e não os seus efeitos reais, que desde o início se produziram e não são senão reafirmados pelo acto de rectificação.
+
+V - Num concurso para prestação de serviços em que os valores salariais pagos aos seus trabalhadores pelos candidatos funciona como factor de classificação, em que um candidato apresentou valores já aprovados, mas ainda não publicados, enquanto que todos os outros indicaram os valores já aprovados (que eram superiores), impunha-se à autoridade administrativa, que não podia deixar de conhecer essas diferenças e que os salários mais baixos não iam poder ser praticados, por entretanto ter sido publicada a tabela salarial (com efeitos retroactivos), que tivesse pedido esclarecimentos, com vista a dar um tratamento justo quanto à questão dos salários relativamente a todos os candidatos.
+
+VI - Ao não o fazer, antes tendo aceitado, no acto de classificação, os salários relativos ao ano de 2001, violou os princípios da isenção, imparcialidade, igualdade, justiça e boa fé, como que impediu a plena realização do princípio da igualdade de condições de concorrência entre os candidatos.
