@@ -1,0 +1,114 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11271",
+  "numero": "73",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2004-02-18",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2004-12-09",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2004-03-18",
+        "DataArquivo": "2004-12-10",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2004-12-09",
+        "DataReaberta": "2004-03-18",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2004-02-18",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764e3056445179394562324e31625756756447397a5547563061574e686279383559546c6b593255354d43316a596a4e684c54526a4f546774595467344e43316d4e4746694e57597a4d5755784d6a4d756347526d&fich=9a9dce90-cb3a-4c98-a884-f4ab5f31e123.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "108",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE EDUCAÇÃO, CIÊNCIA E CULTURA",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2004-03-18",
+            "gp": "CDS-PP",
+            "id": "1657",
+            "motivoCessacao": null,
+            "nome": "João Pinho de Almeida"
+          }
+        ],
+        "RelatorioFinal": [
+          "21902"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2004-02-18",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d765a44677a597a45784d4751744e7a5a694d7930304f4745794c546b794d3259744e545131597a49795a6d49784d474a6d4c6e426b5a673d3d&fich=d83c110d-76b3-48a2-923f-545c22fb10bf.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11271",
+    "PetAssunto": "Solicita à Assembleia da República que promova a alteração do vocábulo \"prejudicial\" para \"pré-judicial\" em todos os textos legais vigentes.",
+    "PetDataEntrada": "2004-02-18",
+    "PeticoesAssociadas": null,
+    "PetId": "11271",
+    "PetLeg": "IX",
+    "PetNr": "73",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
