@@ -1,0 +1,11 @@
+Aviso n.º 341/94
+Por ordem superior se torna público que, por nota de 26 de Outubro de 1994, o Bureau Permanente da Conferência da Haia de Direito Internacional Privado comunicou que, nos termos do parágrafo 4.º do artigo 39.º da Convenção sobre a Obtenção de Provas no Estrangeiro em Matéria Civil ou Comercial, concluída na Haia em 18 de Março de 1970, os seguintes Estados declararam aceitar a adesão da Venezuela:
+A Suécia, em 5 de Julho de 1994;
+A Alemanha, em 21 de Outubro de 1994; e
+A Dinamarca, em 27 de Novembro de 1994.
+Nos termos do artigo 39.º, parágrafo 5.º, a Convenção entrou em vigor entre a Venezuela e:
+A Suécia, em 3 de Setembro de 1994;
+A Alemanha, em 21 de Outubro de 1994; e
+A Dinamarca, em 27 de Novembro de 1994.
+Portugal é Parte na mesma Convenção, que foi aprovada para ratificação pelo Decreto-Lei n.º 764/74, de 30 de Dezembro, tendo depositado o seu instrumento de ratificação conforme aviso publicado no Diário do Governo, 1.ª série, n.º 82, de 8 de Abril de 1975.
+Departamento de Assuntos Jurídicos, 23 de Novembro de 1994. - O Director, José Maria Teixeira Leite Martins.
