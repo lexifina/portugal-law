@@ -1,0 +1,7 @@
+Resolução n.º 353/80
+As circunstâncias actuais da vida política do País impedem a apresentação à Assembleia da República da proposta de lei do Orçamento para 1981 na data prevista no artigo 28.º da Lei n.º 64/77 (Lei de Enquadramento do Orçamento Geral do Estado), isto é, até 15 de Outubro próximo.
+Cabe ao Governo, porém, a responsabilidade de promover desde já as acções tendentes à recolha dos elementos necessários à elaboração do Orçamento Geral do Estado para 1981, de modo a permitir a sua aprovação no mais curto prazo possível após a entrada em funções da próxima Assembleia da República.
+Após três anos em que se verificaram situações de atraso na aprovação da Lei do Orçamento, impõe-se, na realidade, zelar para que no próximo ano fique garantida o mais cedo possível uma maior regularidade no funcionamento da administração financeira do Estado.
+Nestes termos:
+O Conselho de Ministros, reunido em 20 de Agosto de 1980, resolveu incumbir o Ministro das Finanças e do Plano de transmitir, através da Direcção-Geral da Contabilidade Pública, as instruções necessárias para a preparação dos projectos de orçamento dos serviços para 1981 e definir as orientações a observar na coordenação dos mesmos e na elaboração dos anteprojectos de lei do Orçamento e do Orçamento Geral do Estado para o próximo ano.
+Presidência do Conselho de Ministros, 20 de Agosto de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
