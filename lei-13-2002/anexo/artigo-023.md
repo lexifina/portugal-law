@@ -24,7 +24,7 @@ i) Votar as decisões, em caso de empate;
 
 j) Assegurar o andamento dos processos no respeito pelos prazos estabelecidos, podendo determinar a substituição provisória do relator, por redistribuição, em caso de impedimento prolongado;
 
-l) Dar posse aos juízes do Supremo Tribunal Administrativo e aos presidentes dos tribunais centrais administrativos;
+l) Dar posse aos juízes do Supremo Tribunal Administrativo e ao presidente do Tribunal Central Administrativo;
 
 m) Solicitar o suprimento de necessidades de resposta adicional através do recurso à bolsa de juízes;
 
@@ -42,16 +42,4 @@ s) Elaborar um relatório anual sobre o estado dos serviços;
 
 t) Exercer as demais funções que lhe sejam atribuídas por lei.
 
-2 - Compete ainda ao Presidente do Supremo Tribunal Administrativo conhecer dos conflitos de competência que ocorram entre:
-
-a) Os plenos das secções;
-
-b) As secções;
-
-c) Os tribunais centrais administrativos;
-
-d) Os tribunais centrais administrativos e os tribunais administrativos de círculo e tribunais tributários;
-
-e) Os tribunais administrativos de círculo, tribunais tributários ou juízos de competência especializada, sediados nas áreas de jurisdição de diferentes tribunais centrais administrativos.
-
-3 - O Presidente pode delegar nos vice-presidentes a competência para a prática de determinados actos ou sobre certas matérias e para presidir às sessões do pleno da secção e, no secretário do Tribunal, a competência para a correição dos processos.
+2 - O Presidente pode delegar nos vice-presidentes a competência para a prática de determinados actos ou sobre certas matérias e para presidir às sessões do pleno da secção e, no secretário do Tribunal, a competência para a correição dos processos.

@@ -2,4 +2,4 @@
 
 ### Formação dos juízes administrativos e fiscais
 
-À formação, inicial e contínua, dos juízes administrativos e fiscais são aplicáveis as normas previstas na lei que define o regime de ingresso nas magistraturas e de formação de magistrados.
+Os candidatos que sejam admitidos em concurso para a jurisdição administrativa e fiscal, sem terem experiência anterior no âmbito desta jurisdição, frequentam curso de formação organizado pelo Centro de Estudos Judiciários, nos casos e termos a estabelecer em diploma próprio.

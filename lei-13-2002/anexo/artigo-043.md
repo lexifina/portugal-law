@@ -2,36 +2,38 @@
 
 ### Presidente do tribunal
 
-1 - Em cada zona geográfica existe um presidente, nomeado pelo Conselho Superior dos Tribunais Administrativos e Fiscais para um mandato de três anos, com poderes relativamente a todos os tribunais administrativos de círculo e tribunais tributários aí situados.
+1 - Os presidentes dos tribunais administrativos de círculo são nomeados pelo Conselho Superior dos Tribunais Administrativos e Fiscais para um mandato de cinco anos.
 
-2 - O mandato pode ser renovado por uma vez, por igual período, mediante avaliação favorável do Conselho Superior dos Tribunais Administrativos e Fiscais, ponderando o exercício dos poderes de gestão e os resultados obtidos.
+2 - Os presidentes dos tribunais administrativos de círculo com mais de três juízes são nomeados de entre juízes com a categoria de conselheiro ou de desembargador e não têm processos distribuídos.
 
-3 - A nomeação do juiz presidente, e a renovação do respetivo mandato, são obrigatoriamente precedidas da audição dos juízes que exercem as suas funções nos tribunais da respetiva zona geográfica.
+3 - É da competência administrativa do presidente do tribunal administrativo de círculo:
 
-4 - Os presidentes são nomeados em comissão de serviço, que não dá lugar à abertura de vaga, de entre juízes que:
+a) Representar o tribunal e assegurar as relações deste com os demais órgãos de soberania e quaisquer autoridades;
 
-a) Exerçam funções efetivas como juízes desembargadores e possuam classificação não inferior a Bom com distinção; ou
+b) Dirigir o tribunal, superintender nos seus serviços e assegurar o seu funcionamento normal, emitindo as ordens de serviço que tenha por necessárias;
 
-b) Exerçam funções efetivas como juízes de Direito e possuam 10 anos de serviço efetivo nos tribunais administrativos e classificação não inferior a Bom com distinção.
+c) Propor ao Conselho Superior dos Tribunais Administrativos e Fiscais os critérios que devem presidir à distribuição, no respeito pelo princípio do juiz natural;
 
-5 - Durante o período em que exerce funções, o presidente do tribunal frequenta, obrigatoriamente, curso de formação específico, o qual inclui, designadamente, as seguintes áreas de competências:
+d) Determinar os casos em que, para uniformização de jurisprudência, devem intervir no julgamento todos os juízes do tribunal;
 
-a) Organização e atividade administrativa;
+e) Assegurar o andamento dos processos no respeito pelos prazos estabelecidos, podendo determinar a substituição provisória do relator, por redistribuição, em caso de impedimento prolongado;
 
-b) Organização do sistema judicial e administração do tribunal;
+f) Planear e organizar os recursos humanos do tribunal, assegurando uma equitativa distribuição de processos pelos juízes e o acompanhamento do seu trabalho;
 
-c) Gestão do tribunal e gestão processual;
+g) Solicitar o suprimento de necessidades de resposta adicional através do recurso à bolsa de juízes;
 
-d) Simplificação e agilização processuais;
+h) Estabelecer a forma mais equitativa de intervenção dos juízes-adjuntos;
 
-e) Avaliação e planeamento;
+i) Providenciar pela redistribuição equitativa dos processos no caso de alteração do número de juízes;
 
-f) Gestão de recursos humanos e liderança;
+j) Fixar os turnos de juízes;
 
-g) Gestão dos recursos orçamentais, materiais e tecnológicos;
+l) Exercer a acção disciplinar sobre os funcionários de justiça em serviço no tribunal, relativamente a penas de gravidade inferior à de multa;
 
-h) Informação e conhecimento;
+m) Dar posse ao secretário do tribunal;
 
-i) Qualidade, inovação e modernização.
+n) Elaborar um relatório anual sobre o estado dos serviços;
 
-6 - O curso de formação é ministrado pelo Conselho Superior dos Tribunais Administrativos e Fiscais, com a eventual colaboração de outras entidades formadoras, nos termos definidos por portaria do membro do Governo responsável pela área da justiça.
+o) Exercer as demais funções que lhe sejam atribuídas por lei.
+
+4 - Sem prejuízo do disposto no n.º 2, o Conselho Superior dos Tribunais Administrativos e Fiscais estabelece em que condições há distribuição de processos aos presidentes dos tribunais administrativos de círculo e, quando as circunstâncias o justifiquem, determina a redução do número dos processos que, nesse caso, lhes devem ser distribuídos.

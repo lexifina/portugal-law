@@ -10,6 +10,6 @@ São órgãos da jurisdição administrativa e fiscal:
 
 a) O Supremo Tribunal Administrativo;
 
-b) Os tribunais centrais administrativos;
+b) O Tribunal Central Administrativo;
 
 c) Os tribunais administrativos de círculo e os tribunais tributários.

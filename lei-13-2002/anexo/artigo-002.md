@@ -2,4 +2,4 @@
 
 ### Independência
 
-Os tribunais da jurisdição administrativa e fiscal são independentes e apenas estão sujeitos à lei e ao Direito.
+Os tribunais da jurisdição administrativa e fiscal são independentes e apenas estão sujeitos à lei.

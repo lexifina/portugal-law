@@ -1,8 +1,8 @@
 # Artigo 36.º
 
-### Competência dos presidentes dos tribunais centrais administrativos
+### Competência do Presidente
 
-1 - Compete ao presidente de cada tribunal central administrativo:
+1 - Compete ao Presidente do Tribunal Central Administrativo:
 
 a) Representar o Tribunal e assegurar as relações deste com os demais órgãos de soberania e quaisquer autoridades;
 
@@ -30,7 +30,7 @@ m) Solicitar o suprimento de necessidades de resposta adicional através do recu
 
 n) Estabelecer a forma mais equitativa de intervenção dos juízes-adjuntos;
 
-o) Agregar transitoriamente a uma secção juízes de outra secção ou a uma subsecção juízes de outra subsecção, a fim de acorrerem a necessidades temporárias de serviço;
+o) Agregar transitoriamente a uma secção juízes de outra secção, a fim de acorrerem a necessidades temporárias de serviço;
 
 p) Fixar os turnos de juízes;
 
@@ -40,9 +40,7 @@ r) Dar posse ao secretário do Tribunal;
 
 s) Elaborar um relatório anual sobre o estado dos serviços;
 
-t) Conhecer dos conflitos de competência entre tribunais administrativos de círculo, tribunais tributários ou juízos de competência especializada, da área de jurisdição do respetivo tribunal central administrativo;
-
-u) Exercer as demais funções que lhe sejam atribuídas por lei.
+t) Exercer as demais funções que lhe sejam atribuídas por lei.
 
 2 - O Presidente é apoiado administrativamente por um secretário pessoal, nos termos a fixar em diploma complementar.
 

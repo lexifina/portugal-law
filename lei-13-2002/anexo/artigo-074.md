@@ -14,7 +14,7 @@ a) Nomear, colocar, transferir, promover, exonerar e apreciar o mérito profissi
 
 b) Apreciar, admitir, excluir e graduar os candidatos em concurso;
 
-c) Conhecer das impugnações administrativas interpostas de decisões materialmente administrativas proferidas, em matéria disciplinar, pelos presidentes dos tribunais centrais administrativos, pelos presidentes dos tribunais administrativos de círculo e pelos presidentes dos tribunais tributários, bem como de outras que a lei preveja;
+c) Conhecer das impugnações administrativas interpostas de decisões materialmente administrativas proferidas, em matéria disciplinar, pelo Presidente do Tribunal Central Administrativo, pelos presidentes dos tribunais administrativos de círculo e pelos presidentes dos tribunais tributários, bem como de outras que a lei preveja;
 
 d) Ordenar averiguações, inquéritos, sindicâncias e inspecções aos serviços dos tribunais da jurisdição administrativa e fiscal;
 
@@ -30,8 +30,6 @@ i) Emitir os cartões de identidade dos juízes, de modelo idêntico aos dos ju�
 
 j) Propor ao Ministro da Justiça providências legislativas com vista ao aperfeiçoamento e à maior eficiência da jurisdição administrativa e fiscal;
 
-k) Fixar, sob proposta dos respetivos presidentes, o número e o tipo de vagas, que podem ser mistas, nos juízos de competência especializada e o número de vagas nas subsecções dos tribunais centrais administrativos, dentro do respetivo quadro, tendo em atenção o volume e a complexidade do serviço;
-
 l) Emitir parecer sobre as iniciativas legislativas que se relacionem com a jurisdição administrativa e fiscal;
 
 m) Fixar, anualmente, com o apoio do departamento do Ministério da Justiça com competência no domínio da auditoria e modernização, o número máximo de processos a distribuir a cada magistrado e o prazo máximo admissível para os respectivos actos processuais cujo prazo não esteja estabelecido na lei;
@@ -40,14 +38,12 @@ n) Gerir a bolsa de juízes;
 
 o) Estabelecer os critérios que devem presidir à distribuição nos tribunais administrativos, no respeito pelo princípio do juiz natural;
 
-p) Nomear, de entre juízes jubilados que tenham exercido funções nos tribunais superiores da jurisdição administrativa e fiscal, o presidente do órgão deontológico no âmbito da arbitragem administrativa e tributária sob a organização do Centro de Arbitragem Administrativa;
-
-q) Exercer os demais poderes conferidos no presente Estatuto e na lei.
+p) Exercer os demais poderes conferidos no presente Estatuto e na lei.
 
 3 - O Conselho pode delegar no presidente, ou em outros dos seus membros, a competência para:
 
 a) Praticar actos de gestão corrente e aprovar inspecções;
 
-b) Nomear os juízes para uma das secções do Supremo Tribunal Administrativo e dos tribunais centrais administrativos;
+b) Nomear os juízes para uma das secções do Supremo Tribunal Administrativo e do Tribunal Central Administrativo;
 
 c) Ordenar inspecções extraordinárias, averiguações, inquéritos e sindicâncias.

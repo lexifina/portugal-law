@@ -8,9 +8,9 @@
 
 Compete à Secção de Contencioso Tributário do Supremo Tribunal Administrativo conhecer:
 
-a) Dos recursos dos acórdãos da Secção de Contencioso Tributário dos tribunais centrais administrativos, proferidos em primeiro grau de jurisdição;
+a) Dos recursos dos acórdãos da Secção de Contencioso Tributário do Tribunal Central Administrativo, proferidos em 1.º grau de jurisdição;
 
-b) Dos recursos interpostos de decisões de mérito dos tribunais tributários, com exclusivo fundamento em matéria de direito, sempre que o valor da causa seja superior à alçada dos tribunais centrais administrativos e o valor da sucumbência seja superior a metade da alçada do tribunal de que se recorre;
+b) Dos recursos interpostos de decisões dos tribunais tributários com exclusivo fundamento em matéria de direito;
 
 c) Dos recursos de actos administrativos do Conselho de Ministros respeitantes a questões fiscais;
 
@@ -20,6 +20,6 @@ e) Dos pedidos relativos à execução das suas decisões;
 
 f) Dos pedidos de produção antecipada de prova, formulados em processo nela pendente;
 
-g) (Revogada.)
+g) Dos conflitos de competência entre tribunais tributários;
 
 h) De outras matérias que lhe sejam deferidas por lei.
