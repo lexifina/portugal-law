@@ -1,0 +1,10 @@
+Despacho Normativo n.º 65/95
+Considerando que o n.º 3 do artigo 2.º do Regulamento de Aplicação do Programa Operacional RETEX, aprovado pelo Despacho Normativo n.º 266/93, de 27 de Agosto, publicado no Diário da República, 1.ª série, n.º 214, de 11 de Setembro de 1993, entende como início dos projectos a data da factura mais antiga, admitindo adiantamentos para sinalização até 25% do custo da despesa elegível no que diz respeito às medidas B1 e B3 sempre que os documentos justificativos desse adiantamento se refiram aos 90 dias que antecedem a data de entrega das candidaturas;
+Considerando que se tem vindo a constatar que esta condição de acesso não tem em consideração a especificidade de alguns tipos de projectos, conduzindo à correspondente inelegibilidade de parcelas substanciais de custos, situação particularmente visível nas presenças em show-rooms, trade marks e feiras e exposições internacionais onde a grande concorrência aos melhores espaços tem vindo a impor antecipações cada vez com maior antecedência e maior percentagem:
+Determina-se o seguinte:
+O artigo 2.º do Regulamento de Aplicação do Programa Operacional RETEX, aprovado nos termos do Despacho Normativo n.º 266/93, de 27 de Agosto, publicado no Diário da República, 1.ª série, n.º 214, de 11 de Setembro de 1993, passa a incluir um novo número, com a seguinte redacção:
+Art. 2.º - 1 - ...
+2 - ...
+3 - ...
+4 - Excepcionam-se da percentagem e prazos referidos no número anterior as despesas relativas ao aluguer de espaço e decoração, no caso da presença em show-rooms, trade marks e feiras e exposições internacionais enquadradas nas medidas B1 e B3, em que, desde que justificado, poderá ser aceite a antecipação integral das despesas elegíveis acima referidas, em data anterior à candidatura, num período nunca superior a um ano.
+Ministérios do Planeamento e da Administração do Território e do Comércio e Turismo, 9 de Outubro de 1995. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado do Comércio.
