@@ -1,0 +1,52 @@
+Decreto-Lei n.º 322/97
+de 26 de Novembro
+O Decreto-Lei n.º 182/87, de 21 de Abril, não estabelece expressamente que a Caixa Central participe no Fundo de Garantia do Crédito Agrícola Mútuo, embora seja sua contribuinte.
+Tal facto dever-se-á à circunstância de, na altura, não estar previsto na lei que aquela instituição recebesse depósitos do público.
+Havendo, entretanto, o Decreto-Lei n.º 24/91, de 11 de Janeiro, alterado aquela circunstância, justifica-se esclarecer que a referida Caixa Central é participante no mencionado Fundo de Garantia.
+Igualmente se justifica tornar claro que não podem ser participantes do mesmo Fundo as caixas agrícolas que, por não pertencerem ao Sistema Integrado do Crédito Agrícola Mútuo, participam obrigatoriamente no Fundo de Garantia de Depósitos, previsto nos artigos 154.º e seguintes do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro.
+Foram ouvidos o Banco de Portugal, a Caixa Central de Crédito Agrícola Mútuo e a Federação Nacional das Caixas de Crédito Agrícola Mútuo.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo único
+Os artigos 2.º, 3.º, 6.º, 8.º, 9.º, 14.º e 16.º do Decreto-Lei n.º 182/87, de 21 de Abril, passam a ter a seguinte redacção:
+«Artigo 2.º
+[...]
+O Fundo tem por objecto, com vista à defesa do sistema integrado do crédito agrícola mútuo, realizar e promover as acções que considere necessárias para assegurar a solvabilidade e liquidez da Caixa Central de Crédito Agrícola Mútuo e pelas caixas de crédito agrícola mútuo suas associadas.
+Artigo 3.º
+[...]
+Participam obrigatoriamente no Fundo a Caixa Central e as caixas de crédito agrícola mútuo suas associadas.
+Artigo 6.º
+[...]
+1 - ...
+a) Contribuições anuais das participantes;
+b) ...
+c) ...
+d) ...
+e) ...
+2 - ...
+a) Para as caixas de crédito agrícola mútuo, 1% do montante dos capitais alheios recebidos por empréstimo ou depósito, deduzido da soma das disponibilidades com as aplicações em instituições de crédito no País e dos montantes relativos a instrumentos de dívida subordinada susceptíveis de integrarem os fundos próprios das entidades emitentes;
+b) ...
+3 - ...
+4 - ...
+Artigo 8.º
+[...]
+As participantes devem facultar ao Fundo a consulta dos documentos e fornecer-lhe os elementos informativos que este considere necessários à realização do seu objecto, sendo os titulares dos seus órgãos e os que lhe prestam serviços, a qualquer título, obrigados a guardar sigilo bancário.
+Artigo 9.º
+[...]
+1 - O Fundo poderá notificar qualquer participante para que adopte as medidas necessárias ao restabelecimento da sua situação patrimonial, quando considere que se encontram em perigo o seu normal funcionamento ou a sua solvabilidade.
+2 - Para a realização do seu objecto, poderá o Fundo conceder subsídios ou empréstimos às participantes, prestar garantias a seu favor e adquirir-lhes créditos ou quaisquer outros valores do seu activo.
+3 - O Fundo poderá condicionar a sua assistência a qualquer participante à aceitação expressa por esta do conjunto de regras, de gestão e outras, que entenda necessárias à correcção das situações que determinaram a necessidade de assistência.
+4 - Quando a gravidade da situação o aconselhar, a assistência poderá ser condicionada à aceitação pela participante assistida do acompanhamento da sua acção por delegação do Fundo com poderes para impedir a execução de qualquer das suas deliberações.
+5 - Nas mesmas circunstâncias, poderá ainda o Fundo requerer a convocação de reuniões da assembleia geral de qualquer participante e nelas intervir para informação aos associados e proposição de medidas.
+Artigo 14.º
+[...]
+A comissão directiva apresentará, até 31 de Março de cada ano, para aprovação do Ministro das Finanças, o relatório e contas da actividade do Fundo referidos a 31 de Dezembro do ano anterior, acompanhados de parecer do CABP e de proposta de aplicação dos recursos tidos por excedentários e eventual retorno dos mesmos às participantes, na proporção das suas contribuições.
+Artigo 16.º
+[...]
+O disposto no presente diploma em nada prejudica as regras de solvabilidade e liquidez aplicáveis às participantes, assim como as funções de supervisão e controlo previstas na legislação em vigor.»
+Visto e aprovado em Conselho de Ministros de 9 de Outubro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
+Promulgado em 5 de Novembro de 1997.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 13 de Novembro de 1997.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
