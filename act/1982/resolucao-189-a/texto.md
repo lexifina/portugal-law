@@ -1,0 +1,4 @@
+Resolução n.º 189-A/82
+Ao abrigo do disposto na alínea c) do artigo 146.º e no n.º 1 do artigo 281.º da Constituição, o Conselho da Revolução, a solicitação do Presidente da Assembleia da República e do Provedor de Justiça e precedendo parecer da Comissão Constitucional, resolve declarar, com força obrigatória geral, a inconstitucionalidade dos artigos 34.º, n.º 2, e 43.º, n.º 2, da Lei n.º 85/77, de 13 de Dezembro, e 101.º, n.º 2, e 121.º, n.º 5, da Lei n.º 39/78, de 5 de Julho, com a redacção que lhe foi dada pelo Decreto-Lei n.º 264-C/81, de 3 de Setembro, inconstitucionalidade que se restringe à parte em que se permite que magistrados classificados com Suficiente sejam transferidos por conveniência de serviço, e se fundamenta na violação dos artigos 221.º, n.º 1, e 225.º, n.º 1, da Constituição da República Portuguesa.
+Aprovada em Conselho da Revolução em 20 de Outubro de 1982.
+O Presidente do Conselho da Revolução, António Ramalho Eanes.
