@@ -1,0 +1,5 @@
+Aviso n.º 287/98
+Por ordem superior se torna público que, nos termos do artigo 6.º, parágrafo 5.º, da Convenção Relativa à Emissão de Certidões Plurilingues de Actos de Registo Civil (Convenção CIEC n.º 16), assinada em Viena em 8 de Setembro de 1976, o Departamento Federal dos Negócios Estrangeiros da Confederação Helvética notificou que a Bélgica notificou em 2 de Junho de 1997 o Conselho Federal Suíço do cumprimento dos procedimentos requeridos pela sua Constituição para tornar aplicável a Convenção no seu território.
+Nos termos do artigo 13.º, parágrafo 2.º, a Convenção produz efeitos para a Bélgica a partir do 30.º dia posterior à data do depósito da sua notificação, ou seja, 2 de Julho de 1997.
+Portugal é parte na mesma Convenção, que foi aprovada, para adesão, pelo Decreto do Governo n.º 34/83, de 12 de Maio, tendo notificado o Estado depositário de se encontrarem cumpridas as formalidades constitucionais, em 30 de Junho de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 174, de 30 de Julho de 1983.
+Departamento de Assuntos Jurídicos, 30 de Novembro de 1998. - O Director, José Maria Teixeira Leite Martins.
