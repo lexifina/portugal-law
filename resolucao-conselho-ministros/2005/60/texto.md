@@ -1,0 +1,8 @@
+Resolução do Conselho de Ministros n.º 60/2005
+Em 24 de Julho de 2003, ao abrigo da Resolução do Conselho de Ministros n.º 99/2003, de 7 de Agosto, foi celebrado entre o Estado Português e a Robinson 2 Revestimentos - Aglomerados Compostos de Cortiça, S. A., um contrato de investimento nos termos do qual foi atribuído um conjunto de incentivos de natureza financeira e fiscal a um projecto de criação de uma unidade industrial em Portalegre.
+Tal projecto visa a produção de uma gama de produtos corticeiros diferenciados e de qualidade superior e insere-se na estratégia de reestruturação da unidade mãe, a sociedade Corticeira Robinson, Bros., S. A.
+O prazo previsto no referido contrato para a realização do investimento foi, entretanto, alterado, passando de Julho de 2002 a Dezembro de 2004 para o período de Julho de 2003 a Dezembro de 2005, implicando, deste modo, a reformulação do anterior projecto de investimento a alteração em conformidade do contrato assinado em 2003 e respectivos anexos.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+É aprovada a minuta do aditamento ao contrato de investimento e respectivos anexos, que passa a integrar o contrato de investimento outorgado em 24 de Julho de 2003, a celebrar entre o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento, I. P. (IAPMEI), e a sociedade Robinson 2 Revestimentos - Aglomerados Compostos de Cortiça, S. A., ficando o original do contrato arquivado no IAPMEI.
+Presidência do Conselho de Ministros, 2 de Fevereiro de 2005. - O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
