@@ -1,0 +1,109 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=NcsHHdaa6jvttRWoxPJ73b3%2f2%2ftQZdxqvgcwR9HhU6U72YBnemmk1zfDnkyJC2khVisd94odYdzMlZ0%2f%2fX4wPsJ79iFJjtn07b3tBvqgQzvKu%2bXIs%2bW%2fX8sXyHLXgUpmADPU0OwIHExaxkaIGSH27FrUlMES%2fqZOhmEHSO3a6tOd8bMJIApMe8Js7ZDhWUXISToTI6Gt9UghhDLfWD%2bHtBCeQ2qHGcYyClLE8utG3Stl1XFXCi888QLjScx4CE8zDeHjIbAAJuoVAsMVPsZ7keNRSzw3mFkm%2f1dLA2Gj4Wi2z4QDYrHPqtV%2f0OYUVaYz3wUZej3UCuBc0xVIyPkQ5n1u3x%2bvYwtMviSRulY3%2bLc%3d&fich=AtividadesX_json.txt&Inline=true",
+  "ficheiro_sha256": "ebfe74c166306d899b60b6dc4babfc7d5533752981b0ad8bca289da158595cb6",
+  "legislatura": "X",
+  "tipo": "Eleições e composições de órgãos",
+  "numero": null,
+  "data_registo": "2005-03-31",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Eleição de Membros da Comissão de Acesso aos Documentos Administrativos (CADA)",
+    "AutoresGP": null,
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "2005-03-31",
+    "DescTipo": "Eleições e composições de órgãos",
+    "Eleitos": [
+      {
+        "cargo": "Efectivo",
+        "nome": "Osvaldo Alberto Rosário Sarmento e Castro"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "Luís Filipe Montenegro Cardoso de Morais Esteves"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Ana Catarina Veiga Santos Mendonça Mendes"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Fernando Santos Pereira"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Legislatura": "X",
+    "Numero": null,
+    "Observacoes": "V.  Declaração da Assembleia da República nº 17/2005 - DR I S A 174, de 2005-09-09",
+    "OrgaoExterior": "Comissão de Acesso aos Documentos Administrativos",
+    "OutrosSubscritores": null,
+    "Publicacao": null,
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": [
+      "5723",
+      "5716"
+    ],
+    "Tipo": "OEX",
+    "TipoAutor": null,
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2005-04-07",
+        "descricao": null,
+        "detalhe": null,
+        "id": "32956",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "298436",
+            "obs": null,
+            "pag": [
+              "213-213"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-04-08",
+            "pubLeg": "X",
+            "pubNr": "6",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/006/2005-04-08/213?pgs=213&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "298462",
+            "obs": "Anúncio",
+            "pag": [
+              "223-223"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2005-04-14",
+            "pubLeg": "X",
+            "pubNr": "7",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/01/007/2005-04-14/223?pgs=223&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "6",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
