@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 7-X/2000
+Para os devidos efeitos se declara que o Decreto-Lei n.º 147/2000, publicado no Diário da República, 1.ª série, n.º 164, de 18 de Julho de 2000, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No n.º 2 do artigo 6.º, onde se lê «Sempre que a CATPF considere que um determinado produto fitofarmacêutico constante das portarias a que se refere o n.º 1 do artigo 3.º» deve ler-se «Sempre que, devido a novos conhecimentos científicos e técnicos, a CATPF considere que um determinado produto fitofarmacêutico constante dos despachos a que se refere o n.º 3 do artigo 3.º».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Agosto de 2000. - O Secretário-Geral, Alexandre Figueiredo.
