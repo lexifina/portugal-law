@@ -1,0 +1,6 @@
+Despacho Normativo n.º 16-A/78
+Considerando que os Serviços Médico-Sociais da Previdência foram transferidos para o âmbito da Secretaria de Estado da Saúde, nos termos do artigo 1.º do Decreto-Lei n.º 17/77, de 12 de Janeiro, tendo o respectivo pessoal continuado a ser abrangido pela anterior legislação do trabalho, com manutenção de todas as regalias e direitos adquiridos, nos termos do artigo 8.º do Decreto Regulamentar n.º 12/77, de 7 de Fevereiro;
+Considerando que se mantém aquela situação e que nesta data é publicada a actualização da regulamentação de trabalho para o pessoal das instituições de previdência social;
+Considerando que se podem levantar dúvidas se esta legislação actualizada é aplicável ao pessoal dos Serviços Médicos-Sociais:
+Determino, ao abrigo do artigo 12.º do Decreto Regulamentar n.º 12/77, de 7 de Fevereiro, que o pessoal dos Serviços Médico-Sociais a que se refere o artigo 8.º do Decreto Regulamentar n.º 12/77, de 7 de Fevereiro, fique abrangido até à sua integração na função pública pela regulamentação de trabalho do pessoal das instituições de previdência e equiparados, aprovada pela Portaria n.º 38-A/77, nesta data publicada.
+Ministério dos Assuntos Sociais, 19 de Janeiro de 1978. - O Ministro dos Assuntos Sociais, Armando Bacelar.
