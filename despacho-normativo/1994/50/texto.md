@@ -1,0 +1,6 @@
+Despacho Normativo n.º 50/94
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/83, de 13 de Fevereiro, e nos n.os 6, 7 e 8, do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi dada pelo artigo 1.º daquele diploma;
+Considerando que o licenciado Luís Manuel Guimarães Perez Rodrigues, inspector principal de jogos do quadro de pessoal da Inspecção-Geral de Jogos, a exercer, em comissão de serviço, as funções de subinspector-geral de Jogos, reúne os requisitos necessários para acesso à categoria de assessor principal e requereu, ao abrigo do n.º 7 do artigo 18.º do citado Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, a criação do respectivo lugar:
+Determina-se o seguinte:
+É criado no quadro de pessoal da Inspecção-Geral de Jogos, anexo ao Decreto-Lei n.º 184/88, de 25 de Maio, alterado pela Portaria n.º 439/91, de 27 de Maio, um lugar de assessor principal na carreira técnica superior de inspecção, a extinguir quando vagar.
+Ministérios das Finanças e do Comércio e Turismo, 30 de Dezembro de 1993. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro do Comércio e Turismo, Alexandre Carlos de Mello Vieira Costa Relvas, Secretário de Estado do Turismo.
