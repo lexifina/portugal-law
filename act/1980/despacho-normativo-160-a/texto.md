@@ -1,0 +1,3 @@
+Despacho Normativo n.º 160-A/80
+Durante a missão ao estrangeiro, no período que vai de 19 a 24 de Maio de 1980, delego no Secretário de Estado da Energia e Minas, engenheiro António Joaquim Garras da Silva Pinto, as competências que para mim reservei no que concerne ao LNETI, GEP, GAPI, Secretaria-Geral e, consequentemente, delegações regionais e delego no Secretário de Estado da Indústria Transformadora, engenheiro Ricardo Manuel Bayão Horta, a acção de coordenação geral que me compete, bem como as competências que para mim reservei nos termos do Despacho n.º 65/80, de 7 de Fevereiro.
+Ministério da Indústria e Energia, 15 de Maio de 1980. - O Ministro da Indústria e Energia, Álvaro Roque de Pinho Bissaia Barreto.
