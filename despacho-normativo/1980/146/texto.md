@@ -1,0 +1,10 @@
+Despacho Normativo n.º 146/80
+Considerando que o artigo 18.º da Lei n.º 56/79, de 15 de Setembro, atribui autonomia administrativa e financeira ao Serviço Nacional de Saúde;
+Considerando que não está ainda criada a Administração Central de Saúde, nem nomeado o seu conselho directivo;
+Considerando, por outro lado, que foi entretanto criado o Departamento de Gestão Financeira dos Serviços de Saúde pelo Decreto-Lei n.º 513-I1/79, de 27 de Dezembro, ao qual compete, nos termos da Lei n.º 56/79 já citada, elaborar o orçamento e a conta do SNS e acompanhar e avaliar sistematicamente a execução orçamental, além de lhe competir também gerir os recursos financeiros disponíveis;
+Considerando que foi extinta a Comissão Coordenadora de Financiamento dos Serviços de Saúde e que haverá imediata necessidade de requisitar e gerir as verbas que a esta estavam afectas;
+Considerando conveniente esclarecer o alcance das obrigações que cabem ao Departamento no que respeita à elaboração dos orçamentos e contas do SNS:
+Nos termos do artigo 13.º do Decreto-Lei n.º 513-I1/79, de 27 de Dezembro, os Ministros das Finanças e do Plano e dos Assuntos Sociais, interpretando a lei, determinam:
+1 - O OGE para 1980 incluirá verbas globais destinadas ao Serviço Nacional de Saúde que, transitoriamente, enquanto não entrar em funcionamento o conselho directivo da Administração Central de Saúde previsto no artigo 35.º da Lei n.º 56/79, de 15 de Setembro, serão requisitadas e geridas pelo Departamento de Gestão Financeira dos Serviços de Saúde.
+2 - Fica esclarecido que o orçamento e as contas que o DGFSS deve elaborar, em execução do disposto no Decreto-Lei n.º 513-I1/79, de 27 de Dezembro (artigo 1.º, n.º 2, e artigo 11.º), são orçamentos e contas globais que não dispensam os que, com observância das disposições do Decreto-Lei n.º 264/78, de 30 de Agosto, devem ser organizados pelos serviços ou estabelecimentos do SNS dotados de autonomia.
+Ministérios das Finanças e do Plano e dos Assuntos Sociais, 18 de Abril de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro dos Assuntos Sociais, João António Morais Leitão.
