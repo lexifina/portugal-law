@@ -1,0 +1,223 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "tipo": "Projeto de Lei",
+  "numero": "413",
+  "id": "28630",
+  "fases": 5,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1989-06-22",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1989-10-14",
+    "DataInicioleg": "1988-10-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "249",
+        "nome": "Mendes Bota"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "55",
+        "nome": "Francisco Bernardino"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "14",
+        "nome": "António Vairinhos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "53",
+        "nome": "Filipe Abreu"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1255",
+        "nome": "Vieira  Mesquita"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2976",
+        "nome": "Fernando Conceição"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "59",
+        "nome": "Jaime Soares"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "359",
+        "nome": "Francisco Costa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "108",
+        "nome": "Manuel Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "250",
+        "nome": "Luís Neves Rodrigues"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "35",
+        "nome": "Carlos Coelho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3042",
+        "nome": "Manuel Soares Costa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2006",
+        "nome": "Assunção Esteves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "40",
+        "nome": "Duarte Lima"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "73",
+        "nome": "Fernandes Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "137",
+        "nome": "Vasco Miguel"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "117",
+        "nome": "Maria Manuela Aguiar"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "67",
+        "nome": "João Maçãs"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "32",
+        "nome": "Carlos Duarte"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "56",
+        "nome": "Guido Rodrigues"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2974",
+        "nome": "Ercília Ribeiro da Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2936",
+        "nome": "António Matos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "62",
+        "nome": "João Poças Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2947",
+        "nome": "Carla Diogo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2964",
+        "nome": "Coelho dos Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2969",
+        "nome": "Domingos e Sousa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "20",
+        "nome": "Paulo Pereira Coelho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "31",
+        "nome": "Carlos Lélis"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3078",
+        "nome": "Valdemar Alves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "95",
+        "nome": "Licinio Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "123",
+        "nome": "Miguel Macedo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "124",
+        "nome": "Miguel Relvas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2975",
+        "nome": "Evaristo Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "111",
+        "nome": "Conceição Castro Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "259",
+        "nome": "Amândio Oliveira"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "28630",
+    "IniLeg": "V",
+    "IniLinkTexto": "",
+    "IniNr": "413",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Estatuto remuneratório dos titulares de cargos políticos",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
