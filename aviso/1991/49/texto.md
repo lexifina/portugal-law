@@ -1,0 +1,4 @@
+Aviso n.º 49/91
+Por ordem superior se torna público que Malta procedeu, a 13 de Setembro de 1990, à ratificação do Pacto Internacional sobre os Direitos Económicos, Sociais e Culturais, adoptado pela Assembleia Geral das Nações Unidas em 16 de Dezembro de 1966, retirando a reserva ao artigo 10.º, § 2.º, e apresentando uma nova reserva ao artigo 13.º do citado Pacto.
+Na mesma data, Malta aderiu ao Pacto Internacional sobre os Direitos Civis e Políticos, e ao respectivo Protocolo Adicional, formulando reservas aos artigos 13.º, 14.º, §§ 2.º e 6.º, 19.º, 20.º e 22.º, e declarando reconhecer a competência do Comité dos Direitos Humanos, nos termos do artigo 41.º do referido Pacto.
+Direcção-Geral dos Negócios Político-Económicos, 14 de Março de 1991. - O Director de Serviços dos Assuntos Multilaterais, António Santana Carlos.
