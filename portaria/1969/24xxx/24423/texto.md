@@ -1,0 +1,13 @@
+Portaria n.º 24423
+Tornando-se necessário estabelecer as condições e formalidades a observar na habilitação, processamento e comprovação do direito ao subsídio de guarnição;
+Tendo em atenção o disposto no artigo 5.º do Decreto-Lei n.º 49349, de 31 de Outubro de 1969:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáutica:
+1.º A habilitação ao direito do subsídio de guarnição far-se-á com a entrega pelos interessados, devidamente preenchido e em duplicado, de um boletim do modelo a fixar pelo Secretário de Estado da Aeronáutica.
+2.º Sempre que haja alteração nas declarações anteriormente prestadas, deverá o interessado preencher um novo boletim, também em duplicado.
+3.º A prova do estado civil é feita pelo comandante, director ou chefe do comando, unidade ou outro organismo onde se encontre colocado o militar, em face dos averbamentos efectuados nos respectivos documentos de matrícula; as demais provas deverão constar de atestados das entidades competentes ou de certidões, às quais será aplicável o disposto na alínea c) do artigo 29.º da tabela de emolumentos anexa ao Decreto-Lei n.º 41967, de 22 de Novembro de 1958; são admitidas também declarações prestadas por militares de posto igual ou superior ao do interessado, excepto quanto a situações de incapacidade física, que terão de ser comprovadas por atestado médico confirmado pelas autoridades sanitárias competentes, fixando-se em seis meses o seu período de validade.
+4.º Aos interessados que apresentarem os seus boletins com as declarações a que se refere o n.º 3.º desta portaria pode, em qualquer momento, ser exigida prova documental, a fim de ser confirmada a situação actual das pessoas que estão dando direito ao abono.
+5.º O boletim a que se refere o n.º 1.º será entregue pelo interessado, em duplicado, na secretaria do comando, unidade ou organismo onde o militar preste serviço, que o remeterá, depois de confirmado pelo comandante, director ou chefe, ao serviço que efectuar o abono do subsídio.
+6.º Um exemplar do boletim ficará arquivado no serviço que efectuar o abono, devendo o outro ser remetido à estação verificadora. Os oficiais verificadores não podem liquidar os abonos do subsídio sem terem recebido o exemplar do boletim devidamente preenchido.
+7.º Os conselhos administrativos abonam o subsídio, incluindo-o na respectiva folha de vencimentos, mas não o poderão abonar sem primeiro terem recebido em duplicado o boletim devidamente preenchido.
+8.º As dúvidas e os casos omissos serão resolvidos por despacho do Secretário de Estado da Aeronáutica.
+Secretaria de Estado da Aeronáutica, 20 de Novembro de 1969. - O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.
