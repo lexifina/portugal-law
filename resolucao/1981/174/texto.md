@@ -1,0 +1,3 @@
+Resolução n.º 174/81
+O Conselho de Ministros, reunido em 21 de Julho de 1981, resolveu, ao abrigo do n.º 1 do artigo 6.º dos Estatutos da Dragapor - Dragagens de Portugal, E. P., aprovados pelo Decreto-Lei n.º 332/77, de 10 de Agosto, com a redacção introduzida pelo Decreto-Lei n.º 144/78, de 16 de Junho, renovar os mandatos do engenheiro Victor Correia Távora e do comandante Júlio Alberto Coelho Carvalho Pereira, respectivamente presidente e vogal do conselho de gerência da Dragapor - Dragagens de Portugal, E. P.
+Presidência do Conselho de Ministros, 21 de Julho de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
