@@ -43,3 +43,5 @@ b) Os bens dados em pagamento não terem valor superior à dívida exequenda e a
 16 - Autorizada a dação em pagamento, seguir-se-ão, na parte aplicável, as regras previstas nas alíneas c) e d) do artigo 255.º deste Código.
 
 17 - O terceiro a que se refere o n.º 1 só ficará sub-rogado nos direitos da Fazenda Pública nos termos e condições definidos nos artigos 91.º e 92.º do presente Código.
+
+18 - As despesas de avaliação, que compreendem os salários e abonos de transporte dos membros da comissão constituída por promoção do órgão de execução fiscal, serão fixadas por portaria do Ministro das Finanças.
