@@ -1,0 +1,5 @@
+Despacho
+A Comissão de Classificação dos Espectáculos, criada pelo Decreto-Lei n.º 652/76, de 31 de Julho, e regulamentada quanto às suas atribuições e modo de funcionamento pela Portaria n.º 467/76, da mesma data, terá de submeter à consideração do Ministro da Comunicação Social o projecto do seu regulamento interno no prazo de dois meses, a contar da publicação desde último diploma legal.
+Este condicionalismo, pressuposto necessário à efectiva entrada em funções da referida Comissão, terá, no entanto, de ceder à imperiosa necessidade de manter uma regular apreciação e classificação dos espectáculos.
+Assim, e dado o trabalho altamente meritório e isento que a Comissão de Classificação Etária de Espectáculos desenvolveu ao longo do período em que exerceu a sua actividade, determino, pelo presente despacho, que esta Comissão se mantenha em exercício, com todas as atribuições que por lei lhe competem, até à data da entrada em funções da Comissão de Classificação dos Espectáculos.
+Secretaria de Estado da Comunicação Social, 16 de Agosto de 1976. - O Secretário de Estado da Comunicação Social, Manuel Alegre de Melo Duarte.
