@@ -1,0 +1,5 @@
+Portaria n.º 240/82
+de 25 de Fevereiro
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Educação e das Universidades e da Reforma Administrativa, que, face ao disposto no n.º 1 do artigo 20.º do Decreto-Lei n.º 191-C/79, de 25 de Junho, e de acordo com o Decreto-Lei n.º 465/80, de 14 de Outubro, e com as Portarias n.os 737/79, de 31 de Dezembro, e 598/81, de 16 de Julho, o quadro do pessoal do Instituto Bacteriológico de Câmara Pestana, aprovado pelo Decreto n.º 38123, de 29 de Dezembro de 1950, passe a ter a seguinte composição:
+(ver documento original)
+Ministérios das Finanças e do Plano, da Educação e das Universidades e da Reforma Administrativa, 29 de Janeiro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Educação e das Universidades, Vítor Pereira Crespo. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
