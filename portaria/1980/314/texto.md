@@ -1,0 +1,4 @@
+Portaria n.º 314/80
+de 4 de Junho
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Habitação e Obras Públicas e pelo Secretário de Estado da Reforma Administrativa, que, ao abrigo do disposto no n.º 1 dos artigos 13.º e 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, seja criado no quadro do Fundo de Fomento da Habitação um lugar de assessor (letra C), a prover pelo director de serviços, de nomeação definitiva, Luís Filipe Ranito Nave Catalão, regressado de licença ilimitada, o qual será extinto logo que vagar.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Habitação e Obras Públicas, 31 de Março de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro da Habitação e Obras Públicas, João Lopes Porto. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
