@@ -1,0 +1,10 @@
+Portaria n.º 98-A/79
+de 26 de Fevereiro
+A medida excepcional de requisição civil dos trabalhadores da empresa Telefones de Lisboa e Porto, E. P., efectivada pela Portaria n.º 78-A/79, de 12 de Fevereiro, foi determinada por exigências de defesa da ordem e do interesse públicos e da economia nacional face a interesses particulares e sectoriais em situação, por assim dizer, de pré-emergência que a legitimou, bem como ao modo como foi regulamentada, aliás em tudo idêntico a precedentes casos de requisição civil decretada após a entrada em vigor da Constituição Política.
+Considerando que, graças a essa e outras medidas para o efeito determinadas, em termos consentâneos com a legalidade democrática e no exercício firme da autoridade do Estado, pelo Governo se acha restabelecida a normalidade do funcionamento da empresa, para o que contribuiu de modo assinalável o esforço colectivo desenvolvido pelos respectivos trabalhadores;
+Considerando que, desta forma, por um lado, se encontra assegurada a satisfação das necessidades sociais servidas por aquela empresa e, por outro lado, estão reunidos os pressupostos indispensáveis à resolução do conflito colectivo de trabalho existente na empresa;
+Considerando que foram, portanto, atingidos os objectivos prosseguidos pela referida requisição civil, revelando-se desnecessária a sua manutenção, o que foi reconhecido pelo Conselho de Ministros:
+Manda o Governo da República Portuguesa, pelos Ministros do Trabalho e dos Transportes e Comunicações, o seguinte:
+1.º É dada por finda a requisição civil determinada pela Portaria n.º 78-A/79, de 12 de Fevereiro.
+2.º É dissolvida a comissão directiva constituída nos termos do n.º 7.º da Portaria n.º 78-A/79, citada, com a redacção consagrada pela Portaria n.º 81-A/79, de 13 de Fevereiro.
+Ministérios do Trabalho e dos Transportes e Comunicações, 26 de Fevereiro de 1979. - O Ministro do Trabalho, Eusébio Marques de Carvalho - O Ministro dos Transportes e Comunicações, José Ricardo Marques da Costa.
