@@ -1,0 +1,3191 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "110",
+    "id": "3441",
+    "titulo": "Grandes Opções do Plano para 1995."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1994-11-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7995",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1994-11-24",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "3440",
+        "leg": "VI",
+        "nr": "111",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "116",
+            "obs": null,
+            "pag": [
+              "615-663"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1994-11-25",
+            "pubLeg": "VI",
+            "pubNr": "17",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/615?pgs=615-663&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "P",
+        "titulo": "Orçamento do Estado para 1995."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1994-11-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "54",
+                "nome": "Antunes da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41573",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "663-663"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/663?pgs=663&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "197",
+                "nome": "Capoulas Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41574",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "663-663"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/663?pgs=663&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "662-662"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/662?pgs=662&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA   AGRICULTURA",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Duarte Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "662-663"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/662?pgs=662-663&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "285",
+                "nome": "José Sócrates"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "661-662"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/661?pgs=661-662&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "163",
+                "nome": "Eduardo Ferro Rodrigues"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41578",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "661-661"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/661?pgs=661&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "119",
+                "nome": "Mário Maciel"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41579",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "660-660"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/660?pgs=660&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41581",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "660-660"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/660?pgs=660&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "285",
+                "nome": "José Sócrates"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41582",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "660-661"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/660?pgs=660-661&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "55",
+                "nome": "Francisco Bernardino Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41584",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "658-659"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/658?pgs=658-659&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "294",
+                "nome": "Costa e Oliveira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41585",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "658-658"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/658?pgs=658&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41586",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "657-657"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/657?pgs=657&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "197",
+                "nome": "Capoulas Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41587",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41588",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "656-656"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/656?pgs=656&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "125",
+                "nome": "Nuno Delerue"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41589",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "655-655"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/655?pgs=655&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "119",
+                "nome": "Mário Maciel"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41590",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "655-655"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/655?pgs=655&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "90",
+                "nome": "José Silva Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41591",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "654-654"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/654?pgs=654&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "285",
+                "nome": "José Sócrates"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41593",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "653-656"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/653?pgs=653-656&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "230",
+                "nome": "André Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41594",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "652-653"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/652?pgs=652-653&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "564",
+                "nome": "Luís Peixoto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41596",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "652-652"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/652?pgs=652&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41597",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "651-651"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/651?pgs=651&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "66",
+                "nome": "João Matos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41599",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "648-649"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/648?pgs=648-649&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41600",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "649-651",
+                  "653-653",
+                  "661-661",
+                  "662-662"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/649?pgs=649-651,653,661,662&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "188",
+                "nome": "Gameiro dos Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41602",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "647-648"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/647?pgs=647-648&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "182",
+                "nome": "Martins Goulart"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41603",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "646-646"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/646?pgs=646&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "199",
+                "nome": "Maria Julieta Sampaio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41604",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "645-645"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/645?pgs=645&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41605",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "645-645"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/645?pgs=645&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "629",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41606",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "645-645"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/645?pgs=645&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41607",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "644-645"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/644?pgs=644-645&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  EDUCAÇÃO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Manuela Ferreira Leite"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41608",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "644-644"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/644?pgs=644&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "163",
+                "nome": "Eduardo Ferro Rodrigues"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41609",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "644-644"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/644?pgs=644&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41610",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "642-645"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/642?pgs=642-645&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "125",
+                "nome": "Nuno Delerue"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41611",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "641-644"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/641?pgs=641-644&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "146",
+                "nome": "Ana Maria Bettencourt"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41612",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "641-641"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/641?pgs=641&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  EDUCAÇÃO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Manuela Ferreira Leite"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41613",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "643-644"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/643?pgs=643-644&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "146",
+                "nome": "Ana Maria Bettencourt"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41614",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "643-643"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/643?pgs=643&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41615",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "643-643"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/643?pgs=643&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "125",
+                "nome": "Nuno Delerue"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41616",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "641-641"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/641?pgs=641&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41617",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "640-641",
+                  "643-643"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/640?pgs=640-641,643&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41618",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "639-640"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/639?pgs=639-640&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "832",
+                "nome": "Paulo Rodrigues"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41619",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "638-639"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/638?pgs=638-639&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  EDUCAÇÃO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Manuela Ferreira Leite"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41620",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "636-639",
+                  "640-640",
+                  "642-642",
+                  "643-643",
+                  "646-646"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/636?pgs=636-639,640,642,643,646&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "774",
+                "nome": "Paulo Trindade"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41621",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "635-636"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/635?pgs=635-636&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "223",
+                "nome": "Adriano Moreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41622",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "633-635"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/633?pgs=633-635&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "66",
+                "nome": "João Matos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41623",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "632-632"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/632?pgs=632&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "213",
+                "nome": "José Manuel Maia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41624",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "631-632"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/631?pgs=631-632&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "188",
+                "nome": "Gameiro dos Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41625",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "630-630"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/630?pgs=630&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "270",
+                "nome": "Silva Peneda"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41626",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "159",
+                "nome": "Artur Penedos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41627",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "629-630"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/629?pgs=629-630&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "131",
+                "nome": "Rui Carp"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41628",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "623-623"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/623?pgs=623&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "338",
+                "nome": "Alípio Dias"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41629",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "623-623"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/623?pgs=623&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "273",
+                "nome": "Carlos Pinto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41630",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "622-623"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/622?pgs=622-623&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "443",
+                "nome": "Joaquim da Silva Pinto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41631",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "621-625"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/621?pgs=621-625&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "223",
+                "nome": "Adriano Moreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41632",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "618-619"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/618?pgs=618-619&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "832",
+                "nome": "Paulo Rodrigues"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41633",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "619-620"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/619?pgs=619-620&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41634",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "616-617"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/616?pgs=616-617&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41635",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "615-616"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/615?pgs=615-616&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO PLAN. ADM. TERRITORIO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Valente De Oliveira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41636",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO PLAN. ADM. TERRITORIO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Valente De Oliveira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107270",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  EDUCAÇÃO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Manuela Ferreira Leite"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107271",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "636-639",
+                  "640-640",
+                  "642-642",
+                  "643-643",
+                  "646-646"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/636?pgs=636-639,640,642,643,646&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  EDUCAÇÃO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Manuela Ferreira Leite"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107272",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "644-644"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/644?pgs=644&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA   AGRICULTURA",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Duarte Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107274",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "662-663"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/662?pgs=662-663&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO PLAN. ADM. TERRITORIO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Valente De Oliveira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107275",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO AMBIENTE REC.NATURAIS",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Teresa Patricio Gouveia"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107276",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "649-651",
+                  "653-653",
+                  "661-661",
+                  "662-662"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/649?pgs=649-651,653,661,662&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  EDUCAÇÃO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Manuela Ferreira Leite"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107277",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "643-644"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-25",
+                "pubLeg": "VI",
+                "pubNr": "17",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/017/1994-11-25/643?pgs=643-644&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO E GRANDES OPCOES DO PLANO 1995",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "273777",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
