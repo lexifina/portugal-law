@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1924/01/02000/01810181.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1924-01-26",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "f7dfec1d85550134b047fdc52707110d69e7c9ea9c5674d0a37c42125be0a35c",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.4,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "a092911a595e39b971b68b2f6f65d0338c7d5b02deee5466f0ed52291d316eb7",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 85
 }
