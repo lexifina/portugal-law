@@ -1,0 +1,5 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional, declarar como habilitações suficientes, em paralelo com o curso geral dos liceus:
+1.º A do curso de comércio, regulado pelo Decreto n.º 20420, de 20 de Outubro de 1931, para efeito de provimento nos cargos de tesoureiro e de terceiro-oficial do quadro do pessoal administrativo do Instituto Geográfico e Cadastral;
+2.º A de um curso industrial de formação profissional, regulado pelo citado Decreto n.º 20420, ou pelo Decreto n.º 37029, de 25 de Agosto de 1948, para efeito de provimento nos cargos de operador fotogramétrico de 3.ª classe, de gravador-desenhador de 2.ª classe, de desenhador-cartógrafo de 2.ª classe e de fotógrafo, todos do quadro do pessoal técnico do mencionado Instituto.
+Presidência do Conselho, 21 de Maio de 1964. - Pelo Presidente do Conselho, o Ministro de Estado adjunto do Presidente do Conselho, José Gonçalo da Cunha Sottomayor Correia de Oliveira.
