@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, e mediante proposta do Ministério da Educação Nacional, ouvido o Conselho Permanente da Acção Educativa, a habilitação do curso de comércio, regulado pelo Decreto n.º 20420, de 20 de Outubro de 1931, é declarada suficiente, em paralelo com o curso geral dos liceus, para provimento nos lugares de terceiro-oficial, segundo-oficial e primeiro-oficial dos Serviços Municipalizados da Câmara Municipal de Viana do Castelo.
+Presidência do Conselho, 17 de Outubro de 1973. - Pelo Presidente do Conselho, o Ministro de Estado, João Mota Pereira de Campos.
