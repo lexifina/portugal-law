@@ -1,0 +1,4 @@
+Aviso n.º 57/2004
+Por ordem superior se torna público que a República da Letónia depositou junto do Secretário-Geral do Conselho da Europa, em 1 de Julho de 2003, o seu instrumento de ratificação da Convenção Europeia sobre o Estatuto Jurídico das Crianças Nascidas fora do Casamento, aberta para assinatura em Estrasburgo em 15 de Outubro de 1975.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 34/82, publicado no Diário da República, 1.ª série, n.º 61, de 15 de Março de 1982, tendo depositado o seu instrumento de ratificação em 7 de Maio de 1982, conforme aviso publicado no Diário da República, 1.ª série, n.º 130, de 8 de Junho de 1982.
+Direcção-Geral dos Assuntos Multilaterais, 5 de Abril de 2004. - O Director de Serviços das Organizações Políticas Internacionais, Bernardo Fernandes Homem de Lucena.
