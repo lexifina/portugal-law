@@ -1,0 +1,3 @@
+Resolução n.º 150/81
+O Conselho de Ministros, reunido em 25 de Junho de 1981, resolveu, nos termos do artigo 2.º do Tratado entre a República Federal da Alemanha e a República de Portugal Relativo à Extradição e à Assistência Judiciária em Matéria Penal, de 8 de Abril de 1965, autorizar o prosseguimento do processo de extradição relativo ao cidadão Michele Giagnorio, acusado da prática de crimes de proxenetismo em concurso ideal com o crime de tráfico de seres humanos, puníveis pela legislação alemã com penas que poderão ir até dez anos de prisão.
+Presidência do Conselho de Ministros, 25 de Junho de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
