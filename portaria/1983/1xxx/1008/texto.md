@@ -1,0 +1,85 @@
+Portaria n.º 1008/83
+de 30 de Novembro
+Sob proposta do conselho científico do Instituto Superior de Agronomia, da Universidade Técnica de Lisboa;
+Ao abrigo do disposto nos Decretos-Leis n.os 173/80, de 29 de Maio, e 263/80, de 7 de Agosto, e no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:
+1.º
+(Criação)
+A Universidade Técnica de Lisboa, através do Instituto Superior de Agronomia, concede o grau de mestre em Economia Agrária e Sociologia Rural.
+2.º
+(Organização)
+O curso especializado conducente ao mestrado em Economia Agrária e Sociologia Rural, adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.
+3.º
+(Áreas de especialização)
+O curso estrutura-se em 2 áreas de especialização:
+a) Economia Agrária;
+b) Sociologia Rural.
+4.º
+(Áreas científicas)
+As áreas científicas do curso são a Economia Agrária e a Sociologia Rural.
+5.º
+(Áreas obrigatórias e optativas)
+1 - São áreas obrigatórias:
+a) Comuns às duas áreas de especialização:
+I) Teoria Económica;
+II) Economia do Desenvolvimento Rural;
+III) Métodos Quantitativos;
+b) Específicas de cada área de especialização:
+I) Economia Agrária:
+Política Agrícola e Alimentar;
+Gestão da Empresa Agrícola;
+II) Sociologia Rural:
+Estratificação e Mudanças Sociais;
+Sociologia Rural;
+Análise de Sistemas Agrários.
+2 - São áreas optativas:
+a) Mercados e Comercialização;
+b) Metodologia da Decisão e Análise de Projectos;
+c) Vulgarização e Difusão de Inovações.
+6.º
+(Duração normal)
+A duração normal do curso é de 3 semestres lectivos.
+7.º
+(Unidades de crédito)
+As unidades de crédito necessárias à conclusão do curso distribuem-se da seguinte forma:
+(ver documento original)
+8.º
+(Precedências)
+A tabela e regime de precedências serão fixados pelo conselho científico, ouvido o conselho pedagógico.
+9.º
+(Habilitações de acesso)
+1 - São admitidos à candidatura à matrícula no curso os titulares de uma licenciatura pelas universidades portuguesas em Agronomia, Economia, Engenharia Agro-Industrial, Silvicultura, Sociologia ou áreas afins ou habilitações legalmente equivalentes com a classificação mínima de 14 valores.
+2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.
+3 - Excepcionalmente, em casos devidamente justificados e nos termos do n.º 4 do n.º 10.º, o conselho científico poderá admitir à candidatura à matrícula no curso os titulares de outras licenciaturas pelas universidades portuguesas ou habilitações legalmente equivalentes cujo currículo demonstre uma adequada preparação científica de base.
+4 - Cabe ao conselho científico definir quais os cursos a incluir nas áreas afins referidas no n.º 1.
+10.º
+(Critérios de selecção)
+1 - Os candidatos à matrícula em cada curso serão seleccionados pelo conselho científico tendo em consideração os seguintes critérios:
+a) Classificação da licenciatura a que se refere o n.º 9.º ou de outros graus já obtidos pelos candidatos;
+b) Currículo académico, científico e técnico;
+c) Experiência docente.
+2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 2 do n.º 12.º, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino superior.
+3 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção para a avaliação do nível daqueles nas áreas científicas de base correspondentes ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco das licenciaturas ou outras como condição prévia para a candidatura à matrícula no curso.
+4 - Os candidatos a que se refere o n.º 3 do n.º 9.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.
+5 - A selecção a que se refere o presente número será feita pelo conselho científico, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.
+11.º
+(Regime geral)
+As regras de matrícula e inscrição, bem como o regime de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram o curso, serão as previstas na lei para os cursos de licenciatura, naquilo em que não forem contrariadas pelo disposto na presente portaria e pela natureza do curso.
+12.º
+(«Numerus clausus»)
+1 - O numerus clausus do curso será fixado anualmente por despacho do Ministro da Educação, sob proposta da Universidade.
+2 - Uma percentagem do numerus clausus, a fixar igualmente no despacho a que se refere o número anterior, será reservada a docentes de estabelecimentos de ensino superior.
+3 - Poderá igualmente ser fixado no mesmo despacho um número mínimo de inscrições indispensável ao funcionamento do curso.
+4 - Cada proposta de numerus clausus deverá ser acompanhada de um relatório comprovativo de estarem satisfeitas as condições referidas no n.º 14.º
+13.º
+(Calendário)
+Os prazos de candidatura e de inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o número anterior.
+14.º
+(Entrada em funcionamento)
+A entrada em funcionamento do curso ficará dependente da existência na Universidade da totalidade dos recursos humanos e materiais necessários à sua completa concretização.
+15.º
+(Dispensa das provas complementares de doutoramento)
+Os titulares de aprovação no curso terão dispensa das provas a que se refere o n.º 3 do artigo 8.º do Decreto-Lei n.º 388/70, de 18 de Agosto, para a obtenção do grau de doutor no ramo e especialidade correspondentes.
+Ministério da Educação.
+Assinada em 8 de Novembro de 1983.
+Pelo Ministro da Educação, António de Almeida Costa, Secretário de Estado Adjunto do Ministro da Educação.
