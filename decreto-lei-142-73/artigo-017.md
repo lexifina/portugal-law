@@ -2,8 +2,10 @@
 
 ### (Entrega directa do desconto)
 
-1. Os serviços não sujeitos a remessa de folhas as repartições da Direcção-Geral da Contabilidade Pública entregarão directamente nos cofres da Caixa, em conta do Montepio e no prazo referido no n.º 3 do artigo anterior, a importância dos descontos arrecadados.
+1 - Os serviços e entidades não sujeitos ao procedimento descrito no n.º 2 do artigo anterior entregarão directamente à CGA, por meio de guia ou de transferência bancária, até ao dia 15 do mês seguinte àquele a que digam respeito, a importância dos descontos arrecadados.
 
-2. A entrega será feita por meio de guia, acompanhada de um único exemplar da relação de descontos, em impresso de modelo aprovado oficialmente.
+2 - No mesmo prazo, serão enviadas à CGA as relações de descontos, em suporte digital ou através de correio electrónico.
 
-3. Quando os contribuintes se encontrem, nos termos da lei, em comissão de serviço militar ou civil, a entrega prevista nos números anteriores competirá ao serviço que abonar a remuneração sujeita a quota para a Caixa Geral de Aposentações.
+3 - O disposto nos números anteriores é aplicável às entidades onde os contribuintes se encontrem a prestar serviço com prejuízo do exercício do cargo pelo qual se encontram inscritos na CGA.
+
+4 - Os serviços e entidades cujo número de contribuintes seja inferior a 10 podem preencher e enviar à CGA as relações de descontos em suporte de papel.
