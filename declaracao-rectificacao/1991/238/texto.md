@@ -1,0 +1,4 @@
+Declaração de rectificação n.º 238/91
+Segundo comunicação da 8.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Agricultura, Pescas e Alimentação, a Declaração n.º 95/91, publicada no Diário da República, n.º 148, de 1 de Julho de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê «Cap. 02, div. 01, subdiv. 02, C. E. 02.03.00» deve ler-se «Cap. 02, div. 01, C. E. 02.03.00», onde se lê «Cap. 04, div. 04, subdiv. 01, C. F. 8.02.2, C. E. 07.01.04 - 1622» deve ler-se «Cap. 04, div. 04, subdiv. 01, C. F. 8.02.0, C. E. 07.01.04 - 1662» e onde se lê «d) Despacho de 26 de Novembro de 1990» deve ler-se «d) Despacho de 26 de Setembro de 1990».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Outubro de 1991. - O Secretário-Geral, França Martins.
