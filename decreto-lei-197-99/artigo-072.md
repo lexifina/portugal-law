@@ -1,3 +1,7 @@
+## Secção XI
+
+## Adiantamentos e pagamentos parciais
+
 # Artigo 72.º
 
 ### Adiantamentos

@@ -2,6 +2,10 @@
 
 ## Disposições gerais comuns
 
+## Secção I
+
+## Objecto, âmbito e prazos
+
 # Artigo 1.º
 
 ### Objecto

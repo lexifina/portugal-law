@@ -1,3 +1,7 @@
+## Secção VII
+
+## Propostas e candidaturas
+
 # Artigo 44.º
 
 ### Conteúdo das propostas e candidaturas

@@ -1,7 +1,3 @@
-## Secção IV
-
-## Delegação de competências
-
 # Artigo 29.º
 
 ### Autarquias locais

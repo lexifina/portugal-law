@@ -1,3 +1,7 @@
+## Secção VIII
+
+## Adjudicação
+
 # Artigo 54.º
 
 ### Conceito

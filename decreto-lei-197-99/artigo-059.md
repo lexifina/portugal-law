@@ -1,3 +1,7 @@
+## Secção IX
+
+## Contrato
+
 # Artigo 59.º
 
 ### Contrato escrito
