@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em 3 de Agosto de 1982 o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte notificou o Governo dos Países Baixos de que, a partir daquela data, a designação do administrador dos territórios das ilhas Virgens britânicas e das ilhas Turks e Caicos, que havia sido indicado para os fins dos artigos 2, 6 e 9 da Convenção da Haia sobre Citação e Notificação no Estrangeiro dos Actos Judiciais e Extrajudiciais em Matéria Civil e Comercial, de 15 de Novembro de 1965, e de que Portugal faz parte, foi anulada e substituída pela designação de Registrar of the Supreme Court.
+Direcção dos Serviços Jurídicos e de Tratados, 29 de Setembro de 1982. - O Director, Carlos Augusto Fernandes.
