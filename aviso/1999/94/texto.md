@@ -1,0 +1,6 @@
+Aviso n.º 94/99
+Por ordem superior se torna público que, por intermédio da Representação Permanente de Portugal junto dos Organismos e Organizações Internacionais em Genebra, foi notificado o Director-Geral da Organização Mundial da Propriedade Intelectual, na sua qualidade de depositário da Convenção de Paris para a Protecção da Propriedade Industrial, assinada a 20 de Março de 1883, revista em Bruxelas a 14 de Dezembro de 1900, em Washington a 2 de Junho de 1911, em Haia a 6 de Novembro de 1925, em Londres a 2 de Junho de 1934, em Lisboa a 31 de Outubro de 1958 e pelo Acto de Estocolmo a 14 de Julho de 1967, que a Convenção é aplicável ao território de Macau.
+Por nota de 12 de Maio de 1999, o Director-Geral da Organização Mundial da Propriedade Intelectual comunicou que a referida Convenção, nos termos do seu artigo 24 (3) (a), entrará em vigor, para Macau, a partir de 12 de Agosto de 1999.
+O Acto de Estocolmo da Convenção de Paris para Protecção da Propriedade Industrial foi aprovado para ratificação pelo Decreto n.º 22/75, de 22 de Janeiro, publicado no Diário do Governo, 1.ª série, n.º 18, de 22 de Janeiro de 1975, e foi publicado no Boletim Oficial de Macau, n.º 4, de 29 de Janeiro de 1986.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 5 de Julho de 1999. - António Nunes de Carvalho Santana Carlos.
