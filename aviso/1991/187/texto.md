@@ -1,0 +1,5 @@
+Aviso n.º 187/91
+Por ordem superior se torna público que, por nota de 23 de Outubro de 1991 e nos termos do artigo 45.º da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a Jugoslávia depositado, nos termos do artigo 37.º, parágrafo 2.º, o seu instrumento de ratificação da mencionada Convenção em 27 de Setembro de 1991.
+Nos termos do artigo 43.º, a Convenção entra em vigor para a Jugoslávia a 1 de Dezembro de 1991.
+Portugal é parte na mesma Convenção, a qual foi aprovada, para ratificação, pelo Decreto do Governo n.º 33/83, de 11 de Agosto, tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, n.º 126, de 31 de Maio de 1984. A Convenção encontra-se em vigor para Portugal desde 1 de Dezembro de 1983.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 19 de Novembro de 1991. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
