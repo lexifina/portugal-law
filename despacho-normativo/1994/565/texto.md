@@ -1,0 +1,64 @@
+Despacho Normativo n.º 565/94
+(IIDE0503)
+Regime de Apoio à Dinamização do Caucionamento Mútuo
+O Decreto-Lei n.º 177/94, de 27 de Junho, criou o Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa - PEDIP II.
+No âmbito do PEDIP II insere-se o Sistema de Incentivos à Engenharia Financeira para Apoio às Empresas (SINFEPEDIP), o qual prevê, nos termos do disposto no n.º I, n.º 5, da Resolução do Conselho de Ministros n.º 50/94, de 1 de Julho, vir a ser desenvolvido em regimes de apoio específicos.
+Deste modo, é pelo presente despacho regulamentado o Regime de Apoio à Dinamização do Caucionamento Mútuo.
+Assim, determina-se o seguinte:
+Artigo 1.º
+Objecto
+O presente despacho visa regulamentar o Regime de Apoio à Dinamização do Caucionamento Mútuo, previsto na alínea c) do n.º 1 do artigo 2.º do Despacho Normativo n.º 562/94 (IIDG05), o qual tem como objectivo a promoção do caucionamento mútuo, por forma a contribuir para a melhoria das condições de acesso aos financiamentos por parte das pequenas e médias empresas.
+Artigo 2.º
+Âmbito
+O presente Regime integra as seguintes acções:
+a) Acção A - Estabelecimento de um modelo de refinanciamento do caucionamento mútuo, através da criação de uma sociedade dotada de um fundo para contra garantia mútua;
+b) Acção B - Apoio logístico à constituição e assistência técnica de sociedades de garantia mútua;
+c) Acção C - Promoção de uma experiência piloto de dinamização do Sistema de Caucionamento Mútuo; será promovida a constituição da primeira entidade que dinamize o aparecimento de outras, possuindo ou não como objecto social a actividade de caucionamento mútuo.
+Artigo 3.º
+Organismo gestor
+O organismo responsável pela gestão deste regime de Apoio é o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI), tendo presente, em particular, a sua componente voluntarista e a necessidade de articulação com outros organismos e regimes de apoio do PEDIP II.
+Artigo 4.º
+Entidades beneficiárias
+1 - Os beneficiários do presente Regime são:
+a) A sociedade prevista na acção A;
+b) As sociedades de garantia mútua, no caso das acções B e C;
+2 - Os beneficiários de acção referida na alínea c) do artigo 2.º poderão ter uma natureza mista, a qual perdurará, apenas, durante um período máximo de dois anos após a constituição da referida sociedade.
+Artigo 5.º
+Condições de acesso do projecto
+1 - São condições de acesso do projecto:
+a) Não se encontrar legalmente constituído à data de apresentação da candidatura;
+b) Demonstrar vir a possuir a estrutura organizacional, os meios financeiros e os recursos humanos qualificados que lhe confiram capacidade técnica adequada às exigências da sua actividade e à realização do projecto;
+c) Demonstrar vir a apresentar condições de viabilização auto-sustentável a prazo;
+d) Comprovar a adesão de um conjunto significativo de empresas industriais;
+e) A participação prevista de entidades de direito privado no capital social das sociedades de garantia mútua deverá ser superior a 50%, devendo, em particular, a participação das empresas industriais vir a representar mais de 30% do mesmo;
+2 - Para os efeitos do disposto na alínea d) do número anterior e no que se refere à constituição de sociedades de garantia mútua, deverá ser considerado o mínimo de 30 empresas industriais, a atingir nos primeiros 24 meses a contar da data da sua constituição.
+Artigo 6.º
+Critérios de selecção
+Constituem critérios de selecção a inserção nos objectivos globais do PEDIP II e nos específicos do presente Regime.
+Artigo 7.º
+Aplicações relevantes
+Constituem aplicações relevantes, no que se refere à acção B:
+a) Estudos e projectos de avaliação de viabilidade;
+b) Custos de constituição da sociedade;
+c) Apoio técnico.
+Artigo 8.º
+Apoio e limites
+1 - No que se refere às acções A e C, o apoio à constituição das sociedades assume a natureza de uma participação do IAPMEI no capital, até ao montante máximo de 50%.
+2 - No que se refere à acção A, o apoio consiste na dotação de um fundo de contra garantia em montante equivalente a, no mínimo, quatro vezes o capital inicial subscrito pelo IAPMEI, sendo aquele reforçado em resultado da sua própria capitalização e das reduções da posição detida pelo IAPMEI.
+3 - No que se refere à acção B, o incentivo assume a forma de subsídio a fundo perdido, determinado pela aplicação das seguintes percentagens aos montantes das aplicações relevantes:
+a) No que se refere à alínea a) do artigo 7.º - 65%, até ao montante máximo de 10000 contos;
+b) No que se refere à alínea b) do artigo 7.º - 50%, até ao montante máximo de 50000 contos;
+c) No que se refere à alínea c) do artigo 7.º - 65%, até ao montante máximo de 20000 contos.
+Artigo 9.º
+Apresentação de candidaturas
+A apresentação de candidaturas à acção B do presente Regime é contínua e independente, devendo ser formalizada de acordo com o disposto no artigo 8.º do Despacho Normativo n.º 562/94 (IIDG05).
+Artigo 10.º
+Competência e prazo de apreciação
+Compete ao IAPMEI a análise dos processos de candidaturas, emitindo parecer fundamentado no prazo de 60 dias úteis contados da data de apresentação da candidatura.
+Artigo 11.º
+Acompanhamento
+Para efeitos de acompanhamento da acção A, a sociedade a constituir submeterá semestralmente ao gestor do PEDIP II, através do IAPMEI, um relatório de actividade contemplando a sua situação financeira, a caracterização das contra garantias prestadas, os eventuais incidentes registados, bem como as acções encetadas tendentes ao desenvolvimento do Sistema de Caucionamento Mútuo.
+Artigo 12.º
+Operações dinamizadas pelo IAPMEI
+Independentemente do nível de decisão relativamente ao projecto, a comissão de selecção deve dar parecer sobre as operações dinamizadas pelo IAPMEI no âmbito das acções A e C previstas no artigo 2.º
+Ministério da Indústria e Energia, 11 de Julho de 1994. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
