@@ -1,0 +1,9 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 274-A/88, publicado no Diário da República, 1.ª série, n.º 178 (suplemento), de 3 de Agosto de 1988, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No capítulo II (Exercício da caça), secção I (Requisitos para o exercício da caça), artigo 21.º, onde se lê «ou no município da residência do interesssado e ainda,» deve ler-se «ou no município da residência do interessado e ainda,».
+No capítulo II (Exercício da caça), secção II (Condicionamentos gerais), artigo 35.º, n.º 3, onde se lê «Nos terrenos sujeitos a regime cinegético especial,» deve ler-se «Nos terrenos sujeitos a regime cinegético geral,».
+No capítulo II (Exercício da caça), secção II (Condicionamentos gerais), artigo 36.º, n.º 6, onde se lê «É proibido o uso de gravador com chamariz ou reclamo e,» deve ler-se «É proibido o uso de gravador como chamariz ou reclamo e,».
+No capítulo III (Regimes cinegéticos), secção I (Regime cinegético especial. Disposições gerais), artigo 68.º, n.º 2, onde se lê «por força do disposto no artigo 74.º deste diploma,» deve ler-se «por força do disposto no artigo 76.º deste diploma,».
+No capítulo X (Organização venatória. Associações de caçadores), artigo 125.º, alínea e), onde se lê «Fazer respeitar o cumprimemto das normas legais sobre caça;» deve ler-se «Fazer respeitar o cumprimento das normas legais sobre caça;».
+No capítulo XII (Disposições finais e transitórias), artigo 129.º, n.º 2, onde se lê «como zonas de ordenamento cinegético ao abrigo do Decreto-Lei n.º 407-C/75, de 30 de Junho,» deve ler-se «como zonas de ordenamento cinegético ao abrigo do Decreto-Lei n.º 407-C/75, de 30 de Julho,».
+Secretaria-Geral da Presidência do Conselho de Ministros, 26 de Agosto de 1988. - Pelo Secretário-Geral, o Director dos Serviços Administrativos, José Serra.
