@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em 3 de Abril de 1979 o Governo do Equador depositou, junto do Governo dos Estados Unidos da América, o instrumento de ratificação da Convenção Relativa à Lei Uniforme sobre a Forma de Um Testamento Internacional, concluída em Washington em 26 de Outubro de 1973, de que Portugal já é parte. Aquele instrumento diplomático entrou em vigor, com referência àquele país, em 3 de Outubro de 1979, em conformidade com o seu artigo 11.º, isto é, seis meses depois da data do depósito daquele instrumento de ratificação.
+Secretaria-Geral do Ministério, 11 de Janeiro de 1980. - O Chefe dos Serviços Jurídicos e de Tratados, Rui Eduardo Barbosa de Medina.
