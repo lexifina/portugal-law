@@ -1,0 +1,4 @@
+Aviso n.º 213/2003
+Por ordem superior se torna público que, em 11 de Agosto de 2003, a Bósnia-Herzegovina depositou o seu instrumento de adesão à Emenda ao Protocolo de Montreal Relativo às Substâncias Que Empobrecem a Camada de Ozono, adoptada na IV Conferência das Partes, concluída em Copenhaga em 25 de Novembro de 1992.
+Portugal é parte da mesma Emenda, aprovada, para ratificação, pelo Decreto n.º 27/97, publicado no Diário da República, 1.ª série-A, n.º 128, de 4 de Junho de 1997, tendo depositado o seu instrumento de ratificação em 24 de Fevereiro de 1998, conforme o Aviso n.º 107/98 (Diário da República, 1.ª série-A, n.º 120, de 25 de Maio de 1998).
+Direcção-Geral dos Assuntos Multilaterais, 16 de Outubro de 2003. - A Directora de Serviços das Organizações Económicas Internacionais, Graça Gonçalves Pereira.
