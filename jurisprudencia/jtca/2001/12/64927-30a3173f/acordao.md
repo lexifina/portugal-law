@@ -1,0 +1,33 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2001-12-04, processo 64927
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 64927
+
+**Secção:** Contencioso Tributário
+
+**Data do Acordão:** 12/04/2001
+
+**Relator:** Dulce Neto
+
+**Descritores:** INFRACÇÃO FISCAL ADUANEIRA; APERFEIÇOAMENTO ACTIVO
+
+**Aditamento:** 1
+
+## Sumário
+
+1. Para que se possa qualificar um ilícito por qualquer das alíneas do nº 2 do art. 35º do RJIFA (descaminho) é necessário que se esteja na presença de uma das seguintes situações previstas no nº l:
+
+- facto que tenha por fim evitar, no todo ou em parte, o pagamento da prestação
+
+tributária aduaneira;
+
+- facto que tenha por fim fazer passar através das alfândegas quaisquer mercadorias sem serem submetidas às competentes formalidades de desembaraço fiscal ou mediante falsas indicações;
+
+- facto que tenha por fim retirar das alfândegas quaisquer mercadorias sem serem submetidas às competentes formalidades de desembaraço fiscal ou mediante falsas indicações.
+
+2. Se a mercadoria foi importada com o benefício do regime suspensivo do aperfeiçoamento activo, concedido na condição de ser destinada a reexportação no prazo de 6 meses, e a arguida a veio a introduzir no consumo, violou a disciplina legal dos regimes aduaneiros previstos no nº 2 do art. lºdo RJIFA, contribuindo para que se verificasse um desvio do fim pressuposto no regime aduaneiro aplicado à mercadoria (com o que se preencheu as alíneas b) e c) do nº2 do art. 35º}, constituindo essa conduta uma forma adequada a evitar o pagamento da prestação tributária aduaneira devida (assim se verificando a condição prevista no nº 1 do art. 35º).
+
+3, Porém, em matéria de contra-ordenações não há responsabilidade objectiva, sendo de exigir, além da materialidade dos factos, a culpa do agente, sob a forma de dolo ou de negligência, não se presumindo o dolo mas presumindo-se a negligência pela violação de preceitos legais ou regulamentares, podendo o agente ilidir esta presunção com a prova de que praticou o facto sob pressão duma situação exterior tal que não era possível exigir-lhe diferente conduta.
+
+4. Se arguida conseguiu ilidir a presunção de negligência que decorria da violação da disciplina legal do regime aduaneiro que lhe fora concedido, com a prova de que não podia ter agido de outro modo face ao cancelamento das encomendas e de que solicitou a alteração desse regime, pagando voluntariamente todos os impostos, direitos alfandegários e juros, não pode ser condenada pela referida infracção, por falta de culpa.
