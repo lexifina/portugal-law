@@ -1,0 +1,33 @@
+# Acórdão do Tribunal Central Administrativo Sul de 1997-11-13, processo 00288/97
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 00288/97
+
+**Secção:** Secção do Contencioso Administrativo - Tribunal Central Administrativo
+
+**Data do Acordão:** 11/13/1997
+
+**Relator:** São Pedro
+
+**Descritores:** SUSPENSÃO DE EFICÁCIA; GRAVE LESÃO DO INTERESSE PÚBLICO; INTERESSE PÚBLICO COM A LESÃO DE DIREITOS FUNDAMENTAIS
+
+**Aditamento:** 1
+
+## Sumário
+
+I - A suspensão de eficácia de um acto do Director Geral dos Serviços Judiciários que, nos termos do art. 6º, nº 1 do DL nº 24/84, de 16/1, suspende de funções e de vencimento de exercício, um funcionário judicial pronunciado por crime de peculato, causa grave lesão do interesse público.
+
+II - Os requisitos do nº 1 do art. 76º da LPTA são de verificação cumulativa, devendo, todavia,
+
+interpretar-se restritivamente o requisito da alínea b), no sentido da grave lesão do interesse público só
+
+determinar o indeferimento da suspensão, quando a mesma não seja desproporcionada à lesão dos
+
+direitos fundamentais do particular afectado com a imediata execução do acto. Esta restrição decorre do disposto no art. 18º, nº 2 da Constituição ao exigir, não só lei expressa para a restrição dos direitos
+
+fundamentais, mas ainda que essa restrição seja apenas a "necessária para salvaguardar outros direitos ou interesses constitucionalmente protegidos".
+
+III - O acto que suspende de funções e de vencimento de exercício um funcionário judicial pronunciado pela prática de crime de peculato, não afecta o seu bom nome e reputação. É o juízo inerente ao despacho de pronúncia que pode (ou não) afectar esse bom nome e reputação.
+
+IV - Os prejuízos decorrentes do acto que determina a suspensão de funções e perda de vencimento de exercício, são apenas (i) os danos não patrimoniais (não trabalhar), relativamente aos quais o recorrente não alegou factos demonstrativos de que os mesmos, atenta a sua situação concreta, revestem tal gravidade que merecem a tutela do direito (art. 496º, nº 1 do C. Civil); (ii) e a perda do vencimento de exercício (1/6 do vencimento base), que não é um dano de difícil reparação.
