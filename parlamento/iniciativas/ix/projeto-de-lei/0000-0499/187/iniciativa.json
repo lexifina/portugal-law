@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "tipo": "Projeto de Lei",
+  "numero": "187",
+  "id": "19361",
+  "fases": 19,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2002-12-20",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2003-09-14",
+    "DataInicioleg": "2002-04-05",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "1239",
+        "nome": "Luís Marques Guedes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1351",
+        "nome": "Manuel Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "324",
+        "nome": "Fernando Pedro Moutinho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2017",
+        "nome": "Maria Eulália Teixeira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1930",
+        "nome": "Vítor Reis"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1910",
+        "nome": "Gustavo Duarte"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1959",
+        "nome": "Diogo Luz"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "19361",
+    "IniLeg": "IX",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a5357357059326c6864476c32595338784f54426a4f544a6a5969316a4f4452684c54526a4d6a6b744f5441334f4331694d32566b4d4749775a574d354f5455755a47396a&fich=190c92cb-c84a-4c29-9078-b3ed0b0ec995.doc&Inline=true",
+    "IniNr": "187",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Segunda alteração à Lei n.º 91/95, de 2 de Setembro, sobre as áreas urbanas de génese ilegal.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
