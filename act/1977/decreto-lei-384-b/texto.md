@@ -1,0 +1,14 @@
+Decreto-Lei n.º 384-B/77
+de 12 de Setembro
+1. O Decreto-Lei n.º 172/75, de 1 de Abril, que criou a Direcção do Serviço de Electricidade e Telecomunicações da Força Aérea, dispôs, no artigo 14.º, que até à fixação do respectivo quadro orgânico, por portaria do Chefe do Estado-Maior da Força Aérea, esta Direcção funcionará com o da Direcção do Serviço de Comunicações e Tráfego Aéreo, definido no mapa III anexo ao Decreto-Lei n.º 40949, de 28 de Dezembro de 1966, alterado pelas Portarias n.os 19777, de 26 de Março de 1963, e 20334, de 22 de Janeiro de 1964. Esta solução provisória, que atribui a um oficial piloto aviador com a patente de brigadeiro ou coronel a direcção do serviço, deverá ser transformada no respeito por critérios qualitativos adequados à especialidade técnica e ao crescente desenvolvimento das atribuições cometidas deles decorrendo as necessidades de recurso sistemático à patente de brigadeiro e de abranger pelas hipóteses de provimento no cargo de director um oficial engenheiro electrotécnico.
+2. O Decreto-Lei n.º 550-E/76, de 12 de Julho, fixa, em comum, para os quadros de engenheiros electrotécnicos e de aeródromos um oficial general com a patente de brigadeiro. A aplicação do critério que a tal conduziu, resultante de os sectores abrangidos pelas especialidades de engenharia estarem agrupados nas Direcções dos Serviços de Material e de Infra-Estruturas da Força Aérea, implica agora, com o desdobramento da primeira e por razões apontadas em 1 que não aconselham diferentemente, a criação do posto de brigadeiro, quer no quadro de engenheiros electrotécnicos, quer no de engenheiros de aeródromos.
+3. Em conclusão, impõe-se a alteração dos quadros de engenheiros electrotécnicos e de aeródromos fixados pelo Decreto-Lei n.º 550-E/76, de 12 de Julho, como medida prévia à redefinição legal do quadro orgânico da Direcção do Serviço de Electricidade e Telecomunicações, entendendo-se que os encargos resultantes, para além de pouco significativos, se justificam pela situação criada e pela melhoria que se prevê nos serviços envolvidos.
+Considerando o exposto;
+O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
+Artigo 1.º São introduzidas no mapa I anexo ao Decreto-Lei n.º 550-E/76, de 12 de Julho, as seguintes alterações:
+(ver documento original)
+Art. 2.º Os encargos resultantes do presente diploma serão suportados, no ano económico de 1977, pelas disponibilidades da verba inscrita no cap. 05, div. 01, n.º 01.02, do actual orçamento de «Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea».
+Visto e aprovado em Conselho da Revolução em 3 de Agosto de 1977.
+Promulgado em 7 de Setembro de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.
