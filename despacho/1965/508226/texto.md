@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Julho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional, declarar o curso de agente rural, regulado pelo Decreto n.º 41382, de 21 de Novembro de 1957, ou outro que lhe corresponda em anteriores organizações das escolas práticas de agricultura, como habilitação suficiente, em paralelo com o curso geral dos liceus, para efeito de provimento nas categorias de encarregado de arborização de 1.ª e 2.ª classes, incluídas na tabela anexa ao Decreto n.º 45795, de 6 de Julho de 1964.
+Presidência do Conselho, 13 de Dezembro de 1965. - Pelo Presidente do Conselho, o Ministro de Estado Adjunto, António Jorge Martins da Mota Veiga.
