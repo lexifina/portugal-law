@@ -1,0 +1,79 @@
+# Acórdão do Supremo Tribunal Administrativo de 1998-02-18, processo 033612
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 033612
+
+**Data do Acordão:** 02/18/1998
+
+**Tribunal:** PLENO DA SECÇÃO DO CA
+
+**Relator:** CRUZ RODRIGUES
+
+**Descritores:** PESSOAL DISPONÍVEL; PRIVATIZAÇÃO; AUDIÊNCIA DO INTERESSADO
+
+**Nº Convencional:** JSTA00049455
+
+**Nº do Documento:** SAP19980218033612
+
+**Data de Entrada:** 07/02/1996
+
+**Recorrente:** GOUVEIA , RUI E OUTRO
+
+**Recorrido 1:** MINAGR
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 98
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC DA SUBSECÇÃO DO CA.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR ADM GER - FUNÇÃO PUBL ESTATUTÁRIO.
+
+**Legislação Nacional:** DL N247/92 DE 1992/11/07 ART2 N5 3 N1E2 4 A 5 6 10 18 N1 2.; CPA91 ART102 N1.; DL N44/90 DE 1990/02/08 ART4 N1.
+
+**Jurisprudência Nacional:** AC STAPLENO DE 1997/06/24 PROC35398.; AC STA DE 1996/02/13 IN AD N419 PÁG9250.; Texto Integral
+
+## Sumário
+
+I - O pessoal de serviço público privatizado pode ser sujeito a uma das situações previstas nos artigos 2, n.5, 4 al. a) e 5 do D.L. 247/92 e
+
+4, n.1 als a), b) c) e e) do D.L. 44/90: a) Trancrição com a respectiva unidade orgânica para os quadros da unidade receptora; b) Integração nos outros quadros do Ministério da Agricultura em que se verifique a existência de vagas na mesma categoria e carreira; c) Transferência para qualquer outro serviço; d) Desvinculação com indemnização, sem necessidade de aquisição da qualidade de excedente.
+
+II - Só o pessoal não abrangido por algumas dessas medidas é qualificado como disponível, nos termos do n. 1 do artigo 3 do D.L. 247/92.
+
+III - A conclusão pela impossibilidade da manutenção em actividade do pessoal do organismo privatizado resulta de indagação prévia sobre as necessidades dos serviços e a aptidão de cada um dos elementos do pessoal.
+
+IV - Tal impossibilidade tem por isso que ser demonstrada, o que leva a que a integração em lista nominativa do pessoal disponível haja de ser objecto de despacho fundamentado, como aliás é imposto pelo n. 2 do artigo 3 do D.L. 247/92.
+
+V - O pessoal disponível pode não só optar por qualquer das situações contempladas no n. 1 do artigo 6 do D.L. 247/92: a) Aposentação voluntária; b) Pré-aposentação; c) Desvinculação da função pública mediante indemnização; d) Licença sem vencimento, como, não optando por qualquer dessas soluções, ser integrado no Q.E.I.
+
+(artigo 11), onde, nos termos do artigo 14, pode ainda: a) Ser chamado à actividade através da colocação nos serviços e organismos referidos no artigo 1; b) Ser destacado para frequência de acções de formação e aperfeiçoamento profissional; c) Manter-se na situação de disponibilidade; d) Encontrar-se numa das situações de licença consagradas na legislação sobre férias e licenças aplicável à função pública em geral ou na prevista no artigo 10 do D.L. 247/92, sem prejuízo do condicionalismo estabelecido no artigo 21.
+
+VI - O chamamento à actividade opera-se, nos termos do artigo 12, n. 1, pela: a) Colocação a título transitório em regime de requisição, comissão de serviço ou comissão de serviço extraordinário. b) Transferência para lugares vagos do quadro de serviços e organismos abrangidos pelo
+
+D.L. 247/92; c) Integração em lugares de ingresso ou de acesso mediante alargamento dos quadros de pessoal.
+
+VII - A integração ao abrigo do n.1 do artigo 18 efectiva-se, de acordo com o n. 2: a) Para a mesma carreira, categoria e escalão que o funcionário já possui; b) Para carreira e categoria que integre as funções efectivamente exercidas; c) Para categoria de diferente carreira, mediante reclassificação profissional.
+
+VIII- De harmonia com o n. 5 do artigo 18, na passagem
+
+à actividade atender-se-à às qualificações profissionais e à adequação aos serviços a desempenhar.
+
+IX - Esta circunstância conjugada com a de a privatização do serviço não conduzir necessariamente o pessoal
+
+à situação de disponibilidade e a da diversidade de situações a que o pessoal disponível pode ser sujeito leva a que este tenha de ser ordenado segundo os critérios do n. 6 do artigo 2, por só assim ser possível decidir do seu destino.
+
+X - O acto final do procedimento terá de justificar por que motivo o pessoal não pode ser mantido na actividade (fundamentação do acto) e incluir lista nominativa na qual o pessoal seja ordenado em cada carreira ou categoria segundo os critérios estabelecidos no n. 6 do artigo 2 do D.L. 247/92.
+
+XI - Antes de ser qualificado como disponível, o pessoal tem direito a ser ouvido nos termos previstos no n.1 do artigo 102 do C.P.A., por só ser admissível concluir nesse sentido após indagação sobre as necessidades dos serviços e a aptidão dos funcionários, o que pressupõe instrução do procedimento administrativo.
+
+XII - Mas uma razão fundamental impõe tal audiência prévia,
+
+é o carácter potencialmente lesivo que a qualificação de disponível assume para o funcionário ou agente, na medida em que lhe restringe direitos e pode mesmo pôr termo à carreira.
