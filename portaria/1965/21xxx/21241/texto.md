@@ -1,0 +1,7 @@
+Portaria n.º 21241
+1. Todos os prédios urbanos situados nas áreas de distribuição postal domiciliária das cidades de Lisboa, Porto, Coimbra e Braga estão já providos de receptáculos destinados à entrega aos destinatários que aí residem das correspondências ordinárias, não volumosas.
+2. Os bons resultados obtidos com tal medida aconselham a torná-la extensiva a outras localidades, que estão em ritmo crescente de urbanização e onde, a par disso, se estão a adoptar soluções em altura nas zonas de há muito urbanizadas.
+3. Apresentada tal sugestão aos respectivos municípios, deliberaram estes dar-lhe a sua concordância.
+Nestes termos, visto o disposto no § 3.º do artigo 1.º do Regulamento para o Serviço de Receptáculos Postais Domiciliários, aprovado pelo Decreto-Lei n.º 37927, de 1 de Agosto de 1950:
+Manda o Governo da República Portuguesa, pelos Ministros do Interior e das Comunicações, tornar extensivas às áreas da distribuição postal domiciliária das cidades de Abrantes, Aveiro, Beja, Caldas da Rainha, Castelo Branco, Covilhã, Évora Faro, Guimarães, Leiria, Portalegre, Santarém, Setúbal, Tomar, Viana do Castelo, Vila Real e Viseu, bem como às vilas de Almada e Amadora, acrescida esta última de povoações da mesma freguesia, todas as disposições aplicáveis do citado regulamento.
+Ministérios do Interior e das Comunicações, 24 de Abril de 1965. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.
