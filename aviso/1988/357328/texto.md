@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que Singapura e a República Federal da Alemanha depositaram junto do Secretário-Geral da Organização Marítima Internacional, respectivamente a 6 e 7 de Outubro de 1988, os instrumentos de ratificação e aceitação das emendas à Convenção da Organização Internacional de Satélites Marítimos (INMARSAT) e respectivo Acordo de Exploração, aprovados pela Assembleia da Organização de 14 a 16 de Outubro de 1985.
+Pelo Governo da República Federal da Alemanha foi apresentada a declaração de que as referidas emendas se aplicam a Berlim Ocidental com efeitos a partir da data da entrada em vigor para a República Federal da Alemanha.
+Direcção-Geral dos Negócios Político-Económicos, 9 de Novembro de 1988. - O Director de Serviços dos Assuntos Multilaterais, José Tadeu da Costa Sousa Soares.
