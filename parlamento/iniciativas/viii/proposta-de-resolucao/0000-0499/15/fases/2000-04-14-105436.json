@@ -1,0 +1,254 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "15",
+    "id": "6199",
+    "titulo": "Aprova, para ratificação, a Convenção entre a República Portuguesa e a República de Cabo-Verde para Evitar a Dupla Tributação em Matéria de Impostos Sobre o Rendimento e Prevenir a Evasão Fiscal e respectivo protocolo assinados em Praia em 22 de Março de 1999"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2000-04-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1747",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2000-04-14",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-04-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1704",
+                "nome": "Maria José Campos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "11:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28260",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2217-2217"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-15",
+                "pubLeg": "VIII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/055/2000-04-15/2217?pgs=2217&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA DE CABO VERDE, PARA EVITAR A DUPLA TRIBUTACAO EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PREVENIR AEVASAO FISCAL E RESPECTIVO PROTOCOLO ASSINADOS EM PRAIA,EM 2DE MARCO DE 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1621",
+                "nome": "Maria Ofélia Moleiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "11:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28261",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2216-2217"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-15",
+                "pubLeg": "VIII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/055/2000-04-15/2216?pgs=2216-2217&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA DE CABO VERDE, PARA EVITAR A DUPLA TRIBUTACAO EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PREVENIR AEVASAO FISCAL E RESPECTIVO PROTOCOLO ASSINADOS EM PRAIA,EM 2DE MARCO DE 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "11:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28262",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2216-2216"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-15",
+                "pubLeg": "VIII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/055/2000-04-15/2216?pgs=2216&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA DE CABO VERDE, PARA EVITAR A DUPLA TRIBUTACAO EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PREVENIR AEVASAO FISCAL E RESPECTIVO PROTOCOLO ASSINADOS EM PRAIA,EM 2MARCO DE 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "11:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DAS  COMUNIDADES PORTUGUESAS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Lello"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107905",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2215-2216"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-15",
+                "pubLeg": "VIII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/055/2000-04-15/2215?pgs=2215-2216&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA DE CABO VERDE, PARA EVITAR A DUPLA TRIBUTACAO EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PREVENIR AEVASAO FISCAL E RESPECTIVO PROTOCOLO ASSINADOS EM PRAIA,EM 2MARCO DE 1999",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105436",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1747",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-04-15",
+        "pubLeg": "VIII",
+        "pubNr": "55",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/055/2000-04-15?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
