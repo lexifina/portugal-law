@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1916/04/07500/03270327.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1916-04-17",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "e0a8900a79c7dc3b413a712737203a35b37ff8b8b1aa428aed0727da3ad78120",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.0,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "1047cd70f3a340fb67bc54cf0f5723b5b15bc422d9d6282e936dc1202a297593",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 618
 }
