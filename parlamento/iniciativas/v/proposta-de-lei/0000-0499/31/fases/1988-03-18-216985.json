@@ -1,0 +1,593 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "31",
+    "id": "28336",
+    "titulo": "Lei de bases da reforma agrária"
+  },
+  "fase": "Parecer recurso admissibilidade comissão",
+  "codigo_fase": "90",
+  "data_registo": "1988-03-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4135",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "90",
+    "Comissao": [
+      {
+        "AccId": "14038",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "1988-03-18",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": null,
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "814",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "COMISSÃO DE ASSUNTOS CONSTITUCIONAIS DIREITOS LIBERDADES E GARANTIAS",
+        "Numero": "814",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "1148-1151"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1988-03-24",
+            "pubLeg": "V",
+            "pubNr": "59",
+            "pubSL": "1",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/05/01/059/1988-03-24/1148?pgs=1148-1151&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "1148-1151"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1988-03-24",
+            "pubLeg": "V",
+            "pubNr": "59",
+            "pubSL": "1",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/05/01/059/1988-03-24/1148?pgs=1148-1151&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "3054",
+            "motivoCessacao": null,
+            "nome": "Mário Raposo"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "1988-03-18",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "1988-03-18",
+    "EvtId": "5",
+    "Fase": "Parecer recurso admissibilidade comissão",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-04-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "21:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205811",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2539-2543"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-07",
+                "pubLeg": "V",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/069/1988-04-07/2539?pgs=2539-2543&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da reforma agrária.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "21:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205812",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2543-2544"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-07",
+                "pubLeg": "V",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/069/1988-04-07/2543?pgs=2543-2544&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da reforma agrária.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "21:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205813",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2544-2545"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-07",
+                "pubLeg": "V",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/069/1988-04-07/2544?pgs=2544-2545&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da reforma agrária.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "21:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205814",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2545-2547"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-07",
+                "pubLeg": "V",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/069/1988-04-07/2545?pgs=2545-2547&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da reforma agrária.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "21:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205815",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2547-2548",
+                  "2549-2550"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-07",
+                "pubLeg": "V",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/069/1988-04-07/2547?pgs=2547-2548,2549-2550&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da reforma agrária.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "21:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205816",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2549-2549"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-07",
+                "pubLeg": "V",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/069/1988-04-07/2549?pgs=2549&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da reforma agrária.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "21:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205817",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2550-2550"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-07",
+                "pubLeg": "V",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/069/1988-04-07/2550?pgs=2550&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da reforma agrária.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "21:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205818",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2550-2550"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-07",
+                "pubLeg": "V",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/069/1988-04-07/2550?pgs=2550&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da reforma agrária.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "21:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205819",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2550-2551"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-07",
+                "pubLeg": "V",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/069/1988-04-07/2550?pgs=2550-2551&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da reforma agrária.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "21:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205820",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2551-2551"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-07",
+                "pubLeg": "V",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/069/1988-04-07/2551?pgs=2551&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da reforma agrária.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Indeferimento do recurso",
+    "OevId": "216985",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4135",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-04-07",
+        "pubLeg": "V",
+        "pubNr": "69",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/069/1988-04-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
