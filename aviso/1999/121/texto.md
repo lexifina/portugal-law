@@ -1,0 +1,5 @@
+Aviso n.º 121/99
+Por ordem superior se torna público que, por nota de 23 de Junho de 1999, o Secretariado-Geral do Conselho da União Europeia notificou que as Partes Contratantes no Protocolo, Estabelecido com Base no Artigo K.3 do Tratado da União Europeia e no N.º 3 do Artigo 41.º da Convenção Europol, Relativo aos Privilégios e Imunidades da Europol, dos Membros dos Seus Órgãos, dos Seus Directores-Adjuntos e Agentes, assinado em Bruxelas em 19 de Junho de 1997, concluíram as formalidades previstas pelas respectivas normas constitucionais para a entrada em vigor do Protocolo.
+Portugal é parte neste Protocolo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 9/99 e ratificado pelo Decreto do Presidente da República n.º 67/99, ambos publicados no Diário da República, 1.ª série-A, n.º 46, de 24 de Fevereiro de 1999.
+Nos termos do artigo 15.º, o Protocolo entra em vigor em 1 de Julho de 1999.
+Direcção-Geral dos Assuntos Comunitários, 1 de Julho de 1999. - O Director do Serviço dos Assuntos Jurídicos, Luís Inez Fernandes.
