@@ -1,0 +1,410 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "108",
+    "id": "4761",
+    "titulo": "Aprova, para ratificação, o Protocolo de Adesão da República da Hungria ao Tratado do Atlântico Norte, assinado em Bruxelas em 16 de Dezembro de 1997."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1998-09-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "876",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1998-09-16",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Resolução",
+        "id": "4763",
+        "leg": "VII",
+        "nr": "106",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "329",
+            "obs": null,
+            "pag": [
+              "12-21"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-09-17",
+            "pubLeg": "VII",
+            "pubNr": "1",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/001/1998-09-17/12?pgs=12-21&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "329",
+            "obs": null,
+            "pag": [
+              "12-21"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-09-17",
+            "pubLeg": "VII",
+            "pubNr": "1",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/001/1998-09-17/12?pgs=12-21&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "S",
+        "titulo": "Aprova, para ratificação, o protocolo de adesão da República da Polónia ao Tratado do Atlântico Norte assinado em Bruxelas em 16 de Dezembro de 1997\n"
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Resolução",
+        "id": "4762",
+        "leg": "VII",
+        "nr": "107",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "329",
+            "obs": null,
+            "pag": [
+              "12-21"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-09-17",
+            "pubLeg": "VII",
+            "pubNr": "1",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/001/1998-09-17/12?pgs=12-21&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "329",
+            "obs": null,
+            "pag": [
+              "12-21"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-09-17",
+            "pubLeg": "VII",
+            "pubNr": "1",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/001/1998-09-17/12?pgs=12-21&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "S",
+        "titulo": "Aprova, para ratificação, o protocolo de adesão da República Checa ao Tratado do Atlântico Norte assinado em Bruxelas em 16 de Dezembro de 1997"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1998-09-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57553",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-17",
+                "pubLeg": "VII",
+                "pubNr": "1",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/001/1998-09-17/16?pgs=16-18&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O PROTOCOLO DE ADESAO DA REPUBLICA DA POLONIA, REPUBLICA CHECA E DA REPUBLICA DA HUNGRIA AO TRATADO DO ATLANTICO NORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1217",
+                "nome": "Nuno Abecasis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-17",
+                "pubLeg": "VII",
+                "pubNr": "1",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/001/1998-09-17/16?pgs=16&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O PROTOCOLO DE ADESAO DA REPUBLICA DA POLONIA, REPUBLICA CHECA E DA REPUBLICA DA HUNGRIA AO TRATADO DO ATLANTICO NORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "262",
+                "nome": "Laurentino Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57555",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-17",
+                "pubLeg": "VII",
+                "pubNr": "1",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/001/1998-09-17/13?pgs=13-15&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O PROTOCOLO DE ADESAO DA REPUBLICA DA POLONIA, REPUBLICA CHECA E DA REPUBLICA DA HUNGRIA AO TRATADO DO ATLANTICO NORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "127",
+                "nome": "Pedro Holstein Campilho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57556",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-17",
+                "pubLeg": "VII",
+                "pubNr": "1",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/001/1998-09-17/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O PROTOCOLO DE ADESAO DA REPUBLICA DA POLONIA, REPUBLICA CHECA E DA REPUBLICA DA HUNGRIA AO TRATADO DO ATLANTICO NORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS NEGÓCIOS ESTRANGEIROS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jaime Gama"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107870",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-09-17",
+                "pubLeg": "VII",
+                "pubNr": "1",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/001/1998-09-17/18?pgs=18-21&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O PROTOCOLO DE ADESAO DA REPUBLICA DA POLONIA, REPUBLICA CHECA E DA REPUBLICA DA HUNGRIA AO TRATADO DO ATLANTICO NORTE",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "100369",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "108542",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1998-09-17",
+        "pubLeg": "VII",
+        "pubNr": "1",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/001/1998-09-17?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
