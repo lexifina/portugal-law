@@ -1,0 +1,79 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ikbb22EfidWyh5aL9J45Him8rhm3hBQttHxkrMbFeyYEwrlCCV9ZfcNHgV8WjSxu83VjOPt6VK7tfawrIfKZtTDmfI0Eg1Qj2%2fgR4zkB218vexxTlHm9ELnuOSX5QSKeM5RBZD467bhRAPU4hPcfbqahvryp3gb6e37C1v7CloSAMeYftDHuGXetsMTuqWKWDw8jw4LLkjhOMYrtuWUeiCrg7lyiTG%2fjnHAs%2fmcgrOZO8jIFWuyniqH%2f16iGaVZzEzfL%2b4SfA3O6drPBVYibztEF%2fs9tJC4xx3DcN5MsnQfVSXH3wVPofkvbJEOlvWHKvrzXi7OMn9qcwTKLuqkVUEIS1yusoxybTMXClPgsIs8%3d&fich=IntervencoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "ab3e3445119ef03a27cc4debeadf3049422a38e0d13b37a933bd5be6cbd2d916",
+  "legislatura": "IX",
+  "id": "147152",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "Francisco Louçã (BE)",
+  "data_registo": "2003-10-24",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "73728",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "73728",
+        "tipo": "ITG",
+        "titulo": "Interpelação - Debate de política geral, centrado sobre as políticas públicas para responder à pobreza e as desigualdades sociais."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2003-10-24",
+    "Debate": null,
+    "Deputados": {
+      "GP": "BE",
+      "idCadastro": "1651",
+      "nome": "Francisco Louçã"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "147152",
+    "IdDebate": "20897",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "IX",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "147152",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "863-863",
+          "896-897"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-10-25",
+        "pubLeg": "IX",
+        "pubNr": "17",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/017/2003-10-25/863?pgs=863,896-897&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Ao Ministro da Segurança Social e do Trabalho (Bagão Felix) e Secretário de Estado da Saúde (Carlos Martins)",
+    "Sessao": "2",
+    "Sumario": "Políticas públicas para responder à pobreza e as desigualdades sociais.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
