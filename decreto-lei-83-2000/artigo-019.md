@@ -1,7 +1,9 @@
 # Artigo 19.º
 
-### Prova complementar
+### Elementos que acompanham o pedido
 
-1 - Sempre que se suscitem dúvidas sobre a veracidade dos dados constantes do bilhete de identidade, bem como sobre a respectiva autenticidade, devem ser praticadas pelos serviços competentes para a concessão do passaporte comum as diligências necessárias à comprovação e pode ser exigida a prestação de prova complementar.
+O pedido de concessão do passaporte comum é instruído com os seguintes elementos:
 
-2 - Os serviços responsáveis pela identificação civil e demais serviços cuja competência releve para os efeitos previstos no número anterior prestam a cooperação adequada à realização célere das diligências necessárias.
+a) Duas fotografias do rosto do requerente, tipo passe, actualizadas, a cores e fundo liso, com boas condições de identificação e medidas adequadas ao modelo de passaporte;
+
+b) Impresso próprio devidamente preenchido.

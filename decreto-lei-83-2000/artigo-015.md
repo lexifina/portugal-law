@@ -4,7 +4,7 @@
 
 São entidades competentes para a concessão e emissão do passaporte comum, com possibilidade de delegação e de subdelegação:
 
-a) O presidente do conselho diretivo do Instituto dos Registos e do Notariado I. P. (IRN, I. P.);
+a) Os governadores civis;
 
 b) Os Governos Regionais, através do secretário regional competente, nos termos das respectivas leis orgânicas;
 
