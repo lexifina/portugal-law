@@ -1,0 +1,15 @@
+Decreto-Lei n.º 45086
+Tendo em vista o disposto no Decreto-Lei n.º 44016, de 8 de Novembro de 1961, e no Decreto n.º 44139, de 30 de Dezembro de 1961;
+Considerando o actual regime açucareiro do continente que está em vigor até ao ano cultural de 1966-1967;
+Ponderando as implicações que a libertação dos direitos aduaneiros que incidem sobre os melaços contendo mais de 55 por cento de açúcares totais poderá ter no referido regime;
+Atendendo a que se encontra nomeada uma comissão para o estudo do regime a vigorar depois do ano cultural citado;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Até ao ano cultural de 1966-1967, se antes desse ano outra disposição não for tomada, os melaços contendo mais de 55 por cento de açúcares totais ficarão sujeitos ao pagamento da taxa de 1$16 por quilograma, quando provenientes das províncias ultramarinas.
+§ único. Esta taxa será cobrada pelas alfândegas no acto do desembaraço aduaneiro daquela mercadoria.
+Art. 2.º A taxa referida no artigo anterior será igualmente devida pelos melaços contendo mais de 55 por cento de açúcares totais produzidos no continente e ilhas adjacentes, quando transaccionados pelos produtores.
+§ único. No caso previsto no corpo deste artigo, a cobrança da taxa competirá às respectivas tesourarias da Fazenda Pública. Para esse efeito, os produtos deverão apresentar nas secções de finanças as competentes guias, em quadruplicado, até ao dia 10 do mês seguinte àquele em que se tenha efectuado a transacção.
+Art. 3.º As transgressões ao disposto no § único do artigo 2.º serão punidas com multa de 100$00 a 50000$00, devendo esta ser graduada de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
+§ único. As multas serão impostas mediante auto de transgressão levantado e julgado nos termos estabelecidos na legislação que regula o contencioso das contribuições e impostos.
+Art. 4.º Por despacho do Ministro dos Finanças, ouvidos prèviamente os serviços competentes do Ministério da Economia e sem prejuízo do regime açucareiro em vigor, poderá ser concedida a isenção do pagamento da taxa a que se refere o presente diploma aos melaços provenientes das províncias ultramarinas ou aos produzidos na metrópole que tenham sido adquiridos por determinadas empresas industriais para uso exclusivo nas suas indústrias.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 25 de Junho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia -Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
