@@ -1,0 +1,51 @@
+# Acórdão do Supremo Tribunal Administrativo de 1986-07-10, processo 23775A
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 23775A
+
+**Data do Acordão:** 07/10/1986
+
+**Tribunal:** 1 SUBSECÇÃO DO CA
+
+**Relator:** VALADAS PRETO
+
+**Descritores:** PRODUÇÃO CINEMATOGRAFICA; ASSISTENCIA FINANCEIRA; SUSPENSÃO DE EFICACIA; LEGITIMIDADE ACTIVA; PREJUIZO DE DIFICIL REPARAÇÃO
+
+**Nº Convencional:** JSTA00024640
+
+**Nº do Documento:** SA11986071023775A
+
+**Data de Entrada:** 04/08/1986
+
+**Recorrente:** SANTOS , CRISTINA
+
+**Recorrido 1:** SE DA CULTURA
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 86
+
+**Apêndice:** DR
+
+**Data do Apêndice:** 07/22/1992
+
+**1ª Pág. de Publicação do Acordão:** 3204
+
+**Privacidade:** 01
+
+**Meio Processual:** SUSPEFIC.
+
+**Objecto:** DESP SE DA CULTURA DE 1986/02/08.
+
+**Decisão:** INDEFERIMENTO.
+
+**Área Temática 1:** DIR ADM CONT - MEIO PROC ACESSORIO SUSPEFIC.
+
+**Legislação Nacional:** DN 29/84 DE 1984/01/31 ART11.; LPTA85 ART76 N1 C ART81.; Texto Integral
+
+## Sumário
+
+I - A suspensão da eficacia dos actos recorridos e um meio processual cautelar que visa impedir que o uso pela Administração, do privilegio de execução previa produza prejuizos de dificil reparação para o recorrente ou para os interesses que este defende no recurso, prejuizos esses que reduziriam ou inutilizariam os efeitos praticos da decisão anulatoria.
+
+II - O recorrente carece de legitimidade para requerer a suspensão de eficacia do acto recorrido se a execução desta não for susceptivel de lhe causar, segundo um juizo de probabilidade, prejuizos concretos especificos.
