@@ -1,0 +1,8 @@
+Despacho Normativo n.º 7/80
+Considerando que a aplicação da tabela constante do n.º 5 do Despacho Normativo n.º 174/79, de 12 de Junho, publicado no Diário da República, 1.ª série, n.º 171, de 26 de Julho de 1979, vem dar lugar à cobrança de um complemento de imposto que, adicionado ao quantitativo liquidado no momento da importação dos veículos a que aquele despacho se refere, perfaz um montante que excede, nos casos compreendidos nos dois primeiros anos de propriedade do veículo, o imposto devido pelos mesmos veículos se não usufruíssem de qualquer benefício;
+Considerando, ainda, que o estabelecimento de uma percentagem incidente sobre os veículos cuja propriedade haja excedido cinco anos se não afigura muito curial, não só por contrariar frontalmente a orientação que em casos semelhantes tem sido observada, designadamente a que se contém no Decreto-Lei n.º 43/76 e na Lei n.º 11/78, como também por virtude do custo burocrático que tal determinação envolve, muito provavelmente, não vir a ser compensado pela receita que ela pode proporcionar:
+Determina-se:
+O n.º 5 do despacho normativo atrás mencionado passará, com efeitos a partir da data de entrada em vigor daquele, a ter a seguinte redacção:
+5 - Os veículos automóveis que no acto da importação hajam beneficiado do regime estabelecido no n.º 3 do artigo 1.º do Decreto-Lei n.º 697/73 poderão ser alienados desde que, previamente, seja pago o respectivo imposto sobre a venda, o qual será calculado de harmonia com a tabela seguinte:
+(ver documento original)
+Ministério das Finanças, 13 de Dezembro de 1979. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira.
