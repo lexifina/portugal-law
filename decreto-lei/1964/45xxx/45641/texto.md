@@ -1,0 +1,13 @@
+Decreto-Lei n.º 45641
+A Lei n.º 2042, de 17 de Junho de 1950, que reorganizou as actividades meteorológicas, geofísicas e astronómicas do Estado nas províncias ultramarinas, determinou que o Serviço Meteorológico de Cabo Verde funcionasse como serviço regional do Serviço Meteorológico Nacional.
+Para dar execução a esta determinação e assegurar a uniformidade de funcionamento do conjunto, o Decreto-Lei n.º 37961, de 11 de Setembro de 1950, tornou extensivas aos funcionários do Serviço Meteorológico Nacional colocados no arquipélago de Cabo Verde as disposições legais aplicáveis aos funcionários do mesmo Serviço colocados nos arquipélagos dos Açores e da Madeira.
+Tornam-se agora extensivas a todos os estabelecimentos do Serviço Meteorológico Nacional em Cabo Verde as disposições do Decreto-Lei n.º 36715, de 8 de Janeiro de 1949, sobre circulação de materiais e artigos entre o continente e o centro meteorológico do Sal, que já era um estabelecimento do Serviço antes de neste terem sido incorporados os restantes estabelecimentos meteorológicos do arquipélago.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Os Ministros das Finanças e do Ultramar poderão isentar de direitos de importação e exportação os materiais e artigos indispensáveis à instalação, manutenção e exploração dos estabelecimentos do Serviço Meteorológico Nacional no arquipélago de Cabo Verde e exclusivamente destinados aos seus serviços.
+§ único. Para a concessão das isenções previstas neste artigo os pedidos serão apresentados à Direcção-Geral das Alfândegas e à Inspecção Superior das Alfândegas do Ultramar, instruídos com listas, em duplicado, dos materiais e artigos a que se referem os pedidos.
+Art. 2.º É revogado o artigo 3.º do Decreto-Lei n.º 36715, de 8 de Janeiro de 1948.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 6 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser publicado no Boletim Oficial de Cabo Verde. - Peixoto Correia.
