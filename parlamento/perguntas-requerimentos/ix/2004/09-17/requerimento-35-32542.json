@@ -1,0 +1,89 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ktYqpeS%2ft%2bZbliS4sHhftatFgOONJZv%2b0jwNSKIew1t0xo7wpSD4Wuod7wOpHm6JnVumY%2fcLg1QEJ6QuXOoI0mCZg8Now%2fNFrlqr4xaPyukQAb7VOIDJycUu8LgcqeBWkrLalvQbJNVVjYrmyeKurhYgJ88b%2bTAHUhqae0PG2tWw6wd9S%2fB1oSkkszdy9OWFhN3wUjxq5HmVweG9RQH09rl4k2N5tPgs%2fzprZm2tzFHnHSctshbR2DfX7RwTBfcB1zHFUq7rfF1ywAQTHCnkTEnmy8XmgIMFNpTZggbLiolv7UH6aQ9wXzrJpNDVBZQItckByiVODO72lKf0LysofiwVHTL6an5RgmBfpD1TjRRanKSw%2fu9%2bMNyeFb2ozzbOeEiwgdJpFNYQkXLYkgJujw%3d%3d&fich=RequerimentosIX_json.txt&Inline=true",
+  "ficheiro_sha256": "234acc6bf0a22a14e4ad1370daea559258a1b7960a20d3feebcabf91a9366690",
+  "legislatura": "IX",
+  "id": "32542",
+  "tipo": "Requerimento",
+  "numero": "35",
+  "data_registo": "2004-09-17",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Sobre o programa informático utilizado para a colocação de professores no ano lectivo de 2004-2005",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "1666",
+        "nome": "Luiz Fagundes Duarte"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1971",
+        "nome": "Gustavo Carranca"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1278",
+        "nome": "Augusto Santos Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "733",
+        "nome": "Miguel Ginestal"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "170",
+        "nome": "Guilherme D'oliveira Martins"
+      }
+    ],
+    "DataEnvio": "2004-09-21",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2004-09-21",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "PRIMEIRO-MINISTRO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": null,
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2004-09-17",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e52766379387a553077764f4459325a5455324d574d74595749774f433030597a4a694c57466d59574d744d47517a5a444d795a6a5a6a596a55324c6e426b5a673d3d&fich=866e561c-ab08-4c2b-afac-0d3d32f6cb56.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "32542",
+    "Legislatura": "IX",
+    "Nr": "35",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "297400",
+        "obs": null,
+        "pag": [
+          "79-80"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2004",
+        "pubLeg": "IX",
+        "pubNr": "6",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/03/006S1/2004-10-23/79?pgs=79-80&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Requerimento"
+  }
+}
