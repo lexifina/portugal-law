@@ -16,4 +16,4 @@ b) Com a notificação a que alude o n.º 1 do artigo 396.º do Código de Proce
 
 c) Havendo lugar a julgamento, nos termos da alínea anterior, aplicam-se-lhe, com as necessárias modificações, as disposições dos artigos 385.º, 389.º, 390.º e 391.º
 
-3 - Não há lugar à constituição de assistente nem à dedução de pedido cível no processo penal.
+3 - (Revogado).
