@@ -1,0 +1,8 @@
+Despacho Normativo n.º 7/81
+Com vista a esclarecer e definir os termos de invocação e aplicação do previsto no Decreto n.º 174/80 referente à concessão de subsídios a mútuas de seguro de gado e à competência dos serviços do MAP, quer centrais quer regionais, estabelece-se e determina-se o seguinte:
+1 - A concessão de tais subsídios deverá ser solicitada por escrito, indicando-se com o maior número de dados possíveis a necessidade que os justifica, as finalidades que visam satisfazer, os quantitativos desejados e a modalidade de concessão preferida.
+2 - Os pedidos serão apresentados nos serviços regionais - Direcção de Serviços de Extensão Rural - para efeitos da alínea g) do artigo 26.º do Decreto Regulamentar n.º 6-A/79.
+3 - Os pareceres elaborados por esses serviços deverão ser remetidos, com o respectivo pedido e elementos instrutores, à Direcção de Serviços do Associativismo Agrícola da Direcção-Geral de Extensão Rural, no prazo máximo de quinze dias, contados a partir da data da sua recepção.
+4 - Logo que recebidos os elementos referidos na alínea anterior, a Direcção de Serviços do Associativismo Agrícola elaborará, no prazo máximo de quinze dias, um parecer e, se caso disso, uma proposta, a apresentar por intermédio do director-geral de Extensão Rural ao Secretário de Estado do Fomento Agrário, a qual, obtida a concordância a que alude o n.º 3 do artigo 2.º do Decreto-Lei n.º 82/77, será submetida a despacho do Ministro da Agricultura e Pescas.
+5 - Em caso de urgência, os prazos previstos serão encurtados por forma a não ser diminuída ou eliminada a utilidade do subsídio solicitado.
+Secretaria de Estado do Fomento Agrário, 29 de Dezembro de 1980. - O Secretário de Estado do Fomento Agrário, José Vicente de Jesus de Carvalho Cardoso.
