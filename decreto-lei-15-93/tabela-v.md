@@ -8,13 +8,15 @@ Ergometrina.
 
 Ergotamina.
 
-Fenil-1 propanona-2.
+Fenil - 1 propanona - 2.
 
 Isosafrole.
 
-3,4-Metilenodioxifenil-2-propanona.
+3,4 - Metilenodioxifenil - 2 - propanona.
 
-N-ácido acetilantranílico.
+N - ácido acetilantranílico.
+
+Norefedrina.
 
 Piperonal.
 
