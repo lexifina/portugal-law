@@ -13,3 +13,5 @@ b) No qual tenha sido assinalado o quadrado correspondente a uma candidatura que
 c) No qual tenha sido feito qualquer corte, desenho ou rasuras ou quando tenha sido escrita qualquer palavra.
 
 3. Não será considerado voto nulo o do boletim de voto no qual a cruz, embora não sendo perfeitamente desenhada ou excedendo os limites do quadrado, assinale inequivocamente a vontade do eleitor.
+
+4 - Considera-se ainda voto nulo o voto antecipado quando o boletim de voto não chega ao seu destino nas condições previstas nos artigos 70.º-B e 70.º-C ou seja recebido em sobrescrito que não esteja devidamente fechado.

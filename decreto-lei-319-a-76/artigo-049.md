@@ -17,3 +17,5 @@ e) A utilização dos lugares públicos a que se refere o artigo 9.º do Decreto
 f) A presença de agentes de autoridade a reuniões organizadas por qualquer candidatura apenas poderá ser solicitada pelo órgão competente da candidatura que as organizar, ficando esses órgãos responsáveis pela manutenção da ordem quando não façam tal solicitação;
 
 g) O limite a que alude o artigo 11.º do Decreto-Lei n.º 406/74, de 29 de Agosto, será alargado até às 2 horas da madrugada durante a campanha eleitoral.
+
+h) O recurso previsto no n.º 1 do artigo 14.º do Decreto-Lei n.º 406/74, de 29 de Agosto, é interposto no prazo de quarenta e oito horas para o Tribunal Constitucional.

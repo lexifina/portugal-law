@@ -1,10 +1,10 @@
 # Artigo 74.º
 
-### (Voto dos cegos e deficientes)
+### Voto dos deficientes
 
-1 - Os cegos e quaisquer outras pessoas afectadas por doença ou deficiência física notórias, que a mesa verifique não poderem praticar os actos descritos no artigo 87.º, votam acompanhados de um cidadão eleitor por si escolhido que garanta a fidelidade de expressão do seu voto, que fica obrigado a absoluto sigilo.
+1 - O eleitor afectado por doença ou deficiência física notórias, que a mesa verifique não poder praticar os actos descritos no artigo 87.º, vota acompanhado de outro eleitor por si escolhido, que garanta a fidelidade de expressão do seu voto e que fica obrigado a sigilo absoluto.
 
-2 - Se a mesa decidir que não pode verificar a notoriedade da cegueira, da doença ou da deficiência física, deve ser apresentado no acto da votação certificado comprovativo da impossibilidade da prática dos actos descritos no artigo 87.º, emitido e subscrito pelo delegado de saúde municipal ou seu substituto legal e autenticado com o selo do respectivo serviço.
+2 - Se a mesa deliberar que não se verifica a notoriedade da doença ou deficiência física, exige que lhe seja apresentado no acto de votação atestado comprovativo da impossibilidade da prática dos actos referidos no número anterior emitido pelo médico que exerça poderes de autoridade sanitária na área do município e autenticado com o selo do respectivo serviço.
 
 3 - Para os efeitos do número anterior, devem os centros de saúde manter-se abertos no dia da eleição, durante o período de funcionamento das assembleias eleitorais.
 
