@@ -1,0 +1,5 @@
+Resolução da Assembleia da República n.º 14/87
+Inquérito parlamentar sobre a actuação das entidades portuguesas intervenientes na venda de armas e desvio de fundos e material de guerra no quadro da operação secreta conhecida por «Irangate».
+A Assembleia da República resolve, nos termos do n.º 4 do artigo 169.º e dos n.os 4 e 5 do artigo 181.º da Constituição, da Lei n.º 43/77, de 18 de Junho e dos artigos 251.º e seguintes do Regimento, constituir uma comissão parlamentar de inquérito para apurar em toda a extensão a conduta das entidades portuguesas intervenientes na venda de armas e desvio de fundos e material de guerra no quadro da operação secreta conhecida pela designação «Irangate», determinando, em especial, as condições em que pôde ocorrer a utilização por potência estrangeira, para tais finalidades, de portos, aeroportos e empresas nacionais, bem como as responsabilidades do Governo e da Administração Pública em todo o processo.
+Aprovada em 31 de Março de 1987.
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
