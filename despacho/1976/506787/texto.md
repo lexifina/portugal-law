@@ -1,0 +1,7 @@
+Despacho
+Considerando que o sistema de recrutamento dos delegados do procurador da República para o quadro metropolitano era diferente do seguido para os do quadro ultramarino;
+Considerando que de tal sistema resultavam para estes, relativamente àqueles, benefícios na contagem do tempo de antiguidade;
+Considerando que o Decreto-Lei n.º 402/75, de 25 de Julho, possibilitou aos delegados do procurador da República do quadro ultramarino o ingresso no quadro metropolitano;
+Considerando que importa evitar situações de eventual injustiça relativa provocadas pela existência daqueles dois diferentes sistemas de ingresso na magistratura do Ministério Público:
+Ao abrigo do disposto no artigo 32.º do Decreto-Lei n.º 714/75, de 20 de Dezembro, se determina que para a organização da lista referida no n.º 3 do artigo 10.º do mesmo diploma legal, e apenas para tal fim, quando dela hajam de constar simultaneamente delegados do procurador da República do quadro metropolitano e delegados do procurador da República que se prevaleceram do disposto no artigo 7.º do Decreto-Lei n.º 402/75, de 25 de Julho, seja considerado o tempo de serviço prestado pelos primeiros na condição de interinidade, tendo-se em atenção o disposto no artigo 3.º do Decreto-Lei n.º 49031, de 27 de Maio de 1969, e respeitando-se a graduação resultante das diferentes classificações por eles obtidas nos respectivos concursos de habilitação.
+Ministério da Justiça, 30 de Janeiro de 1976. - O Ministro da Justiça, João de Deus Pinheiro Farinha.
