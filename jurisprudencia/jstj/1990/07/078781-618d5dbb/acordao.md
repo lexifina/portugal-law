@@ -1,0 +1,47 @@
+# Acórdão do Supremo Tribunal de Justiça de 1990-07-10, processo 078781
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 078781
+
+**Nº Convencional:** JSTJ00003137
+
+**Relator:** FIDALGO DE MATOS
+
+**Descritores:** PROPRIEDADE INDUSTRIAL; MODELO INDUSTRIAL; CONFUSÃO; IMITAÇÃO
+
+**Nº do Documento:** SJ199007100787811
+
+**Data do Acordão:** 07/10/1990
+
+**Votação:** UNANIMIDADE
+
+**Referência de Publicação:** BMJ N399 ANO1990 PAG533
+
+**Tribunal Recurso:** T REL PORTO
+
+**Processo no Tribunal Recurso:** 22429/88
+
+**Data:** 06/27/1989
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** NEGADA A REVISTA.
+
+**Área Temática:** DIR COM - MAR PATENT.
+
+## Sumário
+
+I - A propriedade industrial goza das garantias estabelecidas por lei para a propriedade em geral sendo especialmente protegida nos termos do Codigo da Propriedade Industrial e convenções em vigor.
+
+II - São expressamente proibidos todos os actos susceptiveis de causar confusão com os produtos dos concorrentes, qualquer que seja o meio empregado (artigo 212, n. 1, do Codigo da Propriedade Industrial.
+
+III - E punivel aquele que, sem consentimento do dono de um modelo, o reproduzir ou imitar totalmente ou em algumas das suas partes caracteristicas (artigo 216, n. 3).
+
+IV - O Codigo da Propriedade Industrial,apos dispor o que se considera modelo industrial e que neste so e protegida a forma sob o ponto de vista geometrico ou ornamental, estabelece que so gozam de protecção legal os modelos novos e os que, não o sendo inteiramente, realizem combinações novas de elementos conhecidos ou disposições diferentes de elementos ja usados, que deem aos respectivos objectos aspecto geral distinto.
+
+V - Um berloque comercializado como enfeite ou adorno não imita um guizo destinado a brinquedo de crianças classificado em classe diferente e, alem disso, com fisionomia propria no seu conjunto e aspecto geral distinto.
