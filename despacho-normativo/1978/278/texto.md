@@ -1,0 +1,13 @@
+Despacho Normativo n.º 278/78
+Para ingresso nas categorias que compõem a carreira de tractoristas estabelecidas pelo Decreto Regulamentar n.º 79/77, de 26 de Novembro, e consequente primeiro provimento dos lugares que constam do mapa anexo ao mesmo decreto regulamentar, determino que na elaboração das listas nominativas a que se refere o artigo 52.º do Decreto-Lei n.º 221/77, de 28 de Maio, sejam aplicadas as seguintes normas:
+1 - Transitarão para a categoria de tractorista principal os tractoristas já remunerados pela letra Q e o pessoal habilitado com a carta de tractorista com, pelo menos, vinte anos de serviço em funções de idêntico conteúdo.
+2 - Transitará para a categoria de tractorista o restante pessoal habilitado com a carta de tractorista e exercendo funções de idêntico conteúdo.
+3 - Transitará para a categoria de ajudante de tractorista o pessoal não habilitado com a carta de tractorista e exercendo funções de ajudante de tractorista.
+4 - Quando da aplicação das normas n.os 1 a 3 resultarem excedentes de pessoal relativamente ao número de lugares, em cada categoria, que consta do quadro anexo ao Decreto Regulamentar n.º 79/77, de 26 de Novembro, será feito recurso ao previsto nos n.os 3 e 4 do artigo 52.º do Decreto-Lei n.º 221/77, de 28 de Maio.
+5 - Quando da aplicação da norma n.º 1 resultarem vagas na categoria de tractorista principal, serão as mesmas preenchidas, consoante as necessidades, por concurso de provas práticas e escritas entre os tractoristas e mais pessoal habilitado com carta de tractorista e exercendo funções de idêntico conteúdo com, pelo menos, três anos nessas funções.
+6 - Serão considerados para efeitos de aplicação deste despacho a categoria efectiva em 28 de Maio de 1977, o tempo de serviço prestado até 31 de Dezembro de 1977 em organismos estatais e paraestatais e as habilitações literárias adquiridas até esta última data.
+7 - Estas normas são também aplicáveis ao pessoal já provido por listas nominativas anteriormente à publicação deste despacho.
+8 - O pessoal abrangido pelas disposições dos n.os 1 a 3 deverá apresentar todos os elementos necessários à organização dos processos, no prazo improrrogável de trinta dias a contar da data da publicação deste despacho.
+9 - As regras e abertura do concurso a que se refere o n.º 5 serão estabelecidas por despacho do Ministro da Agricultura e Pescas.
+10 - O presente despacho normativo revoga o despacho interno de 5 de Dezembro de 1977, na parte referente a tractoristas, no mesmo considerados em conjunto com o restante pessoal agrícola (§§ 13.1, 13.2 e 13.3).
+Ministério da Agricultura e Pescas, 19 de Setembro de 1978. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.
