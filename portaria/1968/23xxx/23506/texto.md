@@ -1,0 +1,6 @@
+Portaria n.º 23506
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, que, nos termos do determinado na alínea a) do n.º 1 do artigo 277.º do Decreto n.º 47847, de 14 de Agosto de 1967, e para os efeitos do previsto na alínea b) do n.º 1 do artigo 67.º do mesmo diploma:
+1.º Os terrenos onde é restrito o exercício da caça, de acordo com o determinado na alínea b) do n.º 1 do artigo 67.º do Decreto n.º 47847, de 14 de Agosto de 1967, devem ser balizados com sinais do modelo n.º 3, definido na Portaria n.º 23006, de 9 de Novembro de 1967, e nas condições previstas neste diploma;
+2.º De 1000 em 1000 m, pelo menos, deverá ser afixada por cima do sinal uma tabuleta com as dimensões mínimas de 20 cm por 40 cm, de cor branca, com a inscrição a preto da entidade administradora e da designação da propriedade;
+3.º Estas tabuletas e os sinais são colocados pela forma prevista nos n.os 9.º e 11.º da referida portaria, sendo obrigatória a afixação de uma, sempre que caminhos públicos a atravessem, nos pontos de cruzamento destes caminhos com os limites da propriedade.
+Secretaria de Estado da Agricultura, 25 de Julho de 1968. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.
