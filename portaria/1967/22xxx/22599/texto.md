@@ -1,0 +1,9 @@
+Portaria n.º 22599
+Considerando o que foi proposto pelo Governo-Geral da província de Moçambique no sentido de se reforçarem as dotações atribuídas a estudos de base e ao porto de Lourenço Marques no programa de financiamento do Plano Intercalar de Fomento aprovado para o ano findo, a fim de serem satisfeitos encargos já assumidos;
+Tendo em vista a autorização concedida pelo Conselho de Ministros para os Assuntos Económicos em sessão de 8 do corrente:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 2.º do Decreto n.º 35770, de 29 de Julho de 1946, que o Governo-Geral da província de Moçambique faça os seguintes reforços:
+1) Com a quantia de 200000$00 a verba do capítulo 12.º, artigo 2609.º, n.º 1), alínea b) «Plano Intercalar de Fomento - Conhecimento científico do território e das populações, investigação científica e estudos de base - Estudos de base», da tabela de despesa extraordinária do orçamento geral de 1966, por transferência de igual importância a sair da verba do artigo 2609.º, n.º 6), alínea c), n.º VI) «Plano Intercalar de Fomento - Transportes e comunicações - Portos e navegação - Estudos em modelo reduzido», da mesma tabela de despesa.
+2) Com a importância de 180000$00 a verba do capítulo 12.º, artigo 2609.º, n.º 6), alínea c), n.º I) «Plano Intercalar de Fomento - Transportes e comunicações - Portos e navegação - Porto de Lourenço Marques», por transferência de igual quantia a sair da verba do artigo 2609.º, n.º 6), alínea c), n.º VI «Transportes e comunicações - Portos e navegação - Estudos em modelo reduzido», da mesma tabela de despesa.
+Ministério do Ultramar, 28 de Março de 1967. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de Moçambique. - J. da Silva Cunha.
