@@ -2,7 +2,7 @@
 
 A contribuição predial respeitante a prédios urbanos de habitação desocupados fica sujeita às seguintes regras:
 
-1.ª Os prédios inabitáveis ou destinados a demolição para edificação de novas construções e que se mantenham nessa situação por tempo superior a um ano serão sujeitos, por proposta da câmara municipal, ouvida a Secretaria de Estado de Habitação e Urbanismo, ao regime estabelecido no artigo anterior.
+1.ª [Revogada.]
 
 2.ª Os prédios construídos de novo e destinados a arrendamento ficam sujeitos a tributação, salvo nos casos em que exista lei especial em contrário, nos termos seguintes:
 
