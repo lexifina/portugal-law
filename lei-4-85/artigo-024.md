@@ -10,7 +10,7 @@
 
 ### (Subvenção mensal vitalícia)
 
-1 - Os membros do Governo, os deputados à Assembleia da República e os juízes do Tribunal Constitucional que não sejam magistrados de carreira têm direito a uma subvenção mensal vitalícia desde que tenham exercido os cargos ou desempenhado as respectivas funções após 25 de Abril de 1974 durante 8 ou mais anos, consecutivos ou interpolados.
+1 - Os membros do Governo, os Ministros da República, os Deputados à Assembleia da República, o Governador e secretários adjuntos de Macau e os juízes do Tribunal Constitucional que não sejam magistrados de carreira têm direito a uma subvenção mensal vitalícia, desde que tenham exercido os cargos ou desempenhado as respectivas funções, após 25 de Abril de 1974, durante 12 ou mais anos, consecutivos ou interpolados.
 
 2 - Os ex-Presidentes da Assembleia da República e os ex-Primeiros-Ministros na vigência da Constituição da República têm direito a uma subvenção mensal vitalícia nos termos do n.º 4 do artigo 25.º
 
