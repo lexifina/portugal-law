@@ -1,0 +1,23 @@
+Portaria n.º 113/2002
+de 5 de Fevereiro
+O Estatuto do Pessoal da Polícia Marítima (EPPM), aprovado pelo Decreto-Lei n.º 248/95, de 21 de Setembro, consagra, na alínea b) do artigo 51.º, o direito à utilização pelo pessoal da Polícia Marítima (PM) dos transportes públicos colectivos, nas condições a definir por portaria dos Ministros da Defesa Nacional e do Equipamento Social, nos termos do Decreto-Lei n.º 106/87, de 6 de Março.
+Nos termos da mencionada alínea b) do artigo 51.º, conjugada com o disposto no n.º 3 do artigo 2.º do Decreto-Lei n.º 106/87, a aplicação deste diploma ao pessoal com funções de fiscalização pertencente aos serviços ou organismos oficiais com competência para fiscalizar a actividade transportadora será feita por portaria dos Ministros da Defesa Nacional e do Equipamento Social.
+Considerando que à PM compete, nos termos do disposto no n.º 1 do artigo 2.º do EPPM, garantir e fiscalizar o cumprimento da lei nas áreas de jurisdição do Sistema da Autoridade Marítima, com vista, nomeadamente, a preservar a regularidade das actividades marítimas e a segurança e os direitos dos cidadãos, revela-se conveniente, para a prossecução do interesse público, que lhe seja permitida a utilização gratuita dos transportes públicos colectivos fluviais e marítimos.
+Por outro lado, o Decreto-Lei n.º 106/87 estabelece, no seu artigo 1.º, n.º 1, que a obrigatoriedade de prestação de transporte gratuito, nos casos em que a lei confere esse direito, depende da apresentação pelos beneficiários de documento que possibilite a contabilização dos encargos daí decorrentes para as empresas operadoras, competindo ao Ministério do Equipamento Social a definição, em portaria, das características e condições de emissão desse documento.
+Para que o direito consagrado no EPPM possa ser efectivamente exercido, torna-se necessário definir as condições de utilização dos transportes públicos colectivos para o pessoal da PM, em igualdade de circunstâncias com as definidas, designadamente, para os militares das Forças Armadas, a Polícia de Segurança Pública e a Guarda Nacional Republicana, constantes das Portarias n.os 2/89, de 2 de Janeiro, 471/78, de 19 de Agosto, 719/88, de 28 de Outubro, e 588/93, de 12 de Junho.
+Assim, ao abrigo das disposições conjugadas constantes da alínea b) do artigo 51.º do EPPM, aprovado pelo Decreto-Lei n.º 248/95, de 21 de Setembro, e dos artigos 1.º, n.º 2, e 2.º, n.º 3, do Decreto-Lei n.º 106/87, de 6 de Março:
+Manda o Governo, pelos Ministros da Defesa Nacional e do Equipamento Social, o seguinte:
+1.º O pessoal da Polícia Marítima (PM), quando em serviço, pode utilizar gratuitamente os serviços das empresas de transportes colectivos de passageiros para o exercício de funções de fiscalização da actividade transportadora fluvial e marítima.
+2.º Para efeitos do disposto no número anterior, o pessoal da PM deverá ser possuidor de cartões de fiscalização não nominais, que serão requisitados ao Ministério do Equipamento Social e respeitarão o modelo anexo ao presente diploma, do qual faz parte integrante.
+3.º A requisição dos cartões de identificação a que se refere o número anterior será limitada à capacidade dos meios humanos afectos ao exercício de fiscalização da actividade transportadora.
+4.º No decurso da acção de fiscalização e desde que não se encontre devidamente fardado, o pessoal da PM deve identificar-se perante a entidade fiscalizadora mediante a apresentação do cartão de identidade de PM e do cartão a que se refere o n.º 2.º
+5.º Não podem transitar mais de dois agentes de fiscalização por cada meio de transporte fiscalizado.
+6.º As lotações dos meios de transporte objecto de acção de fiscalização não serão reduzidas pelo facto de neles transitarem elementos de fiscalização, os quais viajarão de pé, sempre que não exista lugar sentado disponível.
+7.º A utilização dos transportes nos termos da presente portaria é exercida nas áreas de jurisdição do Sistema da Autoridade Marítima e dentro dos limites geográficos do comando local em que o pessoal da PM se encontra a prestar serviço.
+8.º Fora das situações a que se referem os números anteriores, ao pessoal da PM são aplicáveis, com as necessárias adaptações, os regimes previstos nas Portarias n.os 471/78, de 19 de Agosto, 719/88, de 28 de Outubro, e 588/93, de 12 de Junho.
+Em 8 de Janeiro de 2002.
+O Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena. - Pelo Ministro do Equipamento Social, Rui António Ferreira Cunha, Secretário de Estado Adjunto e dos Transportes.
+
+ANEXO
+(modelo a que se refere o n.º 2.º)
+(ver modelo no documento original)
