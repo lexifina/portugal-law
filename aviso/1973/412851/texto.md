@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Ministério dos Negócios Estrangeiros dos Países Baixos, o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte notificou aquele Ministério de que, por motivo de recente modificação, as autoridades que nas Baamas, nos termos do parágrafo 1.º do artigo 3.º da Convenção Destinada a Suprimir a Exigência de Legalização dos Actos Públicos Estrangeiros, assinada na Haia em 5 de Outubro de 1961, passam a efectuar a aposição da «apostilha» são:
+Secretário Permanente ou Vice-Secretário Permanente, Ministério dos Negócios Estrangeiros, Nassau (The Permanent Secretary or Deputy Permanent Secretary, Ministry of External Affairs, Nassau).
+Secretaria-Geral do Ministério, 5 de Setembro de 1973. - O Secretário-Geral, José Calvet de Magalhães.
