@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 13 de Novembro de 1979, o Governo da Finlândia depositou, junto do Ministério dos Negócios Estrangeiros dos Países Baixos, o instrumento de aceitação da adesão da República de Singapura à Convenção sobre a Obtenção de Provas no Estrangeiro em Matéria Civil e Comercial, concluída na Haia em 18 de Março de 1970, de que Portugal já é parte. Aquele instrumento diplomático entrará em vigor, com referência àquele país, em 12 de Janeiro de 1980, apenas nas suas relações bilaterais com a Finlândia.
+Secretaria-Geral do Ministério, 3 de Janeiro de 1980. - O Chefe dos Serviços Jurídicos e de Tratados, Rui Eduardo Barbosa de Medina.
