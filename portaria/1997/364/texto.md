@@ -1,0 +1,70 @@
+Portaria n.º 364/97
+de 2 de Junho
+A Assembleia Municipal de Estarreja aprovou, em 29 de Junho de 1996, o Plano de Pormenor da Fontinha, no município de Estarreja.
+Verifica-se a conformidade formal do Plano de Pormenor com as disposições legais e regulamentares em vigor e a sua articulação com os demais planos municipais eficazes e com outros planos, programas e projectos de interesse para o município ou supramunicipal, nos termos previstos no n.º 2 do artigo 16.º do Decreto-Lei n.º 69/90, de 2 de Março.
+O presente Plano de Pormenor carece de ratificação, nos termos da alínea d) do n.º 1 do artigo 16.º do Decreto-Lei n.º 69/90, de 2 de Março, conjugado com o disposto no n.º 4 do artigo 3.º, na redacção que lhe foi dada pelo Decreto-Lei n.º 211/92, de 8 de Outubro.
+Foi realizado o inquérito público, nos termos previstos no artigo 14.º do Decreto-Lei n.º 69/90, de 2 de Março, e emitidos os pareceres a que se refere o artigo 13.º do mesmo diploma legal.
+Assim:
+Ao abrigo do n.º 4 do artigo 3.º do Decreto-Lei n.º 69/90, de 2 de Março, com as alterações introduzidas pelo Decreto-Lei n.º 211/92, de 8 de Outubro, e no uso da delegação de competências conferida pelo Despacho n.º 48/96 do Ministro do Equipamento, do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, n.º 69, de 21 de Março de 1996:
+Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamento do Território, que seja ratificado o Plano de Pormenor da Fontinha, no município de Estarreja, cujo regulamento e planta de síntese se publicam em anexo à presente portaria e que dela fazem parte integrante.
+Ministério do Equipamento, do Planeamento e da Administração do Território.
+Assinada em 30 de Abril de 1997.
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.
+
+REGULAMENTO DO PLANO DE PORMENOR DA FONTINHA, VILA DE ESTARREJA
+Artigo 1.º
+Objecto e constituição do Plano
+1 - O Plano de Pormenor da Fontinha, na vila de Estarreja, adiante designado por Plano, é um plano municipal de ordenamento do território, elaborado nos termos do Decreto-Lei n.º 69/90, de 2 de Março, com a nova redacção dada pelo Decreto-Lei n.º 211/92, de 8 de Outubro, e é constituído por:
+Regulamento;
+Planta de síntese;
+Planta de condicionantes;
+Memória descritiva e justificativa, integrando relatório, caracterização e programa de execução e financiamento;
+Planta de enquadramento;
+Extracto do Plano Geral de Urbanização;
+Planta da situação existente;
+Plantas de trabalho e perfis.
+2 - O presente Regulamento bem como a planta de síntese e a planta de condicionantes definem a concepção do espaço de construção futura da vila de Estarreja contígua ao parque urbano previsto e estabelecem a sua tipologia de ocupação, no âmbito do Plano de Pormenor da Fontinha.
+Artigo 2.º
+Âmbito territorial e regime
+1 - O território abrangido pelo Plano, território este que adiante se designa por área-plano, é o correspondente à área como tal delimitada na planta de síntese, com a superfície de 20345 m2, reservado para construção futura da categoria A, prevista no Plano Geral de Urbanização da Vila de Estarreja.
+2 - O regime do Plano consta do presente Regulamento, é traduzido graficamente nas plantas e as suas disposições são aplicáveis obrigatoriamente a todas as iniciativas públicas, privadas ou mistas a realizar na área-plano.
+Artigo 3.º
+Condicionantes
+Na área-plano serão observadas as protecções, servidões administrativas e restrições de utilidade pública constantes da legislação em vigor ou decorrentes da sua modificação, designadamente relativas:
+Ao Plano Geral de Urbanização;
+À restrição de utilidade pública da linha de alta tensão.
+Artigo 4.º
+Estrutura de ordenamento
+1 - Para efeitos regulamentares, o território objecto do presente Plano é estruturado em diferentes partes, consoante os diversos usos previstos e atribuídos.
+2 - Definem-se como parcelas os terrenos destinados à construção (habitação, comércio e serviços) e são constituídas ainda áreas de uso público (ruas, estacionamentos, passeios, equipamentos e espaços verdes) e áreas verdes de enquadramento e protecção.
+3 - Os limites das parcelas referidas no número anterior, assinaladas na planta de síntese, poderão sofrer alterações de pormenor, apenas e só para serem ajustados aos limites cadastrais.
+Artigo 5.º
+Execução do Plano
+1 - A Câmara Municipal, para efeitos da execução do Plano, deve garantir a necessária disponibilidade de terrenos, nomeadamente os relativos às áreas de uso público, como arruamentos, passeios, estacionamentos, equipamentos colectivos e espaços verdes.
+2 - Tal efeito pode constituir fundamento para a Câmara Municipal pedir, se eventualmente necessário, a declaração de utilidade pública para a expropriação desses terrenos, nos termos da lei.
+3 - A Assembleia Municipal, sob proposta da Câmara Municipal, poderá aprovar a aplicação de uma taxa urbanística específica para a área objecto do presente Plano de Pormenor, nos termos do n.º 4 do artigo 27.º do Regulamento do Plano Director Municipal de Estarreja.
+Artigo 6.º
+Regulamentação urbanística
+1 - As regras de ocupação, uso e transformação do solo, incluindo nas parcelas de construção delimitadas na planta de síntese, estão estabelecidas no quadro anexo, que integra a referida planta, e neste Regulamento.
+2 - Os perímetros assinalados na planta de síntese relativos à forma do edificado, especialmente no tocante à implantação e ocupação, devem ser observados como padrões de referência na elaboração de projectos de novas construções ou nos de remodelação das existentes.
+Artigo 7.º
+Regulamentação complementar
+1 - Os alinhamentos das fachadas fronteiras e de tardoz a observar na construção de novas edificações estão definidos na planta de síntese, enquanto na construção de novas habitações unifamiliares ou na sua remodelação os alinhamentos das fachadas serão constituídos por planos afastados 5 m dos limites das parcelas respectivas, sem embargo da observância dos alinhamentos principais antes referidos.
+2 - O balanço dos beirados e varandas em qualquer das fachadas das construções não poderá exceder 1,50 m a partir do plano de fachada.
+Artigo 8.º
+Infra-estruturas
+1 - As construções previstas só podem ser ocupadas quando todos os seus acessos, serventias e infra-estruturas correspondentes estiverem concluídos e em funcionamento.
+2 - A execução dos espaços públicos e infra-estruturas será da responsabilidade da Câmara Municipal, designadamente arruamentos, estacionamentos, passeios e arranjos paisagísticos, podendo, no entanto, negociar, com a promoção conjunta de habitações, a execução e manutenção quer dos espaços verdes quer das infra-estruturas.
+Artigo 9.º
+Demolições
+1 - Para além das previstas no presente Plano, não são permitidas demolições nas construções existentes, com excepção das que se destinem a pequenas obras de remodelação ou de conservação e ainda das que se revelem indispensáveis à segurança, por eventual estado de ruína das edificações em causa.
+2 - Nestes casos, a demolição será precedida de vistoria municipal e a reconstrução respeitará obrigatoriamente as disposições urbanísticas específicas da parcela em que se integra a construção e a demais legislação em vigor.
+3 - Dentro dos limites de cada parcela, compete ao promotor da respectiva construção a obrigação de proceder aos movimentos de terra e tratamento dos espaços livres.
+Artigo 10.º
+Obras de ampliação e anexos
+1 - Nas parcelas onde, no âmbito do presente Plano, existam já edifícios de habitação poderão ocorrer obras de ampliação destas edificações ou mesmo dos seus anexos, considerados estes apenas para arrecadações e garagens, nos termos e condições mencionados no número seguinte.
+2 - Nas obras de ampliação e construção de anexos não poderão produzir-se valores finais de construção e ou de implantação superiores aos fixados para a correspondente parcela.
+Artigo 11.º
+Omissões
+Em todos os casos omissos serão respeitadas as normas legais aplicáveis e, bem assim, todos os regulamentos em vigor, designadamente o Regulamento Geral das Edificações Urbanas e as disposições do Plano Geral de Urbanização de Estarreja e do Plano Director Municipal de Estarreja.
+(ver documento original)
