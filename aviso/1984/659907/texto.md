@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o Representante Permanente de Portugal junto dos Organismos Internacionais em Genebra depositou junto do director-geral da Organização Internacional do Trabalho, em 26 de Maio de 1983, o instrumento de ratificação da Convenção n.º 77, relativa ao exame médico de aptidão para o emprego na indústria das crianças e dos adolescentes.
+Até aquela data eram Partes na referida Convenção os seguintes países:
+Albânia, Argélia, Argentina, Bélgica, República Socialista Soviética de Bielorrússia, Bolívia, Bulgária, República Unida dos Camarões, Cuba, Jibuti, República Dominicana, Equador, Espanha, França, Grécia, Guatemala, Haiti, Hungria, Iraque, Israel, Itália, Líbano, Luxemburgo, Nicarágua, Panamá, Paraguai, Peru, Filipinas, Polónia, República Democrática Alemã, Checoslováquia, Tunísia, República Socialista Soviética da Ucrânia, União das Repúblicas Socialistas Soviéticas e Uruguai.
+Direcção-Geral dos Negócios Económicos, 29 de Dezembro de 1983. - O Adjunto do Director-Geral, Roberto Nuno de Oliveira e Silva Pereira de Sousa.
