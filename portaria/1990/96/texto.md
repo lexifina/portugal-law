@@ -1,0 +1,17 @@
+Portaria n.º 96/90
+de 9 de Fevereiro
+O artigo 117.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro, impõe aos corretores, às sociedades de corretagem, às sociedades financeiras de corretagem e às instituições financeiras que comuniquem à administração fiscal, relativamente a cada sujeito passivo, o número total de acções e outros valores mobiliários cujas mais-valias estejam sujeitas a IRS alienados com a sua intervenção, bem como o respectivo valor.
+Por outro lado, tendo em vista utilizar, no cumprimento desta obrigação, as modernas tecnologias de informação, o artigo 135.º do mesmo Código permite a substituição do suporte pré-impresso por suportes magnéticos que obedeçam às características técnicas definidas pela Direcção-Geral das Contribuições e Impostos sem necessidade de prévia autorização.
+Importa, pois, colocar à disposição de todas as entidades sobre as quais recai esta obrigação os meios indispensáveis ao seu cumprimento atempado.
+Assim:
+Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do artigo 8.º do Decreto-Lei n.º 442-A/88, de 30 de Novembro, o seguinte:
+1.º É aprovado o modelo n.º 13 da relação a apresentar à Direcção-Geral das Contribuições e Impostos pelas entidades a ela obrigadas, nos termos do artigo 117.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, bem como as respectivas instruções de preenchimento, que dela fazem parte integrante.
+2.º A relação a que se refere o número anterior não é de modelo exclusivo, sendo de reprodução livre, desde que observadas as suas características, em papel branco de formato A4.
+3.º São aprovadas as características técnicas dos suportes magnéticos que substituem a relação a que se refere o n.º 1.º
+4.º A apresentação da relação em suporte magnético não carece de autorização prévia da Direcção-Geral das Contribuições e Impostos.
+5.º Os suportes magnéticos, depois de recolhidos, serão devolvidos às entidades apresentantes, acompanhados de uma listagem do seu conteúdo em suporte de papel, que fica a constituir, para todos os efeitos, prova do conteúdo daqueles suportes.
+Ministério das Finanças.
+Assinada em 23 de Janeiro de 1990.
+O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.
+
+(ver documento original)
