@@ -52,7 +52,7 @@ a) Às categorias de operário de 1.ª classe, por progressão;
 
 b) Às categorias de capataz, por concurso de prestação de provas;
 
-c) Às categorias de encarregado, de entre os operários das categorias previstas no n.º 1 do artigo 13.º do Decreto-Lei n.º 271/71, de 26 de Setembro, por concurso de prestação de provas.
+c) Às categorias de encarregado, de entre os operários das categorias previstas no n.º 1 do artigo 13.º do Decreto-Lei n.º 271/81, de 26 de Setembro, por concurso de prestação de provas.
 
 10 - O recrutamento para ingresso na carreira de alimentação (cozinha) far-se-á por concurso de prestação de provas.
 
