@@ -1,0 +1,4 @@
+Resolução n.º 55/78
+Nos termos da alínea c) do artigo 146.º e do n.º 1 do artigo 281.º da Constituição, o Conselho da Revolução, a solicitação do Presidente da Assembleia da República e precedendo parecer da Comissão Constitucional, resolveu não se pronunciar pela inconstitucionalidade das normas constantes do artigo 33.º do Decreto-Lei n.º 372-A/75, de 16 de Julho, e do artigo 1.º do Decreto-Lei n.º 874/76, de 28 de Dezembro, na parte em que se referem ao contrato de serviço doméstico, por, atentas as características próprias desse contrato, não contrariar a Constituição a sua sujeição a um regime especial, desde que este assegure aos trabalhadores do serviço doméstico os direitos consagrados nos artigos 52.º e 53.º da Constituição da República.
+Aprovada em Conselho da Revolução em 31 de Março de 1978.
+O Presidente do Conselho da Revolução, António Ramalho Eanes, general.
