@@ -1,0 +1,45 @@
+Decreto-Lei n.º 472/82
+de 16 de Dezembro
+O regime de isenções de pagamento da taxa devida pela utilização do serviço público de televisão encontra a sua disciplina repartida por 2 diplomas legais:
+O Decreto-Lei n.º 401/79, de 21 de Setembro - que define o regime de registo de aparelhos receptores de televisão e estabelece a obrigatoriedade de pagamento de uma taxa de utilização -, concede, no seu artigo 13.º, a isenção daquele pagamento a diversas entidades, tendo em conta a sua qualidade, o regime de reciprocidade, bem como a insuficiência económica de certos extractos sociais da população.
+O Decreto-Lei n.º 171/80, de 29 de Maio, veio alargar o regime de concessão daquela isenção aos cidadãos beneficiários de pensão de velhice, invalidez e sobrevivência de qualquer regime, que não se achavam contemplados na previsão do referido artigo 13.º do Decreto-Lei n.º 401/79.
+Contudo, o Decreto-Lei n.º 171/80, que pretende ser uma extensão do diploma anterior, não acautela os pressupostos de justiça social expressos na parte final do n.º 2 do artigo 13.º do referido diploma, lacuna esta agravada pela circunstância de remeter para o conselho de gerência da Radiotelevisão Portuguesa, E. P., a competência para a fixação dos elementos de prova de que depende a concessão de isenção.
+Considerando, por outro lado, a generalização do uso de aparelhos a cores, não seriam também respeitados aqueles pressupostos se a isenção não fosse igualmente extensiva às taxas de televisão a cores.
+Assim, no sentido de se obter uma clara e coerente definição dos parâmetros a que deve obedecer o regime legal de isenções de pagamento da taxa de televisão, entende-se conveniente e necessária a inserção no Decreto-Lei n.º 401/79 - e a sujeição à sua disciplina - da matéria até agora autonomamente regulada pelo Decreto-Lei n.º 171/80.
+Nestes termos:
+O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º O artigo 13.º do Decreto-Lei n.º 401/79, de 21 de Setembro, passa a ter a seguinte redacção:
+ARTIGO 13.º
+(Isenções)
+1 - ...
+a) ...
+b) ...
+c) ...
+d) ...
+e) As misericórdias, instituições particulares de solidariedade social, hospitais, instituições culturais de utilidade pública e escolas gratuitas;
+f) ...
+g) Os centros de dia, lares de internamento ou estabelecimentos de assistência não lucrativa destinados à protecção da terceira idade.
+2 - Estão igualmente isentos do pagamento da taxa de utilização, quanto a um aparelho da sua titularidade, os incapazes para o trabalho e os beneficiários de pensão de velhice, invalidez ou de sobrevivência, dos regimes gerais e especiais de segurança social e da Caixa Nacional de Previdência, ou beneficiários de pensão social, desde que tenham insuficiência económica.
+3 - Para efeitos do número anterior, considera-se que tem insuficiência económica todo aquele cujo rendimento ou do seu agregado familiar seja igual ou inferior ao salário mínimo nacional.
+4 - As isenções referidas nos números anteriores ficam dependentes de pedido do interessado instruído e de despacho favorável da Radiotelevisão Portuguesa, E. P.
+5 - A concessão das isenções previstas no n.º 1 obedecerá à verificação dos requisitos seguintes:
+a) A qualidade do beneficiário deverá estar documentalmente comprovada por qualquer forma usualmente admitida;
+b) Os beneficiários referidos na alínea b) do n.º 1 deverão comprovar, por qualquer meio idóneo, que há reciprocidade nos seus países;
+c) Os comerciantes referidos na alínea d) do mesmo número são apenas os que intervenham na cadeia de comercialização de televisores e a isenção refere-se exclusivamente a aparelhos destinados à venda ao público.
+6 - Os incapazes para o trabalho deverão instruir o seu pedido com os seguintes elementos:
+a) Atestado passado pela junta de freguesia do seu domicílio e no qual se comprove a sua insuficiência económica e composição do agregado familiar;
+b) Qualquer documento médico comprovativo da sua incapacidade para o trabalho.
+7 - Os reformados e pensionistas deverão instruir o seu pedido com os seguintes elementos:
+a) Apresentação do cartão de pensionista ou de declaração comprovativa da sua qualidade de reformado;
+b) Declaração do próprio, sob compromisso de honra, e na qual se comprovem os seus rendimentos mensais e a composição do agregado familiar.
+8 - A RTP poderá, sempre que o entender, solicitar ao Centro Nacional de Pensões ou à Caixa Nacional de Previdência confirmação dos valores das pensões declaradas.
+9 - Os beneficiários das isenções previstas no n.º 2 deste artigo deverão renovar, anualmente, até 60 dias antes do início do mês fixado para pagamento, o seu pedido de isenção devidamente instruído, sob pena de lhes ser cancelado tal benefício.
+10 - As entidades que sejam titulares de mais de 10 televisores para utilização no exercício da sua actividade beneficiam de uma redução de 30% da taxa de cada um dos televisores que possuam além daquele número.
+11 - A fim de beneficiarem da isenção referida no número anterior, os interessados deverão comunicar à RTP, anualmente, durante o mês de Dezembro, e por carta registada, os números de registo dos televisores que utilizam no exercício da sua actividade.
+12 - A RTP, nos 60 dias posteriores à comunicação referida no número anterior, procederá à regularização dos valores correspondentes às taxas a pagar pelos beneficiários da redução prevista no n.º 10.
+13 - As isenções previstas neste artigo não prejudicam a obrigatoriedade do registo, fixada no artigo 3.º do presente diploma.
+Art. 2.º Fica revogado o Decreto-Lei n.º 171/80, de 29 de Maio.
+Visto e aprovado em Conselho de Ministros de 7 de Outubro de 1982. - Diogo Pinto de Freitas do Amaral.
+Promulgado em 2 de Dezembro de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
