@@ -6,13 +6,13 @@ a) Técnicos de 1.ª classe, de entre indivíduos diplomados com curso superior 
 
 b) Técnicos de 2.ª classe, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções e de preferência entre técnicos auxiliares principais ou adjunto do chefe de secretaria, se nas condições anteriores; ou de técnicos auxiliares principais ou adjunto do chefe de secretaria, se não diplomados, mas com, pelo menos, cinco anos de bom e efectivo serviço na categoria e reconhecidas condições para o desempenho das funções;
 
-c) Chefe de secretaria, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções e de preferência entre o adjunto do chefe de secretaria nas condições anteriores ou, quando não diplomado, com, pelo menos, cinco anos de bom e efectivo serviço na categoria e reconhecidas condições para o desempenho das funções;
+c) Chefe de secretaria, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções ou de entre primeiros-oficiais com pelo menos três anos de bom e efectivo serviço na categoria;
 
 d) Chefe de contabilidade e tesoureiro de 1.ª, de entre indivíduos diplomados com curso superior ou pelos institutos comerciais, adequados ao exercício das respectivas funções, ou de entre contabilistas de 1.ª ou tesoureiros de 2.ª, com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
 e) Técnicos auxiliares principais, técnicos auxiliares de 1.ª classe, técnicos auxiliares de 2.ª classe, de entre indivíduos diplomados com o curso superior adequado ou pelos institutos comerciais e industriais ou com qualificação profissional resultante da frequência do estágio especializado previsto no n.º 3 deste artigo ou de entre, respectivamente, técnicos auxiliares de 1.ª classe, técnicos auxiliares de 2.ª classe e técnicos auxiliares de 3.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e as habilitações referidas neste diploma;
 
-f) Adjunto do chefe de secretaria, primeiros e segundos-oficiais, de entre diplomados com curso superior adequado ou pelos institutos comerciais para os lugares de adjunto do chefe de secretaria ou de entre, respectivamente, primeiros, segundos e terceiros-oficiais, com, pelo menos, três anos de bom e efectivo serviço na categoria;
+f) Primeiros-oficiais e segundos-oficiais, de entre, respectivamente, segundos-oficiais e terceiros-oficiais com pelo menos três anos de bom e efectivo serviço na categoria;
 
 g) Contabilistas de 1.ª classe e tesoureiro de 2.ª classe, de entre os contabilistas de 2.ª classe, com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
