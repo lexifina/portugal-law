@@ -1,0 +1,195 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=0%2fmnAEPdw%2bZ%2fvnXoecx2JQgGmGyJ%2b1AHu2mrzNS8ADAE18uCrc9Styx5d%2fX4IPGRcIcBKHPoySAeeVEJTG%2fnXeyO38ve46GpqLc0X3T%2bbPkcpeyEUoY%2blGLBlRWpTBx0UKWpHL%2b0cQ3AeGM5xR9S3GS29tBWW0QJzrNi%2fGO%2fKW1iOFIemaNauO5hwfRc17lE2F5iEtOcOG0Yq9A3ovXI4mo3WLcbepRRJNyYDPZR66gnSeUHQcoaTAQgjfGEJ08UqPzICqi2gLkxT9d5L4XljdxcmBX73F4%2fTpvPHkZhHVHbKFkt8d5BmDH2Tatkzy4NCcLWt0LW2TTG7%2f0lHIS6lQGnfRoQfH9YJAX%2bB7yLJsLyqhRKBQy%2bB1O%2bmEOrB58p&fich=IniciativasIA_json.txt&Inline=true",
+  "ficheiro_sha256": "39a9f34ccb817f089e97a6d8deacb124b71a67b0f61b5914b722e78111f34ce7",
+  "legislatura": "I",
+  "tipo": "Projeto de Lei",
+  "numero": "267",
+  "id": "31541",
+  "fases": 9,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1979-05-17",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1980-01-02",
+    "DataInicioleg": "1978-10-17",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "3509",
+        "nome": "Francisco Salgado Zenha"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "160",
+        "nome": "Carlos Lage"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "150",
+        "nome": "António Campos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3522",
+        "nome": "Manuel da Costa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3777",
+        "nome": "Florêncio Matias"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "522",
+        "nome": "Chaves Medeiros"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3699",
+        "nome": "José Parente Godinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3308",
+        "nome": "Luis Abilio Cacito"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3245",
+        "nome": "Armando Lopes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3518",
+        "nome": "Duarte Arnaut"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3043",
+        "nome": "Manuel Tito de Morais"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "663",
+        "nome": "Alfredo Pinto Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3220",
+        "nome": "Pedro Albuquerque"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "31541",
+    "IniLeg": "I",
+    "IniLinkTexto": "",
+    "IniNr": "267",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Alteração de algumas disposições da Lei nº 77/77, de 29 de Setembro (Lei de bases gerais da reforma agrária).",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": [
+      {
+        "autor": "PS",
+        "id": "31542",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "344436",
+            "obs": null,
+            "pag": [
+              "1667-1668"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1979-06-07",
+            "pubLeg": "I",
+            "pubNr": "73",
+            "pubSL": "3",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/01/03/073/1979-06-07/1667?pgs=1667-1668&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      },
+      {
+        "autor": "Deputados",
+        "id": "31543",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "344437",
+            "obs": null,
+            "pag": [
+              "1790-1792"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1979-06-27",
+            "pubLeg": "I",
+            "pubNr": "77",
+            "pubSL": "3",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/01/03/077/1979-06-27/1790?pgs=1790-1792&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      },
+      {
+        "autor": "Deputados",
+        "id": "31544",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "344438",
+            "obs": null,
+            "pag": [
+              "1856-1858"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1979-07-04",
+            "pubLeg": "I",
+            "pubNr": "79",
+            "pubSL": "3",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/01/03/079/1979-07-04/1856?pgs=1856-1858&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      }
+    ]
+  }
+}
