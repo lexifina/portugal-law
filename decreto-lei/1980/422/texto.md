@@ -1,0 +1,33 @@
+Decreto-Lei n.º 422/80
+de 30 de Setembro
+Considerando que, a par do conjunto de medidas legislativas já adoptadas com vista à integração de funcionários adidos junto dos serviços e organismos públicos, em geral, outras importa aprovar com vista a contemplar situações específicas não consideradas por aquelas medidas;
+Considerando que se enquadram nesse condicionalismo a integração dos adidos em actividade junto de organismos de coordenação económica e de serviços e organismos que não dispõem de quadros aprovados por lei, o presente diploma define os condicionalismos especiais a que a mesma deverá obedecer:
+Assim, considerando o disposto no n.º 4 do artigo 1.º do Decreto-Lei n.º 182/80, de 3 de Junho, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º
+(Integração de adidos)
+1 - Os funcionários adidos em actividade, à data da publicação deste diploma, junto de organismos de coordenação económica e de serviços e organismos públicos que não disponham de quadros aprovados por lei serão admitidos pelos mesmos, ao abrigo da legislação que rege as respectivas admissões de pessoal, no prazo de sessenta dias a contar daquela data.
+2 - O disposto no número anterior é por igual forma aplicável aos adidos que vierem a ser colocados junto dos mesmos serviços e organismos em data posterior e satisfaçam necessidades permanentes de serviço, caso em que a admissão se fará no início do ano imediatamente seguinte ao da colocação.
+3 - Exceptuam-se do disposto nos números precedentes os serviços e organismos dos Ministérios dos Assuntos Sociais e da Educação e Ciência sujeitos a regime de instalação.
+Artigo 2.º
+(Excepção ao regime de integração)
+1 - Os funcionários que no quadro geral de adidos (QGA) possuam nomeação definitiva poderão optar por continuar vinculados ao mesmo, exercendo funções em regime de requisição ao abrigo do artigo 35.º do Decreto-Lei n.º 297/76, de 24 de Abril.
+2 - Tratando-se de funcionários adidos em actividade junto de serviços ou organismos que não disponham de quadros aprovados por lei, a requisição durará apenas até aqueles serviços ou organismos serem dotados de quadros.
+3 - A opção prevista no n.º 1 deverá ser feita no prazo de trinta dias, a contar da data da publicação deste diploma, em requerimento dirigido ao membro do Governo que tiver a seu cargo a função pública e entregue na Direcção-Geral de Recrutamento e Formação (DGRF).
+Artigo 3.º
+(Categoria de integração)
+A admissão dos funcionários adidos far-se-á:
+a) Em categoria igual ou equivalente, no caso de a mesma estar prevista no quadro de pessoal do organismo de coordenação económica integrador ou de a mesma corresponder ao exercício de funções que respeitem à realização das atribuições do serviço ou organismo utilizador;
+b) Em categoria que resulte da aplicação de tabelas de equivalência, a aprovar mediante despacho do membro do Governo que tiver a seu cargo a função pública e do Ministro de que depender o serviço ou organismo integrador, nos demais casos.
+Artigo 4.º
+(Regime geral de pessoal)
+Os funcionários a que se reporta este diploma ficam sujeitos ao regime de pessoal em vigor ou que vier a ser estabelecido para as categorias em que se efectuar a admissão, sendo-lhes contado, para todos os efeitos legais, designadamente antiguidade, diuturnidades e aposentação, todo o tempo de serviço prestado nos serviços de origem e, bem assim, o de permanência no QGA.
+Artigo 5.º
+(Resolução de dúvidas)
+As dúvidas resultantes da aplicação deste diploma serão resolvidas mediante despacho do Ministro das Finanças e do Plano, do Ministro da pasta respectiva e do membro do Governo que tiver a seu cargo a função pública, de harmonia com a respectiva competência.
+Artigo 6.º
+(Entrada em vigor)
+Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 4 de Setembro de 1980. - Francisco Sá Carneiro.
+Promulgado em 19 de Setembro de 1980.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
