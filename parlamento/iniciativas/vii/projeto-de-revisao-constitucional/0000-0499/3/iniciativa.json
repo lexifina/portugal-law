@@ -1,0 +1,298 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "tipo": "Projeto de Revisão Constitucional",
+  "numero": "3",
+  "id": "19906",
+  "fases": 18,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1996-03-04",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1996-10-14",
+    "DataInicioleg": "1995-10-27",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "179",
+        "nome": "Jorge Lacão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "189",
+        "nome": "José Magalhães"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "462",
+        "nome": "Alberto Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1373",
+        "nome": "Osvaldo de Castro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1435",
+        "nome": "José Junqueiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "152",
+        "nome": "António Braga"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "691",
+        "nome": "Nuno Baltazar Mendes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1349",
+        "nome": "António Reis"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "411",
+        "nome": "Francisco Valente"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "467",
+        "nome": "Carlos Cordeiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "473",
+        "nome": "Francisco Camilo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1488",
+        "nome": "Afonso Candal"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1468",
+        "nome": "Sérgio Ávila"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "482",
+        "nome": "Paula Duarte"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "420",
+        "nome": "Joel Ferro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "480",
+        "nome": "Antão Ramos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1525",
+        "nome": "João Palmeiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "689",
+        "nome": "Jorge Rato"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "149",
+        "nome": "António Martinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1467",
+        "nome": "Medeiros Ferreira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1436",
+        "nome": "Joaquim Sarmento"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1263",
+        "nome": "Maria Carrilho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "165",
+        "nome": "Elisa Damião"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1347",
+        "nome": "Osório Gomes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1209",
+        "nome": "Matos Leitão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1025",
+        "nome": "Artur Sousa Lopes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1210",
+        "nome": "Maria Amélia Antunes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1163",
+        "nome": "Joaquim Raposo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1262",
+        "nome": "Francisco de Assis"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "695",
+        "nome": "Maria da Luz Rosinha"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1026",
+        "nome": "Martinho Gonçalves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1528",
+        "nome": "António José Dias"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1372",
+        "nome": "Arnaldo Homem Rebelo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1272",
+        "nome": "Afonso Lobão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "487",
+        "nome": "Fernando Jesus"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1159",
+        "nome": "Manuel Varges"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1167",
+        "nome": "Natalina Tavares de Moura"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1361",
+        "nome": "Jorge Valente"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1482",
+        "nome": "Gavino Paixão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "484",
+        "nome": "José Saraiva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1490",
+        "nome": "João Carlos da Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "196",
+        "nome": "Luís Filipe Madeira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "615",
+        "nome": "Raul Rêgo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1407",
+        "nome": "Nelson Baltazar"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "177",
+        "nome": "João Rui de Almeida"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1273",
+        "nome": "José Barradas"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "167",
+        "nome": "Fernando Pereira Marques"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "410",
+        "nome": "Manuel Strecht Monteiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "159",
+        "nome": "Artur Penedos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1274",
+        "nome": "Pedro Baptista"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Revisão Constitucional",
+    "IniEpigrafe": null,
+    "IniId": "19906",
+    "IniLeg": "VII",
+    "IniLinkTexto": "",
+    "IniNr": "3",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "C",
+    "IniTitulo": "Projecto de Revisão Constitucional nº3/VII.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
