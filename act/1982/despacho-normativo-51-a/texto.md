@@ -1,0 +1,7 @@
+Despacho Normativo n.º 51-A/82
+Ao abrigo do disposto na alínea a) do artigo 11.º do Decreto-Lei n.º 70/78, de 7 de Abril, determina-se o seguinte:
+1.º São fixados, respectivamente, em 25300$00 e 14100$00, por tonelada, os preços das sêmolas destinadas ao fabrico de massas alimentícias de qualidade superior (M(índice 1)) e das farinhas destinadas ao fabrico de massas alimentícias de consumo corrente (M(índice 2)).
+2.º Nos termos do n.º 1 do artigo 25.º do Decreto-Lei n.º 70/78, de 7 de Abril, as fábricas de sêmolas e farinhas destinadas ao fabrico de massas alimentícias M(índice 1) e M(índice 2) liquidarão à EPAC, no prazo máximo de 60 dias, para crédito do Fundo de Abastecimento, o diferencial entre os preços de venda das sêmolas e farinhas fixados no n.º 1.º do Despacho Normativo n.º 109-E/81, publicado no suplemento ao Diário da República, 1.ª série, n.º 80, de 6 de Abril de 1981, e os novos preços fixados no presente despacho, para as quantidades em seu poder à data da entrada em vigor do presente diploma.
+3.º Fica revogado o Despacho Normativo n.º 109-E/81, publicado no suplemento ao Diário da República, 1.ª série, n.º 80, de 6 de Abril de 1981.
+4.º Este despacho entra em vigor no dia imediato ao da sua publicação.
+Secretarias de Estado do Orçamento e do Comércio, 19 de Abril de 1982. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado do Comércio, António Escaja Gonçalves.
