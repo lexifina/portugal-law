@@ -1,0 +1,713 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "171",
+    "id": "29111",
+    "titulo": "Aprova a Lei-quadro das regiões administrativas"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1991-04-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4872",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1991-04-11",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1991-04-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO PLANEAMENTO E ADMINISTRAÇÃO DO TERRITÓRIO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Valente De Oliveira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159675",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2052-2055",
+                  "2057-2059"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/062/1991-04-12/2052?pgs=2052-2055,2057-2059&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Lei-quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159676",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2055-2055",
+                  "2063-2063"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/062/1991-04-12/2055?pgs=2055,2063&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Lei-quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159677",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2055-2056"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/062/1991-04-12/2055?pgs=2055-2056&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Lei-quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159678",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2056-2056"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/062/1991-04-12/2056?pgs=2056&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Lei-quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159679",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2056-2057"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/062/1991-04-12/2056?pgs=2056-2057&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Lei-quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159680",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2057-2057"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/062/1991-04-12/2057?pgs=2057&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Lei-quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159681",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2059-2062",
+                  "2064-2065"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/062/1991-04-12/2059?pgs=2059-2062,2064-2065&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Lei-quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159682",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2062-2062",
+                  "2068-2068"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/062/1991-04-12/2062?pgs=2062,2068&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Lei-quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159683",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2063-2064"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/062/1991-04-12/2063?pgs=2063-2064&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Lei-quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159684",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2065-2068"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/062/1991-04-12/2065?pgs=2065-2068&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Lei-quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159685",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2068-2069"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/062/1991-04-12/2068?pgs=2068-2069&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Lei-quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159686",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2071-2072"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/062/1991-04-12/2071?pgs=2071-2072&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Lei-quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159687",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2072-2075"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/062/1991-04-12/2072?pgs=2072-2075&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Lei-quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159688",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2075-2075"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/062/1991-04-12/2075?pgs=2075&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Lei-quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159689",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2075-2076"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-04-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/062/1991-04-12/2075?pgs=2075-2076&org=PLC"
+              }
+            ],
+            "sumario": "Aprova a Lei-quadro das regiões administrativas",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "224335",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4872",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-04-12",
+        "pubLeg": "V",
+        "pubNr": "62",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/062/1991-04-12?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
