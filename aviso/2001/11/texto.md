@@ -1,0 +1,5 @@
+Aviso n.º 11/2001
+Por ordem superior se torna público que, por nota de 11 de Janeiro de 2000, e agindo na sua qualidade de depositário dos Protocolos Adicionais I e II às Convenções para a Protecção das Vítimas da Guerra, adoptados em Genebra, em 8 de Junho de 1977, o Conselho Federal Suíço notificou ter a República da Nicarágua depositado o seu instrumento de ratificação em 19 de Julho de 1999.
+Nos termos das suas disposições finais, os Protocolos entraram em vigor para a República da Nicarágua seis meses após o depósito do instrumento de ratificação, isto é, em 19 de Janeiro de 2000.
+Portugal é parte nos mesmos Protocolos, os quais foram aprovados, para ratificação, pela Resolução da Assembleia da República n.º 10/92, de 1 de Abril, tendo depositado o seu instrumento de ratificação em 27 de Maio de 1992, conforme os Avisos n.os 100/92, de 17 de Julho, e 277/94, de 28 de Outubro, tornando pública a declaração facultativa referente ao artigo 90.º do Protocolo I.
+Departamento de Assuntos Jurídicos, 21 de Dezembro de 2000. - A Directora, Maria Margarida Aleixo Antunes Rei.
