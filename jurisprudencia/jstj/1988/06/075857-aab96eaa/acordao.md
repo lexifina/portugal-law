@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal de Justiça de 1988-06-01, processo 075857
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 075857
+
+**Nº Convencional:** JSTJ00011464
+
+**Relator:** JOSE DOMINGUES
+
+**Descritores:** ARRENDAMENTO RURAL; DENUNCIA DE CONTRATO; CASO JULGADO
+
+**Nº do Documento:** SJ198806010758571
+
+**Data do Acordão:** 06/01/1988
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** NEGADA A REVISTA.
+
+**Área Temática:** DIR CIV - DIR CONTRAT.
+
+## Sumário
+
+I - A aclaração do acordão constitui seu complemento e parte integrante, pelo que ha lugar apenas a um recurso.
+
+II - O senhorio pode denunciar o contrato de arrendamento rural de agricultor autonomo, por escrito e extrajudicialmente, nomeadamente atraves de notificação avulsa, nos termos da Lei n. 76/77, de 29 de Setembro, com as alterações da Lei n. 76/79, de 3 de Dezembro.
+
+III - Não fazendo o arrendatario oposição a denuncia por, comunicação escrita dirigida ao senhorio, nos termos do artigo 18, da Lei n. 76/77, alterado pela Lei n. 76/79, a denuncia formulada pelo senhorio adquire toda a sua eficacia, pelo que a acção proposta pelo senhorio com o mesmo objecto, não tem cabimento, como decorre do artigo 19, da Lei n. 76/77, com as alterações da Lei n. 76/79, devendo os reus arrendatarios ser absolvidos do pedido.
+
+IV - Assim, pode o senhorio, se a entrega não se der voluntariamente por parte do arrendatario, requerer que se passe mandado de despejo, nos termos dos artigos 985, n. 1, 986 e 989 do Codigo de Processo Civil.
+
+V - O despacho liminar - citação dos Reus - não constitui caso julgado quanto as questões que podiam ser motivo de indeferimento liminar, podendo estas ser conhecidas em momento posterior - artigo 479, n. 2 do Codigo de Processo Civil, alterado pelo Decreto-Lei n. 242/85, de 9 de Julho.
+
+VI - O recurso do despacho saneador sobre o merito da causa ai apreciado em nada interfere com o caso julgado formado nesse mesmo despacho sobre os pressupostos da validade e da regularidade da instancia.
+
+VII - O facto de se ter julgado procedente o pedido reconvencional, para o caso de denuncia do contrato de arrendamento, isso não obsta a que se julgue improcedente o pedido da acção, se para tanto, houver motivo legal.
