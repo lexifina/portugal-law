@@ -1,0 +1,9 @@
+Portaria n.º 538/77
+de 26 de Agosto
+Através da Portaria n.º 110-A/77, de 4 de Março, e da Portaria n.º 431/77, de 16 de Julho, que a revogou, estabeleceram-se preços máximos de venda de leite em pó a granel com destino a toda a indústria utilizadora, definindo-se como excepções a indústria do leite em pó embalado e a indústria do queijo tipo flamengo, por se tratar de produtos de consumo cujos preços máximos de venda ao público implicam a concessão de subsídios através do preço de entrega da respectiva matéria-prima.
+Não foi, porém, atendida a situação da indústria de margarinas, cujos preços de venda ao público foram determinados pela Portaria n.º 101-I/77, de 1 de Março, do Secretário de Estado do Comércio Interno, e calculados na base de um preço de entrega do leite em pó magro, a granel, inferior ao daquelas portarias.
+Nestes termos:
+Ao abrigo do disposto no n.º 2 do artigo 2.º do Decreto-Lei n.º 45835, de 27 de Julho de 1964, nos artigos 2.º e 36.º do Decreto-Lei n.º 47710, de 18 de Maio de 1967, e no n.º 1 do artigo 1.º do Decreto-Lei n.º 75-Q/77, de 28 de Fevereiro:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçamento, do Comércio e Indústrias Agrícolas e do Comércio Interno, o seguinte:
+O preço de entrega, no armazém da Junta Nacional dos Produtos Pecuários, no continente, de leite em pó magro, a granel, às empresas produtoras de margarinas é de 49$00 por quilograma, a partir da entrada em vigor da Portaria n.º 101-I/77, de 1 de Março.
+Secretarias de Estado do Orçamento, do Comércio e Indústrias Agrícolas e do Comércio Interno, 3 de Agosto de 1977. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Carlos Alberto Antunes Filipe. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
