@@ -1,0 +1,8 @@
+Decreto n.º 45916
+Considerando que as condições de reingresso no serviço activo do Exército, previstas no artigo 3.º do Decreto n.º 44559, de 8 de Setembro de 1962, dos militares que foram julgados incapazes do mesmo serviço pelas juntas hospitalares de inspecção não acautelam os seus legítimos interesses, e, por esse facto, limitam fortemente o aproveitamento dos mesmos para prestarem serviço nas províncias ultramarinas, não permitindo que se atinjam os objectivos daquele diploma;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo único. O artigo 3.º do Decreto n.º 44559, de 8 de Setembro de 1962, passa a ter a seguinte redacção:
+Art. 3.º Os indivíduos que forem julgados prontos para todo o serviço militar, por efeito de aplicação do artigo anterior, reingressarão na arma ou serviço a que pertenciam e no posto que possuíam na altura em que foram julgados incapazes pelas juntas hospitalares de inspecção, ficando intercalados na escala imediatamente à esquerda dos militares da mesma patente com igual ou maior tempo de permanência no posto.
+§ único. Quando se verificar o reingresso de mais do que um militar com igual tempo de permanência no posto, antes de terem sido julgados incapazes pelas juntas hospitalares, as suas antiguidades estabelecer-se-ão atendendo às suas posições relativas na escala antes de julgados incapazes.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 14 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim da Luz Cunha.
