@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Gabinete do Ministro da República da Região Autónoma dos Açores, o decreto de 17 de Setembro, publicado no Diário da República, 1.ª série, n.º 228, de 10 de Outubro de 1979, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Onde se lê: «Exonero, sob proposta do Presidente do Governo Regional, e a seu pedido, o Dr. Luís Artur de Figueiredo Falcão Bettencourt das funções de Secretário Regional dos Assuntos Sociais.», deve ler-se: «Exonero, sob proposta do Presidente do Governo Regional, o Dr. Luís Artur de Figueiredo Falcão Bettencourt das funções de Secretário Regional dos Assuntos Sociais.»
+Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Novembro de 1979. - Pelo Secretário-Geral, Joaquim Brandão.
