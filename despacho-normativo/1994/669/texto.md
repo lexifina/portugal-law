@@ -1,0 +1,48 @@
+Despacho Normativo n.º 669/94
+A diversificação da oferta turística nacional, aliada à tradicional produção de vinhos de grande qualidade, aconselha a que se estimule o desenvolvimento do potencial turístico das adegas, caves e quintas conexas com a produção do vinho e outros centros de interesse para a dinamização de rotas de vinho, bem como dos atractivos paisagísticos, etnográficos e culturais das respectivas regiões produtoras.
+Deste modo, justifica-se que o Fundo de Turismo incentive financeiramente a elaboração de rotas de vinho e a adaptação e recuperação dos locais onde os vinhos são produzidos e cujas características motivam o respectivo aproveitamento turístico.
+Assim, ao abrigo do n.º 2 do artigo 1.º do Decreto-Lei n.º 149/80, de 23 de Maio, e da alínea c) do n.º 1 do artigo 3.º do Decreto-Lei n.º 49266, de 26 de Setembro de 1969, com a redacção que lhe foi dada pelo Decreto-Lei n.º 203/89, de 22 de Junho, e no uso da competência que me foi delegada pelo Despacho n.º 154/94-DR, do Ministro do Comércio e Turismo, publicado no Diário da República, 2.ª série, n.º 48, de 26 de Fevereiro de 1994, determino o seguinte:
+1 - São susceptíveis de apoio financeiro a conceder pelo Fundo de Turismo os seguintes investimentos associados à dinamização de rotas de vinho:
+a) Elaboração dos projectos de execução da rota;
+b) Sinalização da rota;
+c) Construção, ampliação, melhoria, remodelação e adaptação de um equipamento de apoio e de acolhimento dos turistas que pretendam visitar locais integrados na rota;
+d) Concepção e realização de roteiros vinícolas, destinados a divulgar os vinhos das regiões demarcadas ou de quaisquer outras, rotas de vinho ou centros de interesse vitivinícola;
+e) Ampliação, melhoria, remodelação e adaptação de adegas, caves e quintas conexas com a produção de vinho e outros centros de interesse para a dinamização de rotas de vinho, com vista à correspondente afectação à actividade turística.
+2 - O incentivo a conceder aos projectos referidos no número anterior, com excepção dos previstos na alínea e), assume cumulativamente, as seguintes formas:
+a) Comparticipação financeira a fundo perdido, não podendo exceder 30000 contos por rota, no montante de 20% do custo total do investimento;
+b) Financiamento reembolsável, não podendo exceder 90000 contos por rota, no montante de 60% do custo total do investimento.
+3 - A parte do investimento que não seja coberta pelo incentivo previsto no número anterior é sempre financiada pela entidade promotora do projecto, salvo no caso do projecto ser também comparticipado pelo FEDER ou por outros fundos comunitários, caso em que os capitais próprios não podem ser inferiores a 5% do custo total do investimento.
+4 - No caso previsto na parte final do número anterior, quando a comparticipação do FEDER ou de outros fundos comunitários for superior a 15% do custo total do investimento, a componente reembolsável do incentivo a conceder pelo Fundo de Turismo será reduzida proporcionalmente.
+5 - O financiamento referido na alínea b) do n.º 2 será concedido nas seguintes condições:
+Prazo máximo - 10 anos;
+Período máximo de carência de capital - 3 anos;
+Taxa de juro - 50% da LISBOR ou da TBA.
+6:
+6.1 - O incentivo a conceder aos projectos referidos na alínea e) do n.º 1 não pode exceder 7000 contos por empreendimento, assumindo a forma de financiamento reembolsável, até ao montante máximo de 75% do custo total do investimento, aplicando-se-lhe o disposto no n.º 5.
+6.2 - Por despacho do membro do Governo com tutela sobre o turismo, o montante máximo referido no número anterior poderá, excepcionalmente, ser aumentado para o dobro atendendo à elevada relevância e dimensão dos investimentos para a dinamização da rota.
+7:
+7.1 - Para efeitos de determinação do montante do incentivo a atribuir, serão consideradas as despesas efectuadas, nomeadamente, com:
+a) Estudo e projectos de execução da rota;
+b) Infra-estruturas e edifícios onde funcionem adegas ou outros locais ligados à produção de vinhos e aquisição de equipamentos bem como as que se destinem ao fim previsto na alínea c) do n.º 1;
+c) Elaboração, construção e implementação de redes de suporte informático e multimédia, visando, nomeadamente, a articulação entre o projecto e a estrutura já institucionalizada em termos europeus das rotas de vinho;
+d) Construção de equipamentos complementares de apoio às adegas, nomeadamente núcleos museológicos e locais de prova;
+e) Construção e melhoria de acessos e de instalações sanitárias dos edifícios referidos na alínea b);
+f) Sinalização turística;
+g) Concepção, produção e difusão de materiais promocionais sobre a rota de vinho.
+7.2 - O valor relativo às despesas previstas na alínea a) do número anterior não poderá, em qualquer caso, exceder 10% do incentivo a atribuir e só será concedido após o início da execução do projecto.
+8 - A responsabilidade pela execução dos projectos a comparticipar caberá aos municípios ou associações de municípios, regiões de turismo, juntas de turismo ou associações de desenvolvimento regional de turismo, associações, comissões ou institutos vitivinícolas ou cooperativas vinícolas e produtores, competindo às regiões de turismo, juntas de turismo ou associações de desenvolvimento regional de turismo a instrução dos respectivos processos e a subsequente apresentação dos mesmos ao Fundo de Turismo.
+9 - Para efeitos de concessão dos incentivos a que se refere o presente despacho, os processos deverão ser apresentados no Fundo de Turismo instruídos com os seguintes elementos:
+a) Entidade exploradora da rota e entidades responsáveis pela execução dos projectos;
+b) Indicação dos prazos necessários para o respectivo início e termo;
+c) Documento comprovativo da aprovação do projecto pelas entidades legalmente competentes;
+d) Parecer favorável da Direcção-Geral de Turismo;
+e) Parecer favorável do ICEP, no caso da produção de materiais promocionais;
+f) Parecer favorável da instituição ou organismo vitivinícola competente na respectiva área e do Instituto da Vinha e do Vinho;
+g) Estimativa detalhada dos custos do projecto e programa de investimento.
+10:
+10.1 - Os incentivos a conceder ao abrigo do presente despacho serão objecto de um contrato a celebrar entre o Fundo de Turismo e a entidade responsável pelo projecto.
+10.2 - No caso de a entidade responsável pela execução do projecto não ser dotada de personalidade jurídica, ou estiver impedida legalmente de celebrar o contrato a que se refere o número anterior, poderá fazer-se substituir por outra das entidades referidas no n.º 8 do presente despacho.
+11 - Do contrato a que se refere o número anterior deverão constar cláusulas relativas aos objectivos do projecto, ao montante de cada uma das componentes do incentivo, ao regime de pagamentos do Fundo de Turismo e aos demais direitos e deveres das partes.
+12 - As obrigações decorrentes da concessão do financiamento reembolsável serão asseguradas por qualquer garantia admitida em direito e aceite pelo Fundo de Turismo.
+13 - Para efeitos de determinação das taxas de juro do crédito a conceder ao abrigo do presente despacho observar-se-á o disposto nos n.os 9.1 a 10 do Regime dos Financiamentos Directos a Conceber pelo Fundo de Turismo, anexo ao Despacho Normativo n.º 469/94, de 4 de Julho.
+Ministério do Comércio e Turismo, 31 de Agosto de 1994. - O Secretário de Estado do Turismo, Alexandre Carlos de Mello Vieira Costa Relvas.
