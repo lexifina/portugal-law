@@ -1,0 +1,70 @@
+Portaria n.º 390/78
+de 20 de Julho
+Tendo em atenção que o regime adoptado na passada campanha lanar, regulado pela Portaria n.º 528/77, se revelou, mais uma vez, eficiente quanto às finalidades que se tinha em vista atingir, julga-se de manter ainda regime análogo em relação à campanha de 1978-1979, que, como se sabe, é facultativo, com as alterações que a situação do mercado recomenda.
+Manter-se-ão, portanto, na presente campanha, além dos financiamentos, o sistema de preços de garantia para as partidas de lã concentradas pelos ovinicultores nos armazéns regionais, a tipificação e formação de lotes gerais, prática especialmente dirigida à defesa dos pequenos e médios ovinicultores, o que possibilita uma maior valorização industrial, continuando a assegurar-se também todo o apoio técnico como até aqui tem sido prestado.
+Considerando, porém, a conjuntura dos mercados mundial e nacional, o aumento das tarifas de transformação e a necessidade de estimular o mais possível o aumento e melhoramento do efectivo ovino produtor de lã branca, julga-se conveniente fazer um reajustamento dos preços de garantia para todas as categorias de lãs, de molde a colocá-los a um nível adequado à presente conjuntura.
+Neste termos:
+Ao abrigo do disposto no artigo 1.º da Lei n.º 3/74, de 14 de Maio:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçamento, do Comércio e Indústrias Agrícolas e das Indústrias Extractivas e Transformadoras, o seguinte:
+1.º Mantém-se em vigor para a presente campanha lanar a Portaria n.º 394/75, de 27 de Junho, mantida em vigor pela Portaria n.º 528/77, de 18 de Agosto, que regulamentou a campanha do ano anterior.
+2.º São alterados os preços de garantia de acordo com a actual conjuntura nacional e internacional e com o aumento das tarifas de transformação, visando-se também o aumento e melhoria do efectivo ovino produtor de lã branca.
+3.º Os preços de garantia são os que constam da tabela anexa a esta portaria.
+4.º Esta portaria entra imediatamente em vigor.
+Secretarias de Estado do Orçamento, do Comércio e Indústrias Agrícolas e das Indústrias Extractivas e Transformadoras, 28 de Abril de 1978. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Alcino Cardoso. - O Secretário de Estado das Indústrias Extractivas e Transformadoras, Nuno Kruz Abecasis.
+
+Tabela de preços a que se refere o n.º 3.º da Portaria n.º 390/78
+(Por quilograma)
+Lãs não churras de tosquia:
+Penteados brancos:
+Merinos extra ... 170$00
+Merinos finos ... 166$00
+Merinos correntes ... 162$00
+Primas ... 158$00
+Cruzados finos ... 152$00
+Penteados saragoços:
+Merinos extra ... 130$00
+Merinos finos ... 126$00
+Merinos correntes ... 124$00
+Primas ... 122$00
+Cruzados finos ... 117$00
+Lavados brancos (para carda):
+Merinos extra ... 144$00
+Merinos finos ... 140$00
+Merinos correntes ... 136$00
+Primas ... 130$00
+Cruzados finos ... 124$00
+Cruzados médios ... 114$00
+Cruzados lustrosos ... 110$00
+Peças e aninhos fortes ... 106$00
+Pontas e chocas ... 93$00
+Lavados saragoços (para carda):
+Merinos extra ... 104$00
+Merinos finos ... 100$00
+Merinos correntes ... 98$00
+Primas ... 96$00
+Cruzados finos ... 91$00
+Cruzados médios ... 88$00
+Cruzados lustrosos ... 81$00
+Peças e aninhos fortes ... 77$00
+Pontas e chocas ... 72$00
+Lãs churras de tosquia:
+Lavados brancos:
+Corrente:
+Velos brancos ... 94$00
+Velos pigmentados (amarelos) ... 91$00
+Velos interpolados (jardos) ... 88$00
+Aninhos ... 86$00
+Peças de 1.ª ... 84$00
+Peças de 2.ª ... 80$00
+Peças de 3.ª ... 70$00
+Normal:
+Velos brancos ... 92$00
+Velos pigmentados (amarelos) ... 89$00
+Velos interpolados (jardos) ... 86$00
+Aninhos ... 84$00
+Peças de 1.ª ... 83$00
+Peças de 2.ª ... 80$00
+Peças de 3.ª ... 70$00
+Lavados saragoços - menos 30%.
+Serão desvalorizadas até 20% todas as lãs que apresentem restos de marcas a tinta com base em substâncias resistentes à lavagem industrial.
+O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Alcino Cardoso. - O Secretário de Estado das Indústrias Extractivas e Transformadoras, Nuno Kruz Abecasis.
