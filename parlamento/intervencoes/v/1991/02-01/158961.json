@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jICRzj3KB1Bmg3m8DVSHnpi8rXpapb3j4jMO5BtN2LbfPF3esMoTH6fDrsMuFJ9lPAZvTPAWxS9PFAt7bzMiuI04fWuRpEaIxl4mcW%2fcx1acNCntIvb5NLRRHaPebnKKry6IchvGghYnV5lkvxQk495hFB7swBEB4rvnhCoTOeXflL%2foNK7o0b4dy592StEdZmQVtVkruElsfWncCV%2b%2bpavK9g3VZy%2bP4cmQ40z%2f0a69tQcMqoIjKHap%2bFpAkJMgbKcIQykqLjBLupnXrNjLuRZ30Ox0rp%2fdoXYbf5r3SXm4%2fEbMutFiFUX0sUvjGKIZ7ZqNfVf38E4D2PhkYxEZx9pZ7GwemaRdvkVkJ4JulFaJGzWdDjdFCx4KRpH%2bqN7s&fich=IntervencoesV_json.txt&Inline=true",
+  "ficheiro_sha256": "e07157b1d50033e077d4f054f931a3450edfcc0fcd53456e529928b3d3af1eae",
+  "legislatura": "V",
+  "id": "158961",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "Oliveira Martins (PSD)",
+  "data_registo": "1991-02-01",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "230874",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "27125",
+        "tipo": "INI",
+        "titulo": "Ratificação - Decreto-lei nº 321-B/90, de 15 de Outubro, que aprova o regime de arrendamento urbano"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1991-02-01",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "69",
+      "nome": "Oliveira Martins"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "158961",
+    "IdDebate": "5194",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação de Decreto-Lei",
+        "id": "27125",
+        "tipo": "Ratificação"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "V",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "158961",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1252-1252"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-02-02",
+        "pubLeg": "V",
+        "pubNr": "38",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/038/1991-02-02/1252?pgs=1252&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Ao deputado Nogueira de Brito (CDS).",
+    "Sessao": "4",
+    "Sumario": "Decreto-lei nº 321-B/90, de 15 de Outubro, que aprova o regime de arrendamento urbano",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
