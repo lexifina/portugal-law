@@ -1,0 +1,10 @@
+Resolução do Conselho de Ministros n.º 26/2005
+Sob proposta da Câmara Municipal, a Assembleia Municipal de Cascais aprovou, em 29 de Novembro de 2004, a prorrogação, por mais um ano, do prazo de vigência das medidas preventivas estabelecidas no âmbito do processo de revisão do Plano Director Municipal de Cascais, ratificadas pela Resolução do Conselho de Ministros n.º 21/2003, de 15 de Fevereiro.
+Nos termos do disposto no n.º 9 do artigo 112.º do Decreto-Lei n.º 380/99, de 22 de Setembro, a prorrogação das medidas preventivas está sujeita às regras aplicáveis ao seu estabelecimento.
+Tendo em conta que a elaboração do projecto de revisão do Plano Director Municipal de Cascais se encontra em vias de conclusão, justifica-se ainda a necessidade da prorrogação do prazo de vigência das medidas preventivas por forma a evitar a alteração das circunstâncias e das condições de facto existentes que possam limitar a liberdade de planeamento ou tornar mais onerosa a execução dessa revisão, bem como o cumprimento dos objectivos que presidem à mesma.
+A prorrogação do prazo de vigência das medidas preventivas determina a manutenção da suspensão da eficácia do Plano Director Municipal de Cascais, ratificado pela Resolução do Conselho de Ministros n.º 96/97, de 19 de Junho, nas áreas abrangidas pelas medidas preventivas, por força do disposto no n.º 3 do artigo 107.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção conferida pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro.
+Considerando o disposto no n.º 9 do artigo 112.º, em conjugação com o n.º 3 do artigo 109.º, do Decreto-Lei n.º 380/99, de 22 de Setembro:
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Ratificar a prorrogação, por mais um ano, do prazo de vigência das medidas preventivas estabelecidas no âmbito do processo de revisão do Plano Director Municipal de Cascais, ratificadas pela Resolução do Conselho de Ministros n.º 21/2003, de 15 de Fevereiro.
+Presidência do Conselho de Ministros, 27 de Janeiro de 2005. - O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
