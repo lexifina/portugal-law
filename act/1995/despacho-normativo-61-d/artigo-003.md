@@ -6,7 +6,7 @@
 
 a) Encontrar-se legalmente constituído à data da apresentação da candidatura;
 
-b) Possuir ao seu serviço menos de 250 trabalhadores no final do mês anterior ao da apresentação da candidatura;
+b) (Eliminada;)
 
 c) Possuir os meios financeiros adequados ao desenvolvimento da sua actividade e à implementação do projecto, os quais deverão reflectir uma situação financeira equilibrada, cumprindo, nomeadamente, o seguinte indicador: cobertura do activo líquido pelos capitais próprios, acrescidos, quando necessário, de suprimentos ou de empréstimos de accionistas superior a 20%.
 
