@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o representante de Portugal junto da UNESCO depositou junto do Secretariado daquela Organização, em 11 de Janeiro de 1982, o instrumento de ratificação, por parte de Portugal, do Protocolo que cria uma comissão de conciliação e bons ofícios encarregada de resolver os diferendos que possam surgir entre os Estados Partes na Convenção Relativa à Luta Contra a Discriminação no Campo do Ensino, adoptado pela Conferência Geral da UNESCO em 10 de Dezembro de 1962 e aprovado para ratificação pelo Decreto n.º 118/81, de 10 de Setembro.
+A 11 de Janeiro de 1982 eram parte no referido Protocolo os seguintes países:
+Dinamarca, Grã-Bretanha, França, Filipinas, Madagáscar, Malta, Países Baixos, Itália, Panamá, Israel, República do Vietname, Nigéria, República Federal Alemã, Argentina, Senegal, Marrocos, Uganda, Noruega, Costa Rica, Chipre, Líbia, Egipto e Austrália.
+Direcção-Geral dos Negócios Políticos, 22 de Janeiro de 1982. - O Director-Geral-Adjunto, Carlos Ary dos Santos.
