@@ -1,0 +1,647 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "45",
+    "id": "29030",
+    "titulo": "Lei de bases da regionalização"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "1989-05-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12800",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "1989-05-30",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29003",
+        "leg": "V",
+        "nr": "60",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei quadro das regiões administrativas"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29044",
+        "leg": "V",
+        "nr": "69",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei de Bases da Regionalização"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28969",
+        "leg": "V",
+        "nr": "129",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei quadro das regiões administrativas"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28961",
+        "leg": "V",
+        "nr": "134",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei quadro das regiões administrativas"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-05-30",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220287",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4395-4395"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-31",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/089/1989-05-31/4395?pgs=4395&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da regionalização; Lei quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220288",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4395-4396"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-31",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/089/1989-05-31/4395?pgs=4395-4396&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da regionalização; Lei quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220289",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4396-4396"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-31",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/089/1989-05-31/4396?pgs=4396&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da regionalização; Lei quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220290",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4396-4396"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-31",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/089/1989-05-31/4396?pgs=4396&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da regionalização; Lei quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220291",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4396-4396"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-31",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/089/1989-05-31/4396?pgs=4396&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da regionalização; Lei quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220292",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4396-4396"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-31",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/089/1989-05-31/4396?pgs=4396&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da regionalização; Lei quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220293",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4396-4396"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-31",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/089/1989-05-31/4396?pgs=4396&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da regionalização; Lei quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220294",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4396-4396"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-31",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/089/1989-05-31/4396?pgs=4396&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da regionalização; Lei quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220295",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4396-4396"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-31",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/089/1989-05-31/4396?pgs=4396&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da regionalização; Lei quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220296",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4397-4397",
+                  "4397-4397"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-31",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/089/1989-05-31/4397?pgs=4397,4397&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da regionalização; Lei quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220297",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4397-4397",
+                  "4397-4397"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-31",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/089/1989-05-31/4397?pgs=4397,4397&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da regionalização; Lei quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220298",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4397-4397"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-31",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/089/1989-05-31/4397?pgs=4397&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da regionalização; Lei quadro das regiões administrativas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220299",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4397-4397"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-31",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/089/1989-05-31/4397?pgs=4397&org=PLC"
+              }
+            ],
+            "sumario": "Lei de bases da regionalização; Lei quadro das regiões administrativas",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "335093",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
