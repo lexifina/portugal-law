@@ -2,9 +2,9 @@
 
 ### Fundos de poupança-reforma, poupança-educação e poupança-reforma/educação
 
-1 - Ficam isentos de IRC os rendimentos dos fundos de poupança-reforma (FPR), poupança-educação (FPE) e poupança-reforma/educação (FPR/E), constituídos num mínimo de 50% por títulos de dívida pública emitidos por prazo superior a um ano, sob a forma de fundos de investimento, fundos de pensões ou outros equiparados.
+1 - Ficam isentos de IRC os rendimentos dos fundos poupança-reforma (FPR), poupança-educação (FPE) e poupança-reforma/educação (FPR/E) que se constituam e operem nos termos da legislação nacional.
 
-2 - São dedutíveis à colecta do IRS, nos termos e condições previstos no artigo 78.º do respectivo Código, 25% do valor aplicado no respectivo ano em planos individuais de poupança-reforma (PPR), poupança-educação (PPE) e poupança-reforma/educação (PPR/E), com o limite máximo do menor dos seguintes valores: 5% do rendimento total bruto englobado e 112250$00 ((euro) 561,15) por sujeito passivo não casado ou por cada um dos cônjuges não separados judicialmente de pessoas e bens.
+2 - São dedutíveis à colecta do IRS, nos termos e condições previstos no artigo 78.º do respectivo Código, 25% do valor aplicado no respectivo ano em planos individuais de poupança-reforma (PPR), poupança-educação (PPE) e poupança-reforma/educação (PPR/E), com o limite máximo do menor dos seguintes valores: 5% do rendimento total bruto englobado e 130000$00 ((euro) 648,44) por sujeito passivo não casado ou por cada um dos cônjuges não separados judicialmente de pessoas e bens.
 
 3 - A fruição do benefício previsto no número anterior fica sem efeito, devendo as importâncias deduzidas, majoradas em 10% por cada ano, ou fracção, decorrido desde aquele em que foi exercido o direito à dedução, ser acrescidas, consoante os casos, ao rendimento ou à colecta do IRS do ano da verificação dos factos, se aos participantes for atribuído qualquer rendimento ou for concedido o reembolso dos certificados, salvo, neste último caso, ocorrendo qualquer uma das situações definidas na lei.
 
@@ -24,11 +24,11 @@ c) De acordo com as regras estabelecidas nas alíneas anteriores, nos casos em q
 
 6 - Ficam isentos do imposto municipal de sisa e do imposto sobre as sucessões e doações, por avença, os fundos de poupança-reforma constituídos de acordo com a legislação nacional.
 
-7 - O limite mínimo referido no n.º 1 pode não ser observado nos primeiros seis meses de actividade e em períodos de elevada concentração de subscrições, devendo, contudo, os mencionados títulos de dívida pública representar 50% do património do fundo, deduzido este do acréscimo de subscrições relativamente aos três dias úteis imediatamente anteriores.
+7 - (Revogado).
 
-8 - Para efeitos do número anterior, consideram-se períodos de elevada concentração de subscrições aqueles em que o somatório das subscrições realizadas no período de três dias aí mencionado exceda 2,5% do valor global do fundo.
+8 - (Revogado).
 
-9 - Em caso de inobservância do limite mínimo estabelecido nos n.os 1 e 7, a usufruição do benefício fica, no respectivo exercício, sem efeito, devendo a sociedade gestora pagar o imposto em dívida no prazo previsto no n.º 1 do artigo 112.º do Código do IRC.
+9 - Em caso de inobservância do estabelecido no n.º 1, a fruição do benefício fica, no respectivo exercício, sem efeito, devendo a sociedade gestora pagar o imposto em dívida no prazo previsto no n.º 1 do artigo 112.º do Código do IRC.
 
 10 - As sociedades gestoras dos fundos de poupança-reforma são solidariamente responsáveis pelas dívidas de imposto dos fundos cuja gestão lhes caiba.
 
