@@ -1,0 +1,31 @@
+# Acórdão do Tribunal Central Administrativo Sul de 1998-04-21, processo 00080/97
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 00080/97
+
+**Secção:** Secção do Contencioso Tributário - Tribunal Central Administrativo
+
+**Data do Acordão:** 04/21/1998
+
+**Relator:** Fernanda Xavier
+
+**Descritores:** OFERTAS A CLIENTES; DESPESAS CONFIDENCIAIS
+
+**Aditamento:** 1
+
+## Sumário
+
+A lei exige que a empresa prove, não só que adquiriu os bens que contabilizou como "ofertas", mas que os ofereceu e que essas ofertas foram indispensáveis para a realização dos proveitos ou para a
+
+manutenção da força produtora ( não havendo qualquer indispensabilidade " ex lege", isto ainda que se considerem tais custos enquadráveis na alínea b) do nº l do artigo 23 do CIRC, já que a enumeração exemplificativa dos encargos referidos nas diversas alíneas deste preceito legal, tal como já acontecia dantes com as diversas alíneas do artigo 26 do CCI, não dispensa a prova da indispensabilidade desses encargos, exigida no corpo dos citados preceitos legais), e, como vimos, tal só é possível, se a empresa provar quem foram os beneficiários de tais bens e a relação essas ofertas e a actividade desta, e nenhuma prova foi feita nesse sentido. A ser assim, estaria aberta a porta para empresários, como menos escrúpulos, em seu próprio proveito ou de terceiros, bens de elevado valor, como ofertas e deduzindo-os como custos, sem qualquer interesse para empresa e em prejuízo da FAZENDA PÚBLICA, sem qualquer possibilidade de controle pela ADMINISTRAÇÃO FISCAL.
+
+É, porque as despesas confidenciais, precisamente porque se lhes não conhece o destino, podem relevar como custos fiscais, vindo até a ser tributadas em 10%, em sede de IRS, como é sabido (cf. artigo 25-3 da Lei 101/89 de 29-12). E não se diga, que para a empresa seria impossível ( penso que se queria dizer inconveniente, já que destinando-se ofertas, como refere, a clientes e fornecedores, não se vê que impossibilidade haveria), identificar os beneficiários de tais ofertas, por alegadas razões de decoro social ou discreção, pois tal explicação surge incompreensível, podendo até levantar suspeitas de eventualmente passíveis de censura penal. Na verdade, não há razão para esconder aquilo que a lei permite, e a lei permite ofertas a clientes, fornecedores e trabalhadores, quando comprovada a sua indispensabilidade para a realização dos proveitos e manutenção da força produtora, a não que sejam outros os objectivos....
+
+Não tendo provado a indispensabilidade dos custos em causa, nos termos referidos, como lhe
+
+competia, e não podendo, na determinação para efeitos fiscais de um lucro real efectivo, ser tido em
+
+conta um encargo não devidamente comprovado como indispensável, como decorre do nº l do artigo 23 e da alínea h) do nº l do artigo 41 do CIRC, não podia o mesmo ser aceite pela ADMINISTRAÇÃO
+
+FISCAL.
