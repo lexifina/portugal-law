@@ -1,0 +1,9 @@
+Portaria n.º 228/2001
+de 19 de Março
+De acordo com o estatuído no n.º 1 do artigo 8.º do Decreto-Lei n.º 260/99, de 7 de Julho, o património imobiliário titulado pelos centros regionais de segurança social (entretanto extintos) será transferido para a titularidade do Instituto de Gestão Financeira da Segurança Social mediante portaria do Ministério do Trabalho e da Solidariedade.
+Nesse sentido, impõe-se dar cumprimento à citada disposição legal, transferindo para o Instituto de Gestão Financeira da Segurança Social o denominado Bairro da Casa do Povo de Portel, sito na freguesia e concelho de Portel, constituído por 16 habitações, de que era proprietário o extinto Centro Regional de Segurança Social do Alentejo e que passou, entretanto, para a titularidade do Instituto de Solidariedade e Segurança Social, de acordo com o disposto nos n.os 1 e 2 do artigo 2.º do Decreto-Lei n.º 316-A/2000, de 7 de Dezembro.
+Assim, nos termos das disposições conjugadas do n.º 1 do artigo 8.º do Decreto-Lei n.º 260/99, de 7 de Julho, e do n.º 3 do artigo 7.º do Decreto-Lei n.º 316-A/2000, de 7 de Dezembro:
+Manda o Governo, pelo Ministro do Trabalho e da Solidariedade, o seguinte:
+1.º É transferido para a titularidade do Instituto de Gestão Financeira da Segurança Social, independentemente de quaisquer formalidades, o denominado Bairro da Casa do Povo de Portel, sito na freguesia e concelho de Portel, constituído por 16 habitações inscritas na matriz predial da referida freguesia sob os artigos 1373 a 1388 e descritas na Conservatória do Registo Predial de Portel sob o n.º 1243.
+2.º O disposto na presente portaria constitui título bastante de transmissão da propriedade para todos os efeitos legais, incluindo os de registo.
+Pelo Ministro do Trabalho e da Solidariedade, José António Fonseca Vieira da Silva, Secretário de Estado da Segurança Social, em 13 de Fevereiro de 2001.
