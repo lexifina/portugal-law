@@ -1,0 +1,16 @@
+Resolução do Conselho de Ministros n.º 3-E/96
+A Lei n.º 6/91, de 20 de Fevereiro, que aprova a lei do enquadramento orçamental, prevê, nomeadamente no seu artigo 15.º, mecanismos para situações de atraso na aprovação e publicação do Orçamento do Estado.
+Ao abrigo do disposto no artigo 2.º da Lei n.º 12/90, de 7 de Abril, conjugado com o estabelecido no artigo 14.º do Decreto-Lei n.º 43453, no artigo 17.º do Decreto n.º 43454, ambos de 30 de Dezembro de 1960, e no artigo 11.º do Decreto-Lei n.º 172-B/86, de 30 de Junho, entende o Governo continuar a colocar à disposição de pessoas singulares títulos de dívida pública, nominativos e amortizáveis, denominados «certificados de aforro», pelo que autoriza emissões no ano de 1996, que não poderão exceder 200 milhões de contos.
+As emissões ora propostas terão de ter em conta as necessidades de financiamento do período que decorre até à aprovação do Orçamento do Estado para 1996. Teve-se, porém, como horizonte um défice orçamental previsto que rondará os 4% do PIB. As necessidades brutas de financiamento são obtidas adicionando ao défice orçamental o valor das amortizações da dívida pública, que em 1996 serão da ordem dos 4627 milhões de contos.
+Assim:
+Nos termos do artigo 15.º da Lei n.º 6/91, de 20 de Fevereiro, e das alíneas c) e g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu o seguinte:
+1 - Autorizar a emissão, no ano económico de 1996, de certificados de aforro, exclusivamente destinados à aquisição por pessoas singulares, que não poderá exceder o montante de 200 milhões de contos, ficando desde já o Ministro das Finanças autorizado a emitir, por portaria, a respectiva obrigação geral pelo total autorizado.
+2 - Por despacho do Ministro das Finanças, poderão ser abatidos os montantes não colocados na emissão de certificados de aforro e aumentados, no mesmo valor, os montantes de outros empréstimos autorizados, sendo, neste caso, feitas as respectivas alterações aos limites das correspondentes obrigações gerais.
+3 - Os certificados de aforro a emitir serão nominativos, reembolsáveis, só transmissíveis por morte e assentados apenas a favor de pessoas singulares.
+4 - Cada certificado de aforro pode representar qualquer número de unidades, sendo de 500$00 o valor de aquisição de cada unidade.
+5 - O valor mínimo de aquisição de certificados de aforro a requerer por qualquer pessoa é de 1000$00.
+6 - O juro das importâncias aplicadas na criação dos certificados de aforro é cobrado apenas no montante do seu reembolso.
+7 - O valor de reembolso dos certificados de aforro a emitir ao abrigo das disposições da presente resolução será calculado de harmonia com a portaria que define o processo de construção da taxa que estiver em vigor.
+8 - Os certificados de aforro a emitir gozam dos direitos, isenções e garantias consignados no artigo 58.º da Lei n.º 1933, de 13 de Fevereiro de 1936, e no artigo 22.º do Decreto-Lei n.º 43453 que lhes forem aplicáveis, incluindo a isenção do imposto sobre as sucessões e doações, mas são passíveis de IRS, tendo em conta o Decreto-Lei n.º 143-A/89, de 3 de Maio.
+9 - A presente resolução entra em vigor no dia 2 de Janeiro de 1996.
+Presidência do Conselho de Ministros, 4 de Janeiro de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
