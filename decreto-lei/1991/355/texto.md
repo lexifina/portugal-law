@@ -1,0 +1,30 @@
+Decreto-Lei n.º 355/91
+de 20 de Setembro
+Lei Orgânica do Laboratório Nacional de Engenharia Civil consta do Decreto-Lei n.º 519-D1/79, de 29 de Dezembro, com as alterações introduzidas pontualmente, designadamente quanto ao recrutamento e provimento do seu pessoal dirigente, através dos Decretos-Leis n.os 346/81, de 21 de Dezembro, e 142/84, de 8 de Maio.
+A experiência entretanto adquirida ao longo do tempo já decorrido recomenda que nova orientação seja adoptada relativamente ao recrutamento e provimento de um dos dois titulares do cargo de subdirector, de modo que o director possa ser coadjuvado e substituído, quando necessário, por um subdirector oriundo da carreira de investigação, para assegurar a vertente específica que cabe a um organismo cuja principal finalidade consiste na investigação na área da engenharia civil, e por outro subdirector, não necessariamente proveniente daquela carreira - como sucede na actual Lei Orgânica -, nos domínios das complexas tarefas da gestão e nos múltiplos aspectos das áreas de pessoal, financeira e patrimonial.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo único. Os artigos 108.º e 110.º da Lei Orgânica do Laboratório Nacional de Engenharia Civil, constante do Decreto-Lei n.º 519-D1/79, de 29 de Dezembro, com as alterações introduzidas pelos Decretos-Leis n.os 346/81, de 21 de Dezembro, e 142/84, de 8 de Maio, passam a ter a seguinte redacção:
+Artigo 108.º
+Recrutamento e provimento do pessoal dirigente
+1 - ...
+2 - O recrutamento de, pelo menos, um dos subdirectores, bem como dos chefes de departamento e de centro, será feito de entre investigadores-coordenadores do LNEC.
+3 - O recrutamento dos subdirectores não oriundos da carreira de investigação obedecerá ao disposto na lei geral.
+4 - (O anterior n.º 3.)
+5 - (O anterior n.º 4.)
+6 - (O anterior n.º 5.)
+7 - (O anterior n.º 6.)
+8 - (O anterior n.º 7.)
+9 - (O anterior n.º 8.)
+10 - (O anterior n.º 9.)
+11 - (O anterior n.º 10.)
+Artigo 110.º
+Vencimento dos subdirectores
+1 - Os subdirectores oriundos da carreira de investigação científica têm o vencimento correspondente ao de investigador-coordenador.
+2 - No caso de o subdirector ser recrutado nos termos do n.º 3 do artigo 108.º corresponder-lhe-á o vencimento previsto na lei geral para o cargo de subdirector-geral.
+Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1991. - Aníbal António Cavaco Silva - José Manuel Alves Elias da Costa - Joaquim Martins Ferreira do Amaral.
+Promulgado em 6 de Setembro de 1991.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 10 de Setembro de 1991.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
