@@ -1,0 +1,13 @@
+Declaração de Rectificação n.º 7-A/96
+Para os devidos efeitos se declara que o Decreto-Lei n.º 7/96, publicado no Diário da República, 1.ª série, n.º 32, de 7 de Fevereiro, de 1996, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 2.º, na redacção dada ao artigo 83.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS), no n.º 5, onde se lê «do Estado, acrescido de cinco pontos percentuais» deve ler-se «do Estado, acrescida de cinco pontos percentuais».
+No artigo 3.º, na redacção dada ao artigo 85.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas (CIRC), no n.º 1, onde se lê «será pago até ao dia útil da sua apresentação» deve ler-se «será pago até ao dia da sua apresentação».
+No artigo 4.º, na redacção dada ao artigo 89.º do Código do Imposto sobre o Valor Acrescentado (CIVA), no n.º 3, onde se lê:
+«Quando o atraso na liquidação resultar de erros evidenciados na própria declaração ou de faltas apuradas em acção de fiscalização, os juros compensatórios não serão devidos a partir dos 180 dias posteriores à entrega da declaração se entretanto não tiver sido efectuada a liquidação ou o pagamento.»
+deve ler-se:
+«Quando o atraso na liquidação resultar de erros evidenciados na própria declaração, os juros compensatórios não serão devidos a partir dos 180 dias posteriores à entrega desta ou, em caso de faltas apuradas em acção de fiscalização, a partir dos 90 dias posteriores à sua
+«Quando o atraso na liquidação resultar de erros evidenciados na própria declaração, os juros compensatórios não serão devidos a partir dos 180 dias posteriores à entrega desta ou, em caso de faltas apuradas em acção de fiscalização, a partir dos 90 dias posteriores à sua conclusão, se entretanto não tiver sido efectuada a liquidação ou o pagamento.»
+No artigo 5.º, na redacção dada ao artigo 23.º do Regulamento do Imposto do Selo, no n.º 1, onde se lê «referidos no parágrafo anterior» deve ler-se «referidos no corpo do presente artigo,».
+No artigo 8.º, na redacção dada ao artigo 113.º do Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações, no corpo do artigo, onde se lê «sem prejuízo da pena cominada ao infractor» deve ler-se «sem prejuízo da sanção cominada ao infractor».
+No artigo 8.º, na redacção dada ao artigo 116.º do referido Código, na parte final do artigo, onde se lê «sem prejuízo da pena cominada ao infractor» deve ler-se «sem prejuízo da sanção cominada ao infractor».
+Secretaria-Geral da Presidência do Conselho de Ministros, 23 de Abril de 1996. - Secretário-Geral, França Martins.
