@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Governo de Espanha comunicou, por nota diplomática datada de 5 de Outubro de 1982, terem sido cumpridos os requisitos constitucionais exigidos para a entrada em vigor do Acordo por Troca de Notas entre o Governo da República Portuguesa e o Governo de Espanha Relativo a Autorizações de Residência e de Trabalho, assinado em Lisboa em 15 de Junho de 1982 e publicado no Diário da República, 1.ª série, n.º 153, de 6 de Julho de 1982, pelo que o referido Acordo entrou em vigor em 4 de Novembro último, conforme o estabelecido na citada troca de notas.
+Direcção-Geral dos Serviços Centrais, 28 de Abril de 1983. - O Director-Geral, João Morais da Cunha Matos.
