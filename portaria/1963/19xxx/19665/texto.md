@@ -1,0 +1,5 @@
+Portaria n.º 19665
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a quantia de 250000$00 a verba do capítulo 10.º, artigo 1424.º, n.º 5), alínea a), «Encargos gerais - Deslocações do pessoal - Passagens de ou para o exterior por quaisquer outros motivos - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral de Angola para o ano económico de 1962, por transferência de igual importância a sair das disponibilidades do capítulo 1.º, artigo 8.º, n.º 2) «Dívida da província - Juros - Ministério das Finanças - Para pagamento de juros de 4 por cento relativos ao empréstimo a conceder pelo Ministério das Finanças, nos termos do Decreto n.º 42817, de 25 de Janeiro de 1960, para execução do II Plano de Fomento Nacional», da referida tabela de despesa.
+Ministério do Ultramar, 29 de Janeiro de 1963. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Angola. - Silva Cunha.
