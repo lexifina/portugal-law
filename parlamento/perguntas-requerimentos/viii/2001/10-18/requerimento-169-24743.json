@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OfehzreU1EekBL7OXFnyzGmW8bzUJkDwDT7BSK7VUfLauZ5I%2f6vSw1dJJCXiVPxrlwNtg4zrKjgh67DgiM8B5FKf8N6o4ALNMnM6XcxO93rNB0scu3e8b%2bi1ZjYLgC3GyFhkWhw%2bIXevazca40mvw98RJxsco5JCegGgillMwlwn078EN3YG2ZZJVhZ59H%2fLW%2bs5mYqc4JXMwaXSW8sA0jwKn6uXi10AUm59cKhTprZUuHzvHEWandtkZpdSG61gn1XLqqd34GFDqZfcyLmX3ExGx49CBIyD8qQZJ5cRcV%2flVtgFM44vas8fwL4YHxhDFbwSHrZDfEziwK608l068Bc1XIKORTm7pOuZpv0CK8Wx1xbmFjVpqM7eBPtfukK%2b9sFdolrKVteHgWfoqM6qxjc5xiB0Zh3Rpl%2frrgejwZ4%3d&fich=RequerimentosVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "ee27fd579cbcd218d0bfb6c54648bdf855a16242176249fd32eb6a93230a2247",
+  "legislatura": "VIII",
+  "id": "24743",
+  "tipo": "Requerimento",
+  "numero": "169",
+  "data_registo": "2001-10-18",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Pedido de publicação",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "179",
+        "nome": "Jorge Lacão"
+      }
+    ],
+    "DataEnvio": "2001-10-24",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2001-10-24",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DAS  FINANCAS",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2001-10-29",
+            "docRemetida": null,
+            "entidade": "MIN.  DAS  FINANCAS",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e545443396a4e7a55354d5755355969307a5a6a45324c54517a597a4d745954526a4e43307a59546c6b4e7a4d334e5759324d4749756347526d&fich=c7591e9b-3f16-43c3-a4c4-3a9d7375f60b.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2001-10-18",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e5454433831596a45304e7a5a6d596931694d6a686c4c5451314d6a49744f57466d4d69316d595455344e5745324d6a566d59574d756347526d&fich=5b1476fb-b28e-4522-9af2-fa585a625fac.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "24743",
+    "Legislatura": "VIII",
+    "Nr": "169",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "268083",
+        "obs": "34-(6)",
+        "pag": [
+          "34-(6)-34-(6)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2001",
+        "pubLeg": "VIII",
+        "pubNr": "6",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/03/006S1/2001-10-27/34-(6)?pgs=34-(6)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Requerimento"
+  }
+}
