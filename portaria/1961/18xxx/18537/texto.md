@@ -1,0 +1,5 @@
+Portaria n.º 18537
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos da alínea g) do artigo 11.º e do artigo 16.º do Decreto n.º 35770, de 29 de Julho de 1946, que o governador-geral de Moçambique abra um crédito especial da importância de 9485$08, a inscrever em adicional à tabela de despesa ordinária do orçamento geral em vigor na província, destinado a suportar o pagamento da pensão por acidente de serviço à família do primeiro-sargento artífice condutor de máquinas, em comissão de serviço na marinha privativa de Moçambique, Joaquim Baptista Coelho, relativamente ao período de 19 de Outubro a 31 de Dezembro de 1960, tomando como contrapartida as disponibilidades existentes na verba do capítulo 7.º, artigo 1213.º, n.º 2) «Serviços de geologia e minas - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado», da referida tabela de despesa.
+Ministério do Ultramar, 16 de Junho de 1961. - O Ministro do Ultramar, Adriano José Alves Moreira.
+
+Para ser publicada no Boletim Oficial de Moçambique. - A. Moreira.
