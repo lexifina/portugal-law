@@ -1,0 +1,5 @@
+Aviso n.º 150/2003
+Por ordem superior se torna público que, em 22 de Outubro de 2001, foi endereçada ao Secretário de Estado dos Negócios Estrangeiros e Cooperação da República Portuguesa pelo Secretário para os Assuntos Sociais do Governo da Região Administrativa Especial de Macau da República Popular da China uma comunicação transmitindo terem sido cumpridos os respectivos procedimentos legais internos exigidos para a entrada em vigor do Acordo de Cooperação na Área da Educação e Cultura entre a República Portuguesa e a Região Administrativa Especial de Macau assinado em Lisboa a 29 de Junho de 2001, e que, em 4 de Setembro de 2002, o Consulado-Geral de Portugal em Macau remeteu uma nota verbal ao Governo de Macau dando conhecimento do cumprimento de idênticas formalidades pela parte portuguesa.
+Por parte de Portugal, o referido Acordo foi aprovado pelo Decreto n.º 25/2002, publicado no Diário da República, 1.ª série-A, n.º 192, de 21 de Agosto de 2002.
+Nos termos do artigo 13.º do Acordo, o mesmo entrou em vigor no dia 3 de Outubro de 2002.
+Direcção-Geral das Relações Bilaterais, 30 de Abril de 2003. - O Director-Geral, Manuel Nuno Tavares de Sousa.
