@@ -8,7 +8,13 @@
 
 1 - Os rendimentos dos fundos de investimento mobiliário (FIM) que se constituam e operem de acordo com a legislação nacional têm o seguinte regime fiscal:
 
-a) Tratando-se de rendimentos, que não sejam mais-valias, obtidos em território português, há lugar a tributação, autonomamente, por retenção na fonte como se de pessoas singulares residentes em território português se tratasse ou, relativamente a rendimentos não sujeitos a retenção na fonte, autonomamente à taxa de 25% incidente sobre o respectivo valor líquido obtido em cada ano, sendo o imposto entregue ao Estado pela respectiva entidade gestora até ao fim do mês de Abril do ano seguinte àquele a que respeitar;
+a) Tratando-se de rendimentos, que não sejam mais-valias, obtidos em território português, há lugar a tributação autonomamente:
+
+1) Por retenção na fonte como se de pessoas singulares residentes em território português se tratasse;
+
+2) Às taxas de retenção na fonte e sobre o montante a ela sujeito, como se de pessoas singulares residentes em território português se tratasse, quando tal retenção na fonte, sendo devida, não for efectuada pela entidade a quem compete;
+
+3) Ou à taxa de 25% sobre o respectivo valor líquido obtido em cada ano, no caso de rendimentos não sujeitos a retenção na fonte, sendo o imposto entregue pela respectiva entidade gestora até ao fim do mês de Abril do ano seguinte àquele a que respeitar;
 
 b) Tratando-se de rendimentos obtidos fora do território português, que não sejam mais-valias, há lugar à tributação, autonomamente, à taxa de 20%, tratando-se de rendimentos de títulos de dívida e de rendimentos provenientes de fundos de investimentos, e à taxa de 25% nos restantes casos, incidente sobre o respectivo valor líquido obtido em cada ano, sendo o imposto entregue ao Estado pela respectiva entidade gestora até ao fim do mês de Abril do ano seguinte àquele a que respeitar;
 
@@ -22,11 +28,11 @@ c) Tratando-se de mais-valias, obtidas em território português ou fora dele, h
 
 5 - Relativamente a rendimentos respeitantes a unidades de participação nos fundos referidos nos n.os 1 e 13, de que sejam titulares entidades não residentes em território português e que não sejam imputáveis a estabelecimento estável situado neste território, os mesmos são isentos de IRS ou de IRC.
 
-6 - Os rendimentos dos fundos de investimento imobiliário (FII) que se constituam e operem de acordo com a legislação nacional têm o seguinte regime fiscal:
+6 - Os rendimentos dos fundos de investimento imobiliário (FII) que constituam e operem de acordo com a legislação nacional têm o seguinte regime fiscal:
 
-a) Tratando-se de rendimentos prediais, há lugar a tributação, autonomamente, à taxa de 20%, que incide sobre os rendimentos líquidos dos encargos de conservação e manutenção efectivamente suportados, devidamente documentados, sendo a entrega do imposto efectuada pela respectiva entidade gestora até ao fim do mês de Abril do ano seguinte àquele a que respeitar e considerando-se o imposto eventualmente retido como pagamento por conta deste imposto;
+a) Tratando-se de rendimentos prediais, que não sejam relativos à habitação social sujeita a regimes legais de custos controlados, há lugar a tributação, autonomamente, à taxa de 20%, que incide sobre os rendimentos líquidos dos encargos de conservação e manutenção efectivamente suportados, devidamente documentados, sendo a entrega do imposto efectuada pela respectiva entidade gestora até ao fim do mês de Abril do ano seguinte àquele a que respeitar e considerando-se o imposto eventualmente retido como pagamento por conta deste imposto;
 
-b) Tratando-se de mais-valias prediais, há lugar a tributação, autonomamente, à taxa de 25%, que incide sobre 50% da diferença positiva entre as mais-valias e as menos-valias realizadas, apuradas de acordo com o Código do IRS, sendo a entrega do imposto efectuada pela respectiva entidade gestora até ao fim do mês de Abril do ano seguinte àquele a que respeitar;
+b) Tratando-se de mais-valias prediais, que não sejam relativas à habitação social sujeita a regimes legais de custos controlados, há lugar a tributação, autonomamente, à taxa de 25%, que incide sobre 50% da diferença positiva entre as mais-valias e as menos-valias realizadas, apuradas de acordo com o Código do IRS, sendo a entrega do imposto efectuada pela respectiva entidade gestora até ao fim do mês de Abril do ano seguinte àquele a que respeitar;
 
 c) Tratando-se de outros rendimentos, há lugar a tributação nos termos mencionados nas alíneas a), b) e c) do n.º 1.
 

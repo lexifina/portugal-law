@@ -15,3 +15,5 @@ c) Prestações de serviços de reparação de veículos, com excepção de emba
 3 - O disposto no n.º 1 não é aplicável às prestações de serviços adquiridas através da mobilização de saldos das contas poupança-habitação ou com recurso ao crédito, desde que, em qualquer dos casos, o sujeito passivo beneficie da dedução à colecta prevista no artigo 18.º do Estatuto dos Benefícios Fiscais ou no artigo 85.º do Código do IRS, respectivamente.
 
 4 - As despesas a que se referem as alíneas a), b) e c) do n.º 1 deverão ser comprovadas através de factura ou documento equivalente processado em forma legal.
+
+5 - Para efeitos da dedução prevista na alínea c) do n.º 1, os sujeitos passivos abrangidos pelo regime simplificado do IRS ou do IRC que prestem serviços de reparação de veículos, com excepção de embarcações e aeronaves, devem fazer constar da factura ou documento equivalente a referência à aplicação do regime.

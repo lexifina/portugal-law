@@ -4,17 +4,17 @@
 
 1 - Os rendimentos das entidades licenciadas a partir de 1 de Janeiro de 2003 e até 31 de Dezembro de 2006 para o exercício de actividades industriais, comerciais, de transportes marítimos e de outros serviços não excluídos do presente regime que observem os respectivos condicionalismos previstos no n.º 1 do artigo 33.º são tributados em IRC, até 31 de Dezembro de 2011, nos seguintes termos:
 
-a) No ano 2003, à taxa de 1%;
+a) Nos anos de 2003 e 2004, à taxa de 1%;
 
-b) No ano 2004, à taxa de 2%;
+b) Nos anos de 2005 e 2006, à taxa de 2%;
 
-c) Nos anos 2005 e seguintes, à taxa de 3%.
+c) Nos anos de 2007 a 2011, à taxa de 3%.
 
 2 - As entidades referidas no número anterior que pretendam beneficiar do presente regime deverão observar um dos seguintes tipos de requisitos:
 
-a) Criação de um até cinco postos de trabalho e realização de um investimento mínimo de (euro) 75000 na aquisição de activos fixos, corpóreos ou incorpóreos, nos dois primeiros anos de actividade;
+a) Criação de um até cinco postos de trabalho nos seis primeiros meses de actividade e realização de um investimento mínimo de (euro) 75000 na aquisição de activos fixos, corpóreos ou incorpóreos, nos dois primeiros anos de actividade;
 
-b) Criação de seis ou mais postos de trabalho.
+b) Criação de seis ou mais postos de trabalho nos primeiros seis meses de actividade.
 
 3 - As entidades referidas nos números anteriores ficarão sujeitas à limitação do benefício a conceder através da aplicação de plafonds máximos à matéria colectável objecto do benefício fiscal em sede de imposto sobre o rendimento das pessoas colectivas, nos termos seguintes:
 
@@ -30,7 +30,7 @@ e) Criação de 51 até 100 postos de trabalho - (euro) 30000000;
 
 f) Criação de mais de 100 postos de trabalho - (euro) 125000000.
 
-4 - A inserção das entidades licenciadas nos escalões de plafonds constantes do n.º 3 deverá efectuar-se em função do número de postos de trabalho criados nos primeiros seis meses de actividade.
+4 - A inserção das entidades licenciadas nos escalões de plafonds constantes do n.º 3 deverá efectuar-se em função do número de postos de trabalho nelas existentes em cada exercício.
 
 5 - Os rendimentos das sociedades gestoras de participações sociais licenciadas a partir de 1 de Janeiro de 2003 e até 31 de Dezembro de 2006 são tributados em IRC nos termos referidos no n.º 1, salvo os obtidos no território português, exceptuadas as zonas francas, ou em outros Estados membros da Comunidade Europeia, que são tributados nos termos gerais.
 
