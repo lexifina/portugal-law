@@ -1,0 +1,29 @@
+Portaria n.º 975/2004
+de 3 de Agosto
+Para cumprimento do disposto no artigo 123.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS), os notários, conservadores, secretários judiciais e secretários técnicos de justiça são obrigados a enviar à Direcção-Geral dos Impostos (DGCI) relação dos actos praticados nos seus cartórios e conservatórias e das decisões transitadas em julgado no mês anterior dos processos a seu cargo, que sejam susceptíveis de produzir rendimentos sujeitos a IRS, através de modelo oficial.
+Do mesmo modo, nos termos da alínea a) do n.º 4 do artigo 49.º do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT), os notários devem enviar à DGCI, em suporte informático, uma relação dos actos ou contratos sujeitos a IMT, ou dele isentos, exarados nos respectivos livros de notas.
+É a regulamentação do envio desses elementos em suporte informático que a presente portaria tem por objecto.
+A informação proveniente das entidades referidas assume carácter estratégico no combate à evasão e fraude fiscal. O seu envio em suporte informático permitirá uma simplificação das obrigações dessas entidades e uma assinalável economia de custos. À administração fiscal permitirá usá-la de forma imediata no cruzamento de dados para controlo inspectivo e na actualização imediata e automática das matrizes prediais. Aos sujeitos passivos permitirá simplificar substancialmente o cumprimento das suas obrigações fiscais, nomeadamente eliminando liquidações indevidas de imposto municipal sobre imóveis (IMI) por atraso na actualização das matrizes prediais.
+Na esteira do alargamento do âmbito da obrigatoriedade do cumprimento de obrigações declarativas através da transmissão electrónica de dados institui-se agora este meio como único instrumento adequado ao envio do conteúdo do modelo ora aprovado.
+A estrutura de dados a enviar à DGCI assenta no modelo n.º 11, aprovado pela Portaria n.º 761/2002, de 1 de Julho, que é ajustado às obrigações decorrentes da reforma da tributação do património, aprovada pelo Decreto-Lei n.º 287/2003, de 12 de Novembro.
+Assim:
+Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, ao abrigo do disposto no artigo 8.º do Decreto-Lei n.º 442-A/88, de 30 de Novembro, e nos termos do artigo 144.º do CIRS, bem como ao abrigo do artigo 29.º do Decreto-Lei n.º 287/2003, de 12 de Novembro, o seguinte:
+1.º É aprovado o novo modelo oficial da declaração modelo n.º 11, as tabelas I e II que dele fazem parte integrante e as respectivas instruções de preenchimento, anexos à presente portaria.
+2.º A declaração ora aprovada destina-se a dar cumprimento à obrigação constante dos artigos 123.º do CIRS, 48.º, 49.º, n.º 4, alínea a), e 51.º do CIMT e 63.º do Código do Imposto do Selo.
+3.º A obrigação declarativa a que se refere o novo modelo deve ser cumprida por transmissão electrónica de dados.
+4.º A declaração deve ser enviada até ao fim dos prazos previstos nas disposições legais referenciadas, podendo ser enviada diariamente.
+5.º Para o envio da declaração devem ser observados os seguintes procedimentos:
+a) Efectuar o registo, caso ainda não disponham de senha de acesso, através da página «Declarações electrónicas» no endereço www.e-financas.gov.pt;
+b) Possuir um ficheiro com as características e estrutura de informação, a disponibilizar no mesmo endereço;
+c) Efectuar o envio de acordo com os seguintes procedimentos:
+1) Seleccionar «Serviços on line>Fiscais>Entregar>Obrigações acessórias»;
+2) Preencher a declaração directamente ou abrir o ficheiro previamente formatado com as características referidas na alínea b);
+3) Validar a informação e corrigir os erros detectados;
+4) Submeter a declaração;
+5) Consultar, a partir do dia seguinte, a situação da declaração. Se, na sequência da verificação de coerência com as bases de dados centrais, forem detectados erros na declaração, deverá a mesma ser corrigida. Quando, após validação central, a declaração estiver certa, deverá imprimir-se o comprovativo;
+d) A declaração considera-se apresentada na data em que é submetida, sob condição de correcção de eventuais erros no prazo de 30 dias. Se, findo este prazo, não forem corrigidos os erros detectados, a declaração é considerada sem efeito.
+6.º A presente portaria entra em vigor no dia 1 de Outubro de 2004.
+7.º É revogada a Portaria n.º 761/2002, de 1 de Julho.
+O Secretário de Estado dos Assuntos Fiscais, Vasco Jorge Valdez Ferreira Matias, em 6 de Julho de 2004.
+
+(ver modelo n.º 11, tabelas I e II e instruções de preenchimento no documento original)
