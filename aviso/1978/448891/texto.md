@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 11 de Outubro de 1977, o Governo da República Socialista da Bielo Rússia depositou junto do Secretário-Geral das Nações Unidas a declaração de que não considera válida a reserva formulada pela República Popular da China relativamente aos parágrafos 2, 3 e 4 do artigo 37 da Convenção de Viena de 18 de Abril de 1961 sobre Relações Diplomáticas (denegação da isenção de privilégios ao pessoal não diplomático das missões diplomáticas), de que Portugal é parte, sem reservas.
+Secretaria-Geral do Ministério, 9 de Janeiro de 1978. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
