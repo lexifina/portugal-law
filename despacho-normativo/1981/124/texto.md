@@ -1,0 +1,3 @@
+Despacho Normativo n.º 124/81
+Por se considerar que os médicos na generalidade não são conhecedores do custo de alguns dos medicamentos que prescrevem e sendo este, por vezes, bastante elevado, determino que todos os anúncios de medicamentos inscritos nas revistas profissionais, médicas, farmacêuticas ou paramédicas, jornais, encartes enviados pelo correio ou entregues directamente aos médicos ou ainda as informações nos livros comerciais, Simpósio Terapêutico ou outros devem obrigatoriamente ter inscrito o preço de venda ao público do medicamento nas várias apresentações comerciais.
+Secretaria de Estado da Saúde, 6 de Março de 1981. - O Secretário de Estado da Saúde, Adalberto Paulo da Fonseca Mendo.
