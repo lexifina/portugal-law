@@ -1,0 +1,7 @@
+Resolução n.º 284/80
+A Resolução do Conselho de Ministros n.º 196/78, publicada no Diário da República, 1.ª série, n.º 266, de 18 de Novembro de 1978, determinou a cessação da intervenção do Estado na empresa Algarvesol - Empreendimentos Turísticos, S. A. R. L.
+Os prazos fixados no n.º 8 desta resolução têm sido sucessivamente prorrogados e a última prorrogação foi determinada pela Resolução n.º 162/80, de 24 de Abril, publicada no Diário da República, 1.ª série, n.º 107, de 9 de Maio de 1980, tendo terminado esses prazos em 30 de Junho de 1980.
+Embora a proposta de contrato de viabilização já tenha sido entregue no banco maior credor, a experiência tem mostrado que a sua apreciação até à celebração do contracto de viabilização obedece a negociações morosas.
+Considerando a necessidade de manter as condições para viabilizar a empresa, a complexidade da situação e a importância da empresa no sector do turismo:
+O Conselho de Ministros, reunido em 23 de Julho de 1980, resolveu, ao abrigo do disposto no artigo único do Decreto-Lei n.º 74-B/79, de 5 de Abril, prorrogar até à data da celebração do contrato de viabilização da empresa ou até 15 de Novembro de 1980, se, entretanto, tal contrato não for celebrado, o prazo previsto no n.º 8 da Resolução de Conselho de Ministros n.º 196/78, com efeitos a partir de 1 de Julho de 1980.
+Presidência do Conselho de Ministros, 23 de Julho de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
