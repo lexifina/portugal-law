@@ -1,0 +1,169 @@
+Portaria n.º 802/82
+de 24 de Agosto
+Por intermédio do Despacho Normativo n.º 316/78, de 30 de Novembro, com as alterações introduzidas pelo Despacho Normativo n.º 198/80, de 3 de Junho, e da Portaria n.º 1099/80, de 29 de Dezembro, foram adoptadas medidas de apoio à manutenção e criação de postos de trabalho em empresas em geral e nas actividades artesanais.
+Verifica-se, no entanto, que nestes normativos não se encontram suficientemente contempladas as pequenas iniciativas económicas que, em muitos casos, representam a única hipótese de emprego para os respectivos empreendedores e trabalhadores. Torna-se particularmente difícil que os responsáveis por estas iniciativas preencham alguns requisitos relacionados com a concessão de apoios. Também se torna praticamente impossível, nalgumas situações, que os limites máximos do apoio financeiro fomentem essas iniciativas, dada a inexistência de outras fontes de financiamento.
+Por outro lado, interessa clarificar, em termos consentâneos com o entendimento internacional, o conceito de artesão, bem como o âmbito de aplicação dos apoios a prestar na defesa e no fomento do artesanato.
+Importa também ensaiar novos esquemas de apoio, tais como: os incentivos à criação de cooperativas e associações no sector do artesanato, a igualização dos apoios aos estagiários de formação desta área em relação aos outros sectores de intervenção formativa, bem como a viabilização efectiva dos estágios de formação profissional, mediante recurso à contratação de monitores externos.
+Por tais motivos, parece indispensável adoptar orientações específicas para as referidas situações.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro do Trabalho, o seguinte:
+1.º - 1 - As condições de acesso que se mostrem inadequadas, bem como os limites máximos dos apoios a conceder estabelecidos no Despacho Normativo n.º 316/78, de 30 de Novembro, com as alterações introduzidas pelo Despacho Normativo n.º 198/80, de 3 de Junho, e na Portaria n.º 1099/80, de 29 de Dezembro, poderão não ser observados nos seguintes casos:
+a) Concessão de apoios à manutenção de postos de trabalho em pequenas empresas;
+b) Concessão de apoios à criação, manutenção de postos de trabalho e acções de formação profissional em actividades artesanais;
+c) Concessão de apoios à construção de novas cooperativas e associações no sector do artesanato.
+2 - Compete aos serviços de promoção do emprego a apreciação e justificação dos fundamentos da aplicação do disposto no parágrafo anterior.
+2.º - 1 - Para efeitos do disposto no número anterior entende-se por pequena empresa:
+a) A empresa, com menos de 15 trabalhadores, pertencente a qualquer sector de actividade económica, com excepção da indústria;
+b) A empresa industrial, com menos de 15 trabalhadores, que não seja abrangida pelo IAPMEI ou que por este não esteja a ser apoiada.
+2 - Em relação aos apoios financeiros previstos na alínea b) do § 1.º do n.º 1, o montante que ultrapasse os limites máximos anteriormente previstos revestirá sempre a forma de empréstimo reembolsável, sem juros.
+3 - Os apoios previstos na alínea c) do n.º 1 do n.º 1.º revestirão sempre a forma de subsídio e serão definidos caso a caso por despacho do Ministro do Trabalho, tendo em conta as necessidades referentes a investimentos iniciais e outras despesas para viabilização dos projectos.
+3.º - 1 - Para aplicação do disposto no n.º 1, os bens de capital fixo a adquirir pela entidade beneficiária ficarão sendo propriedade do organismo processador até ao reembolso, sendo àquela facultada a posse e o uso dos referidos bens.
+2 - Se não estiver em causa a aplicação de bens de capital fixo ou se, por motivos atendíveis, for excluída a aplicação do parágrafo anterior, o organismo processador deve, imediatamente após o início do levantamento dos montantes concedidos, proceder ao registo das garantias especiais previstas no artigo 7.º do Decreto-Lei n.º 437/78, de 28 de Dezembro.
+4.º - 1 - O n.º 1.º n.º 2, alínea c), n.os 3 e 4 e o n.º 5.º, n.º 4, alíneas b) a f), da Portaria n.º 1099/80, de 29 de Dezembro, passam a ter a seguinte redacção:
+1.º - 1 - ...
+2 - ...
+a) ...
+b) ...
+c) Empresas de produção de artesanato que empreguem menos de 5 trabalhadores e constantes da relação em anexo, e, excepcionalmente, por despacho do Ministro do Trabalho, as empresas de produção de artesanato que empreguem de 5 a 15 trabalhadores e também constantes da relação em anexo.
+3 - Para os efeitos deste diploma, considera-se artesão o trabalhador que, isolado em unidades de tipo familiar ou associado, transforma matérias-primas e produz, repara objectos ou presta serviços sociais, e ao qual se exige sentido estético, habilidade ou perícia manual, podendo usar máquinas auxiliares de trabalho e cuja intervenção pessoal, dominando todas as fases do processo produtivo, constitui factor predominante.
+4 - Os apoios são concedidos ao abrigo do previsto e disposto no Decreto-Lei n.º 193/82, de 20 de Maio [artigo 4.º, alíneas e) e f), e artigo 79.º] e Decreto-Lei n.º 445/80, de 4 de Outubro [artigo 3.º, n.º 1, alínea f), e artigo 6.º, n.º 6].
+5.º - 1 - ...
+2 - ...
+3 - ...
+4 - ...
+a) ...
+b) Quando se trate de acções de formação profissional, e sempre que necessário:
+i) Os serviços respectivos do IEFP colaborarão na elaboração dos programas e no acompanhamento do processo;
+ii) Será solicitado o apoio de outras entidades e serviços, designadamente do Ministério da Educação e das Universidades;
+c) Quando se trate de apoio técnico ou de prestação de serviços, estabelecerão os necessários contactos e participarão na elaboração de programas em articulação com as entidades prestadoras e com os interessados;
+d) Dão conhecimento do processo aos serviços competentes do IEFP, nos casos em que o montante do apoio solicitado ultrapasse 1000 contos. Caso o considere conveniente, deverá o IEFP pronunciar-se no prazo máximo de 30 dias.
+e) Elaboram a informação final.
+5 - ...
+6 - ...
+2 - Para os efeitos da nova redacção da alínea c) do parágrafo 2 do n.º 1.º da Portaria n.º 1099/80, é àquele diploma anexada a relação de actividades constantes desta portaria, ficando sujeita à revisão prevista no n.º 3 do n.º 7.º
+5 - 1 - Os serviços do IEFP, no âmbito de acções de formação profissional com um mínimo de 10 aprendizes ou estagiários, a realizar com associações, cooperativas ou conjunto de unidades de artesanato, poderão, para um período não superior a 1 ano, promover a contratação de monitores externos.
+2 - Aos aprendizes e estagiários envolvidos em acções de formação profissional no sector do artesanato será concedido, em conformidade com a respectiva idade, um subsídio mensal igual ao salário mínimo nacional no escalão mais elevado, de montante correspondente ao tempo de formação, nunca podendo exceder 1 ano de formação.
+6.º - 1 - Na fase inicial do processo relativo a apoios ao artesanato, deverão os serviços competentes do IEFP enviar uma cópia do requerimento do NARA da respectiva área para efeitos de parecer.
+2 - Quando o processo se encontrar concluído nos serviços competentes do IEFP, e na hipótese de não ter merecido ainda o parecer referido no número anterior, será enviado ao NARA para que se pronuncie se o entender por necessário, no prazo de 10 dias úteis findo o qual o processo será submetido a despacho.
+7.º - 1 - O processamento dos apoios, bem como os encargos resultantes da aplicação deste diploma serão da responsabilidade do IEFP.
+2 - O despacho dos processos é da competência do Ministro do Trabalho, que a pode delegar com a faculdade de subdelegação.
+3 - A interpretação de dúvidas, a integração de lacunas, bem como a revisão da relação de actividades e profissões anexa ao presente diploma, serão feitas por despacho simples do Ministro do Trabalho.
+4 - É revogada a Portaria n.º 735/81, de 28 de Agosto.
+5 - O presente diploma entra imediatamente em vigor, podendo desde já ser aplicado aos casos pendentes.
+Ministério do Trabalho, 29 de Julho de 1982. - O Ministro do Trabalho, Luís Alberto Ferrero Morales.
+
+ANEXO
+A relação prevista na nova redacção da alínea c) do parágrafo 2 do n.º 1.º da Portaria n.º 1099/80 e a seguir publicada pretende definir uma série de actividades e profissões susceptíveis de balizar a classificação das empresas de artesanato que poderão beneficiar dos apoios instituídos.
+Deverá, no entanto, ter-se sempre em conta como característica específica destas empresas uma significativa intervenção pessoal na actividade produtiva, embora se aceite a utilização de pequena maquinaria de apoio.
+Relação de actividades ou profissões
+Agricultura:
+Horto-floricultura;
+Pecuária de leite;
+Apicultura;
+Sericicultura;
+Cultivo de especiarias e ervas aromáticas.
+Alimentação:
+Manufactura de:
+Queijo de ovelha e cabra;
+Conservas hortícolas;
+Conservas de carnes tradicionais;
+Doçarias e bebidas espirituais regionais;
+Conservas e concentrados de frutas:
+Têxteis:
+Tecelagem manual;
+Fiação e torcedores (seda, linho, lã e outras fibras naturais), não automatizados.
+Calçado, vestuário e artigos têxteis:
+Manufactura de:
+Calçado regional;
+Modistas;
+Alfaiates;
+Camiseiros;
+Costureiros;
+Peleiros;
+Tapeteiros (Arraiolos e Beiriz);
+Cartonista de tapetes;
+Design de modas e tendências;
+Tapeçarias;
+Chapelaria regional;
+Vestuário regional;
+Rendas e bordados.
+Madeira e móveis:
+Talhas;
+Douradores;
+Marcenaria;
+Cestaria - vergas e bambus;
+Utensílios em madeira;
+Molduras;
+Restauros;
+Estofos.
+Papel:
+Manipulador de pasta de papel e cartão;
+Ensaiador manual de pastas e tipos novos;
+Operador manual de máquina de prensar.
+Artes gráficas:
+Gravadores;
+Encadernador;
+Douradores.
+Couro e peles:
+Curtidores;
+Arreios e selas;
+Utensílios e adornos.
+Produtos químicos:
+Manufactura de:
+Produtos de cera;
+Perfumes;
+Pirotecnia.
+Produtos minerais não metálicos:
+Vidraria/cristalaria;
+Cerâmica;
+Cantaria;
+Azulejaria;
+Imaginária;
+Porcelana;
+Trabalhos em mármore, pedra e similares.
+Metais:
+Fundição;
+Cinzelagem;
+Forjador;
+Moldes;
+Latoaria;
+Armaria;
+Soldadura;
+Revestimento de metais.
+Electricidade:
+Electromecânica (rádio, TV, electrodomésticos).
+Transportes e recreio:
+Carpintaria de barcos;
+Carroçarias;
+Manufactura de artigos de recreio.
+Instrumentos musicais:
+Manufactura de:
+Instrumentos de corda;
+Instrumentos de sopro;
+Instrumentos de percussão.
+Construção:
+Estucagem;
+Decoração;
+Colagem de papel;
+Canalizações.
+Serviços pessoais:
+Lavadarias;
+Cabeleireiros;
+Esteticistas;
+Fotógrafos.
+Outras actividades:
+Mecânica de máquinas de calcular, aparelhos de precisão e máquinas de escrever;
+Relojoaria;
+Lapidação;
+Brinquedos;
+Filigranas;
+Cortiças decorativas;
+Joalharia;
+Ourivesaria;
+Gravação;
+Flores artificiais;
+Pintura;
+Escultura;
+Restauros;
+Copista;
+Cenógrafo.
