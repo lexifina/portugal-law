@@ -30,7 +30,7 @@ m) Presidente de câmara municipal e vereador a tempo inteiro;
 
 n) Governador civil e adjunto;
 
-o) Exercício do cargo de director dos hospitais onde tenha lugar ensino médico pré-graduado;
+o) Exercício dos cargos de director de hospital e de director clínico, previstos no Decreto Regulamentar n.º 3/88, de 22 de Janeiro, nos hospitais onde tenha lugar o ensino médico pré-graduado;
 
 p) Exercício do cargo de director de um dos institutos de medicina legal.
 
