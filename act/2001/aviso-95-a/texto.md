@@ -1,0 +1,5 @@
+Aviso n.º 95-A/2001
+Por ordem superior se torna público que, em 29 de Dezembro de 2000 e em 6 de Agosto de 2001, foram emitidas notas verbais, respectivamente pelo Ministério dos Negócios Estrangeiros português e pelo Ministério das Relações Exteriores da República Federativa do Brasil, em que se comunica terem sido cumpridas as formalidades requeridas pelos ordenamentos jurídicos de ambos os países para a aprovação do Tratado de Amizade, Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil, assinado em Porto Seguro em 22 de Abril de 2000.
+O presente Tratado foi aprovado pelo Decreto do Presidente da República n.º 79/2000 e pela Resolução da Assembleia da República n.º 82/2000, publicados no Diário da República, 1.ª série-A, n.º 287, de 14 de Dezembro de 2000.
+Em conformidade com o disposto no seu artigo 77.º, o Acordo entrará em vigor em 5 de Setembro de 2001.
+Direcção-Geral das Relações Bilaterais, 28 de Agosto de 2001. - O Director-Geral, José Caetano de Campos de Andrada da Costa Pereira.
