@@ -8,6 +8,16 @@
 
 3 - Os chefes de sector auferirão uma remuneração equivalente ao índice 400 da tabela salarial do regime geral da função pública.
 
-4 - Serão extintos à medida que forem terminando as respectivas comissões de serviço todos os lugares de chefe de sector, com excepção do Sector de Manutenção da extensão do Corvo da Delegação da Ilha das Flores.
+4 - Serão extintos à medida que forem terminando as respectivas comissões de serviço todos os lugares de chefe de sector, com excepção dos referidos no número seguinte.
 
-5 - As competências dos Sectores de Registo Predial das Delegações da Ilha Terceira e da Ilha do Faial, após a respectiva extinção, transitarão para as secções administrativas das respectivas delegações.
+5 - Não serão extintos:
+
+a) Os lugares de chefe de sector previstos nos quadros de pessoal das direcções regionais;
+
+b) Dois dos lugares previstos no quadro de pessoal da Delegação da Ilha Terceira;
+
+c) Três dos lugares previstos no quadro de pessoal da Delegação da Ilha do Faial;
+
+d) O lugar de chefe do Sector de Manutenção da extensão da ilha do Corvo da Delegação da Ilha das Flores.
+
+6 - As competências dos Sectores de Registo Predial das Delegações da Ilha Terceira e da Ilha do Faial, após a respectiva extinção, transitarão para as secções administrativas das respectivas delegações.
