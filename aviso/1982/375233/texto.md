@@ -1,0 +1,12 @@
+Aviso
+Por ordem superior, torna-se público que em 22 de Junho de 1982 o Governo da Itália depositou no Ministério dos Negócios Estrangeiros do Reino dos Países Baixos o instrumento de ratificação da Convenção Relativa à Obtenção de Provas no Estrangeiro em Matéria Civil e Comercial, assinada na Haia em 18 de Março de 1970 e de que Portugal é parte. Ao proceder àquele depósito, o Governo Italiano notificou aquele Ministério dos Negócios Estrangeiros nos seguintes termos:
+1) O Governo Italiano declara, de acordo com o artigo 8, que os magistrados da autoridade requerente de um outro Estado contratante poderão assistir à execução de uma carta rogatória com autorização prévia da autoridade competente designada pelo Estado Italiano, conforme o previsto no n.º 4), segundo parágrafo.
+2) O Governo Italiano declara, de acordo com o artigo 18, que um funcionário diplomático ou consular ou um delegado que procede à obtenção de provas nos termos dos artigos 15, 16 ou 17 poderá apelar para a autoridade designada pelo Estado Italiano, conforme o previsto no n.º 4), segundo parágrafo, no sentido de lhe ser concedida a assistência necessária à consecução desse acto por via compulsiva.
+3) O Governo Italiano declara, de acordo com o artigo 23, que não executará cartas que tenham por objectivo «a revelação de documentos anteriormente ao julgamento», expressão utilizada nos países de direito comum.
+4) O Governo Italiano designará, de acordo com o artigo 35, o Ministério dos Negócios Estrangeiros como a autoridade central, prevista no artigo 2, encarregada de receber as cartas rogatórias emitidas por uma autoridade judicial de um outro Estado contratante e de transmiti-las à autoridade competente para as executar.
+O Governo Italiano, de acordo com o artigo acima mencionado, designa o tribunal de relação em cuja área de jurisdição o processo venha a decorrer como a autoridade competente para:
+Autorizar magistrados estrangeiros a assistir à execução de uma carta rogatória de acordo com o artigo 8;
+Autorizar funcionários diplomáticos e consulares ou delegados estrangeiros a proceder à obtenção de provas, de acordo com os artigos 16 ou 17;
+Conceder aos agentes acima mencionados a assistência judicial prevista no artigo 18.
+De acordo com o artigo 38, parágrafo 2, a Convenção entrou em vigor para a Itália em 21 de Agosto de 1982.
+Secretaria-Geral do Ministério, 6 de Setembro de 1982. - O Director dos Serviços Jurídicos e de Tratados, Carlos Augusto Fernandes.
