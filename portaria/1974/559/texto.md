@@ -1,0 +1,6 @@
+Portaria n.º 559/74
+de 3 de Setembro
+Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado dos Assuntos Económicos, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar, com a importância de 1500000$00, a verba do capítulo 10.º, artigo 1566.º, n.º 8, alínea a) «Encargos gerais - Diversas despesas - Despesas com assistência médica, tratamento e internamento de casos de tuberculose, câncer, alienação mental e lepra, em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado e de colonos pobres das províncias ultramarinas - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral do Estado de Angola em vigor, tomando como contrapartida disponibilidades do capítulo 4.º, artigo 167.º, n.º 1 «Administração Geral e fiscalização - Serviços de administração civil - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da mesma tabela de despesa.
+Ministério da Coordenação Interterritorial, 23 de Agosto de 1974. - O Secretário de Estado dos Assuntos Económicos, Fernando de Castro Fontes.
+
+Para ser publicada no Boletim Oficial do Estado de Angola. - Fernando de Castro Fontes.
