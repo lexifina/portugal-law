@@ -1,0 +1,6 @@
+Despacho Normativo n.º 708/94
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6, 7 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhes foi conferida pelo artigo 1.º daquele diploma;
+Considerando que Guilherme Waldemar Pereira d'Oliveira Martins, director de serviços da Direcção-Geral do Tesouro, com a comissão suspensa por força da alínea a) do n.º 1 do artigo 6.º do Decreto-Lei n.º 323/89, de 26 de Setembro, e titular do lugar de assessor do quadro de pessoal dos Serviços Centrais da Direcção-Geral do Tesouro, reúne os requisitos necessários para acesso à categoria de assessor principal e requereu, ao abrigo do n.º 7 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, a criação do necessário lugar:
+Determina-se o seguinte:
+É criado no quadro de pessoal dos Serviços Centrais da Direcção-Geral do Tesouro, a que se refere a Portaria n.º 1223-E/91, de 30 de Dezembro, um lugar de assessor principal, a extinguir quando vagar.
+Ministério das Finanças, 21 de Setembro de 1994. - O Secretário de Estado Adjunto e do Tesouro, Walter Valdemar Pêgo Marques. - O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa.
