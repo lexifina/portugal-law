@@ -34,7 +34,7 @@ n) Sociedades gestoras de patrimónios - 50000 contos;
 
 o) Sociedades de desenvolvimento regional - 600000 contos;
 
-p) Sociedades de capital de risco - 600000 contos;
+p) [Revogada]
 
 q) Sociedades administradoras de compras em grupo - 100000 ou 50000 contos, consoante administrem ou não administrem grupos constituídos para a aquisição de bens imóveis;
 
