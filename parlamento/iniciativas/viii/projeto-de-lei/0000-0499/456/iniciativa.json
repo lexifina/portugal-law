@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "tipo": "Projeto de Lei",
+  "numero": "456",
+  "id": "18563",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2001-05-30",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2001-09-14",
+    "DataInicioleg": "2000-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "1702",
+        "nome": "José Miguel Noras"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1703",
+        "nome": "João Sequeira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1168",
+        "nome": "José Egípto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "728",
+        "nome": "Rosalina Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1627",
+        "nome": "Maria Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1552",
+        "nome": "Margarida Rocha Gariso"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1679",
+        "nome": "Renato Sampaio"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1629",
+        "nome": "João Benavente"
+      }
+    ],
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "18563",
+    "IniLeg": "VIII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a566b59325179597a45344c546b304f5445744e4445794e6930345a6d466c4c5464684f47466a4f54566c4e6a41774d79356b62324d3d&fich=5dcd2c18-9491-4126-8fae-7a8ac95e6003.doc&Inline=true",
+    "IniNr": "456",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Alteração dos limites da Freguesia Pombalinho, no Concelho de Santarém",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
