@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 14-D/97
+Para os devidos efeitos se declara que o Decreto-Lei n.º 93/97, publicado no Diário da República, 1.ª série, n.º 95, de 23 de Abril de 1997, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 9.º, alínea e), onde se lê «e) [...] as actividades referidas na alínea d) do artigo anterior;» deve ler-se «e) [...] as actividades referidas na alínea b) do artigo anterior;» e no artigo 27.º, onde se lê «São revogados o Decreto-Lei n.º 323/93, de 21 de Setembro, e a Portaria n.º 45-B/94, de 15 de Janeiro.» deve ler-se «São revogados o Decreto-Lei n.º 322/93, de 21 de Setembro, e a Portaria n.º 45-B/94, de 15 de Janeiro.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 22 de Julho de 1997. - O Secretário-Geral, Alexandre Figueiredo.
