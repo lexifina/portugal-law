@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1949/02/02300/00690069.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1949-02-05",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "a65c61476d221df5f2a49f29ffa737e00cc0d4a091c82070af05337daedfa5e6",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.9,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "4c4d47f7aece71c2c778b48485d1bc16a2c6c7e5099939757bd3c6e515d36df1",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 187
 }
