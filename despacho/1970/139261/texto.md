@@ -1,0 +1,3 @@
+Despacho
+De harmonia com o disposto no artigo 12.º do Decreto-Lei n.º 42159, de 25 de Fevereiro de 1959, na redacção que lhe foi dada pelo artigo único do decreto-lei n.º 359/70, de 31 de Julho de 1970, e tendo em conta o parecer do Ministério da Saúde e Assistência, autorizo o fabrico de água tónica com inclusão de hidrocloreto de quinino na concentração de 80 mg/l, devendo ser indicado no rótulo da embalagem do refrigerante, em caracteres bem visíveis, a existência e o teor daquele adjuvante.
+Secretaria de Estado da Indústria, 3 de Agosto de 1970. - O Secretário de Estado da Indústria, Rogério da Conceição Serafim Martins.
