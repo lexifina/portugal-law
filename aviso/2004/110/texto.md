@@ -1,0 +1,8 @@
+Aviso n.º 110/2004
+Por ordem superior se torna público ter Portugal depositado, em 19 de Março de 2004, o instrumento de ratificação referente à Convenção Relativa à Protecção das Crianças e à Cooperação em Matéria de Adopção Internacional, adoptada na Haia em 29 de Maio de 1993, com as seguintes declarações:
+«A República Portuguesa designa, de acordo com o n.º 1 do artigo 6.º da Convenção, a Direcção-Geral da Solidariedade e Segurança Social como autoridade central encarregue de dar cumprimento às obrigações decorrentes da Convenção.
+A República Portuguesa declara, de acordo com o n.º 4 do artigo 22.º da Convenção, que as adopções de crianças cuja residência habitual se situe no seu território só poderão realizar-se se as funções conferidas às autoridades centrais forem exercidas de acordo com o n.º 1.º deste mesmo artigo.
+A República Portuguesa notifica, ainda, que, para efeitos do n.º 2 do artigo 23.º, a Direcção-Geral da Solidariedade e Segurança Social é a autoridade competente para proceder à certificação de que a adopção foi feita de acordo com a Convenção.»
+Mais se informa que, nos termos da alínea a) do n.º 2.º do seu artigo 46.º, a Convenção entrará em vigor para a República Portuguesa em 1 de Julho de 2004.
+A Convenção Relativa à Protecção das Crianças e à Cooperação em Matéria de Adopção Internacional foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 8/2003 e ratificada pelo Decreto do Presidente da República n.º 6/2003, publicados no Diário da República, 1.ª série-A, n.º 47, de 25 de Fevereiro de 2003.
+Departamento de Assuntos Jurídicos, 5 de Maio de 2004. - O Director, Luís Serradas Tavares.
