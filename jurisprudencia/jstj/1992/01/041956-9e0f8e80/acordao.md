@@ -1,0 +1,53 @@
+# Acórdão do Supremo Tribunal de Justiça de 1992-01-09, processo 041956
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 041956
+
+**Nº Convencional:** JSTJ00014118
+
+**Relator:** SA NOGUEIRA
+
+**Descritores:** RECURSO PARA O SUPREMO TRIBUNAL DE JUSTIÇA; RECURSO PENAL; REQUISITOS; TENTATIVA; FURTO; REJEIÇÃO DE RECURSO; NULIDADE ABSOLUTA; ACTOS DE EXECUÇÃO; PRESSUPOSTOS; REENVIO DO PROCESSO; ERRO NOTÓRIO NA APRECIAÇÃO DA PROVA; INSUFICIÊNCIA DA MATÉRIA DE FACTO PROVADA; RENOVAÇÃO DE PROVA
+
+**Nº do Documento:** SJ199201090419563
+
+**Data do Acordão:** 01/09/1992
+
+**Votação:** MAIORIA COM 1 DEC VOT E 1 VOT VENC
+
+**Tribunal Recurso:** T J EVORA
+
+**Processo no Tribunal Recurso:** 595/90
+
+**Data:** 01/28/1991
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REC PENAL.
+
+**Decisão:** NEGADO PROVIMENTO. DECIDIDO NÃO TOMAR CONHECIMENTO.
+
+**Área Temática:** DIR PROC PENAL - RECURSOS.; DIR CRIM - CRIM C/PATRIMÓNIO.
+
+## Sumário
+
+I - Resulta da conjugação dos artigos 410, 412, 420 , 430 e
+
+432 a 436 do Código do Processo Penal o seguinte regime dos recursos interpostos para o Supremo Tribunal de Justiça em matéria criminal: a) O Supremo, em via de recurso, não procede à renovação da prova que possa ter sido produzida no julgamento; b) Pode e deve determinar o reenvio do processo, isto é, que se proceda a uma repetição do julgamento a fazer noutro tribunal da primeira instância, se e quando se verificarem os seguintes vícios (e desde que eles resultem do texto da decisão recorrida, por si só ou conjugada com as regras da experiência comum):
+
+1) - insuficiência para a decisão da matéria de facto provada;
+
+2) - contradição insanável da fundamentação;
+
+3) - erro notório na apreciação da prova;
+
+4) - ocorrência de nulidade que não deva ser considerada como sanada. c) Quando o recurso tenha como fundamento, não matéria de direito, mas discordância sobre a matéria de facto, em harmonia com os factores indicados na alínea antecedente, não há lugar a indicação, na motivação, das normas jurídicas violadas, ou do sentido que se defende para elas, ou das normas que se entende serem aplicáveis, precisamente porque tais exigências só se aplicam aos recursos que versam sobre matéria de direito, mas é necessário indicar, como conclusão, o pedido de anulação do julgamento e de consequente repetição do mesmo, no tribunal próprio; d) O recurso deverá ser rejeitado quando lhe falta a motivação, quando as conclusões, no caso de aquele versar sobre matéria de direito, não indiquem a norma violada ou o sentido da sua interpretação ou a norma aplicável, ou quando seja manifesta a sua improcedência.
+
+II - As regras da experiência comum podem ser invocadas para se concluir pela insuficiência para a decisão da matéria de facto dada como provada - artigo 410, n. 2, alínea a) do Código de Processo Penal - não o podendo, contudo, ser para se concluir pela contradição insanável da fundamentação - alínea b) do mesmo número - já que esta só pode resultar do próprio texto da decisão.
+
+III - Não se pode falar em tentativa de furto, numa situação em que os actos praticados se resumiram à entrada dos arguidos nas instalações de uma fábrica com o propósito de se apoderarem de mais certa quantidade de cobre que se encontrava facilmente acessível, mas em que esta especial acessibilidade não havia sido preparada por aqueles para lhes facilitar uma ulterior apropriação.
+
+IV - Nas circunstâncias atrás descritas, não existem ainda actos de execução começada e incompleta, uma vez que estes últimos, para poderem caracterizar a figura de tentativa de um crime, têm de ser inequivocamente destinados a produzir um determinado resultado ilícito, têm de corresponder a algo mais do que uma atitude em que o único factor de despistagem da sua caracterização é a intenção do agente e, como tal, situado exclusivamente no seu foro íntimo.
