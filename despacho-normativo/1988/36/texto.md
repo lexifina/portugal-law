@@ -1,0 +1,9 @@
+Despacho Normativo n.º 36/88
+Atendendo à necessidade de clarificar alguns aspectos relacionados com a definição dos conceitos de «capacidade profissional bastante», ou «qualificação profissional bastante», a que se refere o Decreto-Lei n.º 79-A/87, de 18 de Fevereiro, determino que, para efeitos do disposto na alínea a) do artigo 2.º e alínea a) do n.º 2 do artigo 14.º do diploma supra-referido, conferem, respectivamente, «capacidade profissional bastante» ou «qualificação profissional bastante» as seguintes habilitações académicas ou profissionais:
+1 - A frequência, com aproveitamento, do 3.º ano dos cursos superiores, os cursos médios, os cursos técnicos profissionais ou equivalentes e o curso prático agrícola nos domínios da agricultura, silvicultura ou pecuária, todos da responsabilidade do Ministério da Educação ou por ele reconhecido.
+2 - Os cursos de empresário agrícola da responsabilidade do Ministério da Agricultura, Pescas e Alimentação.
+3 - Os cursos referidos nos n.os 1 e 2 do anexo I da Portaria n.º 338/88, que, independentemente de terem ou não beneficiado da ajuda à formação profissional prevista no artigo 39.º do Decreto-Lei n.º 79-A/87, obedeçam às seguintes condições:
+a) Tenham sido objecto de contrato celebrado previamente à acção entre a entidade promotora do curso e os serviços regionais do MAPA e destinado a assegurar a qualidade da acção de formação;
+b) Obtenham, no termo da acção, parecer favorável da Direcção Regional de Agricultura quanto ao cumprimento do contrato referido na alínea anterior.
+4 - É revogado o despacho do Ministro da Agricultura, Pescas e Alimentação de 31 de Outubro de 1986, publicado no Diário da República, 2.ª série, n.º 261, de 12 de Novembro de 1986, p. 10477.
+Ministério da Agricultura, Pescas e Alimentação, 5 de Maio de 1988. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
