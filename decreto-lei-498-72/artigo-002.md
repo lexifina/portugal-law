@@ -1,13 +1,3 @@
-## Estatuto da Aposentação
-
-## Parte I
-
-## Regime geral
-
-## Capítulo I
-
-## Inscrição
-
 # Artigo 2.º
 
 ### (Manutenção de anterior direito)

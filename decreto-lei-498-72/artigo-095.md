@@ -1,17 +1,13 @@
 # Artigo 95.º
 
-### Junta de recurso
+### (Juntas de revisão)
 
-1 - O conselho directivo da Caixa pode autorizar a realização de juntas de recurso:
+1. O Ministro das Finanças poderá autorizar a realização de juntas médicas de revisão:
 
-a) Mediante proposta fundamentada dos serviços de que o subscritor dependa, apresentada no prazo de 60 dias;
+a) Mediante proposta fundamentada dos serviços de que o subscritor dependa, apresentada no prazo de sessenta dias após o exame precedente e sobre a qual será ouvida a Caixa;
 
-b) Mediante requerimento justificado do subscritor, entregue na Caixa no prazo de 60 dias a contar da notificação do resultado do exame.
+b) Mediante requerimento justificado do interessado, entregue na Caixa no prazo de sessenta dias, a contar da notificação do resultado do exame, e igualmente informado pela Caixa.
 
-2 - A junta de recurso é composta por dois médicos designados pela Caixa, que não tenham tido anteriormente intervenção no processo, e por um médico designado pelo requerente, o qual, não sendo designado no prazo que para o efeito for fixado pelo conselho directivo da Caixa, é substituído por um médico designado pela administração regional de saúde territorialmente competente.
+2. Pela realização da junta é devida a taxa de 250$00, a pagar prèviamente à Caixa pelos serviços ou pelo requerente, conforme os casos.
 
-3 - Compete à junta de recurso apreciar as decisões das juntas médicas relativas à situação dos subscritores.
-
-4 - Os pareceres da junta de recurso são sempre fundamentados.
-
-5 - Pela realização da junta de recurso é devida uma taxa, em montante a definir por portaria do ministro responsável pela área das finanças, a pagar pelo requerente, sempre que a decisão lhe seja desfavorável.
+3. As juntas médicas de revisão funcionarão em Lisboa ou no Porto, conforme for resolvido em cada caso pela administração da Caixa, em atenção à área de residência do interessado, sendo constituídas por três médicos da Caixa Nacional de Previdência, dois dos quais serão o chefe dos serviços médicos e o respectivo adjunto, presidindo um administrador.

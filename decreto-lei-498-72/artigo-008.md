@@ -1,13 +1,9 @@
 # Artigo 8.º
 
-### Entrega de valores
+### (Entrega directa do desconto)
 
-1 - Após validar as relações contributivas definitivas, a Caixa, até ao dia 7 de cada mês, disponibiliza na sua página eletrónica, em área de acesso reservado, as seguintes informações:
+1. Os serviços não sujeitos a remessa de folhas às repartições da Direcção-Geral da Contabilidade Pública entregarão directamente nos cofres da Caixa Geral de Depósitos, em conta da Caixa Geral de Aposentações e no prazo referido no n.º 3 do artigo 7.º, a importância dos descontos arrecadados.
 
-a) Valor global a entregar, discriminando a parte relativa a quotas, contribuição e importâncias de outra natureza;
+2. A entrega será feita por meio de guia, acompanhada de um único exemplar da relação de descontos, em impresso de modelo oficialmente aprovado.
 
-b) Modalidades de pagamento, a definir pelo conselho directivo da Caixa.
-
-2 - Em função do canal de pagamento escolhido por cada entidade, é disponibilizada a referência identificativa da entrega a efectuar.
-
-3 - Com base nos elementos referidos nos números anteriores, os serviços e entidades entregam à Caixa, directamente ou através da Direcção-Geral do Tesouro e Finanças, o valor correspondente à relação contributiva definitiva até ao dia 15 do mês em que aquela seja emitida.
+3. De igual modo procederão as entidades ou organismos onde os subscritores da Caixa se encontrem, nos termos previstos na lei, a prestar serviço.

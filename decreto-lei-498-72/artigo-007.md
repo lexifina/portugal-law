@@ -1,9 +1,11 @@
 # Artigo 7.º
 
-### Relação contributiva
+### (Desconto da quota)
 
-1 - No dia 19 de cada mês, a Caixa disponibiliza na sua página electrónica, em área de acesso reservado, relativamente aos serviços que processem remunerações sujeitas a desconto de quota ou que contribuam para a Caixa, uma relação contributiva previsional, relativa aos descontos de quotas e às contribuições desse mês e a outros valores que se mostrem em dívida.
+1. Todos os serviços que processem remunerações sujeitas a quota procederão ao desconto desta nas folhas ou recibos de pagamento e preencherão, em duplicado, relação discriminativa dos descontos feitos, em impresso de modelo aprovado oficialmente.
 
-2 - Compete aos serviços, até ao dia 6 do mês seguinte àquele em que a relação contributiva previsional tenha sido disponibilizada, introduzirem-lhe as alterações necessárias e confirmarem-na, através do código de utilizador previamente fornecido pela Caixa e de uma palavra passe.
+2. As relações dos descontos serão agrupadas pela ordem alfabética dos distritos e acompanhadas de modelo oficialmente aprovado, devidamente preenchido.
 
-3 - A relação contributiva previsional converte-se em definitiva no dia em que tenha sido confirmada pelo serviço ou, na falta de intervenção deste, no último dia de que aquele disponha para o fazer.
+3. As folhas e as relações dos descontos serão remetidas em conjunto à competente repartição da Direcção-Geral da Contabilidade Pública, que, até ao fim do mês seguinte àquele a que as relações digam respeito, enviará à Caixa os respectivos originais, comunicando à Direcção-Geral da Fazenda Pública o total dos descontos nelas incluídos.
+
+4. A Direcção-Geral da Fazenda Pública promoverá, durante o mês imediato, a entrega à Caixa da importância total dos descontos a que se refere este artigo.

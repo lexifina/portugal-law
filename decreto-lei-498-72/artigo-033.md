@@ -2,11 +2,11 @@
 
 ### (Limites da contagem)
 
-1 - Na contagem final do tempo de serviço para a aposentação considerar-se-ão apenas os anos e os meses completos de serviço.
+1. Na contagem final do tempo de serviço para a aposentação considerar-se-á apenas o número de anos completos.
 
 2. Para os efeitos do n.º 1 contar-se-á o tempo decorrido até à data em que se verificar:
 
-a) Qualquer dos factos previstos nos n.os 1 e 2 do artigo 43.º;
+a) Qualquer dos factos previstos no n.º 1 do artigo 43.º;
 
 b) A cessação de funções, quer esta seja definitiva, quer resulte de passagem à licença ilimitada ou a outra situação sem direito a remuneração, quando ocorra anteriormente a qualquer dos factos a que se refere a alínea a);
 

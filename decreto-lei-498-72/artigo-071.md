@@ -2,4 +2,4 @@
 
 ### (Suspensão de pensão)
 
-O pagamento suspende-se sempre que o aposentado sofra condenação disciplinar ou penal, nos termos do artigo 76.º e dos n.os 2 e 3 do artigo 77.º
+O pagamento da pensão suspende-se sempre que o aposentado sofra condenação disciplinar ou criminal nos termos do n.º 1 do artigo 76.º e do n.º 2 do artigo 77.º

@@ -8,4 +8,4 @@
 
 1. A passagem do interessado à situação de aposentação verifica-se no dia 1 do mês seguinte ao da publicação oficial da lista de aposentados em que se inclua o seu nome.
 
-2 - Os subscritores abrangidos por lei especial referida no n.º 3 do artigo 99.º passam à aposentação na data em que devam considerar-se desligados do serviço.
+2. Os subscritores a que se refere o n.º 2 do artigo 100.º passam à aposentação na data em que devam considerar-se desligados do serviço.

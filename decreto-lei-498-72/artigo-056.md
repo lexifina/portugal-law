@@ -1,5 +1,7 @@
 # Artigo 56.º
 
-### Redução da pensão
+### (Redução da pensão)
 
-No caso de aposentação compulsiva, a pensão é calculada nos termos gerais e reduzida em 4,5% do seu valor por cada ano de antecipação em relação à idade legalmente exigida para a aposentação, com o limite de 25%.
+1. No caso de aposentação compulsiva, a pensão é reduzida a 75 por cento do seu montante normal, salva o disposto na última parte do n.º 1 do artigo 42.º
+
+2. A redução incidirá apenas sobre a parcela a que se refere a alínea a) do n.º 2 do artigo 54.º, na hipótese prevista no artigo 55.º
