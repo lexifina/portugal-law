@@ -1,0 +1,21 @@
+Decreto-Lei n.º 479/82
+de 23 de Dezembro
+1. A especial natureza e fins a que se destinam os bens enunciados em 7) da alínea a) do n.º 1 do artigo 4.º do Decreto-Lei n.º 333/81, de 7 de Dezembro, aconselham a que, por razões de segurança e do rigoroso controle de qualidade que devem acompanhar o respectivo fabrico, seja mantida a atribuição à Imprensa Nacional-Casa da Moeda, E. P., do exclusivo de produção de dísticos, estampilhas e quaisquer outros meios fiscais necessários aos serviços do Estado e de outras entidades públicas.
+2. Por outro lado, e em relação ao órgão consultivo, conselho numismático, criado pelo mencionado decreto-lei, aproveita-se o ensejo para, dentro da natureza consultiva da competência que lhe é própria, estender a sua colaboração à preservação e valorização do património numismático e medalhístico da INCM.
+3. Finalmente, da manifesta impossibilidade do cumprimento, pelas tesourarias da Fazenda Pública e outros serviços oficiais, do prazo indicado no n.º 3 do artigo 43.º do citado diploma decorre a conveniência da sua alteração, neste momento, corrigindo-se, deste modo, um lapso evidente.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. Os artigos 4.º, 36.º e 43.º do Decreto-Lei n.º 333/81, de 7 de Dezembro, passam a ter a seguinte redacção:
+Art. 4.º - 1 - ...
+2 - Constitui exclusivo da INCM a produção dos bens mencionados em 1) a 5) da alínea a) do número anterior e também, desde que destinados aos serviços do Estado e a outras entidades públicas, os indicados em 7) da mesma alínea a), bem como a prestação dos serviços referidos nas alíneas b), c) e d) do mesmo número.
+Art. 36.º ...
+a) ...
+b) ...
+c) Sugerir e dar parecer sobre medidas relativas à preservação e valorização do património numismático e medalhístico da INCM.
+Art. 43.º - 1 - ...
+2 - ...
+3 - O produto da venda de impressos, efectuada através das tesourarias da Fazenda Pública ou de quaisquer outros serviços oficiais, será por estes depositado na Caixa Geral de Depósitos ou suas dependências, à ordem da INCM, até ao dia 10 do mês seguinte àquele a que as mesmas vendas disserem respeito.
+Visto e aprovado em Conselho de Ministros de 16 de Novembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
+Promulgado em 13 de Dezembro de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
