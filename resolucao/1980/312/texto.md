@@ -1,0 +1,6 @@
+Resolução n.º 312/80
+Pela Resolução n.º 195/79, de 27 de Junho, da Presidência do Conselho de Ministros procedeu-se à cessação da intervenção do Estado nas empresas Handy Angle Portuguesa - Cantoneiras Metálicas, Lda., e Masola - Sociedade de Madeiras e Alumínios, Lda.
+Os n.os 3 e 7 do ponto I da referida resolução determinavam, respectivamente, a fusão das duas empresas no prazo de cento e vinte dias e a entrega da proposta de contrato de viabilização da empresa fundida ao banco maior credor até 31 de Março de 1980.
+Entretanto, a desorganização da contabilidade das empresas, bem como a natural morosidade do processo de fusão, levou ao não cumprimento dos prazos estabelecidos e à prorrogação do primeiro pelas Resoluções n.os 106/80, de 18 de Março, e 230/80, de 26 de Junho, da Presidência do Conselho de Ministros.
+Considerando que se encontra praticamente concluído o projecto de fusão das empresas e que se espera que a mesma venha a ser concretizada dentro do prazo máximo de um mês, o Conselho de Ministros, reunido em 13 de Agosto de 1980, resolveu prorrogar até 15 de Setembro de 1980 o prazo lixado no n.º 7 do ponto I da Resolução n.º 195/79, 27 de Junho, da Presidência do Conselho de Ministros.
+Presidência do Conselho de Ministros, 13 de Agosto de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
