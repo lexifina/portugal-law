@@ -1,0 +1,5 @@
+Declaração de Rectificação n.º 21/2005
+Para os devidos efeitos se declara que a Resolução da Assembleia Legislativa Regional n.º 3/2005/A, publicada no Diário da República, 1.ª série, n.º 14, de 20 de Janeiro de 2005, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+1 - No artigo 4.º, na segunda linha, onde se lê «do artigo 110.º do Regimento da Assembleia Legislativa Regional dos Açores» deve ler-se «do artigo 110.º do Regimento da Assembleia Legislativa da Região Autónoma dos Açores».
+2 - Após o artigo 6.º, onde se lê «Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 11 de Dezembro de 2004.» deve ler-se «Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de Dezembro de 2004.» e onde se lê «O Presidente da Assembleia Legislativa Regional» deve ler-se «O Presidente da Assembleia Legislativa da Região Autónoma dos Açores».
+Secretaria-Geral da Presidência do Conselho de Ministros, 11 de Março de 2005. - O Secretário-Geral, José M. Sousa Rego.
