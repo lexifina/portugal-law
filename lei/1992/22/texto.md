@@ -1,0 +1,29 @@
+Lei n.º 22/92
+de 14 de Agosto
+Altere a Lei n.º 2127, de 3 de Agosto de 1965, estabelecendo a igualdade de direitos relativos a acidentes de trabalho e doenças profissionais.
+A Assembleia da República decreta, nos termos da alínea f) do n.º 1 do artigo 168.º da Constituição, o seguinte:
+Artigo 1.º As bases III e XIX da Lei n.º 2127, de 3 de Agosto de 1965, passam a ter a seguinte redacção:
+Base III
+Trabalhadores estrangeiros
+1 - Os trabalhadores estrangeiros que exerçam actividade em Portugal são, para efeitos desta lei, equiparados aos trabalhadores portugueses.
+2 - Os familiares dos trabalhadores estrangeiros referidos no número anterior beneficiam igualmente da protecção estabelecida nesta lei relativamente aos familiares do sinistrado.
+3 - Os trabalhadores estrangeiros vítimas de acidente em Portugal ao serviço de empresa estrangeira podem ficar excluídos do âmbito desta lei desde que exerçam uma actividade temporária ou intermitente e, por acordo entre Estados, se tenha convencionado a aplicação da legislação relativa à protecção das vítimas de acidente de trabalho em vigor no Estado de origem.
+Base XIX
+Pensões por morte
+1 - Se do acidente de trabalho ou da doença profissional resultar a morte, os familiares da vítima receberão as seguintes pensões anuais:
+a) Cônjuge - 30% da remuneração base da vítima até perfazer a idade de reforma por velhice e 40% a partir daquela idade ou no caso de doença física ou mental que afecte sensivelmente a sua capacidade de trabalho;
+b) Cônjuge divorciado ou separado judicialmente à data do acidente e com direito a alimentos - o valor da pensão estabelecida na alínea a) até ao limite do quantitativo dos alimentos judicialmente fixado;
+c) Filhos, incluindo os nascituros, até perfazerem 18 ou 22 e 25 anos, enquanto frequentarem, respectivamente, o ensino secundário ou curso equiparado ou o ensino superior, e os afectados de doença física ou mental que os incapacite para o trabalho - 20% da retribuição base da vítima se for apenas um, 40% se forem dois, 50% se forem três ou mais, recebendo o dobro destes montantes, até ao limite de 80% da retribuição da vítima, se forem órfãos de pai e de mãe;
+d) Ascendentes e quaisquer parentes sucessíveis, estes até aos 18 ou 22 e 25 anos, enquanto frequentarem, respectivamente, o ensino secundário ou curso equiparado ou o ensino superior, ou sem limite de idade quando afectados de doença física ou mental que os incapacite sensivelmente para o trabalho, desde que a vítima contribuísse com regularidade para o seu sustento - a cada, 10% da retribuição base da vítima, não podendo o total das pensões exceder 30% desta.
+2 - Se não houver cônjuge ou filhos com direito a pensão, os parentes incluídos na alínea d) do número anterior e nas condições nele referidas receberão, cada um, 15% da retribuição base da vítima, até perfazerem a idade de reforma por velhice, e 20% a partir desta idade ou no caso de doença física ou mental que os incapacite sensivelmente para o trabalho, não podendo o total das pensões exceder 80% da remuneração base da vítima, para o que se procederá a rateio, se necessário.
+3 - O cônjuge sobrevivo que contraia casamento tem direito a receber, por uma só vez, o triplo do valor da pensão anual.
+4 - ...
+5 - ...
+Art. 2.º A nova redacção da base XIX da Lei n.º 2127 produz efeitos desde 6 de Outubro de 1988.
+Aprovada em 9 de Abril de 1992.
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
+Promulgada em 27 de Julho de 1992.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendada em 30 de Julho de 1992.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
