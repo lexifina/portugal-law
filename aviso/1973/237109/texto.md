@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, em 22 de Novembro de 1973, foram trocadas notas entre o Ministério dos Negócios Estrangeiros da Dinamarca e a Embaixada de Portugal em Copenhaga, confirmando que cada um dos Estados Contratantes completou os procedimentos constitucionais exigidos para a entrada em vigor, no respectivo Estado, da Convenção entre Portugal e a Dinamarca para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento e do Protocolo a ela anexo, cujos textos foram aprovados para ratificação pelo Decreto n.º 365/73, publicado no Diário do Governo, 1.ª série, n.º 168, de 19 de Julho de 1973.
+A referida Convenção entrará em vigor, conforme estabelecido no seu artigo 28.º, em 22 de Dezembro de 1973.
+Direcção-Geral dos Negócios Económicos, 5 de Dezembro de 1973. - O Director-Geral, Tomás Andresen.
