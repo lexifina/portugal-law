@@ -1,0 +1,105 @@
+Portaria n.º 476/91
+de 3 de Junho
+Ao abrigo do disposto no Decreto-Lei n.º 354/88, de 12 de Outubro, alterado pelos Decretos-Leis n.os 140/89, de 28 de Abril, 33/90, de 24 de Janeiro, e 276/90, de 10 de Setembro:
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+1.º É aprovado o Regulamento de Reapreciação da Prova Geral de Acesso ao Ensino Superior de 1991, cujo texto se publica em anexo a esta portaria.
+2.º O texto referido no número anterior considera-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria.
+3.º Todas as alterações ao Regulamento serão nele incorporadas através de nova redacção dos seus artigos ou de aditamento de novos artigos.
+4.º Esta portaria entra em vigor na data da sua publicação.
+Ministério da Educação.
+Assinada em 22 de Maio de 1991.
+Pelo Ministro da Educação: Alberto José Nunes Correira Ralha, Secretário de Estado do Ensino Superior - Pedro José d'Orey da Cunha e Menezes, Secretário de Estado da Reforma Educativa.
+
+Regulamento de Reapreciação da Prova Geral de Acesso ao Ensino Superior de 1991
+Artigo 1.º
+Objecto
+Os estudantes que considerem que a prova geral de acesso que realizaram em 1991 foi erradamente classificada podem solicitar a sua consulta e posterior reapreciação, nos termos do artigo 19.º do Decreto-Lei n.º 354/88, de 12 de Outubro.
+Artigo 2.º
+Âmbito da reapreciação
+Dadas as características da prova, o pedido de reapreciação apenas poderá incidir sobre a classificação da parte aberta (questões 6, 7, 23, 24, 25, 26 e 27).
+Artigo 3.º
+Estudantes que realizaram duas chamadas de uma época da prova
+1 - Os estudantes que tenham realizado ambas as chamadas de uma época da prova geral de acesso apenas poderão requerer a consulta e posterior reapreciação da prova em que obtiveram a melhor classificação.
+2 - Se a classificação das duas provas prestadas for igual, os estudantes poderão requerer a consulta e posterior reapreciação de uma delas.
+Artigo 4.º
+Júri
+A reapreciação da prova será realizada por um júri de reapreciação da prova geral de acesso, nomeado nos termos do n.º 2 do artigo 19.º do Decreto-Lei n.º 354/88, adiante simplesmente designado por júri.
+Artigo 5.º
+Competência do júri
+Compete ao júri, designadamente:
+a) Definir a metodologia geral a adoptar no processo de reapreciação;
+b) Designar os professores relatores;
+c) Definir a metodologia de atribuição da classificação;
+d) Atribuir a classificação final às provas objecto de reapreciação.
+Artigo 6.º
+Legitimidade para requerer a consulta e a reapreciação da prova
+Têm legitimidade para requerer a consulta da prova e a sua reapreciação:
+a) O estudante, quando maior de 18 anos;
+b) Os encarregados de educação do estudante ou quem legalmente os represente.
+Artigo 7.º
+Requerimento de consulta da prova
+1 - O requerimento de consulta da prova deverá ser entregue na secretaria do estabelecimento de ensino onde o estudante se inscreveu para a sua realização, nos dois dias úteis subsequentes ao da afixação da respectiva classificação.
+2 - Serão liminarmente indeferidos os requerimentos de consulta da prova apresentados fora do prazo fixado no número anterior.
+Artigo 8.º
+Identificação
+No acto da entrega do requerimento de consulta da prova o requerente deverá apresentar o bilhete de identidade, que, após conferência dos respectivos elementos, lhe será devolvido.
+Artigo 9.º
+Depósito
+1 - No acto de entrega do requerimento de consulta da prova será feito pelo requerente o depósito de 3000$00.
+2 - A quantia depositada será arrecadada no cofre da escola até à divulgação do resultado da reapreciação.
+3 - Caso a classificação resultante da reapreciação da prova seja superior à sua classificação original, a quantia depositada será restituída ao requerente.
+4 - Caso a classificação resultante da reapreciação da prova seja igual ou inferior à sua classificação original, a quantia depositada constituirá receita do Gabinete Coordenador do Ingresso no Ensino Superior.
+5 - A quantia depositada constituirá igualmente receita do Gabinete Coordenador do Ingresso no Ensino Superior no caso previsto no artigo 13.º
+Artigo 10.º
+Elementos facultativos ao requerente
+Nos três dias úteis subsequentes à entrega do requerimento de consulta, o estabelecimento de ensino facultará ao requerente, em relação à prova que poderá ser objecto de reapreciação, e mediante o pagamento dos encargos de reprodução:
+a) Cópia da folha de resposta B (parte aberta);
+b) Cópia da folha de classificação;
+c) Cópia das instruções para a classificação da componente aberta aprovadas pelo júri da prova geral de acesso.
+Artigo 11.º
+Entrega do pedido de reapreciação
+1 - Nos três dias úteis subsequentes àquele em que os documentos a que se refere o artigo 10.º foram colocados à disposição do requerente, este poderá apresentar, na secretaria do estabelecimento de ensino, requerimento de reapreciação da prova.
+2 - Serão liminarmente indeferidos os requerimentos de reapreciação da prova apresentados fora do prazo fixado no número anterior.
+Artigo 12.º
+Forma de apresentação do requerimento
+O requerimento de reapreciação é dirigido ao júri a que se refere o artigo 4.º e formulado em impresso de modelo a fixar pelo Gabinete Coordenador do Ingresso no Ensino Superior.
+Artigo 13.º
+Não apresentação do requerimento de reapreciação
+Os requerentes que não apresentarem o requerimento de reapreciação dentro do prazo fixado no artigo 11.º perdem o direito à quantia depositada.
+Artigo 14.º
+Encaminhamento dos requerimentos
+Os estabelecimentos de ensino, de acordo com as instruções do júri, entregarão nas delegações distritais respectivas do Gabinete Coordenador do Ingresso no Ensino Superior os requerimentos de reapreciação acompanhados das respectivas folhas de resposta B.
+Artigo 15.º
+Entrega ao júri
+As delegações distritais do Gabinete Coordenador do Ingresso no Ensino Superior entregarão ao júri os requerimentos de reapreciação e as folhas de resposta B de acordo com as instruções deste.
+Artigo 16.º
+Relatores
+1 - Cada prova será submetida a parecer de dois relatores a nomear pelo júri, de entre docentes do ensino superior e docentes profissionalizados do ensino secundário.
+2 - Os relatores da reapreciação de cada prova não poderão ter participado na sua classificação original.
+Artigo 17.º
+Apreciações independentes
+Os dois relatores farão apreciações independentes, classificando, para o efeito, toda a parte aberta da prova de acordo com as instruções para a classificação da componente aberta aprovadas pelo júri da prova geral de acesso.
+Artigo 18.º
+Prazo
+O prazo em que os pareceres deverão ser emitidos será fixado pelo júri.
+Artigo 19.º
+Pareceres adicionais
+Sempre que o entenda necessário, o júri poderá solicitar a emissão de parecer ou pareceres adicionais sobre a mesma prova.
+Artigo 20.º
+Nova classificação da prova
+Com base nos pareceres dos relatores, o júri deliberará sobre a nova classificação a atribuir à prova objecto de reapreciação.
+Artigo 21.º
+Divulgação
+Os resultados dos pedidos de reapreciação serão divulgados através da afixação de pautas nos estabelecimentos de ensino onde foram apresentados os requerimentos.
+Artigo 22.º
+Prevalência da nova classificação
+A classificação atribuída pelo júri, quer seja inferior, quer seja superior à classificação original da prova objecto de reapreciação, substituirá esta para todos os efeitos.
+Artigo 23.º
+Classificação final da prova geral de acesso de 1991
+A classificação final da prova geral de acesso de 1991 será a nova classificação a que se refere o artigo 22.º
+Artigo 24.º
+Nova reapreciação
+Da nova classificação a que se refere o artigo 22.º não poderá ser pedida reapreciação.
+Artigo 25.º
+Instruções
+O Gabinete Coordenador do Ingresso no Ensino Superior e o júri, ouvida, nos casos aplicáveis, a Direcção-Geral dos Ensinos Básico e Secundário, expedirão as instruções que se mostrem necessárias à execução do presente Regulamento.
