@@ -1,3 +1,7 @@
+## Secção II
+
+## Oferta pública de aquisição de acções
+
 ## Secção III
 
 ## Acções próprias
