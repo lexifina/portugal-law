@@ -1,0 +1,4 @@
+Portaria n.º 672/77
+de 2 de Novembro
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Comércio e Turismo, sob proposta da Companhia de Seguro de Créditos, e mediante parecer favorável da Comissão de Créditos e Garantias de Créditos, nos termos do n.º 1 do artigo 8.º do Decreto-Lei n.º 318/76, de 30 de Abril, autorizar a referida Companhia a adoptar no seguro de crédito externo as condições especiais da acta adicional AP-ICB, em conformidade com os documentos que ficarão arquivados na Inspecção de Seguros.
+Ministérios das Finanças e do Comércio e Turismo, 21 de Julho de 1977. - Pelo Ministro das Finanças, Maria Manuela Matos Morgado Santiago Baptista, Secretário de Estado das Finanças e do Tesouro. - Pelo Ministro do Comércio e Turismo, António Manuel Rodrigues Celeste, Secretário de Estado do Comércio Externo.
