@@ -1,0 +1,3 @@
+Despacho Normativo n.º 37/89
+Ao abrigo do disposto do n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, em aditamento à tabela n.º 2 «Produtos fitofarmacêuticos», aprovada pelo Despacho Normativo n.º 346/80, publicado no Diário da República, 1.ª série, n.º 250, de 28 de Outubro de 1980, é autorizado o lançamento no mercado da embalagem com o conteúdo líquido de 5 l para os produtos fitofarmacêuticos com base na substância activa diclorvos (insecticida), com o teor de 500 g/l, formulados em concentrado para emulsão.
+Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo, 3 de Março de 1989. - O Secretário de Estado da Agricultura, Álvaro dos Santos Amaro. - O Secretário de Estado do Comércio Interno, Jorge Manuel Mendes Antas.
