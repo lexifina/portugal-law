@@ -1,0 +1,6 @@
+Despacho Normativo n.º 387/94
+Considerando que a licenciada Maria Filomena Carretas André exerce, em comissão de serviço, o cargo de chefe de divisão do quadro do Departamento para os Assuntos do Fundo Social Europeu, reúne os requisitos necessários para o acesso à categoria de assessor principal e requereu a criação do respectivo lugar.
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6, 7 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção conferida pelo artigo 1.º daquele diploma:
+Determina-se o seguinte:
+É criado no quadro de pessoal do Secretariado Técnico dos Assuntos para o Processo Eleitoral, aprovado pelo Decreto-Lei n.º 15/89, de 11 de Janeiro, com as alterações introduzidas pela Portaria n.º 778/91, de 8 de Agosto, um lugar de assessor principal da carreira de técnico superior, a extinguir quando vagar.
+Ministérios da Administração Interna e das Finanças, 26 de Abril de 1994. - Pelo Ministro da Administração Interna, Carlos Manuel Sousa Encarnação, Secretário de Estado Adjunto do Ministro da Administração Interna. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento.
