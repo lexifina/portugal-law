@@ -1,0 +1,3 @@
+Resolução n.º 164/79
+A Assembleia da República resolveu, em reunião do dia 25 de Maio de 1979, a suspensão da execução do Decreto-Lei n.º 130/79, de 14 de Maio [estabelece disposições quanto às providências de natureza cautelar respeitantes ao congelamento de contas bancárias, arrolamento, apreensão e proibição das disponibilidades dos bens das pessoas referidas nas alíneas a) e b) dos n.os 1 e 2 do artigo 2.º do Decreto-Lei n.º 313/76, de 29 de Abril], até que seja publicada a lei que o alterar, por ratificação.
+Assembleia da República, 25 de Maio de 1979. - O Presidente da Assembleia da República, Teófilo Carvalho dos Santos.
