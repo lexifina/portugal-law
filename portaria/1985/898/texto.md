@@ -1,0 +1,20 @@
+Portaria n.º 898/85
+de 26 de Novembro
+Considerando que algumas das disciplinas constantes do plano de estudos aprovado para a Faculdade de Ciências Médicas da Universidade Nova de Lisboa deverão ser ministradas em instituições hospitalares, de acordo com o regime previsto no Decreto-Lei n.º 312/84, de 26 de Setembro;
+Considerando que, para tal efeito, foi celebrado um protocolo de colaboração entre a aludida Faculdade e o Hospital de Santa Cruz;
+Considerando, ainda, que face ao disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 312/84, de 26 de Setembro, a eficácia do referido protocolo está condicionada a homologação ministerial:
+Manda o Governo da República Portuguesa, pelos Ministros da Educação e da Saúde, homologar o protocolo de colaboração celebrado entre a Faculdade de Ciências Médicas da Universidade Nova de Lisboa e o Hospital de Santa Cruz, que segue em anexo à presente portaria.
+Ministérios da Educação e da Saúde.
+Assinada em 18 de Outubro de 1985.
+O Ministro da Educação, João de Deus Rogado Salvador Pinheiro. - O Ministro da Saúde, António Manuel Maldonado Gonelha.
+
+Protocolo entre a Faculdade de Ciências Médicas e o Hospital de Santa Cruz, de acordo com o n.º 3 do artigo 1.º do Decreto-Lei n.º 312/84, de 26 de Setembro.
+1 - O Hospital de Santa Cruz colabora com a Faculdade de Ciências Médicas nas seguintes áreas de ensino:
+Cirurgia Cardiotorácica (incluída na disciplina de Cirurgia II);
+Terapêutica Geral.
+2 - O ensino é ministrado para as cadeiras referidas respectivamente, para a Cirurgia Cardiotorácica, no serviço de cirurgia cardiotorácica e, para a Terapêutica Geral, no serviço de medicina interna.
+3 - O número de alunos a receber no Hospital de Santa Cruz é no máximo de 12 por dia, 6 alunos por disciplina, no regime de 4 dias por semana. O ensino é da responsabilidade dos directores dos respectivos serviços e dos seus colaboradores ligados à docência.
+4 - A comissão prevista na alínea d) do n.º 3 do artigo 1.º do Decreto-Lei n.º 312/84 é paritária e composta por um número de 6 elementos, 3 nomeados pelo conselho directivo da Faculdade e outros 3 pelo conselho de gerência do Hospital de Santa Cruz, ouvido o conselho médico do mesmo Hospital.
+5 - Esta comissão tem como atribuições garantir a execução deste protocolo, detectar eventuais problemas que venham a criar-se e propor soluções para os mesmos.
+6 - As despesas com o material específico do ensino ficarão a cargo da Faculdade, e as decorrentes da manutenção e conservação do mesmo serão suportadas pelo Hospital.
+7 - Considera-se desejável manter ligações mais amplas em relação ao ensino entre o Hospital de Santa Cruz e a Faculdade de Ciências Médicas, não só no que respeita ao ensino pré-graduado mas também ao pós-graduado, nas áreas que venham a revelar-se de interesse para ambas as instituições.
