@@ -1,0 +1,6 @@
+Despacho Normativo n.º 55-A/93
+Os novos regimes de ajudas no âmbito do sistema integrado de gestão e controlo foram objecto de regulamentação nacional genérica, através do Despacho Normativo n.º 32-A/93, de 8 de Março, publicado no Diário da República, n.º 59, de 11 de Março de 1993, nomeadamente quanto à fixação dos prazos e datas limite para a entrega dos pedidos de ajuda.
+As dificuldades entretanto sentidas pelos produtores na compilação de todos os elementos indispensáveis à formulação atempada das suas candidaturas ao prémio especial dos bovinos machos (1.º período) e ao prémio aos produtores de carne de ovino e caprino impõem a necessidade de uma prorrogação do prazo.
+Assim, ao abrigo do disposto no Regulamento (CEE) n.º 3508/92, do Conselho, de 27 de Novembro, e no Regulamento (CEE) n.º 3887/92, da Comissão, de 23 de Dezembro, determina-se o seguinte:
+O prazo para entrega dos pedidos de ajuda relativos ao 1.º período do prémio especial aos produtores de bovinos machos e do prémio aos produtores de carne de ovino e caprino previsto no n.º 5 do Despacho Normativo n.º 32-A/93, de 8 de Março, é, excepcionalmente, no ano de 1993, prorrogado até 30 de Abril.
+Ministério da Agricultura, 20 de Abril de 1993. - Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.
