@@ -1,0 +1,3 @@
+Despacho
+Tendo-se levantado dúvidas sobre o alcance do n.º 2 do meu despacho de 7 de Junho de 1960, publicado no Diário do Governo n.º 139, 1.ª série, de 17 de Junho de 1960, esclareço que a libertação que nele se estabelece se refere exclusivamente à distribuição dos sabões, que deixa de estar sujeita a quotas de rateio, e aos preços de venda ao consumidor, devendo, porém, ser mantidas as mesmas percentagens de lucro que estavam autorizadas, até à data do mesmo despacho, para o respectivo comércio, a partir dos preços de venda das fábricas.
+Secretaria de Estado do Comércio, 4 de Agosto de 1960. - O Secretário de Estado do Comércio, José Gonçalo da Cunha Sottomayor Correia de Oliveira.
