@@ -1,0 +1,47 @@
+# Acórdão do Supremo Tribunal de Justiça de 1989-05-24, processo 002172
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 002172
+
+**Nº Convencional:** JSTJ00013811
+
+**Relator:** LICINIO CASEIRO
+
+**Descritores:** DESPEDIMENTO NULO; REPRESENTANTE DOS TRABALHADORES; NOTIFICAÇÃO; EFEITOS; PRAZOS; PRESUNÇÃO JURIS TANTUM
+
+**Nº do Documento:** SJ198905240021724
+
+**Data do Acordão:** 05/24/1989
+
+**Votação:** UNANIMIDADE
+
+**Referência de Publicação:** BMJ N387 ANO1989 PAG447
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** NEGADA A REVISTA.
+
+**Área Temática:** DIR TRAB - CONTRAT INDIV TRAB.; DIR CIV - TEORIA GERAL.
+
+## Sumário
+
+I - A) O n. 3 do artigo 1 do Decreto-Lei n. 121/76, de
+
+11 de Fevereiro, não permite que as notificações e avisos produzam efeitos antes do terceiro dia posterior ao do registo;
+
+B) A presunção estabelecida no n. 3 do artigo 1 do referenciado diploma so pode ser ilidida pelo avisado ou notificado, provando que o facto da recepção ocorreu em data posterior a presumida e, assim, tal presunção apenas funciona quando o destinatario assina o aviso de recepção sem datar o recebimento;
+
+C) A Lei n. 78/79, de 9 de Outubro, respeitante a protecção contra o despedimento de representantes dos trabalhadores, como se extrai dos seus termos, limitou-se, quanto ao despedimento de um membro dos corpos gerentes de uma associação sindical ou de um delegado sindical, a substituir a entidade que deve pronunciar-se contra ou a favor daquela sanção disciplinar;
+
+D) O parecer aludido nos ns. 2 e 3 do artigo 1 daquela lei e o mesmo a que se reporta o n. 3 do artigo
+
+11 da Lei dos Despedimentos, com a diferença, apenas, de que a respectiva emissão cabe a outra entidade, razão pela qual o respectivo prazo e de dois dias uteis, tal como o previsto neste ultimo comando, e dai que a Lei n. 68/79 não fale em prazo pela razão de que tal seria desnecessario, uma vez que no n. 2 do seu artigo 1 se fala em processo elaborado nos termos da lei aplicavel e nesta o prazo ja esta fixado.
+
+II - A) As presunções não são propriamente meios de prova, mas processos logicos ou mentais ou afirmações que são formados em regras de experiencia;
+
+B) As mesmas presunções pressupõem a existencia de um facto conhecido, para se concluir dele e existencia de outro facto, dito presumido, servindo-se o julgador, para esse fim, das regras deduzidas da experiencia da vida.
