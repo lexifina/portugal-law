@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1949/03/06000/01790180.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1949-03-24",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "c400809356d672a9a7e697fad404c8830f2415a70aa00be0389934be3f9db1fa",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.6,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "8601fd241b199abb5cfbe3a585064dfb872282bdef63b424839f46020db4f0bd",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 639
 }
