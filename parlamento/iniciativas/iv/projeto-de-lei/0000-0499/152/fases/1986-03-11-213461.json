@@ -1,0 +1,992 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=sHIRRaZSClvqs2fgPou4a23MGhhl3X0gpgbp%2btNARhGZicYLOXPZWkruq4vVo2sWGLeVuvGAgqbFJbJwQRW44CI9tfmX%2bbWTsyeHmJUtTMccM5o%2bccvn1sCfcA%2fpd%2bu%2fwKJ%2bFD1ev4cnIw3pVnfMa%2bhzSz6cuwzZblBv5LWM36SEbL%2bBs5zO8uiZpaydxrwOvnbXHxO20Qolz2olAmCgsT1gDBlsVm7WmD5xQWyQKm1VSK31nRXYjP8b8P%2feFXtP5tOSkcyuffzIm3hAkBaoFGuUyO4s%2fkJ5BzS9ISNRC1O2ZlNJZ6At2vSnnzEc478srqvpEWstyCICdzJ0iIVMlkL18DFe0lclA2tQQF6038g%3d&fich=IniciativasIV_json.txt&Inline=true",
+  "ficheiro_sha256": "66d499906f5f48d8fdeb07035c408bad3bf810ad88e2ed743ec1b74baa57e0d7",
+  "legislatura": "IV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "152",
+    "id": "27891",
+    "titulo": "Alienação de bens do Estado em empresas públicas de comunicação social"
+  },
+  "fase": "Parecer recurso admissibilidade comissão",
+  "codigo_fase": "90",
+  "data_registo": "1986-03-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3917",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "90",
+    "Comissao": [
+      {
+        "AccId": "17424",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "1986-03-11",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": null,
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "830",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "COMISSÃO DE ASSUNTOS CONSTITUCIONAIS, DIREITOS, LIBERDADES E GARANTIAS",
+        "Numero": "830",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "1604-1605"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1986-03-11",
+            "pubLeg": "IV",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/04/01/040/1986-03-11/1604?pgs=1604-1605&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "1604-1605"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1986-03-11",
+            "pubLeg": "IV",
+            "pubNr": "40",
+            "pubSL": "1",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/04/01/040/1986-03-11/1604?pgs=1604-1605&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "1986-03-11",
+    "EvtId": "5",
+    "Fase": "Parecer recurso admissibilidade comissão",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1986-03-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3069",
+                "nome": "Reinaldo Gomes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229548",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1449-1449"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-12",
+                "pubLeg": "IV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12/1449?pgs=1449&org=PLC"
+              }
+            ],
+            "sumario": "Alienação de bens do Estado em empresas públicas de comunicação social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "105",
+                "nome": "Costa Andrade"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229549",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1449-1450"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-12",
+                "pubLeg": "IV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12/1449?pgs=1449-1450&org=PLC"
+              }
+            ],
+            "sumario": "Alienação de bens do Estado em empresas públicas de comunicação social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "49",
+                "nome": "Fernando Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229550",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1450-1450"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-12",
+                "pubLeg": "IV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12/1450?pgs=1450&org=PLC"
+              }
+            ],
+            "sumario": "Alienação de bens do Estado em empresas públicas de comunicação social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1205",
+                "nome": "António Vitorino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229551",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1450-1450"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-12",
+                "pubLeg": "IV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12/1450?pgs=1450&org=PLC"
+              }
+            ],
+            "sumario": "Alienação de bens do Estado em empresas públicas de comunicação social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "95",
+                "nome": "Licinio Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229552",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1450-1451",
+                  "1451-1451"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-12",
+                "pubLeg": "IV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12/1450?pgs=1450-1451,1451&org=PLC"
+              }
+            ],
+            "sumario": "Alienação de bens do Estado em empresas públicas de comunicação social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "2984",
+                "nome": "Francisco Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229553",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1451-1451"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-12",
+                "pubLeg": "IV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12/1451?pgs=1451&org=PLC"
+              }
+            ],
+            "sumario": "Alienação de bens do Estado em empresas públicas de comunicação social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "49",
+                "nome": "Fernando Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1451-1451"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-12",
+                "pubLeg": "IV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12/1451?pgs=1451&org=PLC"
+              }
+            ],
+            "sumario": "Alienação de bens do Estado em empresas públicas de comunicação social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3017",
+                "nome": "José Luís Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229555",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1451-1452",
+                  "1453-1453",
+                  "1453-1453",
+                  "1454-1454",
+                  "1454-1454"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-12",
+                "pubLeg": "IV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12/1451?pgs=1451-1452,1453,1453,1454,1454&org=PLC"
+              }
+            ],
+            "sumario": "Alienação de bens do Estado em empresas públicas de comunicação social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "105",
+                "nome": "Costa Andrade"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229556",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1452-1453"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-12",
+                "pubLeg": "IV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12/1452?pgs=1452-1453&org=PLC"
+              }
+            ],
+            "sumario": "Alienação de bens do Estado em empresas públicas de comunicação social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "48",
+                "nome": "Correia Afonso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229557",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1453-1453",
+                  "1453-1453",
+                  "1454-1454",
+                  "1454-1454"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-12",
+                "pubLeg": "IV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12/1453?pgs=1453,1453,1454,1454&org=PLC"
+              }
+            ],
+            "sumario": "Alienação de bens do Estado em empresas públicas de comunicação social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "3149",
+                "nome": "Andrade Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229558",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1455-1456"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-12",
+                "pubLeg": "IV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12/1455?pgs=1455-1456&org=PLC"
+              }
+            ],
+            "sumario": "Alienação de bens do Estado em empresas públicas de comunicação social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "4788",
+                "nome": "Magalhães Mota"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229559",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1456-1457",
+                  "1457-1457",
+                  "1458-1458"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-12",
+                "pubLeg": "IV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12/1456?pgs=1456-1457,1457,1458&org=PLC"
+              }
+            ],
+            "sumario": "Alienação de bens do Estado em empresas públicas de comunicação social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "48",
+                "nome": "Correia Afonso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229561",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1457-1457",
+                  "1457-1457"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-12",
+                "pubLeg": "IV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12/1457?pgs=1457,1457&org=PLC"
+              }
+            ],
+            "sumario": "Alienação de bens do Estado em empresas públicas de comunicação social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3007",
+                "nome": "Jorge Lemos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229562",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1458-1459",
+                  "1460-1460"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-12",
+                "pubLeg": "IV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12/1458?pgs=1458-1459,1460&org=PLC"
+              }
+            ],
+            "sumario": "Alienação de bens do Estado em empresas públicas de comunicação social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "48",
+                "nome": "Correia Afonso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229563",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1459-1460"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-12",
+                "pubLeg": "IV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12/1459?pgs=1459-1460&org=PLC"
+              }
+            ],
+            "sumario": "Alienação de bens do Estado em empresas públicas de comunicação social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "48",
+                "nome": "Correia Afonso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229565",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1460-1460"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-12",
+                "pubLeg": "IV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12/1460?pgs=1460&org=PLC"
+              }
+            ],
+            "sumario": "Alienação de bens do Estado em empresas públicas de comunicação social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3007",
+                "nome": "Jorge Lemos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229566",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1461-1461"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-03-12",
+                "pubLeg": "IV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12/1461?pgs=1461&org=PLC"
+              }
+            ],
+            "sumario": "Alienação de bens do Estado em empresas públicas de comunicação social",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "213461",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3917",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1986-03-12",
+        "pubLeg": "IV",
+        "pubNr": "43",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/043/1986-03-12?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": [
+      "PSD"
+    ],
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
