@@ -1,0 +1,4 @@
+Aviso
+Por aviso publicado no Diário da República, 1.ª série, n.º 180, de 6 de Agosto de 1982, foi tornado público que a Subcomissão de Expropriação, Servidões e Ocupações Temporárias da Comissão Luso-Espanhola para Regular o Uso e Aproveitamento dos Rios Internacionais nas Suas Zonas Fronteiriças (Delegação Portuguesa) havia decidido pela necessidade de ocupação dos terrenos abrangidos pelas obras de aproveitamento do rio Chança.
+Para os devidos efeitos, torna-se igualmente público que a Confederación Hidrográfica del Guadiana é a entidade expropriante relativamente às ocupações necessárias às obras do aproveitamento hidrográfico do troço internacional do rio Chança.
+Direcção-Geral dos Negócios Económicos, 9 de Março de 1983. - O Presidente da Delegação Portuguesa da Comissão Luso-Espanhola para Regular o Uso e Aproveitamento dos Rios Internacionais nas Suas Zonas Fronteiriças, Carlos Alberto Empis Wemans.
