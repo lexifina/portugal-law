@@ -1,0 +1,21 @@
+Decreto-Lei n.º 607/74
+de 12 de Novembro
+Considerando que algumas das disposições do Decreto-Lei n.º 410/74, de 5 de Setembro, poderiam originar a criação de situações de injustiça que se entende deverem ser evitadas, reconheceu-se necessário dar nova redacção aos artigos 1.º, n.º 1, 4.º e 6.º daquele diploma, fixando-se ainda a data da sua entrada em vigor no dia 1 de Dezembro de 1974.
+Nestes termos:
+Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Os artigos 1.º, n.º 1, 4.º e 6.º do Decreto-Lei n.º 410/74, de 5 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º - 1. O quantitativo mensal recebido a título de pensões de reforma ou de invalidez ou a qualquer outro título relativo à cessação da prestação do trabalho não pode, em caso algum, exceder o vencimento mensal legalmente fixado para o cargo de Ministro.
+2. ...
+...
+Art. 4.º O preceituado neste diploma é aplicado às pensões em curso sempre que o seu valor ultrapasse o limite fixado no artigo 1.º ou o seu cálculo não obedeça às normas fixadas no artigo anterior.
+...
+Art. 6.º - 1. Os pensionistas que recebam de instituições de previdência ou empresas referidas no artigo 2.º pensões que, somadas a proventos resultantes do exercício de actividades profissionais remuneradas, excedam o vencimento mensal legalmente fixado para o cargo de Ministro perdem, enquanto esta acumulação se verificar, o direito ao quantitativo das pensões na parte em que seja excedido aquele limite.
+2. O quantitativo das pensões devidas pelas empresas referidas no artigo 2.º, na parte em que exceda o limite fixado no número anterior, reverte para a Caixa Nacional de Pensões e será afectado ao respectivo fundo de reserva.
+3. Os pensionistas que iniciem o exercício de actividades profissionais remuneradas ou cujos rendimentos provenientes dessas actividades sejam alterados deverão apresentar às entidades que lhes pagam as respectivas pensões a declaração desses factos, comunicando também o montante das retribuições que passam a auferir, confirmada pela entidade patronal, até ao fim do mês em que ocorrerem.
+4. Os pensionistas que exerçam actividades profissionais remuneradas à data da entrada em vigor do presente diploma deverão apresentar a declaração referida no número anterior até ao fim do mês de Dezembro de 1974.
+Art. 2.º - 1. O Decreto-Lei n.º 410/74, de 5 de Setembro, e o presente diploma consideram-se em vigor a partir do dia 1 de Dezembro de 1974.
+2. Fica revogado o artigo 9.º do Decreto-Lei n.º 410/74, de 5 de Setembro.
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Maria de Lourdes Pintasilgo.
+Promulgado em 16 de Outubro de 1974.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
