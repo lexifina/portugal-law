@@ -1,0 +1,34 @@
+Decreto-Lei n.º 259/88
+de 23 de Julho
+Considerando que, nos termos da Resolução da Assembleia da República n.º 12-A/88, de 26 de Maio, publicada no Diário da República, 1.ª série, n.º 122, de 26 de Maio de 1988, foi aprovada, para ratificação, a Convenção Constitutiva da Agência Multilateral de Garantia dos Investimentos (MIGA);
+Considerando que a referida Convenção foi ratificada pelo Decreto do Presidente da República n.º 51/88, de 26 de Maio;
+Considerando que se torna indispensável dispor de um instrumento legal que regule o cumprimento dos requisitos inerentes à adesão:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - A participação de Portugal na Agência Multilateral de Garantia dos Investimentos (MIGA) é efectuada mediante a subscrição de 382 acções, no montante de 3,82 milhões de DSE, equivalentes a 4,13324 milhões de dólares EUA.
+2 - 10% do valor de cada acção serão realizados em espécie, 25% dos quais em escudos, e outros 10% serão realizados através do depósito de notas promissórias resgatáveis de acordo com as obrigações da Agência.
+Art. 2.º Caberá ao Ministro das Finanças representar o Governo perante a MIGA, nomeadamente no que se refere ao depósito dos instrumentos de adesão à Agência.
+Art. 3.º A Companhia de Seguros de Créditos, E. P., será, de harmonia com a alínea a) do artigo 38.º do capítulo V da Convenção da MIGA, a entidade oficial designada para assegurar a ligação com a Agência.
+Art. 4.º O Banco de Portugal será, de harmonia com o artigo 37.º do capítulo v da Convenção da MIGA, o depositário dos haveres em escudos e de outros bens desta Agência.
+Art. 5.º O governador e o governador substituto por parte de Portugal na MIGA serão nomeados pelo Ministro das Finanças.
+Art. 6.º Em conformidade com o disposto no artigo 43.º do capítulo VII da Convenção da MIGA, terá aquela instituição, em todo o território da República Portuguesa, personalidade e capacidade jurídicas e beneficiará das imunidades, isenções e privilégios estabelecidos naquele capítulo.
+Art. 7.º Os governadores e os administradores, bem como os respectivos substitutos, o presidente e os funcionários da MIGA que não sejam de nacionalidade portuguesa gozarão em todo o território da República Portuguesa das imunidades e privilégios referidos no artigo 48.º do capítulo VII da Convenção da MIGA.
+Art. 8.º O pagamento da subscrição das acções realizadas será efectuado 90 dias após a data do depósito dos instrumentos de adesão à MIGA por parte de Portugal.
+Art. 9.º Em representação do Governo, fica o Ministro das Finanças autorizado:
+a) A inscrever no Orçamento do Estado as verbas que forem necessárias para acorrer aos encargos inerentes à sua participação na MIGA;
+b) A emitir os títulos de obrigação, que assumirão a forma de promissória, conforme previsto na alínea i) do artigo 7.º do capítulo II da Convenção da MIGA;
+c) A praticar todos os demais actos necessários para a concretização da adesão do Estado Português à Convenção da MIGA.
+Art. 10.º Da promissória mencionada no artigo precedente, cujo serviço de emissão ficará a cargo da Junta do Crédito Público, constarão os seguintes elementos:
+a) O número de ordem;
+b) O capital nela representado;
+c) A data de emissão;
+d) Os diplomas que autorizam a emissão;
+e) Os direitos, isenções e garantias de que goza e que são os dos restantes títulos da dívida pública que lhe forem aplicáveis.
+Art. 11.º A promissória será assinada por chancela do Secretário de Estado do Tesouro e pelo presidente da Junta do Crédito Público, levando também a assinatura autógrafa de um dos vogais e o selo branco da mesma Junta.
+Art. 12.º As disposições do presente diploma são aplicáveis a outras promissórias que, se se revelar necessário, venham a ser emitidas em representação do saldo pendente resultante do pagamento parcial das promissórias emitidas.
+Art. 13.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 16 de Junho de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro- Joaquim Martins Ferreira do Amaral.
+Promulgado em 8 de Julho de 1988.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 11 de Julho de 1988.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
