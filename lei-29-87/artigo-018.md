@@ -13,3 +13,5 @@
 a) Contem mais de 60 anos de idade e 20 anos de serviço;
 
 b) Reúnam 30 anos de serviço, independentemente da respectiva idade.
+
+5 - Para efeitos de cumprimento das condições previstas no número anterior, ter-se-á igualmente em conta o exercício de actividades profissionais posteriores à cessação do mandato dos eleitos locais, reportando-se o cálculo da aposentação aos descontos feitos à data do facto determinante da aposentação ou da reforma.

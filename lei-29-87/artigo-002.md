@@ -6,7 +6,9 @@
 
 a) Presidentes das câmaras municipais;
 
-b) Vereadores, em número e nas condições previstos na lei.
+b) Vereadores, em número e nas condições previstos na lei;
+
+c) Membros das juntas de freguesia em regime de tempo inteiro.
 
 2 - A câmara municipal poderá optar pela existência de vereadores em regime de meio tempo, correspondendo dois vereadores em regime de meio tempo a um vereador em regime de permanência.
 

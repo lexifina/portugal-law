@@ -1,5 +1,5 @@
 # Artigo 8.º
 
-### Remunerações dos vereadores em regime de meio tempo
+### Remunerações dos eleitos locais em regime de meio tempo
 
-Os vereadores em regime de meio tempo têm direito a metade das remunerações e subsídios fixados no n.º 3 do artigo 6.º
+Os eleitos locais em regime de meio tempo têm direito a metade das remunerações e subsídios fixados para os respectivos cargos em regime de tempo inteiro.
