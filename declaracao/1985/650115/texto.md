@@ -1,0 +1,6 @@
+Declaração
+Segundo comunicação do Ministério das Finanças e do Plano, a Portaria n.º 334/85, publicada no Diário da República, 1.ª série, n.º 126, de 1 de Junho de 1985, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Na p. 1495, onde se lê «Mestre de 1.ª classe do extinto agrupamento do serviço de material da Região Militar de Angola - Encarregado geral de pessoal operário qualificado - J» deve ler-se «Mestre de 1.ª classe do extinto agrupamento do serviço de material da Região Militar de Angola - Encarregado geral de pessoal operário qualificado - I».
+Na p. 1495, onde se lê «Mestre de guarda prisional - Encarregado geral de pessoal operário qualificado - J» deve ler-se «Mestre de guarda prisional - Encarregado de pessoal operário qualificado - J».
+Na p. 1495, onde se lê «Mestre do quadro único do corpo da guarda prisional de Angola - Encarregado geral do pessoal operário qualificado - J» deve ler-se «Mestre do quadro único do corpo da guarda prisional de Angola - Encarregado de pessoal operário qualificado - J».
+Secretaria-Geral da Presidência do Conselho de Ministros, 3 de Julho de 1985. - O Secretário-Geral, França Martins.
