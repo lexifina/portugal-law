@@ -1,0 +1,48 @@
+Portaria n.º 144/84
+de 10 de Março
+Sob proposta do conselho científico da Faculdade de Ciências e Tecnologia da Universidade de Coimbra;
+Ao abrigo do disposto no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:
+1.º
+(Organização dos cursos)
+A Universidade de Coimbra, através da Faculdade de Ciências e Tecnologia, confere, na área da Engenharia, o grau de licenciado em:
+a) Engenharia Civil;
+b) Engenharia Electrotécnica, nos ramos de:
+I) Correntes Fortes;
+II) Correntes Fracas;
+III) Informática;
+c) Engenharia Geográfica;
+d) Engenharia Geológica;
+e) Engenharia Mecânica, nos ramos de:
+I) Produção;
+II) Termodinâmica e Fluidos;
+f) Engenharia de Minas;
+g) Engenharia Química.
+2.º
+(Planos de estudo)
+Os planos de estudo dos cursos conducentes às licenciaturas a que se refere o n.º 1.º são os constantes dos anexos I a VII da presente portaria.
+3.º
+(Disciplinas de opção)
+1 - O elenco de disciplinas de opção será fixado anualmente pelo conselho científico.
+2 - O conselho científico fixará o número máximo de alunos a admitir à inscrição nas disciplinas de opção.
+3 - O número mínimo de alunos a admitir à inscrição em cada disciplina de opção é de 10.
+4 - Exceptuam-se do disposto no n.º 3 os casos em que:
+a) O docente assegure a regência da disciplina a título gratuito;
+b) O docente assegure a regência da disciplina para além do número máximo de horas de serviço de aulas e seminários a que é obrigado por lei;
+c) Não existindo outro serviço para distribuir ao docente, este complete com a regência da disciplina o número de horas de ensino que por lei deva assegurar.
+4.º
+(Precedências)
+A tabela e o regime de precedências são fixados pelo conselho científico, ouvidos os respectivos conselhos de departamento, de secção autónoma ou de estabelecimento anexo.
+5.º
+(Classificação final)
+1 - A classificação final do curso é a média aritmética ponderada arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas) das classificações das disciplinas que integram o plano de estudos.
+2 - Os coeficientes de ponderação são fixados pelo conselho científico, ouvidos os respectivos conselhos de departamento, de secção autónoma ou de estabelecimento anexo.
+6.º
+(Transição)
+Cabe ao conselho científico, ouvido o correspondente conselho de departamento, de secção autónoma ou de estabelecimento anexo, tomar as providências necessárias para assegurar a transição entre os planos de estudo actualmente em vigor e os fixados nos termos do presente diploma.
+Ministério da Educação.
+Assinada em 6 de Fevereiro de 1984.
+O Ministro da Educação, José Augusto Seabra.
+
+Do ANEXO I ao ANEXO VII
+(ver documento original)
