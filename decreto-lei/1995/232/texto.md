@@ -1,0 +1,22 @@
+Decreto-Lei n.º 232/95
+de 12 de Setembro
+Em 1893 foi inaugurado no Porto o primeiro hospital para doentes mentais, o Hospital do Conde de Ferreira.
+O Hospital do Conde de Ferreira foi construído e integrou o património da Santa Casa da Misericórdia do Porto, por força da execução do testamento de 1886 de Joaquim Ferreira dos Santos - conde de Ferreira -, no qual se determinava a construção de um grande hospital para recolha e tratamento de alienados. O testamento determinava igualmente que, para além da construção, se deveria proceder ao apetrechamento mobiliário e técnico da nova unidade.
+Este Hospital foi gerido pela Santa Casa da Misericórdia do Porto até à entrada em vigor do Decreto-Lei n.º 704/74, de 7 de Dezembro, segundo o qual os hospitais centrais e distritais pertencentes a pessoas colectivas de utilidade pública administrativa passaram a ser administrados pelo Estado, ficando o Hospital do Conde de Ferreira a ser gerido por uma comissão nomeada pelo Secretário de Estado da Saúde, mas mantendo a Santa Casa da Misericórdia do Porto a propriedade dos edifícios.
+A Lei de Bases da Saúde e o novo estatuto do Serviço Nacional de Saúde reconheceram às instituições particulares de solidariedade social com objectivos específicos de saúde um papel privilegiado na articulação e cooperação com o Serviço Nacional de Saúde, com vista ao maior aproveitamento dos recursos disponíveis.
+A Santa Casa da Misericórdia do Porto tem desenvolvido uma acção especialmente meritória na área da saúde, o que, após um trabalho exaustivo de análise e definição de linhas de orientação, justifica a devolução do Hospital do Conde de Ferreira àquela instituição particular de solidariedade social, na certeza de que se manterá o prestígio e o avanço técnico e científico que lhe é reconhecido.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º A Santa Casa da Misericórdia do Porto retoma a gestão do Hospital do Conde de Ferreira, passando a sua administração a reger-se em todos os aspectos do seu funcionamento pela legislação aplicável àquela instituição.
+Art. 2.º - 1 - O Hospital do Conde de Ferreira, integrado na rede nacional de prestação de cuidados de saúde e subordinado aos princípios orientadores da sua actividade, continuará afecto à área de saúde mental, podendo diversificar a sua actividade, designadamente através do estabelecimento de protocolos com instituições e serviços do Serviço Nacional de Saúde.
+2 - A assunção da responsabilidade pela prestação de cuidados de saúde efectiva-se, de forma progressiva, em complementaridade com os serviços de saúde mental públicos e em articulação com os restantes serviços de saúde, a fim de garantir a continuidade de cuidados.
+Art. 3.º - 1 - Aos funcionários e agentes que à data de entrada em vigor do presente diploma pertençam ao quadro do Hospital do Conde de Ferreira é permitida a contratação pela Santa Casa da Misericórdia do Porto ao abrigo do disposto nos artigos 21.º e 22.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de Janeiro, considerando-se vinculados à coordenação sub-regional do Porto da Administração Regional de Saúde do Norte e ao Hospital de Magalhães Lemos, sem prejuízo do disposto no n.º 2 do artigo 24.º e na alínea b) do artigo 25.º do Decreto-Lei n.º 128/92, de 4 de Julho.
+2 - Os funcionários e agentes não abrangidos pelo disposto no número anterior transitam, nos termos da lei geral, para os quadros da coordenação sub-regional do Porto da Administração Regional de Saúde do Norte e do Hospital de Magalhães Lemos.
+3 - O pessoal que se encontre a prestar serviço no Hospital do Conde de Ferreira na situação de destacamento ou de requisição deve regressar, na data da entrada em vigor do presente diploma, ao serviço de origem.
+Art. 4.º São revogados o despacho do Secretário de Estado da Saúde de 9 de Dezembro de 1975, publicado no Diário da República, 2.ª série, de 30 de Dezembro de 1975, e a Portaria n.º 637/80, de 16 de Setembro, com as alterações subsequentes.
+Visto e aprovado em Conselho de Ministros de 6 de Julho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Adalberto Paulo da Fonseca Mendo.
+Promulgado em 28 de Julho de 1995.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 3 de Agosto de 1995.
+Pelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna.
