@@ -1,0 +1,6 @@
+Despacho Normativo n.º 191/93
+Considerando que o chefe de projectos Carlos Manuel Correia Afonso Condado, que se encontra a desempenhar estas funções em comissão de serviço desde 27 de Abril de 1982 e que tomou posse em 27 de Novembro de 1989 do lugar de assessor informático, de nomeação definitiva, do quadro de pessoal deste Instituto, requereu ao abrigo do n.º 7 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, com a redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, a criação de um lugar de assessor informático principal e reúne os requisitos necessários;
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro e nos n.os 6 e 8 do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção dada pelo artigo 1.º daquele diploma:
+Determina-se o seguinte:
+É criado no quadro de pessoal do Instituto de Informática, aprovado pelo Decreto Regulamentar n.º 71-G/79, de 29 de Dezembro, e alterado pelas Portarias n.os 753/87, de 2 de Setembro, 851/89, de 29 de Setembro, 864/91, de 21 de Agosto, e 337/93, de 22 de Março, um lugar de assessor informático principal, a extinguir quando vagar.
+Ministério das Finanças, 8 de Julho de 1993. - A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite.
