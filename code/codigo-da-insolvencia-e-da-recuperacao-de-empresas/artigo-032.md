@@ -1,0 +1,9 @@
+# Artigo 32.º
+
+### Escolha e remuneração do administrador judicial provisório
+
+1 - A escolha do administrador judicial provisório recai em entidade inscrita na lista oficial de administradores da insolvência, tendo o juiz em conta a proposta eventualmente feita na petição inicial.
+
+2 - O administrador judicial provisório manter-se-á em funções até que seja proferida a sentença, sem prejuízo da possibilidade da sua substituição ou remoção em momento anterior, ou da sua recondução como administrador da insolvência.
+
+3 - A remuneração do administrador judicial provisório é fixada pelo juiz, na própria decisão de nomeação ou posteriormente, e constitui, juntamente com as despesas em que ele incorra no exercício das suas funções, um encargo compreendido nas custas do processo, que é suportado pelo Cofre Geral dos Tribunais na medida em que, sendo as custas da responsabilidade da massa, não puder ser satisfeito pelas forças desta.
