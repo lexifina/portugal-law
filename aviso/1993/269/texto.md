@@ -1,0 +1,3 @@
+Aviso n.º 269/93
+Por ordem superior se torna público que a Federação Russa e o Azerbeijão depositaram junto do Secretário-Geral das Nações Unidas, a 2 e 12 de Fevereiro de 1993, respectivamente, o instrumento de adesão à Convenção Relativa ao Estatuto dos Refugiados, assinada em Genebra, em 28 de Julho de 1951, e ao Protocolo Relativo ao Estatuto dos Refugiados, concluído em Nova Iorque, em 31 de Janeiro de 1967, e que a República Eslovaca depositou, em 4 de Fevereiro de 1993, notificação de sucessão relativamente à Convenção e ao Protocolo acima referidos.
+Direcção-Geral dos Negócios Político-Económicos, 24 de Novembro de 1993. - O Director de Serviços dos Assuntos Multilaterais, António Raul Freitas Monteiro Portugal.
