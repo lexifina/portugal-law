@@ -1,0 +1,407 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=sHIRRaZSClvqs2fgPou4a23MGhhl3X0gpgbp%2btNARhGZicYLOXPZWkruq4vVo2sWGLeVuvGAgqbFJbJwQRW44CI9tfmX%2bbWTsyeHmJUtTMccM5o%2bccvn1sCfcA%2fpd%2bu%2fwKJ%2bFD1ev4cnIw3pVnfMa%2bhzSz6cuwzZblBv5LWM36SEbL%2bBs5zO8uiZpaydxrwOvnbXHxO20Qolz2olAmCgsT1gDBlsVm7WmD5xQWyQKm1VSK31nRXYjP8b8P%2feFXtP5tOSkcyuffzIm3hAkBaoFGuUyO4s%2fkJ5BzS9ISNRC1O2ZlNJZ6At2vSnnzEc478srqvpEWstyCICdzJ0iIVMlkL18DFe0lclA2tQQF6038g%3d&fich=IniciativasIV_json.txt&Inline=true",
+  "ficheiro_sha256": "66d499906f5f48d8fdeb07035c408bad3bf810ad88e2ed743ec1b74baa57e0d7",
+  "legislatura": "IV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "3",
+    "id": "27551",
+    "titulo": "Criação de uma comissão eventual para as comemorações do septuagésimo quinto aniversário da Assembleia Constituinte e da Constituição de 1911"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1985-11-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3877",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1985-11-21",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1985-11-21",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3043",
+                "nome": "Manuel Tito de Morais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227333",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "248-249"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-11-22",
+                "pubLeg": "IV",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/008/1985-11-22/248?pgs=248-249&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma comissão eventual para as comemorações do septuagésimo quinto aniversário da Assembleia Constituinte e da Constituição de 1911",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3020",
+                "nome": "José Manuel Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227334",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "249-249"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-11-22",
+                "pubLeg": "IV",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/008/1985-11-22/249?pgs=249&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma comissão eventual para as comemorações do septuagésimo quinto aniversário da Assembleia Constituinte e da Constituição de 1911",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "589",
+                "nome": "Luís Beiroco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227335",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "249-250"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-11-22",
+                "pubLeg": "IV",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/008/1985-11-22/249?pgs=249-250&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma comissão eventual para as comemorações do septuagésimo quinto aniversário da Assembleia Constituinte e da Constituição de 1911",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "3080",
+                "nome": "Vasco da Gama Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227336",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "250-251"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-11-22",
+                "pubLeg": "IV",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/008/1985-11-22/250?pgs=250-251&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma comissão eventual para as comemorações do septuagésimo quinto aniversário da Assembleia Constituinte e da Constituição de 1911",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "MDP/CDE",
+                "idCadastro": "568",
+                "nome": "Raul Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227337",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "251-252"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-11-22",
+                "pubLeg": "IV",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/008/1985-11-22/251?pgs=251-252&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma comissão eventual para as comemorações do septuagésimo quinto aniversário da Assembleia Constituinte e da Constituição de 1911",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "1627",
+                "nome": "Maria Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227338",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "252-252"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-11-22",
+                "pubLeg": "IV",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/008/1985-11-22/252?pgs=252&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma comissão eventual para as comemorações do septuagésimo quinto aniversário da Assembleia Constituinte e da Constituição de 1911",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "313",
+                "nome": "Mário Montalvão Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227339",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "252-252"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-11-22",
+                "pubLeg": "IV",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/008/1985-11-22/252?pgs=252&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma comissão eventual para as comemorações do septuagésimo quinto aniversário da Assembleia Constituinte e da Constituição de 1911",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "211075",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3877",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1985-11-22",
+        "pubLeg": "IV",
+        "pubNr": "8",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/008/1985-11-22?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
