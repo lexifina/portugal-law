@@ -1,0 +1,7 @@
+Portaria n.º 94/81
+de 22 de Janeiro
+Considerando que no mapa de equivalências anexo à Portaria n.º 711/78, de 6 de Dezembro, que criou o quadro paralelo da Direcção-Geral dos Serviços Judiciários, com as alterações introduzidas pela Portaria n.º 530/79, de 3 de Outubro, não foi prevista a categoria de distribuidor-geral;
+Considerando que a Lei n.º 35/80, de 29 de Julho, alterou vários artigos do Decreto-Lei n.º 450/78, de 30 de Dezembro, que reestruturou as secretarias judiciais e as carreiras dos funcionários de justiça:
+Manda o Governo da República Portuguesa, pelo Ministro da Justiça e pelos Secretários de Estado da Reforma Administrativa e do Orçamento, com base nos artigos 13.º e 41.º do Decreto-Lei n.º 294/76, de 24 de Abril, o seguinte:
+Único. No mapa de equivalências anexo à Portaria n.º 530/79, de 3 de Outubro, é incluída, na coluna correspondente aos territórios descolonizados, a categoria de distribuidor-geral, com a letra F da tabela de vencimentos do funcionalismo público, a qual é equiparada, para efeitos de integração no quadro paralelo da Direcção-Geral dos Serviços Judiciários, à categoria de secretário judicial, letra E.
+Presidência do Conselho de Ministros e Ministérios da Justiça e das Finanças e do Plano, 9 de Janeiro de 1981. - O Ministro da Justiça, Mário Ferreira Bastos Raposo. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo. - O Secretário de Estado do Orçamento, António Jorge de Figueiredo Lopes.
