@@ -1,0 +1,65 @@
+Portaria n.º 472/83
+de 22 de Abril
+De harmonia com o disposto no n.º 1 do artigo 2.º do Decreto-Lei n.º 519-A1/79, de 29 de Dezembro, sempre que em cada concelho seja criada mais de uma repartição de finanças, deve existir a correspondente tesouraria da Fazenda Pública.
+Em conformidade com o n.º 1 do artigo 3.º do mesmo decreto-lei, mediante portaria do Ministro de Estado e das Finanças e do Plano, sob proposta da Direcção-Geral do Tesouro, deverá proceder-se ao desdobramento das tesourarias da Fazenda Pública sempre que idêntico procedimento seja adoptado em relação às correspondentes repartições de finanças.
+Pela Portaria n.º 267/83, de 9 de Março, foram desdobradas e elevadas de categoria diversas repartições de finanças, pelo que idêntico procedimento terá de ser adoptado em relação às tesourarias da Fazenda Pública respectivas.
+Por outro lado, os quadros de pessoal das tesourarias da Fazenda Pública dos bairros fiscais de Lisboa e Porto necessitavam de uma correcção em conformidade com o volume do serviço que sobre elas recai, o que em parte foi conseguido com a extinção da tesouraria da Fazenda Pública junto da Repartição Central do Imposto Complementar.
+Nestes termos, e em execução do disposto nos artigos 2.º e 3.º do Decreto-Lei n.º 519-A1/79, de 29 de Dezembro:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Tesouro, o seguinte:
+1.º As tesourarias da Fazenda Pública dos concelhos a seguir mencionados são elevadas à 1.ª classe:
+Câmara de Lobos, Lagoa (Açores), Lourinhã, Machico, Madalena, Marco de Canaveses, Montemor-o-Velho, Odemira, Vila da Praia da Vitória, Santa Cruz e Vila Verde.
+2.º As tesourarias da Fazenda Pública dos concelhos que se seguem são elevadas à 2.ª classe:
+Lajes do Pico, Miranda do Corvo, Mogadouro, Moimenta da Beira, Ponta do Sol, Porto Santo, Povoação, Ribeira Brava, Santa Cruz das Flores, Santa Cruz da Graciosa, Santana, São Roque do Pico, Velas, Vila Franca, do Campo e Vila do Porto.
+3.º A Tesouraria da Fazenda Pública do Concelho de Águeda é desdobrada em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+4.º A Tesouraria da Fazenda Pública do Concelho de Alcobaça é desdobrada em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+5.º A Tesouraria da Fazenda Pública do Concelho de Barcelos é desdobrada em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+6.º As 2 Tesourarias da Fazenda Pública do Concelho de Braga são desdobradas em 3 tesourarias, a designar como 1.ª, 2.ª e 3.ª Tesourarias
+7.º A Tesouraria da Fazenda Pública do Concelho de Castelo Branco é desdobarda em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+8.º As 2 Tesourarias da Fazenda Pública do Concelho de Coimbra são desdobradas em 3 tesourarias, a designar como 1.ª, 2.ª e 3.ª Tesourarias.
+9.º A Tesouraria da Fazenda Pública do Concelho da Covilhã é desdobrada em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+10.º A Tesouraria da Fazenda Pública do Concelho de Évora é desdobrada em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+11.º A Tesouraria da Fazenda Pública do Concelho de Faro é desdobrada em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+12.º As 2 Tesourarias da Fazenda Pública do Concelho da Feira são desdobradas em 3 tesourarias, a designar como 1.ª, 2.ª e 3.ª Tesourarias.
+13.º A Tesouraria da Fazenda Pública do Concelho da Figueira da Foz é desdobrada em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+14.º A Tesouraria da Fazenda Pública do Concelho do Funchal é desdobrada em 3 tesourarias, a designar como 1.ª, 2.ª e 3.ª Tesourarias.
+15.º As 2 Tesourarias da Fazenda Pública do Concelho de Gondomar são desdobradas em 3 tesourarias, a designar como 1.ª 2.ª e 3.ª Tesourarias.
+16.º A Tesouraria da Fazenda Pública do Concelho de Loulé é desdobrada em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+17.º As 4 Tesourarias da Fazenda Pública do Concelho de Loures são desdobradas em 5 tesourarias, a designar como 1.ª, 2.ª, 3.ª, 4.ª e 5.ª Tesourarias.
+18.º As 2 Tesourarias da Fazenda Pública de Matosinhos são desdobradas em 3 tesourarias, a designar como 1.ª, 2.ª e 3.ª Tesourarias.
+19.º A Tesouraria da Fazenda Pública do Concelho da Moita é desdobrada em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+20.º A Tesouraria da Fazenda Pública do Concelho de Oliveira de Azeméis é desdobrada em 3 tesourarias, a designar como 1.ª, 2.ª e 3.ª Tesourarias.
+21.º A Tesouraria da Fazenda Pública do Concelho de Ovar é dividida em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+22.º A Tesouraria da Fazenda Pública do Concelho de Palmela é dividida em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+23.º A Tesouraria da Fazenda Pública do Concelho de Paredes é dividida em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+24.º A Tesouraria da Fazenda Pública do Concelho de Pombal é dividida em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+25.º A Tesouraria da Fazenda Pública do Concelho de Ponta Delgada é dividida em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+26.º A Tesouraria da Fazenda Pública do Concelho de Portimão é dividida em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+27.º A Tesouraria da Fazenda Pública do Concelho de Santarém é dividida em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+28.º As 2 Tesourarias da Fazenda Pública do Concelho do Seixal são divididas em 3 tesourarias, a designar como 1.ª, 2.ª e 3.ª Tesourarias.
+29.º As 2 Tesourarias da Fazenda Pública do Concelho de Setúbal são divididas em 3 tesourarias, a designar como 1.ª 2.ª e 3.ª Tesourarias.
+30.º A Tesouraria da Fazenda Pública do Concelho de Torres Vedras é dividida em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+31.º A Tesouraria da Fazenda Pública do Concelho de Viana do Castelo é dividida em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+32.º A Tesouraria da Fazenda Pública do Concelho de Vila do Conde é dividida em 2 tesourarias, a designar como 1.ª e 2.ª Tesourarias.
+33.º As 2 Tesourarias da Fazenda Pública do Concelho de Vila Franca de Xira são divididas em 3 tesourarias, a designar como 1.ª, 2.ª e 3.ª Tesourarias.
+34.º As 4 Tesourarias da Fazenda Pública do Concelho de Vila Nova de Gaia são divididas em 5 tesourarias, a designar como 1.ª, 2.ª, 3.ª, 4.ª e 5.ª Tesourarias.
+35.º - 1 - A Tesouraria da Fazenda Pública junto da Repartição Central do Imposto Complementar é extinta, transitando os serviços da sua competência para as tesourarias da Fazenda Pública dos respectivos bairros fiscais.
+2 - Os funcionários e agentes colocados naquela Tesouraria da Fazenda Pública têm preferência absoluta sobre os funcionários das demais tesourarias, nos pedidos de transferência a efectuar no prazo de 30 dias, a contar da publicação desta portaria, para as tesourarias da Fazenda Pública dos bairros fiscais de Lisboa.
+3 - A desactivação e consequente transferência de competência para os respectivos bairros fiscais efectivar-se-á nos termos e prazo a estabelecer por despacho do director-geral do Tesouro.
+36.º As tesourarias da Fazenda Pública agora criadas têm competência plena em relação às áreas correspondentes às respectivas repartições de finanças.
+37.º Todas as tesourarias da Fazenda Pública resultantes dos desdobramentos referidos nesta portaria são de 1.ª classe.
+38.º A entrada em funcionamento das novas tesourarias, desdobramento das já existentes, será estabelecida por despacho do Ministro de Estado e das Finanças e do Plano, mediante proposta da Direcção-Geral do Tesouro, ouvida a Direcção-Geral das Contribuições e Impostos.
+39.º - 1 - Por despacho do director-geral do Tesouro poderá ser alterada a contingentação do pessoal técnico-exactor das tesourarias da Fazenda Pública que funcionam ou venham a funcionar no mesmo concelho, sempre que daí advenha interesse para o normal funcionamento dos serviços.
+2 - Da alteração referida no número anterior não poderá resultar aumento ou diminuição da contingentação global das tesourarias existentes no mesmo concelho.
+40.º O quadro do pessoal das tesourarias da Fazenda Pública é alterado de acordo com o mapa I anexo ao presente diploma.
+41.º O quadro geral do pessoal das tesourarias da Fazenda Pública, aprovado pelo Decreto-Lei n.º 519-A1/79, de 29 de Dezembro, e pela Portaria n.º 201/81, de 21 de Fevereiro, com as alterações introduzidas pelas Portarias n.os 756/81, de 4 de Setembro, e 1028/82, de 10 de Novembro, é alterado nas categorias mencionadas na mapa II anexo ao presente diploma.
+Secretaria de Estado do Tesouro.
+Assinada em 5 de Abril de 1983.
+O Secretário de Estado do Tesouro, Walter Waldemar Pego Marques.
+
+MAPA I
+Quadro de pessoal
+(ver documento original)
+
+MAPA II
+Alterações ao quadro geral de pessoal das tesourarias da Fazenda Pública
+(ver documento original)
