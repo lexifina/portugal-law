@@ -1,0 +1,903 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "275",
+    "id": "19640",
+    "titulo": "Reforça os direitos das crianças na adopção."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2003-06-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2585",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2003-06-04",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "19686",
+        "leg": "IX",
+        "nr": "295",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "702",
+            "obs": null,
+            "pag": [
+              "5390-5412"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-06-05",
+            "pubLeg": "IX",
+            "pubNr": "129",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5390?pgs=5390-5412&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "702",
+            "obs": null,
+            "pag": [
+              "5390-5412"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-06-05",
+            "pubLeg": "IX",
+            "pubNr": "129",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5390?pgs=5390-5412&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Sobre o Regime Jurídico de Adopção."
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "19634",
+        "leg": "IX",
+        "nr": "57",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "702",
+            "obs": null,
+            "pag": [
+              "5390-5412"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-06-05",
+            "pubLeg": "IX",
+            "pubNr": "129",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5390?pgs=5390-5412&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "702",
+            "obs": null,
+            "pag": [
+              "5390-5412"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-06-05",
+            "pubLeg": "IX",
+            "pubNr": "129",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5390?pgs=5390-5412&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Altera o Código Civil, a Lei de Protecção de Crianças e Jovens em perigo, o Decreto-Lei n.º 185/93, de 22 de Maio, e a organização tutelar de menores, revendo o regime jurídico da adopção."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-06-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Maria Celeste Cardona"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145649",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5390-5400"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-05",
+                "pubLeg": "IX",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5390?pgs=5390-5400&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Civil, a Lei de Protecção de Crianças e Jovens em perigo, o Decreto-Lei n.º 185/93, de 22 de Maio, e a organização tutelar de menores, revendo o regime jurídico da adopção; Reforça os direitos das crianças na adopção; Sobre o Regime Jurídico de Adopção.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1921",
+                "nome": "Isabel Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145650",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5398-5398"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-05",
+                "pubLeg": "IX",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5398?pgs=5398&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Civil, a Lei de Protecção de Crianças e Jovens em perigo, o Decreto-Lei n.º 185/93, de 22 de Maio, e a organização tutelar de menores, revendo o regime jurídico da adopção; Reforça os direitos das crianças na adopção; Sobre o Regime Jurídico de Adopção.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1983",
+                "nome": "Paula Carloto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145651",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5398-5399"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-05",
+                "pubLeg": "IX",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5398?pgs=5398-5399&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Civil, a Lei de Protecção de Crianças e Jovens em perigo, o Decreto-Lei n.º 185/93, de 22 de Maio, e a organização tutelar de menores, revendo o regime jurídico da adopção; Reforça os direitos das crianças na adopção; Sobre o Regime Jurídico de Adopção.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145652",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5399-5399"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-05",
+                "pubLeg": "IX",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5399?pgs=5399&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Civil, a Lei de Protecção de Crianças e Jovens em perigo, o Decreto-Lei n.º 185/93, de 22 de Maio, e a organização tutelar de menores, revendo o regime jurídico da adopção; Reforça os direitos das crianças na adopção; Sobre o Regime Jurídico de Adopção.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2034",
+                "nome": "Joana Amaral Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145653",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5400-5403"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-05",
+                "pubLeg": "IX",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5400?pgs=5400-5403&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Civil, a Lei de Protecção de Crianças e Jovens em perigo, o Decreto-Lei n.º 185/93, de 22 de Maio, e a organização tutelar de menores, revendo o regime jurídico da adopção; Reforça os direitos das crianças na adopção; Sobre o Regime Jurídico de Adopção.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1897",
+                "nome": "Teresa Morais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145654",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5402-5403"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-05",
+                "pubLeg": "IX",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5402?pgs=5402-5403&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Civil, a Lei de Protecção de Crianças e Jovens em perigo, o Decreto-Lei n.º 185/93, de 22 de Maio, e a organização tutelar de menores, revendo o regime jurídico da adopção; Reforça os direitos das crianças na adopção; Sobre o Regime Jurídico de Adopção.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1897",
+                "nome": "Teresa Morais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145655",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5403-5404"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-05",
+                "pubLeg": "IX",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5403?pgs=5403-5404&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Civil, a Lei de Protecção de Crianças e Jovens em perigo, o Decreto-Lei n.º 185/93, de 22 de Maio, e a organização tutelar de menores, revendo o regime jurídico da adopção; Reforça os direitos das crianças na adopção; Sobre o Regime Jurídico de Adopção.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1023",
+                "nome": "Maria do Rosário Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145656",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5404-5405"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-05",
+                "pubLeg": "IX",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5404?pgs=5404-5405&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Civil, a Lei de Protecção de Crianças e Jovens em perigo, o Decreto-Lei n.º 185/93, de 22 de Maio, e a organização tutelar de menores, revendo o regime jurídico da adopção; Reforça os direitos das crianças na adopção; Sobre o Regime Jurídico de Adopção.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "114",
+                "nome": "Maria Leonor Beleza"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145657",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5405-5407",
+                  "5411-5411"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-05",
+                "pubLeg": "IX",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5405?pgs=5405-5407,5411&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Civil, a Lei de Protecção de Crianças e Jovens em perigo, o Decreto-Lei n.º 185/93, de 22 de Maio, e a organização tutelar de menores, revendo o regime jurídico da adopção; Reforça os direitos das crianças na adopção; Sobre o Regime Jurídico de Adopção.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145658",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5407-5408"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-05",
+                "pubLeg": "IX",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5407?pgs=5407-5408&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Civil, a Lei de Protecção de Crianças e Jovens em perigo, o Decreto-Lei n.º 185/93, de 22 de Maio, e a organização tutelar de menores, revendo o regime jurídico da adopção; Reforça os direitos das crianças na adopção; Sobre o Regime Jurídico de Adopção.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145659",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5408-5409"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-05",
+                "pubLeg": "IX",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5408?pgs=5408-5409&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Civil, a Lei de Protecção de Crianças e Jovens em perigo, o Decreto-Lei n.º 185/93, de 22 de Maio, e a organização tutelar de menores, revendo o regime jurídico da adopção; Reforça os direitos das crianças na adopção; Sobre o Regime Jurídico de Adopção.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145660",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5409-5410"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-05",
+                "pubLeg": "IX",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5409?pgs=5409-5410&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Civil, a Lei de Protecção de Crianças e Jovens em perigo, o Decreto-Lei n.º 185/93, de 22 de Maio, e a organização tutelar de menores, revendo o regime jurídico da adopção; Reforça os direitos das crianças na adopção; Sobre o Regime Jurídico de Adopção.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1212",
+                "nome": "Ana Catarina Mendonça"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145661",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5410-5411"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-05",
+                "pubLeg": "IX",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5410?pgs=5410-5411&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Civil, a Lei de Protecção de Crianças e Jovens em perigo, o Decreto-Lei n.º 185/93, de 22 de Maio, e a organização tutelar de menores, revendo o regime jurídico da adopção; Reforça os direitos das crianças na adopção; Sobre o Regime Jurídico de Adopção.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1897",
+                "nome": "Teresa Morais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145662",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5411-5412"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-05",
+                "pubLeg": "IX",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5411?pgs=5411-5412&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Civil, a Lei de Protecção de Crianças e Jovens em perigo, o Decreto-Lei n.º 185/93, de 22 de Maio, e a organização tutelar de menores, revendo o regime jurídico da adopção; Reforça os direitos das crianças na adopção; Sobre o Regime Jurídico de Adopção.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2034",
+                "nome": "Joana Amaral Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145663",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5412-5412"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-05",
+                "pubLeg": "IX",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5412?pgs=5412&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código Civil, a Lei de Protecção de Crianças e Jovens em perigo, o Decreto-Lei n.º 185/93, de 22 de Maio, e a organização tutelar de menores, revendo o regime jurídico da adopção; Reforça os direitos das crianças na adopção; Sobre o Regime Jurídico de Adopção.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "156742",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "277661",
+        "obs": null,
+        "pag": [
+          "5396-5412"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-06-05",
+        "pubLeg": "IX",
+        "pubNr": "129",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/129/2003-06-05/5396?pgs=5396-5412&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
