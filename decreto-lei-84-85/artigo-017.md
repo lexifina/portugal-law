@@ -1,11 +1,11 @@
 # Artigo 17.º
 
-1 - O montante correspondente à percentagem referida na alínea b) do n.º 2 do artigo 16.º será distribuído em partes iguais pelos Ministros do Trabalho e Segurança Social e da Saúde para financiar projectos de instituições de solidariedade social que exerçam acções no domínio da prevenção e reabilitação de deficientes.
+1 - Os montantes correspondentes às percentagens referidas na alínea c) do n.º 3 e na alínea b) do n.º 4 do artigo 16.º serão distribuídos em 40% e 60%, respectivamente, pelos Ministérios do Trabalho e Segurança Social e da Saúde.
 
-2 - Os montantes correspondentes às percentagens referidas nas alíneas h) e i) do n.º 2 do artigo anterior serão repartidos em partes iguais pelos clubes de cada uma das mencionadas divisões.
+2 - Os montantes atribuídos ao Instituto de Gestão Financeira da Segurança Social, correspondentes às percentagens constantes da alínea d) do n.º 3 e da alínea d) do n.º 4 do artigo 16.º, destinam-se à cobertura parcial de despesas efectuadas pelas instituições de segurança social no domínio da acção social.
 
-3 - Esses montantes e o referido na alínea j) serão entregues à Secretaria de Estado dos Desportos, que procederá à sua repartição e gestão, com rigorosa afectação aos mencionados fins.
+3 - Os montantes correspondentes às percentagens constantes da alínea g) do n.º 3 e da alínea i) do n.º 4 do artigo 16.º serão distribuídos ao Ministério da Administração Interna, que procederá à sua repartição pelas associações de bombeiros voluntários segundo critérios objectivos, a fixar por portaria, ouvidos os representantes das associações interessadas, sem prejuízo da sua fixação por lei.
 
-4 - O montante correspondente à alínea m) será entregue à Direcção-Geral da Comunicação Social, que procederá à sua repartição pelas empresas jornalísticas segundo critérios objectivos a fixar por portaria do membro do Governo com tutela sobre a comunicação social, ouvidas as respectivas associações representativas, sem prejuízo da sua fixação por lei.
+4 - Os montantes correspondentes às percentagens constantes da alínea e) do n.º 3 e da alínea c) do n.º 4 do artigo 16.º serão atribuídos ao Ministério do Trabalho e Segurança Social e destinam-se a apoiar as misericórdias e outras instituições particulares de solidariedade social que prossigam modalidades de acção social, em termos a regulamentar.
 
-5 - O montante correspondente à alínea n) será entregue ao Ministro da Administração Interna, que procederá à sua repartição pelas associações de bombeiros voluntários segundo critérios objectivos a fixar por portaria, ouvidos os representantes das associações interessadas, sem prejuízo da sua fixação por lei.
+5 - Os montantes correspondentes às percentagens constantes da alínea f) do n.º 3 e da alínea h) do n.º 4 do artigo 16.º serão transferidos para o Serviço Nacional de Protecção Civil.

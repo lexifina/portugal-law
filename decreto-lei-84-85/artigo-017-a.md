@@ -1,23 +1,15 @@
 # Artigo 17.º-A
 
-1 - O montante previsto na alínea a) do n.º 3 do artigo 16.º será entregue ao Fundo de Fomento do Desporto, que o transferirá para a federação desportiva de futebol que for titular do estatuto de utilidade pública desportiva ou, enquanto este não estiver regulamentado, do estatuto de mera utilidade pública.
+1 - O montante previsto na alínea a) de n.º 3 do artigo 16.º será entregue à Federação Portuguesa de Futebol, a quem compete efectuar a sua ulterior repartição pelos clubes, de acordo com as regras constantes dos números seguintes.
 
-2 - As verbas referidas no número anterior serão repartidas da seguinte forma:
+2 - Da verba referida no número anterior 25% constituem receita própria da Federação Portuguesa de Futebol, 25% são afectos aos clubes de futebol da 1.ª Divisão, 25% são afectos aos clubes de futebol da 2.ª Divisão e os restantes 25% são afectos aos clubes de futebol da 3.ª Divisão.
 
-a) 20% para os clubes de futebol da I Divisão;
+3 - Da verba que compete aos clubes de futebol da 1.ª Divisão 70% destinar-se-ão, em partes iguais, aos clubes dessa divisão que não sejam concessionários do bingo; os restantes 30% destinar-se-ão aos clubes dessa divisão que sejam concessionários do bingo.
 
-b) 20% para os clubes de futebol da II Divisão de Honra;
+4 - Da verba prevista no número anterior para os clubes de futebol concessionários do bingo 70% destinar-se-ão, em partes iguais, aos clubes concessionários que, no exercício terminado em 31 de Dezembro do ano imediatamente anterior, tiverem tido receitas líquidas da exploração do jogo do bingo inferiores a 9% da receita global referida na alínea a) do n.º 3 do artigo 16.º deste diploma; os restantes 30% destinar-se-ão, em partes iguais, aos clubes concessionários que tiverem tido receitas líquidas no jogo do bingo superiores a esse montante.
 
-c) 20% para os clubes de futebol da II Divisão B;
+5 - Da verba prevista no n.º 2 para os clubes de futebol da 2.ª Divisão será atribuído a cada clube dessa divisão concessionário do bingo um montante igual a um terço do que lhe competiria se lhe fossem aplicadas as regras dos n.os 3 e 4; o remanescente será repartido, em partes iguais, pelos clubes dessa divisão que não sejam concessionários do bingo.
 
-d) 20% para os clubes de futebol da III Divisão;
+6 - A verba prevista no n.º 2 para os clubes de futebol da 3.ª Divisão suportará os encargos adicionais inerentes à deslocação, nas regiões autónomas ou no continente, das equipas abrangidas pela série que compreende as equipas das regiões autónomas (actual série E), nos termos que forem regulamentados pela Federação Portuguesa de Futebol; o remanescente será repartido, em partes iguais, por todos os clubes de futebol da 3.ª Divisão.
 
-e) 20% para a federação de futebol referida no número anterior.
-
-3 - A verba afecta a cada divisão nacional será repartida equitativamente entre os clubes que dela façam parte, salvaguardando-se que cada clube concessionário do bingo receba um terço do que caiba a cada clube não concessionário, respeitando-se ainda os factores de correcção referidos nos números seguintes.
-
-4 - Cada clube de futebol concessionário do bingo que no exercício terminado em 31 de Dezembro do ano imediatamente anterior tiver tido receitas líquidas de exploração do jogo do bingo superiores a 100000 contos receberá metade do que couber a cada clube concessionário, nos termos do disposto no número anterior; aqueles clubes concessionários que tiverem tido, em termos e de fonte equivalente, receitas líquidas inferiores a 5000 contos serão, por seu turno, havidos como clubes não concessionários para os efeitos do número anterior.
-
-5 - A verba afecta aos clubes de futebol da III Divisão suportará os encargos adicionais inerentes à deslocação, nas regiões autónomas ou no continente, das equipas abrangidas pela série que compreende as equipas das regiões autónomas (actual série E), nos termos que forem regulamentados pela Federação Portuguesa de Futebol, sendo o remanescente repartido pelos clubes de futebol da III Divisão com observância do disposto nos números anteriores.
-
-6 - Para os efeitos do disposto neste artigo, a Inspecção-Geral de Jogos fornecerá à Federação Portuguesa de Futebol informação anual sobre os montantes de receitas líquidas apuradas por cada clube de futebol concessionário do bingo.
+7 - Para os efeitos do disposto neste artigo, a Inspecção-Geral de Jogos fornecerá à Federação Portuguesa de Futebol informação anual sobre os montantes de receita líquida apurados por cada clube de futebol concessionário do bingo.

@@ -1,8 +1,8 @@
 # Artigo 7.º
 
-1 - A superintendência e a fiscalização das operações de microfilmagem, e escrutínio das matrizes das apostas, bem como a deliberação sobre a atribuição de prémios, competem a um júri, designado «júri dos concursos», constituído pelo director do Departamento de Apostas Mútuas, da Santa Casa da Misericórdia de Lisboa, que presidirá, por um representante do governador civil de Lisboa e por um representante da Inspecção-Geral de Finanças.
+1 - A superintendência e a fiscalização das operações de microfilmagem das matrizes das apostas, bem como a deliberação sobre a atribuição de prémios, competem a um júri, designado «júri dos concursos», constituído por um representante da mesa da Santa Casa da Misericórdia de Lisboa, que presidirá, por um representante do Governo Civil de Lisboa e por um representante da Inspecção-Geral de Finanças.
 
-2 - Por cada membro do júri haverá um suplente, sendo o do director do Departamento de Apostas Mútuas o substituto do presidente.
+2 - Por cada membro do júri haverá um suplente, sendo o do representante da mesa da Santa Casa da Misericórdia de Lisboa o substituto do presidente.
 
 3 - O júri poderá actuar na mesma semana, com recurso aos membros efectivos e suplentes, sempre em operações diversas.
 
