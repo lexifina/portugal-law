@@ -1,0 +1,20 @@
+Portaria n.º 339/76
+de 5 de Junho
+A redacção dada à alínea d) do n.º 1 do artigo 47.º do Código da Estrada pelo Decreto-Lei n.º 266/76, de 10 de Abril, prevê que possam ser passadas cartas de condução para tractores agrícolas a indivíduos analfabetos.
+Entendeu-se, assim, que a falta de conhecimento de leitura e escrita por parte dos tractoristas não faz perigar, por si só, a segurança do trânsito na estrada, uma vez que a condução de tractores agrícolas nas vias públicas está suficientemente condicionada.
+Verificando-se, no entanto, a necessidade da formação de indivíduos aptos para a condução especializada de máquinas agrícolas, torna-se indispensável que essa formação seja ministrada através dos centros de instrução, na alçada do Ministério da Agricultura e Pescas, sem cuja frequência e aproveitamento não poderá ser passada a carta de condução aos tractoristas.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros da Agricultura e Pescas e dos Transportes e Comunicações, ao abrigo do artigo 2.º do Decreto-Lei n.º 39987, de 22 de Dezembro de 1954, o seguinte:
+1. A carta de condução de tractor agrícola, tendo em consideração o que dispõe o corpo do n.º 1 e sua alínea d) do artigo 47.º do Código da Estrada, com a nova redacção dada pelo Decreto-Lei n.º 266/76, de 10 de Abril, e o n.º 3 do artigo 49.º do referido Código, poderá ser passada pelas direcções de viação mediante certificado ou diploma de habilitação obtido, a final, nos cursos de operadores de máquinas agrícolas, que para o efeito serão ministrados pelos centros de instrução fixos ou móveis, na alçada do Ministério da Agricultura e Pescas.
+2. No título de habilitação referido no número anterior é indispensável a menção de comprovada idoneidade no exercício da condução na estrada, com perfeito conhecimento do tractorista das regras e sinais de trânsito, como resultante do ensino ministrado e das provas de exame prestadas.
+3. A Direcção-Geral de Viação mantém a competência para a inspecção do ensino de condução automóvel no âmbito de competência atribuída nos termos do n.º 6 do artigo 51.º do Código da Estrada.
+Ministérios da Agricultura e Pescas e dos Transportes e Comunicações, 20 de Maio de 1976. - O Ministro da Agricultura e Pescas, António Poppe Lopes Cardoso. - O Ministro dos Transportes e Comunicações, José Augusto Fernandes.
+
+Certificado a que se refere o n.º 1 da Portaria n.º 339/76
+Ministério da Agricultura e Pescas
+Certificado do habilitação de tractorista agrícola
+Certifica-se, com base na portaria conjunta dos Ministérios da Agricultura e Pescas e dos Transportes e Comunicações, inserta no Diário da República, n.º ..., ...ª série, de .../.../..., que: ..., natural de ..., filho de ..., residente em ..., portador do bilhete de identidade n.º ..., do Arquivo de Identificação de ..., de .../.../..., tendo frequentado o curso de operadores de máquinas agrícolas, realizado por este Ministério em ..., prestou provas de exame em que, além de habilitado na parte especificamente agrícola, mostrou comprovada idoneidade no exercício da condução na estrada, com perfeito conhecimento das regras e sinais de trânsito (Código da Estrada), pelo que ficou aprovado.
+..., ... de ... de ...
+O Responsável pelo Serviço de Formação Profissional Agrária,
+...
+O Ministro da Agricultura e Pescas, António Poppe Lopes Cardoso. - O Ministro dos Transportes e Comunicações, José Augusto Fernandes.
