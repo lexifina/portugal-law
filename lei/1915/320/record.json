@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1915/06/11400/05470548.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1915-06-16",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "358ff1546df72ebdb817974680221392051a6f132341190f62cf6d49c7bec827",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.2,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "e6861df79b55a4a2b5db6727b76630b6d3320de18e3b1d82c71f50a335fa7918",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 375
 }
