@@ -1,0 +1,5 @@
+Aviso n.º 94/2004
+Por ordem superior se torna público que, em 22 de Março de 2004, a República das Maurícias depositou o seu instrumento de adesão à Convenção sobre a Conservação das Espécies Migradoras Pertencentes à Fauna Selvagem, de 23 de Junho de 1979.
+Portugal é Parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 103/80, publicado no Diário da República, 1.ª série, n.º 236, de 11 de Outubro de 1980, tendo depositado o instrumento de ratificação em 21 de Janeiro de 1981 (Diário da República, 1.ª série-A, n.º 162, de 16 de Julho de 1998) e tendo a Convenção entrado em vigor em 1 de Novembro de 1983 (Diário da República, 1.ª série-A, n.º 162, de 16 de Julho de 1998).
+A Convenção sobre a Conservação das Espécies Migradoras Pertencentes à Fauna Selvagem entrará em vigor para a República das Maurícias em 1 de Junho de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 22 de Abril de 2004. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
