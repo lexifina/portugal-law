@@ -17,9 +17,24 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1920/05/09600/06570660.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1920-05-10",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "5a391c04ad6bd30efd548e78b079738ca786fcc235cbbe8f4995b09a3486e5bc",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 97.9,
+    "pages": 4,
+    "columns": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "c053d52e2fa88e186418b235547ef266ed3e81b8ecc93b7e404f44228ad3f221",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 3436
 }
