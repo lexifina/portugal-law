@@ -1,0 +1,8 @@
+Resolução n.º 161/79
+Ao abrigo do disposto na alínea c) do artigo 146.º e no n.º 1 do artigo 281.º da Constituição, o Conselho da Revolução, a solicitação do Presidente da Assembleia da República e do Provedor de Justiça e precedendo parecer da Comissão Constitucional, resolveu:
+1.º Declarar, com força obrigatória geral, a inconstitucionalidade, por violação da alínea m) do artigo 167.º da Constituição, do n.º 1 do Despacho Normativo n.º 135-A/77, dos Secretários de Estado da Administração Pública e da Administração Regional e Local, publicado no Diário da República, 1.ª série, n.º 125, de 30 de Maio de 1977, na medida em que exclui da integração nos novos quadros de pessoal os trabalhadores admitidos após 24 de Novembro de 1973, que, em 2 de Março de 1977, se achavam regularmente contratados além do quadro, desempenhando, há mais de um ano de serviço continuado e a tempo completo funções que correspondiam, de modo efectivo, a necessidades permanentes dos serviços.
+2.º Declarar, com força obrigatória geral, a inconstitucionalidade, por violação também da alínea m) do artigo 167.º da Constituição, do n.º 2 do referido despacho, na parte em que exclui da integração nos quadros os rurais cujas funções correspondam a uma das categorias constantes do anexo I do Decreto-Lei n.º 76/77, de 1 de Março.
+3.º Declarar, com força obrigatória geral, a inconstitucionalidade, ainda por violação da alínea m) do artigo 167.º da Constituição, da primeira parte do n.º 8 do referido despacho.
+4.º Não se pronunciar pela inconstitucionalidade do disposto nos n.os 6 e 7 do mesmo despacho.
+Aprovada em Conselho da Revolução em 4 de Maio de 1979.
+O Presidente do Conselho da Revolução, António Ramalho Eanes.
