@@ -1,0 +1,12 @@
+Portaria n.º 989-C/93
+de 7 de Outubro
+Pela Portaria n.º 722-E5/92, de 15 de Julho, foi concessionada, pelo período de 10 anos, ao Clube de Caça e Pesca de Monchique uma zona de caça associativa a abranger vários prédios rústicos, que totalizavam a área de 1684,1760 ha, sitos na freguesia de Monchique, concelho de Monchique.
+Posteriormente à publicação daquele diploma, verificou-se não terem sido obtidos todos os acordos prévios com os proprietários e gestores dos prédios rústicos integrados na zona de caça mencionada, enfermando o processo de concessão de vício de forma, pelo que foi publicada a Portaria n.º 725-H/93, de 10 de Agosto, revogando a portaria acima mencionada.
+Verifica-se agora que as irregularidades que fundamentaram a portaria revogatória afectam parcialmente o processo inicial de concessão, pelo que, e por não se verificarem as causas de exclusão da reforma daquele acto administrativo, se procede agora ao aproveitamento da Portaria n.º 722-E5/92, de 15 de Julho, na parte não afectada pelo vício que fundamentou a sua revogação e para a qual foram, em conformidade com o artigo 21.º da Lei n.º 30/86, de 27 de Agosto, obtidos os acordos prévios com os proprietários e gestores dos prédios rústicos integrados na zona de caça.
+Neste termos, em obediência ao princípio geral da legalidade:
+Manda o Governo, pelo Ministro da Agricultura, que pelo presente diploma seja revogada a Portaria n.º 725-H/93, de 10 de Agosto, e repristinada parcialmente a Portaria n.º 722-E5/92, de 15 de Julho, sendo concessionada, pelo período de 10 anos, ao Clube de Caça e Pesca de Monchique a zona de caça associativa de Esgravatadouro, Montes Velhos e outras (processo n.º 1081 da Direcção-Geral das Florestas), com a área de 762,3460 ha, sita na freguesia e concelho de Monchique, conforme planta em anexo ao presente diploma e que dele faz parte integrante.
+Ministério da Agricultura.
+Assinada em 1 de Outubro de 1993.
+Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
+
+(ver documento original)
