@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério da Administração Interna, o Decreto-Lei n.º 582/76, publicado no Diário da República, 1.ª série, n.º 170, de 22 de Julho, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 8.º, alínea b), onde se lê: «O prazo para a execução, que não poderá ser inferior a trinta dias para os estrangeiros que residam habitualmente em território nacional e a dois dias para os restantes», deve ler-se: «O prazo para a execução, que não poderá ser inferior a trinta dias para os estrangeiros que residam habitualmente em território nacional e a dois dias úteis para os restantes».
+Secretaria-Geral da Presidência do Conselho de Ministros, 27 de Julho de 1976. - O Secretário-Geral, Manuel Roque.
