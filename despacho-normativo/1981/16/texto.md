@@ -1,0 +1,7 @@
+Despacho Normativo n.º 16/81
+O artigo 43.º do Decreto Regulamentar n.º 68/80, de 9 de Novembro, permite a admissão a concursos de provimento para lugares do quadro geral administrativo de funcionários já habilitados com o correspondente concurso de habilitação [alínea a)] ou sem concurso de habilitação desde que pertencentes à categoria do lugar a prover [alínea b)].
+O Decreto-Lei n.º 466/79, de 7 de Dezembro, alterou profundamente a estrutura do quadro geral administrativo, que estava dividido não só em categorias mas também em classes, podendo os funcionários pertencentes a cada classe ser providos indistintamente em qualquer dos lugares que nela eram contidos, independentemente do concurso de habilitação que possuíssem.
+O artigo 61.º, n.º 1, permite que os funcionários possam ser admitidos, nos termos da alínea a) do artigo 43.º, aos concursos para provimento de lugares para os quais possuam a correspondente habilitação.
+Dadas as dúvidas levantadas quanto ao alcance da alínea b) do artigo 43.º acima referidas, determino, ao abrigo do disposto no artigo 65.º do Decreto Regulamentar n.º 68/80, o seguinte:
+Podem ser admitidos aos primeiros concursos de provimento, ao abrigo da alínea b) do artigo 43.º do Decreto Regulamentar n.º 68/80, os funcionários já pertencentes à classe em que o lugar a concurso estava integrado em 7 de Dezembro de 1979, de acordo com a divisão em classes e categorias então em vigor.
+Ministério da Administração Interna, 17 de Dezembro de 1980. - O Ministro da Administração Interna, Eurico de Melo.
