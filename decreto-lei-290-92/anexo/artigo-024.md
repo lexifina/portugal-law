@@ -1,7 +1,11 @@
 # Artigo 24.º
 
-1 - Relativamente às aquisições intracomunitárias de bens efectuadas por sujeitos passivos não residentes, sem estabelecimento estável em Portugal, as obrigações derivadas da aplicação do presente diploma deverão ser cumpridas por um representante, sujeito passivo do imposto sobre o valor acrescentado no território nacional, munido de poderes bastantes, que responderá solidariamente com o representado pelo cumprimento de tais obrigações.
+1 - Relativamente às aquisições intracomunitárias de bens e às transmissões referidas no artigo 11.º, efectuadas por sujeitos passivos não residentes, sem estabelecimento estável em Portugal, e que disponham de sede, estabelecimento estável ou domicílio noutro Estado-Membro, as obrigações derivadas da aplicação do presente diploma poderão ser cumpridas por um representante, sujeito passivo do imposto sobre o valor acrescentado no território nacional, munido de procuração com poderes bastantes.
 
-2 - As obrigações decorrentes da sujeição a imposto das transmissões de bens subsequentes à aquisição intracomunitária isenta nas condições previstas no n.º 2 do artigo 15.º deverão ser cumpridas pelo adquirente dos bens, sujeito passivo registado no território nacional para efeitos de imposto sobre o valor acrescentado.
+2 - Os sujeitos passivos não residentes, sem estabelecimento estável em território nacional, e que não disponham de sede, estabelecimento estável ou domicílio noutro Estado-Membro, estão obrigados à nomeação de representante, sujeito passivo do imposto sobre o valor acrescentado no território nacional, munido de procuração com poderes bastantes.
 
-3 - Relativamente às transmissões referidas no artigo 11.º, efectuadas por sujeitos passivos não residentes, sem estabelecimento estável em Portugal, as obrigações derivadas da aplicação do presente diploma poderão ser cumpridas por um representante, sujeito passivo do imposto sobre o valor acrescentado no território nacional, munido de poderes bastantes, que responderá solidariamente com o representado pelo cumprimento de tais obrigações.
+3 - O representante a que se referem os números anteriores deverá cumprir todas as obrigações decorrentes da aplicação do presente diploma, incluindo a do registo, e será devedor do imposto que se mostre devido pelas operações realizadas pelo representado.
+
+4 - O sujeito passivo não estabelecido em território nacional é solidariamente responsável com o representante pelo pagamento do imposto.
+
+5 - As obrigações decorrentes da sujeição a imposto das transmissões de bens subsequentes à aquisição intracomunitária isenta nas condições previstas no n.º 2 do artigo 15.º deverão ser cumpridas pelo adquirente dos bens, sujeito passivo registado no território nacional para efeitos de imposto sobre o valor acrescentado.

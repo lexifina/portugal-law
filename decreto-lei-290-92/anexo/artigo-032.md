@@ -24,4 +24,4 @@ c) O valor das transmissões de bens efectuadas no território nacional nos term
 
 4 - Para efeitos do disposto no artigo 48.º do Código do IVA, o registo das operações a que se refere o número anterior deverá ser efectuado após a recepção das correspondentes facturas ou a emissão do documento interno a que se refere o n.º 1 do artigo 28.º
 
-5 - Para cumprimento das obrigações a que se refere o n.º 2 do artigo 24.º, o sujeito passivo adquirente dos bens deverá proceder ao registo da operação como se se tratasse de uma aquisição intracomunitária de bens.
+5 - Para cumprimento das obrigações a que se refere o n.º 5 do artigo 24.º, o sujeito passivo adquirente dos bens deverá proceder ao registo da operação como se se tratasse de uma aquisição intracomunitária de bens.
