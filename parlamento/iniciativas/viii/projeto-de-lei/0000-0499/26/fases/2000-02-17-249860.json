@@ -1,0 +1,755 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "26",
+    "id": "6330",
+    "titulo": "Alteração do decreto n° 15355"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2000-02-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5909",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2000-02-17",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6369",
+        "leg": "VIII",
+        "nr": "8",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "413",
+            "obs": null,
+            "pag": [
+              "1437-1438"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-02-18",
+            "pubLeg": "VIII",
+            "pubNr": "37",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "413",
+            "obs": null,
+            "pag": [
+              "1437-1438"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-02-18",
+            "pubLeg": "VIII",
+            "pubNr": "37",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "413",
+            "obs": null,
+            "pag": [
+              "1437-1438"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-02-18",
+            "pubLeg": "VIII",
+            "pubNr": "37",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera a Lei n° 92/95, de 12 de Setembro (lei da protecção dos animais) e revoga o decreto n°15.355 de 11 de Abril de 1928"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6327",
+        "leg": "VIII",
+        "nr": "29",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "413",
+            "obs": null,
+            "pag": [
+              "1437-1438"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-02-18",
+            "pubLeg": "VIII",
+            "pubNr": "37",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "413",
+            "obs": null,
+            "pag": [
+              "1437-1438"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-02-18",
+            "pubLeg": "VIII",
+            "pubNr": "37",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "413",
+            "obs": null,
+            "pag": [
+              "1437-1438"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-02-18",
+            "pubLeg": "VIII",
+            "pubNr": "37",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Aprova o novo regime sancionatório das touradas com touros de morte (revoga o decreto n°15.355, de 14 de Abril de 1928)"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6312",
+        "leg": "VIII",
+        "nr": "41",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "413",
+            "obs": null,
+            "pag": [
+              "1437-1438"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-02-18",
+            "pubLeg": "VIII",
+            "pubNr": "37",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "413",
+            "obs": null,
+            "pag": [
+              "1437-1438"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-02-18",
+            "pubLeg": "VIII",
+            "pubNr": "37",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "413",
+            "obs": null,
+            "pag": [
+              "1437-1438"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-02-18",
+            "pubLeg": "VIII",
+            "pubNr": "37",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o decreto n°15355 (proibição de touros de morte em Portugal"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-02-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1436",
+                "nome": "Joaquim Sarmento"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28904",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1437-1438"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI 92/95, DE 12 SETEMBRO (LEI DE PROTECCAO DOS ANIMAIS), REVOGA O DEC LEI 15355, DE 11 DE ABRIL DE 1928, APROVA O NOVO REGIME SANCIONATORIO DAS TOURADAS COM TOUROS DE MORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "411",
+                "nome": "Francisco Valente"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28905",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1437-1438"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI 92/95, DE 12 SETEMBRO (LEI DE PROTECCAO DOS ANIMAIS), REVOGA O DEC LEI 15355, DE 11 DE ABRIL DE 1928, APROVA O NOVO REGIME SANCIONATORIO DAS TOURADAS COM TOUROS DE MORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1547",
+                "nome": "Mafalda Troncho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28906",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1437-1438"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI 92/95, DE 12 SETEMBRO (LEI DE PROTECCAO DOS ANIMAIS), REVOGA O DEC LEI 15355, DE 11 DE ABRIL DE 1928, APROVA O NOVO REGIME SANCIONATORIO DAS TOURADAS COM TOUROS DE MORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "614",
+                "nome": "Celeste Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28907",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1437-1438"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI 92/95, DE 12 SETEMBRO (LEI DE PROTECCAO DOS ANIMAIS), REVOGA O DEC LEI 15355, DE 11 DE ABRIL DE 1928, APROVA O NOVO REGIME SANCIONATORIO DAS TOURADAS COM TOUROS DE MORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "192",
+                "nome": "José Penedos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28908",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1437-1438"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI 92/95, DE 12 SETEMBRO (LEI DE PROTECCAO DOS ANIMAIS), REVOGA O DEC LEI 15355, DE 11 DE ABRIL DE 1928, APROVA O NOVO REGIME SANCIONATORIO DAS TOURADAS COM TOUROS DE MORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1407",
+                "nome": "Nelson Baltazar"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28909",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1437-1438"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI 92/95, DE 12 SETEMBRO (LEI DE PROTECCAO DOS ANIMAIS), REVOGA O DEC LEI 15355, DE 11 DE ABRIL DE 1928, APROVA O NOVO REGIME SANCIONATORIO DAS TOURADAS COM TOUROS DE MORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1701",
+                "nome": "Luísa Portugal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28910",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1437-1438"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI 92/95, DE 12 SETEMBRO (LEI DE PROTECCAO DOS ANIMAIS), REVOGA O DEC LEI 15355, DE 11 DE ABRIL DE 1928, APROVA O NOVO REGIME SANCIONATORIO DAS TOURADAS COM TOUROS DE MORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "143",
+                "nome": "Alberto Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28911",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1437-1438"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI 92/95, DE 12 SETEMBRO (LEI DE PROTECCAO DOS ANIMAIS), REVOGA O DEC LEI 15355, DE 11 DE ABRIL DE 1928, APROVA O NOVO REGIME SANCIONATORIO DAS TOURADAS COM TOUROS DE MORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1467",
+                "nome": "Medeiros Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28912",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1437-1438"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI 92/95, DE 12 SETEMBRO (LEI DE PROTECCAO DOS ANIMAIS), REVOGA O DEC LEI 15355, DE 11 DE ABRIL DE 1928, APROVA O NOVO REGIME SANCIONATORIO DAS TOURADAS COM TOUROS DE MORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28913",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1437-1438"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-02-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/037/2000-02-18/1437?pgs=1437-1438&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI 92/95, DE 12 SETEMBRO (LEI DE PROTECCAO DOS ANIMAIS), REVOGA O DEC LEI 15355, DE 11 DE ABRIL DE 1928, APROVA O NOVO REGIME SANCIONATORIO DAS TOURADAS COM TOUROS DE MORTE",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "249860",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
