@@ -1,0 +1,3 @@
+Despacho Normativo n.º 117/81
+Nos termos do n.º 1 do artigo 24.º do Decreto-Lei n.º 28/81, de 12 de Fevereiro, delego no Ministro da Habitação e Obras Públicas, Dr. Luís Eduardo da Silva Barbosa, a competência para autorizar a realização de despesas respeitantes aos empreendimentos, revisões de preços e trabalhos complementares do programa da Comissão para o Alojamento de Retornados (CAR), inserido na esfera de actividade do Fundo de Fomento da Habitação pela Resolução n.º 99/78, de 31 de Maio, do Conselho de Ministros, publicada no Diário da República, n.º 137, de 17 de Junho de 1978, no sentido da conclusão daquele programa no mais breve prazo.
+Presidência do Conselho de Ministros, 3 de Abril de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
