@@ -1,0 +1,3 @@
+Resolução n.º 8/82
+O Conselho de Ministros, reunido em 23 de Dezembro de 1981, resolveu, nos termos dos artigos 1.º e 3.º, n.º 7, da Convenção Luso-Espanhola de Extradição, de 25 de Junho de 1867, autorizar o prosseguimento do processo de extradição relativo ao cidadão espanhol José Luis Gutierrez Cangas, arguido da prática de um crime de burla punível com pena de prisão superior a 6 anos e que se encontra detido à ordem do Tribunal de Leiria por crimes cometidos em Portugal.
+Presidência do Conselho de Ministros, 23 de Dezembro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
