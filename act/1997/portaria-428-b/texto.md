@@ -1,0 +1,10 @@
+Portaria n.º 428-B/97
+de 30 de Junho
+Pela Portaria n.º 328/90, de 30 de Abril, foi concessionada ao Clube de Caça Valedamulense uma zona de caça associativa situada na freguesia de Vale da Mula, município de Almeida.
+Entretanto, a entidade concessionária veio requerer atempadamente a sua renovação, com fundamento no disposto no artigo 83.º do Decreto-Lei n.º 136/96, de 14 de Agosto.
+Contudo, o processo não pôde ficar concluído até ao termo da concessão.
+Nestes termos, em obediência ao princípio geral da legalidade e com fundamento no disposto no artigo 141.º do citado decreto-lei:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que, pela presente portaria, seja suspensa a exploração cinegética da zona de caça associativa (processo n.º 240-DGF) pelo prazo máximo de 180 dias.
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
+Assinada em 20 de Junho de 1997.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
